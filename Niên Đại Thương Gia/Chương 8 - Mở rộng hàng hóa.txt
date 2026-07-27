@@ -30,7 +30,7 @@ Hùng quyết định: hôm nay bán thêm thuốc men và đồ dùng sinh ho�
 
 Hùng sững sờ — hệ thống đã bổ sung hàng hóa mới khi ông nâng cấp thương mại lv2. Hoặc có thể hàng đã có từ đầu nhưng ông không để ý, vì trước đó ông chỉ tập trung vào quần áo và thực phẩm.
 
-「Hệ thống bổ sung: Khi kỹ năng thương mại đạt cấp 2, kho hàng tự động bổ sung hàng hóa mới phù hợp với nhu cầu thị trường.」
+Theo quy luật Hùng đã nhận ra từ lúc kỹ năng thương mại lên cấp 2, kho tự bổ sung một số hàng mới phù hợp với nhu cầu thị trường.
 
 Tuyệt vời. Hùng mỉm cười. Hệ thống không chỉ cho không gian và EXP — nó còn cung cấp hàng hóa phù hợp. Thuốc men và đồ dùng sinh hoạt chính là thứ mà thị trường thời bao cấp cần, mà không ai cung cấp đầy đủ.
 
@@ -60,7 +60,7 @@ Bà cụ mua hai bánh — 6 đồng. Rồi bà thấy kem đánh răng. "Kem đ
 
 Bà cụ mua một tuýp, một bàn chải (2 đồng). Tổng: 13 đồng.
 
-「Giao dịch thành công! +10 EXP. Số dư EXP lúc giao dịch:  165」
+Giao dịch hoàn tất, Hùng nhận thêm 10 EXP; số dư lúc ấy là 165.
 
 Tin đồn lan nhanh. Trong thời bao cấp, hàng xịn xuất hiện ở chợ là tin tức lớn — người dân truyền miệng: "Có thanh niên bán xà phòng xịn, kem đánh răng, dầu gội ở hẻm cạnh chợ." Buổi sáng, Hùng bán hết 10 bánh xà phòng (30 đồng), 5 tuýp kem đánh răng (25 đồng), 5 bàn chải (10 đồng), 5 chai dầu gội (8 đồng/chiếc = 40 đồng). Tổng đồ dùng: 105 đồng.
 
@@ -68,7 +68,7 @@ Thuốc: 10 hộp vitamin B, giá 5 đồng/hộp = 50 đồng. Mua chủ yếu 
 
 Tổng thu nhập buổi sáng: 200 (quần áo) + 15 (trứng) + 5 (mì) + 105 (đồ dùng) + 50 (thuốc) = 375 đồng.
 
-「EXP nhận trong giao dịch này: +40. Tổng EXP: 195」
+Đợt bán hàng đem lại thêm 40 EXP, nâng tổng số lên 195.
 
 375 đồng trong một buổi sáng — gấp đôi ngày thường. Đa dạng hóa hàng hóa hiệu quả rõ rệt. Hùng hài lòng — nhưng ông biết rằng không thể mỗi ngày bán 375 đồng, vì hàng trong kho có hạn. Ông cần bắt đầu tìm nguồn hàng bên ngoài — mua sỉ ở Hà Nội, bán lẻ ở huyện. Kho không gian là dự phòng, không phải nguồn chính.
 
@@ -143,80 +143,31 @@ Mỗi bước một chân. Không vội, không chậm. Đều đặn, chắc ch
 
 Hành trình tiếp tục.
 
-### Nhịp “Mở rộng hàng hóa”
+---
 
-Năm 1983 tại Làng Thanh Xuân, Quốc Oai, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
+Sáng ở hẻm chợ, Hùng không bày tất cả hàng mới cùng lúc. Ông chia bàn thành ba phần, dùng giấy nâu viết giá rõ ràng. Lan giữ một quyển sổ riêng: giờ bán, món bán, người hỏi mà chưa mua. Cứ năm khách, cô lại đặt một dấu gạch. Đến giữa buổi, xà phòng có mười bảy lượt hỏi; dầu gội chỉ bốn. Con số buộc họ bỏ phỏng đoán.
 
-### Thử nhỏ
+Một người bán tạp hóa tên bà Phượng ghé qua, mua thử ba bánh xà phòng rồi đề nghị lấy cả hai mươi bánh nếu Hùng hạ còn hai đồng. Hùng tính ngay: giá vốn một đồng rưỡi, chở về thêm hao hụt; hai đồng vẫn lời nhưng khóa hết hàng vào một khách. Ông chỉ bán mười bánh giá hai đồng rưỡi, yêu cầu trả tiền ngay, không cho nợ chuyến đầu.
 
-Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh hoạt sai chỗ là lỗ uy tín.
+Bà Phượng chê ông non tay, quay đi. Nửa giờ sau bà trở lại vì hai khách đã đứng chờ ngoài sạp. Hai bên đếm đủ mười bánh, Lan gói thành hai lớp giấy, ghi tên người nhận. Đây là mối bán lại đầu tiên ngoài khách lẻ. Hùng không gọi bà là đại lý; một giao dịch đúng chưa đủ thành mạng lưới.
 
-### Kết quả
+Vải cotton gặp rắc rối khác. Một cô thợ may kéo mép vải dưới nắng, phát hiện hai gang tay bị lệch sợi. Hùng mở cả cuộn kiểm. Đoạn lỗi dài gần một mét. Ông cắt riêng, bán nửa giá cho người cần vá chăn; phần tốt vẫn giữ giá tám đồng. Lan ghi hao hụt ngay, không giấu đoạn lỗi vào giữa cuộn cho khách sau.
 
-### Nhà
+Hai mẹ con từ làng bên muốn mua một tuýp kem đánh răng nhưng thiếu một đồng. Người mẹ xin ghi nợ đến phiên chợ sau. Hùng hỏi tên, xóm, người quen xác nhận; chị Hồng từ phòng khám đi ngang nhận ra họ. Ông cho nợ đúng một đồng, ghi hạn ba ngày. Lan hỏi sao không cho luôn. Hùng bảo quà và nợ phải gọi đúng tên, nếu không cả hai phía đều khó xử.
 
-Mâm cơm 1983. “Mở rộng hàng hóa” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
+Gần trưa, cán bộ quản lý chợ dừng trước mảnh vải bày hàng. Ông ta hỏi nguồn vitamin và vì sao bán cạnh quần áo. Hùng đưa hóa đơn hiệu thuốc, tách ngay thuốc sang chiếc khay có nắp, cam kết chỉ bán loại bổ trợ còn niêm phong. Không có giấy tờ cho lô đồ dùng cũ từ kho bí mật, ông rút số còn lại về thay vì cố nói cho qua.
 
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Bán thuốc men”.
+Quyết định rút hàng khiến doanh thu hụt, nhưng cứu được nguồn hàng khỏi một lần kiểm sâu. Hùng bảo Lan nhớ mặt các món đã bị hỏi. Chuyến Hà Nội tới phải mua đúng thứ có hóa đơn: vitamin, xà phòng, kem đánh răng; dầu gội chỉ nhập lượng nhỏ. Kho không gian tiếp tục là bí mật cấp cứu, không được biến thành lời giải cho mọi quầy trống.
 
-“Mở rộng hàng hóa” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Làng Thanh Xuân, Quốc Oai và thế giới.
+Buổi chiều, hai anh em đem sổ sang nhà ông Tâm. Ông già không nhìn tổng tiền trước; ông xem cột hàng lỗi, nợ một đồng và số hàng tự rút. Ông hỏi tại sao Hùng dám ghi thiệt. Hùng đáp nếu xóa một mét vải lỗi trên giấy, ngày mai sẽ phải nhớ một lời nói dối trước từng người kiểm kho. Ông Tâm không khen, chỉ bảo mang hóa đơn Hà Nội về.
 
-### Thoại
+Trên đường về, Lan đề nghị thêm kim chỉ vì khách mua vải đã hỏi sáu lần. Hùng đồng ý thử mười cuộn chỉ đen, mười cuộn trắng, hai gói kim; chưa mua cúc màu vì quá nhiều loại dễ tồn. Danh mục mở rộng bằng nhu cầu nghe được tại quầy, không bằng việc kho có gì thì ép chợ mua thứ đó.
 
-Tổ trưởng: “Chỗ này máy kêu lạ.”
-Hùng: “Dừng đúng quy trình. Cảm ơn đã không chạy thành tích.”
+Tối, bà Hà giúp phân loại những túi giấy còn sạch. Bà buộc dây cho từng gói xà phòng, chậm nhưng chắc. Hùng trả bà một đồng tiền công tượng trưng; bà mắng cháu bày vẽ rồi vẫn cất đồng tiền vào hộp gỗ. Lan cười, ghi ‘công đóng gói’ vào sổ. Gia đình không chỉ ăn từ việc buôn; họ bắt đầu có phần việc minh bạch trong đó.
 
-### Hệ thống
+Hùng chốt ba ngưỡng cho phiên sau: hàng thiết yếu nhập đủ hai phiên, hàng mới chỉ thử mười đơn vị, thuốc chỉ bán nguyên hộp có nhãn. Bà Phượng được giữ giá sỉ nếu trả ngay và không tự đổi nhãn. Cô thợ may được báo trước khi có vải tốt. Chị Hồng chỉ giới thiệu thuốc bổ, không giới thiệu bệnh nhân như khách hàng.
 
-Hùng tắt thông báo. Việc ngoài đời quan trọng hơn.
-
-「1983 · ch.8 · Mở rộng hàng hóa · Tổng EXP 258 · Không gian 1,200m² · +46 EXP」
-
-Lan nhắc anh đừng biến “Mở rộng hàng hóa” thành diễn văn. Cô muốn biên bản, người chịu trách nhiệm, và giờ kiểm. Anh gật vì biết cô đúng. (Nhịp ch.8-1.)
-
-Thị trường năm 1983 ồn hơn giấy tờ. Ông tách ồn và việc: ồn để nghe, việc để làm, không trộn thành một đống tự huyễn. (Nhịp ch.8-2.)
-
-Nếu có ai hỏi vì sao Thương Gia còn đứng sau “Mở rộng hàng hóa”, câu trả lời không phải may. Là nhịp đều: đúng giờ, đúng sổ, đúng lời với người nhỏ nhất trên dây chuyền. (Nhịp ch.8-3.)
-
-Hùng tự chấm điểm cuối ngày không bằng pháo hoa. Ông chấm bằng một câu: hôm nay có ai bị bỏ lại phía sau vì mình muốn nhanh? (Nhịp ch.8-4.)
-
-Kỷ luật giấy tờ quanh “Mở rộng hàng hóa” nghe khô, nhưng khô mới cứu được lúc sóng. Ông chấp nhận mất một buổi để không mất một mùa. (Nhịp ch.8-5.)
-
-Trong sổ tay, ông ghi tên người làm tốt thầm. Thưởng đúng người quan trọng hơn bài phát biểu đúng giọng. (Nhịp ch.8-6.)
-
-Có lúc ông muốn ôm hết việc “Mở rộng hàng hóa”. Lan gạt: ôm hết là cách nhanh nhất để hỏng cả đội. Ủy thác có kiểm — không phải buông lung. (Nhịp ch.8-7.)
-
-Mùi hiện trường — dầu máy, bụi vải, mực in, muối cảng — nhắc ông rằng số liệu không bay trên không. Số liệu bám tay người làm. (Nhịp ch.8-8.)
-
-Trước khi khóa sổ “Mở rộng hàng hóa”, ông đi một vòng cuối: chỗ khách chạm, chỗ tiền đi qua, chỗ dễ dối. Phát hiện nhỏ được ghi đậm như cháy lớn. (Nhịp ch.8-9.)
-
-Năm 1983, việc “Mở rộng hàng hóa” không chỉ là dòng trên lịch. Nó là chuỗi quyết định nhỏ: ai giữ sổ, ai ra hiện trường, ai dám nói thiệt hại trước khi khoe số. (Nhịp ch.8-10.)
-
-Hùng bắt Lan đối chiếu ba cột cho “Mở rộng hàng hóa”: đã hứa — đã làm — còn nợ. Cột lệch thì dừng khen. Cột khớp mới được gọi là xong nhịp. (Nhịp ch.8-11.)
-
-Ở hiện trường liên quan “Mở rộng hàng hóa”, ông hỏi người làm trực tiếp trước khi hỏi báo cáo. Chi tiết không có trên giấy thường là chi tiết cứu cả mùa. (Nhịp ch.8-12.)
-
-Buổi tối ông về nhà không mang theo cả đế chế. Ông mang một câu thật: hôm nay giữ được chữ nào, suýt mất chữ nào. Bà Hà chỉ cần thấy ông còn là người của mâm cơm. (Nhịp ch.8-13.)
-
-Đối tác quanh “Mở rộng hàng hóa” thử lòng bằng giá ép và hạn gấp. Hùng không đua mồm. Ông đua lịch giao và chất lượng lô mẫu. (Nhịp ch.8-14.)
-
-Một rủi ro nhỏ bị mang ra bàn đúng lúc mọi người muốn quên. Giấu rủi ro nhỏ là đặt cọc cho cháy lớn — bài học ông viết đi viết lại trong sổ da. (Nhịp ch.8-15.)
-
-
-
-### Khép — Mở rộng hàng hóa
-
-Cửa mới khóa muộn hơn dự kiến — vì còn sót một việc nhỏ phải làm đúng. “Mở rộng hàng hóa” khép bằng việc, không bằng băng keo khai trương.
-
-Ông cho phép mình thở một nhịp — chỉ một — rồi ghi vào sổ dòng thật, không dòng đẹp.
-
-Về nhà, ông rửa tay trước mâm. Nhà không cần nghe hết số liệu — cần thấy ông còn là người của nhà.
-
-Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Bán thuốc men”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
-
-Ông ghi vào cuối trang: đối thủ có thể phá giá, thị trường có thể ồn; ông trả lời bằng việc hoàn tất “Mở rộng hàng hóa” mà không biến nhà thành bàn cờ.
-
-Hùng gấp sổ. Ông ngủ nghiêng về phía cửa sổ — phía có gió, phía còn đường.
+Khi gấp sổ, Lan đã có danh sách bốn đầu mối: Khanh giới thiệu thủ tục, Tâm giữ mặt bằng, Phượng thử bán lại, chị Hồng kiểm thuốc. Mỗi người nối một việc khác nhau; không ai được nắm cả nguồn hàng, tiền và giấy tờ. Hùng nhận ra mở rộng hàng hóa thực chất là mở rộng số lời hứa phải giữ cùng lúc.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.8」

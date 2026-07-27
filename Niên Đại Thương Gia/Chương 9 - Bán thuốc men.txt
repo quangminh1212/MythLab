@@ -62,7 +62,7 @@ Buổi sáng, Hùng bán:
 
 Tổng: 292 đồng.
 
-「Giao dịch thành công! +35 EXP. Số dư EXP lúc giao dịch:  230」
+Hệ thống ghi nhận giao dịch thành công, cộng 35 EXP, khiến số dư EXP lúc ấy đạt 230.
 
 230 EXP. Ông đang tiến nhanh — nếu tiếp tục tốc độ này, ông sẽ đạt 300 EXP trong vài ngày. Nhưng ông không biết cấp tiếp theo của thương mại cần bao nhiêu EXP — hệ thống chưa thông báo.
 
@@ -142,91 +142,39 @@ Từ bán rong đến cửa hàng. Từ cửa hàng đến xưởng. Từ xưở
 
 Hành trình tiếp tục.
 
-### Nhịp “Bán thuốc men”
+---
 
-Năm 1983 tại Làng Thanh Xuân, Quốc Oai, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
+Chị Hồng không cho Hùng đặt thuốc ngay trước cửa phòng khám. Cô dẫn ông đến chiếc bàn gỗ trong phòng trực, yêu cầu mở từng hộp. Hai hộp vitamin có mép nhãn bong vì ẩm. Hùng tách chúng khỏi lô bán, dù viên bên trong chưa hỏng. Với thuốc, vẻ ngoài không chứng minh chất lượng, nhưng bao bì hư đủ để từ chối đưa cho người bệnh.
 
-### Thử nhỏ
+Cô viết cho ông một danh sách ngắn: vitamin B, viên sắt, dầu xoa; tuyệt đối không tự bán kháng sinh, thuốc ho phối hợp hay thuốc giảm đau cho trẻ. Hùng chép lại hai bản, một để trong túi hàng, một đưa Lan. Ông bỏ dòng ‘thuốc cảm’ khỏi bảng giá cũ cho đến khi có người chuyên môn xác nhận từng loại.
 
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
+Bệnh nhân đầu tiên là bà Mến ở xóm Gò, chân phù, xin mua viên sắt vì nghe hàng xóm nói uống vào khỏe. Hùng không bán. Ông mời chị Hồng nhìn chân bà. Sau khi khám, chị bảo bà cần kiểm tra thêm, không được tự uống. Bà Mến khó chịu bỏ đi; Hùng mất năm đồng doanh thu nhưng tránh biến lời đồn thành toa thuốc.
 
-### Kết quả
+Người thứ hai là anh Thực, thợ gạch, mang đúng giấy chị Hồng ghi vitamin B và liều dùng. Hùng lấy hộp còn niêm, đọc hạn, ghi ngày bán lên túi giấy. Anh Thực trả năm đồng, hỏi có thuốc chữa ho không. Hùng chỉ về phòng khám. Giao dịch thuốc đầu tiên kết thúc bằng một lời từ chối bán thêm.
 
-### Nhà
+Đến gần trưa, một người đàn bà bế con sốt ghé quầy. Đứa bé nóng ran, mắt lờ đờ. Lan đã với tay về phía hộp thuốc cảm; Hùng chặn lại, gọi chị Hồng. Phòng khám đưa bé vào trong, lau mát và khám ngay. Lan tái mặt khi nghe chị nói dùng sai liều cho trẻ có thể nguy hiểm. Từ đó cô không chạm thuốc nếu chưa đối chiếu giấy.
 
-Mâm cơm 1983. “Bán thuốc men” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
+Một hộp vitamin bị khách trả vì bên trong thiếu một vỉ. Hùng mở trước mặt chị Hồng, xác nhận niêm giấy ngoài đã bị dán lại. Ông hoàn đủ năm đồng, ghi hộp lỗi, giữ lại làm bằng chứng cho chuyến Hà Nội. Nếu nguồn sỉ không đổi, ông sẽ ngừng lấy loại này. Uy tín ở quầy thuốc được đo vào lúc phải trả tiền, không phải lúc thu tiền.
 
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Đi Hà Nội”.
+Bà Phượng nghe thuốc bán chạy, đề nghị lấy mười hộp mang về sạp. Hùng từ chối bán sỉ thuốc khi bà không có người hiểu cách dùng. Ông chuyển cho bà xà phòng và kem đánh răng như cũ. Bà càu nhàu vì lợi nhuận thuốc cao hơn; ông vẫn giữ ranh giới. Mạng lưới cần mở, nhưng không mở qua một món có thể làm người khác nhập viện.
 
-“Bán thuốc men” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Làng Thanh Xuân, Quốc Oai và thế giới.
+Buổi chiều, ông Tâm kiểm lô hàng cùng tờ hóa đơn mẫu Hùng mượn từ hiệu thuốc huyện. Ông bắt lỗi chữ ‘thuốc bổ gan’ trong kế hoạch: tên gọi quảng cáo không thay cho chỉ định. Hùng gạch món đó khỏi danh mục. Hai người thống nhất nếu cửa hàng mở, thuốc đặt trong tủ riêng, khóa do Tâm giữ; danh sách bán phải được ông duyệt.
 
-### Thoại
+Đổi lại, Hùng đề nghị ông Tâm nhận mười đồng mỗi tháng cho việc kiểm hàng, tách khỏi tiền thuê mặt bằng. Ông Tâm không nhận ngay. Ông bảo thử một tháng, nếu thực sự phải kiểm thì mới lấy công. Câu trả lời khiến Hùng yên tâm hơn một cái gật đầu dễ dãi: đối tác này hiểu trách nhiệm có giá, cũng hiểu tiền phải đi sau việc.
 
-Lan: ““Bán thuốc men” anh sợ nhất chỗ nào?”
-Hùng: “Sợ hứa nhanh hơn sức.”
-Lan: “Em giữ nhịp. Anh giữ chuẩn.”
+Khanh tới làm chứng, đọc bản cam kết mới. Văn bản chỉ còn vitamin và đồ dùng vệ sinh, có điều khoản thu hồi, hoàn tiền, lưu hóa đơn. Không còn câu ‘Tâm không liên lụy’ vô nghĩa; người đứng tên vẫn chịu trách nhiệm phần mình. Hùng chịu nguồn hàng và bán đúng danh mục, Tâm chịu kiểm tra, Khanh xác nhận thỏa thuận.
 
-### Hệ thống
+Về nhà, Lan kể chuyện đứa bé sốt cho bà Hà. Bà lặng đi rồi lấy túi thuốc của mình ra, hỏi từng viên. Hùng cùng Lan đối chiếu toa chị Hồng, bỏ một gói thuốc giảm đau cũ bà giữ từ năm trước. Bán thuốc ngoài chợ buộc họ nhìn lại chính tủ thuốc trong nhà; thứ không rõ tên, không rõ hạn thì không tiếc.
 
-Hùng tắt thông báo. Việc ngoài đời quan trọng hơn.
+Sổ cuối ngày không chỉ có 292 đồng doanh thu. Nó có hai hộp loại bỏ, một lần hoàn tiền, ba khách được chuyển sang bác sĩ, một món bị xóa khỏi danh mục. Lan bảo nhìn như buôn hụt. Hùng đáp đây là phần chi phí để ngày mai người ta còn tin quầy của mình. Cô đặt tên cột mới: ‘không bán vì an toàn’.
 
-「1983 · ch.9 · Bán thuốc men · Tổng EXP 304 · Không gian 1,200m² · +46 EXP」
-
-Nếu có ai hỏi vì sao Thương Gia còn đứng sau “Bán thuốc men”, câu trả lời không phải may. Là nhịp đều: đúng giờ, đúng sổ, đúng lời với người nhỏ nhất trên dây chuyền. (Nhịp ch.9-1.)
-
-Hùng tự chấm điểm cuối ngày không bằng pháo hoa. Ông chấm bằng một câu: hôm nay có ai bị bỏ lại phía sau vì mình muốn nhanh? (Nhịp ch.9-2.)
-
-Kỷ luật giấy tờ quanh “Bán thuốc men” nghe khô, nhưng khô mới cứu được lúc sóng. Ông chấp nhận mất một buổi để không mất một mùa. (Nhịp ch.9-3.)
-
-Trong sổ tay, ông ghi tên người làm tốt thầm. Thưởng đúng người quan trọng hơn bài phát biểu đúng giọng. (Nhịp ch.9-4.)
-
-Có lúc ông muốn ôm hết việc “Bán thuốc men”. Lan gạt: ôm hết là cách nhanh nhất để hỏng cả đội. Ủy thác có kiểm — không phải buông lung. (Nhịp ch.9-5.)
-
-Mùi hiện trường — dầu máy, bụi vải, mực in, muối cảng — nhắc ông rằng số liệu không bay trên không. Số liệu bám tay người làm. (Nhịp ch.9-6.)
-
-Trước khi khóa sổ “Bán thuốc men”, ông đi một vòng cuối: chỗ khách chạm, chỗ tiền đi qua, chỗ dễ dối. Phát hiện nhỏ được ghi đậm như cháy lớn. (Nhịp ch.9-7.)
-
-Năm 1983, việc “Bán thuốc men” không chỉ là dòng trên lịch. Nó là chuỗi quyết định nhỏ: ai giữ sổ, ai ra hiện trường, ai dám nói thiệt hại trước khi khoe số. (Nhịp ch.9-8.)
-
-Hùng bắt Lan đối chiếu ba cột cho “Bán thuốc men”: đã hứa — đã làm — còn nợ. Cột lệch thì dừng khen. Cột khớp mới được gọi là xong nhịp. (Nhịp ch.9-9.)
-
-Ở hiện trường liên quan “Bán thuốc men”, ông hỏi người làm trực tiếp trước khi hỏi báo cáo. Chi tiết không có trên giấy thường là chi tiết cứu cả mùa. (Nhịp ch.9-10.)
-
-Buổi tối ông về nhà không mang theo cả đế chế. Ông mang một câu thật: hôm nay giữ được chữ nào, suýt mất chữ nào. Bà Hà chỉ cần thấy ông còn là người của mâm cơm. (Nhịp ch.9-11.)
-
-Đối tác quanh “Bán thuốc men” thử lòng bằng giá ép và hạn gấp. Hùng không đua mồm. Ông đua lịch giao và chất lượng lô mẫu. (Nhịp ch.9-12.)
-
-Một rủi ro nhỏ bị mang ra bàn đúng lúc mọi người muốn quên. Giấu rủi ro nhỏ là đặt cọc cho cháy lớn — bài học ông viết đi viết lại trong sổ da. (Nhịp ch.9-13.)
-
-Lan nhắc anh đừng biến “Bán thuốc men” thành diễn văn. Cô muốn biên bản, người chịu trách nhiệm, và giờ kiểm. Anh gật vì biết cô đúng. (Nhịp ch.9-14.)
-
-Thị trường năm 1983 ồn hơn giấy tờ. Ông tách ồn và việc: ồn để nghe, việc để làm, không trộn thành một đống tự huyễn. (Nhịp ch.9-15.)
-
-Tại miền Bắc năm 1983, sau nhịp “Bán thuốc men”, Hùng không vội khoe. Ông mở bốn cột: thu – chi – nợ lời – nợ người. Cột lệch thì dừng khen. (ch.9/1)
-
-Lan đối chiếu biên bản với hiện trường “Bán thuốc men”. Chỗ hứa chưa giao bị gạch đỏ. Tên người chịu được viết rõ trước khi ai đó kịp quên. (ch.9/2)
-
-
-
-### Khép — Bán thuốc men
-
-Việc “Bán thuốc men” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
-
-Lan nhìn mặt anh biết hôm nay không thua chữ tín. Điều đó đủ hơn mọi tràng vỗ tay.
-
-Về nhà, ông rửa tay trước mâm. Nhà không cần nghe hết số liệu — cần thấy ông còn là người của nhà.
-
-Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Đi Hà Nội”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
-
-Ông ghi vào cuối trang: đối thủ có thể phá giá, thị trường có thể ồn; ông trả lời bằng việc hoàn tất “Bán thuốc men” mà không biến nhà thành bàn cờ.
-
-Ông tắt đèn suy nghĩ, để lại một khe sáng nhỏ cho nhà. Mai còn việc, nhưng đêm này được phép yên.
+Trước lúc ngủ, Hùng gói hóa đơn, hộp lỗi và bản cam kết vào túi vải cho chuyến Hà Nội. Ông cần nguồn hàng thật, dấu thật, người bán chịu đổi hàng lỗi. Nếu không tìm được, mặt hàng thuốc sẽ dừng ở đây. Cửa hàng có thể thiếu một ngăn; gia đình và mạng lưới không thể gánh một viên thuốc mờ nguồn.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.9」
 Năm: 1983
 Tổng EXP: 304 (+46 nhịp này)
 Không gian kho: 1,200m² (+0m²)
-Kỹ năng trọng yếu: Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
 Ghi chú: sổ cái khớp system_ledger — không double-book
 ============================================================

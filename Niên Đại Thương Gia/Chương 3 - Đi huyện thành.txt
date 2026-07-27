@@ -79,14 +79,9 @@ Hùng dẫn ông ta vào hẻm, lấy ra bộ sơ mi trắng + quần dài đen 
 
 Hùng nhận tiền. 50 đồng — số tiền đầu tiên ông kiếm được trong thời bao cấp. Trong đầu, hệ thống thông báo:
 
-「Giao dịch thành công!
-- Bán: 1 bộ quần áo nam (sơ mi trắng + quần dài đen)
-- Giá: 50 đồng
-- EXP nhận được: +10
-- Tiến độ EXP của nhiệm vụ lúc này: 10/100 (nhiệm vụ cải thiện gia đình)
-- Tiền mặt: 10.050 đồng (10.000 trong không gian + 50 ngoài)」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
-10 EXP. Đầu tiên. Hùng cảm thấy như vừa nhận được thành tựu đầu tiên trong game — nhỏ nhưng quan trọng. 90 EXP nữa để hoàn thành nhiệm vụ, nhưng ông biết rằng nhiệm vụ không chỉ đếm EXP, mà còn đếm kết quả thực tế: gia đình đủ ăn trong một tháng.
+Đó là khoản tiền đầu tiên. Hùng cảm thấy như vừa nhận được thành tựu đầu tiên trong game — nhỏ nhưng quan trọng.
 
 Người đàn ông mặc thử áo, vừa vặn, rồi đi vui vẻ. Ông ta sẽ mặc bộ áo này đi làm, và đồng nghiệp sẽ hỏi mua ở đâu — đó là tiếp thị truyền miệng, hiệu quả nhất trong thời không có quảng cáo.
 
@@ -99,12 +94,9 @@ Trong vòng ba giờ, Hùng bán được năm bộ quần áo:
 
 Tổng: 220 đồng + 50 đồng ban đầu = 270 đồng.
 
-「Giao dịch thành công! EXP nhận trong giao dịch này: +50
-- Tiến độ EXP của nhiệm vụ lúc này: 50/100
-- Tiền mặt ngoài: 270 đồng
-- Kho quần áo còn: 94 bộ」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
-50 EXP trong một buổi sáng. Nửa nhiệm vụ. Hùng hài lòng — nhưng ông không vội. Ông cần giữ tốc độ, không bán quá nhiều một ngày để không gây chú ý. Năm bộ/ngày là đủ — thêm nữa sẽ có người hỏi, sẽ có người nghi.
+Ông đã đi được nửa chặng của nhiệm vụ. Hùng hài lòng — nhưng ông không vội. Ông cần giữ tốc độ, không bán quá nhiều một ngày để không gây chú ý. Năm bộ/ngày là đủ — thêm nữa sẽ có người hỏi, sẽ có người nghi.
 
 Buổi trưa, Hùng ngồi ở quán nước bên đường — quán của bà Thủy, bán nước chè xanh, giá 2 xu/ly. Ông uống chè, ăn bánh đúc mua ngoài chợ (5 xu/cái), và quan sát.
 
@@ -142,14 +134,9 @@ Bà Hà kể chuyện xưa — chuyện bà khi còn trẻ đi buôn gạo từ 
 
 Sau bữa tối, Hùng ngồi ngoài sân, nhìn trời. Hệ thống thông báo:
 
-「Tiến độ nhiệm vụ: Cải thiện cuộc sống gia đình trong 7 ngày
-- Ngày 2/7 hoàn thành
-- Gia đình đã có đủ ăn: Gạo trắng, thịt, trứng
-- EXP: 50/100
-- Tiền mặt: 270 đồng (ngoài) + 10.000 đồng (trong không gian)
-- Cần thêm: 50 EXP để hoàn thành nhiệm vụ」
+Hùng tự kiểm tiến độ bằng gạo trong chum, tiền đã tách và số ngày còn lại; hệ thống chưa chốt sổ.
 
-Hùng gật đầu. Ngày mai, ông sẽ bán thêm quần áo, kiếm thêm EXP. Còn 5 ngày nữa, và ông cần 50 EXP nữa. Dễ — nhưng ông không chỉ muốn hoàn thành nhiệm vụ, ông muốn vượt qua. Ông muốn gia đình không chỉ đủ ăn trong một tháng, mà đủ ăn mãi mãi.
+Hùng gật đầu. Ngày mai, ông sẽ bán thêm quần áo, kiếm thêm EXP. Còn năm ngày nữa; mục tiêu không khó — nhưng ông không chỉ muốn hoàn thành nhiệm vụ, ông muốn vượt qua. Ông muốn gia đình không chỉ đủ ăn trong một tháng, mà đủ ăn mãi mãi.
 
 Và để làm điều đó, ông cần hơn bán rong. Ông cần một cửa hàng. Một cơ sở sản xuất. Một nền tảng.
 
@@ -167,49 +154,28 @@ Năm bước. Không khó, nhưng cần thời gian và cẩn trọng. Trong th�
 
 Ông sẽ khôn hơn. Khéo hơn. Và có hệ thống.
 
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, dế kêu, gió thổi, trăng sáng. Trong bếp, tiếng bà Hà rửa bát — bà rửa bằng nước giếng, xà phòng tự làm từ tro bếp, nhưng bà rửa sạch, cẩn thận, từng chiếc bát như thể nó là vàng.
-
-Hùng nhắm mắt. Ngày mai sẽ dài. Nhưng hôm nay, ông đã làm được.
-
-270 đồng. 50 EXP. Một bữa cơm no.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Nhịp “Đi huyện thành”
-
-Năm 1983 tại Làng Thanh Xuân, Quốc Oai, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
-
-### Thử nhỏ
-
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
-
-### Kết quả
-
-### Nhà
-
-Mâm cơm 1983. “Đi huyện thành” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-「1983 · ch.3 · Đi huyện thành · Tổng EXP 60 · Không gian 1,100m² · +30 EXP」
+Trước khi ngủ, Hùng lần lại chuyến đi trong đầu. Hai trăm bảy mươi đồng đã về nhà, một bữa cơm no đã có; điều còn thiếu là một đường bán đủ kín đáo để ngày mai ông có thể quay lại.
 
 
+### Một vòng chợ, ba lần phải biết dừng
 
-### Khép — Đi huyện thành
+Rời chỗ bán, Hùng không đi thẳng về. Ông đi bộ qua cổng chợ lần nữa, lần này không nhìn người mua mà nhìn người canh. Một cán bộ thu lệ phí ngồi cạnh chiếc bàn gỗ, trước mặt là xấp vé con. Người bán rau nộp hai hào, hàng thịt nộp nhiều hơn. Những người trải tấm vải ngoài rìa chợ thường cuốn hàng ngay khi bóng áo xanh xuất hiện.
 
-Việc “Đi huyện thành” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
+Hùng mua một vé cho chỗ ngồi buổi sau. Tờ giấy mỏng có dấu tím, giá nhỏ, nhưng đáng tiền hơn một cuộc chạy. Ông hỏi người thu vé mặt hàng may sẵn được ngồi ở đâu, được mang bao nhiêu. Người kia nhìn bộ quần áo của ông rồi chỉ dãy sát hàng tạp hóa: bán lẻ thì ngồi đó; gom đông người, chắn lối hoặc rao quá ồn sẽ bị mời đi. Không có lời đảm bảo nào khác.
 
-Áp lực “chuỗi cung ứng đứt gãy” chưa biến mất; nó chỉ bị đặt đúng ngăn, không còn nằm giữa lối đi.
+Ông ghi nhớ ba giới hạn: năm bộ một buổi; tiền lẻ tách khỏi tiền vốn; ai hỏi nguồn hàng thì chỉ nói hàng may gia công ở Hà Nội, không bịa thêm tên xưởng. Một câu chuyện càng nhiều chi tiết giả càng dễ tự cắn đuôi.
 
-Trên bàn có bát nước chè để nguội. Ông uống cạn, cảm ơn sự bình thường còn giữ được.
+Trên đường về, quai dép tuột ở đoạn bờ mương. Một bác nông dân đi qua đưa cho ông đoạn dây gai để buộc tạm. Hùng trả bằng hai điếu thuốc mua lẻ trong chợ, không lấy hàng trong không gian ra. Vụ trao đổi nhỏ nhắc ông rằng ngoài kho hàng kỳ lạ, đời sống vẫn chạy bằng những thứ có thể giải thích được.
 
-EXP/nhiệm vụ có thể nhấp sáng, nhưng ông tự chấm điểm bằng một câu: hôm nay có ai bị bỏ lại phía sau không?
+Đến đầu làng, ông dừng dưới gốc gạo, quay lưng về phía đường để đếm tiền chứ không mang cả xấp vào nhà. Ông chia ba phần: tiền mua thức ăn có hóa đơn hoặc lời chứng; tiền vốn để quay lại chợ; khoản giấu kín phòng khi bị giữ hàng. Hai trăm bảy mươi đồng nghe lớn, nhưng nếu đem khoe, nó sẽ gọi câu hỏi đến nhanh hơn khách.
 
-Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Bán hàng đầu tiên”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
+Lan ngồi bên thềm chờ. Cô không hỏi ông lời được bao nhiêu. Cô nhìn tờ vé chợ, nút dây gai ở quai dép và lớp bụi đường trên ống quần. Ba thứ ấy thật hơn câu “đi làm thêm” hôm trước. Hùng đưa cô mười đồng mua muối, dầu và kim chỉ ở hợp tác xã, dặn phải lấy phiếu hoặc nhớ rõ giá từng món. Lan trả lại năm đồng, bảo chưa cần mua dầu nếu mỡ kho còn dùng được.
 
-Chốt ý nghĩa chương này: sau “Đi huyện thành”, ông không chỉ có thêm việc — có thêm một ranh giới không được vượt: không đổi người lấy số.
+Buổi tối, hai anh em mở một trang vở cũ. Lan ghi ngày, số bộ mang đi, số bộ còn lại, tiền thu, tiền đã chi. Hùng không ghi điểm thưởng giữa trang. Mọi biến động của hệ thống để sổ cuối chương xác nhận một lần; cuốn vở này chỉ giữ những thứ người trong nhà có thể đếm bằng tay.
 
-Ngoài phố năm ấy vẫn ồn. Trong nhà, ông chọn im như một kỷ luật cuối ngày.
+Ngoài sân, bà Hà giũ chiếc nong. Trong bếp, chum gạo vẫn kê khỏi nền. Chuyến huyện thành đầu tiên không cho Hùng một cửa hàng, càng chưa cho ông một nền tảng. Nó cho ông một chỗ ngồi hợp lệ, một mức hàng không quá lộ và một người giữ sổ không dễ bị lời ngon ngọt đánh lừa.
+
+Ngày mai ông sẽ trở lại đúng dãy, đúng số bộ, đúng số tiền lẻ. Bán được ít cũng được. Quan trọng là không phải bỏ chạy.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.3」

@@ -2,192 +2,173 @@
 Chương 98: Sản xuất điện thoại
 ============================================================
 
-Không ai vỗ tay khi “Sản xuất điện thoại" bắt đầu. Hùng cũng không cần. Ông cần cửa còn mở vào chiều.
+Bảy giờ sáng, Khu công nghiệp tỉnh Hà Tây. Năm 1987.
 
-Hợp đồng viết tay còn, nhưng đã có thêm người dám ký tên chịu.
+Tiếng máy nổ diesel rền từ xưởng cơ khí bên cạnh. Hùng đứng ở cửa, nhìn ba dãy bàn gỗ xếp dọc theo nền xi-măng còn mùi mới. Trên mỗi bàn: một khung gỗ kê, bộ đồ nghề gồm kìm, tua-vít, mỏ hàn, chì, nhựa thông, và một cái đèn bàn. Cửa xưởng mở rộng, gió sớm thổi qua, mang theo mùi dầu máy trộn mùi nhựa thông chưa kịp tan.
 
-Âm thanh quanh Khu công nghiệp không đều, như nhịp thở của phố/làng.
+Dây chuyền điện thoại bắt đầu bằng năm người ở đầu dây chuyền. Họ xếp linh kiện theo thứ tự: vỏ nhựa đúc sẵn — mua từ xưởng ép nhựa dưới huyện — mâm quay số bằng nhôm đúc, lò xo hồi vị, cần gạt móc tổ hợp, ba con ốc M3 mạ kẽm, và cụm loa tai nghe bằng thép từ. Từng linh kiện được đặt trong khay gỗ, phân loại theo bàn.
 
-Năm 1987, tại Khu công nghiệp. “Sản xuất điện thoại” bắt đầu từ mùi dầu máy và tiếng ốc vít, không từ bài phát biểu.
+Hùng cầm một vỏ nhựa lên. Màu đen, chất dẻo cứng, đúc khuôn hai mảnh. Mảnh trên có lỗ cho mâm quay, lỗ cho cần gạt, lỗ cho dây tai nghe chui ra. Mảnh dưới có bốn chân đế cao su. Ông lật mặt trong: gân gia cường chạy dọc, ba trụ bắt vít định vị bo mạch. Ông gõ ngón tay lên vỏ — tiếng kêu đanh, không rỗ — đạt.
 
-Hùng đi dọc dây chuyền. Ông hỏi người thợ già nhất chỗ hay hỏng, chỗ hay gian số liệu, chỗ tăng ca sẽ gãy người.
+"Loại này nhập từ Nhật về dạng cụm rời?" — Lan hỏi.
 
-Mẫu thử đặt giữa bàn. Ai khen đẹp thì khen; ai chỉ lỗi được mời ngồi gần hơn.
+"Mẫu mới. Vỏ trong nước, linh kiện điện trong nước ráp. Chỉ con chip khuếch đại thuê bao và cuộn cảm chuông là nhập. Còn lại — dây, ốc, màng loa, biến trở, tụ giấy — đều mua trong nước."
 
-“rào cản pháp lý" xuất hiện đúng lúc sắp chạy thật: thiếu chuẩn, thiếu phụ tùng, hoặc thiếu người biết việc. Ông thà lùi lịch còn hơn giao hàng lỗi.
+Lan ghi vào sổ tay. Chị đã đánh dấu trước những việc cần kiểm tra trong ngày: nguyên liệu đủ, dụng cụ đủ, người đủ. Chị đếm: mười hai khay linh kiện, sáu cây mỏ hàn, ba cuộn chì hàn, hai lọ nhựa thông, một cân ốc M3 mạ kẽm.
 
-Ca chiều tan, ông đứng lại đếm không khí: mệt nhưng không oán — đó là mức ông chấp nhận; oán là mức phải dừng.
+Người thợ cả tên Bình, bốn mươi lăm tuổi, từng làm cho xưởng điện tử quốc doanh ở Hà Nội trước khi xưởng giải thể năm 1985. Ông cầm bo mạch ép phenolic lên, chỉ vào đường đồng: "Chỗ này dễ đứt nếu uốn quá tay. Phải căn ke. Ở xưởng cũ tôi từng thấy một người uốn gãy ba cái bo trong một buổi sáng. Không phải tay nghề kém — tại không ai chỉ."
 
-"Việc 'Sản xuất điện thoại' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+"Anh dạy họ cách uốn," Hùng nói. "Mất một buổi để dạy, để khỏi mất một tháng để sửa."
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+Bình gật. Ông quay ra năm người thợ mới, nói chậm: "Đây là bo mạch chính. Có năm linh kiện phải hàn: ba điện trở than — hai cái một trăm ôm, một cái bốn trăm bảy mươi ôm — một tụ giấy 0.1 micro-farad, một cuộn cảm lõi không khí. Hàn nguội là hỏng. Hàn chảy nhựa thông là dập bo. Nhìn đây."
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+Bình cầm mỏ hàn, để ba giây cho đầu mỏ đủ nóng, chấm vào nhựa thông, khói trắng bay lên. Ông đưa chì vào điểm hàn, chạm một giây, rút chì, giữ nguyên một giây, rút mỏ hàn. Mối hàn bóng, hình núi lửa, không chạm sang đường đồng bên cạnh. Ông đưa bo mạch ra ánh sáng: mối hàn ánh bạc, đều, đẹp.
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+"Thử đi. Mỗi người năm mối hàn giáp mối — không hàn trên không, không hàn chồng, không hàn nguội. Làm xong tôi kiểm từng mối."
 
-"Về nhà ăn chưa?"
+Năm người thợ cúi xuống. Một người trẻ nhất, tên Phong, hai mươi hai tuổi, run tay khi cầm mỏ hàn lần đầu. Bình đặt tay lên vai Phong: "Cầm chắc. Hít một hơi. Chạm ba giây là đủ, không cần nhấn."
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+Tám giờ, dây chuyền bắt đầu chạy thẳng.
 
-Trưa, ông ăn cơm hộp. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+Bàn một: lắp bo mạch vào vỏ dưới. Ba ốc M3 bắt chặt, hai ốc định vị miếng đệm nhựa cách điện. Mỗi người thợ có một cái kìm nhỏ bấm ốc; tay trái giữ bo, tay phải vặn. Nhịp: mười lăm giây một bộ.
 
-Chiều, hướng “Sản xuất điện thoại" nhích thêm bằng ca chạy thử. Không pháo hoa.
+Bàn hai: lắp mâm quay số — đặt lò xo hồi vị vào rãnh, gài cần gạt móc tổ hợp, lắp mâm nhôm vào trục, bắt ốc giữ, quay thử. Mâm phải quay êm, không kẹt, không lệch, và phải tự hồi về không khi thả. Cơ cấu cam bên trong mâm quay tạo ra các xung điện: mỗi số tương ứng với một số lượng xung nhất định — số 1 là một xung, số 9 là chín xung, số 0 là mười xung.
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+"Nghe tiếng cót két không?" Bình hỏi người thợ ở bàn hai.
 
-Hùng kể “Sản xuất điện thoại” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+"Có chút."
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+"Tháo ra, tra dầu. Mỡ bò. Một giọt, không nhiều hơn. Dầu nhiều sẽ loang ra cam, làm sai xung."
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Bàn ba: lắp cụm loa và micro. Loa là màng thép đường kính năm phân, cuộn âm quấn tay trên lõi giấy. Khoảng cách giữa cuộn âm và nam châm vĩnh cửu phải đúng 0,5 mm — không chạm, không xa quá. Micro là hộp carbon — hai điện cực đồng, giữa là bột carbon nén, mặt trước là màng nhôm mỏng, đường kính ba phân. Hùng cầm một micro carbon lên, lắc nhẹ: nghe tiếng bột carbon rơi lộp bộp. "Cái này nhạy lắm. Rơi mạnh là hỏng màng, hỏng luôn cả hộp carbon vì bột rơi ra ngoài. Cầm như cầm trứng. Lắp vào vỏ trước, hàn dây sau, không hàn ngược."
 
-Ch. 98: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+Bàn bốn: lắp dây tai nghe. Dây xoắn hai lõi đồng 0,3 mm, bọc nhựa PVC đen, dài một mét hai, một đầu hàn vào loa, một đầu hàn vào micro. Dây phải luồn qua lỗ trên vỏ — cái lỗ chỉ rộng hơn dây 2 mm — rồi kẹp chặt bằng đệm cao su chống kéo. Nếu kẹp không chặt, dây tuột, đứt lõi bên trong, máy không nghe được.
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Bàn năm: lắp chuông điện thoại. Chuông là hai thanh thép non, một cuộn cảm lõi sắt, và một cần gõ bằng đồng thau. Khi tín hiệu xoay chiều 75-90V đến từ tổng đài — đúng, điện thoại thời đó dùng điện áp chuông cao — cuộn cảm tạo từ trường, hút cần gõ, đập vào thanh thép. "Boong... boong..." — Hùng thử. Tiếng nghe ấm, vang vừa phải.
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Sản xuất điện thoại" mà không vứt lại?
+"Có thể điều chỉnh âm bằng cách vặn ốc trên cần gõ," Bình nói. "Nhưng đừng để lỏng quá, chuông kêu không rõ. Cũng đừng siết chặt quá, thanh thép không rung được."
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên đúng hạn, và nói thẳng chỗ sẽ đau.
+Hùng lắp thử vỏ trên vào, bắt bốn ốc M3. Xong. Cái máy đầu tiên trong ngày — linh kiện trong nước, tay thợ mới, mọi thứ còn ráp mùi nhựa mới. Ông đặt lên kệ. Số 1.
 
-Trên đường quanh Khu công nghiệp, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Chín giờ, Hùng và Lan đi quanh dây chuyền. Mỗi bàn đã làm được vài bộ — nhịp còn chậm, tay còn lóng ngóng, nhưng đã có sản phẩm. Hùng cầm một vỏ trên — lắp vào thử, bắt bốn ốc giữ, lật máy lên xem khe hở giữa hai mảnh vỏ. Khe hở không đều — bên trái hở 0,5 mm, bên phải khít. Bu-lông nhựa thừa ở mép.
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+"Dừng bàn một," Hùng nói nhỏ với Lan. "Khe vỏ không đều. Nguyên nhân: hoặc vỏ nhựa cong vênh, hoặc trụ định vị không thẳng. Kiểm tra."
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+Bình đến. Ông tháo vỏ, đo ba trụ định vị bằng thước cặp. Trụ giữa cao hơn 0,3 mm. Nhựa thừa ở đáy trụ.
 
-Ở góc nhìn người làm thuê, “Sản xuất điện thoại” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Lỗi khuôn ép — nhựa chảy vào khe hở khuôn, tạo gờ. Gọi xưởng ép, yêu cầu sửa khuôn. Trong lúc chờ, lấy dao tróc bỏ gờ, giũa xuống 0,3. Làm bằng tay tạm, không ảnh hưởng độ bền."
 
-Hùng chấp nhận rào cản pháp lý là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Bao lâu?" — Hùng hỏi.
 
-Ông chủ động gặp người khó tính nhất quanh “Sản xuất điện thoại". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+"Mười lăm phút sửa khuôn. Dao tróc — ba mươi giây mỗi bo. Cả ngày nay chạy được."
 
-Cán bộ huyện vừa hỏi vừa nhìn; làm ăn phải vừa đúng vừa khéo.
+"Được. Làm."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Sản xuất điện thoại" không đổ.
+Bình lấy dao tróc, gạt nhẹ lớp nhựa thừa ở chân trụ, đo lại: ổn. Ông đưa cho người thợ bàn một: "Làm tiếp."
 
-Sổ “Sản xuất điện thoại" đánh dấu bút chì — có thể lùi.
+Đến mười giờ, dây chuyền tạm ổn. Bảy bộ đã qua bàn năm. Hùng ra khu vực kho phụ, nơi xếp các thùng linh kiện nhập về. Ông mở từng thùng: cuộn cảm chuông Nhật, đóng hộp giấy vàng, nhãn in chữ Anh, ngày sản xuất 1986. Thùng thứ hai: tụ giấy Trung Quốc, nhãn đỏ, sản xuất tại Thượng Hải. Thùng thứ ba: dây điện đồng bọc PVC trong nước — Nhà máy Dây và Cáp Hà Nội, sản xuất tháng 3/1987.
 
-Cuối buổi, “Sản xuất điện thoại" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Chênh lệch giá: cuộn cảm Nhật gấp ba lần tụ Trung Quốc," Lan đọc sổ.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Cũng gấp ba tuổi thọ. Cuộn cảm Nhật chịu ẩm, chịu rung, chịu dao động điện áp. Dùng Nhật cho mạch chuông — hỏng chuông là khách không nhận được cuộc gọi. Tụ Trung Quốc cho mạch tín hiệu thoại — nếu hỏng thì sửa được, không mất cuộc gọi. Tính toán chỗ nào cần bền, chỗ nào có thể thay."
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+"Mai nhập thêm linh kiện từ Nhật?" — Lan hỏi.
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+"Chưa. Đợi chạy hết lô đầu. Xem tỷ lệ hỏng, chất lượng đầu ra, rồi tính đơn hàng tiếp."
 
-Đổi Mới ngấm dần: người dám làm hụt hơi vì luật cũ, người sợ làm hụt hơi vì cơ hội.
+Mười một giờ, một phụ xe chở hàng từ xưởng đúc nhôm dưới huyện đến — một bao tải mâm quay số mới. Hùng bảo người thợ ở bàn hai lấy một cái, kiểm tra: đo đường kính bằng thước, ướm lên trục, quay thử. Đường kính lỗ trục lệch 0,1 mm — trong dung sai cho phép, nhưng cần tra dầu trước khi lắp. Hùng ký nhận. Hàng nhập kho.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+Buổi trưa, công nhân nghỉ ăn cơm. Họ ngồi dưới bóng cây sau xưởng, trên mấy tấm bạt căng tạm. Cơm trắng, muối vừng, vài con cá khô. Hùng không về nhà. Ông ngồi cùng họ, ăn cơm hộp mẹ Lan gói: cơm trắng, cá kho tộ, rau muống luộc, một quả cà muối.
 
-Không ai hoàn hảo trong “Sản xuất điện thoại". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+Phong, người thợ trẻ nhất, hỏi:
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+"Chú ơi, mình làm điện thoại này bán cho ai ạ?"
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+"Bán cho Bưu điện tỉnh. Họ đặt trước ba trăm cái, trả trước một phần ba."
 
-Hàng nội, hàng ngoại, hàng xách tay — ba lớp giá một chợ.
+"Nhiều thế. Làm bao lâu?"
 
-Hai người tốt bất đồng cách làm “Sản xuất điện thoại". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+"Hai tháng. Nếu dây chuyền chạy ngon, giảm xuống tháng rưỡi. Mỗi ngày phải ra ít nhất mười bộ."
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+Phong nhai cơm, nhìn xưởng. "Em chưa thấy cái điện thoại hoàn chỉnh bao giờ. Nhà em ở Hưng Yên, cả xã chỉ có một cái điện thoại ở Ủy ban."
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+Hùng im lặng một lúc. "Cuối tháng này, mỗi người trong xưởng được mua một cái giá gốc. Chín mươi nghìn đồng."
 
-Xe máy bắt đầu lấn xe đạp; tiếng máy nổ đè thùng phuy cũ.
+Mấy người thợ ngồi cạnh nghe thấy, nhìn nhau. Một người nói: "Chín chục nghìn — em để dành cả năm mới đủ."
 
-Một chi tiết năm 1987: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Tôi sẽ trừ dần vào lương," Hùng nói. "Mỗi tháng trừ một phần."
 
-Cảm xúc hôm nay nghiêng về “nuối tiếc thời gian". Ông không giấu, cũng không để cảm xúc ký thay mình.
+Chiều dậy, Hùng bảo Lan và Bình chuẩn bị kiểm tra cuộc gọi thử. Họ ráp một máy hoàn chỉnh nhất trong ngày — chọn từ mười bộ đã qua bàn năm, kiểm tra kỹ mối hàn, khe vỏ, độ êm mâm quay, tiếng chuông. Nối dây, bắt ốc, siết chặt, kiểm tra từng đường đồng bằng đồng hồ vạn năng: thông mạch.
 
-Ngoài kia phố/làng thở đều. Bên trong ông thở chậm đúng một nhịp — đủ để không vỡ.
+Bộ số 7 — linh kiện đầy đủ, lắp ráp sạch, không lỗi gia công.
 
-Trang sổ khép bằng dòng cầu nối. Mai sẽ kiểm bằng chân.
+Hùng cầm ống nghe lên: nặng, chắc tay, vỏ nhựa đen bóng, đường cong ôm khít lòng bàn tay. Mâm quay số bằng nhôm, khắc số từ 0 đến 9, mỗi số cách nhau đều, mạ kẻ đen — một lớp sơn tĩnh điện mỏng. Cần gạt móc tổ hợp bằng thép mạ kẽm, bật lên nghe tiếng "cạch" khô, dứt khoát. Dây tai nghe xoắn đều, từng vòng xoắn cách nhau 3 mm, không xoắn chặt quá gây đứt ruột dây, không xoắn lỏng quá gây rối.
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+Ông đặt máy lên bàn, nối dây tín hiệu từ máy vào tổng đài thử — một cái hộp sắt tự chế của Bình, bên trong có ba relay Nhật và một chuông 75V đấu song song. Hộp được nối với hai acquy 12V mắc nối tiếp để tạo điện áp chuông 75V.
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Sản xuất điện thoại" mà không vứt lại?
+"Gọi đến số nào?" — Bình hỏi.
 
-Một chi tiết năm 1987: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Gọi vào máy thử bên kia." Hùng chỉ sang bàn cuối, nơi có một máy điện thoại khác, cùng loại, lắp ráp hồi sáng. Hai máy cách nhau mười lăm mét, nối bằng dây đôi.
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+Bình đặt tay lên mâm quay, quay số: 0-4-2. Ngón tay ông đưa vào lỗ số 0, kéo mâm đến chặn, thả. Mâm quay đều về không — một xung. Số 4 — kéo, thả, bốn xung. Số 2 — kéo, thả, hai xung. Mỗi xung là một lần ngắt relay bên tổng đài thử. Tổng đài đếm: một bốn hai — đúng số máy bên kia.
 
-Sổ “Sản xuất điện thoại" đánh dấu đỏ — chết người nếu trễ.
+Im lặng. Năm giây.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+Rồi chuông bên kia reo. "Boong... boong..." — hai tiếng, đúng nhịp, âm lượng vừa, không rè, không đứt quãng. Tiếng chuông lanh lảnh trong xưởng. Mấy người thợ ngước lên.
 
-Ch. 98: phần thưởng chỉ thật khi công nhân không mất ca.
+Hùng đi sang bàn cuối, nhấc máy. "A-lô."
 
-Cuối buổi, “Sản xuất điện thoại" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+"A-lô," Bình nói vào máy thử ở đầu dây chuyền. "Nghe rõ không?"
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hùng đưa ống nghe lên tai. Giọng Bình vọng ra từ loa — hơi rè ở âm cuối, nhưng rõ từng tiếng, từng chữ. Âm lượng đủ, không cần nói to. Không có tiếng ù nền. Không có tiếng rít cao tần. Không mất dải — cả âm trầm lẫn âm bổng đều qua được micro carbon và loa thép từ.
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+Ông nói: "Em thử huýt sáo xem."
 
-Sổ “Sản xuất điện thoại" đánh dấu xanh — quan trọng.
+Bình huýt. Tiếng huýt qua micro carbon — hơi méo ở nốt cao, nhưng trong dải thoại 300-3400 Hz thì rõ, không vỡ.
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+"Được. Chất lượng gọi được. Đóng máy."
 
-Trên đường quanh Khu công nghiệp, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Hùng đặt ống nghe xuống. Cả xưởng nhìn ông. Không ai nói gì. Tiếng chuông vừa rồi — tiếng chuông đầu tiên từ một cái máy do chính tay họ làm — vẫn còn văng vẳng.
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+"Bộ số 7 đạt," Hùng nói to. "Lấy mẫu lưu. Số 7 là chuẩn cho tất cả bộ sau. Sai lệch nào cũng phải so với số 7 — khe vỏ, tiếng chuông, độ êm mâm quay, độ rõ âm thoại. Có sai thì sửa trước khi đóng gói."
 
-Cuối buổi, “Sản xuất điện thoại" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+Lan ghi vào sổ: "Mẫu chuẩn 98-01. Ngày 15/7/1987. Đạt thử cuộc gọi hai chiều. Điện thoại bàn quay số, vỏ nhựa đen, mạch chính nội địa + linh kiện nhập (cuộn cảm chuông Nhật). Bo mạch phenolic đơn lớp. Micro carbon, loa thép từ. Chuông 75V."
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+Bốn giờ chiều, dây chuyền dừng. Tổng cộng trong ngày: hai mươi ba bộ lắp ráp hoàn chỉnh. Kiểm tra lần một: mười lăm bộ qua, bảy bộ phải sửa lại — hai bộ mối hàn nguội, ba bộ khe vỏ lệch, một bộ mâm quay kẹt nhẹ, một bộ dây tai nghe hàn ngược cực micro. Một bộ hỏng bo mạch do đường đồng bị bong khi siết ốc — phải tháo ra, thay bo, làm lại.
 
-Ch. 98: phần thưởng chỉ thật khi khách không trả hàng.
+Hùng họp nhanh. Năm phút.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+"Ngày mai dây chuyền chạy nhanh hơn, nhưng không đánh đổi chất lượng. Số mười lăm đạt hôm nay là đáy — mai phải lên hai mươi. Bình phụ trách kỹ thuật — mỗi giờ kiểm một lần. Lan phụ trách nguyên liệu và kiểm soát — nhập thêm chì hàn, gọi xưởng ép xác nhận sửa khuôn. Tôi phụ trách giao hàng và đối tác — mai xuống Bưu điện tỉnh ký biên bản xác nhận mẫu."
 
-Một chi tiết năm 1987: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Còn lỗi khe vỏ?" — Bình hỏi.
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+"Đã gọi xưởng ép. Sáng mai họ sửa khuôn xong. Nếu chưa xong, dao tróc tiếp. Mai phải ra hai mươi bộ, không có chuyện đợi khuôn."
 
-Trên đường quanh Khu công nghiệp, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Bình gật: "Được."
 
-Cuối buổi, “Sản xuất điện thoại" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+Bảy giờ tối, Hùng về nhà. Bà Hà hỏi: "Hôm nay thế nào?"
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Sản xuất điện thoại" mà không vứt lại?
+"Ra được cuộc gọi thử. Một cái điện thoại hoàn chỉnh do tay mình làm. Nghe rõ, chuông kêu to, mâm quay êm."
 
-Ch. 98: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+Bà Hà cười. "Từ giờ có việc để nói với khách. Ngồi xuống ăn cơm."
 
-Một chi tiết năm 1987: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Mâm cơm tối: canh cua rau đay, cá rô kho tiêu, trứng luộc. Ăn cơm, Lan kể chi tiết: tiếng chuông, giọng nói qua micro carbon, tiếng "cạch" của cần gạt, tiếng mâm quay lăn tăn. Bà Hà lắng nghe. Không hỏi doanh thu, không hỏi lợi nhuận. Bà hỏi: "Công nhân có mệt không?"
 
-Một chi tiết năm 1987: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Có. Nhưng họ thấy sản phẩm ra. Loại mệt khác với mệt vì việc vô ích."
 
-Trên đường quanh Khu công nghiệp, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Thế là được."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Sản xuất điện thoại" mà không vứt lại?
+Trước khi ngủ, Hùng viết sổ ngày:
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ người, và nói thẳng chỗ sẽ đau.
+Thu: không — hàng chưa giao, chưa thu tiền.
+Chi: nguyên liệu ngày — một triệu hai trăm nghìn đồng.
+Tồn kho: chín mươi bảy cuộn cảm Nhật, bốn thùng tụ Trung Quốc (tám trăm cái), hai trăm bốn mươi vỏ nhựa, ba cân chì hàn nguyên, một cân chì hàn đã dùng, hai thùng mâm quay số, ba thùng dây tai nghe.
+Người: đủ hai mươi ba người, không ai nghỉ. Phong hôm nay hàn cháy một bo — phạt cảnh cáo, không phạt tiền vì lần đầu.
+Chất lượng: 15/23 đạt lần một. Mẫu chuẩn: bộ số 7.
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Dòng cuối: "Ngày 15/7/1987 — ra được một cuộc gọi thật từ điện thoại tự làm. Sau cháo năm tỉnh lại, sau khu chợ vải, sau cơm niêu bán từng suất — hôm nay làm điện thoại. Người ta đợi mình, nhưng mình không để họ đợi quá lâu. Mai gặp Bưu điện. Mốc tiếp theo: ba trăm bộ, đúng hạn, đúng chất lượng."
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 33 gắn với đối tác địa phương: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 34 gắn với công nhân xưởng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 38 gắn với đối tác địa phương: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 39 gắn với công nhân xưởng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Sản xuất điện thoại" năm 1987 tại Khu công nghiệp, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “rào cản pháp lý" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “nuối tiếc thời gian" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “Sản xuất điện thoại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông gấp sổ. Bên ngoài, mưa rào tháng Bảy bắt đầu gõ mái tôn. Trong phòng, ánh đèn dầu vàng nhạt. Ông không mơ: mai còn việc — hai mươi ba bộ đã ráp phải kiểm lại từng bộ, xưởng ép phải sửa khuôn, Bưu điện tỉnh chờ mẫu, và ba trăm cuộc gọi khác đang chờ được kết nối.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.98」
