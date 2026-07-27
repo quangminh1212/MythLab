@@ -130,26 +130,6 @@ Khi khoản lương cuối cùng được ghi, Hùng mới ký tên. Lan ký ki�
 
 Trong tầm nhìn của Hùng, ánh sáng quen thuộc hiện lên. Nó không che bàn, không làm mất tiếng xe ngoài phố. Những chữ sáng đứng yên, lạnh và chính xác.
 
-============================================================
-[HỆ THỐNG THƯƠNG GIA - CỘT MỐC CHƯƠNG 60]
-Thời điểm: Cuối năm 1985
-Nhiệm vụ: Hoàn thành Phần 1
-Trạng thái: HOÀN THÀNH
-Điều kiện xác nhận:
-- Mạng lưới chi nhánh vận hành độc lập trong giới hạn được giao
-- Sổ tiền, hàng tồn, công nợ và tiền lương đã đối chiếu
-- Quỹ dự phòng ngắn hạn đã thiết lập
-- Không còn khoản lương treo hoặc giao dịch không người chịu trách nhiệm
-Phần thưởng:
-- EXP: +260
-- Không gian kho: +50 m2
-- Kỹ năng: Đầu tư nâng cấp lv2
-Sổ cái sau ghi nhận:
-- Tổng EXP: 7,800
-- Không gian kho: 3,500 m2
-Ghi chú: Một lần ghi nhận. Không cộng trùng.
-============================================================
-
 Ánh sáng tắt. Hùng không thấy mình mạnh hơn theo cách có thể đo bằng cánh tay hay giọng nói. Thứ thay đổi nằm trong đầu: những dòng tiền, thời hạn và rủi ro vốn rời rạc nay nối thành một bản đồ rõ hơn. Ông hiểu giá của cơ hội, nhưng cũng nhìn rõ giá phải trả nếu dùng vốn sai chỗ. Kỹ năng mới không cho ông biết trước tương lai. Nó chỉ buộc ông nhìn một quyết định đầu tư bằng cả khả năng sinh lời lẫn khả năng sống sót.
 
 Ông ghi phần thưởng vào cuối sổ cái, đúng những con số hệ thống vừa báo. Không gian kho tăng thêm được ghi riêng, chưa coi là hàng, chưa coi là tiền. EXP cộng một lần. Dòng kỹ năng cũ được gạch bằng một nét mảnh rồi viết lại: Đầu tư lv2. Lan đứng cạnh, kiểm phép cộng.
@@ -195,3 +175,12 @@ Sau bữa cơm, ông ra hiên, lật chiếc xe đạp lên kiểm tra. Bàn tay
 Nó bắt đầu từ việc làm ra thứ giúp người ta đi qua những cánh cửa ấy.
 
 Ngay trong những ngày cuối năm 1985, Hùng sẽ đến xưởng, đặt một chiếc xe đạp cũ lên bàn và yêu cầu tháo nó thành từng bộ phận. Phần 2 chưa có lời tuyên bố. Chỉ có mùi dầu máy, tiếng ốc vít, và câu hỏi đầu tiên: trong từng món này, người Việt Nam có thể tự làm chắc được món nào?
+
+============================================================
+「Hệ thống — CỘT MỐC ch.60」
+Năm: 1985
+Tổng EXP: 7,800 (+260 nhịp này)
+Không gian kho: 3,500m² (+50m²)
+Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

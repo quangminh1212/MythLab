@@ -265,3 +265,10 @@ Hùng nhặt chiếc lá lên.
 Rồi ông gấp sổ, đặt vào ngăn kéo, và đi ra hiên sau ngồi cạnh bà.
 
 ============================================================
+「Hệ thống — GHI NHẬN ch.196」
+Năm: 1995
+Tổng EXP: 36,720 (+320 nhịp này)
+Không gian kho: 11,680m² (+80m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
