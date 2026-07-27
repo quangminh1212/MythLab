@@ -1,0 +1,2522 @@
+{
+  "1": {
+    "toks": 5988,
+    "skel": 0,
+    "bytes": 37961,
+    "status": "OK",
+    "file": "Chương 1 - Tỉnh lại.txt"
+  },
+  "2": {
+    "toks": 3553,
+    "skel": 0,
+    "bytes": 21992,
+    "status": "OK",
+    "file": "Chương 2 - Bữa tối đầu tiên.txt"
+  },
+  "3": {
+    "toks": 3254,
+    "skel": 0,
+    "bytes": 20603,
+    "status": "OK",
+    "file": "Chương 3 - Đi huyện thành.txt"
+  },
+  "4": {
+    "toks": 3301,
+    "skel": 0,
+    "bytes": 20777,
+    "status": "OK",
+    "file": "Chương 4 - Bán hàng đầu tiên.txt"
+  },
+  "5": {
+    "toks": 3438,
+    "skel": 0,
+    "bytes": 21490,
+    "status": "OK",
+    "file": "Chương 5 - Mở rộng kinh doanh.txt"
+  },
+  "6": {
+    "toks": 3477,
+    "skel": 0,
+    "bytes": 22080,
+    "status": "OK",
+    "file": "Chương 6 - Tìm đối tác mới.txt"
+  },
+  "7": {
+    "toks": 3420,
+    "skel": 0,
+    "bytes": 21541,
+    "status": "OK",
+    "file": "Chương 7 - Sửa nhà.txt"
+  },
+  "8": {
+    "toks": 3391,
+    "skel": 0,
+    "bytes": 21366,
+    "status": "OK",
+    "file": "Chương 8 - Mở rộng hàng hóa.txt"
+  },
+  "9": {
+    "toks": 3400,
+    "skel": 0,
+    "bytes": 21855,
+    "status": "OK",
+    "file": "Chương 9 - Bán thuốc men.txt"
+  },
+  "10": {
+    "toks": 4034,
+    "skel": 0,
+    "bytes": 25654,
+    "status": "OK",
+    "file": "Chương 10 - Đi Hà Nội.txt"
+  },
+  "11": {
+    "toks": 3556,
+    "skel": 0,
+    "bytes": 22197,
+    "status": "OK",
+    "file": "Chương 11 - Đi Hà Nam.txt"
+  },
+  "12": {
+    "toks": 3259,
+    "skel": 0,
+    "bytes": 20437,
+    "status": "OK",
+    "file": "Chương 12 - Đi Hải Dương.txt"
+  },
+  "13": {
+    "toks": 3492,
+    "skel": 0,
+    "bytes": 21942,
+    "status": "OK",
+    "file": "Chương 13 - Đi Thái Bình.txt"
+  },
+  "14": {
+    "toks": 3564,
+    "skel": 0,
+    "bytes": 22158,
+    "status": "OK",
+    "file": "Chương 14 - Bắt đầu sản xuất.txt"
+  },
+  "15": {
+    "toks": 3472,
+    "skel": 0,
+    "bytes": 21700,
+    "status": "OK",
+    "file": "Chương 15 - Thuê người giúp việc.txt"
+  },
+  "16": {
+    "toks": 3428,
+    "skel": 0,
+    "bytes": 21194,
+    "status": "OK",
+    "file": "Chương 16 - Mở rộng xưởng may.txt"
+  },
+  "17": {
+    "toks": 3436,
+    "skel": 0,
+    "bytes": 21341,
+    "status": "OK",
+    "file": "Chương 17 - Đi Quảng Ninh.txt"
+  },
+  "18": {
+    "toks": 3503,
+    "skel": 0,
+    "bytes": 21641,
+    "status": "OK",
+    "file": "Chương 18 - Đi Nghệ An.txt"
+  },
+  "19": {
+    "toks": 3749,
+    "skel": 0,
+    "bytes": 22980,
+    "status": "OK",
+    "file": "Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt"
+  },
+  "20": {
+    "toks": 3878,
+    "skel": 0,
+    "bytes": 23961,
+    "status": "OK",
+    "file": "Chương 20 - Sản xuất giày dép.txt"
+  },
+  "21": {
+    "toks": 6062,
+    "skel": 0,
+    "bytes": 37623,
+    "status": "OK",
+    "file": "Chương 21 - Mở rộng làm giày.txt"
+  },
+  "22": {
+    "toks": 4791,
+    "skel": 0,
+    "bytes": 29722,
+    "status": "OK",
+    "file": "Chương 22 - Đi Thành phố Hồ Chí Minh.txt"
+  },
+  "23": {
+    "toks": 4809,
+    "skel": 0,
+    "bytes": 30016,
+    "status": "OK",
+    "file": "Chương 23 - Sản xuất túi xách.txt"
+  },
+  "24": {
+    "toks": 3415,
+    "skel": 0,
+    "bytes": 21738,
+    "status": "OK",
+    "file": "Chương 24 - Mở rộng làm túi.txt"
+  },
+  "25": {
+    "toks": 3611,
+    "skel": 0,
+    "bytes": 22900,
+    "status": "OK",
+    "file": "Chương 25 - Mở cửa hàng thứ hai.txt"
+  },
+  "26": {
+    "toks": 8473,
+    "skel": 0,
+    "bytes": 53117,
+    "status": "OK",
+    "file": "Chương 26 - Mua đất xây xưởng.txt"
+  },
+  "27": {
+    "toks": 8675,
+    "skel": 0,
+    "bytes": 54441,
+    "status": "OK",
+    "file": "Chương 27 - Đi Lào.txt"
+  },
+  "28": {
+    "toks": 4140,
+    "skel": 0,
+    "bytes": 26456,
+    "status": "OK",
+    "file": "Chương 28 - Đi Campuchia.txt"
+  },
+  "29": {
+    "toks": 4125,
+    "skel": 0,
+    "bytes": 26327,
+    "status": "OK",
+    "file": "Chương 29 - Đi Thái Lan.txt"
+  },
+  "30": {
+    "toks": 4816,
+    "skel": 0,
+    "bytes": 30713,
+    "status": "OK",
+    "file": "Chương 30 - Mở rộng cửa hàng.txt"
+  },
+  "31": {
+    "toks": 3482,
+    "skel": 0,
+    "bytes": 21919,
+    "status": "OK",
+    "file": "Chương 31 - Tổng kết năm 1983.txt"
+  },
+  "32": {
+    "toks": 3272,
+    "skel": 0,
+    "bytes": 20288,
+    "status": "OK",
+    "file": "Chương 32 - Sản xuất thực phẩm.txt"
+  },
+  "33": {
+    "toks": 3530,
+    "skel": 0,
+    "bytes": 22015,
+    "status": "OK",
+    "file": "Chương 33 - Mở rộng thực phẩm.txt"
+  },
+  "34": {
+    "toks": 3687,
+    "skel": 0,
+    "bytes": 23451,
+    "status": "OK",
+    "file": "Chương 34 - Tuyển kỹ sư Minh.txt"
+  },
+  "35": {
+    "toks": 3276,
+    "skel": 0,
+    "bytes": 20675,
+    "status": "OK",
+    "file": "Chương 35 - Mở rộng miền Nam.txt"
+  },
+  "36": {
+    "toks": 3492,
+    "skel": 0,
+    "bytes": 22177,
+    "status": "OK",
+    "file": "Chương 36 - Mở chi nhánh Hoài Đức.txt"
+  },
+  "37": {
+    "toks": 5587,
+    "skel": 0,
+    "bytes": 35122,
+    "status": "OK",
+    "file": "Chương 37 - Mở chi nhánh Hà Nội.txt"
+  },
+  "38": {
+    "toks": 5031,
+    "skel": 0,
+    "bytes": 31077,
+    "status": "OK",
+    "file": "Chương 38 - Sản xuất radio.txt"
+  },
+  "39": {
+    "toks": 4655,
+    "skel": 0,
+    "bytes": 29056,
+    "status": "OK",
+    "file": "Chương 39 - Mở rộng sản xuất radio.txt"
+  },
+  "40": {
+    "toks": 3845,
+    "skel": 0,
+    "bytes": 24038,
+    "status": "OK",
+    "file": "Chương 40 - Hoàn thành nhiệm vụ radio.txt"
+  },
+  "41": {
+    "toks": 3412,
+    "skel": 0,
+    "bytes": 21423,
+    "status": "OK",
+    "file": "Chương 41 - Sản xuất quạt điện.txt"
+  },
+  "42": {
+    "toks": 3455,
+    "skel": 0,
+    "bytes": 21760,
+    "status": "OK",
+    "file": "Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt"
+  },
+  "43": {
+    "toks": 3531,
+    "skel": 0,
+    "bytes": 22073,
+    "status": "OK",
+    "file": "Chương 43 - Sản xuất đèn điện.txt"
+  },
+  "44": {
+    "toks": 3858,
+    "skel": 0,
+    "bytes": 24960,
+    "status": "OK",
+    "file": "Chương 44 - Hoàn thành nhiệm vụ đèn.txt"
+  },
+  "45": {
+    "toks": 5003,
+    "skel": 0,
+    "bytes": 31558,
+    "status": "OK",
+    "file": "Chương 45 - Mở nhà hàng.txt"
+  },
+  "46": {
+    "toks": 3399,
+    "skel": 0,
+    "bytes": 21429,
+    "status": "OK",
+    "file": "Chương 46 - Mở nhà hàng Hà Nội.txt"
+  },
+  "47": {
+    "toks": 3368,
+    "skel": 0,
+    "bytes": 21389,
+    "status": "OK",
+    "file": "Chương 47 - Mở nhà hàng Sài Gòn.txt"
+  },
+  "48": {
+    "toks": 3566,
+    "skel": 0,
+    "bytes": 22429,
+    "status": "OK",
+    "file": "Chương 48 - Đầu tư bất động sản.txt"
+  },
+  "49": {
+    "toks": 3740,
+    "skel": 0,
+    "bytes": 23449,
+    "status": "OK",
+    "file": "Chương 49 - Mua đất miền Nam.txt"
+  },
+  "50": {
+    "toks": 4622,
+    "skel": 2,
+    "bytes": 29706,
+    "status": "OK",
+    "file": "Chương 50 - Cột mốc Chương 41–50.txt"
+  },
+  "51": {
+    "toks": 4348,
+    "skel": 0,
+    "bytes": 27708,
+    "status": "OK",
+    "file": "Chương 51 - Mở chi nhánh Bắc Ninh.txt"
+  },
+  "52": {
+    "toks": 3573,
+    "skel": 0,
+    "bytes": 23256,
+    "status": "OK",
+    "file": "Chương 52 - Tuyển kỹ sư Minh.txt"
+  },
+  "53": {
+    "toks": 5464,
+    "skel": 0,
+    "bytes": 34571,
+    "status": "OK",
+    "file": "Chương 53 - Mở phòng khám.txt"
+  },
+  "54": {
+    "toks": 4026,
+    "skel": 0,
+    "bytes": 25243,
+    "status": "OK",
+    "file": "Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt"
+  },
+  "55": {
+    "toks": 4693,
+    "skel": 0,
+    "bytes": 30347,
+    "status": "OK",
+    "file": "Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt"
+  },
+  "56": {
+    "toks": 5012,
+    "skel": 0,
+    "bytes": 32448,
+    "status": "OK",
+    "file": "Chương 56 - Minh qua chín mươi ngày thử việc.txt"
+  },
+  "57": {
+    "toks": 4142,
+    "skel": 0,
+    "bytes": 27023,
+    "status": "OK",
+    "file": "Chương 57 - Xây đội ngũ cốt lõi.txt"
+  },
+  "58": {
+    "toks": 5953,
+    "skel": 0,
+    "bytes": 38126,
+    "status": "OK",
+    "file": "Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt"
+  },
+  "59": {
+    "toks": 3282,
+    "skel": 0,
+    "bytes": 21217,
+    "status": "OK",
+    "file": "Chương 59 - Mở chi nhánh Ninh Bình.txt"
+  },
+  "60": {
+    "toks": 3323,
+    "skel": 0,
+    "bytes": 21077,
+    "status": "OK",
+    "file": "Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt"
+  },
+  "61": {
+    "toks": 4883,
+    "skel": 0,
+    "bytes": 30633,
+    "status": "OK",
+    "file": "Chương 61 - Sản xuất xe đạp.txt"
+  },
+  "62": {
+    "toks": 4366,
+    "skel": 0,
+    "bytes": 28285,
+    "status": "OK",
+    "file": "Chương 62 - Sản xuất máy cày.txt"
+  },
+  "63": {
+    "toks": 4418,
+    "skel": 0,
+    "bytes": 28104,
+    "status": "OK",
+    "file": "Chương 63 - Sản xuất máy gặt.txt"
+  },
+  "64": {
+    "toks": 4255,
+    "skel": 0,
+    "bytes": 27035,
+    "status": "OK",
+    "file": "Chương 64 - Mua 30 xe tải.txt"
+  },
+  "65": {
+    "toks": 3268,
+    "skel": 0,
+    "bytes": 21317,
+    "status": "OK",
+    "file": "Chương 65 - Mở rộng chi nhánh tài chính.txt"
+  },
+  "66": {
+    "toks": 4315,
+    "skel": 0,
+    "bytes": 27850,
+    "status": "OK",
+    "file": "Chương 66 - Mở rộng trường học.txt"
+  },
+  "67": {
+    "toks": 3419,
+    "skel": 0,
+    "bytes": 21934,
+    "status": "OK",
+    "file": "Chương 67 - Mở trường Sài Gòn.txt"
+  },
+  "68": {
+    "toks": 3376,
+    "skel": 0,
+    "bytes": 21601,
+    "status": "OK",
+    "file": "Chương 68 - Mở trung tâm đào tạo.txt"
+  },
+  "69": {
+    "toks": 4907,
+    "skel": 0,
+    "bytes": 30956,
+    "status": "OK",
+    "file": "Chương 69 - Mở rộng phòng khám.txt"
+  },
+  "70": {
+    "toks": 3331,
+    "skel": 0,
+    "bytes": 21004,
+    "status": "OK",
+    "file": "Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt"
+  },
+  "71": {
+    "toks": 3626,
+    "skel": 0,
+    "bytes": 23157,
+    "status": "OK",
+    "file": "Chương 71 - Mở dịch vụ cho vay.txt"
+  },
+  "72": {
+    "toks": 4034,
+    "skel": 0,
+    "bytes": 25589,
+    "status": "OK",
+    "file": "Chương 72 - Mở rộng chi nhánh tài chính.txt"
+  },
+  "73": {
+    "toks": 4811,
+    "skel": 0,
+    "bytes": 30403,
+    "status": "OK",
+    "file": "Chương 73 - Hoàn thành nhiệm vụ cho vay.txt"
+  },
+  "74": {
+    "toks": 5870,
+    "skel": 0,
+    "bytes": 37054,
+    "status": "OK",
+    "file": "Chương 74 - Mở trường học tiếp.txt"
+  },
+  "75": {
+    "toks": 3500,
+    "skel": 0,
+    "bytes": 22425,
+    "status": "OK",
+    "file": "Chương 75 - Mở rộng trường học 30 trường.txt"
+  },
+  "76": {
+    "toks": 4633,
+    "skel": 0,
+    "bytes": 29482,
+    "status": "OK",
+    "file": "Chương 76 - Mở rộng trung tâm đào tạo.txt"
+  },
+  "77": {
+    "toks": 5713,
+    "skel": 0,
+    "bytes": 36058,
+    "status": "OK",
+    "file": "Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt"
+  },
+  "78": {
+    "toks": 4214,
+    "skel": 0,
+    "bytes": 26963,
+    "status": "OK",
+    "file": "Chương 78 - Mở rộng phòng khám tiếp.txt"
+  },
+  "79": {
+    "toks": 3389,
+    "skel": 0,
+    "bytes": 21638,
+    "status": "OK",
+    "file": "Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt"
+  },
+  "80": {
+    "toks": 3403,
+    "skel": 0,
+    "bytes": 21294,
+    "status": "OK",
+    "file": "Chương 80 - Mở rộng công ty xây dựng.txt"
+  },
+  "81": {
+    "toks": 3232,
+    "skel": 1,
+    "bytes": 20998,
+    "status": "OK",
+    "file": "Chương 81 - Mở rộng năng lượng nhà máy điện.txt"
+  },
+  "82": {
+    "toks": 3827,
+    "skel": 0,
+    "bytes": 24401,
+    "status": "OK",
+    "file": "Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt"
+  },
+  "83": {
+    "toks": 3446,
+    "skel": 0,
+    "bytes": 21591,
+    "status": "OK",
+    "file": "Chương 83 - Mở rộng từ thiện quỹ.txt"
+  },
+  "84": {
+    "toks": 3522,
+    "skel": 0,
+    "bytes": 22332,
+    "status": "OK",
+    "file": "Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt"
+  },
+  "85": {
+    "toks": 3540,
+    "skel": 0,
+    "bytes": 22761,
+    "status": "OK",
+    "file": "Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt"
+  },
+  "86": {
+    "toks": 4127,
+    "skel": 0,
+    "bytes": 26216,
+    "status": "OK",
+    "file": "Chương 86 - Mở rộng bảo hiểm.txt"
+  },
+  "87": {
+    "toks": 3567,
+    "skel": 0,
+    "bytes": 23399,
+    "status": "OK",
+    "file": "Chương 87 - Sản xuất máy cày ra mắt.txt"
+  },
+  "88": {
+    "toks": 3577,
+    "skel": 0,
+    "bytes": 23080,
+    "status": "OK",
+    "file": "Chương 88 - Sản xuất máy gặt ra mắt.txt"
+  },
+  "89": {
+    "toks": 4325,
+    "skel": 0,
+    "bytes": 27446,
+    "status": "OK",
+    "file": "Chương 89 - Tổng kết Phần 2.txt"
+  },
+  "90": {
+    "toks": 3613,
+    "skel": 1,
+    "bytes": 22677,
+    "status": "OK",
+    "file": "Chương 90 - Bắt đầu Phần 3.txt"
+  },
+  "91": {
+    "toks": 3413,
+    "skel": 0,
+    "bytes": 21680,
+    "status": "OK",
+    "file": "Chương 91 - Sản xuất thép Hải Phòng.txt"
+  },
+  "92": {
+    "toks": 3984,
+    "skel": 0,
+    "bytes": 24997,
+    "status": "OK",
+    "file": "Chương 92 - Sản xuất xi măng.txt"
+  },
+  "93": {
+    "toks": 3405,
+    "skel": 0,
+    "bytes": 21682,
+    "status": "OK",
+    "file": "Chương 93 - Hùng gặp cô Hạnh.txt"
+  },
+  "94": {
+    "toks": 4068,
+    "skel": 0,
+    "bytes": 25382,
+    "status": "OK",
+    "file": "Chương 94 - Hùng gặp cô Mai và cô Lan.txt"
+  },
+  "95": {
+    "toks": 4671,
+    "skel": 1,
+    "bytes": 29105,
+    "status": "OK",
+    "file": "Chương 95 - Hùng chọn cô Hạnh.txt"
+  },
+  "96": {
+    "toks": 3311,
+    "skel": 0,
+    "bytes": 20534,
+    "status": "OK",
+    "file": "Chương 96 - Bà Hà bế cháu nội.txt"
+  },
+  "97": {
+    "toks": 3233,
+    "skel": 0,
+    "bytes": 20407,
+    "status": "OK",
+    "file": "Chương 97 - Sản xuất điện tử.txt"
+  },
+  "98": {
+    "toks": 3402,
+    "skel": 0,
+    "bytes": 21816,
+    "status": "OK",
+    "file": "Chương 98 - Sản xuất điện thoại.txt"
+  },
+  "99": {
+    "toks": 4883,
+    "skel": 1,
+    "bytes": 31486,
+    "status": "OK",
+    "file": "Chương 99 - Mở rộng viễn thông.txt"
+  },
+  "100": {
+    "toks": 3285,
+    "skel": 0,
+    "bytes": 21050,
+    "status": "OK",
+    "file": "Chương 100 - Sản xuất phần mềm.txt"
+  },
+  "101": {
+    "toks": 3403,
+    "skel": 0,
+    "bytes": 22010,
+    "status": "OK",
+    "file": "Chương 101 - Mở rộng cửa hàng 108.txt"
+  },
+  "102": {
+    "toks": 3435,
+    "skel": 0,
+    "bytes": 21456,
+    "status": "OK",
+    "file": "Chương 102 - Mở rộng nhà hàng 42.txt"
+  },
+  "103": {
+    "toks": 3344,
+    "skel": 0,
+    "bytes": 20922,
+    "status": "OK",
+    "file": "Chương 103 - Mở rộng nhà máy 30.txt"
+  },
+  "104": {
+    "toks": 5302,
+    "skel": 0,
+    "bytes": 33865,
+    "status": "OK",
+    "file": "Chương 104 - Mở rộng xuất khẩu châu Âu.txt"
+  },
+  "105": {
+    "toks": 3258,
+    "skel": 1,
+    "bytes": 21468,
+    "status": "OK",
+    "file": "Chương 105 - Tổng kết Phần 3.txt"
+  },
+  "106": {
+    "toks": 3416,
+    "skel": 0,
+    "bytes": 21759,
+    "status": "OK",
+    "file": "Chương 106 - Bắt đầu Phần 4.txt"
+  },
+  "107": {
+    "toks": 3967,
+    "skel": 0,
+    "bytes": 25683,
+    "status": "OK",
+    "file": "Chương 107 - Mở nhà máy Thái Lan.txt"
+  },
+  "108": {
+    "toks": 3633,
+    "skel": 0,
+    "bytes": 23235,
+    "status": "OK",
+    "file": "Chương 108 - Mở nhà máy Indonesia.txt"
+  },
+  "109": {
+    "toks": 3203,
+    "skel": 0,
+    "bytes": 20547,
+    "status": "OK",
+    "file": "Chương 109 - Mở nhà máy Đức.txt"
+  },
+  "110": {
+    "toks": 3400,
+    "skel": 0,
+    "bytes": 21593,
+    "status": "OK",
+    "file": "Chương 110 - M&A Bangkok Electronics.txt"
+  },
+  "111": {
+    "toks": 3206,
+    "skel": 0,
+    "bytes": 20774,
+    "status": "OK",
+    "file": "Chương 111 - Mở sang châu Mỹ USA.txt"
+  },
+  "112": {
+    "toks": 4056,
+    "skel": 0,
+    "bytes": 25576,
+    "status": "OK",
+    "file": "Chương 112 - Hoàn thành phần 3.txt"
+  },
+  "113": {
+    "toks": 3520,
+    "skel": 0,
+    "bytes": 22171,
+    "status": "OK",
+    "file": "Chương 113 - Mở nhà máy USA.txt"
+  },
+  "114": {
+    "toks": 4482,
+    "skel": 0,
+    "bytes": 28096,
+    "status": "OK",
+    "file": "Chương 114 - M&A Stahl GmbH.txt"
+  },
+  "115": {
+    "toks": 3626,
+    "skel": 0,
+    "bytes": 23220,
+    "status": "OK",
+    "file": "Chương 115 - Mở nhà máy Nigeria.txt"
+  },
+  "116": {
+    "toks": 3898,
+    "skel": 0,
+    "bytes": 25001,
+    "status": "OK",
+    "file": "Chương 116 - Mở nhà máy Úc.txt"
+  },
+  "117": {
+    "toks": 3776,
+    "skel": 0,
+    "bytes": 24036,
+    "status": "OK",
+    "file": "Chương 117 - Tổng tài sản 1000 tỷ.txt"
+  },
+  "118": {
+    "toks": 3320,
+    "skel": 0,
+    "bytes": 21589,
+    "status": "OK",
+    "file": "Chương 118 - Những ngày nằm viện.txt"
+  },
+  "119": {
+    "toks": 3427,
+    "skel": 0,
+    "bytes": 21976,
+    "status": "OK",
+    "file": "Chương 119 - Bước ngoặt sức khỏe.txt"
+  },
+  "120": {
+    "toks": 3317,
+    "skel": 0,
+    "bytes": 28394,
+    "status": "OK",
+    "file": "Chương 120 - Học cách ủy thác sâu hơn.txt"
+  },
+  "121": {
+    "toks": 4510,
+    "skel": 0,
+    "bytes": 35990,
+    "status": "OK",
+    "file": "Chương 121 - Mở rộng sang Thái Lan.txt"
+  },
+  "122": {
+    "toks": 3401,
+    "skel": 0,
+    "bytes": 22270,
+    "status": "OK",
+    "file": "Chương 122 - Myanmar và Campuchia.txt"
+  },
+  "123": {
+    "toks": 3926,
+    "skel": 0,
+    "bytes": 24625,
+    "status": "OK",
+    "file": "Chương 123 - Xây dựng đội ngũ xuất khẩu.txt"
+  },
+  "124": {
+    "toks": 3890,
+    "skel": 0,
+    "bytes": 24809,
+    "status": "OK",
+    "file": "Chương 124 - Cạnh tranh với Trung Quốc.txt"
+  },
+  "125": {
+    "toks": 4123,
+    "skel": 0,
+    "bytes": 26045,
+    "status": "OK",
+    "file": "Chương 125 - Lan trưởng thành.txt"
+  },
+  "126": {
+    "toks": 3475,
+    "skel": 0,
+    "bytes": 22006,
+    "status": "OK",
+    "file": "Chương 126 - Giá trị của sự buông.txt"
+  },
+  "127": {
+    "toks": 3744,
+    "skel": 0,
+    "bytes": 23794,
+    "status": "OK",
+    "file": "Chương 127 - Lan nhận nhiệm vụ mới.txt"
+  },
+  "128": {
+    "toks": 3572,
+    "skel": 0,
+    "bytes": 22677,
+    "status": "OK",
+    "file": "Chương 128 - Khủng hoảng đầu tiên.txt"
+  },
+  "129": {
+    "toks": 3502,
+    "skel": 0,
+    "bytes": 22144,
+    "status": "OK",
+    "file": "Chương 129 - Bước lùi để tiến xa hơn.txt"
+  },
+  "130": {
+    "toks": 3744,
+    "skel": 0,
+    "bytes": 23300,
+    "status": "OK",
+    "file": "Chương 130 - Thử thách kế thừa.txt"
+  },
+  "131": {
+    "toks": 3437,
+    "skel": 0,
+    "bytes": 21574,
+    "status": "OK",
+    "file": "Chương 131 - Mở rộng Đông Nam Á.txt"
+  },
+  "132": {
+    "toks": 3304,
+    "skel": 0,
+    "bytes": 20951,
+    "status": "OK",
+    "file": "Chương 132 - Đối mặt hải quan Indonesia.txt"
+  },
+  "133": {
+    "toks": 3298,
+    "skel": 0,
+    "bytes": 20835,
+    "status": "OK",
+    "file": "Chương 133 - Malaysia và Philippines.txt"
+  },
+  "134": {
+    "toks": 3401,
+    "skel": 0,
+    "bytes": 21600,
+    "status": "OK",
+    "file": "Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt"
+  },
+  "135": {
+    "toks": 3537,
+    "skel": 0,
+    "bytes": 22427,
+    "status": "OK",
+    "file": "Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt"
+  },
+  "136": {
+    "toks": 3343,
+    "skel": 0,
+    "bytes": 21025,
+    "status": "OK",
+    "file": "Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt"
+  },
+  "137": {
+    "toks": 3570,
+    "skel": 0,
+    "bytes": 22877,
+    "status": "OK",
+    "file": "Chương 137 - Cuộc gặp với ông Sato.txt"
+  },
+  "138": {
+    "toks": 3435,
+    "skel": 0,
+    "bytes": 21607,
+    "status": "OK",
+    "file": "Chương 138 - Thử thách từ ông Sato.txt"
+  },
+  "139": {
+    "toks": 3382,
+    "skel": 1,
+    "bytes": 21397,
+    "status": "OK",
+    "file": "Chương 139 - Mở rộng sang Hàn Quốc.txt"
+  },
+  "140": {
+    "toks": 3926,
+    "skel": 0,
+    "bytes": 24393,
+    "status": "OK",
+    "file": "Chương 140 - Chuẩn bị cho thị trường Mỹ.txt"
+  },
+  "141": {
+    "toks": 4134,
+    "skel": 0,
+    "bytes": 26077,
+    "status": "OK",
+    "file": "Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt"
+  },
+  "142": {
+    "toks": 3359,
+    "skel": 0,
+    "bytes": 21407,
+    "status": "OK",
+    "file": "Chương 142 - Thử thách đầu tiên tại Mỹ.txt"
+  },
+  "143": {
+    "toks": 3978,
+    "skel": 0,
+    "bytes": 25113,
+    "status": "OK",
+    "file": "Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt"
+  },
+  "144": {
+    "toks": 4150,
+    "skel": 0,
+    "bytes": 26185,
+    "status": "OK",
+    "file": "Chương 144 - Mở rộng đối tác Mỹ.txt"
+  },
+  "145": {
+    "toks": 3383,
+    "skel": 0,
+    "bytes": 22083,
+    "status": "OK",
+    "file": "Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt"
+  },
+  "146": {
+    "toks": 3556,
+    "skel": 0,
+    "bytes": 22710,
+    "status": "OK",
+    "file": "Chương 146 - Lan học cách đàm phán với người Mỹ.txt"
+  },
+  "147": {
+    "toks": 3269,
+    "skel": 0,
+    "bytes": 20844,
+    "status": "OK",
+    "file": "Chương 147 - Lan đối mặt với áp lực Mỹ.txt"
+  },
+  "148": {
+    "toks": 3796,
+    "skel": 0,
+    "bytes": 23500,
+    "status": "OK",
+    "file": "Chương 148 - Bữa tối 3 thế hệ.txt"
+  },
+  "149": {
+    "toks": 3415,
+    "skel": 0,
+    "bytes": 22170,
+    "status": "OK",
+    "file": "Chương 149 - Trở lại Mỹ với tinh thần mới.txt"
+  },
+  "150": {
+    "toks": 3430,
+    "skel": 0,
+    "bytes": 22263,
+    "status": "OK",
+    "file": "Chương 150 - Văn Hùng tập trung vào Việt Nam.txt"
+  },
+  "151": {
+    "toks": 3375,
+    "skel": 0,
+    "bytes": 22318,
+    "status": "OK",
+    "file": "Chương 151 - Lan mở rộng sang Canada.txt"
+  },
+  "152": {
+    "toks": 3304,
+    "skel": 0,
+    "bytes": 21083,
+    "status": "OK",
+    "file": "Chương 152 - Văn Hùng nhận huân chương.txt"
+  },
+  "153": {
+    "toks": 3331,
+    "skel": 0,
+    "bytes": 21690,
+    "status": "OK",
+    "file": "Chương 153 - Lan mở rộng sang Australia.txt"
+  },
+  "154": {
+    "toks": 3389,
+    "skel": 0,
+    "bytes": 21975,
+    "status": "OK",
+    "file": "Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt"
+  },
+  "155": {
+    "toks": 3421,
+    "skel": 0,
+    "bytes": 22213,
+    "status": "OK",
+    "file": "Chương 155 - Ngân hàng Thương Gia mở cửa.txt"
+  },
+  "156": {
+    "toks": 3495,
+    "skel": 0,
+    "bytes": 22412,
+    "status": "OK",
+    "file": "Chương 156 - Cho vay doanh nghiệp nhỏ.txt"
+  },
+  "157": {
+    "toks": 3221,
+    "skel": 0,
+    "bytes": 20713,
+    "status": "OK",
+    "file": "Chương 157 - Đối mặt kiểm toán nhà nước.txt"
+  },
+  "158": {
+    "toks": 3386,
+    "skel": 0,
+    "bytes": 21881,
+    "status": "OK",
+    "file": "Chương 158 - Lan về nước báo cáo.txt"
+  },
+  "159": {
+    "toks": 3319,
+    "skel": 0,
+    "bytes": 21592,
+    "status": "OK",
+    "file": "Chương 159 - Xây nhà máy ô tô đầu tiên.txt"
+  },
+  "160": {
+    "toks": 3429,
+    "skel": 0,
+    "bytes": 22109,
+    "status": "OK",
+    "file": "Chương 160 - Thử nghiệm mẫu xe Thành Công.txt"
+  },
+  "161": {
+    "toks": 3420,
+    "skel": 0,
+    "bytes": 22360,
+    "status": "OK",
+    "file": "Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt"
+  },
+  "162": {
+    "toks": 3493,
+    "skel": 0,
+    "bytes": 22238,
+    "status": "OK",
+    "file": "Chương 162 - Chuỗi cung ứng phụ tùng.txt"
+  },
+  "163": {
+    "toks": 3488,
+    "skel": 0,
+    "bytes": 22177,
+    "status": "OK",
+    "file": "Chương 163 - Khủng hoảng nguyên liệu thép.txt"
+  },
+  "164": {
+    "toks": 3386,
+    "skel": 0,
+    "bytes": 22193,
+    "status": "OK",
+    "file": "Chương 164 - Hùng dàn xếp với nhà cung cấp.txt"
+  },
+  "165": {
+    "toks": 3397,
+    "skel": 0,
+    "bytes": 21737,
+    "status": "OK",
+    "file": "Chương 165 - Ra mắt xe máy Thương Gia.txt"
+  },
+  "166": {
+    "toks": 3597,
+    "skel": 0,
+    "bytes": 23577,
+    "status": "OK",
+    "file": "Chương 166 - Mở showroom toàn quốc.txt"
+  },
+  "167": {
+    "toks": 3911,
+    "skel": 0,
+    "bytes": 25150,
+    "status": "OK",
+    "file": "Chương 167 - Điện thoại Thương Gia thế hệ 2.txt"
+  },
+  "168": {
+    "toks": 4356,
+    "skel": 0,
+    "bytes": 27798,
+    "status": "OK",
+    "file": "Chương 168 - Nhà máy máy tính Hà Nội.txt"
+  },
+  "169": {
+    "toks": 3379,
+    "skel": 0,
+    "bytes": 22539,
+    "status": "OK",
+    "file": "Chương 169 - Xây dựng thương hiệu quốc tế.txt"
+  },
+  "170": {
+    "toks": 3990,
+    "skel": 0,
+    "bytes": 25955,
+    "status": "OK",
+    "file": "Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt"
+  },
+  "171": {
+    "toks": 3251,
+    "skel": 0,
+    "bytes": 21405,
+    "status": "OK",
+    "file": "Chương 171 - Chuyển giao cho thế hệ sau.txt"
+  },
+  "172": {
+    "toks": 3530,
+    "skel": 0,
+    "bytes": 22216,
+    "status": "OK",
+    "file": "Chương 172 - Gia đình sum họp.txt"
+  },
+  "173": {
+    "toks": 3408,
+    "skel": 0,
+    "bytes": 21693,
+    "status": "OK",
+    "file": "Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt"
+  },
+  "174": {
+    "toks": 3404,
+    "skel": 0,
+    "bytes": 21648,
+    "status": "OK",
+    "file": "Chương 174 - Logistics quốc tế Thương Gia.txt"
+  },
+  "175": {
+    "toks": 3418,
+    "skel": 0,
+    "bytes": 21796,
+    "status": "OK",
+    "file": "Chương 175 - Cảng container Hải Phòng.txt"
+  },
+  "176": {
+    "toks": 3708,
+    "skel": 0,
+    "bytes": 23413,
+    "status": "OK",
+    "file": "Chương 176 - Lan về nước.txt"
+  },
+  "177": {
+    "toks": 4205,
+    "skel": 0,
+    "bytes": 26455,
+    "status": "OK",
+    "file": "Chương 177 - Mở rộng nhà máy ô tô.txt"
+  },
+  "178": {
+    "toks": 4108,
+    "skel": 0,
+    "bytes": 26463,
+    "status": "OK",
+    "file": "Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt"
+  },
+  "179": {
+    "toks": 3838,
+    "skel": 0,
+    "bytes": 24840,
+    "status": "OK",
+    "file": "Chương 179 - Chuẩn bị niêm yết công ty con.txt"
+  },
+  "180": {
+    "toks": 3719,
+    "skel": 0,
+    "bytes": 23720,
+    "status": "OK",
+    "file": "Chương 180 - Lan đàm phán với đối tác châu Âu.txt"
+  },
+  "181": {
+    "toks": 3388,
+    "skel": 0,
+    "bytes": 21492,
+    "status": "OK",
+    "file": "Chương 181 - Cô Hạnh sinh con.txt"
+  },
+  "182": {
+    "toks": 3270,
+    "skel": 0,
+    "bytes": 20681,
+    "status": "OK",
+    "file": "Chương 182 - Mở rộng quỹ đầu tư.txt"
+  },
+  "183": {
+    "toks": 3518,
+    "skel": 0,
+    "bytes": 22717,
+    "status": "OK",
+    "file": "Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt"
+  },
+  "184": {
+    "toks": 3498,
+    "skel": 0,
+    "bytes": 23010,
+    "status": "OK",
+    "file": "Chương 184 - Khủng hoảng tài chính châu Á 1994.txt"
+  },
+  "185": {
+    "toks": 3679,
+    "skel": 0,
+    "bytes": 23709,
+    "status": "OK",
+    "file": "Chương 185 - Tổng kết nửa chặng đường châu Á.txt"
+  },
+  "186": {
+    "toks": 4657,
+    "skel": 0,
+    "bytes": 29973,
+    "status": "OK",
+    "file": "Chương 186 - Lan và chiến lược châu Á mới.txt"
+  },
+  "187": {
+    "toks": 4159,
+    "skel": 0,
+    "bytes": 26800,
+    "status": "OK",
+    "file": "Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt"
+  },
+  "188": {
+    "toks": 3663,
+    "skel": 0,
+    "bytes": 24067,
+    "status": "OK",
+    "file": "Chương 188 - Điều tra và chứng cứ.txt"
+  },
+  "189": {
+    "toks": 3614,
+    "skel": 0,
+    "bytes": 23951,
+    "status": "OK",
+    "file": "Chương 189 - Đối chất công khai.txt"
+  },
+  "190": {
+    "toks": 3755,
+    "skel": 0,
+    "bytes": 24607,
+    "status": "OK",
+    "file": "Chương 190 - Mở rộng sang châu Phi.txt"
+  },
+  "191": {
+    "toks": 5079,
+    "skel": 0,
+    "bytes": 32686,
+    "status": "OK",
+    "file": "Chương 191 - Đầu tư công nghệ cao.txt"
+  },
+  "192": {
+    "toks": 4835,
+    "skel": 0,
+    "bytes": 30659,
+    "status": "OK",
+    "file": "Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt"
+  },
+  "193": {
+    "toks": 4030,
+    "skel": 0,
+    "bytes": 26369,
+    "status": "OK",
+    "file": "Chương 193 - Xây dựng thương hiệu toàn cầu.txt"
+  },
+  "194": {
+    "toks": 4030,
+    "skel": 0,
+    "bytes": 25621,
+    "status": "OK",
+    "file": "Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt"
+  },
+  "195": {
+    "toks": 3363,
+    "skel": 0,
+    "bytes": 21426,
+    "status": "OK",
+    "file": "Chương 195 - Lan chèo lái Thương Gia.txt"
+  },
+  "196": {
+    "toks": 3362,
+    "skel": 0,
+    "bytes": 20997,
+    "status": "OK",
+    "file": "Chương 196 - Bà Hà sức khỏe giảm.txt"
+  },
+  "197": {
+    "toks": 3441,
+    "skel": 0,
+    "bytes": 21648,
+    "status": "OK",
+    "file": "Chương 197 - Bà Hà phát biểu trước toàn thể.txt"
+  },
+  "198": {
+    "toks": 3891,
+    "skel": 0,
+    "bytes": 24992,
+    "status": "OK",
+    "file": "Chương 198 - Hùng về vườn.txt"
+  },
+  "199": {
+    "toks": 3222,
+    "skel": 0,
+    "bytes": 20700,
+    "status": "OK",
+    "file": "Chương 199 - Tổng kết Phần 3.txt"
+  },
+  "200": {
+    "toks": 3536,
+    "skel": 0,
+    "bytes": 22539,
+    "status": "OK",
+    "file": "Chương 200 - Lễ kỷ niệm 10 năm.txt"
+  },
+  "201": {
+    "toks": 3395,
+    "skel": 0,
+    "bytes": 21703,
+    "status": "OK",
+    "file": "Chương 201 - Mở rộng châu Âu.txt"
+  },
+  "202": {
+    "toks": 3475,
+    "skel": 0,
+    "bytes": 22140,
+    "status": "OK",
+    "file": "Chương 202 - Chi nhánh Paris.txt"
+  },
+  "203": {
+    "toks": 3223,
+    "skel": 0,
+    "bytes": 20818,
+    "status": "OK",
+    "file": "Chương 203 - Nhà hàng Thương Gia tại Lyon.txt"
+  },
+  "204": {
+    "toks": 3319,
+    "skel": 0,
+    "bytes": 21566,
+    "status": "OK",
+    "file": "Chương 204 - Berlin và kỹ thuật Đức.txt"
+  },
+  "205": {
+    "toks": 4314,
+    "skel": 0,
+    "bytes": 27401,
+    "status": "OK",
+    "file": "Chương 205 - Nhà máy linh kiện München.txt"
+  },
+  "206": {
+    "toks": 4113,
+    "skel": 0,
+    "bytes": 26150,
+    "status": "OK",
+    "file": "Chương 206 - London – trung tâm tài chính.txt"
+  },
+  "207": {
+    "toks": 3334,
+    "skel": 0,
+    "bytes": 21642,
+    "status": "OK",
+    "file": "Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt"
+  },
+  "208": {
+    "toks": 3378,
+    "skel": 0,
+    "bytes": 21524,
+    "status": "OK",
+    "file": "Chương 208 - New York – Wall Street lần đầu.txt"
+  },
+  "209": {
+    "toks": 3593,
+    "skel": 0,
+    "bytes": 22663,
+    "status": "OK",
+    "file": "Chương 209 - Đàm phán niêm yết ADR.txt"
+  },
+  "210": {
+    "toks": 3518,
+    "skel": 0,
+    "bytes": 22558,
+    "status": "OK",
+    "file": "Chương 210 - Văn phòng Thương Gia Manhattan.txt"
+  },
+  "211": {
+    "toks": 3486,
+    "skel": 0,
+    "bytes": 22431,
+    "status": "OK",
+    "file": "Chương 211 - Chuỗi cửa hàng West Coast.txt"
+  },
+  "212": {
+    "toks": 4144,
+    "skel": 0,
+    "bytes": 26492,
+    "status": "OK",
+    "file": "Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt"
+  },
+  "213": {
+    "toks": 3540,
+    "skel": 0,
+    "bytes": 22786,
+    "status": "OK",
+    "file": "Chương 213 - Chứng nhận ISO toàn hệ thống.txt"
+  },
+  "214": {
+    "toks": 3369,
+    "skel": 0,
+    "bytes": 21986,
+    "status": "OK",
+    "file": "Chương 214 - M&A đối thủ vừa tại Pháp.txt"
+  },
+  "215": {
+    "toks": 3687,
+    "skel": 0,
+    "bytes": 23923,
+    "status": "OK",
+    "file": "Chương 215 - Tích hợp văn hóa doanh nghiệp.txt"
+  },
+  "216": {
+    "toks": 3526,
+    "skel": 0,
+    "bytes": 22566,
+    "status": "OK",
+    "file": "Chương 216 - Sản xuất chip thử nghiệm.txt"
+  },
+  "217": {
+    "toks": 4007,
+    "skel": 0,
+    "bytes": 25844,
+    "status": "OK",
+    "file": "Chương 217 - Nhà máy năng lượng tái tạo.txt"
+  },
+  "218": {
+    "toks": 3303,
+    "skel": 0,
+    "bytes": 21673,
+    "status": "OK",
+    "file": "Chương 218 - Pin mặt trời thế hệ mới.txt"
+  },
+  "219": {
+    "toks": 3945,
+    "skel": 0,
+    "bytes": 25401,
+    "status": "OK",
+    "file": "Chương 219 - Xe điện nguyên mẫu.txt"
+  },
+  "220": {
+    "toks": 3385,
+    "skel": 0,
+    "bytes": 21663,
+    "status": "OK",
+    "file": "Chương 220 - Triển lãm công nghệ châu Á.txt"
+  },
+  "221": {
+    "toks": 3274,
+    "skel": 0,
+    "bytes": 21251,
+    "status": "OK",
+    "file": "Chương 221 - Dấu hiệu khủng hoảng 2008.txt"
+  },
+  "222": {
+    "toks": 3437,
+    "skel": 0,
+    "bytes": 22115,
+    "status": "OK",
+    "file": "Chương 222 - Hệ thống cảnh báo sớm.txt"
+  },
+  "223": {
+    "toks": 3232,
+    "skel": 0,
+    "bytes": 20723,
+    "status": "OK",
+    "file": "Chương 223 - Họp khẩn ban lãnh đạo.txt"
+  },
+  "224": {
+    "toks": 3384,
+    "skel": 0,
+    "bytes": 22497,
+    "status": "OK",
+    "file": "Chương 224 - Bảo vệ dòng tiền.txt"
+  },
+  "225": {
+    "toks": 3256,
+    "skel": 0,
+    "bytes": 20718,
+    "status": "OK",
+    "file": "Chương 225 - Cơn bão Lehman.txt"
+  },
+  "226": {
+    "toks": 3320,
+    "skel": 0,
+    "bytes": 21037,
+    "status": "OK",
+    "file": "Chương 226 - Những cuộc gọi nửa đêm.txt"
+  },
+  "227": {
+    "toks": 3523,
+    "skel": 0,
+    "bytes": 22369,
+    "status": "OK",
+    "file": "Chương 227 - Đi săn khi ai cũng sợ.txt"
+  },
+  "228": {
+    "toks": 3342,
+    "skel": 0,
+    "bytes": 21118,
+    "status": "OK",
+    "file": "Chương 228 - Lan giữ pháo đài Mỹ.txt"
+  },
+  "229": {
+    "toks": 3270,
+    "skel": 0,
+    "bytes": 20817,
+    "status": "OK",
+    "file": "Chương 229 - Không ai bị bỏ lại.txt"
+  },
+  "230": {
+    "toks": 3231,
+    "skel": 0,
+    "bytes": 20601,
+    "status": "OK",
+    "file": "Chương 230 - Truyền thông và niềm tin.txt"
+  },
+  "231": {
+    "toks": 3518,
+    "skel": 0,
+    "bytes": 22910,
+    "status": "OK",
+    "file": "Chương 231 - Bão tố bắt đầu.txt"
+  },
+  "232": {
+    "toks": 3363,
+    "skel": 0,
+    "bytes": 21573,
+    "status": "OK",
+    "file": "Chương 232 - Cuộc chia tay đau đớn.txt"
+  },
+  "233": {
+    "toks": 3895,
+    "skel": 0,
+    "bytes": 24877,
+    "status": "OK",
+    "file": "Chương 233 - Hội nghị Singapore.txt"
+  },
+  "234": {
+    "toks": 3494,
+    "skel": 0,
+    "bytes": 22500,
+    "status": "OK",
+    "file": "Chương 234 - Bản vẽ Thương Gia City.txt"
+  },
+  "235": {
+    "toks": 3239,
+    "skel": 0,
+    "bytes": 20499,
+    "status": "OK",
+    "file": "Chương 235 - Bản lề cho tương lai.txt"
+  },
+  "236": {
+    "toks": 3280,
+    "skel": 0,
+    "bytes": 25973,
+    "status": "OK",
+    "file": "Chương 236 - Cứu tinh.txt"
+  },
+  "237": {
+    "toks": 3528,
+    "skel": 0,
+    "bytes": 22481,
+    "status": "OK",
+    "file": "Chương 237 - Những kỹ sư đầu tiên.txt"
+  },
+  "238": {
+    "toks": 3333,
+    "skel": 0,
+    "bytes": 26912,
+    "status": "OK",
+    "file": "Chương 238 - Năm mới, trời mới.txt"
+  },
+  "239": {
+    "toks": 1030,
+    "skel": 0,
+    "bytes": 6792,
+    "status": "SHORT",
+    "file": "Chương 239 - Đường dài.txt"
+  },
+  "240": {
+    "toks": 2766,
+    "skel": 0,
+    "bytes": 18069,
+    "status": "SHORT",
+    "file": "Chương 240 - Thương Gia City.txt"
+  },
+  "241": {
+    "toks": 3312,
+    "skel": 0,
+    "bytes": 21176,
+    "status": "OK",
+    "file": "Chương 241 - Khởi công Thương Gia City.txt"
+  },
+  "242": {
+    "toks": 3349,
+    "skel": 0,
+    "bytes": 21223,
+    "status": "OK",
+    "file": "Chương 242 - Quy hoạch 500 hecta.txt"
+  },
+  "243": {
+    "toks": 3432,
+    "skel": 0,
+    "bytes": 21977,
+    "status": "OK",
+    "file": "Chương 243 - Hạ tầng và nhà ở công nhân.txt"
+  },
+  "244": {
+    "toks": 3402,
+    "skel": 0,
+    "bytes": 21917,
+    "status": "OK",
+    "file": "Chương 244 - Trường học trong khu công nghiệp.txt"
+  },
+  "245": {
+    "toks": 3238,
+    "skel": 0,
+    "bytes": 20845,
+    "status": "OK",
+    "file": "Chương 245 - Xe điện thương mại hóa.txt"
+  },
+  "246": {
+    "toks": 3208,
+    "skel": 0,
+    "bytes": 20673,
+    "status": "OK",
+    "file": "Chương 246 - Trạm sạc toàn quốc.txt"
+  },
+  "247": {
+    "toks": 3207,
+    "skel": 0,
+    "bytes": 20547,
+    "status": "OK",
+    "file": "Chương 247 - AI sơ khai trong quản lý kho.txt"
+  },
+  "248": {
+    "toks": 3318,
+    "skel": 0,
+    "bytes": 21024,
+    "status": "OK",
+    "file": "Chương 248 - Trung tâm dữ liệu Thương Gia.txt"
+  },
+  "249": {
+    "toks": 3560,
+    "skel": 0,
+    "bytes": 22647,
+    "status": "OK",
+    "file": "Chương 249 - Đối tác công nghệ Silicon Valley.txt"
+  },
+  "250": {
+    "toks": 3433,
+    "skel": 0,
+    "bytes": 21896,
+    "status": "OK",
+    "file": "Chương 250 - Lan dẫn quỹ R&D.txt"
+  },
+  "251": {
+    "toks": 3374,
+    "skel": 0,
+    "bytes": 21259,
+    "status": "OK",
+    "file": "Chương 251 - Con trai Hùng vào công ty.txt"
+  },
+  "252": {
+    "toks": 3468,
+    "skel": 0,
+    "bytes": 22092,
+    "status": "OK",
+    "file": "Chương 252 - Thế hệ thứ hai học việc.txt"
+  },
+  "253": {
+    "toks": 3493,
+    "skel": 0,
+    "bytes": 22199,
+    "status": "OK",
+    "file": "Chương 253 - Huân chương Lao động.txt"
+  },
+  "254": {
+    "toks": 3241,
+    "skel": 0,
+    "bytes": 20589,
+    "status": "OK",
+    "file": "Chương 254 - Gặp lãnh đạo ngành.txt"
+  },
+  "255": {
+    "toks": 3356,
+    "skel": 0,
+    "bytes": 21558,
+    "status": "OK",
+    "file": "Chương 255 - Cam kết phát triển bền vững.txt"
+  },
+  "256": {
+    "toks": 3501,
+    "skel": 0,
+    "bytes": 22044,
+    "status": "OK",
+    "file": "Chương 256 - Top thương gia Việt Nam.txt"
+  },
+  "257": {
+    "toks": 3667,
+    "skel": 0,
+    "bytes": 22952,
+    "status": "OK",
+    "file": "Chương 257 - Lễ vinh danh toàn quốc.txt"
+  },
+  "258": {
+    "toks": 3671,
+    "skel": 0,
+    "bytes": 23524,
+    "status": "OK",
+    "file": "Chương 258 - Mở rộng châu Phi sâu.txt"
+  },
+  "259": {
+    "toks": 3674,
+    "skel": 0,
+    "bytes": 23329,
+    "status": "OK",
+    "file": "Chương 259 - Nam Mỹ – Brazil và Chile.txt"
+  },
+  "260": {
+    "toks": 3416,
+    "skel": 0,
+    "bytes": 21878,
+    "status": "OK",
+    "file": "Chương 260 - Chuỗi giá trị toàn cầu.txt"
+  },
+  "261": {
+    "toks": 3736,
+    "skel": 0,
+    "bytes": 23702,
+    "status": "OK",
+    "file": "Chương 261 - Kiểm toán ESG đầu tiên.txt"
+  },
+  "262": {
+    "toks": 3375,
+    "skel": 0,
+    "bytes": 21331,
+    "status": "OK",
+    "file": "Chương 262 - Bà Hà và sách hồi ký gia đình.txt"
+  },
+  "263": {
+    "toks": 3227,
+    "skel": 0,
+    "bytes": 20510,
+    "status": "OK",
+    "file": "Chương 263 - Flashback 25 năm.txt"
+  },
+  "264": {
+    "toks": 3459,
+    "skel": 0,
+    "bytes": 21927,
+    "status": "OK",
+    "file": "Chương 264 - Tái khẳng định sứ mệnh.txt"
+  },
+  "265": {
+    "toks": 3316,
+    "skel": 0,
+    "bytes": 21233,
+    "status": "OK",
+    "file": "Chương 265 - Đối thủ mới từ Hàn Quốc.txt"
+  },
+  "266": {
+    "toks": 3203,
+    "skel": 0,
+    "bytes": 20498,
+    "status": "OK",
+    "file": "Chương 266 - Cạnh tranh lành mạnh.txt"
+  },
+  "267": {
+    "toks": 3232,
+    "skel": 0,
+    "bytes": 20612,
+    "status": "OK",
+    "file": "Chương 267 - Liên minh chiến lược Đông Á.txt"
+  },
+  "268": {
+    "toks": 3666,
+    "skel": 0,
+    "bytes": 23010,
+    "status": "OK",
+    "file": "Chương 268 - Tổng kết toàn cầu hóa.txt"
+  },
+  "269": {
+    "toks": 3547,
+    "skel": 0,
+    "bytes": 22791,
+    "status": "OK",
+    "file": "Chương 269 - Phần thưởng Phần 4.txt"
+  },
+  "270": {
+    "toks": 3396,
+    "skel": 0,
+    "bytes": 21340,
+    "status": "OK",
+    "file": "Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt"
+  },
+  "271": {
+    "toks": 3715,
+    "skel": 0,
+    "bytes": 23068,
+    "status": "OK",
+    "file": "Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt"
+  },
+  "272": {
+    "toks": 3444,
+    "skel": 0,
+    "bytes": 21733,
+    "status": "OK",
+    "file": "Chương 272 - Đế chế truyền thông Thương Gia.txt"
+  },
+  "273": {
+    "toks": 3265,
+    "skel": 0,
+    "bytes": 20502,
+    "status": "OK",
+    "file": "Chương 273 - Báo và tạp chí kinh tế.txt"
+  },
+  "274": {
+    "toks": 3313,
+    "skel": 0,
+    "bytes": 20710,
+    "status": "OK",
+    "file": "Chương 274 - Kênh truyền hình thực tế.txt"
+  },
+  "275": {
+    "toks": 3774,
+    "skel": 0,
+    "bytes": 23727,
+    "status": "OK",
+    "file": "Chương 275 - Nền tảng mạng xã hội nội địa.txt"
+  },
+  "276": {
+    "toks": 3467,
+    "skel": 0,
+    "bytes": 21723,
+    "status": "OK",
+    "file": "Chương 276 - Thương Gia FC ra đời.txt"
+  },
+  "277": {
+    "toks": 3696,
+    "skel": 0,
+    "bytes": 23162,
+    "status": "OK",
+    "file": "Chương 277 - Sân vận động cộng đồng.txt"
+  },
+  "278": {
+    "toks": 4377,
+    "skel": 0,
+    "bytes": 27356,
+    "status": "OK",
+    "file": "Chương 278 - Tài trợ Olympic khu vực.txt"
+  },
+  "279": {
+    "toks": 3921,
+    "skel": 0,
+    "bytes": 24506,
+    "status": "OK",
+    "file": "Chương 279 - Học bổng 10.000 sinh viên.txt"
+  },
+  "280": {
+    "toks": 3538,
+    "skel": 0,
+    "bytes": 22425,
+    "status": "OK",
+    "file": "Chương 280 - Xây 100 trường vùng sâu.txt"
+  },
+  "281": {
+    "toks": 756,
+    "skel": 0,
+    "bytes": 5295,
+    "status": "SHORT",
+    "file": "Chương 281 - Quỹ 10.000 tỷ từ thiện.txt"
+  },
+  "282": {
+    "toks": 710,
+    "skel": 0,
+    "bytes": 5058,
+    "status": "SHORT",
+    "file": "Chương 282 - Minh bạch quỹ công khai.txt"
+  },
+  "283": {
+    "toks": 486,
+    "skel": 0,
+    "bytes": 3629,
+    "status": "SHORT",
+    "file": "Chương 283 - Y tế lưu động miền núi.txt"
+  },
+  "284": {
+    "toks": 327,
+    "skel": 0,
+    "bytes": 2622,
+    "status": "SHORT",
+    "file": "Chương 284 - Nước sạch cho 500 xã.txt"
+  },
+  "285": {
+    "toks": 357,
+    "skel": 0,
+    "bytes": 2758,
+    "status": "SHORT",
+    "file": "Chương 285 - Lan đứng đầu mảng xã hội.txt"
+  },
+  "286": {
+    "toks": 284,
+    "skel": 0,
+    "bytes": 2392,
+    "status": "SHORT",
+    "file": "Chương 286 - Con trai phụ trách sản xuất.txt"
+  },
+  "287": {
+    "toks": 3491,
+    "skel": 0,
+    "bytes": 24208,
+    "status": "OK",
+    "file": "Chương 287 - Hùng lui về chiến lược.txt"
+  },
+  "288": {
+    "toks": 3480,
+    "skel": 0,
+    "bytes": 21957,
+    "status": "OK",
+    "file": "Chương 288 - Khủng hoảng truyền thông giả.txt"
+  },
+  "289": {
+    "toks": 3339,
+    "skel": 1,
+    "bytes": 21255,
+    "status": "OK",
+    "file": "Chương 289 - Phản ứng minh bạch.txt"
+  },
+  "290": {
+    "toks": 3217,
+    "skel": 0,
+    "bytes": 20652,
+    "status": "OK",
+    "file": "Chương 290 - Từ thiện Đông Timor.txt"
+  },
+  "291": {
+    "toks": 3357,
+    "skel": 0,
+    "bytes": 21587,
+    "status": "OK",
+    "file": "Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt"
+  },
+  "292": {
+    "toks": 3672,
+    "skel": 0,
+    "bytes": 23401,
+    "status": "OK",
+    "file": "Chương 292 - Đề xuất chính sách xanh.txt"
+  },
+  "293": {
+    "toks": 3708,
+    "skel": 0,
+    "bytes": 23720,
+    "status": "OK",
+    "file": "Chương 293 - Thương hiệu quốc gia.txt"
+  },
+  "294": {
+    "toks": 4159,
+    "skel": 0,
+    "bytes": 27028,
+    "status": "OK",
+    "file": "Chương 294 - Bảo tàng Thương Gia.txt"
+  },
+  "295": {
+    "toks": 3409,
+    "skel": 0,
+    "bytes": 21590,
+    "status": "OK",
+    "file": "Chương 295 - Ngày hội công nhân.txt"
+  },
+  "296": {
+    "toks": 3369,
+    "skel": 0,
+    "bytes": 21395,
+    "status": "OK",
+    "file": "Chương 296 - Mở quỹ học bổng.txt"
+  },
+  "297": {
+    "toks": 3456,
+    "skel": 0,
+    "bytes": 21969,
+    "status": "OK",
+    "file": "Chương 297 - Công đoàn đối thoại.txt"
+  },
+  "298": {
+    "toks": 3538,
+    "skel": 0,
+    "bytes": 22051,
+    "status": "OK",
+    "file": "Chương 298 - Đào tạo lãnh đạo trẻ.txt"
+  },
+  "299": {
+    "toks": 3347,
+    "skel": 0,
+    "bytes": 21488,
+    "status": "OK",
+    "file": "Chương 299 - Hùng 50 tuổi – nhìn lại.txt"
+  },
+  "300": {
+    "toks": 3601,
+    "skel": 0,
+    "bytes": 23250,
+    "status": "OK",
+    "file": "Chương 300 - Mở rộng từ thiện châu Á.txt"
+  },
+  "301": {
+    "toks": 3396,
+    "skel": 0,
+    "bytes": 21658,
+    "status": "OK",
+    "file": "Chương 301 - Lan CEO tập đoàn.txt"
+  },
+  "302": {
+    "toks": 3383,
+    "skel": 0,
+    "bytes": 21490,
+    "status": "OK",
+    "file": "Chương 302 - Hùng Chủ tịch Hội đồng.txt"
+  },
+  "303": {
+    "toks": 3410,
+    "skel": 0,
+    "bytes": 21635,
+    "status": "OK",
+    "file": "Chương 303 - Thế hệ ba bắt đầu.txt"
+  },
+  "304": {
+    "toks": 3930,
+    "skel": 0,
+    "bytes": 25036,
+    "status": "OK",
+    "file": "Chương 304 - Học bổng 10.000 SV.txt"
+  },
+  "305": {
+    "toks": 3211,
+    "skel": 0,
+    "bytes": 20749,
+    "status": "OK",
+    "file": "Chương 305 - Gặp lại ông Tanaka.txt"
+  },
+  "306": {
+    "toks": 3344,
+    "skel": 0,
+    "bytes": 21366,
+    "status": "OK",
+    "file": "Chương 306 - Gặp lại ông Sato.txt"
+  },
+  "307": {
+    "toks": 3280,
+    "skel": 0,
+    "bytes": 21308,
+    "status": "OK",
+    "file": "Chương 307 - Gặp lại Klaus.txt"
+  },
+  "308": {
+    "toks": 3291,
+    "skel": 0,
+    "bytes": 20900,
+    "status": "OK",
+    "file": "Chương 308 - Gặp lại đối tác Mỹ.txt"
+  },
+  "309": {
+    "toks": 3335,
+    "skel": 0,
+    "bytes": 21180,
+    "status": "OK",
+    "file": "Chương 309 - Quỹ học bổng mang tên bà Hà.txt"
+  },
+  "310": {
+    "toks": 3244,
+    "skel": 0,
+    "bytes": 20224,
+    "status": "OK",
+    "file": "Chương 310 - Thương gia huyền thoại.txt"
+  },
+  "311": {
+    "toks": 3218,
+    "skel": 0,
+    "bytes": 20743,
+    "status": "OK",
+    "file": "Chương 311 - Giải Thương gia huyền thoại.txt"
+  },
+  "312": {
+    "toks": 3770,
+    "skel": 0,
+    "bytes": 23809,
+    "status": "OK",
+    "file": "Chương 312 - Giao quyền cho Lan.txt"
+  },
+  "313": {
+    "toks": 3350,
+    "skel": 0,
+    "bytes": 21504,
+    "status": "OK",
+    "file": "Chương 313 - Sách trắng quản trị Thương Gia.txt"
+  },
+  "314": {
+    "toks": 3442,
+    "skel": 0,
+    "bytes": 21601,
+    "status": "OK",
+    "file": "Chương 314 - Đối mặt tin đồn sức khỏe.txt"
+  },
+  "315": {
+    "toks": 3517,
+    "skel": 0,
+    "bytes": 21990,
+    "status": "OK",
+    "file": "Chương 315 - Hùng chăm sóc sức khỏe.txt"
+  },
+  "316": {
+    "toks": 3253,
+    "skel": 0,
+    "bytes": 20683,
+    "status": "OK",
+    "file": "Chương 316 - Gia đình ba thế hệ sum họp.txt"
+  },
+  "317": {
+    "toks": 3401,
+    "skel": 0,
+    "bytes": 21776,
+    "status": "OK",
+    "file": "Chương 317 - Kế hoạch di sản pháp lý.txt"
+  },
+  "318": {
+    "toks": 3311,
+    "skel": 0,
+    "bytes": 23844,
+    "status": "OK",
+    "file": "Chương 318 - Ủy thác tài sản minh bạch.txt"
+  },
+  "319": {
+    "toks": 3527,
+    "skel": 0,
+    "bytes": 26916,
+    "status": "OK",
+    "file": "Chương 319 - Cam kết không chia cắt tập đoàn.txt"
+  },
+  "320": {
+    "toks": 3509,
+    "skel": 0,
+    "bytes": 22125,
+    "status": "OK",
+    "file": "Chương 320 - Truyền thông Thương Gia.txt"
+  },
+  "321": {
+    "toks": 3393,
+    "skel": 0,
+    "bytes": 21985,
+    "status": "OK",
+    "file": "Chương 321 - Khủng hoảng cạnh tranh giá.txt"
+  },
+  "322": {
+    "toks": 4042,
+    "skel": 0,
+    "bytes": 25464,
+    "status": "OK",
+    "file": "Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt"
+  },
+  "323": {
+    "toks": 3288,
+    "skel": 0,
+    "bytes": 20643,
+    "status": "OK",
+    "file": "Chương 323 - Khách hàng trung thành.txt"
+  },
+  "324": {
+    "toks": 4121,
+    "skel": 0,
+    "bytes": 25884,
+    "status": "OK",
+    "file": "Chương 324 - Tái định vị thương hiệu.txt"
+  },
+  "325": {
+    "toks": 3381,
+    "skel": 0,
+    "bytes": 21916,
+    "status": "OK",
+    "file": "Chương 325 - Công nghệ xanh toàn hệ thống.txt"
+  },
+  "326": {
+    "toks": 4026,
+    "skel": 0,
+    "bytes": 25293,
+    "status": "OK",
+    "file": "Chương 326 - Net zero cam kết.txt"
+  },
+  "327": {
+    "toks": 3408,
+    "skel": 0,
+    "bytes": 21628,
+    "status": "OK",
+    "file": "Chương 327 - Lễ 30 năm Thương Gia.txt"
+  },
+  "328": {
+    "toks": 3472,
+    "skel": 0,
+    "bytes": 22833,
+    "status": "OK",
+    "file": "Chương 328 - Quỹ 10.000 tỷ.txt"
+  },
+  "329": {
+    "toks": 3494,
+    "skel": 0,
+    "bytes": 22004,
+    "status": "OK",
+    "file": "Chương 329 - Tổng kết Phần 5.txt"
+  },
+  "330": {
+    "toks": 3547,
+    "skel": 0,
+    "bytes": 22564,
+    "status": "OK",
+    "file": "Chương 330 - Đội bóng Thương Gia FC.txt"
+  },
+  "331": {
+    "toks": 3322,
+    "skel": 0,
+    "bytes": 21278,
+    "status": "OK",
+    "file": "Chương 331 - Bắt đầu Phần 6 – Di sản.txt"
+  },
+  "332": {
+    "toks": 3698,
+    "skel": 0,
+    "bytes": 23577,
+    "status": "OK",
+    "file": "Chương 332 - Tập đoàn bóng tối trở lại.txt"
+  },
+  "333": {
+    "toks": 3934,
+    "skel": 0,
+    "bytes": 25286,
+    "status": "OK",
+    "file": "Chương 333 - Âm mưu thôn tính cổ phiếu.txt"
+  },
+  "334": {
+    "toks": 3228,
+    "skel": 0,
+    "bytes": 20910,
+    "status": "OK",
+    "file": "Chương 334 - Phòng thủ cổ đông.txt"
+  },
+  "335": {
+    "toks": 3587,
+    "skel": 0,
+    "bytes": 22823,
+    "status": "OK",
+    "file": "Chương 335 - Liên minh cổ đông nhỏ.txt"
+  },
+  "336": {
+    "toks": 3297,
+    "skel": 0,
+    "bytes": 21302,
+    "status": "OK",
+    "file": "Chương 336 - Âm mưu tập đoàn bóng tối.txt"
+  },
+  "337": {
+    "toks": 3231,
+    "skel": 0,
+    "bytes": 20919,
+    "status": "OK",
+    "file": "Chương 337 - Trí tuệ và hệ thống.txt"
+  },
+  "338": {
+    "toks": 3710,
+    "skel": 0,
+    "bytes": 23671,
+    "status": "OK",
+    "file": "Chương 338 - Chiến thắng đại hội cổ đông.txt"
+  },
+  "339": {
+    "toks": 3328,
+    "skel": 0,
+    "bytes": 21362,
+    "status": "OK",
+    "file": "Chương 339 - Thanh lọc nội bộ.txt"
+  },
+  "340": {
+    "toks": 3471,
+    "skel": 0,
+    "bytes": 22401,
+    "status": "OK",
+    "file": "Chương 340 - Vượt qua âm mưu.txt"
+  },
+  "341": {
+    "toks": 3264,
+    "skel": 0,
+    "bytes": 20998,
+    "status": "OK",
+    "file": "Chương 341 - Lễ bàn giao quyền lực chính thức.txt"
+  },
+  "342": {
+    "toks": 3483,
+    "skel": 0,
+    "bytes": 22312,
+    "status": "OK",
+    "file": "Chương 342 - Lan CEO – con trai Phó.txt"
+  },
+  "343": {
+    "toks": 3507,
+    "skel": 0,
+    "bytes": 22148,
+    "status": "OK",
+    "file": "Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt"
+  },
+  "344": {
+    "toks": 3375,
+    "skel": 0,
+    "bytes": 21465,
+    "status": "OK",
+    "file": "Chương 344 - Lễ bàn giao quyền lực.txt"
+  },
+  "345": {
+    "toks": 3430,
+    "skel": 0,
+    "bytes": 21972,
+    "status": "OK",
+    "file": "Chương 345 - Quỹ Di sản Trần Văn Hùng.txt"
+  },
+  "346": {
+    "toks": 3307,
+    "skel": 0,
+    "bytes": 23171,
+    "status": "OK",
+    "file": "Chương 346 - Người giàu có trách nhiệm.txt"
+  },
+  "347": {
+    "toks": 3231,
+    "skel": 0,
+    "bytes": 22841,
+    "status": "OK",
+    "file": "Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt"
+  },
+  "348": {
+    "toks": 3434,
+    "skel": 0,
+    "bytes": 22033,
+    "status": "OK",
+    "file": "Chương 348 - Du hành tri ân thế giới.txt"
+  },
+  "349": {
+    "toks": 3511,
+    "skel": 0,
+    "bytes": 22467,
+    "status": "OK",
+    "file": "Chương 349 - Hợp tác với đối tác quốc tế.txt"
+  },
+  "350": {
+    "toks": 3373,
+    "skel": 0,
+    "bytes": 21784,
+    "status": "OK",
+    "file": "Chương 350 - Du hành thế giới.txt"
+  },
+  "351": {
+    "toks": 3234,
+    "skel": 0,
+    "bytes": 22584,
+    "status": "OK",
+    "file": "Chương 351 - Nhà đất cũ và ký ức.txt"
+  },
+  "352": {
+    "toks": 3581,
+    "skel": 0,
+    "bytes": 22614,
+    "status": "OK",
+    "file": "Chương 352 - Từ thiện 100.000 tỷ.txt"
+  },
+  "353": {
+    "toks": 3494,
+    "skel": 0,
+    "bytes": 22063,
+    "status": "OK",
+    "file": "Chương 353 - Thư gửi thế hệ sau.txt"
+  },
+  "354": {
+    "toks": 3246,
+    "skel": 0,
+    "bytes": 23364,
+    "status": "OK",
+    "file": "Chương 354 - Hệ thống nhiệm vụ cuối.txt"
+  },
+  "355": {
+    "toks": 5354,
+    "skel": 0,
+    "bytes": 33901,
+    "status": "OK",
+    "file": "Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt"
+  },
+  "356": {
+    "toks": 3954,
+    "skel": 0,
+    "bytes": 24852,
+    "status": "OK",
+    "file": "Chương 356 - Bữa tối gia đình.txt"
+  },
+  "357": {
+    "toks": 3399,
+    "skel": 0,
+    "bytes": 21339,
+    "status": "OK",
+    "file": "Chương 357 - Flashback toàn hành trình.txt"
+  },
+  "358": {
+    "toks": 3408,
+    "skel": 0,
+    "bytes": 21173,
+    "status": "OK",
+    "file": "Chương 358 - Bữa tối ba thế hệ.txt"
+  },
+  "359": {
+    "toks": 3434,
+    "skel": 0,
+    "bytes": 21785,
+    "status": "OK",
+    "file": "Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt"
+  },
+  "360": {
+    "toks": 3569,
+    "skel": 0,
+    "bytes": 23759,
+    "status": "OK",
+    "file": "Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt"
+  }
+}

@@ -2,192 +2,238 @@
 Chương 332: Tập đoàn bóng tối trở lại
 ============================================================
 
-Trước “Tập đoàn bóng tối trở lại”, ông nhớ một lần suýt mất chữ tín. Nhớ để tay không run vì kiêu.
+Hà Nội, tháng Mười Một năm 2016. Trận mưa cuối mùa trút xuống thành phố như một cơn giận dữ cuối cùng trước khi đông về. Nước ngập đến nửa bánh xe máy trên phố Huế, những tán cây sấu già nghiêng ngả, tàu điện ngầm vẫn chưa xây xong — nhưng cái thành phố này đã quen sống chung với những thứ dang dở. Hàng rong vẫn đội mưa đẩy xe qua phố, những quán cà phê cóc vẫn bạt che vải xanh, những gương mặt lam lũ vẫn đều đều như những giọt nước mưa rơi mãi không ngừng.
 
-Từ thiện có ảnh — ông vẫn kiểm bằng việc tới tay người.
+Ở tầng hai tòa nhà Thương Gia trên phố Tràng Tiền, Sơn ngồi trước ba màn hình máy tính với vẻ mặt chưa bao giờ có trong suốt bốn năm làm IT cho tập đoàn. Bình thường, mặt cậu vô cảm như một lập trình viên chuyên nghiệp — chỉ nhìn code, không nhìn đời. Nhưng sáng nay, trán Sơn nhăn lại, mắt nheo, hai tay lướt trên bàn phím như gõ morse trong lúc khẩn cấp.
 
-Ông chạm mép sổ — giấy sần, mực tím nhạt.
+Trên màn hình giữa: một bảng Excel với hàng trăm dòng giao dịch cổ phiếu, tô màu đỏ và xanh. Những con số nhảy múa trước mắt — mã chứng khoán TGW, sàn HNX, khối lượng giao dịch, giá trị. Trên màn hình bên trái: cửa sổ đăng nhập vào hệ thống sàn HNX — Sơn có tài khoản xem dữ liệu thời gian thực nhờ một người bạn làm ở công ty chứng khoán, cái tài khoản mà cậu chưa bao giờ dùng cho việc cá nhân, chỉ dùng cho công việc khi có linh cảm.
 
-Năm 2018, tại Hải Phòng. Việc “Tập đoàn bóng tối trở lại” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+Linh cảm — cậu không tin vào nó. Cậu tin vào dữ liệu.
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Sơn đã ngồi như thế từ bảy giờ sáng. Bây giờ là mười giờ. Trước mặt cậu là cốc cà phê đã uống hết từ lâu, chỉ còn lại một lớp bã đen khô dưới đáy, thành cốc ám một quầng nâu. Nhưng Sơn không để ý — khi đã vào việc, cậu quên cả đói, quên cả khát. Đó là lý do Hùng giữ cậu lại dù nhiều công ty săn đầu người đã gọi, dù lương cậu chưa bao giờ bằng một nửa thị trường.
 
-“áp lực truyền thông" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+Cậu nhìn vào dòng giao dịch thứ bảy trong bảng lọc — một lệnh mua 210.000 cổ phiếu TGW, khớp lúc 9 giờ 47 phút. Bên dưới, mười hai lệnh nhỏ hơn, mỗi lệnh từ 5.000 đến 15.000, tất cả khớp trong vòng bốn mươi phút. Cùng một khoảng giá: 38.200 đến 38.500.
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+Sơn uống cạn phần cà phê còn lại trong cốc — đắng ngắt. Cậu mở một cửa sổ khác: bảng tổng hợp giao dịch ba tuần. Những điểm chấm màu đỏ xuất hiện đều đặn trên biểu đồ — mỗi ngày một ít, không gây chú ý, giống như một người mua tích lũy đều đặn.
 
-Chiều, “Tập đoàn bóng tối trở lại” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+Nhưng không phải một người. Là ba công ty. Ba pháp nhân khác nhau. Cùng mua một loại cổ phiếu — Thương Gia. Cùng một khoảng giá. Cùng một khuôn mẫu giao dịch: mua vào buổi sáng, khớp trong phiên, không gây sốc.
 
-"Về nhà ăn chưa?"
+"Mẹ kiếp," Sơn lẩm bẩm. Cậu bấm số nội bộ.
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+"Phát hiện ra gì chưa?" — Hùng bước vào, tay cầm cốc cà phê nóng — cốc thứ hai trong sáng, hơi nước bốc lên trong không khí lạnh đầu đông. Ông đặt cốc xuống bàn Sơn, nhìn ba màn hình. Năm mươi lăm tuổi, tóc đã muối nhiều hơn tiêu, nhưng mắt vẫn tinh. Hùng không phải dân công nghệ — ông thuộc thế hệ cầm bút bi viết sổ, cầm máy tính bấm từng con số — nhưng ông biết đọc số. Ba mươi lăm năm đọc bảng cân đối kế toán, đọc báo cáo tài chính, đọc những con số biết nói.
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+"Sếp ra đây xem cái này."
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+Hùng kéo ghế ngồi xuống. Màn hình hiện một bảng giao dịch đã được lọc, tô màu theo từng tiêu chí:
 
-"Việc 'Tập đoàn bóng tối trở lại' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+- **CTCP Đầu tư Phương Đông**: mua 180.000 CP Thương Gia, ngày 15/10. Mua thêm 210.000 CP, ngày 2/11.
+- **CTCP Thương mại Á Châu**: mua 95.000 CP, ngày 20/10. Mua thêm 150.000 CP, ngày 5/11.
+- **Công ty TNHH SX & DV Bắc Hà**: mua 140.000 CP, ngày 25/10.
+- Tổng cộng giao dịch nhỏ lẻ qua các tài khoản phụ: ước tính 80.000 CP phân tán.
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+"Ba công ty, cùng mua trong vòng ba tuần. Cùng một loại cổ phiếu — Thương Gia. Cùng một sàn — HNX. Cùng một khoảng giá — từ 38 đến 42. Em lọc thêm: cùng một mô hình — mua sáng, giữ, không bán."
 
-Trưa, ông ăn cơm nhà mang theo. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+Hùng nhìn những con số. Ông không trả lời ngay. Trong đầu, những số liệu bắt đầu ráp lại thành một đường cong. Ông từng đọc về mô hình này trong một báo cáo ở trường kinh tế, cách đây ba mươi năm, khi còn là sinh viên tại chức: thôn tính âm thầm.
 
-Chiều, hướng “Tập đoàn bóng tối trở lại" nhích thêm bằng biên bản. Không pháo hoa.
+"Tổng cộng bao nhiêu?"
 
-Đêm, điện thoại để im. Ông dành vài phút cho người còn chờ — không cho bảng số.
+"775.000 cổ phiếu trực tiếp. Cộng với các giao dịch phân tán — khoảng 860.000, tương đương ~34 tỷ đồng."
 
-Họ nói về “Tập đoàn bóng tối trở lại” ngắn. Cười một cái. Im một cái. Sự bình thường, với ông, hiếm hơn danh hiệu.
+"Chiếm bao nhiêu phần trăm?"
 
-Sổ tay khép lại bằng một dòng cầu nối, không bằng khẩu hiệu.
+"Khoảng 4,2%."
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Hùng uống một ngụm cà phê. Ông không nói gì. Trong đầu, những con số bắt đầu ráp lại: một năm trước, hồi tháng Ba năm 2015, có một lô 2% cổ phiếu Thương Gia được mua qua tài khoản của một cá nhân không rõ danh tính — giao dịch qua SSI, không công bố danh tính người sở hữu thực sự. Hùng không để ý — thị trường vẫn có những giao dịch lớn bình thường. Nhưng bây giờ, nhìn lại, ông thấy một đường thẳng kéo dài: 2% → 4,2% → nếu cộng thêm đợt này và các lô nhỏ lẻ khác... ông ước tính đã gần 6,5%.
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+"Sơn, cậu có thể kiểm tra xem ba cái công ty này có liên quan gì với nhau không?"
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Sơn gõ bàn phím vài cái. Một trang web tra cứu doanh nghiệp hiện ra — thông tin từ Cổng thông tin đăng ký doanh nghiệp, kết hợp với dữ liệu cậu trích xuất từ nhiều nguồn.
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+"CTCP Đầu tư Phương Đông — thành lập tháng 3/2016. Vốn điều lệ: 20 tỷ. Trụ sở: Cam Ranh, Khánh Hòa. Ngành nghề: đầu tư bất động sản." Sơn lướt xuống. "CTCP Thương mại Á Châu — thành lập tháng 5/2016. Vốn điều lệ: 15 tỷ. Trụ sở: Hải Phòng. Ngành nghề: thương mại tổng hợp. Công ty TNHH SX & DV Bắc Hà — thành lập tháng 7/2016 — trễ hơn hai tháng. Vốn điều lệ: 10 tỷ. Trụ sở: Bắc Giang."
 
-Ch. 332: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+"Đều mới thành lập trong năm nay?"
 
-Cuối buổi, “Tập đoàn bóng tối trở lại" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+"Chính xác. Và đây —" Sơn phóng to một phần của bảng, nơi cậu đã dùng script tự viết để dò mối liên hệ — "cả ba đều có một điểm chung."
 
-Hùng chấp nhận áp lực truyền thông là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Điểm gì?"
 
-Họp trực tuyến xong, hiện trường vẫn là chỗ quyết định.
+"Người đại diện theo pháp luật của Phương Đông là bà Nguyễn Thị Minh. Bà Minh này đồng thời là cổ đông sáng lập của Á Châu — tỷ lệ 30%. Còn Bắc Hà thì do một người tên Lương Văn Đức đứng tên — Đức này là em họ của Lương Thế Huy."
 
-Tin lan nhanh hơn báo cáo nội bộ.
+Hùng đặt cốc cà phê xuống, rất từ từ, không gây tiếng động. Lương Thế Huy — cái tên này ông đã nghe từ một bức fax nặc danh gửi đến phòng hành chính, không đề tên người gửi, chỉ có ba dòng: "Coi chừng Lương Thế Huy. Casino Hạ Long. SHB Hải Phòng." Bức fax đã được chuyển lên bàn Hùng hai tháng trước, thư ký tưởng là thư rác. Nhưng Hùng không vứt. Ông giữ nó trong ngăn kéo, cùng với hàng chục tờ giấy khác — những thứ ông chưa hiểu nhưng biết sẽ cần.
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Ai là Lương Thế Huy?" — Sơn hỏi, mắt vẫn nhìn màn hình.
 
-Một chi tiết năm 2018: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Kẻ từng làm casino ở Hạ Long. Có tiền án tổ chức đánh bạc. Tôi nghe nói hắn có quan hệ với một số cán bộ ngân hàng thời kỳ đất vàng."
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+Vẻ mặt Sơn thay đổi — không phải sợ, nhưng kiểu cảnh giác của một lập trình viên vừa phát hiện ra lỗ hổng bảo mật đã tồn tại từ lâu trong hệ thống mà mình tưởng là an toàn.
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+"Họ đang gom dần. Mỗi lần một ít, dưới ngưỡng phải công bố."
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+"Bao nhiêu là phải công bố?"
 
-Hai người tốt bất đồng cách làm “Tập đoàn bóng tối trở lại". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+"Nếu sở hữu từ 5% trở lên, phải đăng ký với Ủy ban Chứng khoán. Nếu vượt 10%, phải công bố thông tin chi tiết. Còn nếu mua lẻ qua nhiều tài khoản, họ có thể tránh được ngưỡng 5% một thời gian dài."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Tập đoàn bóng tối trở lại" không đổ.
+"Vậy hiện tại họ đang ở dưới 5%?"
 
-Thế hệ sau muốn tốc độ; thế hệ trước muốn không vỡ chữ tín.
+"Đang ở 4,7% tính tới hôm qua. Nhưng nếu cộng thêm lô giao dịch sáng nay —" Sơn bấm phím làm mới bảng — "đã có thể lên 5,2%."
 
-Trên đường quanh Hải Phòng, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Hùng đứng dậy, đi đến cửa sổ. Mưa đã ngớt, chỉ còn lất phất. Những mái nhà phố Tràng Tiền nhòe nước, đèn đường phản chiếu trên mặt đường ướt, xe cộ thưa thớt. Một người đàn bà đội nón lá đạp xe chở một thúng rau, lặng lẽ như một bóng ma trong màn mưa sáng.
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+"5,2% là chưa đủ để nguy hiểm. Nhưng nếu họ tiếp tục mua trong âm thầm, đến lúc chúng ta phát hiện thì có thể đã quá muộn."
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+"Sếp tính sao?"
 
-Cảm xúc hôm nay nghiêng về “ấm áp gia đình". Ông không giấu, cũng không để cảm xúc ký thay mình.
+Hùng không trả lời ngay. Ông nhìn xuống đường — một người đàn ông đẩy xe bánh mì qua giao lộ phố Huế, tấm bạt che hàng rách một góc, gió thổi tung lên, để lộ những ổ bánh mì vàng ươm bên trong. Ba mươi lăm năm trước, ông cũng từng đẩy xe như thế. Không phải bánh mì, là vải — những cuộn vải may mặc — từ xưởng thuê ở Hà Đông ra chợ Đồng Xuân, mỗi chuyến hai tiếng đạp xe, mồ hôi ướt đẫm lưng áo. Lúc ấy, không có kẻ thù. Chỉ có đói và no.
 
-Ông chủ động gặp người khó tính nhất quanh “Tập đoàn bóng tối trở lại". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+Bây giờ, kẻ thù xuất hiện. Không phải đói, không phải no. Là những con số trên sàn chứng khoán, những công ty ma, những dòng tiền không rõ nguồn gốc, những cái tên như Lương Thế Huy — những thứ ông không thể đạp xe tránh được.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ khách cốt lõi, và nói thẳng chỗ sẽ đau.
+"Cậu tiếp tục theo dõi. Ghi lại tất cả giao dịch, dù là nhỏ nhất. Em có thể viết script tự động phát hiện giao dịch bất thường không?"
 
-Sổ “Tập đoàn bóng tối trở lại" đánh dấu bút chì — có thể lùi.
+"Có, em đã viết sẵn từ học kỳ đại học — dùng cho đồ án. Em sẽ sửa lại cho khớp dữ liệu HNX."
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+"Tốt. Và tìm mối liên hệ — tôi muốn biết ai đang ngồi sau bàn phím của ba công ty này, ai đang chỉ đạo, ai đang cấp vốn."
 
-Ở góc nhìn người làm thuê, “Tập đoàn bóng tối trở lại” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Vâng. Còn chuyện báo cáo lên Ủy ban Chứng khoán?"
 
-Không ai hoàn hảo trong “Tập đoàn bóng tối trở lại". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+"Chưa. Để họ lộ thêm một chút đã. Khi con mèo quá tập trung vào miếng mồi, nó không thấy cái bẫy phía sau."
 
-Màn hình sáng, số liệu nhiều, việc thật vẫn phải đi chân.
+Hùng quay lưng, bước ra khỏi phòng IT. Trên hành lang lát gạch men cũ, ông gặp Lan — vợ ông, vừa từ cuộc họp với đối tác Nhật Bản về, tay cầm xấp tài liệu dày cộm, trên mặt vẫn còn son phấn nhưng đôi mắt đã thấm mệt. Ở tuổi năm mươi, Lan vẫn giữ dáng, vẫn mặc áo dài mỗi ngày đi làm — một thói quen mà chị giữ suốt hai mươi lăm năm, không thay đổi dù thời trang có ra sao.
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+"Mặt anh lạ thế. Có chuyện?"
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Tập đoàn bóng tối trở lại" mà không vứt lại?
+"Vào phòng tôi."
 
-Ông rửa mặt nước lạnh, nhìn gương: không tìm anh hùng — tìm người còn tỉnh.
+Trong phòng làm việc của Hùng — căn phòng nhỏ mười hai mét vuông với tủ gỗ xoan cũ, câu đối chữ Hán treo tường, một lịch treo tường do xưởng may tự in, hình ảnh năm mới là cánh đồng lúa chín — Hùng kể lại cho Lan tất cả. Bức fax nặc danh từ hai tháng trước. Ba công ty ma. Dòng tiền từ các tài khoản mới thành lập. Cái tên Lương Thế Huy, casino Hạ Long.
 
-Một ngày của “Tập đoàn bóng tối trở lại" khép lại bằng việc đã giao, không bằng lời đã nói.
+Lan nghe, không ngắt. Chị mở ngăn tủ, lấy phích trà nóng, rót ra hai chén. Hành động đó — rót trà giữa lúc nghe tin xấu — là một thói quen chị học được từ Hùng: khi có tin dữ, hãy uống trà. Hành động nhỏ giúp đầu óc tỉnh.
 
-Ch. 332: phần thưởng chỉ thật khi khách không trả hàng.
+"Ai là Lương Thế Huy?" — cuối cùng Lan hỏi.
 
-Trên đường quanh Hải Phòng, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Năm 2005, hắn mở một casino trá hình ở Hạ Long. Tổ chức đánh bạc, cho vay nặng lãi. Năm 2009, bị bắt. án ba năm. Năm 2012 ra tù. Sau đó mất dấu — đến bây giờ."
 
-Cuối buổi, “Tập đoàn bóng tối trở lại" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Hắn có liên quan gì đến mình?"
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+"Tôi không biết. Nhưng hắn có em họ đứng tên một trong ba công ty đang mua cổ phiếu của chúng ta."
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Hai tháng trước anh nhận được fax cảnh báo. Sao anh không nói với em?"
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Hùng im lặng. Ông nhìn chén trà, nước trà màu hổ phách, hơi nóng bốc lên mờ mờ. "Vì tôi chưa biết đó là thật hay bẫy. Có thể ai đó muốn tôi nghi ngờ Lương Thế Huy để tôi nhìn sai hướng. Có thể cảnh báo thật. Tôi cần thời gian kiểm tra."
 
-Một chi tiết năm 2018: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Và bây giờ anh biết?"
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+"Bây giờ tôi biết nó là thật. Nhưng vẫn chưa biết ai đứng sau Lương Thế Huy. Hắn chỉ là tay sai. Người thật sự — chưa lộ mặt."
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+Lan uống một ngụm trà. "Anh tin ai?"
 
-Trên đường quanh Hải Phòng, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Hả?"
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Tập đoàn bóng tối trở lại" mà không vứt lại?
+"Cái bức fax nặc danh đó. Anh không biết ai gửi. Anh không biết mục đích của họ. Họ có thể đang cảnh báo thật. Cũng có thể đang kéo anh vào một cuộc chơi mà họ đã dàn xếp từ trước để anh đưa ra quyết định sai."
 
-Cuối buổi, “Tập đoàn bóng tối trở lại" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+Hùng im lặng. Đó là câu hỏi ông chưa có lời giải. Cả đời ông làm kinh doanh bằng trực giác và số liệu — nhưng lần này, trực giác nói ông đang đứng trước một thứ lớn hơn một vụ thâu tóm thông thường.
 
-Ch. 332: phần thưởng chỉ thật khi công nhân không mất ca.
+"Em nói đúng. Tôi không biết."
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Tập đoàn bóng tối trở lại" mà không vứt lại?
+"Vậy mình cần biết trước khi làm gì." — Lan nói. "Để em gọi một người."
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+Chị lấy điện thoại, bấm một số không có trong danh bạ. Đầu dây bên kia đổ chuông ba hồi. Một giọng nam — già, khàn, như người vừa ngủ dậy dù đã gần trưa.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+"Bác Hà à? Cháu là Lan đây. Cháu có chuyện cần hỏi bác."
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+Bà Hà — em gái của ông Phúc, cổ đông lớn thứ hai của Thương Gia thời kỳ đầu — từng làm thanh tra Ngân hàng Nhà nước, đã nghỉ hưu từ năm 2010. Bà sống ở Vũng Tàu, trong một căn nhà nhỏ cạnh chợ, không dùng điện thoại thông minh, không email, đọc báo giấy mỗi sáng uống cà phê. Bà là người duy nhất trong gia đình họ Phúc giữ liên lạc với giới ngân hàng cũ, những người đã nghỉ hưu hoặc đã chuyển ngành, nhưng vẫn biết chuyện — dân ngân hàng có cách của họ.
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Bà Hà nói chậm, từng từ, giọng khàn đặc nhưng rõ ràng: "Gì thế cháu?"
 
-Trên đường quanh Hải Phòng, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Có một nhóm đang gom cổ phiếu Thương Gia. Bác có nghe gì không?"
 
-Một chi tiết năm 2018: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Im lặng năm giây. Bà Hà thở dài. "Có. Nghe rồi."
 
-Sổ “Tập đoàn bóng tối trở lại" đánh dấu xanh — quan trọng.
+"Ai ạ?"
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+"Không biết cụ thể. Nhưng dòng tiền là từ SHB — chi nhánh Hải Phòng. Có người cũ trong hệ thống đứng sau."
 
-Một chi tiết năm 2018: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Người cũ nào ạ?"
 
-Cuối buổi, “Tập đoàn bóng tối trở lại" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+"Nguyễn Hữu Tuấn. Năm 2000, hắn làm phó tổng SHB Hải Phòng. Trẻ, nhanh, tham vọng. Sau bị điều chuyển vì mấy vụ cho vay không đảm bảo. Rồi nghỉ, sang Singapore. Làm cho một quỹ đầu tư. Tên gì ấy nhỉ — First Capital Partners, hình như thế. Hắn vẫn còn quan hệ với SHB Hải Phòng qua một giao dịch viên tên Nam — Hoàng Văn Nam, thư ký cũ của hắn."
 
-Cuối buổi, “Tập đoàn bóng tối trở lại" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+Lan ghi chép. "Cảm ơn bác."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Tập đoàn bóng tối trở lại" mà không vứt lại?
+"Lan này — chú Hùng khỏe không?"
 
-Trên đường quanh Hải Phòng, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Dạ khỏe."
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
+"Nhắn với chú ấy: lũ này không phải loại vừa. Chúng có luật sư, có tiền, có quan hệ. Đừng đánh bằng tay không."
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Dạ cháu biết."
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+Lan gác máy. Vẻ mặt chị trầm hẳn. Chị kể lại cho Hùng tất cả.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng nhắm mắt. Mọi thứ bắt đầu nối lại. Năm 2000 — ông nhớ rõ cái ngày Nguyễn Hữu Tuấn đến gặp ông, đưa ra một gói tín dụng ưu đãi với lãi suất thấp hơn thị trường 2%. Điều kiện: toàn bộ tài khoản Thương Gia phải chuyển về SHB. Lúc ấy, Thương Gia đã lớn, Hùng đã có quan hệ với Ngân hàng Ngoại thương từ năm 1995. Ông từ chối. Tuấn cười — cái cười của người trẻ từng thắng mọi cuộc chơi — "Anh không cần tôi hôm nay, nhưng sau này tôi sẽ quay lại."
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Mười sáu năm sau, câu nói đó vọng về.
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ngày hôm sau, Sơn mang đến cho Hùng một bản in dài bảy trang — sơ đồ dòng tiền, thông tin doanh nghiệp, lịch sử giao dịch mà cậu đã tổng hợp từ nhiều nguồn khác nhau. Trang nào cũng có ghi chú đỏ. Cậu làm việc cả đêm, mắt thâm quầng, cốc cà phê thứ tư trên bàn.
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 33 gắn với cô Hạnh: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Sếp, em phát hiện thêm một chi tiết quan trọng. Cả ba công ty này đều mở tài khoản tại SHB Hải Phòng. Và người phụ trách quan hệ khách hàng của họ là một giao dịch viên tên Hoàng Văn Nam — Nam này từng là thư ký của Nguyễn Hữu Tuấn hồi Tuấn còn làm phó tổng."
 
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 34 gắn với ông Tanaka: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng gật đầu. Ông mở ngăn bàn, lấy ra chiếc điện thoại cũ — loại cục gạch Nokia, không sim, không internet, chỉ dùng để nghe và gọi. Chiếc điện thoại chỉ có một số được lưu: số của Dũng — người bạn từ thời thanh niên, làm trong ngành an ninh, đã nghỉ hưu sớm. Ông bấm gọi.
 
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Tôi cần gặp anh."
 
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Chiều nay. Quán cà phê cũ. Giờ cũ."
 
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng cúp máy, cất điện thoại vào túi trong áo vest. Ông nhìn ra cửa sổ. Một đàn chim sẻ rời khỏi mái nhà đối diện, bay vụt lên bầu trời xám, rồi biến mất sau những tòa nhà cao tầng.
 
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 38 gắn với cô Hạnh: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Cảm ơn, Sơn. Cậu về nghỉ đi. Tối nay không phải thức."
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 39 gắn với ông Tanaka: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Nhưng sếp — em muốn tiếp tục dò —"
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Tập đoàn bóng tối trở lại" năm 2018 tại Hải Phòng, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “áp lực truyền thông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “ấm áp gia đình" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+"Về nghỉ. Ngày mai bắt đầu tiếp. Không ai thắng cuộc chiến chỉ trong một ngày."
 
+Sơn gật đầu, tắt ba màn hình, thu dọn báo cáo. Trước khi ra cửa, cậu quay lại: "Sếp ơi — em có nên báo anh em trong team không? Để đề phòng?"
 
-Kết thúc đoạn này, “Tập đoàn bóng tối trở lại" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Chưa. Càng ít người biết càng tốt. Khi cần, tôi sẽ nói."
+
+Chiều hôm đó, tại quán cà phê cóc trên phố Huế — quán cóc vỉa hè, bàn nhựa, ghế thấp, quạt máy cũ treo tường chạy ro ro — Hùng gặp Dũng. Người đàn ông bước vào, trông như một người bán hàng rong — áo sơ mi cũ, quần vải, dép lào, mũ lưỡi trai kéo sụp. Hắn đặt lên bàn một phong bì nâu.
+
+"Có thông tin gì mới?" Hùng hỏi, không chào.
+
+"Lương Thế Huy." Dũng mở phong bì, lấy ra một tờ ảnh chụp từ xa — mờ, chụp qua cửa kính một nhà hàng sang trọng ở khu Trung Hòa Nhân Chính. Một người đàn ông trung niên, tóc húi cua, mặt vuông, ngồi đối diện với một người khác trong góc khuất, mặt không rõ. Ly rượu trên bàn, bộ vest xám, cà vạt hồng.
+
+Bức ảnh thứ hai: cùng địa điểm, góc khác — người đàn ông kia bước ra từ nhà hàng, lên một chiếc xe màu đen. Biển số: 80.
+
+"Người ngồi đối diện là ai?"
+
+"Không rõ mặt. Nhưng xe đó là xe ngoại giao. Biển số 80 — đầu số của Ngân hàng Nhà nước hoặc Bộ Tài chính. Tôi đang xác minh tiếp."
+
+Hùng cầm bức ảnh, nhìn vào bóng người mờ nhạt trong góc. Ông không hỏi thêm. Ông chỉ gật đầu, cất ảnh vào túi trong.
+
+"Cảm ơn."
+
+Dũng đứng dậy, không uống cà phê, không bắt tay, bỏ đi không nói thêm lời nào. Một phút sau, hắn đã biến mất trong dòng người cuối phố.
+
+Hùng ở lại quán cà phê thêm mười lăm phút. Ông uống hết cốc cà phê — đã nguội, đắng — nhưng ông không gọi thêm. Ông nhìn ra đường phố, nơi dòng người cuối giờ chiều tấp nập — những gương mặt lướt qua: vội vã, mệt mỏi, hoặc vô cảm. Không ai biết rằng trong cái quán cóc tồi tàn này, một người đàn ông đang cầm trong tay bằng chứng về một âm mưu có thể làm rung chuyển một tập đoàn ba mươi lăm năm tuổi.
+
+Ông lấy điện thoại, gọi Sơn.
+
+"Alo sếp?"
+
+"Sơn, cậu tra cho tôi cái biển số xe 80 đó. Tôi cần biết nó thuộc cơ quan nào."
+
+"80 — em không cần tra, sếp. 80 là đầu số của Ngân hàng Nhà nước và các cơ quan trực thuộc. Nếu là xe riêng, có thể là Thanh tra Ngân hàng Nhà nước hoặc Vụ Tín dụng."
+
+"Chắc không?"
+
+"Em học qua một vụ tương tự hồi đại học — một bài báo về xe biển 80 bị tai nạn ở Sài Gòn. Đầu số đó dành riêng. Em khẳng định được."
+
+Hùng cúp máy. Ông đứng dưới mái hiên một cửa hàng điện tử cũ, mặc cho mưa phùn bay vào mặt lạnh buốt. Thanh tra Ngân hàng Nhà nước — cơ quan giám sát toàn bộ hệ thống ngân hàng — có xe xuất hiện trong cuộc gặp với một kẻ đang âm mưu thâu tóm doanh nghiệp. Hoặc kẻ đó đang bị theo dõi. Hoặc kẻ đó có người trong cuộc.
+
+Hùng nghiêng về khả năng thứ hai.
+
+Nguyễn Hữu Tuấn, phó tổng SHB cũ. Lương Thế Huy, tay anh chị casino. Một bức fax nặc danh. Ba công ty ma. Và một chiếc xe biển số 80. Tất cả đang dần kết nối thành một bức tranh mà Hùng chưa nhìn thấy toàn cảnh — nhưng ông biết, nó sẽ hiện ra, nếu ông đủ kiên nhẫn và đủ tỉnh táo.
+
+Ông bước ra đường, hòa vào dòng người giờ tan tầm. Một ông già đội mũ lưỡi trai, áo mưa cũ, đeo kính lão — lẫn hoàn toàn vào phố phường — không ai nhận ra đó là chủ tịch của một tập đoàn đang bị săn lùng.
+
+Bọn họ đã chọn sai người.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.332」
@@ -195,5 +241,6 @@ Năm: 2016
 Tổng EXP: 82,200 (+600 nhịp này)
 Không gian kho: 46,040m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Kỹ năng mới: — 
+Ghi chú: Ba công ty ma bị phát hiện qua hệ thống theo dõi của Sơn. Đầu mối Nguyễn Hữu Tuấn — SHB cũ — kết nối với Lương Thế Huy, casino Hạ Long. Xe Thanh tra NHNN biển 80 xuất hiện tại cuộc gặp bí mật — dấu hiệu của một hệ thống bảo kê tinh vi.
 ============================================================

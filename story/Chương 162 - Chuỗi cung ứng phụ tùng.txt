@@ -2,309 +2,223 @@
 Chương 162: Chuỗi cung ứng phụ tùng
 ============================================================
 
-Sáng tháng Tư năm 1992, Hùng đứng giữa khu nhà xưởng mới dựng ở ven Hà Nội. Xưởng còn mùi xi măng, mùi dầu mỡ bôi khuôn, và mùi lo lắng của mấy người thợ đầu tiên.
+Cuối tháng Mười hai năm 1991. Khuôn ép từ Nhật đã về. Đức lắp vào máy ép thủy lực — một chiếc máy Trung Quốc cũ, mua thanh lý từ xưởng nhựa Hà Nội, đã được Đức và Tâm đại tu lại toàn bộ. Họ thay dầu thủy lực, căn chỉnh lại áp suất, thay bộ phớt cao su đã cứng. Mất ba ngày để máy chạy trở lại.
 
-Ông Sato đi bên cạnh, tay cầm bản vẽ linh kiện gập đôi. Người Nhật không nói nhiều từ sáng. Ông ta nhìn từng góc xưởng, từng giá kệ, từng thùng hàng còn để ngổn ngang. Thỉnh thoảng gật — không phải gật đồng ý, chỉ gật nghĩa là đã thấy.
+Đức đổ nhựa ABS hạt vào phễu, chỉnh nhiệt độ khuôn — 180 độ C, căn chỉnh áp suất ép — 120 bar. Cả xưởng im lặng. Ai nấy đều nín thở. Đây là lần đầu tiên chiếc khuôn từ Nhật được thử nghiệm trên máy ép Việt Nam.
 
-Con trai Hùng — thằng cu Nghĩa, mười bảy tuổi, được ông cho nghỉ hè đi theo — đứng sau lưng hai người, tay cầm cuốn sổ bìa cứng mua ở hiệu sách gần Bờ Hồ. Nó mặc áo sơ mi trắng bỏ vào quần tây, trông đứng đắn hơn tuổi. Hùng giao cho nó một việc: ghi lại tất cả những gì ông Sato hỏi mà không ai trả lời được.
+Máy ép rung lên, tiếng thủy lực xì hơi. Khuôn ép mở ra, nửa vỏ trước màu đen bóng nằm trong lòng khuôn. Đức cầm nó ra, đặt lên bàn kiểm. Vỏ đều, bóng, không rỗ, không ba-via. Các cạnh sắc, các lỗ bắt ốc đúng vị trí. Ông lấy thước cặp đo — kích thước đúng từng mi-li-mét so với bản vẽ Sato gửi.
 
-Bước đầu tiên trong chuỗi cung ứng phụ tùng: nhập core linh kiện từ Trung Quốc về gia công lại. Core là phôi thô — đúc sẵn, chưa mài rãnh, chưa khoan lỗ chuẩn. Hùng ký hợp đồng với một xưởng đúc ở Nam Ninh qua một đối tác trung gian. Hàng theo đường bộ về Lạng Sơn, hải quan mất một ngày, xe tải chở về Hà Nội thêm nửa ngày. Tổng cộng bốn ngày từ lúc đặt đến lúc có hàng tại xưởng.
+Ông cầm nửa vỏ lên, xoay dưới đèn — bề mặt phản chiếu ánh sáng đều, không gợn sóng. Đặt lên bàn đo, hai nửa ghép vào nhau — khe hở đều, không lệch, không lỏng. Đức nhìn Hùng, gật đầu một cái. Vỏ nhựa được. Tất cả đều thở phào.
 
-Hùng muốn rút xuống còn ba. Nhưng đường sá năm 1992 không theo ý muốn của một người.
+Nhưng còn phụ tùng.
 
-Hùng dừng trước dây chuyền lắp ráp thử. Năm công nhân đang ráp thử bộ chế hòa khí — mẫu cho xe máy Thương Gia đầu tiên. Tay họ còn vụng, phải dùng tay căn từng con ốc thay vì mô-men lực kế. Hùng không thúc. Thúc bây giờ là hỏng cả lô mẫu.
+Hùng ý thức rõ: xe máy có vỏ đẹp không đủ. Động cơ nhập về, khung sắt hàn, vỏ nhựa ép — nhưng bugi, xích, nhông, đĩa, má phanh, dây điện, đèn, còi, ống xả, đề, ắc quy — tất cả đều phải có nguồn cung cấp ổn định. Mua trôi nổi ngoài chợ sẽ hỏng uy tín. Mà uy tín là thứ duy nhất Thương Gia có để cạnh tranh với xe Trung Quốc giá rẻ và xe Nhật cũ nhập về.
 
-“Bộ chế hòa khí,” Hùng nói với Sato, “chúng tôi nhập core từ Trung Quốc. Gia công lại trong nước.”
+Ông gọi một cuộc họp với Lan, Đức, và Tâm — người thợ hàn trẻ đã theo ông từ xưởng da. Cuộc họp diễn ra ngay trong xưởng, bốn người ngồi quanh bàn gỗ tạm, giữa những linh kiện xe máy và mùi dầu mỡ. Trên bàn là một cái khung xe chưa lắp, cạnh đó là mấy bộ phận nhựa mới ép.
 
-Ông Sato cúi xuống nhặt một chi tiết nhỏ — van kim — đặt lên lòng bàn tay. Nhìn. Lật. Đưa lên gần mũi, như thể ngửi xem nó được làm từ phôi thế nào.
+— Chia ra, — Hùng nói, giọng đều, — mỗi người phụ trách một nhóm linh kiện. Anh Đức lo động cơ và khung. Tâm lo ốc vít, dây điện, đèn, còi. Lan lo phụ tùng nhập khẩu — bugi, xích, nhông, má phanh. Tôi lo vỏ nhựa, sơn, và logo.
 
-“Gia công lại là làm gì?”
+Lan giở sổ ngay:
 
-“Hàn lại mép. Mài rãnh. Khoan lỗ chuẩn. Chúng tôi chưa đúc được van đạt dung sai.”
+— Bugi và xích, em đã gọi cho ông Sato. Ông ấy gửi báo giá: một phẩy hai đô la Mỹ một cái bugi NGK, bốn phẩy năm đô la một bộ xích DID. Giá FOB Osaka. Cộng cước vận chuyển và thuế nhập khẩu, mỗi bộ bugi-xích sẽ tốn khoảng 10.000 đồng.
 
-Sato gật. “Bao nhiêu phần trăm dung sai hiện tại?”
+— Đắt, — Hùng nói.
 
-Con trai Hùng — Nghĩa — mở sổ. Nó đã tra số liệu từ tối qua, ngồi dưới bóng đèn dầu quẹt, vì mất điện. “Thưa ông, dung sai trung bình 0.15 li. Core nhập về 0.3 li. Gia công lại xuống 0.15. Yêu cầu kỹ thuật của Nhật Bản theo tài liệu hôm trước là 0.05 ạ.”
+— Nhưng hàng Nhật, bền gấp năm hàng Tàu.
 
-Nghe giọng nó, vừa rõ ràng vừa hồi hộp. Nó tập nói từ chiều hôm qua, sau khi Hùng bảo: “Mai gặp đối tác Nhật, con phải nói được số.”
+— Vậy mua Nhật. Nhưng mua nhiều để giảm giá. Đặt một lô cho năm trăm xe.
 
-Sato quay lại nhìn thằng bé. Lần đầu tiên sáng nay ông ta không chỉ gật — ông ta nhếch mép. Một nụ cười Nhật, kín đáo nhưng có thật.
+Lan ghi vào sổ. Một con số khác vừa được chốt.
 
-“Cậu bé mấy tuổi?”
+Tâm giở tờ giấy ông viết tay — nét chữ nguệch ngoạc, nhưng số liệu rạch ròi:
 
-“Mười bảy ạ.”
+— Ốc vít em hỏi mấy chỗ. Chỗ quen ở phố Hàng Khoai bán 200 đồng một bộ ốc cho xe máy — sáu con ốc, bốn long đền, hai ốc hãm. Nhưng ốc Trung Quốc, thép kém, lâu ngày rỉ, dễ chờn ren. Em thử mua một lô của Thái Lan qua cửa khẩu, giá 350 đồng một bộ, nhưng thép tốt, mạ kẽm, không rỉ.
 
-“Học tiếng Nhật chưa?”
+— Mua Thái Lan, — Hùng nói ngay. — Ốc rỉ thì tháo ra không được, khách sẽ chửi. Mình đã hứa bảo hành sáu tháng, nếu ốc rỉ sau ba tháng, thay miễn phí còn tốn hơn.
 
-“Dạ chưa. Nhưng con đọc được tài liệu kỹ thuật tiếng Anh.”
+— Dây điện thì sao? — Lan hỏi.
 
-Sato nhìn Hùng. “Con trai ông?”
+— Dây em sẽ cắt theo chiều dài, — Tâm nói. — Mua dây cuộn về — dây đồng bọc nhựa PVC, tiết diện 1.5mm² cho hệ thống điện chính, 0.75mm² cho đèn tín hiệu. Hàn đầu cos, bọc nhiệt co. Rẻ hơn mua dây có sẵn, và chủ động được chiều dài. Nhưng phải mua máy cắt dây và bấm cos.
 
-“Con trai. Cho nó theo học việc hè. Không biết có theo kịp không.”
+— Mua, — Hùng nói. — Bao nhiêu tiền?
 
-“Có thể gửi sang Nhật học ba tháng. Chúng tôi có chương trình cho con em đối tác. Học phí miễn, tiền ăn ở hai bên chia.” Sato nói xong lại cúi xuống. “Nhưng trước hết, tôi muốn xem kho phụ tùng tồn của ông.”
+— Khoảng bảy trăm nghìn cho một bộ máy cắt và máy bấm. Của Nhật cũ, xài tốt. Có người quen bán thanh lý.
 
-Hùng đưa tay chỉ hướng cuối xưởng. Khu vực kho mới dựng — tôn lạnh, nền xi măng đánh bóng, kệ sắt sơn xám. Một trăm mét vuông ngăn thành ba ô: linh kiện nhập, linh kiện gia công, linh kiện lỗi chờ tái chế. Mỗi ô có bảng ghi tên, số lượng, ngày nhập.
+— Mua.
 
-Lan đang đứng ở cửa kho. Cô ghi tồn kho từ bảy giờ sáng, kiểm đếm từng thùng, từng hộp. Thấy Hùng và Sato đến, cô bước ra, tay cầm bảng kê.
+Tâm gật, ghi lại. Một nét bút nữa.
 
-“Anh, số 30 — thùng bugi nhập về tối qua — lệch ba cái so với hóa đơn. Em đánh dấu đỏ rồi. Chưa ký nhận. Đang giữ hàng chờ đối tác lên xác nhận.”
+Đức nói chậm rãi. Ông già ấy nói chậm, nhưng ai cũng lắng nghe:
 
-Lan đưa bảng cho Hùng. Trên bảng, dòng số 30 được gạch bằng bút đỏ, cạnh đó ghi: “Thiếu 3/120. Chưa ký. Gọi lại trưa.”
+— Động cơ hai thì nhập từ Quảng Châu, tôi đã thử trên ba cái. Cả ba đều chạy, nhưng một cái sau hai mươi phút bắt đầu rung bất thường. Tôi tháo ra, thấy xéc-măng thứ hai bị nứt — một vết nứt nhỏ, chỉ bằng nửa mi-li-mét, nhưng nếu lắp vào xe rồi mới hỏng, tháo ra rất phiền. Phải mở máy, thay xéc-măng, mất cả buổi.
 
-Sato đứng ngoài câu chuyện nhưng nghe hết. Ông ta không hỏi Hùng trả lời thế nào. Ông ta chờ xem Hùng xử lý.
+— Lỗi của họ hay của mình?
 
-“Điện cho họ sáng nay chưa?” Hùng hỏi Lan.
+— Của họ. Hàng lỗi từ xưởng. Quy trình kiểm tra của họ không kỹ.
 
-“Rồi. Họ nói có thể nhầm khi xếp hàng. Hẹn trưa lên kiểm.”
+— Liên hệ họ đổi.
 
-“Được. Nhưng khi họ lên, phải có biên bản xác nhận. Không nhận lời nói suông. Phiếu giao hàng, biên bản kiểm đếm, chữ ký hai bên. Thiếu một thứ là không kết thúc việc.”
+— Đã liên hệ, — Đức nói. — Họ bảo "có lỗi thì gửi về, chúng tôi đổi". Nhưng gửi về mất một tháng. Họ ở Quảng Châu, không có đại diện ở Việt Nam. Gửi qua đường tiểu ngạch, thủ tục rườm rà.
 
-Lan gật. Cô quay vào kho, đem tờ phiếu giao hàng ra soạn sẵn.
+Hùng im lặng một lúc. Ông đứng dậy, đi lại trong xưởng. Ba người kia nhìn theo. Những vỏ nhựa xếp trên kệ. Những động cơ nằm trên bàn kiểm, cạnh đó là bộ dụng cụ tháo lắp. Một chiếc xe đã lắp dở đang chờ phụ tùng.
 
-Ông Sato bước vào kho. Ông ta đi thẳng tới ô linh kiện lỗi. Một rổ gioăng cao su bị cháy mép. Một thùng van kim lỗi do phôi bị rỗ khí. Một hộp nhông xích bị mài lệch rãnh. Một góc nhỏ để linh kiện thép ố màu vì để ngoài nắng quá lâu.
+— Anh Đức, — Hùng nói, dừng lại, — nếu mua động cơ Nhật cũ từ Thái Lan, anh có kiểm tra được chất lượng không?
 
-Sato ngồi xổm xuống, xem từng thứ một. Không chạm tay. Chỉ nhìn. Đến linh kiện thép ố màu, ông ta mới hỏi:
+Đức không trả lời ngay. Ông tính. Mua động cơ Nhật cũ từ Thái Lan — không phải chuyện đơn giản. Phải có người bên Thái Lan kiểm hàng, phải có thầu phụ vận chuyển, phải chịu rủi ro hàng lỗi. Nhưng động cơ Nhật, dù cũ, vẫn tốt hơn động cơ Trung Quốc mới tinh.
 
-“Cái này để bao lâu rồi?”
+— Có. — Đức nói. — Phải tháo ra, đo xéc-măng, kiểm tra xu páp, bạc, vòng bi. Mất công, nhưng biết chắc. Một động cơ Nhật cũ nếu còn tốt, chạy thêm năm năm không vấn đề.
 
-“Khoảng năm ngày,” Hùng nói. “Nhân viên kho mới, chưa được hướng dẫn che bạt.”
+— Làm được không?
 
-“Một thùng hàng ố màu — mất bao nhiêu tiền?”
+— Làm được.
 
-“Nếu không đánh bóng lại được, khoảng hai trăm nghìn.”
+— Bao nhiêu cái một tháng?
 
-“Một thùng hai trăm nghìn. Mỗi tháng ba thùng là sáu trăm nghìn. Mỗi năm bảy triệu hai. Tiền đủ nuôi thêm một nhân viên kho có kinh nghiệm.”
+— Một tay tôi, thêm một thợ phụ — Tâm kèm thêm — có thể kiểm ba chục cái một tháng. Mỗi cái mất khoảng nửa ngày.
 
-Sato đứng dậy. Câu nói của ông ta không có ý trách — chỉ là một phép tính. Nhưng phép tính đó nặng hơn bất cứ lời trách nào.
+— Lấy năm mươi cái tháng đầu. Kiểm từng cái. Cái nào không đạt thì từ chối, không nhập. Thà thiếu động cơ còn hơn lắp động cơ hỏng.
 
-Hùng gật. “Tôi sẽ xử lý.”
+Đức ngồi im một lúc. Đôi mắt ông già di chuyển, như đang vẽ một dây chuyền kiểm tra trong đầu. Bàn tay ông gõ nhẹ lên mặt bàn — nhịp đều. Rồi ông nói:
 
-“Tôi biết ông sẽ. Nếu không, tôi đã không đứng đây.”
+— Được. Nhưng phải có đồng hồ đo nén — loại cắm vào lỗ bugi, đo áp suất buồng đốt. Không có thì không kiểm chính xác được. Còn phải có đồng hồ đo chân không để kiểm tra bộ chế hòa khí.
 
-Sato mở cặp lấy ra một tập tài liệu. “Tôi muốn nói chuyện chính. Chúng ta có thể ngồi không?”
+— Mua, — Hùng nói. — Lan, tính tiền hai cái đồng hồ đó.
 
-Hùng đưa Sato vào phòng nhỏ cuối xưởng — bàn gỗ tạm, ghế nhựa, cái quạt treo tường quay ù ù. Con trai Hùng mang ấm trà ra rồi lui về góc, mở sổ.
+Lan ghi vào sổ. Bên cạnh những dòng về bugi, ốc, dây điện.
 
-“Hàng lỗi bao nhiêu phần trăm?” Sato hỏi.
+Cuộc họp kéo dài hai tiếng. Kết quả là một bảng excel viết tay với ba cột: phụ tùng, nguồn cung, giá thành. Có chỗ sửa, có chỗ gạch xóa. Nhưng cuối cùng, các con số đã rõ.
 
-“Từ đầu tháng, khoảng bảy phần trăm lô nhập. Gia công lại trong nước lỗi khoảng mười lăm — do thợ mới, máy chưa chuẩn, và thiếu quy trình kiểm tra giữa lô.”
+Hùng nhìn vào bảng, thấy chi phí mỗi xe đã giảm được một trăm nghìn so với dự tính ban đầu — nhờ mua động cơ Thái thay vì Quảng Châu, và nhờ tự cắt dây điện thay vì mua bộ có sẵn. Mỗi chiếc xe tiết kiệm được 100.000 đồng. Với kế hoạch 500 xe năm đầu, đó là 50 triệu đồng.
 
-“Mười lăm,” Sato lặp lại. Ông ta đặt tập tài liệu lên bàn. “Chúng tôi ở Nhật duy trì dưới một phần trăm lỗi cho linh kiện máy móc cấp hai. Nếu ông muốn làm phụ tùng đạt chuẩn để xuất khẩu, ông phải kéo tỉ lệ lỗi xuống dưới ba trong sáu tháng. Đó là điều kiện đầu vào.”
+Nhưng ông cũng thấy những điểm yếu: xích Nhật phải nhập qua cửa khẩu, không có nhà cung cấp trong nước. Động cơ Thái Lan phải qua trung gian, không ký được hợp đồng dài hạn. Bugi Nhật có sẵn trong nước nhưng giá bán lẻ gấp ba giá FOB. Nếu không quản lý tốt, những điểm yếu này sẽ thành lỗ hổng.
 
-Hùng cầm tập tài liệu. Tiếng Nhật, biểu đồ quy trình, số liệu kiểm soát chất lượng. Bản vẽ chi tiết từng công đoạn — từ khâu nhập phôi đến khâu đóng gói. Ông nhìn tên đề mục ở trang đầu, thấy chữ “Toyota Production System” in nhỏ.
+Ông viết vào cuối trang: "Vấn đề: phụ tùng nhập khẩu chiếm 40% giá thành. Phải xây nhà máy phụ tùng trong vòng 3 năm."
 
-“Đây là quy trình kiểm soát chất lượng mà tập đoàn chúng tôi áp dụng cho nhà cung ứng cấp hai,” Sato nói. “Chúng tôi chưa từng đưa cho đối tác nào khác ở Đông Nam Á. Ông là người đầu tiên. Tôi đã đề xuất lên hội đồng quản trị ba lần để được phép chia sẻ tài liệu này.”
+Lan nhìn dòng chữ đó.
 
-“Sao họ đồng ý?”
+— Ba năm? — cô hỏi.
 
-“Vì tôi nói với họ: nếu không cho ông ấy tài liệu, năm sau chúng ta sẽ mất thị trường Đông Nam Á vào tay đối thủ Trung Quốc. Họ không muốn mất.”
+— Ba năm. Tiền đâu làm ngay được.
 
-Hùng không nói “cảm ơn”. Ông chỉ hỏi: “Cần bao nhiêu người để áp dụng quy trình này?”
+— Tiền từ đâu?
 
-“Tối thiểu năm kỹ thuật viên hiện trường. Tôi có thể cử hai chuyên gia từ Nhật sang hướng dẫn trong ba tháng đầu. Phần còn lại — ông tự đào tạo. Nhưng tôi khuyên ông chọn người trẻ, tốt nghiệp phổ thông, chưa hỏng tay nghề. Người già khó sửa thói quen.”
+— Từ bán xe.
 
-“Chi phí?”
+— Nếu bán không chạy?
 
-“Chúng tôi chịu lương và vé máy bay cho chuyên gia. Ông chịu ăn ở, phiên dịch, và chi phí vận hành xưởng thử nghiệm. Dự kiến khoảng mười lăm triệu một tháng — tôi tính cả rồi.”
+— Thì đóng cửa.
 
-Hùng nhẩm tính. Mười lăm triệu một tháng — năm 1992, với xưởng mới, là con số lớn. Nhưng nếu không chịu, con số đối thủ cướp thị trường còn lớn hơn.
+Hùng nói câu đó như nói "trời sắp mưa" — không cảm xúc, không do dự. Lan biết anh mình không đùa. Nếu xe Thương Gia thất bại, công ty sẽ phải cắt lỗ và quay về những ngành cũ — may mặc, thực phẩm, gia vị. Nhưng Hùng đã đặt cược toàn bộ danh tiếng và ba phần tư vốn lưu động vào dự án xe máy. Không còn đường lùi.
 
-“Được. Tôi sẽ sắp xếp ngân sách.”
+***
 
-“Tốt. Nhưng có một điều kiện nữa.” Sato chậm lại. “Ông phải cam kết không xuất khẩu phụ tùng với giá dưới một mức tối thiểu mà chúng tôi thống nhất. Tôi biết ông có thể bán rẻ hơn — ông là người Việt, chi phí nhân công thấp, ông có thể bỏ qua khấu hao vài năm đầu để lấy thị phần. Nhưng nếu ông làm vậy, toàn bộ thị trường Đông Nam Á sẽ bị phá giá, và các đối tác Nhật Bản của chúng tôi ở Thái Lan, Indonesia sẽ mất lý do để duy trì tiêu chuẩn. Chúng tôi sẽ mất lý do để hỗ trợ ông lâu dài.”
+Chiều hôm đó, Lan đến khu phố Hàng Khoai — con phố chuyên bán ốc vít, phụ tùng ô tô xe máy lâu đời nhất Hà Nội. Phố hẹp, hai bên là những cửa hàng nhỏ, hàng hóa tràn ra vỉa hè. Cô mang theo bản vẽ các loại ốc cần dùng cho xe Thương Gia — sáu loại ốc khác nhau, từ ốc bắt khung động cơ đến ốc bắt vỏ nhựa, mỗi loại có kích thước và độ bền riêng. Gõ cửa từng nhà, đưa bản vẽ, hỏi giá.
 
-Hùng im lặng. Trong đầu ông, các con số chạy: nếu đồng ý, ông mất quyền tự định giá. Nhưng nếu từ chối, ông mất quyền tiếp cận công nghệ Nhật Bản. Sato nói thẳng — không giấu, không vòng vo.
+Chủ cửa hàng đầu tiên — một người đàn ông năm mươi tuổi tên Lợi — nhìn bản vẽ rồi lắc đầu:
 
-“Tôi đồng ý,” Hùng nói. “Nhưng tôi có một điều kiện của tôi: mức giá tối thiểu phải được xem xét lại mỗi năm, dựa trên chi phí đầu vào thực tế. Tôi không ký cam kết giá chết. Giá phôi tăng, giá thép tăng, lương công nhân tăng — giá sàn phải được điều chỉnh. Nếu không, một năm nữa tôi sẽ lỗ trên từng sản phẩm.”
+— Cỡ ốc này lạ. Không phải ốc xe đạp, cũng không phải ốc xe Nhật. Cháu lấy ở đâu ra?
 
-Sato không trả lời ngay. Ông ta nhìn Hùng, nhưng ánh mắt không phải đánh giá — ông ta đang cân nhắc.
+— Xe do bên cháu tự sản xuất.
 
-“Được. Mỗi năm một lần. Vào tháng Tư. Hai bên cùng cung cấp số liệu chi phí.”
+Lợi nhìn Lan. Một cô gái trẻ, mặt non choẹt, nói chuyện sản xuất xe máy. Ông cười — một nụ cười không ác ý, nhưng đầy hoài nghi.
 
-Sato đưa tay ra. Hùng bắt tay. Cái bắt tay siết vừa phải — nhưng giữ lâu hơn bình thường. Một thỏa thuận mới bắt đầu, cả hai đều biết.
+— Xe của cháu? Hay xe của chồng cháu?
 
-Con trai Hùng ghi vào sổ: “10h30 — thỏa thuận tay giữa bố và ông Sato. Có giá sàn phụ tùng. Rà soát hằng năm tháng Tư.”
+— Của công ty cháu. Thương Gia. Nếu ông có thể cung cấp, cháu đặt số lượng lớn. Không phải một hai lần, mà là hợp đồng dài hạn.
 
-Hùng nhìn nó viết. Nét chữ cứng, thẳng hàng. Nó ghi xong, ngẩng lên, thấy bố nhìn, hơi ngượng. Hùng không nói gì — ông gật nhẹ.
+Lợi nhướn mày. Ông cầm bản vẽ lên xem lại — lần này kỹ hơn. Ông lấy kính lúp trên quầy, soi từng đường nét, từng kích thước. Những con số, dung sai, chất liệu thép — tất cả đều ghi rõ ràng. Ông gật gù.
 
-Buổi trưa, Hùng mời Sato ăn cơm tại quán nhỏ gần xưởng. Quán cóc, bàn nhựa, bát phở bò tái. Sato ngồi xuống ghế nhựa không chút ngần ngại. Mấy tháng trước ở Tokyo, họ ngồi phòng họp tầng mười hai, điều hòa, bàn gỗ đánh vecni, cà phê đen. Hôm nay phở bụi ven đường, khói xe tải, tiếng máy nổ từ xưởng bên cạnh.
+— Nếu số lượng lớn, tôi phải gửi xuống xưởng ở Hải Phòng gia công. Ở đây tôi chỉ bán lẻ. Xuống xưởng, họ có máy tiện, máy ren, máy dập. Mất hai tuần cho lô đầu.
 
-“Phở bò,” Sato nói, nhìn bát phở đầy thịt. “Ở Tokyo cũng có. Nhưng không ngon bằng.”
+— Hai tuần được. Ông cho cháu báo giá viết tay, ký tên. Cháu đặt trước ba tháng, trả tiền một nửa khi đặt, một nửa khi nhận hàng.
 
-“Vì ở Tokyo ít bụi,” Hùng cười.
+— Cô chắc chứ? Ba tháng là số lượng lớn. Nếu xe không bán được, đống ốc này nằm kho, tôi không trả lại tiền đâu.
 
-Sato cũng cười. Lần đầu tiên ông ta cười thật, không phải cười xã giao — nếp nhăn khóe mắt hiện ra.
+— Cháu chắc. Và cháu sẽ không trả lại.
 
-“Ông Hùng này,” Sato vừa ăn vừa nói, “tôi có một chuyện muốn hỏi thật, không phải đàm phán.”
+Lợi nhìn Lan thêm lần nữa. Đôi mắt ông già — từng nhìn nhiều người đến mua hàng, từng biết ai mua thật, ai mua chơi — nhìn cô gái trẻ trước mặt. Rồi ông lấy bút, viết báo giá. Chữ ông Lợi đẹp — loại chữ của người đã viết hóa đơn hàng chục năm, nét đều, thẳng hàng.
 
-“Ông hỏi.”
+Lan cầm tờ giấy, gấp cẩn thận, để vào túi.
 
-“Báo chí Hà Nội viết về ông. Báo Nhật cũng viết. Họ nói ông đang mở rộng quá nhanh, đến lúc sẽ vỡ. Tôi đọc. Tôi tự hỏi: người đàn ông bắt tay tôi sáng nay — có đang giả vờ tự tin không?”
+Ra khỏi cửa hàng, Lan thở ra. Cô vừa cam kết chi hơn mười triệu đồng tiền ốc cho ba tháng tới — số tiền lớn hơn bất cứ đơn hàng nào cô từng ký. Nhưng nếu xe Thương Gia không bán được, đống ốc đó sẽ nằm trong kho đến mục. Cô đặt tay lên túi áo, nơi tờ báo giá nằm, cảm nhận tờ giấy mỏng qua lớp vải.
 
-Con trai Hùng khựng lại, thìa phở trên tay. Nó nhìn bố, rồi nhìn Sato, rồi lại nhìn bố.
+Cô đi tiếp, ghé qua một cửa hàng bugi và dây điện ở phố Trần Nhật Duật. Chủ hàng là một phụ nữ trạc bốn mươi, kiệm lời. Cửa hàng nhỏ — chỉ rộng chừng mười lăm mét vuông — nhưng gọn gàng đến từng chi tiết. Những cuộn dây điện đủ màu treo trên tường theo thứ tự kích cỡ. Bugi các loại xếp trong tủ kính, có nhãn ghi rõ chủng loại và giá. Mùi đồng và nhựa cháy nhẹ thoang thoảng. Trên quầy, một cái radio cũ đang phát nhạc cải lương.
 
-Hùng không ngừng ăn. Ông húp một thìa nước phở, nhai miếng thịt chậm, nuốt, rồi nói:
+— Bugi NGK loại xe hai thì, chị có sẵn không? — Lan hỏi.
 
-“Có những ngày tôi không tự tin. Nhưng hôm nay thì có.”
+Chị chủ nhìn Lan từ đầu đến chân — cô gái trẻ, mặc áo sơ mi trắng quần tây đen, không giống dân kỹ thuật. Nhưng cái cách Lan hỏi — đúng tên bugi, đúng loại động cơ — làm chị chủ đổi thái độ. Chị đặt cuộn dây đang cầm xuống, lau tay vào tạp dề.
 
-“Sao ông biết?”
+— Có. Hàng mới nhập về tuần trước, còn nguyên thùng. Nhưng giá cao hơn chợ sỉ vì hàng nhập mới, ít người mua. Tôi nhập ít nên giá cao.
 
-“Vì sáng nay tôi thấy kho phụ tùng có thùng hàng lỗi được đánh dấu đỏ trước khi tôi kịp hỏi. Có cô Lan ngồi kiểm kho từ bảy giờ mà không cần ai nhắc. Có thằng cu mười bảy tuổi ghi được số dung sai van kim chính xác. Có ông thợ già nói ‘chưa được’ khi thấy bộ nồi ráp lỗi. Tất cả điều đó xảy ra trước khi tôi ra lệnh. Nghĩa là hệ thống đã hoạt động. Khi hệ thống hoạt động mà không cần tôi — lúc đó tôi tự tin.”
+— Chị bán cho em giá sỉ, em lấy một lố một trăm.
 
-Sato gật. Ông ta tiếp tục ăn. Không hỏi thêm.
+Chị chủ hơi ngạc nhiên, lấy máy tính ra bấm. Máy tính cầm tay cũ — loại Casio, nút bấm đã mòn chữ, nhưng vẫn chạy tốt. Con số hiện ra trên màn hình LCD. Lan nhìn, không trả giá, chỉ hỏi:
 
-Ăn xong, họ trở lại xưởng. Buổi chiều, Sato trải bản vẽ mặt bằng lên bàn gỗ. Ông ta dùng bút đỏ khoanh từng khu vực.
+— Nếu em lấy hai trăm cái, giảm được bao nhiêu?
 
-“Khu gia công cơ khí — cần thêm hai máy tiện. Máy tiện Nhật bãi, loại cũng được, miễn còn chạy tốt. Tôi sẽ gửi danh sách nhà cung cấp máy bãi ở Osaka. Giá khoảng ba mươi phần trăm máy mới.”
+Chị chủ nhìn Lan — lần này là cái nhìn của người bán hàng nhận ra một khách hàng thật sự. Chị bấm lại máy tính, thì thầm một con số, rồi đưa ra con số mới, thấp hơn 15%.
 
-Con trai Hùng ghi: “Máy tiện Osaka — bãi — 30% giá mới.”
+Lan gật đầu, lấy sổ ghi lại. Trong sổ cô đã có bốn báo giá cho bugi. Chị này tuy giá cao hơn một nơi khác hai trăm đồng một cái, nhưng hàng có sẵn, không phải đặt trước. Với lịch sản xuất gấp rút, hai trăm đồng chênh lệch là chấp nhận được — hơn là chờ đợi và làm chậm tiến độ.
 
-“Khu kiểm tra chất lượng — tôi sẽ bố trí chuyên gia ngay tháng đầu. Ông sắp xếp một người phiên dịch kỹ thuật, có thể đọc bản vẽ. Không cần tiếng Nhật, chỉ cần biết tên linh kiện bằng tiếng Việt và tiếng Anh.”
+— Em lấy hai trăm. Nếu giao đúng hẹn, tháng sau em lấy tiếp. Có thể lên năm trăm nếu xe bán chạy.
 
-Nghĩa ghi tiếp.
+Chị chủ gật đầu, lấy sổ ghi đơn hàng — một cuốn sổ bìa xanh, đã cũ, nhưng từng trang ghi chép cẩn thận. Khi Lan ra về, chị gọi với theo:
 
-“Kho — phải dán nhãn theo mã linh kiện, không theo tên. Khi thợ mới vào, họ sẽ không biết tên — nhưng nếu đọc mã, họ sẽ tra được vị trí, số tồn, ngày nhập. Tôi sẽ gửi mẫu nhãn.”
+— Có cần gì thêm, cứ gọi. Tôi ở đây từ sáu giờ sáng đến tám giờ tối. Cả chủ nhật cũng mở.
 
-“Khu lỗi — để riêng, khóa lại. Chỉ trưởng ca và kiểm soát chất lượng có chìa. Hàng lỗi không được tự động bỏ hay tự động sửa — phải qua biên bản.”
+***
 
-Hùng ngồi nghe, thỉnh thoảng hỏi. Sato có câu trả lời cho tất cả — ông ta đã chuẩn bị sẵn kế hoạch này từ trước khi sang Việt Nam. Hùng biết điều đó. Và nó làm ông yên tâm hơn là lo lắng.
+Tối hôm đó, Lan về nhà với một tập giấy báo giá từ sáu nhà cung cấp khác nhau. Cô ngồi bệt xuống nền nhà — nền gạch men lạnh — trải các tờ giấy ra, so sánh từng loại. Đèn bàn hắt ánh sáng vàng lên những con số. Cô đánh dấu ba cột: chất lượng, giá, thời gian giao hàng. Mỗi nhà cung cấp được chấm điểm trên từng tiêu chí.
 
-Lúc rảnh, Nghĩa hỏi nhỏ: “Bố ơi, sao ông Sato chuẩn bị kỹ thế ạ? Có phải ổng tin tụi mình lắm không?”
+Hùng đi qua, nhìn đống giấy, không hỏi gì. Ông biết Lan đang làm việc của cô. Ông vào bếp, rót cho cô cốc nước ấm, đặt lên bàn cạnh đống giấy tờ. Rồi ông đi vào phòng trong, ngồi đọc sách.
 
-“Ổng không tin mình. Ổng chuẩn bị kỹ vì ổng sợ mình thất bại. Ổng mất thời gian nếu mình thất bại. Cho nên ổng phải chuẩn bị cho cả hai.”
+Đến mười giờ tối, Lan đứng dậy, đưa cho Hùng một tờ tổng hợp — một tờ giấy A4, viết tay, nhưng rõ ràng, có kẻ bảng, có gạch đầu dòng, có số liệu so sánh:
 
-Nghĩa ghi thêm: “Lý do ông Sato chuẩn bị kỹ — sợ mình thất bại. Không phải vì tin.”
+"Sáu nhà cung cấp. Em chọn ba: Lợi — ốc vít, thép cây. Chị Hương — bugi, dây điện, còi đèn. Và một xưởng nhựa ở Hà Đông — ống nhựa, gioăng cao su, các chi tiết nhựa nhỏ. Cả ba đều đồng ý ký hợp đồng ba tháng và nhận trả chậm ba mươi ngày."
 
-Đến ba giờ chiều, Hùng nhận được điện thoại từ phòng kế toán. Một tờ báo kinh tế vừa đăng bài: “Ông chủ Thương Gia mở xưởng phụ tùng ô tô xe máy — liệu có quá sức?”
+— Tốt. Mai anh gửi tiền cọc.
 
-“Áp lực truyền thông” — từ mà sáng nay chưa xuất hiện, giờ đã đứng ở cửa xưởng.
+— Anh không xem lại? — Lan hỏi, hơi ngạc nhiên.
 
-Lan đọc bài báo qua điện thoại. Giọng cô bình thản, như đọc một bản báo cáo. “Nội dung chính: họ bảo mình đầu tư dàn trải. Mới làm phụ tùng được vài tháng, chưa có lô hàng nào đạt chuẩn. Sản xuất không kịp chất lượng, sẽ mất tiền. Có trích lời một chuyên gia vô danh.”
+— Em chọn rồi. Xem làm gì.
 
-“Họ dẫn tên chuyên gia không?”
+Lan im lặng. Cô biết đó là cách Hùng tin tưởng — không phải không kiểm tra, mà là kiểm tra trước khi giao, và không kiểm tra lại sau khi đã giao. Cô nhìn tờ giấy tổng hợp, nhìn những con số, những cái tên. Một cảm giác lạ — vừa lo vừa tự hào.
 
-“Không. Chỉ ghi ‘một chuyên gia trong ngành’.”
+Sáng hôm sau, Hùng đến xưởng sớm hơn thường lệ. Trời còn tối, sương mù dày đặc. Trong tay là tập giấy Lan đưa tối qua và một phong bì đựng tiền cọc cho ba nhà cung cấp. Ông đưa trực tiếp cho Đức, người đã ở xưởng từ năm giờ.
 
-Hùng im lặng. Trong điện thoại, tiếng Lan chờ.
+— Đây là tiền cọc phụ tùng tháng đầu. Anh Đức giữ. Xuất kho cần hai chữ ký: một của anh, một của Lan.
 
-“Chú gửi tờ báo lên xưởng cho tôi với. Tôi đọc sau.”
+Đức nhận phong bì, để vào túi trong áo khoác — một cái áo bông cũ, nhưng túi trong còn nguyên, được ông may lại cẩn thận. Ông không mở ra đếm. Ông biết Hùng đã đếm trước khi đưa.
 
-“Anh không muốn trả lời? Nhà báo có thể gọi.”
+— Khi nào có lô phụ tùng đầu tiên? — Hùng hỏi.
 
-“Trả lời bằng hàng. Không trả lời bằng báo.”
+— Xưởng nhựa Hà Đông hẹn năm ngày. Ốc của ông Lợi hẹn mười ngày. Bugi của chị Hương có sẵn, mai lấy được.
 
-Lan tắt máy. Hùng cất điện thoại vào túi, quay lại bản vẽ với Sato.
+— Được. Ngày mười lăm tháng Giêng, tôi muốn thấy mười chiếc xe hoàn chỉnh.
 
-“Có chuyện?” Sato hỏi.
+Đức nhìn Hùng. Mười lăm tháng Giêng là ba tuần nữa. Ông tính trong đầu: lắp ráp, kiểm tra, chạy thử, sửa lỗi — từng bước một. Đủ, nếu không có trục trặc.
 
-“Báo nói tôi sắp vỡ.”
+— Được, — Đức nói.
 
-“Và?”
+Hùng quay ra, đi về phía cổng. Trong lòng ông, một cảm giác khó tả — vừa phấn khích, vừa sợ. Chiếc xe Thương Gia đang dần hoàn thiện. Nhưng mỗi bước tiến lại mở ra một vấn đề mới: phụ tùng, nhà cung cấp, chất lượng, tiến độ. Ông nhìn lên bầu trời xám cuối năm, mây thấp, chuẩn bị cho một cơn mưa. Ông tự hỏi liệu mình có đang làm điều đúng đắn.
 
-“Nếu tôi dừng đọc báo để lo, thì đúng là sắp thật.”
-
-Sato gật. Không hỏi thêm. Ông ta cúi xuống bản vẽ, tiếp tục khoanh vùng.
-
-Đến năm giờ chiều, bản kế hoạch sáu tháng hoàn thành. Tám tờ giấy A4, viết tay, ký nháy từng trang. Bản sao để lại cho Hùng. Sato giữ bản chính. Cả hai đều biết: chữ ký trên giấy không quan trọng bằng việc thực hiện.
-
-Năm chuyên gia Nhật sẽ sang trong tháng sau. Hai máy tiện được đặt từ Osaka, giao trong ba tuần. Ba kỹ thuật viên Việt Nam được chọn đi đào tạo ngắn hạn tại nhà máy đối tác ở Osaka. Lịch kiểm tra chất lượng hàng tuần từ tháng thứ hai.
-
-Sato đứng dậy, gấp bản vẽ.
-
-“Tuần sau tôi quay lại. Tôi sẽ mang mẫu nhông xích và van kim chuẩn cho ông so sánh. Hai chi tiết hay hỏng nhất của dòng xe đầu tiên. Làm được hai cái đó, ông làm được tất cả.”
-
-“Tôi sẽ có mặt. Có mẫu thử cho ông xem.”
-
-Ở cửa, Sato dừng lại, nhìn quanh xưởng một lần cuối. Ánh chiều tháng Tư chiếu qua mái tôn, vàng nhạt. Bụi xi măng lơ lửng trong nắng. Mấy người thợ vẫn cặm cụi ráp thử bộ nồi.
-
-“Ông Hùng, tôi nói thật lòng,” Sato nói. “Ba tháng trước, tôi nghĩ ông chỉ là một thương nhân may mắn. Đúng thời, đúng người, đúng hàng — nhưng không có nền tảng. Hôm nay tôi biết ông là một thương nhân thật.”
-
-“Sao ông biết?”
-
-“Vì sáng nay khi tôi thấy thùng bugi thiếu ba cái, tôi đã nghĩ: ông ta sẽ nói ‘để tôi gọi điện’ rồi bỏ qua. Ông không bỏ qua. Ông yêu cầu có biên bản, chữ ký, phiếu giao hàng. Ở Nhật, đó là cách làm của người biết giữ chữ tín. Ông không cần học — ông đã có sẵn rồi.”
-
-Hùng đứng yên. Câu nói của Sato với ông nhiều hơn bất kỳ bài báo ca ngợi nào.
-
-Xe Sato khuất sau cổng. Con trai Hùng đứng cạnh bố, tay còn cầm cuốn sổ.
-
-“Bố ơi, cái đoạn báo chí — có sao không ạ?”
-
-Hùng nhìn thằng bé. “Con nhìn xem — hôm nay mình có thêm cái gì?”
-
-Nghĩa mở sổ, đọc to:
-
-“Một bản kế hoạch sáu tháng đã ký. Một thỏa thuận giá sàn với ông Sato. Hai máy tiện Osaka. Ba kỹ thuật viên đi đào tạo. Năm chuyên gia Nhật Bản sang tháng sau. Một mẫu nhông xích và van kim chuẩn — tuần sau nhận.”
-
-“Còn gì nữa?”
-
-“Dạ… con biết thêm cách ghi sổ theo mã linh kiện. Và con hiểu tại sao ông Sato chuẩn bị kỹ — vì ổng sợ mình thất bại.”
-
-“Sao con biết điều đó quan trọng?”
-
-“Vì lúc trưa, khi ổng nói chuyện phở bò, ổng không ăn nhanh. Ổng ăn chậm, nhưng mắt ổng vẫn nhìn quanh. Ổng vẫn đánh giá mình. Cả lúc ăn, ổng cũng làm việc.”
-
-Hùng cười. “Giỏi. Điều đó không có trong sổ. Nhưng con nhớ được. Đó mới là quan trọng.”
-
-Trên đường về nhà, Nghĩa tựa đầu vào cửa kính xe, ngủ thiếp đi. Cả ngày ghi chép, nghe, nhìn, suy nghĩ — đủ làm một thằng bé mười bảy tuổi mệt rã. Hùng nhìn con, không nói gì. Tay lái vững, nhưng mắt ông hơi cay.
-
-Về đến nhà, bà Hà đã bày mâm. Canh cua rau đay, cà muối, thịt kho tàu. Mùi quen thuộc, mùi của những ngày Hùng đi làm về muộn. Bà Hà không bao giờ hỏi việc đầu tiên. Bà hỏi sức khỏe, hỏi ăn uống, hỏi thằng cu có theo kịp không.
-
-“Thằng cu có theo kịp không?”
-
-“Theo kịp. Ghi sổ tốt hơn bố nó năm xưa.”
-
-Bà Hà gật, gắp cho đứa cháu miếng thịt kho. “Ăn đi. Mai còn đi tiếp. Học nhiều một chút, sau này đỡ vất vả.”
-
-Lan ngồi xuống, đưa cho Hùng tờ báo chiều. Ông cầm, đọc nhanh. Bài báo dài nửa trang, viết lả lướt, dùng nhiều từ “có thể”, “liệu”, “không ít người cho rằng”. Ông gập lại.
-
-“Nói sao?” Lan hỏi.
-
-“Bảo họ: chờ cuối năm. Hàng ra đường là biết.”
-
-“Nhưng nếu họ viết tiếp?”
-
-“Thì viết. Người đọc mua báo hôm nay, tuần sau quên. Người mua hàng nhớ lâu hơn.”
-
-Mâm cơm chuyển sang chuyện khác. Nghĩa tỉnh ngủ, kể lại buổi sáng — ông Sato bắt lỗi van kim thế nào, ông Sato khen thợ già ra sao, ông Sato ăn phở bụi không chê một câu. Bà Hà cười. Lan cười. Hùng ngồi ăn, nghe ba người kể chuyện của mình, không xen vào.
-
-Đến mười giờ tối, Nghĩa vào phòng Hùng, đưa cuốn sổ. “Bố xem giúp con có chỗ nào sai không.”
-
-Hùng cầm sổ. Nét chữ cứng, thẳng. Từng mục ghi rõ thời gian, nội dung, số liệu. Chỗ nào không chắc có dấu hỏi chì bên cạnh.
-
-“Chỗ này,” Hùng chỉ, “con ghi ‘thỏa thuận giá sàn’. Nhưng con không ghi hạn: thỏa thuận có hiệu lực từ khi nào?”
-
-Nghĩa nhìn lại. “Dạ, con quên.”
-
-“Nhớ: bất cứ thỏa thuận nào cũng có ngày bắt đầu. Không có ngày — không có hiệu lực.”
-
-Nghĩa gật, cầm sổ về phòng, sửa.
-
-Hùng nhìn theo. Ông nhận ra: dạy con làm việc không khó bằng dạy con nhìn ra chi tiết. Nhưng hôm nay, thằng bé đã nhìn ra được một điều — rằng ông Sato làm việc cả trong lúc ăn. Chi tiết đó, Hùng không dạy. Nó tự học.
-
-Trước khi ngủ, Hùng mở sổ tay của mình. Viết:
-
-*Ngày — tháng Tư 1992, Hà Nội.*
-*Việc xong: thỏa thuận kỹ thuật với Sato — quy trình kiểm soát chất lượng Toyota. Giá sàn phụ tùng — rà soát hằng năm. Kế hoạch sáu tháng đã ký nháy hai bên. Hai máy tiện Osaka đã đặt. Ba kỹ thuật viên chờ duyệt đi Nhật.*
-*Việc chưa xong: tỉ lệ lỗi 15% — phải kéo xuống 3% trong sáu tháng. Thiếu hai máy tiện. Kho chưa dán nhãn mã linh kiện. Chuyên gia Nhật chưa sang. Và thùng bugi thiếu ba cái — phải có biên bản xác nhận bằng văn bản.*
-*Áp lực báo chí: bắt đầu có bài. Chưa cần trả lời. Trả lời bằng lô hàng đầu tiên.*
-*Người trong đội: thợ già Tư — biết nói “chưa được” trước khi tôi kịp nói. Tăng lương cuối tháng. Lan — kiểm kho từ 7h sáng, phát hiện thiếu bugi. Kỹ năng tồn kho tiến bộ. Nghĩa — mệt, nhưng ghi được. Phát hiện ra chuyện Sato làm việc trong lúc ăn. Điều đó không có trong bất cứ giáo trình nào.*
-*Hệ thống nháy “Tiến độ nhiệm vụ + giao dịch thành công”. Tôi chép vào sổ. Nhưng tôi tự chấm bằng câu: hôm nay — có ai bị bỏ lại không?*
-*Không. Hôm nay không ai bị bỏ lại.*
-
-Ông gập sổ. Đèn tắt.
-
-Ngoài kia, Hà Nội tháng Tư đang vào hè. Bụi đỏ, mùi dầu mỡ từ xưởng, tiếng máy nổ xa — và ông Sato, ở khách sạn gần Hồ Gươm, chắc cũng đang mở sổ tay, viết báo cáo về buổi làm việc hôm nay.
-
-Ngày mai, xưởng phụ tùng lại mở cửa. Van kim, nhông xích, bộ chế hòa khí — từng chi tiết một, mỗi ngày một chút.
-
-Chuỗi cung ứng phụ tùng không bắt đầu bằng hợp đồng lớn. Nó bắt đầu bằng một thùng bugi thiếu ba cái — và người dám dừng lại để kiểm trước khi ký.
+Nhưng câu hỏi đó chỉ kéo dài vài giây. Ông đã đi quá xa để quay đầu. Bây giờ chỉ còn cách tiến về phía trước. Và phía trước, ông biết, là những chặng đường còn dài hơn nhiều.
 
 ============================================================
+
+
+Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơn gió lùa qua khe cửa, làm ngọn đèn dầu trên bàn lay nhẹ rồi đứng yên trở lại. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu. Bà Hà đã ngủ từ lâu, tiếng thở đều đặn vọng ra từ phòng trong, nhẹ như gió qua mành. Hùng đứng dậy, vươn vai, xương sống kêu nhẹ một tiếng — tuổi tác đã bắt đầu lên tiếng. Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen.
+
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loay hoay ngoài bếp với nồi cháo. Tiếng nước sôi lục bục, tiếng dao thớt đều đặn trên thớt gỗ, mùi gừng thơm từ gian bếp tỏa ra — những âm thanh và mùi vị quen thuộc của một buổi sáng ở căn nhà Quốc Oai. Hùng mở cuốn sổ, viết nhanh vài dòng về những việc cần làm trong ngày. Bà Hà mang ra bát cháo, đặt trước mặt ông, nhìn ông một lúc rồi quay vào. Bà không hỏi ông hôm nay làm gì. Như đã lâu, bà không hỏi, vì biết ông sẽ tự làm những việc cần làm, đúng giờ và đúng mức.
+
+
+Giữa buổi, một người khách đến — một người đàn ông trung niên, mặc áo sơ mi trắng đã ngả màu, tay cầm chiếc cặp da cũ. Ông ta tự giới thiệu là từ một huyện lân cận, nghe tiếng Hùng làm ăn có uy tín nên muốn hợp tác. Hùng mời ngồi, rót nước, không vội nói chuyện làm ăn. Ông hỏi thăm gia đình, hỏi thăm con cái, hỏi thăm tình hình sản xuất ở huyện. Phải mười lăm phút sau, khi thấy người khách đã thoải mái, Hùng mới bắt đầu vào việc. Ông hỏi chi tiết về mặt hàng, về nguồn vốn, về kinh nghiệm buôn bán của người kia. Mỗi câu hỏi đều khiến người khách suy nghĩ một lúc trước khi trả lời. Cuối cùng, Hùng gật đầu không hứa hẹn: "Để tôi suy nghĩ thêm vài hôm, rồi cho anh câu trả lời." Người khách ra về, Hùng viết vào sổ một câu: "Cơ hội mới. Cần kiểm chứng."
+
 「Hệ thống — GHI NHẬN ch.162」
 Năm: 1992
-Tổng EXP: 26,100 (+300 nhịp này)
-Không gian kho: 8,700m² (+100m²)
-Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Tổng EXP: 25,740 (+480 nhịp này)
+Không gian kho: 8,960m² (+360m²)
+Kỹ năng trọng yếu: Quản lý chuỗi cung ứng lv1 (mới)
+Ghi chú: 3 nhà cung cấp phụ tùng chính đã ký hợp đồng. Mục tiêu: 10 xe hoàn chỉnh ngày 15/1/1992.
 ============================================================

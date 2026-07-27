@@ -2,198 +2,181 @@
 Chương 221: Dấu hiệu khủng hoảng 2008
 ============================================================
 
-Hùng không thích ngày có chữ “Dấu hiệu khủng hoảng 2008” trên lịch — những ngày ấy ít cho phép sai.
+Tháng Hai năm 2007, một bản tin Bloomberg đập vào mắt Hùng lúc sáu giờ sáng. Ông ngồi trong phòng làm việc tại nhà — một căn phòng nhỏ ở tầng hai, bàn gỗ, tủ sắt, quạt trần, màn hình CRT cũ kết nối Internet qua đường dây điện thoại. Tốc độ tải trang chậm đến mức ông có thể đi pha cà phê — phin, bột cà phê Trung Nguyên, nước sôi — rồi quay lại xem.
 
-Mùi giấy nợ 2008 vẫn còn trong vài ngăn kéo.
+Dòng chữ hiện ra trên màn hình, từng chữ một, như một bức điện tín: *"New Century Financial — lender to borrowers with poor credit — reports 25% drop in earnings. Shares fall 36%."*
 
-Mùi bụi đường bám vào áo trước khi bám vào ký ức.
+Hùng đọc lại lần nữa. New Century Financial — một công ty cho vay thế chấp dưới chuẩn lớn thứ hai nước Mỹ. 25% lợi nhuận giảm. Cổ phiếu rơi 36% trong một ngày. Ông mở ngăn kéo bàn, lấy ra cuốn sổ ghi chép các giao dịch tài chính quốc tế từ năm 2005 đến nay — một cuốn sổ tay bìa xanh, hai trăm trang, ghi đầy những con số, tỷ lệ, nhận xét. Cuốn sổ này bắt đầu từ tháng Sáu năm 2005, khi Hùng mua cuốn *The Intelligent Investor* của Benjamin Graham ở sân bay Singapore, và bắt đầu theo dõi thị trường tài chính toàn cầu.
 
-Năm 2003. “Dấu hiệu khủng hoảng 2008” đến không gõ cửa — nó đá cửa. Hà Nội – trung tâm tài chính sáng ấy không banner, chỉ mặt người tái hơn giấy.
+Lật lại trang tháng Mười hai năm 2006. Ở đó, một dòng được gạch chân: *Deutsche Bank chào CDO nợ dưới chuẩn — lãi 12% — xếp hạng A — 100M USD. Từ chối.*
 
-Hùng họp ngắn. Bốn cột: tiền mặt — hàng — lương đến hạn — uy tín lung lay chỗ nào. Không ai được nói 'cảm thấy' thay cho số.
+Sáu giờ ba mươi, Hùng gọi cho Hoàng — một Việt kiều Mỹ từng làm phân tích cho Lehman Brothers sáu năm, nay về nước mở công ty tư vấn tài chính nhỏ ở quận 3, Sài Gòn. Hoàng ba mươi bảy tuổi, thông minh, khô khan, không bao giờ nói những lời thừa.
 
-Ông bóc “đối thủ phá giá": cái nào thật, cái nào phóng đại, cái nào do mình tự làm hỏng.
+"Hoàng, anh thức chưa?"
 
-Quyết định đầu: giữ lương và giữ khách cốt lõi. Người ngoài thích nghe thắng; người trong cần nghe còn việc làm.
+"Chưa ngủ, anh Hùng ạ. Em cũng đang đọc tin về New Century." Giọng Hoàng khàn, khói thuốc phả qua điện thoại.
 
-Đêm đó ông không ngủ sâu. Ông chấp nhận — người lãnh đạo mất ngủ đúng việc thì đội còn đường sống.
+"Sao? Nói thật."
 
-"đối thủ phá giá có giết mình không?"
+"Em nghĩ — đây là domino đầu tiên." Giọng Hoàng ngừng lại, như đang cân nhắc từng chữ. "New Century cho vay dưới chuẩn — tức là cho những người không có khả năng trả nợ vay mua nhà. Họ gói các khoản vay đó lại, bán cho các ngân hàng đầu tư dưới dạng CDO. Các ngân hàng đầu tư — Lehman, Bear Stearns, Merrill — lại bán CDO đó cho quỹ hưu trí, quỹ tương hỗ, ngân hàng châu Âu. Toàn bộ thị trường có khoảng ba nghìn tỷ đô la CDO nợ dưới chuẩn. Nếu New Century sụp, họ sẽ kéo theo cả chuỗi."
 
-"Có thể. Nếu mình giấu. Không giấu thì chỉ bị thương."
+"Tôi đã từ chối Deutsche Bank hồi tháng Mười hai. Họ giới thiệu CDO."
 
-"Còn lương không?" ai đó hỏi trước.
+"Anh thông minh đấy. Có nhiều người đã mua — kể cả các ngân hàng lớn. Họ tưởng nó an toàn vì được xếp hạng A."
 
-"Còn. Cắt chỗ khác trước, không cắt chỗ nuôi người."
+"Mấy ngân hàng Việt Nam — có dính không?"
 
-"Tin đồn đang chạy."
+"Ngân hàng thương mại nhà nước — không. Họ chỉ mua trái phiếu chính phủ Mỹ. Nhưng ngân hàng cổ phần — có thể. Mấy tháng trước có người đến chào em gói CDO của Goldman Sachs. Họ nói lãi suất cao hơn trái phiếu chính phủ hai phần trăm, xếp hạng AA. Từ chối."
 
-"Chạy chậm hơn số thật. Đưa số thật ra."
+Hùng im lặng. Một cảm giác quen thuộc — như năm 1997, khi ông nhìn thấy những dấu hiệu đầu tiên của khủng hoảng tài chính châu Á từ báo cáo xuất khẩu, từ những đơn hàng bị hủy bất thường trên thị trường Thái Lan. Khi ấy ông chưa đủ lớn để bị cuốn vào — Thương Gia mới có vài cửa hàng — nhưng ông đã nhìn thấy cảnh tan hoang: các doanh nghiệp Thái phá sản hàng loạt, đồng baht mất giá bốn mươi phần trăm, hàng nghìn container hàng hóa bị bỏ lại trên cảng vì không ai có tiền nhận.
 
-Trưa, ông ăn ít thôi tại quán đối tác. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+"Hoàng, anh theo dõi vụ này. Tuần nào cũng báo cáo — dù không có tin mới cũng báo. Anh muốn biết lãi suất liên ngân hàng Mỹ, tỷ lệ vỡ nợ thế chấp, giá nhà ở mười thành phố lớn."
 
-Chiều, hướng “Dấu hiệu khủng hoảng 2008" nhích thêm bằng chữ ký. Không pháo hoa.
+"Em hiểu. Anh muốn em mua báo cáo từ Moody's và S&P về rủi ro hệ thống không?"
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+"Bao nhiêu?"
 
-Hùng kể “Dấu hiệu khủng hoảng 2008” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+"Năm nghìn đô một tháng. Gói premium — có phân tích xu hướng, có dữ liệu lịch sử, cảnh báo sớm."
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+"Được. Gửi hóa đơn cho Lan. Cô ấy thanh toán."
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Hùng cúp máy, nhìn ra cửa sổ. Hà Nội sáng mờ trong màn sương tháng Hai, những mái ngói đen ướt đẫm sương đêm. Một người phụ nữ đạp xe chở rau ngoài chợ — một thúng rau muống, một thúng cà chua, vài mớ hành lá. Cuộc sống vẫn tiếp diễn, không ai biết rằng ở bên kia Thái Bình Dương, một quả bom đang chuẩn bị phát nổ.
 
-Báo thích chữ tập đoàn; xưởng thích chữ đúng ca đúng lương.
+---
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Dấu hiệu khủng hoảng 2008" mà không vứt lại?
+Tháng Tư năm 2007, New Century Financial nộp đơn phá sản.
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+Hùng không ngạc nhiên. Hai tháng trước, khi đọc tin lợi nhuận giảm 25%, ông đã nói với Lan: "Công ty này chết trong quý Hai." Và nó chết đúng như dự đoán.
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+Nhưng hai tuần sau, một sự kiện khác làm ông chú ý hơn. Bear Stearns — một trong năm ngân hàng đầu tư lớn nhất Phố Wall — thông báo hai quỹ đầu cơ của họ — những quỹ chuyên đầu tư vào CDO nợ dưới chuẩn — mất gần như toàn bộ giá trị. Một tỷ sáu trăm triệu đô la Mỹ — gần như bốc hơi trong một đêm.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hùng đọc báo cáo của Hoàng gửi qua email — một file Word dài mười trang, chi chít số liệu, biểu đồ, nhận xét. Những con số khô khan: Bear Stearns quỹ A — mất 90% giá trị tài sản ròng. Quỹ B — mất 91%. Tổng thiệt hại: 1,6 tỷ USD.
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+Một tỷ sáu trăm triệu USD — tương đương sáu mươi lần tổng tài sản Thương Gia thời điểm đó — có thể mất trong một quý. Hùng ngồi trong phòng làm việc, nhìn tờ giấy. Ông để nó xuống bàn, nhìn ra cửa sổ. Mưa phùn bay, mờ mờ những mái nhà trong khu tập thể cũ — những mái ngói đen rêu phong, những bức tường vôi vàng đã bạc màu.
 
-Hai người tốt bất đồng cách làm “Dấu hiệu khủng hoảng 2008". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+Sáu mươi lần. Ông không thể hình dung nổi con số đó. Nhưng ông có thể hình dung được hậu quả. Khi các ngân hàng đầu tư mất tiền, họ sẽ siết tín dụng toàn cầu. Các ngân hàng châu Á sẽ không đủ vốn để cho vay. Doanh nghiệp Việt Nam sẽ không vay được vốn. Đơn hàng từ Mỹ và châu Âu sẽ giảm. Nhà máy sẽ thiếu việc. Công nhân sẽ bị cho nghỉ việc.
 
-Cuối buổi, “Dấu hiệu khủng hoảng 2008" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+Ông mở máy tính, gõ một email cho toàn bộ ban lãnh đạo Thương Gia, năm dòng — không dài dòng, không giải thích, chỉ mệnh lệnh:
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+*Chủ đề: Thay đổi chính sách tài chính — hiệu lực ngay lập tức.*
 
-Ông chủ động gặp người khó tính nhất quanh “Dấu hiệu khủng hoảng 2008". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+*1. Tất cả các khoản đầu tư tài chính có kỳ hạn trên 6 tháng — tạm dừng. Giải ngân các khoản đã cam kết xong thì dừng, không ký mới.*
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên chất lượng, và nói thẳng chỗ sẽ đau.
+*2. Tăng tỷ lệ tiền mặt dự trữ từ 15% lên 30% doanh thu tháng. Tính toán lại dòng tiền từng công ty thành viên.*
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+*3. Rà soát tất cả hợp đồng xuất khẩu ký bằng USD — gia hạn điều khoản tỷ giá. Biên độ dao động cho phép: ±5%.*
 
-Email, bảng tính, họp nửa Việt nửa Anh.
+*4. Hạn chế mua sắm tài sản cố định mới trừ khi phê duyệt trực tiếp từ tôi.*
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Dấu hiệu khủng hoảng 2008" không đổ.
+*5. Họp toàn bộ lãnh đạo các công ty thành viên — thứ Hai, 8 giờ sáng. Có mặt đầy đủ.*
 
-Ngân hàng, kiểm toán, và những cuộc gọi nửa đêm.
+Ông nhấn Send. Mười phút sau, Lan gọi.
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+"Anh Hùng, em đọc email rồi. Nghiêm trọng vậy sao?"
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+"Chưa biết. Nhưng các ngân hàng đầu tư Mỹ đang lỗ nặng. Khi họ lỗ, họ ngừng cho vay. Khi họ ngừng cho vay, cả thế giới ngừng mua hàng."
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+"Em tưởng mình không đầu tư vào mấy cái đó?"
 
-Trên đường quanh Hà Nội – trung tâm tài chính, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Không đầu tư trực tiếp. Nhưng khủng hoảng không chỉ ảnh hưởng đến người đầu tư. Nó ảnh hưởng đến tín dụng, đến tỷ giá, đến nhu cầu tiêu dùng của cả thế giới. Nếu người Mỹ mất việc, họ ngừng mua quần áo, ngừng mua đồ điện tử. Nhà máy của mình ở Hải Phòng sản xuất quần áo cho Macy's — nếu Macy's hủy đơn, mình ngừng sản xuất."
 
-Một chi tiết năm 2003: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Im lặng đầu dây — tiếng thở dài nhẹ. Cuối cùng Lan nói: "Rõ. Sáng thứ Hai em có mặt."
 
-Không ai hoàn hảo trong “Dấu hiệu khủng hoảng 2008". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+---
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+Cuộc họp thứ Hai diễn ra trong phòng họp tầng ba trụ sở Thương Gia — một tòa nhà bảy tầng mua lại từ một công ty thương mại phá sản năm 2004. Phòng họp rộng ba mươi mét vuông, bàn gỗ dài, ghế xoay, một bảng trắng, một máy chiếu. Ba mươi sáu người ngồi kín phòng — tổng giám đốc các công ty thành viên, giám đốc tài chính, trưởng phòng xuất nhập khẩu, trưởng phòng kế toán. Một số người phải đứng vì không đủ ghế.
 
-Showroom kính và người giữ cửa nhớ tên khách quen.
+Hùng đứng đầu bàn. Ông không dùng máy chiếu — chỉ một tờ giấy A4 với năm dòng chính sách đã gửi email.
 
-Ch. 221: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+"Tôi sẽ nói ngắn," Hùng mở đầu. "Hoàng đã làm báo cáo mấy tháng qua. New Century sụp tháng Tư. Bear Stearns mất hai quỹ đầu cơ. Các ngân hàng đầu tư Phố Wall đang giấu lỗ. Đây là dấu hiệu của một cuộc khủng hoảng tín dụng toàn cầu — không chỉ là chuyện của Mỹ."
 
-Sổ “Dấu hiệu khủng hoảng 2008" đánh dấu bút chì — có thể lùi.
+Ông dừng lại, nhìn từng người trong phòng. Ánh mắt lướt qua từng khuôn mặt — lo lắng, hoài nghi, sợ hãi, bình thản. "Tôi không biết nó sẽ lớn đến đâu. Nhưng tôi biết — với một nền kinh tế xuất khẩu như Việt Nam — cuộc chơi sắp thay đổi. Thương Gia không còn là một công ty nội địa nữa. Mình xuất khẩu sang Mỹ, sang châu Âu. Mình có ADR trên thị trường OTC. Mình vay nợ bằng đô la. Mình phải chịu ảnh hưởng từ bên kia đại dương."
 
-Ở góc nhìn người làm thuê, “Dấu hiệu khủng hoảng 2008” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+Một giọng nói từ cuối bàn: "Anh Hùng, mình có nhất thiết phải hoảng? Mấy cái quỹ đầu cơ Mỹ sụp — có liên quan gì đến mình?"
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+Đó là Nguyễn Đức Anh, giám đốc nhà máy dệt may. Đức Anh năm nay bốn mươi lăm, từng là thợ may lành nghề, trở thành giám đốc nhờ sự cần cù. Ông ta không phải người thích mạo hiểm — nhưng cũng không phải người dễ hoảng sợ. Suốt mười hai năm làm việc cho Thương Gia, ông ta chưa bao giờ thấy Hùng ra một quyết định nào mà không có cơ sở.
 
-Hùng chấp nhận đối thủ phá giá là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Tôi không hoảng. Tôi chuẩn bị." Hùng chỉ vào tờ giấy trước mặt. "Ba tháng tới, mọi người sẽ thấy tín dụng thắt chặt. Ở Mỹ, các ngân hàng sẽ ngừng cho vay mua nhà. Ở châu Âu, các ngân hàng sẽ ngừng tài trợ thương mại. Ở Việt Nam, ngân hàng nhà nước sẽ siết cho vay ngoại tệ. Lãi suất sẽ tăng. Nếu mình không có đệm — mình chết. Đơn giản vậy thôi."
 
-Cảm xúc hôm nay nghiêng về “lo âu trách nhiệm". Ông không giấu, cũng không để cảm xúc ký thay mình.
+Ông mở cuốn sổ theo dõi — sổ dự báo nội bộ. Đây không phải phần mềm — chỉ là một bảng tính Excel với các chỉ số mà Hùng đã theo dõi từ năm 2004. Ông tự xây dựng hệ thống này từ con số không — học từ Hoàng, từ các báo cáo của Moody's, từ Bloomberg, từ cảm quan thị trường. Hàng tháng, ông ngồi hai tiếng để cập nhật: tỷ lệ vỡ nợ thế chấp Mỹ, chỉ số sản xuất công nghiệp Trung Quốc, giá dầu thế giới, giá gạo xuất khẩu Việt Nam, lãi suất liên ngân hàng, tỷ giá USD/VND trên thị trường tự do, và một chỉ số tự đặt tên là "Chỉ số H" — tổng hợp cảm quan của ông về rủi ro hệ thống.
 
-Trang sổ khép bằng dòng cầu nối. Mai sẽ kiểm bằng chân.
+"Ngày hôm nay — tháng Sáu năm 2007 — hệ thống của tôi đang báo động cấp hai," Hùng nói. "Nếu chỉ số vỡ nợ thế chấp Mỹ vượt 12%, tôi nâng lên cấp ba — đó là lúc mình phải cắt giảm mọi thứ không thiết yếu."
 
-Ông rửa mặt nước lạnh, nhìn gương: không tìm anh hùng — tìm người còn tỉnh.
+"Và bây giờ là bao nhiêu?" — giọng Lan.
 
-Ch. 221: phần thưởng chỉ thật khi công nhân không mất ca.
+"Mười phẩy năm phần trăm. Đang tăng nhanh. Tháng Giêng còn bảy phẩy hai. Tháng Ba lên tám phẩy một. Tháng Năm lên chín phẩy sáu. Tháng Sáu — mười phẩy năm."
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+Không khí trong phòng thay đổi. Những tiếng xì xào bắt đầu. Người thì viết gì đó vào sổ, người thì nhìn nhau, người thì nhìn lên trần nhà.
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Dấu hiệu khủng hoảng 2008" mà không vứt lại?
+"Từ tháng này, mỗi công ty thành viên phải gửi báo cáo dòng tiền hàng tuần về văn phòng tổng," Hùng kết luận. "Không phải hàng tháng. Hàng tuần. Ai không gửi đúng hạn — tôi sẽ gọi điện trực tiếp. Không có ngoại lệ."
 
-Trên đường quanh Hà Nội – trung tâm tài chính, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+---
 
-Một chi tiết năm 2003: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Buổi họp kết thúc lúc mười một giờ. Không ai hoàn toàn tin Hùng, nhưng không ai dám phản đối. Trong mười lăm năm qua, Hùng đã đúng nhiều lần đến mức một linh cảm mơ hồ của ông cũng đáng để theo dõi. Từ năm 1991, khi ông bảo không nên đầu tư vào bất động sản Hà Nội vì "sắp sốt đất nhưng sẽ vỡ" — và nó vỡ đúng hai năm sau. Đến năm 1997, khi ông cắt giảm hàng tồn kho trước khủng hoảng châu Á — và các đối thủ của ông chết vì hàng tồn đầy kho.
 
-Trên đường quanh Hà Nội – trung tâm tài chính, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Sau họp, Đức Anh — giám đốc nhà máy dệt — theo Hùng lên phòng riêng. Ông ta đóng cửa, ngồi xuống ghế, thở dài. Đức Anh trông già hơn tuổi — tóc hoa râm, da sạm nắng, tay chai sạn vì ba mươi năm cầm kéo cắt vải.
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Anh Hùng, em không phản đối anh trong họp. Nhưng em muốn nói thật: nhà máy dệt vừa ký hợp đồng lớn với đối tác Mỹ — lô hàng năm nghìn bộ quần áo trẻ em, giá trị ba trăm nghìn đô, giao tháng Chín. Đã đặt cọc nguyên liệu. Em đã trả tiền vải — hơn một tỷ rưỡi. Nếu mình dừng nhập nguyên liệu, em không giao được. Không giao được là mất cọc, mất uy tín, mất khách."
 
-Sổ “Dấu hiệu khủng hoảng 2008" đánh dấu xanh — quan trọng.
+Hùng ngồi xuống bàn, mở tủ lấy ra một tập hồ sơ. Trên bìa ghi: *Macy's — Hợp đồng 2007-09*. Ông lật xem — những dòng chữ tiếng Anh và tiếng Việt, con số chi chít, chữ ký đã khô mực.
 
-Ch. 221: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+"Ai là đối tác?"
 
-Cuối buổi, “Dấu hiệu khủng hoảng 2008" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Macy's. Đơn vị mua là Macy's Merchandising Group, New York."
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+"Thanh toán?"
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Dấu hiệu khủng hoảng 2008" mà không vứt lại?
+"L/C trả chậm sáu mươi ngày, qua Bank of America."
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+"Nguyên liệu nhập từ đâu?"
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Dấu hiệu khủng hoảng 2008" mà không vứt lại?
+"Vải từ Trung Quốc — công ty dệt Thượng Hải. Phụ liệu — cúc, khóa kéo — từ Đài Loan."
 
-Một chi tiết năm 2003: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng gật đầu. "Giao đi. Hợp đồng đã ký thì làm. Nhưng không ký thêm hợp đồng mới với bất kỳ đối tác Mỹ nào cho đến khi có thông báo mới. Và nếu Macy's hủy — em có phương án dự phòng chưa?"
 
-Sổ “Dấu hiệu khủng hoảng 2008" đánh dấu đỏ — chết người nếu trễ.
+Đức Anh chưa kịp trả lời. Mặt ông ta nhợt đi một chút.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+"Chưa," ông ta nói, nhỏ hơn.
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+"Làm ngay. Hai hướng: một — tìm kênh phân phối nội địa — các chuỗi siêu thị Co.opMart, Big C. Hai — liên hệ các công ty xuất khẩu sang châu Âu. Nếu Macy's hủy, em chuyển hàng sang bán trong nước hoặc xuất châu Âu. Lỗ hơn, nhưng không chết. Em có hai người phụ trách việc này — giao cho họ đi."
 
-Trên đường quanh Hà Nội – trung tâm tài chính, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Đức Anh gật đầu, đứng dậy, bắt tay Hùng — một cái bắt tay nhanh, kiểu người quen làm việc. Ra đến cửa, ông ta quay lại: "Anh Hùng, em làm ở đây mười hai năm. Em chưa thấy anh sai. Nhưng lần này — em hy vọng anh sai."
 
-Cuối buổi, “Dấu hiệu khủng hoảng 2008" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+"Có thể," Hùng nói. "Em hy vọng cũng được."
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Đức Anh ra về. Hùng ngồi lại một mình, không biết mình vừa làm đúng hay quá thận trọng. Nhưng ký ức 1997 nói ông không sai.
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+---
 
-Cuối buổi, “Dấu hiệu khủng hoảng 2008" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+Tháng Bảy, tin tức từ Mỹ tiếp tục xấu. Moody's hạ xếp hạng tín dụng của hàng trăm chứng khoán đảm bảo bằng nợ thế chấp. Standard & Poor's làm tương tự. Các quỹ đầu cơ bán tháo. Cổ phiếu các ngân hàng đầu tư giảm mạnh — Lehman Brothers mất 40% giá trị từ đầu năm. Thị trường chứng khoán Việt Nam bắt đầu dao động — VN-Index giảm hai mươi phần trăm từ đỉnh tháng Ba.
 
-Ch. 221: phần thưởng chỉ thật khi khách không trả hàng.
+Hùng ngồi một mình trong phòng làm việc, màn hình Bloomberg hiển thị một đường cong đỏ — chỉ số CDX — đang dốc lên như một vách núi. Một đường cong xanh — lãi suất qua đêm liên ngân hàng Mỹ — cũng dốc lên, báo hiệu các ngân hàng không tin nhau, không dám cho nhau vay. Ông đã học đọc những biểu đồ này từ Hoàng, từ những cuốn sách về quản trị rủi ro mua từ Singapore, từ những buổi tối ngồi với cuốn từ điển tài chính Anh-Việt tự in.
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+Bên ngoài trời đã tối. Đèn đường Hà Nội vàng vọt, lác đác bóng người đi xe đạp. Năm 2007, Hà Nội chưa có nhiều ô tô. Cuộc sống vẫn chậm, vẫn bình yên. Nhưng Hùng biết: thế giới đó đang đến gần.
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Ông mở ngăn kéo bàn, lấy ra một phong bì dày — bên trong là kế hoạch khẩn cấp viết tay từ tháng Tư, 16 trang, viết bằng bút bi xanh trên giấy kẻ ngang. Trang đầu: *Kế hoạch Ứng phó Khủng hoảng Tài chính Toàn cầu — Thương Gia Group.* Từng bước được phác thảo chi tiết: giảm đầu tư, tăng dự trữ tiền mặt, đàm phán lại hợp đồng dài hạn, tìm nguồn cung thay thế trong nước, cắt giảm nhân sự không thiết yếu (mục này Hùng đắn đo lâu nhất — rồi ghi: *chỉ khi cấp 3*).
 
-Một chi tiết năm 2003: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Ông đọc lại một lần nữa, sửa vài chỗ. Trang cuối — viết thêm: *Phương án D — bán tài sản không cốt lõi. Có thể bán một phần đất dự trữ ở khu công nghiệp Hải Phòng nếu cần dòng tiền gấp.*
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hai giờ sáng, ông tắt đèn, nằm xuống ghế dài trong phòng. Không ngủ được. Một ý nghĩ cứ quay đi quay lại trong đầu: năm 1997, các doanh nghiệp Thái Lan, Hàn Quốc, Indonesia — họ có thấy dấu hiệu trước khi mọi thứ sụp đổ không? Hay họ không muốn thấy?
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
+Ông nghĩ về những gói CDO Deutsche Bank đã chào. Về hàng trăm tỷ đô la các ngân hàng Mỹ đã cho vay không có tài sản đảm bảo. Về những gia đình Mỹ mua nhà không đủ khả năng trả nợ. Về những ngân hàng châu Á mua CDO vì lãi suất cao.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên đúng hạn, và nói thẳng chỗ sẽ đau.
+Và những người bình thường ở Việt Nam — công nhân may mặc, thợ lắp ráp điện tử, tài xế xe tải — họ cũng sẽ bị ảnh hưởng. Dù không có tên trong hợp đồng nào.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ba giờ sáng, Hùng ngồi dậy, mở đèn, viết thêm trang cuối vào kế hoạch khẩn cấp: *Chuẩn bị chương trình hỗ trợ công nhân mất việc — tối thiểu 2 tháng lương + bảo hiểm y tế 6 tháng. Kinh phí dự kiến: 15 tỷ.* Ông ký tên, đặt bút xuống, thở ra.
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ánh đèn đường lọt qua khe rèm, kéo dài thành một vệt sáng mờ trên sàn gạch hoa cũ. Hùng nằm xuống ghế lần nữa, mắt nhắm, tai vẫn nghe tiếng mưa xa ở cuối phố.
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Khủng hoảng chưa đến. Nhưng bóng nó đã phủ dài.
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 33 gắn với ông Tam: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 34 gắn với cô Hạnh: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 38 gắn với ông Tam: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 39 gắn với cô Hạnh: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Dấu hiệu khủng hoảng 2008" năm 2003 tại Hà Nội – trung tâm tài chính, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “Dấu hiệu khủng hoảng 2008" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông không sợ. Ông đã trải qua khủng hoảng năm 1997, suy thoái năm 2001, dịch SARS năm 2003. Mỗi lần, ông đều sống sót. Nguyên tắc: không bao giờ đặt tất cả trứng vào một rổ, luôn giữ tiền mặt, luôn có phương án dự phòng. Và quan trọng nhất — không bao giờ để lòng tham lấn át lý trí.
 
 ============================================================
 「Hệ thống — CỘT MỐC ch.221」
-Năm: 2008
-Tổng EXP: 43,000 (+238 nhịp này)
-Không gian kho: 15,000m² (+143m²)
-Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Năm: 2007
+Tổng EXP: 51,000 (+1,480 nhịp này)
+Không gian kho: 18,500m² (+700m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv3, Ngoại giao kinh tế lv3, Dự báo rủi ro lv3, Công nghệ cao lv2
+Ghi chú: Phát hiện dấu hiệu khủng hoảng từ tháng 2/2007 — New Century sụp. Áp dụng chính sách phòng thủ tài chính từ tháng 6. Hệ thống dự đoán nội bộ — cấp báo động 2. Kế hoạch khẩn cấp 16 trang — mở rộng lên 17 trang với phương án hỗ trợ công nhân.
 ============================================================

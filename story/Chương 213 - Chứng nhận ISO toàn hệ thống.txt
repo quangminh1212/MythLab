@@ -2,196 +2,186 @@
 Chương 213: Chứng nhận ISO toàn hệ thống
 ============================================================
 
-“Chứng nhận ISO toàn hệ thống” nghe như mốc son. Làm như mốc xước: phải đi chậm mới thấy đường.
+Tháng Bảy năm 1998, Hùng thuê một công ty tư vấn ISO từ Singapore — BST Quality Solutions — để chuẩn bị cho đợt đánh giá chính thức vào tháng Mười. Chi phí: mười tám nghìn đô la Singapore cho hai tuần làm việc, bao gồm vé máy bay, khách sạn, và phí tư vấn. Ba chuyên gia Singapore đến Việt Nam làm việc trong hai tuần, trực tiếp đến từng nhà máy, kiểm tra đối chiếu giữa quy trình trên giấy và thực tế.
 
-Card visit, cà phê khách sạn: ngoài hiện đại, trong vẫn chữ tín.
+Người dẫn đầu là ông Lý Chính Huy, năm mươi lăm tuổi, từng làm quản lý chất lượng cho nhà máy thực phẩm ở Johor Bahru hai mươi năm. Lý nói tiếng Anh trôi chảy, thỉnh thoảng xen tiếng Quảng Đông, tiếng Mân Nam khi nói chuyện điện thoại với gia đình. Ông ta mặc áo sơ mi trắng, quần tây đen, luôn mang theo một chiếc clipboard và bút đỏ. Clipboard của ông ta có một tờ giấy trắng — mỗi khi phát hiện lỗi, ông ta ghi bằng bút đỏ, đánh số, và cuối ngày tổng kết.
 
-Không khí TP.HCM đặc: ẩm, bụi, và nhịp người tất bật.
+Ngày đầu tiên, Lý làm việc cùng Hùng và Thủy. Họ đi qua nhà máy thực phẩm Hải Phòng. Lý không hỏi nhiều. Ông ta quan sát và ghi chép — bút đỏ lia trên giấy. Sau hai giờ, ông ta nói:
 
-Năm 1998, tại TP.HCM. Việc “Chứng nhận ISO toàn hệ thống” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+"Quy trình trên giấy của các anh tốt — tôi đọc tài liệu trên máy bay. Nhưng thực tế ba chỗ chưa khớp. Một: nhiệt kế kho lạnh không được hiệu chuẩn — tôi thấy cái treo tường không có phiếu kiểm định, chỉ là loại nhiệt kế thủy ngân rẻ tiền mua ngoài chợ. Hai: công nhân khu vực đóng gói không rửa tay trước khi vào ca — tôi vừa thấy một người phụ nữ đi vệ sinh ra, không rửa, cầm găng tay đeo luôn. Ba: sổ kiểm soát dịch hại không có bất kỳ ghi chép nào trong tháng Sáu. Sổ trắng tinh."
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Hùng gật. Thủy ghi chép. Mỗi điểm đều được Thủy ghi lại bằng bút bi xanh, đánh dấu mức độ ưu tiên bằng dấu sao.
 
-“chuỗi cung ứng đứt gãy" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+"Tháng Mười có đánh giá TÜV," Lý nói. "Các anh muốn đỗ, cần sửa ba chỗ đó trong tuần này. Nếu không, tôi không đảm bảo. TÜV không phải tổ chức từ thiện."
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+"Tuần này là được," Hùng nói. "Thứ Hai tuần sau, ông kiểm tra lại."
 
-Chiều, “Chứng nhận ISO toàn hệ thống” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+Lý nhìn Hùng, không nói gì, nhưng gật. Trong hai mươi năm tư vấn, ông ta chưa thấy khách hàng Việt Nam nào hứa sửa trong một tuần.
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+---
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+Ba ngày tiếp theo là cuộc chạy đua với thời gian. Hùng cho kỹ thuật kiểm tra toàn bộ nhiệt kế, ẩm kế, đồng hồ đo tại hai nhà máy — tổng cộng bảy mươi ba thiết bị — và gửi đi hiệu chuẩn lại tại Trung tâm Đo lường Hà Nội. Công ty hiệu chuẩn duy nhất ở Hà Nội báo giá hai nghìn đồng một thiết bị — tổng chi phí một trăm bốn mươi sáu nghìn đồng. Hùng trả tiền mặt, yêu cầu gấp. Thường thì hiệu chuẩn mất năm ngày — Hùng trả thêm phí khẩn, lấy trong hai ngày.
 
-"Việc 'Chứng nhận ISO toàn hệ thống' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+Nhưng chuyện rửa tay khó hơn. Quản đốc phân xưởng — bà Minh, năm mươi tuổi, làm trong nhà máy từ ngày đầu — nói: "Công nhân quen rồi. Bảo họ rửa tay mười lăm giây trước khi vào ca, họ bảo mất thời gian. Năm nay nóng lắm, nước lạnh cũng không có. Tay họ sạch mà."
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+Hùng không thuyết giảng. Ông mua ba máy nước nóng lạnh — loại máy đun điện nhỏ, hai trăm nghìn một cái — lắp ở cửa ra vào khu vực sản xuất. Treo biển hướng dẫn rửa tay bốn bước bằng tiếng Việt và hình ảnh — không dùng tiếng Anh, vì nhiều công nhân không biết chữ. Biển được ép plástic, đóng vít vào tường, không thể gỡ xuống. Và ông yêu cầu quản đốc đứng ở cửa trong một tuần — không cho ai vào khu vực sản xuất nếu chưa rửa tay, dù là kỹ sư, dù là khách, dù là chủ tịch tập đoàn.
 
-"Về nhà ăn chưa?"
+Ngày thứ ba, bà Minh báo: "Họ rửa, nhưng chưa quen. Có mấy đứa trẻ rửa qua loa — hai giây là xong, không đủ mười lăm giây như yêu cầu."
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+"Quen sau một tuần. Cứ làm. Ai không rửa đủ mười lăm giây — nhắc lần một. Lần hai — cảnh cáo. Lần ba — mời ra khỏi khu vực sản xuất."
 
-Trưa, ông ăn bún qua quýt. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+Bà Minh nhìn Hùng — đã làm việc với ông năm năm, chưa thấy ông nghiêm khắc đến vậy. Bà gật.
 
-Chiều, hướng “Chứng nhận ISO toàn hệ thống" nhích thêm bằng biên bản. Không pháo hoa.
+---
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+Vấn đề thứ ba — sổ kiểm soát dịch hại — hóa ra là lỗi của một nhân viên cũ đã nghỉ việc. Nhân viên mới — một thanh niên tên Phong, mới tốt nghiệp trung cấp — chưa được hướng dẫn nên không ghi. Hùng không đổ lỗi. Ông chỉ bảo Thủy soạn một tờ hướng dẫn một trang: "Cách ghi sổ kiểm soát dịch hại — dành cho người mới." Tờ hướng dẫn được ép plástic, treo cạnh sổ, kèm theo một cây bút bi buộc dây.
 
-Hùng kể “Chứng nhận ISO toàn hệ thống” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+Lý thấy vậy, nhận xét: "Tôi chưa thấy ai treo hướng dẫn ép plástic ở Việt Nam. Người của ông phân tích nguyên nhân hơn là tìm người chịu lỗi. Đó là dấu hiệu tốt cho ISO — vì ISO không phải là tìm người sai, mà là tìm lỗi trong hệ thống."
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+---
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Tuần thứ hai, Lý kiểm tra nhà máy may. Ông ta phát hiện vấn đề sắp xếp kho — nguyên liệu đầu vào (vải, chỉ, cúc) và thành phẩm (quần áo đóng gói) để gần nhau, chỉ cách một lối đi hẹp. Không có vạch phân cách, không có biển báo, công nhân có thể lấy nhầm.
 
-Hai người tốt bất đồng cách làm “Chứng nhận ISO toàn hệ thống". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+Lý yêu cầu: "Phải phân khu rõ bằng màu sắc: nguyên liệu — màu xanh. Bán thành phẩm — màu vàng. Thành phẩm — màu đỏ. Hàng lỗi — màu đen. Không thể chỉ dùng biển giấy — biển giấy sẽ rách, sẽ bị che, sẽ không ai nhìn. Dùng sơn sàn."
 
-Container, biên phòng, và những đêm trắng vì một lô hàng.
+"Chi phí sơn sàn khoảng bao nhiêu?" Hùng hỏi Thủy.
 
-Trên đường quanh TP.HCM, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Cỡ mười lăm triệu đồng — sơn epoxy chịu lực, hai màu xanh và đỏ. Hai ngày sơn, phải ngưng sản xuất một ngày để sơn khô và thông thoáng."
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ khách cốt lõi, và nói thẳng chỗ sẽ đau.
+"Làm. Ngày thứ Bảy tuần này."
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+Hùng ngưng sản xuất ngày thứ Bảy — lỗ doanh thu khoảng hai mươi triệu, nhưng Hùng coi đó là đầu tư cho ISO. Thứ Hai, kho có sàn ba màu: xanh, vàng, đỏ. Công nhân bước vào — không cần hỏi ai, nhìn sàn biết ngay chỗ nào để gì. Lần đầu tiên trong lịch sử nhà máy, không ai đặt nhầm hàng.
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Lý nói: "Một tuần — các anh sửa được những gì các anh sửa. Tôi không còn nhiều góp ý. Tôi chỉ còn hai điều kiện cho lần đánh giá chính thức."
 
-Một chi tiết năm 1998: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Điều kiện gì?"
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+"Một: mỗi tháng một cuộc đánh giá nội bộ — người của ông tự đánh giá chéo lẫn nhau. Hai: thành lập ban ISO chính thức — không kiêm nhiệm. Một người phụ trách toàn thời gian, được đào tạo bài bản làm Lead Auditor."
 
-Ông chủ động gặp người khó tính nhất quanh “Chứng nhận ISO toàn hệ thống". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+"Đã tìm được người. Kỹ sư Thủy — cô ấy sẽ làm trưởng ban ISO. Tuần sau cô ấy vào học khóa ISO Lead Auditor ở thành phố Hồ Chí Minh — khóa chín ngày, của tổ chức chứng nhận SGS."
 
-Sổ “Chứng nhận ISO toàn hệ thống" đánh dấu xanh — quan trọng.
+Lý cười — lần đầu tiên trong hai tuần. "Ông đi trước tôi một bước."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Chứng nhận ISO toàn hệ thống" không đổ.
+---
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+Ban ISO của Thương Gia gồm năm người. Thủy làm trưởng ban — cô được Hùng cho toàn quyền kiểm tra các nhà máy mà không cần báo trước. Hai kỹ thuật viên ở nhà máy Hải Phòng — một người phụ trách quy trình sản xuất, một người phụ trách thiết bị đo lường. Một nhân viên kiểm soát chất lượng ở nhà máy may — chị Hương, quản đốc đã làm lâu năm, biết từng đường kim mũi chỉ. Và một người ở văn phòng Hà Nội phụ trách tài liệu — một sinh viên mới tốt nghiệp, viết tiếng Anh tốt, đánh máy nhanh.
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+Hùng không đứng tên trong ban — ông muốn hệ thống tự vận hành, không phụ thuộc vào người chủ. Nếu ISO chỉ tồn tại vì chủ tịch đứng tên, nó sẽ sụp đổ khi chủ tịch vắng mặt.
 
-Cảm xúc hôm nay nghiêng về “căng thẳng đàm phán". Ông không giấu, cũng không để cảm xúc ký thay mình.
+Thủy lo lắng: "Em mới ra trường hai năm, anh Hùng. Em sợ không đủ tầm để đứng ban ISO. Mấy quản đốc họ lớn tuổi, họ không nghe em."
 
-USD, đồng, và lời hứa giao hàng phải khớp mới dám ký.
+"Không ai đủ tầm từ ngày đầu. Em học từ sai lầm. Còn chuyện quản đốc không nghe — nếu họ không nghe, em báo tôi. Tôi xử lý."
 
-Cuối buổi, “Chứng nhận ISO toàn hệ thống" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+Thủy nhận việc. Tối hôm đó, cô ngồi lại văn phòng đến mười giờ, soạn kế hoạch đánh giá nội bộ tháng đầu tiên. Sáng hôm sau, cô đưa Hùng ký.
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+---
 
-Ch. 213: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+Giữa tháng Tám, Hùng nhận email từ Klaus Weber — vị chuyên gia Đức gửi thư từ nhà riêng ở Berlin: chuyên gia khảo thí sơ bộ của TÜV sẽ vào tháng Chín. Họ muốn kiểm tra hồ sơ tài liệu trong hai ngày, không kiểm nhà máy — nhưng nếu hồ sơ không đạt, họ sẽ không đặt lịch đánh giá chính thức. Việc kiểm tra hồ sơ là bước lọc đầu tiên — nếu tài liệu không chuẩn, nhà máy cũng vô ích.
 
-Không ai hoàn hảo trong “Chứng nhận ISO toàn hệ thống". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+Hùng dồn toàn lực cho việc chuẩn bị hồ sơ. Thủy và hai sinh viên ngồi sắp xếp lại toàn bộ tài liệu — chính sách chất lượng, mục tiêu chất lượng, sổ tay chất lượng, quy trình, hướng dẫn công việc, biểu mẫu. Tài liệu đầy hai tủ ba ngăn — tủ sắt màu xám — phân loại theo mã số từ QP-001 đến QP-037.
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+Klaus gọi: "Mr. Hùng, tôi nói trước: đánh giá hồ sơ TÜV rất khó. Họ đã đọc hồ sơ của một trăm công ty châu Á. Họ biết lỗi ở đâu. Họ sẽ tìm ra lỗi của ông. Ông đừng nản."
 
-Hùng chấp nhận chuỗi cung ứng đứt gãy là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Tôi không nản. Tôi chỉ sợ mình không biết lỗi. Nếu họ chỉ lỗi, tôi sửa."
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+---
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+Ngày 15 tháng Chín, hai chuyên gia TÜV đến Hà Nội. Một người tên Schmidt — người Đức gốc Hamburg, cao 1m90, tóc vàng muối tiêu, mắt xanh, mặc comple xám, đi giày đen bóng. Một người Việt Nam tên Quốc, ba mươi lăm tuổi, từng làm việc cho TÜV Singapore ba năm, mới về nước đầu năm. Quốc nói tiếng Việt và tiếng Anh như nhau.
 
-Khu công nghiệp mọc nhanh; bụi đỏ bám vành xe tải cả ngày.
+Họ làm việc trong phòng họp của công ty từ tám giờ sáng đến năm giờ chiều, chỉ nghỉ ăn trưa bốn mươi lăm phút tại một quán phở gần văn phòng. Schmidt hỏi từng quy trình — so sánh tài liệu với thực tế dựa trên ảnh chụp và ghi chép mà Thủy cung cấp. Quốc lật từng biểu mẫu, kiểm tra từng chữ ký, từng ngày tháng. Cuối ngày, Schmidt nói:
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+"Tôi tìm thấy mười hai điểm không phù hợp. Bốn điểm lớn — phải sửa trước đánh giá chính thức. Tám điểm nhỏ — có thể sửa sau. Dưới đây là danh sách."
 
-Điện thoại bàn, fax, cuộc gọi đứt giữa chừng vì đường truyền.
+Hùng nhận tờ giấy A4 — viết tay bằng tiếng Anh, chữ in hoa, rõ ràng:
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
+1. NỒI HẤP KHÔNG CÓ LỊCH KIỂM ĐỊNH ÁP SUẤT THEO QUY ĐỊNH.
+2. HỒ SƠ ĐÀO TẠO NHÂN VIÊN KHÔNG ĐẦY ĐỦ — THIẾU KẾ HOẠCH ĐÀO TẠO NĂM.
+3. THIẾU QUY TRÌNH KIỂM SOÁT HÀNG TRẢ LẠI.
+4. SỔ TAY CHẤT LƯỢNG THIẾU PHẦN TRÁCH NHIỆM VÀ CAM KẾT CỦA LÃNH ĐẠO.
 
-Ở góc nhìn người làm thuê, “Chứng nhận ISO toàn hệ thống” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+Hùng nói: "Tuần sau sẽ xong."
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Chứng nhận ISO toàn hệ thống" mà không vứt lại?
+Schmidt nhìn Hùng — có chút ngạc nhiên, có chút hoài nghi. "Tuần sau? Bốn điểm này — nồi hấp phải kiểm định, hồ sơ đào tạo phải xây dựng lại từ đầu, quy trình hàng trả lại phải viết mới, sổ tay phải bổ sung. Với các công ty khác, thường mất một tháng."
 
-Trang sổ khép bằng dòng cầu nối. Mai sẽ kiểm bằng chân.
+Hùng cười. "Tôi không thuộc loại công ty khác. Ông quay lại kiểm tra vào thứ Hai tuần sau."
 
-Ông rửa mặt nước lạnh, nhìn gương: không tìm anh hùng — tìm người còn tỉnh.
+Schmidt nhìn Hùng một lúc, rồi gật. "Tôi sẽ quay lại."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Chứng nhận ISO toàn hệ thống" mà không vứt lại?
+---
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Tuần đó, Hùng cùng Thủy giải quyết từng điểm.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+Điểm một — nồi hấp. Hùng gọi ngay đơn vị kiểm định — Trung tâm Kiểm định Kỹ thuật An toàn Hà Nội — đến nhà máy. Họ kiểm tra trong một ngày, cấp giấy chứng nhận. Chi phí: năm triệu đồng. Hùng trả tiền mặt, lấy hóa đơn đỏ.
 
-Trên đường quanh TP.HCM, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Điểm hai — hồ sơ đào tạo. Thủy xây dựng lại toàn bộ — từ danh sách nhân viên (hai trăm mười ba người), chứng chỉ đào tạo (nếu có), kế hoạch đào tạo cho sáu tháng tiếp theo. Cô viết kế hoạch trong hai đêm, thức đến ba giờ sáng, uống ba cốc cà phê đen. Sáng hôm sau, cô đưa Hùng ký — kế hoạch dày hai mươi trang, từ đào tạo vệ sinh an toàn thực phẩm đến đào tạo quy trình ISO.
 
-Sổ “Chứng nhận ISO toàn hệ thống" đánh dấu bút chì — có thể lùi.
+Điểm ba — quy trình kiểm soát hàng trả lại. Hùng dừng lại. Thương Gia rất ít hàng trả lại — tỷ lệ dưới 0,5% — nên chưa từng có quy trình. Nhưng ISO yêu cầu phải có — kể cả khi tỷ lệ bằng không.
 
-Một chi tiết năm 1998: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Viết quy trình cho trường hợp hiếm," Hùng nói với Thủy. "Một trang. Ba bước: nhận hàng trả — phân loại lỗi sản xuất, lỗi vận chuyển, hay lỗi khách hàng — quyết định xử lý. Đừng làm phức tạp. ISO không yêu cầu dài — yêu cầu đủ."
 
-Ch. 213: phần thưởng chỉ thật khi khách không trả hàng.
+Điểm bốn — trách nhiệm lãnh đạo. Thủy bối rối: "Phần này nói gì ạ? Em đọc mẫu của họ — dài lắm, kiểu 'lãnh đạo cam kết xây dựng hệ thống chất lượng, cung cấp nguồn lực, tham gia đánh giá định kỳ...'"
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+"Viết: lãnh đạo Thương Gia cam kết xây dựng hệ thống chất lượng theo tiêu chuẩn ISO 9001 và HACCP, cung cấp đầy đủ nguồn lực về tài chính, nhân sự, thiết bị. Một đoạn. Rồi đưa tôi ký."
 
-Ch. 213: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+---
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+Hai tuần sau, thư điện tử từ Schmidt: *"Conditions satisfaites. Đánh giá chính thức được lên lịch vào ngày 20 tháng Mười."*
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Hùng gập thư. Ông ngồi xuống ghế văn phòng, nhìn trần nhà — trần nhà thấp, sơn trắng đã ố vàng, quạt trần chạy chậm. Năm phút, ông không nghĩ gì. Chỉ lặng lẽ hít thở.
 
-Trên đường quanh TP.HCM, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+---
 
-Sổ “Chứng nhận ISO toàn hệ thống" đánh dấu đỏ — chết người nếu trễ.
+Sáng 20 tháng Mười, bảy giờ ba mươi. Trời Hải Phòng đầy mây, gió từ biển thổi vào mát rượi. Hùng có mặt tại nhà máy thực phẩm từ sáu giờ sáng — kiểm tra bảng kiểm soát nhiệt độ, tủ giày công nhân, sổ kiểm soát dịch hại. Toàn bộ nhà máy sáng bóng — sàn gạch men trắng được lau bằng nước Javel, khu vực sản xuất được phân khu bằng vạch sơn vàng, công nhân mặc đồ bảo hộ trắng tinh, găng tay xanh, mũ trùm kín tóc.
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+Hai chuyên gia TÜV đến lúc chín giờ bằng một chiếc taxi Hải Phòng — Schmidt và một phụ nữ người Pháp tên Anne Moreau, chuyên gia HACCP. Anne bốn mươi lăm tuổi, tóc ngắn, kính gọng đen, không trang điểm, đi giày bảo hộ. Họ đi một vòng nhà máy trong hai giờ — kiểm tra từng khu vực. Anne dừng lại ở khu vực chiết rót nước mắm, yêu cầu xem quy trình CIP — làm sạch bồn chứa tại chỗ. Hùng đưa tài liệu. Anne xem, gật.
 
-Trên đường quanh TP.HCM, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Họ kiểm tra sổ ghi chép ca — từng cuốn sổ, từng ngày. Quản đốc Hưng mở tủ, lấy ra chồng sổ dày — mỗi cuốn có bìa ghi ngày tháng rõ ràng. Schmidt lật ngẫu nhiên ba cuốn: mỗi cuốn đều có chữ ký quản đốc, ghi chép đầy đủ — cả mục "bất thường" đều có nội dung.
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+Anne nói: "Các anh có ghi cả ngày mưa dột — và giải pháp khắc phục. Thường thì các công ty khác giấu chuyện đó — sợ mất điểm. Nhưng TÜV lại muốn thấy sự thật."
 
-Một chi tiết năm 1998: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng trả lời: "Ghi để biết đường sửa. Giấu không làm sạch nước mắm."
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Schmidt cười — một tiếng cười khẽ. Anne không cười, nhưng mắt có ánh nhìn tôn trọng.
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+---
 
-Một chi tiết năm 1998: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Đầu giờ chiều, buổi tổng kết. Schmidt và Anne họp riêng ba mươi phút trong phòng họp nhỏ, đóng cửa. Hùng và Thủy ngồi ngoài hành lang, không nói gì. Thủy cầm cốc nước, uống từng ngụm nhỏ. Hùng nhìn ra cửa sổ — nắng đã lên cao, biển xanh thẫm ngoài xa.
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+Cửa phòng họp mở. Schmidt bước ra.
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Chứng nhận ISO toàn hệ thống" mà không vứt lại?
+"Kết quả đánh giá chính thức," ông ta nói, giọng đều đều — giọng một người đã đọc kết quả này hàng trăm lần. "Hai mươi điểm kiểm tra. Không phát hiện điểm không phù hợp nghiêm trọng. Ba điểm cần cải tiến — minor — sẽ được theo dõi qua báo cáo hàng quý."
 
-Ch. 213: phần thưởng chỉ thật khi công nhân không mất ca.
+Ông ta đứng lên, bắt tay Hùng. Lòng bàn tay khô, chắc.
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Chứng nhận ISO toàn hệ thống" mà không vứt lại?
+"Chúc mừng. Nhà máy thực phẩm Thương Gia đạt chứng nhận ISO 9001 và HACCP."
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+Anne cũng bắt tay: "Tôi đã đánh giá HACCP cho hai mươi bảy nhà máy ở châu Á. Chưa có nhà máy nào đạt cả hai chứng chỉ trong lần đánh giá đầu tiên."
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hùng gật, bắt tay mỗi người. Không bài phát biểu. Không vỗ tay. Không gọi người quay phim. Nhưng khi hai chuyên gia ra cửa, quản đốc nhà máy và công nhân đứng ở dây chuyền đã vỗ tay — không ai bảo, tự nhiên. Có người reo nhẹ. Một người phụ nữ lau nước mắt.
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+Hùng ra ngoài sân, đứng dưới cây bàng trụi lá đầu mùa, một mình. Trong tay ông là tờ giấy chứng nhận đóng khung tạm thời — nhẹ, nhưng nặng hơn một container hàng.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên chất lượng, và nói thẳng chỗ sẽ đau.
+Tối, Hùng về nhà ăn cơm với bà Hà. Bà hỏi: "Có kết quả như ý không?"
 
-Cuối buổi, “Chứng nhận ISO toàn hệ thống" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Có."
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 33 gắn với ông Tanaka: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 34 gắn với con trai Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 38 gắn với ông Tanaka: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 39 gắn với con trai Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Chứng nhận ISO toàn hệ thống" năm 1998 tại TP.HCM, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chuỗi cung ứng đứt gãy" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “căng thẳng đàm phán" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “Chứng nhận ISO toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Bà gắp thêm cho ông miếng cá kho — cá trắm, kho với riềng và mẻ — không hỏi thêm. Bà biết mỗi câu trả lời ngắn của con trai là mỗi chuyện đã xong. Ăn xong, ông lên gác, ngồi viết sổ tay: *"20/10/1998. ISO 9001 và HACCP. Nhà máy Hải Phòng. Là công ty đầu tiên trong lĩnh vực của mình ở Việt Nam đạt hai chứng chỉ. Tháng sau đánh giá nhà máy may. Tháng Mười một — ISO cho văn phòng."*
 
 ============================================================
+
+
+Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơn gió lùa qua khe cửa, làm ngọn đèn dầu trên bàn lay nhẹ rồi đứng yên trở lại. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu. Bà Hà đã ngủ từ lâu, tiếng thở đều đặn vọng ra từ phòng trong, nhẹ như gió qua mành. Hùng đứng dậy, vươn vai, xương sống kêu nhẹ một tiếng — tuổi tác đã bắt đầu lên tiếng. Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen.
+
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loay hoay ngoài bếp với nồi cháo. Tiếng nước sôi lục bục, tiếng dao thớt đều đặn trên thớt gỗ, mùi gừng thơm từ gian bếp tỏa ra — những âm thanh và mùi vị quen thuộc của một buổi sáng ở căn nhà Quốc Oai. Hùng mở cuốn sổ, viết nhanh vài dòng về những việc cần làm trong ngày. Bà Hà mang ra bát cháo, đặt trước mặt ông, nhìn ông một lúc rồi quay vào. Bà không hỏi ông hôm nay làm gì. Như đã lâu, bà không hỏi, vì biết ông sẽ tự làm những việc cần làm, đúng giờ và đúng mức.
+
+
+Giữa buổi, một người khách đến — một người đàn ông trung niên, mặc áo sơ mi trắng đã ngả màu, tay cầm chiếc cặp da cũ. Ông ta tự giới thiệu là từ một huyện lân cận, nghe tiếng Hùng làm ăn có uy tín nên muốn hợp tác. Hùng mời ngồi, rót nước, không vội nói chuyện làm ăn. Ông hỏi thăm gia đình, hỏi thăm con cái, hỏi thăm tình hình sản xuất ở huyện. Phải mười lăm phút sau, khi thấy người khách đã thoải mái, Hùng mới bắt đầu vào việc. Ông hỏi chi tiết về mặt hàng, về nguồn vốn, về kinh nghiệm buôn bán của người kia. Mỗi câu hỏi đều khiến người khách suy nghĩ một lúc trước khi trả lời. Cuối cùng, Hùng gật đầu không hứa hẹn: "Để tôi suy nghĩ thêm vài hôm, rồi cho anh câu trả lời." Người khách ra về, Hùng viết vào sổ một câu: "Cơ hội mới. Cần kiểm chứng."
+
 「Hệ thống — GHI NHẬN ch.213」
 Năm: 1998
 Tổng EXP: 41,095 (+238 nhịp này)
 Không gian kho: 13,857m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Ghi chú: NHÀ MÁY THỰC PHẨM ĐẠT ISO 9001 & HACCP — đánh giá TÜV lần đầu — không điểm không phù hợp nghiêm trọng — đầu tiên trong ngành.
 ============================================================

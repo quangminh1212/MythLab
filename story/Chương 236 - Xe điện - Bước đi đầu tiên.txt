@@ -1,0 +1,78 @@
+============================================================
+Chương 236: Xe điện — Bước đi đầu tiên
+============================================================
+
+Giữa tháng Năm năm 2009, Hùng đến thăm nhà máy ô tô Thương Gia tại Hải Phòng. Nhà máy này được xây dựng từ năm 2007, nằm trong khu công nghiệp Đình Vũ, sản xuất các dòng xe tải nhẹ và xe khách dưới thương hiệu Thành Công — liên doanh với một đối tác Nhật Bản. Nhà máy rộng mười héc ta, với ba dây chuyền lắp ráp chính, một xưởng sơn tĩnh điện, một xưởng hàn thân vỏ tự động và một khu kiểm định chất lượng cuối cùng. Công suất thiết kế mười lăm nghìn xe một năm, nhưng thực tế chỉ chạy khoảng sáu nghìn — chủ yếu xe tải nhẹ bán cho doanh nghiệp vận tải nội địa.
+
+Giám đốc nhà máy là Nguyễn Văn Trường — bốn mươi lăm tuổi, kỹ sư chế tạo máy, từng làm cho Toyota Việt Nam suốt mười năm trước khi được Hùng mời về. Trường thuộc nằm lòng từng con ốc trên dây chuyền — loại ốc lục giác M8 dùng cho khung xe, loại ốc M6 có vòng đệm dùng cho thân vỏ, loại ốc inox chịu nhiệt dùng cho ống xả. Anh nhận biết tiếng kêu của từng máy ép — tiếng rít nhẹ báo hiệu máy sắp hỏng vòng bi, tiếng nặng nề báo hiệu máy sắp hết dầu thủy lực, tiếng đều đều báo hiệu máy đang chạy ổn định. Anh biết chất lượng thép khi nhìn bằng mắt thường — chỉ cần liếc qua một tấm tôn là biết nó đạt chuẩn Nhật Bản hay chỉ đạt chuẩn nội địa. Nhưng suốt mười năm làm cho Toyota và hai năm làm cho Thương Gia, anh chưa bao giờ nghĩ đến xe điện. Chưa một lần.
+
+Hùng và Trường đi dọc dây chuyền lắp ráp. Những chiếc xe tải nhẹ màu trắng nối đuôi nhau trên băng tải, công nhân đội mũ bảo hộ màu xanh đang bắt ốc, hàn khung, kiểm tra động cơ. Mùi dầu nhớt hòa lẫn mùi sơn công nghiệp và mùi kim loại nóng bốc lên từ các mối hàn. Tiếng máy ép khí nén xì xịch, tiếng mỏ hàn Mig lách tách, tiếng búa cao su gõ lộp cộp lên thân xe, tiếng động cơ diesel rồ ga thử nghiệm — tất cả hòa vào một bản nhạc công nghiệp đặc trưng. Họ dừng lại ở cuối dây chuyền, nơi những chiếc xe hoàn thiện được kiểm tra an toàn lần cuối trước khi xuất xưởng.
+
+"Anh Trường, tôi muốn nhà máy này làm xe điện."
+
+Trường không tỏ ra ngạc nhiên. Anh đã đoán trước điều này — từ khi Hùng đưa cho anh bản vẽ nguệch ngoạc vẽ trên giấy ô ly. Nhưng nghe câu nói trực tiếp vẫn thấy choáng. "Anh Hùng, em phải nói thật: mình không đủ năng lực để làm xe điện từ đầu."
+
+"Anh biết."
+
+"Xe điện không chỉ là thay động cơ xăng bằng động cơ điện. Nó là một hệ sinh thái mới — pin lithium, bộ điều khiển điện tử ECU, hệ thống quản lý năng lượng BMS, hệ thống sạc, hệ thống tản nhiệt pin, hệ thống tái tạo năng lượng khi phanh. Mỗi thứ là cả một ngành công nghiệp riêng. Một bảng mạch cho bộ điều khiển động cơ có thể mất sáu tháng thiết kế. Một bộ pin lithium có thể mất hai năm phát triển."
+
+"Anh biết tất cả. Nhưng nếu đợi đủ năng lực mới làm, người khác sẽ làm xong từ lúc nào. Mình phải bắt đầu, rồi vừa làm vừa học."
+
+Trường suy nghĩ một lúc. "Em có một người bạn — tên Dũng, đang làm pin lithium cho một công ty Đức ở Berlin. Hắn là người Việt, tốt nghiệp Bách khoa Berlin, làm pin mười năm."
+
+"Liên lạc với hắn mời về."
+
+"Còn một nhóm nghiên cứu ở Đại học Bách khoa Hà Nội — họ đang làm động cơ điện cho xe hai bánh. Giáo sư Dũng chủ nhiệm."
+
+"Xe máy điện là bước một. Học từ xe nhỏ lên xe lớn. Bao lâu ra prototype?"
+
+"Mười hai tháng — nếu có người và vốn."
+
+Hùng đi thêm một vòng. Gần cuối nhà máy, một góc nhỏ quây bạt — ba kỹ sư trẻ cặm cụi hàn một bảng mạch. Một trong ba — Tuấn, hai lăm tuổi — giật mình khi thấy sếp.
+
+"Chúng em thử nghiệm mạch điều khiển máy lọc nước. Giá thấp hơn nhập khẩu bốn mươi phần trăm."
+
+"Ai cho phép?"
+
+"Tự làm ngoài giờ."
+
+"Bao lâu hoàn thiện?"
+
+"Ba tháng, nếu có thêm vật tư."
+
+"Làm tiếp. Thiếu gì báo Trường." Hùng quay sang Trường: "Sắp cho họ góc riêng. Đầu tư phòng thí nghiệm nhỏ — mười mét vuông, vài trăm triệu."
+
+Trường gật nhưng mắt thắc mắc. "Đang khủng hoảng..."
+
+"Khủng hoảng càng phải nghĩ xa. Mất ba tháng lúc này, lời ba năm sau."
+
+Ra khỏi nhà máy, Hùng gọi Lan: "Liên lạc Bách khoa. Thương Gia tài trợ phòng thí nghiệm động cơ điện."
+
+"Bao nhiêu?"
+
+"Mười tỷ. Yêu cầu: sinh viên tốt nghiệp làm cho Thương Gia hai năm."
+
+Ba tuần sau, Trường trình đề án dày bảy mươi trang — từ thiết kế đến dự toán. Hùng đọc hết, không bỏ trang nào.
+
+"Bao nhiêu?"
+
+"Ba mươi bảy tỷ giai đoạn một. Mười tỷ từ R&D tập đoàn, mười lăm tỷ từ quỹ phát triển nhà máy, mười hai tỷ vay Ngân hàng Thương Gia."
+
+"Ký đi."
+
+Trường ngạc nhiên. "Không họp ban lãnh đạo?"
+
+"Đề án có số liệu, có kế hoạch. Em làm ngay."
+
+Cuối tháng Sáu, phòng thí nghiệm tại Bách khoa Hà Nội khánh thành — sáu mươi mét vuông, thiết bị mới tinh, bảng hiệu bằng đồng. Hùng cắt băng, phát biểu ngắn. Sinh viên tản đi. Ông đứng lại một mình trong phòng thí nghiệm — mùi linh kiện mới, mùi nhựa của vỏ máy còn nguyên túi. Một bước nhỏ. Nhưng là bước đầu tiên.
+
+Ông rút sổ tay, viết: "Tháng Sáu 2009. Phòng thí nghiệm động cơ điện khởi động. Dũng pin về nước tháng Tám. Mục tiêu: prototype xe máy điện trong mười hai tháng."
+
+============================================================
+「Hệ thống — GHI NHẬN ch.236」
+Năm: 2009
+Tổng EXP: 55,940 (+360)
+Không gian kho: 24,416m² (+72m²)
+Kỹ năng: Nghiên cứu & phát triển lv1, Kỹ thuật ô tô lv1, Công nghệ pin lv1, Quản lý dự án R&D lv1
+Ghi chú: Hùng duyệt đề án xe điện 37 tỷ. Khánh thành phòng thí nghiệm Động cơ Điện tại Đại học Bách khoa Hà Nội. Dũng — chuyên gia pin tại Đức — đồng ý về nước tháng Tám. Ba kỹ sư trẻ được cấp phòng thí nghiệm riêng để phát triển mạch điều khiển. Bắt đầu kỷ nguyên xe điện của Thương Gia.
+============================================================

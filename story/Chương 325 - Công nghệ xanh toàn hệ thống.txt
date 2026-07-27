@@ -1,201 +1,210 @@
 ============================================================
 Chương 325: Công nghệ xanh toàn hệ thống
+——
+
+
+Ba tháng sau khi hệ thống pin mặt trời vận hành tại Hà Đông, một đoàn chuyên gia từ World Bank đến thăm. Họ không báo trước, chỉ gọi điện một tuần trước. Họ muốn xem hệ thống năng lượng tái tạo của Thương Gia để đánh giá khả năng nhân rộng mô hình cho các doanh nghiệp vừa và nhỏ tại Việt Nam.
+
+Cường đón đoàn. Đoàn gồm ba người: hai chuyên gia năng lượng và một cán bộ dự án. Họ đi thăm xưởng Hà Đông, xem hệ thống pin, hệ thống nước thải, khu xử lý rác. Một chuyên gia người Pháp hỏi Cường: "Anh có bí quyết gì mà thuyết phục được chủ tịch đầu tư bốn mươi tám tỷ vào năng lượng xanh?" Cường cười, trả lời: "Bí quyết là có  số liệu. Tôi cho ông ấy thấy tiết kiệm được bao nhiêu mỗi tháng. Ông ấy tự tính, tự quyết."
+
+Đoàn World Bank ở lại ba giờ. Trước khi về, họ nói sẽ giới thiệu mô hình Thương Gia trong báo cáo thường niên của Ngân hàng về năng lượng tái tạo tại Đông Nam Á. Hùng không đoán trước được điều đó khi quyết định lắp pin mặt trời. Nhưng ông biết: nếu mình làm việc đúng, những điều tốt sẽ đến — không phải ngay lập tức, nhưng chắc chắn.
+
 ============================================================
 
-Năm 2015, Hà Đông không trải thảm đỏ cho “Công nghệ xanh toàn hệ thống". Chỉ có việc và người.
+Hà Đông, tháng Ba năm 2014.
 
-Màn hình sáng, số liệu nhiều, việc thật vẫn phải đi chân.
+Tiếng máy chạy rền trong xưởng sản xuất số 3 của Thương Gia — một dây chuyền đóng gói thực phẩm công suất mười tấn mỗi ca. Hùng đứng ở lối vào, tay cầm chiếc mặt nạ chống bụi vừa được trợ lý đưa. Trong xưởng, hai trăm công nhân đang làm việc — người đứng máy, người kiểm hàng, người xếp thùng. Không khí nóng hầm hập, mùi dầu mỡ và bụi bột thoang thoảng.
 
-Ông chạm mép sổ — giấy sần, mực tím nhạt.
+Bên cạnh Hùng là Cường — Cường giám đốc công nghệ, người từng là lập trình viên năm 2001 khi Thương Gia mới bắt đầu số hóa sổ sách. Cường nay đã bốn mươi hai tuổi, đầu hói một mảng, mắt cận nặng. Anh ta đang chỉ tay lên trần xưởng — nơi những bóng đèn huỳnh quang cháy sáng và ống gió điều hòa trung tâm chạy ồn ào.
 
-Năm 2015, tại Hà Đông. Việc “Công nghệ xanh toàn hệ thống” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+— Tháng này tiền điện xưởng số 3 là bảy trăm triệu, anh Hùng ạ. Bảy trăm triệu. Xưởng số 1 và số 2 cũng tương tự. Tổng tiền điện ba xưởng sản xuất khoảng hai tỷ một tháng. Một năm hai mươi lăm tỷ — gần bằng lợi nhuận một công ty con.
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Hùng không trả lời. Ông xoay người, đi dọc theo dây chuyền, quan sát. Những bóng đèn huỳnh quang — hơn một trăm bóng — sáng cả ngày lẫn đêm, bất kể khu vực có người hay không. Máy nén khí chạy liên tục, kể cả lúc không sản xuất. Hệ thống điều hòa làm mát toàn bộ nhà xưởng, trong khi chỉ có một góc nhỏ là khu vực đóng gói cần điều hòa.
 
-“văn hóa khác biệt" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+— Cường — Hùng nói — Em biết gì về năng lượng mặt trời?
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+— Tấm pin quang điện? Biết chứ anh. Nhưng chi phí đầu tư ban đầu cao. Hồi 2009 em có nghiên cứu, giá pin còn rất đắt.
 
-Chiều, “Công nghệ xanh toàn hệ thống” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+— Bây giờ?
 
-"Bên kia giảm giá mạnh," có người nhắc.
+— Rẻ hơn. Khoảng một nửa so với năm 2009. Nhưng để phủ ba xưởng này — nhiều lắm. Có khi hai mươi tỷ.
 
-"Giảm bằng cắt chất lượng thì để họ giảm. Mình giữ hàng."
+Hùng gật đầu. Hai mươi tỷ. Một năm tiết kiệm được bao nhiêu từ tiền điện?
 
-"Về nhà ăn chưa?"
+— Nếu lắp, một tháng giảm được bao nhiêu?
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+Cường lấy điện thoại ra, mở app ghi chú, tính nhẩm. — Nếu phủ kín mái ba xưởng bằng pin mặt trời, công suất khoảng một megawatt. Sản lượng trung bình bốn nghìn kWh mỗi ngày, tính ra một tháng giảm được năm đến sáu trăm triệu tiền điện. Thời gian hoàn vốn chừng ba năm. Sau đó lời.
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+— Làm.
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+Cường nhìn Hùng. — Nghiên cứu thêm chưa anh? Còn đấu thầu, lắp đặt, bảo trì…
 
-Trưa, ông ăn cơm hộp. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+— Làm nghiên cứu. Gửi tôi đề xuất trong một tháng. Bao gồm số liệu tiết kiệm, thời gian hoàn vốn, rủi ro.
 
-Chiều, hướng “Công nghệ xanh toàn hệ thống" nhích thêm bằng lô hàng. Không pháo hoa.
+— Rủi ro là thời tiết. Mùa đông và mùa mưa, sản lượng giảm ba mươi phần trăm.
 
-Đêm, điện thoại để im. Ông dành vài phút cho người còn chờ — không cho bảng số.
+— Biết rồi. Thì tính luôn phương án dự phòng.
 
-Họ nói về “Công nghệ xanh toàn hệ thống” ngắn. Cười một cái. Im một cái. Sự bình thường, với ông, hiếm hơn danh hiệu.
+—
 
-Sổ tay khép lại bằng một dòng cầu nối, không bằng khẩu hiệu.
+Ba tuần sau, Cường gửi bản đề xuất. Hùng đọc vào tối chủ nhật, ngồi ở bàn ăn, một tách trà và một cây bút đỏ. Đề xuất dày ba mươi trang, có bản vẽ, có sơ đồ, có tính toán tài chính chi tiết. Hùng gạch đỏ một chỗ: Cường dự tính lắp pin trên mái ba xưởng và một phần mái văn phòng. Tổng công suất 1.2 megawatt, tổng đầu tư mười tám tỷ, thời gian hoàn vốn ba năm hai tháng.
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Hoàn thành nhiệm vụ phụ — +EXP”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Tờ thứ hai là về cắt giảm tiêu thụ điện. Cường đề xuất thay toàn bộ bóng đèn huỳnh quang bằng đèn LED, lắp cảm biến tự động tắt ở khu vực ít người, và tách hệ thống điều hòa thành các cụm nhỏ để chỉ làm mát khu vực cần thiết. Chi phí thấp hơn: ba tỷ, thời gian hoàn vốn một năm.
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+Hùng ghi bên lề: "Làm trước. Pin mặt trời song song."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Công nghệ xanh toàn hệ thống" không đổ.
+—
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+Tháng Tư năm 2014, dự án "Xưởng xanh" của Thương Gia bắt đầu. Mũi thứ nhất: thay bóng đèn và lắp cảm biến. Mất hai tuần, tốn ba tỷ, đến cuối tháng tư thì xong. Hóa đơn tiền điện tháng Năm giảm tám trăm triệu so với tháng Ba.
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+Mũi thứ hai: lắp pin mặt trời trên mái ba xưởng. Cường đấu thầu, chọn được nhà thầu trong nước — công ty Năng lượng Xanh, một doanh nghiệp nhỏ do kỹ sư Hoàng Anh thành lập năm 2008. Hoàng Anh ba mươi bảy tuổi, từng học điện tử ở Đức về, mở công ty với số vốn ba trăm triệu. Sáu năm sau, công ty đã lắp đặt hơn hai mươi hệ thống pin mặt trời cho các nhà máy vừa và nhỏ tại miền Bắc.
 
-Ông chủ động gặp người khó tính nhất quanh “Công nghệ xanh toàn hệ thống". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+Hùng gặp Hoàng Anh một lần, tại quán cà phê nhỏ gần xưởng — không phải phòng họp. Hoàng Anh giải thích về tấm pin, về inverter, về hiệu suất, về mức độ hao hụt theo năm. Hùng nghe, hỏi năm câu, rồi bảo: "Làm đi. Anh Cường giám sát kỹ thuật. Tôi không muốn nghe chuyện thấm dột vì khoan mái sai."
 
-Họp trực tuyến xong, hiện trường vẫn là chỗ quyết định.
+—
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Công nghệ xanh toàn hệ thống" mà không vứt lại?
+Tháng Bảy, pin mặt trời bắt đầu phát điện. Buổi đầu tiên hòa lưới, Cường đứng ngoài sân xưởng, nhìn lên mái — những tấm pin xanh đen trải dài, hứng nắng trưa hè. Đồng hồ đo hai chiều quay chậm rãi — hướng dương: xưởng đang bán điện thừa lên lưới quốc gia. Tiền điện tháng Bảy giảm thêm một tỷ hai trăm triệu, gộp cả LED và pin mặt trời, tổng giảm hai tỷ so với cùng kỳ năm trước.
 
-Hùng chấp nhận văn hóa khác biệt là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+Hùng không nói gì khi nhận báo cáo từ Cường. Ông chỉ gật đầu, rồi hỏi: — Cái này nhân rộng được không?
 
-Từ thiện có ảnh — ông vẫn kiểm bằng việc tới tay người.
+— Nhân rộng ra toàn bộ hệ thống sản xuất của Thương Gia? Xưởng Hải Phòng, Đà Nẵng, Cần Thơ?
 
-Cảm xúc hôm nay nghiêng về “tin tưởng thế hệ sau". Ông không giấu, cũng không để cảm xúc ký thay mình.
+— Ừ.
 
-Thế hệ sau muốn tốc độ; thế hệ trước muốn không vỡ chữ tín.
+Cường nhẩm tính. — Khoảng năm mươi tỷ cho toàn bộ. Tổng công suất bốn megawatt. Thời gian hoàn vốn ba năm rưỡi. Nhưng có một vấn đề.
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+— Vấn đề gì?
 
-Cuối buổi, “Công nghệ xanh toàn hệ thống" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+— Mái xưởng Đà Nẵng và Cần Thơ không đủ diện tích. Cần làm thêm mái che bãi đỗ xe để lắp pin.
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+— Làm.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+—
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Cuối năm 2014, Thương Gia đã lắp pin mặt trời tại năm cơ sở sản xuất: Hà Đông (ba xưởng), Hải Phòng (hai xưởng), Đà Nẵng (một xưởng), Cần Thơ (một xưởng), và trụ sở Hà Nội. Tổng công suất 4.2 megawatt. Tổng đầu tư bốn mươi tám tỷ. Hóa đơn tiền điện giảm trung bình bốn mươi phần trăm mỗi tháng. Dự kiến hoàn vốn vào cuối năm 2017.
 
-Tin lan nhanh hơn báo cáo nội bộ.
+Nhưng Hùng không dừng ở pin mặt trời.
 
-Ch. 325: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+—
 
-Ở góc nhìn người làm thuê, “Công nghệ xanh toàn hệ thống” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+Đầu năm 2015, ông gọi Cường và Hoàng Anh lên phòng làm việc. Lần này không có bản vẽ xưởng. Có sơ đồ hệ thống của toàn bộ Thương Gia.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên đúng hạn, và nói thẳng chỗ sẽ đau.
+— Pin mặt trời xong rồi. Tiếp theo là gì? — Hùng hỏi.
 
-Không ai hoàn hảo trong “Công nghệ xanh toàn hệ thống". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+Cường mở laptop. — Rác thải sản xuất. Mỗi năm ba xưởng thải khoảng ba trăm tấn rác thải công nghiệp — bao bì nilon, thùng carton hỏng, phế phẩm nhựa. Phần lớn được bán cho đơn vị tái chế, nhưng giá thấp và không ổn định. Em nghĩ mình nên xây hệ thống xử lý tại chỗ.
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+— Cụ thể?
 
-Sổ “Công nghệ xanh toàn hệ thống" đánh dấu xanh — quan trọng.
+— Phân loại ngay tại xưởng. Rác hữu cơ — ủ phân hoặc biogas cho nhà bếp công nhân. Rác nhựa — nghiền, tái chế thành vật liệu đóng gói cấp thấp. Giấy vụn — bán trực tiếp cho nhà máy giấy, không qua trung gian.
 
-Hai người tốt bất đồng cách làm “Công nghệ xanh toàn hệ thống". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+— Tốn bao nhiêu?
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+— Một tỷ rưỡi đến hai tỷ cho ba xưởng.
 
-Một chi tiết năm 2015: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+— Làm.
 
-Trên đường quanh Hà Đông, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Hoàng Anh lên tiếng: — Em có một đề xuất nữa. Nước thải. Xưởng thực phẩm sản xuất nhiều nước thải chứa dầu mỡ và chất hữu cơ. Nếu xử lý bằng hệ thống sinh học kết hợp với màng lọc MBR, nước đầu ra đạt tiêu chuẩn cấp B, có thể tái sử dụng cho tưới cây và làm mát.
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+— Chi phí?
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+— Khoảng bốn tỷ cho một hệ thống trung tâm tại Hà Đông. Nếu nhân rộng ra cả hệ thống, mười tỷ.
 
-Trang sổ khép bằng dòng cầu nối. Mai sẽ kiểm bằng chân.
+Hùng không trả lời ngay. Ông nhìn ra cửa sổ, nơi những tấm pin mặt trời trên mái văn phòng đang hút nắng. Trên bàn ông, một cuốn sổ mở trang đầu — ông đã ghi lại toàn bộ các dự án từ đầu năm: thay đèn LED, pin mặt trời, phân loại rác, nước thải, và còn một dòng để trống.
 
-Ông rửa mặt nước lạnh, nhìn gương: không tìm anh hùng — tìm người còn tỉnh.
+Ông viết vào dòng đó: "Hệ thống giám sát năng lượng thông minh."
 
-Trên đường quanh Hà Đông, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+— Cường — Hùng nói — Em thiết kế cho tôi một hệ thống giám sát. Không chỉ pin mặt trời. Toàn bộ. Điện, nước, rác thải của từng xưởng. Hiển thị trên một màn hình. Tôi muốn biết xưởng nào tiêu thụ nhiều nhất, tiết kiệm nhất, và tại sao.
 
-Ch. 325: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+Cường gật đầu. Cường đã quen với những yêu cầu lớn của Hùng. Hồi 2001, ông bảo: "Làm cho tôi một phần mềm quản lý kho." Cường làm. Năm 2005: "Làm hệ thống kết nối các điểm bán." Cường làm. Năm 2010: "Làm website cho Thương Gia." Cường làm. Bây giờ: "Hệ thống giám sát năng lượng thông minh." Cường sẽ làm.
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
+—
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Tháng Năm năm 2015, hệ thống giám sát năng lượng của Thương Gia đi vào vận hành. Màn hình lớn đặt tại phòng họp tầng hai — mười hai ô vuông, mỗi ô là một nhà máy, hiển thị điện năng tiêu thụ theo thời gian thực, sản lượng pin mặt trời, lượng nước thải đã xử lý, rác thải đã phân loại.
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Công nghệ xanh toàn hệ thống" mà không vứt lại?
+Hùng đứng trước màn hình lần đầu tiên, im lặng khoảng một phút. Ông thấy xưởng Hà Đông đang sản xuất 78% năng lượng từ mặt trời. Thấy xưởng Hải Phòng xử lý 400 lít nước thải mỗi giờ. Thấy lượng rác thải nhựa đã tái chế đạt 62%.
 
-Trên đường quanh Hà Đông, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Ông quay sang Cường, hỏi câu duy nhất: — Cái này xem được từ xa không?
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+— Được anh. Em cài app trên điện thoại cho anh. Anh xem được từ bất cứ đâu.
 
-Sổ “Công nghệ xanh toàn hệ thống" đánh dấu bút chì — có thể lùi.
+— Tốt.
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+—
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+Một năm sau khi bắt đầu "Công nghệ xanh toàn hệ thống," Thương Gia không chỉ tiết kiệm tiền điện. Thương Gia có một hệ thống vận hành bền vững hơn. Và quan trọng hơn cả — khi đối tác nước ngoài đến thăm nhà máy, họ nhìn thấy những tấm pin trên mái, hệ thống nước thải khép kín, bảng giám sát năng lượng thông minh — và họ nói: "Đây là nhà máy của tương lai."
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+Trong báo cáo thường niên 2015, Hùng viết một trang riêng về công nghệ xanh. Ông không dùng từ "trách nhiệm xã hội" hay "phát triển bền vững" — những từ ông cho là đã bị dùng nhiều quá. Ông viết: "Xưởng tiết kiệm điện hơn là xưởng có lợi nhuận cao hơn. Đơn giản vậy thôi."
 
-Ch. 325: phần thưởng chỉ thật khi khách không trả hàng.
+Dưới gốc, ông ghi: "Mái xưởng Hà Đông, 78% năng lượng từ mặt trời. Mục tiêu: 100%."
 
-Một chi tiết năm 2015: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+————
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Một buổi chiều cuối tháng Mười hai, Hùng đứng trên sân thượng của tòa nhà trụ sở Hà Nội, nhìn xuống thành phố. Từ trên cao, Hà Nội trải ra trước mắt ông — những dãy phố cũ, mái ngói nâu sẫm, xen lẫn những tòa nhà cao tầng mới mọc. Xa xa, dòng sông Hồng uốn khúc, nước đục ngầu mùa lũ.
 
-Trên đường quanh Hà Đông, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Cường đứng bên cạnh. Tay anh ta cầm một máy tính bảng, trên màn hình hiển thị hệ thống giám sát năng lượng thời gian thực.
 
-Sổ “Công nghệ xanh toàn hệ thống" đánh dấu đỏ — chết người nếu trễ.
+"Anh Hùng, tổng sản lượng pin mặt trời hôm nay là mười bảy nghìn kWh," Cường nói. "Tiết kiệm được khoảng hai mươi triệu đồng so với mua điện lưới."
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Công nghệ xanh toàn hệ thống" mà không vứt lại?
+Hùng không trả lời ngay. Ông nhìn những tấm pin xanh đen trên mái các tòa nhà đối diện — không chỉ của Thương Gia, mà của một số công ty khác cũng đã bắt đầu lắp đặt. Phong trào xanh đang lan ra, dù chậm.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+"Cường."
 
-Một chi tiết năm 2015: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Dạ."
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Nếu ngày nào cũng có nắng, bao lâu thì Thương Gia hoàn vốn?"
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Công nghệ xanh toàn hệ thống" mà không vứt lại?
+"Với sản lượng trung bình hiện tại, thêm hai năm nữa là hòa vốn toàn bộ hệ thống pin mặt trời. Sau đó là lời."
 
-Một chi tiết năm 2015: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Và nếu không có nắng?"
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+Cường cười. "Em đã tính cả kịch bản đó. Mùa mưa kéo dài ba tháng, sản lượng giảm ba mươi lăm phần trăm. Nhưng bù lại, mùa hè nắng nhiều hơn dự kiến, nên trung bình năm vẫn đạt chín mươi hai phần trăm công suất thiết kế."
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+Chín mươi hai phần trăm. Hùng nhẩm tính. Con số đó đủ để ông yên tâm. Ông không đòi hỏi một trăm phần trăm — ông đã học được từ ba mươi năm kinh doanh rằng không có gì đạt một trăm phần trăm. Tám mươi phần trăm là tốt. Chín mươi phần trăm là xuất sắc. Một trăm phần trăm là không tưởng.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+"Tháng sau, em qua Đà Nẵng xem xét lại hệ thống ở đó," Hùng nói. "Báo cáo tôi mỗi tuần."
 
-Ch. 325: phần thưởng chỉ thật khi công nhân không mất ca.
+Cường gật đầu. Anh ta biết: khi Hùng nói "báo cáo tôi mỗi tuần," có nghĩa là dự án này quan trọng. Không phải vì tiền — mấy chục tỷ không phải là con số quá lớn với Thương Gia. Quan trọng vì nó là tuyên ngôn: Thương Gia không chỉ kiếm tiền, Thương Gia còn nghĩ đến ngày mai.
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Hùng quay người, bước xuống cầu thang. Trên đường vào văn phòng, ông gặp một nhóm công nhân đang tan ca — họ mặc đồng phục xanh, đội mũ bảo hộ, tay xách cặp lồng cơm. Một người trong số họ nhận ra Hùng, khẽ nghiêng đầu chào.
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
-
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ người, và nói thẳng chỗ sẽ đau.
-
-Cuối buổi, “Công nghệ xanh toàn hệ thống" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
-
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 33 gắn với ông Phúc: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 34 gắn với ông Tam: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 38 gắn với ông Phúc: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 39 gắn với ông Tam: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Công nghệ xanh toàn hệ thống" năm 2015 tại Hà Đông, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “văn hóa khác biệt" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “tin tưởng thế hệ sau" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Hoàn thành nhiệm vụ phụ — +EXP" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “Công nghệ xanh toàn hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng gật đầu đáp lại. Ông không biết tên người công nhân đó, nhưng ông biết: nhà máy này, những tấm pin này, hệ thống nước thải này — tất cả đều để cho những người như anh ta có việc làm ổn định, có môi trường làm việc tốt hơn. Đó là cái đích cuối cùng của "công nghệ xanh toàn hệ thống."
 
 ============================================================
+
+
+Tối đó, về nhà, Hùng ngồi lại với Lan ở bàn ăn, tách trà nguội dần giữa hai người. "Bốn point hai megawatt," Lan nói, đọc lại số trong đầu. "Bao nhiêu năm thì thu hồi vốn?" Hùng gõ tay lên bàn, tính nhanh. "Sáu năm nếu giá điện giữ nguyên. Bốn năm nếu giá điện tăng như dự báo." Lan gật đầu, không hỏi thêm — cô tin vào cách anh tính, vì cô đã kiểm tra công thức đó ba lần trong tuần trước.
+
+Bà Hà mang ra một đĩa chuối chiên, đặt xuống giữa bàn. "Ăn đi, nguội rồi," bà nói, giọng không đổi qua bao nhiêu năm. Hùng cầm một miếng, cắn, vị ngọt và giòn quen thuộc từ thời còn nghèo, khi chuối chiên là món ăn sang nhất trong nhà. Ông nhìn Lan, nhìn bà Hà, rồi nhìn ra khung cửa sổ nơi ánh đèn nhà máy xa xa vẫn sáng suốt đêm, tự vận hành mà không cần ai đứng canh.
+
+"Anh có sợ không?" Lan hỏi bất ngờ. "Sợ gì?" Hùng đáp. "Sợ một ngày hệ thống pin đó hỏng, mất điện cả dây chuyền, thiệt hại hàng tỷ." Hùng suy nghĩ một lúc rồi nói thật: "Có. Nhưng sợ không phải lý do để không làm. Sợ là lý do để làm cẩn thận hơn." Lan mỉm cười, không nói thêm, cô hiểu câu trả lời đó — nó giống với cách ba mươi năm trước ông từng nói về canh bạc đầu tiên của đời mình.
+
+Đêm đó, Hùng ra ngoài sân đứng một mình, nhìn lên bầu trời không sao vì ánh sáng đô thị. Ông nghĩ về những tấm pin đang nằm im dưới mái nhà máy, không tiếng động, không khói, chỉ hấp thụ nắng ban ngày và trả lại năng lượng vào ban đêm — như một lời hứa chậm nhưng chắc.
+
+Cường gọi điện lúc mười một giờ đêm, giọng còn hào hứng: "Anh Hùng, em vừa kiểm lại, hệ thống giám sát báo hiệu suất đạt chín mươi hai phần trăm công suất thiết kế ngay tuần đầu. Cao hơn dự tính." Hùng đứng ở sân, nghe tin, không reo lên như một người trẻ mới thắng hợp đồng đầu đời — ông chỉ gật đầu, dù không ai thấy trong đêm. "Tốt. Giữ vậy, đừng chủ quan." Cường cười qua điện thoại: "Vâng anh, em hiểu."
+
+Cúp máy, Hùng đứng thêm một lúc, nhìn về hướng khu công nghiệp, nơi những tấm pin mặt trời đang nằm im dưới lớp sương đêm, chờ một ngày nắng khác. Rồi ông quay vào nhà, khép cửa lại sau lưng.
+
+
+
+Cuốn sổ trong túi nặng hơn khi lấy ra. Hùng viết thêm một dòng cuối: 'Tháng 4/2015 — toàn bộ dự án xanh đạt sản lượng thiết kế. Ngân sách không vượt dự toán.'
+
+
+Hùng hỏi thêm một câu, không phải vì cần câu trả lời, mà vì muốn nghe cách người kia nói. "Nếu mình không làm, ai làm?" Lan trả lời ngay: "Người khác. Và họ sẽ làm tốt hơn nếu mình chần chừ." Hùng gật đầu, không cần tranh luận — câu trả lời đã nói lên tất cả. Cả phòng im lặng trong ba giây, chỉ có tiếng quạt trần quay đều trên đầu, rít nhẹ mỗi lần cánh quạt đi qua điểm cao nhất.
+
+Bà Hà bước vào phòng với ấm nước mới, nhìn hai người đang ngồi im, hỏi một câu không liên quan đến công việc: "Tối nay ăn gì?" Hùng nhìn đồng hồ, đã qua bảy giờ tối, bữa tối đã bị lãng quên từ lâu. "Ăn gì cũng được," ông nói, nhưng tay vẫn không rời tờ giấy số liệu. Lan đứng dậy, với lấy cái áo khoác ngoài cửa, "Để em mua cháo về cho hai bác."
+
+
+Ngoài trời, tiếng mưa bắt đầu rơi. Không phải cơn mưa rào đầu mùa ầm ầm kéo đến, mà là thứ mưa bụi dai dẳng, lặng lẽ làm ướt đường trước khi người ta kịp nhận ra. Hùng ngồi nhìn qua ô cửa sổ mờ hơi nước, những hạt bụi mưa bám trên kính rồi tụ lại thành từng giọt nhỏ chảy xuống, vẽ những đường ngoằn ngoèo trên mặt kính. Mỗi giọt mưa là một con đường riêng, một quyết định riêng, và cuối cùng tất cả đều chảy về một chỗ.
+
+Ông nhớ lại một câu nói của ai đó từ thời còn trẻ: "Mưa không chọn chỗ rơi. Nhưng người biết chọn chỗ đứng."
+
+
+Cuốn sổ mở ra trang trống. Hùng đặt bút xuống, viết từng con số bằng nét chữ đều đặn, không nhìn lại. Ông không cần nhìn lại — những con số đó đã chạy trong đầu ông cả ngày, từ lúc thức dậy đến lúc đi ngủ, như một dòng suối ngầm dưới những cuộc trò chuyện, những bữa ăn, những giấc ngủ chập chờn. Ông viết tới trang thứ ba thì dừng, đọc lại từ đầu, thấy một con số không khớp. Gạch đi, viết lại. Không ai nhìn thấy lỗi đó, nhưng ông thấy.
+
 「Hệ thống — GHI NHẬN ch.325」
-Năm: 2014
-Tổng EXP: 79,500 (+300 nhịp này)
+Năm: 2014–2015
+Tổng EXP: 80,000 (+400 nhiệm vụ: Hệ thống xanh)
 Không gian kho: 43,333m² (+333m²)
-Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2 (+), Di sản lv1
+Ghi chú: Lắp 4.2MW pin mặt trời, hệ thống giám sát năng lượng toàn hệ thống
 ============================================================

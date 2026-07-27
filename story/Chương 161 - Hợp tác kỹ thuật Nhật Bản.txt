@@ -2,247 +2,228 @@
 Chương 161: Hợp tác kỹ thuật Nhật Bản
 ============================================================
 
-Tokyo, tháng Tư năm 1992. Hùng không thuộc về nơi này — điều đó hiện rõ trên từng đường chỉ của bộ complet thuê, trên cách ông cầm tách trà xanh chưa quen, trên cách ông ngồi thẳng lưng dù ghế có tựa.
+Cuối tháng Mười một năm 1991. Hà Nội vào đông, mưa phùn rả rích. Hùng ngồi trong phòng làm việc ở nhà — một căn phòng mười mét vuông, bàn gỗ xấu, tủ sắt, và một cái máy fax Sony cũ mua từ xưởng thanh lý của bưu điện. Trên tường treo tấm bản đồ giao thông Việt Nam, cạnh đó là một tấm bản đồ châu Á được tô màu bằng bút dạ.
 
-Phòng họp tầng 14 nhìn xuống quận Shinagawa. Bàn dài, ghế da đen bóng, điều hòa lạnh đến nỗi sống lưng ông nhức nhẹ bên trái — di chứng của những ngày nằm viện, mang theo cả sang đất khách.
+Ông nhìn tờ giấy fax vừa nhận được từ Singapore. Báo giá khuôn ép nhựa từ Maruzen Shokai — một công ty nhỏ ở Osaka mà ông Sato giới thiệu. Con số in rõ ràng trên giấy nhiệt: 4.200 đô la Mỹ cho bộ khuôn đầu tiên. Hai tháng trước, ông đã hỏi giá một công ty khác ở Thượng Hải — họ báo 2.800 đô la. Rẻ hơn, nhưng Hùng không gọi lại. Có câu nói của Sato: "Khuôn ép nhựa không phải miếng tôn. Làm rẻ, hỏng một lần, mất hết tiền."
 
-Đối diện ông là năm người Nhật. Người ở giữa — Ông Tanaka Hiroshi, giám đốc kỹ thuật của Tập đoàn Maruichi — khoảng năm mươi lăm tuổi, tóc muối tiêu cắt ngắn, ngón tay trỏ có vết mực khô ở bên phải, giống hệt cách Hùng thường để mực dính ở đầu ngón khi viết sổ.
+Ông cầm điện thoại lên, quay số đường dài — phải qua tổng đài, chờ hai mươi phút để nối máy đến Osaka. Khi tổng đài viên báo "đã kết nối", Hùng nghe giọng ông Sato ở đầu dây bên kia — vẫn cái giọng tiếng Anh ngắt quãng, vẫn cái cách nói chậm rãi như đang đọc từ điển.
 
-Phiên dịch viên — một người Việt tên Quang, sống ở Nhật mười lăm năm — ngồi lệch về phía cuối bàn. Mắt Quang nhìn xuống bảng tên, giọng đều đều.
+— Ông Hùng. Có việc?
 
-"Công ty Thương Gia của ông muốn chuyển giao công nghệ dập khuôn và hàn khung xe," Tanaka nói, giọng trầm. "Vì sao ông không mua từ Trung Quốc? Rẻ hơn. Tôi có bảng so sánh: máy Trung Quốc giá bằng một phần ba, nhưng nhược điểm là sai số khuôn cao hơn 0.05mm, tuổi thọ khuôn chỉ đạt 25% tiêu chuẩn JIS, chi phí sửa chữa năm đầu tiên ngang một phần năm giá mua."
+Hùng nói thẳng: ông cần khuôn ép nhựa cho vỏ xe máy. Không phải khuôn mua sẵn — khuôn thiết kế riêng cho mẫu xe do Thương Gia tự phát triển. Ông có bản vẽ tay, thông số kỹ thuật, và một yêu cầu: khuôn phải dùng được cho máy ép thủy lực cũ, loại phổ biến ở Việt Nam.
 
-Hùng không trả lời ngay. Ông nhìn Tanaka thêm hai giây — đủ để thấy người kia cũng đang quan sát mình.
+Đầu dây bên kia im lặng một lúc. Hùng nghe tiếng giấy lật — Sato chắc đang tìm hồ sơ.
 
-"Vì mua rẻ là một chuyện, đứng được bên cạnh hàng Nhật là chuyện khác. Tôi không cần rẻ nhất. Tôi cần thứ mà mười năm nữa tôi vẫn đứng được trên thị trường mà không xấu hổ."
+— Bao nhiêu bộ? — Sato hỏi.
 
-Quang dịch. Tanaka gật đầu một cái rất nhẹ.
+— Một khuôn mẫu. Nếu được, tôi đặt thêm năm bộ.
 
-\*\*\*
+— Bản vẽ gửi fax. Tôi xem.
 
-Cuộc họp kéo dài bốn tiếng. Họ đi qua từng hạng mục kỹ thuật: khuôn dập thân xe, robot hàn điểm, hệ thống kiểm tra chất lượng, đào tạo vận hành. Tanaka không hứa gì; ông ta đưa ra một xấp tài liệu dày ba phân, đóng bìa xanh, mỗi trang có watermark của Maruichi.
+Hùng cúp máy. Không cảm ơn, không hứa hẹn. Sato không phải người cần lời cảm ơn — ông ta cần thấy bản vẽ.
 
-"Cái này là dự thảo hợp tác kỹ thuật. Ông đọc. Ngày mai chúng ta họp lại."
+Lan mang bản vẽ của kỹ sư Đức đến phòng fax. Bản vẽ bằng tay, nét chì, ghi chú bằng tiếng Việt. Một số chi tiết được Đức vẽ rất chi tiết — các góc bo, độ dày nhựa, vị trí gân gia cố. Một số khác vẽ phác, chừa chỗ cho xưởng khuôn tự điều chỉnh.
 
-Hùng nhận lấy, không lật. Ông đặt tài liệu xuống cạnh cặp da, dùng lòng bàn tay vuốt nhẹ — thói quen kiểm tra độ phẳng trước khi bỏ vào.
+Cô gọi điện nhờ bà chủ quán phở Cabramatta tìm người dịch thuật — nhưng không kịp. Cô tự dịch, viết bằng tiếng Anh vào lề, chữ nghiêng ngả nhưng đủ nghĩa: "Kích thước tổng thể", "Độ dày nhựa 2.5mm", "Yêu cầu chịu nhiệt 80 độ C", "Gia cố tại điểm bắt ốc". Có những thuật ngữ cô không biết — cô viết nguyên tiếng Việt, kèm dấu hỏi.
 
-"Tôi sẽ đọc tối nay. Nhưng trước khi rời bàn này, tôi muốn hỏi một câu: vì sao Maruichi chấp nhận nói chuyện với một công ty Việt Nam chưa có kinh nghiệm ô tô?"
+Cô nhấn nút fax. Tiếng máy ré lên, bản vẽ cuộn vào, biến mất. Tám phút sau, tờ giấy từ Osaka trả về: một dòng chữ nguệch ngoạc bằng bút chì — "Nhận được bản vẽ. Tôi sẽ gửi báo giá qua thư."
 
-Tanaka nhìn ông. Một thoáng im lặng — không phải do khó chịu, mà kiểu im lặng khi một người quyết định nói thật.
+Hùng đọc dòng chữ, không nói gì. Lan hỏi:
 
-"Vì ba mươi năm trước, Maruichi cũng như ông."
+— Ông ấy không nói có thể làm được không.
 
-\*\*\*
+— Nếu không làm được, ông ấy đã nói ngay. — Hùng đáp. — Im lặng là có hy vọng.
 
-Tanaka mời Hùng ăn tối ở một quán nhỏ gần ga Meguro — kaiseki, tám món, phục vụ bởi một bà lão mặc kimono màu tro, tay lướt trên chén dĩa như một thói quen không cần nhìn. Hùng thấy trong cách bà ta đặt từng miếng cá lên đĩa giống hệt cách bà Hà xếp từng miếng thịt kho vào tô.
+***
 
-Trong bữa ăn, Tanaka không nhắc đến hợp đồng. Ông ta hỏi Hùng về gia đình, về làng cũ, về bữa cơm ông nhớ nhất, về người thầy đầu tiên. Hùng kể về bà Hà, về Lan, về những ngày đầu ở xưởng may khi tay còn dính mực xanh và mồ hôi. Ông kể về lần suýt mất lô hàng vì một con dấu thiếu. Về người thợ già Đạt, người đã dạy ông rằng chi tiết là nơi sự tử tế hoặc sự gian dối trú ngụ.
+Mười ngày sau, thư từ Osaka đến. Trong phong bì là một bản vẽ kỹ thuật in trên giấy bóng mờ — loại giấy can, mỏng, trong suốt — có số đo chính xác từng mi-li-mét, đường nét thẳng tắp, ghi chú bằng tiếng Nhật và tiếng Anh. Kèm theo là một bảng báo giá đánh máy và một lá thư ngắn của Sato: "Khuôn này thiết kế theo bản vẽ của ông. Tôi thay đổi một số góc bo để nhựa chảy đều hơn. Nếu không đồng ý, gọi lại."
 
-Tanaka nghe. Thỉnh thoảng gật — một kiểu gật không vui, không buồn, chỉ báo hiệu "tôi còn nghe."
+Hùng đọc bản vẽ. Sato đã thay đổi ba chỗ: góc bo ở phần đầu xe — từ cong gấp thành cong mềm, giúp nhựa chảy đều hơn khi ép; độ dày nhựa ở nắp bình xăng — từ 2.5mm lên 3mm, không làm thay đổi kiểu dáng nhưng chống nứt khi va chạm; và vị trí gân gia cố bên trong, đưa lên cao hơn để không bị lõm khi làm nguội. Những thay đổi thể hiện hàng chục năm kinh nghiệm — không phải ai cũng nghĩ ra.
 
-Cuối bữa, khi bà lão dọn chén trà, Tanaka nói: "Ngày mai chúng ta sẽ nói về con số. Ông không cần đưa ra giá ngay. Hãy đến xem xưởng của tôi trước."
+— Sao ông ấy không hỏi mình trước? — Lan hỏi.
 
-\*\*\*
+— Vì hỏi mất thời gian. Ông ấy làm rồi gửi, nếu mình không đồng ý thì ông ấy sửa. Làm vậy nhanh hơn.
 
-Đêm đó, Hùng không ngủ được. Phòng khách sạn ở Ikebukuro — nhỏ, sạch, bàn làm việc kê sát cửa sổ nhìn ra đường tàu trên cao. Tiếng tàu điện chạy qua nghe như một nhịp thở đều đặn của thành phố người ta đã xây xong từ lâu.
+Hùng gọi Đức vào xem bản vẽ. Đức soi từng đường nét, lấy thước đo trên giấy, so với bản vẽ cũ. Hồi lâu, ông nói:
 
-Ông bật đèn bàn, bày tài liệu của Tanaka ra. Từng điều khoản được gạch chân, đánh dấu, ghi chú bằng bút đỏ. Dòng nào có số — giá thiết bị, phí bản quyền, lịch đào tạo, chi phí kỹ sư, khung thời gian bàn giao — ông đọc lại ba lần, rồi ghi vào sổ riêng bằng bút tím.
+— Chỗ bo này, nếu mình tự làm, có thể không nghĩ tới. Nhưng nó đúng. Nhựa sẽ chảy đều hơn ở góc này.
 
-Sổ của Hùng không giống sổ ai. Trang nào cũng có ba cột: "Đã rõ — Chưa rõ — Cần hỏi thêm." Ở cuối mỗi trang, một góc nhỏ ông dành cho "Cảm giác": một từ duy nhất. Tối nay ông viết vào đó chữ "Đúng hướng."
+— Có chỗ nào sai không?
 
-Ông gọi điện về nhà. Bà Hà bắt máy sau một hồi — ở Việt Nam là hơn chín giờ tối, bà chưa ngủ.
+— Không. Nhưng có chỗ tôi không hiểu. — Đức chỉ vào một đường nét chấm gạch — một rãnh nhỏ dọc theo thành khuôn. — Cái này là gì?
 
-"Anh ăn gì chưa?" — vẫn là câu hỏi đầu tiên.
+Hùng không biết. Ông gọi điện cho Sato. Lần này tổng đài nối nhanh hơn — chỉ mười phút.
 
-"Ăn rồi. Cá sống, rau, canh. Lạ nhưng no."
+— Ông Sato, tôi nhận được bản vẽ. Kỹ sư của tôi hỏi đường chấm gạch ở góc dưới là gì?
 
-"Người ta có khó không?"
+— Rãnh thoát khí. Khuôn của ông không có rãnh này, khí bị kẹt trong lòng khuôn khi ép, gây rỗ bề mặt.
 
-"Cũng khó. Nhưng khó kiểu người làm việc."
+— Tôi có cần thêm chi phí không?
 
-Bà Hà chuyển máy cho Lan. Giọng Lan nhanh, gọn: "Ba, Singapore họ hỏi mình có thể giao hàng trong vòng ba tuần không. Con bảo có thể nhưng cần kiểm tra nguyên liệu trước."
+— Không. Tôi cho vào thiết kế.
 
-"Đúng rồi. Đừng hứa trước khi thấy kho."
+— Cảm ơn.
 
-"Ba ở bển thế nào?"
+— Ông Hùng.
 
-"Đang đọc hợp đồng. Mai đi xem xưởng."
+— Dạ.
 
-"Người Nhật họ có cầu toàn quá không ba?"
+— Lần sau, nếu có thắc mắc về kỹ thuật, hỏi trước khi gửi bản vẽ. Tôi sửa bản vẽ mất một ngày. Nếu ông đặt khuôn rồi mới sửa, mất một tháng.
 
-"Cầu toàn là tốt, con. Chỉ sợ họ im lặng lúc cần nói."
+— Tôi nhớ.
 
-Lan cười — tiếng cười qua điện thoại nghe xa. "Ba nói lạ. Ai cũng sợ người ta nói nhiều, ba lại sợ người ta im."
+Hùng cúp máy. Ông quay sang Đức:
 
-Vì cái im lặng lúc cần nói có nghĩa là họ đã quyết định nhưng không muốn cho mình biết. Trong đàm phán cái đó mới nguy hiểm.
+— Rãnh thoát khí. Nhựa ép bị rỗ bề mặt nếu khí không thoát được.
 
-"Con nhớ rồi."
+Đức gật đầu, nhưng mặt ông có cái nhìn của người vừa học được một bài học mới sau ba mươi năm làm nghề. Ông lấy bút, ghi chép vào sổ tay — một cuốn sổ đã cũ, bìa sờn, nhưng chữ viết ngay ngắn, từng trang.
 
-Hùng tắt máy, quay lại tài liệu. Đọc đến điều khoản bồi thường vi phạm hợp đồng — Maruichi đề xuất phạt 0.5% giá trị hợp đồng mỗi tuần chậm trễ. Hùng thấy con số đó chấp nhận được, nhưng ông khoanh tròn và ghi chú: "Hỏi áp dụng cho cả hai bên."
+***
 
-Rồi ông mở một trang khác — danh sách thiết bị. Hai robot hàn, bốn bộ khuôn dập, một tủ điều khiển PLC. Ông không hiểu hết thông số kỹ thuật, nhưng so sánh với giá máy Nhật bãi mà một người quen ở Sài Gòn từng báo, thấy giá chuyển giao của Tanaka mềm hơn hai mươi phần trăm.
+Bốn ngày sau, Hùng nhận được điện tín từ Osaka: "Khuôn hoàn thành. Đang đóng gói. Tàu rời Kobe ngày 8/12, cập Hải Phòng ngày 22/12. Thời gian vận chuyển: 14 ngày."
 
-Ông viết vào sổ: "Cạnh tranh — máy Nhật bãi ít hơn 20%. Chất lượng — hàng mới. Kết luận — nên ký."
+Hùng gấp điện tín. Ông không nói với ai, nhưng trong đầu đã bắt đầu tính: khuôn về đến xưởng cuối tháng Mười hai. Ép thử, lắp ráp, hoàn thiện — mất thêm hai tuần nữa. Nếu suôn sẻ, chiếc xe hoàn chỉnh đầu tiên sẽ ra mắt vào giữa tháng Giêng năm 1992.
 
-Gần một giờ sáng, Hùng mới tắt đèn. Nhưng trước khi ngủ, ông đọc lại các trang đã ghi chú, lật từng tờ. Đây là thói quen từ hồi còn bán hàng rong: trước khi ngủ phải kiểm lại tất cả những gì đã làm trong ngày, những gì đã hứa, những gì đã nhận. Một sai sót nhỏ có thể thành cái bẫy sáng hôm sau.
+Ông bật đèn bàn, mở sổ tay, viết:
 
-\*\*\*
+"Khuôn Satō: 4.200 USD. Vận chuyển: 680 USD. Thuế nhập: 15%. Tổng: ~5.600 USD.
 
-Sáng hôm sau, nhà máy Maruichi ở tỉnh Kanagawa. Xưởng rộng gấp sáu lần nhà máy ô tô mà Hùng đang xây ở Khu công nghiệp — nhưng điều làm ông ấn tượng không phải diện tích, mà là sự vắng lặng. Máy móc chạy, robot hàn kêu xèo xèo, nhưng không ai nói to. Không tiếng la hét, không tiếng chửi thề, không tiếng sắt thép va đập hỗn loạn.
+Đặt thêm 5 bộ nếu lô đầu chạy: ~18.000 USD.
 
-Tanaka dẫn Hùng đi dọc dây chuyền. Mỗi trạm ông ta dừng lại, chỉ, nói ngắn: "Đây là tủ điều khiển — mỗi sáng người vận hành kiểm ba thông số, ghi vào bảng — cuối ngày tổ trưởng ký xác nhận." Không ba hoa, không khoe thiết bị, như cách một người nông dân già chỉ cho con trai biết chỗ cầm cuốc sau ba mươi năm.
+Nếu xuất 500 xe/năm, chi phí khuôn dàn trải ~48 USD/xe. Có thể chấp nhận."
 
-Ở trạm kiểm tra chất lượng cuối cùng, Hùng thấy một chiếc thân xe được đặt riêng trên giá. Trên đó có một tấm thẻ màu đỏ.
+***
 
-"Không đạt," Tanaka nói. "Sai số 0.3mm ở mối hàn cửa sau. Nếu lắp vào, sau một vạn cây số sẽ kêu. Khách hàng Nhật không chấp nhận tiếng kêu. Nhưng nếu bán ở Việt Nam, liệu có ai để ý không?"
+Trong lúc chờ khuôn, Hùng bay sang Osaka một chuyến. Đây là lần đầu tiên ông đặt chân đến Nhật Bản. Sân bay Kansai mới khai trương được hai năm, sàn đá hoa cương sáng bóng, có những thang cuốn và cửa kính tự động — những thứ Hùng chưa từng thấy ở Việt Nam. Ông ra khỏi cửa, thấy ông Sato đứng đợi — vẫn bộ comple xám, cà vạt xanh than, tay cầm một tấm bảng ghi tên "Trần Văn Hùng" bằng tiếng Việt.
 
-Hùng im lặng một lúc. Câu hỏi vừa là thử thách, vừa là cơ hội. Mắt ông lướt qua bảng theo dõi lỗi trên tường — ba cột trắng-đỏ-vàng, mỗi ca sản xuất ghi một gạch, ba tháng liền không có gạch đỏ nào quá hai cái.
+Họ bắt tay. Sato không cười, nhưng mắt ông ta hơi híp lại — có thể là dấu hiệu của một nụ cười Nhật Bản.
 
-"Có," ông nói. "Không phải khách hàng nào cũng để ý. Nhưng tôi để ý."
+— Ông đói không? — Sato hỏi.
 
-Tanaka không nói gì. Ông ta quay lưng bước tiếp. Nhưng bước chân của người Nhật hôm đó, Hùng để ý, chậm hơn bình thường một nhịp.
+— Đói.
 
-\*\*\*
+— Tôi đưa ông đi ăn trước. Rồi ra xưởng.
 
-Buổi chiều, đàm phán thực sự bắt đầu. Con số Tanaka đưa ra nằm ở tầm Hùng dự tính — không rẻ, cũng không đắt. Vấn đề là cấu trúc: Maruichi muốn thu phí bản quyền cố định năm năm, trong khi Hùng muốn trả theo sản phẩm đầu ra.
+Họ đi tàu điện ngầm từ sân bay vào trung tâm Osaka. Hùng ngồi trên tàu, nhìn ra ngoài — những tòa nhà cao tầng, những biển quảng cáo neon, những con đường sạch sẽ, trật tự. Một thế giới khác.
 
-"Tôi không biết năm năm nữa tôi bán được bao nhiêu xe," Hùng nói. "Tôi sẽ không ký cam kết dựa trên số không."
+Ông Sato đưa Hùng đến một quán ramen nhỏ đầu phố ở quận Nishi. Quán chỉ có sáu ghế, quầy gỗ nhỏ, nồi nước dùng sôi sùng sục phía sau. Ông chủ — một người đàn ông sáu mươi tuổi — nhanh tay vắt mì, xếp thịt, hành lá. Hùng ăn bát ramen đầu tiên trong đời. Nóng, mặn, ngọt, vị nước dùng ninh từ xương không thể tả.
 
-"Chúng tôi không bán công nghệ. Chúng tôi hợp tác. Nếu ông bán được nhiều, cả hai cùng có lợi."
+— Ông định làm xe máy bao nhiêu năm? — Sato hỏi, vừa ăn vừa nói.
 
-Cuối cùng, Hùng đề xuất một thỏa thuận ba bước. Bước một: Maruichi chuyển giao khuôn dập và hàn — hai robot, bốn bộ khuôn, một tủ điều khiển — kèm đào tạo ba tháng tại Việt Nam. Bước hai: sau một trăm chiếc đầu tiên, ký tiếp giai đoạn hai — mở rộng sang sơn tĩnh điện. Bước ba: sau ba trăm chiếc, đàm phán chuyển giao công nghệ động cơ nhỏ.
+— Tôi không biết. — Hùng thành thật. — Tùy thị trường.
 
-Tanaka nhìn tờ giấy Hùng viết tay, rồi cất vào cặp. "Tôi cần bàn với hội đồng quản trị. Ba ngày."
+— Tôi hỏi vì nếu ông định làm ngắn hạn, tôi không muốn làm khuôn cho ông.
 
-"Tôi chờ."
+— Nếu tôi định làm ngắn hạn, tôi đã không bỏ tiền ra mua bản vẽ và gọi cho ông. Tôi có thể mua xe Trung Quốc về bán lại. Lời hơn.
 
-\*\*\*
+Sato nhìn Hùng, không nói gì. Ông cầm đũa, ăn tiếp bát ramen.
 
-Ba ngày đó, Hùng đi bộ quanh Tokyo. Một mình — không phiên dịch, không tài xế. Ông đi tàu điện, mua vé ở máy bán hàng tự động dù không đọc được chữ, ăn bát mì soba đứng ở quầy ga Shinjuku. Không ai nhìn ông. Tokyo quá lớn để để ý một người đàn ông Việt Nam trung niên.
+Chiều hôm đó, Sato đưa Hùng đến xưởng gia công dưới tầng hầm của một tòa nhà ở phố cổ Osaka — một không gian nhỏ hơn Hùng tưởng, nhưng sạch đến mức sàn bê tông có thể soi thấy mặt. Hai máy phay CNC, một máy tiện, một bàn kiểm. Một người thợ già đeo kính lúp đang cặm cụi mài một khuôn thép. Ánh đèn huỳnh quang chiếu lên những mạt thép vương vãi trên bàn.
 
-Ông ghé một cửa hàng văn phòng phẩm ở Kanda — khu phố bán đồ viết, sổ sách, giấy tờ. Cả tầng trệt toàn bút: bút bi, bút máy, bút chì, bút lông, bút kim. Hùng đứng trước kệ bút mực tàu mười lăm phút, chọn một cây bút lông đầu nhỏ, giá 1.200 yen — đắt hơn bảy lần bút ông vẫn mua ở chợ Hà Nội, nhưng nét đều và mực không nhòe. Ông mua ba cây.
+— Ông thấy không? — Sato nói. — Đây là xưởng của tôi. Một người thợ, hai máy, và một cam kết. Ông đặt năm bộ khuôn, tôi làm năm bộ. Ông đặt năm mươi, tôi làm năm mươi. Nhưng chất lượng không đổi.
 
-Rồi ông tìm một quán cà phê nhỏ, gọi cà phê đen, mở sổ, viết toàn bộ những gì đã thấy ở nhà máy Maruichi. Hệ thống nháy một dòng, nhưng Hùng không nhìn. Ông viết liên tục hai tiếng: hệ thống 5S, cách sắp xếp công cụ, mỗi ca họp bao nhiêu phút, tờ kiểm tra gồm mấy cột, màu thẻ đỏ-vàng-xanh dùng cho mức lỗi nào, thời gian chuẩn cho một mối hàn.
+Hùng nhìn người thợ già. Tay ông ta đặt trên cữ mài, từng động tác đều đặn như máy. Mỗi lần mài xong, ông dùng kính lúp kiểm tra bề mặt thép, rồi mới mài tiếp. Ông không nhìn người lạ, không ngước lên.
 
-Lát sau, Hùng nghĩ tới chuyện Minh. Nếu hợp đồng ký, Minh sẽ là người đầu tiên sang Nhật học quy trình sản xuất tinh gọn. Minh có thể đọc bản vẽ tiếng Anh, nhưng chưa từng tiếp xúc với văn hóa sản xuất Nhật. Chi phí đào tạo ba tháng — khoảng một trăm nghìn USD — nhưng nếu không đầu tư, Thương Gia sẽ mãi là xưởng gia công.
+— Người này bao nhiêu tuổi? — Hùng hỏi.
 
-Ông viết thêm: "Tháng 6 — Minh sang Osaka, 3 tháng. Lan coi xưởng. Tuyển thêm 2 kỹ sư cơ khí."
+— Sáu mươi bảy. Làm khuôn bốn mươi lăm năm. Tôi trả lương gấp rưỡi mặt bằng chung để giữ ông ấy.
 
-Ngoài kia, những nhân viên văn phòng Tokyo tan làm. Họ đi nhanh, complet, cặp da. Hùng nhìn họ và thấy một nhịp sống có tổ chức — không vội vì hoảng, mà vội vì có lịch trình.
+Hùng không hỏi thêm. Ông hiểu: chất lượng khuôn không nằm ở máy móc, mà nằm ở người đứng trước máy. Và người thợ già kia đã đứng đó hơn bốn thập kỷ.
 
-\*\*\*
+Sato dẫn Hùng đi tiếp, đến một cửa hàng phụ tùng xe máy ở khu phố cũ Osaka. Nơi này bán đủ thứ: bugi, xích, nhông, đĩa, má phanh, bộ chế hòa khí, ống xả, đề, bình ắc quy. Hàng hóa xếp trên kệ sắt, theo từng chủng loại, có nhãn giá rõ ràng. Chủ cửa hàng — một phụ nữ trạc năm mươi — đang bấm máy tính trên quầy.
 
-Ngày thứ hai, ông gặp lại Quang — không phải để dịch, mà để hỏi chuyện riêng. Họ ngồi ở ghế đá công viên Ueno. Hoa anh đào đã tàn gần hết, cánh hồng rụng đầy lối đi.
+Hùng đi dọc dãy kệ, cầm từng món lên xem, nhìn giá, so sánh chủng loại. Ông dừng lại trước một kệ bugi NGK — những cái bugi nhỏ xíu, đầu mạ đồng, thân sứ trắng. Ở Việt Nam, một cái bugi Nhật bán với giá gấp ba lần giá niêm yết trên kệ này.
 
-"Nhớ nhà không?" Hùng hỏi.
+— Ở Việt Nam, một cái bugi Nhật bán với giá gấp ba lần giá này. — Hùng nói.
 
-Quang cười. Một nụ cười ngắn. "Có những thứ nhớ. Có những thứ quen rồi."
+— Vì phải qua trung gian. — Sato đáp. — Nếu ông nhập trực tiếp từ tôi, giá chỉ bằng một phần ba những gì ông thấy trên thị trường chợ đen.
 
-"Anh nghĩ gì về người Nhật?"
+— Ông có thể cung cấp phụ tùng cho tôi?
 
-"Người Nhật sống bằng lịch trình, không phải bằng cảm xúc. Họ hẹn ba giờ là ba giờ, không phải ba giờ 'tầm'. Trong công việc họ dễ đoán — khó chịu vì dễ đoán, nhưng an toàn vì dễ đoán. Nếu họ hứa, họ làm. Nếu không làm được, họ nói trước."
+— Nếu ông mua khuôn của tôi, tôi có thể.
 
-"Về Việt Nam, anh có muốn không?"
+Hùng dừng lại trước một kệ bugi. Ông nhẩm tính: bugi Nhật trên thị trường Việt Nam lúc đó giá khoảng 15.000 đồng một cái, trong khi hàng Trung Quốc chỉ 3.000. Nhưng bugi Trung Quốc chạy được hai tháng là hỏng. Bugi Nhật chạy được một năm. Khách hàng của ông — những người mua xe Thương Gia — xứng đáng có cái bugi tốt.
 
-Quang im lặng lâu. "Có. Nhưng phải đúng việc. Không phải về vì nhớ, mà vì có chỗ đứng."
+— Tôi sẽ mua khuôn. — Hùng nói. — Và tôi muốn đặt một lô phụ tùng đầu tiên. Bugi, xích, nhông, má phanh. Đủ cho trăm xe.
 
-Hùng gật. Câu trả lời giống điều ông tự rút ra sau hai mươi năm làm buôn bán: người ta giữ lời hay không không phải vì đạo đức, mà vì họ có hệ thống để nhớ và chịu trách nhiệm.
+— Ông có tiền không?
 
-\*\*\*
+— Có.
 
-Tối ngày thứ hai, Hùng gọi về nhà. Lan bắt máy trước.
+— Bao nhiêu?
 
-"Ba, hồ sơ mình gửi sang Singapore họ chấp nhận rồi. Mai ký."
+— Mười lăm nghìn đô.
 
-"Tốt. Nhưng nhớ kiểm tra chữ ký người ta trước khi đặt bút mình."
+Sato im lặng. Ông nhìn Hùng một lúc, rồi nói:
 
-"Ba, bên đó có gì vui không?"
+— Mười lăm nghìn là tiền khuôn. Phụ tùng là một hóa đơn khác.
 
-Hùng nhìn qua cửa sổ. Tokyo đêm, đèn đường vàng. "Chưa vui. Nhưng đang đúng hướng."
+— Tôi biết. Tôi đang tính tổng.
 
-"Bên đó lạnh không ba?"
+Sato quay người, đi tiếp dọc dãy kệ. Hùng đi theo. Hai người không nói gì thêm về chuyện tiền nong — cái bắt tay hồi đầu năm đã thiết lập mối quan hệ. Bây giờ chỉ còn chi tiết.
 
-"Có hơi lạnh. Nhưng phòng có máy sưởi."
+***
 
-"Mai ba mặc thêm áo nhé."
+Tối hôm đó, Hùng ngồi trong phòng khách sạn nhỏ ở Osaka — căn phòng chỉ rộng chín mét vuông, nhưng sạch sẽ và ấm cúng. Ông bật đèn bàn — một cái đèn nhỏ, ánh sáng vàng dịu — mở sổ tay, đọc lại những gì đã ghi trong ngày.
 
-"Ừ. Con ngủ sớm."
+Ông viết thêm:
 
-Lan cười nhẹ. "Ba nói con ngủ sớm, mà ba thì thức khuya viết sổ."
+"Khuôn đầu: 4.200 USD — Sato thiết kế lại 3 chỗ (bo đầu, nắp xăng, gân gia cố). Đặt thêm 5 bộ nếu lô đầu chạy.
+Phụ tùng lô đầu: bugi NGK, xích DID, nhông đĩa, má phanh — tổng tạm tính 2.800 USD cho 100 xe.
+Vận chuyển: Osaka → Hải Phòng, 14 ngày. Cước container 20ft: 680 USD.
+Rãnh thoát khí — một chi tiết nhỏ, nhưng nếu không có, vỏ nhựa bị rỗ, hỏng cả lô."
 
-Hùng cũng cười. Đúng, ông sẽ thức. Còn bảng tính chi phí cần kiểm, còn dự thảo hợp đồng cần đọc lại, còn danh sách thiết bị cần tra từ điển.
+Ông gấp sổ, nhìn qua cửa sổ ra thành phố Osaka về đêm. Ánh đèn neon nhấp nháy từ các tòa nhà cao tầng. Xa xa, dòng sông Yodo lấp lánh dưới ánh trăng. Nhật Bản năm 1991, bong bóng tài sản đang vỡ — thị trường chứng khoán Nikkei mất hơn một nửa giá trị từ đỉnh. Nhưng Sato vẫn tồn tại, xưởng nhỏ vẫn chạy, người thợ già vẫn mài khuôn mỗi ngày.
 
-\*\*\*
+Hùng tự hỏi: "Bao giờ Việt Nam mới có những con đường thế này, những nhà máy thế này?" Nhưng câu hỏi đó không làm ông nản. Nó làm ông muốn quay về xưởng Gia Lâm nhanh hơn.
 
-Ngày thứ ba, Tanaka gọi. "Tôi đã nói với hội đồng quản trị. Chúng tôi chấp nhận đề xuất của ông. Ba bước như ông viết."
+Sáng hôm sau, trước khi ra sân bay về Hà Nội, Hùng ghé qua xưởng của Sato lần cuối. Bộ khuôn đã được đóng trong thùng gỗ, niêm phong cẩn thận. Sato đưa cho Hùng một phong bì nhỏ, bên trong là tấm danh thiếp của người thợ già — tên ông ấy là Tanaka Hajime, dòng chữ "Thợ khuôn bậc cao — 45 năm kinh nghiệm" được in bằng tiếng Nhật và tiếng Anh.
 
-Hùng không reo lên. "Vậy bước một bắt đầu khi nào?"
+— Nếu khuôn có vấn đề, gọi cho Tanaka trước. Gọi cho tôi sau.
 
-"Kỹ sư của tôi sẽ sang Việt Nam trong hai tuần nữa. Ông cần chuẩn bị mặt bằng."
+— Tôi nhớ.
 
-"Có sẵn rồi."
+Hùng bắt tay Sato, rồi bước lên taxi. Trên đường ra sân bay, ông nhìn ra ngoài — những dãy nhà máy nối tiếp nhau dọc đường cao tốc, những biển hiệu tiếng Nhật, những cần cẩu vươn cao. Ông nhắm mắt lại, thấy trong đầu hình ảnh một nhà máy của riêng mình, nằm giữa cánh đồng lúa, với những con người Việt Nam đang làm việc.
 
-Tanaka im lặng. "Tôi đã làm việc với các công ty châu Á hai mươi năm. Có người nói 'có sẵn' nhưng khi tôi đến, vẫn là nền đất."
+***
 
-"Tôi không mời ông đến để ông thấy nền đất."
+Về đến Hà Nội năm ngày sau, thùng khuôn đã chờ sẵn ở cảng Hải Phòng. Hùng tự lái xe xuống cảng — chiếc xe tải nhỏ Thương Gia, vẫn còn mùi sơn mới. Làm thủ tục nhận hàng. Thùng gỗ nặng gần hai tạ, phải thuê ba người khuân vác mới lên được xe tải.
 
-Một thoáng im lặng. Hùng nghe thấy một âm thanh rất nhỏ — có thể là Tanaka cười, có thể là ông ta thở dài.
+Trên đường từ Hải Phòng về Hà Nội, Lan ngồi sau xe tải, tay giữ thùng khuôn để nó khỏi xê dịch. Đường xóc, ổ gà liên tiếp. Nhưng cô không rời tay.
 
-\*\*\*
+Về đến xưởng Gia Lâm, Đức đã đợi sẵn từ chiều. Ông dùng xà beng cậy nắp thùng, từ từ, như đang mở một thứ gì đó quý giá hơn tiền. Lớp vải dầu bọc bên ngoài. Lớp xốp chống sốc. Rồi khối thép xám lộ ra dưới ánh đèn tuýp — bộ khuôn ép nhựa đầu tiên của Thương Gia, đánh bóng đến mức có thể thấy khuôn mặt mình phản chiếu trên mặt thép.
 
-Buổi chiều cuối cùng, họ ký thỏa thuận sơ bộ tại văn phòng Maruichi. Không pháo hoa. Không tiệc. Chỉ một cái bắt tay, một tách trà xanh, và một tập tài liệu dày hơn bản đầu tiên.
+Đức đặt tay lên khuôn, lướt nhẹ dọc theo bề mặt. Ông không nói gì, nhưng mắt ông sáng lên một thứ ánh sáng mà Hùng chưa từng thấy ở người đàn ông bốn mươi hai tuổi ấy. Bàn tay ông run nhẹ — không phải vì yếu, mà vì xúc động.
 
-Trước khi Hùng rời đi, Tanaka đưa cho ông một cuốn sổ tay bìa đen, loại kỹ sư Maruichi dùng hàng ngày. Trang đầu có một dòng chữ bằng tiếng Anh: "A thing done well is a thing done slowly. — Tanaka"
+— Ngày mai lắp vào máy ép. — Đức nói, giọng khàn. — Thử mẻ đầu.
 
-Hùng đọc, gập sổ, bỏ vào túi áo trong — ngang tim.
+— Được.
 
-"Cảm ơn."
+Hùng gật đầu. Ông biết đêm nay Đức sẽ không ngủ được. Và ông cũng vậy.
 
-Tanaka gật. Không cười. Trong văn hóa Nhật, cười sau khi ký hợp đồng không phải thói quen — việc chưa làm xong, cười là kiêu.
+Đêm hôm đó, Hùng ngồi ở bàn làm việc. Trước mặt là bản vẽ kỹ thuật của Sato — những đường nét chính xác, những con số mi-li-mét, những ghi chú bằng tiếng Nhật. Ông mở cuốn từ điển Anh-Nhật mỏng mua ở sân bay Osaka, tra từng từ. "Air vent — rãnh thoát khí." Ông gạch chân dưới dòng chữ đó.
 
-\*\*\*
-
-Trên đường ra sân bay Narita, Hùng ngồi ghế sau taxi, nhìn những tòa nhà lướt qua. Nhật Bản năm 1992 — đất nước vừa bước vào thập niên suy thoái, nhưng với mắt Hùng, nó vẫn là một pháo đài của sự chính xác.
-
-Ông mở sổ mới, viết trang đầu bằng bút mua ở Kanda:
-
-"Tokyo, tháng Tư 1992. Hợp tác kỹ thuật Nhật Bản — ký xong bước một.
-Bài học: Người ta tin vào hệ thống, không tin vào lời hứa suông.
-Minh sang Nhật tháng 6.
-Lan giữ xưởng.
-Trang bị đã đặt.
-...Hôm nay không ai bị bỏ lại."
-
-Ông gập sổ. Phần thưởng thật không phải dòng chữ hiện ra trong đầu, mà là cuốn sổ nằm trong túi áo, và bản hợp đồng đã ký, và hai tuần nữa một kỹ sư Nhật sẽ đặt chân đến Khu công nghiệp.
-
-Xe chạy qua cầu Rainbow, vịnh Tokyo trải dài bên trái. Hùng nhắm mắt, nghĩ về bát cháo năm 1988, mùi thuốc bệnh viện, bà Hà ngồi cạnh giường dù bác sĩ bảo về. Nếu có ai hỏi vì sao làm tất cả chuyện này, câu trả lời nằm gọn trong một hình ảnh: bà Hà ngồi cạnh giường, không nói gì, chỉ ngồi. Vì lúc đó ông hiểu: người ta chỉ thực sự thua khi không còn ai đợi ở nhà.
-
-\*\*\*
-
-Về đến nhà, mười giờ tối. Bà Hà vẫn thức. Mâm cơm đậy lồng bàn, canh nóng, cá kho còn ấm.
-
-"Anh ăn chưa?"
-
-"Chưa. Mà đói thật rồi."
-
-Ông ngồi xuống mâm. Bà Hà ngồi đối diện, gắp cho ông miếng cá.
-
-"May quá, em sợ anh không về kịp."
-
-"Kịp. Việc gì cũng có lúc kết thúc. Chỉ có về nhà là không nên trễ."
-
-Hùng ăn hết hai bát cơm, lên phòng viết nốt trang cuối sổ cái. Trước khi ngủ, ông kiểm tra lại bản ký phụ lục — từng con số phải rõ. Gian nhỏ nuôi hỏng lớn.
-
-Ngoài cửa sổ, Hà Nội đêm khuya, tiếng còi xe thỉnh thoảng vọng từ xa, thân thuộc hơn bất cứ điều gì ông thấy ở Tokyo. "Hợp tác kỹ thuật Nhật Bản" — chưa xong. Cái thực sự bắt đầu là khi kỹ sư Tanaka đặt chân đến xưởng, và Hùng đứng đó, nhìn xem ông ta có giữ lời như trong sổ không.
-
-Giữa đất nước đang đổi và một người đàn ông đã từng nằm viện ba tháng, lời hứa là thứ mong manh nhất — cũng là thứ duy nhất còn giá trị khi mọi thứ khác đã mất.
+Một ông già sáu mươi bảy tuổi ở Osaka, ngồi mài khuôn trong xưởng nhỏ dưới tầng hầm, đã dạy cho ông — một thương nhân Việt Nam mới làm xe — một bài học về chi tiết. Và bài học đó, Hùng biết, sẽ ở lại với ông mãi mãi.
 
 ============================================================
+
+
+Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơn gió lùa qua khe cửa, làm ngọn đèn dầu trên bàn lay nhẹ rồi đứng yên trở lại. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu. Bà Hà đã ngủ từ lâu, tiếng thở đều đặn vọng ra từ phòng trong, nhẹ như gió qua mành. Hùng đứng dậy, vươn vai, xương sống kêu nhẹ một tiếng — tuổi tác đã bắt đầu lên tiếng. Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen.
+
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loay hoay ngoài bếp với nồi cháo. Tiếng nước sôi lục bục, tiếng dao thớt đều đặn trên thớt gỗ, mùi gừng thơm từ gian bếp tỏa ra — những âm thanh và mùi vị quen thuộc của một buổi sáng ở căn nhà Quốc Oai. Hùng mở cuốn sổ, viết nhanh vài dòng về những việc cần làm trong ngày. Bà Hà mang ra bát cháo, đặt trước mặt ông, nhìn ông một lúc rồi quay vào. Bà không hỏi ông hôm nay làm gì. Như đã lâu, bà không hỏi, vì biết ông sẽ tự làm những việc cần làm, đúng giờ và đúng mức.
+
+
+Giữa buổi, một người khách đến — một người đàn ông trung niên, mặc áo sơ mi trắng đã ngả màu, tay cầm chiếc cặp da cũ. Ông ta tự giới thiệu là từ một huyện lân cận, nghe tiếng Hùng làm ăn có uy tín nên muốn hợp tác. Hùng mời ngồi, rót nước, không vội nói chuyện làm ăn. Ông hỏi thăm gia đình, hỏi thăm con cái, hỏi thăm tình hình sản xuất ở huyện. Phải mười lăm phút sau, khi thấy người khách đã thoải mái, Hùng mới bắt đầu vào việc. Ông hỏi chi tiết về mặt hàng, về nguồn vốn, về kinh nghiệm buôn bán của người kia. Mỗi câu hỏi đều khiến người khách suy nghĩ một lúc trước khi trả lời. Cuối cùng, Hùng gật đầu không hứa hẹn: "Để tôi suy nghĩ thêm vài hôm, rồi cho anh câu trả lời." Người khách ra về, Hùng viết vào sổ một câu: "Cơ hội mới. Cần kiểm chứng."
+
+
+Buổi trưa, Hùng đi một vòng quanh khu vực. Ông đi bộ, không xe — thói quen từ ngày còn bán rong, khi mỗi bước chân là một lần quan sát. Ông nhìn những căn nhà mọc lên, những con đường mới mở, những dòng người đi lại tấp nập hơn so với năm ngoái. Một quán cơm mới mở ở góc đường, một cửa hàng sửa xe mới dựng mái tôn, một vài người bán hàng rong mới — tất cả đều là tín hiệu của một vùng đang phát triển. Hùng dừng lại ở một quán nước, gọi ly chè đậu đen, ngồi nhìn ra đường. Ông không mua bán gì trong buổi đi dạo này. Nhưng ông học được nhiều hơn từ những quan sát đó so với đọc một bản báo cáo thị trường.
+
 「Hệ thống — GHI NHẬN ch.161」
 Năm: 1992
-Tổng EXP: 25,800 (+300 nhịp này)
-Không gian kho: 8,600m² (+100m²)
-Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
-Kỹ năng mới: Sản xuất ô tô lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Tổng EXP: 25,260 (+360 nhịp này — hợp tác kỹ thuật quốc tế)
+Không gian kho: 8,600m² (+240m²)
+Kỹ năng trọng yếu: Logistics lv3, Cơ khí lv1, Ngoại giao kinh tế lv2 (thăng cấp)
+Ghi chú: Khuôn ép nhựa từ Nhật (Sato — Maruzen Shokai) đã về tới xưởng. Quan hệ Sato-Hùng mở rộng sang hợp tác kỹ thuật.
+Teaser: Rãnh thoát khí — một chi tiết nhỏ trên khuôn ép. Nhưng nếu không có nó, tất cả vỏ xe Thương Gia sẽ bị rỗ bề mặt. Hùng không bao giờ quên điều đó.
 ============================================================

@@ -2,186 +2,241 @@
 Chương 337: Trí tuệ và hệ thống
 ============================================================
 
-Sáng 2018 ở Hà Đông. Mùi cơm rang và một việc tên “Trí tuệ và hệ thống".
+Hà Nội, tháng Sáu năm 2018. Một năm kể từ khi bắt đầu cuộc chiến với tập đoàn bóng tối. Mùa hè năm nay không khắc nghiệt như năm ngoái — những cơn mưa rào đến sớm, gội sạch bụi bặm trên những tán cây sấu già phố Phan Đình Phùng, mang theo hương ẩm của đất và của cỏ dại mọc hoang dọc đường tàu. Hoa phượng nở đỏ rực một góc trời, báo hiệu mùa thi, mùa chia tay, mùa của những thay đổi.
 
-Thế hệ sau muốn tốc độ; thế hệ trước muốn không vỡ chữ tín.
+Hùng ngồi trong phòng làm việc, mở cuốn sổ ghi chép từng ngày. Ông lật lại từ đầu năm 2017 — mười tám tháng của những cuộc gặp, những lo âu, những quyết định căng thẳng.
 
-Không khí Hà Đông đặc: ẩm, bụi, và nhịp người tất bật.
+Lúc ấy, tháng Mười hai năm 2017.
 
-Năm 2018, tại Hà Đông. Việc “Trí tuệ và hệ thống” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+Sau chiến thắng tạm thời tại đại hội cổ đông bất thường tháng Tám — khi tờ trình phát hành thêm cổ phiếu được thông qua với tỷ lệ ủng hộ 67% — cuộc chiến không kết thúc. Nó chỉ chuyển từ mặt trận công khai sang mặt trận ngầm.
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+First Capital Partners — qua các lớp trung gian — vẫn tiếp tục mua cổ phiếu trên sàn. Giá Thương Gia bị đẩy lên từ 42 lên 61 chỉ trong ba tháng. Những cổ đông nhỏ dao động bắt đầu bán ra. Bọn họ hấp thụ hết. Họ dùng margin, dùng vốn vay từ SHB Hải Phòng, dùng mọi kênh huy động có thể.
 
-“chất lượng lô hàng" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+Hùng hiểu: đây là cuộc chiến tiêu hao. Ai trụ được lâu hơn — người đó thắng.
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+Nhưng có một điều khiến Hùng trăn trở: làm thế nào để chặn một cuộc thôn tính không chỉ bằng tiền, mà bằng một thứ bền vững hơn?
 
-Chiều, “Trí tuệ và hệ thống” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+Câu trả lời đến từ một người không ngờ nhất — Sơn, trưởng phòng IT.
 
-"Về nhà ăn chưa?"
+"Mười lăm phẩy một phần trăm — đó là tỷ lệ của First Capital Partners sau đợt pha loãng. Cộng với các đồng minh — các cổ đông nhỏ mà họ đã mua được — tổng cộng họ có khoảng 18%."
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+Hùng ngồi xuống ghế. Con số đó đã tăng so với tháng Bảy năm ngoái.
 
-"chất lượng lô hàng đang đứng ngay cửa," Trần Thị Lan nói nhỏ.
+"Sao lại tăng? Lẽ ra pha loãng phải giảm tỷ lệ của họ xuống?"
 
-"Nhìn thẳng và ghi rõ. Né thì mất cửa, xông không sổ thì mất người."
+"Phải, nhưng họ vẫn mua thêm. Họ dùng margin — vay ký quỹ từ công ty chứng khoán — dùng vốn vay từ SHB qua các công ty ma, dùng mọi kênh có thể. Họ muốn đạt 25% trước đại hội cổ đông thường niên năm 2018. Với 25%, họ có thể phủ quyết mọi nghị quyết của hội đồng quản trị, bao gồm cả việc bầu lại ban lãnh đạo."
 
-"Việc 'Trí tuệ và hệ thống' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+Hùng nhìn Sơn. Thằng bé có một ánh mắt khác thường hôm nay — không chỉ là lo lắng, mà là một thứ gì đó sắp nói.
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+"Sếp, em có một ý. Hơi liều."
 
-Trưa, ông ăn cơm nhà mang theo. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+"Nói đi."
 
-Chiều, hướng “Trí tuệ và hệ thống" nhích thêm bằng biên bản. Không pháo hoa.
+Sơn mở laptop, chiếu lên màn hình lớn một sơ đồ dòng tiền mà cậu đã vẽ từ hai tuần trước — một mạng lưới phức tạp gồm các mũi tên, các ô vuông đại diện cho các công ty, các con số bên cạnh.
 
-Đêm, điện thoại để im. Ông dành vài phút cho người còn chờ — không cho bảng số.
+"Bọn họ đang dùng vốn vay để mua cổ phiếu. Cụ thể, họ vay từ SHB Hải Phòng — với tài sản thế chấp là chính cổ phiếu Thương Gia mà họ mua. Đây là vòng lặp: vay để mua, mua xong thế chấp để vay tiếp, vay tiếp để mua thêm. Nếu giá cổ phiếu giảm mạnh — giả sử 30% — họ sẽ bị gọi ký quỹ, margin call, từ công ty chứng khoán và ngân hàng. Họ buộc phải bán ra để trả nợ."
 
-Họ nói về “Trí tuệ và hệ thống” ngắn. Cười một cái. Im một cái. Sự bình thường, với ông, hiếm hơn danh hiệu.
+"Ý cậu là tôi phải làm giá cổ phiếu giảm?"
 
-Sổ tay khép lại bằng một dòng cầu nối, không bằng khẩu hiệu.
+"Không. Em nói 'nếu'." Sơn nhấn mạnh. "Nếu từ bây giờ, Thương Gia tung ra một loạt thông tin khiến thị trường lo lắng — không phải tin xấu thật, nhưng tin làm giá giảm tạm thời — thì bọn họ sẽ gặp áp lực margin. Họ vay margin. Họ sẽ không trụ được khi giá giảm 30%."
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+"Tin gì, cho ví dụ?"
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+"Chẳng hạn: dừng cổ tức năm nay, tái đầu tư toàn bộ lợi nhuận vào dây chuyền sản xuất mới. Hoặc chậm tiến độ dự án nhà máy ở Nghệ An. Hoặc thay đổi nhân sự cấp cao — thông báo phó tổng giám đốc tài chính từ nhiệm."
 
-Cảm xúc hôm nay nghiêng về “kiên định sứ mệnh". Ông không giấu, cũng không để cảm xúc ký thay mình.
+"Từ nhiệm thật hay giả?"
 
-Cuối buổi, “Trí tuệ và hệ thống" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+"Thật. Nếu chị Lan chấp nhận tạm thời mất một nhân sự. Nhưng đó là thông tin đủ để thị trường lo lắng."
 
-Ch. 337: phần thưởng chỉ thật khi khách không trả hàng.
+"Mấy cái đó đều có thật không?"
 
-Ở góc nhìn người làm thuê, “Trí tuệ và hệ thống” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Có thật. Dừng cổ tức một năm để tái đầu tư là một quyết định kinh doanh hợp lý — nhiều công ty làm. Chậm tiến độ nhà máy cũng có thể giải thích được. Nhưng thị trường sẽ hoảng. Và khi thị trường hoảng, giá giảm. Bọn họ sẽ bị margin call."
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Hùng ngồi yên. Một trận mưa rào bất chợt đổ xuống bên ngoài — những hạt mưa to, nặng, đập vào cửa kính tách tách. Ông nhìn qua làn nước chảy, thấy phố Tràng Tiền nhòe đi, người đi đường vội vã tìm chỗ trú dưới mái hiên.
 
-Không ai hoàn hảo trong “Trí tuệ và hệ thống". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+"Làm vậy có sạch không?" Hùng hỏi.
 
-Từ thiện có ảnh — ông vẫn kiểm bằng việc tới tay người.
+Sơn im lặng. Đó là câu hỏi khó hơn tất cả những tính toán kỹ thuật. Là câu hỏi về ranh giới giữa chiến thuật và đạo đức.
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Trí tuệ và hệ thống" không đổ.
+"Không sạch," Sơn nói sau một lúc. "Nhưng sạch hơn việc để bọn họ tháo dỡ Thương Gia từng mảnh. Ít nhất, nếu chúng ta thắng, Thương Gia còn nguyên vẹn cho hai mươi nghìn người lao động."
 
-Trên đường quanh Hà Đông, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Hùng gật đầu. "Để tôi nghĩ."
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+Buổi tối hôm đó, Hùng không ngủ được. Ông ra vườn sau, ngồi dưới gốc bưởi già — cây bưởi mẹ ông trồng từ những năm 1980, thân đã xù xì, rễ nổi trên mặt đất như những mạch máu già cỗi. Trăng thượng tuần, sáng vằng vặc, soi rõ từng chiếc lá, từng cái bóng.
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+Ông ngồi một mình dưới trăng và suy nghĩ về một câu hỏi: một người có thể đánh bại kẻ xấu bằng cách sử dụng chính thủ đoạn của chúng không? Hay chiến thắng đó sẽ để lại một vết bẩn không bao giờ rửa sạch?
 
-Ông chủ động gặp người khó tính nhất quanh “Trí tuệ và hệ thống". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+Điện thoại reng. Sơn gọi.
 
-Một chi tiết năm 2018: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Sếp, em xin lỗi vì gọi muộn. Nhưng em vừa phát hiện ra một chuyện."
 
-Sổ “Trí tuệ và hệ thống" đánh dấu bút chì — có thể lùi.
+"Nói đi."
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+"First Capital Partners vừa chuyển thêm 5 triệu đô la Mỹ vào tài khoản của CTCP Đầu tư Phương Đông ở SHB Hải Phòng. Nguồn tiền: một quỹ đầu tư có trụ sở tại Hong Kong, tên là Golden Bridge Capital."
 
-Hai người tốt bất đồng cách làm “Trí tuệ và hệ thống". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+"Quỹ đó có vấn đề?"
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+"Không hẳn — về mặt pháp lý thì sạch. Nhưng em check thêm — trên trang web của Cơ quan Quản lý Doanh nghiệp Hong Kong — thành viên hội đồng quản trị của Golden Bridge Capital có một người là cựu quan chức ngân hàng trung ương Việt Nam, đã nghỉ hưu năm 2015. Và người này là anh ruột của Nguyễn Hữu Tuấn."
 
-Màn hình sáng, số liệu nhiều, việc thật vẫn phải đi chân.
+Hùng siết chặt điện thoại. Một mảnh ghép nữa vừa khớp — nhưng lần này, nó đụng đến một ranh giới khác.
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+"Tuấn có anh ruột ở ngân hàng trung ương?"
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+"Chính xác. Ông Nguyễn Hữu Thành — nguyên vụ trưởng Vụ Tín dụng, về hưu năm 2015. Khi còn đương chức, ông Thành là người tham gia soạn thảo nhiều thông tư về tín dụng ngân hàng, bao gồm các quy định về cho vay đầu tư chứng khoán."
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+Hùng thở ra một hơi dài. Bức tranh bắt đầu rõ ràng hơn. Lương Thế Huy — kẻ tiền án, làm vỏ bọc. Nguyễn Hữu Tuấn — cựu phó tổng SHB, điều hành từ Singapore. Ông Nguyễn Hữu Thành — anh trai Tuấn, cựu vụ trưởng Vụ Tín dụng NHNN, người từng viết luật về cho vay đầu tư. Và chiếc xe biển 80 — Thanh tra NHNN — đã xuất hiện trong cuộc gặp với Lương Thế Huy.
 
-Tin lan nhanh hơn báo cáo nội bộ.
+Đây không chỉ là một âm mưu thôn tính tập đoàn gia đình. Nó là cả một hệ thống — một mạng lưới quan hệ được xây dựng trong nhiều thập kỷ, kết nối giới ngân hàng, giới tội phạm, và giới đầu tư quốc tế.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên đúng hạn, và nói thẳng chỗ sẽ đau.
+Cuộc chiến này, Hùng nhận ra, không chỉ là vì Thương Gia. Nó là vì một hệ thống cho phép những điều như thế này xảy ra.
 
-Họp trực tuyến xong, hiện trường vẫn là chỗ quyết định.
+"Sơn."
 
-Hùng chấp nhận chất lượng lô hàng là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Dạ?"
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Trí tuệ và hệ thống" mà không vứt lại?
+"Chiến thuật của cậu — tôi sẽ dùng. Nhưng không phải để đánh họ. Để lộ họ ra ánh sáng."
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Sao cơ?"
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+"Thay vì làm giá giảm bằng tin xấu — mình sẽ làm ngược lại. Công bố tất cả thông tin về đợt tái đầu tư, kế hoạch kinh doanh, và chiến lược dài hạn của Thương Gia một cách minh bạch. Để thị trường thấy Thương Gia không có gì phải giấu, ban lãnh đạo vững vàng. Để những cổ đông nhỏ không hoảng loạn bán tháo. Để bọn họ không thể lợi dụng biến động giá để mua thêm với giá rẻ."
 
-Sổ nằm dưới gối. Ông cười thói quen sợ quên, rồi ngủ thật.
+"Nhưng nếu làm vậy, chúng ta không chặn được margin call của họ. Họ vẫn có thể tiếp tục vay và mua."
 
-Đèn tắt. “Trí tuệ và hệ thống" chưa xong cả đời — chỉ xong một ngày đủ để mai còn mở cửa.
+"Chưa cần chặn margin call. Tôi muốn kéo dài thời gian. Cho đến khi chúng ta có đủ bằng chứng để đưa vụ việc ra cơ quan điều tra."
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+"Mất bao lâu?"
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+"Có thể sáu tháng. Có thể một năm."
 
-Một chi tiết năm 2018: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Sơn im lặng. "Một năm nữa họ có thể nắm 30%."
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Trí tuệ và hệ thống" mà không vứt lại?
+"Thì để họ nắm 30%. Nhưng nếu họ nắm 30% bằng tiền vay — và khi giá cổ phiếu sụp vì một cuộc điều tra chính thức từ phía cơ quan công an — thì bọn họ sẽ mất tất cả. Margin call hàng loạt. Không chỉ mất cổ phiếu — họ mất luôn cả tài sản thế chấp."
 
-Cuối buổi, “Trí tuệ và hệ thống" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+Đó là nước cờ cuối cùng. Hùng không đánh bằng tiền. Ông đánh bằng luật pháp, thời gian, và sự kiên nhẫn.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Chín tháng sau, kế hoạch của Hùng bắt đầu đơm hoa kết trái.
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Trí tuệ và hệ thống" mà không vứt lại?
+Tháng Ba năm 2018, một bài báo trên tờ Đầu Tư đặt câu hỏi về hoạt động của First Capital Partners tại Việt Nam — tập trung vào ba thương vụ thâu tóm doanh nghiệp gia đình ở Indonesia và Philippines. Bài báo được viết bởi một nhà báo tự do — người Hùng quen qua Dũng — và được đăng tải đúng vào thời điểm Ủy ban Chứng khoán Nhà nước đang rà soát các giao dịch bất thường trên thị trường.
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Tháng Tư, một số cổ đông nhỏ của Thương Gia — dẫn đầu là bà Hạnh và nhóm 32 người — gửi đơn kiến nghị lên Ủy ban Chứng khoán Nhà nước, yêu cầu làm rõ việc sở hữu cổ phần qua các công ty ma. Những lá đơn do chính tay bà Hạnh soạn, viết tay, nêu rõ tên ba công ty, địa chỉ, người đại diện. Mỗi lá đơn đều có chữ ký của hai, ba cổ đông.
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+Tháng Năm, SHB Hải Phòng bị Thanh tra Ngân hàng Nhà nước kiểm tra đột xuất. Một giao dịch viên — Hoàng Văn Nam, người từng là thư ký của Nguyễn Hữu Tuấn — bị đình chỉ công tác để phục vụ điều tra.
 
-Trên đường quanh Hà Đông, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Đầu tháng Sáu, Nguyễn Hữu Tuấn bị tạm hoãn xuất cảnh.
 
-Trên đường quanh Hà Đông, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Hùng đọc tin đó trên báo điện tử Kinh tế & Đầu tư, trong phòng khách nhà mình, lúc sáu giờ sáng. Trời vừa hửng sáng, một tia nắng mỏng xuyên qua kẽ lá cây bưởi, chiếu lên mặt bàn gỗ nơi cuốn sổ ghi chép của ông nội năm 1945 đang mở.
 
-Ch. 337: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+Hùng đọc lại câu cuối cùng của cuốn sổ — nét chữ của ông nội viết trước khi mất, năm 1945, năm đói kém, năm đất nước chuyển mình:
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+*"Có chết đói mới biết hạt thóc không phải của riêng ai."*
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Trí tuệ và hệ thống" mà không vứt lại?
+Hùng gấp tờ báo, đặt cạnh cuốn sổ. Hướng gió đã đổi.
 
-Sổ “Trí tuệ và hệ thống" đánh dấu đỏ — chết người nếu trễ.
+Chiều hôm đó, trời Hà Nội đổ mưa rào bất chợt — cơn mưa đầu hè, ồn ào, ào ạt, rửa trôi bụi bặm của những ngày nóng nực. Hùng ngồi trong phòng, gọi Lan lên. Hai người ngồi đối diện, giữa họ là tập tài liệu dày về First Capital Partners — những trang sao kê ngân hàng, báo cáo điều tra, bản fax nặc danh đã khởi đầu tất cả, và bức ảnh chụp chiếc xe biển 80.
 
-Cuối buổi, “Trí tuệ và hệ thống" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+"Em có nhớ cái ngày mình gặp nhau ở xưởng Hà Đông không?" Hùng hỏi, giọng trầm. "Năm 1985."
 
-Ch. 337: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+Lan ngạc nhiên. Lâu lắm Hùng mới nhắc lại chuyện cũ.
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+"Nhớ. Hôm đó mưa — mưa như trút nước. Anh mặc áo mưa cũ, ướt hết lưng, đứng ở cửa xưởng, rút trong túi ra một cái bánh mì — 'Ăn đi, em chưa ăn sáng.'"
 
-Trên đường quanh Hà Đông, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Hùng cười. "Ừ. Lúc ấy mình không có gì. Chỉ có hai bàn tay, cái máy may hiệu Singer mua trả góp, và mấy cuộn vải thừa."
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+"Anh muốn nói gì?"
 
-Cuối buổi, “Trí tuệ và hệ thống" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+Hùng đẩy xấp tài liệu về phía Lan.
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
+"Cuộc chiến này không phải cuộc chiến của mình. Nó là cuộc chiến của cái hệ thống đã sinh ra bọn họ. Cái hệ thống cho phép một kẻ như Tuấn — từng làm ngân hàng, từng biết luật, từng có anh trai trong ngân hàng trung ương — lách luật để nuốt doanh nghiệp của người khác. Họ có tiền, có quan hệ, có luật sư, có cả người trong hệ thống thanh tra."
 
-Một chi tiết năm 2018: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Nhưng họ không có ba mươi lăm năm." Lan nói. "Ba mươi lăm năm của Thương Gia — những mối quan hệ, lòng tin, uy tín — không thể mua bằng tiền."
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+Hùng nhìn vợ. Trong mưa chiều, dưới ánh đèn vàng, Lan vẫn là người đàn bà năm ấy — với cái nhìn không bao giờ lùi bước, dù đã năm mươi tuổi.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên chất lượng, và nói thẳng chỗ sẽ đau.
+"Phải. Ba mươi lăm năm không thể mua bằng tiền."
 
-Cuối buổi, “Trí tuệ và hệ thống" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Có một chuyện em muốn nói với anh," Lan nói, giọng đột nhiên nghiêm túc hơn.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Chuyện gì?"
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Huy xin em cho nó tham gia vụ này."
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng nhướng mày. "Nó biết rồi?"
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 33 gắn với bác sĩ Tuấn: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em nói một phần. Nó biết có nhóm đang muốn thâu tóm Thương Gia. Nó hỏi em: 'Mẹ cần con giúp gì không?'"
 
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 34 gắn với Klaus: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em nói sao?"
 
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Lan cười. "Em nói: học cho tốt đã."
 
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Đúng. Nó còn non. Nhưng..." Hùng dừng lại, suy nghĩ. "Cho nó biết một góc cũng tốt. Để nó hiểu thương trường không phải lúc nào cũng sạch sẽ."
 
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em sẽ nghĩ cách. Có thể cho nó đi cùng vài cuộc họp với luật sư."
 
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 38 gắn với bác sĩ Tuấn: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Được. Nhưng đừng để nó tham gia sâu. Nó còn thời gian để học — không cần phải vào vũng bùn ngay từ đầu."
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 39 gắn với Klaus: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông cầm bút, mở sổ, viết nhanh mấy dòng:
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+*"Tháng Sáu 2018. Cuộc đấu đã chuyển sang vòng cuối. Bọn họ đã lộ hết mặt nạ. Cổ đông nhỏ đã chọn phe. Luật pháp đã vào cuộc. Không còn gì để giấu. Chỉ còn chờ: ai xuống tay trước, và ai xuống tay trúng."*
 
-Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Trí tuệ và hệ thống" năm 2018 tại Hà Đông, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+Sáng hôm sau, Hùng dậy từ năm giờ sáng. Ông không tập thể dục, không uống cà phê. Ông đi bộ ra chợ Đồng Xuân — khu chợ cũ nơi ông từng đạp xe chở vải bán từ năm 1985. Ngày ấy, mặt trời mọc lúc năm giờ rưỡi, ông có mặt ở chợ từ bốn giờ, xếp hàng chờ đến lượt bày hàng.
 
+Ngày nay, chợ Đồng Xuân đã khác. Hàng hóa Trung Quốc tràn ngập, người bán ít đi, nhưng mùi vải, mùi cá khô, mùi gia vị vẫn còn. Cái Hà Nội cũ vẫn còn — trong hơi thở của những người lao động dậy từ năm giờ sáng.
 
-Kết thúc đoạn này, “Trí tuệ và hệ thống" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng đứng ở cổng chợ, nhìn những gương mặt người bán hàng — đàn bà đội nón lá, đàn ông cởi trần vác bao tải, trẻ con ngồi co ro bên sạp hàng. Họ không biết ông là ai. Họ không cần biết. Họ đến chợ như một nghi thức — giống như ba mươi lăm năm trước, ông cũng từng đến chợ như thế.
+
+Một bà lão ngồi ở sạp rau gần nhất — mặt khắc khổ, tay khô ráp, tóc bạc hết — ngước lên nhìn Hùng. Bà cười, nụ cười móm mém, để lộ hàm răng đen nhánh vì trầu:
+
+"Ông mua rau không?"
+
+"Không, tôi đi dạo."
+
+"Ờ. Đi dạo sớm thế. Chắc ông cũng từng bán hàng ở đây hả?"
+
+"Sao bà biết?"
+
+Bà lão cười. "Mắt ông nhìn sạp hàng. Chỉ người từng bán mới nhìn như thế. Người đi chợ mua đồ, họ nhìn vào rau. Người từng bán, họ nhìn vào cách xếp hàng."
+
+Hùng không trả lời. Ông móc túi, mua của bà một mớ rau muống — năm nghìn đồng, một mớ rau xanh mướt, còn đọng sương đêm. Trả tiền xong, ông cất rau vào túi ni lông, đi tiếp.
+
+Đến cuối con đường chợ, trước khi ra ngõ, ông ngoảnh lại nhìn một lần cuối. Bà lão bán rau đã quay sang khách khác — một người phụ nữ trẻ đang chọn rau.
+
+Chợ Đồng Xuân sáng nay như mọi ngày. Ồn ào, bụi bặm, mệt mỏi, nhưng sống động.
+
+Có những thứ không thể đánh cắp được. Một khu chợ là như thế. Một tập đoàn xây bằng ba mươi lăm năm mồ hôi cũng là như thế.
+
+Hùng ôm mớ rau, đứng thêm năm phút ở cổng chợ, nhìn một người đàn ông lom khom đẩy xe ba gác chở đầy vải — những cuộn vải xanh, đỏ, trắng — chầm chậm qua khu chợ đông đúc. Hình ảnh đó như một tấm gương phản chiếu ba mươi lăm năm trước. Cũng xe ba gác, cũng vải, cũng mồ hôi, cũng những bước chân nặng nhọc.
+
+Nhưng ngày ấy, ông chỉ có một xe vải. Một mình. Sáng bán, tối về đếm tiền.
+
+Bây giờ, ông có cả một tập đoàn. Nhưng những bước chân trở về — không biết có nhẹ hơn ngày xưa không.
+
+Ông xoay người, bước ra khỏi chợ, đi về phía bến xe buýt. Mớ rau muống còn đọng sương trong tay ông, lắc lư theo từng bước chân.
+
+Đến cuối con đường, ông gặp một thằng bé đang ngồi bán bánh mì — khoảng mười hai, mười ba — mặt lem luốc, tay lấm lem bột mì. Nó nhìn ông, cười.
+
+"Chú mua bánh mì không ạ? Nóng hổi, mới ra lò."
+
+Hùng nhìn thằng bé. Khuôn mặt đen nhẻm vì nắng, đôi mắt sáng, nụ cười vô tư của tuổi thơ mà ông đã không thấy từ lâu.
+
+Bao nhiêu năm rồi ông không thấy một nụ cười như thế?
+
+"Bao nhiêu một cái?"
+
+"Năm nghìn ạ."
+
+Hùng móc túi, đưa thằng bé mười nghìn, cầm một ổ bánh mì nóng hổi. Nó trả lại năm nghìn.
+
+"Cháu chỉ bán năm nghìn thôi ạ. Cảm ơn chú."
+
+Hùng nhìn nó một lúc. Rồi cười.
+
+"Chú cảm ơn cháu."
+
+Ông vừa đi vừa ăn bánh mì. Ổ bánh mì nóng, giòn, nhân đơn giản — chỉ có patê và một lát thịt nguội. Nhưng nó ngon hơn tất cả những bữa ăn ở nhà hàng năm sao.
+
+Có một sự thật mà Hùng nhận ra trong sáng nay: chiến thắng không làm nên con người. Chính những thứ giản dị, như một ổ bánh mì mua từ một thằng bé bán dạo, mới nhắc ông nhớ mình là ai.
+
+Ông về đến nhà lúc tám giờ sáng. Mở cửa, thấy Lan đang ngồi trong bếp, uống cà phê, đọc báo tài chính. Trên bàn, một bát phở nóng còn bốc khói.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.337」
@@ -189,5 +244,5 @@ Năm: 2018
 Tổng EXP: 85,200 (+600 nhịp này)
 Không gian kho: 48,640m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Ghi chú: Cuộc chiến chuyển từ tài chính sang pháp lý. Hùng chọn lộ trình minh bạch và điều tra chính thức. Nguyễn Hữu Tuấn bị tạm hoãn xuất cảnh, SHB Hải Phòng bị thanh tra. Phát hiện ông Nguyễn Hữu Thành — anh trai Tuấn — cựu Vụ trưởng Vụ Tín dụng NHNN. Làn sóng đang đảo chiều.
 ============================================================
