@@ -94,7 +94,7 @@ Hải hơi nhướng mày nhưng gật đầu. Cách trả lời cho thấy cô 
 
 Người thứ ba — cựu nhân viên hải quan — lên tiếng khi gần cuối buổi:
 
-— Cô Trần, tôi có một thông tin không chính thức. Mấy tháng trước, một công ty Trung Quốc bị FDA cảnh báo vì dư lượng thuốc bảo vệ thực vật trong hàng thực phẩm khô. Từ đó, mọi lô hàng từ châu Á đều bị soi kỹ hơn.
+— Cô Trần, tôi có một thông tin không chính thức. Mấy tháng trước, một công ty Trung Quốc bị FDA cảnh báo vì dư lượng thuốc bảo vệ thực vật trong hàng thực phẩm khô. Từ đó, mọi lô hàng từ châu Á đều bị soi kỹ hơn. Lô của họ bị giữ hai tuần, chi phí kiểm định phát sinh thêm bảy nghìn đô, và hợp đồng với ba đối tác Mỹ bị huỷ vì trễ hạn.
 
 — Công ty đó có tên không?
 
@@ -267,7 +267,14 @@ Cô viết vào cuối sổ một dòng, trước khi gập lại:
 "Lan đối mặt với áp lực Mỹ — đã ký. Chưa xong. Nhưng đã ký."
 
 ============================================================
-「Hệ thống — GHI NHẬN ch.147」
+
+Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1990 — được rồi.'
+
+
+Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1990 đã cho ông nhiều hơn ông tưởng. Ông gập sổ tay, đặt trên bàn, tắt đèn — ngày mai còn việc mới.
+
+
+1990. Buổi tối. Hùng về nhà, tắm rửa, ăn cơm với bà Hà. Canh rau muống, cá kho tộ, cơm trắng. Bà Hà hỏi thăm công ty, ông kể vắn tắt. Bà gật gù, không bình luận. Sau bữa, ông ra hiên, ngồi nhìn vườn rau. Trăng thượng tuần le lói sau đám mây. Ông viết vào sổ tay — chỉ một dòng: 'Ngày tốt. Ngày đáng nhớ.' Rồi gấp sổ, đi ngủ.「Hệ thống — GHI NHẬN ch.147」
 Năm: 1990
 Tổng EXP: 22,560 (+180 nhịp này)
 Không gian kho: 7,424m² (+72m²)

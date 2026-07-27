@@ -1,0 +1,281 @@
+============================================================
+Chương 167: Điện thoại Thương Gia thế hệ 2
+============================================================
+
+Khu chế xuất Jurong, Singapore, tháng Tư năm 1992.
+
+Hùng đứng trước một bảng mạch in — xanh, nhỏ, gân guốc như tấm bản đồ thu nhỏ. Trên bàn là ba mẫu điện thoại di động. Một của Motorola, to như cục gạch. Một của Nokia — model 1011 vừa ra mắt năm ngoái, vẫn còn to nhưng đã nhỏ hơn. Một của Thương Gia — gen 1, sản xuất thử năm 1991, chưa bao giờ xuất xưởng đại trà.
+
+Ông Tanaka, đối tác Nhật từ đầu năm, chỉ vào bảng mạch của Thương Gia:
+
+"Anh xem chỗ này. Linh kiện ghép thủ công quá nhiều. Sản xuất hàng loạt sẽ chết vì sai số."
+
+Hùng nhìn. Ông Tanaka nói đúng. Bảng mạch của Motorola và Nokia được đúc bằng máy, đường dẫn đồng đều, mối hàn chuẩn. Bảng mạch của Thương Gia — linh kiện xuyên lỗ, hàn tay ở những chỗ không có máy tự động, dây nối thừa được cắt bằng kéo chứ không phải dao khắc laser.
+
+"Không thể cạnh tranh nếu giữ cách này," ông Tanaka nói tiếp. "Điện thoại thế hệ một của anh ra mắt cũng được — nhưng sẽ chết về giá và độ bền. Lỗi mối hàn, linh kiện lỏng khi rung, pin kém vì không có mạch sạc ổn áp."
+
+Hùng không cãi. Ông đến Singapore vì điều này.
+
+"Ở Nhật, một dây chuyền SMT — Surface Mount Technology — giá hai trăm nghìn đô. Nhưng ở Singapore, có xưởng cho thuê giờ máy," ông Tanaka nói. "Tôi đã liên hệ với người quen. Anh muốn gặp không?"
+
+---
+
+Phòng họp của Jurong Electronics Services nằm ở tầng ba một tòa nhà trắng, nhìn ra nhà máy Philips bên kia đường. Không khí lạnh — điều hòa chạy số lớn, kiểu Singapore thích lạnh hơn Hà Nội.
+
+Tiếp họ là ông Lý Chấn Hưng, chủ xưởng, gốc Hoa, nói tiếng Anh pha tiếng Quảng Đông. Ông ta năm nay năm mươi lăm, đã làm hợp đồng lắp ráp cho Alcatel và Ericsson. Trên kệ trong phòng là mẫu điện thoại bàn, điện thoại di động và board mạch của các hãng lớn.
+
+"Thương Gia? Chưa nghe," ông Lý nói, không ý tứ. "Của Việt Nam?"
+
+Hùng đặt mẫu điện thoại gen 1 lên bàn.
+
+"Chúng tôi sản xuất xe máy, đồ điện gia dụng, và bước đầu làm điện thoại. Gen này do kỹ sư Việt Nam thiết kế, nhưng linh kiện ghép tay, như ông thấy."
+
+Ông Lý cầm lên xoay vài vòng. Đặt xuống.
+
+"Ra được sản phẩm là giỏi. Nhưng muốn gen 2 cạnh tranh — phải qua SMT, phải thiết kế lại board từ đầu, và phải chịu chi cho khuôn nhựa."
+
+"Bao nhiêu?" Hùng hỏi thẳng.
+
+"Ba mươi nghìn đô cho thiết kế lại board, chạy thử, và một trăm board mẫu SMT. Chưa tính vỏ nhựa — thêm mười lăm nghìn cho khuôn ép thử nghiệm. Nếu OK, đơn hàng sản xuất tối thiểu năm nghìn cái, giá từng cái thương lượng."
+
+Hùng không trả lời ngay. Ông nhìn ra cửa sổ. Nhà máy Philips bên kia đường — cửa kính trong suốt, công nhân mặc áo blouse trắng, đi chân đất trên sàn chống tĩnh điện. Việt Nam năm 1992, chưa có sàn chống tĩnh điện. Chưa có máy SMT. Chưa có kỹ sư chuyên về thiết kế RF.
+
+"Tôi cần xem xưởng của ông trước khi nói giá," Hùng đáp.
+
+Ông Lý nhướng mày — không phải vì bị thách thức, vì hiếm khi khách Việt Nam yêu cầu tham quan trước. "Sáng mai được không?"
+
+"Chiều nay."
+
+Ông Lý cười. Hẹn bốn giờ.
+
+---
+
+Ba giờ chiều, Hùng ngồi ở một quán cà phê gần Raffles Place. Singapore mùa này nóng nhưng khô — không như Sài Gòn ẩm ướt. Xe hơi chạy hàng dài, người đi bộ mặc comple đi giày đen, không ai mặc dép tổ ong ra đường. Vỉa hè sạch đến mức có thể ngồi xuống.
+
+Ông Tanaka ngồi đối diện, gọi hai ly cà phê đen. "Tôi biết chủ xưởng kia. Làm ăn được. Nhưng giá ông ta nói là giá có phòng. Có thể xuống hai mươi lăm nghìn nếu anh cam kết đơn hàng năm nghìn cái."
+
+"Tôi chưa thấy xưởng."
+
+"Ông ta cho thấy. Nhưng xưởng nào cũng giống nhau. Cái anh mua là thời gian — để khỏi mất hai năm mày mò thiết kế board. Hai năm đó, anh mở được mười showroom xe máy."
+
+"Tôi mở được," Hùng nói. "Nhờ tiền từ xe máy và đồ gia dụng. Mỗi tháng Thương Gia bỏ ra hai trăm triệu đồng chi phí. Nếu trả ba mươi nghìn đô cho board mẫu — bằng hai tháng doanh thu showroom — thì tôi phải chắc rằng gen 2 bán được."
+
+"Anh có chắc không?"
+
+Hùng úp tay lên tờ brochure ông Lý đưa: điện thoại Alcatel, Ericsson, Philips. "Tôi chắc rằng thị trường Việt Nam đang đói điện thoại di động. Năm 1992, cả nước có chưa tới năm nghìn thuê bao di động — tất cả ở Hà Nội và Sài Gòn. Mỗi cái giá hai nghìn đô, chỉ doanh nghiệp nhà nước và nước ngoài dám mua. Nhưng năm năm nữa, con số đó sẽ gấp mười lần. Ai vào trước sẽ chiếm thị phần."
+
+"Anh từng nghiên cứu thị trường?"
+
+"Tôi đọc số điện thoại đặt ở khách sạn Hà Nội, khách sạn Sài Gòn, và các điểm giao dịch. Mỗi ngày một cuộc gọi đường dài từ Singapore về Việt Nam tốn hai mươi đô. Người ta vẫn gọi. Vì nhu cầu."
+
+Ông Tanaka gật đầu. "Nhưng linh kiện không tự đến. Anh định nhập từ đâu?"
+
+"Japan, Korea, và linh kiện thường từ Singapore. Thương Gia không thể tự sản xuất chip hay màn hình LCD — nhưng có thể thiết kế phần mềm và lắp ráp. Phần mềm thì tôi có đội ngũ ở nhà — mấy đứa trẻ mới ra trường, học từ sách và máy tính cũ."
+
+"Anh tin tụi nó?"
+
+"Hơn tin tôi. Vì tôi không viết code được, nhưng biết đứa nào viết code tử tế."
+
+---
+
+Bốn giờ chiều, Hùng có mặt tại xưởng của ông Lý.
+
+Không phải một xưởng — là ba tầng nhà xưởng trong khu chế xuất. Tầng một: kho linh kiện, kệ cao chạm trần, mỗi kệ dán mã số, nhân viên quét mã vạch khi lấy hàng. Tầng hai: dây chuyền SMT — ba máy đặt chip tự động của Siemens, chạy liên tục, công nhân mặc đồ chống tĩnh điện đứng kiểm tra board mạch dưới kính hiển vi. Tầng ba: lắp ráp thủ công — vỏ nhựa, màn hình, bàn phím — và phòng kiểm định: đo tín hiệu RF, đo độ nhạy, đo độ bền rơi.
+
+Hùng đi hết ba tầng. Ông dừng lại lâu nhất ở phòng kiểm định — nơi một board mạch đang được đo bằng máy Oscilloscope Nhật.
+
+"Board này cho model nào?" Hùng hỏi.
+
+"Alcatel. Đơn hàng ba nghìn cái, xuất sang Ấn Độ," người kỹ thuật viên trả lời bằng tiếng Anh.
+
+"Tỷ lệ lỗi?"
+
+"Board SMT: dưới 1%. Lắp ráp: dưới 3%."
+
+Hùng so sánh với xưởng Thương Gia ở Đà Nẵng. Board hàn tay: tỷ lệ lỗi 15-20%. Lắp ráp: gần 10%. Sản xuất gen 1 kiểu đó thì lỗ mỗi lô — thà không sản xuất còn hơn mang tiếng.
+
+"Tôi sẽ ký hợp đồng thiết kế lại board," Hùng nói với ông Lý sau khi tham quan xong. "Nhưng tôi muốn thêm điều khoản: kỹ sư của tôi được đứng máy cùng nhân viên của ông trong tuần chạy thử."
+
+Ông Lý nhìn Hùng một lúc. "Anh muốn ăn cắp công nghệ?"
+
+"Tôi muốn người của tôi biết cách vận hành SMT, để khi tôi mua máy về Việt Nam, họ không phải học từ đầu."
+
+"Chưa ai yêu cầu điều đó."
+
+"Vì người ta mua máy là thuê người chạy luôn. Tôi thì khác — tôi muốn tự chạy, hoặc ít nhất hiểu được người chạy có đang chạy đúng không."
+
+Ông Lý im lặng một lúc. Rồi gật đầu: "Thêm ba nghìn đô cho khoản đào tạo. Và kỹ sư của anh phải ký bảo mật."
+
+"Được."
+
+Họ bắt tay trước cửa xưởng. Ánh nắng Singapore xế chiều xuyên qua kính, đổ bóng xuống sàn xi măng đánh bóng.
+
+---
+
+Tối hôm đó, Hùng gọi điện về Việt Nam. Đường dây quốc tế chập chờn — phải gọi ba lần mới được. Đầu dây bên kia là Trần Thị Lan.
+
+"Anh Hai, bên đó thế nào?"
+
+"Ký được hợp đồng thiết kế board mới. Một tháng nữa có mẫu. Em kiểm tra tiến độ chỗ Minh giúp anh — coi bọn nó viết phần mềm đến đâu rồi."
+
+"Kỹ sư Minh nói tuần sau chạy thử cuộc gọi đầu tiên trên board cũ."
+
+"Bảo nó đừng đợi board cũ. Board mới sẽ khác — linh kiện SMT, kích thước nhỏ hơn, tiết kiệm pin hơn. Phần mềm phải viết lại cho tương thích."
+
+"Viết lại?" Lan ngạc nhiên. "Hơn ba tháng code, giờ viết lại?"
+
+"Viết lại từ đầu còn hơn sửa code hỏng. Bảo Minh: board cũ là học, board mới là sản phẩm thật. Đừng tiếc code cũ."
+
+Lan im lặng một lúc. "Anh có chắc không? Lỡ không kịp?"
+
+"Không kịp còn hơn ra sản phẩm lỗi. Thị trường chỉ tha thứ một lần."
+
+Gác máy. Hùng nhìn ra cửa sổ khách sạn. Singapore về đêm — ánh đèn từ khu tài chính, từ các nhà máy vẫn sáng, từ những tòa nhà đang xây. Một thành phố đang vươn lên, và ở đó, một hợp đồng nhỏ của Thương Gia vừa được ký.
+
+---
+
+Sáng hôm sau, Hùng gặp thêm hai nhà cung cấp linh kiện.
+
+Người đầu tiên — ông Park Jae-won, giám đốc kinh doanh của Seoul LCD — mang theo một vali nhỏ. Trong vali là ba mẫu màn hình LCD đơn sắc: hai dòng, bốn dòng, và tám dòng. Ông Park trải chúng lên bàn như trải bài.
+
+"Model 162A — hai dòng, mười sáu ký tự mỗi dòng. Giá 4 đô 50 một cái nếu mua một nghìn," ông Park nói tiếng Anh chuẩn, giọng Hàn Quốc nhẹ. "Model 164B — bốn dòng, 7 đô. Model 408C — tám dòng, 12 đô."
+
+Hùng cầm từng mẫu. Màn hình tám dòng là tốt nhất — có thể hiển thị tên người gọi, số, và menu. Nhưng giá 12 đô một cái — bằng 10% giá thành dự kiến của cả máy.
+
+"Tôi lấy model 164B cho lô đầu," Hùng quyết định. "Bốn dòng là đủ cho quay số, danh bạ, và lịch sử cuộc gọi. Nếu thị trường cần nhiều hơn, tôi nâng cấp sau."
+
+"Bao nhiêu?"
+
+"Một trăm cái mẫu. Nếu OK, năm nghìn cái — nhưng giá phải về 5 đô 50."
+
+Ông Park nhíu mày. "Sáu đô là thấp nhất."
+
+"5 đô 80, và tôi mua kèm màn hình cho lô hai cũng của ông."
+
+Ông Park im lặng hai mươi giây. Đủ lâu để Hùng biết mình đã thắng.
+
+"5 đô 80. Nhưng cọc ba mươi phần trăm."
+
+"Được."
+
+Người thứ hai — đại diện Pinergy Đài Loan, một người đàn ông trạc bốn mươi, áo sơ-mi trắng, giày da đen bóng — mang theo pin lithium-ion mẫu. Viên pin nhỏ hơn pin Ni-Cd một phần ba, nặng bằng một nửa, nhưng dung lượng gấp đôi.
+
+"Đây là công nghệ mới," người Đài Loan nói. "Sony vừa dùng cho máy camcorder của họ. Nokia cũng đang thử."
+
+Hùng cầm viên pin. Nhẹ. Nhỏ. Ông nhớ lại những viên pin Ni-Cd của điện thoại gen 1 — to, nặng, và hết pin sau sáu giờ chờ. Nếu gen 2 dùng lithium-ion, thời gian chờ có thể lên hai ngày — đủ để cạnh tranh với Nokia.
+
+"Nếu hỏng có đổi không?"
+
+"Bảo hành một năm. Lỗi nhà sản xuất — đổi mới."
+
+"Tôi mua một trăm cái mẫu, giao cùng đơn hàng board SMT. Một tháng sau có kết quả kiểm định, tôi đặt hàng chính thức."
+
+Người Đài Loan hỏi số lượng tối thiểu. Hùng nói ba nghìn cái cho lô đầu. Người kia gật đầu. Họ không bắt tay — chỉ gật đầu, một kiểu thương nhân châu Á không cần cử chỉ.
+
+Hùng đã mở tài khoản ở UOB từ đầu năm, khi bắt đầu làm thủ tục xuất khẩu. Không nhiều tiền — nhưng đủ để chứng minh Thương Gia không phải công ty ma.
+
+Trong phòng khách sạn tối hôm đó, ông ngồi tính lại con số. Board SMT: 25.000 đô sau thương lượng — ông Lý chấp nhận 25 thay vì 30 nếu cam kết sản xuất năm nghìn cái trong năm đầu. Khuôn ép vỏ nhựa: 12.000 đô — giảm ba nghìn so với báo giá đầu vì Hùng tự in bản vẽ 3D trước khi sang. Màn hình LCD: 7.000 đô cho lô mẫu và đặt cọc lô chính. Pin: 4.500 đô.
+
+Tổng cộng: khoảng 48.500 đô Mỹ.
+
+Năm 1992, đó là số tiền lớn — bằng năm căn nhà mặt phố ở Hà Nội. Nhưng Hùng biết: nếu điện thoại gen 2 thành công, doanh thu năm đầu có thể chạm nửa triệu đô. Thị trường Việt Nam sạch — không ai cạnh tranh ở phân khúc điện thoại nội địa.
+
+Ông mở sổ, viết:
+
+- Chi Singapore: 48.500 USD
+- Thời gian: 6 tháng → mẫu hoàn chỉnh
+- Giá bán mục tiêu: 350 USD/máy (bằng 1/6 giá Motorola nhập khẩu)
+- Hòa vốn: 450 cái
+- Năm đầu: 3.000 cái → doanh thu ~1 triệu USD
+
+Con số không ảo. Dựa trên thuê bao di động đang tăng 40%/năm, dựa trên mạng lưới showroom Thương Gia có sẵn bốn mươi điểm, dựa trên thực tế là không ai bán điện thoại giá dưới một nghìn đô ở Việt Nam thời điểm này.
+
+Nếu đúng — và nếu TG-200 ra đúng hạn — Thương Gia sẽ là người đầu tiên.
+
+---
+
+Năm ngày ở Singapore, Hùng ký được ba hợp đồng: thiết kế board SMT với Jurong Electronics Services, cung cấp pin với Đài Loan, màn hình với Hàn Quốc. Tổng cam kết chi khoảng năm mươi nghìn đô Mỹ — tính cả mẫu thử, khuôn ép, và đặt cọc linh kiện.
+
+Trước khi bay về, ông Tanaka hỏi: "Anh có nghĩ mình làm đúng không? Năm mươi nghìn đô cho cái điện thoại mà chưa chắc bán được?"
+
+Hùng không trả lời ngay. Ông nhìn lên bảng thông báo chuyến bay ở sân bay Changi — sân bay sạch nhất châu Á, nơi có thảm xanh, cửa kính, và những dãy ghế chờ không dính bụi.
+
+"Tôi nghĩ thế này: nếu không làm, năm năm nữa Thương Gia vẫn chỉ là nhà sản xuất xe máy và đồ gia dụng. Nếu làm và thất bại, tôi mất năm mươi nghìn đô và một năm. Nếu làm và thành công — Thương Gia sẽ là công ty Việt Nam đầu tiên sản xuất điện thoại di động."
+
+"Nếu thất bại?"
+
+"Thì tôi vẫn còn xe máy, còn showroom, còn đất. Và tôi sẽ đứng lên làm lại."
+
+Ông Tanaka cười. "Anh không sợ?"
+
+"Có. Nhưng sợ không quyết định được. Tôi sợ nhất là sau này nhìn lại và thấy mình đã không dám làm."
+
+---
+
+Về đến Sài Gòn, Hùng không về nhà ngay. Ông đến thẳng xưởng cơ khí — nơi kỹ sư Minh và ba kỹ sư trẻ đang làm việc với board mạch gen 1. Bàn làm việc đầy linh kiện: tụ điện, điện trở, chip vi xử lý Intel 8051 — con chip tám bit, cũ nhưng đủ dùng cho điện thoại cơ bản.
+
+"Hợp đồng mới," Hùng đặt bản vẽ sơ bộ board mới lên bàn. "Thiết kế SMT, linh kiện dán, kích thước board giảm 40%. Tuần sau mình sang Singapore học máy."
+
+Minh nhìn bản vẽ — mắt sáng lên.
+
+"Board này nhỏ hơn nhiều. Phần mềm cũ sẽ không chạy được."
+
+"Anh biết. Viết lại."
+
+Không ai phàn nàn. Ba kỹ sư trẻ nhìn nhau — rồi nhìn bản vẽ. Một người hỏi: "Bao nhiêu thời gian?"
+
+"Ba tháng cho mẫu thử đầu tiên. Sáu tháng cho sản phẩm hoàn chỉnh."
+
+"Có gấp hơn được không?"
+
+Hùng nhìn người kỹ sư trẻ — sinh viên mới ra trường, chưa từng thấy dây chuyền SMT, chưa từng ra nước ngoài, nhưng mắt không sợ.
+
+"Được. Hai tháng rưỡi cho mẫu — nhưng phải ngủ đúng giờ. Anh không muốn mất người vì kiệt sức."
+
+Mọi người cười. Hùng không cười — nhưng trong lòng ông biết: đây là đội ngũ đúng. Người không than, người hỏi "gấp hơn được không" — đó là người sẽ làm được.
+
+---
+
+Điện thoại Thương Gia thế hệ 2 — tên mã TG-200 — bắt đầu từ đó.
+
+Không phải từ một phòng thí nghiệm sạch sẽ. Từ một xưởng cơ khí ở Sài Gòn, nơi máy điều hòa chạy yếu, nơi linh kiện nằm chung với xe máy đang sửa, nơi ba kỹ sư trẻ ngồi dịch datasheet tiếng Nhật bằng từ điển giấy.
+
+Nhưng nó bắt đầu. Và Hùng biết — nếu có thể bắt đầu, thì có thể hoàn thành.
+
+Ba tuần sau, kỹ sư Minh gọi Hùng ra xưởng. Trên bàn là board mạch mới — chạy thử cuộc gọi đầu tiên. Minh quay số từ một chiếc TG-200 thử nghiệm, gọi đến số điện thoại bàn trong phòng.
+
+Chuông reo.
+
+Hùng nhấc máy.
+
+"Nghe rõ không?" Minh ở đầu dây kia hỏi.
+
+"Rõ."
+
+Cả xưởng im lặng. Ba kỹ sư trẻ nhìn nhau. Một người giơ tay — không phải vỗ tay, mà là năm ngón xòe — dấu hiệu "đã xong bước một".
+
+Hùng đặt máy xuống, nhìn board mạch mới. Linh kiện nhỏ hơn, gọn hơn, mối hàn tự động. So với gen 1, thế hệ thứ hai này nhẹ hơn một phần ba, pin trữ được gấp rưỡi.
+
+"Vỏ nhựa khi nào về?" Hùng hỏi.
+
+"Khuôn ép đang làm ở Singapore. Hai tuần nữa có mẫu vỏ. Cảm xạc tay chưa hoàn chỉnh — phải sửa độ dày phím."
+
+"Bao lâu?"
+
+"Một tuần."
+
+Hùng gật đầu. Ông không hỏi thêm. Nếu cần hỏi mới trả lời, tức là việc đang ổn. Khi việc không ổn, người ta sẽ tự đến nói.
+
+Ông đi ra cửa, nhìn lại xưởng. Bảng mạch gen 2 nằm trên bàn, giữa những cuộn dây thiếc và máy hàn xung. Nhưng lần này — khác. Là SMT, là thiết kế chuẩn, là đường truyền tín hiệu đã được tính toán.
+
+"Điện thoại Thương Gia thế hệ 2" không còn là bản vẽ. Là board thật, cuộc gọi thật, và trong sáu tháng nữa — sẽ là sản phẩm trên kệ.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.167」
+Năm: 1992
+Địa điểm: Singapore — Sài Gòn
+Tổng EXP: 27,900 (+300 nhịp này)
+Không gian kho: 9,400m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3, Công nghệ cao lv1 (mới)
+Ghi chú: ký hợp đồng SMT + linh kiện Singapore/Hàn/Đài Loan; board TG-200 chạy thử cuộc gọi đầu tiên; đào tạo kỹ sư SMT; sổ cái khớp system_ledger — không double-book
+============================================================

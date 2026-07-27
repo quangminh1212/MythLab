@@ -1,0 +1,151 @@
+============================================================
+Chương 248: Trung tâm dữ liệu Thương Gia
+============================================================
+
+Cuối năm 2006, Thương Gia quyết định xây dựng trung tâm dữ liệu đầu tiên. Quyết định này đánh dấu bước ngoặt: từ một công ty thương mại và sản xuất truyền thống, Thương Gia bắt đầu ứng dụng công nghệ thông tin vào quản lý ở quy mô tập đoàn.
+
+Địa điểm được chọn là Hải Phòng, cách nhà máy điện tử chính ba cây số, cách bờ biển chưa đầy một cây số. Lý do chọn nơi này rất thực tế. Thứ nhất — gần cáp quang biển quốc tế, trạm cập bờ tại Hải Phòng, tốc độ kết nối quốc tế nhanh hơn hẳn Hà Nội. Thứ hai — nguồn điện ổn định hơn nhờ nhà máy nhiệt điện gần đó, ít bị cắt điện luân phiên. Thứ ba — giá đất chỉ bằng bốn mươi phần trăm Hà Nội, và Thương Gia đã sẵn có một khu đất trong khu công nghiệp.
+
+Người phụ trách dự án là Lê Anh Dũng — giám đốc công nghệ thông tin mới của Thương Gia. Dũng ba mươi tuổi, quê Nghệ An. Anh tốt nghiệp Đại học Bách khoa Hà Nội ngành điện tử viễn thông, sau đó làm ba năm cho Fujitsu Việt Nam. Ba năm ở Fujitsu đã dạy anh cách người Nhật vận hành hệ thống — kỷ luật, chính xác, nguyên tắc "không bao giờ để sự cố xảy ra hai lần." Thương Gia mời Dũng về với mức lương gấp rưỡi Fujitsu, và một lời hứa quan trọng hơn: được xây dựng hệ thống từ con số không, không phải bảo trì hệ thống cũ.
+
+"Trăm mét vuông sàn, hai tầng," Dũng trình bày tại buổi họp đầu tiên. Bản vẽ kỹ thuật trải rộng trên bàn họp, đầy những đường nét và ký hiệu chuyên ngành. "Hệ thống làm mát chính xác, duy trì nhiệt độ 22 độ C và độ ẩm bốn mươi lăm phần trăm — điều kiện lý tưởng cho máy chủ vận hành liên tục. Máy phát điện dự phòng 150KVA, hai đường truyền internet riêng biệt từ hai nhà cung cấp khác nhau, đảm bảo không bao giờ mất kết nối. Chi phí dự kiến: 7,5 tỷ đồng. Thời gian xây dựng: tám tháng."
+
+Hùng nhìn bản vẽ một hồi lâu, rồi hỏi câu đầu tiên: "Sao cần máy phát điện riêng? Điện lưới Hải Phòng theo báo cáo là khá ổn."
+
+"Dữ liệu không thể mất," Dũng trả lời dứt khoát. "Mất điện, dù chỉ một giây, cũng có thể làm hỏng ổ cứng đang ghi dữ liệu, mất toàn bộ giao dịch chưa kịp sao lưu. Hiện tại Thương Gia xử lý trung bình năm trăm đơn hàng mỗi ngày qua hệ thống máy tính. Năm 2007, con số này sẽ là tám trăm. Năm 2008 — hơn một nghìn hai trăm. Mỗi đơn hàng là một giao dịch có giá trị. Chúng ta không thể chấp nhận rủi ro."
+
+"Hệ thống máy chủ cũ ở Hà Nội chịu được bao lâu nữa?"
+
+"Ba máy chủ đặt tại tầng hầm văn phòng Hà Nội đã đầy ổ cứng. Dung lượng lưu trữ chỉ còn trống mười lăm phần trăm. Năm sau, khi sản lượng dự kiến tăng bốn mươi phần trăm, hệ thống sẽ quá tải hoàn toàn. Chúng ta cần trung tâm dữ liệu mới trước tháng 6 năm 2007."
+
+"Chi phí vận hành mỗi tháng?"
+
+"Một trăm hai mươi triệu đồng — tiền điện cho hệ thống làm mát, bảo trì thiết bị, lương ba nhân sự vận hành."
+
+"1,44 tỷ mỗi năm, cộng với khấu hao thiết bị. Lợi ích cụ thể là gì?" Hùng hỏi, giọng vẫn đều.
+
+"Giảm sai sót đơn hàng từ 3% xuống dưới 0,5%. Kiểm soát tồn kho theo thời gian thực — không còn tình trạng báo cáo tồn sai lệch. Tăng tốc xử lý đơn hàng từ hai ngày xuống còn bốn giờ. Tổng tiết kiệm tối thiểu 5 tỷ mỗi năm."
+
+Hùng đóng bút, ký vào góc bản vẽ. "Phê duyệt."
+
+Lan — phó tổng giám đốc phụ trách vận hành — yêu cầu Dũng báo cáo tiến độ hàng tháng. "Tôi biết nhiều dự án công nghệ thất bại vì nhà thầu không đáp ứng tiến độ. Anh Dũng cần cam kết."
+
+"Tôi đã ký hợp đồng với Kubota Construction — Nhật Bản. Họ có uy tín thi công đúng hẹn."
+
+Dự án khởi công tháng 11 năm 2006. Hùng xuống Hải Phòng dự lễ động thổ. Trời mưa tầm tã, khu đất lầy lội, nhưng Dũng đã cho dựng lán trại che kín toàn bộ máy móc và vật tư xây dựng. Công nhân vẫn làm việc trong mưa, mặc áo mưa vàng.
+
+"Cẩn thận quá," Hùng nhận xét.
+
+"Trời mưa không che thì thiết bị hỏng, tiến độ chậm. Chậm một ngày tốn ba mươi triệu tiền nhân công và thiết bị cho thuê."
+
+"Giỏi. Biết tính toán."
+
+Tháng 2 năm 2007, trung tâm dữ liệu hoàn thành sớm hơn hai tháng so với kế hoạch. Lễ khánh thành có đại diện Sở Thông tin Truyền thông Hải Phòng, lãnh đạo Viettel — đối tác cung cấp cáp quang — và gần năm mươi kỹ sư của Thương Gia.
+
+Dũng mở cánh cửa thép dày phòng máy chủ. Một luồng khí mát lạnh tỏa ra. Tiếng quạt làm mát kêu đều đều, không khí sạch sẽ, độ ẩm vừa phải. Những tủ rack màu đen sắp xếp ngay ngắn thành hai dãy, đèn LED xanh đỏ nhấp nháy liên tục.
+
+"Hệ thống quản lý tồn kho hiện tại đã được cài đặt trên máy chủ trung tâm," Dũng nói, giọng tự hào. "Từ tháng ba năm nay, tất cả cửa hàng, nhà máy, kho hàng sẽ kết nối về đây qua đường truyền thuê riêng. Mỗi giao dịch bán hàng — từ lúc xuất kho đến lúc giao cho khách — đều được cập nhật theo thời gian thực."
+
+"Bảo mật thế nào?" Hùng hỏi.
+
+"Tường lửa ba lớp — một từ nhà cung cấp dịch vụ, hai từ hệ thống nội bộ. Mỗi nhân viên có mã truy cập riêng. Lịch sử truy cập được ghi lại tự động. Ai đăng nhập lúc nào, làm gì — đều có dấu vết."
+
+"Đủ."
+
+Chiều hôm đó, Dũng mời Hùng ăn cơm tại một quán nhỏ gần cảng Hải Phòng. Hai người ngồi ở bàn ngoài trời, nhìn ra biển chiều mênh mông. Tàu hàng vào ra, tiếng còi tàu vọng xa.
+
+"Nhà em ở Nghệ An," Dũng kể, vừa gắp thức ăn vừa nói. "Bố mẹ làm ruộng, nghèo lắm. Học bổng đại học là tất cả những gì em có để thoát khỏi đói nghèo. Bốn năm đại học, em không dám tiêu một đồng nào không cần thiết."
+
+"Sang Fujitsu thế nào?"
+
+"Thi vào năm 2003. Lương khởi điểm 300 USD — một giấc mơ với em lúc đó. Nhưng em học được nhiều hơn tiền. Em học cách người Nhật quản lý thông tin — từng kilobyte dữ liệu đều có bản sao lưu, từng lần truy cập đều có ghi chép, không bao giờ để mất dữ liệu."
+
+"Sao em về?"
+
+Dũng nhìn ra biển một lúc. "Về vì em muốn làm cho Việt Nam. Làm cho Fujitsu thì hệ thống của họ mạnh lên. Em về Thương Gia để xây cho mình, cho đất nước mình."
+
+"Em muốn làm cho Thương Gia hay cho bản thân?"
+
+"Em muốn Thương Gia thành tập đoàn công nghệ số một Việt Nam. Khi đó bản thân em tự nhiên có giá trị."
+
+Hùng gật. "Quan điểm đúng. Ở lại với tôi. Ba năm nữa, tôi giao em toàn bộ hạ tầng công nghệ thông tin của tập đoàn."
+
+
+Tháng 3 năm 2007, Dũng không cho phép hệ thống chạy thật ngay sau lễ khánh thành. Anh dựng một tuần vận hành giả lập. Ba nhân viên trực thay nhau nhập lại đơn hàng của bốn nhà máy, cố ý tạo những tình huống tồi nhất: cùng một mã hàng bị xuất ở Hải Phòng và Hà Nội; một xe giao hàng báo hỏng giữa đường; kho Đà Nẵng gửi lên một tệp tồn kho trễ hai giờ; một tài khoản nhân viên thử đăng nhập sai năm lần.
+
+Sáng ngày thứ hai, màn hình trong phòng điều hành hiện một vệt đỏ. Lượng tồn của dòng quạt điện ở Hà Nội âm 126 chiếc. Trưởng kho gọi ngay cho Dũng, giọng hoảng hốt: “Máy tính sai rồi. Kho tôi còn hàng.”
+
+Dũng không kết luận. Anh mở lịch sử giao dịch, kéo từng dòng: 08 giờ 11, quầy bán lẻ xuất 60 chiếc; 08 giờ 13, kho lập phiếu chuyển 80 chiếc nhưng chưa xác nhận chất lên xe; 08 giờ 14, một nhân viên nhập lại phiếu cũ vì tưởng đường truyền bị treo. Hệ thống không sai. Quy trình sai ở chỗ một phiếu có thể được bấm hai lần.
+
+“Không xóa dòng nào,” Dũng nói. “Xóa là mất dấu. Đánh dấu phiếu trùng, đối chiếu hàng thật, rồi viết lại quyền xác nhận.”
+
+Lan có mặt ở Hải Phòng hôm đó để xem thử nghiệm. Cô đứng sau lưng Dũng, nhìn nhóm kỹ sư tranh luận trước bảng trắng. Trước đây, một sai lệch tồn kho thường được sửa bằng một con số trong báo cáo cuối tháng. Người làm sai hiếm khi bị tìm ra, và người làm đúng cũng không có bằng chứng tự bảo vệ mình. Hệ thống mới làm việc đó khó hơn: nó buộc mỗi người chịu trách nhiệm cho cú bấm của mình.
+
+Dũng chia quy trình thành ba bước. Nhân viên kho tạo phiếu. Tổ trưởng xác nhận hàng vật lý. Bộ phận vận tải xác nhận xe đã rời cổng. Nếu chưa đủ ba dấu vết, lượng hàng vẫn thuộc kho; cửa hàng chỉ nhìn thấy “đang chuyển”, không được phép bán trước. Anh yêu cầu đội lập trình sửa màn hình trong đêm, thay nút “lưu” bằng hai nút riêng: “ghi tạm” và “xác nhận nghiệp vụ”.
+
+Đến chiều, Lan hỏi: “Sao không làm cho đơn giản? Càng nhiều bước, người dưới càng kêu.”
+
+“Đơn giản cho người bấm chưa chắc đơn giản cho doanh nghiệp,” Dũng đáp. “Một bước thừa ở đây có thể tránh mười cuộc gọi ở ngoài kia. Nhưng chỉ giữ bước nào chứng minh được hàng đã đi qua tay ai.”
+
+Lan gật đầu. Cô bảo thư ký ghi nguyên câu ấy vào biên bản triển khai.
+
+Thử thách lớn hơn đến vào đêm thứ năm. Một cơn giông đầu mùa quật qua Hải Phòng. Gần mười giờ, điện lưới chớp tắt. Đèn trong phòng máy tắt đúng một nhịp rồi sáng lại. Chuông cảnh báo vang lên, màu cam chạy dọc bảng điều khiển. Máy phát dự phòng đã khởi động, nhưng một trong hai bộ lưu điện báo nhiệt độ cao.
+
+Dũng đang ngủ ở phòng trực tầng hai. Anh chạy xuống không kịp xỏ giày, gọi điện cho kỹ thuật viên Quang đang về quê ở Kiến An. Quang quay lại trong mưa. Hai người không mở cửa tủ rack ngay; Dũng bắt họ đọc lại sơ đồ nguồn điện, vì chạm nhầm cầu dao có thể làm tắt cả cụm máy chủ đang ghi dữ liệu.
+
+Mười lăm phút sau, họ phát hiện quạt hút của bộ lưu điện bị kẹt bởi một mảnh nylon công trường còn sót lại. Quang dùng đèn pin soi, lấy kẹp gắp ra. Nhiệt độ hạ dần. Trên màn hình, những giao dịch từ cửa hàng Sài Gòn tiếp tục chạy vào từng dòng. Không đơn nào mất.
+
+Sáng hôm sau, Hùng đến bất ngờ. Dũng đưa ông xem báo cáo sự cố, bao gồm cả lỗi của đội thi công đã để lại mảnh nylon. Hùng đọc hết rồi hỏi: “Có ai muốn giấu chuyện này không?”
+
+“Có người đề nghị chỉ ghi là mất điện,” Dũng nói thật. “Nhưng như vậy lần sau không biết phải kiểm tra quạt hút.”
+
+Hùng gạch dưới dòng nguyên nhân gốc. “Cứ ghi. Người làm sai sửa được là người còn dùng được. Người giấu lỗi mới nguy.”
+
+Ông yêu cầu treo một bản rút gọn của báo cáo ở phòng trực: thời điểm, triệu chứng, nguyên nhân, cách xử lý, người chịu trách nhiệm kiểm tra lại sau bảy ngày. Với Hùng, trung tâm dữ liệu không chỉ là căn phòng đầy máy lạnh; nó là nơi tập đoàn học cách không lặp lại sai lầm.
+
+Từ tháng 4, Dũng đưa các kho vào kết nối từng đợt, không làm đồng loạt. Đợt đầu là kho Hải Phòng, nơi có đội trẻ và gần trung tâm nhất. Đợt hai là nhà máy điện tử Hà Nội. Đợt ba mới đến kho Đà Nẵng và các cửa hàng xa. Mỗi nơi phải cử một “người chủ dữ liệu” — không phải người giỏi máy tính nhất, mà là người hiểu hàng hóa nhất và dám nói khi số liệu không khớp.
+
+Ở kho Đà Nẵng, người được chọn là chị Vân, bốn mươi hai tuổi, từng ghi sổ bằng tay hơn mười năm. Ngày đầu học dùng máy quét mã vạch, chị bối rối đến mức quét nhầm một thùng dây điện ba lần. Một nhân viên trẻ cười khúc khích. Vân đặt máy xuống, mặt đỏ lên.
+
+Dũng không trách chị. Anh lấy một thùng khác, bảo cả nhóm đứng quanh. “Máy chỉ biết mã. Nó không biết trong thùng có gì, không biết tem rách hay hàng móp. Chị Vân biết. Chúng ta không thay chị bằng máy. Chúng ta cho chị một công cụ để kiến thức của chị đi xa hơn.”
+
+Anh để Vân quét lại từng thùng, chậm rãi, đến khi tiếng “bíp” trở thành quen thuộc. Cuối buổi, chị phát hiện mười hai thùng ghi sai mã lô từ nhà máy. Nếu xuất theo sổ cũ, sai lệch ấy có thể nằm yên đến cuối quý. Vân ký vào biên bản, rồi cầm máy quét như cầm một dụng cụ nghề mới.
+
+Lan nghe chuyện, quyết định mở lớp đào tạo bắt buộc cho toàn bộ quản lý kho. Không có bài giảng dài. Mỗi người mang một phiếu xuất thật, một tình huống sai thật, rồi phải tự truy được đường đi của món hàng. Ai không làm được thì chưa được cấp quyền xác nhận trên hệ thống. Quy định này khiến vài quản đốc khó chịu, nhưng sau ba tuần, số cuộc gọi “hàng ở đâu” giảm thấy rõ.
+
+Cùng lúc đó, Hùng yêu cầu Dũng trình bày kế hoạch sao lưu. Dũng vẽ ba vòng tròn trên giấy. Vòng đầu là dữ liệu đang chạy trong máy chủ chính. Vòng hai là bản sao tự động hằng đêm trên thiết bị lưu trữ tách biệt trong cùng tòa nhà. Vòng ba là băng từ được niêm phong, mỗi tuần chuyển về văn phòng Hà Nội.
+
+“Băng từ nghe cũ quá,” Lan nói.
+
+“Cũ nhưng tách khỏi mạng,” Dũng đáp. “Nếu virus hay lỗi phần mềm làm hỏng cả hệ thống đang nối mạng, bản sao tách rời còn cứu được mình.”
+
+Hùng hỏi về người giữ chìa khóa tủ băng. Dũng đề nghị hai chìa: một do mình giữ, một do phòng kiểm soát nội bộ giữ. Không ai được mở một mình. Hùng đồng ý ngay. Ông đã thấy quá nhiều doanh nghiệp đổ vỡ vì một người giữ tất cả bí mật.
+
+Tháng 6 năm 2007, hệ thống lần đầu đối mặt với áp lực thật. Một khách hàng châu Âu gửi yêu cầu gấp thay đổi lịch giao của bảy lô giày bảo hộ vì cảng Rotterdam đình công. Nếu không đổi tuyến trong ngày, hàng sẽ nằm lại Singapore, phí lưu bãi tăng từng giờ. Trước đây, thông tin phải đi qua fax, điện thoại, rồi nhân viên kho lục sổ để xác định lô nào đã đóng container.
+
+Lần này, Lan đăng nhập từ Hà Nội. Trên màn hình, cô thấy trạng thái từng lô: lô nào đang ở kho, lô nào đã kiểm định, lô nào đã đặt xe, lô nào đã ra cảng. Cô gọi cho Dũng.
+
+“Có thể tách bốn lô đi Antwerp không?”
+
+Dũng kiểm tra dung lượng, lịch tàu, hồ sơ hải quan số hóa. “Được. Nhưng phải giữ lại ba lô đang chờ chứng thư kiểm định. Nếu cố chuyển cả bảy, mình sẽ đưa hàng thiếu giấy lên tàu.”
+
+Lan ra quyết định trong mười phút. Bốn lô đổi tuyến; ba lô chờ thêm hai ngày để hoàn tất chứng thư. Khách hàng nhận được email có mã lô, cảng đến, giờ tàu rời bến. Klaus trả lời ngay: “Đây là lần đầu một nhà cung cấp Việt Nam cho tôi thông tin trước khi tôi phải hỏi.”
+
+Hùng đọc email đó ở Hà Nội, không nói gì lâu. Ông chỉ gọi Dũng lên sau cuộc họp. “Cậu xây không phải máy chủ. Cậu xây uy tín.”
+
+Dũng hiểu lời khen ấy cũng là áp lực. Anh xin thêm ngân sách cho một phòng huấn luyện và một vị trí phụ trách an ninh hệ thống. Hùng không duyệt ngay. Ông bảo Dũng viết rõ rủi ro, lợi ích, mốc đánh giá sáu tháng. Ba ngày sau, đề xuất trở lại với bảng phân tích: số nhân viên tăng, số điểm kết nối tăng, nguy cơ lộ giá mua và dữ liệu khách hàng tăng theo. Lan đọc kỹ rồi ký đề xuất tuyển một chuyên viên an ninh trẻ từng làm cho nhà cung cấp viễn thông.
+
+Cuối năm, trung tâm dữ liệu không còn là công trình mới để khách tham quan chụp ảnh. Nó trở thành nơi mọi tranh cãi phải quay về số liệu. Khi một nhà máy nói đã giao đủ, kho nói chưa nhận đủ, và tài chính nói chưa thể thanh toán, họ không còn cãi bằng trí nhớ. Họ mở lịch sử giao dịch, đối chiếu mã lô, chữ ký xác nhận, thời gian xe qua cổng.
+
+Đêm 31 tháng 12, Dũng trực ca cuối năm. Ngoài cửa kính, cảng Hải Phòng sáng đèn. Trong phòng máy, đèn xanh chạy đều trên hai dãy tủ rack. Anh mở bảng tổng hợp: tỉ lệ sai lệch tồn kho đã giảm xuống 0,7%; thời gian xác nhận một đơn xuất khẩu còn năm giờ mười hai phút; chưa có giao dịch nào mất dữ liệu.
+
+Anh không gửi ngay báo cáo thành tích. Anh ghi thêm một dòng ở cuối: “Mục tiêu năm tới: không chỉ nhanh hơn, mà hiểu rõ vì sao mỗi con số xuất hiện.” Rồi anh khóa màn hình, đi kiểm tra nhiệt độ phòng máy một lần nữa.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.248」
+Năm: 2006
+Tổng EXP: 56,334 (+563 nhịp này)
+Không gian kho: 22,500m² (+225m²)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Quản trị hệ thống lv1, Dự báo rủi ro lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

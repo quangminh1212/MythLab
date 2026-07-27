@@ -1,0 +1,242 @@
+============================================================
+Chương 168: Nhà máy máy tính Hà Nội
+============================================================
+
+Máy tính ở Hà Nội năm 1992 là thứ người ta nghe danh hơn thấy tận mắt. Cả khu tập thể có một cái, đặt trong phòng điều hòa riêng, ai vào phải bỏ dép.
+
+Hùng về từ Singapore với một vali linh kiện mẫu. Card màn hình, bo mạch chủ, ổ cứng 40MB — to như viên gạch nhưng chứa được vài cuốn sách. Ông trải chúng lên bàn, bà Hà nhìn một hồi rồi hỏi:
+
+— Cái này mà làm ra tiền?
+
+— Cái này làm ra nhiều tiền hơn cả trăm tấn thép đấy, bà.
+
+— Hừ, nghe như bán vải hoa hồi xưa ấy. Cũng bảo làm giàu được.
+
+— Lần này thật.
+
+Bà Hà lắc đầu đi vào bếp, nhưng mắt vẫn liếc lại mấy cái bo mạch.
+
+Ba ngày sau, Hùng đứng trước một nhà xưởng thuê ở ven đường vành đai phía Tây Hà Nội. Tường gạch trần, mái fibro xi măng, nền xi măng nứt chân chim — vậy mà giám đốc khu công nghiệp bảo đây là "hạng A". Hùng cười thầm. Hạng A mà lũ chuột còn không thèm ở.
+
+Thợ địa phương đứng đợi sẵn. Mười hai người — sáu thợ điện cũ, bốn thợ cơ khí, hai người trẻ mới ra trường biết tiếng Anh. Một anh tên Quyết, học Đại học Bách khoa Hà Nội, bảo:
+
+— Em biết cắm dây nối, biết ráp ampli. Máy tính em chưa ráp bao giờ, nhưng em đọc tài liệu tiếng Anh được.
+
+Hùng gật. Ở cái thời mà tài liệu kỹ thuật chỉ có vài bản photocopy mờ, biết đọc tiếng Anh đã là thứ cần hơn bằng cấp.
+
+— Được. Tôi dạy em. Nhưng em phải dạy lại cho những người còn lại. Rõ?
+
+— Rõ.
+
+Hùng mở vali, lôi từng linh kiện ra. CPU Intel 386, RAM 4MB, ổ mềm 5.25 inch, card ISA, nguồn AT. Anh Quyết mắt sáng lên, sờ từng cái như sờ vàng. Không xa đâu — giá một cái máy tính lắp ráp hoàn chỉnh ở Hà Nội lúc đó bằng năm năm lương của anh.
+
+— Cái này chịu tải được bao nhiêu dữ liệu, anh Hùng? — Quyết hỏi, mắt không rời linh kiện.
+
+— Ngày nay là 40MB. Ba năm nữa sẽ lên 200MB. Mười năm nữa thì hàng chục GB.
+
+— GB là gì ạ?
+
+— Gigabyte. Một GB bằng nghìn MB. — Hùng thấy mắt Quyết mở to. Giải thích về dung lượng tương lai cho người năm 1992 cũng như giải thích về điện thoại di động cho người thập niên 60 vậy.
+
+Ngày đầu tiên của "Nhà máy máy tính Hà Nội" là ráp một cái máy duy nhất. Hùng đích thân đứng dây chuyền — dây chuyền dài đúng ba mét, gồm một cái bàn và hai người. Quyết cắm mainboard vào case, Hùng kiểm tra jumper. Họ mất hai tiếng.
+
+Hai tiếng cho một cái máy. Hùng tính nhẩm: nếu tối ưu, mỗi ca có thể làm mười cái. Một ngày ba mươi. Một tháng chín trăm. Nhưng đó là lý thuyết — thực tế còn thiếu nguồn hàng ổn định, thiếu người biết nghề, và thiếu cả giấy phép nhập khẩu linh kiện.
+
+Rào cản pháp lý — thứ đã ám ảnh Hùng từ chương trước — giờ đứng sừng sững trước cửa nhà máy. Để nhập linh kiện máy tính về Việt Nam năm 1992, ông phải qua ba cửa: Bộ Thương mại, Bộ Khoa học Công nghệ, và một cái "cửa ngầm" mà ai cũng biết. Mỗi cửa là một xấp giấy tờ, một con dấu, và một vị cán bộ có thể gật hoặc lắc.
+
+Hùng không đi cửa ngầm. Ông đến gặp trực tiếp ông Chủ nhiệm Ủy ban Khoa học Nhà nước — một người đã già, từng làm việc với Liên Xô, hiểu về công nghệ nhưng hoài nghi về tư nhân.
+
+— Anh Trần Văn Hùng, tôi có đọc hồ sơ của anh — ông Chủ nhiệm nói, đẩy cặp kính lão lên sống mũi. — Anh mở cửa hàng tạp hóa, rồi nhà hàng, rồi sản xuất xe đạp, máy cày, điện thoại… Giờ lại máy tính. Anh làm được không?
+
+— Thưa bác, Việt Nam cần máy tính. Nếu chờ nhà nước, mất năm năm nữa. Nếu để tư nhân làm, một năm là có.
+
+— Một năm là có cái gì? — Ông Chủ nhiệm hất hàm.
+
+— Một nhà máy lắp ráp máy tính quy mô công nghiệp. Sản phẩm mang thương hiệu Việt Nam. Giá bằng một phần ba hàng nhập khẩu. Hỗ trợ kỹ thuật tại chỗ.
+
+Ông Chủ nhiệm im lặng một lúc. Tay ông xoay cây bút trên bàn. Hùng biết ông già đang cân đo: một mặt là cơ chế, mặt kia là kết quả. Cuối cùng, ông già nói:
+
+— Tôi cấp giấy phép thí điểm. Hai năm. Sai một lỗi, anh tự chịu. Đừng để tôi mất ghế vì anh.
+
+— Cảm ơn bác. Tôi không để ai mất ghế.
+
+Giấy phép ra trong ba ngày. Nhanh kỷ lục cho một thủ tục thời bao cấp. Hùng biết ông Chủ nhiệm đã mạo hiểm — đặt niềm tin vào một thương nhân tư nhân trong lúc chính sách còn mờ. Món nợ đó, Hùng nhớ.
+
+—
+
+Trở lại nhà máy, không khí đã khác. Hùng tập hợp mười hai người thợ, không họp hành — chỉ dựng một cái bảng trắng, viết:
+
+MỤC TIÊU THÁNG 11/1992: 200 MÁY
+LỖI CHO PHÉP: <1%
+HÀNG GIAO ĐÚNG HẸN: 100%
+
+Anh Quyết giơ tay:
+— Anh Hùng, tụi em chưa ai ráp được cái máy hoàn chỉnh. Anh bảo 200 cái, lỡ hỏng nhiều…
+
+— Hỏng thì sửa. Lỗi không phải tội, miễn là ghi lại được. — Hùng nhìn thẳng vào Quyết. — Em thích làm chủ hay làm thợ?
+
+— Dạ… làm chủ.
+
+— Thì học cách ra số. Không ai cho em việc dễ trước.
+
+Hùng chia đội thành ba ca. Ca sáng học lý thuyết — cấu tạo máy tính, nguyên lý hoạt động, cách đọc sơ đồ. Ca chiều thực hành ráp. Ca tối kiểm tra chất lượng và đóng gói. Lịch kín nhưng không ai phàn nàn — vì Hùng trả lương cao gấp rưỡi mặt bằng chung, và còn hứa thưởng thêm nếu đạt mục tiêu.
+
+Ngày thứ năm, cái máy đầu tiên ra lò — chạy thử ba giờ, không treo, không lỗi. Màn hình DOS hiện dòng chữ trắng trên nền đen: C:\>. Hùng gõ "DIR", ổ cứng quay rè rè, liệt kê vài file hệ thống. Quyết và mấy anh thợ đứng nhìn như xem diễu hành.
+
+— Nó chạy! — Quyết reo lên.
+
+Hùng cười. Làm ra máy tính ở Việt Nam năm 1992 cũng giống như đặt chân lên Mặt Trăng vậy. Quá trình thì đơn giản — ráp linh kiện theo sơ đồ — nhưng ý nghĩa thì lớn. Đây là cái máy tính đầu tiên được lắp ráp hoàn chỉnh bởi người Việt, trong một nhà máy tư nhân Việt Nam.
+
+—
+
+Hai tuần trôi qua. Nhà máy bắt đầu chạy ổn định, mỗi ngày tám đến mười cái. Chất lượng tốt hơn Hùng kỳ vọng — lỗi kỹ thuật chỉ 0.5%. Nhưng bài toán lớn nhất vẫn chưa giải: đầu ra.
+
+Máy tính Thương Gia mang thương hiệu "Thành Công" — cái tên do bà Hà đặt — chạy Intel 386, 4MB RAM, 40MB ổ cứng, giá 950 USD. Trong khi đó, máy nhập khẩu từ Singapore cùng cấu hình giá 1.800-2.000 USD. Chênh gần gấp đôi.
+
+Nhưng dân Việt Nam năm 1992 không quen mua hàng nội. "Hàng Tàu" rẻ nhưng mau hỏng. "Hàng Singapore" đắt nhưng chắc. "Hàng Thương Gia" là cái gì? Mới toanh, không tên tuổi.
+
+Hùng mở một đợt demo tại showroom Hà Nội — cái showroom vừa mở ở Chương 166. Ông đặt mười cái máy tính Thành Công thành dãy, cài sẵn phần mềm Lotus 123, WordPerfect, và một game nhỏ Tetris. Ai đến cũng được dùng thử.
+
+Ngày đầu tiên: hai mươi người vào xem. Không ai mua. Ngày thứ hai: ba mươi người. Một ông giám đốc xí nghiệp nhà nước ngồi thử hai tiếng đồng hồ rồi bỏ về. Ngày thứ ba: bốn mươi người, có một vị khách hỏi mua.
+
+— Của ông bảo hành mấy tháng? — vị khách hỏi, tay gõ thử bàn phím.
+
+— Mười hai tháng, tận nơi. Hỏng trong bảy ngày đổi mới.
+
+— Nếu hỏng sau một tháng?
+
+— Kỹ thuật đến nhà trong vòng 48 giờ. Không sửa được thì đổi.
+
+— Ở quê tôi, huyện Thanh Oai, có đến không?
+
+— Có. — Hùng không chớp mắt. Một lời hứa khó giữ, nhưng nếu không hứa, cái máy không bán được.
+
+Vị khách rút ví. Mười một tờ giấy bạc 100 USD. Hùng nhận tiền, giao hàng, ghi sổ. Một chiếc máy tính Thành Công đầu tiên ra khỏi kho.
+
+Lan đứng bên cạnh, ghi chép đầy đủ. Sau khi khách đi, nó hỏi:
+
+— Anh Hùng, Thanh Oai xa lắm. Lỡ hỏng thật, mình ra đấy kịp không?
+
+— Hôm nay bán được nhờ câu hứa đó. Nếu không giữ được, sau này không ai mua nữa. — Hùng nhìn em gái. — Lan, em nhớ: bán hàng khó, giữ chữ tín còn khó hơn. Nhưng giữ được chữ tín thì về sau không phải bán hàng nữa — người ta tự đến mua.
+
+—
+
+Sáu giờ chiều, Hùng về nhà. Bà Hà đã dọn cơm: canh rau cải, cá kho tộ, đĩa rau muống luộc. Mâm cơm Hà Nội những ngày cuối thu, gió lạnh lùa qua khe cửa.
+
+— Hôm nay bán được mấy cái? — bà Hà hỏi, vừa xới cơm.
+
+— Một cái.
+
+— Chưa nhiều.
+
+— Chưa nhiều, nhưng một cái đủ để người ta biết mình có hàng thật.
+
+Lan bưng nước ra, chen vào:
+
+— Anh Hùng nói mỗi cái ba cây vàng đấy bà.
+
+Bà Hà suýt sặc cơm:
+— Trời đất! Cái hộp gì mà bằng ba cây vàng?
+
+— Máy tính, bà ạ. Có nó thì học được, làm được, chơi được đủ thứ. — Hùng gắp một miếng cá cho bà. — Bà nhớ hồi bà mua cái radio đầu tiên không?
+
+— Nhớ. Năm 72, mua của ông Tư xách từ Sài Gòn về. Cả làng sang xem.
+
+— Giờ cái radio đó có đáng bao nhiêu? Nhưng hồi đó nó quý. Máy tính bây giờ cũng vậy.
+
+— Ừ, mày nói gì cũng được. — Bà Hà cười móm. Nhưng mắt bà có cái nhìn tin tưởng. Hơn hai mươi năm nuôi cháu, bà đã quen với những cái "không giống ai" của nó. Lần nào cũng thành, hoặc không thành đến mức cũng chẳng ai nhắc.
+
+Ăn xong, Hùng ra hiên ngồi hút thuốc. Hà Nội tháng Mười một, gió heo may hanh hao, mùi lá khô và mùi than tổ ong từ những căn bếp ven đường. Ông nhìn dãy phố, ánh đèn vàng hắt qua ô cửa nhỏ. Đất nước đang đổi, nhưng đổi chậm hơn ông muốn. Người ta vẫn quen đi xe đạp, quen gạo ba bữa, quen chờ nhà nước lo hết.
+
+Hùng biết những chiếc máy tính Thành Công sẽ không chỉ là công cụ. Nó là cánh cửa. Mở ra cho người Việt một thế giới khác — nơi thông tin không phải đọc qua báo in ba ngày mới đến tay, nơi học sinh có thể học tiếng Anh từ phần mềm, nơi doanh nghiệp có thể in hóa đơn bằng máy thay vì viết tay.
+
+Nhưng để mở được cánh cửa đó, ông phải vượt qua thứ còn lớn hơn cả rào cản pháp lý: tâm lý người dùng.
+
+—
+
+Cuối tháng, Hùng tổng kết. Hai mươi lăm cái máy tính Thành Công đã ra khỏi nhà máy. Mười lăm cái tới tay người dùng cá nhân, mười cái tới các văn phòng nhỏ. Chưa có cái nào bị trả lại. Lỗi kỹ thuật hai cái — Hùng đích thân mang linh kiện thay tại nhà khách.
+
+Doanh thu: 23.750 USD. Sau khi trừ linh kiện, thuế, lương, thuần lãi 5.700 USD — bằng lợi nhuận cả tháng của ba cửa hàng Thương Gia Store ở phố đi bộ.
+
+Anh Quyết và mấy người thợ được thưởng thêm một tháng lương. Quyết mừng đến nỗi tối đó về nhà mở luôn một chai rượu, say đến sáng hôm sau đi làm muộn. Hùng không phạt — chỉ nhắc:
+
+— Được thưởng thì vui. Vui đến quên việc là mất. Em làm tốt, tháng sau thưởng nữa. Nhưng lần sau đi trễ — phạt.
+
+Quyết gãi đầu, cười hì hì. Từ đó không dám uống quá chén.
+
+—
+
+Bước sang tháng Mười hai, Hùng ký thêm hợp đồng với một nhà cung cấp linh kiện ở Singapore — lô đầu tiên 500 bộ, trả trước 30%, số còn lại trả sau khi nhập kho. Ông Tanaka, người Nhật cũ từ các chương trước, đứng ra bảo lãnh tín dụng. Hùng hỏi:
+
+— Sao ông giúp tôi? Tôi chưa làm gì cho ông.
+
+— Anh trả nợ đúng hẹn từ hợp đồng điện thoại. Ở Nhật, đó là bảo chứng tốt nhất. — Ông Tanaka cười, mắt nheo lại như mèo.
+
+Ông Tanaka là một trong những đối tác quốc tế đáng tin nhất của Hùng. Họ gặp nhau từ chương 111-120, khi Tanaka đến Việt Nam khảo sát FDI đầu tiên. Hồi đó Tanaka còn hoài nghi về tư nhân Việt Nam. Giờ ông chủ động gọi điện đề nghị giúp. Có tiến bộ.
+
+Đêm cuối tháng Mười một, Hùng ngồi viết sổ tay. Thu nhập, chi phí, kế hoạch tháng sau, tên người cần cảm ơn, việc cần giải quyết. Ông viết xong, đọc lại, thấy còn một dòng trống.
+
+Ông viết thêm: "Tháng 12 mở thêm đợt demo ở Sài Gòn. Lan phụ trách. Mình giữ mảng kỹ thuật."
+
+Lan đã học được nhiều. Con bé từ chỗ chỉ biết bán xà phòng ở quầy tạp hóa, giờ ghi chép sổ sách, gọi điện cho đối tác, quản lý lịch trình cho anh. Bà Hà vẫn bảo mai kia Lan còn giỏi hơn cả Hùng. Hùng không ghen — ông mong điều đó.
+
+—
+
+Sáng sớm hôm sau, Hùng ra nhà máy từ lúc trời còn tối. Cổng còn khóa, ông đứng đợi, nhìn những tia nắng đầu ngày ló lên sau dãy nhà thấp. Không khí se lạnh mang theo mùi sương và khói bếp than. Xa xa, tiếng loa phát thanh từ một nhà nào đó vọng ra:
+
+"…Từ Hà Nội, thủ đô yêu dấu, chúng tôi xin gửi tới đồng bào cả nước lời chào thân ái…"
+
+Hùng mỉm cười. Hà Nội năm 1992, nơi giấc mơ công nghệ bắt đầu từ một cái nhà xưởng tồi tàn, mười hai con người, và một vali linh kiện. Có thể người ta cười. Có thể hàng tháng đầu lỗ. Nhưng ông biết — những gì xây ở đây sẽ còn đứng khi ông không còn nữa.
+
+Cổng mở. Ông bước vào.
+
+Ca sáng bắt đầu.
+
+Ngày thứ ba mươi của "Nhà máy máy tính Hà Nội" kết thúc bằng một tiếng còi. Lần đầu tiên, mọi người không vội vã ra về. Họ túm lại, hỏi nhau về cái máy mới, về lô hàng sắp tới, về tháng sau liệu có thưởng không. Quyết mang một nồi cháo gà ra, tự mời cả đội.
+
+Hùng ngồi nhìn, không nói gì. Ông chỉ nhìn. Một cái nhà máy — tường gạch trần, mái fibro xi măng — nhưng có thứ tốt hơn tường vững: con người biết mình đang làm gì và tin vào việc mình làm.
+
+Giữa tuần đó, một tin vui đến: Viện Công nghệ thông tin (nay là Viện CNTT - Viện Hàn lâm KHCN) đặt mua năm bộ cho phòng thí nghiệm. Hùng tự tay giao hàng, và dành nửa buổi hướng dẫn mấy nhà nghiên cứu sử dụng. Một giáo sư già, đầu bạc trắng, nhìn Hùng:
+
+— Cậu làm cái này ở Hà Nội á? Không phải nhập từ Singapore?
+
+— Dạ, thưa giáo sư. Từ nhà máy bên ven đường vành đai.
+
+— Có ai tin không?
+
+— Chưa mấy ai. Nhưng dùng rồi sẽ tin.
+
+Giáo sư gật gật đầu, tay vuốt ve vỏ máy. Ông bật máy, mở WordPerfect, bắt đầu gõ. Hùng đứng đợi. Mười phút sau, giáo sư đẩy kính:
+
+— Mượt. Cậu làm ăn tử tế.
+
+— Cảm ơn giáo sư. Có gì cần hỗ trợ, cứ gọi số này.
+
+Hùng đưa danh thiếp, in trên giấy thường vé xe ôm chứ không phải giấy bóng láng. Chữ mực đen, số điện thoại ngay ngắn. Ấn tượng không cần giấy đẹp — ấn tượng bằng sản phẩm.
+
+Ra khỏi Viện, trời đổ mưa. Mưa Hà Nội cuối thu, lất phất, ướt sũng nhưng không nặng hạt. Hùng không mang áo mưa. Ông đứng dưới mái hiên, nhìn phố xá chìm trong mùi xăng và mùi bụi than. Một chị bán hàng rong đội nón đi ngang, quẩy gánh chè. Chị dừng lại:
+
+— Anh ăn chè không? Nóng đây.
+
+— Lấy một bát.
+
+Hùng ngồi bệt lên vỉa hè, ăn bát chè nóng giữa mưa. Chè đỗ đen, nước cốt dừa béo ngậy, đường không quá ngọt. Ông nhìn vào bát chè, nhìn ra phố, và thấy mình thật nhỏ giữa Hà Nội. Nhưng mà cũng thấy lạ: ở cái tuổi ông, người ta làm đủ thứ — khoai tây, xe đạp, máy cày, điện thoại, máy tính… Nếu kiếp trước ai bảo ông sẽ làm máy tính ở Hà Nội, ông cười hết nổi.
+
+Trả tiền hai nghìn đồng. Chị hàng rong cảm ơn rối rít. Mấy nghìn lẻ — nhưng bằng cả buổi sáng của chị.
+
+Hùng đi tiếp. Mưa đã ngớt. Nắng vàng nhạt rọi qua lớp mây mỏng, làm ướt át mặt đường sáng lấp lánh. Nhà máy, Văn phòng, Viện nghiên cứu. Mỗi nơi một câu chuyện.
+
+Về nhà, áo vẫn ẩm. Bà Hà mắng:
+
+— Ba mươi tuổi đầu, mưa gió không biết tránh. Thay áo ngay!
+
+Hùng cười. Có bà ở đó, có nhà. Mọi việc ngoài kia dù hỏng hay thành, cuối ngày vẫn có một chỗ để về, một người để nghe mình kể — không phải kể doanh thu, mà kể "hôm nay con thấy một cây bàng đỏ lá, đẹp lắm bà ạ."
+
+
+Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1992 — được rồi.'
+「Hệ thống — GHI NHẬN ch.168」
+Năm: 1992
+Tổng EXP: 28,200 (+300 nhịp này)
+Không gian kho: 9,400m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: sổ cái khớp system_ledger — không double-book

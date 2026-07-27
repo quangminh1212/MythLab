@@ -1,0 +1,182 @@
+============================================================
+Chương 98: Sản xuất điện thoại
+============================================================
+
+Bảy giờ sáng, Khu công nghiệp tỉnh Hà Tây. Năm 1987.
+
+Tiếng máy nổ diesel rền từ xưởng cơ khí bên cạnh. Hùng đứng ở cửa, nhìn ba dãy bàn gỗ xếp dọc theo nền xi-măng còn mùi mới. Trên mỗi bàn: một khung gỗ kê, bộ đồ nghề gồm kìm, tua-vít, mỏ hàn, chì, nhựa thông, và một cái đèn bàn. Cửa xưởng mở rộng, gió sớm thổi qua, mang theo mùi dầu máy trộn mùi nhựa thông chưa kịp tan.
+
+Dây chuyền điện thoại bắt đầu bằng năm người ở đầu dây chuyền. Họ xếp linh kiện theo thứ tự: vỏ nhựa đúc sẵn — mua từ xưởng ép nhựa dưới huyện — mâm quay số bằng nhôm đúc, lò xo hồi vị, cần gạt móc tổ hợp, ba con ốc M3 mạ kẽm, và cụm loa tai nghe bằng thép từ. Từng linh kiện được đặt trong khay gỗ, phân loại theo bàn.
+
+Hùng cầm một vỏ nhựa lên. Màu đen, chất dẻo cứng, đúc khuôn hai mảnh. Mảnh trên có lỗ cho mâm quay, lỗ cho cần gạt, lỗ cho dây tai nghe chui ra. Mảnh dưới có bốn chân đế cao su. Ông lật mặt trong: gân gia cường chạy dọc, ba trụ bắt vít định vị bo mạch. Ông gõ ngón tay lên vỏ — tiếng kêu đanh, không rỗ — đạt.
+
+"Loại này nhập từ Nhật về dạng cụm rời?" — Lan hỏi.
+
+"Mẫu mới. Vỏ trong nước, linh kiện điện trong nước ráp. Chỉ con chip khuếch đại thuê bao và cuộn cảm chuông là nhập. Còn lại — dây, ốc, màng loa, biến trở, tụ giấy — đều mua trong nước."
+
+Lan ghi vào sổ tay. Chị đã đánh dấu trước những việc cần kiểm tra trong ngày: nguyên liệu đủ, dụng cụ đủ, người đủ. Chị đếm: mười hai khay linh kiện, sáu cây mỏ hàn, ba cuộn chì hàn, hai lọ nhựa thông, một cân ốc M3 mạ kẽm.
+
+Người thợ cả tên Bình, bốn mươi lăm tuổi, từng làm cho xưởng điện tử quốc doanh ở Hà Nội trước khi xưởng giải thể năm 1985. Ông cầm bo mạch ép phenolic lên, chỉ vào đường đồng: "Chỗ này dễ đứt nếu uốn quá tay. Phải căn ke. Ở xưởng cũ tôi từng thấy một người uốn gãy ba cái bo trong một buổi sáng. Không phải tay nghề kém — tại không ai chỉ."
+
+"Anh dạy họ cách uốn," Hùng nói. "Mất một buổi để dạy, để khỏi mất một tháng để sửa."
+
+Bình gật. Ông quay ra năm người thợ mới, nói chậm: "Đây là bo mạch chính. Có năm linh kiện phải hàn: ba điện trở than — hai cái một trăm ôm, một cái bốn trăm bảy mươi ôm — một tụ giấy 0.1 micro-farad, một cuộn cảm lõi không khí. Hàn nguội là hỏng. Hàn chảy nhựa thông là dập bo. Nhìn đây."
+
+Bình cầm mỏ hàn, để ba giây cho đầu mỏ đủ nóng, chấm vào nhựa thông, khói trắng bay lên. Ông đưa chì vào điểm hàn, chạm một giây, rút chì, giữ nguyên một giây, rút mỏ hàn. Mối hàn bóng, hình núi lửa, không chạm sang đường đồng bên cạnh. Ông đưa bo mạch ra ánh sáng: mối hàn ánh bạc, đều, đẹp.
+
+"Thử đi. Mỗi người năm mối hàn giáp mối — không hàn trên không, không hàn chồng, không hàn nguội. Làm xong tôi kiểm từng mối."
+
+Năm người thợ cúi xuống. Một người trẻ nhất, tên Phong, hai mươi hai tuổi, run tay khi cầm mỏ hàn lần đầu. Bình đặt tay lên vai Phong: "Cầm chắc. Hít một hơi. Chạm ba giây là đủ, không cần nhấn."
+
+Tám giờ, dây chuyền bắt đầu chạy thẳng.
+
+Bàn một: lắp bo mạch vào vỏ dưới. Ba ốc M3 bắt chặt, hai ốc định vị miếng đệm nhựa cách điện. Mỗi người thợ có một cái kìm nhỏ bấm ốc; tay trái giữ bo, tay phải vặn. Nhịp: mười lăm giây một bộ.
+
+Bàn hai: lắp mâm quay số — đặt lò xo hồi vị vào rãnh, gài cần gạt móc tổ hợp, lắp mâm nhôm vào trục, bắt ốc giữ, quay thử. Mâm phải quay êm, không kẹt, không lệch, và phải tự hồi về không khi thả. Cơ cấu cam bên trong mâm quay tạo ra các xung điện: mỗi số tương ứng với một số lượng xung nhất định — số 1 là một xung, số 9 là chín xung, số 0 là mười xung.
+
+"Nghe tiếng cót két không?" Bình hỏi người thợ ở bàn hai.
+
+"Có chút."
+
+"Tháo ra, tra dầu. Mỡ bò. Một giọt, không nhiều hơn. Dầu nhiều sẽ loang ra cam, làm sai xung."
+
+Bàn ba: lắp cụm loa và micro. Loa là màng thép đường kính năm phân, cuộn âm quấn tay trên lõi giấy. Khoảng cách giữa cuộn âm và nam châm vĩnh cửu phải đúng 0,5 mm — không chạm, không xa quá. Micro là hộp carbon — hai điện cực đồng, giữa là bột carbon nén, mặt trước là màng nhôm mỏng, đường kính ba phân. Hùng cầm một micro carbon lên, lắc nhẹ: nghe tiếng bột carbon rơi lộp bộp. "Cái này nhạy lắm. Rơi mạnh là hỏng màng, hỏng luôn cả hộp carbon vì bột rơi ra ngoài. Cầm như cầm trứng. Lắp vào vỏ trước, hàn dây sau, không hàn ngược."
+
+Bàn bốn: lắp dây tai nghe. Dây xoắn hai lõi đồng 0,3 mm, bọc nhựa PVC đen, dài một mét hai, một đầu hàn vào loa, một đầu hàn vào micro. Dây phải luồn qua lỗ trên vỏ — cái lỗ chỉ rộng hơn dây 2 mm — rồi kẹp chặt bằng đệm cao su chống kéo. Nếu kẹp không chặt, dây tuột, đứt lõi bên trong, máy không nghe được.
+
+Bàn năm: lắp chuông điện thoại. Chuông là hai thanh thép non, một cuộn cảm lõi sắt, và một cần gõ bằng đồng thau. Khi tín hiệu xoay chiều 75-90V đến từ tổng đài — đúng, điện thoại thời đó dùng điện áp chuông cao — cuộn cảm tạo từ trường, hút cần gõ, đập vào thanh thép. "Boong... boong..." — Hùng thử. Tiếng nghe ấm, vang vừa phải.
+
+"Có thể điều chỉnh âm bằng cách vặn ốc trên cần gõ," Bình nói. "Nhưng đừng để lỏng quá, chuông kêu không rõ. Cũng đừng siết chặt quá, thanh thép không rung được."
+
+Hùng lắp thử vỏ trên vào, bắt bốn ốc M3. Xong. Cái máy đầu tiên trong ngày — linh kiện trong nước, tay thợ mới, mọi thứ còn ráp mùi nhựa mới. Ông đặt lên kệ. Số 1.
+
+Chín giờ, Hùng và Lan đi quanh dây chuyền. Mỗi bàn đã làm được vài bộ — nhịp còn chậm, tay còn lóng ngóng, nhưng đã có sản phẩm. Hùng cầm một vỏ trên — lắp vào thử, bắt bốn ốc giữ, lật máy lên xem khe hở giữa hai mảnh vỏ. Khe hở không đều — bên trái hở 0,5 mm, bên phải khít. Bu-lông nhựa thừa ở mép.
+
+"Dừng bàn một," Hùng nói nhỏ với Lan. "Khe vỏ không đều. Nguyên nhân: hoặc vỏ nhựa cong vênh, hoặc trụ định vị không thẳng. Kiểm tra."
+
+Bình đến. Ông tháo vỏ, đo ba trụ định vị bằng thước cặp. Trụ giữa cao hơn 0,3 mm. Nhựa thừa ở đáy trụ.
+
+"Lỗi khuôn ép — nhựa chảy vào khe hở khuôn, tạo gờ. Gọi xưởng ép, yêu cầu sửa khuôn. Trong lúc chờ, lấy dao tróc bỏ gờ, giũa xuống 0,3. Làm bằng tay tạm, không ảnh hưởng độ bền."
+
+"Bao lâu?" — Hùng hỏi.
+
+"Mười lăm phút sửa khuôn. Dao tróc — ba mươi giây mỗi bo. Cả ngày nay chạy được."
+
+"Được. Làm."
+
+Bình lấy dao tróc, gạt nhẹ lớp nhựa thừa ở chân trụ, đo lại: ổn. Ông đưa cho người thợ bàn một: "Làm tiếp."
+
+Đến mười giờ, dây chuyền tạm ổn. Bảy bộ đã qua bàn năm. Hùng ra khu vực kho phụ, nơi xếp các thùng linh kiện nhập về. Ông mở từng thùng: cuộn cảm chuông Nhật, đóng hộp giấy vàng, nhãn in chữ Anh, ngày sản xuất 1986. Thùng thứ hai: tụ giấy Trung Quốc, nhãn đỏ, sản xuất tại Thượng Hải. Thùng thứ ba: dây điện đồng bọc PVC trong nước — Nhà máy Dây và Cáp Hà Nội, sản xuất tháng 3/1987.
+
+"Chênh lệch giá: cuộn cảm Nhật gấp ba lần tụ Trung Quốc," Lan đọc sổ.
+
+"Cũng gấp ba tuổi thọ. Cuộn cảm Nhật chịu ẩm, chịu rung, chịu dao động điện áp. Dùng Nhật cho mạch chuông — hỏng chuông là khách không nhận được cuộc gọi. Tụ Trung Quốc cho mạch tín hiệu thoại — nếu hỏng thì sửa được, không mất cuộc gọi. Tính toán chỗ nào cần bền, chỗ nào có thể thay."
+
+"Mai nhập thêm linh kiện từ Nhật?" — Lan hỏi.
+
+"Chưa. Đợi chạy hết lô đầu. Xem tỷ lệ hỏng, chất lượng đầu ra, rồi tính đơn hàng tiếp."
+
+Mười một giờ, một phụ xe chở hàng từ xưởng đúc nhôm dưới huyện đến — một bao tải mâm quay số mới. Hùng bảo người thợ ở bàn hai lấy một cái, kiểm tra: đo đường kính bằng thước, ướm lên trục, quay thử. Đường kính lỗ trục lệch 0,1 mm — trong dung sai cho phép, nhưng cần tra dầu trước khi lắp. Hùng ký nhận. Hàng nhập kho.
+
+Buổi trưa, công nhân nghỉ ăn cơm. Họ ngồi dưới bóng cây sau xưởng, trên mấy tấm bạt căng tạm. Cơm trắng, muối vừng, vài con cá khô. Hùng không về nhà. Ông ngồi cùng họ, ăn cơm hộp mẹ Lan gói: cơm trắng, cá kho tộ, rau muống luộc, một quả cà muối.
+
+Phong, người thợ trẻ nhất, hỏi:
+
+"Chú ơi, mình làm điện thoại này bán cho ai ạ?"
+
+"Bán cho Bưu điện tỉnh. Họ đặt trước ba trăm cái, trả trước một phần ba."
+
+"Nhiều thế. Làm bao lâu?"
+
+"Hai tháng. Nếu dây chuyền chạy ngon, giảm xuống tháng rưỡi. Mỗi ngày phải ra ít nhất mười bộ."
+
+Phong nhai cơm, nhìn xưởng. "Em chưa thấy cái điện thoại hoàn chỉnh bao giờ. Nhà em ở Hưng Yên, cả xã chỉ có một cái điện thoại ở Ủy ban."
+
+Hùng im lặng một lúc. "Cuối tháng này, mỗi người trong xưởng được mua một cái giá gốc. Chín mươi nghìn đồng."
+
+Mấy người thợ ngồi cạnh nghe thấy, nhìn nhau. Một người nói: "Chín chục nghìn — em để dành cả năm mới đủ."
+
+"Tôi sẽ trừ dần vào lương," Hùng nói. "Mỗi tháng trừ một phần."
+
+Chiều dậy, Hùng bảo Lan và Bình chuẩn bị kiểm tra cuộc gọi thử. Họ ráp một máy hoàn chỉnh nhất trong ngày — chọn từ mười bộ đã qua bàn năm, kiểm tra kỹ mối hàn, khe vỏ, độ êm mâm quay, tiếng chuông. Nối dây, bắt ốc, siết chặt, kiểm tra từng đường đồng bằng đồng hồ vạn năng: thông mạch.
+
+Bộ số 7 — linh kiện đầy đủ, lắp ráp sạch, không lỗi gia công.
+
+Hùng cầm ống nghe lên: nặng, chắc tay, vỏ nhựa đen bóng, đường cong ôm khít lòng bàn tay. Mâm quay số bằng nhôm, khắc số từ 0 đến 9, mỗi số cách nhau đều, mạ kẻ đen — một lớp sơn tĩnh điện mỏng. Cần gạt móc tổ hợp bằng thép mạ kẽm, bật lên nghe tiếng "cạch" khô, dứt khoát. Dây tai nghe xoắn đều, từng vòng xoắn cách nhau 3 mm, không xoắn chặt quá gây đứt ruột dây, không xoắn lỏng quá gây rối.
+
+Ông đặt máy lên bàn, nối dây tín hiệu từ máy vào tổng đài thử — một cái hộp sắt tự chế của Bình, bên trong có ba relay Nhật và một chuông 75V đấu song song. Hộp được nối với hai acquy 12V mắc nối tiếp để tạo điện áp chuông 75V.
+
+"Gọi đến số nào?" — Bình hỏi.
+
+"Gọi vào máy thử bên kia." Hùng chỉ sang bàn cuối, nơi có một máy điện thoại khác, cùng loại, lắp ráp hồi sáng. Hai máy cách nhau mười lăm mét, nối bằng dây đôi.
+
+Bình đặt tay lên mâm quay, quay số: 0-4-2. Ngón tay ông đưa vào lỗ số 0, kéo mâm đến chặn, thả. Mâm quay đều về không — một xung. Số 4 — kéo, thả, bốn xung. Số 2 — kéo, thả, hai xung. Mỗi xung là một lần ngắt relay bên tổng đài thử. Tổng đài đếm: một bốn hai — đúng số máy bên kia.
+
+Im lặng. Năm giây.
+
+Rồi chuông bên kia reo. "Boong... boong..." — hai tiếng, đúng nhịp, âm lượng vừa, không rè, không đứt quãng. Tiếng chuông lanh lảnh trong xưởng. Mấy người thợ ngước lên.
+
+Hùng đi sang bàn cuối, nhấc máy. "A-lô."
+
+"A-lô," Bình nói vào máy thử ở đầu dây chuyền. "Nghe rõ không?"
+
+Hùng đưa ống nghe lên tai. Giọng Bình vọng ra từ loa — hơi rè ở âm cuối, nhưng rõ từng tiếng, từng chữ. Âm lượng đủ, không cần nói to. Không có tiếng ù nền. Không có tiếng rít cao tần. Không mất dải — cả âm trầm lẫn âm bổng đều qua được micro carbon và loa thép từ.
+
+Ông nói: "Em thử huýt sáo xem."
+
+Bình huýt. Tiếng huýt qua micro carbon — hơi méo ở nốt cao, nhưng trong dải thoại 300-3400 Hz thì rõ, không vỡ.
+
+"Được. Chất lượng gọi được. Đóng máy."
+
+Hùng đặt ống nghe xuống. Cả xưởng nhìn ông. Không ai nói gì. Tiếng chuông vừa rồi — tiếng chuông đầu tiên từ một cái máy do chính tay họ làm — vẫn còn văng vẳng. Ông cầm máy lên lần nữa, lật xem giá thành linh kiện: vỏ nhựa 12.000, mâm quay 4.500, loa và micro 6.200, cuộn cảm Nhật 8.000, linh kiện điện 11.000, dây và ốc vặt 2.500 — tổng vật tư 44.200 đồng một máy. Cộng nhân công mỗi bộ khoảng 5.000, khấu hao dụng cụ 1.000, tiền điện nước 500. Giá vốn một máy: 50.700 đồng. Hùng đã thỏa thuận với Bưu điện tỉnh giá 85.000 — lời gộp 34.300 một máy. Ba trăm cái là hơn mười triệu lời. Cầm con số ấy trong đầu, ông thấy rõ hướng đi sắp tới.
+
+"Bộ số 7 đạt," Hùng nói to. "Lấy mẫu lưu. Số 7 là chuẩn cho tất cả bộ sau. Sai lệch nào cũng phải so với số 7 — khe vỏ, tiếng chuông, độ êm mâm quay, độ rõ âm thoại. Có sai thì sửa trước khi đóng gói."
+
+Lan ghi vào sổ: "Mẫu chuẩn 98-01. Ngày 15/7/1987. Đạt thử cuộc gọi hai chiều. Điện thoại bàn quay số, vỏ nhựa đen, mạch chính nội địa + linh kiện nhập (cuộn cảm chuông Nhật). Bo mạch phenolic đơn lớp. Micro carbon, loa thép từ. Chuông 75V."
+
+Bốn giờ chiều, dây chuyền dừng. Tổng cộng trong ngày: hai mươi ba bộ lắp ráp hoàn chỉnh. Kiểm tra lần một: mười lăm bộ qua, bảy bộ phải sửa lại — hai bộ mối hàn nguội, ba bộ khe vỏ lệch, một bộ mâm quay kẹt nhẹ, một bộ dây tai nghe hàn ngược cực micro. Một bộ hỏng bo mạch do đường đồng bị bong khi siết ốc — phải tháo ra, thay bo, làm lại.
+
+Hùng họp nhanh. Năm phút.
+
+"Ngày mai dây chuyền chạy nhanh hơn, nhưng không đánh đổi chất lượng. Số mười lăm đạt hôm nay là đáy — mai phải lên hai mươi. Bình phụ trách kỹ thuật — mỗi giờ kiểm một lần. Lan phụ trách nguyên liệu và kiểm soát — nhập thêm chì hàn, gọi xưởng ép xác nhận sửa khuôn. Tôi phụ trách giao hàng và đối tác — mai xuống Bưu điện tỉnh ký biên bản xác nhận mẫu."
+
+Lan kẻ thêm một biểu mẫu thống kê tỷ lệ đạt từng bàn — hàn, vỏ, chuông, thoại — ghi vào giấy than, nói: "Cuối tuần cộng lại sẽ biết khâu nào kém nhất. Sau này có máy vi tính thì đưa vào bảng tính, khỏi đếm tay." Hùng đồng ý: "Có số mới cải tiến được. Làm ngay."
+
+"Còn lỗi khe vỏ?" — Bình hỏi.
+
+"Đã gọi xưởng ép. Sáng mai họ sửa khuôn xong. Nếu chưa xong, dao tróc tiếp. Mai phải ra hai mươi bộ, không có chuyện đợi khuôn."
+
+Bình gật: "Được."
+
+Bảy giờ tối, Hùng về nhà. Bà Hà hỏi: "Hôm nay thế nào?"
+
+"Ra được cuộc gọi thử. Một cái điện thoại hoàn chỉnh do tay mình làm. Nghe rõ, chuông kêu to, mâm quay êm."
+
+Bà Hà cười. "Từ giờ có việc để nói với khách. Ngồi xuống ăn cơm."
+
+Mâm cơm tối: canh cua rau đay, cá rô kho tiêu, trứng luộc. Ăn cơm, Lan kể chi tiết: tiếng chuông, giọng nói qua micro carbon, tiếng "cạch" của cần gạt, tiếng mâm quay lăn tăn. Bà Hà lắng nghe. Không hỏi doanh thu, không hỏi lợi nhuận. Bà hỏi: "Công nhân có mệt không?"
+
+"Có. Nhưng họ thấy sản phẩm ra. Loại mệt khác với mệt vì việc vô ích."
+
+"Thế là được."
+
+Trước khi ngủ, Hùng viết sổ ngày:
+
+Thu: không — hàng chưa giao, chưa thu tiền.
+Chi: nguyên liệu ngày — một triệu hai trăm nghìn đồng.
+Tồn kho: chín mươi bảy cuộn cảm Nhật, bốn thùng tụ Trung Quốc (tám trăm cái), hai trăm bốn mươi vỏ nhựa, ba cân chì hàn nguyên, một cân chì hàn đã dùng, hai thùng mâm quay số, ba thùng dây tai nghe.
+Người: đủ hai mươi ba người, không ai nghỉ. Phong hôm nay hàn cháy một bo — phạt cảnh cáo, không phạt tiền vì lần đầu.
+Chất lượng: 15/23 đạt lần một. Mẫu chuẩn: bộ số 7.
+
+Dòng cuối: "Ngày 15/7/1987 — ra được một cuộc gọi thật từ điện thoại tự làm. Sau cháo năm tỉnh lại, sau khu chợ vải, sau cơm niêu bán từng suất — hôm nay làm điện thoại. Người ta đợi mình, nhưng mình không để họ đợi quá lâu. Mai gặp Bưu điện. Mốc tiếp theo: ba trăm bộ, đúng hạn, đúng chất lượng."
+
+Ông gấp sổ. Bên ngoài, mưa rào tháng Bảy bắt đầu gõ mái tôn. Trong phòng, ánh đèn dầu vàng nhạt. Ông không mơ: mai còn việc — hai mươi ba bộ đã ráp phải kiểm lại từng bộ, xưởng ép phải sửa khuôn, Bưu điện tỉnh chờ mẫu, và ba trăm cuộc gọi khác đang chờ được kết nối.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.98」
+Năm: 1987
+Tổng EXP: 16,136 (+181 nhịp này)
+Không gian kho: 5,409m² (+45m²)
+Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

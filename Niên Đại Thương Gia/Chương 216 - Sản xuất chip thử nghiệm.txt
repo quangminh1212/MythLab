@@ -2,197 +2,223 @@
 Chương 216: Sản xuất chip thử nghiệm
 ============================================================
 
-Ông viết bốn chữ “Sản xuất chip thử nghiệm" lên trang mới, rồi viết tên người chịu nếu hỏng — thường là tên mình.
+Sáu giờ sáng, Khu công nghiệp còn chìm trong lớp sương muối mỏng. Ánh đèn vàng từ dãy nhà xưởng mới hắt ra lối đi, soi bóng những chiếc xe tải đỗ dọc bờ tường. Tháng Mười một năm 1999 — cái lạnh đầu mùa len qua khe cửa sắt, mang theo mùi dầu nhớt và cao su cháy từ lò luyện.
 
-Container, biên phòng, và những đêm trắng vì một lô hàng.
+Hùng đứng trước cánh cửa phòng sạch. Phòng này mất ba tháng để dựng — tường lót nhôm, sàn vinil chống tĩnh, hệ thống lọc HEPA nhập từ Nhật qua trung gian Klaus. Chi phí: hai trăm bảy mươi triệu đồng, chưa kể thuế nhập khẩu thiết bị. Ông tự hỏi liệu mình có điên không khi đổ tiền vào một thứ mà cả nước chưa ai làm chủ được. Nhưng câu hỏi đó đã được trả lời từ tháng Tám, khi lô wafer đầu tiên từ TSMC Đài Loan đặt chân đến cảng Sài Gòn — ba trăm con chip, khắc dòng "TG-001/1999" trên bề mặt silicon.
 
-Âm thanh quanh Khu công nghiệp không đều, như nhịp thở của phố/làng.
+Klaus đã ở trong phòng sạch từ năm giờ. Qua ô kính, Hùng thấy cái bóng rộng của người Đức cúi xuống bàn thử nghiệm, tay cầm que dò. Klaus mặc bộ đồ trắng bảo hộ, đầu trùm kín, trông như một kỹ thuật viên phòng thí nghiệm hơn là một chuyên gia luyện kim mà Hùng từng thuê để kiểm tra thép nhập khẩu ba năm trước. Cũng chính Klaus là người đã giới thiệu Hùng với khái niệm "fabless" — thiết kế chip mà không cần nhà máy sản xuất — khi họ ngồi uống bia ở khách sạn Hữu Nghị.
 
-Năm 1998, tại Khu công nghiệp. “Sản xuất chip thử nghiệm” bắt đầu từ mùi dầu máy và tiếng ốc vít, không từ bài phát biểu.
+"Đứng đó làm gì? Vào đi!" Klaus nói, giọng méo mó qua loa liên lạc gắn trên tường.
 
-Hùng đi dọc dây chuyền. Ông hỏi người thợ già nhất chỗ hay hỏng, chỗ hay gian số liệu, chỗ tăng ca sẽ gãy người.
+Hùng đẩy cửa. Cảm giác áp suất thay đổi khi cánh cửa khép lại sau lưng — một cái ù nhẹ trong tai, như đi máy bay. Phòng sạch rộng chừng bốn mươi mét vuông, đủ chỗ cho một bàn thí nghiệm, tủ hút, máy hiện sóng Tektronix 2465B — bốn kênh, bốn trăm megahertz — và hai giá để wafer. Toàn bộ thiết bị được Klaus đặt hàng từ Đức qua đường ngoại giao, tránh thuế nhập khẩu thiết bị công nghệ cao vốn bị đánh thuế tới ba mươi phần trăm.
 
-Mẫu thử đặt giữa bàn. Ai khen đẹp thì khen; ai chỉ lỗi được mời ngồi gần hơn.
+Bên ngoài, tiếng máy nén khí của xưởng nhựa kế bên rền lên từng hồi. Trong phòng, chỉ có tiếng quạt gió và tiếng lách tách của máy dò.
 
-“lợi ích cổ đông" xuất hiện đúng lúc sắp chạy thật: thiếu chuẩn, thiếu phụ tùng, hoặc thiếu người biết việc. Ông thà lùi lịch còn hơn giao hàng lỗi.
+"Cả đêm không về?" Hùng hỏi.
 
-Ca chiều tan, ông đứng lại đếm không khí: mệt nhưng không oán — đó là mức ông chấp nhận; oán là mức phải dừng.
+"Về lúc mười hai giờ. Ngủ ba tiếng, vào lại." Klaus không rời mắt khỏi kính hiển vi. "Em không ngủ được, sếp ạ."
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+Hùng kéo ghế ngồi xuống bên cạnh. Mặt bàn bày mười con chip — TG-001 — mỗi con nằm trong khay nhựa chống tĩnh, chân vàng óng ánh dưới đèn huỳnh quang. Hùng cầm một con lên, xoay nhẹ giữa ngón tay cái và ngón trỏ. Silicon lạnh, bề mặt phản chiếu như gương, dòng chữ khắc laser "TG-001/1999-012" ở góc.
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+"Con số mười hai có nghĩa gì?"
 
-"Bên kia giảm giá mạnh," có người nhắc.
+"Wafer thứ nhất, hàng thứ hai, vị trí thứ mười hai." Klaus ngồi thẳng lưng, bỏ kính bảo hộ xuống. Mắt ông ta đỏ hoe, nhưng giọng vẫn tỉnh. "Em đã test tám con rồi. Bốn con chạy đúng thiết kế. Bốn con lỗi — hai chết hoàn toàn, hai chạy nhưng sai số."
 
-"Giảm bằng cắt chất lượng thì để họ giảm. Mình giữ hàng."
+"Sai số bao nhiêu?"
 
-"Về nhà ăn chưa?"
+Klaus đẩy tập giấy ghi chép về phía Hùng. Những con số viết bằng bút bi xanh, nét chữ nghiêng kiểu Đức. Trên cùng là hàng kết quả:
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+Con TG-001/1999-005: xung clock 12MHz (thiết kế: 16MHz). Lệch 25%.
+Con TG-001/1999-008: tiêu hao 4.7W (thiết kế: 3.5W). Nóng quá mức cho phép.
+Con TG-001/1999-011: ngõ ra A3 không dao động. Chết.
 
-Trưa, ông ăn cơm hộp. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+Hùng đọc chậm. Ông không phải kỹ sư điện tử — ông học kinh tế, học làm ăn, học qua các mối quan hệ và những cuốn sách dịch lậu. Nhưng ba năm qua, ông đã học đủ để hiểu bảng số liệu này: tỷ lệ hỏng 50% trên lô đầu tiên là thảm họa đối với một nhà máy bình thường, nhưng chỉ là bước đầu đối với sản xuất chip.
 
-Chiều, hướng “Sản xuất chip thử nghiệm" nhích thêm bằng chữ ký. Không pháo hoa.
+Tỷ lệ này nằm trong dự tính. Klaus đã cảnh báo từ đầu: yield của lô wafer đầu tiên từ TSMC sẽ không quá 60%, vì mask là mask thử, vì quy trình chưa được tối ưu, vì thiết kế có thể có lỗi mà chỉ test thực tế mới phát hiện. Hùng đã chấp nhận con số đó. Ông đặt mua năm trăm wafer cho lô thử — cắt ra được ba nghìn con chip — và đã chuẩn bị tinh thần để mất tới một nửa.
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+Nhưng nhìn bốn con chip hỏng nằm trên bàn, ông vẫn thấy có cái gì đó siết lại trong lồng ngực. Không phải vì tiền — hai trăm triệu cho lô thử này, Thương Gia có thể chịu được. Mà vì thời gian. Mỗi lần thiết kế lại, mỗi lần chạy lại mask, mất thêm ba tháng. Năm 2000 sắp đến. Đối thủ Đài Loan, Hàn Quốc, Trung Quốc đều đã có chip thiết kế riêng. Nếu Thương Gia chậm chân, khoảng cách sẽ không bao giờ thu hẹp.
 
-Hùng kể “Sản xuất chip thử nghiệm” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+"Con chết hoàn toàn — có xác định được nguyên nhân?" Hùng hỏi.
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+Klaus mở tủ kính, lấy ra một con chip khác — TG-001/1999-005 — đặt lên bàn. "Em nghĩ là mask lớp metal-one. Nhìn đây."
 
-「Hệ thống Thương Gia」
-Năm: 1998
-Thông báo: Tiến độ nhiệm vụ + giao dịch thành công
-Hùng nhận, gật với chính mình, rồi quay lại sổ tay — chỗ ông tin hơn bảng sáng.
+Ông ta đặt con chip lên kính hiển vi, điều chỉnh tiêu cự. Hùng cúi xuống nhìn qua thị kính. Trong ánh sáng xanh lơ, ông thấy những đường dẫn bằng nhôm mảnh như tơ nhện, chạy song song rồi đứt quãng ở một điểm — một khoảng hở nhỏ xíu, không thể thấy bằng mắt thường.
 
-Sổ “Sản xuất chip thử nghiệm" đánh dấu bút chì — có thể lùi.
+"Đứt ở góc," Klaus nói. "Mask lớp này bị lỗi khi phơi — cạnh không sắc, làm nhôm bám không đều. TSMC sẽ sửa mask. Tốn thêm mười ngàn đô la cho việc chỉnh lại."
 
-Hùng chấp nhận lợi ích cổ đông là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Mười ngàn?" Hùng nhướng mày. "Lần trước anh bảo chỉnh mask mất ba ngàn."
 
-Card visit, cà phê khách sạn: ngoài hiện đại, trong vẫn chữ tín.
+"Lần trước em tính sai." Klaus nhún vai. "Em xin lỗi. Giá thật từ TSMC là mười ngàn, cộng vận chuyển, cộng thuế. Em quên tính thuế nhập khẩu bản thiết kế."
 
-Cuối buổi, “Sản xuất chip thử nghiệm" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+Hùng im lặng. Bên ngoài, tiếng còi báo hiệu ca sáng — sáu giờ ba mươi. Xe tải nổ máy, tiếng ầm ầm vọng qua tường cách âm. Một con chuột chạy dọc theo chân tường phòng sạch, rồi khuất sau tủ kính. Klaus nhìn theo, không nói gì.
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+"Bao giờ có chip sửa lỗi?"
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+"Nếu gửi yêu cầu hôm nay, mask mới sẽ được phơi trong tuần này, wafer chạy cuối tháng, hàng về tới cảng cuối tháng Mười hai. Sang năm, em có thể test lô hai."
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+"Nghĩa là Tết dương lịch xong mới có kết quả."
 
-Ở góc nhìn người làm thuê, “Sản xuất chip thử nghiệm” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Phải. Ít nhất là thế."
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+Hùng gật đầu. Ông lấy bút, ghi nhanh vào sổ tay: *Gửi TSMC chỉnh mask metal-one. 10K USD. Hạn: 15/12. Klaus theo dõi.* Dòng chữ ngắn, không cảm xúc. Ông đã học được rằng trong sản xuất, cảm xúc là thứ xa xỉ — nó không sửa được lỗi mask, không đẩy nhanh được lịch trình, không làm cho chi phí giảm đi.
 
-USD, đồng, và lời hứa giao hàng phải khớp mới dám ký.
+"Tám con đã test," Hùng nói. "Test nốt hai con còn lại. Em muốn xem toàn bộ dữ liệu trước khi gửi báo cáo cho hội đồng quản trị."
 
-Một chi tiết năm 1998: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Klaus quay lại bàn, cầm que dò. "Hai con cuối — một từ wafer hai, một từ wafer ba. Mẫu ngẫu nhiên."
 
-Ch. 216: phần thưởng chỉ thật khi công nhân không mất ca.
+Cái que dò chạm vào chân chip. Máy hiện sóng Tektronix nhấp nháy, hiện lên dạng sóng — một đường zigzag đều đặn, đúng tần số 16MHz. Con chip thứ hai từ wafer ba cũng tốt. Klaus thở ra một hơi dài. "Sáu trên mười. Sáu mươi phần trăm. Bằng dự đoán."
 
-Không ai hoàn hảo trong “Sản xuất chip thử nghiệm". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+"Yield này chấp nhận được cho lô thử," Hùng nói. "Nhưng với sản xuất hàng loạt, cần chín mươi phần trăm trở lên."
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+"Em biết."
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+"Cần bao nhiêu thời gian?"
 
-Ông chủ động gặp người khó tính nhất quanh “Sản xuất chip thử nghiệm". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+Klaus gãi đầu qua lớp vải bảo hộ. "Nếu mask được sửa chính xác, em nghĩ lô hai sẽ đạt bảy lăm, tám mươi phần trăm. Lô ba, nếu tối ưu quy trình và thêm một bước kiểm tra quang học — có thể chín mươi."
 
-Trên đường quanh Khu công nghiệp, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Chi phí cho bước kiểm tra quang học?"
 
-Cảm xúc hôm nay nghiêng về “biết ơn người cũ". Ông không giấu, cũng không để cảm xúc ký thay mình.
+"Thiết bị hai trăm ngàn đô la. Vận hành thêm ba người mỗi ca."
 
-Khu công nghiệp mọc nhanh; bụi đỏ bám vành xe tải cả ngày.
+Hùng không trả lời ngay. Ông đứng dậy, đi vòng quanh phòng sạch. Đèn huỳnh quang chiếu lên tường tạo ra những cái bóng dài. Con chuột lại chạy qua, lần này là từ tủ kính ra cửa. Nó dừng lại, ngửi ngửi mép cửa, rồi biến mất qua khe hở dưới chân tường.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+"Thiết bị hai trăm ngàn," Hùng lặp lại. "Tổng đầu tư cho dự án chip sẽ là bao nhiêu, Klaus? Em muốn con số cuối cùng."
 
-Hai người tốt bất đồng cách làm “Sản xuất chip thử nghiệm". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+Klaus mở một tập hồ sơ dày — bìa xanh, góc đã quăn vì đóng mở nhiều lần. Ông ta lật từng trang, đọc to:
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+"Thiết kế từ Viện Kỹ thuật Quân sự: sáu trăm triệu đồng. Hợp đồng tư vấn thiết kế với nhóm sinh viên Bách khoa: một trăm năm mươi triệu. Mask set từ TSMC: bốn mươi lăm ngàn đô la. Wafer chạy thử lô một: mười hai ngàn đô la. Phòng sạch và thiết bị test: hai trăm bảy mươi triệu đồng cộng bảy mươi ngàn đô la. Lương nhân sự dự án từ tháng Ba đến nay: hai trăm mười triệu đồng."
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Sản xuất chip thử nghiệm" mà không vứt lại?
+Ông ta ngừng, cắn đầu bút. "Tổng cộng — em tính ra tiền Việt — khoảng hai tỷ hai. Bằng tám phần trăm vốn chủ sở hữu của Thương Gia tính đến cuối quý Ba."
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+Hùng ngồi xuống ghế. Hai tỷ hai. Một con số không quá lớn với tập đoàn đang có doanh thu sáu trăm tỷ mỗi năm. Nhưng nó là con số đầu tiên trong một chuỗi chi phí sẽ còn kéo dài. Sản xuất chip không giống sản xuất nhựa hay thép — mỗi lần thất bại đều để lại một khoản lỗ âm thầm, không có máy móc để thanh lý, không có nguyên vật liệu để bán lại. Chỉ có những miếng silicon nhỏ xíu, mang trên mình những đường dẫn điện không ai muốn mua.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Giả định lô hai đạt tám mươi phần trăm yield," Hùng nói. "Chi phí mỗi con chip là bao nhiêu?"
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+Klaus tính nhẩm. "Nếu sản xuất mười ngàn con — chi phí cố định dàn trải, mỗi con khoảng ba mươi lăm ngàn đồng. Rẻ hơn chip nhập khẩu cùng chức năng khoảng mười lăm phần trăm. Nhưng đó là giá thành sản xuất, chưa tính bán hàng, phân phối, bảo hành."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Sản xuất chip thử nghiệm" không đổ.
+"Và nếu yield chỉ sáu mươi phần trăm?"
 
-Điện thoại bàn, fax, cuộc gọi đứt giữa chừng vì đường truyền.
+"Sáu mươi ngàn một con — ngang giá nhập khẩu. Không lời."
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ người, và nói thẳng chỗ sẽ đau.
+Hùng gật đầu. Đây là điều ông đã biết trước khi bắt đầu — ngành chip không phải để kiếm lời ngay, mà là để có chỗ đứng. Một chỗ đứng trong chuỗi cung ứng đang hình thành ở Đông Nam Á. Nếu Thương Gia không vào từ bây giờ, năm năm sau sẽ không còn cửa.
 
-Đèn tắt. “Sản xuất chip thử nghiệm" chưa xong cả đời — chỉ xong một ngày đủ để mai còn mở cửa.
+Cánh cửa phòng sạch mở ra, Lan bước vào — cũng trong bộ đồ trắng, tay cầm một cặp tài liệu. Mặt cô hồng hào vì lạnh. Cô đặt cặp xuống bàn, nhìn dãy chip trong khay.
 
-Ai đó dặn ngủ. Ông ừ. Có mệnh lệnh chỉ nhà mới được phép đưa.
+"Nghe nói test được sáu con tốt?"
 
-Ch. 216: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+"Bốn hỏng," Hùng nói. "Nhưng trong dự tính."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Sản xuất chip thử nghiệm" mà không vứt lại?
+Lan gật đầu, không tỏ vẻ ngạc nhiên. Cô mở cặp, lấy ra một tập giấy — báo cáo tồn kho linh kiện cho tháng Mười một, kèm danh sách vật tư đã xuất cho phòng sạch từ đầu tháng.
 
-Cuối buổi, “Sản xuất chip thử nghiệm" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+"Anh xem cái này trước khi ký."
 
-Một chi tiết năm 1998: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng liếc qua. Một dòng được Lan đánh dấu đỏ: *Số lượng que dò đã dùng: 12/20. Đơn đặt hàng bổ sung: 50 que dò — nhà cung cấp Nhật, thời gian giao 4 tuần. Chi phí: 1,200 USD.*
 
-Trên đường quanh Khu công nghiệp, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Tại sao dùng nhiều thế?"
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+"Hỏng do thao tác," Klaus nói. "Mấy em kỹ thuật mới, tay còn yếu. Em đang huấn luyện."
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Mỗi que dò hỏng là hai mươi bốn đô la," Lan nói, giọng vẫn đều. "Nhân với số lần test — anh em phải cẩn thận hơn, nếu không chi phí test sẽ đội lên gấp ba."
 
-Cuối buổi, “Sản xuất chip thử nghiệm" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+Lời Lan nói ra bằng giọng kế toán, nhưng Hùng hiểu ẩn ý bên dưới — nếu Klaus không huấn luyện kỹ, một nguồn chi phí nhỏ sẽ lớn dần. Ông thấy Klaus hơi nhíu mày, nhưng không phản đối. Ở Thương Gia, cả hai đã quen với nguyên tắc: ai nói đúng thì người đó có quyền, không cần xem chức vụ.
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+"Đặt thêm que dò," Hùng quyết định. "Nhưng Klaus — em phải có biên bản huấn luyện từng người. Tuần sau em đưa cho Lan lịch kiểm tra kỹ năng thao tác."
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Sản xuất chip thử nghiệm" mà không vứt lại?
+Klaus gật đầu.
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+Ánh đèn ngoài trời đã sáng hơn. Sương tan, để lại những vệt nước đọng trên mái tôn. Bụi đỏ từ đường đất gần đó bay vào, bám lên tường trắng của xưởng. Hùng nhìn đồng hồ — bảy giờ mười lăm. Ca sáng đã vào việc, tiếng máy từ các dây chuyền lắp ráp rền đều như mạch đập của khu công nghiệp.
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Em muốn xem chip tốt chạy thử chức năng," Hùng nói. "Không chỉ test điện — test thật, với thiết bị thật."
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+Klaus đứng dậy, bước đến một bàn thí nghiệm khác. Trên bàn là một mạch in — bo mạch chủ đơn giản, do Klaus thiết kế để test chip TG-001. Bo mạch chỉ có vài linh kiện: một nguồn xung, vài tụ lọc, một cặp led báo, và ổ cắm DIP40 chứa chip.
 
-Sổ “Sản xuất chip thử nghiệm" đánh dấu xanh — quan trọng.
+"Cảnh giới này dùng để làm gì?"
 
-Một chi tiết năm 1998: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Vi điều khiển," Klaus nói. "TG-001 là vi điều khiển tám bit — em đặt thiết kế theo kiến trúc 8051, tương thích hoàn toàn với Intel. Nếu chạy được, nó có thể thay thế chip AT89C51 của Atmel."
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Hùng nhướng mày — ông biết AT89C51. Năm 1998, Thương Gia nhập khẩu ba ngàn con chip đó để lắp trong thiết bị đo lường cho nhà máy thủy điện Hòa Bình. Giá mỗi con gần hai đô la, cộng vận chuyển, cộng thuế. Nếu TG-001 chạy được, Thương Gia sẽ tiết kiệm ba mươi phần trăm chi phí linh kiện cho tất cả sản phẩm điện tử trong tương lai.
 
-Cuối buổi, “Sản xuất chip thử nghiệm" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+Klaus cắm chip vào ổ. Những chân vàng khít vào đế cắm với một tiếng "tách" nhẹ. Ông ta bật nguồn — đèn led xanh trên bo mạch sáng lên, nhấp nháy theo chu kỳ một giây.
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+"Chạy rồi," Klaus nói. Giọng ông ta có chút gì đó như nhẹ nhõm.
 
-Ch. 216: phần thưởng chỉ thật khi khách không trả hàng.
+Hùng nhìn đèn led. Nó nhấp nháy đều đặn, mỗi lần sáng là một xung nhịp từ TG-001. Trong đó, bên trong lớp silicon mỏng manh, hàng nghìn transistor đang chuyển mạch theo đúng thiết kế — một điều mà ba năm trước, Hùng cho là viễn vông.
 
-Một chi tiết năm 1998: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Ai lập trình cho nó?" Hùng hỏi.
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+"Một sinh viên năm cuối Bách khoa — em ấy viết firmware test. Chỉ là vòng lặp bật tắt led, nhưng nó chứng tỏ CPU core hoạt động." Klaus lật trang tài liệu, chỉ vào dòng code assembly. "Chỉ mất hai tuần. Nếu em ấy được tuyển chính thức, em ấy có thể viết thư viện i2c và uart trong vòng một tháng."
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Sản xuất chip thử nghiệm" mà không vứt lại?
+"Cậu ta tên gì?"
 
-Trên đường quanh Khu công nghiệp, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Nguyễn Văn Bảo. Sinh viên khoa Điện tử Viễn thông, năm cuối, đã từng làm luận văn về vi điều khiển."
 
-Cuối buổi, “Sản xuất chip thử nghiệm" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+"Tuần sau cho em ấy vào làm. Thử việc ba tháng, lương khởi điểm một triệu hai — cao hơn mặt bằng chung ba trăm. Nếu chạy được i2c, tăng lên."
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Klaus gật đầu, ghi nhanh vào sổ.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+Cánh cửa phòng sạch lại mở — lần này là bà Nguyễn Thị Hà, vợ Hùng. Bà mặc áo khoác dày, đầu quấn khăn len, tay xách túi đựng đồ ăn sáng. Bà dừng lại trước cửa phòng sạch, không bước vào.
 
-Ch. 216: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+"Ăn sáng chưa?" Bà hỏi, giọng vọng từ ngoài cửa.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên chất lượng, và nói thẳng chỗ sẽ đau.
+Hùng nhìn đồng hồ — bảy rưỡi, ông chưa ăn gì từ tối hôm qua. Bụng ông kêu lên, nhắc nhở.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Chưa."
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Bà Hà đặt túi xuống ghế ngoài hành lang. "Cháo gà, còn nóng. Có cả quẩy." Bà chỉ vào túi, rồi quay người đi về phía cuối hành lang — bà xuống xưởng may để kiểm tra hàng, công việc bà vẫn làm dù Hùng đã bảo nhiều lần rằng bà có thể nghỉ.
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng ra ngoài, ngồi xuống ghế, mở túi cháo. Hơi nóng bốc lên trong cái lạnh buổi sáng, mang theo mùi hành phi và thịt gà xé. Ông ăn từng thìa, chậm rãi.
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 33 gắn với bác sĩ Tuấn: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Klaus cũng ra ngoài, ngồi xuống chiếc ghế cạnh Hùng. Ông ta lấy một cái quẩy, bẻ làm đôi: "Vợ sếp vẫn làm ở xưởng?"
 
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 34 gắn với Klaus: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Bảo bà ấy nghỉ không chịu. Bảo ở nhà buồn."
 
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em hiểu. Vợ em ở Đức cũng thế — bà ấy làm thợ may từ năm mười tám tuổi, giờ vẫn không chịu bỏ."
 
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Họ ăn trong im lặng. Tiếng máy từ xưởng kế bên vọng sang, hòa với tiếng chim sẻ lích chích trên mái tôn. Những đám mây xám đang kéo đến từ hướng biển, báo hiệu một cơn mưa cuối mùa.
 
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em nghĩ cái chip này sẽ chạy," Klaus nói, miệng nhai quẩy. "TG-001. Nó không nhanh, không mạnh. Nhưng nó đáng tin."
 
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 38 gắn với bác sĩ Tuấn: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em dựa vào đâu mà nói thế?"
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 39 gắn với Klaus: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Klaus chỉ vào phòng sạch. "Kết quả. Sáu trên mười con chạy đúng, cùng một thông số. Không dao động. Trong sản xuất, sự ổn định quý hơn sự hoàn hảo." Ông ta nuốt hết miếng quẩy, lau tay vào áo bảo hộ. "Em đã thấy nhiều lô thử ở Đức. Công ty lớn, tiền nhiều, nhưng yield chỉ ba lăm, bốn mươi phần trăm — vì thiết kế quá tham vọng. Cái này của mình khiêm tốn hơn, nhưng chắc chắn hơn. Em nghĩ sản xuất hàng loạt trong năm 2000 là khả thi."
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Sản xuất chip thử nghiệm" năm 1998 tại Khu công nghiệp, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+Hùng không nói gì. Ông nhìn về phía xưởng lắp ráp — một dãy nhà dài, mái tôn xám, bên trong hơn ba trăm công nhân đang làm việc. Họ lắp ráp loa, amply, đầu video — những sản phẩm điện tử gia dụng mà Thương Gia đã sản xuất được ba năm. Mỗi sản phẩm đều dùng chip nhập khẩu. Nếu TG-001 thành công, một phần linh kiện đó sẽ do chính họ làm ra. Chi phí giảm, chủ động nguồn cung, và quan trọng hơn — họ sẽ có công nghệ.
 
+"Được rồi," Hùng nói, đứng dậy. "Em xin lỗi — mười ngàn đô la chỉnh mask, em duyệt. Nhưng lần sau, báo giá trước khi TSMC báo. Em không muốn bất ngờ."
 
-Kết thúc đoạn này, “Sản xuất chip thử nghiệm" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Klaus gật đầu. "Rút kinh nghiệm."
+
+Hùng vào lại phòng sạch, lấy con chip TG-001/1999-012 — con đã test tốt — cho vào khay nhựa chống tĩnh, bỏ vào túi áo. Con chip còn lại trên bàn, lấp lánh dưới đèn. Sáu con tốt, bốn con hỏng, một lô mask cần sửa, và một lịch trình kéo dài sang năm sau — đó là tình hình sáng nay.
+
+Trên đường ra cửa, Hùng dừng lại trước bảng tin của phòng sạch. Tờ giấy A4 ghim trên tường, viết tay bằng mực đỏ: *"Ngày 15/11/1999 — Lô TG-001 kết thúc test sơ bộ. Yield 60%. Tiếp tục với lô hai sau khi chỉnh mask."* Chữ của Klaus. Đơn giản, không tô vẽ.
+
+Hùng rút bút, viết thêm một dòng cuối tờ giấy: *"Kế hoạch: sản xuất thử lô hai — tháng 1/2000. Mục tiêu yield: 80%. Chịu trách nhiệm: Klaus."*
+
+Ông ký tên. Xong.
+
+Ra khỏi phòng sạch, Hùng đi dọc dãy hành lang, qua xưởng cơ khí, qua kho nguyên liệu, ra bãi xe. Trời bắt đầu mưa — những hạt mưa nhỏ, lạnh, rơi xiên vì gió.
+
+Chiếc xe Toyota Crown 1997 — tài sản công ty — mở cửa cho ông từ bên trong. Tài xế tên Tuấn, một người lính cũ, không nói nhiều. Hùng ngồi vào ghế sau, lấy con chip ra khỏi túi, đặt dưới ánh sáng ban ngày vừa đủ để thấy dòng chữ khắc trên nền silicon xám.
+
+TG-001/1999-012.
+
+Hàng thứ hai, vị trí thứ mười hai trên wafer đầu tiên. Một con chip nhỏ hơn móng tay út, mỏng như tờ giấy, mang trên mình hy vọng của hai trăm người đã làm việc suốt chín tháng qua. Hy vọng của Hùng.
+
+Cơn mưa nặng hạt hơn. Hạt mưa gõ lên kính xe, âm thanh đều đều như tiếng đồng hồ.
+
+Sáng nay, bốn con chip hỏng. Sáu con tốt. Một lỗi mask đã xác định. Mười ngàn đô la cần chi thêm. Hai tỷ hai đã đổ vào dự án. Hơn một trăm ba mươi người đang chờ tin vui.
+
+Và còn hai tuần nữa để gửi yêu cầu chỉnh mask trước khi TSMC đóng cửa nghỉ Tết dương lịch.
+
+Hùng nhắm mắt.
+
+Chiếc xe lăn bánh trên con đường đất ướt, chở một con chip và một người đàn ông đang học cách chấp nhận rằng — trong công nghệ — thất bại không phải là kết thúc. Nó chỉ là một bước trong quy trình.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.216」
 Năm: 1999
 Tổng EXP: 41,810 (+239 nhịp này)
 Không gian kho: 14,286m² (+143m²)
-Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv2
+Ghi chú: TG-001 yield 60% lô thử. Chip chạy đúng thiết kế. Mask metal-one lỗi — chỉnh sửa 10K USD. Klaus chịu trách nhiệm lô hai (tháng 1/2000). Công nghệ cao lv1 → lv2.
 ============================================================

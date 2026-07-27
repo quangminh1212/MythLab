@@ -1,0 +1,196 @@
+============================================================
+Chương 116: Mở nhà máy Úc
+============================================================
+
+Năm 1987. Úc.
+
+Chuyến bay từ Sài Gòn qua Singapore rồi Sydney kéo dài mười bốn tiếng. Hùng ngồi khoang phổ thông, tập bản vẽ và sổ tay để trên bụng, ngủ được ba tiếng lẻ. Xuống sân bay Kingsford Smith, tháng ba se lạnh — cái lạnh khác Sài Gòn, khô và sắc, không giống kiểu ẩm thấp thấm vào da thịt. Trên đường từ sân bay về khu công nghiệp phía tây, ông nhìn qua cửa kính taxi: đường cao tốc rộng, xe tải chạy bên trái, biển quảng cáo bằng tiếng Anh dựng dọc lối ra. Một thế giới khác.
+
+Người ngồi cạnh ông là Trần Thị Lan — tay cầm sẵn sổ bìa cứng, bút bi đen và bút đỏ. Bà ghi vào sổ: _Ngày 12 tháng 3, 9h sáng, nhiệt độ 22°C, Sydney. Trời trong. Từ sân bay về factory — 45 phút. Ấn tượng đầu: rộng, sạch, khác bản vẽ._
+
+Sáu nghìn mét vuông nhà xưởng. Con số trên giấy là một chuyện; đứng giữa nó là chuyện khác. Hùng bước qua cửa cuốn còn xếp nếp, giày bảo hộ mới mua dán nhãn còn nguyên. Dưới chân ông — nền bê tông đánh bóng, thớ màu xám nhạt. Phía trên — dàn đèn huỳnh quang trải dài như những đường kẻ song song vô tận. Mái cao tám mét, kèo thép sơn trắng. Mùi: sơn công nghiệp khô chưa hết, dầu nhờn máy móc, bụi xi măng lắng đọng sau tuần thi công cuối.
+
+Khung nhà xưởng được dựng bởi một nhà thầu địa phương tên Ronan — người Ireland gốc, ba mươi năm trong nghề. Ronan đứng cạnh cửa, tay cầm ca cà phê đen, nhìn Hùng lặng lẽ đi vòng. Ông ta không chào — chỉ quan sát người quan sát. Sau mười lăm phút, Ronan mới nói:
+
+_"You walked the whole floor before you shook my hand. That's a first."_
+
+Hùng cười khẽ, bắt tay: _"If it breaks, my name's on it. So I walk first."_
+
+Ronan gật, không nói thêm. Trong thế giới xây dựng, một người hiểu việc là một người đáng kể.
+
+Dây chuyền sản xuất — nhập từ Nhật qua trung gian ở Melbourne — được đặt trên bệ bê tông đúc sẵn. Bốn máy dập thủy lực, hai máy cắt CNC, ba băng tải lắp ráp, hệ thống hút bụi trung tâm, phòng kiểm định chất lượng ngăn bằng kính cường lực ở góc tây nam. Toàn bộ thiết bị đến cảng Sydney ngày 5 tháng 3, thông quan mất ba ngày vì hải quan giữ lại kiểm tra xuất xứ. Phụ tùng thay thế lô đầu đi kèm — nhưng thực tế còn thiếu bảy đầu cắt dự phòng, chưa kịp đặt. Lan ghi vào sổ đỏ.
+
+Xưởng chia làm ba khu vực rõ rệt: tiếp nhận nguyên liệu và gia công thô ở phía bắc, lắp ráp tinh ở trung tâm, đóng gói và kiểm định ở phía nam, sát cửa xuất hàng. Mỗi khu vực cách nhau một vạch sơn vàng rộng mười phân — đúng chuẩn an toàn Úc, không phải do thiết kế đẹp mà do luật phạt nếu thiếu. Ronan nhấn mạnh điều này ba lần trong một buổi sáng.
+
+Hùng đi dọc dây chuyền. Ông hỏi người thợ già nhất — một thợ sửa máy người Anh di cư tên Geoff, sáu mươi hai tuổi, bốn mươi năm trong nghề khắc dấu lên hai bàn tay đầy sẹo dầu mỡ. Geoff đang ngồi dưới gầm máy dập số hai, tay vặn bu-lông giằng. Hùng ngồi xuống cạnh ông ta, mượn cái cờ-lê, tự tay vặn thử nửa vòng.
+
+_"Where's it break first?"_ Hùng hỏi, tiếng Anh pha âm Sài Gòn nhưng đủ rõ.
+
+Geoff nhìn ông — không phải cái nhìn dành cho sếp mới, mà là cái nhìn dành cho người biết cầm cờ-lê. _"Number two press. The hydraulic seal. They cheap out on the rubber. Three months, maybe four, then she weeps. Not a flood — a weep. You miss it, six months later the whole ram seizes."_
+
+Hùng ghi vào sổ. Viết bằng tiếng Việt, Geoff không đọc được. Không phải giấu — để viết nhanh hơn.
+
+_"Can you fix it before it weeps?"_
+
+_"If I get the seals. Aftermarket, not OEM. OEM same cheap rubber."_
+
+_"Order what you need. Copy to Miss Trần."_
+
+Geoff gật — lần đầu tiên trong buổi sáng ông ta gật với người mới. Một cái gật ngắn, nhưng đủ.
+
+Mẫu thử đầu tiên đặt trên bàn giữa phân xưởng — một cụm cơ khí trọng lượng khoảng bốn mươi kilôgam, thép tấm hàn và bắt bu-lông, sơn tĩnh điện màu xám nhạt. Khoảng chục người tụ quanh: kỹ sư trưởng người Việt từ Đức chuyển sang — Nguyễn Đình Phong, ba mươi tư tuổi, tóc cắt ngắn, kính gọng đen; hai kỹ thuật viên người Philippines; Geoff; một người đàn ông trung niên mặc complet — James Henderson, đại diện đối tác phân phối cho thị trường châu Đại Dương; và Lan.
+
+Hùng không ngồi. Ông đứng bên cạnh bàn, tay đặt lên sổ.
+
+_"Who sees a problem?"_
+
+Phong bước lên, tay cầm thước cặp điện tử. Anh chỉ vào mối hàn ở góc đông bắc — một đường chạy ngang gần điểm nối ống thủy lực. _"Mối này chạy thiếu hai li ở góc. Rung ba tháng, mỏi. Bốn tháng, nứt. Sáu tháng — hỏng cụm."_
+
+Hùng gật. _"Sửa được không?"_
+
+_"Được. Cắt lại, hàn đủ biên dạng. Thêm một ngày."_
+
+_"Thêm một ngày rưỡi. Kể cả kiểm tra."_ Hùng nhìn James Henderson. _"Shipment pushes one and a half days. Problem?"_
+
+Henderson nhướng mày. Ông ta nhìn mối hàn, nhìn Hùng, nhìn đồng hồ. _"Our warehouse can absorb two days. But only this once. Next time, we need a quality cert before production."_
+
+_"You'll have it from today."_ Hùng nhìn Lan. Bà ghi: _chứng nhận chất lượng — trước sản xuất — từ ngày mai._
+
+Ai khen đẹp thì khen; ai chỉ lỗi được mời ngồi gần hơn. Hôm nay, Phong được mời.
+
+Mười một giờ trưa, một chiếc Holden Commodore màu trắng đỗ trước cổng. Thanh tra lao động bang New South Wales — một phụ nữ khoảng bốn mươi tên Margaret Chen, người Úc gốc Hoa. Bà ta mặc áo khoác xanh navy, cầm bảng kẹp giấy. Không báo trước. Đây là Úc, không phải Sài Gòn — thanh tra có quyền vào bất kỳ lúc nào trong giờ làm việc.
+
+Hùng tự mình ra đón. Không sai lính. Không kéo dài thủ tục.
+
+_"Mr. Hùng? Margaret Chen, WorkCover Authority. Random inspection. You started production?"_
+
+_"Trial run. No commercial output yet."_
+
+_"Mind if I walk?"_
+
+_"I'll walk with you."_
+
+Bà Chen đi vòng quanh xưởng hai mươi lăm phút. Bà kiểm tra: biển báo an toàn (phải song ngữ Anh-Việt, theo luật), hồ sơ đào tạo an toàn lao động cho từng công nhân, hệ thống chữa cháy — hai vòi phun áp lực ở hai đầu xưởng, bình CO₂ cho khu vực máy móc, lối thoát hiểm phải mở ra ngoài, không khóa. Bà Chen dừng lại ở lối thoát phía đông, thử tay nắm — được. Bà gật.
+
+Trong phòng nhân sự tạm — một container cải tạo đặt cạnh xưởng — bà Chen yêu cầu xem hồ sơ công nhân. Lan mở tủ, lấy ra mười hai bộ hồ sơ, đóng bìa nhựa trong, có ảnh, có số điện thoại khẩn cấp, có chữ ký xác nhận đã đọc nội quy an toàn — tất cả bằng song ngữ. Bà Chen xem từng bộ, không xuýt xoa. Hơn nửa giờ sau, bà đóng bìa, nhìn Hùng:
+
+_"Your file system is better than half the factories I've seen this year. Who set this up?"_
+
+_"My wife."_ Hùng chỉ Lan. Bà Chen nhìn Lan, gật đầu ra dấu đồng nghiệp — kiểu gật của người làm việc với người làm việc.
+
+_"First inspection pass. Conditional. I want the air compressor room vented by Friday. The door's too tight — heat builds up. Send me photos when it's done."_
+
+_"Friday morning."_
+
+_"Then we're done here, gentleman."_ Bà Chen ký vào biên bản, để lại một bản, lấy xe đi. Tổng cộng bốn mươi bảy phút. Hùng nhìn đồng hồ, nhìn Lan. Lan viết vào sổ: _27-3-1987 — WorkCover pass (có điều kiện) — máy nén khí — thông gió — trước thứ Sáu._
+
+Buổi chiều, vấn đề thật sự đến.
+
+Phụ tùng lô đầu nhập từ Nhật — đúng hạn, đúng cảng — nhưng mở kiện ra, ba mươi phần trăm ống dẫn thủy lực không đúng kích thước. Sai thông số kỹ thuật. Chuyện thường tình — nhưng thường tình thì gây họa. Phòng kỹ thuật báo ngay. Hùng đứng cạnh kiện hàng mở, tay cầm một đoạn ống sai, mặt không biểu cảm.
+
+Phong đứng bên cạnh, giọng căng: _"Bên Nhật nhầm lô. Họ gửi ống cho dòng máy cũ. Mình cần dòng 12mm. Đây là 10mm. Chịu áp không nổi."_
+
+_"Nhầm hay cố tình?"_
+
+_"Không biết. Nhưng họ báo sẽ gửi lại — mất mười ngày."_
+
+Hùng không trả lời ngay. Ông nhìn kiện hàng mở, nhìn dây chuyền đang chờ, nhìn Geoff đang đứng gần đó tay lau giẻ. _"Can we ream them?"_ Hùng hỏi Geoff.
+
+Geoff bước lại gần, cầm ống dẫn, xoay đi xoay lại dưới ánh đèn. _"The wall's thin. Ream it, you weaken the wall. Not safe past 80 bar. These lines run at 120."_
+
+_"So no."_
+
+_"So no."_
+
+_"Alternative?"_
+
+Geoff chỉ vào ống dẫn dự phòng trên kệ — một cuộn ống thép không gỉ, khác nhà sản xuất, khác tiêu chuẩn. _"We have this. German. 12mm. Stronger. But different fitting ends. Need adapters. I can make adapters in two days. Each."_
+
+_"How many needed?"_
+
+_"Six."_
+
+_"Twelve days."_
+
+Hùng im lặng không lâu — khoảng mười nhịp thở. Trong mười nhịp đó, ông tính: mười hai ngày chờ adapter, trừ đi năm ngày có thể rút nếu đặt mua từ nhà cung ứng địa phương thay vì tự chế. Ông quay sang Lan: _"Tìm nhà cung ứng ống thủy lực trong bán kính một trăm cây số. Gọi điện ngay."_
+
+Lan ra khỏi xưởng, vào phòng tạm, giở danh bạ công nghiệp do Ronan để lại. Gọi: ba cuộc. Cuộc thứ nhất — không có hàng. Cuộc thứ hai — có, nhưng không đúng ren. Cuộc thứ ba — một xưởng cơ khí nhỏ ở Wollongong, do một người Croatia tên Ivan điều hành. Có adapter, có ống, có thể giao trong hai ngày.
+
+_"Ivan có thể ship sáng mai. Adapter thép không gỉ. Có chứng nhận AS."_
+
+_"Giá?"_
+
+_"Cao hơn hàng Nhật ba mươi phần trăm."_
+
+_"Gọi xác nhận. Đặt."_
+
+Lan gật, viết. Gọi lại, chốt đơn. Ivan hỏi chuyển khoản hay tiền mặt. Lan nói chuyển khoản — để lại dấu vết. Chuyện mở nhà máy ở Úc: không có dấu vết là không có bằng chứng, không có bằng chứng là không khấu trừ thuế.
+
+Bảy giờ tối, ca chiều tan. Sáu nghìn mét vuông nhà xưởng chìm trong ánh đèn vàng cam của đèn cao áp. Bên ngoài trời tối hẳn — Sydney mùa thu chạng vạng nhanh. Hùng đứng ở lối ra, nhìn công nhân đi về. Geoff lên xe ute màu bạc, phủi bụi quần, nổ máy chạy trước. Hai kỹ thuật viên người Philippines lên xe chung — họ thuê nhà gần nhau ở Fairfield, khu vực nhiều người Việt và Đông Nam Á. Một nhóm công nhân địa phương đi bộ ra bến xe buýt, áo khoác kéo khóa kín cổ. Hùng nhìn từng người một. Mệt — thấy rõ. Oán? Chưa thấy.
+
+Mệt là mức chấp nhận được.
+Oán là mức phải dừng.
+
+Ông đi vòng cuối — một mình, không Lan, không Phong. Kiểm tra những chỗ ít người để ý: góc tối cuối dãy máy dập (chỗ cắt giảm thời gian vệ sinh hay ẩn rác), bảng điện phụ phía tây (dây điện nổi hay âm, chuột có cắn không), phòng vệ sinh công nhân (sạch hay không — sạch là dấu hiệu quản lý tốt, bẩn là dấu hiệu việc khác cũng làm qua loa). Sàn ướt ở góc nhà vệ sinh nam — một vòi nước rỉ nhẹ. Ông ghi vào sổ. Chuyện nhỏ. Hỏng lớn bắt đầu từ chuyện nhỏ.
+
+Về căn nhà thuê ở Cabramatta — cách xưởng hai mươi phút, khu phố có tiệm vàng Việt Nam, tiệm phở, và một ngôi chùa nhỏ trong con hẻm. Nhà gạch đỏ một tầng, phòng khách nhỏ, bếp kiểu Úc — bếp gas bốn lò, thùng rác chia hai ngăn (một yêu cầu của chính quyền địa phương, vì Úc bắt đầu phân loại rác từ giữa thập niên tám mươi). Mới thuê hai tuần, chưa kịp sắm đồ. Trên bàn: một laptop Toshiba T1100 mà Lan mang từ Sài Gòn, một tập hóa đơn, và một lọ muối tiêu.
+
+Bà Hà — vợ Hùng — đứng trong bếp, váy nấu ăn cột ngang eo. Bà từ Sài Gòn sang sau, xin visa thăm thân ba tháng. Trên bếp: nồi canh chua đang sôi, cá basa chiên vàng để trên đĩa, rau muống luộc — tất cả mua từ chợ châu Á ở Cabramatta, giá đắt hơn Sài Gòn gấp ba, nhưng có đủ.
+
+_"Ăn chưa?"_ — câu đầu tiên của bà Hà, như mọi ngày. Không hỏi doanh thu, không hỏi thanh tra, không hỏi sao về trễ. Hỏi ăn chưa.
+
+Lan bưng nước — ấm trà nhỏ, ba cái chén. Bà ngồi xuống bên mâm, mở sổ ghi chép ra xem lại, nhưng không đọc trong bữa ăn. Gấp lại, xếp gọn sang một bên.
+
+Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+
+Hùng ăn, kể chuyện nhà máy bằng ngôn ngữ nhà: bà thanh tra gốc Hoa nói về cửa máy nén khí, cái adapter của Ivan người Croatia, Geoff người Anh sáu mươi tuổi vặn bu-lông giỏi hơn bất kỳ kỹ sư trẻ nào ông từng gặp. Chuyện ống dẫn Nhật sai kích thước kể ra thành chuyện cười — nhẹ hơn, bớt căng. Bà Hà lắc đầu: _"Hàng Nhật mà cũng sai."_
+
+_"Ở đâu cũng sai được. Quan trọng là sửa nhanh hay chậm."_
+
+Không biến bàn ăn thành phòng họp.
+Cũng không biến nhà thành người ngoài cuộc.
+
+Chín giờ tối. Lan ngồi trước laptop Toshiba — màn hình xanh đen, dòng chữ trắng — gõ báo cáo ngày. Bà gõ bằng mười ngón, tốc độ không nhanh nhưng chính xác. File lưu vào ổ mềm 5.25 inch — là một công nghệ kỳ lạ ở Sài Gòn năm 1987, nhưng ở Úc thì bình thường. Bà in ra hai bản: một để Hùng ký, một lưu tủ.
+
+Trước khi tắt máy, Lan mở thử một chương trình kế toán bằng tiếng Anh — Peachtree — chạy trên DOS, màn hình xanh đen, menu dọc. Bà thử gõ vài đầu mục: "Nhập hàng Nhật — $12,500 — Ivan adapter — $1,870." Máy tính tự cộng và phân loại. Hùng xem, nói: "Về Sài Gòn mua một bộ. Học cách dùng." Lan gật: "Bản quyền đắt, nhưng chắc hơn tính tay."
+
+Trước khi ngủ, Hùng mở sổ tay. Viết:
+
+— Thu: 0 (chưa có doanh thu). Chi: máy nén khí thông gió $340, adapter Ivan $1,870, lương tuần công nhân ca thử $4,200. Tạm ứng nguyên liệu $12,500.
+— Nợ lời: 0. Nợ người: 0.
+— Chỗ kiểm tra sáng mai: lối thoát hiểm phía đông — vẫn mở. Ống dẫn Nhật — gửi công văn yêu cầu đền bù. Ivan — gọi xác nhận ship.
+— Phương án B: nếu adapter Ivan không kịp, thì dùng ống dẫn Nhật cũ gắn giảm áp, chạy non tải 70%, chờ hàng thay thế hai tuần — nhưng Geoff nói không an toàn quá 80 bar, nên phương án B là không có phương án B. Tất cả phải dựa vào Ivan.
+
+Rồi một câu, viết nhỏ ở cuối trang:
+
+_Hôm nay có ai bị bỏ lại không?_
+
+Câu hỏi tự trả lời. Hôm nay, chưa ai bị bỏ lại. Nhưng mai sẽ có người bị bỏ lại nếu adapter Ivan không kịp, hoặc nếu ông đứng yên.
+
+Ngoài kia, Cabramatta ban đêm. Tiếng chó sủa xa. Tiếng xe tải chạy trên đường chính — tuyến vận tải nối Sydney qua Melbourne. Một thế giới khác xa Sài Gòn: yên hơn, lạnh hơn, nhưng luật lệ rạch ròi đến từng chi tiết. Ai không tuân luật thì mất — không phải mất vì bị phạt, mất vì không hiểu nổi cách người ta chơi.
+
+Hùng nằm, mắt mở, nhìn trần nhà — loại trần thạch cao kiểu Úc, thấp hơn trần nhà Việt Nam. Trong đầu, dây chuyền chạy. Ông thấy máy dập, thấy mối hàn Phong chỉ, thấy bà Chen gật đầu, thấy bàn tay Geoff đầy dầu mỡ. Sáu nghìn mét vuông. Một người dám ký tên chịu. Một sổ đã viết.
+
+Đổi Mới năm thứ hai. Ở Việt Nam, cơ chế mới đang ngấm dần — người dám bỏ hẳn bao cấp, người giữ chân trên hai thuyền. Ở Úc, người Việt trong khu Cabramatta đang học cách mở tiệm, mở xưởng, mở cuộc đời khác. Hùng ở giữa hai thế giới: Việt Nam là cội, Úc là nhánh. Nhưng nhánh này phải trổ hoa, không chỉ để đẹp — để nuôi lại cội.
+
+Bà Chen gọi thanh tra bất ngờ. Người Nhật gửi sai phụ tùng. Geoff sáu mươi hai tuổi còn nằm dưới gầm máy. Ivan người Croatia ở Wollongong nhận làm adapter trong hai ngày. Tất cả đều là thiết kế của một bức tranh lớn hơn bất kỳ bản vẽ nào. Hệ thống có thể nháy _Tiến độ nhiệm vụ + giao dịch thành công_ — ông tự chấm bằng câu hỏi nhỏ. Không ảo giác nào ký tên chịu trách nhiệm được. Bản nháp phương án B luôn nằm sẵn — khi phương án A là không có phương án B, thì phương án B là tìm ra trước khi trời sáng.
+
+Ba giờ sáng. Hùng thức dậy, mở sổ lần nữa. Viết thêm hai dòng:
+
+— Sáng mai nói Phong: sau lô đầu, kiểm định chất lượng trước khi sản xuất.
+— Nói Geoff: ưu tiên đào tạo hai thợ Việt trẻ thao tác bảo trì máy dập. Truyền nghề trong ba tháng.
+
+Ký tên.
+
+Năm 1987. Úc. Sáu nghìn mét vuông nhà xưởng — không pháo hoa, không banner, không bài phát biểu. Chỉ có một cuốn sổ mực tím, một người dám đứng ra nhận trách nhiệm, một tổ hợp những con người xa lạ — người Anh, người Croatia, người Philippines, người Việt, người Úc gốc Hoa — tất cả đang học cách làm cùng nhau trong một nhà xưởng mùi sơn còn chưa khô.
+
+Phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.116」
+Năm: 1987
+Tổng EXP: 18,416 (+83 nhịp này)
+Không gian kho: 6,000m² (+33m²)
+Kỹ năng trọng yếu: Tài chính lv1, Tài chính lv2, Giáo dục lv1, Quản lý lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

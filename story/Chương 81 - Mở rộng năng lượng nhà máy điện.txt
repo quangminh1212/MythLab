@@ -1,0 +1,250 @@
+============================================================
+Chương 81: Mở rộng năng lượng nhà máy điện
+============================================================
+
+4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở cửa phòng điều hành. Ông đứng nhìn bảng áp lực nước cấp, tay cầm tách trà nóng bốc khói giữa tiết trời se lạnh tháng Mười Một.
+
+Lịch: unit 1 dừng chủ động lúc 22:00 hôm qua. Sáng nay 6:00 — mở nắp ổ đỡ số 3, kiểm tra bạc, do lại khe hở dầu. Nếu bạc mòn quá 0.15 mm thì thay. Cả ca cơ khí đã được báo.
+
+Hùng gấp tờ lịch bàn — tờ có chữ "Mở rộng năng lượng nhà máy điện" in đậm — nhét vào túi áo. Hôm nay ông có bảy cuộc họp, hai chuyến đi hiện trường, một cuộc gọi đường dài với Viện Năng lượng về thiết kế nhiệt, và một quyết định có thể làm đội ngũ kỹ thuật mất ngủ: chọn tua-bin cho unit 3.
+
+5:15. Ca đêm bàn giao. Kỹ sư trực — anh Sơn — đọc nhật trình vận hành bằng giọng khản vì thiếu ngủ:
+
+"Unit 1: dừng lúc 22:10. Hạ nhiệt độ turbine từ 380 xuống 95°C sau 8 tiếng. Motor quay chậm đang chạy — 15 vòng/phút. Áp lực dầu bôi trơn ổn định 0.8 at. Nhiệt độ dầu 42°C."
+
+"Unit 2: vận hành 48 MW. Rung ổ đỡ số 1 và 2 trong biên độ xanh. Nhiệt hơi quá nhiệt 528°C. Áp suất bao hơi 102 at."
+
+Hùng gật. Ký nhận bàn giao. Bút bi. Mực đỏ. Thời gian: 5:18 sáng.
+
+"Bắt đầu tháo nắp ổ đỡ số 3 lúc 6:00," Hùng nói. "Tôi ở đây đến khi có kết luận."
+
+6:00. Tổ cơ khí gồm bốn người — thợ bậc 5/7 và ba thợ phụ — bắt đầu tháo nắp turbine. Nắp ổ đỡ số 3 nặng 120 kg, bắt bằng 16 bulông M24, siết mô-men 35 kgm. Thợ cả dùng súng vặn thủy lực — từng bulông, đúng thứ tự, không vội.
+
+Hùng đứng cách đó sáu mét, tay cầm calíp đo khe hở. Họ làm việc dưới ánh đèn pha — khu vực turbine tầng một không có cửa sổ, mùi dầu máy và mồ hôi hòa vào nhau. Nhiệt độ trong nhà turbine đã nguội còn 32°C — so với 48°C lúc vận hành.
+
+45 phút sau — nắp ổ đỡ mở. Thợ cả chiếu đèn pin vào lòng ổ: bạc trắng, hợp kim babít, mặt tiếp xúc bóng đều. Hùng đưa calíp vào đo — khe hở hướng kính 0.28 mm. Tiêu chuẩn cho phép 0.15-0.35 mm. Chưa tới hạn, nhưng so với biên bản lắp đặt năm 1984 là 0.18 mm — đã mòn thêm 0.1 mm sau hai năm.
+
+"Ghi biên bản — bạc ổ đỡ số 3: khe hở 0.28 mm, mòn đều, không xước, không rỗ. Cho phép tiếp tục vận hành, theo dõi rung hàng ngày. Lên kế hoạch thay bạc vào đại tu năm sau."
+
+Thợ cả gật. Họ bôi dầu mới, đậy nắp, xiết bulông. Hùng tự tay kiểm mô-men siết trên 4 bulông đầu tiên. Xong — ký vào biên bản.
+
+Đã 7:45.
+
+Hùng lên phòng điều hành uống vội tách trà. Lan đã đến từ lúc 7:00, đặt trên bàn ông xấp tài liệu dày 4 cm: báo giá tua-bin Mitsubishi, bản dịch catalogue kỹ thuật tiếng Nga của LMZ, và công văn từ Cục Điện lực về chuẩn mực đấu nối lưới 110 kV.
+
+"Công văn nói gì?" Hùng hỏi, tay lật nhanh.
+
+"Nói phải nâng tiết diện dây dẫn từ 185 lên 240 mm² — hoặc xây thêm đường dây 220 kV mới," Lan nói. "Và lắp thêm máy cắt SF6 ở trạm trung gian. Hạn: trước khi unit 3 hòa lưới."
+
+Hùng gật. Đọc kỹ đoạn kỹ thuật: dây AC-240 có dòng cho phép 610 A ở 110 kV, tương đương 116 MW — vừa đủ cho tổng công suất 150 MW (3x50 MW). Nhưng nếu họ muốn dự phòng cho unit 4 trong tương lai, phải tính đến đường dây 220 kV ngay từ bây giờ.
+
+"Tính toán kinh tế," Hùng nói, viết nhanh lên sổ tay. "Phương án A: thay dây 185→240, cải tạo trạm. Chi phí ước tính 80 triệu đồng. Phương án B: xây đường dây 220 kV mới dài 12 km — hai mạch — chi phí 450 triệu. Nhưng mở được công suất đến 300 MW."
+
+Ông nhìn lên bảng — một biểu đồ điện một sợi (single-line diagram) thể hiện lưới điện khu vực, đính trên tường phòng họp.
+
+"Chọn A cho giai đoạn một. B là phương án dự phòng."
+
+Lan ghi chép. Xong một việc.
+
+8:15. Cuộc gọi từ Viện Năng lượng — kỹ sư trưởng thiết kế tên Dũng.
+
+"Anh Hùng, tôi gửi bản vẽ sửa đường ống hơi chính. Chỗ khe co giãn nhiệt — chúng tôi tính lại, cần tăng biên độ từ 180 lên 220 mm vì nhiệt độ hơi thực tế thiết kế là 540°C, không phải 520°C như bản cũ."
+
+"Số liệu nào cho 540°C?"
+
+"Từ tua-bin Mitsubishi. Họ thiết kế hơi mới ở 538°C. Nếu mình chọn Mitsubishi, ống phải chịu được 540°C. Còn LMZ vẫn 535°C."
+
+Hùng im lặng năm giây. Quyết định tua-bin chưa chốt nhưng thiết kế ống hơi phải chốt ngay — thép 12Cr1MoV chịu được 540°C không? Ông nhớ thông số: thép 12Cr1MoV có ứng suất cho phép ở 540°C khoảng 60 MPa. Với áp suất 100 at (~10 MPa), bề dày 14 mm — tính toán sơ bộ, an toàn nếu nhiệt độ không vượt quá 560°C thường xuyên.
+
+"Tôi đồng ý tăng biên độ khe co giãn. Nhưng thép ống — giữ nguyên 12Cr1MoV, bề dày 14 mm. Nếu Mitsubishi trúng thầu, tôi sẽ yêu cầu họ cung cấp giấy chứng nhận vật liệu cho nhiệt độ thiết kế 545°C."
+
+Cuộc gọi kết thúc. Hùng gạch một dòng trong sổ.
+
+8:45. Họp với tổ vận hành và bảo trì. Phòng họp nhỏ chật — bảy người, mùi dầu máy, khói thuốc lào từ thợ già. Hùng điểm nhanh tình hình.
+
+"Unit 1 đã kiểm xong — ổ đỡ OK, dự kiến hòa lưới 15:00 chiều nay."
+
+"Unit 2 đang chạy 48 MW — giữ nguyên."
+
+"Unit 3: móng đang chờ thép. Tôi vừa gọi Thái Nguyên — họ hứa 12 tấn còn lại sẽ giao ngày 18. Nếu không, tôi sẽ lên tận nhà máy."
+
+"Băng tải than: kế hoạch thay đoạn 1-3 trong tháng này. Tôi đã duyệt phương án. Tổ cơ khí chuẩn bị nhân lực."
+
+Các tổ trưởng gật. Không ai đặt câu hỏi. Hùng thích điều đó — có nghĩa là họ biết việc mình phải làm.
+
+9:30. Tanaka đến — đúng giờ. Lần này ông ta mang theo một kỹ sư người Nhật tên Yamada, chuyên gia turbine hơi của Mitsubishi Heavy Industries. Yamada nói tiếng Anh, Lan dịch.
+
+Yamada mở bản vẽ mặt cắt tua-bin 60 MW — một cụm rotor dài 8 mét, 23 tầng cánh động, vật liệu thép Cr-Mo-V. Ông ta chỉ vào tầng cuối: cánh dài 680 mm, có dây buộc (lashing wire) ở 2/3 chiều cao cánh để tránh dao động.
+
+"55.000 giờ vận hành giữa hai kỳ đại tu lớn," Yamada nói. "LMZ — 33.000 giờ. Tuổi thọ rotor thiết kế — 200.000 giờ."
+
+Hùng hỏi một câu bằng tiếng Việt, Lan dịch: "Rotor LMZ dùng thép 25Cr1Mo1V, tuổi thọ thiết kế tương tự. Nhưng Mitsubishi có lợi thế về hiệu suất — suất hao nhiệt của các cô thấp hơn bao nhiêu?"
+
+"Thiết kế 1.970 kcal/kWh so với LMZ 2.160 kcal/kWh. Chênh lệch 190 kcal. Với 60 MW, 8.000 giờ/năm — tiết kiệm 91.200 triệu kcal/năm. Quy đổi than 5.500 kcal — 16.580 tấn than/năm."
+
+Hùng nhẩm nhanh trong đầu. 16.580 tấn than, giá than lúc này 450 đồng/tấn — tiết kiệm 7,46 triệu đồng/năm. Giá tua-bin Mitsubishi cao hơn LMZ khoảng 60% — ước tính 96 triệu so với 60 triệu. Thời gian hoàn vốn chênh lệch đầu tư: (96-60)/7,46 ≈ 4,8 năm.
+
+Đầu tư dài hạn. Nhưng bốn năm rưỡi là thời gian đủ để Đổi Mới thay đổi mọi quy tắc.
+
+"Tôi muốn hai thứ," Hùng nói. "Một: danh sách phụ tùng dự phòng cho 5 năm — kèm đơn giá. Hai: lịch đào tạo vận hành — tối thiểu 6 kỹ sư của tôi được huấn luyện tại Nhật 8 tuần."
+
+Yamada nhìn Tanaka. Tanaka gật.
+
+"Tôi sẽ gửi trong tuần này."
+
+Tanaka và Yamada ra về. Hùng nhìn đồng hồ — 10:10.
+
+10:30. Chuyến đi hiện trường — khu vực lắp máy nghiền than unit 3. Hùng đi bộ dọc tuyến băng tải cũ — 650 mét từ kho đến lò. Bụi than đen dày đặc dưới chân, nước mưa đọng thành vũng bùn đen. Một phần mái che băng tải đã hỏng — nước rỉ xuống làm trượt băng tải khi than ướt.
+
+"Anh Hai," Hùng gọi tổ trưởng cơ khí. "Phần mái che này — sửa trong tuần này. Tiền lấy từ quỹ bảo trì."
+
+"Đã sửa hai lần rồi, lần trước tôn mỏng quá, mưa to thủng."
+
+"Lần này dùng tôn dày 0.8 mm, mạ kẽm. Nếu còn hỏng, tôi sẽ hỏi anh."
+
+Tổ trưởng gật. Họ đi tiếp đến máy nghiền than — máy nghiền bi, tang trống đường kính 3 mét, dài 5 mét. Bên trong có 40 tấn bi thép các cỡ: Ø60, Ø40, Ø30. Máy quay 18 vòng/phút, tiếng ồn 98 dB. Hùng đeo nút tai — thói quen cũ từ thợ máy — ông đặt tay lên thân máy nghiền, cảm nhận rung động qua lớp sơn dày.
+
+"Ổ đỡ đầu vào — bạc nhiệt độ bao nhiêu?" Hùng hỏi người thợ vận hành trực.
+
+"65°C, anh. Bình thường."
+
+"Bôi trơn?"
+
+"Mỡ chịu nhiệt — bơm tự động 8 tiếng một lần."
+
+Hùng gật. Kiểm tra đồng hồ báo nhiệt — 65°C thật. Dưới ngưỡng 75°C. Ông ký vào phiếu kiểm tra.
+
+11:30. Văn phòng điều hành. Hùng gọi điện cho nhà máy thép Thái Nguyên — đầu dây bên kia là trưởng phòng kinh doanh tên Minh.
+
+"Anh Minh, tôi Hùng — Khu công nghiệp. 12 tấn thép Ø22 và Ø28 — lô của tôi đâu?"
+
+"Anh Hùng, xin lỗi — nhà máy đang ưu tiên đơn hàng của Tổng công ty Xây dựng. Lô của anh dồn lại cuối tháng."
+
+"Cuối tháng tôi âm tiến độ. Anh cho tôi 12 tấn trước — tôi chấp nhận lấy Ø25 thay cho Ø22, nếu anh có hàng. Tôi sẽ ký biên bản thay đổi chủng loại — trách nhiệm thiết kế tôi tự lo."
+
+Minh im vài giây. "Để tôi xem kho — gọi lại anh trong 30 phút."
+
+Hùng gác máy. Xoay người nhìn ra cửa sổ — công trường đang đổ bê tông móng máy nghiền. 180 m³ bê tông M300. Ba xe trộn đang đổ liên tục. Thợ hồ dùng đầm dùi — từng nhát, đều, đúng khoảng cách.
+
+11:45. Minh gọi lại: "Có 12 tấn Ø25 và Ø28 — anh qua lấy hóa đơn chiều nay. Nhưng giá Ø25 cao hơn Ø22 — 12 đồng/kg."
+
+"Bao nhiêu chênh lệch?"
+
+"12 tấn × 12 đồng = 144.000 đồng."
+
+"Chấp nhận. Làm hóa đơn. Tôi cho xe đến 15:00."
+
+Hùng gác máy. Ghi sổ: 12 tấn Ø25+Ø28 — thay thế Ø22 — đã chốt. Sai thiết kế nhưng vẫn đảm bảo chịu lực — diện tích thép thay thế lớn hơn yêu cầu. An toàn.
+
+12:00. Cơm trưa — cơm hộp mang từ nhà: thịt kho tàu, canh cải, cá rô kho tộ. Hùng ăn trong phòng điều hành, mắt vẫn dõi bảng điều khiển. Ăn xong, ông rót nước trà, mở tập báo giá phụ tùng LMZ gửi từ tổng kho Moskva.
+
+Tập dày 47 trang, tiếng Nga, có bản dịch kèm. Hùng lật đến mục "Cánh động tầng cuối turbine K-50-90" — mã số 4К-110-2-1. Đơn giá 8.400 rúp một bộ (một tầng = 64 cánh). Thời gian giao: 6 tháng từ ngày đặt.
+
+Gần bằng tiền mua một máy kéo MTZ-50.
+
+Ông hít một hơi. Đó là lý do Mitsubishi hấp dẫn — phụ tùng tuy đắt hơn nhưng chu kỳ thay dài hơn. Nhưng LMZ có lợi thế: kỹ thuật viên ở đây biết tua-bin Liên Xô như lòng bàn tay. Họ đã vận hành chúng 10 năm. Còn Mitsubishi — mọi thứ phải học lại từ đầu.
+
+"Đấy mới là cái giá thực sự," Hùng lầm bầm.
+
+13:30. Họp với cán bộ Điện lực địa phương — ba người, trong đó có một phó ban tên Cường. Họ mang theo bản vẽ trạm biến áp 110 kV và báo giá máy cắt SF6.
+
+"Anh Hùng, chúng tôi phê duyệt phương án nâng tiết diện dây 110 kV từ 185 lên 240. Nhưng đề nghị anh lắp thêm một ngăn lộ xuất tuyến cho unit 3 — kèm máy cắt, dao cách ly, biến dòng, biến điện áp."
+
+Hùng xem bản vẽ. Ngăn lộ mới gồm: máy cắt SF6 loại 110 kV — 1.250 A — 31,5 kA; ba dao cách ly; ba biến dòng; một biến điện áp; tủ bảo vệ rơle. Chi phí dự kiến 35 triệu đồng.
+
+"Tôi đồng ý. Nhưng tôi muốn xem bản vẽ bố trí mặt bằng — để chắc rằng vị trí đặt tủ bảo vệ không xa phòng điều hành quá 50 mét — cáp tín hiệu phải đi trong máng cáp riêng, tránh nhiễu."
+
+Cường gật. "Mai tôi gửi."
+
+14:00. Cuộc gọi đường dài từ Công ty Xuất nhập khẩu Máy — người quen tên Hải, chuyên cung ứng thiết bị điện Liên Xô.
+
+"Anh Hùng, lô van điều khiển hơi chính 150 mm — 8 cái — đã qua Hải Phòng. Tôi gửi chứng chỉ thử áp lực và chứng chỉ thép. Bản gốc tiếng Nga — bản dịch trong vòng 48 giờ."
+
+"Gửi fax cho tôi ngay."
+
+Khoảng 20 phút sau, fax đến — ba trang, chữ Nga, đóng dấu đỏ của nhà máy chế tạo Van Blagoveshchensk. Thông số: áp suất thử 135 at, nhiệt độ thử 565°C. Vật liệu thân van: thép 20CrMoV. Hùng đọc được chữ "ГОСТ 5762-74" — tiêu chuẩn nhà nước Liên Xô. Ông gật. Hàng chuẩn.
+
+14:30. Sơn — kỹ sư vận hành trưởng — báo: "Nhiệt độ dầu bôi trơn unit 2 đang lên 47°C — bình thường là 42°C. Kiểm tra thấy két làm mát dầu có thể bị tắc một phần — chênh lệch nhiệt nước vào-ra giảm."
+
+Hùng xuống ngay. Két làm mát dầu turbine — kiểu ống chùm, nước tuần hoàn làm mát. Ông sờ đường ống nước ra — ấm hơn bình thường. Lấy đồng hồ đo nhiệt: nước vào 28°C, nước ra 33°C — chênh 5°C. Thiết kế chênh 8-10°C.
+
+"Tắc một phần. Cho chạy bơm dự phòng — tăng lưu nước làm mát. Mai xả két, thông ống bằng hóa chất. Không để đến tuần sau."
+
+Sơn gật. Làm ngay.
+
+15:00. Unit 1 hòa lưới. Quy trình khởi động: đưa turbine lên 1.000 vòng/phút, giữ 5 phút, nghe âm thanh. Lên 2.000 vòng/phút, giữ 10 phút. Lên 3.000 vòng/phút, hòa lưới. Kỹ sư điện thao tác bảng điều khiển — tay hơi run nhưng đúng quy trình.
+
+Đồng hồ tần số dao động quanh 49,8 Hz. Hòa lưới — đóng máy cắt — một tiếng "bụp" rõ. Kim tải lên 10 MW. Rồi 20 MW. Unit 1 chạy ổn định ở 30 MW sau 30 phút. Sơn báo rung động ba ổ đỡ: 0.02 — 0.025 — 0.03 mm. Xanh tất cả.
+
+Hùng thở nhẹ. Ký vào nhật trình: Unit 1 hòa lưới 15:28. Rung ổ đỡ số 3 sau kiểm tra: 0.025 mm — trong tiêu chuẩn.
+
+16:00. Một người lạ vào văn phòng — tự xưng là đại diện công ty TNHH Thiết bị Công nghiệp Sài Gòn. Mang theo catalogue máy cắt SF6 Trung Quốc — giá bằng 1/3 Pfisterer. Chào hàng 30 bộ sứ cách điện "chất lượng tương đương, giá rẻ hơn 40%".
+
+Hùng xem catalogue — giấy in mờ, số liệu kỹ thuật không có chứng nhận thử nghiệm kiểu (type test). Dòng cắt định mức ghi 25 kA, nhưng không ghi số lần cắt ngắn mạch liên tiếp. Hùng hỏi: "Có chứng nhận thử nghiệm từ phòng thí nghiệm quốc tế không?"
+
+Người đại diện lúng túng: "Chúng tôi có bản sao — nhưng chưa mang theo."
+
+"Khi nào có, hãy quay lại."
+
+"Nhưng giá rẻ hơn 40%, anh Hùng. Anh không muốn tiết kiệm cho nhà máy?"
+
+Hùng đặt catalogue xuống, nhìn thẳng: "Tôi tiết kiệm bằng cách mua hàng đúng chuẩn, lắp một lần, chạy 30 năm. Không phải bằng cách mua hàng rẻ, hỏng sau một năm, mất điện toàn khu công nghiệp."
+
+Người đại diện thu catalogue, ra về.
+
+17:00. Họp giao ban cuối ngày. Các tổ trưởng báo cáo nhanh, Hùng ghi sổ. Tổ cơ khí: khe hở ổ đỡ unit 1 OK, turbine đã chạy. Tổ xây dựng: móng máy nghiền đổ bê tông xong 180 m³. Tổ điện: máy cắt SF6 đã đặt — chờ giao. Tổ vận hành: unit 2 48 MW, unit 1 30 MW, tổng tải 78 MW.
+
+Hùng tổng kết năm phút. Nhấn mạnh: thứ Hai tuần sau — chốt tua-bin. Trong tuần — sửa mái che băng tải. Ngày 18 — thép Thái Nguyên.
+
+18:00. Mặt trời lặn. Hùng ra ngoài hiên phòng điều hành — nhìn toàn cảnh công trường lúc chạng vạng. Cần cẩu RDK-25 dừng, người tan ca. Nhưng vài đèn hàn vẫn sáng — tổ cơ khí làm thêm để kịp tiến độ thay băng tải cuối tuần.
+
+Hùng hút một điếu thuốc — thói quen chỉ làm ở ngoài hiên, không bao giờ trong phòng. Khói thuốc tan vào mùi dầu DO và bụi than.
+
+"Anh — ngày mai Mitsubishi gửi bảng giá phụ tùng," Lan ra đứng cạnh. "Còn LMZ — họ trả lời sẽ gửi đường hàng không tuần sau."
+
+"Tốt. Nhưng em biết không — đấu thầu không khó. Quyết định mới khó."
+
+Lan không nói gì. Chỉ đứng cùng ông năm phút, rồi quay vào.
+
+18:30. Hùng ngồi lại với cuốn sổ — bìa đen, 200 trang kẻ ô ly. Một nửa đã viết đầy — con số, sơ đồ, ký hiệu. Ông mở trang mới, viết:
+
+* Chốt ổ đỡ unit 1: OK, hẹn thay bạc đại tu 1987
+* Móng máy nghiền: xong bê tông — chờ đông cứng 7 ngày
+* Máy cắt SF6: chờ giao
+* Dây 240 mm²: vật tư giao tháng 12 — thi công tháng 1/87
+* Thép Thái Nguyên: 12 tấn, đã lấy hóa đơn, xe đi 15:00
+* Van LMZ: 8 cái, chứng chỉ OK
+* Sứ cách điện Trung Quốc: từ chối
+* Tua-bin: LMZ vs Mitsubishi — chốt thứ Hai tuần sau
+* Khe co giãn nhiệt: Dũng Viện Năng lượng — tăng 220 mm
+
+Ông đọc lại một lần. Gấp sổ.
+
+19:00. Về nhà. Bà Hà hỏi: "Ăn chưa?" Hùng gật — dù chưa ăn, nhưng ông không muốn bà phải dọn thêm. Bà nhìn ông một lát, không tin — nhưng không hỏi thêm. Chỉ bưng ra bát cơm nóng và đĩa cá kho tiêu.
+
+Lan ăn cùng. Mâm cơm không linh đình — ba món: canh chua, cá kho, rau luộc. Đủ.
+
+"Tua-bin họ thế nào?" Lan hỏi — nhưng hỏi nhẹ, kiểu hỏi để chia sẻ chứ không phải hỏi để báo cáo.
+
+"Khó chốt. LMZ an toàn, Mitsubishi hiệu quả. Chênh lệch 4,8 năm hoàn vốn."
+
+"Ở Nhật họ đào tạo không?"
+
+"Sáu kỹ sư, tám tuần — nếu mình chọn Mitsubishi."
+
+"Anh chọn cái gì giữ được người và thiết bị chạy bền," bà Hà nói từ bếp. "Chọn xong thì về ăn đúng giờ."
+
+Hùng cười — lần đầu trong ngày.
+
+Trước khi ngủ, ông mở lại sổ. Đọc dòng cuối cùng ghi ở hiên nhà máy: "Tháng Mười Một, 1986 — đất nước đổi. Nhưng nhiệt độ hơi quá nhiệt vẫn là 535°C, dù đất nước có đổi thế nào. Áp suất không đổi. Oát không đổi. Kỹ thuật không đổi. Chỉ có người phải đổi — để theo kịp."
+
+Đèn tắt. "Mở rộng năng lượng nhà máy điện" chưa xong cả đời — chỉ xong một ngày, đủ để mai còn mở cửa.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.81」
+Năm: 1986
+Tổng EXP: 12,500 (+250 nhịp này)
+Không gian kho: 4,543m² (+57m²)
+Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================

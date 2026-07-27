@@ -78,7 +78,7 @@ Hùng mở tủ lấy ra một cuốn sổ tay, viết nhanh lên trang đầu:
 *- Ba: Lịch sử tín dụng (hỏi hàng xóm, chủ cho thuê nhà, người cung cấp)*
 *- Bốn: Dòng tiền thực (vay để mua gì, làm gì, bán ở đâu)*
 
-“Vậy anh định tin vào miệng người ta hơn là sổ sách?” Lan nhìn cột đầu tiên.
+— Vậy anh định tin vào miệng người ta hơn là sổ sách? — Lan nhìn cột đầu tiên. — Em đọc báo cáo của Ngân hàng Nhà nước — họ khuyến cáo cho vay phải có tài sản bảo đảm tối thiểu 70% giá trị khoản vay. Mình xuống dưới mức đó, thanh tra tài chính sẽ hỏi.
 
 “Sổ sách 1991 toàn là sổ tay, sổ ghi chép bằng tay,” Hùng giải thích. “Muốn làm giả là dễ. Nhưng tiếng tăm trong một khu phố — cái đó khó làm giả hơn.”
 
@@ -205,6 +205,8 @@ Trước khi ngủ, Hùng viết thêm một dòng vào sổ:
 Và trong những trang sổ nhà, bà Hà đã thắp nén hương cho ông trước khi đi ngủ — cầu cho con cháu làm ăn được.
 
 ============================================================
+
+Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1991 — được rồi.'
 「Hệ thống — GHI NHẬN ch.156」
 Năm: 1991
 Tổng EXP: 24,300 (+300 nhịp này)

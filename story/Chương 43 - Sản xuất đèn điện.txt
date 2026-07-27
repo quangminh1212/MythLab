@@ -1,0 +1,93 @@
+============================================================
+Chương 43: Sản xuất đèn điện
+============================================================
+
+Ngày 13 tháng ba năm 1985, chiếc đui sứ Minh đặt trên bàn được mở thành bốn phần: thân đui, hai cực đồng, vòng ren và vít giữ dây. Một vật nhỏ hơn nắm tay có thể gây cháy cả căn nhà nếu cực lỏng, dây trần chạm vỏ hoặc nhiệt của bóng bị giữ dưới chao. Hùng không cho gọi đó là sản phẩm phụ sau quạt. Lan mở sổ mã ĐB-01, dành riêng cho đèn bàn.
+
+Sản phẩm được chốt vừa đủ cho khả năng xưởng: đèn bàn cổ mềm bằng thép, đế có đối trọng, chao kim loại thoáng phía trên, đui sứ E27, công tắc đặt trên đế, dây đôi bọc cách điện dài một mét tám, phích hai chấu, dùng điện 220 vôn và bóng tối đa sáu mươi oát. Xưởng bán thân đèn kèm bóng thử, không tự sản xuất bóng. Nhãn dưới đế phải ghi rõ điện áp, công suất bóng tối đa, số thân và tháng sản xuất.
+
+Điều kiện nhiệm vụ ghi ở đầu trang: trong bốn mươi lăm ngày làm xong mẫu và một trăm năm mươi bộ đèn; giá thành thân đèn không quá sáu mươi tám đồng, chưa tính bóng; mọi đèn phải qua kiểm thông mạch, cách điện và kéo dây; ba mươi đèn chọn ngẫu nhiên chạy bóng sáu mươi oát trong sáu giờ; chao không biến dạng, công tắc không kẹt, dây và phích không nóng bất thường; tỷ lệ lỗi lần đầu không quá bốn phần trăm. Phần thưởng dự kiến là hai trăm điểm kinh nghiệm và năm mươi mét vuông kho, chỉ ghi khi có mẫu, quy trình và lô thật.
+
+Kinh nghiệm quạt giúp xưởng biết tách người lắp khỏi người kiểm, giữ số thân và thử nhiệt theo giờ. Nó không trả lời được khoảng cách giữa dây và mép kim loại hay cách ngăn đế đèn đổ. Minh đặt bóng sáu mươi oát vào một chao kín mua ngoài chợ. Sau một giờ, sơn gần đỉnh mềm đi, mùi hắc bốc lên. Khi bóng tắt, phần dây gần đui đã ấm hơn rõ rệt.
+
+“Chao đẹp mà giữ nhiệt là cái hộp nung,” ông nói.
+
+Mẫu chao đầu tiên được dập thuê, đường kính hai mươi phân, có sáu khe thoát phía trên. Mép dưới cuộn tròn để không cắt tay. Đui sứ cách chao bằng một vòng đệm chịu nhiệt. Dây đi qua ống thép cổ mềm phải có ống lót ở cả hai đầu; không cạnh kim loại nào được chạm trực tiếp lớp bọc dây. Đế nặng một phẩy tám kilôgam, đáy rộng mười tám phân. Khi đầu đèn vươn hết tầm, đế vẫn phải đứng trên mặt bàn nghiêng tám độ.
+
+Lan chia danh mục mua thành năm nhóm: đui sứ; dây và phích; công tắc; thép cho đế, cổ, chao; bóng dùng thử. Thép xưởng có thể mua theo nguồn cơ khí quen. Dây điện từ nhà cung cấp quạt có hồ sơ mẻ và kích thước ổn định. Đui sứ là điểm yếu: nơi thứ nhất có đủ hai trăm chiếc nhưng cực đồng mỏng; nơi thứ hai có hàng dày hơn, chỉ còn sáu mươi chiếc; chuyến tiếp theo hẹn cuối tháng tư, quá hạn nhiệm vụ.
+
+Minh thử hai loại. Với đui mỏng, vít siết dây trượt ren sau năm lần tháo lắp ở ba trong mười mẫu. Cực đồng đổi màu sau sáu giờ dùng bóng sáu mươi oát. Loại dày giữ ren, nhiệt thấp hơn. Hùng loại lô rẻ dù giá chênh ba đồng. Nhưng sáu mươi đui tốt không đủ cho một trăm năm mươi đèn và mẫu thử.
+
+Ngày 15 tháng ba, Lan tới cơ sở gốm điện ở Bát Tràng được một người bán vật tư giới thiệu. Cơ sở có thân sứ đủ kích thước nhưng thiếu cực đồng đúng mẫu. Họ đề nghị dùng thép mạ thay đồng để giao nhanh. Minh mang theo cân, thước và hai mẫu đã thử. Thép mạ cứng nhưng dẫn điện kém hơn ở tiết diện ấy; chỗ tiếp xúc có nguy cơ nóng. Ông không chấp nhận đổi vật liệu bằng lời bảo đảm.
+
+Chủ cơ sở cho biết một xưởng dập đồng ở Gia Lâm có thể làm cực, song họ chỉ nhận tối thiểu năm trăm bộ. Mua năm trăm sẽ chôn vốn, trong khi thân sứ chỉ cần một trăm tám mươi bộ gồm dự phòng. Lan tìm hai khách khác của cơ sở gốm: một nơi sửa đèn, một hợp tác xã làm bảng điện. Ba bên gộp đơn năm trăm bộ, mỗi bên ký số lượng riêng, thanh toán riêng. Hùng nhận hai trăm bộ, đủ một trăm năm mươi sản phẩm, hai mươi mẫu phá hủy và ba mươi phụ tùng bảo hành. Xưởng dập giao cực ngày 25 tháng ba; Bát Tràng lắp hoàn thiện ngày 29. Lịch còn mười chín ngày để sản xuất.
+
+Rủi ro là cực đồng mới chưa từng qua thử. Hùng chỉ đặt cọc ba mươi phần trăm, phần còn lại trả sau khi kiểm mẫu hai mươi bộ. Bản vẽ ghi bề dày, đường kính lỗ vít, bước ren, độ phẳng mặt tiếp xúc. Mười bộ đầu phải được giao ngày 20 để thử nóng; nếu không đạt, đơn chính được dừng. Không ai gọi việc gộp mua là đã giải quyết nguồn cung trước khi mẫu thật tới xưởng.
+
+Trong thời gian chờ đui, ông Tam làm đồ gá cho đế và chao. Mẫu đế thứ nhất dùng cát làm đối trọng. Nó rẻ, nhưng nếu đáy bung, cát lọt ra; độ ẩm cũng làm khối lượng thay đổi. Mẫu thứ hai dùng tấm gang bắt bằng ba vít, nặng hơn nhưng kiểm được. Giá tăng hai đồng bốn hào. Hùng chọn gang, bù lại bằng cách đơn giản hóa tay xách trang trí không có chức năng. Một chi tiết bị xóa khỏi bản vẽ tiết kiệm một đồng tám hào và một mối hàn.
+
+Cổ mềm mua ngoài chợ có hai loại. Loại rẻ giữ được góc trong mười lần đầu rồi xệ. Minh dựng phép thử: treo đầu đèn ở vị trí ngang, bật tắt và bẻ qua lại năm trăm chu kỳ bằng tay quay chậm. Ba mẫu rẻ xệ từ mười hai đến hai mươi độ; loại dày xệ dưới ba độ. Loại dày đắt hơn một đồng rưỡi nhưng được chọn. Điểm nối cổ vào đế thêm đai ốc hãm, vì keo không phải bằng chứng cơ học lâu dài.
+
+Ngày 20 tháng ba, mười bộ cực đồng đầu đến. Bề dày đúng, nhưng hai bộ có ba via quanh lỗ vít. Nếu lắp nguyên, ba via có thể cắt sợi dây khi siết. Minh trả hai bộ, giữ tám bộ đạt để lắp vào thân sứ mẫu. Ông yêu cầu xưởng dập thêm công đoạn rà mép và kiểm bằng sợi vải: kéo qua lỗ, vải không được mắc. Chủ xưởng lo chậm lịch một ngày. Lan cập nhật giao cực chính sang ngày 26, đui hoàn thiện ngày 30. Xưởng vẫn giữ hạn nếu các bộ phận kim loại được làm trước và không có lỗi mẫu nóng.
+
+Tám đui mẫu chạy với bóng sáu mươi oát trong chao thật. Cứ nửa giờ, Minh đo nhiệt bằng cùng một nhiệt kế tiếp xúc tại thân sứ, cực nối và đầu dây. Không có máy đo hiện đại, ông dùng quy trình lặp cùng vị trí, cùng thời gian, so với đui tốt mua sẵn. Sau sáu giờ, đui mới không nóng hơn mẫu đối chứng; vít không lỏng; thân sứ không nứt. Hai đui khác chịu hai mươi lần tháo lắp bóng và mười lần tháo dây. Ren vẫn giữ.
+
+Phép thử điện lộ vấn đề khác. Khi công tắc tắt, một mẫu vẫn có điện ở ren ngoài của đui vì hai đầu dây bị đấu ngược: công tắc ngắt dây nguội thay vì dây nóng. Trong hệ thống điện hai chấu không phân cực, người dùng có thể đảo phích, nhưng quy trình vẫn phải thống nhất đường ngắt và giảm phần kim loại có điện khi thay bóng. Minh quy định dây đánh dấu đi qua công tắc tới cực giữa; dây còn lại tới ren. Sơ đồ được vẽ bằng màu và ký hiệu, không chỉ bằng lời.
+
+Hùng yêu cầu thử lỗi chạm vỏ. Một dây mẫu bị cố ý làm xước rồi ép vào mép ống không có lót; sau nhiều lần bẻ cổ, đồng chạm thép. Cầu chì bàn thử ngắt. Điều đó chứng minh ống lót không thể bỏ. Với hai ống lót đúng cỡ và dây có vòng chống kéo, sau năm trăm chu kỳ lớp bọc không xước. Mọi phép thử phá hủy diễn ra qua cầu dao và cầu chì riêng; mẫu thử bị sơn đỏ, không nhập lại sản xuất.
+
+Đến ngày 23 tháng ba, bảng giá thành sơ bộ là sáu mươi chín đồng hai hào, vượt trần một đồng hai hào. Đui sứ mười bốn đồng; dây, phích, công tắc mười ba đồng; chao và cổ mười sáu đồng; đế gang cùng vỏ mười bảy đồng; sơn, ốc, đệm, nhãn bốn đồng; nhân công năm đồng hai hào. Không còn chỗ cắt ở cách điện hay độ ổn định.
+
+Lan rà từng khoản. Vỏ đế đang dùng hai tấm thép ghép bằng sáu vít để tiện mở sửa. Bốn vít đã đủ giữ nếu thêm hai tai gài dập liền; giảm được bốn hào và thời gian lắp. Chao sơn hai lớp toàn bộ, kể cả mặt trong đã phủ men chịu nhiệt từ cơ sở dập; bỏ lớp sơn trùng tiết kiệm năm hào. Bao gói ban đầu dùng hộp riêng cho bóng dù bóng chỉ là vật thử kèm theo; chuyển bóng vào khoang chèn trong cùng thùng, vẫn có vách bìa, tiết kiệm sáu hào. Giá thành dự kiến còn sáu mươi bảy đồng bảy hào, dưới trần ba hào.
+
+Hùng không coi ba hào là khoảng an toàn. Ông yêu cầu dự phòng hao hụt ít nhất năm hào. Cơ sở chao đang tính tiền cả sản phẩm méo. Ông Tam mang dưỡng tới kiểm ngay khi nhận. Trong ba mươi chao thử, bốn chiếc lệch cổ quá giới hạn. Cả bốn cùng ra từ khuôn số ba. Cơ sở sửa chốt khuôn và đồng ý chỉ tính chao đạt dưỡng. Tỷ lệ hao hụt dự kiến giảm, đưa giá thành về sáu mươi bảy đồng hai hào, còn tám hào đệm.
+
+Ngày 30 tháng ba, hai trăm đui sứ tới Hoài Đức, chậm một ngày so với lịch sửa đổi nhưng vẫn trong khoảng dự phòng. Lan không nhập kho theo số bao. Ba người kiểm đủ hai trăm chiếc: mắt sứ không nứt; cực đúng bề dày; vít ăn đủ ren; vải không mắc ba via; vòng ren lắp bóng mẫu trơn. Mười một chiếc bị loại: năm thân sứ rạn chân, ba cực lệch, ba vít trượt. Tỷ lệ đạt chín mươi tư phẩy năm phần trăm. Chỉ một trăm tám mươi chín chiếc được nhập. Số này vẫn đủ cho một trăm năm mươi sản phẩm và dự phòng, nhưng thấp hơn hai trăm đã đặt.
+
+Cơ sở Bát Tràng muốn bù bằng mười một chiếc từ lô dùng cực thép mạ. Lan từ chối vì đó không phải cấu hình đã thử. Họ phải làm lại bằng cực đồng, giao sau ngày 5 tháng tư. Khoản thanh toán giữ lại đúng giá trị mười một chiếc. Nguồn cung chưa hoàn toàn thông, nhưng sản xuất không phải dừng: xưởng phát một trăm sáu mươi đui đạt vào chuyền, giữ hai mươi chín chiếc cho thay thế và phép thử.
+
+Dây chuyền ĐB-01 chỉ có năm bàn. Bàn một lắp đối trọng và cổ; bàn hai luồn dây cùng ống lót; bàn ba đấu đui và công tắc; bàn bốn lắp chao, kiểm cơ; bàn năm kiểm điện và chạy thử. Mỗi số thân được dập dưới đế trước khi lắp. Nếu đèn quay lại bàn trước, phiếu đi cùng; không được đổi thân để giấu lỗi.
+
+Lô đầu ba mươi chiếc có ba lỗi lần đầu, mười phần trăm: một công tắc đấu nhầm, một dây bị kẹp dưới tấm gang, một đế nghiêng. Mức ấy vượt xa mục tiêu bốn phần trăm. Hùng dừng chuyền sau ba mươi chiếc. Ông không lấy lý do công nhân đang học để hạ chuẩn.
+
+Lỗi đấu nhầm xảy ra vì hai dây cùng màu, chỉ một dây có gân rất khó thấy dưới ánh sáng xưởng. Lan mua vòng vải đỏ nhỏ để đánh dấu đầu dây qua công tắc. Lỗi kẹp dây do rãnh dẫn nằm khuất khi đặt tấm gang; ông Tam thêm một chốt gỗ giả lập đường dây, chỉ rút sau khi tấm vào đúng vị trí. Đế nghiêng do một tai gài dập chưa hết; dưỡng mặt phẳng được đặt trước sơn, vì sau sơn mới sửa sẽ phá lớp phủ.
+
+Lô thứ hai năm mươi chiếc có hai lỗi lần đầu: một đui siết chưa đủ, một chao xước. Bốn phần trăm, vừa bằng ngưỡng. Lô thứ ba bảy mươi chiếc có một lỗi công tắc, một phẩy bốn phần trăm. Toàn bộ một trăm năm mươi chiếc có sáu lỗi lần đầu, đúng bốn phần trăm. Sáu chiếc được cách ly, sửa rồi phải làm lại toàn bộ phép thử; kết quả sau sửa không xóa tỷ lệ ban đầu.
+
+Kiểm điện gồm ba bước. Trước hết, đồng hồ xác nhận công tắc ngắt và nối đúng đường. Sau đó đo giữa hai cực để loại chập. Cuối cùng kiểm giữa mạch dẫn và thân kim loại; kim không được dịch trong phép đo theo thiết bị của xưởng. Minh biết thiết bị ấy không thay cho máy thử điện áp cao chuyên dụng, nên ông ghi giới hạn và bổ sung phép thử mẫu tại phòng kỹ thuật của một đơn vị điện ở Hà Nội. Năm thân đèn được mang tới, chịu điện áp thử theo mức đơn vị đó quy định; cả năm không phóng điện hay đánh thủng. Biên bản có số thân và dấu, không dùng cho các cấu hình khác.
+
+Ba mươi đèn được Lan bốc số ngẫu nhiên cho thử nhiệt sáu giờ. Mười đèn dựng thẳng, mười đèn cúi thấp, mười đèn đổi góc mỗi giờ. Tất cả dùng bóng sáu mươi oát cùng mẻ. Giờ thứ tư, ĐB01-0117 có mùi sơn. Nhiệt điện không bất thường; mùi đến từ mặt trong chao đã nhận nhầm một chiếc sơn hai lớp cũ. Máy được dừng, đánh dấu không phù hợp ngoại quan và vật liệu. Các chao cùng phiếu giao được kiểm; hai chiếc khác có lớp sơn trùng nhưng chưa lắp vào nhóm thử. Ba chao được thay. Đèn 0117 chạy lại đủ sáu giờ từ đầu.
+
+Không máy nào làm nóng phích hoặc dây tới mức bất thường so với đầu ca. Công tắc không kẹt. Chao không biến dạng. Năm đèn được bẻ cổ thêm năm trăm chu kỳ sau thử nóng; độ xệ vẫn trong giới hạn. Ba đèn được kéo dây bằng cân lò xo; mối nối không dịch. Hai mẫu được cho đổ từ mép bàn thấp xuống tấm gỗ để kiểm vỏ: sơn xước và một chao méo, nhưng không dây nào lộ, đui không vỡ. Đây là phép thử hư hại, hai máy bị loại vĩnh viễn khỏi hàng bán.
+
+Ngày 16 tháng tư, xưởng hoàn tất một trăm năm mươi đèn bán được, ngoài các mẫu phá hủy. Mười một đui làm lại đã về đủ ngày 6 và qua kiểm, nhưng chỉ dùng bổ sung kho phụ tùng. Giá thành thực tế sáu mươi bảy đồng sáu hào mỗi bộ, thấp hơn trần bốn hào. Số chênh ít, nên Lan chưa cho hạ giá bán dự kiến chín mươi đồng. Một biến động ở đui sứ có thể ăn hết phần đệm; đơn sau phải thương lượng lại theo số lượng thật.
+
+Ba cửa hàng từng nhận quạt xem mẫu ĐB-01. Họ không ký nhận toàn lô vì nhiệm vụ hiện tại là sản xuất, chưa phải hoàn thành thương mại. Cửa hàng Hàng Bồ đặt sáu mươi chiếc; phố Huế đặt năm mươi; Đồng Xuân đặt hai mươi; hai mươi chiếc còn lại dành cho cửa hàng của Hùng và hàng thay. Tiền đặt trước ba mươi phần trăm được ghi là khoản nhận trước. Điều kiện giao dự kiến ngày 22 tháng tư, theo dõi lỗi mười ngày. Chương sau phải chứng minh đủ số giao, tỷ lệ lỗi, tiền thanh toán và trách nhiệm bảo hành.
+
+Lan khóa bảng sản xuất:
+
+- sản phẩm: đèn bàn ĐB-01, 220 vôn, bóng tối đa 60 oát;
+- mục tiêu: 150 chiếc trong 45 ngày; thực tế: 150 chiếc trong 35 ngày;
+- lỗi lần đầu: 6 trên 150, bằng 4%;
+- mẫu thử nhiệt: 30 chiếc, đủ 6 giờ sau mọi lần sửa;
+- mẫu thử điện áp ngoài xưởng: 5 chiếc đạt theo biên bản;
+- giá thành trần: 68 đồng; thực tế: 67 đồng 6 hào;
+- đui sứ thiếu ban đầu: 140 chiếc so với nhu cầu khởi điểm, xử lý bằng đơn mua gộp và kiểm lô;
+- đui bị loại lần đầu: 11 chiếc, được làm lại đúng vật liệu;
+- số bán chưa ghi nhận: 0, vì chưa giao;
+- tiền đặt trước: ghi riêng, chưa phải doanh thu.
+
+Năm mươi mét vuông kho mới được dành cho đui sứ, chao và thành phẩm, nâng tổng diện tích từ hai nghìn sáu trăm lên hai nghìn sáu trăm năm mươi mét vuông. Tổng kinh nghiệm tăng từ ba nghìn sáu trăm lên ba nghìn tám trăm. Mẫu chuẩn ĐB01-0001, một chao lỗi, một đui nứt và đoạn dây thử chạm vỏ được niêm phong thành bộ đối chứng. Vật lỗi không trở lại chuyền.
+
+Hùng đứng trước một trăm năm mươi chiếc đèn đã tắt. Ông không bật tất cả để tạo cảnh sáng rực; tải điện xưởng và ý nghĩa của nhiệm vụ không cần màn trình diễn ấy. Ông chỉ bật mẫu chuẩn, chỉnh cổ xuống trang sổ của Lan. Ánh sáng nằm đúng trên những con số còn mở: một trăm ba mươi chiếc phải giao cho ba cửa hàng, hai mươi chiếc phải phân rõ, bảy mươi phần trăm tiền còn chưa thu, mười ngày lỗi thực tế chưa bắt đầu.
+
+Sản xuất đèn điện đã có vật thật, chuẩn thật và một nguồn cung được vá bằng hợp đồng có kiểm. Nhiệm vụ hoàn thành đèn vẫn ở phía trước. Hùng ký giao Lan chuẩn bị danh sách số thân; Minh chuẩn bị dụng cụ nghiệm thu; ông Tam sửa cách chèn chao để không lặp lỗi xước của quạt. Không ai được cộng lại hai trăm điểm khi cùng một lô được giao trong chương sau.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.43」
+Năm: 1985
+Tổng EXP: 3,800 (+200 nhịp này)
+Không gian kho: 2,650m² (+50m²)
+Kỹ năng trọng yếu: Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Ghi chú: 150 đèn ĐB-01 đạt nhịp sản xuất; giao hàng và thu tiền chuyển sang ch.44; không double-book
+============================================================
