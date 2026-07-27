@@ -1,0 +1,444 @@
+============================================================
+Chương 191: Đầu tư công nghệ cao
+============================================================
+
+Căn phòng nằm trên tầng ba một khu tập thể cũ cuối phố Huế. Cầu thang hẹp, tường loang lổ vết ẩm, mỗi bậc gỗ kêu lên dưới chân như cảnh báo. Hùng đẩy cánh cửa sắt đã hoen gỉ — bản lề kêu ken két — và bước vào.
+
+Giữa trưa tháng sáu, Hà Nội nóng như đổ lửa. Căn phòng nhỏ chừng hai mươi mét vuông, cửa sổ mở toang nhưng hơi nóng vẫn đặc quánh, phả vào mặt thứ không khí ẩm như khăn ướt. Quạt trần quay chậm, cánh kêu cọt kẹt theo từng vòng, chỉ đủ tạo ra một luồng gió nhẹ đẩy mùi mồ hôi và linh kiện điện tử quanh phòng. Hùng ngồi xuống chiếc ghế nhựa đã ngả màu, đặt cặp da lên bàn. Trên bàn: hai bo mạch chủ, một đống dây cáp, linh kiện rời rải rác trên tờ báo Nhân Dân cũ.
+
+Bốn người đối diện. Trẻ nhất chắc chưa hai lăm.
+
+"Hôm qua tôi nhận được thư của anh Quang," Hùng nói, tay lật xấp tài liệu. "Anh nói có thứ muốn cho tôi xem."
+
+Anh Quang — Nguyễn Hoàng Quang, hai mươi bảy tuổi, tốt nghiệp Bách Khoa khóa 89 — gật đầu. Người đàn ông gầy, mắt sâu, áo sơ mi trắng đã ngả vàng ở cổ áo. Tay anh ta run nhẹ khi mở hộp các-tông — không phải run vì sợ, mà vì hồi hộp.
+
+"Máy tính," Quang nói. "Bộ đầu tiên bọn em ráp hoàn chỉnh từ linh kiện rời."
+
+Hùng không nói gì. Ông nhìn.
+
+Case nằm ngửa, nắp đã mở. Bo mạch chủ — Hùng nhận ra chip Intel 386DX — gắn bốn thanh RAM cắm nghiêng, mạch in màu xanh lá, đường mạch chạy song song thẳng tắp. Cáp IDE màu xám chạy từ main sang ổ cứng. Nguồn AT — cái nguồn to và nặng, quạt nguồn phủ một lớp bụi xám. Tản nhiệt trên CPU bằng nhôm, cánh đều.
+
+Hùng cúi xuống, xoay nhẹ case để nhìn kỹ. Ông không phải chuyên gia phần cứng — kiến thức của Ly Minh kiếp trước dừng ở mức sử dụng, không phải chế tạo — nhưng ông biết đủ để phân biệt hàng ráp cẩn thận với hàng làm ẩu.
+
+Những đường hàn trên bo mạch — tròn, đều, không bụi. Cáp được bó lại bằng dây thít nhựa, không thả lỏng lẻo. Ổ cứng bắt vít chặt vào khung, có thêm miếng cao su giảm rung.
+
+"Người hàn là anh?" Hùng hỏi.
+
+Thằng trẻ nhất — tóc bù xù, áo phông cũ, tay dính dầu mỡ — trả lời: "Cháu ạ. Cháu tên Hải."
+
+"Mày bao nhiêu tuổi?"
+
+"Cháu hai mươi hai. Học dở trung cấp điện tử. Bọn anh ấy dạy thêm."
+
+"Bao lâu mày gắn được một bo?"
+
+"Một tiếng rưỡi nếu linh kiện đủ. Nhưng lỗi hay mất nửa buổi. Đồ Nhật Tảo toàn hàng trôi nổi — có lúc mua cả chục con chip, chỉ năm con chạy."
+
+Hùng gật. Quang hắng giọng.
+
+"Cấu hình: 386DX-40. RAM 4MB chia bốn thanh 1MB SIMM 30-pin. Ổ cứng Seagate 80MB — IDE. Card đồ họa Trident VGA 512K. Card I/O đa năng — cổng song song, hai cổng nối tiếp. FDD 1.44MB."
+
+Quang đọc như thuộc lòng — anh ta đã nói điều này nhiều lần trước đây, với nhiều người. Nhưng lần này khác. Lần này người nghe không hỏi "nó làm được gì", không hỏi "rẻ hơn hàng Nhật không". Hùng hỏi những câu khác.
+
+"Anh mua linh kiện ở đâu?"
+
+"Chợ Nhật Tảo. Nhưng mainboard — tụi em đặt từ Hồng Kông. Qua người quen ở biên giới Lạng Sơn."
+
+"Rủi ro?"
+
+"Mất hai lô rồi. Bị thu giữ ở cửa khẩu — họ bảo hàng điện tử không có giấy phép nhập khẩu. Nhưng con đường đã quen. Bây giờ an toàn hơn."
+
+"Màn hình?"
+
+"Màn hình trắng đen Tân Đức — mua ở cửa hàng thiết bị văn phòng trên phố Lê Duẩn. Chỉ có năm cái cả tháng. Bọn em lấy hai."
+
+Hùng gật. Ông đã khảo sát trước khi đến.
+
+"Bao nhiêu một bộ?"
+
+Quang nhìn sang người ngồi cạnh — một người đàn ông trạc ba mươi, đeo kính cận dày, lặng lẽ từ nãy. "Anh Minh — kế toán của tụi em."
+
+Minh đẩy kính. "Chi phí linh kiện: khoảng ba triệu rưỡi một bộ, nếu mua lẻ. Nếu mua số lượng — chục bộ trở lên — có thể xuống còn hai triệu tám. Bao gồm case, nguồn, main, CPU, RAM, HDD, card hình, card I/O, màn hình, bàn phím, chuột."
+
+"Giá bán?"
+
+"Bảy triệu. Cho công ty nước ngoài — họ trả bằng USD, quy đổi."
+
+Hùng im lặng, tính nhẩm. Lãi gộp hơn gấp đôi. Nhưng khối lượng nhỏ — năm bộ một tháng — chưa đủ để gọi là kinh doanh, chỉ đủ sống.
+
+"Anh em mình bao nhiêu người?"
+
+Quang chỉ quanh bàn. "Bốn tụi em đây. Hải — lắp ráp và kiểm tra. Anh Minh — kế toán, mua hàng. Còn Hoàng —" Anh ta chỉ người cuối, trẻ hơn Minh, gương mặt căng thẳng, "— Hoàng viết phần mềm cùng em. Ngoài ra còn hai người nữa ở nhà, chuyên đi mua linh kiện và giao hàng. Tổng sáu."
+
+"Tiền đâu ra?"
+
+"Tiết kiệm. Mỗi thằng góp ba trăm nghìn hồi đầu năm. Anh trai thằng Hải — bộ đội xuất ngũ, có chút vốn — cho mượn thêm hai triệu. Vay lãi bạn bè một triệu rưỡi."
+
+Hùng biết con số đó. Hai triệu — tiền lương gần ba năm của một công nhân nhà nước.
+
+"Anh em tự học hay có người dạy?"
+
+Quang cười — một nụ cười khổ. "Sách tiếng Anh mua ở hiệu sách cũ trên phố Đinh Lễ. Vài cuốn sách dịch lậu của Liên Xô về vi xử lý. Có một thầy giáo bên Viện Toán học — thầy cho bọn em đọc tài liệu vi mạch, nhưng thầy cũng già rồi, mắt kém, không làm được nhiều. Còn lại — tự mày mò."
+
+"Mày mò bằng cách nào?"
+
+"Mua một con chip Intel 8085 ở chợ trời, gắn lên board cắm thử, nối đèn LED, tập viết assembly cho nó sáng. Mất hai tháng để làm một cái đồng hồ số — sai hai phút mỗi ngày. Nhưng từ đấy tụi em hiểu cách CPU chạy."
+
+Hùng im lặng. Ông nhìn những ngón tay gầy của Quang — đầu ngón tay có vết chai vì cầm kìm và mỏ hàn. Một người trẻ tuổi với bàn tay của thợ cơ khí.
+
+"Anh tự viết phần mềm tiếng Việt?"
+
+Quang đẩy về phía Hùng một chiếc đĩa mềm 5.25 inch. Nhãn ghi tay bằng bút bi: "VIET. v 0.3". Nét chữ nhỏ, thẳng, kỹ thuật.
+
+"Font tiếng Việt," Quang nói. "Bảng mã VNI — bọn em viết bằng C, tối ưu assembly cho phần nhập xuất. Chạy trên MS-DOS 6.2. Anh muốn thử?"
+
+Hùng cầm đĩa mềm lên, xoay nó trong tay. Đĩa mỏng, giấy dán hơi bong ở góc. Một cảm giác kỳ lạ lướt qua — ông nhớ những chiếc đĩa như thế này từ kiếp trước. Ly Minh — kỹ sư phần mềm những năm 2020 — đã dùng đĩa mềm lần cuối khi còn là sinh viên thực tập. Nhưng bây giờ, năm 1994, chiếc đĩa 5.25 inch này là cách duy nhất để mang dữ liệu đi. Ông chạm vào nhãn dán — loại giấy rẻ tiền, nét bút bi đã nhòe vì mồ hôi tay.
+
+"Có máy ở đây không?"
+
+Hải nhảy lên khỏi ghế như lò xo. "Có ạ. Để em lấy."
+
+Nó biến vào phòng trong — hóa ra đó là một phòng ngủ nhỏ chừng mười mét vuông, cải tạo thành xưởng lắp ráp. Hùng nhìn qua cánh cửa hé mở: một bàn gỗ lớn, đèn bàn, mỏ hàn, kìm, băng dính cách điện, mấy cuộn dây đồng. Trên kệ: hộp linh kiện chia ô, ghi nhãn tay — "tụ", "trở", "IC", "đầu nối". Ngăn nắp.
+
+Hải mang ra một bộ máy tính đã ráp hoàn chỉnh. Màn hình Tân Đức 14-inch trắng đen — vỏ nhựa màu kem đã ngả vàng. Case nằm màu xám — Hùng đoán case AT, loại phổ biến ở chợ linh kiện. Bàn phím cơ Trung Quốc, chữ in laser trên phím đã mòn đến mức gần như biến mất. Một con chuột serial hai nút — cổng DB-9, quả bóng cao su ở dưới bẩn.
+
+Hải cắm dây nguồn — công tắc còn kêu tách một tiếng. Anh ta bật công tắc nguồn ở mặt trước case. Quạt nguồn rít lên — tiếng ồn đều đều, the thé. Màn hình sáng dần, bắt đầu hiện dòng chữ trắng trên nền đen: "AMI BIOS (c) 1992", đếm RAM — 4096KB OK. Rồi DOS hiện ra dòng nhắc: C:\>.
+
+"BIOS AMI," Hùng nói. "Có update không?"
+
+Quang hơi ngạc nhiên. "Anh biết AMI?"
+
+"Đọc sách."
+
+"Có ạ — nhưng không có ROM burner. Muốn update phải mua chip mới."
+
+Hùng gật. Quang đưa đĩa mềm vào ổ A: ổ kêu rột roẹt — âm thanh của đầu đọc di chuyển. Anh ta gõ trên bàn phím cũ:
+
+A:\> VIET.EXE
+
+Màn hình nhấp nháy. Một giây. Hai giây. Rồi một dòng chữ hiện ra:
+
+「Chào mừng bạn đến với VIET 0.3」
+
+Font Việt. Có dấu. Dấu huyền, sắc, hỏi, ngã, nặng — tất cả đều hiển thị đúng. Hùng nhận thấy font không phải kiểu chữ thường dùng trên các bảng hiệu — đây là font có chân, kiểu serif, thiết kế tỉ lệ. Phần mềm không chỉ bảng mã — nó bao gồm cả font và bộ gõ.
+
+Hùng ngồi yên. Một cảm giác — gần như xúc động — lướt qua. Ông đưa tay gõ thử.
+
+Phím bấm cũ, lún sâu, tiếng gõ lọc xọc. Nhưng phản hồi ở màn hình rõ ràng: từng chữ hiện ra với đủ dấu.
+
+Tôi là Trần Văn Hùng. Ngày 15 tháng 6 năm 1994.
+
+Chữ hiện ra đầy đủ. Hùng gõ thêm vài dòng. Ông thử cả phím tắt — Ctrl+S để lưu, Ctrl+P để in. Tất cả đều hoạt động.
+
+"Bộ gõ theo VNI hay TELEX?"
+
+"Cả hai. Anh bấm Alt+1 là TELEX, Alt+2 là VNI. Bảng mã tự động chuyển."
+
+Hùng gõ thử TELEX — chậm hơn, vì ông quen gõ tiếng Việt trên Windows bằng Unicode. Nhưng font trên màn hình vẫn đẹp, vẫn rõ ràng.
+
+"Ai viết bộ gõ?"
+
+"Em," Quang nói. "Viết bằng C, phần xử lý phím — int 09h — viết bằng assembly để không delay. Bảng mã theo chuẩn VNI, font vẽ bằng hand trên grid 8x16."
+
+"Anh tự vẽ font?"
+
+"Từng pixel. Mất hai tuần. Gần năm nghìn ký tự — chữ Việt có dấu, chữ hoa, chữ thường, chữ số, ký tự đặc biệt."
+
+Hùng gõ thêm vài từ: cảm ơn, công nghệ, tương lai. Phần mềm nhận hết.
+
+"Máy in?"
+
+"Có driver cho Epson LQ-1170 và LQ-570. In ma trận kim — mười hai châm. Chữ Việt in ra giấy đẹp hơn chữ trên màn hình — mật độ điểm kim 180 DPI là dễ nhìn."
+
+"Anh có máy in ở đây?"
+
+"Có — mua cũ ở cửa hàng thiết bị văn phòng thanh lý. Em cho anh xem."
+
+Hùng gật. Ông muốn xem toàn bộ quy trình.
+
+Quang lấy ra một tờ giấy in sẵn — giấy in liên tục có lỗ ở hai bên, loại giấy máy in kim thường dùng. Trên giấy là một bức thư mẫu tiếng Việt, in bằng font VIET 0.3, đủ dấu, căn lề trái-phải đều.
+
+"Đây," Quang nói. "Phiên bản thương mại đầu tiên. Tụi em bán được năm bộ cho mấy công ty nước ngoài ở khu công nghiệp Vĩnh Tuy. Họ cần máy tính xử lý văn bản tiếng Việt. Mấy hãng lớn không có — toàn hàng máy cũ Trung Quốc, không hỗ trợ font Việt."
+
+Hùng cầm tờ giấy in, xem kỹ. Chữ in hơi mờ ở một vài chỗ — đặc điểm của máy in kim sắp thay ruột — nhưng font rõ, dễ đọc, lỗi gần như bằng không.
+
+"Anh đã có bao nhiêu bản VIET?"
+
+"Hai mươi bản. Mỗi bản kèm đĩa mềm ba rưỡi — cài trên máy khách."
+
+"Công ty nước ngoài đó họ trả anh bao nhiêu?"
+
+"Không cài riêng. Họ mua luôn máy tính của tụi em."
+
+"Tức là phần mềm đi kèm phần cứng."
+
+"Dạ. Bọn em tính vậy cho dễ bán. Người ta mua máy về bật lên thấy có tiếng Việt sẵn — họ mua luôn."
+
+Hùng gật đầu. Mô hình không hề tồi — đóng gói phần mềm với phần cứng. Ở Việt Nam 1994, người mua tin vào đồ chạy được ngay hơn là đĩa mềm cài đặt.
+
+Minh — người đeo kính — lên tiếng lần đầu tiên: "Thưa anh Hùng, xu hướng tụi em thấy là phần cứng đang rẻ đi nhanh. Lúc đầu tụi em tính bán máy, nhưng mỗi tháng chỉ vài bộ. Còn phần mềm — nếu làm ra đĩa, nhân bản lên được — chi phí sản xuất thêm một bản gần như không. Anh Quang bảo chúng em nên tập trung vào phần mềm, nhưng cần vốn để mở rộng."
+
+"Bao nhiêu người làm phần mềm?"
+
+"Hai," Quang nói. "Em và Hoàng. Nhưng Hoàng giỏi hơn em — ổng viết driver cho máy in còn nhanh hơn em đọc spec."
+
+Hùng quay sang Hoàng. Người đàn ông gầy, mắt cận, từ đầu đến cuối không nói câu nào. "Anh học ở đâu?"
+
+"Đại học Tổng hợp," Hoàng nói, giọng khẽ. "Ngành toán. Ra trường làm ở công ty xây dựng nhà nước một năm, rồi thôi — không hợp. Về dạy thêm toán, tối ngồi viết code với Quang."
+
+"Anh viết gì?"
+
+"Trình biên dịch ngược cho file COM — để phân tích virus," Hoàng nói, mắt sáng lên. "Nhưng chưa xong. Còn viết một trình gỡ lỗi DOS — debug.com không đủ mạnh."
+
+Hùng nhìn thẳng vào mắt Hoàng. Trong một căn phòng tập thể nóng bức ở Hà Nội 1994, với đồ nghề thủ công và sách tiếng Anh cũ, người này đang viết debugger. Vì anh ta cần một cái tốt hơn debug.com. Không ai bảo. Không ai trả tiền.
+
+"Còn ai khác đang nói chuyện với anh em về vốn?"
+
+Quang trả lời: "Có một công ty Hồng Kông. Họ biết tụi em qua giới thiệu. Họ muốn mua lại bản quyền phần mềm. Giá năm nghìn đô la Mỹ — hồi đầu tháng."
+
+"Năm nghìn đô?" Hùng hỏi lại, giọng bình thản. "Với mức lương hiện tại của anh em — bao nhiêu tháng?"
+
+Quang nhìn lên trần nhà tính: "Lương kỹ sư nhà nước tụi em trước đây — nếu có việc — khoảng bốn, năm mươi nghìn một tháng. Năm nghìn đô — theo tỷ giá chợ đen — cỡ bảy, tám chục triệu đồng. Một đời."
+
+"Và anh từ chối?"
+
+"Dạ."
+
+"Vì sao?"
+
+Code là của tụi em," Quang nói, giọng không thay đổi. "Nếu bán, tụi em hết giá trị. Họ có bản quyền, họ thuê người mới — hoặc đem về Hồng Kông làm — tụi em lại làm thuê. Không hơn gì hồi ở xí nghiệp nhà nước."
+
+Hùng hỏi thêm — đây là câu hỏi quyết định: "Và anh nghĩ tôi sẽ không làm thế? Tôi bỏ vốn, tôi lấy code, tôi thuê người khác — anh em hết giá trị?"
+
+"Nếu anh làm thế," Quang nhìn thẳng vào mắt Hùng, "tụi em vẫn mất — nhưng không mất nhanh bằng bán cho Hồng Kông. Vì anh còn ở đây. Làm ăn ở Việt Nam, mặt đối mặt. Họ ở Hồng Kông — một cuộc điện thoại là xong."
+
+Phòng im lặng. Quạt trần vẫn kêu cọt cọt. Tiếng xe máy từ phố Huế vọng lên.
+
+Hùng không nói gì trong mười giây. Ông nhìn Quang — nhìn vào mắt người đàn ông trẻ. Quang không lảng tránh. Hai bàn tay đặt trên bàn, ngón tay không bấu vào nhau. Một người đã chuẩn bị cho câu trả lời này.
+
+Hùng đứng dậy. Ông đi vòng quanh căn phòng — mười bước là hết. Nhìn tường: một tấm bảng đen nhỏ viết đầy sơ đồ — sơ đồ khối của phần mềm VIET, sơ đồ mạch nạp ROM, một công thức toán học gì đó Hùng không nhận ra. Nhìn kệ sách: mấy cuốn sách bìa mềm tiếng Anh — "The C Programming Language" của Kernighan & Ritchie, sách về assembly 8086, "Numerical Recipes in C" — sách photo, đóng gáy bằng chỉ. Một cuốn dày hơn: "Advanced MS-DOS Programming" — bìa nhàu nát, gáy sách băng keo trong.
+
+Nhìn quanh: tất cả đều nói lên cùng một điều — những người này không có tiền, nhưng họ có thứ đáng sợ hơn. Họ có khả năng học bất cứ thứ gì.
+
+"Anh biết Intel vừa ra 486DX2 chưa?"
+
+Quang chớp mắt — không ngờ Hùng hỏi về chip mới. "Bọn em có đọc tài liệu từ cuốn Intel Microprocessor Handbook của thầy giáo. Chíp 486DX2-66 chạy gấp đôi 386 ở cùng xung nhịp nhờ clock doubling. Bên trong có 8KB cache L1 — 386DX không có. Kiến trúc pipelined — mỗi lệnh nhanh hơn khoảng ba lần so với 386."
+
+"Linh kiện thì sao?"
+
+"Vẫn còn đắt. Chip khoảng năm trăm đô la Mỹ nếu đặt từ Singapore. Cả bộ mainboard Việt Nam chưa ai làm — phải đặt mainboard từ Đài Loan. RAM SIMM 30-pin 1MB — mỗi thanh cũng đắt. Cả bộ — main, chip, RAM 4MB, ổ cứng, card hình — khoảng hai nghìn đô. Gấp bốn lần tiền vốn tụi em đang có."
+
+"Anh em có thể ráp được máy 486 không?"
+
+Quang không do dự: "Có. Kiến trúc giống 386, chỉ khác ở cache và bus. Đọc datasheet của Intel là làm được. Cần thêm một tuần để làm quen."
+
+"Viết driver cho card mạng?"
+
+"Bọn em chưa làm — card mạng ở Việt Nam hầu như không có. Nhưng nếu có card để test — em có thể viết. Giao tiếp I/O qua cổng, ngắt, DMA — nguyên lý giống nhau."
+
+"TCP/IP — giao thức mạng — anh đã nghe chưa?"
+
+Quang lắc đầu. "Chưa ạ. Là gì?"
+
+Hùng không trả lời ngay. Ông đứng trước cửa sổ, nhìn ra phố Huế trưa nắng. Bụi đường, xe đạp, những chiếc xe máy lách qua nhau — Hà Nội 1994, chưa có Internet trong dân. Chưa có điện thoại di động. Công nghệ hiện đại nhất trong tay người dân thường là TV màu và cassette.
+
+Nhưng Hùng biết — từ kiếp trước — thập kỷ 1995-2005 là thập kỷ Internet bùng nổ. Và nếu Thương Gia không vào cuộc ngay từ năm 1994, khi tất cả đều trên vạch xuất phát, thì sau này cửa sẽ đóng.
+
+Không chỉ cửa — cánh cửa sẽ bị hàn chết.
+
+Ông quay lại, ngồi xuống ghế.
+
+"Tôi sẽ làm thế này."
+
+Giọng Hùng đều, không nhanh.
+
+"Tôi đầu tư năm mươi triệu đồng vào công ty của anh em. Trong đó ba mươi triệu tiền mặt — để mua linh kiện số lượng lớn, thuê thêm nhân sự, mua thiết bị. Mười triệu sửa mặt bằng, đăng ký giấy phép, pháp lý. Mười triệu dự phòng."
+
+Quang không nói, nhưng Hải bên cạnh hít sâu.
+
+"Đổi lại, tôi lấy ba mươi phần trăm cổ phần trong công ty. Anh em làm kỹ thuật — tôi không can thiệp. Tôi lo mặt bằng chính thức — không phải phòng tập thể này — có hợp đồng thuê dài hạn. Tôi lo giấy phép kinh doanh, quan hệ với cơ quan thuế. Tôi kết nối đối tác lớn."
+
+Quang hỏi: "Còn lương bọn em?"
+
+"Lương anh em tôi trả từ ngày đầu. Không dưới ba trăm nghìn một tháng cho mỗi người — cao hơn lương nhà nước gấp sáu lần. Lợi nhuận sau chi phí — bao gồm lương, mặt bằng, điện nước, khấu hao, thuế — chia theo tỷ lệ cổ phần."
+
+Phòng lặng im.
+
+"Và nếu tôi muốn bán cổ phần của mình cho người khác?" Quang hỏi.
+
+"Tôi có quyền mua lại trước. Với giá thị trường — xác định dựa trên lợi nhuận kỳ trước — trong vòng sáu mươi ngày."
+
+"Và nếu bọn em thất bại?"
+
+"Thì tôi mất năm chục triệu. Với Thương Gia hiện tại, năm chục triệu là một tháng lợi nhuận từ xuất khẩu gạo. Tôi sẽ không phá sản. Nhưng tôi nghĩ anh em sẽ không thất bại."
+
+Quang nhìn sang ba người kia. Hải gật đầu, mắt sáng. Minh — người làm kế toán — đẩy kính, gật chậm, chắc. Hoàng — lập trình viên — nhìn Hùng một lát, rồi gật, khẽ thôi nhưng dứt khoát.
+
+"Bọn em cần năm phút," Quang nói.
+
+"Có phòng trong không?" Hùng chỉ vào buồng trong.
+
+Bốn người biến vào phòng nhỏ. Cánh cửa gỗ đóng lại, không kín — tiếng thì thầm lọt ra ngoài, không rõ lời.
+
+Hùng ở lại phòng ngoài, một mình. Ông nhâm nhi ly nước chè xanh đã nguội — chè Thái Nguyên, hơi chát. Ông nhìn xấp tài liệu trên bàn: một tờ rơi tự in về "VIET — Phần mềm tiếng Việt đầu tiên", mực tím dầu, chữ viết tay đẹp. Một biên lai mua linh kiện, tổng cộng hai triệu ba trăm nghìn đồng. Một tờ giấy ghi danh sách khách hàng tiềm năng — mười hai công ty, hai trường đại học, một bệnh viện.
+
+Hùng gật: họ biết tính toán.
+
+Đúng năm phút sau, cửa mở. Bốn người ra. Quang đứng trước Hùng.
+
+"Bọn em đồng ý." Quang nói, giọng bình tĩnh hơn lúc đầu. "Với một điều kiện."
+
+"Nghe."
+
+"Bọn em không muốn bị mua đứt — nghĩa là sau hai năm, nếu công ty có lãi, tụi em có quyền mua lại mười lăm phần trăm từ anh. Giá gốc tương ứng với vốn bỏ ra, cộng lãi ngân hàng thời điểm đó. Để tụi em làm chủ thật."
+
+Hùng nhìn Quang. Yêu cầu này — nếu là người không biết kỹ thuật — sẽ không nghĩ ra. Nó cho thấy Quang hiểu giá trị của việc giữ quyền kiểm soát trong dài hạn.
+
+Giống một người làm chủ thực thụ.
+
+"Sợ tôi nuôi anh em ba năm rồi bán?"
+
+"Dạ."
+
+Hùng bật cười — một tiếng cười ngắn, thật.
+
+"Đồng ý. Viết vào hợp đồng."
+
+Hùng mở cặp, lấy ra một tập giấy trắng. Ông rút bút — cây bút máy Hồng Hà mũi vàng, vỏ đen bóng, mua ở phố Hàng Mã tháng trước. Viết tay bản thỏa thuận sơ bộ.
+
+Ngày: 15 tháng 6 năm 1994.
+Bên A: Trần Văn Hùng.
+Bên B: Nguyễn Hoàng Quang (đại diện cho bốn thành viên sáng lập: Quang, Minh, Hoàng, Hải).
+
+Nội dung: thành lập công ty Tin học Thương Gia. Vốn góp 50 triệu đồng từ Hùng. Tỷ lệ cổ phần 70% (nhóm Quang) — 30% (Hùng). Điều khoản mua lại cổ phần sau 24 tháng.
+
+Hùng viết chậm, rõ. Chữ ông đều, không nắn nót, nhưng mỗi mục đều có dòng trống để điều chỉnh. Ông viết xong, đọc lại một lần, sửa hai lỗi — viết nhầm "24 tháng" thành "24 ngày" — rồi đưa cho Quang.
+
+"Đọc kỹ. Ngày mai luật sư của tôi soạn thảo hợp đồng chính thức. Ký xong, tiền vào trong vòng năm ngày làm việc."
+
+Quang cầm tờ giấy. Ngón tay vẫn run nhẹ — nhưng mắt anh ta sáng. Anh ta đưa tờ giấy cho Minh. Minh đọc, môi mấp máy, rồi gật.
+
+Quang đặt tờ giấy lên bàn, đưa tay ra.
+
+Hùng bắt lấy.
+
+Bàn tay Quang nóng, hơi ướt mồ hôi, nhưng cái bắt tay chắc. Không nghi ngờ. Không do dự.
+
+"Cảm ơn anh Hùng."
+
+"Đừng cảm ơn. Làm việc đi," Hùng nói. "Ngày mai tôi cho người qua đo mặt bằng. Tuần sau ký hợp đồng chính thức. Cuối tháng này tôi muốn thấy máy 486 đầu tiên."
+
+"Dạ."
+
+Minh — người từ nãy đến giờ chủ yếu quan sát — hỏi: "Anh Hùng, sao anh tin tụi em? Năm mươi triệu không nhỏ — tụi em không có tài sản thế chấp, không có bảo lãnh ngân hàng."
+
+Hùng nhìn Minh. Câu hỏi chính xác — Minh có đầu óc của người làm tài chính.
+
+"Anh từng thấy một công ty ở nước ngoài," Hùng nói chậm, "cũng bắt đầu từ một căn phòng nhỏ. Mấy thằng thanh niên, không tiền, không quan hệ, nhưng có code. Mười năm sau, công ty đó đáng giá hơn cả ngành xuất khẩu thủy sản của Việt Nam cộng lại."
+
+Ông dừng. "Tôi không biết anh em có làm được như họ không. Nhưng tôi biết: nếu bây giờ không vào, sau này cửa sẽ không còn. Thế thôi."
+
+***
+
+Hùng ra về. Trên đường, Trần Thị Lan đang đợi ở quán nước đầu phố. Cô đứng dậy khi thấy ông. Nắng chói chang trên vỉa hè phố Huế.
+
+Về nhà, Lan ngồi sau xe ôm của người quen. Tay giữ chặt cặp da của Hùng. "Năm mươi triệu, anh không sợ mất à?" Lan hỏi, giọng cô gắng gượng bình thường.
+
+"Sợ," Hùng nói. "Nhưng mất năm mươi triệu còn hơn bỏ lỡ thứ có thể thành trăm tỷ."
+
+"Anh tin họ nhiều vậy?"
+
+"Tôi tin vào thứ họ làm ra. Phần mềm tiếng Việt là của hiếm — nếu họ là người đầu tiên, họ sẽ là người duy nhất trong một thời gian dài."
+
+Lan im lặng một lúc, suy nghĩ. Tiếng gió lùa qua tóc cô. Xe chạy qua cầu Long Biên — sông Hồng mùa hè nước đỏ, thuyền bè thưa thớt.
+
+"Sao anh biết mấy thứ này?" Lan đột nhiên hỏi. "Hồi ở Quốc Oai toàn bán dầu gội, xà phòng, mở xưởng may — đâu có học về máy tính?"
+
+Hùng không trả lời ngay. Ông nhìn những hàng cây ven đường, những mái ngói đỏ, biển hiệu vẽ tay mờ chữ. Câu hỏi của Lan — bình thường, đơn giản — nhưng khó trả lời hơn bất kỳ câu hỏi nào trong cuộc họp sáng nay.
+
+"Đọc sách," ông nói cuối cùng. "Và nhớ."
+
+Lan không hỏi thêm. Nhưng Hùng biết cô không tin. Cũng đúng — con người thật của Hùng, nếu không có kiếp trước của Ly Minh, không thể biết những điều ông biết.
+
+***
+
+Năm ngày sau, hợp đồng được ký tại văn phòng luật sư ở phố Tràng Tiền. Văn phòng nhỏ — một phòng làm việc dài hẹp, tủ hồ sơ bằng sắt, biển hiệu sơn tay: "Văn phòng Luật sư Trần Đình Bình". Ông Bình — luật sư già, tốt nghiệp Đại học Luật Hà Nội năm 1962, đã nghỉ nhưng vẫn nhận việc cho người quen — đọc hợp đồng tỉ mỉ, sửa vài điều khoản về thuế, rồi hai bên ký.
+
+Công ty mang tên: Công ty Tin học Thương Gia — Thương Gia Informatics. Tên tiếng Anh Hùng cố tình thêm vào — sau này sẽ cần.
+
+Trụ sở chính: căn phòng tập thể cũ cuối phố Huế, nhưng đã thuê thêm hai phòng liền kề ở cùng tầng, sửa lại. Một phòng làm xưởng lắp ráp. Một phòng làm văn phòng. Một phòng nhỏ để viết phần mềm. Tổng diện tích: chưa tới bảy mươi mét vuông. Nhưng có hợp đồng thuê, có hóa đơn điện nước chính thức, có địa chỉ đăng ký kinh doanh.
+
+Hùng đặt mua năm bộ mainboard 486 từ Singapore — qua đường dây của một đối tác Nhật. Ông kết nối Quang với ông Tanaka — đối tác Nhật đang cần phần mềm quản lý kho cho nhà máy điện tử ở Thái Lan.
+
+Trước khi ký, Hùng đưa cho Quang một tờ giấy. Viết tay. Hai trang.
+
+Danh sách:
+
+1. Học TCP/IP (mua sách RFC in từ Internet — nếu có bạn ở nước ngoài gửi về).
+2. Học C++ — không chỉ C. Lương dịch giáo trình từ tiếng Anh.
+3. Xây dựng thư viện font Việt mở rộng — 16, 24, 32 pixel.
+4. Nghiên cứu in ấn cho máy in Laser — sắp có hàng Trung Quốc giá rẻ nhập về.
+5. Làm quen với Windows 3.1 — mua bản quyền (Hùng sẽ lo tiền). Viết ứng dụng chạy trong Windows.
+6. Tuyển thêm hai người nữa — một chuyên về phần cứng, một về sales.
+7. Mở tài khoản USD tại ngân hàng ngoại thương — chuẩn bị thanh toán quốc tế.
+
+Quang đọc. Một số thứ anh ta hiểu. Một số — như Windows 3.1 — anh ta chỉ biết sơ qua. Một số — như TCP/IP — hoàn toàn xa lạ.
+
+Nhưng Quang gấp tờ giấy, cất vào túi áo.
+
+"Dạ."
+
+Không hỏi thêm. Không thắc mắc. Hùng biết mình đã chọn đúng người.
+
+"Công nghệ này," Hùng nói trước khi ra về, giọng thấp, chỉ đủ cho Quang nghe, "là thứ duy nhất mà tụi mình có thể vượt Trung Quốc, vượt Hồng Kông, vượt cả Nhật trong vòng hai chục năm tới. Không phải may mặc. Không phải giày da. Không phải gạo. Thứ này."
+
+Quang nhìn tờ giấy một lần nữa. Gương mặt gầy, đen vì nắng — vì ngồi trong phòng máy tính cả ngày lẫn đêm. Anh ta nhìn Hùng: "Bọn em sẽ không để anh mất tiền."
+
+"Tôi biết."
+
+Hùng bắt tay từng người. Bàn tay của Hải — ướt mồ hôi, vết keo dính trên ngón. Bàn tay của Minh — khô, lạnh, chắc. Bàn tay của Hoàng — nhỏ, yếu, nhưng bắt rất nhanh. Cuối cùng là Quang — nóng, hơi run, nhưng chắc.
+
+***
+
+Tối hôm đó, Hùng ngồi ở bàn viết trong căn nhà nhỏ ở Quốc Oai. Bà Hà đã ngủ. Lan còn thức — ngồi bên bàn, soạn sổ sách của Thương Gia cho ngày mai.
+
+Đèn dầu cháy leo lét. Ngoài vườn, tiếng dế kêu đều.
+
+Hùng mở sổ — cuốn sổ bìa đen đã dùng từ năm đầu tiên. Ông viết:
+
+"15/6/1994. Đầu tư Thương Gia Informatics. Vốn: 50 triệu. Cổ phần: 30%. Lý do: phần mềm chi phí biên bằng không; team kỹ thuật tốt hơn mặt bằng chung; thị trường chưa ai cày — cửa sổ còn rộng; nếu thành công, Thương Gia sẽ là một trong ba công ty dẫn đầu về công nghệ Việt Nam trong mười năm."
+
+Ông dừng bút.
+
+Trong đầu, hệ thống nháy một dòng xanh.
+
+「Kỹ năng mới: Công nghệ cao lv1」
+
+Hùng gật. Ông viết thêm một dòng: "Hệ thống xác nhận kỹ năng mới 16/06/1994 — khớp."
+
+Tắt đèn.
+
+Ngoài kia, đêm Quốc Oai tĩnh lặng. Tiếng ếch kêu từ cánh đồng xa. Một con chó sủa đâu đó trong làng. Rồi im lặng.
+
+Hùng nằm, mắt mở.
+
+Ông nhớ một câu từ kiếp trước — một bài báo mà Ly Minh đã đọc. "Phần mềm đang ăn thế giới."
+
+Năm 1994, ở Việt Nam, không ai biết câu đó. Nhưng Hùng biết.
+
+Và ông vừa đặt cược.
+
+Chỉ là — lần này không phải cược bằng tiền ảo trên thị trường chứng khoán, cũng không phải cược bằng bài thuyết trình với slide màu. Mà bằng một căn phòng tập thể nóng như lò bánh mì, một cái quạt trần kêu cọt cọt, và bốn thanh niên chưa từng rời khỏi đất nước này.
+
+Ông nhìn lên trần nhà — bóng tối, không thấy gì.
+
+Nhưng ông không cần nhìn.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.191」
+Năm: 1994
+Tổng EXP: 35,120 (+320 nhịp này)
+Không gian kho: 11,280m² (+80m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3, Công nghệ cao lv1 (mới)
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
