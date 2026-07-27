@@ -2,190 +2,243 @@
 Chương 81: Mở rộng năng lượng nhà máy điện
 ============================================================
 
-Hùng không thích ngày có chữ “Mở rộng năng lượng nhà máy điện” trên lịch — những ngày ấy ít cho phép sai.
+4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở cửa phòng điều hành. Ông đứng nhìn bảng áp lực nước cấp, tay cầm tách trà nóng bốc khói giữa tiết trời se lạnh tháng Mười Một.
 
-Hàng nội, hàng ngoại, hàng xách tay — ba lớp giá một chợ.
+Lịch: unit 1 dừng chủ động lúc 22:00 hôm qua. Sáng nay 6:00 — mở nắp ổ đỡ số 3, kiểm tra bạc, do lại khe hở dầu. Nếu bạc mòn quá 0.15 mm thì thay. Cả ca cơ khí đã được báo.
 
-Không khí Khu công nghiệp đặc: ẩm, bụi, và nhịp người tất bật.
+Hùng gấp tờ lịch bàn — tờ có chữ "Mở rộng năng lượng nhà máy điện" in đậm — nhét vào túi áo. Hôm nay ông có bảy cuộc họp, hai chuyến đi hiện trường, một cuộc gọi đường dài với Viện Năng lượng về thiết kế nhiệt, và một quyết định có thể làm đội ngũ kỹ thuật mất ngủ: chọn tua-bin cho unit 3.
 
-Năm 1986, tại Khu công nghiệp. “Mở rộng năng lượng nhà máy điện” bắt đầu từ mùi dầu máy và tiếng ốc vít, không từ bài phát biểu.
+5:15. Ca đêm bàn giao. Kỹ sư trực — anh Sơn — đọc nhật trình vận hành bằng giọng khản vì thiếu ngủ:
 
-Hùng đi dọc dây chuyền. Ông hỏi người thợ già nhất chỗ hay hỏng, chỗ hay gian số liệu, chỗ tăng ca sẽ gãy người.
+"Unit 1: dừng lúc 22:10. Hạ nhiệt độ turbine từ 380 xuống 95°C sau 8 tiếng. Motor quay chậm đang chạy — 15 vòng/phút. Áp lực dầu bôi trơn ổn định 0.8 at. Nhiệt độ dầu 42°C."
 
-Mẫu thử đặt giữa bàn. Ai khen đẹp thì khen; ai chỉ lỗi được mời ngồi gần hơn.
+"Unit 2: vận hành 48 MW. Rung ổ đỡ số 1 và 2 trong biên độ xanh. Nhiệt hơi quá nhiệt 528°C. Áp suất bao hơi 102 at."
 
-“đối thủ phá giá" xuất hiện đúng lúc sắp chạy thật: thiếu chuẩn, thiếu phụ tùng, hoặc thiếu người biết việc. Ông thà lùi lịch còn hơn giao hàng lỗi.
+Hùng gật. Ký nhận bàn giao. Bút bi. Mực đỏ. Thời gian: 5:18 sáng.
 
-Ca chiều tan, ông đứng lại đếm không khí: mệt nhưng không oán — đó là mức ông chấp nhận; oán là mức phải dừng.
+"Bắt đầu tháo nắp ổ đỡ số 3 lúc 6:00," Hùng nói. "Tôi ở đây đến khi có kết luận."
 
-"Bên kia giảm giá mạnh," có người nhắc.
+6:00. Tổ cơ khí gồm bốn người — thợ bậc 5/7 và ba thợ phụ — bắt đầu tháo nắp turbine. Nắp ổ đỡ số 3 nặng 120 kg, bắt bằng 16 bulông M24, siết mô-men 35 kgm. Thợ cả dùng súng vặn thủy lực — từng bulông, đúng thứ tự, không vội.
 
-"Giảm bằng cắt chất lượng thì để họ giảm. Mình giữ hàng."
+Hùng đứng cách đó sáu mét, tay cầm calíp đo khe hở. Họ làm việc dưới ánh đèn pha — khu vực turbine tầng một không có cửa sổ, mùi dầu máy và mồ hôi hòa vào nhau. Nhiệt độ trong nhà turbine đã nguội còn 32°C — so với 48°C lúc vận hành.
 
-"đối thủ phá giá đang đứng ngay cửa," Trần Thị Lan nói nhỏ.
+45 phút sau — nắp ổ đỡ mở. Thợ cả chiếu đèn pin vào lòng ổ: bạc trắng, hợp kim babít, mặt tiếp xúc bóng đều. Hùng đưa calíp vào đo — khe hở hướng kính 0.28 mm. Tiêu chuẩn cho phép 0.15-0.35 mm. Chưa tới hạn, nhưng so với biên bản lắp đặt năm 1984 là 0.18 mm — đã mòn thêm 0.1 mm sau hai năm.
 
-"Nhìn thẳng và ghi rõ. Né thì mất cửa, xông không sổ thì mất người."
+"Ghi biên bản — bạc ổ đỡ số 3: khe hở 0.28 mm, mòn đều, không xước, không rỗ. Cho phép tiếp tục vận hành, theo dõi rung hàng ngày. Lên kế hoạch thay bạc vào đại tu năm sau."
 
-"Việc 'Mở rộng năng lượng nhà máy điện' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+Thợ cả gật. Họ bôi dầu mới, đậy nắp, xiết bulông. Hùng tự tay kiểm mô-men siết trên 4 bulông đầu tiên. Xong — ký vào biên bản.
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+Đã 7:45.
 
-Trưa, ông ăn bún qua quýt. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+Hùng lên phòng điều hành uống vội tách trà. Lan đã đến từ lúc 7:00, đặt trên bàn ông xấp tài liệu dày 4 cm: báo giá tua-bin Mitsubishi, bản dịch catalogue kỹ thuật tiếng Nga của LMZ, và công văn từ Cục Điện lực về chuẩn mực đấu nối lưới 110 kV.
 
-Chiều, hướng “Mở rộng năng lượng nhà máy điện" nhích thêm bằng ca chạy thử. Không pháo hoa.
+"Công văn nói gì?" Hùng hỏi, tay lật nhanh.
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+"Nói phải nâng tiết diện dây dẫn từ 185 lên 240 mm² — hoặc xây thêm đường dây 220 kV mới," Lan nói. "Và lắp thêm máy cắt SF6 ở trạm trung gian. Hạn: trước khi unit 3 hòa lưới."
 
-Hùng kể “Mở rộng năng lượng nhà máy điện” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+Hùng gật. Đọc kỹ đoạn kỹ thuật: dây AC-240 có dòng cho phép 610 A ở 110 kV, tương đương 116 MW — vừa đủ cho tổng công suất 150 MW (3x50 MW). Nhưng nếu họ muốn dự phòng cho unit 4 trong tương lai, phải tính đến đường dây 220 kV ngay từ bây giờ.
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+"Tính toán kinh tế," Hùng nói, viết nhanh lên sổ tay. "Phương án A: thay dây 185→240, cải tạo trạm. Chi phí ước tính 80 triệu đồng. Phương án B: xây đường dây 220 kV mới dài 12 km — hai mạch — chi phí 450 triệu. Nhưng mở được công suất đến 300 MW."
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Ông nhìn lên bảng — một biểu đồ điện một sợi (single-line diagram) thể hiện lưới điện khu vực, đính trên tường phòng họp.
 
-Sổ “Mở rộng năng lượng nhà máy điện" đánh dấu xanh — quan trọng.
+"Chọn A cho giai đoạn một. B là phương án dự phòng."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Mở rộng năng lượng nhà máy điện" không đổ.
+Lan ghi chép. Xong một việc.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ khách cốt lõi, và nói thẳng chỗ sẽ đau.
+8:15. Cuộc gọi từ Viện Năng lượng — kỹ sư trưởng thiết kế tên Dũng.
 
-Một chi tiết năm 1986: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Anh Hùng, tôi gửi bản vẽ sửa đường ống hơi chính. Chỗ khe co giãn nhiệt — chúng tôi tính lại, cần tăng biên độ từ 180 lên 220 mm vì nhiệt độ hơi thực tế thiết kế là 540°C, không phải 520°C như bản cũ."
 
-Hùng chấp nhận đối thủ phá giá là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Số liệu nào cho 540°C?"
 
-Hợp đồng viết tay còn, nhưng đã có thêm người dám ký tên chịu.
+"Từ tua-bin Mitsubishi. Họ thiết kế hơi mới ở 538°C. Nếu mình chọn Mitsubishi, ống phải chịu được 540°C. Còn LMZ vẫn 535°C."
 
-Cảm xúc hôm nay nghiêng về “lo âu trách nhiệm". Ông không giấu, cũng không để cảm xúc ký thay mình.
+Hùng im lặng năm giây. Quyết định tua-bin chưa chốt nhưng thiết kế ống hơi phải chốt ngay — thép 12Cr1MoV chịu được 540°C không? Ông nhớ thông số: thép 12Cr1MoV có ứng suất cho phép ở 540°C khoảng 60 MPa. Với áp suất 100 at (~10 MPa), bề dày 14 mm — tính toán sơ bộ, an toàn nếu nhiệt độ không vượt quá 560°C thường xuyên.
 
-Ở góc nhìn người làm thuê, “Mở rộng năng lượng nhà máy điện” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Tôi đồng ý tăng biên độ khe co giãn. Nhưng thép ống — giữ nguyên 12Cr1MoV, bề dày 14 mm. Nếu Mitsubishi trúng thầu, tôi sẽ yêu cầu họ cung cấp giấy chứng nhận vật liệu cho nhiệt độ thiết kế 545°C."
 
-Không ai hoàn hảo trong “Mở rộng năng lượng nhà máy điện". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+Cuộc gọi kết thúc. Hùng gạch một dòng trong sổ.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+8:45. Họp với tổ vận hành và bảo trì. Phòng họp nhỏ chật — bảy người, mùi dầu máy, khói thuốc lào từ thợ già. Hùng điểm nhanh tình hình.
 
-Hai người tốt bất đồng cách làm “Mở rộng năng lượng nhà máy điện". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+"Unit 1 đã kiểm xong — ổ đỡ OK, dự kiến hòa lưới 15:00 chiều nay."
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+"Unit 2 đang chạy 48 MW — giữ nguyên."
 
-Ch. 81: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+"Unit 3: móng đang chờ thép. Tôi vừa gọi Thái Nguyên — họ hứa 12 tấn còn lại sẽ giao ngày 18. Nếu không, tôi sẽ lên tận nhà máy."
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+"Băng tải than: kế hoạch thay đoạn 1-3 trong tháng này. Tôi đã duyệt phương án. Tổ cơ khí chuẩn bị nhân lực."
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+Các tổ trưởng gật. Không ai đặt câu hỏi. Hùng thích điều đó — có nghĩa là họ biết việc mình phải làm.
 
-Trên đường quanh Khu công nghiệp, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+9:30. Tanaka đến — đúng giờ. Lần này ông ta mang theo một kỹ sư người Nhật tên Yamada, chuyên gia turbine hơi của Mitsubishi Heavy Industries. Yamada nói tiếng Anh, Lan dịch.
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+Yamada mở bản vẽ mặt cắt tua-bin 60 MW — một cụm rotor dài 8 mét, 23 tầng cánh động, vật liệu thép Cr-Mo-V. Ông ta chỉ vào tầng cuối: cánh dài 680 mm, có dây buộc (lashing wire) ở 2/3 chiều cao cánh để tránh dao động.
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"55.000 giờ vận hành giữa hai kỳ đại tu lớn," Yamada nói. "LMZ — 33.000 giờ. Tuổi thọ rotor thiết kế — 200.000 giờ."
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Hùng hỏi một câu bằng tiếng Việt, Lan dịch: "Rotor LMZ dùng thép 25Cr1Mo1V, tuổi thọ thiết kế tương tự. Nhưng Mitsubishi có lợi thế về hiệu suất — suất hao nhiệt của các cô thấp hơn bao nhiêu?"
 
-Đổi Mới ngấm dần: người dám làm hụt hơi vì luật cũ, người sợ làm hụt hơi vì cơ hội.
+"Thiết kế 1.970 kcal/kWh so với LMZ 2.160 kcal/kWh. Chênh lệch 190 kcal. Với 60 MW, 8.000 giờ/năm — tiết kiệm 91.200 triệu kcal/năm. Quy đổi than 5.500 kcal — 16.580 tấn than/năm."
 
-Cuối buổi, “Mở rộng năng lượng nhà máy điện" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+Hùng nhẩm nhanh trong đầu. 16.580 tấn than, giá than lúc này 450 đồng/tấn — tiết kiệm 7,46 triệu đồng/năm. Giá tua-bin Mitsubishi cao hơn LMZ khoảng 60% — ước tính 96 triệu so với 60 triệu. Thời gian hoàn vốn chênh lệch đầu tư: (96-60)/7,46 ≈ 4,8 năm.
 
-Cán bộ huyện vừa hỏi vừa nhìn; làm ăn phải vừa đúng vừa khéo.
+Đầu tư dài hạn. Nhưng bốn năm rưỡi là thời gian đủ để Đổi Mới thay đổi mọi quy tắc.
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Mở rộng năng lượng nhà máy điện" mà không vứt lại?
+"Tôi muốn hai thứ," Hùng nói. "Một: danh sách phụ tùng dự phòng cho 5 năm — kèm đơn giá. Hai: lịch đào tạo vận hành — tối thiểu 6 kỹ sư của tôi được huấn luyện tại Nhật 8 tuần."
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+Yamada nhìn Tanaka. Tanaka gật.
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+"Tôi sẽ gửi trong tuần này."
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+Tanaka và Yamada ra về. Hùng nhìn đồng hồ — 10:10.
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+10:30. Chuyến đi hiện trường — khu vực lắp máy nghiền than unit 3. Hùng đi bộ dọc tuyến băng tải cũ — 650 mét từ kho đến lò. Bụi than đen dày đặc dưới chân, nước mưa đọng thành vũng bùn đen. Một phần mái che băng tải đã hỏng — nước rỉ xuống làm trượt băng tải khi than ướt.
 
-Xe máy bắt đầu lấn xe đạp; tiếng máy nổ đè thùng phuy cũ.
+"Anh Hai," Hùng gọi tổ trưởng cơ khí. "Phần mái che này — sửa trong tuần này. Tiền lấy từ quỹ bảo trì."
 
-Ông chủ động gặp người khó tính nhất quanh “Mở rộng năng lượng nhà máy điện". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+"Đã sửa hai lần rồi, lần trước tôn mỏng quá, mưa to thủng."
 
-Sổ nằm dưới gối. Ông cười thói quen sợ quên, rồi ngủ thật.
+"Lần này dùng tôn dày 0.8 mm, mạ kẽm. Nếu còn hỏng, tôi sẽ hỏi anh."
 
-Đèn tắt. “Mở rộng năng lượng nhà máy điện" chưa xong cả đời — chỉ xong một ngày đủ để mai còn mở cửa.
+Tổ trưởng gật. Họ đi tiếp đến máy nghiền than — máy nghiền bi, tang trống đường kính 3 mét, dài 5 mét. Bên trong có 40 tấn bi thép các cỡ: Ø60, Ø40, Ø30. Máy quay 18 vòng/phút, tiếng ồn 98 dB. Hùng đeo nút tai — thói quen cũ từ thợ máy — ông đặt tay lên thân máy nghiền, cảm nhận rung động qua lớp sơn dày.
 
-Trên đường quanh Khu công nghiệp, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Ổ đỡ đầu vào — bạc nhiệt độ bao nhiêu?" Hùng hỏi người thợ vận hành trực.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"65°C, anh. Bình thường."
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+"Bôi trơn?"
 
-Sổ “Mở rộng năng lượng nhà máy điện" đánh dấu đỏ — chết người nếu trễ.
+"Mỡ chịu nhiệt — bơm tự động 8 tiếng một lần."
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+Hùng gật. Kiểm tra đồng hồ báo nhiệt — 65°C thật. Dưới ngưỡng 75°C. Ông ký vào phiếu kiểm tra.
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Mở rộng năng lượng nhà máy điện" mà không vứt lại?
+11:30. Văn phòng điều hành. Hùng gọi điện cho nhà máy thép Thái Nguyên — đầu dây bên kia là trưởng phòng kinh doanh tên Minh.
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+"Anh Minh, tôi Hùng — Khu công nghiệp. 12 tấn thép Ø22 và Ø28 — lô của tôi đâu?"
 
-Ch. 81: phần thưởng chỉ thật khi khách không trả hàng.
+"Anh Hùng, xin lỗi — nhà máy đang ưu tiên đơn hàng của Tổng công ty Xây dựng. Lô của anh dồn lại cuối tháng."
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+"Cuối tháng tôi âm tiến độ. Anh cho tôi 12 tấn trước — tôi chấp nhận lấy Ø25 thay cho Ø22, nếu anh có hàng. Tôi sẽ ký biên bản thay đổi chủng loại — trách nhiệm thiết kế tôi tự lo."
 
-Trên đường quanh Khu công nghiệp, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Minh im vài giây. "Để tôi xem kho — gọi lại anh trong 30 phút."
 
-Sổ “Mở rộng năng lượng nhà máy điện" đánh dấu bút chì — có thể lùi.
+Hùng gác máy. Xoay người nhìn ra cửa sổ — công trường đang đổ bê tông móng máy nghiền. 180 m³ bê tông M300. Ba xe trộn đang đổ liên tục. Thợ hồ dùng đầm dùi — từng nhát, đều, đúng khoảng cách.
 
-Một chi tiết năm 1986: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+11:45. Minh gọi lại: "Có 12 tấn Ø25 và Ø28 — anh qua lấy hóa đơn chiều nay. Nhưng giá Ø25 cao hơn Ø22 — 12 đồng/kg."
 
-Trên đường quanh Khu công nghiệp, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Bao nhiêu chênh lệch?"
 
-Ch. 81: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+"12 tấn × 12 đồng = 144.000 đồng."
 
-Một chi tiết năm 1986: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Chấp nhận. Làm hóa đơn. Tôi cho xe đến 15:00."
 
-Một chi tiết năm 1986: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng gác máy. Ghi sổ: 12 tấn Ø25+Ø28 — thay thế Ø22 — đã chốt. Sai thiết kế nhưng vẫn đảm bảo chịu lực — diện tích thép thay thế lớn hơn yêu cầu. An toàn.
 
-Ch. 81: phần thưởng chỉ thật khi công nhân không mất ca.
+12:00. Cơm trưa — cơm hộp mang từ nhà: thịt kho tàu, canh cải, cá rô kho tộ. Hùng ăn trong phòng điều hành, mắt vẫn dõi bảng điều khiển. Ăn xong, ông rót nước trà, mở tập báo giá phụ tùng LMZ gửi từ tổng kho Moskva.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+Tập dày 47 trang, tiếng Nga, có bản dịch kèm. Hùng lật đến mục "Cánh động tầng cuối turbine K-50-90" — mã số 4К-110-2-1. Đơn giá 8.400 rúp một bộ (một tầng = 64 cánh). Thời gian giao: 6 tháng từ ngày đặt.
 
-Trên đường quanh Khu công nghiệp, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Gần bằng tiền mua một máy kéo MTZ-50.
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Ông hít một hơi. Đó là lý do Mitsubishi hấp dẫn — phụ tùng tuy đắt hơn nhưng chu kỳ thay dài hơn. Nhưng LMZ có lợi thế: kỹ thuật viên ở đây biết tua-bin Liên Xô như lòng bàn tay. Họ đã vận hành chúng 10 năm. Còn Mitsubishi — mọi thứ phải học lại từ đầu.
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Mở rộng năng lượng nhà máy điện" mà không vứt lại?
+"Đấy mới là cái giá thực sự," Hùng lầm bầm.
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+13:30. Họp với cán bộ Điện lực địa phương — ba người, trong đó có một phó ban tên Cường. Họ mang theo bản vẽ trạm biến áp 110 kV và báo giá máy cắt SF6.
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+"Anh Hùng, chúng tôi phê duyệt phương án nâng tiết diện dây 110 kV từ 185 lên 240. Nhưng đề nghị anh lắp thêm một ngăn lộ xuất tuyến cho unit 3 — kèm máy cắt, dao cách ly, biến dòng, biến điện áp."
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hùng xem bản vẽ. Ngăn lộ mới gồm: máy cắt SF6 loại 110 kV — 1.250 A — 31,5 kA; ba dao cách ly; ba biến dòng; một biến điện áp; tủ bảo vệ rơle. Chi phí dự kiến 35 triệu đồng.
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+"Tôi đồng ý. Nhưng tôi muốn xem bản vẽ bố trí mặt bằng — để chắc rằng vị trí đặt tủ bảo vệ không xa phòng điều hành quá 50 mét — cáp tín hiệu phải đi trong máng cáp riêng, tránh nhiễu."
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+Cường gật. "Mai tôi gửi."
 
-Một chi tiết năm 1986: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+14:00. Cuộc gọi đường dài từ Công ty Xuất nhập khẩu Máy — người quen tên Hải, chuyên cung ứng thiết bị điện Liên Xô.
 
-Cuối buổi, “Mở rộng năng lượng nhà máy điện" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Anh Hùng, lô van điều khiển hơi chính 150 mm — 8 cái — đã qua Hải Phòng. Tôi gửi chứng chỉ thử áp lực và chứng chỉ thép. Bản gốc tiếng Nga — bản dịch trong vòng 48 giờ."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Mở rộng năng lượng nhà máy điện" mà không vứt lại?
+"Gửi fax cho tôi ngay."
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ người, và nói thẳng chỗ sẽ đau.
+Khoảng 20 phút sau, fax đến — ba trang, chữ Nga, đóng dấu đỏ của nhà máy chế tạo Van Blagoveshchensk. Thông số: áp suất thử 135 at, nhiệt độ thử 565°C. Vật liệu thân van: thép 20CrMoV. Hùng đọc được chữ "ГОСТ 5762-74" — tiêu chuẩn nhà nước Liên Xô. Ông gật. Hàng chuẩn.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+14:30. Sơn — kỹ sư vận hành trưởng — báo: "Nhiệt độ dầu bôi trơn unit 2 đang lên 47°C — bình thường là 42°C. Kiểm tra thấy két làm mát dầu có thể bị tắc một phần — chênh lệch nhiệt nước vào-ra giảm."
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng xuống ngay. Két làm mát dầu turbine — kiểu ống chùm, nước tuần hoàn làm mát. Ông sờ đường ống nước ra — ấm hơn bình thường. Lấy đồng hồ đo nhiệt: nước vào 28°C, nước ra 33°C — chênh 5°C. Thiết kế chênh 8-10°C.
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Tắc một phần. Cho chạy bơm dự phòng — tăng lưu nước làm mát. Mai xả két, thông ống bằng hóa chất. Không để đến tuần sau."
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 33 gắn với ông Tanaka: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Sơn gật. Làm ngay.
 
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 34 gắn với con trai Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+15:00. Unit 1 hòa lưới. Quy trình khởi động: đưa turbine lên 1.000 vòng/phút, giữ 5 phút, nghe âm thanh. Lên 2.000 vòng/phút, giữ 10 phút. Lên 3.000 vòng/phút, hòa lưới. Kỹ sư điện thao tác bảng điều khiển — tay hơi run nhưng đúng quy trình.
 
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Đồng hồ tần số dao động quanh 49,8 Hz. Hòa lưới — đóng máy cắt — một tiếng "bụp" rõ. Kim tải lên 10 MW. Rồi 20 MW. Unit 1 chạy ổn định ở 30 MW sau 30 phút. Sơn báo rung động ba ổ đỡ: 0.02 — 0.025 — 0.03 mm. Xanh tất cả.
 
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng thở nhẹ. Ký vào nhật trình: Unit 1 hòa lưới 15:28. Rung ổ đỡ số 3 sau kiểm tra: 0.025 mm — trong tiêu chuẩn.
 
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+16:00. Một người lạ vào văn phòng — tự xưng là đại diện công ty TNHH Thiết bị Công nghiệp Sài Gòn. Mang theo catalogue máy cắt SF6 Trung Quốc — giá bằng 1/3 Pfisterer. Chào hàng 30 bộ sứ cách điện "chất lượng tương đương, giá rẻ hơn 40%".
 
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 38 gắn với ông Tanaka: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng xem catalogue — giấy in mờ, số liệu kỹ thuật không có chứng nhận thử nghiệm kiểu (type test). Dòng cắt định mức ghi 25 kA, nhưng không ghi số lần cắt ngắn mạch liên tiếp. Hùng hỏi: "Có chứng nhận thử nghiệm từ phòng thí nghiệm quốc tế không?"
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Mở rộng năng lượng nhà máy điện" năm 1986 tại Khu công nghiệp, chi tiết số 39 gắn với con trai Hùng: họ phải xử lý góc “đối thủ phá giá" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “lo âu trách nhiệm" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+Người đại diện lúng túng: "Chúng tôi có bản sao — nhưng chưa mang theo."
 
+"Khi nào có, hãy quay lại."
 
-Kết thúc đoạn này, “Mở rộng năng lượng nhà máy điện" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Nhưng giá rẻ hơn 40%, anh Hùng. Anh không muốn tiết kiệm cho nhà máy?"
+
+Hùng đặt catalogue xuống, nhìn thẳng: "Tôi tiết kiệm bằng cách mua hàng đúng chuẩn, lắp một lần, chạy 30 năm. Không phải bằng cách mua hàng rẻ, hỏng sau một năm, mất điện toàn khu công nghiệp."
+
+Người đại diện thu catalogue, ra về.
+
+17:00. Họp giao ban cuối ngày. Các tổ trưởng báo cáo nhanh, Hùng ghi sổ. Tổ cơ khí: khe hở ổ đỡ unit 1 OK, turbine đã chạy. Tổ xây dựng: móng máy nghiền đổ bê tông xong 180 m³. Tổ điện: máy cắt SF6 đã đặt — chờ giao. Tổ vận hành: unit 2 48 MW, unit 1 30 MW, tổng tải 78 MW.
+
+Hùng tổng kết năm phút. Nhấn mạnh: thứ Hai tuần sau — chốt tua-bin. Trong tuần — sửa mái che băng tải. Ngày 18 — thép Thái Nguyên.
+
+18:00. Mặt trời lặn. Hùng ra ngoài hiên phòng điều hành — nhìn toàn cảnh công trường lúc chạng vạng. Cần cẩu RDK-25 dừng, người tan ca. Nhưng vài đèn hàn vẫn sáng — tổ cơ khí làm thêm để kịp tiến độ thay băng tải cuối tuần.
+
+Hùng hút một điếu thuốc — thói quen chỉ làm ở ngoài hiên, không bao giờ trong phòng. Khói thuốc tan vào mùi dầu DO và bụi than.
+
+"Anh — ngày mai Mitsubishi gửi bảng giá phụ tùng," Lan ra đứng cạnh. "Còn LMZ — họ trả lời sẽ gửi đường hàng không tuần sau."
+
+"Tốt. Nhưng em biết không — đấu thầu không khó. Quyết định mới khó."
+
+Lan không nói gì. Chỉ đứng cùng ông năm phút, rồi quay vào.
+
+18:30. Hùng ngồi lại với cuốn sổ — bìa đen, 200 trang kẻ ô ly. Một nửa đã viết đầy — con số, sơ đồ, ký hiệu. Ông mở trang mới, viết:
+
+* Chốt ổ đỡ unit 1: OK, hẹn thay bạc đại tu 1987
+* Móng máy nghiền: xong bê tông — chờ đông cứng 7 ngày
+* Máy cắt SF6: chờ giao
+* Dây 240 mm²: vật tư giao tháng 12 — thi công tháng 1/87
+* Thép Thái Nguyên: 12 tấn, đã lấy hóa đơn, xe đi 15:00
+* Van LMZ: 8 cái, chứng chỉ OK
+* Sứ cách điện Trung Quốc: từ chối
+* Tua-bin: LMZ vs Mitsubishi — chốt thứ Hai tuần sau
+* Khe co giãn nhiệt: Dũng Viện Năng lượng — tăng 220 mm
+
+Ông đọc lại một lần. Gấp sổ.
+
+19:00. Về nhà. Bà Hà hỏi: "Ăn chưa?" Hùng gật — dù chưa ăn, nhưng ông không muốn bà phải dọn thêm. Bà nhìn ông một lát, không tin — nhưng không hỏi thêm. Chỉ bưng ra bát cơm nóng và đĩa cá kho tiêu.
+
+Lan ăn cùng. Mâm cơm không linh đình — ba món: canh chua, cá kho, rau luộc. Đủ.
+
+"Tua-bin họ thế nào?" Lan hỏi — nhưng hỏi nhẹ, kiểu hỏi để chia sẻ chứ không phải hỏi để báo cáo.
+
+"Khó chốt. LMZ an toàn, Mitsubishi hiệu quả. Chênh lệch 4,8 năm hoàn vốn."
+
+"Ở Nhật họ đào tạo không?"
+
+"Sáu kỹ sư, tám tuần — nếu mình chọn Mitsubishi."
+
+"Anh chọn cái gì giữ được người và thiết bị chạy bền," bà Hà nói từ bếp. "Chọn xong thì về ăn đúng giờ."
+
+Hùng cười — lần đầu trong ngày.
+
+Trước khi ngủ, ông mở lại sổ. Đọc dòng cuối cùng ghi ở hiên nhà máy: "Tháng Mười Một, 1986 — đất nước đổi. Nhưng nhiệt độ hơi quá nhiệt vẫn là 535°C, dù đất nước có đổi thế nào. Áp suất không đổi. Oát không đổi. Kỹ thuật không đổi. Chỉ có người phải đổi — để theo kịp."
+
+Đèn tắt. "Mở rộng năng lượng nhà máy điện" chưa xong cả đời — chỉ xong một ngày, đủ để mai còn mở cửa.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.81」

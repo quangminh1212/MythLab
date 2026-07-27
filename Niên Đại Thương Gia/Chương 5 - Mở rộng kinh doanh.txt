@@ -6,7 +6,7 @@ Gia đình đã no hơn mấy bữa. Đó chính là lúc Hùng biết mình kh�
 
 Bốn giờ sáng. Trời tối như hũ nút. Hùng mở mắt, tỉnh giấc ngay lập tức — thói quen của Lý Minh, khi có hạn chót thì không cần chuông báo thức.
 
-Hôm nay là ngày thứ tư của nhiệm vụ, và ông sẽ hoàn thành nó. 10 EXP nữa — chỉ cần một hai giao dịch nữa. Nhưng ông không chỉ muốn hoàn thành nhiệm vụ, ông muốn vượt chỉ tiêu. Ông muốn gia đình đủ ăn không chỉ một tháng, mà ba tháng, sáu tháng, một năm.
+Hôm nay là ngày thứ tư của nhiệm vụ, và ông sẽ hoàn thành nó. Nhưng ông không chỉ muốn hoàn thành nhiệm vụ, ông muốn vượt chỉ tiêu. Ông muốn gia đình đủ ăn không chỉ một tháng, mà ba tháng, sáu tháng, một năm.
 
 Hùng bước ra sân. Trời tối, sương nặng, mùi cỏ ẩm bốc lên ngột ngạt. Con gà trống trong chuồng chưa gáy — nó cũng chưa đến giờ. Hùng đi ra sau nhà, đứng chỗ tối, nhắm mắt, mở không gian.
 
@@ -42,16 +42,9 @@ Hùng đến hẻm quen, trải vải, bày hàng. Hôm nay ông mang 5 bộ qu�
 
 Khách đến nhanh. Anh Khanh đã giới thiệu — ba đồng nghiệp của anh đến, mỗi người mua một bộ quần áo. Hai bộ nam (50 đồng/bộ), một bộ nữ (55 đồng). Tổng: 155 đồng.
 
-「Giao dịch thành công! +30 EXP. Tổng EXP: 120/100 — Nhiệm vụ hoàn thành!」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
-「Nhiệm vụ hoàn thành: Cải thiện cuộc sống gia đình trong 7 ngày
-- Kết quả: Gia đình có đủ ăn trong 1 tháng ✓
-- EXP nhận được: +100 (thưởng hoàn thành)
-- Tiến độ EXP của nhiệm vụ lúc này: 120
-- Phần thưởng: Không gian mở rộng +200m² (1.200m² tổng)
-- Kỹ năng Thương mại cấp 1 → cấp 2 (tự động nâng cấp khi đạt 100 EXP)」
-
-Hùng đứng im, nghe thông báo. Nhiệm vụ đầu tiên hoàn thành — trong bốn ngày thay vì bảy ngày. Không gian mở rộng thêm 200m², và kỹ năng thương mại nâng cấp lên cấp 2.
+Hùng đối chiếu lượng gạo, khoản tiền dự phòng và số hàng đã bán. Nhiệm vụ đầu tiên hoàn thành trong bốn ngày thay vì bảy; mọi biến động EXP, diện tích và kỹ năng sẽ chỉ được chốt một lần tại sổ canon cuối chương.
 
 「Kỹ năng Thương mại cấp 2: Đánh giá giá trị hàng hóa chính xác 95%, có thể dự đoán xu hướng giá trong 7 ngày, giảm 20% chi phí giao dịch (thương lượng tốt hơn).」
 
@@ -101,7 +94,7 @@ Hùng nghe, im lặng. Bà nhắc cha — người cha ông chưa từng gặp. 
 
 Bà Hà nhìn cháu, gật đầu. Bà không nói thêm — bà chỉ ăn, và nước mắt chảy nhẹ trên nếp nhăn. Nước mắt của nhớ, của vui, của hy vọng.
 
-Sau bữa tối, Hùng ngồi ngoài sân, vào không gian. Không gian đã mở rộng — 1.200m², thêm 200m² đất màu mỡ, suối chảy dài hơn, cây cỏ xanh hơn. Kho hàng vẫn nguyên, nhưng ông cảm nhận không gian rộng hơn — như căn nhà thêm một phòng, thoáng hơn, thoải mái hơn.
+Sau bữa tối, Hùng ngồi ngoài sân, vào không gian. Không gian đã mở rộng đúng nhịp được hệ thống ghi nhận, với phần đất màu mỡ mới, suối chảy dài hơn, cây cỏ xanh hơn. Kho hàng vẫn nguyên, nhưng ông cảm nhận không gian rộng hơn — như căn nhà thêm một phòng, thoáng hơn, thoải mái hơn.
 
 Hùng kiểm tra tổng kết:
 - Tiền ngoài: 335 (ngày 3) + 183 (ngày 4) = 518 đồng
@@ -119,71 +112,34 @@ Nhưng mọi thứ đều cần vốn, cần mặt bằng, cần nhân công. H�
 
 Hùng quyết định: ngày mai sẽ hỏi anh Khanh về giấy phép bán hàng. Nếu có thể mở cửa hàng nhỏ ở huyện, ông sẽ bắt đầu. Nếu không, ông sẽ tìm cách khác — bán rong thêm một thời gian, tích lũy tiền, rồi mua đất xây cửa hàng.
 
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, trăng sáng, gió lạnh. Trong nhà, bà Hà đang đọc kinh — bà đọc nhỏ, lí nhí, nhưng đều. Lan đã ngủ, cuộn tròn trên chõng tre, tay ôm chiếc gối mới (Hùng lấy từ không gian, nói là hàng khách trả lại).
-
-Hùng nhắm mắt. Ngày mai là ngày thứ năm. Nhiệm vụ đầu tiên đã hoàn thành. Bây giờ, ông bắt đầu nhiệm vụ lớn hơn — xây dựng nền tảng kinh doanh. Từ bán rong đến cửa hàng. Từ cửa hàng đến xưởng sản xuất. Từ xưởng đến đế chế.
-
-Mọi thứ đều bắt đầu từ nhỏ. Từ năm bộ quần áo. Từ 518 đồng. Từ một chiếc xe đạp cũ. Từ một cô em gái ngồi sau xe, hát dân ca trên đường đất đỏ.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Nhịp “Mở rộng kinh doanh”
-
-Năm 1983 tại Hà Nội, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
-
-### Thử nhỏ
-
-Bên ngoài muốn “linh hoạt” quy trình. Thương Gia từ chối. Linh hoạt sai chỗ là lỗ uy tín.
-
-### Kết quả
-
-### Nhà
-
-Mâm cơm 1983. “Mở rộng kinh doanh” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-Trên sổ tay năm 1983, ông vẽ mũi tên từ “Mở rộng kinh doanh” sang việc kế tiếp, rồi gạch một vạch đỏ mang nghĩa: chưa xong đạo đức thì chưa xong tiến độ.
-
-Người trong ca được cảm ơn đúng tên. Người ngoài ca được cập nhật đủ để không đồn. Minh bạch nội bộ rẻ hơn mọi chiến dịch chữa cháy.
-
-Ông tự hỏi ba câu trước khi rời hiện trường: Ai chịu nếu hỏng? Khách có bị thiệt vì mình nhanh? Nhà mình có phải trả giá thầm lặng không?
-
-Một chi tiết kỹ thuật/nghiệp vụ được làm lại từ đầu vì chưa đủ sạch. Tốn giờ. Giữ được đường dài. Ông chấp nhận mất một buổi để không mất một mùa.
-
-Đối tác/khách theo dõi thái độ hơn lời. Hùng giữ giọng thấp, mắt thẳng, tay sổ. Sự đáng tin được xây bằng nhịp đều, không bằng một màn xuất thần.
-
-Giữa ngày “Mở rộng kinh doanh”, Hùng chủ động gặp lại người chịu trách nhiệm trực tiếp, yêu cầu họ nói rủi ro trước khi nói thành tích. Cuộc nói chuyện ngắn, có biên bản, có hạn xử lý.
-
-Ông yêu cầu rà một vòng hiện trường lần cuối: chỗ khách chạm vào, chỗ tiền đi qua, chỗ dễ dối. Phát hiện nhỏ được ghi đậm như cháy lớn.
-
-Lan (hoặc người giữ sổ) đối chiếu ba cột: hứa — làm — còn nợ. Cột nào lệch, dừng khoe. Chỉ khi ba cột khớp mới được phép gọi là xong nhịp.
-
-Có một tình huống văn hóa khác biệt lộ ra đúng giờ mệt. Hùng không nổi nóng với đám đông. Ông tách việc, giao lại, hẹn giờ kiểm. Giữ mặt mọi người để giữ việc.
-
-Buổi chiều ông gọi một cuộc ngắn về nhà: không báo cáo doanh thu, chỉ báo “vẫn ổn, về trước bữa”. Giọng bình thường là món quà với người chờ.
-
-「Hệ thống — cập nhật ch.5」
-1983 · Mở rộng kinh doanh
-Tổng EXP: 120 | Không gian: 1,200m²
-Nhịp này: +30 EXP, +50m²
-Kỹ năng gần nhất: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
+Hùng chưa đi ngủ. Ông cùng Lan mở sổ, rà lại phần việc mở rộng đã làm ngay trước lúc rời chợ chiều nay.
 
 
+### Mở rộng không phải bày thêm hàng
 
-### Khép — Mở rộng kinh doanh
+Trước lúc chợ đông, người thu vé nhắc Hùng rằng bán theo buổi khác với mở quầy cố định: muốn treo biển còn phải hỏi phòng tài chính huyện về mẫu đơn, nguồn hàng, nơi cư trú và xác nhận của xã. Ông không biết chi tiết, càng không hứa lách thủ tục. Lý lịch của cha Hùng có thể khiến dấu xác nhận cuối cùng không dễ có.
 
-Cửa mới khóa muộn hơn dự kiến — vì còn sót một việc nhỏ phải làm đúng. “Mở rộng kinh doanh” khép bằng việc, không bằng băng keo khai trương.
+Hùng chỉ ghi câu hỏi vào sổ, chưa coi đó là hướng dẫn chính thức. Trước mắt, họ tiếp tục bán theo vé chợ từng buổi, không treo biển cửa hàng, không thuê người. Sáng ngày thứ năm ông sẽ gặp Khanh, hỏi đúng quy trình và tìm một đối tác có thể đứng cùng. Mở rộng lúc này phải là bán đều hơn chứ không phải phô lớn hơn.
 
-Nếu bà Hà còn hỏi “ăn chưa”, ông sẽ đáp “rồi” và mỉm cười như người chưa quên gốc.
+Lan đề nghị nhận đặt cỡ. Mấy hôm qua có hai người muốn áo rộng vai, một người cần quần ngắn ống. Hùng dùng mảnh giấy nâu làm phiếu: tên gọi, thôn, loại hàng, số đo, tiền đặt trước. Không ghi những lời như “đẹp nhất” hay “hàng Hà Nội chính hiệu”. Phiếu chỉ hẹn ngày, giá và quyền nhận lại tiền nếu sai cỡ.
 
-Trên bàn có bát nước chè để nguội. Ông uống cạn, cảm ơn sự bình thường còn giữ được.
+Đơn đầu tiên đến từ cô giáo. Bà đặt một bộ cho chồng, đưa trước mười đồng. Lan đo vai bằng sợi dây có đánh nút vì chưa mua được thước may. Hùng đo lại, thấy hai nút lệch gần một đốt ngón tay. Ông hủy số đo ấy, sang hàng tạp hóa mua một thước dây thật. Mất thêm tiền, tránh may sai cả bộ.
 
-Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Tìm đối tác mới”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
+Đến trưa, một bà bán chè xin lấy năm chiếc áo về bán ở chợ làng bên, cuối tuần mới trả tiền. Đây có thể là điểm bán thứ hai, cũng có thể là chỗ mất năm món hàng. Hùng chỉ giao một chiếc theo giá sỉ, nhận đủ tiền; nếu bán được, phiên sau lấy hai. Bà bán chè chê ông quá dè. Ông nhận lời chê. Một mạng lưới tốt không bắt đầu bằng việc trao hết rủi ro cho lòng tin.
 
-Chốt ý nghĩa chương này: sau “Mở rộng kinh doanh”, ông không chỉ có thêm việc — có thêm một ranh giới không được vượt: không đổi người lấy số.
+Lan mở riêng hai trang sổ. Trang bên trái là hàng bán tại chợ huyện. Trang bên phải là hàng giao thử. Mỗi món có dấu than chì riêng ở mác trong để biết nó đi theo đường nào. Cách làm vụng, nhưng nếu khách quay lại đổi, họ không phải cãi nhau bằng trí nhớ.
 
-Lan gõ cửa nhẹ: “Ngủ đi.” Ông đáp “Ừ.” Có những mệnh lệnh chỉ nhà mới được phép đưa.
+Chiều xuống, chiếc áo giao thử đã bán. Bà bán chè quay lại lấy hai chiếc đúng như thỏa thuận, trả tiền ngay. Hùng vẫn không nâng lên năm. Ông hẹn sau ba phiên, nếu không thất lạc tiền và khách không khiếu nại, số lượng mới tăng. Lan hiểu ra: mở rộng là thêm một đường bán có kiểm soát, không phải trút nhiều hàng hơn lên cùng một tấm bạt.
+
+Về nhà, họ kiểm chiếc chum, số gạo và phần tiền mua thực phẩm. Mục tiêu đủ ăn một tháng đã có bằng chứng: lượng gạo được đong, thịt được ướp, tiền dự phòng tách riêng. Hệ thống hoàn tất nhiệm vụ ở nhịp này, nhưng Hùng không cộng thêm phần thưởng vào lời kể rồi lại cộng lần nữa ở cuối chương. Sổ canon cuối chương là nơi duy nhất chốt tổng EXP, diện tích và kỹ năng.
+
+Không gian rộng thêm, nhưng Hùng không bước đi đo đất. Ông cùng Lan kiểm ba phiếu đặt hàng, gói riêng chiếc áo đã sửa và ghi ngày phiên sau. Thương mại cấp hai không biến rủi ro thành đáp án. Nó chỉ giúp ông thấy rõ hơn món nào có thể bán, giá nào có thể nhận; còn giao bao nhiêu, tin ai đến mức nào vẫn phải chịu trách nhiệm bằng tiền thật.
+
+Bà Hà nghe chuyện điểm bán mới, chỉ hỏi bà bán chè có nhà cửa rõ ràng không. Lan trả lời được tên chồng, thôn, vị trí quán. Bà gật đầu. Câu hỏi bình dân ấy chính là phép kiểm tra mà hai người trẻ suýt bỏ qua.
+
+Đêm đó, Hùng không vẽ đế chế. Ông ghi ba việc cho ngày mai: hỏi Khanh về mẫu đơn và người hợp tác; giao đúng bộ đã đo; kiểm lại hai áo gửi chợ bên. Bên dưới, Lan thêm một dòng: mua thước gỗ dự phòng nếu thước dây đứt.
+
+Từ một sạp thành hai điểm bán, khoảng cách chỉ vài cây số. Nhưng đó là lần đầu hàng của họ đi khỏi tầm mắt mà vẫn có tên người nhận, số lượng, giá, hạn trả. Việc tiếp theo không còn là bán nhiều hơn. Là tìm một đối tác mới vẫn chịu ghi tên mình vào sổ.
 
 ============================================================
 「Hệ thống — CỘT MỐC ch.5」

@@ -56,7 +56,7 @@ Hùng nhìn bà — quần áo cũ, tay chai sạn, mắt mệt. Bà là nông d
 
 Bà cười, rút tiền, cầm bộ blouse, đi nhanh về phía làng — bà sẽ mang về cho con gái thử. Hùng nhận 50 đồng, hệ thống thông báo:
 
-「Giao dịch thành công! +10 EXP. Số dư EXP lúc giao dịch:  60/100」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
 Tiếp theo: trứng và mì gói. Hùng mang rổ trứng (20 quả) và 2 thùng mì ra đường chính, đặt lên mảnh vải cũ trải đất. Không quảng cáo ầm ĩ — chỉ ngồi cạnh, để người đi đường tự nhìn thấy.
 
@@ -68,17 +68,17 @@ Một bà cụ dừng lại, nhìn rổ trứng. "Trứng gì đây, cậu? Gà 
 
 Bà cụ xới trứng, soi dưới nắng — trứng tươi, lòng trong, không ôi. Bà mua 10 quả, giá 1 đồng/quả (giá chợ đen 2 đồng/quả, giá Cung Tiêu Xã 0.5 đồng nhưng cần phiếu và hiếm). 10 đồng cho 10 quả trứng — rẻ hơn chợ đen, đắt hơn Cung Tiêu Xã, nhưng không cần phiếu, mua được ngay.
 
-「Giao dịch thành công! +5 EXP. Số dư EXP lúc giao dịch:  65/100」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
 Mì gói: 2 thùng, mỗi thùng 30 gói. Hùng bán lẻ — 0.5 đồng/gói, 15 đồng/thùng. Một người đàn ông mua 1 thùng cho gia đình — vợ ông mới sinh con, cần đồ ăn bổ, mì gói là thức ăn "bồi" trong thời bao cấp.
 
-「Giao dịch thành công! +5 EXP. Số dư EXP lúc giao dịch:  70/100」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
-70 EXP. Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
+ Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
 
-「EXP nhận trong giao dịch này: +30. Tổng EXP: 80/100」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
-80 EXP. Còn 20 EXP nữa. Hùng có thể bán thêm chiều, nhưng ông quyết định dừng — không nên bán quá nhiều một ngày. 5 bộ quần áo + trứng + mì là đủ. Thêm nữa sẽ gây chú ý — ai cũng hỏi "hàng ở đâu ra", và câu trả lời "phụ việc ở Hà Nội" sẽ không thuyết phục nếu ông bán quá nhiều.
+ Còn 20 EXP nữa. Hùng có thể bán thêm chiều, nhưng ông quyết định dừng — không nên bán quá nhiều một ngày. 5 bộ quần áo + trứng + mì là đủ. Thêm nữa sẽ gây chú ý — ai cũng hỏi "hàng ở đâu ra", và câu trả lời "phụ việc ở Hà Nội" sẽ không thuyết phục nếu ông bán quá nhiều.
 
 Buổi chiều, Hùng không về ngay. Ông đi dạo huyện, khảo sát kỹ hơn. Ông tìm hiểu:
 - Chợ huyện họp mỗi ngày, từ 5h sáng đến 12h trưa
@@ -105,9 +105,9 @@ Hùng đồng ý. Ông lấy ra bộ sơ mi trắng cao cấp + quần tây đen
 
 Hùng ghi nhớ. Buổi chiều, ông mang bộ quần áo đến nhà người đàn ông — ông ta tên Khanh, cán bộ phòng tài chính huyện. Anh thử áo, vừa vặn, hài lòng, trả 80 đồng.
 
-「Giao dịch thành công! +10 EXP. Số dư EXP lúc giao dịch:  90/100」
+Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
-90 EXP. Còn 10 EXP nữa. Hùng mỉm cười — ngày mai ông sẽ hoàn thành nhiệm vụ dễ dàng.
+Phần việc còn lại đã rõ. Hùng mỉm cười — ngày mai ông sẽ hoàn thành nhiệm vụ nếu vẫn giữ được nhịp bán thận trọng.
 
 Anh Khanh mặc bộ áo mới, đứng trước gương, vuốt áo. "Cậu ơi, cậu có hàng đều đều không? Tôi muốn mua thêm cho con trai. Và tôi có mấy đồng nghiệp cũng cần."
 
@@ -164,50 +164,37 @@ Tối ấy, Hùng vào không gian, kiểm tra kho hàng:
 Hùng ngồi trong căn nhà gỗ, nhìn dòng suối chảy, suy nghĩ. Ngày mai, ông sẽ:
 1. Dùng xe đạp từ không gian (nói là mua đồ cũ)
 2. Chở Lan đi huyện
-3. Bán hàng, hoàn thành nhiệm vụ (cần 10 EXP nữa)
+3. Bán hàng, hoàn thành nhiệm vụ theo số liệu chốt cuối ngày
 4. Bắt đầu xây dựng mạng lưới khách hàng qua anh Khanh
 
 Năm bước kế hoạch dài hạn vẫn nguyên — nhưng bước 1 (bán hàng kiếm tiền) đang đi đúng hướng. 335 đồng trong ba ngày, trong thời bao cấp, là số tiền mà nhiều người mơ cả đời.
 
-Hùng thoát không gian, nằm xuống giường. Ngoài sân, gió thổi, dế kêu, trăng sáng. Trong bếp, tiếng bà Hà rửa bát — bà vẫn rửa bát tối, dù Hùng đã rửa. Bà không quen để cháu rửa bát — bà rửa lại, cho sạch theo tiêu chuẩn của bà.
-
-Hùng nhắm mắt. Ngày mai sẽ là ngày thứ tư. Hoàn thành nhiệm vụ. Và bắt đầu bước tiếp theo.
-
-Hành trình tiếp tục.
-
-### Lớp sâu
-
-### Nhịp “Bán hàng đầu tiên”
-
-Năm 1983 tại Làng Thanh Xuân, Quốc Oai, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
-
-### Thử nhỏ
-
-Hai phòng ban đổ lỗi quanh “Bán hàng đầu tiên”. Hùng cắt: lỗi hệ thống trước tội đồ. Quy trình một trang lên bảng tin.
-
-### Kết quả
-
-### Nhà
-
-Mâm cơm 1983. “Bán hàng đầu tiên” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
-
-「1983 · ch.4 · Bán hàng đầu tiên · Tổng EXP 90 · Không gian 1,150m² · +30 EXP」
+Hùng thoát không gian, nhắc Lan chuẩn bị túi hàng. Ngày mai sẽ là ngày thứ tư: hoàn thành nhiệm vụ, công khai chiếc xe đã dự tính mua, rồi bắt đầu bước tiếp theo.
 
 
+### Đồng tiền đầu tiên phải có đường về
 
-### Khép — Bán hàng đầu tiên
+Sáng kế tiếp, Lan đi cùng. Hai anh em thay nhau xách chiếc túi vải chứa hàng, đi bộ từ lúc trời còn tối. Đến chợ, Hùng không chọn góc khuất hôm trước. Ông trải tấm bạt đúng ô ghi trên vé, chừa lối cho gánh rau đi qua.
 
-Việc “Bán hàng đầu tiên” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
+Lan xếp áo theo cỡ, gấp tay áo vào trong để bụi khỏi bám cổ tay trắng. Cô đề nghị treo một bộ đẹp nhất lên dây. Hùng lắc đầu: dây cao dễ gọi cả chợ nhìn sang. Họ chỉ mở hai bộ mẫu; khách muốn cỡ khác mới lấy từ túi. Sự kín đáo làm tốc độ bán chậm, đổi lại không tạo một đám đông.
 
-Nếu bà Hà còn hỏi “ăn chưa”, ông sẽ đáp “rồi” và mỉm cười như người chưa quên gốc.
+Người khách đầu là cô giáo từng hỏi giá. Cô mang theo đúng số tiền đã hẹn, nhưng phát hiện một đường chỉ ở nách áo bị xổ. Hùng không cãi rằng đó chỉ là lỗi nhỏ. Ông đưa cô chọn bộ khác, còn chiếc lỗi giao Lan giữ riêng. Nếu bán rẻ nó cho người sau mà không nói, ông có thể thêm vài chục đồng; nếu nói rõ và sửa lại, ông giữ được người khách đầu tiên.
 
-Trên bàn có bát nước chè để nguội. Ông uống cạn, cảm ơn sự bình thường còn giữ được.
+Lan mượn kim, ngồi vá ngay sau sạp. Mũi chỉ của cô đều, kín, nhưng màu chỉ lệch nhẹ. Hùng đánh dấu chiếc áo bằng một nút thắt ở gấu, quyết định chỉ bán sau khi nói rõ đã sửa và hạ giá. Cô giáo nhìn cách hai anh em xử lý rồi mua thêm một chiếc áo trẻ con cho cháu. Bà không khen lớn, chỉ hỏi tuần sau họ có còn ngồi chỗ này không.
 
-Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Mở rộng kinh doanh”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
+“Cùng ngày, cùng buổi,” Hùng đáp.
 
-Chốt ý nghĩa chương này: sau “Bán hàng đầu tiên”, ông không chỉ có thêm việc — có thêm một ranh giới không được vượt: không đổi người lấy số.
+Đó là cam kết đầu tiên ông dám nói, vì nó đủ nhỏ để thực hiện.
 
-Ông để bút xuống giữa trang. Dòng trống là chỗ mai sẽ viết — nếu còn xứng.
+Giữa buổi, một người đàn ông muốn lấy ba bộ nhưng trả chậm đến cuối tháng. Số hàng ấy gần hết túi. Hùng hỏi tên, nơi làm việc, người có thể xác nhận. Ông ta khó chịu, bảo người trong huyện ai cũng biết mình. Hùng mỉm cười, không bán chịu. Khách bỏ đi, Lan tiếc ba món hàng nhưng không phản đối. Cô ghi bên lề: “Không rõ địa chỉ — không nợ.”
+
+Khi dọn sạp, hai anh em đếm tiền hai lần. Lan phát hiện một tờ mười đồng dính dưới mép bạt. Nếu chỉ nhìn tổng thu ước chừng, tờ ấy có thể mất hoặc bị tưởng là lời. Họ trừ vé chợ, trừ tiền nước, tách phần vốn. Phần mang về nhà được bọc trong giấy báo, buộc cùng tờ danh sách mua muối, dầu hỏa và thuốc ho cho bà.
+
+Trên đường về, Lan hỏi vì sao không bán hết một lượt rồi nghỉ vài ngày. Hùng chỉ hai người đàn ông đã đi ngang sạp nhiều lần. “Người mua cần nhớ mặt mình. Người để ý cũng sẽ nhớ. Mình phải cho cả hai thấy một nhịp bình thường.”
+
+Tới nhà, bà Hà không cầm xấp tiền. Bà nhận chai dầu và gói thuốc, xem hạn dùng, rồi bảo Lan cất hóa đơn vào vở. Đồng tiền bán hàng đầu tiên vì thế không nằm trên bàn để ngắm. Nó biến thành thứ căn bếp thiếu, thứ lưng bà cần, phần vốn cho buổi chợ sau.
+
+Hùng phủi bùn ở ống quần. Lan hong chiếc áo đã sửa. Ngày bán đầu tiên kết thúc bằng hai việc không ai ngoài nhà nhìn thấy: một món lỗi được giữ lại, một khoản nợ mơ hồ bị từ chối. Chính hai việc ấy khiến họ còn hàng để bán ngày mai.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.4」

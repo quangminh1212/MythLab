@@ -96,7 +96,7 @@ Hùng gật đầu. Đúng như Khanh nói — ông Tâm cẩn thận, không v�
 
 Ra khỏi nhà ông Tâm, Hùng đi vào chợ, bán hàng buổi sáng. Hôm nay ông bán 4 bộ quần áo (200 đồng), 15 quả trứng (15 đồng), 10 gói mì (5 đồng). Tổng: 220 đồng.
 
-「Giao dịch thành công! +25 EXP. Số dư EXP lúc giao dịch:  145」
+Hệ thống lặng lẽ ghi nhận giao dịch thành công, cộng 25 EXP, đưa số dư lúc ấy lên 145.
 
 Hùng không vội — ông bán đều đặn, không quá nhiều, không quá ít. Mỗi ngày 4-5 bộ quần áo, 15-20 quả trứng, 10-15 gói mì. Thu nhập ổn định 200-250 đồng/ngày. Trong thời bao cấp, đây là thu nhập của cán bộ cấp huyện — và ông kiếm được trong một buổi sáng bán rong.
 
@@ -154,12 +154,7 @@ Lan gật đầu, nước mắt chảy nhẹ. Cô ôm tay bà, nằm cạnh, và
 
 Hùng ngồi im, nhìn bà và em ngủ. Nến dầu cháy lay động, bóng ba người in trên vách đất. Ngoài sân, gió thổi, dế kêu, trăng lưỡi liềm treo trên ngọn tre.
 
-Trong đầu ông, hệ thống thông báo:
-
-「Nhiệm vụ mới: Chăm sóc sức khỏe gia đình
-- Mục tiêu: Đưa bà Hà đi khám bệnh và điều trị trong 14 ngày
-- Phần thưởng: 150 EXP, kỹ năng Y tế cơ bản lv1
-- Thời hạn: 14 ngày」
+Trong đầu ông, hệ thống giao nhiệm vụ mới về việc chăm sóc sức khỏe gia đình. Trong mười bốn ngày, ông phải đưa bà Hà đi khám và điều trị đầy đủ. Hoàn thành sẽ nhận 150 EXP cùng kỹ năng Y tế cơ bản lv1; thời hạn cũng chỉ đúng mười bốn ngày.
 
 Kỹ năng Y tế cơ bản. Hùng mắt sáng — đây là kỹ năng ông cần. Không phải để làm bác sĩ, nhưng để chăm sóc gia đình, và sau này, mở phòng khám. 150 EXP — nhiều hơn nhiệm vụ trước, nhưng ông có 14 ngày, đủ thời gian.
 
@@ -171,51 +166,21 @@ Hùng nhắm mắt. Ngày mai: đưa bà đi khám, bán hàng, và chờ tin ô
 
 Hành trình tiếp tục.
 
-### Nhịp “Tìm đối tác mới”
+---
 
-Năm 1983 tại Làng Thanh Xuân, Quốc Oai, việc được bóc thành chuỗi nhỏ: chủ sở hữu, hạn, chuẩn. Lan bảng ba màu. Đỏ — 48 giờ. Hùng không hô hào; ông xem hiện trường.
+Rời nhà ông Tâm, Hùng không coi câu ‘để tôi nghĩ’ là một cái gật đầu. Ông quay lại căn kho mặt chợ, đứng ngoài đo bằng bước chân: ngang bốn bước, sâu mười một bước, cửa gỗ đủ rộng cho hai người khiêng kiện vải. Mái ngói phía sau xô một hàng. Nếu thuê, chỗ dột phải ghi ngay vào giấy, không để đến mùa mưa mới cãi nhau.
 
-### Thử nhỏ
+Buổi chiều, anh Khanh dẫn Hùng trở lại. Ông Tâm đặt ba hộp hàng lên bàn: một bộ áo, một bánh xà phòng, một hộp vitamin. Ông hỏi từng món mua ở đâu, bán cho ai, nếu khách kêu thì xử lý thế nào. Hùng không nói chuyện đế chế. Ông đề nghị thử bảy ngày: Tâm giữ chìa khóa kho, Khanh xem sổ, mọi món nhập đều ghi nguồn và giá.
 
-Thử nhỏ: báo cáo muộn / lô suýt lệch / tin đồn. Họp 25 phút — nguyên nhân, 48 giờ, cấm giấu. Nhận lỗi được bảo vệ để sửa.
+Ông Tâm dùng cây bút máy gạch chữ ‘chia đôi’ trong đề nghị đầu tiên. ‘Tôi không bán cái tên của mình,’ ông nói. ‘Tôi nhận tiền thuê kho; phần đứng tên chỉ bàn sau khi thấy cậu giữ lời.’ Hùng đồng ý. Ba mươi đồng tiền thuê thử, đặt trước mười đồng, phần còn lại trả khi bàn giao căn kho. Giao dịch nhỏ hơn mong đợi, nhưng sạch hơn.
 
-### Kết quả
+Khanh làm chứng trên một tờ giấy học sinh: bảy ngày thử, không hàng cấm, không thuốc kê đơn, sổ nhập xuất để tại quầy. Hùng ký tên trước. Ông Tâm ký sau, nét chữ chậm và chắc. Không ai gọi đó là hợp tác lâu dài. Chính sự dè dặt ấy khiến Hùng tin ông già này có thể trở thành đối tác.
 
-### Nhà
+Trên đường về, Hùng ghé xưởng ông Lân đặt một quầy gỗ thấp, hai kệ tháo được và bốn móc treo. Ông Lân báo mười tám đồng, ba ngày giao. Hùng trả trước sáu đồng, xin ghi kích thước lên mảnh gỗ thừa. Đây là mắt xích thứ ba sau Khanh và Tâm: người giới thiệu, người giữ mặt bằng, người làm quầy.
 
-Mâm cơm 1983. “Tìm đối tác mới” được dịch thành câu bà hiểu. Không giọng họp trên mâm.
+Tối, Lan trải giấy giữa mâm đã dọn. Cô đọc lại tên từng người, rồi hỏi nếu ông Tâm đổi ý thì sao. Hùng khoanh sạp trống trong chợ làm đường lui. Bà Hà nghe đến khoản đặt trước liền cau mày; ông đưa tờ giấy cho bà sờ tận tay. Bà không đọc hết được, nhưng thấy chữ ký Khanh thì yên lòng.
 
-Có tiến, có sẹo. Nhắn Lan nghỉ đúng. Mai: “Sửa nhà”.
-
-“Tìm đối tác mới” được neo vào mạch dài Thương Gia: nuôi việc làm, uy tín, năng lực — không thành anh hùng ca cô lập giữa Làng Thanh Xuân, Quốc Oai và thế giới.
-
-### Thoại
-
-Lan: ““Tìm đối tác mới” anh sợ nhất chỗ nào?”
-Hùng: “Sợ hứa nhanh hơn sức.”
-Lan: “Em giữ nhịp. Anh giữ chuẩn.”
-
-### Hệ thống
-
-Hùng tắt thông báo. Việc ngoài đời quan trọng hơn.
-
-「1983 · ch.6 · Tìm đối tác mới · Tổng EXP 166 · Không gian 1,200m² · +46 EXP」
-
-
-
-### Khép — Tìm đối tác mới
-
-Việc “Tìm đối tác mới” được gói lại bằng một quyết định có tên người chịu trách nhiệm. Chỗ mơ hồ bị gạch. Chỗ chắc được giữ.
-
-Trong ngực còn biết ơn người cũ, nhưng không loạn. Loạn là khi không biết mai mở cửa bằng gì.
-
-Giày để ngoài thềm. Việc để ngoài cửa. Bên trong chỉ còn giọng nói nhỏ và mùi cơm.
-
-Trước khi ngủ, ông viết một dòng cầu nối: việc tiếp theo là “Sửa nhà”. Không hứa thắng. Chỉ hứa sẽ đến hiện trường đủ tỉnh.
-
-Ông ghi vào cuối trang: “Tìm đối tác mới” đẩy ông đi xa hơn trên bản đồ, nhưng kéo ông sát hơn với kỷ luật nhỏ — đúng giờ, đúng sổ, đúng lời.
-
-Ông rửa mặt bằng nước lạnh, nhìn gương một lần, không tìm anh hùng — chỉ tìm người còn tỉnh.
+Trước khi ngủ, Hùng ghi ba điều chưa được phép quên: không lấy lòng tin thay hợp đồng; không lấy lý lịch của Tâm che hàng mờ ám; không để Lan đứng quầy một mình khi chưa biết phân biệt thuốc. Một mạng lưới không bắt đầu từ nhiều người. Nó bắt đầu từ ba người còn dám nhìn nhau sau khi tiền đã đặt xuống.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.6」
