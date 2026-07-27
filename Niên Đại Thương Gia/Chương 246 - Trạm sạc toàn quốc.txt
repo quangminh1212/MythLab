@@ -1,197 +1,199 @@
 ============================================================
 Chương 246: Trạm sạc toàn quốc
+
+Chiều muộn, sau cuộc họp với ông Tuấn, Hùng đứng một mình bên cửa sổ tầng ba nhìn xuống phố. Xe cộ đông đúc, người đi lại tấp nập.
+
+Trong túi áo ông là bản vẽ phác thảo sơ bộ trạm sạc Giáp Bát được Quân gửi qua email. Ông mở ra xem — bản vẽ tay, chưa hoàn chỉnh, nhưng đã hình dung rõ ràng: một mái che bằng tấm lợp polycarbonate, ba trụ sạc, hai chỗ đậu xe, một tủ điện và một camera an ninh. Một trạm xăng mini — nhưng cho điện, không cho xăng.
+
+Thùng thư điện tử của ông có một email từ ông Tanaka, đối tác Nhật đã làm việc với Thương Gia từ những ngày đầu xuất khẩu sang Nhật. Ông Tanaka viết: "Nghe nói anh làm xe điện và trạm sạc? Nếu cần hợp tác kỹ thuật, tôi có thể giới thiệu công ty Tepco — họ đang triển khai trạm sạc ở Tokyo."
+
+Hùng trả lời ngay: "Cảm ơn ông Tanaka. Tôi rất muốn hợp tác. Tôi sẽ cử người sang Nhật học hỏi trong năm nay."
+
+Xe điện, trạm sạc, đối tác Nhật. Mọi thứ đang bắt đầu kết nối với nhau, như những mảnh ghép của một bức tranh lớn mà ông đã nhìn thấy từ nhiều năm trước.
+
+
 ============================================================
 
-Ông viết bốn chữ “Trạm sạc toàn quốc" lên trang mới, rồi viết tên người chịu nếu hỏng — thường là tên mình.
+Tháng 9 năm 2011.
 
-Báo thích chữ tập đoàn; xưởng thích chữ đúng ca đúng lương.
+Năm mươi chiếc xe điện của Thương Gia Group đã chạy được năm tháng liên tục trên những tuyến đường nội bộ của Thương Gia City. Mỗi ngày, mỗi xe chạy trung bình sáu mươi cây số, đưa đón công nhân từ các bến xe buýt ngoài quốc lộ đến các nhà máy trong khu công nghiệp phía tây. Sáng sáng, chiều chiều, những chiếc xe điện im lặng lướt qua các tuyến đường mới trải nhựa, chở theo hàng trăm công nhân đến nơi làm việc và trở về nhà.
 
-Ông chạm mép sổ — giấy sần, mực tím nhạt.
+Tổng quãng đường sau năm tháng: một trăm hai mươi nghìn cây số.
 
-Năm 2006, tại Hà Nội. Việc “Trạm sạc toàn quốc” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+Dữ liệu thu được từ quá trình vận hành: một lần phải thay ắc quy do lỗi sạc quá tải — xảy ra ở xe số mười hai, do bộ sạc bị hỏng rơ-le ngắt điện. Một lần cháy đầu cắm sạc do chuột cắn dây điện vào dây pha, gây chập mạch. Không có tai nạn nào liên quan đến giao thông. Không có thương tích. Không có sự cố kỹ thuật nghiêm trọng nào khác.
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Kết luận: xe điện vận hành ổn định trên đường Việt Nam, khí hậu nhiệt đới ẩm, chất lượng đường từ trung bình đến tốt, và quan trọng nhất — công nhân sử dụng hàng ngày đều hài lòng. Chi phí vận hành chỉ bằng một phần ba so với xe xăng cùng tải trọng.
 
-“lợi ích cổ đông" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+Nhưng có một vấn đề lớn hiện ra rõ ràng: không có trạm sạc công cộng trên quốc lộ, những chiếc xe điện này chỉ có thể chạy loanh quanh trong phạm vi khu đô thị. Muốn mở rộng thị trường, muốn bán xe cho người dân bình thường, muốn biến xe điện từ một phương tiện nội bộ thành phương tiện giao thông đại chúng — cần có hạ tầng sạc trên toàn quốc.
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+Phòng họp tầng ba tòa nhà Thương Gia Group, Hà Nội, chín giờ sáng thứ Hai. Bốn người đàn ông quanh một chiếc bàn gỗ dài phủ kín tài liệu. Hùng ngồi đầu bàn, tay cầm một cây bút bi xoay vòng. Bên trái ông là Nguyễn Văn Thắng — phó tổng phụ trách kỹ thuật, bốn mươi hai tuổi, trán hói, tính trầm, ít nói, tay luôn cầm máy tính bảng. Bên phải là Trần Văn Quân — kỹ sư trưởng dự án xe điện. Ngồi đối diện Hùng là vị khách đặc biệt — ông Vũ Đức Tuấn, Giám đốc Kỹ thuật của Tổng công ty Điện lực miền Bắc.
 
-Chiều, “Trạm sạc toàn quốc” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+Ông Tuấn sáu mươi hai tuổi, chuẩn bị về hưu sau bốn mươi năm trong ngành điện. Ông ta là người Hải Phòng, nói chậm rãi, chất giọng khàn đặc trưng của người nghiện thuốc nặng. Trên bàn trước mặt ông là một gạt tàn đầy mẩu thuốc.
 
-"lợi ích cổ đông đang đứng ngay cửa," Trần Thị Lan nói nhỏ.
+"Anh Hùng," ông Tuấn rít một hơi thuốc thật sâu, làn khói trắng tỏa ra từ miệng và mũi, hòa lẫn trong không khí điều hòa mát lạnh. "Tôi nói thật với anh: ý tưởng trạm sạc toàn quốc thì hay, tôi ủng hộ. Nhưng hạ tầng điện lực của Việt Nam hiện tại hoàn toàn chưa chuẩn bị cho điều đó. Mỗi trạm sạc nhanh năm mươi kW tiêu thụ một lượng điện tương đương một hộ gia đình dùng cả tháng. Lưới điện hạ thế nông thôn miền Trung của chúng ta dây nhỏ, trạm biến áp cũ mười lăm hai mươi năm chưa nâng cấp, không thể chịu nổi một cục tải năm mươi kW tập trung vào một điểm."
 
-"Nhìn thẳng và ghi rõ. Né thì mất cửa, xông không sổ thì mất người."
+"Tôi biết, thưa bác," Hùng nói. "Tôi không có ý định xây dựng toàn quốc ào ạt từ đầu. Tôi chia làm hai giai đoạn rõ rệt."
 
-"Về nhà ăn chưa?"
+Ông mở tấm bản đồ Việt Nam tỷ lệ một phần một trăm nghìn, trải ra bàn. Tấm bản đồ đã cũ, gấp nếp sờn ở các góc, nhưng đường quốc lộ 1 màu đỏ chạy xuyên suốt từ Bắc vào Nam vẫn hiện rõ. Hùng dùng ngón tay chỉ từng vị trí một, chậm rãi, dứt khoát.
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+"Giai đoạn một: ba trạm sạc nhanh trên Quốc lộ 1. Trạm thứ nhất tại Phủ Lý, tỉnh Hà Nam — cách Hà Nội sáu mươi cây số về phía nam, là cửa ngõ đầu tiên khi rời Hà Nội. Trạm thứ hai tại thành phố Vinh — cách Hà Nội ba trăm cây số, trung tâm của vùng Bắc Trung Bộ, nơi tập trung đông dân cư và công nghiệp. Trạm thứ ba tại thành phố Huế — nằm ở vị trí điểm giữa của dải đất hình chữ S, trước khi vượt đèo Hải Vân vào miền Nam. Kèm theo là mười lăm trạm sạc chậm, loại ba kW, đặt trong Thương Gia City, khu công nghiệp Thương Gia, và các chung cư Thương Gia tại Hà Nội."
 
-"Việc 'Trạm sạc toàn quốc' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+"Công suất và thời gian sạc của từng loại?" Quân hỏi, dù anh ta đã biết câu trả lời — câu hỏi để ông Tuấn nghe.
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+"Trạm sạc nhanh — công suất năm mươi kW, dòng điện một chiều, tiêu chuẩn CCS hai. Sạc được tám mươi phần trăm pin chỉ trong bốn mươi lăm phút. Trạm sạc chậm — công suất ba kW, dòng xoay chiều một pha, sạc qua đêm trong tám tiếng. Trạm sạc chậm dùng điện sinh hoạt bình thường, không cần nâng cấp lưới. Trạm sạc nhanh — bắt buộc phải nâng cấp trạm biến áp từ một trăm đến hai trăm năm chục kVA, tùy vị trí."
 
-Trưa, ông ăn cơm nhà mang theo. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+"Anh biết nâng cấp một trạm biến áp ở tỉnh lẻ tốn bao nhiêu tiền không?" ông Tuấn hỏi, tay bóp điếu thuốc đang cháy.
 
-Chiều, hướng “Trạm sạc toàn quốc" nhích thêm bằng ca chạy thử. Không pháo hoa.
+"Tôi có dự toán chi tiết." Hùng đẩy một tập tài liệu dày chừng hai mươi trang sang phía ông Tuấn. "Khoảng hai trăm triệu đồng cho một trạm, nếu đấu nối từ đường dây trung thế hai mươi hai kV sẵn có. Tôi xin nhấn mạnh: tôi không yêu cầu EVN chi trả bất kỳ khoản nào cho khoản đầu tư này. Thương Gia Group tự bỏ vốn xây trạm, tự lắp đặt thiết bị, tự chịu trách nhiệm bảo trì vận hành. EVN chỉ cần làm hai việc: một là cấp phép đấu nối kỹ thuật, hai là bán điện cho tôi theo giá điện công nghiệp."
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+Ông Tuấn không trả lời ngay. Ông ta lấy một điếu thuốc mới, châm lửa, rít một hơi dài. Nhả khói ra, nhìn làn khói tan dần trong không khí.
 
-Hùng kể “Trạm sạc toàn quốc” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+"Câu hỏi cuối cùng, anh Hùng. Với chi phí đầu tư như vậy, anh tính bao lâu thì thu hồi được vốn?"
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+Hùng không trả lời ngay. Ông đặt bút xuống bàn, ngả người ra ghế, nhìn ra cửa sổ. Những tán cây sấu già trước tòa nhà đung đưa nhẹ trong gió thu. Nắng tháng Chín vàng nhạt, rọi qua ô kính tạo thành những vệt sáng dài trên mặt bàn gỗ.
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+"Nếu chỉ tính tiền bán điện cho các xe đến sạc — thì không bao giờ, thưa bác. Bán điện sạc xe điện ở thời điểm hiện tại là lỗ. Nhưng tôi không sống bằng việc bán điện. Thương Gia Group sống bằng việc bán xe, bán pin thay thế, và cung cấp dịch vụ bảo trì định kỳ. Trạm sạc đối với tôi là một công cụ hỗ trợ bán hàng, không phải một trung tâm lợi nhuận."
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+"Tức là trạm sạc là cái móc câu để bán xe," ông Tuấn nói, khóe mắt hơi nhếch lên trong một nụ cười hiếm hoi.
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+"Chính xác, thưa bác."
 
-Một chi tiết năm 2006: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Ông Tuấn dụi điếu thuốc còn cháy dở vào gạt tàn, từ từ đứng dậy. Ông giơ bàn tay đã hằn vết đồng hồ ra bắt tay Hùng.
 
-Mùi giấy nợ 2008 vẫn còn trong vài ngăn kéo.
+"Văn bản chấp thuận đấu nối kỹ thuật — tôi sẽ ký, sau khi xem hồ sơ thiết kế chi tiết của anh. Nhưng phần quy hoạch vị trí trạm và giấy phép xây dựng, anh phải tự làm việc với Bộ Công Thương và chính quyền các tỉnh nơi đặt trạm."
 
-Hùng chấp nhận lợi ích cổ đông là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Tuần sau tôi có lịch gặp thứ trưởng Bộ Công Thương."
 
-Showroom kính và người giữ cửa nhớ tên khách quen.
+Ông Tuấn nhướn mày. "Anh chuẩn bị nhanh thật. Mới có kết quả chạy thử mà đã sắp xếp được lịch gặp thứ trưởng."
 
-Cảm xúc hôm nay nghiêng về “biết ơn người cũ". Ông không giấu, cũng không để cảm xúc ký thay mình.
+"Một trăm hai mươi nghìn cây số thực tế trên đường Việt Nam, thưa bác. Tôi đã đợi đủ lâu để có dữ liệu thuyết phục."
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Trạm sạc toàn quốc" mà không vứt lại?
+Buổi họp kết thúc. Hùng tiễn ông Tuấn ra thang máy, bắt tay lần cuối, hẹn gửi bản vẽ kỹ thuật qua email trong ngày.
 
-Ở góc nhìn người làm thuê, “Trạm sạc toàn quốc” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+Quay lại phòng, Lan đang đứng đợi ở cửa.
 
-Trên đường quanh Hà Nội, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Ba, con vừa nhận được email từ Sở Công Thương Hà Nội. Họ đồng ý cho Thương Gia Group lắp đặt một trạm sạc thí điểm tại bến xe Giáp Bát. Thời gian dự kiến bàn giao mặt bằng là tháng Mười một. Họ đề nghị Thương Gia hoàn thành toàn bộ thủ tục xin phép trước ngày hai mươi tháng Mười."
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+Hùng gật đầu, mở cuốn sổ tay bìa đen, gạch một dòng ngay ngắn.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+"Báo cho Quân và đội kỹ thuật: từ tuần sau, chuyển toàn bộ nhân lực sang thiết kế chi tiết trạm sạc Giáp Bát. Đặt mua hai bộ sạc nhanh tiêu chuẩn CCS hai, công suất năm mươi kW, từ nhà cung cấp Trung Quốc. Phối hợp với văn phòng đại diện của ông Tuấn bên EVN để khảo sát địa điểm và thiết kế phương án đấu nối."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Trạm sạc toàn quốc" không đổ.
+"Vâng, thưa ba."
 
-Cuối buổi, “Trạm sạc toàn quốc" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+Mọi người lần lượt ra về. Hùng ngồi lại một mình trong phòng họp, căn phòng bỗng trở nên rộng hơn khi chỉ còn một người. Trên bàn, tấm bản đồ Việt Nam vẫn còn đó, với ba chấm tròn màu đỏ đánh dấu ba vị trí: Phủ Lý, Vinh, Huế. Ba chấm nhỏ li ti trên một dải đất dài gần hai nghìn cây số.
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Ông lấy chiếc bút bi xanh trong túi áo sơ mi, cẩn thận kẻ một đường chấm chấm dọc theo quốc lộ 1 — từ Hà Nội, qua Phủ Lý, qua Vinh, qua Huế, thẳng xuống Sài Gòn. Nét bút đều đặn, không ngập ngừng.
 
-Không ai hoàn hảo trong “Trạm sạc toàn quốc". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+Không phải để trình bày. Để tự nhớ.
 
-Sổ “Trạm sạc toàn quốc" đánh dấu đỏ — chết người nếu trễ.
+Sau đó, ông đóng sổ tay, cất bút, đứng dậy.
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+Bên ngoài, nắng thu Hà Nội vàng nhạt, gió . Một ngày dài nữa đã trôi qua.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ người, và nói thẳng chỗ sẽ đau.
+Lan mang từ phòng kỹ thuật sang một xấp báo giá: "Thiết bị sạc nhanh từ hai nhà cung cấp Trung Quốc. Một bên năm mươi nghìn đô một bộ, một bên ba mươi lăm nghìn. Cả hai đều có chứng nhận CE."
 
-Hai người tốt bất đồng cách làm “Trạm sạc toàn quốc". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+"Mua của bên ba mươi lăm nghìn," Hùng nói. "Đủ dùng cho thí điểm."
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+"Nếu chất lượng không tốt, ba?"
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+"Thì thuê kỹ sư sang kiểm tra hàng trước khi đóng container. Đừng để bị động."
 
-Ch. 246: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+"Vâng."
 
-Ông chủ động gặp người khó tính nhất quanh “Trạm sạc toàn quốc". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+Hùng mở cuốn sổ tay, viết: "Tháng 10/2011 — hoàn thành thủ tục. Tháng 11 — lắp đặt. Tháng 12 — chạy thử. Tháng 1/2012 — đánh giá."
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+Ba tháng nữa, trạm sạc đầu tiên tại bến xe Giáp Bát sẽ đi vào hoạt động. Nếu thành công, Thương Gia sẽ có thể mở rộng ra các tuyến quốc lộ.
 
-Email, bảng tính, họp nửa Việt nửa Anh.
+Hùng ngồi lại một lúc, nhìn tấm bản đồ trên tường. Những con đường nhựa dài vô tận, và những chấm đỏ nhỏ xíu — Phủ Lý, Vinh, Huế — đang chờ ông.
 
-Ngân hàng, kiểm toán, và những cuộc gọi nửa đêm.
+"Về thôi," ông nói với Lan. "Mẹ con đang đợi cơm tối. Hôm nay có cá kho — món ba thích."
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
 
-Hùng tắt đèn muộn hơn xưởng một chút. Về trễ vẫn hơn về như người lạ.
 
-Sổ nằm dưới gối. Ông cười thói quen sợ quên, rồi ngủ thật.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+Hùng còn một việc nữa: gọi cho ông Sơn, trưởng phòng Kỹ thuật của Sở Giao thông Hà Nội. Ông Sơn là người duy nhất trong Sở từng ủng hộ ý tưởng xe điện từ những ngày đầu.
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+"Alo, anh Sơn, tôi Hùng đây."
 
-Sổ “Trạm sạc toàn quốc" đánh dấu bút chì — có thể lùi.
+"Chào anh Hùng. Tôi nghe nói sắp có trạm sạc ở Giáp Bát?"
 
-Trên đường quanh Hà Nội, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Đúng vậy. Cảm ơn anh đã hỗ trợ."
 
-Cuối buổi, “Trạm sạc toàn quốc" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+"Không có gì. Nhưng tôi có tin vui cho anh: Bộ Giao thông vừa thành lập tổ soạn thảo Thông tư về xe bốn bánh chạy điện. Tôi được mời vào tổ. Anh có tài liệu kỹ thuật gì về xe điện và trạm sạc, gửi tôi để tôi đưa vào dự thảo."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Trạm sạc toàn quốc" mà không vứt lại?
+Hùng ngồi thẳng dậy: "Có. Tôi sẽ gửi anh toàn bộ."
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Cảm ơn anh. Có dữ liệu thực tế từ Thương Gia City, tôi sẽ có cơ sở để thuyết phục tổ soạn thảo."
 
-Ch. 246: phần thưởng chỉ thật khi công nhân không mất ca.
+"Tuần sau tôi cho người mang tài liệu sang tận nơi."
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Hùng gác máy. Ông mở ngăn kéo bàn, lấy ra một tập tài liệu dày — toàn bộ số liệu vận hành xe điện năm tháng qua. Số km, mức tiêu thụ điện, thời gian sạc, chi phí bảo trì, tuổi thọ ắc quy — tất cả.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Sáng hôm sau, tập tài liệu được chuyển đến tay ông Sơn.
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+Trên đường về, Hùng nhìn thấy một chiếc xe máy điện — loại đồ chơi trẻ em — đang chạy trên vỉa hè. Một đứa bé cầm lái, mặt tươi rói.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+Ông mỉm cười.
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Trạm sạc toàn quốc" mà không vứt lại?
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
 
-Một chi tiết năm 2006: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hai ngày sau cuộc gọi với ông Sơn, Hùng nhận được một phong bì dày từ Bộ Giao thông Vận tải — dự thảo Thông tư về xe bốn bánh chạy điện, phiên bản sơ thảo lần thứ nhất.
 
-Cuối buổi, “Trạm sạc toàn quốc" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+Ông ngồi đọc từ đầu đến cuối. Dự thảo dài mười lăm trang — đánh máy bằng phông chữ Times New Roman, cỡ chữ 13, có đóng dấu "TÀI LIỆU DỰ THẢO". Nội dung quy định về tiêu chuẩn kỹ thuật, quy trình kiểm định, điều kiện lưu hành cho xe bốn bánh chạy điện tốc độ tối đa dưới năm mươi cây số/giờ.
 
-Cuối buổi, “Trạm sạc toàn quốc" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+Hùng đọc đi đọc lại ba lần. Dự thảo còn nhiều lỗ hổng — chưa quy định về trạm sạc, chưa có tiêu chuẩn ắc quy, chưa nói đến trách nhiệm bảo hành. Nhưng quan trọng nhất — lần đầu tiên, xe điện được nhắc đến trong một văn bản pháp luật của Việt Nam.
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+Ông lấy bút đỏ, gạch chân những điểm cần sửa, ghi chú bên lề. Sáng mai, ông sẽ gọi Quân lên để cùng soạn văn bản góp ý gửi Bộ.
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+Mở đầu — từ một xưởng nhỏ hai trăm mét vuông, bảy kỹ sư, và bốn mươi lăm triệu đồng mỗi chiếc. Nhưng kết thúc — sẽ là cả một ngành công nghiệp mới ở Việt Nam.
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Trạm sạc toàn quốc" mà không vứt lại?
+Hùng biết điều đó. Và ông không cô đơn trên con đường đó nữa.
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
 
-Ch. 246: phần thưởng chỉ thật khi khách không trả hàng.
+Ông Tuấn gọi lại cho Hùng vào buổi tối: "Anh Hùng, bên điện lực Hà Nam vừa báo — họ đã khảo sát vị trí trạm sạc tại Phủ Lý. Đường dây 22kV đi ngay sát khu đất. Chỉ cần kéo thêm một trăm mét dây là có điện."
 
-Trên đường quanh Hà Nội, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Vậy chi phí đấu nối giảm được bao nhiêu?"
 
-Trên đường quanh Hà Nội, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Giảm khoảng bảy mươi triệu so với dự toán ban đầu. Không cần xây thêm trạm biến áp mới — đấu nối trực tiếp vào trạm hiện hữu, nâng công suất từ một trăm lên hai trăm kVA. Phần nâng công suất, anh tự trả tiền thiết bị, bên điện lực trả công lắp đặt."
 
-Cuối buổi, “Trạm sạc toàn quốc" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+"Tốt quá. Khi nào có báo giá chính thức?"
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+"Mai tôi gửi qua email."
 
-Một chi tiết năm 2006: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng gác máy, thở phào. Trạm Phủ Lý — trạm đầu tiên — bắt đầu có lộ trình rõ ràng. Trạm này nằm giữa Hà Nội và Ninh Bình, là điểm dừng chân lý tưởng cho các xe điện di chuyển từ Bắc vào Trung.
 
-Ch. 246: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+Ông mở một chai rượu vang đỏ — thứ rượu Pháp rẻ tiền mua từ siêu thị — tự rót một ly nhỏ. Uống mừng.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Chỉ một mình trong phòng khách vắng lặng, ông nâng ly lên trước ánh đèn: "Mừng trạm Phủ Lý."
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 33 gắn với ông Tanaka: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 34 gắn với con trai Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 38 gắn với ông Tanaka: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 39 gắn với con trai Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Trạm sạc toàn quốc" năm 2006 tại Hà Nội, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “lợi ích cổ đông" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “biết ơn người cũ" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “Trạm sạc toàn quốc" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Rồi uống cạn.
 
 ============================================================
+
+
+
+
+Hùng hỏi thêm một câu, không phải vì cần câu trả lời, mà vì muốn nghe cách người kia nói. "Nếu mình không làm, ai làm?" Lan trả lời ngay: "Người khác. Và họ sẽ làm tốt hơn nếu mình chần chừ." Hùng gật đầu, không cần tranh luận — câu trả lời đã nói lên tất cả. Cả phòng im lặng trong ba giây, chỉ có tiếng quạt trần quay đều trên đầu, rít nhẹ mỗi lần cánh quạt đi qua điểm cao nhất.
+
+Bà Hà bước vào phòng với ấm nước mới, nhìn hai người đang ngồi im, hỏi một câu không liên quan đến công việc: "Tối nay ăn gì?" Hùng nhìn đồng hồ, đã qua bảy giờ tối, bữa tối đã bị lãng quên từ lâu. "Ăn gì cũng được," ông nói, nhưng tay vẫn không rời tờ giấy số liệu.
+
+
+Ngoài trời, tiếng mưa bắt đầu rơi. Không phải cơn mưa rào đầu mùa ầm ầm kéo đến, mà là thứ mưa bụi dai dẳng, lặng lẽ làm ướt đường trước khi người ta kịp nhận ra. Hùng ngồi nhìn qua ô cửa sổ mờ hơi nước, những hạt bụi mưa bám trên kính rồi tụ lại thành từng giọt nhỏ chảy xuống, vẽ những đường ngoằn ngoèo trên mặt kính. Ông nhớ lại một câu nói của ai đó: "Mưa không chọn chỗ rơi. Nhưng người biết chọn chỗ đứng."
+
+
+Khi chiếc đồng hồ trên tường điểm mười một tiếng, Hùng gấp sổ lại. Không phải vì ông đã xong việc — việc kinh doanh không bao giờ thực sự xong — mà vì ông biết giới hạn của mình. Một quyết định tốt sẽ trở nên tồi nếu nó được đưa ra lúc nửa đêm bởi một người đã mười sáu tiếng không nghỉ. Ông cất cuốn sổ vào ngăn kéo, không khóa, vì biết sáng mai sẽ mở lại.
+
+
+Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Có những thứ thời gian in dấu vào người, không cần hỏi ý kiến. Ông viết thêm một dòng cuối cùng vào sổ: "Năm nay, được rồi." Không viết hoa, không dấu câu, như mọi dòng ghi chú trong cuộc đời ông.
+
 「Hệ thống — GHI NHẬN ch.246」
-Năm: 2009
-Tổng EXP: 54,000 (+333 nhịp này)
-Không gian kho: 21,000m² (+167m²)
-Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Năm: 2011
+Tổng EXP: 54,333 (+333 nhịp này)
+Không gian kho: 21,167m² (+167m²)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Dự báo rủi ro lv1
+Ghi chú: phê duyệt thí điểm trạm sạc bến xe Giáp Bát — nền móng hạ tầng sạc toàn quốc
+============================================================
+
+Teaser: BA TRẠM SẠC TRÊN QUỐC LỘ 1, MỘT ĐƯỜNG KẺ BẰNG BÚT BI — VÀ CẢ MỘT TƯƠNG LAI DI ĐỘNG CHƯA TỪNG CÓ Ở VIỆT NAM.
 ============================================================

@@ -2,196 +2,193 @@
 Chương 219: Xe điện nguyên mẫu
 ============================================================
 
-Việc “Xe điện nguyên mẫu" đặt ông vào thế phải chọn: nhanh hay chắc. Hôm nay ông chọn chắc một nhịp.
+Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương Gia mở rộng — một khu vực riêng biệt nằm sâu trong đất liền, cách cảng Hải Phòng bốn mươi cây số. Hùng chọn chỗ này vì đất rẻ, mặt bằng rộng, và quan trọng hơn — kín đáo. Không có tòa nhà cao tầng nào nhìn vào được, không có đường lớn chạy qua, và khu vực này không nằm trong quy hoạch du lịch hay khu đô thị. Những gì xảy ra trong đó, chỉ người trong đó biết.
 
-USD, đồng, và lời hứa giao hàng phải khớp mới dám ký.
+Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy tính工作站 Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.
 
-Không khí Khu công nghiệp đặc: ẩm, bụi, và nhịp người tất bật.
+Dự án bắt đầu từ một câu hỏi của đứa con trai lớn — Trần Văn Minh — vào một buổi tối cuối năm 2006. Minh khi ấy hai mươi lăm tuổi, vừa tốt nghiệp thạc sĩ kỹ thuật điện tử ở Đại học Bách khoa Paris — trường mà Hùng đã lo liệu cho con vào từ năm 2001. Minh là kỹ sư trưởng mảng điện tử của Thương Gia, tóc dài, hay mặc áo phông và quần jean ngay cả khi họp với đối tác Nhật. Cậu thông minh, nhưng cái thông minh đó không đến từ trường lớp — nó đến từ những buổi chiều ngồi dưới gầm bàn xem ba sửa radio, từ những cuốn sách điện tử tiếng Anh Hùng mang về từ các chuyến công tác, từ những lần hai cha con tháo tung cái tivi để xem bên trong có gì.
 
-Năm 1998, tại Khu công nghiệp. Việc “Xe điện nguyên mẫu” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+"Ba, tại sao mình không làm xe điện?"
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Hùng đang đọc báo cáo tài chính — báo cáo quý IV của nhà máy chip, dài ba mươi trang, con số chi chít. Ông không ngẩng lên. "Vì mình không biết làm xe."
 
-“sức khỏe và tốc độ" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+"Thế thì học."
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+"Cả một ngành công nghiệp — học bằng cách nào?"
 
-Chiều, “Xe điện nguyên mẫu” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+"Mình có điện tử, có pin mặt trời, có cơ khí, có phần mềm. Ghép lại."
 
-"Việc 'Xe điện nguyên mẫu' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+Hùng ngẩng lên. Minh đang đứng ở cửa phòng làm việc — căn phòng nhỏ của Hùng trong nhà, một bàn gỗ, một tủ sắt, vài cuốn sổ. Tay Minh cầm một cuốn sách — *The Electric Vehicle: Technology and Economics* — bìa xanh, góc quăn, gáy đã mòn. Trên bàn, một mô hình xe bằng giấy carton, tự cắt, tự dán, có cả bánh xe làm từ nắp chai nhựa. Mô hình đơn giản, nhưng tỉ lệ chuẩn. Trên nóc có một tấm giấy nhỏ ghi chữ: *Thương Gia EV-01*.
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+"Ngồi xuống," Hùng nói. "Giải thích."
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+Minh kéo ghế, ngồi đối diện. Cậu không mở sách — cậu nói từ trí nhớ, vừa nói vừa dùng tay vẽ trên không: "Ngành xe điện toàn cầu đang ở giai đoạn khởi động. Tesla ra mắt Roadster năm 2006 — chỉ một nghìn chiếc, giá một trăm nghìn đô. Không phải thị trường của mình. Nhưng pin lithium-ion đang giảm giá 10% mỗi năm. Motor điện thì càng ngày càng rẻ vì Trung Quốc sản xuất hàng loạt. Trong năm năm nữa, chi phí pin sẽ xuống dưới 300 đô một kWh. Khi đó, xe điện có thể cạnh tranh với xe xăng ở phân khúc phổ thông."
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+"Thị trường Việt Nam?"
 
-"sức khỏe và tốc độ đang đứng ngay cửa," Trần Thị Lan nói nhỏ.
+"Không phải ngay. Nhưng Đông Nam Á — hai trăm triệu xe máy. Nếu mình thay thế một phần bằng xe điện — chưa cần ô tô, chỉ cần xe ba bánh chở hàng, xe chở khách nhỏ — thị trường đã vài trăm nghìn chiếc."
 
-"Nhìn thẳng và ghi rõ. Né thì mất cửa, xông không sổ thì mất người."
+Hùng không nói gì. Ông nhìn mô hình xe bằng giấy. Nhìn con trai. Rồi nhìn ra cửa sổ, nơi Hà Nội đang chìm trong mưa phùn tháng Mười hai, màn mưa mỏng trắng xóa, những mái ngói đen ướt đẫm.
 
-Trưa, ông ăn bún qua quýt. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+"Ba suy nghĩ thêm," Hùng nói.
 
-Chiều, hướng “Xe điện nguyên mẫu" nhích thêm bằng biên bản. Không pháo hoa.
+Minh không thất vọng. Cậu biết ba mình không bao giờ trả lời ngay. "Tối mai em mang bản vẽ sơ bộ," cậu nói, và đi ra, cuốn sách vẫn trên tay.
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+Đó là buổi tối đầu tiên của dự án xe điện Thương Gia.
 
-Hùng kể “Xe điện nguyên mẫu” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+---
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+Xưởng 219 được khởi công tháng Ba năm 2007. Hùng không công bố rộng rãi — chỉ nội bộ tập đoàn biết, và chỉ ba người trong hội đồng quản trị được thông báo chi tiết. Lý do: nếu dự án thất bại, không ai nhớ; nếu thành công, họ sẽ tung ra đúng thời điểm. Một nguyên tắc Hùng đã học từ các tập đoàn Nhật — giữ bí mật cho đến khi sản phẩm sẵn sàng. Không họp báo, không giới thiệu sớm, không làm hình ảnh. Chỉ làm.
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Mười lăm kỹ sư — bảy người từ Đại học Bách khoa Hà Nội, bốn người từ Đại học Giao thông Vận tải, hai người từ Đức về nước (học bổng của DAAD, về nước làm vì được trả lương bằng mức ở Đức), hai người Singapore — dưới sự dẫn dắt của Minh. Họ làm việc sáu ngày một tuần, mười hai tiếng một ngày. Lương cao hơn mặt bằng thị trường năm mươi phần trăm, nhưng áp lực cũng gấp đôi. Minh đặt ra một nguyên tắc: không ai được làm việc quá mười bốn tiếng — cậu đã đọc nghiên cứu về năng suất lao động giảm sau giờ thứ mười, và không muốn đội ngũ kiệt sức trước khi kịp nhìn thấy thành quả.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+Tháng Tư, bản vẽ khung gầm đầu tiên hoàn thành. Minh và hai kỹ sư cơ khí ngồi với nhau bốn ngày liền, vẽ trên giấy trắng bằng bút chì — thói quen của trường Bách khoa Paris, nơi họ bắt sinh viên vẽ tay trước khi dùng CAD. Khung gầm là một khung thép ống, thiết kế theo kiểu space frame, mỗi ống thép được hàn lại với nhau để tạo thành một lồng cứng bảo vệ người lái. Trọng lượng mục tiêu: dưới một trăm năm mươi kilogram, chưa kể pin và motor.
 
-Điện thoại bàn, fax, cuộc gọi đứt giữa chừng vì đường truyền.
+Tháng Năm, mô hình 3D trên SolidWorks hoàn chỉnh — hai nghìn chi tiết, từ vít nhỏ nhất đến trục motor. Một kỹ sư mất hai tuần để kiểm tra xem có chi tiết nào chồng lên nhau không.
 
-Hùng chấp nhận sức khỏe và tốc độ là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+Tháng Bảy, đặt hàng motor điện từ một công ty Đức — Baumüller Nürnberg — loại motor đồng bộ nam châm vĩnh cửu 15kW, giá bảy nghìn euro một chiếc. Minh muốn mua bốn chiếc: một để chạy thử, một dự phòng, hai để test độ bền. Tổng chi phí motor: hai mươi tám nghìn euro. Hùng đọc hóa đơn, không nói gì, ký.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên chất lượng, và nói thẳng chỗ sẽ đau.
+Tháng Tám, motor về đến cảng Hải Phòng trong một container lạnh — bốn khối thép đen, mỗi khối nặng ba mươi lăm kilogram, nằm trong thùng gỗ đóng theo tiêu chuẩn xuất khẩu Đức. Cường — kỹ sư trưởng dự án năng lượng, được Minh mời sang hỗ trợ — mở thùng, kiểm tra bằng mắt thường: không vết xước, không dầu rò rỉ. Anh gật đầu với Minh. Motor chính hãng, đúng thông số.
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+Tháng Chín, lắp ráp thử — motor, pin, controller, khung gầm. Controller — bộ điều khiển motor — là một hộp nhôm nhỏ bằng cuốn sách, do Minh và một kỹ sư phần mềm tên Vũ tự thiết kế và đặt gia công tại xưởng cơ khí nhỏ ở phố Huế, Hà Nội. Đây là linh kiện duy nhất trong xe do người Việt tự thiết kế — phần còn lại đều là linh kiện thương mại mua từ Đức, Nhật, Hàn Quốc. Controller đó có nhiệm vụ biến dòng điện một chiều từ pin thành dòng xoay chiều ba pha để chạy motor. Nếu nó hỏng, xe không chạy. Minh đã kiểm tra nó hai mươi lần trước khi đưa vào lắp ráp.
 
-Hai người tốt bất đồng cách làm “Xe điện nguyên mẫu". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+Buổi chiều đầu tháng Mười một, Minh gọi Hùng: "Ba qua xưởng 219. Có thứ này."
 
-Cảm xúc hôm nay nghiêng về “hy vọng dài hạn". Ông không giấu, cũng không để cảm xúc ký thay mình.
+---
 
-Không ai hoàn hảo trong “Xe điện nguyên mẫu". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+Khi Hùng đến, trời đã tối. Con đường từ quốc lộ vào xưởng không có đèn, chỉ có hai dải phản quang trên cọc tiêu. Tài xế lái chậm, đèn pha rọi vào những bụi cây hai bên đường, thỉnh thoảng một con ếch nhảy ngang. Xe dừng trước cổng thép, Hùng xuống, dùng thẻ từ mở cửa.
 
-Trên đường quanh Khu công nghiệp, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Đèn trong xưởng sáng trưng, mùi dầu mỡ và kim loại nóng hòa vào nhau, thoảng qua mùi keo epoxy từ khu vực đóng gói pin. Giữa xưởng là một khung xe — trần, chưa có vỏ — nằm trên giá đỡ. Bốn bánh, motor gắn trên trục sau qua một bộ giảm tốc bằng dây curoa, một dãy pin lithium-ion được bó thành khối dưới sàn, nằm giữa hai trục bánh xe để giữ trọng tâm thấp. Các dây dẫn màu đen và đỏ chạy dọc khung xe, buộc gọn bằng dây nhựa. Trên bảng điều khiển tạm — một miếng gỗ dán — là một công tắc, một núm ga bằng tay, và một đèn led xanh nhỏ.
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Xe điện nguyên mẫu" mà không vứt lại?
+Minh mặc áo bảo hộ trắng, tay cầm bảng mạch điều khiển — controller do cậu và Vũ thiết kế. Hai kỹ sư khác đang cúi xuống dưới gầm xe, kiểm tra kết nối. Một người dùng đèn pin chiếu vào hộp nối motor, người kia siết lại một con ốc bằng cờ-lê lực, vặn đúng mười lăm Newton-mét.
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+"Bật thử đi," Hùng nói.
 
-Container, biên phòng, và những đêm trắng vì một lô hàng.
+Minh ngồi vào ghế lái — một ghế nhựa tạm thời, mua từ chợ xe đạp điện, chưa có đệm. Cậu vặn chìa khóa — thực ra chỉ là một công tắc gạt. Một tiếng rền nhẹ vọng lên từ motor. Không ồn ào như động cơ đốt trong, không rung, không khói. Chỉ một âm thanh đều đều, the thé nhẹ ở tần số cao. Trong không gian kín của xưởng, âm thanh đó vọng lại, nghe như một chiếc máy may công nghiệp.
 
-Ch. 219: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+Minh đạp ga — một bàn đạp bằng nhôm, tự chế bằng cách cưa từ một thanh nhôm góc L, có lò xo hồi vị. Khung xe chuyển động — từ từ, rồi nhích nhanh hơn. Bánh xe lăn trên sàn bê tông với tiếng rít nhẹ của cao su. Minh điều khiển xe chạy một vòng quanh xưởng, dài chừng ba mươi mét — rẽ trái, rẽ phải, tăng ga, giảm ga. Khi tăng ga đột ngột, motor rít lên, bánh sau hơi trượt trên nền bê tông vì moment xoắn quá lớn ở dải thấp. Minh giảm ga ngay lập tức, xe chậm lại, dừng.
 
-Card visit, cà phê khách sạn: ngoài hiện đại, trong vẫn chữ tín.
+Tiếng motor tắt, im lặng trở lại. Chỉ còn tiếng quạt thông gió trên tường và tiếng tim Hùng đập trong lồng ngực.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+"Chạy rồi," Minh nói, giọng có chút khác đi. Cậu chưa bao giờ hay tin — nhưng có một thứ trong giọng của cậu lúc này mà Hùng chưa từng nghe thấy. Không phải tự hào. Một thứ gần với nhẹ nhõm hơn. Sáu tháng làm việc mười hai tiếng mỗi ngày, hai mươi chip controller hỏng, ba lần cháy driver motor, một lần suýt cháy pin — và bây giờ nó chạy.
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+Hùng bước đến, đặt tay lên khung xe. Kim loại còn ấm — motor và controller đã tỏa nhiệt sau năm phút chạy. "Tốc độ tối đa?"
 
-Ở góc nhìn người làm thuê, “Xe điện nguyên mẫu” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Trong xưởng — chỉ chạy được hai mươi cây số một giờ vì đường cong. Nhưng em tính toán — motor này có thể đạt bảy mươi cây số một giờ trên đường thẳng, với tỷ số truyền hiện tại."
 
-Cuối buổi, “Xe điện nguyên mẫu" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+"Range?"
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+"Với bộ pin lithium-ion Samsung 48V-100Ah hiện tại — khoảng sáu mươi cây số. Bằng một phần bảy xe xăng. Nhưng đây là pin mua ngoài, dung lượng thấp, trọng lượng nặng. Nếu mình tự thiết kế bộ pin với cell 18650 — như Tesla — có thể đạt hai trăm cây số với cùng trọng lượng."
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+Hùng gật đầu. Ông đi vòng quanh khung xe, quan sát từng chi tiết. Hệ thống phanh đĩa — lấy từ xe máy Honda Wave, cải tiến càng phanh. Hệ thống treo — tự thiết kế, dùng lò xo cuộn và giảm xóc dầu từ xe tay ga. Khung xe — thép ống, hàn tay từng mối, mỗi mối hàn được đánh dấu bằng tên thợ hàn để truy xuất nếu có lỗi.
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+"Nặng bao nhiêu?"
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Xe điện nguyên mẫu" không đổ.
+"Bốn trăm năm mươi kilogram. Với vỏ nhôm tổng thể — em dự tính giảm còn ba trăm tám mươi."
 
-Sổ “Xe điện nguyên mẫu" đánh dấu xanh — quan trọng.
+"Xe xăng cùng kích thước?"
 
-Một chi tiết năm 1998: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Khoảng tám trăm kilogram. Nhưng có động cơ, hộp số, bình xăng, hệ thống xả, két nước. Xe điện bỏ được tất cả những thứ đó."
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hùng quỳ xuống, nhìn dưới gầm xe. Motor gắn trực tiếp vào trục sau qua bộ giảm tốc, gọn gàng, không có dây curoa phức tạp. Pin nằm gọn trong một khung nhôm dưới sàn xe, cách mặt đất hai mươi lăm phân. Mỗi cell pin được quấn băng keo Kapton chịu nhiệt, các đầu nối được bọc co nhiệt cẩn thận.
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+Hùng ghi nhanh vào sổ: *Khung thép ống. Motor Đức Baumüller 15kW. Pin Samsung 48V-100Ah. Range 60km. Tốc độ 70km/h (tính toán). Phanh đĩa xe máy. Hệ thống treo tự chế.*
 
-Ông chủ động gặp người khó tính nhất quanh “Xe điện nguyên mẫu". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+"Em có nghĩ đến việc sạc pin không?"
 
-Khu công nghiệp mọc nhanh; bụi đỏ bám vành xe tải cả ngày.
+"Có. Sạc từ ổ cắm gia đình 220V — sáu giờ đầy. Sạc nhanh bằng bộ sạc chuyên dụng — một giờ, nếu mình có hạ tầng. Nhưng em đã thiết kế bộ sạc để có thể dùng ổ cắm thường — vì ở Việt Nam, trạm sạc chưa có."
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+Hùng đặt bút xuống. "Một giờ vẫn dài. Xe xăng đổ đầy mất ba phút."
 
-Ai đó dặn ngủ. Ông ừ. Có mệnh lệnh chỉ nhà mới được phép đưa.
+"Em biết. Nhưng hầu hết người dùng sạc qua đêm — họ cắm điện trước khi ngủ, sáng ra xe đầy điện. Họ không quan tâm thời gian sạc nếu nó tiện."
 
-Ngoài kia phố/làng thở đều. Bên trong ông thở chậm đúng một nhịp — đủ để không vỡ.
+"Với điều kiện họ có chỗ để sạc. Ở Việt Nam, phần lớn người dân sống trong nhà ống, không có gara, không có chỗ đậu xe qua đêm."
 
-Ch. 219: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+Minh im lặng. Đó là vấn đề cốt lõi: hạ tầng, thói quen người dùng, giá thành. Cậu đã nghĩ đến điều đó — cậu có câu trả lời, nhưng câu trả lời đó là "sẽ có giải pháp trong tương lai", và cậu biết ba mình không mua những câu trả lời như vậy.
 
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
+"Xe ba bánh chở hàng," Hùng nói, "có thể là hướng khác. Họ chạy trong thành phố, quãng đường ngắn, chở hàng nhẹ. Và quan trọng — họ có chỗ sạc qua đêm vì hàng hóa để trong kho."
 
-Một chi tiết năm 1998: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Minh ngạc nhiên nhìn ba. "Ba đã nghĩ đến chuyện đó rồi?"
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+"Ba nghĩ từ khi con nói xe điện tháng Mười hai năm ngoái. Con nói xe chở khách. Ba nói xe chở hàng. Cả hai đều làm."
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+Minh cười — một nụ cười mệt mỏi nhưng thật sự.
 
-Cuối buổi, “Xe điện nguyên mẫu" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+---
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+Mười một giờ đêm, hầu hết kỹ sư đã về. Chỉ còn Minh và Hùng trong xưởng. Hai cha con ngồi trên hai cái thùng nhựa lật ngược, giữa họ là khung xe thử nghiệm. Một cốc cà phê đen để trên nắp hộp dụng cụ — cà phê phin, đặc sệt, Minh đã uống hết hai cốc từ tối.
 
-Trên đường quanh Khu công nghiệp, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Ba có nhớ năm 1998 không?" Minh hỏi. "Lúc mình mở xưởng điện tử Hải Phòng."
 
-Cuối buổi, “Xe điện nguyên mẫu" để lại bằng chứng: biên bản. Không bằng chứng thì coi như chưa làm.
+"Nhớ. Tháng Năm — mưa suốt. Mái tôn dột, ướt hết linh kiện. Con khi đó mười sáu tuổi, mặc áo mưa ra đỡ đồ."
 
-Ch. 219: phần thưởng chỉ thật khi công nhân không mất ca.
+"Em nhớ ba nói: 'Điện tử Việt Nam không thể cạnh tranh với Trung Quốc, nhưng không vì thế mà không làm.'"
 
-Một chi tiết năm 1998: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Người ta nói đúng lúc đó. Điện tử Việt Nam lúc đó chỉ lắp ráp loa đài cho Đài Loan. Bây giờ — TG-001 chạy được, pin mặt trời xuất sang Đức. Có thể rồi."
 
-Trên đường quanh Khu công nghiệp, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Xe điện cũng vậy, ba ạ. Bây giờ chưa ai tin. Nhưng mười năm nữa — thị trường sẽ thay đổi. Và em muốn mình là người ở đó khi nó thay đổi."
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+Hùng uống một ngụm cà phê. Đắng, nóng, đậm. Ông nhìn con trai — hai mươi lăm tuổi, tóc dài, áo phông cũ dính dầu mỡ, mắt thâm quầng vì thiếu ngủ. Nhưng trong mắt nó có một thứ mà Hùng chưa từng thấy ở bất kỳ người làm thuê nào — niềm tin vào thứ nó đang làm.
 
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
+"Chi phí sản xuất một chiếc — em tính chưa?"
 
-Một chi tiết năm 1998: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Xe nguyên mẫu — chi phí khoảng một trăm năm mươi triệu. Vật liệu, linh kiện nhập khẩu, motor Đức, pin Samsung, controller tự thiết kế. Nếu sản xuất hàng loạt — một nghìn chiếc — giá thành hạ xuống còn năm mươi triệu một chiếc. Motor mua số lượng lớn giảm ba mươi phần trăm. Pin mua từ Trung Quốc thay vì Hàn Quốc giảm thêm hai mươi phần trăm. Controller sản xuất hàng loạt giảm bảy mươi phần trăm."
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+"Bằng xe xăng hạng phổ thông."
 
-Cuối buổi, “Xe điện nguyên mẫu" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+"Bằng, nhưng chi phí vận hành thấp hơn bảy mươi phần trăm. Mỗi kilômét chạy điện chỉ tốn hai trăm đồng — xe xăng tốn một nghìn hai. Mỗi năm mười nghìn kilômét, người dùng tiết kiệm mười triệu đồng. Chỉ tiền xăng đã bù được chênh lệch giá mua sau ba năm."
 
-Một chi tiết năm 1998: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng gật đầu, nhưng trong đầu ông đã tính xa hơn. Năm mươi triệu một chiếc — với người Việt Nam, đó là một năm rưỡi thu nhập của gia đình trung lưu. Chưa ai mua với giá đó. Nhưng nếu sản xuất hai mươi nghìn chiếc? Giá thành có thể xuống ba mươi lăm triệu. Và nếu Thương Gia tự sản xuất pin — giảm thêm hai mươi phần trăm nữa. Hai mươi tám triệu — giá một chiếc xe máy tay ga cao cấp. Ở mức giá đó, thị trường sẽ mở ra.
 
-Ch. 219: phần thưởng chỉ thật khi khách không trả hàng.
+Hùng không nói những tính toán đó với Minh. Không phải vì giấu — mà vì Minh cần tập trung vào kỹ thuật. Chuyện giá thành, thị trường, chiến lược — đó là việc của Hùng.
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Xe điện nguyên mẫu" mà không vứt lại?
+"Kế hoạch của em?"
 
-Trên đường quanh Khu công nghiệp, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Mười hai tháng nữa — hoàn thiện thiết kế, chạy thử nghiệm độ bền, kiểm tra pin dưới nhiệt độ cao. Năm 2009 — sản xuất thử một trăm chiếc. Năm 2010 — ra mắt thị trường."
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Em có ngân sách bao nhiêu?"
 
-Sổ “Xe điện nguyên mẫu" đánh dấu bút chì — có thể lùi.
+"Tám tỷ cho năm nay. Em đã tính chi tiết — gửi Lan duyệt." Minh lấy từ túi áo một USB — một chiếc Kingston 256MB, vỏ nhựa đỏ, nắp đã mất. Đưa cho Hùng. "File Excel, hai mươi tab, chi phí đến từng con ốc."
 
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
+Hùng cầm USB. Nhẹ, nhỏ, nhưng bên trong là tám tỷ đồng và niềm tin của mười lăm kỹ sư trẻ.
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+---
 
-Cuối buổi, “Xe điện nguyên mẫu" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+Một giờ sáng, Hùng về nhà. Bà Hà vẫn thức, ngồi may áo trong phòng khách. Bà không hỏi ông đi đâu, chỉ nói: "Còn cháo trong nồi. Mở lửa nhỏ cho nóng."
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Hùng vào bếp, hâm nóng cháo. Ngồi một mình trong bếp — căn bếp nhỏ, gạch men trắng, tủ gỗ cũ — mở USB của Minh ra xem trên laptop. Máy tính khởi động chậm, quạt kêu ầm ầm. File Excel mở ra — hai mươi tab, mỗi tab là một hạng mục: khung gầm, motor, pin, controller, vỏ xe, hệ thống điện, nội thất, thử nghiệm, nhân công, chi phí dự phòng...
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ khách cốt lõi, và nói thẳng chỗ sẽ đau.
+Mỗi con số đều có ghi chú — nguồn gốc, cơ sở tính toán, sai số dự phòng. Tab cuối cùng — Risk Assessment — có một bảng đỏ: *Rủi ro 1: Cháy pin trong quá trình thử nghiệm — chi phí dự phòng 500 triệu. Rủi ro 2: Motor không đạt công suất danh định — phương án thay thế motor Baumüller 20kW, tăng chi phí 15%. Rủi ro 3: Không bán được — thị trường chưa sẵn sàng — lỗ tối đa 12 tỷ.*
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Xe điện nguyên mẫu" mà không vứt lại?
+Hùng đọc một lần, rồi đọc lại. Không tìm thấy lỗi nào rõ ràng. Cậu con trai ông đã trưởng thành.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông đóng laptop, ăn cháo. Cháo gà, bà Hà nấu từ chiều, thịt gà xé nhỏ, hành phi thơm. Bên ngoài, gà đã gáy sáng — tiếng gà từ chuồng sau nhà, xa xa thêm tiếng gà từ nhà hàng xóm, như một dàn hợp xướng đồng quê.
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+---
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hai tuần sau, trong cuộc họp ban lãnh đạo Thương Gia, Hùng trình bày dự án xe điện. Phòng họp tầng ba trụ sở — bàn gỗ dài, mười hai người ngồi hai bên. Các phó tổng giám đốc nhìn nhau, im lặng. Một người lên tiếng — ông Lê Văn Thành, phó tổng phụ trách sản xuất, đã làm với Hùng từ năm 1990, qua bao thăng trầm: "Thưa chủ tịch, thị trường xe điện toàn cầu năm 2007 chỉ có hai trăm nghìn chiếc — chủ yếu là golf cart và xe cảnh sát địa phương. Ngay cả Toyota, hãng xe lớn nhất thế giới, cũng mới chỉ bán được vài nghìn chiếc Prius hybrid. Tại sao mình phải nhảy vào một thị trường không tồn tại?"
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 33 gắn với đối tác địa phương: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Tại vì nó tồn tại," Hùng trả lời. "Chỉ là chưa ai thấy."
 
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 34 gắn với công nhân xưởng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông mở tập tài liệu — phân tích thị trường do Minh và một nhóm sinh viên kinh tế trường Ngoại thương soạn, dài ba mươi trang — và chiếu lên màn hình. Biểu đồ đầu tiên: sản lượng xe điện toàn cầu 2000-2007, một đường cong hình que gậy hockey — bằng phẳng từ 2000 đến 2005, rồi bắt đầu dốc lên từ 2006.
 
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Đây là báo cáo của McKinsey," Hùng nói. "Họ dự đoán sản lượng xe điện toàn cầu sẽ đạt một triệu chiếc vào năm 2010, và mười triệu vào năm 2015. Nếu đúng, người đi trước sẽ có lợi thế tuyệt đối."
 
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Ông dừng lại, nhìn từng người trong phòng. "Tôi biết câu hỏi của anh. Tôi đã tự hỏi câu đó mười năm trước, khi mở xưởng điện tử Hải Phòng — lúc đó ai cũng bảo không thể cạnh tranh với Trung Quốc. Tôi cũng đã tự hỏi năm năm trước, khi bắt đầu làm chip — lúc đó tôi còn không biết fabless là gì. Nhưng bây giờ TG-001 nằm trong thiết bị đo lường của nhà máy thủy điện Hòa Bình. Thị trường tồn tại khi người tiên phong đến. Nó không tồn tại cho kẻ đến sau."
 
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Không ai phản đối nữa. Thành — người đã hỏi — nhìn Hùng, gật đầu. Ông ta không hoàn toàn tin, nhưng ông ta tin Hùng. Sau mười bảy năm, đó là đủ.
 
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 38 gắn với đối tác địa phương: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Dự án xe điện được phê duyệt. Ngân sách mười hai tỷ — tăng thêm bốn tỷ so với đề xuất ban đầu, vì Hùng muốn mở rộng đội ngũ từ mười lăm lên ba mươi người. Minh nhìn ba từ cuối bàn, không nói gì, nhưng tay cậu siết chặt cây bút.
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 39 gắn với công nhân xưởng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Khi tất cả ra về, Hùng ngồi lại một mình trong phòng họp. Màn hình máy chiếu vẫn sáng, hiển thị trang cuối cùng của báo cáo — một bức ảnh chụp nguyên mẫu xe điện Thương Gia trên nền trắng, góc nghiêng, ánh đèn studio. Nó thô, chưa có vỏ, dây điện tua tủa. Nhưng nó thật.
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Xe điện nguyên mẫu" năm 1998 tại Khu công nghiệp, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “Xe điện nguyên mẫu" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Hùng tắt máy chiếu. Phòng tối lại. Ông ngồi trong bóng tối một lúc lâu, nghe tiếng quạt điều hòa rền đều. Rồi ông đứng dậy, đi ra cửa. Xe điện Thương Gia sẽ mất ít nhất hai năm nữa mới ra đường. Nhưng hôm nay — sáu tháng sau câu hỏi của Minh — nó đã lăn bánh.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.219」
-Năm: 1999
-Tổng EXP: 42,524 (+238 nhịp này)
-Không gian kho: 14,714m² (+143m²)
-Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Năm: 2007
+Tổng EXP: 49,520 (+600 nhịp này)
+Không gian kho: 17,800m² (+600m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv2, Công nghệ ô tô lv1
+Ghi chú: Xưởng 219 — xe điện nguyên mẫu đầu tiên chạy thử thành công. Motor Baumüller 15kW, pin Samsung 48V-100Ah, range 60km, controller tự thiết kế. Hùng phê duyệt ngân sách 12 tỷ. Mục tiêu 2009: sản xuất thử 100 chiếc.
 ============================================================

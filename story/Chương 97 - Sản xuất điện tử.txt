@@ -6,7 +6,6 @@ Sáng sớm tháng ba năm 1987. Khu công nghiệp mới nhú lên ở rìa th�
 
 Hai năm trước ông còn buôn linh kiện từ quận Chợ Lớn về bán lẻ. Năm nay ông bước qua bên kia: tự lắp ráp.
 
-Dây chuyền chỉ dài hai mươi mét — băng tải là một tấm ván ép phủ nhựa, kê trên bốn cái bàn, chạy bằng mô-tơ máy khâu cũ. Không PLC, không cảm biến, không đèn báo lỗi. Người công nhân ngồi hai bên, mỗi người một cây hàn, một cuộn thiếc, một hộp flux trắng. Người đầu dây gắp linh kiện từ khay, đặt lên bo mạch in bằng epoxy màu xanh. Hàng đi qua ba trạm hàn tay, một trạm kiểm mối nối, một trạm test nguội, một trạm đóng gói.
 
 Ca đầu có mười bảy người. Sáu người từ làng điện tử Nhật Tảo — quen tay với tụ, trở, diod. Bảy người từ xưởng cơ khí chuyển sang — biết hàn nhưng chưa quen bo mạch. Bốn người mới toanh, được dạy từ cách cầm mỏ hàn, lấy que thiếc từ ngày thứ hai.
 
@@ -66,7 +65,6 @@ Người thứ hai là chị Lan — con gái Hùng xin nghỉ học buổi sán
 
 Cả xưởng trả lời bằng tiếng "được" lẻ tẻ — không đồng thanh, không khí thế. Hùng không cần khí thế. Ông cần những mối hàn chắc.
 
-Dây chuyền bắt đầu chạy lúc bảy giờ mười lăm. Tiếng mỏ hàn chạm thiếc, tiếng linh kiện rơi lộc cộc vào khay nhựa, tiếng chân bàn gỗ kẹt kẹt trên nền xi măng. Trong góc, anh Lộc đang test một bo điện áp rơi — đèn báo nguồn không sáng. Anh thay diod zener, đo lại — OK.
 
 Một giờ sau, chị Lan phát hiện một lỗi mới: chân IC cắm không hết, nhô lên khỏi bo mạch, hàn chỉ bám mặt trên. Hùng xem — lỗi do lỗ khoan bo mạch nhỏ hơn chân IC, do nhà cung cấp bo mạch dùng mũi khoan sai cỡ. Ông gọi điện thoại — một cái điện thoại quay tay, mượn của xưởng kế bên — gọi sang Nhà Tảo, đặt lại bo mới, yêu cầu khoan lỗ 0.8mm thay vì 0.7mm.
 
@@ -80,7 +78,6 @@ Khách là một công ty tư nhân ở quận Tân Bình, đặt bo mạch cho 
 
 Hùng tính: năng suất hiện tại ~150 bo/ngày, yield 80%. Cần 500 bo giao, vậy phải sản xuất ~625 bo. Mỗi ngày 150 → mất 4-5 ngày. Có dư. Nhưng nếu yield không cải thiện, thời gian sẽ đội lên. Ông quyết định đầu tư thêm một máy test tự chế — anh Lộc thiết kế, dùng IC 555 làm mạch tạo xung, kết hợp đồng hồ đo, giúp kiểm tra bo nhanh hơn mà không cần cắm vào nguồn từng cái.
 
-Chiều tối, anh Lộc mang bản vẽ mạch test ra. Hùng xem, góp ý: thêm một đèn báo để phân biệt "ngắn mạch" và "hở mạch". Anh Lộc sửa, hàn thử trên bo test — OK. Chi phí: khoảng 15.000 đồng — rẻ hơn nhiều so với mất một lô hàng vì lỗi test không phát hiện được.
 
 Một chuyện nhỏ xảy ra giữa giờ: hai công nhân cãi nhau vì một cái mỏ hàn. Một người cho rằng người kia lấy nhầm mỏ hàn của mình — mỗi người có một cây quen tay, đầu mỏ đã mài theo kiểu riêng, nhiệt độ chuẩn riêng. Hùng không phân xử đúng sai. Ông bảo: "Từ mai, mỗi người sơn màu lên cán mỏ. Chị Lan mua sơn dầu, mỗi người một màu. Ai mượn thì hỏi, không tự ý lấy." Cái giải pháp tốn 5.000 đồng và mười phút — không ai mất mặt, không ai mất mỏ hàn.
 
@@ -95,6 +92,27 @@ Hùng về nhà trong bóng tối. Đường đất, không đèn. Tiếng ếch
 Sản xuất điện tử, năm 1987, tại một xưởng nhỏ ven thành phố. Không tự động hóa. Không robot. Không phần mềm. Chỉ có mỏ hàn, kính lúp, đồng hồ VOM, và những bàn tay người. Mỗi mối hàn là một quyết định. Mỗi bo mạch là một lời hứa. Mỗi ngày là một trận đánh với dung sai, độ ẩm, nhiệt độ, và giới hạn của con người.
 
 ============================================================
+
+
+
+
+Hùng hỏi thêm một câu, không phải vì cần câu trả lời, mà vì muốn nghe cách người kia nói. "Nếu mình không làm, ai làm?" Lan trả lời ngay: "Người khác. Và họ sẽ làm tốt hơn nếu mình chần chừ." Hùng gật đầu, không cần tranh luận — câu trả lời đã nói lên tất cả. Cả phòng im lặng trong ba giây, chỉ có tiếng quạt trần quay đều trên đầu, rít nhẹ mỗi lần cánh quạt đi qua điểm cao nhất.
+
+Bà Hà bước vào phòng với ấm nước mới, nhìn hai người đang ngồi im, hỏi một câu không liên quan đến công việc: "Tối nay ăn gì?" Hùng nhìn đồng hồ, đã qua bảy giờ tối, bữa tối đã bị lãng quên từ lâu. "Ăn gì cũng được," ông nói, nhưng tay vẫn không rời tờ giấy số liệu.
+
+
+Ngoài trời, tiếng mưa bắt đầu rơi. Không phải cơn mưa rào đầu mùa ầm ầm kéo đến, mà là thứ mưa bụi dai dẳng, lặng lẽ làm ướt đường trước khi người ta kịp nhận ra. Hùng ngồi nhìn qua ô cửa sổ mờ hơi nước, những hạt bụi mưa bám trên kính rồi tụ lại thành từng giọt nhỏ chảy xuống, vẽ những đường ngoằn ngoèo trên mặt kính. Ông nhớ lại một câu nói của ai đó: "Mưa không chọn chỗ rơi. Nhưng người biết chọn chỗ đứng."
+
+
+Khi chiếc đồng hồ trên tường điểm mười một tiếng, Hùng gấp sổ lại. Không phải vì ông đã xong việc — việc kinh doanh không bao giờ thực sự xong — mà vì ông biết giới hạn của mình. Một quyết định tốt sẽ trở nên tồi nếu nó được đưa ra lúc nửa đêm bởi một người đã mười sáu tiếng không nghỉ. Ông cất cuốn sổ vào ngăn kéo, không khóa, vì biết sáng mai sẽ mở lại.
+
+
+Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Có những thứ thời gian in dấu vào người, không cần hỏi ý kiến. Ông viết thêm một dòng cuối cùng vào sổ: "Năm nay, được rồi." Không viết hoa, không dấu câu, như mọi dòng ghi chú trong cuộc đời ông.
+
+
+
+
+
 「Hệ thống — GHI NHẬN ch.97」
 Năm: 1987
 Tổng EXP: 15,955 (+182 nhịp này)

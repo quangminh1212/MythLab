@@ -1,0 +1,128 @@
+============================================================
+Chương 236: Xe điện — Bước đi đầu tiên
+============================================================
+
+Giữa tháng Năm năm 2009, Hùng đến thăm nhà máy ô tô Thương Gia tại Hải Phòng. Nhà máy này được xây từ năm 2007, sản xuất các dòng xe tải nhẹ và xe khách dưới thương hiệu Thành Công — liên doanh với một đối tác Nhật Bản. Công suất thiết kế mười lăm nghìn xe một năm, nhưng thực tế chỉ chạy khoảng sáu nghìn — chủ yếu xe tải nhẹ bán cho các doanh nghiệp vận tải.
+
+Giám đốc nhà máy là Nguyễn Văn Trường — bốn lăm tuổi, kỹ sư chế tạo máy, từng làm cho Toyota Việt Nam mười năm. Anh ta biết từng con ốc trên dây chuyền, biết tiếng kêu của từng máy ép, biết chất lượng thép khi nhìn bằng mắt thường. Nhưng anh ta chưa bao giờ nghĩ đến xe điện.
+
+"Anh Hùng, em xem bản vẽ sơ bộ của anh rồi," Trường nói, tay chỉ vào tờ giấy A4 có nét vẽ nguệch ngoạc của Hùng. "Nhưng em phải nói thật: mình không đủ năng lực để làm xe điện từ đầu."
+
+"Anh biết."
+
+"Xe điện không chỉ là thay động cơ xăng bằng động cơ điện. Nó là cả một hệ thống mới — pin, bộ điều khiển, hệ thống quản lý năng lượng, hệ thống sạc. Mỗi thứ là một ngành riêng."
+
+"Anh biết. Vậy mình sẽ làm thế nào?"
+
+Trường ngạc nhiên — ông chủ không phản đối, không giải thích, chỉ hỏi lại. Anh ta suy nghĩ một lúc.
+
+"Em có một người bạn — tên Dũng, hiện đang làm pin lithium cho một công ty Đức ở Berlin. Hắn là người Việt, tốt nghiệp Đại học Bách khoa Berlin, làm pin mười năm. Có thể hắn sẽ về nếu mình có dự án tốt."
+
+"Liên lạc với hắn."
+
+"Và em biết một nhóm nghiên cứu ở Đại học Bách khoa Hà Nội — họ đang làm đề tài về động cơ điện cho xe hai bánh. Họ có thể giúp mình bước đầu — xe máy điện."
+
+Hùng gật. "Xe máy điện là bước một. Học từ xe nhỏ, rồi lên xe lớn. Bao lâu nếu làm xe máy điện?"
+
+"Nếu có người và có vốn, em nghĩ mười hai tháng — ra được xe chạy thử."
+
+"Tốt. Em làm đề án chi tiết: người, vốn, thiết bị, thời gian. Trình anh trong một tháng."
+
+"Vâng."
+
+Hùng đi một vòng nhà máy. Dây chuyền lắp ráp đang chạy — những chiếc xe tải nhẹ màu trắng nối đuôi nhau trên băng tải, công nhân đội mũ bảo hộ xanh đang bắt ốc, hàn khung, kiểm tra động cơ. Mùi dầu nhớt, mùi sơn, mùi kim loại — mùi của công nghiệp, mùi của sức lao động.
+
+Hùng dừng lại ở một góc nhà máy — nơi để những bộ khung xe cũ, hỏng, chờ thanh lý. Trong đống phế liệu, có một bộ khung xe concept — mẫu xe hơi nhỏ do đội thiết kế của Trường làm thử nghiệm từ năm ngoái, bỏ dở vì thiếu vốn.
+
+Hùng nhìn bộ khung — những đường hàn còn mới, sơn còn bóng. "Sao bỏ?"
+
+"Không có động cơ phù hợp. Động cơ nhập khẩu quá đắt — ba chục nghìn đô một cái. Lắp vào xe bán ra tám trăm triệu, ai mua?"
+
+"Giờ mình sẽ tự làm động cơ điện. Lắp vào bộ khung này."
+
+Trường cười — nụ cười của người vừa nghe một điều không tưởng.
+
+"Em cười gì?"
+
+"Dạ, em cười vì — không biết nên nói anh lạc quan hay liều. Nhưng em thích cái kiểu liều đó. Mười năm làm cho Toyota, chưa bao giờ thấy ông chủ nào dám nghĩ khác."
+
+"Toyota là hãng lớn, họ có quy trình, có tiêu chuẩn. Cái gì cũng phải đúng. Ở Thương Gia, mình có thể sai. Sai thì sửa. Nhưng không làm thì không bao giờ có."
+
+Hùng vỗ vai Trường. "Làm đi. Một tháng nữa anh quay lại, em phải có bản vẽ chi tiết, không phải mấy nét nguệch ngoạc của anh."
+
+Ra khỏi nhà máy, Hùng gọi cho Lan.
+
+"Em liên lạc với trường Đại học Bách khoa Hà Nội. Hỏi xem họ có chương trình hợp tác doanh nghiệp không. Thương Gia muốn tài trợ một phòng thí nghiệm về động cơ điện."
+
+"Ngân sách bao nhiêu?"
+
+"Mười tỷ — trang thiết bị, học bổng cho sinh viên, lương cho nghiên cứu viên. Nhưng yêu cầu: sinh viên tốt nghiệp từ phòng thí nghiệm đó phải làm cho Thương Gia ít nhất hai năm."
+
+"Điều kiện hơi nặng."
+
+"Nặng thì mới có cam kết. Mình bỏ tiền, họ bỏ công. Đôi bên cùng có lợi."
+
+Ba tuần sau, Trường trình đề án. Dày bảy mươi trang — từ thiết kế khung xe, động cơ, pin, đến kế hoạch sản xuất, dự toán chi phí, và lộ trình mười hai tháng.
+
+Hùng đọc từ đầu đến cuối, không bỏ sót trang nào. Đến cuối, ông gập tài liệu lại.
+
+"Bao nhiêu?"
+
+"Ba mươi bảy tỷ cho giai đoạn một — từ thiết kế đến chạy thử. Chưa kể chi phí xây dựng nhà máy pin sau này."
+
+"Tiền đâu?"
+
+"Em đề xuất: mười tỷ từ ngân sách R&D của tập đoàn. Mười lăm tỷ từ quỹ đầu tư phát triển của nhà máy. Mười hai tỷ còn lại — vay ngân hàng."
+
+"Vay ai?"
+
+"Ngân hàng Thương Gia."
+
+Hùng cười. "Tự vay ngân hàng nhà mình. Được. Ký đi."
+
+Trường ngạc nhiên. "Anh duyệt nhanh vậy? Không cần họp ban lãnh đạo?"
+
+"Đề án của em có số liệu, có kế hoạch, có phương án tài chính. Đủ rồi. Họp hành chỉ làm chậm. Em làm ngay, tuần sau khởi công phòng thí nghiệm."
+
+"Và người — Dũng bên Đức?"
+
+"Gọi hắn về. Lương thỏa thuận — nhưng bảo hắn: đây là cơ hội để làm chủ công nghệ pin Việt Nam. Ở Đức, hắn là nhân viên Ở đây, hắn có thể là cha đẻ của pin Việt."
+
+Trường gật, mắt sáng lên. Ba mươi bảy tỷ, mười hai tháng — một thách thức khổng lồ. Nhưng với người đã dành mười năm lắp ráp xe cho Toyota mà không được sáng tạo, đây là cơ hội để chứng minh mình làm được.
+
+Chiều hôm đó, Lan mang tin vui: trường Đại học Bách khoa đồng ý hợp tác. Giáo sư Nguyễn Đình Dũng — chủ nhiệm bộ môn Kỹ thuật Điện — sẽ trực tiếp phụ trách phòng thí nghiệm.
+
+"Giáo sư Dũng bảo: sinh viên của ông ấy đã làm đề tài xe điện từ năm 2007, nhưng không có kinh phí để chế tạo thử. Mười tỷ của mình là giấc mơ với họ."
+
+"Tốt. Bao giờ ký hợp đồng?"
+
+"Tuần sau. Nhưng có một điều kiện: Thương Gia phải nhận ít nhất năm sinh viên thực tập mỗi năm và ưu tiên tuyển dụng sinh viên tốt nghiệp từ chương trình."
+
+"Đồng ý. Thêm điều khoản: năm sinh viên giỏi nhất sẽ được Thương Gia tài trợ học thạc sĩ ở nước ngoài, với cam kết về làm cho công ty ít nhất ba năm."
+
+"Em sẽ đưa vào hợp đồng."
+
+Tối hôm đó, Hùng ngồi viết nhật ký — không phải cho ai, chỉ cho mình.
+
+"Ngày 20 tháng 5 năm 2009.
+Hôm nay duyệt đề án xe điện 37 tỷ. Bước đầu tiên vào một ngành mới.
+Có người nói tôi điên. Có người nói tôi liều.
+Tôi không điên, không liều.
+Tôi thấy tương lai.
+Nước Mỹ, châu Âu, Trung Quốc — tất cả đều đang chạy đua xe điện.
+Việt Nam không thể đứng ngoài cuộc chơi.
+Thương Gia sẽ là người tiên phong.
+Có thể thất bại.
+Nhưng không làm còn chắc chắn thất bại hơn."
+
+Ông gập sổ, tắt đèn, nhìn ra cửa sổ. Hà Nội về đêm lấp lánh ánh đèn, những tòa nhà cao dần mọc lên, những con đường đang mở rộng. Đất nước đang thay đổi. Và ông — Trần Văn Hùng — muốn là một phần của sự thay đổi đó.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.236」
+Năm: 2009
+Tổng EXP: 55,940 (+360)
+Không gian kho: 24,416m² (+72m²)
+Kỹ năng: Nghiên cứu & phát triển lv1, Kỹ thuật ô tô lv1
+Kỹ năng mới: Công nghệ pin lv1
+Ghi chú: Duyệt đề án xe điện 37 tỷ. Thành lập phòng thí nghiệm động cơ điện tại Đại học Bách khoa Hà Nội. Liên hệ Dũng (chuyên gia pin tại Đức) về nước. Bắt đầu kỷ nguyên xe điện của Thương Gia.
+============================================================

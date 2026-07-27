@@ -2,200 +2,236 @@
 Chương 339: Thanh lọc nội bộ
 ============================================================
 
-Việc “Thanh lọc nội bộ" đặt ông vào thế phải chọn: nhanh hay chắc. Hôm nay ông chọn chắc một nhịp.
+TP.HCM, cuối tháng Chín năm 2018. Cơn mưa chiều bất chợt ập đến như trút nước, nước ngập nửa bánh xe trên đường Nguyễn Văn Linh, những tia chớp xé ngang bầu trời xám, gió cuốn lá cây bay mù mịt. Từ cửa sổ phòng làm việc tầng năm tòa nhà Thương Gia quận 7, Lan nhìn ra ngoài — những tia chớp xé ngang bầu trời xám, dòng người đội mưa chạy vội, những chiếc xe máy lách qua vũng nước tìm đường khô.
 
-Thế hệ sau muốn tốc độ; thế hệ trước muốn không vỡ chữ tín.
+Chị uống một ngụm cà phê đã nguội. Đồng hồ trên bàn chỉ 6 giờ 47 phút tối.
 
-Ông chạm mép sổ — giấy sần, mực tím nhạt.
+Cánh cửa phòng làm việc mở ra, ông Tam bước vào — quần áo ướt sũng, tóc dính vào trán, nước mưa nhỏ giọt xuống sàn gạch men. Ông vừa từ Vũng Tàu về, nơi đã dành ba ngày lần theo một đầu mối. Trên tay ông là một túi tài liệu nilon màu vàng, bên trong là những bản in và một USB nhỏ.
 
-Năm 2018, tại TP.HCM. Việc “Thanh lọc nội bộ” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+"Có rồi," ông Tam nói, thở hổn hển. Ông đặt túi tài liệu lên bàn, kéo khóa, lôi ra một xấp hồ sơ dày. "Ba mươi hai người. Cả một hệ thống gián điệp."
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Lan đón lấy xấp hồ sơ. Trang đầu tiên là một danh sách đánh máy — ba mươi hai cái tên, tuổi, chức vụ, ngày vào làm, phòng ban. Nhân viên các phòng ban từ kế toán đến hành chính, từ IT đến pháp chế, từ kinh doanh đến nhân sự. Điểm chung: họ đều được tuyển trong vòng mười hai tháng qua. Hồ sơ sạch — bằng cấp từ các trường đại học có tên tuổi, kinh nghiệm làm việc từ ba đến năm năm, thư giới thiệu từ những công ty có vẻ danh tiếng.
 
-“sức khỏe và tốc độ" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+Và tất cả đều được giới thiệu bởi cùng một công ty headhunter — HR Solutions, một công ty nhỏ có địa chỉ đăng ký tại một tòa nhà ảo ở Singapore.
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+Lan lật từng trang. Mỗi hồ sơ đều có ảnh thẻ, quá trình tuyển dụng, bảng đánh giá thử việc, nhận xét của quản lý trực tiếp. Có người đã làm được sáu tháng, có người mới vào ba tuần. Có nhân viên kế toán công nợ, có trợ lý hành chính, có lập trình viên hệ thống, có chuyên viên pháp chế, có người phụ trách quan hệ đối tác.
 
-Chiều, “Thanh lọc nội bộ” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+Họ không ở những vị trí cao nhất — nhưng họ ở những vị trí cửa. Nơi có thể tiếp cận hợp đồng, dữ liệu tài chính, danh sách khách hàng, mật khẩu hệ thống, thông tin nhà cung cấp.
 
-"sức khỏe và tốc độ đang đứng ngay cửa," Trần Thị Lan nói nhỏ.
+"Họ đã lấy được gì chưa?" Lan hỏi, giọng vẫn đều.
 
-"Nhìn thẳng và ghi rõ. Né thì mất cửa, xông không sổ thì mất người."
+"Chưa rõ quy mô thực sự," ông Tam đáp, ngồi xuống ghế đối diện. Ông lấy khăn tay lau mặt, nước mưa vẫn còn nhỏ giọt từ tóc bạc. "Nhưng tuần trước, phòng IT báo cáo có một truy cập lạ vào hệ thống dữ liệu nhà cung cấp — từ tài khoản của một nhân viên mới tên Lâm, người đang nghỉ ốm. Điều đó nghĩa là hoặc Lâm giả ốm để truy cập từ xa, hoặc ai đó đã dùng tài khoản của Lâm."
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+"Có camera không?"
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+"Camera tầng IT — nhưng bị hỏng ba ngày trong tuần đó. Sửa xong thì đã muộn."
 
-"Bên kia giảm giá mạnh," có người nhắc.
+"Hỏng hay bị làm hỏng?"
 
-"Giảm bằng cắt chất lượng thì để họ giảm. Mình giữ hàng."
+"Chưa biết. Đang cho kiểm tra."
 
-Trưa, ông ăn cơm hộp. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+Lan đặt xấp hồ sơ xuống, nhìn thẳng vào mắt ông Tam. "Bao nhiêu người trong số ba mươi hai người đó là do HR Solutions giới thiệu?"
 
-Chiều, hướng “Thanh lọc nội bộ" nhích thêm bằng lô hàng. Không pháo hoa.
+"Tất cả. Ba mươi hai người. Từng người một." Ông Tam mở trang thứ hai, nơi ông đã ghi chép tay bằng bút đỏ. "Tôi gọi điện kiểm tra ba công ty trong hồ sơ của họ — số điện thoại không tồn tại hoặc là số di động trả trước đã khóa. Địa chỉ email của các công ty đó — tôi gửi thử, trả lời tự động, nội dung chung chung. Một cái bẫy hoàn hảo, được dàn dựng rất kỹ. Tiền bạc, thời gian, công sức — tất cả đều được đầu tư."
 
-Đêm, điện thoại để im. Ông dành vài phút cho người còn chờ — không cho bảng số.
+Lan không nói gì trong một lúc. Chị nhìn ra ngoài cửa sổ, nơi mưa đã bắt đầu ngớt, mặt đường loang loáng nước và ánh đèn neon. Trong đầu chị, những mảnh ghép đang xoay chuyển: ai đứng sau, mục đích gì, làm thế nào để xử lý mà không gây chấn động quá lớn cho toàn bộ hệ thống.
 
-Họ nói về “Thanh lọc nội bộ” ngắn. Cười một cái. Im một cái. Sự bình thường, với ông, hiếm hơn danh hiệu.
+"Ba mươi hai người," chị lặp lại, như đang cân nhắc từng con số. "Nếu sa thải tất cả, Thương Gia sẽ bị xáo trộn dây chuyền vận hành trong ít nhất ba tháng. Tuyển người mới mất thêm ba tháng. Trong sáu tháng đó, đối thủ có thể lợi dụng sự hỗn loạn."
 
-Sổ tay khép lại bằng một dòng cầu nối, không bằng khẩu hiệu.
+"Vậy giữ lại?" ông Tam hỏi.
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+"Giữ lại thì rủi ro an ninh thông tin. Họ đã ở trong hệ thống, đã có quyền truy cập. Nếu vẫn còn gián điệp trong số họ, thiệt hại có thể lớn hơn."
 
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
+"Ý chị là?"
 
-Hùng chấp nhận sức khỏe và tốc độ là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Phân loại. Không thể đánh đồng tất cả. Phải biết ai là gián điệp thực sự — người có chủ đích, đang lấy dữ liệu. Ai là người vô tình bị lợi dụng — chỉ cần việc làm, không biết gì. Ai là công cụ đánh lạc hướng — được cài vào để nếu lộ, chúng ta tưởng đó là toàn bộ."
 
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
+***
+Sáng hôm sau, tám giờ đúng. Lan ngồi trong phòng họp kính ở tầng ba — một căn phòng nhỏ, bàn dài, hai ghế, một máy ghi âm đặt trên bàn, một camera giám sát gắn trần. Luật sư Hưng ngồi ở góc phòng, tay cầm bút, trước mặt là một tập giấy trắng.
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ khách cốt lõi, và nói thẳng chỗ sẽ đau.
+Người đầu tiên được mời vào là Trúc — nữ, hai mươi lăm tuổi, nhân viên kế toán công nợ. Cô vào Thương Gia được bốn tháng. Hồ sơ làm việc sạch — đến đúng giờ, về đúng giờ, không sai sót trong công việc hàng ngày. Điều duy nhất bất thường trong báo cáo: cô hay ở lại muộn sau giờ làm — một mình trong phòng kế toán, khi tất cả đã về hết.
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+"Cô Trúc, mời cô ngồi."
 
-Cuối buổi, “Thanh lọc nội bộ" để lại bằng chứng: hàng mẫu. Không bằng chứng thì coi như chưa làm.
+"Dạ, chị Lan." Trúc ngồi xuống, hai tay đặt lên đầu gối, lưng thẳng, mặt tái nhợt. Cô cắn môi — một thói quen khi căng thẳng.
 
-Cảm xúc hôm nay nghiêng về “hy vọng dài hạn". Ông không giấu, cũng không để cảm xúc ký thay mình.
+"Tôi có vài câu hỏi. Cô trả lời thật nhé."
 
-Trên đường quanh TP.HCM, ông nhìn công nhân tan ca. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Dạ."
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+"Ai giới thiệu cô vào Thương Gia?"
 
-Hai người tốt bất đồng cách làm “Thanh lọc nội bộ". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
+"Công ty headhunter — HR Solutions. Họ gọi em phỏng vấn qua Skype, rồi bảo em nộp hồ sơ. Phỏng vấn với chị Hương — trưởng phòng kế toán — một lần là được nhận luôn."
 
-Một chi tiết năm 2018: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Trước khi vào Thương Gia, cô làm ở đâu?"
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “Thanh lọc nội bộ" không đổ.
+"Em làm kế toán tổng hợp tại Công ty TNHH Thương Mại Á Châu, quận 1 — gần chợ Bến Thành — được hai năm."
 
-Họp trực tuyến xong, hiện trường vẫn là chỗ quyết định.
+"Cô có thể cho tôi biết tên giám đốc công ty đó?"
 
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
+Trúc im lặng. Hai tay cô siết chặt vào nhau trên đầu gối, móng tay bấu vào mu bàn tay. Một giây. Hai giây. Ba giây. Bốn giây.
 
-Tin đồn bảo ông có nền lạ. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Chị Lan, em..." Giọng cô run run.
 
-Sổ “Thanh lọc nội bộ" đánh dấu bút chì — có thể lùi.
+"Trước khi cô trả lời, tôi muốn cô biết một điều." Lan nói, giọng vẫn đều, không cảm xúc. "Tôi đã kiểm tra. Công ty Á Châu không tồn tại trong hệ thống đăng ký doanh nghiệp. Số điện thoại trong hồ sơ của cô là số di động trả trước — đã khóa từ tháng Sáu. Địa chỉ email của công ty đó được tạo hai ngày trước khi cô gửi hồ sơ, và bị xóa một tuần sau khi cô trúng tuyển."
 
-Từ thiện có ảnh — ông vẫn kiểm bằng việc tới tay người.
+Trúc bật khóc. Nước mắt lăn dài trên má, chảy xuống cổ áo sơ mi trắng, thấm vào cổ áo.
 
-Không ai hoàn hảo trong “Thanh lọc nội bộ". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
+"Em xin lỗi, em xin lỗi, em không biết gì hết." Giọng cô nghẹn lại, khó thở. "Có một người gọi em — giọng nam Bắc, khoảng bốn lăm, năm mươi — bảo nộp hồ sơ vào Thương Gia, em sẽ được nhận. Họ trả em mười triệu mỗi tháng ngoài lương. Chỉ cần em làm việc bình thường — và mỗi tuần gửi một email."
 
-Màn hình sáng, số liệu nhiều, việc thật vẫn phải đi chân.
+"Gửi cho ai?"
 
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
+"Em không biết. Địa chỉ email dùng một lần — sau khi gửi, tài khoản đó biến mất. Em chỉ gửi được bốn lần — báo cáo công nợ cuối tháng, danh sách nhà cung cấp mới, hợp đồng đã ký trong tháng. Em không biết đó là sai. Họ nói đó là thông tin thị trường — công ty headhunter cần để đánh giá năng lực."
 
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
+Lan gật đầu. Chị mở ngăn bàn, lấy một tờ giấy A4 đã in sẵn — bản thỏa thuận bảo mật và cam kết hợp tác điều tra.
 
-Tin lan nhanh hơn báo cáo nội bộ.
+"Tôi không đuổi việc cô. Cô ký cái này — cam kết không tiết lộ thông tin nội bộ và hợp tác điều tra. Cô sẽ tiếp tục làm việc bình thường. Nếu họ liên lạc lại — cô báo cho tôi ngay."
 
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
+Trúc nhìn tờ giấy, nước mắt vẫn rơi, nhưng tay đã bớt run. "Chị Lan... em có bị đi tù không?"
 
-Ông chủ động gặp người khó tính nhất quanh “Thanh lọc nội bộ". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
+"Không. Nếu cô hợp tác. Cô là nạn nhân, không phải thủ phạm."
 
-Ch. 339: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
+Người thứ hai: Lâm, hai mươi bảy tuổi, lập trình viên hệ thống. Vào Thương Gia sáu tháng. Làm việc tốt, ít nói, không gây chú ý, đồng nghiệp nhận xét "hiền lành, chăm chỉ". Nhưng hồ sơ IT cho thấy: tuần trước, một truy cập trái phép vào server HR — nơi lưu trữ toàn bộ dữ liệu nhân sự, hợp đồng lao động, lương thưởng — đến từ đúng máy tính của Lâm, lúc 2 giờ 47 phút sáng, khi tòa nhà đã khóa cửa.
 
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
+Lan không cần hỏi nhiều. Chị đặt lên bàn bản in log server — mười lăm trang, những dòng lệnh, địa chỉ IP, dấu đỏ đánh dấu các truy cập bất thường. Lâm nhìn tờ giấy, mặt trắng bệch như tờ giấy in.
 
-Ở góc nhìn người làm thuê, “Thanh lọc nội bộ” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
+"Anh Lâm, tôi không muốn làm to chuyện. Nhưng luật sư của tôi đã có bằng chứng — thời gian, địa chỉ IP, dữ liệu bị truy cập. Đây là tội hình sự theo Điều 289 Bộ luật Hình sự: truy cập trái phép hệ thống thông tin, đánh cắp dữ liệu doanh nghiệp. Nếu tôi giao cho công an, anh sẽ đi tù ít nhất ba năm."
 
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “Thanh lọc nội bộ" mà không vứt lại?
+Lâm nhìn xuống bàn. Tay anh đặt lên mặt bàn gỗ, móng tay bấu vào mép bàn, trắng bệch.
 
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
+"Nhưng tôi không muốn làm thế," Lan nói, giọng giảm xuống, gần gũi hơn. "Tôi muốn anh chọn."
 
-Ai đó dặn ngủ. Ông ừ. Có mệnh lệnh chỉ nhà mới được phép đưa.
+Lâm ngước lên. Mắt anh đỏ hoe, nhưng không khóc. "Chọn gì?"
 
-Ngoài kia phố/làng thở đều. Bên trong ông thở chậm đúng một nhịp — đủ để không vỡ.
+"Tiếp tục làm việc cho họ — nhưng báo cáo lại cho tôi. Làm gián điệp hai mang. Họ trả anh bao nhiêu?"
 
-Khi trời se lạnh, ông hỏi: đã kéo ai đi cùng “Thanh lọc nội bộ" mà không vứt lại?
+Lâm im lặng. Mồ hôi lấm tấm trên trán dù phòng đang mát lạnh điều hòa.
 
-Cuối buổi, “Thanh lọc nội bộ" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
+"Hai mươi triệu một tháng."
 
-Ch. 339: phần thưởng chỉ thật khi khách không trả hàng.
+"Tôi trả ba mươi. Cộng với bảo lãnh nếu chuyện vỡ lở, luật sư bào chữa miễn phí nếu bị kiện."
 
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
+"Tại sao chị lại muốn em làm việc cho chị? Em đã phản bội Thương Gia." Giọng Lâm khàn đặc.
 
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
+"Vì chính anh nói câu đó — đã phản bội. Người biết mình phản bội còn có thể quay lại. Kẻ không biết mình phản bội — nghĩ mình đang làm đúng — mới nguy hiểm."
 
-Một chi tiết năm 2018: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Lâm nhìn Lan một lúc lâu, mắt đỏ hoe, rồi gật đầu.
 
-Sổ “Thanh lọc nội bộ" đánh dấu xanh — quan trọng.
+"Em sẽ làm."
 
-Ch. 339: phần thưởng chỉ thật khi công nhân không mất ca.
+**
+Buổi chiều, Lan ngồi với Hùng trong phòng riêng ở tầng năm. Chị kể lại toàn bộ sự việc — ba mươi hai người, mười hai người có liên quan trực tiếp đến mạng lưới gián điệp, bốn người không biết gì chỉ bị lợi dụng làm bình phong, mười sáu người biết nhưng chưa kịp làm gì nguy hiểm.
 
-Trên đường quanh TP.HCM, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Trong số mười hai người có liên quan, hai người đã bắt đầu lấy dữ liệu: Trúc gửi báo cáo công nợ ra ngoài, Lâm truy cập server HR. Còn ba người nữa — Lan đang xác minh.
 
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
+Hùng ngồi trên ghế bành, hai tay đan vào nhau, mắt nhìn vợ. Ông không ngắt lời, không hỏi lại, không tỏ vẻ lo lắng. Ông chỉ lắng nghe — một kỹ năng ông đã rèn luyện ba mươi lăm năm: nghe người khác nói hết, rồi mới đưa ra nhận xét.
 
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Em xử lý thế nào?" Ông hỏi khi Lan dừng lại.
 
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “Thanh lọc nội bộ" mà không vứt lại?
+"Chia làm ba nhóm. Nhóm một: giữ lại, tiếp tục làm việc — những người vô tội bị lợi dụng. Nhóm hai: cho nghỉ với trợ cấp — những người yếu, biết nhưng chưa gây hại, không thể tin tưởng lại được. Nhóm ba: dùng họ — biến gián điệp của chúng thành gián điệp của mình."
 
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
+Hùng cười — nụ cười hiếm hoi của một người từng làm điều tương tự hơn chục năm trước.
 
-Trên đường quanh TP.HCM, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Giống anh ngày xưa."
 
-Một chi tiết năm 2018: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+"Em học từ anh."
 
-Cuối buổi, “Thanh lọc nội bộ" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
+"Không," Hùng nói, lắc đầu. "Em tự nghĩ ra. Anh chỉ làm gương. Còn cách sử dụng người — của em. Anh ngày xưa chỉ biết đuổi. Em biết giữ."
 
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+Căn phòng chìm trong im lặng dễ chịu. Mưa đã tạnh, ánh nắng cuối chiều le lói qua cửa kính.
 
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
+"Ba mươi hai người — em giữ hai mươi, cho nghỉ mười hai."
 
-Ch. 339: phần thưởng chỉ thật khi sổ khớp ngân hàng.
+"Cơ sở nào?"
 
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
+"Nhóm nghỉ việc — sáu người có quan hệ rõ ràng với mạng lưới, ba người yếu không chịu được áp lực, ba người có vấn đề về thái độ trước đó. Nhóm giữ lại — những người còn lại, trong đó có hai gián điệp hai mang."
 
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
+"Cho nghỉ không phải vì họ xấu," Hùng nói, giọng trầm. "Mà vì không thể tin lại được. Khi đã nghi ngờ một người, mọi hành động của họ đều bị soi. Họ không sống nổi trong môi trường ấy. Và Thương Gia cũng không thể vận hành trên sự nghi ngờ."
 
-Trên đường quanh TP.HCM, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+"Đúng. Những người bị cho nghỉ — em sẽ trợ cấp ba tháng lương, cam kết không tiết lộ lý do ra ngoài."
 
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
+"Em có nghĩ họ sẽ im lặng?"
 
-Cuối buổi, “Thanh lọc nội bộ" để lại bằng chứng: danh sách việc. Không bằng chứng thì coi như chưa làm.
+"Em nghĩ họ sẽ sợ. Nếu họ nói ra, họ tự thừa nhận mình từng làm gián điệp cho đối thủ. Cái giá đó quá lớn với họ — mất uy tín, mất cơ hội việc làm trong ngành."
 
-Một chi tiết năm 2018: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Hùng gật đầu. "Đúng. Càng ồn ào càng cho người ta biết mình từng suýt sập."
 
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “Thanh lọc nội bộ" mà không vứt lại?
+**
+Mười giờ đêm. Lan một mình trong phòng làm việc. Chị đã uống ba tách cà phê từ sáng đến giờ — dạ dày cồn cào, nhưng không thể dừng. Những cuộc gọi trong đêm — với người sắp mất việc, với người vừa phát hiện ra mình là gián điệp, với luật sư — đã làm giọng chị khàn đặc.
 
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
+Trên bàn là danh sách ba mươi hai cái tên, đã được gạch xóa bằng hai màu: mười hai gạch đỏ — sa thải, hai mươi gạch xanh — giữ lại. Chị cầm điện thoại, bắt đầu những cuộc gọi cuối cùng trong ngày.
 
-Sổ “Thanh lọc nội bộ" đánh dấu đỏ — chết người nếu trễ.
+"Cô Hoa, em xin lỗi gọi muộn. Mai cô qua phòng em một chút, có việc liên quan đến nhân sự ạ."
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên đúng hạn, và nói thẳng chỗ sẽ đau.
+"Anh Tuấn ở phòng kế hoạch — em gọi để báo tin không vui. Anh qua phòng em sáng mai được không? Khoảng chín giờ."
 
-Trên đường quanh TP.HCM, ông nhìn dãy văn phòng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
+Cuộc gọi cuối cùng — Lâm, chàng IT.
 
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Anh Lâm, họ có liên lạc lại không?"
 
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Chưa. Em đoán sẽ gọi trong tuần này — thường họ gọi vào tối thứ Năm."
 
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Nếu họ gọi — anh nói gì?"
 
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 33 gắn với công nhân xưởng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Em theo kịch bản đã bàn: dữ liệu nhà cung cấp đang được cập nhật, cuối tháng mới có bản hoàn chỉnh. Câu đó kéo dài được ít nhất hai tuần."
 
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 34 gắn với bác sĩ Tuấn: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Được. Kéo dài càng lâu càng tốt. Trong lúc đó, tôi sẽ hoàn thiện hệ thống bảo mật mới."
 
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Chị Lan — em làm vậy có nguy hiểm không?"
 
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Có. Nếu họ phát hiện ra, anh gặp nguy hiểm thật sự." Lan nói thẳng. "Nhưng anh đã chọn ở lại. Ở lại thì phải liều."
 
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Lâm im lặng một lúc. "Chị Lan — em xin lỗi."
 
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 38 gắn với công nhân xưởng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Anh không phải xin lỗi. Anh phải chứng minh — không chỉ với tôi, mà với chính anh — rằng quyết định ở lại của anh là đúng."
 
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 39 gắn với bác sĩ Tuấn: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+**
+Sáng hôm sau, tám giờ. Mười hai người lần lượt vào phòng Lan. Từng người nhận một phong bì — ba tháng lương, giấy thỏa thuận chấm dứt hợp đồng, và một lời nhắn: "Cảm ơn anh/chị đã làm việc tại Thương Gia. Chúc may mắn."
 
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Không ồn ào. Không khóc lóc. Không giải thích. Họ ký, đứng dậy, bắt tay Lan, và rời đi.
 
-Có người muốn làm nhanh bằng cách che. Ông chọn làm chậm bằng cách mở. Trong “Thanh lọc nội bộ" năm 2018 tại TP.HCM, chi tiết số 41 gắn với Trần Thị Lan: họ phải xử lý góc “sức khỏe và tốc độ" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “hy vọng dài hạn" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
+Lan đứng ở cửa sổ phòng họp tầng năm, nhìn xuống sảnh. Từng người bước ra khỏi tòa nhà, tay cầm phong bì. Có người cúi mặt lau nước mắt, có người nhìn lại một lần cuối, có người đội mưa đi thẳng, không ngoảnh đầu.
 
+Lan biết — một số người trong số họ sẽ đi làm cho đối thủ. Nhưng chị đã tính trước nước đó: nếu họ làm cho đối thủ, chị sẽ biết qua mạng lưới của chị — Lâm, Trúc, và những người còn lại.
 
-Kết thúc đoạn này, “Thanh lọc nội bộ" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+"Mình làm đúng," chị tự nhủ, khi đứng một mình bên cửa kính. "Có đau — nhưng đúng."
+
+**
+Tối hôm đó, Lan về nhà lúc mười giờ. Căn nhà ở Thảo Điền vắng lặng — Hùng đã về Hà Nội từ sáng, con trai Huy còn ở Campuchia. Chị mở tủ lạnh, thấy bữa tối Hùng nấu sẵn để lại: canh rau, cá kho tộ, cơm trắng. Bên cạnh là mẩu giấy nhỏ: "Em ăn đi. Mệt thì ngủ sớm."
+
+Lan ngồi ăn một mình, bên cửa sổ nhìn ra khu vườn nhỏ. Căn bếp rộng, im ắng, chỉ có tiếng thìa chạm bát. Bóng chị phản chiếu trên kính — một người phụ nữ tuổi năm mươi, mái tóc đã điểm bạc ở hai bên thái dương.
+
+Điện thoại reo — số lạ, đầu số Quảng Ngãi.
+
+"Chị Lan phải không? Tôi là anh trai của thằng Thành — trưởng phòng tài chính Thương Gia."
+
+"Dạ, tôi đây ạ."
+
+"Tôi gọi để cảm ơn chị. Thằng Thành nó ngu, bị người ta dụ, bị lợi dụng. Nhưng chị không cho nó đi tù. Nghe nói chị cho nó nghỉ việc với ba tháng lương, không báo công an. Nó về quê hôm qua, khóc suốt từ chiều đến tối. Nó bảo: chị Lan cho nó một cơ hội để làm lại cuộc đời. Tôi già rồi, không có gì làm quà — chỉ gọi nói cảm ơn."
+
+Lan im lặng một lúc. Trong bóng tối của căn bếp, chị nhìn thấy mình trong tấm kính cửa sổ.
+
+"Bác giữ sức khỏe ạ. Thành còn trẻ, sẽ làm lại được."
+
+Tắt máy, Lan nhìn vào bát cơm trắng. Chị gắp một miếng cá kho, bỏ vào miệng, nhai chậm. Nước mắt chảy xuống má — lần đầu tiên trong ngày.
+
+Chị ăn hết bát cơm, rửa bát, cất đồ vào tủ lạnh, dọn dẹp bếp. Những hành động cơ học — nhưng mỗi hành động đều là một sự khẳng định: cuộc sống vẫn tiếp diễn. Ngày mai chị vẫn phải dậy sớm, vẫn phải ký quyết định, vẫn phải gặp đối tác.
+
+Trước khi đi ngủ, Lan mở cuốn sổ tay cá nhân, viết một dòng:
+
+*"Ngày 28 tháng 9 năm 2018. Hôm nay em sa thải mười hai người. Trong số họ có những người em đã từng uống cà phê cùng, từng hỏi thăm gia đình, từng tin tưởng giao việc. Nhưng em đã làm. Em không khóc khi họ ra về — em đợi đến tối nay, một mình, để khóc."*
+
+Chị gấp sổ, tắt đèn, nằm xuống. Trong bóng tối, chị thấy lại gương mặt của từng người đã ra đi sáng nay. Một người phụ nữ trẻ khóc nức nở khi ký giấy nghỉ việc. Một người đàn ông đứng tuổi không nói gì, chỉ cúi đầu bắt tay chị, rồi quay lưng bước ra cửa.
+
+"Giá như họ không làm thế," chị thì thầm. "Giá như."
+
+Nhưng không có giá như. Trong thương trường, chỉ có quyết định — đúng hoặc sai, kịp hoặc không.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.339」
 Năm: 2018
-Tổng EXP: 86,400 (+600 nhịp này)
-Không gian kho: 49,680m² (+520m²)
-Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Tổng EXP: 87,000
+Không gian kho: 50,200m²
+Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3, Xử lý khủng hoảng lv1
+Ghi chú: Thanh lọc nội bộ — phát hiện 32 gián điệp qua HR Solutions, sa thải 12, giữ 20, cài 2 gián điệp hai mang. Cuộc chiến từ bên ngoài đã lan vào bên trong.
 ============================================================

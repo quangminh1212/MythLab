@@ -2,192 +2,106 @@
 Chương 247: AI sơ khai trong quản lý kho
 ============================================================
 
-Sáng 2006 ở Hà Đông. Mùi giấy mực và một việc tên “AI sơ khai trong quản lý kho".
+Năm 2006, Hải Phòng.
 
-Ngân hàng, kiểm toán, và những cuộc gọi nửa đêm.
+Lê Anh Dũng ngồi trước màn hình máy tính trong căn phòng nhỏ nóng hầm hập. Trên bàn là ba cuốn sách đã cũ: "Cấu trúc dữ liệu và giải thuật" của Nguyễn Văn Thường, "Kỹ thuật lập trình" do một tác giả người Nga viết được dịch sang tiếng Việt, và một cuốn sách tiếng Anh mua từ hiệu sách cũ trên mạng với nhan đề "Machine Learning — An Algorithmic Perspective." Ngoài cửa sổ, tiếng máy móc từ nhà máy vọng vào ồn ào không dứt. Cơn nóng tháng Sáu ở Hải Phòng làm cả căn phòng như một cái lò bánh mì — nhiệt độ lên đến ba mươi lăm độ C ngay cả khi ngồi yên. Nhưng Dũng không để ý đến cái nóng. Mắt anh dán chặt vào dòng chữ trên màn hình — những con số, những dòng code, và trên hết, một bài toán đã ám ảnh anh suốt ba tháng nay.
 
-Ông chạm mép sổ — giấy sần, mực tím nhạt.
+Hồi đầu năm, Dũng nhận thấy một vấn đề lặp đi lặp lại ở tất cả các kho hàng của Thương Gia: hàng tồn kho luôn không khớp. Mỗi tháng, khi kiểm kê, số liệu thực tế luôn lệch so với sổ sách. Đôi khi vài chục đôi giày, đôi khi cả trăm đôi. Nguyên nhân rất khó xác định — có thể do nhập sai số liệu, có thể do thất thoát trong quá trình vận chuyển, có thể do đơn hàng bị giao nhầm hoặc thất lạc. Nhưng hậu quả thì rõ ràng: mỗi tháng, Thương Gia mất từ năm triệu đến mười lăm triệu đồng vì sai lệch tồn kho không được phát hiện kịp thời.
 
-Năm 2006, tại Hà Đông. Việc “AI sơ khai trong quản lý kho” được Hùng nhét vào lịch như mọi việc khác: có đầu, có giữa, có người chịu.
+Dũng không thể chấp nhận điều đó. Anh quyết định xây một hệ thống tự động phát hiện sai lệch tồn kho dựa trên phân tích dữ liệu. Ý tưởng cơ bản: hệ thống sẽ học từ lịch sử nhập xuất của từng mặt hàng để dự đoán mức tồn kho kỳ vọng vào cuối mỗi tháng. Nếu số liệu kiểm kê thực tế lệch quá xa so với dự đoán, hệ thống sẽ phát cảnh báo để đội ngũ quản lý có thể can thiệp sớm, trước khi sai lệch trở nên nghiêm trọng và gây tổn thất lớn.
 
-Bước một: kiểm bằng chân. Bước hai: nghe người làm thật. Bước ba: quyết định có tên.
+Trong thế giới công nghệ năm 2006, thứ Dũng đang xây dựng không có gì đặc biệt. Ở Mỹ hay châu Âu, những hệ thống tương tự đã được các tập đoàn lớn sử dụng từ nhiều năm trước. Nhưng tại Việt Nam, trong một công ty sản xuất giày dép và túi xách đặt tại Hải Phòng, nó là thứ chưa ai từng làm. Dũng là người đầu tiên — có lẽ là người duy nhất ở thời điểm đó — dám nghĩ đến việc áp dụng machine learning vào quản lý kho tại một doanh nghiệp sản xuất của Việt Nam.
 
-“chất lượng lô hàng" bị ghi trang đầu — không để bò ra trang cuối mới giật mình.
+Vấn đề đầu tiên và lớn nhất là dữ liệu. Dũng muốn hệ thống học từ quá khứ để dự đoán tương lai. Nhưng lịch sử tồn kho của Thương Gia được ghi chép như thế nào? Trên giấy. Sổ sách viết tay bằng bút bi, lưu trong các tủ hồ sơ sắt, xếp chồng lên nhau từ năm này qua năm khác trong một góc kho vừa ẩm vừa bụi. Không có dữ liệu số hóa. Không có file Excel. Không có bất kỳ thứ gì có thể đưa vào máy tính để xử lý tự động. Muốn có dữ liệu, phải gõ tay từng con số từ những cuốn sổ cũ.
 
-Giữa ngày có tin tốt và tin xấu. Cả hai đều được viết, phân việc, hẹn giờ kiểm.
+Dũng thuê hai sinh viên năm cuối trường Cao đẳng Công nghiệp Hải Phòng. Công việc của họ trong ba tuần liền: mở từng cuốn sổ tồn kho, gõ từng con số vào máy tính, tạo thành các bảng tính Excel có cấu trúc. Hai sinh viên ngồi trong căn phòng nhỏ không có điều hòa giữa mùa hè Hải Phòng, mồ hôi nhễ nhại suốt ngày, mắt mờ vì những con số nhỏ li ti trên trang giấy đã ố vàng. Sau ba tuần, họ số hóa được toàn bộ dữ liệu của hai năm — khoảng 15.000 dòng dữ liệu nhập xuất. Dũng có căn cứ để bắt đầu.
 
-Chiều, “AI sơ khai trong quản lý kho” rõ thêm một nấc thật — không bằng khẩu hiệu, bằng việc đã chuyển.
+Anh viết chương trình bằng Python, một ngôn ngữ lập trình anh tự học từ sách và các diễn đàn nước ngoài. Không có khóa học trực tuyến bằng tiếng Việt thời đó. Không có Google Dịch. Mỗi lần gặp lỗi, anh phải gõ dòng lỗi vào một diễn đàn lập trình của Nga — nơi lập trình viên từ các nước xã hội chủ nghĩa cũ thường giao lưu và giúp đỡ nhau — rồi chờ đợi ai đó trả lời. Có khi phải chờ cả tuần mới có phản hồi.
 
-"Về nhà ăn chưa?"
+Thuật toán đầu tiên Dũng thử nghiệm là hồi quy tuyến tính — một phương pháp thống kê đơn giản: dựa trên dữ liệu quá khứ vẽ một đường thẳng thể hiện xu hướng chung, từ đó dự đoán các giá trị tương lai. Kết quả: độ chính xác chỉ đạt 52,3 phần trăm — cao hơn tung đồng xu một chút nhưng hoàn toàn vô dụng trong thực tế. Với độ chính xác đó, hệ thống cảnh báo sai nhiều hơn cảnh báo đúng.
 
-"Ăn vội rồi. Về sẽ ăn chậm hơn."
+Dũng ghi vào sổ tay: "Tuyến tính không đủ. Dữ liệu có tính chu kỳ rõ rệt — mùa vụ sản xuất, đơn hàng lớn theo quý, biến động bất thường do thị trường. Cần thuật toán phức tạp hơn để nắm bắt được các mô hình phi tuyến này."
 
-"Nếu hỏng, ai chịu?" Trần Thị Lan hỏi.
+Anh chuyển sang thử nghiệm với mạng nơ-ron nhân tạo — một chủ đề hết sức mới mẻ, đến mức trong nước hầu như không có tài liệu. Dũng phải đọc tài liệu tiếng Anh, tra từ điển từng chữ, mày mò hiểu từng công thức toán học. Mất hai tháng để viết xong phiên bản đầu tiên — một mạng nơ-ron ba lớp với mười hai nơ-ron ở lớp ẩn. Kết quả: độ chính xác 68,3 phần trăm. Vẫn chưa đủ tốt để áp dụng thực tế — sai ba lần trên mười dự đoán là quá nhiều. Nhưng Dũng thấy con đường phía trước đã có ánh sáng, dù còn xa.
 
-"Tên trên sổ. Tên tôi. Không đẩy cho người mới."
+Tháng 8 năm 2006, Hùng ghé thăm phòng làm việc của Dũng. Ông thấy ba cuốn sách cũ kỹ trên bàn, thấy những tờ giấy nháp ghi chép chi chít công thức toán học, thấy màn hình máy tính đầy code. Ông hỏi: "Cậu đang làm gì thế?"
 
-"Việc 'AI sơ khai trong quản lý kho' hôm nay anh đặt nặng điều gì?" Trần Thị Lan hỏi.
+Dũng ngẩng lên, dụi mắt mỏi: "Em đang xây một hệ thống dự báo tồn kho tự động. Nếu thành công, nó sẽ giúp mình giảm sai lệch tồn kho xuống dưới năm phần trăm. Tiết kiệm cho công ty khoảng mười lăm triệu đồng mỗi tháng."
 
-"Đặt nặng chỗ dễ vỡ. Chỗ dễ ăn để sau."
+Hùng hỏi thêm: "Mất bao lâu nữa?"
 
-Trưa, ông ăn cơm hộp. Tai vẫn nghe giá, nợ, tin đồn — thị trường sống trong miệng người trước khi sống trong báo cáo.
+"Có thể sáu tháng. Có thể một năm. Em không biết chắc. Công nghệ này ở Việt Nam chưa ai làm, em phải tự mò mẫm."
 
-Chiều, hướng “AI sơ khai trong quản lý kho" nhích thêm bằng lô hàng. Không pháo hoa.
+Hùng không nói gì thêm. Ông chỉ đứng nhìn màn hình một lúc lâu. Trên đó là những đồ thị và con số mà ông không hiểu hết. Nhưng ông hiểu được ý chí đằng sau chúng — ý chí của một người không chấp nhận thực tại, muốn cải tiến mọi thứ. Ông nói ngắn gọn: "Cần thêm gì thì bảo tôi. Không phải xin phép, chỉ cần báo."
 
-Về nhà, bà Hà hỏi ăn chưa trước khi hỏi doanh thu. Lan bưng nước. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về.
+"Dạ, em cần một máy tính mạnh hơn. Con máy hiện tại yếu quá, chạy một lần thử nghiệm mất nửa ngày."
 
-Hùng kể “AI sơ khai trong quản lý kho” bằng ngôn ngữ nhà: ai khó, ai giúp, chỗ suýt hỏng. Không biến bàn ăn thành phòng họp, cũng không biến nhà thành người ngoài cuộc.
+Hùng đồng ý ngay — không hỏi giá, không hỏi lý do chi tiết. Tuần sau, một máy tính Dell Precision mới tinh, cấu hình mạnh nhất thời điểm đó, được chuyển đến phòng Dũng. Chi phí: 3.500 đô la Mỹ — một khoản tiền lớn thời đó. Hùng không một lần hỏi lại.
 
-Trước khi ngủ ông viết sổ: thu — chi — nợ lời — nợ người. Hệ thống có thể nháy “Tiến độ nhiệm vụ + giao dịch thành công"; ông tự chấm bằng câu: hôm nay có ai bị bỏ lại không?
+Cuối tháng 9, Dũng có một bước đột phá về nhận thức hơn là về kỹ thuật. Anh phát hiện ra vấn đề không nằm ở thuật toán — mà nằm ở lượng dữ liệu đầu vào. Dữ liệu hai năm là không đủ. Mạng nơ-ron của anh chỉ có 15.000 dòng để học — quá ít để nhận diện các mô hình phức tạp. Cần thêm dữ liệu. Nhưng số hóa sổ sách thủ công đã đạt giới hạn — không còn ai để thuê và cũng không còn sổ sách nào để số hóa.
 
-Trong đầu, hệ thống chỉ nháy một dòng về “Tiến độ nhiệm vụ + giao dịch thành công”. Ông ghi tương ứng bằng mực. Ảo giác không ký tên chịu trách nhiệm được.
+Dũng quyết định chuyển hướng chiến lược: thay vì cố gắng cải thiện thuật toán với lượng dữ liệu hạn chế, anh xin Hùng cho phép triển khai một hệ thống nhập dữ liệu điện tử cho tất cả các kho. Mỗi lần nhập hàng hoặc xuất hàng, nhân viên kho sẽ nhập trực tiếp vào máy tính — không còn ghi sổ giấy nữa. Dữ liệu sẽ được lưu trữ tự động trên máy chủ của công ty, sẵn sàng cho mọi phân tích sau này.
 
-Lời hứa buổi sáng được ông rà lại chiều. Lời nào quá tay thì gọi rút — lời thừa là nợ.
+Chi phí triển khai: 15 máy tính cho 15 kho trên toàn quốc — 200 triệu đồng. Đào tạo nhân viên kho sử dụng máy tính — 45 triệu đồng. Phần mềm quản lý nhập xuất do chính Dũng viết — không tốn thêm chi phí nào ngoài thời gian và công sức.
 
-Sổ “AI sơ khai trong quản lý kho" đánh dấu bút chì — có thể lùi.
+Hùng phê duyệt toàn bộ gói đầu tư ngay lập tức. Ông nói với Dũng: "Tôi không hiểu hết về machine learning của cậu. Nhưng tôi hiểu một điều: nếu không có dữ liệu, mọi thứ khác đều là vô nghĩa."
 
-Ông cảm ơn thầm những người không có tên trên banner nhưng giữ “AI sơ khai trong quản lý kho" không đổ.
+Sáu tháng sau, khi lượng dữ liệu tích lũy từ hệ thống mới đã đạt gần 100.000 dòng, Dũng chạy lại mô hình mạng nơ-ron. Kết quả: độ chính xác 82 phần trăm. Sai lệch tồn kho tại các kho đã triển khai hệ thống giảm từ trung bình 8 phần trăm xuống còn 2,5 phần trăm. Khoản tiết kiệm hàng tháng vượt xa dự kiến: không dừng lại ở 15 triệu, mà lên đến 28 triệu đồng, nhờ hệ thống còn phát hiện được cả các trường hợp nhập sai số liệu và cảnh báo kịp thời trước khi hàng hóa bị thất thoát.
 
-Một chi tiết năm 2006: biên bản phải đủ chữ ký. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
+Nhưng giá trị quan trọng nhất không phải những con số. Giá trị lớn nhất là Dũng đã chứng minh một điều có tính cách mạng: công nghệ có thể áp dụng được tại Việt Nam, không phải ở đâu xa xôi trong tương lai. Ngay tại Hải Phòng năm 2007, với một đội ngũ nhỏ, với ngân sách khiêm tốn, Thương Gia đã bắt đầu xây dựng nền tảng cho một cuộc cách mạng công nghệ mà không một doanh nghiệp sản xuất nào ở Việt Nam thời đó dám nghĩ tới.
 
-Giọng nói trong họp được ông để ý: ai nói để thắng, ai nói để việc chạy. Ông ưu tiên nhóm sau.
+Tối hôm đó, Dũng gửi email cho Hùng với tiêu đề: "Hệ thống dự báo tồn kho — kết quả tháng đầu tiên." Trong email có biểu đồ so sánh độ chính xác trước và sau khi triển khai. Hùng đọc email một lúc lâu, rồi gọi điện cho Dũng chỉ với một câu hỏi: "Có thể nhân rộng ra toàn bộ hệ thống được không?"
 
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên giữ khách cốt lõi, và nói thẳng chỗ sẽ đau.
+"Được. Nhưng em cần thêm hai người."
 
-Hùng chấp nhận chất lượng lô hàng là một phần ngày. Chấp nhận không có nghĩa là đầu hàng — nghĩa là không sốc khi nó tới.
+"Tuyển ngay. Trả lương theo năng lực, không theo thâm niên."
 
-Showroom kính và người giữ cửa nhớ tên khách quen.
+Năm 2007, hệ thống quản lý kho thông minh của Dũng — thứ mà sau này được gọi là hệ thống AI sơ khai của Thương Gia — được triển khai trên toàn bộ 15 kho hàng của tập đoàn. Sai lệch tồn kho toàn hệ thống giảm từ 9 phần trăm xuống còn 2 phần trăm. Khoản tiết kiệm ước tính hơn 400 triệu đồng mỗi năm.
 
-Mùi giấy nợ 2008 vẫn còn trong vài ngăn kéo.
-
-Email, bảng tính, họp nửa Việt nửa Anh.
-
-Bản nháp phương án B luôn nằm sẵn. Người không có đường lùi dễ biến sợ hãi thành quyết định dở.
-
-Ở góc nhìn người làm thuê, “AI sơ khai trong quản lý kho” là lịch nghỉ bị xô và lương tháng sau. Hùng nhớ điều đó trước khi nhớ biên lai.
-
-Ông để điện thoại xuống một lúc, nhìn sân nhà, rồi nhấc lên vì việc chưa xong.
-
-Không ai hoàn hảo trong “AI sơ khai trong quản lý kho". Có người sửa nhanh; có người che. Ông thưởng người sửa, không thưởng người che khéo.
-
-Cảm xúc hôm nay nghiêng về “kiên định sứ mệnh". Ông không giấu, cũng không để cảm xúc ký thay mình.
-
-Người trẻ hỏi: làm lớn có cần cứng? Ông lắc. Cần rõ. Cứng không rõ chỉ gãy tay mình và tay người khác.
-
-Khi trời nóng, ông hỏi: đã kéo ai đi cùng “AI sơ khai trong quản lý kho" mà không vứt lại?
-
-Ông nhớ thoáng bụi đỏ Quốc Oai. Ký ức để không tái phạm, không để khoe khổ.
-
-Cuối buổi, “AI sơ khai trong quản lý kho" để lại bằng chứng: chữ ký. Không bằng chứng thì coi như chưa làm.
-
-Ch. 247: phần thưởng chỉ thật khi khách không trả hàng.
-
-Trần Thị Lan ghi việc thành checklist, không thành bài văn. Việc xong được gạch; việc tắc được hỏi thiếu gì.
-
-Mười phút ông chỉ nghe, không xen. Người nói xong mới lộ chỗ thừa chỗ thiếu.
-
-Hai người tốt bất đồng cách làm “AI sơ khai trong quản lý kho". Hùng không chọn người mình thích — chọn phương án kiểm được trong bảy ngày.
-
-Báo thích chữ tập đoàn; xưởng thích chữ đúng ca đúng lương.
-
-Ông kiểm tra lại chỗ dễ gian: ca làm. Gian nhỏ nuôi hỏng lớn.
-
-Ông chủ động gặp người khó tính nhất quanh “AI sơ khai trong quản lý kho". Không mua bằng quà — mua bằng việc sửa đúng chỗ họ chỉ, nếu họ chỉ đúng.
-
-Trên đường quanh Hà Đông, ông nhìn cửa hàng nhỏ. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
-
-Một khách/đối tác khó tính gật đầu. Một người trong đội thở phào. Hai tín hiệu ấy đáng giá hơn một bài báo.
-
-Tin đồn bảo ông sẽ sụp. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
-
-Một ngày của “AI sơ khai trong quản lý kho" khép lại bằng việc đã giao, không bằng lời đã nói.
-
-Hùng tắt đèn muộn hơn xưởng một chút. Về trễ vẫn hơn về như người lạ.
-
-Ông nhớ thoáng mắt bà Hà. Ký ức để không tái phạm, không để khoe khổ.
-
-Khi trời tối, ông hỏi: đã kéo ai đi cùng “AI sơ khai trong quản lý kho" mà không vứt lại?
-
-Một chi tiết năm 2006: mẫu thử phải lưu. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
-
-Ông để điện thoại xuống một lúc, nhìn phố, rồi nhấc lên vì việc chưa xong.
-
-Ông nhớ thoáng bảng điện đỏ 2008. Ký ức để không tái phạm, không để khoe khổ.
-
-Ông kiểm tra lại chỗ dễ gian: cân đong. Gian nhỏ nuôi hỏng lớn.
-
-Một chi tiết năm 2006: số lô phải khớp hóa đơn. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
-
-Ch. 247: phần thưởng chỉ thật khi nhà vẫn muốn ông về.
-
-Ch. 247: phần thưởng chỉ thật khi sổ khớp ngân hàng.
-
-Trên đường quanh Hà Đông, ông nhìn ruộng ven đường. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
-
-Tin đồn bảo ông chỉ giỏi nói. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
-
-Ông kiểm tra lại chỗ dễ gian: chiết khấu. Gian nhỏ nuôi hỏng lớn.
-
-Một chi tiết năm 2006: tỷ giá phải khóa phụ lục. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
-
-Sổ “AI sơ khai trong quản lý kho" đánh dấu xanh — quan trọng.
-
-Trên đường quanh Hà Đông, ông nhìn cảng. Đất nước đổi; người bị bỏ lại vẫn là rủi ro lớn nhất.
-
-Ông nhớ thoáng lần khách chửi vì trễ. Ký ức để không tái phạm, không để khoe khổ.
-
-Ông để điện thoại xuống một lúc, nhìn vách xưởng, rồi nhấc lên vì việc chưa xong.
-
-Ông kiểm tra lại chỗ dễ gian: báo cáo tồn. Gian nhỏ nuôi hỏng lớn.
-
-Khi trời chiều, ông hỏi: đã kéo ai đi cùng “AI sơ khai trong quản lý kho" mà không vứt lại?
-
-Ông kiểm tra lại chỗ dễ gian: hoa hồng môi giới. Gian nhỏ nuôi hỏng lớn.
-
-Tin đồn bảo ông làm quá nhanh. Cách đáp: cửa vẫn mở, hàng vẫn đúng, lương vẫn trả.
-
-Ông nhớ thoáng bát cháo năm tỉnh lại. Ký ức để không tái phạm, không để khoe khổ.
-
-Ông để điện thoại xuống một lúc, nhìn mưa, rồi nhấc lên vì việc chưa xong.
-
-Một chi tiết năm 2006: ngày giao phải trừ mưa/tàu trễ. Mất trắng thường bắt đầu từ chỗ 'nhỏ'.
-
-Ch. 247: phần thưởng chỉ thật khi công nhân không mất ca.
-
-Cuối buổi, “AI sơ khai trong quản lý kho" để lại bằng chứng: ảnh hiện trường. Không bằng chứng thì coi như chưa làm.
-
-Tam giác giá — chất lượng — thời gian không bao giờ tròn. Hôm nay ưu tiên đúng hạn, và nói thẳng chỗ sẽ đau.
-
-Hùng đi chậm quanh khu vực việc, đếm những thứ mắt thấy trước khi tin miệng người ta nói. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 30 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông dừng lại chỗ dễ bỏ qua nhất — góc tối, quầy phụ, ca muộn — vì hỏng thường nấp ở đó. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 31 gắn với Trần Thị Lan: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một câu hỏi được lặp lại với người khác nhau để xem câu trả lời có lệch không. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 32 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông chấp nhận mất thêm nửa ngày để khỏi mất cả tháng sửa sai. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 33 gắn với ông Sato: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Giấy tờ được xếp lại theo thứ tự người ngoài cũng đọc được, không chỉ người trong cuộc. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 34 gắn với đối tác địa phương: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên lai — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ai hứa to bị ông yêu cầu viết nhỏ lại thành việc có hạn. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 35 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — biên bản — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Tiếng ồn quanh chỗ làm không làm ông bực — im lặng giả tạo mới đáng ngờ. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 36 gắn với Trần Thị Lan: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ghi chép — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông để người trẻ nói trước, người già nói sau, rồi mới chốt. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 37 gắn với bà Nguyễn Thị Hà: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — mẫu hàng — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Một lỗi nhỏ được mang ra bàn không phải để làm nhục, để chặn lỗi lớn. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 38 gắn với ông Sato: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — chữ ký — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Ông ghi tên người khen và người chê — cả hai đều cần nếu muốn việc thật. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 39 gắn với đối tác địa phương: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — số liệu tồn — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
-
-Trên đường về ông không xem điện thoại ngay; ông xem lại lời mình đã hứa ban ngày. Trong “AI sơ khai trong quản lý kho" năm 2006 tại Hà Đông, chi tiết số 40 gắn với Trần Văn Hùng: họ phải xử lý góc “chất lượng lô hàng" mà không biến cả ngày thành than vãn. Hùng yêu cầu có bằng chứng cụ thể — ảnh hiện trường — trước khi tin. Cảm xúc “kiên định sứ mệnh" được ông để ý như đèn báo, không như tay lái. Ông nhắc: phần thưởng “Tiến độ nhiệm vụ + giao dịch thành công" không quan trọng bằng việc mai còn mở được cửa. 
-
-
-Kết thúc đoạn này, “AI sơ khai trong quản lý kho" có thêm một việc đã giao rõ tên, rõ hạn, rõ cách kiểm. Nếu mai kiểm mà trượt, tên trên sổ phải đứng ra — kể cả tên ông.
+Nhưng giá trị thực sự không nằm ở 400 triệu đồng tiết kiệm được. Giá trị thực sự là nền móng. Bởi từ hệ thống dữ liệu ban đầu này, Thương Gia bắt đầu xây dựng những thứ lớn hơn nhiều. Trung tâm dữ liệu. Phân tích thị trường tiêu dùng. Dự báo xu hướng bán hàng theo mùa vụ. Và cuối cùng — bước ra thế giới, với công nghệ do chính người Việt Nam viết ra.
 
 ============================================================
+
+
+Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ thể đã thuộc từng động tác đến mức không cần mắt.
+
+Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô dần khi nắng lên.
+
+Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng keng, vai khoác cặp da, có lẽ đi làm sớm.
+
+Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?" Hùng gật đầu, trả tiền thừa không lấy lại, rời đi.
+
+Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nhiêu, bán một mét lời được mấy, khách chủ yếu mua loại nào. Người phụ nữ trả lời trôi chảy, có vẻ biết việc. Hùng dừng lại ở quầy vải hoa, sờ tay vào từng loại, lớp vải mềm hay cứng, dệt mau hay dệt thưa, tất cả đều được ghi vào đầu rồi sau đó ghi vào sổ.
+
+Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn lọc cọc đi bán từng món hàng lẻ.
+
+Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc lên.
+
+"Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng, phải mở rộng mặt hàng, phải tìm đến chợ đầu mối mới.
+
+Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+
+Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng tạo thành một bức tranh về thị trường đang vận động.
+
+Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+
+Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gân là một năm tuổi.
+
+Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm tình hình. Đức kể: khách đông, làm không kịp, nhưng thiếu vốn để nâng cấp mặt bằng. Hùng xem hàng, xem máy, xem sổ sách rồi nói: "Anh mở rộng đi. Thiếu bao nhiêu để tôi góp vốn."
+
+Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết tay sau. Đức tin người. Hùng tin việc. Vụ hợp tác bắt đầu bằng một cái bắt tay trước cửa xưởng, bên cạnh mấy bao vải vụn, dưới bóng cây bàng trước sân.
+
+Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ Hà Nội xuống, đầu tư vào một xưởng nhỏ. Những giấc mơ không quá lớn, nhưng thực tế. Ông biết mình có thể đi xa hơn, chỉ cần những bước chân đều đặn và kiên trì.
+
+Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+
+
 「Hệ thống — GHI NHẬN ch.247」
-Năm: 2009
-Tổng EXP: 54,333 (+333 nhịp này)
-Không gian kho: 21,167m² (+167m²)
-Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Năm: 2006-2007
+Tổng EXP: 57,000 (+1,500 nhịp này)
+Không gian R&D: 40m²
+Kỹ năng trọng yếu: Công nghệ cao lv2, Quản trị dữ liệu lv2, Quản lý kho lv3
+Ghi chú: Hệ thống dự báo tồn kho đầu tiên — độ chính xác 82%
 ============================================================
+
+Teaser: Hệ thống dữ liệu mới đặt ra một nhu cầu cấp thiết: một trung tâm dữ liệu thực thụ. Và Dũng biết rằng nếu không xây dựng nó, toàn bộ hệ thống sẽ sụp đổ trước cơn bão tiếp theo.
