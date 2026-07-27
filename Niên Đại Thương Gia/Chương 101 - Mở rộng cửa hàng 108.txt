@@ -140,6 +140,8 @@ Dương cười, xuống 5%. Hùng xuống còn 4%. Bắt tay. Hợp đồng ký
 
 Bảy mặt bằng: Nguyễn Thái Học (một kho), Phan Văn Khỏe (bán lẻ), Hải Thượng Lãn Ông (bán buôn đông y), Trần Hưng Đạo (hai quầy: vải và thực phẩm khô), Châu Văn Liêm (bán lẻ), An Dương Vương (kho phụ). Một lần mở bảy điểm, doanh thu dự kiến tăng thêm 18 triệu/tháng.
 
+Lan thiết kế một mẫu "phiếu luân chuyển hàng" in ronéo — ba liên: một lưu kho xuất, một theo xe, một cho cửa hàng nhận. Cuối tuần đối chiếu ba liên, biết ngay lô nào thất lạc. Hùng nói: "Không cần máy tính, nhưng phải có hệ thống. Phiếu này là phần mềm của mình đấy."
+
 ——
 
 Tháng thứ ba: 45 → 72 cửa hàng.
@@ -194,7 +196,7 @@ Nhân sự: 184 người (kể cả Hùng và Lan). Trong đó: quản lý cửa
 
 Nợ: ngân hàng 180 triệu, tư nhân 0 (đã trả xong Lê Văn Phát), bạn hàng 63 triệu. Công nợ phải thu: 94 triệu. Hàng tồn: 312 triệu tính theo giá vốn.
 
-Hùng gấp sổ. Máy bay hạ cánh. Ông nhìn xuống Hà Nội — đèn điện đã nhiều hơn năm ngoái, nhưng vẫn thưa hơn Sài Gòn nhiều.
+Hùng gấp sổ. Máy bay hạ cánh. Ông nhìn xuống Hà Nội — đèn điện đã nhiều hơn năm ngoái, nhưng vẫn thưa hơn Sài Gòn nhiều. Trong sổ tay còn vài trang trống, ông phác thảo nhanh lịch nhập hàng tháng cuối năm: một container vải Đông Âu về cảng Hải Phòng tuần tới, phân bổ năm chục cửa hàng phía Bắc, mỗi điểm ba chục mét; ba tấn bột ngọt Thái chuyển vào Sài Gòn chia cho các điểm Nam Bộ; và lô hàng nhựa gia dụng từ một xưởng mới ở Hà Nội, đặt trước hai tháng với chiết khấu 12% — nếu bán hết trước Tết, lời thêm ít nhất chín mươi triệu. Ông gạch dưới dòng chữ "xưởng nhựa Hà Nội" và viết thêm: "xuống kiểm tra cuối tháng."
 
 ——
 
