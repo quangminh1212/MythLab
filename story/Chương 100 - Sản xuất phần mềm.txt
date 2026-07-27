@@ -1,0 +1,183 @@
+============================================================
+Chương 100: Sản xuất phần mềm
+============================================================
+
+1987. Một căn phòng nhỏ nằm sâu trong Khu công nghiệp — ba cái bàn gỗ ghép từ ván thùng, hai máy tính IBM PC XT 286 mang về từ Singapore, một ổ đĩa mềm 5.25 inch kêu rè rè mỗi lần đọc.
+
+"Sản xuất phần mềm" ở Việt Nam năm 1987 không giống bất cứ thứ gì sách vở phương Tây viết. Không có IDE. Không có Internet. Không có compiler bản quyền. Có một cuốn "Lập trình bằng ngôn ngữ BASIC" photo từ bản gốc tiếng Nga — chữ nhòe đến mức dấu ngoặc nhọn trông như dấu nháy — và một nhóm người chưa ai từng thấy dòng code nào trước năm ngoái.
+
+Thời điểm đó, máy tính ở Việt Nam là hàng xách tay. IBM PC XT 286 mua qua đường tay ba — từ Singapore về, qua một công ty xuất nhập khẩu ở quận 1, qua tay người quen của người quen, cuối cùng mới tới phòng máy này. Không có bảo hành. Service manual bằng tiếng Anh — Thắng phải mượn từ điển kỹ thuật của một kỹ sư Xô Viết đang làm ở nhà máy nhiệt điện Phả Lại, bản photo chữ Nga, chỉ dịch được mấy từ cơ bản. Mainboard có 640KB RAM gắn liền, không thể nâng cấp — muốn nhiều hơn thì phải mua thêm card mở rộng, nhưng card đó Việt Nam chưa ai bán. 
+
+Hùng đứng ở cửa, nhìn màn hình xanh lá — màn hình máy tính đầu tiên ông thấy trong đời. Một anh kỹ thuật viên tên Cường, tóc còn ướt mồ hôi buổi sáng, đang gõ lệnh sau dấu nhắc C:\>.
+
+"Chạy được chưa?" Hùng hỏi.
+
+"Chạy được rồi ạ. Nhưng…" Cường ngập ngừng. "Nhưng số liệu thử nó ra hơi lạ."
+
+"Lạ kiểu gì?"
+
+"Tổng thu nhỏ hơn tổng chi. Em ra đúng một nghìn ba. Anh bảo phải ra một nghìn bảy cơ."
+
+Hùng kéo ghế ngồi xuống. Ông không biết code — ông biết số. Năm 1987, phần mềm quản lý tài chính cho xí nghiệp quốc doanh là một thị trường trống. Nhà nước vừa ban hành chế độ hạch toán kinh tế độc lập, nhưng cả nước chưa có một phần mềm kế toán nào. Người ta vẫn dùng sổ tay, giấy kẻ ngang, và hy vọng.
+
+"Đưa anh xem chỗ cộng dồn," Hùng nói.
+
+Cường lật cuốn vở học sinh — bên trong ghi chép tay từng dòng lệnh. Không print-screen, không debugger. Lập trình năm 1987 ở Việt Nam là: code trong đầu, gõ ra màn hình, chạy thử, sai thì sửa từng dòng. Một vòng lặp FOR... NEXT chưa đóng có thể mất cả buổi sáng để dò.
+
+Hùng chỉ vào một dòng viết tay: "Chỗ này, em đóng NEXT ở đâu?"
+
+Cường nhìn. Mặt đỏ. "Em... em quên đóng ạ."
+
+"Quên thì sửa. Nhưng nhớ: phần mềm không tha thứ kiểu 'quên' như người. Nó chỉ chạy đúng hoặc không. Không có 'tàm tạm'."
+
+Cường gõ thêm dòng. Chạy lại. Số ra đúng một nghìn bảy. Cả phòng thở phào như vừa đỡ được một kiện hàng nghìn cân.
+
+---
+
+Phần mềm đầu tiên của Khu công nghiệp có tên nội bộ: HT-QL1 — Hệ thống Quản lý 1. Viết bằng Turbo Pascal 3.0, hai đĩa mềm 360KB. Chạy trên DOS 3.3, lưu dữ liệu bằng file .DBF tự tạo — không dBase thật, vì dBase bản quyền giá ngang một cái xe máy.
+
+Đội phát triển gồm bốn người. Cường — lập trình chính, tự học Pascal từ sách Nga dịch tay, biết tiếng Anh đủ đọc error message nhưng phải tra từ điển mỗi lần gặp chữ "overflow". Hải — phụ trách số liệu và thử nghiệm; test là tự gõ số thật vào, đối chiếu với sổ giấy. Trần Thị Lan — quản lý tiến độ và viết hướng dẫn sử dụng bằng tay, từng bước, cho người chưa biết máy tính. Và một kỹ sư điện tên Thắng — người duy nhất biết hàn mainboard, cài DOS, nối máy in kim Epson LX-800, và xử lý khi máy treo giữa giờ.
+
+Hùng không viết code — ông viết yêu cầu. Mỗi buổi sáng ông ngồi với một giám đốc xí nghiệp, hỏi họ cần theo dõi cái gì: nhập — xuất — tồn, công nợ, tiền lương, khấu hao tài sản cố định. Ông vẽ sơ đồ luồng dữ liệu bằng bút bi trên giấy kẻ ly — không biết đó gọi là flowchart, chỉ biết vẽ để Cường hiểu. Cường nhìn sơ đồ, hỏi lại hai ba lần, rồi mới dám gõ.
+
+Tuần đầu tiên: không một dòng code nào chạy đúng ngay lần đầu. Máy treo vì thiếu RAM — 640KB phải chia cho DOS (chiếm ~60KB), chương trình, và dữ liệu. Cường phải viết bằng overlay, nạp từng module từ đĩa mềm — mỗi lần nạp trung bình 15-20 giây, nếu đĩa mỏi thì có thể lâu hơn. Có hôm ổ đĩa A: không đọc được vì bụi khu công nghiệp bám vào đầu từ — cát mịn lọt qua khe thông gió, bám vào đĩa, làm mất dữ liệu. Thắng tháo ổ ra, lấy khăn mềm và cồn lau đầu từ — không có sách hướng dẫn, chỉ có tay nghề thợ điện. Mỗi lần tháo lắp mất hai tiếng. Có lần Thắng lắp ngược cáp dữ liệu — ổ chạy nhưng không đọc được, tưởng chết ổ, sau mới phát hiện cáp mắc ngược. Không có mạng mà hỏi — Hùng bảo gọi điện ra Hà Nội hỏi người quen. Cả tuần sau, mỗi lần xách máy tính về nhà, Thắng đều tháo ổ ra lau trước, như thợ bảo dưỡng vũ khí trước giờ ra quân.
+
+Đĩa mềm cũng là một vấn đề. Đĩa 5.25 inch mua từ chợ Giời — nhãn mác xóa mờ, hàng xách tay từ Liên Xô cũ. Trên mười đĩa thì hai ba cái bad sector. Cường phải quét từng cái bằng CHKDSK trước khi dùng. Đĩa nào có bad sector, Thắng dùng kim từ hóa lại từ track — một kỹ thuật truyền miệng trong giới thợ điện, không có tài liệu nào viết. 
+
+---
+
+Sáng thứ hai tuần thứ hai, Cường đến với một xấp giấy in — mã nguồn Pascal dài 47 trang, in bằng máy in kim Epson trên giấy in liên tục có lỗ hai bên. Hùng cầm xấp giấy, lật từng trang. Ông không hiểu hết từng dòng, nhưng ông hiểu cấu trúc: có đầu, có thân, có kết thúc. Giống một bản hợp đồng tốt.
+
+"Phần này — nhập liệu — đặt ở đâu?" Hùng hỏi.
+
+"Trang 12 tới trang 18 ạ."
+
+"Phần in báo cáo?"
+
+"Trang 30 tới 35."
+
+"Phần sửa lỗi khi gõ nhầm?"
+
+Cường im. "Em... chưa nghĩ tới."
+
+"Có nghĩa là nếu người ta gõ sai một số, họ phải gõ lại cả phiếu?"
+
+"Vâng."
+
+"Không được. Người nhập liệu là công nhân, họ sẽ mắc lỗi. Phần mềm phải cho họ sửa — không phải bắt họ gõ lại."
+
+Cường cắn môi. "Em tốn thêm ba ngày."
+
+"Ba ngày thì ba ngày. Phần mềm mà làm người dùng sợ thì không ai mua."
+
+Đó là bài học đầu tiên về UX — trước khi khái niệm UX có mặt ở Việt Nam.
+
+---
+
+Buổi tối, Hùng ở lại phòng máy. Ông không gõ code — ông ngồi nhìn Cường làm việc. Cường gõ từng dòng, chạy, lỗi, sửa, chạy lại. Mỗi lần chạy thử, ổ đĩa mềm kêu rè rè mất ba mươi giây để nạp. Nếu lỗi ở dòng đầu, mất ba mươi giây chỉ để biết là sai. Nếu lỗi ở dòng cuối, cũng mất ba mươi giây nhưng lần này có thêm cảm giác "gần xong rồi mà hỏng".
+
+"Không có cách nào chạy nhanh hơn?" Hùng hỏi.
+
+"Có ạ," Cường nói. "Mua ổ cứng. Hai mươi MB. Mười lăm nghìn đô."
+
+Hùng gật đầu, không nói gì. Mười lăm nghìn đô — bằng nửa năm lợi nhuận của ba xí nghiệp nhỏ cộng lại. Ông ghi vào sổ: "Mục tiêu 1988: ổ cứng 20MB. Hoặc giải pháp rẻ hơn."
+
+Giải pháp rẻ hơn là: viết code cẩn thận hơn để đỡ lần chạy thử. Hùng không nói ra, nhưng Cường hiểu. Từ hôm đó, Cường viết code ra giấy trước, dùng bút đỏ soát lỗi cú pháp, chỉ gõ vào máy khi đã chắc. Một lần, Hùng thấy Cường thức tới hai giờ sáng, soát gần năm trăm dòng Pascal bằng mắt thường — không có IDE, không có syntax highlight, chỉ có mắt và cái bút đỏ.
+
+---
+
+Đầu tháng thứ ba, bản demo HT-QL1 chạy ổn định trên một máy. Hùng quyết định mang đi trình diễn. Khách hàng đầu tiên là Xí nghiệp Cơ khí — một xưởng sản xuất phụ tùng xe máy với bốn trăm công nhân và một phòng kế toán chưa ai biết dùng máy tính.
+
+Buổi demo tổ chức trong phòng họp của xí nghiệp — bàn dài, ghế gỗ, nền xi măng. Cường mang máy tính đến, cắm điện, khởi động DOS. Màn hình xanh hiện lên dòng chữ "HT-QL1 — HỆ THỐNG QUẢN LÝ TÀI CHÍNH". Bốn ông kế toán ngồi nhìn, tay để trên bàn, mặt không biểu cảm. Họ đã làm việc với sổ giấy ba chục năm — viết tay từng dòng, tính bằng bàn tính gảy, tổng kết bằng mắt. Một cái máy có thể làm việc đó trong mười phút thay vì ba ngày — họ không tin. Họ sợ sai, sợ mất việc, sợ tin vào thứ họ chưa hiểu.
+
+Hùng làm việc đó trước — mời bà kế toán trưởng, người có thâm niên cao nhất, lên nhập thử một phiếu thu. Bà ta nhìn bàn phím như nhìn một cái máy khâu. Cường đặt một tờ giấy có vẽ bàn phím lên bàn — phím nào ở đâu, ghi chú bằng tiếng Việt: "Phím Enter — xuống dòng", "Phím F2 — lưu", "Mũi tên lên — đi lên".
+
+Bà kế toán gõ từng chữ một — chậm như đặt từng viên gạch — nhưng gõ xong, nhấn F2, máy lưu được. Màn hình báo "ĐÃ LƯU". Bà ta nhìn Hùng, nhìn màn hình, rồi khẽ gật đầu. Một cái gật đầu của người đã làm sổ sách ba mươi năm — có giá trị hơn mọi chữ ký hợp đồng.
+
+Hùng mời người kế toán thứ hai lên thử — ông trung niên, đeo kính dày, tay run run khi chạm phím. Ông ta gõ sai hai lần. Lần thứ ba hỏng vì quên nhấn Enter trước khi nhấn F2. Cường lại gần, chỉ lại từ đầu — kiên nhẫn hơn lần thứ nhất. Người thứ ba làm nhanh hơn — đã quan sát hai người trước. Người thứ tư chỉ gật, viết lấy một tờ giấy ghi tên các phím tắt. Người thứ tư là kế toán trưởng tương lai — Hùng nhìn cách ông ta ghi chép mà biết.
+
+Buổi demo kéo dài bốn tiếng. Bốn tiếng để bốn người lớn tuổi tin rằng một cái máy có thể làm thay ba ngày viết tay. Rời khỏi xí nghiệp, Cường nói: "Làm demo còn mệt hơn viết code." Hùng cười. "Code em viết trừu tượng — người ta mua mới chạy. Demo phải làm cho người ta thấy trước khi mua. Chi phí khác nhau, nhưng đều phải trả."
+
+Tháng sau, ba xí nghiệp khác đặt mua. HT-QL1 bắt đầu đi vào sản xuất thật.
+
+---
+
+Bán phần mềm năm 1987 không có đóng gói hộp. Giao hàng là: ba đĩa mềm 5.25 inch — đĩa 1 chương trình, đĩa 2 dữ liệu mẫu, đĩa 3 hướng dẫn sử dụng dạng text file. Mỗi bộ được photo thủ công — Cường dùng lệnh DISKCOPY để nhân bản. Có lần nhân bản lỗi vì đĩa nguồn bad sector, Thắng phải dùng phần mềm Norton Utilities để phục hồi. Hùng xem đó mà hiểu: phần mềm là hàng hóa đặc biệt — không phải cái bút cái bàn, sản xuất hỏng không thể đem ra cân lại.
+
+Phần mềm không có mùi, không có màu, không có trọng lượng — nhưng nó nặng bằng giấy chứng nhận thanh toán. Mỗi bản giao kèm một tờ "Giấy xác nhận đã nhận đủ — gồm 03 đĩa mềm, một bản in hướng dẫn, một phiếu hỗ trợ qua điện thoại trong 30 ngày." Cường thiết kế phiếu hỗ trợ trên giấy kẻ ngang, chữ viết tay — vì máy in kim chỉ in được chữ in hoa không dấu, trông như điện tín. Hùng bảo cứ viết tay cho dễ đọc. 
+
+Giá bán: 2.500 đồng một bản — tương đương hai tháng lương công nhân. Rẻ hơn bất kỳ phần mềm nhập khẩu nào, nhưng đắt với xí nghiệp quốc doanh. Hùng chấp nhận thanh toán làm ba đợt — một phần tiền mặt, một phần bằng vật tư. Có xí nghiệp trả bằng thép tấm. Có xí nghiệp trả bằng giấy in. Có xí nghiệp trả bằng cam — vì đó là thứ họ có.
+
+Hùng không từ chối. "Hàng đổi hàng là cách làm ăn thời bao cấp," ông nói với Lan. "Nhưng nếu mai mốt họ quen dùng phần mềm, họ sẽ trả bằng tiền. Mình đào tạo thị trường trước."
+
+Lan ghi vào sổ kế toán: "HT-QL1 — doanh thu tháng đầu: 2.500 đồng tiền mặt + 200kg thép tấm + 500kg cam." Bên cạnh, cô viết bằng bút chì: "Khoản phải thu năm sau: nhiều."
+
+Bản cài đặt đầu tiên tại xí nghiệp mất hai ngày. Ngày thứ nhất: Cường cài DOS, cấu hình CONFIG.SYS và AUTOEXEC.BAT — mỗi lần treo máy phải gõ lại từ đầu vì không có file backup. Ngày thứ hai: Hải kèm kế toán nhập dữ liệu thật để đối chiếu, phát hiện ba lỗi khiến số liệu lệch do Cường chưa xử lý đúng kiểu dữ liệu ngày tháng. "Tưởng mùng 5 tháng 5 là ngày tháng năm," Cường nói. "Nhưng máy nó nhảy thành tháng 5 ngày 5. Cái này em viết sai format." Sửa xong format ngày, tổng kiểm từ tháng 1 đến tháng 6 khớp từng đồng. Cả phòng kế toán — lần đầu tiên — thấy máy đối chiếu nhanh hơn người. 
+
+---
+
+Một buổi tối cuối năm 1987, đội ngồi lại trong phòng máy. Bốn người — Cường, Hải, Lan, Thắng — cộng với Hùng. Trên bàn là một ổ bánh mì và ly trà đá. Màn hình DOS đang hiển thị dòng chữ "HT-QL1 VERSION 1.0 — 1987". Cường đã viết tổng cộng 2.847 dòng Pascal — gồm chương trình chính, ba module phụ, và file cấu hình. Mỗi dòng được test ít nhất một lần. Có dòng test mười lần. Có dòng Cường viết, xóa, viết lại tới sáu lần — vì nhìn thấy cách tối ưu hơn khi đang ăn cơm, chợt nghĩ ra, đặt bát xuống chạy ra sửa.
+
+"Phần mềm này giúp được bao nhiêu xí nghiệp?" Cường hỏi. Câu hỏi của người vừa kịp tin rằng mình có thể làm phần mềm. Anh ta muốn biết giới hạn — không phải của code, mà của thị trường. Hai tháng trước, Cường còn gõ lệnh bằng ngón tay run, không biết DOS là gì ngoại trừ mấy dòng hiện ra sau khi bật máy. Bây giờ anh ta có thể viết 500 dòng không lỗi cú pháp, biết cách tối ưu vòng lặp, biết khi nào nên dùng file text thay vì biến mảng. Hai tháng — từ zero tới sản phẩm đầu tiên. Ở Việt Nam năm 1987, đó là một tốc độ không tưởng.
+
+Hùng nhìn tờ giấy kế hoạch. "Tới cuối năm tám mươi tám, mười hai xí nghiệp. Nếu làm được cái HT-QL2 cho ngành dệt may, thêm sáu cái nữa."
+
+"Anh tính bán phần mềm? Hay bán dịch vụ?"
+
+"Cả hai. Phần mềm là cái vỏ. Dịch vụ là cái ruột. Không có vỏ thì ruột không đứng được; không có ruột thì vỏ chỉ là đĩa nhựa."
+
+Cường cười. "Nghe như triết lý."
+
+"Triết lý làm ăn," Hùng nói, rót trà. "Em viết phần mềm xong, khách mua xong, rồi họ không biết dùng, hoặc dùng sai, hoặc hỏng số liệu — họ sẽ quay ra bảo 'cái này vô dụng'. Lúc đó, em có đi tranh luận 'phần mềm em tốt' cũng vô ích. Cái họ cần là người chỉ họ cách dùng, sửa khi hỏng, nâng cấp khi cần. Đó là dịch vụ."
+
+"Thế sao không gọi luôn là công ty dịch vụ?"
+
+"Vì mai mốt em muốn bán phần mềm ra nước ngoài," Hùng nói. "Dịch vụ là chân — giữ mình đứng vững. Phần mềm là tay — vươn ra xa. Thiếu chân thì đổ; thiếu tay thì không lớn."
+
+Cả phòng im. Thắng gãi đầu. Hải nhìn lên trần — tính toán điều gì đó trong đầu. Một lúc sau Thắng nói nhỏ: "Nói thế, coi bộ tụi mình đang làm cái gì lớn thiệt hả anh?"
+
+"Lớn hay nhỏ không quan trọng," Hùng nói. "Đúng là quan trọng. Bây giờ, ra khỏi phòng này, mình bảo 'tụi tôi viết phần mềm' — người ta chưa tin. Nhưng vài năm nữa, ba cái đĩa mềm này, mấy trăm dòng Pascal này, sẽ là cái nền cho thứ gì đó lớn hơn. Các em không cần tin lời anh nói. Các em nhìn số xí nghiệp đặt mua năm sau so với năm nay là thấy."
+
+Hải ngập ngừng: "Nhưng phần mềm thì ai cũng copy được. Mua một bản, DISKCOPY ra năm bản. Thế nào người ta chẳng làm."
+
+"Mười năm trước, ai cũng nghĩ thế về bản vẽ kỹ thuật. Nhưng người ta không mua bản vẽ — người ta mua cái bản vẽ đó giải quyết được bài toán gì. Cứ cho họ copy. Bản copy không có hướng dẫn, không có nâng cấp, không có ai tới cài lại khi DOS treo. Họ sẽ quay lại mua bản chính khi thấy copy không đủ."
+
+---
+
+--- PHẦN CUỐI: ĐIỀU HƯỚNG VÀ GHI SỔ ---
+
+Hệ thống Thương Gia hiện lên không cần Hùng mở. Nó ở đó — một bảng số liệu lơ lửng giữa màn hình DOS và đèn huỳnh quang:
+
+
+Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1987 — được rồi.'
+
+
+Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1987 đã cho ông nhiều hơn ông tưởng. Ông gập sổ tay, đặt trên bàn, tắt đèn — ngày mai còn việc mới.
+「Hệ thống Thương Gia」
+Năm: 1987
+Thông báo: Cột mốc 10 chương — +EXP, mở rộng không gian
+HT-QL1 v1.0 — Bắt đầu chuỗi sản phẩm phần mềm
+
+Hùng nhìn dòng chữ. Ông không ấn tượng với con số EXP — ông ấn tượng với ba cái đĩa mềm trên bàn. Phần mềm đầu tiên của một người chưa từng học lập trình. Sản phẩm của một đội bốn người — ba người chưa từng rời Việt Nam, một người chỉ biết hàn mainboard. Nhưng họ đã làm được cái thứ mà cả nền công nghiệp Việt Nam chưa ai làm: gói kiến thức vào đĩa mềm và bán nó như một sản phẩm.
+
+Đêm đó, khi cả đội tan, Hùng về nhà. Bà Hà hỏi: "Ăn chưa?"
+
+"Ăn vội rồi," Hùng nói. "Nhưng mà... nay vui."
+
+Bà Hà nhìn ông, không hỏi thêm — chỉ đặt chén nước chè lên bàn. Hùng ngồi uống, nhìn ra sân, nghĩ về mấy dòng Pascal đã chạy đúng, về bà kế toán trưởng gật đầu, về ba đĩa mềm sắp giao. Một cảm giác ông chưa từng có: thứ ông đang làm không chỉ đẻ ra tiền — nó đẻ ra một thứ mà thời gian không xóa được.
+
+Trước khi ngủ, ông viết vào sổ tay:
+12/1987 — HT-QL1 chạy ổn. Bốn xí nghiệp. Còn nhỏ. Nhưng đúng hướng.
+
+Phía dưới, ông vẽ thêm một đường gạch ngang — và viết thêm một câu:
+"Ngày hôm nay, có một xí nghiệp ở Hà Nội không cần gõ tay ba lần một số — vì cái phần mềm mình viết. Đó là lý do để mai dậy sớm."
+
+============================================================
+「Hệ thống — CỘT MỐC ch.100」
+Năm: 1987
+Tổng EXP: 16,500 (+182 nhịp này)
+Không gian kho: 5,500m² (+45m²)
+Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
+<!-- END_MARKER_DO_NOT_REMOVE -->

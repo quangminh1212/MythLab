@@ -1,0 +1,158 @@
+============================================================
+Chương 232: Tái khởi động sản xuất
+============================================================
+
+Năm 2008, tại Khu công nghiệp. Cơn khủng hoảng tài chính toàn cầu đã quét qua như một trận lũ — không phân biệt lớn nhỏ, không hỏi tên tuổi. Những nhà máy nằm im, dây chuyền ngưng chạy, công nhân ngồi ở cổng chờ tin. Hùng đứng trước cánh cửa xưởng chính, chìa khóa nặng trong tay. Mùi dầu máy cũ vẫn còn — thoang thoảng, như một ký ức chưa chịu bay đi.
+
+Ba tháng. Ba tháng nhà máy đóng cửa vì đơn hàng đứt đoạn, ngân hàng thắt tín dụng, và cái cảm giác bất an phủ lên cả khu công nghiệp như một tấm màn. Bây giờ, giữa tháng Mười một 2008, Hùng mở lại. Không phải vì thị trường đã hồi phục — vì nếu chờ thị trường hồi phục mới sản xuất thì đã muộn. Sản xuất là để tạo ra thị trường, không phải đợi thị trường tạo ra sản xuất.
+
+Ông đẩy cửa. Tiếng sắt kẽo kẹt vang lên, hất tung lớp bụi lắng ba tháng nay. Ánh sáng xuyên qua ô kính bẩn, chiếu lên những dây chuyền nằm bất động — những con thú sắt đang ngủ đông. Hùng bước vào, mỗi bước chân in dấu trên nền xi măng phủ đầy mạt sắt và bụi khô. Ông đặt tay lên thân máy đầu tiên — lạnh. Lạnh quá lâu.
+
+"Bật điện," ông nói với người thợ điện đứng sau lưng — một người đàn ông trạc bốn mươi, tên Tuấn, đã theo ông từ những ngày đầu xây xưởng.
+
+"Anh Hùng, em kiểm tra rồi. Hệ thống điện vẫn ổn, nhưng mấy con máy nằm lâu quá, dầu khô, vòng bi có chỗ kẹt. Chạy thử phải canh từng con, không thể chạy đồng loạt."
+
+"Chạy từng con," Hùng đáp. "Con nào chạy được thì cho chạy. Con nào không thì sửa. Ngày hôm nay không cần ra hàng — chỉ cần máy thở lại."
+
+Tuấn gật đầu, quay ra ra hiệu cho đội kỹ thuật. Tiếng cầu dao bật lên, tiếng rờ le nhảy, tiếng động cơ điện rên lên như một người vừa tỉnh giấc sau cơn mê. Máy số một — im. Máy số hai — rùng mình, rồi quay. Máy số ba — có tiếng nhưng không quay, kẹt cứng. Tuấn lao đến, tay vặn van dầu, miệng lẩm bẩm những câu chửi thề mà Hùng chấp nhận, thậm chí còn thấy yên tâm. Thợ mà không chửi khi máy hỏng là thợ không có trách nhiệm.
+
+Cả buổi sáng trôi qua trong tiếng máy lúc nổ lúc ngừng, tiếng mỏ lết gõ kim loại, tiếng hét gọi nhau qua tiếng ồn. Hùng cởi áo khoác, xắn tay áo, lao vào cùng — có lúc cầm đèn pin soi gầm máy, có lúc đẩy xe linh kiện, có lúc chỉ đứng yên và nhìn. Cái nhìn của ông lúc này không phải để kiểm tra — để động viên. Một người lãnh đạo xuất hiện giữa khói dầu và bụi sắt, tay bẩn như công nhân, là một thông điệp tự nó đã là sản phẩm.
+
+Giữa trưa, xe cơm tới. Bà bán cơm — một người phụ nữ gầy, nhanh nhẹn, đã bán cho xưởng từ ngày đầu — mở nắp thùng xốp, hơi nóng bốc lên thơm mùi thịt kho và canh chua. Hùng xếp hàng cùng công nhân, cầm suất cơm hộp, ngồi xuống bậc thềm ăn. Không bàn riêng, không phòng riêng. Tay ông còn dính dầu mỡ, lau qua vào quần rồi cầm đũa. Một người thợ trẻ nhìn ông, ngập ngừng, rồi hỏi:
+
+"Anh Hùng, lần này mở lại có sợ không?"
+
+Hùng nhai xong miếng cơm, nuốt, mới trả lời:
+
+"Có."
+
+"Có sao anh vẫn mở?"
+
+"Vì sợ không phải lý do để đóng. Sợ là lý do để cẩn thận hơn, không phải dừng lại."
+
+Người thợ trẻ gật gù, không hỏi thêm. Câu trả lời đủ với hắn. Cơm trưa ăn xong, người nào người nấy trở lại vị trí. Hùng thấy mệt nhưng không thấy oán — đó là mức ông chấp nhận được. Khi nào công nhân bắt đầu oán, ông biết mình đã sai ở đâu đó.
+
+Buổi chiều, Trần Thị Lan tới. Cô mặc áo sơ mi trắng, quần tây, tay cầm tập hồ sơ dày — khác hẳn dáng vẻ lấm lem của những người đàn ông trong xưởng. Nhưng cô không ngại bước vào, không ngại bụi bặm. Lan đã đi cùng Hùng đủ lâu để biết: sạch sẽ trên giấy tờ là chuyện của phòng kế toán; sạch sẽ ngoài xưởng là chuyện của ảo tưởng.
+
+"Anh, em tổng hợp số liệu tồn kho và công nợ. Trong ba tháng đóng cửa, mình vẫn phải trả lương bảo vệ, chi phí kho bãi, và một số hợp đồng bảo trì. Tổng chi phí cố định ba tháng là gần hai tỷ."
+
+Hùng gật. "Còn khách?"
+
+"Khách cũ — tám trong số mười hai đơn vị nói có thể quay lại nếu mình có hàng trong tháng này. Ba đơn vị nói họ đã ký với đối thủ vì mình ngừng giao. Một đơn vị không trả lời."
+
+"Có khách mới không?"
+
+"Có ba đầu mối tiềm năng, nhưng họ muốn xem hàng mẫu trước. Em đã hẹn họ tuần sau."
+
+Hùng gật lần nữa. Lan làm việc có hệ thống, không cần ông nhắc. Cô đã học được bài học lớn nhất: không hứa, không tung tin — chỉ giao việc xong, rồi báo cáo việc đã xong. Những người làm việc kiểu đó là vàng trong thời khủng hoảng.
+
+"Em đặt mẫu thử lên bàn cho anh," Hùng nói. "Sáng mai họp. Ai khen đẹp thì khen; ai chỉ lỗi được mời ngồi gần hơn."
+
+Lan cười — cái cười nhẹ, hiểu ý. Cô quay ra xe, lấy mẫu hàng vừa sản xuất thử từ dây chuyền phụ. Mấy sản phẩm đầu tiên sau ba tháng ngưng trệ — không hoàn hảo, nhưng đủ để chứng minh rằng xưởng còn sống.
+
+Buổi chiều muộn, Hùng đi một vòng quanh khuôn viên nhà máy. Công nhân ca chiều đã vào, không khí khác hẳn buổi sáng — có tiếng cười, có tiếng gọi nhau, có cả tiếng radio cũ phát nhạc từ một góc xưởng. Hùng không cấm radio. Một xưởng có nhạc là một xưởng người ta không sợ hãi. Và trong lúc tái khởi động, không khí sợ hãi là thứ nguy hiểm nhất — nó làm hỏng tay nghề, làm căng thẳng quyết định, làm người ta che lỗi thay vì sửa lỗi.
+
+Ông dừng lại chỗ dễ bỏ qua nhất: góc tối nơi đặt máy nén khí, quầy phụ gia công chi tiết nhỏ, ca muộn nhất vừa vào. Hỏng thường nấp ở đó — không phải vì người ta cố tình, mà vì những chỗ ít ai nhìn là chỗ người ta dễ lơ là. Hùng nhìn, ghi nhớ, không nói. Nếu thấy gì bất ổn, ông sẽ nói sau — riêng với người phụ trách, không làm mất mặt ai trước đám đông.
+
+Đến năm giờ chiều, dây chuyền chính chạy được. Chưa hết tốc độ, chưa đạt công suất — nhưng chạy. Tiếng máy dập đều đặn, nhịp nhàng, như một trái tim vừa đập lại sau cơn ngừng. Hùng đứng cạnh bảng điều khiển, xem kim áp suất nhích lên, xem nhiệt độ lò đạt ngưỡng, xem sản phẩm đầu tiên ra khỏi khuôn — còn xước nhẹ ở mép, nhưng ra được. Không pháo hoa, không vỗ tay. Chỉ có tiếng máy và hơi nóng tỏa ra, và một vài người thợ nhìn nhau, thở ra một hơi mà họ đã nín ba tháng nay.
+
+Ông Tam tới — người thợ già nhất xưởng, tóc đã bạc, lưng đã còng, nhưng mắt vẫn tinh. Ông cầm chi tiết vừa ra, đưa lên mắt, xoay qua xoay lại, rồi đặt xuống bàn.
+
+"Được," ông Tam nói. "Chưa đẹp, nhưng được. Cho chạy thêm một trăm cái, xem độ ổn định."
+
+Hùng không can thiệp. Ông để người thợ già làm việc của mình. Một người quản lý giỏi không phải là người biết tất cả — là người biết ai biết cái gì, và để họ làm. Hùng giỏi ở chỗ ông không bao giờ quên: chính những người thợ mới là người hiểu máy nhất, hiểu nguyên liệu nhất, hiểu cái lỗi sẽ xuất hiện ở đâu trước khi nó xuất hiện.
+
+Buổi tối, đèn xưởng sáng. Ca tối bắt đầu. Hùng không về ngay — ông ngồi lại phòng nhỏ cuối xưởng, mở sổ tay bìa cứng. Dưới ánh đèn bàn cũ, ông ghi:
+
+_Tái khởi động sản xuất — ngày một._
+_Dây chuyền số 1: chạy 60%._  
+_Dây chuyền số 2: sửa van dầu, dự kiến chạy ngày ba._  
+_Công nhân: 43/67 có mặt. Số còn lại đang gọi; một số đã chuyển việc trong ba tháng đóng cửa._  
+_Đơn hàng đầu tiên: chưa có, phải chạy mẫu trước._  
+_Chiphí cố định ba tháng: ~2 tỷ — nợ chưa trả nhưng đã thương lượng được giãn._  
+_Áp lực truyền thông: một bài báo nhỏ hỏi "Thương Gia có trụ được không?" — chưa trả lời._
+
+Hùng ngồi nhìn những dòng chữ. Ông không viết cho ai — viết để tự kiểm. Sáng mai, cuộc họp đầu tiên sau tái khởi động sẽ diễn ra. Ông sẽ mời tất cả — từ tổ trưởng sản xuất, kế toán, thợ cả, đến người giữ kho. Ai cũng có tiếng nói, nhưng quyết định cuối cùng chỉ một người chịu.
+
+Ông nhìn lên bảng trắng trên tường nơi dán tờ lịch 2008. Tháng Mười một, chỉ còn vài tuần nữa là sang năm mới. Khủng hoảng chưa qua. Mỹ, châu Âu vẫn đang lao đao. Nhưng Việt Nam, kỳ lạ thay, bắt đầu thấy những tín hiệu ngược — dòng kiều hối vẫn chảy, tiêu dùng nội địa vẫn trụ, và những người biết nắm cơ hội có thể vươn lên ngay giữa bão. Hùng không muốn vươn lên — ông chỉ muốn đứng vững. Nhưng thương trường không có chỗ cho người chỉ muốn đứng vững. Đứng yên trong bão là ngã, không phải trụ.
+
+Điện thoại reo. Số của ngân hàng — một giọng nữ lịch sự nhưng lạnh:
+
+"Anh Hùng, khoản vay ưu đãi phục hồi sản xuất của anh đã được xét duyệt. Ngân hàng giải ngân trong tuần này, nhưng anh cần ký phụ lục về tài sản đảm bảo bổ sung."
+
+"Tài sản nào?"
+
+"Căn nhà mặt phố trên đường Nguyễn Huệ."
+
+Hùng im lặng. Căn nhà đó — nơi đặt văn phòng đại diện đầu tiên khi Thương Gia bắt đầu vươn ra toàn quốc. Ông mua nó năm 1999, sửa sang, treo biển. Nó không chỉ là tài sản — nó là một cột mốc. Đưa nó làm đảm bảo nghĩa là nếu hỏng, ông mất không chỉ tiền, mà mất một phần ký ức.
+
+"Để tôi xem," ông nói. "Sáng mai tôi trả lời."
+
+Ông cúp máy, ngồi yên. Ánh đèn vàng hắt lên tường, bóng ông đổ dài. Trong phòng chỉ còn tiếng quạt trần quay đều và tiếng máy từ xưởng vọng vào — âm thanh của sự sống đang hồi phục.
+
+Thì ra "tái khởi động sản xuất" không chỉ là bật công tắc máy. Nó là bật lại niềm tin — của ngân hàng, của khách hàng, của công nhân, và của chính mình. Và niềm tin, không giống máy móc, không có công tắc.
+
+Hùng đứng dậy, đi ra xưởng lần cuối trước khi về. Ca tối đang chạy, bốn người thợ túc trực bên dây chuyền, mắt dán vào sản phẩm. Một người trong số họ — thợ trẻ tên Phong, hỏi ông buổi sáng — nhìn thấy ông, giơ ngón cái. Hùng gật đầu, cười khẽ.
+
+Một cái giơ ngón cái từ một thợ trẻ. Không phải báo cáo, không phải số liệu. Nhưng với Hùng, nó đáng giá hơn một cuộc họp cổ đông.
+
+Trên đường về, xe chạy chậm qua những con đường khu công nghiệp tối lửa tắt đèn. Những nhà máy bên cạnh vẫn đóng im lìm, cổng khóa, bảo vệ ngồi hút thuốc trong nhà gác. Hùng biết nhiều chủ xưởng không dám mở lại. Họ sợ mở ra rồi không có đơn hàng, sợ không trả nổi lương, sợ thua lỗ thêm. Nỗi sợ đó có lý. Nhưng Hùng chọn cách khác: sợ thì sợ, nhưng vẫn làm. Có một câu ông đọc ở đâu đó — "can đảm không phải là không sợ, mà là làm điều đúng đắn dù đang sợ". Ông không nhớ nguồn, nhưng nhớ nghĩa.
+
+Về đến nhà, đồng hồ chỉ mười giờ tối. Bà Hà mở cửa, không hỏi gì nhiều — chỉ nhìn ông từ đầu đến chân, thấy quần áo lấm lem, thấy quầng thâm dưới mắt, thấy hơi thở dài. Bà xoay vào bếp, hâm lại canh, bới cơm. Mâm cơm tối muộn nhưng vẫn đầy đủ — canh rau nấu tôm, cá rán, đĩa rau luộc. Món ăn của một người vợ biết chồng mình sẽ về muộn và sẽ đói.
+
+Trần Thị Lan cũng chưa ngủ — cô ngồi ở bàn, sửa lại danh sách khách hàng cho cuộc họp ngày mai. Bà Hà nhìn hai người — chồng và con dâu (hay con gái nuôi từ nhỏ, tùy lúc gọi) — và thở dài. Bà không than, không nói "sao vất vả quá". Bà lặng lẽ bưng nước vối ra, đặt cạnh ông, rồi ngồi xuống ghế.
+
+"Có khó lắm không?" bà hỏi.
+
+"Có," Hùng đáp.
+
+"Thì biết rồi. Hỏi có làm nổi không?"
+
+Ông nhìn bà. Ở tuổi này, qua bao thăng trầm, bà Hà không còn hỏi những câu để nghe an ủi. Bà hỏi để biết hướng. Và bà sẽ im lặng nếu thấy ông cần im lặng, sẽ nói nếu thấy ông cần một tiếng nói khác.
+
+"Làm nổi," Hùng nói. "Nhưng phải cầm cố thêm căn nhà Nguyễn Huệ."
+
+Bà Hà không đổi sắc mặt. "Thì cầm. Nhà còn lại ở, đất còn lại trồng rau. Không mất được đâu."
+
+Ông nhìn bà, thấy cái chắc chắn không cần giải thích. Một người vợ như vậy là một nửa sức mạnh không bao giờ hiện trên bảng cân đối kế toán.
+
+Lan ngẩng lên: "Anh, em tính lại. Nếu mình cầm nhà Nguyễn Huệ được giải ngân trong tuần, cộng với dòng tiền từ hai hợp đồng cũ sắp thanh toán, em nghĩ mình đủ vốn lưu động cho ba tháng tới mà không cần thêm vay. Sau ba tháng, nếu thị trường hồi phục đúng như dự báo của anh, mình sẽ có lãi trở lại."
+
+"Dự báo của anh," Hùng nói, "là dựa trên năm phần số liệu và năm phần linh cảm. Linh cảm không đưa vào báo cáo tài chính được."
+
+"Không đưa vào báo cáo được," Lan đồng ý, "nhưng em biết linh cảm của anh chưa sai lần nào."
+
+Hùng không đáp. Ông không muốn Lan dựa vào linh cảm của ông — ông muốn cô dựa vào số liệu và logic. Nhưng tối nay, ông không sửa cô. Tối nay, ông cần một người tin, không cần một người kiểm.
+
+Ăn xong, Hùng ra sân, nhìn lên trời. Đêm cuối thu trong vắt, sao đầy trời. Ông nhớ lại những ngày đầu — không máy móc, không nhà xưởng, chỉ có đôi bàn tay và một cái đầu đầy ký ức từ kiếp trước. Từ đó đến nay, tập đoàn đã lớn, đã vượt qua bao sóng gió. Cuộc khủng hoảng 2008 này là cơn bão lớn nhất, nhưng không phải là cuối cùng. Và nếu ông đã vượt qua những ngày chưa có gì, thì ông cũng sẽ vượt qua ngày hôm nay — với một nhà máy vừa thở lại, với một đội ngũ vẫn còn đó, với một gia đình vẫn đợi cơm tối muộn.
+
+Trước khi vào ngủ, ông viết thêm vào sổ:
+
+_Hôm nay không có ai bị bỏ lại._
+_Công nhân về đủ, ăn cơm trưa đủ, máy chạy được._
+_Mai họp khách hàng mới._
+_Căn nhà Nguyễn Huệ có thể mất, nhưng Thương Gia thì không._
+_Ngày mai lại bắt đầu._
+
+Hệ thống trong đầu ông sáng lên, hiện ra bảng quen thuộc như một nhịp tim không bao giờ ngừng. Ông gật với chính mình, gấp sổ, tắt đèn.
+
+Dưới ánh đèn đường vàng, mái nhà nhỏ trong khu lao động lặng im. Bên trong, một người đàn ông vừa quyết định một canh bạc lớn nhất đời mình — và ngủ được.
+
+============================================================
+
+Hùng viết vào sổ tay, dòng cuối: 'Tái khởi động — thành công bước một. Bước hai: ký hợp đồng mới. Bước ba: giữ người.' Rồi tắt đèn.
+
+Kỹ sư Minh báo cáo: "Năng suất ngày đầu — 78% so với trước khủng hoảng. Nếu duy trì đà này, cuối tháng sẽ đạt 95%." Hùng gật, không nói gì. Minh biết: với Hùng, gật là đủ.
+
+Giữa ca, Hùng vào nhà ăn, ngồi cùng tổ lắp ráp. Bác bảo vệ già mang ra ấm trà nóng: "Hôm nay thấy ông cười." Hùng nâng chén trà, nhìn quanh xưởng — tiếng máy chạy, người thợ đang tra nốt con ốc trên thân xe. "Vẫn chạy được," Hùng nói. "Chạy được là mình còn sống."
+
+Cuối ca, tổ trưởng mang sổ giao ca đến. Hùng ký, ghi thêm một dòng: 'Ngày 15 — sản xuất ổn định. Tuyển thêm 5 thợ. Bắt đầu chạy ca đêm từ tuần sau.' Ông đưa lại cuốn sổ, vỗ vai tổ trưởng. "Cố vài tháng nữa, qua cơn bão."
+
+「Hệ thống — GHI NHẬN ch.232」
+Năm: 2008
+Tổng EXP: 48,211 (+474 nhịp này)
+Không gian kho: 17,895m² (+263m²)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: sổ cái khớp system_ledger — không double-book
+Mở lại nhà máy sau ba tháng đóng cửa vì khủng hoảng 2008. Dây chuyền chính chạy 60%. Nhân sự 43/67. Cầm cố bất động sản. Họp khách ngày mai.
+============================================================

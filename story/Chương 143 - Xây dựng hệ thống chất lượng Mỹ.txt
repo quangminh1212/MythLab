@@ -1,0 +1,182 @@
+============================================================
+Chương 143: Xây dựng hệ thống chất lượng Mỹ
+============================================================
+
+Los Angeles, cuối tháng năm 1990. Trời nóng đến ba mươi lăm độ, nhưng cái nóng California khô khốc, khác hẳn cái oi của Sài Gòn. Hùng ngồi trong văn phòng nhỏ Linda cho mượn — một góc kho có máy lạnh, bàn gỗ công nghiệp, tủ sắt cũ, và một cái quạt trần quay chậm. Trên bàn là xấp tài liệu dày gần hai trăm trang — tiêu chuẩn kỹ thuật Mỹ cho hàng may mặc nhập khẩu.
+
+Người phiên dịch — một sinh viên Việt Nam học tại UCLA — đã giúp ông dịch tiêu đề các mục. Nhưng nội dung bên trong thì Hùng phải tự đọc, tự hiểu. Ông đánh dấu những chỗ mình không rõ, dùng từ điển tra, ghi chú bằng bút chì bên lề. Có những tiêu chuẩn dài mười trang chỉ để nói về cách đo kích thước cổ áo.
+
+Hùng gập tập tài liệu, nhìn ra cửa sổ, nơi một chiếc xe tải đang lùi vào dock số 4. Ông không phải kỹ sư, không phải luật sư, không phải chuyên gia hải quan. Ông là thương nhân. Nhưng để hàng Việt Nam đứng vững trên kệ Mỹ, ông phải hiểu tất cả — hoặc ít nhất biết đủ để hỏi đúng người.
+
+---
+
+Hùng bắt đầu từ dưới lên. Không vẽ sơ đồ tổ chức trước — vẽ ra làm gì khi chưa biết ai làm được việc. Bước một: ông thuê hai người Việt tại Mỹ — một người biết kiểm hàng, một người biết giấy tờ. Người kiểm hàng tên Phạm, bốn mươi lăm tuổi, từng làm quản đốc xưởng may cho một hãng Đài Loan. Người giấy tờ tên Hạnh, ba mươi tuổi, vừa tốt nghiệp MBA tại một trường tiểu bang.
+
+Phạm bắt đầu việc bằng cách đi từng lô hàng, từng kiện, từng cái áo. Ông ta lấy một cái thước dây, đo cổ áo, ngực áo, tay áo, so với spec. Sai lệch cho phép: 0,5 inch. Ngoài 0,5 inch — trả. Phạm không hỏi ý kiến Hùng mỗi lần phát hiện lỗi. Nhưng ông ghi vào phiếu kiểm, dán lên kiện hàng, chụp ảnh.
+
+Hạnh ngồi trong văn phòng, xếp giấy tờ. Cô tạo một bộ hồ sơ mẫu cho mỗi lô: packing list, invoice, C/O, báo cáo kiểm hàng, ảnh chụp lô hàng. Mỗi thứ ba bản: một cho hải quan, một cho người mua, một lưu. Hùng thấy cách làm việc của cô có hệ thống. Khi ông hỏi ai dạy, Hạnh nói: "Người Mỹ dạy em. Trường em dạy xong là phải xếp lại gọn, có ai hỏi là lấy ra được ngay."
+
+Hùng gật. Ông ghi vào sổ: "Hai người — hai việc — một hệ thống. Hệ thống không cần đẹp. Cần kiểm được."
+
+---
+
+Mark từ Chicago gọi. Lô đầu đã tới, đã kiểm, đã nhập kho. Ông ta không khen. "Lần này sạch. Lần sau, tôi muốn gấp đôi. Anh làm được không?"
+
+Hùng không nói "có" ngay. "Tôi cần xem lại năng lực xưởng. Cuối tuần tôi trả lời."
+
+Mark không tỏ ra khó chịu. "OK. Cuối tuần."
+
+Hùng thấy rõ: ở Mỹ, không ai bắt ép. Họ hỏi, anh trả lời. Nếu anh nói không, họ tìm người khác. Nếu anh nói có mà không làm được, họ nhớ tên anh. Hệ thống này khắc nghiệt nhưng công bằng — không có lý do, không có ơn nghĩa.
+
+Tối, Hùng gọi điện về Việt Nam. Lan ở đầu dây kia, giọng tỉnh táo dù đã khuya. Anh bảo: "Mình cần mở rộng năng suất thêm một trăm phần trăm trong hai tháng. Tính cho anh xem cần thêm bao nhiêu máy, bao nhiêu người, bao nhiêu vốn."
+
+Lan im lặng. Tiếng giấy sột soạt. "Em sẽ tính. Sáng mai em gửi fax qua."
+
+"Không gửi fax. Gọi. Fax có thể đọc sai số."
+
+Lan hiểu. Cô nói thêm: "Anh Hai, ở nhà có tin đồn anh ở Mỹ thua lỗ nên không dám về. Em cãi rồi. Nhưng anh nên cẩn thận."
+
+"Anh biết."
+
+Hùng cúp máy. Tin đồn — thứ vũ khí của những người không dám đi. Ông không bận tâm. Không phải vì không sợ, mà vì có việc khác đáng sợ hơn: giao hàng không đúng hẹn.
+
+---
+
+Hạnh mang tới cho Hùng một cuốn catalogue — đường kính chỉ dày, bìa đen, xoay ốc. Đó là bộ tiêu chuẩn kỹ thuật của một nhà nhập khẩu lớn, mà cô xin được từ một người bạn. Hùng lật từng trang. Họ liệt kê từng loại vải, từng loại chỉ, từng loại khuy, từng kiểu đường may. Mỗi cái có mã số, hình vẽ, chỉ số chịu lực, hướng dẫn kiểm tra. Không có chỗ nào mập mờ.
+
+Hùng hỏi Hạnh: "Cô nghĩ xưởng Việt Nam mình làm được không?"
+
+Hạnh nhìn vào catalogue, lật vài trang, rồi gật. "Được. Nhưng phải đầu tư thêm máy. Máy hiện tại chỉ đạt khoảng 70%."
+
+"70% là bao nhiêu — tính bằng tiền?"
+
+Hạnh lấy máy tính, bấm năm phút. "Khoảng bốn mươi lăm nghìn đô. Máy mới, máy vắt sổ, máy ép keo, bàn ủi công nghiệp."
+
+Hùng viết con số vào sổ. Không rùng mình, không hoảng. "Được. Tôi sẽ sắp xếp."
+
+Hạnh nhìn ông. "Anh không hỏi lại? Nhiều người sẽ bảo tôi nói phét rồi cắt giảm."
+
+"Cô có thể nói phét. Nhưng catalogue với con số bốn mươi lăm nghìn không nói phét được."
+
+---
+
+Hùng quyết định thuê Linda làm cố vấn cho thủ tục Mỹ. Linda làm việc với Hoa kiều, Việt kiều, và hàng từ Trung Quốc nhiều năm. Bà biết những cạm bẫy. Linda đồng ý, giá một trăm năm mươi đô một giờ tư vấn, tối thiểu ba giờ một tháng.
+
+Buổi đầu, Linda đến văn phòng, mở laptop, chiếu lên màn hình một bảng tính. Đó là danh sách các khâu dễ phát sinh lỗi với hàng may mặc nhập Mỹ:
+
+1. Nhãn mác sai luật (thiếu nước xuất xứ, sai kích cỡ chữ, không có hướng dẫn giặt)
+2. Sai kích thước so với spec gốc (dung sai ±0,5 inch bị vượt)
+3. Lỗi vải (màu không đồng nhất, vải co, vải xù)
+4. Lỗi đóng gói (bao bì không chịu được vận chuyển đường dài)
+5. Thiếu chứng từ gốc (C/O, giấy kiểm dịch, giấy chứng nhận lao động)
+
+Linda nói: "Năm mục này. Anh nhớ kỹ. Mỗi mục nếu sai, chi phí sửa gấp mười lần chi phí làm đúng từ đầu."
+
+Hùng ghi từng mục, rồi hỏi: "Làm sao để một xưởng ở Việt Nam kiểm soát được cả năm mục này?"
+
+Linda nhìn ông. "Trước hết, phải tập trung một người chịu trách nhiệm kiểm cuối cùng trước khi hàng rời xưởng. Người đó không được là người sản xuất. Người đó đứng riêng. Chỉ kiểm, không làm."
+
+Hùng gật. Linda tiếp: "Thứ hai, phải có checklist in sẵn. Người kiểm đi theo từng bước, ghi kết quả, ký tên. Mỗi lô một tờ. Lưu ba năm."
+
+"Ba năm?"
+
+"Ở Mỹ, anh có thể bị kiện sau hai năm. Nếu không có giấy tờ, tòa coi như anh cố tình."
+
+Hùng cầm bút. Ông không ghi lại câu "có thể bị kiện". Nhưng ông ghi: "Lưu hồ sơ ba năm. Tiêu hủy phải có biên bản."
+
+---
+
+Qua Linda, Hùng thuê một luật sư thương mại nhỏ ở khu trung tâm. Một buổi chiều, ông ngồi trong phòng luật sư, không khí lạnh điều hòa, tường kính nhìn ra tòa nhà đối diện. Luật sư tên Carl, khoảng sáu mươi, tóc bạc, mắt tinh, ngồi ghế da xoay. Ông ta hỏi Hùng: "Anh có công ty Mỹ chưa?"
+
+"Chưa."
+
+"Phải mở. Công ty ở Mỹ là bắt buộc. Không có, anh không thể làm hợp đồng dài hạn, không thể mua bảo hiểm, không thể mở tài khoản nhận séc."
+
+Hùng hỏi chi phí. Carl nói: "Ba nghìn đô — tôi lo cho anh tất cả: đăng ký tiểu bang, mã số thuế, giấy phép kinh doanh. Mất hai tuần."
+
+Hùng gật. Ba nghìn — một chi phí lớn với ông lúc đó. Nhưng còn rẻ hơn một lô hàng bị giữ vì thiếu giấy.
+
+Tuần sau, Hùng ký giấy tờ thành lập công ty. Tên: "Hung MTC Trading Inc." Địa chỉ: góc kho của Linda. Điện thoại: số của Linda chuyển tiếp. Bà Lê đứng ra làm người giới thiệu. Carl lo thủ tục. Khi nhận được giấy phép kinh doanh màu trắng xanh qua bưu điện, Hùng cầm nó như cầm một thứ gì mong manh. Tờ giấy đó — đắt hơn bất kỳ tờ giấy nào ông từng có.
+
+---
+
+Trở lại kho Vernon, Hùng bắt đầu xây dựng quy trình. Ông dùng một tấm bảng trắng loại lớn, kẻ ba cột: NHẬN HÀNG → KIỂM HÀNG → GIAO HÀNG. Dưới mỗi cột, ông viết tên người, thời gian, việc cần làm. Phạm phụ trách kiểm. Hạnh phụ trách giấy tờ. Một người Mexico tên Jorge — Linda giới thiệu — phụ trách xếp kho. Hùng tự phụ trách tổng thể và liên lạc với người mua.
+
+Một hôm, Jorge nói với Hùng bằng tiếng Tây Ban Nha qua Hạnh phiên dịch: "Kho này chỉ có ba người Việt, một người Mexico. Anh không sợ tôi lấy hàng hả?"
+
+Hùng nhìn Jorge, cười không thành tiếng. "Tôi thuê anh vì Linda nói anh làm được. Linda không dẫn người xấu vào kho của bà ấy."
+
+Jorge gật. Từ đó, mỗi sáng ông ta chào Hùng bằng tiếng Việt: "Chào anh." Sai ngữ pháp, nhưng đúng tinh thần.
+
+---
+
+Đầu tháng sáu, Hùng về Việt Nam. Chuyến bay này không còn bỡ ngỡ. Ông biết cửa nào ra, mua gì ở khu miễn thuế, cách gọi điện về nhà từ sân bay. Nhưng trong đầu, ông mang theo năm trang checklist xây dựng cho xưởng ở Việt Nam: lắp thêm máy, tuyển thợ kiểm, làm nhãn mác đúng luật Mỹ, tổ chức kho đúng tiêu chuẩn, tập huấn kỹ thuật cho quản đốc.
+
+Về tới nhà, bà Hà đã chuẩn bị mâm cơm. Cá kho, canh chua, rau muống luộc. Hùng ăn hết hai bát cơm mới thấy mình đói thật. Suốt mười ngày ở Mỹ, ông ăn bánh mì, mì gói, pizza — thứ gì rẻ và nhanh nhất. Đến bữa cơm nhà mới biết cái gì gọi là ăn.
+
+Bà Hà nhìn chồng. "Anh gầy."
+
+"Đi Mỹ, toàn đồ ăn nhanh."
+
+"Bên ấy làm gì mà nhiều thế?"
+
+Hùng kể: thành lập công ty, thuê người, lập quy trình, gặp luật sư. Nghe như một tháng chứ không phải mười ngày. Bà Hà hỏi: "Có mệt không?"
+
+"Ngủ lại được."
+
+"Có muốn dừng không?"
+
+Hùng nhìn mâm cơm, nhìn vợ, nhìn đứa con gái đang lén ăn vụng miếng cá trong bếp. "Chưa. Còn việc chưa xong."
+
+Bà Hà không nói thêm. Bà gắp thêm miếng cá cho chồng. Hành động ấy thay mọi câu trả lời.
+
+---
+
+Sáng hôm sau, Hùng lên xưởng. Tập trung quản đốc, tổ trưởng, Lan, và chị Ba. Ông mở tấm ảnh chụp kho Vernon ở Mỹ, đặt lên bàn. Ai cũng cúi xuống xem.
+
+"Đây là kho bên Mỹ," Hùng nói. "Hàng mình sẽ vào đó rồi đi tiếp. Nếu ở khâu nào lỗi, hàng mình nằm lại kho — mỗi ngày mất một trăm đô tiền lưu."
+
+Chị Ba ngước lên. "Ở Mỹ cũng có người kiểm như mình?"
+
+"Phải. Họ kiểm kỹ hơn mình. Nhưng lỗi nào mình phát hiện ở Việt Nam còn rẻ hơn để họ phát hiện ở Mỹ gấp mười lần."
+
+Cả phòng im. Hùng tiếp: "Từ tháng này, mỗi lô hàng phải có phiếu kiểm riêng. Người kiểm ký tên, ghi giờ, ghi lỗi nếu có. Nếu hết ca mà chưa kiểm xong, báo tôi — tôi không bắt ép kiểm cho xong để kịp giờ."
+
+Tâm giơ tay. "Nếu lỗi nhỏ quá, mình có thể bỏ qua không?"
+
+"Không. Lỗi nhỏ ở đây là lỗi lớn khi hàng tới Mỹ."
+
+Hùng lấy từ cặp ra một bản catalogue màu của một hãng bán lẻ Mỹ — mua ở sân bay LAX. Ông chỉ vào từng chi tiết: đường may cổ, nếp gấp tay, nút áo, nhãn giặt. "Tiêu chuẩn của họ là như thế này. Chúng ta phải tiệm cận. Không đạt ngay được, nhưng phải biết đích."
+
+Lan ghi chép đều đặn. Một tuần sau, cô mang ra bản đề xuất quy trình mới, gồm bốn trang. Hùng đọc, sửa vài chỗ, ký duyệt. Hệ thống chất lượng Mỹ — khởi đầu khiêm tốn, từ một góc kho thuê, hai nhân viên, và một tấm bảng trắng.
+
+Hai tháng sau, lô hàng thứ hai đi Mỹ — gấp đôi lô đầu, cũng từ xưởng chị Ba, cũng qua tay Linda và bà Lê. Lần này, không thiếu giấy tờ, không tem sai, không lỗi vượt dung sai. Hùng đứng ở cảng Hải Phòng, nhìn container lên tàu, không nói gì. Nhưng trong sổ, ông viết: "Lô 2 — sạch. Hệ thống bắt đầu chạy."
+
+
+Giữa tháng sáu, Linda gửi cho Hùng bản báo cáo kho hàng sau lô thứ nhất. Mỗi mục đều có số: ngày hàng nhập, ngày kiểm, ngày xuất, người kiểm, số lỗi, thời gian giải quyết lỗi. Con số rõ ràng. Hùng in ra, đưa cho Lan xem. Lan đọc kỹ, hỏi: "Mình làm vậy ở xưởng mình được không?" Hùng đáp: "Phải làm. Không có số thì không biết mình đang đứng đâu." Tuần sau, Lan kẻ một bảng mẫu cho các xưởng. Chị Ba nhìn bảng, nhăn mặt: "Mỗi ngày ghi mười lỗi... chưa kể phải viết lý do." Lan nói: "Chị viết vài chữ là được: máy đứt chỉ, vải xù, tay nghề yếu. Có chữ mới biết sửa gì." Chị Ba cầm bút, ghi thử một ngày. Ngày đầu được nửa. Ngày thứ ba quen tay. Cuối tháng, chị tự kéo cô Hảo và hai thợ khác, bảo: "Em chỉ chị, mỗi người giữ một đầu việc." Mười lỗi một ngày, mỗi lỗi một nguyên nhân — con số đó không làm ai xấu hổ. Nó giúp họ sửa nhanh hơn.
+
+Hùng cũng thay đổi. Ba tháng trước, ông là người tự mình làm hết: gọi điện, kiểm hàng, đàm phán giá, lo thủ tục. Bây giờ ông bắt đầu giao. Phạm lo kiểm hàng. Hạnh lo chứng từ. Linda lo kho và cố vấn thủ tục. Mỗi người một việc, mỗi việc có tên. Hùng không can thiệp vào việc họ làm, nhưng yêu cầu báo cáo hàng tuần. Ai xong, ai chưa, ai gặp khó. Tuần nào cũng gọi một cuộc điện thoại Mỹ dài mười lăm phút.
+
+Lan thấy ông thay đổi. "Anh Hai bây giờ nói nhiều hơn. Trước anh im, rồi tự làm. Bây giờ anh nói, rồi giao." Hùng không nói mình đang học. Nhưng sự thật là ông đang tập làm một người quản lý. Xưởng dệt ở Việt Nam chỉ quen làm hàng giá rẻ cho nội địa, không quen làm hàng cho Mỹ. Hùng nói với họ, một cách chậm rãi, rằng cái họ cần không phải thay đổi lớn — chỉ cần làm đúng, sạch hơn, đo lại mỗi lần, và không giấu lỗi. Lúc đầu họ im lặng — không đồng ý, không phản đối. Nhưng khi thấy Hùng tự móc túi trả tiền mua thước đo mới, tiền thưởng cho tổ kiểm, họ bắt đầu tin. Một tháng sau, tỉ lệ lỗi trung bình của xưởng giảm từ 12% xuống 6%. Chưa đạt tiêu chuẩn Mỹ, nhưng đã đi đúng hướng.
+
+Những buổi tối ở nhà, Hùng không còn nói về Mỹ với bà Hà như một giấc mơ. Ông nói bằng số: lô này kiếm được bao nhiêu, lỗ ở đâu, lần sau phải làm gì khác. Bà Hà nghe, không góp ý nhiều, nhưng mỗi lần Hùng nói xong, bà chỉ hỏi một câu: "Còn căng thẳng lắm không?" Nếu Hùng gật, bà pha thêm ấm trà. Nếu ông lắc, bà nói "thế thì tốt" rồi đi làm việc khác. Cái cách bà hỏi và không hỏi thêm, Hùng nghĩ, cũng giống cái cách Linda ký hợp đồng xong không nói gì thêm — tin là đã đủ.
+
+Một tối, sau khi viết sổ, Hùng mở lại bản catalogue Mỹ. Lần này ông không đọc tiêu chuẩn kỹ thuật. Ông lật xem những trang quảng cáo: một thương hiệu Mỹ dùng người mẫu da trắng, áo sơ mi trắng tinh, nền phòng khách sang trọng. Dòng chữ: "Made in USA." Không có chữ "Made in Vietnam." Hùng gập catalogue. Còn một đường dài, nhưng đường đã rõ. Hệ thống mà ông xây — nhỏ, tạm, hiệu quả vừa phải — đang chạy. Nếu không vỡ, nó sẽ lớn dần.
+
+Một tháng sau, xưởng nhà may của chị Ba nhận thêm mười máy mới. Lan thiết kế một quy trình lưu mẫu: mỗi lô đều giữ lại một sản phẩm hoàn chỉnh, ghi rõ spec. Chị Ba nói đùa: "Sau này thành bảo tàng mất." Hùng cười không đáp. Nhưng biết: cái bảo tàng đó giúp họ nhìn lại lỗi sau này. Khi hàng thứ hai lên tàu, không còn lỗi label, không còn thiếu giấy, không còn ai phải gọi điện gấp. Hùng đứng ở cảng Hải Phòng, gió biển mặn thổi vào mặt. Một con tàu mang tên một hãng tàu Đài Loan đang nhả khói chuẩn bị rời bến. Ở California, Linda đang mở cửa kho và Hạnh sắp xếp hồ sơ lô hai. Mỗi người một việc — nhịp đã đều.
+
+Tối hôm hàng thứ hai rời cảng, Hùng mở sổ, gạch dòng "Xây dựng hệ thống chất lượng Mỹ". Dòng đó đã mất ba tháng, hàng trăm giờ học đọc tiêu chuẩn, mười buổi tư vấn với Linda, năm điều chỉnh quy trình. Nhưng nó đã gạch được. Dưới đó, ông viết tiếp: "Mở rộng thị trường Mỹ — 1991."
+
+============================================================
+
+Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1990 — được rồi.'
+
+
+Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1990 đã cho ông nhiều hơn ông tưởng. Ông gập sổ tay, đặt trên bàn, tắt đèn — ngày mai còn việc mới.
+「Hệ thống — GHI NHẬN ch.143」
+Năm: 1990
+Tổng EXP: 21,840 (+180 nhịp này)
+Không gian kho: 7,136m² (+72m²)
+Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
+Ghi chú: sổ cái khớp system_ledger — không double-book
+============================================================
