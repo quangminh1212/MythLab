@@ -180,3 +180,14 @@ Không gian kho: 18,500m² (+700m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv3, Ngoại giao kinh tế lv3, Dự báo rủi ro lv3, Công nghệ cao lv2
 Ghi chú: Phát hiện dấu hiệu khủng hoảng từ tháng 2/2007 — New Century sụp. Áp dụng chính sách phòng thủ tài chính từ tháng 6. Hệ thống dự đoán nội bộ — cấp báo động 2. Kế hoạch khẩn cấp 16 trang — mở rộng lên 17 trang với phương án hỗ trợ công nhân.
 ============================================================
+
+Teaser: 
+
+
+「Hệ thống — GHI NHẬN ch.221」
+Năm: 2008
+Tổng EXP: 43,000 (+238)
+Không gian kho: 15,000m² (+143m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú:  system_ledger
+============================================================

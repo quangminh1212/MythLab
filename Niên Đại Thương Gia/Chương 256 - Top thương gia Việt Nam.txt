@@ -144,7 +144,9 @@ Khoảng cách giữa hai dòng ấy là ba mươi năm. Nhưng với Hùng, câ
 
 Ông cầm bút viết thêm một dòng: "2008 — Forbes. Đây không phải đích. Đây là điểm xuất phát mới cho hội nhập quốc tế."
 
-Hai ngày sau, một doanh nhân người Hàn Quốc — ông Park Jae-won, chủ tịch tập đoàn Daehan Chemical — gọi điện đến. Ông Park muốn gặp Hùng tại khách sạn Metropole Hà Nội.
+Hai ngày sau, điện thoại bàn trong phòng đổ chuông — tiếng chuông khô khốc vang trong khoảng lặng của một buổi sáng cuối tháng Mười Hai. Hùng nhấc máy, đầu dây bên kia là giọng tiếng Anh chậm rãi nhưng chính xác của người bản xứ: "Ông Hùng, tôi là Park Jae-won, chủ tịch Daehan Chemical." Hùng ngồi thẳng người. Qua khung cửa sổ tầng mười lăm, Hà Nội mùa đông hiện ra dưới một lớp sương mỏng — những mái nhà nâu đỏ, những hàng cây trụi lá, những dòng xe cộ như những mạch máu đang chảy. Ông Park muốn gặp tại khách sạn Metropole.
+
+Khi gác máy, ông nhìn ra phố vài giây. Một tờ báo Forbes cũ nằm trên bàn, bìa bóng loáng. Từ đôi dép đứt quai đến Metropole, từ 12 đồng trong túi đến 4.200 tỷ — nhưng với Hùng, cái quý nhất không phải tờ Forbes, mà là cơ hội ngồi vào bàn đàm phán với một người Hàn Quốc bảy mươi tuổi vẫn mặc hanbok. Điều đó có nghĩa: Thương Gia đã được nhìn nhận.
 
 Hùng mang theo Lan. Cuộc gặp diễn ra tại phòng trà tầng một. Ông Park bảy mươi tuổi, tóc bạc trắng, mặc bộ hanbok màu xám nhạt, nói tiếng Anh chậm rãi nhưng chính xác.
 
@@ -220,5 +222,8 @@ Năm: 2008
 Tổng EXP: 59,500 (+595 nhịp này)
 Không gian kho: 24,834m² (+248m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Quản trị đế chế lv2, Dự báo rủi ro lv2, Ảnh hưởng xã hội lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Top thương gia Việt Nam. Hùng được xếp hạng, nhưng ông không dự lễ.
+Hôm đó ông về làng, ăn cơm với bà Hà, ra thăm xưởng cũ.
+
+Top thương gia. Cái tên Thương Gia đã nằm trong từ điển kinh doanh Việt.
 ============================================================

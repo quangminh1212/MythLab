@@ -86,7 +86,10 @@ Chủ cửa hàng là bà cụ bảy mươi, người gốc Nam Định, bán v�
 
 Bà nhìn ông: "Cháu đến hỏi nợ hay hỏi thăm?"
 
-"Hỏi cả hai."
+Hùng ngồi im, nhìn khuôn mặt bà cụ khắc khổ dưới ánh đèn đường lờ mờ. Ông thấy những nếp nhăn sâu hoắm—không phải nếp nhăn của tuổi, mà của những lần người ta hứa rồi không trả, những lần cụ phải đứng lên từ một cái ghế ngã. Có một cái gì đó ở cách bà nói câu "ta không nợ hư" khiến ông tin ngay. Không phải tin vì lời nói. Tin vì cách bà nhìn thẳng vào mắt ông khi nói, không né, không cười xã giao. Ở cái tuổi ấy, nợ hư một lần là hết đường xoay sở. Bà biết điều đó, và bà vẫn nói.
+
+"Hỏi thăm cả hai."
+
 
 Bà cười, hàm đã mấy chiếc không còn. "Chưa bán hết. Nhưng cuối tháng sẽ xong. Không thì cháu lấy lại hàng, ta không nợ hư."
 
@@ -222,5 +225,9 @@ Năm: 1986
 Tổng EXP: 14,682 (+182 nhịp này)
 Không gian kho: 5,045m² (+45m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Phần 3 bắt đầu. Hùng viết: "1986-1988 — Vươn ra biên giới."
+Bốn người: Hùng, Lan, Minh, Hạnh. Bốn cốc nước chè, một tờ A4, ba mục tiêu.
+"Chúng ta sẽ làm lại từ đầu. Lần này có nhau."
+
+Phần 3 bắt đầu — Hùng biết mình không thể làm một mình nữa.
 ============================================================

@@ -1,5 +1,5 @@
 ============================================================
-Chương 81: Mở rộng năng lượng nhà máy điện
+Chương 81: Mở rộngnăng lượng nhà máy điện
 ============================================================
 
 4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở cửa phòng điều hành. Ông đứng nhìn bảng áp lực nước cấp, tay cầm tách trà nóng bốc khói giữa tiết trời  tháng Mười Một.
@@ -144,6 +144,8 @@ Gần bằng tiền mua một máy kéo MTZ-50.
 
 Ông hít một hơi. Đó là lý do Mitsubishi hấp dẫn — phụ tùng tuy đắt hơn nhưng chu kỳ thay dài hơn. Nhưng LMZ có lợi thế: kỹ thuật viên ở đây biết tua-bin Liên Xô như lòng bàn tay. Họ đã vận hành chúng 10 năm. Còn Mitsubishi — mọi thứ phải học lại từ đầu.
 
+Hùng đưa tay xoa thái dương, cảm nhận mạch máu đập dưới đầu ngón tay. Ngoài kia, qua ô cửa sổ nhỏ, tiếng turbine unit 2 rền đều, một thứ âm thanh đã trở thành nhịp thở của ông suốt mấy tháng nay. Ông nhắm mắt một giây—đủ để thấy giữa lằn ranh Liên Xô và Nhật Bản không chỉ là con số trên catalogue, mà là những đêm mất ngủ khi tua-bin Nhật chạy được năm năm rồi bất ngờ hỏng một cánh, đám kỹ sư không biết nguồn phụ tùng ở đâu. Cả mớ dây chuyền đứng bốn tháng, lãi của cả năm đội vào nợ đầu tư. Ông thấy trước cái cảnh đó, và cái thấy ấy nặng hơn bất kỳ con số tiết kiệm nhiên liệu nào.
+
 "Đấy mới là cái giá thực sự," Hùng lầm bầm.
 
 13:30. Họp với cán bộ Điện lực địa phương — ba người, trong đó có một phó ban tên Cường. Họ mang theo bản vẽ trạm biến áp 110 kV và báo giá máy cắt SF6.
@@ -246,5 +248,8 @@ Năm: 1986
 Tổng EXP: 12,500 (+250 nhịp này)
 Không gian kho: 4,543m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Máy phát diesel cấp điện cho xưởng. Bóng đèn dầu thay bằng đèn điện. Cả xưởng sáng trưng.
+Chị Sáu: "Từ giờ không phải nheo mắt may nữa nhỉ?"
+
+Điện — thứ mà cả làng cần hơn cả vàng. Hùng quyết định đầu tư đúng chỗ.
 ============================================================

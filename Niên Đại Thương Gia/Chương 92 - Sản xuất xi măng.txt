@@ -103,6 +103,7 @@ Tanaka nói qua phiên dịch: "Xi măng không phải là bột. Là thời gia
 Hùng nhìn thẳng vào mắt Tanaka, không nhìn phiên dịch. "Tôi không vội. Tôi chỉ không có nhiều thời gian như ông."
 
 Tanaka cười. Cái cười của người hiểu được sự khác biệt giữa vội và gấp. Tanaka làm việc cho một tập đoàn đã có trăm năm. Hùng làm cho một lò nung mới chạy được chín mươi ngày.
+Trong phút im lặng sau nụ cười của Tanaka, Hùng cảm nhận rõ khoảng cách giữa hai người — không chỉ là tuổi tác hay quốc tịch, mà là bề dày của những thế hệ đã đứng trước lò nung trước khi ông kịp châm lửa mẻ đầu tiên. Nắng chiều hắt qua ô cửa sổ nhỏ, rọi lên bàn những hạt bụi xi măng lơ lửng trong không khí, lấp lánh như một thứ bụi ma thuật. Hàng ngàn hạt bụi vô hình, bay trong im lặng, lắng xuống vai áo, vào tận kẽ tay, đi vào phổi mỗi người thợ trong từng nhịp thở. Ông đưa tay quệt ngang trán, mồ hôi mặn chát, hoà cùng bụi trắng tạo thành thứ vị mà người làm xi măng không bao giờ quên.
 
 Tan, Hùng ngồi ở bậc thềm xưởng đóng bao. Công nhân đã về hết. Bảo vệ đóng cổng chính. Mùi xi măng bay lơ lửng trong không khí chiều muộn — mùi của đá vôi nung, của thạch cao nghiền, của một thứ bột xám có thể xây nhà hoặc làm phổi người ta bệnh sau mười lăm năm. Ông nhìn bầu trời. Năm 1987, đất nước vừa mở cửa, nghị quyết khoán sản phẩm vừa vào đời sống. Nhưng cái mở cửa ấy có nghĩa gì với một lò nung xi măng? Nghĩa là than sẽ đắt hơn vì nhập khẩu tự do. Nghĩa là xi măng Trung Quốc sẽ tràn vào qua biên giới phía bắc, giá rẻ hơn. Nghĩa là người lao động có thể bỏ việc nếu lương không đủ sống. Và nghĩa là chữ tín — thứ duy nhất không bị lạm phát — trở thành vũ khí cạnh tranh cuối cùng.
 
@@ -170,5 +171,8 @@ Năm: 1987
 Tổng EXP: 15,045 (+181 nhịp này)
 Không gian kho: 5,136m² (+45m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1, Sản xuất lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Xi măng Thương Gia — lò thứ hai hoạt động, 78% công suất. Kỹ sư Việt vận hành.
+Hùng bốc nắm xi măng, bóp thử. Bột mịn, trắng, không vón. "Chuẩn rồi."
+
+Xi măng làm nên con đường. Hùng làm nên những con đường nối các tỉnh.
 ============================================================

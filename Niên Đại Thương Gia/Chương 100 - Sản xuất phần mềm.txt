@@ -92,7 +92,8 @@ Buổi demo tổ chức trong phòng họp của xí nghiệp — bàn dài, gh�
 
 Hùng làm việc đó trước — mời bà kế toán trưởng, người có thâm niên cao nhất, lên nhập thử một phiếu thu. Bà ta nhìn bàn phím như nhìn một cái máy khâu. Cường đặt một tờ giấy có vẽ bàn phím lên bàn — phím nào ở đâu, ghi chú bằng tiếng Việt: "Phím Enter — xuống dòng", "Phím F2 — lưu", "Mũi tên lên — đi lên".
 
-Bà kế toán gõ từng chữ một — chậm như đặt từng viên gạch — nhưng gõ xong, nhấn F2, máy lưu được. Màn hình báo "ĐÃ LƯU". Bà ta nhìn Hùng, nhìn màn hình, rồi khẽ gật đầu. Một cái gật đầu của người đã làm sổ sách ba mươi năm — có giá trị hơn mọi chữ ký hợp đồng.
+Bà kế toán gõ từng chữ một — chậm như đặt từng viên gạch — nhưng gõ xong, nhấn F2, máy lưu được.
+Khi máy tính báo "ĐÃ LƯU", cả phòng họp như nín thở trong một giây. Hùng thấy rõ những giọt mồ hôi lấm tấm trên trán bà kế toán — mồ hôi của sự tập trung cao độ của một người lần đầu chạm vào bàn phím. Mùi mực in từ máy kim Epson hòa vào mùi giấy tờ cũ của phòng kế toán, mùi cà phê phin nhỏ giọt từ chiếc phin nhôm trên bàn, và mùi mồ hôi của bốn người đang hồi hộp theo dõi. Cái khoảnh khắc ấy — cái "ĐÃ LƯU" trên màn hình xanh — không chỉ là một thao tác kỹ thuật. Nó là lần đầu tiên một người làm sổ sách ba mươi năm tin rằng một cái máy có thể làm việc thay mình. Sự im lặng sau đó kéo dài hơn một tiếng thở, nhưng nặng như một lời hứa. Màn hình báo "ĐÃ LƯU". Bà ta nhìn Hùng, nhìn màn hình, rồi khẽ gật đầu. Một cái gật đầu của người đã làm sổ sách ba mươi năm — có giá trị hơn mọi chữ ký hợp đồng.
 
 Hùng mời người kế toán thứ hai lên thử — ông trung niên, đeo kính dày, tay run run khi chạm phím. Ông ta gõ sai hai lần. Lần thứ ba hỏng vì quên nhấn Enter trước khi nhấn F2. Cường lại gần, chỉ lại từ đầu — kiên nhẫn hơn lần thứ nhất. Người thứ ba làm nhanh hơn — đã quan sát hai người trước. Người thứ tư chỉ gật, viết lấy một tờ giấy ghi tên các phím tắt. Người thứ tư là kế toán trưởng tương lai — Hùng nhìn cách ông ta ghi chép mà biết.
 
@@ -178,6 +179,25 @@ Năm: 1987
 Tổng EXP: 16,500 (+182 nhịp này)
 Không gian kho: 5,500m² (+45m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Phần mềm HT-QL1 chạy trên IBM PC XT 286. Màn hình xanh, dòng lệnh cuộn.
+"Nghiệp vụ kế toán — thành công." Hùng nhớ kiếp Lý Minh. "Giỏi. Nhưng còn bug. Sửa đi."
+
+Hùng ngồi lại trước màn hình xanh sau khi mọi người về.
+Dòng chữ "Nghiệp vụ kế toán — thành công" vẫn sáng trên màn hình.
+Ông nhấn F3, chương trình chạy mượt. Mồ hôi lấm tấm trên trán.
+Phần mềm đầu tiên của Thương Gia — ba tháng, ba con người, một ước mơ.
+Lý Minh có lẽ sẽ tự hào.
+
 ============================================================
 <!-- END_MARKER_DO_NOT_REMOVE -->
+
+Teaser: 
+
+
+「Hệ thống — GHI NHẬN ch.100」
+Năm: 1987
+Tổng EXP: 16,500 (+182)
+Không gian kho: 5,500m² (+45m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú:  system_ledger
+============================================================
