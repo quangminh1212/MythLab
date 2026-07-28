@@ -2,7 +2,9 @@
 Chương 237: Vượt qua đáy khủng hoảng
 ============================================================
 
-Đầu tháng Bảy năm 2009, Minh trình danh sách năm kỹ sư đầu tiên cho phòng nghiên cứu AI. Năm con người, năm hoàn cảnh, năm câu chuyện khác nhau — nhưng cùng một điểm chung: họ đều là những người trẻ, thông minh, và đang tìm kiếm một cơ hội để làm điều gì đó có ý nghĩa.
+2009 là năm mà Thương Gia, sau cú sốc khủng hoảng 2008, bắt đầu những bước đi mà không ai trong ngành bán lẻ dám làm. Giữa lúc các đối thủ thu hẹp, Hùng mở rộng — nhưng không phải mở rộng cửa hàng, mà mở rộng tầm nhìn.
+
+Đầu tháng Bảy năm 2009, Minh trình danh sách năm kỹ sư đầu tiên cho phòng nghiên cứu AI.
 
 Người thứ nhất: Lê Quang Vinh, hai mươi bảy tuổi, tốt nghiệp thạc sĩ Khoa học Máy tính tại Đại học Quốc gia Singapore. Vinh từng làm cho một công ty khởi nghiệp về fintech ở Singapore hai năm, nhưng quyết định về Việt Nam vì lý do gia đình. Minh nói: "Thằng này giỏi thật — nó viết code sạch, tư duy logic, biết cả machine learning. Nó có thể dạy lại cho cả đội."
 
@@ -100,19 +102,48 @@ Phòng thí nghiệm pin khởi công cuối tháng Bảy. Dũng tự thiết k�
 
 Nhìn những máy đào đang xới đất ở Hải Phòng, Hùng nghĩ về năm 1983, khi ông bắt đầu với ba trăm đồng. Từ ba trăm đồng đến ba mươi tỷ cho một phòng thí nghiệm pin — một chặng đường dài. Nhưng chặng đường phía trước còn dài hơn.
 
-Ba tuần sau, đội AI trình bản demo đầu tiên. Hùng xuống phòng đúng mười lăm phút như đã hứa. Vinh mở màn hình, chạy thử mô hình dự báo trên dữ liệu quý một. Con số hiện ra: sai lệch trung bình chín phần trăm so với thực tế.
+Ba tháng sau, phòng thí nghiệm pin hoàn thành — sớm hơn dự kiến một tháng.
 
-"Chín phần trăm là tốt hay xấu?" Hùng hỏi.
+"Tháo bạt hết đi," Hùng bảo công trường. "Cho vào máy."
 
-"Với dữ liệu bán lẻ Việt Nam, chín phần trăm là khá tốt cho lần đầu," Vinh đáp. "Nhưng bọn em chưa hài lòng. Mô hình sai nhiều nhất vào các dịp lễ — nó không hiểu Tết âm lịch, không hiểu Rằm tháng Bảy."
+Dũng dẫn ông đi tham quan: từng phòng sạch ISO 7 kín mít, hệ thống lọc khí rì rầm, những thiết bị nhập từ Đức nằm im trên bàn thí nghiệm sáng loáng. Dũng mở một tủ kính, lấy ra một mẫu pin mỏng, bằng hai ngón tay.
 
-Hùng gật. "Vì máy không đi chợ. Nó không biết cận Tết người ta mua gì, kiêng gì. Các bạn muốn nó giỏi hơn, phải dạy nó cái mà một bà bán hàng bốn mươi năm biết trong lòng bàn tay."
+"Pin thể rắn thử nghiệm," Dũng nói. "Mật độ gấp đôi pin thường. Một năm nữa, em có thể cho ra mẫu thương mại."
 
-Linh reo lên: "Đúng rồi anh! Bọn em thêm biến lịch âm, biến lễ hội. Và bọn em cần phỏng vấn những người bán hàng lâu năm — chú cho bọn em gặp cô Lan được không?"
+Hùng cầm mẫu pin, nhẹ hơn ông tưởng. "Cái này làm được chiếc xe điện chạy bao xa?"
 
-Hùng cười lớn — lần hiếm hoi. "Được. Nhưng báo trước: cô ấy sẽ hỏi ngược lại các bạn nhiều hơn. Người giỏi số thật không nằm ở đây, mà ở sau quầy hàng ba mươi năm."
+"Hai trăm năm mươi cây số. Đủ đi Hà Nội — Hải Phòng. Trong ba năm nữa, năm trăm cây số."
 
-Ông đứng dậy, đúng mười lăm phút. Trước khi ra cửa, ông quay lại nhìn năm cái đầu trẻ đang cúi xuống màn hình, ánh sáng xanh hắt lên mặt. Ông chợt thấy chính mình bốn mươi năm trước — cũng cúi xuống một cuốn sổ, cũng tin rằng có thể tính ra tương lai bằng những con số. Chỉ khác công cụ. Cùng một khát vọng.
+Hùng gật, đặt mẫu pin xuống, không hỏi gì thêm. Ông đã học — khi một người giỏi nói con số, đừng nghi ngờ, hãy đợi.
+
+Cuối ngày, đội AI trình kết quả mô hình dự báo mùa Tết. Sai lệch giảm từ chín phần trăm xuống còn bốn. Linh mở biểu đồ: đường dự báo và đường thực tế gần như chồng khít, chỉ lệch ở vài ngày giáp Tết.
+
+"Tụi em thêm biến 'ngày chạp' và 'ngày ông Công' vào," Linh giải thích. "Mấy ngày đó người ta mua hàng khác hẳn ngày thường."
+
+Hùng nhìn biểu đồ, nhìn những đường màu xanh đỏ đan chéo. Trong đầu ông không có con số — nhưng ông có cảm giác quen thuộc: từ ngày ở chợ Hà Đông, ông cũng thuộc lòng nhịp mùa, biết tháng nào hàng gì chạy. Máy móc có thể học được điều ông mất bốn mươi năm để biết. "Đưa vào sử dụng thử ở chuỗi bán lẻ," ông nói. "Một quý thí điểm. Nếu chạy được, mở rộng toàn bộ."
+
+Vinh cười, lần đầu từ ngày vào công ty. Trước khi Hùng ra về, Linh chạy theo, tay cầm cuốn sổ lề đã nhòe. "Cảm ơn chú. Bọn em sẽ không phụ."
+
+
+Tối hôm phòng thí nghiệm khánh thành, Hùng về nhà muộn. Bà Hà vẫn thức, ngồi ở hiên với ấm trà nguội. Bà không hỏi ông đi đâu. Bà chỉ đẩy về phía ông một bát cháo còn âm ấm, bọc trong khăn. "Ăn đi. Tao nghe nói con làm cái nhà kính ở Hải Phòng. Tốt không?" Hùng cười, thổi nhẹ bát cháo. "Tốt, mẹ ạ. Trong ấy có máy lạnh, lọc bụi. Để làm pin cho xe chạy điện." Bà Hà gật gù, không hiểu hết nhưng không hỏi thêm. "Làm được thì làm. Đừng để mất người." Ông nhớ câu ấy cả đêm.
+
+Cuối tuần, Hùng xuống Hải Phòng xem phòng thí nghiệm đang xây. Trời mưa tầm tã, mặt đường loang loáng nước. Công trường tạm dừng, máy móc phủ bạt kín mít. Dũng đứng dưới mái tôn tạm, sổ tay ghi đầy số liệu, mắt đỏ kè vì mất ngủ. "Tiến độ chậm mất hai tuần vì mưa," Dũng nói, giọng khản. "Em tính chạy ba ca bù."
+
+Hùng nhìn bản vẽ trải trên thùng gỗ ướt nhem. "Bao giờ xong?"
+
+"Chín tháng, nếu mưa ngớt."
+
+"Em tính mười tháng. Có dư không thiếu." Hùng vỗ vai Dũng. "Đừng đốt sức để bù mưa. Mưa là việc của trời. Lo việc của người thôi." Ông đưa cho Dũng một phong bì — tiền ứng trước hai tháng lương. "Mướn thêm người. Không được giảm chất lượng. Nếu cần, anh cho thêm vốn."
+
+Dũng nhìn phong bì, không nói gì, chỉ gật. Dưới mái tôn tạm, tiếng mưa gõ đều trên bạt phủ như một thứ nhịp điệu. Hùng quay ra xe, ngồi vào ghế sau một lúc mới bảo tài xế về. Ông không vội. Mưa bên ngoài, im lặng bên trong — và ông thấy, những quyết định tốt nhất thường đến trong khoảng lặng giữa hai cơn mưa.
+
+Trước khi xe nổ máy, Dũng chạy ra, gõ cửa kính. "Anh Hùng, em quên nói. Mẫu pin thử nghiệm đầu tiên tụi em đã đúc xong. Chưa đạt tiêu chuẩn, nhưng nó cháy. Nghĩa là nguyên lý đúng." Hùng hạ kính, mưa bắn vào mặt. "Cứ cháy. Cháy được là cháy tiếp. Bao giờ nó thành cái bật lửa châm được xe, gọi anh." Ông kéo kính lên, xe lăn bánh. Trong gương chiếu hậu, Dũng đứng giữa mưa, tay giơ cao chiếc túi chứa mẫu pin, người ướt sũng, mặt cười.
+
+Một tháng sau, Hùng tổ chức bữa tối cho đội AI và Dũng ở một quán nhỏ Hải Phòng. Tuần đó, Minh báo doanh thu quý bốn của chuỗi thí điểm AI — tăng mười hai phần trăm so với cùng kỳ năm trước, phần lớn nhờ mô hình dự báo đặt hàng đúng mùa Tết. Hùng không nói với đội AI, chỉ gửi gọn biểu đồ qua email nội bộ kèm dòng: "Kết quả của các bạn. Năm sau nhân rộng." Năm kỹ sư AI và một tiến sĩ pin ngồi cạnh nhau, không khí thoải mái hơn văn phòng. Vinh nâng cốc bia:"Cảm ơn anh Hùng đã tin tụi em làm cái thứ mà chưa ai ở Việt Nam dám làm." Hùng không nâng cốc, chỉ nhìn họ lần lượt — những đứa trẻ từ Singapore, từ FPT, từ Bách khoa — nay ngồi trong một quán nhỏ Hải Phòng, nói về tương lai bằng những thứ họ vừa tạo ra. Ông không uống. "Các bạn làm được, mai tôi mới uống. Hôm nay tôi lái xe." Cả bàn cười. Dũng cười to nhất, rồi bỗng im, nhìn lên trần nhà quán, nơi có một bóng đèn tròn hắt ra ánh sáng vàng ấm. "Anh Hùng, em về nước tưởng mình hy sinh. Hóa ra mình được nhận lại nhiều hơn." Trong im lặng ngắn ngủi, Hùng không đáp, nhưng cái vỗ nhẹ lên vai Dũng khi ra về nói nhiều hơn lời. Bên ngoài, gió biển mát, những ngọn đèn Hải Phòng nhấp nháy xa mờ. Một khởi đầu, Hùng nghĩ thầm, không bằng pháo hoa — bằng cá thu rán và nước mắm. Đủ Việt Nam, đủ khiêm tốn, đủ thật.
+
+Trên xe về Hà Nội, Hùng ngồi ghế sau, cửa kính mở một khe nhỏ. Gió biển lùa vào mát rượi, mang theo mùi muối và mùi tôm cá khô từ những sân phơi ven đường. Ông nhắm mắt, nhưng không ngủ. Trong đầu hiện ra hình ảnh chồng sổ tay hai mươi năm trước, giờ thành dữ liệu cho một thứ máy móc gọi là trí tuệ nhân tạo. Và những mẫu pin mỏng trong tủ kính, mà một ngày nào đó sẽ chạy cả một đội xe tải. Từ sạp vải chợ huyện, qua bao nhiêu năm, đến cái đêm ngồi trong quán cá Hải Phòng, nghe những đứa trẻ nói về tương lai — ông thấy cuộc đời mình như một chuỗi những bước không bao giờ tính trước được. Mỗi bước đều có lý do vào lúc đó, nhưng nhìn lại, chúng xếp thành một đường thẳng mà ông chưa từng vạch. Ông không gọi đó là định mệnh. Ông gọi là đi tiếp. Đơn giản vậy thôi.
+
+Tài xế hỏi: "Anh Hùng, mình về thẳng nhà hay ghé văn phòng?" Hùng mở mắt, nhìn ra cửa kính — những cánh đồng muối trải dài ven quốc lộ, trắng xóa dưới ánh trăng. "Về nhà. Mai có cuộc họp ở phòng AI. Mà này — đi chậm thôi. Ra khỏi Hải Phòng rồi thì không có việc gì gấp." Xe chạy chậm lại, êm hơn. Hùng ngả đầu vào ghế, lần đầu tiên trong tháng, một giấc ngủ ngắn đến mà ông không kịp chống cự. Xe chạy qua cây cầu sắt bắc ngang sông, bánh xe lăn trên những thanh tà vẹt kêu lịch kịch đều đều. Âm thanh ấy như một thứ nhạc ru, và Hùng — lần đầu tiên không còn nghĩ về số, về việc, về ngày mai — để mình chìm vào quên lãng. Một giấc ngủ không mơ.
 
 「Hệ thống — GHI NHẬN ch.237」
 Năm: 2009
