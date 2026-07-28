@@ -2,7 +2,7 @@
 Chương 41: Sản xuất quạt điện
 ============================================================
 
-Sáng mồng 2 tháng một năm 1985, Hùng mở cửa xưởng Hoài Đức khi lớp sương còn đọng trên mái ngói. Bản vẽ động cơ nhỏ Minh đặt cạnh cuộn dây radio đêm khóa sổ vẫn nằm trong tủ. Không ai được lấy vật tư radio làm thử rồi ghi lẫn vào nhiệm vụ mới. Lan mở một cuốn sổ riêng, dòng đầu ghi rõ: quạt bàn Q-35, điện áp 220 vôn, công suất mục tiêu không quá 45 oát, ba cánh đường kính ba mươi lăm phân, ba cấp gió, có lồng bảo vệ, dây nguồn dài một mét tám.
+Sáng mồng 2 tháng một năm 1984, Hùng mở cửa xưởng Hoài Đức khi lớp sương còn đọng trên mái ngói. Bản vẽ động cơ nhỏ Minh đặt cạnh cuộn dây radio đêm khóa sổ vẫn nằm trong tủ. Không ai được lấy vật tư radio làm thử rồi ghi lẫn vào nhiệm vụ mới. Lan mở một cuốn sổ riêng, dòng đầu ghi rõ: quạt bàn Q-35, điện áp 220 vôn, công suất mục tiêu không quá 45 oát, ba cánh đường kính ba mươi lăm phân, ba cấp gió, có lồng bảo vệ, dây nguồn dài một mét tám.
 
 Ngay dưới dòng ấy là điều kiện nhiệm vụ: trong sáu mươi ngày phải làm xong mẫu đạt chuẩn và một lô đầu một trăm hai mươi chiếc; tỷ lệ lỗi khi xuất xưởng không quá năm phần trăm; hai mươi chiếc chọn ngẫu nhiên phải chạy liên tục tám giờ, nhiệt vỏ động cơ không vượt mức đã chốt bằng mẫu đối chứng; giá thành không quá một trăm mười đồng mỗi chiếc. Nếu hoàn thành, xưởng được ghi nhận hai trăm điểm kinh nghiệm và thêm năm mươi mét vuông kho. Phần sản xuất chỉ kết thúc khi mẫu được khóa, quy trình được viết và lô đầu có thể chạy; việc giao đủ hàng thuộc nhịp sau.
 
