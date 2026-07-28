@@ -1,0 +1,34 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "ts": "2026-07-28T19:19:12",
+      "avg": 7.628,
+      "min_final": 5.58,
+      "pass": 120,
+      "below": 240,
+      "total": 360,
+      "all_pass": false
+    },
+    {
+      "round": 2,
+      "ts": "2026-07-28T19:19:30",
+      "avg": 7.628,
+      "min_final": 5.58,
+      "pass": 120,
+      "below": 240,
+      "total": 360,
+      "all_pass": false
+    },
+    {
+      "round": 3,
+      "ts": "2026-07-28T22:12:43",
+      "avg": 8.623,
+      "min_final": 6.0,
+      "pass": 52,
+      "below": 308,
+      "total": 360,
+      "all_pass": false
+    }
+  ]
+}

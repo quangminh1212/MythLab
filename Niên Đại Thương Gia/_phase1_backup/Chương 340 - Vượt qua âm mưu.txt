@@ -1,0 +1,342 @@
+============================================================
+Chương 340: Vượt qua âm mưu
+============================================================
+
+TP.HCM, tháng Tư năm 2018. Mùa khô, nắng gắt. Nhiệt độ ngoài trời ba mươi sáu độ. Phố Nguyễn Huệ đông nghịt xe, khói bụi mù mịt. Lan ngồi trong phòng họp tầng mười tòa nhà Thương Gia — điều hòa chạy hết công suất, nhưng không khí vẫn nặng nề.
+
+Trên bàn là ba tài liệu.
+
+Thứ nhất: báo cáo từ công ty kiểm toán — phát hiện một công ty con ở Singapore đã ký hợp đồng tái bảo hiểm với một tổ chức tài chính không tên, trị giá năm mươi triệu đô la, không qua phê duyệt hội đồng quản trị. Hợp đồng được ký tháng Mười hai năm ngoái — khi Hùng vừa rời ghế, chưa ai kịp soát lại.
+
+Thứ hai: đơn khiếu nại từ đối tác Nhật Bản — lô hàng linh kiện điện tử bị trả về vì không đạt tiêu chuẩn JIS. Trị giá bảy tỷ. Đối tác đe dọa chấm dứt hợp đồng dài hạn.
+
+Thứ ba: một phong bì kín — không có tên người gửi. Bên trong là bản photo sao kê tài khoản ngân hàng, thể hiện giao dịch ba triệu đô la từ tài khoản Thương Gia vào một công ty ma ở Quần đảo Cayman. Ngày giao dịch: mười lăm tháng Mười hai, 2017. Chữ ký trên lệnh chuyển tiền — không phải của Hùng, không phải của Lan. Là chữ ký của trưởng phòng tài chính — người đã nghỉ việc tuần trước, nói là "về quê chữa bệnh."
+
+Lan nhìn ba tài liệu. Cô không hoảng. Cô đã đợi điều này.
+
+—
+
+Một tuần trước, Lan nhận được cuộc gọi từ số lạ — đầu dây +1 — Mỹ.
+
+"Chị Lan, tôi là David Nguyễn, luật sư tại New York. Tôi được một người giới thiệu — người đó xin giấu tên. Họ bảo tôi gọi cho chị vì có chuyện liên quan đến an ninh tài chính của Thương Gia."
+
+"Có bằng chứng không?"
+
+"Có. Tôi gửi qua email mã hóa. Chị kiểm tra — nếu thấy đúng, chúng ta nói tiếp."
+
+Lan mở email. Bản scan sao kê — tài khoản công ty ma ở Cayman, ba triệu vào tháng Mười hai, thêm bốn triệu vào tháng Giêng. Tổng cộng bảy triệu đô la đã rút khỏi Thương Gia qua ba đợt, không ai phát hiện vì số tiền được phân bổ vào các mục "phí tư vấn chiến lược" và "bảo hiểm rủi ro tỷ giá."
+
+Lan không nói với ai. Cô gọi ông Tam.
+
+"— Chú Tam, cháu cần chú tra giúp cháu một việc. Không hỏi ai, không ghi sổ."
+
+"— Nói."
+
+"— Công ty con Singapore — kiểm tra toàn bộ hợp đồng tái bảo hiểm ký từ tháng Mười năm ngoái."
+
+"— Bao lâu?"
+
+"— Ba ngày."
+
+—
+
+Ba ngày sau, ông Tam gọi lại. Giọng khàn, như người ngủ không đủ.
+
+"— Lan à. Có vấn đề. Công ty con Singapore ký hợp đồng với một tổ chức tên Pacific Reinsurance Ltd. Địa chỉ đăng ký ở Cayman. Giám đốc công ty bảo hiểm đó là người Việt — tên Nguyễn Văn Lực — nhưng CMND là giả. Số CMND thuộc về một người đã chết năm 2010."
+
+"— Ai đứng sau?"
+
+"— Chưa biết. Nhưng trưởng phòng tài chính — người nghỉ việc tuần trước — là người ký hợp đồng."
+
+"— Chú có biết ông ta ở đâu không?"
+
+"— Về quê Quảng Ngãi. Nhưng đó là tin giả. Thực tế ông ta đã bay đi Bangkok hôm thứ Sáu."
+
+—
+
+Lan ngồi yên một phút. Cô mở tủ lấy tập tài liệu riêng — tập tài liệu Hùng để lại trước khi rời ghế. Trong tập, trang mười lăm: "Nếu có dấu hiệu rút tiền qua Cayman, kiểm tra Pacific Reinsurance — đó là bình phong của nhóm đã từng tấn công Thương Gia năm 2008."
+
+Hùng đã biết trước.
+
+—
+
+Sáng thứ Hai, tám giờ. Lan triệu tập cuộc họp khẩn — chỉ ba người: Lan, ông Tam, và luật sư riêng của Thương Gia — luật sư Phạm Quốc Hưng, người đã làm việc với tập đoàn mười lăm năm.
+
+Luật sư Hưng năm mươi lăm tuổi, tóc bạc, mắt sắc, nói chậm. Ông mở túi tài liệu, đặt lên bàn bản photo hợp đồng tái bảo hiểm.
+
+"— Chị Lan, tôi đã xem. Hợp đồng này được soạn thảo rất tinh vi — nó không sai về mặt pháp lý nếu đứng một mình. Nhưng nó sai ở chỗ: không có phê duyệt của hội đồng quản trị, không có đấu thầu, và công ty bảo hiểm kia không có giấy phép hoạt động tại Singapore. Về mặt hình sự, đây là lừa đảo chiếm đoạt tài sản. Về mặt dân sự, đây là vi phạm điều lệ công ty."
+
+"— Có truy tố được không?" Lan hỏi.
+
+"— Được. Nhưng mất thời gian. Và kẻ đứng sau đã tính toán điều đó — họ biết nếu đưa ra tòa, bê bối sẽ ảnh hưởng tới cổ phiếu. Họ muốn làm mất uy tín của chị ngay trong ba tháng đầu."
+
+"— Nếu không ra tòa — mình tự xử lý?"
+
+"— Có thể. Nếu chị chứng minh được hợp đồng vô hiệu và thu hồi tiền trong vòng ba mươi ngày, Pacific Reinsurance sẽ sụp. Họ không có tài sản thật — chỉ có bảy triệu đô la của Thương Gia và tiền từ vài công ty khác."
+
+—
+
+Lan quyết định trong năm phút.
+
+"— Hướng một: đóng băng toàn bộ giao dịch với Pacific Reinsurance qua ngân hàng Singapore. Yêu cầu ngân hàng phong tỏa tài khoản vì dấu hiệu gian lận. Hướng hai: thuê công ty điều tra tư nhân ở Bangkok để xác định vị trí của trưởng phòng tài chính. Hướng ba: công bố với hội đồng quản trị — nhưng công bố hạn chế, chỉ nói 'phát hiện sai sót trong hợp đồng tái bảo hiểm, đang xử lý' — không nói số tiền, không nói tên tổ chức. Hướng bốn: liên hệ đối tác Nhật — tự tôi bay sang xin lỗi và đàm phán lại."
+
+Ông Tam nhìn Lan, im lặng một lúc, rồi gật đầu.
+
+"— Cháu làm được."
+
+—
+
+Chiều thứ Hai, Lan gọi điện cho giám đốc ngân hàng Singapore — ông Kenneth Tan, người đã làm việc với Thương Gia từ 2010.
+
+"— Kenneth, tôi cần anh giúp. Tài khoản của Pacific Reinsurance tại ngân hàng anh — có dấu hiệu gian lận. Tôi đề nghị phong tỏa."
+
+"— Có bằng chứng không, Lan? Tôi cần bằng chứng để hợp pháp."
+
+"— Tôi gửi bản scan hợp đồng và sao kê. Hợp đồng ký bằng giấy tờ giả. Anh kiểm tra — nếu đúng, phong tỏa trong bảy ngày."
+
+"— Nếu đúng, tôi sẽ làm. Nhưng Lan — nếu không đúng, tôi mất việc."
+
+"— Tôi biết. Tôi không yêu cầu anh làm điều trái pháp luật. Tôi chỉ yêu cầu anh kiểm tra."
+
+Kenneth im lặng ba mươi giây.
+
+"— Lan, tôi tin chị. Tôi sẽ kiểm tra."
+
+—
+
+Tối thứ Hai, Lan gọi David Nguyễn — luật sư ở New York.
+
+"— David, tôi cần anh giúp thêm. Ai gửi anh tài liệu đó?"
+
+"— Tôi không thể nói. Họ yêu cầu giấu tên."
+
+"— Nhưng họ đang giúp tôi — tôi cần biết có thể tin họ tiếp không."
+
+"— Chị có thể tin. Người đó — nói thế này: 'Bảo chị Lan kiểm tra Pacific Reinsurance. Nếu chị ấy làm nhanh, tiền còn. Nếu chậm, tiền mất.'"
+
+"— Anh ấy — hay cô ấy — có liên quan đến Pacific không?"
+
+"— Có. Nhưng không phải phe chủ mưu. Người đó ở trong hệ thống — và muốn phá nó từ bên trong."
+
+Lan hiểu. Một người trong tổ chức của đối thủ đã gửi tín hiệu.
+
+—
+
+Sáng thứ Ba, tin từ Kenneth: tài khoản Pacific Reinsurance đã bị phong tỏa. Số dư: sáu triệu tám trăm nghìn đô la. Thiếu hai trăm nghìn — đã được rút ra bằng tiền mặt tại một ngân hàng khác ở Hong Kong.
+
+Cùng lúc, công ty điều tra tư nhân báo tin từ Bangkok: trưởng phòng tài chính đang ở một khách sạn nhỏ quận Sukhumvit. Ông ta mua vé máy bay đi Phnom Penh ngày hôm sau.
+
+Lan ra lệnh: giữ ông ta ở Bangkok — không bắt, không đe dọa. Chỉ giữ.
+
+—
+
+Chiều thứ Ba, một cuộc gọi đến điện thoại Lan. Số lạ — đầu số +66 — Thái Lan.
+
+"— Chị Lan? Tôi là Lê Văn Thành — trưởng phòng tài chính Thương Gia."
+
+Giọng ông ta run. Hốt hoảng.
+
+"— Tôi biết. Anh đang ở Bangkok."
+
+"— ...Chị biết?"
+
+"— Tôi biết anh ký hợp đồng với Pacific Reinsurance. Tôi biết anh nhận hoa hồng. Tôi biết anh bay đi Thái hôm thứ Sáu. Anh định đi Campuchia ngày mai."
+
+Im lặng dài.
+
+"— Chị... chị muốn gì?"
+
+"— Tôi muốn anh quay về. Không phải để bắt anh. Để anh khai."
+
+"— Nếu em về, em sẽ đi tù."
+
+"— Nếu anh không về, anh sẽ không bao giờ về Việt Nam được nữa. Không thấy vợ, không thấy con. Pacific sẽ không bảo vệ anh — họ đã lấy tiền của anh rồi. Anh kiểm tra tài khoản cá nhân đi."
+
+Tiếng gõ bàn phím. Một phút sau, giọng ông ta vỡ ra.
+
+"— Nó... nó trống rỗng. Hai tỷ... mất hết."
+
+"— Tôi biết. Họ trả anh hoa hồng bằng tài khoản ảo. Số tiền đó đã được chuyển đi từ hôm qua."
+
+"— Em không còn gì."
+
+"— Anh còn một thứ: cơ hội làm chứng. Nếu anh về, tôi sẽ giúp anh giảm án. Anh sẽ không mất tự do vĩnh viễn. Nhưng nếu anh không về — anh mất tất cả."
+
+—
+
+Nửa đêm thứ Ba, trưởng phòng tài chính lên máy bay Bangkok — Hà Nội. Ông ta ngồi ghế phổ thông, không ai kèm. Trên máy bay, ông ta khóc. Một tiếp viên hỏi có cần giúp không — ông ta lắc đầu.
+
+—
+
+Sáng thứ Tư, tám giờ. Lan có mặt tại văn phòng luật sư Hưng. Trưởng phòng tài chính ngồi đối diện — mặt hốc hác, quần áo nhàu, mắt đỏ ngầu. Bên cạnh ông ta là luật sư hình sự — người Lan đã thuê để bảo vệ quyền lợi cho ông ta khi khai.
+
+"— Kể đi."
+
+Ông ta kể. Từ đầu.
+
+"— Tháng Chín năm ngoái, có một người liên lạc với em qua email. Ông ta tự xưng là đại diện của Pacific Reinsurance. Ông ta biết tất cả về Thương Gia — doanh thu, lợi nhuận, điểm yếu, người nào có thể mua chuộc. Ông ta bảo: 'Hùng sắp rời ghế. Thương Gia sẽ yếu. Bây giờ là cơ hội để kiếm tiền.'"
+
+"— Ông ta hứa gì?"
+
+"— Hoa hồng năm phần trăm trên mỗi hợp đồng tái bảo hiểm. Tổng cộng — nếu ký ba hợp đồng, em được triệu đô."
+
+"— Anh gặp ông ta chưa?"
+
+"— Một lần. Tại Singapore. Ông ta đeo kính đen, nói tiếng Việt giọng Bắc. Cao, gầy, khoảng năm mươi tuổi. Ông ta bảo em ký hợp đồng — và đừng hỏi nhiều."
+
+"— Có ghi âm không?"
+
+"— Có. Em ghi âm bằng điện thoại — phòng thân."
+
+Ông ta lấy điện thoại, mở file ghi âm. Giọng người đàn ông — rõ, lạnh, bình thản:
+
+"— Anh ký đi. Hùng sắp về vườn. Thương Gia trong tay đàn bà — sáu tháng nữa là tan hoang. Anh ký hợp đồng, lấy tiền, biến. Không ai truy được."
+
+Giọng đó — Lan đã nghe ở đâu rồi. Cô nhắm mắt, nhớ lại. Năm 2008. Hội nghị đối tác chiến lược tại Hà Nội. Một người đàn ông — đeo kính, cao, gầy, giọng Bắc — đến bắt tay Hùng, nói: "Chúc Thương Gia thành công." Hùng sau đó nói với Lan: "Người đó — ông ta từng là phó tổng giám đốc một tập đoàn tài chính. Cẩn thận."
+
+—
+
+Lan gọi Hùng.
+
+"— Anh, em cần hỏi một chuyện. Năm 2008 — hội nghị đối tác — người đàn ông đến bắt tay anh, đeo kính, giọng Bắc — ông ta tên gì?"
+
+"— Nguyễn Đăng Khoa. Nguyên phó tổng BacKinh Capital. Sao?"
+
+"— Ổng đang cố rút tiền Thương Gia qua Pacific Reinsurance."
+
+Hùng im lặng năm giây.
+
+"— Anh đã cảnh giác ông ta từ 2008. Ông ta bị Bộ Tài chính cảnh cáo năm 2009 vì thành lập công ty ma. Năm 2012, ông ta mất giấy phép môi giới. Từ đó biến mất — cho tới bây giờ."
+
+"— Anh có bằng chứng không?"
+
+"— Không đủ để khởi tố. Nhưng anh biết ông ta quen ai, ở đâu, làm gì. Nếu em cần — anh gặp ông ta."
+
+"— Không. Để em."
+
+—
+
+Chiều thứ Tư, Lan ra lệnh mở chiến dịch: vừa pháp lý, vừa tài chính, vừa truyền thông. Ba mũi.
+
+Mũi một — luật sư Hưng nộp đơn yêu cầu tòa án Singapore tuyên bố hợp đồng tái bảo hiểm vô hiệu do gian lận, kèm bằng chứng giấy tờ giả và bản ghi âm.
+
+Mũi hai — Kenneth đóng băng tài khoản Pacific Reinsurance và chuyển số dư vào tài khoản tạm giữ của tòa án. Thương Gia cam kết bồi thường nếu sai — nhưng không sai.
+
+Mũi ba — Lan họp báo. Không phải họp báo hoành tráng — chỉ một thông cáo ngắn: "Thương Gia phát hiện và xử lý kịp thời gian lận tài chính tại công ty con Singapore. Thiệt hại: không đáng kể. Đã thu hồi sáu phẩy tám triệu đô la. Đang hợp tác với cơ quan chức năng."
+
+Cổ phiếu Thương Gia giảm một phẩy hai phần trăm trong một ngày — rồi hồi lại. Thị trường đánh giá cao phản ứng nhanh.
+
+—
+
+Tối thứ Năm, Lan nhận được cuộc gọi từ số +65 — Singapore.
+
+"— Cô Lan, tôi là Nguyễn Đăng Khoa."
+
+Giọng lạnh, bình thản — đúng giọng trong file ghi âm.
+
+"— Tôi biết. Ông gọi để chửi hay để thương lượng?"
+
+"— Để chúc mừng. Cô xử lý nhanh hơn tôi nghĩ. Tôi đã tính cô mất một tháng để phát hiện — cô phát hiện trong mười ngày."
+
+"— Tôi lớn lên trong cửa hàng tạp hóa. Ở đó, nếu mất một ngày là mất khách. Một tháng là mất cửa hàng."
+
+"— Cô giỏi. Nhưng chưa thắng."
+
+"— Tôi không cần thắng ông. Tôi chỉ cần Thương Gia an toàn. Và nó an toàn rồi."
+
+"— Cô nghĩ vậy? Còn ba công ty con khác. Còn hợp đồng khác. Còn người khác."
+
+"— Ông nói thật hay hù?"
+
+"— Thật."
+
+"— Vậy ông đã thua. Vì khi ông nói điều đó với tôi — ông đã cho tôi biết ông còn quân. Tôi sẽ tìm."
+
+Im lặng.
+
+"— Cô Lan, tôi đề nghị hòa. Tôi dừng. Cô dừng."
+
+"— Tôi không dừng. Tôi sẽ tìm ra toàn bộ hệ thống của ông — và đóng nó. Tôi không làm điều đó vì thù. Tôi làm vì không ai được phép dùng Thương Gia làm sân chơi."
+
+"— Cô có biết tôi quen ai không?"
+
+"— Không quan tâm. Nếu ông quen ai, họ sẽ tự biết: đụng vào Thương Gia là đụng vào tôi. Và tôi không biết sợ."
+
+—
+
+Cuộc gọi kết thúc. Lan đặt điện thoại xuống. Tay cô run — nhưng giọng không run. Cô uống một cốc nước lọc, ra ban công tầng mười.
+
+TP.HCM về đêm — ánh đèn vàng, xe cộ thưa dần. Gió thổi nhẹ. Lan nhìn xuống phố — những quán cà phê vỉa hè, người bán hàng rong, đôi tình nhân đi dạo. Thành phố sống tiếp.
+
+Cô gọi Hùng.
+
+"— Anh ngủ chưa?"
+
+"— Chưa. Đợi em gọi."
+
+"— Xong rồi. Ông Khoa gọi. Ổng đề nghị hòa — em không nhận."
+
+"— Em muốn làm gì tiếp?"
+
+"— Truy tận gốc. Nhưng từ từ. Giờ em có bằng chứng trong tay, có luật sư, có ngân hàng Singapore. Ông ta không dám động mạnh."
+
+"— Anh tự hào về em."
+
+"— ...Cảm ơn anh."
+
+Hai người im lặng qua điện thoại. Tiếng thở đều. Cuộc gọi không cần thêm lời.
+
+—
+
+Sáng thứ Sáu, Lan họp hội đồng quản trị. Cô trình bày toàn bộ sự việc — từ phát hiện, xử lý, tới kết quả. Bảy triệu đô la đã thu hồi sáu phẩy tám. Trưởng phòng tài chính đã khai. Pacific Reinsurance bị phong tỏa. Nguyễn Đăng Khoa bị cảnh sát Singapore đưa vào danh sách theo dõi.
+
+Một cổ đông hỏi: "Chị có sợ bị trả thù không?"
+
+Lan cười — lần đầu cô cười trong cuộc họp đó.
+
+"— Tôi sợ mất công ty hơn. Trả thù — nếu đến — thì đến. Tôi đã sống qua chiến tranh, qua đói, qua mất mát. Một cuộc gọi dọa nạt không làm tôi mất ngủ."
+
+—
+
+Cuối tuần, Lan bay ra Đà Nẵng. Cô không đi công tác — cô về nhà. Nhà ở Đà Nẵng — căn nhà nhỏ cạnh sông Hàn, nơi Hùng chọn để nghỉ hưu.
+
+Năm giờ chiều, Lan và Hùng ngồi ở ban công. Sông Hàn lặng, cầu quay sơn trà ánh đèn vàng. Gió sông mát. Hai ly trà đá — đá tan, trà đặc, không đường.
+
+"— Anh có biết ngày em nhận vị trí — em nghĩ em sẽ thất bại không?"
+
+"— Biết."
+
+"— Sao anh không nói?"
+
+"— Vì em phải tự biết. Người khác nói em giỏi — em không tin. Nhưng khi em tự thấy mình xử lý được — em tin."
+
+"— Hôm nay em tin."
+
+Hùng gật đầu, nhấp một ngụm trà. Gió sông Hàn thổi lên, mát và mặn, mang theo mùi phù sa và nước lợ. Dưới kia, mặt sông lấp lánh ánh đèn từ cầu quay, từng gợn sóng nhỏ vỗ vào bờ kè với âm thanh ì oạp đều đặn, nhịp nhàng như hơi thở. Mắt ông nhìn xa — không phải nhìn cầu, mà nhìn ba mươi năm trước, về một buổi tối khác ở Quốc Oai, nơi có nước mương và gió đồng thổi qua những bụi tre gai.
+
+"Ngày xưa anh cũng vậy. Lần đầu ký hợp đồng mười triệu — tay run. Tưởng mình làm sai. Nhưng khi hàng về, tiền về, người ta gọi cảm ơn — anh biết mình đúng." Hùng xoay nhẹ ly trà trong tay. Đá tan lách cách, va vào thành thủy tinh — thứ âm thanh trong trẻo của một buổi tối yên lành.
+
+Lan dựa vào ghế. Lần đầu sau hai tháng — thực sự thả lỏng. Cô nhắm mắt, cảm nhận hơi sông trên da, những ngón tay từng nắm chặt suốt mười ngày qua giờ mới chịu mở ra, buông xuống, mềm mại trên thành ghế tựa.
+
+—
+
+Chủ nhật, Lan bay vào TP.HCM. Cô có lịch họp với đối tác Nhật — người đã đe dọa chấm dứt hợp đồng. Trên máy bay, cô mở sổ tay, ghi:
+
+"Tuần này: vượt qua âm mưu đầu tiên. Tiền về gần hết. Kẻ chủ mưu lộ diện. Đối tác Nhật — sẽ xin lỗi và đảm bảo chất lượng. Còn ba tháng thử việc — đủ để chứng minh."
+
+Cô gấp sổ, nhìn ra cửa sổ. Mây trắng, bầu trời xanh. Đất nước bên dưới — những dải ruộng xanh, dòng sông, làng mạc. Ba mươi năm trước, Hùng bắt đầu từ một cửa hàng nhỏ. Hôm nay, vợ ông đang bay giữa trời, vừa đánh bại một âm mưu tài chính quốc tế, trên đường đi cứu hợp đồng với đối tác Nhật.
+
+Không phim. Không kịch. Chỉ là việc — phải làm, đã làm, sẽ làm tiếp.
+
+============================================================
+
+
+Hùng gấp tờ giấy lại, bỏ vào phong bì. Ba tháng. Ba tháng căng như dây đàn, những đêm không ngủ, những cuộc gọi lúc nửa đêm, những con số không khớp. Nhưng rồi cũng qua. Ông ngồi im, không nghĩ gì, chỉ cảm nhận nhịp tim đang đập chậm dần. Lần đầu tiên từ khi vụ việc bắt đầu, ông thấy lồng ngực mình nhẹ. Không phải vì đã thắng — mà vì không ai trong gia đình bỏ cuộc. Lan ngồi đối diện, cũng im lặng. Cả hai không nói với nhau câu nào. Chỉ có tiếng gió luồn qua khe cửa, như một tiếng thở dài của số phận.
+
+「Hệ thống — GHI NHẬN ch.340」
+Năm: 2018
+Tổng EXP: 87,600 (+600 nhịp này)
+Không gian kho: 50,720m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3, Xử lý khủng hoảng lv1
+Ghi chú: Đã vượt qua âm mưu Pacific Reinsurance — thu hồi 6.8/7tr USD — kẻ chủ mưu Nguyễn Đăng Khoa bị phong tỏa
+============================================================

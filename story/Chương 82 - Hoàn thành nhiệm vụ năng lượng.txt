@@ -93,6 +93,8 @@ Kỹ sư điện — một người trẻ tên Cường, mới tốt nghiệp �
 
 "Làm đi."
 
+Mồ hôi lấm tấm trên trán Cường, lăn xuống má rồi nhỏ giọt lên sàn xi măng. Những ngón tay cậu hơi run khi cầm tuốc-nơ-vít—không phải run vì sợ, mà vì biết mười mấy cặp mắt đang chờ. Hùng đứng sau, không nói, chỉ nhìn. Cậu cảm nhận được cái nhìn ấy trên gáy, nặng nhưng không đè—giống như một bàn tay đặt lên vai để nói "cứ làm, tao ở đây". Khi dòng điện ổn định và đèn báo chuyển xanh, Cường thở ra một hơi mà không biết mình đã nín từ lúc nào.
+
 Cường chỉnh thông số, đặt lại rơ-le, kiểm tra dòng. Năm phút sau, tủ điện hoạt động trở lại. Không tiếng kêu.
 
 Hùng ghi vào sổ: *Rơ-le nhiệt quạt làm mát tổ máy 3 nhảy ở phút 15 thử tải 75%. Nguyên nhân: điện áp lưới thấp, dòng khởi động tăng. Xử lý: chỉnh thời gian trễ từ 5s lên 8s. OK.*
@@ -324,5 +326,8 @@ Năm: 1986
 Tổng EXP: 12,750 (+250 nhịp này)
 Không gian kho: 4,600m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Nhà máy điện chạy ổn định, sản xuất tăng gấp đôi. Nhưng hóa đơn dầu diesel không nhỏ.
+Hùng ghi: "Cần tìm năng lượng khác." Hướng đi mới hình thành.
+
+Ánh sáng từ nhà máy điện thắp sáng cả một huyện — và cả niềm tin của dân.
 ============================================================

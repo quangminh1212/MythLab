@@ -307,3 +307,14 @@ Không gian kho: 5,200m² (+200m²)
 Kỹ năng trọng yếu: Sản xuất lv2, Quản lý lv2, Ngôn ngữ lv2
 Ghi chú: nhà máy Thái Lan vận hành — đánh dấu bước mở rộng quốc tế đầu tiên
 ============================================================
+
+Teaser: 
+
+
+「Hệ thống — GHI NHẬN ch.107」
+Năm: 1987
+Tổng EXP: 17,375 (+125)
+Không gian kho: 5,733m² (+33m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú:  system_ledger
+============================================================

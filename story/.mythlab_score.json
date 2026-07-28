@@ -1,0 +1,20 @@
+{
+  "_comment": "Per-series scoring config cho MythLab strict_score.py. Saga niên đại 1983->2024 + trùng sinh. year_check=dateline: chỉ flag khi dateline mở chương lệch panel gap nhỏ (foresight/flashback KHÔNG bị phạt).",
+  "genre": "niendai_era",
+  "has_system": true,
+  "rebirth": true,
+  "story_year_min": 1980,
+  "story_year_max": 2024,
+  "year_check": "dateline",
+  "dateline_gap_max": 6,
+  "min_words": 3000,
+  "max_words": 4200,
+  "anachronism_allow": ["iphone", "code", "startup", "email", "app ", "online", "internet", "laptop"],
+  "motif_whitelist": [
+    "thu - chi - nợ lời - nợ người",
+    "ai bị bỏ lại phía sau",
+    "tam giác giá - không bao giờ tròn",
+    "cửa vẫn mở, hàng vẫn đúng, lương vẫn trả",
+    "ăn chưa"
+  ]
+}

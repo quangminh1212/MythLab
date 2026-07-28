@@ -1,0 +1,60 @@
+# BRIEF — Chương 248: Trung tâm dữ liệu Thương Gia
+
+FILE (exact): Chương 248 - Trung tâm dữ liệu Thương Gia.txt
+Ledger: EXP=52000, space=20000m²
+Năm chủ đạo hiện tại trong prose: 2009
+Token hiện tại: 3066 | Clone: 45.8% (21 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- ============================================================
+- Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ 
+- Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô 
+- Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng k
+- Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?
+- Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nh
+- Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn 
+- Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc l
+- "Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng
+- Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+- Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng
+- Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+- Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gâ
+- Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm t
+- Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết 
+- Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ 
+- Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+- Khách hàng mới — một người đàn bà ngoài bốn mươi, quê Nam Định, muốn mua sỉ hai mươi mét vải. Chị ta trả giá thấp, nói hàng chợ huyện rẻ hơn. Hùng nhìn đôi dép tổ ong mòn gót của chị, nhìn bàn tay chai sạn. 'Em lấy mười lăm mét, chị bớt ba đồng một mét. Chị lấy hết hai mươi, em bớt năm đồng.' Chị ta
+- Văn phòng làm việc sáng thứ Hai. Hùng ngồi sau bàn gỗ, cốc cà phê đã nguội từ sớm. Trước mặt là bản đề xuất dày hai mươi trang. Ông đọc từng trang, ghi chú vào lề bằng bút đỏ. Có những dòng ông gạch, có những dòng ông khoanh. Lan gõ cửa bước vào, mang theo tách trà mới. 'Anh chưa ăn sáng.' Hùng khôn
+- Chiều, Hùng ra ngoài đi dạo một mình. Phố xá đông đúc, nhưng ông không để ý. Ông nhìn những tòa nhà mới mọc lên, những cửa hàng mới mở. Hà Nội đã khác xưa nhiều. Xe máy thay xe đạp, biển hiệu thay bảng gỗ. Nhưng ở một góc, ông vẫn thấy bà cụ bán chè đỗ đen, vẫn thấy người đàn ông đạp xích lô, vẫn th
+- Tối, bà Hà gọi điện thoại. Giọng bà yếu nhưng vẫn ấm. 'Mày ăn cơm chưa?' Hùng bảo chưa, nhưng sắp ăn. Bà bảo: 'Đừng làm việc quá khuya. Sức khỏe là vốn.' Hùng ậm ừ cho qua. Cúp máy, ông nhìn ra cửa sổ trời tối. Đèn đường Hà Nội vàng vọt. Ông lấy cơm nguội ra, chan nước mắm, ăn trong phòng tối, không
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- Gió quật qua khu nhà máy Hải Phòng như một bàn tay vô hình ném những hạt mưa vào tường gạch đã cũ. Cơn bão số bảy đổ bộ vào đất liền lúc hai giờ sáng, mang theo sức gió cấp mười hai. Những cơn gió đầu tiên xé toạc mái tôn của khu nhà xe, cuốn bay những tấm tôn mỏng như những mảnh giấy vụn lên không 
+- Căn phòng máy đặt ở cuối dãy nhà xưởng, một căn phòng nhỏ mười lăm mét vuông được cải tạo thành nơi ở của mười một máy chủ. Căn phòng không có cửa sổ lớn, chỉ một ô kính nhỏ bốn mươi phân vuông, nhưng điều hòa Mitsubishi đời cũ thì có. Máy lạnh đã rè rè suốt ba năm, thỉnh thoảng nhả hơi lạnh yếu ớt,
+- Dũng đang ngồi ở bàn trực, tay cầm cốc mì tôm ăn dở dang, chết sững trong bóng tối. Anh không thấy gì, nhưng nghe được. Nghe tiếng tim anh đập thình thịch. Nghe tiếng quạt làm mát trong tủ rack — thứ âm thanh đều đều như nhịp thở — yếu dần, rít lên một tiếng khô khốc ở âm vực cao, rồi tắt hẳn. Máy p
+- Dũng thò tay vào túi quần, mò mẫm rút Nokia 6300 khỏi túi. Màn hình xanh nhỏ sáng lên. Anh bấm thử một số — không sóng. Các tháp viễn thông trong vùng đã gãy đổ. Anh mò mẫm dọc hành lang sang phòng bên, tay phải dò dẫm men theo tường để khỏi vấp ngã, tay trái cầm điện thoại làm đèn pin hắt thứ ánh s
+- "Mất điện rồi," một người nói. Giọng ông trầm và bình thản, như thể đã nói câu đó hàng trăm lần trong đời. "Chắc ba ngày nữa."
+- Dự đoán đó chính xác. Ba ngày sau, khi điện trở lại, Dũng bật từng máy. Máy số một — màn hình đen với dòng chữ trắng "DISK BOOT FAILURE." Máy số hai — "File system corrupted. Run CHKDSK." Máy số ba — "NTLDR is missing." Máy số bốn lên Windows nhưng ổ D trống rỗng, như thể ai đó đã vào xóa đi tất cả 
+- Anh gọi Hùng. Giọng khản đặc vì ba ngày nói không ngừng với nhân viên, với đội cứu hộ điện, với công ty bảo hiểm. Chiếc điện thoại bàn để ở góc bàn — máy analog, chạy bằng tín hiệu tương tự không phụ thuộc server — là thứ duy nhất còn hoạt động bình thường.
+- Đầu dây bên kia im lặng hồi lâu. Hùng đang cân nhắc. Cân nhắc chi phí. Cân nhắc rủi ro. Cân nhắc cái câu hỏi muôn thuở: đầu tư vào thứ không nhìn thấy — có đáng không?
+- "Bao nhiêu tiền để không bao giờ chuyện đó xảy ra nữa?"
+- "Một tỷ. Có thể hơn em tính rồi, gồm thiết bị, thi công, điều hòa, máy phát, tủ rack, UPS, tường chống cháy, sàn nâng. Giai đoạn một."
+- Hai giờ sau, Dũng ngồi trong phòng khách nhà Hùng. Anh trải tấm bản vẽ A3 lên mặt bàn gỗ — tờ giấy trắng với những đường kẻ kỹ thuật bằng bút chì, ghi chú tiếng Việt lẫn tiếng Anh. Bà Hà mang hai tách trà xanh ra, đặt nhẹ nhàng, rồi đi vào bếp. Ở gian nhà này, bà luôn biết khi nào cần ở lại và khi n
+- "Tường chống cháy hai lớp, mỗi lớp chịu lửa hai tiếng. Cửa thép chống cháy. Sàn nâng sáu mươi phân — nước tràn vào, thiết bị vẫn ráo," Dũng chỉ từng chi tiết. "Hai nguồn điện riêng từ hai trạm biến áp khác nhau — một ở cảng, một ở khu công nghiệp. Máy phát diesel 100 KVA trên bệ cao bốn mươi phân. U
+- "Theo tiêu chuẩn quốc tế: Tier 3. Bảo trì không ngừng. Mất một nguồn điện vẫn chạy."
+- Hùng gật đầu — một cái gật đầu nhẹ. "Làm."
+- Trong suốt thời gian thi công, Dũng sống ở Hải Phòng. Sáng nào chị Vân ở kho bên cạnh cũng mang cà phê ra. Chị mặc chiếc quần vải đen đã bạc màu, đi đôi dép tổ ong, tay xách phích hai lít nước sôi pha sẵn. Dũng và chị Vân biết nhau từ bảy năm trước, từ ngày chị còn là tổ trưởng tập sự, từ ngày chị đ
+- Đêm khánh thành, Hùng xuống. Ông đặt tay lên cánh tủ rack lạnh lẽo, cảm nhận cái rung nhẹ của máy chủ bên trong. "Hai ổ khóa," Dũng chỉ vào tủ băng từ. "Em giữ một. Nội kiểm giữ một. Mở phải có hai người. Thêm vân tay và mã PIN."
+- Hùng gật đầu. Đi dọc dãy tủ rack, qua khu UPS, qua khu máy phát. "Còn làm thêm không?"
+- "Dũng nghĩ mình cần ba cái, rải ba miền. Phòng khi một nơi sập."
+- Về Hà Nội, Hùng ghi vào cuốn sổ bìa đen: "Hải Phòng DC done. Dũng bảo làm ba cái. Tốn. Nhưng tốn đúng chỗ."
+- Chiều hôm đó, Hùng nhận được điện thoại từ Dũng trung tâm dữ liệu mới đã hoạt động ổn định tuần đầu. Điện không cúp, máy chủ không tắt, nhiệt độ trung tâm duy trì ở mức 22 độ. Dũng nói: "Máy lạnh mới chạy êm ru. Em ngủ được ba tiếng liền, lần đầu trong tháng." Hùng khẽ cười: "Ngủ đi. Mai lại còn việ
+- Buổi sáng, Hùng ngồi bên ấm trà nóng. Mùi chè xanh bốc lên từ chiếc ấm đất nung. Ông mở cuốn sổ đã cũ ra, trang giấy ố vàng. Các con số viết tay, nét mực đã nhòe ở một vài chỗ. Hùng đọc lại từng dòng — doanh thu từng ngày, tên người mua, giá bán. Ông không nhớ mặt từng khách, nhưng những con số thì 
+- Đầu giờ chiều, một người đàn ông lạ mặt tìm đến. Ông ta tự giới thiệu là thương lái từ Hải Phòng, muốn mua sỉ vải trắng. Hùng hỏi giá, số lượng, thời hạn thanh toán. Người đàn ông trả lời trôi chảy, nhưng ánh mắt không yên — cứ đảo quanh. Hùng hỏi: 'Tiền cọc bao nhiêu?' Người đàn ông hứa hẹn. Hùng i
+- Buổi tối, Hùng ngồi ngoài hiên. Đã có lần ông tin lời một người lạ, và mất cả lô hàng. Vết sẹo dưới lòng bàn tay trái nhói lên mỗi khi trời sắp lạnh. Ông nhìn ra sân, nơi đống rơm khô chất cao. Mùi rơm khô lẫn mùi đất ẩm. Ông nhắm mắt, thở dài. Ngày mai lại tiếp tục.
+- Kỹ năng trọng yếu: Công nghệ cao lv3, Quản trị dữ liệu lv1
+- Ghi chú: Trung tâm dữ liệu cấp Tier 3 đầu tiên của doanh nghiệp tư nhân VN
+- Teaser: Một email từ địa chỉ lạ xuất hiện trong hộp thư Hùng — @californiatechventures.com. Bên kia Thái Bình Dương, ai đó đã chú ý tới Thương Gia.

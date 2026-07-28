@@ -1,0 +1,82 @@
+# BRIEF — Chương 228: Lan giữ pháo đài Mỹ
+
+FILE (exact): Chương 228 - Lan giữ pháo đài Mỹ.txt
+Ledger: EXP=43000, space=15000m²
+Năm chủ đạo hiện tại trong prose: 2008
+Token hiện tại: 3394 | Clone: 25.7% (17 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- ============================================================
+- Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ 
+- Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô 
+- Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng k
+- Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?
+- Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nh
+- Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn 
+- Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc l
+- "Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng
+- Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+- Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng
+- Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+- Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gâ
+- Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm t
+- Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết 
+- Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ 
+- Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- New York, tháng Mười năm 2008. Trần Thị Lan đứng trước cửa sổ văn phòng thuê tạm ở Manhattan, nhìn xuống phố Wall. Trên màn hình TV ở góc phòng, Dow Jones lại đỏ sẫm. Một biểu tượng nước Mỹ khác vừa sụp: Washington Mutual, ngân hàng tiết kiệm lớn nhất nước Mỹ với hơn 300 tỷ USD tài sản, bị chính phủ
+- Đây là chuyến công tác thứ ba của Lan đến Mỹ trong chưa đầy hai tháng. Mỗi lần đến, bầu không khí lại nặng nề hơn. Manhattan vốn nhộn nhịp suốt ngày đêm, bây giờ như một thành phố ma — cửa hàng đóng cửa sớm, nhà hàng vắng khách, người đi bộ trên phố cúi gằm mặt, không ai cười. Những tòa nhà văn phòn
+- Lan nhìn đồng hồ — tám giờ sáng. Cô có cuộc hẹn với Sarah, giám đốc mua hàng của Best Electronics — một chuỗi siêu thị điện tử hai mươi ba cửa hàng ở California — lúc mười giờ. Trước đó, cô phải gọi cho đối tác logistics ở Long Beach xác nhận lô hàng cuối cùng. Trên bàn là ba tập hồ sơ dày với bút đ
+- "Em đang ở văn phòng. Chuẩn bị họp với Best Electronics — hai mươi ba cửa hàng ở California. Họ mua linh kiện của mình từ năm 2005. Tháng trước họ giảm bốn mươi phần trăm đơn hàng. Em đến để kéo lại."
+- "Chấp nhận giảm giá 5%, kéo dài thanh toán từ ba mươi lên bốn mươi lăm ngày, cam kết giao hàng trong mười bốn ngày thay vì hai mươi mốt. Em cũng sẽ mời họ sang thăm nhà máy Hải Phòng — chi phí em lo. Khi họ thấy dây chuyền sản xuất tận mắt, họ sẽ tin hơn."
+- "Em cắt lợi nhuận, tăng rủi ro thanh toán. Xứng đáng không?"
+- "Thưa anh, em tính rồi," Lan nói, giọng điềm tĩnh. "Nếu mất Best, doanh thu mảng Mỹ giảm 12%. Chi phí cố định — văn phòng New York, kho bãi Long Beach, ba nhân sự — vẫn phải trả. Giữ họ, dù lợi nhuận giảm, vẫn tốt hơn mất họ và phải đóng cửa văn phòng Mỹ. Em đã tham khảo một công ty tư vấn — họ báo 
+- "Chi phí văn phòng Mỹ bao nhiêu một tháng?"
+- "55,000 USD — thuê văn phòng, lương ba nhân viên, kho bãi nhỏ, phí pháp lý, bảo hiểm. Em đã cắt giảm từ tháng trước — trả xe thuê, cắt chi phí tiếp khách, chuyển gói internet sang gói cơ bản, giảm tần suất dọn vệ sinh. Tiết kiệm được 8,000 USD một tháng."
+- "Vậy giữ. Nhưng em phải theo sát khoản phải thu. Ngày nào cũng kiểm. Best có thể phá sản nếu suy thoái tiếp tục — em phải biết trước khi họ biết."
+- "Em hiểu. Em có bộ chỉ số cảnh báo riêng cho từng khách hàng: thời gian thanh toán trung bình, tần suất đặt hàng, tín dụng thương mại từ các nhà cung cấp khác, tin tức trên báo chí. Em cũng đã đăng ký dịch vụ theo dõi tín dụng doanh nghiệp — 200 USD một tháng. Nếu Best có dấu hiệu xuống cấp, em sẽ b
+- Hùng im lặng — dấu hiệu ông đang hài lòng. "Anh ở nhà thế nào?"
+- "Ký xong Thép Bắc Ninh và Nhựa Đông Á. Tanaka gửi tài liệu lean management. Hải đang kiểm tra thêm hai công ty nữa. Hoàng cập nhật hệ thống cảnh báo — credit spread đã lên 7.2%."
+- "Ông ấy là đồng minh. Nhưng đồng minh có giá, còn tự đứng được mới là bền. Ông ấy cho mình cần câu, nhưng mình phải tự câu cá."
+- Hùng cúp máy. Lan nhìn màn hình, cuộc gọi mười bốn phút.
+- Best Electronics đặt trụ sở tại Los Angeles. Sarah — giám đốc mua hàng, gốc Việt thế hệ thứ hai — làm cho Best mười năm. "Chị Lan, em nói thật. Ban giám đốc thảo luận chuyển toàn bộ đơn hàng sang Trung Quốc. Họ rẻ hơn 22%. Trong tình hình này, ai cũng muốn tiết kiệm."
+- "Giá rẻ hơn 22%, nhưng tỷ lệ lỗi của họ là 7%," Lan nói, mở tập tài liệu. "Của Thương Gia là 1.8%. Nếu tính tổng chi phí thực tế — hàng lỗi phải trả lại, mất uy tín với khách hàng cuối, chi phí xử lý khiếu nại — Thương Gia vẫn rẻ hơn. Chị có bảng so sánh đây."
+- "Em biết. Nhưng ban giám đốc chỉ nhìn vào giá mua trên hóa đơn."
+- "Vậy để chị nói chuyện trực tiếp với CEO."
+- Sáng hôm sau, Lan gặp Robert — CEO Best Electronics — qua video call. Robert ngoài năm mươi, áo sơ mi trắng, tóc muối tiêu. "Cô Lan, tôi thích cách cô làm việc. Đến tận nơi, mang số liệu. Nhưng hội đồng quản trị đang hỏi tôi một câu: tại sao không chuyển sang Trung Quốc để tiết kiệm 22%?"
+- "Thưa ông Robert, tôi có một câu chuyện. Năm 2004, một nhà cung cấp Trung Quốc chào giá cho Thương Gia thấp hơn 30% so với đối tác Nhật Bản. Tôi suýt ký. Nhưng cha tôi nói: 'Giá rẻ hôm nay, nếu làm hỏng uy tín, phải mất mười năm để xây lại.' Chúng tôi không ký. Hóa ra, nhà cung cấp đó dùng nguyên li
+- "Ý cô là giá rẻ có thể giết chết công ty?"
+- "Không ngay lập tức, nhưng trong âm thầm. Một lô hàng lỗi làm mất lòng tin khách hàng cuối. Best có hai mươi ba cửa hàng. Mất một khách hàng vì hàng lỗi, ông mất nhiều hơn 22% lợi nhuận từ việc đổi nhà cung cấp."
+- Robert gõ tay lên bàn. "Cô đề xuất thế nào?"
+- "Giảm giá 5%, kéo dài thanh toán 40 ngày, cam kết giao hàng trong 14 ngày. Đổi lại, Best ký hợp đồng một năm, không đơn phương hủy ngang. Nếu Best muốn hủy, phải báo trước sáu mươi ngày."
+- "Và chúng tôi có quyền yêu cầu thanh toán sớm nếu phát hiện dấu hiệu tài chính bất thường từ phía Best."
+- Robert nhìn Lan một lúc lâu. Một phụ nữ Việt Nam trẻ tuổi đang đàm phán với ông trên thế cân bằng. "Cô có sẵn hợp đồng không?"
+- Lan mở cặp, lấy ra bản in dày hai mươi trang. "Bản tiếng Anh. Đã gửi cho luật sư của Best tối qua."
+- Robert cầm hợp đồng, lật vài trang. "Để luật sư của tôi xem. Về nguyên tắc, tôi đồng ý."
+- Khi cuộc gọi kết thúc, Lan mới thở ra một hơi dài. Cô nhìn đồng hồ — mười một giờ trưa. Buổi chiều cô còn phải ra Long Beach kiểm kho, tối về soạn thảo hợp đồng chi tiết, gửi luật sư.
+- Buổi chiều, Lan đi kiểm kho hàng tại Long Beach. Nhà kho thuê rộng năm trăm mét vuông, nằm trong khu công nghiệp cảng. Ba nghìn thùng linh kiện điện tử — tương đương 2.4 triệu USD giá vốn — xếp trên pallet gỗ, phủ bạt chống ẩm. Cô yêu cầu kiểm tra ngẫu nhiên năm thùng, mở từng cái một, xem chất lượn
+- Người quản kho — Antonio, người Mexico bốn mươi tuổi, làm ở cảng hai mươi năm — hỏi: "Có chuyện gì mà cô phải tự đến kiểm? Mấy năm nay cô chưa bao giờ xuống kho."
+- "Khủng hoảng, Antonio. Khi khủng hoảng, người chủ phải tự kiểm. Không thể ủy thác cho ai được."
+- "Ba tháng qua năm nhà kho trống trong khu này. Chủ các công ty biến mất, hàng hóa bỏ lại. Tôi thấy nhiều cảnh tượng buồn."
+- "Thương Gia sẽ không biến mất. Anh cứ yên tâm — lương kho tháng này đã chuyển rồi."
+- Antonio cười hề hề. "Tôi biết. Cô làm ăn tử tế. Mấy công ty kia chạy theo lợi nhuận nhanh, không có gốc."
+- Tối hôm đó, Lan soạn lại hợp đồng với Best Electronics trong phòng khách sạn. Cô thêm điều khoản bảo vệ cho Thương Gia: quyền kiểm tra sổ sách nếu chậm thanh toán quá ba mươi ngày, quyền đơn phương giảm đơn hàng nếu phát hiện dấu hiệu tài chính bất thường. Sau hai tiếng chỉnh sửa, cô gửi cho luật sư
+- Lúc mười giờ tối, Lan gọi cho Hùng: "Em giữ được Best. Giảm 5%, 40 ngày. Hợp đồng một năm. Họ sẽ thanh toán lô đầu tiên theo điều khoản mới trong vòng hai tuần."
+- "Nhưng em mệt quá. Mỗi cuộc gặp là một trận chiến. Họ nhìn em như em là người đi xin việc."
+- "Đó là cảm giác. Nhưng em là đối tác. Em đến để cho họ thấy Thương Gia vẫn đứng vững. Khi họ thấy em còn mặt dày đi gõ cửa từng khách hàng, họ biết Thương Gia không sợ. Và nếu Thương Gia không sợ, tại sao họ phải sợ?"
+- Lan cười — lần đầu tiên trong ngày. "Anh nói hay quá, làm em muốn về nhà."
+- "Về đi. Làm xong thì về. Anh nhờ mẹ nấu canh cua."
+- Hai giờ sáng, Lan viết báo cáo ngày cho Hùng: tình hình khách hàng, kết quả đàm phán, dự báo tháng tới. Dòng cuối: "P/S: Em mua cho anh một cuốn sách — 'The Little Book That Still Beats the Market' — đọc trên máy bay thấy hay. Để trên bàn anh khi em về."
+- Sáng hôm sau, Lan ghé văn phòng lần cuối. Cô dặn dò ba nhân viên — John phụ trách logistics, Maria kế toán, David bán hàng: "Theo dõi Best Electronics sát sao. Gửi báo cáo hàng tuần cho tôi qua email. Nếu có bất kỳ dấu hiệu nào — chậm thanh toán quá năm ngày, cắt giảm nhân sự, thay đổi lãnh đạo — bá
+- "Em cảm ơn các anh chị. Tôi biết thời gian này khó khăn. Nhưng chúng ta sẽ vượt qua. Thương Gia đã tồn tại hai mươi lăm năm. Chúng ta không sụp đổ trong một cuộc khủng hoảng."
+- Ba nhân viên gật đầu. Lan đi ra thang máy, không ngoảnh lại. Trong thang máy, cô nhìn mình trong gương — một phụ nữ ba mươi ba tuổi, comple xám, mắt quầng thâm. Cô tự hỏi: mình đang làm điều đúng đắn hay chỉ kéo dài sự đau đớn? Câu trả lời: không quan trọng. Quan trọng là không bỏ cuộc.
+- Chiếc taxi đưa Lan ra sân bay Kennedy chạy qua những con phố vắng vẻ. Manhattan giờ cao điểm mà xe cộ thưa thớt. Tài xế — người Pakistan ngoài năm mươi — nhìn Lan qua kính chiếu hậu: "Cô đi công tác à? Mấy tháng nay tôi ít khách lắm. Người ta ngừng đi chơi, ngừng đi ăn, ngừng tiêu tiền."
+- "Chúc cô may mắn. Lúc này ai cũng cần may mắn."
+- Ngồi trên máy bay, Lan nhìn qua cửa sổ. New York thu nhỏ dần dưới cánh. Cô nhắm mắt, nghe tiếng động cơ gầm lên. Mọi thứ bình thường — như thể khủng hoảng không tồn tại. Nhưng nó tồn tại. Và ngày mai, khi về đến Hà Nội, cô sẽ lại chiến đấu với nó.
+- Lan nhận tách cà phê, nhìn ra cửa sổ. Mây trắng dưới cánh máy bay, xa xa là đại dương xanh thẳm. Cô tự nhủ: mình đã giữ được Best. Mình đã giữ được niềm tin của họ. Bây giờ, về nhà, ăn bát canh cua mẹ nấu, rồi tiếp tục.
+- Kỹ năng: Ngoại giao kinh tế lv3, Quản lý khủng hoảng lv2
+- Ghi chú: Lan giữ Best Electronics tại Mỹ — giảm 5%, 40 ngày. Hợp đồng 1 năm. Kiểm kho Long Beach. Thị trường Mỹ suy thoái sâu. Ba nhân viên New York báo cáo trực tiếp. Mua sách cho Hùng.

@@ -270,5 +270,7 @@ Năm: 1995
 Tổng EXP: 36,720 (+320 nhịp này)
 Không gian kho: 11,680m² (+80m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Bà Hà sức khỏe giảm. Bà nằm viện lần đầu. Hùng ngồi cạnh giường, tay giữ tay bà.
+Bà nói: "Tao không lo nữa. Mày làm được rồi." Hùng không khóc trước mặt bà.
+
 ============================================================

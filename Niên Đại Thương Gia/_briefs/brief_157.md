@@ -1,0 +1,97 @@
+# BRIEF — Chương 157: Đối mặt kiểm toán nhà nước
+
+FILE (exact): Chương 157 - Đối mặt kiểm toán nhà nước.txt
+Ledger: EXP=24000, space=8000m²
+Năm chủ đạo hiện tại trong prose: 1989
+Token hiện tại: 3283 | Clone: 21.2% (17 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- ============================================================
+- Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ 
+- Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô 
+- Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng k
+- Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?
+- Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nh
+- Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn 
+- Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc l
+- "Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng
+- Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+- Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng
+- Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+- Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gâ
+- Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm t
+- Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết 
+- Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ 
+- Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- Sáu giờ sáng. Trời mùa đông còn tối mịt. Tiếng xe máy nổ giòn trước cổng nhà máy dệt — một chiếc Minsk cũ kỹ, đèn pha chỉ sáng được một bên. Người đàn ông bước xuống, mặc áo khoác xanh rêu, tay xách cặp da nâu đã sờn mép. Hắn ta dừng trước cổng, nhìn lên tấm biển nhà máy, rồi quay lại nói gì đó với 
+- Bảo vệ trực đêm tên Lực — một cựu chiến binh, nhìn thấy thái độ của người kia thì biết không phải người thường. Ông ta mở cổng, hỏi:
+- — Đoàn kiểm toán Sở Tài chính. — Người đàn ông rút giấy tờ ra, giấy có dấu đỏ. — Làm việc với chủ cơ sở.
+- — Anh Hùng sáng nào cũng đến từ năm giờ. Mời anh vào phòng khách chờ.
+- Người đàn ông không vào phòng khách. Ông ta đứng ngay sân, nhìn quanh. Nhà máy dệt của Hùng thuê lại từ một hợp tác xã giải thể — bốn dãy nhà cấp bốn lợp tôn, máng nước han rỉ, tường gạch thấm muối. Nhưng sân gạch sạch sẽ, không một mẩu rác. Máy móc xếp dọc hành lang, mỗi máy có một tấm bạt phủ, góc
+- Hùng bước ra từ dãy nhà kho, tay đang cầm một ca nước. Thấy người lạ, ông dừng lại, đặt ca nước xuống bệ, đến gần.
+- — Chào đồng chí. Tôi là Trần Văn Hùng, chủ cơ sở.
+- Người đàn ông bắt tay, siết nhẹ. Tay ông ta khô và lạnh.
+- — Tôi là Nguyễn Trung Sơn, phó phòng kiểm toán Sở Tài chính. Đây là đồng chí Hải và đồng chí Thành. Chúng tôi được phân công kiểm tra định kỳ cơ sở sản xuất của đồng chí.
+- Hùng gật. Ông đã chờ cuộc kiểm tra này từ ba tháng trước.
+- Phòng làm việc là một căn phòng nhỏ, chỉ kê vừa một bộ bàn ghế gỗ và một tủ sắt. Trên bàn là một xấp sổ sách đã bọc bìa ngoài cẩn thận, mỗi cuốn dán nhãn ghi rõ tháng và nội dung. Không có gì thừa.
+- Ông Sơn ngồi xuống, mở cặp, lấy ra một tập giấy đã đóng dấu sẵn. Ông Hải — người trẻ hơn, loanh quanh hai lăm — ngồi bên cạnh, tay mở sẵn bút. Ông Thành — máy ảnh đeo trước ngực — đứng dựa cửa.
+- — Tôi sẽ làm việc trực tiếp. Đồng chí trả lời tôi, đồng chí Hải sẽ ghi biên bản.
+- — Đầu tiên: nguồn vốn thành lập cơ sở. Đồng chí huy động từ đâu, từ ai, bao nhiêu, thời gian nào?
+- Hùng lấy từ tủ một tập hồ sơ riêng. Từng tờ giấy được đóng vào bìa cứng, đánh số trang. Ông đặt lên bàn.
+- — Tôi lập cơ sở năm 1989. Vốn ban đầu một trăm tám mươi triệu: vay Ngân hàng Nông nghiệp sáu mươi triệu, vay quỹ tín dụng xã hai mươi triệu, vay người thân ba mươi triệu — đây là danh sách có chữ ký và dấu tay — và tiền tiết kiệm của gia đình bảy mươi triệu. Tất cả có giấy tờ kèm theo.
+- Ông Sơn cầm tập hồ sơ, lật từng trang, đọc kỹ. Ông ta dừng lại ở một tờ — tờ giấy vay tiền của một người tên Nguyễn Thị Hà, số tiền năm mươi triệu. Nhìn kỹ, so với tên trong danh sách.
+- — Bà nội đồng chí có đủ khả năng cho vay năm mươi triệu không?
+- — Bà tôi không có năm mươi triệu. Tờ giấy đó là giấy vay ngân hàng — bà tôi đứng tên vay dùm, vì lúc đó tôi chưa có quan hệ tín dụng. Bà tôi vay, giao lại tiền cho tôi, tôi trả hàng tháng cho ngân hàng qua tài khoản của bà.
+- Ông Sơn ngẩng lên nhìn Hùng lần đầu tiên. Câu hỏi tiếp theo khác hẳn:
+- — Lãi suất vay thực tế đồng chí trả cho ngân hàng là bao nhiêu?
+- — 2,3%/tháng, thời hạn mười hai tháng, vay tháng 3/1989, tất toán tháng 3/1990.
+- — Có. — Hùng lấy ra một tờ biên lai đã ố vàng, dấu của Ngân hàng Nông nghiệp huyện mờ nhưng còn đọc được. — Tôi tất toán trước hạn mười lăm ngày.
+- Ông Sơn nhận lấy, xem xét, đưa cho Hải. Hải gật, ghi vào sổ.
+- Hai tiếng đồng hồ tiếp theo là những câu hỏi về doanh thu, chi phí, sổ sách hàng tồn kho. Hùng trả lời từng câu, chậm rãi, có sổ đối chiếu kèm. Thi thoảng ông mở tủ sắt lấy thêm giấy tờ. Lần nào mở cũng đúng ngăn, đúng kệ.
+- Mồ hôi chảy ròng ròng dưới cánh tay áo sơ mi, nhưng mặt ông vẫn tỉnh. Tay đặt trên bàn, lòng bàn tay mở — một tư thế không phòng bị.
+- Đến câu hỏi thứ bảy — về lô hàng xuất thử đi Lào — ông Sơn đột ngột đổi hướng.
+- — Đồng chí ra ngoài một lát. Tôi muốn xem sổ kho riêng.
+- Hùng đứng dậy, ra ngoài hành lang. Lan đã đứng đó từ lúc nào, mặt tái mét.
+- — Chưa xong mà. — Hùng nói. — Ông ấy nhìn lâu ở khoản vay của bà Hà — có thể họ nghi ngờ vốn ảo. Nhưng mình có đầy đủ giấy tờ, không sợ.
+- — Đó là quyền của họ. Kiểm toán bất ngờ mới thấy thật. Nếu báo trước, mình có thể dàn xếp. Họ không muốn mình dàn xếp.
+- Hùng uống một ngụm nước từ ca để trên bệ cửa. Nước nguội, nhưng làm ông tỉnh hơn.
+- — Sổ của ông này sạch. Không một khoản nào mờ ám. Hàng tồn ghi đúng thực tế — tôi vừa ra xem kho, khớp. Khoản vay dùm của bà nội tuy lạ nhưng có hợp đồng, có sao kê trả nợ, có biên lai tất toán. Cứng lắm.
+- — Không vội. Phải kiểm tra thêm về các mối quan hệ làm ăn. Khoản đặt cọc hai mươi triệu ở sổ quỹ tháng 4 — ông ấy nói là tiền ứng trước nhưng không có hợp đồng gốc. Cái đó phải xác minh.
+- Ông Sơn ra hiệu cho Hùng vào. Ông ta đặt cây bút xuống, mắt nhìn thẳng.
+- — Đồng chí Hùng, tôi cần số điện thoại của đối tác đặt cọc hai mươi triệu tháng 4. Tôi sẽ gọi điện xác nhận.
+- — Được. — Hùng lấy danh bạ viết tay từ ngăn bàn. — Đối tác là Phạm Văn Đức, cơ sở buôn sỉ Hải Phòng, số nhà 47 Hàng Kênh. Điện thoại: 45327 — đầu số Hải Phòng, qua tổng đài nối.
+- Ông Sơn ghi vào sổ. Rồi ông ta hỏi thêm:
+- — Nếu tôi gọi và xác nhận đó là tiền vay không lãi, chứ không phải tiền đặt cọc — thì sao?
+- — Thì tôi sẽ giải thích: đó là tiền ứng trước cho hai lô hàng tháng 5 và tháng 6, nhưng vì là đối tác lâu năm nên không làm hợp đồng cứng. Sai sót của tôi là thiếu hợp đồng song phương. Tôi sẽ bổ sung ngay.
+- — Nếu là vay, đồng chí phải chịu phạt vì hạch toán sai.
+- — Vâng. Nếu đúng là vay, tôi chịu phạt. Nhưng tôi khẳng định đó không phải vay.
+- Ông Sơn nhìn Hùng hồi lâu. Hùng không lảng tránh.
+- — Tôi sẽ xác minh. Nếu đúng, không sao. Nếu sai — đồng chí sẽ nhận được văn bản xử phạt trong mười ngày.
+- Cuộc kiểm tra kéo dài đến ba giờ chiều. Ông Sơn và đoàn đi kiểm tra kho ba lần, chụp ảnh mỗi góc kho, mỗi lô hàng. Họ yêu cầu mở hai kiện hàng niêm phong để kiểm tra chất lượng. Họ ghi chép chi tiết điều kiện bảo quản, nhiệt độ, độ ẩm.
+- Đến đầu giờ chiều, ông Sơn gập tập giấy, cất cặp.
+- — Tạm thời chưa có kết luận. Tôi sẽ về, và có văn bản sau bảy ngày làm việc.
+- — Nhưng tôi có một lời khuyên: đồng chí nên làm hợp đồng song phương dù chỉ là viết tay. Có hợp đồng rồi, sau này mọi việc dễ hơn.
+- Khi chiếc Minsk nổ máy rời khỏi cổng nhà máy, Hùng đứng lại một mình ngoài sân. Lan chạy ra, mặt lo lắng.
+- — Tạm ổn. Họ còn phải xác minh khoản đặt cọc hai mươi triệu.
+- — Anh cũng lo. — Hùng nói thật. — Nhưng đã làm đúng thì không gì phải sợ.
+- — Nặng. — Hùng nói. — Nhưng con nói thật hết. Còn tùy họ quyết.
+- Bà Hà không hỏi thêm. Bà bê nồi canh ra, múc cho Hùng một bát đầy. Cả nhà ăn trong im lặng.
+- Hôm sau, Hùng lấy điện thoại gọi về số tổng đài Hải Phòng, nhờ nối máy với ông Đức. Mãi hai tiếng mới gọi được. Ông Đức xác nhận cuộc gọi từ Sở Tài chính — trả lời đúng: hai mươi triệu là tiền đặt cọc hàng, có phiếu thu hai bên giữ.
+- Ba ngày sau, văn bản kiểm toán từ Sở gửi về: kết luận sơ bộ, cơ sở chấp hành tốt chế độ sổ sách, không có sai phạm nghiêm trọng. Một vài kiến nghị bổ sung — trong đó có việc hoàn thiện hợp đồng song phương.
+- Hùng đọc văn bản hai lần, rồi gấp lại, cất vào tủ.
+- — Qua đợt này. Còn những đợt sau. Mà hễ còn làm ăn, còn kiểm tra. Mình sạch thì không sợ.
+- Tối hôm đó, Hùng mở cuốn sổ riêng, viết vào trang mới, đầu đề: *"Kiểm toán 1991 — bài học"*.
+- Ông ghi từng mục: thiếu hợp đồng song phương, chưa có sổ phụ cho từng đối tác, vài khoản ghi chung sổ quỹ thay vì tách riêng. Dưới mỗi mục ông ghi cách khắc phục: làm hợp đồng song phương ngay, mở sổ phụ riêng từ tháng sau, tập hợp các khoản tạm ứng thành từng hồ sơ rõ ràng.
+- Bà Hà bước vào, đặt lên bàn cốc nước chè nóng.
+- — Rửa mặt rồi ngủ đi con. Sổ không chạy đi đâu được.
+- Ông uống hết cốc chè, tắt đèn, nhưng nằm một lúc lâu mới ngủ. Trong đầu, những câu hỏi của ông Sơn vẫn xoay vòng. Từng câu trả lời đều khớp. Nhưng ông vẫn không yên — vì biết rằng sự yên tâm của một người làm ăn không đến từ việc qua được một lần kiểm tra, mà từ việc sẵn sàng cho lần kiểm tra bất kỳ
+- Cuốn sổ đó sau này trở thành giáo trình đào tạo nhân viên kiểm toán nội bộ của ngân hàng. Nhưng tối nay, nó chỉ là một cuốn sổ tay bìa đen, nằm trên bàn, dưới ánh đèn dầu. Và ngoài kia, Hà Nội đêm đông im vắng, thỉnh thoảng tiếng còi tàu từ ga Hàng Cỏ vọng về, xa xa, như một lời nhắc rằng đất nước v
+- Ông nhắm mắt. Ngày mai sẽ có việc mới — cuộc họp với đối tác Hải Phòng về chuyến hàng tháng tới, lịch đổ bê tông sàn nhà máy mới, và báo cáo tài chính tháng Mười hai. Nhưng tối nay, ông cho phép mình nghỉ một chút. Đủ để ngày mai có sức.
+- Kỹ năng: Kiểm toán nội bộ lv1, Tài chính lv3
+- Ghi chú: Đoàn kiểm toán Sở Tài chính kết luận không sai phạm. Bổ sung hợp đồng song phương theo kiến nghị.
+- Teaser: Hợp đồng song phương — lỗi nhỏ nhưng là lỗi thiếu chuyên nghiệp. Hùng sẽ không để lần sau bị hỏi.

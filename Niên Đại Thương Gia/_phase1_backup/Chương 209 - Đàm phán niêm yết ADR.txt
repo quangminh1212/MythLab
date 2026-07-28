@@ -1,0 +1,253 @@
+============================================================
+Chương 209: Đàm phán niêm yết ADR
+============================================================
+
+Căn phòng họp ở tầng chín khách sạn Metropole có trần cao kiểu Pháp, những đường phào chỉ trắng chạy dọc theo tường, và một chiếc đèn chùm pha lê treo giữa trần — thứ ánh sáng vàng nhạt không giống bất kỳ phòng họp nào Hùng từng ngồi. Phía cuối bàn là ba người Mỹ: hai luật sư từ công ty Sullivan & Cromwell ở New York, một chuyên viên ngân hàng đầu tư từ Goldman Sachs. Họ mặc vest xanh than, cà vạt lụa, trước mặt mỗi người một tập tài liệu dày bằng hai ngón tay. Nước hoa của một trong số họ thoảng mùi gỗ đàn hương, thứ mùi xa lạ với phòng họp ông thuộc.
+
+Buổi sáng tháng Ba năm 1997. Ngoài kia phố Phan Đình Phùng còn ẩm hơi sương, những tán sấu già chưa kịp thay lá. Qua khung cửa sổ cao, Hùng thấy một người đàn ông đạp xích lô chở hai đứa trẻ đi học — áo mưa phủ lên đầu, bánh xe lăn trên mặt đường ướt. Ông nhìn họ lâu hơn cần thiết.
+
+Ông James Whittaker, luật sư chính, hắng giọng và mở đầu bằng một câu tiếng Anh rất chậm: "Mr. Tran, công ty của ông đã vượt qua sàn lọc của chúng tôi. Nhưng để niêm yết dưới dạng ADR, chúng tôi cần ba thứ: kiểm toán theo chuẩn GAAP, báo cáo tài chính ba năm liên tiếp, và một cơ chế quản trị minh bạch."
+
+Whittaker nói từng chữ một, kiểu người đã quen với việc khách hàng không hiểu. Hùng không để tâm đến giọng điệu đó. Ông tập trung vào nội dung.
+
+Lan ngồi bên trái Hùng, ghi chép nhanh vào cuốn sổ bìa xanh. Chị không ngước lên, chỉ viết — từng dòng một, rạch ròi. Ngòi bút bi lướt trên giấy, âm thanh đều đều như nhịp thở. Trên bàn, một ấm trà sen đã nguội từ lúc nào.
+
+"GAAP khác với chuẩn kế toán Việt Nam chỗ nào?" Hùng hỏi.
+
+Whittaker mỉm cười. Đó không phải câu hỏi của một người lần đầu ra quốc tế. "Chỗ nào cũng khác, Mr. Tran. Nhưng nếu công ty ông đã làm việc với Deloitte Singapore như hồ sơ thể hiện, thì sáu tháng là đủ."
+
+Sáu tháng. Hùng không nói gì, quay sang nhìn Lan. Chị ngừng viết, gật đầu: "Deloitte đã audit năm 94, 95, 96. Mình có đủ số liệu. Cần thuê thêm một luật sư bản địa cho phần chuyển đổi. Chi phí khoảng hai trăm nghìn, dựa trên những gì em đọc được."
+
+"Tôi đề nghị luật sư Nguyễn Đức Anh," Whittaker nói tiếp. "Ông ấy tốt nghiệp Harvard Law, từng làm cho Cleary Gottlieb. Biết cả hai bờ."
+
+Hùng không trả lời ngay. Ông nhìn ra cửa sổ, nơi một cành sấu non vừa đập nhẹ vào ô kính trong gió. Ba phút im lặng — Hùng đang đo. Đo tốc độ của ba người Mỹ, đo mức độ hiểu biết của họ về thị trường Việt Nam, đo xem cái tên Đức Anh kia là đề xuất thật hay là người của họ. Trong kinh doanh, không ai giới thiệu ai mà không có lý do. Hùng muốn biết cái lý do đó trước khi nói tiếp.
+
+"Có thể gặp luật sư Đức Anh trước khi quyết định không?" Hùng hỏi.
+
+"Đương nhiên."
+
+"Được. Tôi gặp ông ấy vào thứ Năm. Nếu thấy ổn, tôi sẽ ký. Nếu không, tôi tự tìm người khác."
+
+Whittaker gật đầu, rút một tập giấy khác từ cặp da — động tác thành thạo của người đã làm việc này hàng trăm lần. "Tiếp theo — vấn đề định giá. Với ADR cấp độ 1, giao dịch trên OTC, ông không cần phải công bố đầy đủ như NYSE. Mỗi ADR đại diện cho năm cổ phiếu phổ thông của Thương Gia. Giá khởi điểm ước tính khoảng 12 đến 15 đô la."
+
+Hùng lấy cuốn sổ bìa đen từ túi trong. Ông viết: "12-15 USD → ~5 cổ phiếu/ADR. Room?" Ông chưa hiểu hết ADR là gì, nhưng ông biết câu hỏi cốt lõi: người ngoài được sở hữu bao nhiêu phần trăm Thương Gia sau vụ này.
+
+"Tỷ lệ sở hữu nhà đầu tư nước ngoài?" Hùng hỏi, không ngước lên khỏi cuốn sổ.
+
+Whittaker ngừng lại. Rõ ràng câu hỏi chạm đúng điểm. "Luật Việt Nam hiện tại giới hạn 30% cho nhà đầu tư nước ngoài ở công ty đại chúng. Nhưng với ADR OTC, ông có thể cấu trúc sao cho nhà đầu tư Mỹ nắm giữ thông qua trust."
+
+"Bao nhiêu phần trăm room sau khi niêm yết?"
+
+"Mười lăm, nếu ông muốn giữ kiểm soát."
+
+Hùng gật đầu, ghi tiếp vào sổ. 15% là con số chấp nhận được. Đủ để hút vốn, đủ để ông không mất công ty. Nhưng còn một vấn đề nữa.
+
+"Phí bao nhiêu?" Hùng hỏi thẳng.
+
+Lần này Michael Torres — người ngân hàng từ Goldman Sachs — lên tiếng. Anh ta gốc Puerto Rico, da nâu, nụ cười thường trực trên môi, ngón tay trỏ gõ nhẹ vào tập tài liệu. "Phí ngân hàng đầu tư cho ADR cấp 1 thường là bảy phần trăm tổng giá trị niêm yết."
+
+Lan quay sang Torres. "Anh Torres, phí dưới 5% thì Goldman có làm không?"
+
+Torres cười thành tiếng. "Cô Tran, phí thị trường là bảy phần trăm. Nhưng —" anh ta nhìn Hùng, nhìn cuốn sổ bìa đen, "— nếu công ty ông commit tổng giá trị niêm yết trên 50 triệu, tôi nghĩ chúng tôi có thể thương lượng."
+
+"Năm phần trăm," Hùng nói.
+
+"Bảy."
+
+"Năm rưỡi. Và Goldman làm toàn bộ thủ tục SEC."
+
+Torres nhìn Whittaker, rồi nhìn lại Hùng. "Sáu. Và ông phải đồng ý exclusive trong mười hai tháng."
+
+Hùng lắc đầu. "Tám tháng. Và mỗi quý có review. Nếu không đạt tiến độ, tôi có quyền chuyển."
+
+Torres im, ngón tay gõ nhẹ lên mặt bàn gỗ óc chó. Một, hai, ba cái gõ. "Mr. Tran, ông từng đàm phán với ai trên phố Wall chưa?"
+
+"Chưa. Nhưng tôi từng đàm phán với một ngư dân ở Cát Hải về giá tôm. Ông ấy cũng hỏi tôi câu tương tự, rồi chúng tôi gọi là huề." Hùng nhìn thẳng vào mắt Torres. "Sáu phần trăm. Tám tháng exclusive. Review mỗi quý. Và tôi muốn có một người của tôi ở New York trong suốt quá trình."
+
+"Luật sư Đức Anh?"
+
+"Chưa quyết. Nhưng ai đó."
+
+Torres thở dài, nhưng mắt anh ta sáng lên. "Đồng ý. Tôi sẽ gửi draft trong ngày hôm nay."
+
+Hùng gật đầu, ghi chú vào cuốn sổ bằng bút chì. Ông dùng bút chì cốt để có thể tẩy. Chỉ những việc đã chốt mới được viết bằng mực.
+
+——
+
+Hai giờ sau, buổi họp kết thúc. Whittaker đưa cho Hùng một tập tài liệu dày gần một trăm trang — bản mẫu hợp đồng dịch vụ, các điều khoản cần thương lượng, và một tờ giấy riêng gọi là "term sheet." Hùng cầm tập tài liệu, thấy nặng hơn bất kỳ hợp đồng nào ông từng ký.
+
+"Em có muốn ăn trưa không?" Hùng hỏi Lan.
+
+"Dạ có. Nhưng ăn nhanh thôi. Em muốn về tra cứu mấy cái điều khoản đó trước khi chiều họ gửi draft."
+
+Hai người xuống sảnh Metropole, đi bộ qua phố Tràng Tiền vào một quán bún riêu trên phố Bà Triệu. Quán nhỏ, bàn nhựa, ghế nhựa, nước dùng nóng hổi. Hùng và Lan ăn trong im lặng — kiểu im lặng của hai người quá hiểu nhau để cần nói chuyện xã giao. Chỉ có tiếng húp bún và tiếng xe máy ngoài phố.
+
+"Anh thấy thế nào?" Lan hỏi khi gần hết bát.
+
+"Được. Nhưng còn nhiều thứ mình chưa biết. SEC là cái gì, GAAP là cái gì, cái gì mà trust nắm giữ. Nếu mình ký mà không hiểu, mình sẽ bị họ dẫn."
+
+"Em cũng nghĩ vậy. Tuần sau em sẽ bay sang Singapore gặp Deloitte. Ngoài ra em đã hỏi một người bạn học cũ ở Mỹ — chị ta làm cho một quỹ đầu tư — để hỏi về luật chứng khoán Mỹ."
+
+Hùng nhìn Lan, không nói gì. Mười bốn năm trước, Lan là cô sinh viên mới ra trường, cầm bảng tính ghi chép từng đồng chi tiêu cho quán phở tạm của bà Hà. Bây giờ chị ngồi đàm phán với Goldman Sachs, rồi nói chuyện về chứng khoán Mỹ như một lẽ đương nhiên.
+
+——
+
+Buổi chiều, Hùng và Lan ngồi ở quán cà phê gần Hồ Gươm. Nắng cuối xuân nhẹ, mặt hồ lăn tăn gợn sóng. Đám trẻ con chạy nhảy trên vỉa hè, đuổi theo một quả bóng nhựa. Lan đẩy một tờ A4 sang phía Hùng — bản kế hoạch do chị đánh máy từ tối hôm trước, rõ ràng như một tờ hướng dẫn sử dụng máy móc.
+
+"Checklist ADR," Lan nói. "Thứ tự ưu tiên: một — gặp Đức Anh. Hai — ký hợp đồng sơ bộ với Deloitte Singapore cho audit GAAP. Ba — mở công ty con ở Delaware. Bốn — đăng ký với SEC. Năm — chọn depositary bank. Mỗi mục em đã ghi hạn chót dự kiến, người phụ trách, và chi phí."
+
+Hùng đọc lướt. Mỗi mục đều có hạn chót, người phụ trách, chi phí ước tính. Cuối trang: tổng chi phí niêm yết ước tính 680.000 đô la — chưa kể phí luật sư. Số tiền bằng một nửa lợi nhuận cả năm của Thương Gia.
+
+"Đắt thật," Hùng nói.
+
+"Rẻ hơn so với cái giá nếu mình làm sai thủ tục," Lan đáp. "Một vụ kiện tập thể ở Mỹ có thể mất vài triệu. Em đọc qua mấy vụ class-action của các công ty châu Á niêm yết tại Mỹ — có công ty mất cả trăm triệu vì khai báo không đúng chuẩn."
+
+Hùng gấp tờ giấy, bỏ vào túi. "Tối nay mình ăn gì?"
+
+"Hỏi mẹ. Bà nói mua được cá rô Đầm Đột."
+
+"Về thôi."
+
+Trên đường về, Hùng đi qua phố Hàng Mã. Những cửa hàng bán đồ thờ cúng, giấy tiền vàng mã bày la liệt trên vỉa hè. Ông nhìn họ, rồi nhìn tờ checklist trong túi. Một bên là nghìn năm tập quán, một bên là thị trường tài chính toàn cầu. Hà Nội lúc nào cũng thế: Đông và Tây không phải xa nhau, mà là ở kế bên.
+
+——
+
+Mười lăm phút trước khi tan ca, Hùng ngồi lại một mình trong phòng. Trên bàn là tập tài liệu dày từ Whittaker — điều khoản dịch vụ, phí, cam kết bảo mật, và một phần phụ lục nói về "risk factor disclosure": những rủi ro mà công ty phải công bố với nhà đầu tư Mỹ. Hùng đọc kỹ từng dòng. Chiến tranh thương mại. Rủi ro tỷ giá. Hệ thống pháp lý chưa hoàn thiện. Tham nhũng. Thiếu hụt lao động kỹ thuật cao. Rủi ro địa chính trị.
+
+Họ muốn Hùng viết vào bản cáo bạch rằng đầu tư vào Thương Gia là một canh bạc.
+
+Hùng đặt tờ giấy xuống, ngồi lặng mất mười phút. Bên ngoài, tiếng còi xe lẫn với tiếng rao hàng rong. Ông mở cửa sổ, gió chiều lùa vào mang theo mùi bụi và hoa sữa cuối mùa. Hà Nội đang vào cuối xuân, cái nóng chưa kịp đến, những quán trà đá ven đường bắt đầu đông khách. Năm 1997, thành phố còn thấp, chưa có những tòa nhà cao tầng chắn tầm nhìn — từ tầng ba nhìn ra chỉ thấy mái ngói đỏ nâu lô xô, những ống khói nhà máy xa xa, và vài cái tháp viễn thông mọc lên như dấu hỏi về tương lai.
+
+Hùng nhớ lại năm 1983, khi ông tỉnh dậy trong căn nhà cấp bốn ở Quốc Oai, trong túi không một đồng. Mười bốn năm. Từ gánh hàng rong đến chỗ ngồi đàm phán với Goldman Sachs — con đường dài hơn bất kỳ ai trong phòng họp sáng nay có thể tưởng tượng. Những đêm thức trắng vì sợ không có hàng để bán. Những chuyến xe đò lên tận Lạng Sơn để lấy một mối vải tốt hơn. Những lần bị chủ nợ dí tận nhà, bà Hà phải bán cả cái nồi gang trả nợ.
+
+Ông gọi điện cho Lan. "Phiền em gọi lại cho Whittaker. Hỏi họ việc công bố risk factor — mình muốn giới hạn phần đó trong khuôn khổ không gây hiểu lầm cho nhà đầu tư. Nếu họ cứng quá thì mình thương lượng thêm."
+
+"Để em xử lý," Lan nói. "Anh về đi, mẹ đợi."
+
+——
+
+Bà Hà năm nay bảy mươi, tóc đã bạc gần hết nhưng mắt còn tinh. Bà ngồi ở bậc cửa, tay vo từng viên chả cá rô, chả đều và chắc, không bở. Trong bếp, nồi canh chua đang sôi, mùi lá me và cà chua tỏa ra thơm lừng cả góc sân. Một mẻ rau muống luộc để trên rổ, bốc hơi nghi ngút.
+
+"Mẹ mua cá ở chợ nào ngon thế?" Hùng hỏi.
+
+"Cá rô Đầm Đột, con Hương ngoài làng đem ra. Nó biết mẹ thích canh chua. Cá tươi, mẹ tự làm sạch, không để ngoài chợ làm."
+
+Hùng ngồi xuống cạnh bậc cửa, nhặt một cọng hành, bắt đầu nhặt lá úa. Bà Hà liếc nhìn con trai, tay vẫn vo chả. Gió chiều lùa qua sân, lay động mấy cái lá mít già sắp rụng.
+
+"Hôm nay có chuyện gì đúng không?"
+
+"Sao mẹ biết?"
+
+"Vì con ngồi xuống bậc cửa. Con chỉ ngồi bậc cửa khi mệt."
+
+Hùng cười khẽ. "Hôm nay con đàm phán với người Mỹ. Họ muốn con viết vào giấy tờ rằng công ty mình là rủi ro."
+
+Bà Hà không ngừng tay. "Thì đó là sự thật mà. Cái gì chả có rủi ro."
+
+"Đúng. Nhưng viết ra khác với nghĩ trong đầu."
+
+"Ngày xưa mẹ bán hàng rong ngoài chợ, có lần đội quản lý đến hỏi giấy phép. Mẹ không có giấy. Họ bảo: bán thế này là phạm luật. Mẹ trả lời: tôi biết. Họ hỏi: biết sao còn bán? Mẹ bảo: vì không bán thì tôi và thằng Hùng chết đói. Tôi biết rủi ro, nhưng tôi biết cái nào rủi ro hơn."
+
+Hùng nhìn mẹ. Bảy mươi tuổi, bà nói bằng cái giọng đều đều không nhấn, như thể đó là chuyện của người khác. Bà đặt viên chả cuối cùng lên đĩa, phủi tay, đứng dậy.
+
+"Mẹ có sợ không?"
+
+"Sợ mỗi ngày. Nhưng sợ không bằng đói."
+
+Hùng đứng dậy, phủi đất trên quần. "Con ăn cơm hơi muộn, mẹ đừng đợi."
+
+"Mẹ biết. Nhưng mà cơm vẫn phải để phần."
+
+——
+
+Mười giờ tối. Hùng ngồi trong phòng làm việc, mở cuốn sổ bìa đen. Ông viết, nét chữ đều và nhỏ, kiểu chữ của người quen tiết kiệm từng khoảng giấy.
+
+*Ngày 12 tháng 3 năm 1997.*
+
+*ADR: GAAP audit, luật Delaware, SEC filing. Whittaker (S&C) ok, Torres (GS) ok về phí, nhưng risk factor disclosure chưa xong. Mình hiểu luật Mỹ họ muốn minh bạch. Nhưng nếu mình viết "đầu tư vào Thương Gia là rủi ro cao" — người đọc hồ sơ sẽ nghĩ gì? Họ mua cổ phiếu hay mua rủi ro? Cần một công ty quan hệ nhà đầu tư ở Mỹ.*
+
+*Lan đã có draft ADR checklist. Chị ấy nhanh hơn mình tưởng. Em viết từng việc ra, hạn chót từng việc, người làm từng việc. Nếu mười năm trước có ai bảo mình rằng một ngày Lan sẽ đánh máy checklist niêm yết Mỹ, mình sẽ bảo người đó bị điên. Và người đó đã đúng.*
+
+Hùng ngừng viết. Bên ngoài, Hà Nội đã ngủ, chỉ còn tiếng ễnh ương từ mấy hồ nước trong phố và tiếng rao đêm xa xa không rõ mặt hàng. Ông nghe tiếng rao đêm, tự hỏi họ bán gì, còn ai thức để mua. Tiếng rao là thứ xa xưa nhất ở Hà Nội, và nó vẫn còn, dù thành phố đã thay đổi nhiều.
+
+Ông mở ngăn kéo, lấy ra một tấm ảnh cũ — ảnh chụp căn nhà gỗ ở Quốc Oai, trước hiên là bà Hà và Hùng, lúc đó mới hai mươi mốt tuổi, gầy, rám nắng, đang cầm một cái cân đĩa. Tấm ảnh đã ố vàng, nhưng nụ cười của hai mẹ con vẫn rõ.
+
+Ông viết thêm một dòng dưới cùng:
+
+*Con đường dài thật. Nhưng không dài bằng buổi sáng năm 1983 mình ra khỏi nhà với ba trăm đồng.*
+
+——
+
+Hai ngày sau, Hùng gặp luật sư Nguyễn Đức Anh ở quán cà phê trên phố Lý Thường Kiệt. Đức Anh trạc ngoài bốn mươi, tóc húi cua, đeo kính gọng đen, nói tiếng Anh giọng Mỹ chuẩn. Anh ta mở đầu bằng một câu làm Hùng chú ý ngay:
+
+"Tôi không thích Sullivan & Cromwell. Họ làm luật tốt, nhưng họ không hiểu thị trường Việt Nam. Mười năm trước tôi từng về làm cho một vụ IPO công ty thủy sản. Họ mô tả rủi ro dày hơn nội dung chính. Kết quả là không ai mua. Cả đống giấy tờ đẹp — nhưng nhà đầu tư đọc vào thấy sợ."
+
+"Dưới góc nhìn của ông, mình nên xử lý phần đó thế nào?"
+
+Đức Anh kéo một tờ giấy, vẽ nhanh một sơ đồ, nét vẽ mạnh mẽ và chính xác. "Chúng ta viết risk factor trong khuôn khổ 'ngành và địa phương,' không phải 'công ty.' Thay vì 'Thương Gia hoạt động trong môi trường pháp lý thiếu ổn định,' mình viết 'Ngành sản xuất tại Việt Nam đối mặt với thách thức pháp lý đang hoàn thiện.' Khác bản chất. Một cái là lỗi của riêng công ty, một cái là đặc điểm của cả thị trường. Nhà đầu tư phương Tây phân biệt được hai điều đó."
+
+Hùng gật gù nghe, từng chi tiết một. "Tốt. Ông có muốn làm cho Thương Gia không?"
+
+"Có. Nhưng tôi có hai điều kiện. Một: tôi được tiếp cận toàn bộ số liệu — không giấu gì. Nếu phát hiện giấu, hợp đồng hủy ngay, tôi vẫn thu phí đến thời điểm đó. Hai: nếu tôi thấy chỗ nào vi phạm luật Mỹ, ông phải sửa, không cãi."
+
+"Đồng ý."
+
+"Thù lao của tôi là 15.000 một tháng, cộng 0,5% tổng giá trị niêm yết."
+
+Hùng nhẩm tính nhanh trong đầu, như một phản xạ. Với 50 triệu giá trị niêm yết, 0,5% là 250.000. Cộng 15.000/tháng trong 12 tháng là 180.000. Tổng: 430.000. Còn rẻ hơn Whittaker.
+
+"Chốt."
+
+Hai người bắt tay qua bàn cà phê. Đức Anh cười. "Mr. Tran, tôi đọc hồ sơ của ông. Ông bắt đầu từ bán rong?"
+
+"Vâng."
+
+"Và mười bốn năm sau ngồi đàm phán ADR với phố Wall."
+
+"Cũng nhờ có người giúp. Trong đó có mẹ tôi."
+
+Đức Anh im lặng một lúc, nhấp một ngụm cà phê đen, rồi nói: "Tôi làm việc này vì tôi tin có những doanh nghiệp Việt Nam thật sự muốn minh bạch. Ông là người đầu tiên tôi gặp nói về mẹ mình trong buổi phỏng vấn. Điều đó có nghĩa gì đó. Mẹ ông hẳn là người đáng kính."
+
+"Bà bán hàng rong ngoài chợ, nuôi tôi ăn học."
+
+"Vậy ADR này nên có tên bà trong đó."
+
+Hùng cười. "Tôi sẽ để một phần dành cho bà."
+
+——
+
+Một tuần sau, Hùng ký ba hợp đồng: với Whittaker cho dịch vụ luật pháp Mỹ, với Torres cho dịch vụ ngân hàng đầu tư, và với Đức Anh cho tư vấn pháp lý xuyên biên giới. Ba cái bút, ba tập hồ sơ, ba cái bắt tay.
+
+Buổi tối hôm đó, Lan mang một chai rượu vang đỏ ra hiên nhà. Chị không phải người uống rượu, nhưng hôm nay chị mở nắp, rót hai ly, trên mặt là nụ cười nhẹ.
+
+"Mừng một chút," chị nói.
+
+"Sao lại mừng? Mới chỉ là hợp đồng."
+
+"Anh không thấy sao? Mười bốn năm trước mình đàm phán giá từng kilô hàng ở chợ đầu mối. Bây giờ mình đàm phán với phố Wall. Hợp đồng này — dù có thành công hay không — đã là một dấu mốc. Bao nhiêu doanh nghiệp Việt Nam dám làm điều này?"
+
+Hùng nhấp một ngụm rượu. Vang đỏ Pháp, loại bình dân, nhưng ngọt và chát vừa phải. "Cảm ơn em."
+
+"Về cái gì?"
+
+"Về tất cả."
+
+Lan cười, không nói gì. Ngoài hiên, hoa sữa cuối mùa rụng trắng lối đi. Mùi hương của nó buổi tối rất nồng, pha lẫn với mùi đất ẩm sau một ngày nắng.
+
+——
+
+Rạng sáng hôm sau, Hùng ngồi dậy từ rất sớm. Thành phố còn chìm trong lớp sương mỏng, những mái nhà lấp ló trong làn sương trắng đục. Ông mở cuốn sổ bìa đen, viết trang cuối của chương này:
+
+*ADR là cánh cửa. Nhưng cánh cửa mới chỉ là bắt đầu. Quan trọng hơn là thứ bên trong — một Thương Gia đủ minh bạch, đủ vững, để đứng trước nhà đầu tư toàn cầu mà không phải giấu gì.*
+
+*Nếu họ hỏi rủi ro lớn nhất của Thương Gia là gì — câu trả lời là: rủi ro duy nhất là người đứng đầu quên mất mình bắt đầu từ đâu, và quên mất mẹ mình vo chả cá rô ở bậc cửa.*
+
+Ông gấp sổ, nhìn ra ngoài. Mặt trời vừa lên khỏi mái nhà, nhuộm cả góc phố màu cam nhạt. Một ngày mới, và ADR vẫn còn dài.
+
+「Hệ thống — GHI NHẬN ch.209」
+Năm: 1997
+Tổng EXP: 40,143 (+238 nhịp này)
+Không gian kho: 13,286m² (+143m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
+Ghi chú: ADR cấp độ 1 — OTC. Đã ký S&C, Goldman Sachs, luật sư Đức Anh.
+============================================================

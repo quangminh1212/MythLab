@@ -1,0 +1,252 @@
+============================================================
+Chương 333: Âm mưu thôn tính cổ phiếu
+============================================================
+
+Hà Nội, tháng Ba năm 2017. Mùa xuân đến muộn năm nay — những cây sấu già cuối cùng ở phố Phan Đình Phùng cũng chịu trổ lá non, phố xanh mướt một màu dịu nhẹ sau những ngày mưa xuân lất phất. Hoa ban nở trắng góc vườn nhà ai, gió thổi cánh hoa bay lả tả trên mặt đường ẩm ướt.
+
+Nhưng trong căn phòng họp ở tầng ba Thương Gia, không khí không có chút mùa xuân nào. Nó nặng như một tảng bê tông đặt trên ngực mười hai người ngồi quanh bàn.
+
+Trên bàn dài gỗ óc chó, mười hai tập hồ sơ được xếp thẳng hàng, mỗi tập dày chừng hai mươi trang. Sao kê giao dịch, giấy phép đăng ký kinh doanh sao y, danh sách cổ đông, báo cáo tài chính tổng hợp. Sơn đã mất hai tháng ròng để tổng hợp — cậu ngủ lại công ty mười tám đêm, ăn mì tôm, gầy đi bốn cân. Luật sư nội bộ Cường — một người đàn ông gầy, đeo kính dày, trạc năm mươi — đã mất ba ngày liên tục để phân tích từng hồ sơ.
+
+"Thưa chủ tịch, thưa các anh chị, tôi sẽ nói ngắn gọn." Luật sư Cường đẩy kính, giọng đều đều. Tính đến ngày 28 tháng 2 năm 2017, có sáu pháp nhân và hai cá nhân đã mua tổng cộng 12,7% cổ phần Thương Gia. Bốn trong số sáu pháp nhân đó có trụ sở ở các tỉnh — Cam Ranh, Bắc Giang, Hải Phòng, Bắc Ninh — nơi không có bất kỳ hoạt động sản xuất kinh doanh tương ứng nào. Hai cá nhân là người đại diện theo pháp luật của các công ty ma, đồng thời là người lao động tự do — không có khả năng tài chính để mua số cổ phiếu đang nắm giữ. Và tất cả đều có một mối liên hệ chung: tiền chuyển qua tài khoản tại một chi nhánh của SHB.
+
+Cường dừng lại, uống một ngụm nước. Ông ta thuộc loại người ít nói, nhưng mỗi chữ đều có trọng lượng.
+
+"12,7%," Lan nhắc lại, giọng chị vẫn đều. "Nếu đại hội cổ đông được triệu tập ngay bây giờ, họ có thể làm gì?"
+
+Cường mở tập tài liệu, lật đến trang có đánh dấu đỏ.
+
+"Trước hết, đề cử người vào hội đồng quản trị. Với 12,7%, họ có quyền đề cử tối thiểu một thành viên độc lập. Thứ hai, phủ quyết quyết định phân phối cổ tức nếu tỷ lệ không được thông qua. Thứ ba, yêu cầu kiểm toán đột xuất — một công cụ thường dùng để gây áp lực. Và quan trọng nhất, nếu có thêm sự ủng hộ của các cổ đông nhỏ dao động, họ có thể cản trở các nghị quyết quan trọng — thay đổi điều lệ, tăng vốn, mua bán tài sản lớn."
+
+"Và họ còn có thể mua thêm?" — Hùng hỏi, tay xoay cây bút bi.
+
+"Chắc chắn. Dựa trên tốc độ gom trong ba tháng qua, tôi ước tính trong vòng sáu tháng nữa, với nguồn lực đã được chuẩn bị, họ có thể nâng tỷ lệ lên 22 đến 25 phần trăm."
+
+Hùng tựa lưng vào ghế. Ông nhìn lên trần nhà — nơi trần thạch cao đã cũ, một vết nứt chạy dài từ góc tường đến giữa phòng, giống một đường chỉ tay của số mệnh. Hai mươi lăm phần trăm nghĩa là có thể gây khó dễ tại đại hội cổ đông. Đủ để tạo ra một cuộc chiến pháp lý kéo dài. Đủ để phá hoại uy tín của ban lãnh đạo. Đủ để khiến các đối tác và ngân hàng lo lắng.
+
+Không đủ để thắng hoàn toàn — nhưng đủ để làm một cỗ máy đang chạy tốt phải kêu cót két.
+
+"Ai đứng sau?" — một giọng nói vang lên từ cuối bàn. Đó là ông Tam — phó tổng giám đốc sản xuất, sáu mươi tư tuổi, tóc đã bạc gần hết, người đã gắn bó với Thương Gia từ những ngày xưởng may nhỏ ở Hà Đông. Ông Tam ít nói trong các cuộc họp — nhưng khi đã nói, thường là những câu ngắn, thẳng, không vòng vo.
+
+"Chúng tôi chưa xác định được người cầm đầu cuối cùng." Cường nói. "Nhưng có một cái tên xuất hiện thường xuyên trong hồ sơ: Nguyễn Hữu Tuấn. Hiện Tuấn đang làm việc cho một quỹ đầu tư có trụ sở tại Singapore — quỹ First Capital Partners. Quỹ này chuyên đầu tư vào các doanh nghiệp gia đình không có cơ cấu quản trị rõ ràng. Họ mua cổ phần, sau đó tái cấu trúc và thoái vốn với lợi nhuận cao. Họ đã thực hiện mô hình này với hai công ty ở Indonesia và một ở Philippines."
+
+"Cướp công ty," ông Tam nói thẳng. Không phải câu hỏi. Là kết luận.
+
+Cường không trả lời. Không cần.
+
+Hùng đứng dậy, đi đến bảng trắng. Ông cầm bút lông, vẽ nhanh một sơ đồ:
+
+**Ngân hàng (SHB Hải Phòng) → Công ty ma (ba lớp) → Sàn HNX → Thương Gia**
+
+Đường vẽ nguệch ngoạc, nhưng rõ ràng.
+
+"Đây là mô hình đòn bẩy. Họ vay tiền từ ngân hàng — ngân hàng có người sắp xếp từ bên trong — chuyển qua công ty ma, mua cổ phiếu Thương Gia trên sàn, dùng chính cổ phiếu đó làm tài sản thế chấp để vay tiếp. Vòng lặp. Mỗi vòng, tỷ lệ sở hữu của họ tăng lên."
+
+"Và ngân hàng cho vay dựa trên cổ phiếu đó?" — Lan hỏi.
+
+"Chính xác. Miễn là giá cổ phiếu không giảm quá 30% giá trị thế chấp, họ an toàn."
+
+"Đến bao giờ?" — Lan hỏi tiếp.
+
+"Đến khi họ nắm đủ số cổ phần để đưa người vào hội đồng quản trị. Sau đó, họ sẽ bắt đầu quá trình 'tái cấu trúc' — theo ngôn ngữ của họ, có nghĩa là bán từng mảnh Thương Gia cho đối thủ."
+
+Ông Tam đập tay xuống bàn. Cái bàn gỗ cũ kêu lên một tiếng khô khốc.
+
+"Mơ đi. Tụi nó tưởng Thương Gia là cái gì? Công ty TNHH một thành viên mở ra rồi đóng lại à? Ba mươi lăm năm, hơn hai mươi nghìn nhân công, mười một nhà máy, ba trăm điểm bán hàng — tụi nó tưởng bán như bán rau ngoài chợ?"
+
+Hùng giơ tay. Ông Tam im ngay. Trong Thương Gia, chỉ có một người làm được điều đó.
+
+"Chú nói đúng. Nó không dễ. Nhưng mình phải chuẩn bị cho việc nó có thể xảy ra."
+
+Hùng quay sang Sơn, người đang ghi chép trên laptop.
+
+"Sơn, cậu lập một danh sách tất cả cổ đông của Thương Gia — từ lớn nhất đến nhỏ nhất. Phân loại: trung thành, dao động, không rõ, và có khả năng bị mua chuộc. Dùng dữ liệu từ Trung tâm Lưu ký Chứng khoán, kết hợp với dữ liệu từ phòng kinh doanh và các mối quan hệ của công ty."
+
+Sơn gõ bàn phím. "Việc đó tôi làm mất khoảng ba ngày. Nhưng cần giấy tờ chính thức từ Trung tâm Lưu ký."
+
+"Luật sư Cường sẽ lo giấy tờ. Ông có thể yêu cầu sao kê danh sách cổ đông từ trung tâm không?"
+
+"Được. Nhưng chỉ biết được cổ đông tổ chức và cá nhân nắm trên 1%. Dưới mức đó là cổ đông nhỏ lẻ — không có nghĩa vụ công bố danh tính. Đó là lý do họ dùng nhiều tài khoản nhỏ."
+
+"Vậy chúng ta không biết họ đang mua gì qua các tài khoản nhỏ?"
+
+"Đúng vậy. Đây là điểm mù trong quản trị công ty đại chúng ở Việt Nam."
+
+Hùng xoay người, nhìn ra ngoài cửa sổ. Nắng tháng Ba đã lên cao, soi rõ từng chi tiết trên phố — một người đàn ông trung niên đang đạp xích lô chở một bà cụ qua ngã tư, chậm rãi, đều đặn, lách qua dòng xe cộ tấp nập. Trên xe, bà cụ ngồi co ro, ôm một túi đồ chợ. Thứ gì đó trong cảnh ấy khiến Hùng nhớ lại một điều.
+
+Có những thứ không thể mua bằng tiền — và có những người vẫn giữ lòng trung thành vì những điều bé nhỏ.
+
+"Khi tôi mới mở xưởng Hà Đông, tôi không biết ai sẽ mua hàng của mình. Tôi đi từng cửa hàng vải, từng chợ đầu mối, để hỏi. Nhiều người từ chối. Nhưng tôi nhớ từng người đã từng nói đồng ý." — Ông dừng lại, nhìn quanh phòng họp — mười hai gương mặt, mười hai câu chuyện, mười hai số phận gắn với Thương Gia. "Tôi vẫn nhớ mặt họ. Bây giờ cũng vậy. Tôi sẽ gặp từng cổ đông lớn. Không qua điện thoại. Không qua thư mời. Trực tiếp."
+
+"Tất cả? Có hơn bốn mươi người," Lan nói.
+
+"Thì gặp. Một tuần mười người — mất bốn tuần."
+
+"Sẽ mất thời gian, anh ạ. Trong lúc đó, bọn họ vẫn mua."
+
+"Sẽ mất nhiều hơn nếu không làm. Cổ đông không phải là mã số trên sàn — họ là người. Khi mình ngồi với họ, uống trà với họ, hỏi thăm gia đình họ — mình không chỉ giữ được cổ phần, mình giữ được lòng tin."
+
+Cuộc họp kết thúc lúc mười một giờ trưa. Mọi người ra về — ông Tam xuống xưởng Hải Phòng, Sơn về phòng IT với hộp cơm văn phòng, luật sư Cường về văn phòng công chứng. Chỉ Lan ở lại.
+
+Chị ngồi đối diện Hùng, hai tay đặt lên bàn — một tay đeo nhẫn cưới đã mòn, mặt nhẫn xước nhiều vết, không phải vì vàng kém chất lượng, mà vì hai mươi lăm năm chị không bao giờ tháo nó ra khi làm việc. Năm 1993, Hùng đặt chiếc nhẫn đó lên tay chị — lúc ấy gia đình hai bên góp tiền mua, chỉ một chỉ vàng, nhẫn trơn, không hoa văn. Lan vẫn đeo nó, dù bây giờ chị có thể mua cả tiệm vàng.
+
+"Anh tính gặp từng người một?"
+
+"Ừ."
+
+"Kể cả người không muốn gặp?"
+
+"Kể cả. Càng không muốn gặp, càng phải gặp."
+
+"Anh có biết gặp ai trước không?"
+
+Hùng lấy từ cặp da ra một tờ giấy — viết tay, nét chữ nguệch ngoạc nhưng rõ ràng, danh sách những cái tên Sơn đã tổng hợp. Ông đọc to, chậm:
+
+"Nguyễn Văn Lộc — 2,1%. Từng chất vấn tôi gay gắt nhất trong cuộc họp cổ đông tháng Tám năm ngoái. Là người cũ của SHB Hải Phòng, đã nghỉ hưu nhưng còn quan hệ."
+
+"Người đầu tiên?"
+
+"Không. Người cuối cùng."
+
+Lan gật đầu, không hỏi thêm. Chị hiểu chiến thuật: gặp kẻ yếu trước, gặp kẻ mạnh sau. Để khi đến lượt người cuối cùng — Nguyễn Văn Lộc — Hùng đã biết toàn bộ bàn cờ, đã có lực lượng, đã có thông tin về điểm mạnh điểm yếu của từng phe.
+
+Tuần đầu tiên, Hùng gặp bảy cổ đông. Không phải tại văn phòng Thương Gia — ông đến tận nhà họ. Một người ở Hà Nội, ba người ở Hải Phòng, hai người ở Nam Định, một người ở Thanh Hóa. Mỗi cuộc gặp kéo dài không quá một giờ. Hùng không mang theo tài liệu, không trình bày số liệu. Ông ngồi xuống, uống trà, hỏi thăm sức khỏe, nhắc lại chuyện cũ. Và hỏi một câu duy nhất:
+
+"Ông/bà đầu tư vào Thương Gia vì điều gì?"
+
+Câu trả lời của mỗi người cho ông biết họ sẽ ở phe nào trong cuộc chiến sắp tới.
+
+Người thứ nhất — ông Tư, bảy mươi tuổi, chủ một cửa hàng vật liệu xây dựng ở Hải Phòng, nắm 0,7% cổ phần từ đợt phát hành riêng lẻ năm 2005 — trả lời ngay lập tức, không chần chừ:
+
+"Vì thấy ông làm ăn đàng hoàng. Hồi năm 2000, vụ lô hàng xuất khẩu sang Nhật bị trả về vì không đạt chuẩn đóng gói, tôi tưởng Thương Gia sập. Thế mà bảy năm sau, Thương Gia mở thêm hai nhà máy, trả cổ tức đều đặn. Tôi không biết nhiều về chứng khoán, nhưng tôi biết người cầm lái có tâm. Có tâm thì có tầm."
+
+Hùng ghi nhớ: trung thành.
+
+Người thứ hai — bà Hạnh, gần bảy mươi, giáo viên đã nghỉ hưu, nắm 0,3% cổ phần từ đợt phát hành lần đầu năm 2005. Bà mua bằng tiền tiết kiệm cả đời — sáu mươi triệu đồng, một phần ba gia tài hồi ấy. "Tôi không hiểu chứng khoán lắm. Hồi mua, thằng con trai tôi, nó học kinh tế, bảo mua đi. Giờ nó bảo bán. Nhưng tôi chưa bán — vì hàng tháng có cổ tức gửi về tài khoản, đều đặn như lương hưu thêm."
+
+Hùng hỏi: "Có ai liên hệ với bà để mua lại cổ phần không?"
+
+Bà Hạnh nhìn ông, ngập ngừng. Đôi mắt đã mờ của bà đảo qua đảo lại trên mặt Hùng, như đang đánh giá xem có nên nói thật không.
+
+"Có. Một người tự xưng là môi giới chứng khoán — giọng Bắc, nói chuyện lưu loát — gọi điện thoại, bảo có nhà đầu tư nước ngoài muốn mua lại toàn bộ với giá cao hơn thị trường 15%. Ông ta nói: 'Cô Hạnh này, cô giữ làm gì, bây giờ bán đi, lời gấp rưỡi lúc mua, còn hơn nuôi gà đẻ trứng vàng.' Tôi nói để tôi suy nghĩ — cho qua chuyện."
+
+"Bà đừng bán. Nếu cần tiền gấp, cứ gọi tôi."
+
+"Chú Hùng nói thế thì tôi yên tâm. Có ai gọi lại nữa tôi bảo: chủ tịch đã nói không bán."
+
+Hùng ghi nhớ: dao động, nhưng có thể giữ được.
+
+Người thứ ba — một doanh nhân trẻ, chủ một chuỗi cửa hàng điện máy ở Nam Định, nắm 1,1% — mua từ năm 2010 khi thị trường chứng khoán hồi phục. Anh ta nói thẳng không kiêng nể:
+
+"Tôi đầu tư vì lợi nhuận. Thương Gia là mã tôi chọn vì thanh khoản tốt, cổ tức ổn. Nếu có người trả giá cao hơn giá trị thị trường, tôi sẽ bán. Đừng trách tôi — kinh doanh là kinh doanh. Tôi nuôi mẹ già, hai con nhỏ, và một khoản vay ngân hàng. Tôi không thể để cảm tính chi phối quyết định."
+
+Hùng không tranh luận. Ông chỉ gật đầu và ghi vào sổ: "Có thể mất — cần phương án dự phòng."
+
+Người thứ tư — một cặp vợ chồng bác sĩ đã về hưu ở quận Lê Chân, Hải Phòng, nắm 0,5% cổ phần. Họ mua cổ phiếu Thương Gia từ năm 2005, giữ đến bây giờ, chưa từng bán một cổ phiếu nào. "Chúng tôi không bán. Tiền đó để dành cho con học đại học ở nước ngoài. Đứa lớn sắp tốt nghiệp rồi — một năm nữa. Không cần bán gấp. Có bán cũng phải hỏi ý chú Hùng trước."
+
+Hùng ghi: trung thành.
+
+Năm người, bảy cuộc gặp, một tuần. Đêm chủ nhật, Hùng ngồi trong phòng khách căn nhà nhỏ ở phố Yên Phụ, mở cuốn sổ tay, thống kê: tổng số cổ phần từ những người đã gặp là 4,9%. Trong đó 3,2% chắc chắn trung thành, 1,1% có thể mất, 0,6% chưa rõ.
+
+Chưa đủ.
+
+Nếu đối phương đã có 12,7%, ông cần ít nhất 20% từ nhóm cổ đông trung thành để có thể an toàn trước bất kỳ cuộc chiến nào tại đại hội. Hơn 15% nữa. Gấp ba lần những gì ông đã làm trong tuần qua.
+
+Ông cần thêm.
+
+Ngoài trời, mưa xuân bắt đầu rơi nhẹ. Tiếng mưa lộp độp trên mái tôn cũ, đều đều, êm, như một bản nhạc không lời của đêm Hà Nội. Hùng nhắm mắt. Ông thấy lại những khuôn mặt trong tuần — bà giáo Hạnh với mái tóc muối tiêu, ông Tư với đôi tay sạm nắng, anh chủ cửa hàng điện máy với nụ cười tỉnh táo đến lạnh, cặp vợ chồng bác sĩ ngồi tay trong tay trên ghế salon cũ.
+
+Bọn họ sẽ đứng về phía nào khi đại hội bắt đầu?
+
+Ngày hôm sau, Sơn mang đến danh sách đã phân loại — một bảng tính Excel dài, được tô màu cẩn thận. Hùng lướt mắt, thấy có những cái tên quen, có những cái tên chưa gặp bao giờ. Tổng cộng bốn mươi bảy cổ đông sở hữu từ 0,1% trở lên. Trong đó, mười lăm người được đánh giá "trung thành", mười ba người "dao động", chín người "có thể bị mua chuộc", và mười người "không rõ".
+
+"Bọn họ cũng đang gọi điện cho mấy người này." — Sơn nói, gõ bàn phím mở một cửa sổ khác. "Em có bằng chứng. Một đầu số lạ — 024.3568.xxx — gọi cho ít nhất bảy cổ đông trong mười ngày qua. Em gọi thử số đó — máy tự động, không ai bắt máy. Dùng dịch vụ tra cứu, số đó thuộc một công ty tư vấn tài chính ở phố Lý Thường Kiệt. Công ty tên là A&C Consulting, thành lập tháng 6 năm 2016 — cùng thời điểm với ba công ty ma. Cùng một khuôn mẫu: nhỏ, mới, vỏ ngoài hợp pháp."
+
+Hùng cầm tờ danh sách. Đây không còn là cuộc chiến âm thầm nữa. Nó đã lộ diện hoàn toàn.
+
+"Phiểu cho tôi danh sách bảy người đó. Tôi sẽ gặp họ trong tuần này."
+
+"Bảy người ở bảy tỉnh khác nhau — Hải Dương, Bắc Ninh, Hưng Yên, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình. Sẽ mất ít nhất hai tuần."
+
+"Thì hai tuần." — Hùng đứng dậy, cất danh sách vào túi trong áo. "Mai tôi đi Thanh Hóa trước."
+
+"Vậy em báo xe?"
+
+"Không. Đi xe khách. Càng ít người biết càng tốt."
+
+Sơn gật đầu. Cậu ngập ngừng như muốn nói thêm, nhưng rồi không.
+
+Ngoài trời, mưa vẫn rơi. Nhẹ, nhưng không ngừng. Giống như cuộc chiến này. Không ồn ào. Nhưng dai dẳng. Và Hùng biết — kẻ nào dai hơn, kẻ đó thắng.
+
+Nhưng Hùng không ngờ rằng, trong khi ông đi gặp từng cổ đông nhỏ lẻ, từng người một, từng tỉnh một, ban lãnh đạo First Capital Partners đã có mặt tại Hà Nội.
+
+Tan Wei Ming — tổng giám đốc người Singapore, năm mươi hai tuổi, tóc muối tiêu, nói tiếng Anh với giọng Anh chuẩn, đeo kính gọng mảnh — đáp xuống Nội Bài vào một buổi chiều cuối tháng Ba. Ông ta ở tại khách sạn JW Marriott trên phố Phạm Hùng, đặt phòng tổng thống, xe Mercedes S-Class đón tại sân bay. Theo sau ông ta là một luật sư người Malaysia, một chuyên viên tài chính người Úc, và một người Việt Nam — Nguyễn Hữu Tuấn.
+
+Tin này đến tai Hùng qua Dũng chưa đầy hai mươi tư giờ.
+
+Bức ảnh chụp từ tiền sảnh khách sạn — điện thoại của Dũng, chụp lén, góc rộng — cho thấy bốn người đàn ông ngồi ở lounge, giữa họ là một máy tính xách tay mở sẵn một bảng biểu. Nguyễn Hữu Tuấn đang chỉ tay vào màn hình, mặt căng thẳng. Bốn ly whisky trên bàn, một gạt tàn thuốc.
+
+Kèm theo bức ảnh, Dũng gửi một tin nhắn ngắn:
+
+"Tuần sau, bọn họ sẽ gặp một số cổ đông lớn. Tôi chưa biết cụ thể ai. Nhưng có một cái tên ưu tiên đầu tiên — Nguyễn Văn Lộc."
+
+Nguyễn Văn Lộc — 2,1% — người từng chất vấn Hùng gay gắt nhất tại cuộc họp cổ đông bất thường tháng Tám năm ngoái. Hùng đã định gặp Lộc cuối cùng, sau khi đã gặp tất cả những người khác. Nhưng bây giờ, thời gian đã đổi.
+
+"Sơn," — Hùng gọi từ bến xe — "Tìm cho tôi số điện thoại của Nguyễn Văn Lộc. Gửi qua tin nhắn."
+
+"Sếp bảo để Lộc cuối cùng?"
+
+"Không thể cuối cùng nữa. Bọn họ sắp gặp hắn. Tôi phải gặp trước."
+
+Cuộc gặp với Nguyễn Văn Lộc diễn ra ba ngày sau, tại một quán trà trên phố Lý Quốc Sư — quán trà nhỏ, yên tĩnh, tách trà sen giá một trăm năm mươi nghìn. Lộc — năm mươi ba tuổi, tóc đen nhánh (nhuộm), đeo kính gọng vàng, áo sơ mi trắng đóng thùng, quần tây đen — đến đúng giờ, đúng phút. Ông ta ngồi xuống, gọi ấm trà sen đắt nhất, và nói câu đầu tiên trước khi Hùng kịp mở miệng:
+
+"Tôi biết tại sao anh muốn gặp tôi. First Capital Partners đã liên hệ với tôi từ hai tuần trước. Họ muốn mua cổ phần của tôi. Tôi chưa trả lời. Và tôi muốn anh biết: trước khi gặp anh, tôi chưa quyết định."
+
+"Nếu ông không làm việc cho họ, sao ông có số liệu thuộc lòng đến vậy trong cuộc họp tháng Tám?"
+
+Lộc im lặng. Rót trà vào tách. Đưa tách lên mũi ngửi — một thói quen của người sành trà. Uống một ngụm. Đặt tách xuống.
+
+"Vì tôi đã kiểm tra. Trước khi mua cổ phiếu Thương Gia, tôi kiểm tra tất cả — báo cáo tài chính ba năm, tỷ suất lợi nhuận, nợ vay ngân hàng, dòng tiền tự do. Tôi là người làm ngân hàng mười lăm năm, tôi biết đọc số. Và tôi thấy Thương Gia là một công ty tốt — nhưng quản trị yếu, quá phụ thuộc vào gia đình."
+
+Hoàn toàn chính xác. Hùng không thể phủ nhận.
+
+"Tại sao ông mua cổ phiếu Thương Gia?"
+
+"Vì tôi tin nó có tiềm năng. Và tôi muốn có tiếng nói trong việc cải thiện quản trị — minh bạch hơn, chuyên nghiệp hơn, ít... ít gia đình trị hơn."
+
+"Và bây giờ?"
+
+Lộc đặt tách trà xuống, chậm rãi, cố tình chậm. Những ngón tay thon dài của một người từng ký hàng ngàn hợp đồng.
+
+"Bây giờ, tôi thấy có hai nhóm đang đánh nhau. Một nhóm muốn giữ Thương Gia nguyên vẹn. Một nhóm muốn tháo dỡ nó và bán từng phần với giá cao. Cả hai đều có lý của mình. Tôi chưa quyết định đứng về phía nào. Nhưng tôi biết một điều — tôi không muốn ở giữa khi hai xe tải đâm vào nhau."
+
+Hùng nhìn Lộc một lúc lâu. Mắt hai người gặp nhau — và trong cái nhìn đó, Hùng đọc được một điều: Lộc đang nói thật.
+
+"Ông có thể không quyết định hôm nay. Nhưng tôi muốn ông biết một điều trước khi quyết định."
+
+"Điều gì?"
+
+"Nếu Thương Gia bị tháo dỡ và bán từng phần, ông — với 2,1% cổ phần — có thể kiếm được 30 đến 40% lợi nhuận trong vòng mười tám tháng. Đó là một con số hấp dẫn, tôi biết. Nhưng từng phần đó sẽ được bán cho đối thủ cạnh tranh. Hơn hai mươi nghìn nhân công sẽ mất việc. Bảy nhà máy ở các tỉnh nghèo sẽ đóng cửa. Hàng trăm nghìn khách hàng của Thương Gia — những người đã mua hàng của Thương Gia suốt ba mươi lăm năm — sẽ không còn nơi để mua loại hàng quen thuộc. Các trường học, bệnh viện, trung tâm thể thao mà Thương Gia tài trợ sẽ phải tìm nguồn tài trợ mới. Đó là cái giá của 30% lợi nhuận."
+
+Lộc không trả lời. Ông ta rót thêm trà, uống hết, đặt tách xuống. Ngồi im một lúc lâu.
+
+"Cho tôi một tuần."
+
+"Được. Một tuần."
+
+Hùng đặt tiền trà lên bàn — ba tờ một trăm, giấy bạc cũ nhàu vì nằm trong túi áo lâu — rồi đứng dậy. Chiếc bàn gỗ kêu nhẹ. Ngoài trời, nắng tháng Ba xiên qua ô cửa kính nhỏ, tạo một dải sáng óng ánh bụi bay lơ lửng. Mùi trà sen còn thoảng giữa hai người.
+
+"Cảm ơn ông đã gặp." Hùng cúi đầu, xoay lưng ra cửa. Giọng Lộc vọng theo: "Anh Hùng — tôi nể anh vì một điều. Anh không mua chuộc tôi."
+
+Hùng dừng, quay nửa người. Nắng chếch vào mặt ông, rõ từng đường nét: đôi mắt sâu, vết chân chim nơi khóe mắt, bờ môi khô nẻ vì những chuyến đi dài. Ông cười — nụ cười không giấu nổi sự mệt mỏi của những đêm mất ngủ. "Vì tôi không có tiền để mua. Tôi chỉ có sự thật."
+
+Ra vỉa hè, ông đứng lại, hít một hơi dài. Mùi bụi phố cổ, mùi phở xa, tiếng xe cộ nhộn nhịp — Hà Nội vẫn sống. Cuộc chiến cổ phần vẫn đó, nhưng trong lồng ngực ông có một thứ nhẹ nhõm lạ: ít nhất, mọi thứ đang diễn ra ngoài ánh sáng.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.333」
+Năm: 2017
+Tổng EXP: 82,800 (+600 nhịp này)
+Không gian kho: 46,560m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: Phát hiện 12,7% cổ phần bị gom qua sáu pháp nhân. Hùng bắt đầu chiến dịch gặp trực tiếp từng cổ đông — 7 người/tuần. Cuộc gặp với Nguyễn Văn Lộc — chưa ngả ngũ, cần 1 tuần.
+============================================================
