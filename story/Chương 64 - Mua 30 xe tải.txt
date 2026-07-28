@@ -52,7 +52,7 @@ Quang nhìn Lan, có lẽ chờ cô làm dịu câu chuyện. Lan chỉ mở s�
 
 — Anh cho người mang ra. Chúng tôi chờ được.
 
-Ba chiếc bàn gỗ được kê dưới mái che. Hồ sơ đưa tới thành hai bó, giấy đã ố, mép quăn và có chỗ dính dầu. Hùng chia người thành ba nhóm. Lan đối chiếu số khung, số máy với giấy. Hai thợ máy của xưởng kiểm động cơ, hộp số, cầu xe, hệ thống phanh và lốp. Một lái xe lâu năm tên Phúc chịu trách nhiệm chạy thử.
+Ba chiếc bàn gỗ được kê dưới mái che. Hồ sơ đưa tới thành hai bó, giấy đã ố, mép quăn và có chỗ dính dầu. Mùi dầu diesel và cao su cháy từ bãi xe phả vào từng trang giấy, quyện với mùi mồ hôi và bụi đường suốt dọc chuyến đi. Hùng đưa tay lật từng tờ, cảm nhận độ nhám của mép giấy quăn dưới ngón tay — một cảm giác thân thuộc đến kỳ lạ. Ông tự nhủ: mỗi tờ giấy này là đời của một chiếc xe, và sai một con số là hỏng cả một mối làm ăn. Hùng chia người thành ba nhóm. Lan đối chiếu số khung, số máy với giấy. Hai thợ máy của xưởng kiểm động cơ, hộp số, cầu xe, hệ thống phanh và lốp. Một lái xe lâu năm tên Phúc chịu trách nhiệm chạy thử.
 
 Hùng dặn trước khi mọi người tản ra:
 
@@ -348,7 +348,15 @@ Lan ngồi xuống, vẻ mệt mỏi cuối cùng cũng lộ ra.
 
 Ngoài bãi, một lái xe đang dùng đèn pin kiểm lốp trước ca đêm. Người điều độ đọc lại tuyến, giờ nghỉ và số điện thoại của điểm giao từ chiếc máy bàn trong phòng trực. Không có tiếng reo mừng. Chỉ có tiếng bút ghi, tiếng cửa xe đóng và tiếng động cơ lần lượt thức dậy.
 
-Hùng nhìn bảng điều xe kín những hàng chữ. Con số ba mươi cuối cùng đã có trọng lượng, tuyến đường, người chịu trách nhiệm và ngày bảo dưỡng. Nó không còn là tham vọng được nói trong phòng họp.
+Hùng nhìn bảng điều xe kín những hàng chữ. — Ba mươi xe tải, anh có nghĩ mình cần nhiều thế không? — Lan hỏi khi xem báo giá.
+
+— Cần. — Hùng không do dự. — Mỗi xe chạy ba chuyến một tuần, một tháng chở được bao nhiêu hàng? Tính đi.
+
+— Nhưng tiền đâu ra?
+
+— Tiền từ hàng bán ra. Không có xe thì hàng không đến tay người mua.
+
+Con số ba mươi cuối cùng đã có trọng lượng, tuyến đường, người chịu trách nhiệm và ngày bảo dưỡng. Nó không còn là tham vọng được nói trong phòng họp.
 
 Trước khi tắt đèn, ông viết thêm một câu dưới trang sổ:
 
@@ -360,5 +368,8 @@ Năm: 1985
 Tổng EXP: 8,653 (+213 nhịp này)
 Không gian kho: 3,687m² (+47m²)
 Kỹ năng hiện có: Thương mại lv1; Ngôn ngữ lv1; Thương mại lv2; Y tế lv1; Sản xuất lv1; Sản xuất giày lv1; Quản lý lv1; Thương mại lv3; Đầu tư lv1; Chiến lược lv1; Đầu tư lv2
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Ba mươi xe tải đỗ thành hàng. Đủ loại, đủ đời. Hùng đi dọc, vỗ thử lốp, hỏi tài xế.
+Một anh lái hỏi: "Cả trăm chiếc làm gì cho hết?" Hùng tính: mỗi tỉnh hai chiếc, còn lại chở hàng xuất.
+
+Ba mươi xe tải — con số nhỏ với người giàu, nhưng là cả một đội quân với người mới.
 ============================================================

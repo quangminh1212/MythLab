@@ -1,0 +1,102 @@
+# BRIEF — Chương 294: Bảo tàng Thương Gia
+
+FILE (exact): Chương 294 - Bảo tàng Thương Gia.txt
+Ledger: EXP=62000, space=25000m²
+Năm chủ đạo hiện tại trong prose: 1987
+Token hiện tại: 4195 | Clone: 19.1% (17 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ 
+- Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô 
+- Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng k
+- Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?
+- Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nh
+- Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn 
+- Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc l
+- "Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng
+- Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+- Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng
+- Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+- Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gâ
+- Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm t
+- Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết 
+- Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ 
+- Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+- ============================================================
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- Bảo tàng Thương Gia nằm trên đường Trần Hưng Đạo, Hà Nội — một tòa nhà ba tầng kiểu Pháp cũ, mua lại từ năm 2010 và mất hai năm trùng tu. Tường vôi vàng, mái ngói đỏ, cửa sổ vòm cao. Khi mua, nó là một nhà kho bỏ hoang, tường nứt, sàn gỗ mối ăn, mùi ẩm mốc xộc vào mặt mỗi lần mở cửa. Bây giờ, nó đẹp
+- Buổi sáng khánh thành, Hùng mặc áo dài đen — lần hiếm hoi ông bỏ comple. Bà Hà dẫn đầu đoàn khách đặc biệt: hai mươi cựu công nhân xưởng sản xuất đầu tiên ở Hà Đông — những người đã làm việc với Hùng từ những ngày đầu, khi xưởng chỉ có bốn máy may và một bàn cắt vải. Họ đã về hưu, tóc bạc, lưng còng
+- "Bà nhớ không, cái máy may này?" bà Hà chỉ vào chiếc Singer trong tủ kính, cũ kỹ, sơn tróc, bàn đạp sắt hoen gỉ.
+- Một bà lão cúi xuống, mắt kính dày cộp. "Trời ơi, máy may xưởng mình ngày xưa. Mà nó sơn màu gì nhỉ?"
+- "Màu xanh lá cây nhạt. Lần đầu thấy nó, tao nghĩ: cái máy này may một ngày bằng tao may tay mười ngày." Bà lão gật đầu, mắt rưng rưng. "Hồi đó một ngày may được hai cái áo. Có máy, hai chục cái."
+- Hùng đứng góc phòng, nhìn các bà hồi tưởng. Ông không lại gần — cảm xúc đó là của họ. Ông chỉ đứng đó, lặng lẽ quan sát, và thấy lòng mình ấm lên.
+- Bảo tàng ba tầng. Tầng một: "Khởi nghiệp" — tái hiện cửa hàng tạp hóa đầu tiên, quầy gỗ, cân bàn, bao gạo, chai dầu, mắm tôm, những bánh xà phòng thơm. Một góc tái hiện căn phòng trọ đầu tiên của Hùng: giường tre, bàn gỗ, đèn dầu, và một chiếc radio cũ — thứ tài sản đắt giá nhất của ông hồi đó.
+- Tầng hai: "Phát triển" — sản phẩm qua từng thời kỳ, từ dép tổ ong đến điện thoại thông minh. Dọc tường, dòng thời gian mỗi năm một mốc. Hùng dừng ở 1997: "Mở nhà máy đầu tiên tại Đức. Cả tập đoàn lỗ 2 triệu DM trong năm đầu." Ở bên cạnh là dòng chữ nhỏ do chính Hùng viết: "Thua ở nước ngoài còn hơn 
+- Tầng ba: "Hội nhập" — bản đồ 34 quốc gia, hợp đồng đối tác, ảnh Hùng bắt tay Thủ tướng, bắt tay các đối tác Nhật, Đức, Mỹ. Câu nói được khắc trên tường: "Đi xa để trở về, làm lớn để làm nhiều hơn."
+- Nhưng Hùng thích nhất góc nhỏ tầng hai cạnh cầu thang. Một tấm ảnh đen trắng đóng khung gỗ: người đàn ông gầy, đội nón lá, đẩy xe bán hàng rong. Ảnh cũ, mờ, nhưng nụ cười rất sáng.
+- "Giám đốc marketing nói không nên để tấm này ở trung tâm," Lan nói. "Bảo không sang."
+- "Chính vì không sang mới phải để. Để người ta thấy Thương Gia bắt đầu từ cái xe đẩy, không phải từ tòa nhà này. Người trong ảnh là ba mình. Ba bán hàng rong từ 1965 đến 1980. Dành dụm mua miếng đất nhỏ ở Hà Đông. Chưa kịp làm gì thì mất. Có những giấc mơ không kịp hoàn thành trong một đời. Mình nối 
+- Buổi chiều, lễ cắt băng. Hùng phát biểu bảy phút — không dài, không ngắn. Đủ để nói về hành trình, về những người đã cùng đi, và về lý do bảo tàng này tồn tại. Rồi ông nhường sân khấu cho bà Hà. Bà run run cầm micro, nhìn xuống hai mươi cựu công nhân, nhìn lên tấm ảnh của chồng trên tường.
+- "Thằng Hùng nhà tôi ngày xưa học không giỏi, nhưng có cái tâm. Từ ngày bán dưa muối ngoài chợ Quốc Oai, nó không bao giờ bán thứ người ta không ăn được. Làm to rồi, nó vẫn thế. Bảo tàng này để nhắc — làm ăn tử tế thì mới bền."
+- Bà dừng lại, giọng nghẹn: "Tôi cảm ơn tất cả mọi người đã đi với con tôi trong ba mươi năm qua."
+- Buổi trưa, Hùng ngồi trong quán cà phê nhỏ gần bảo tàng cùng Lan. Hai anh em không nói chuyện công việc — hiếm hoi. Họ nói về ngày xưa: về những bữa cơm chỉ có cơm trắng và muối vừng, về lần Hùng bị sốt rét nằm liệt ba ngày, về lần Lan bán được mẻ hàng đầu tiên.
+- "Em nhớ không, lần đầu tiên em bán được mười cái áo," Hùng nói. "Em chạy về nhà như người mất trí."
+- "Em nhớ. Hồi đó em mười bảy. Tưởng giàu rồi."
+- "Bây giờ em biết: giàu không phải là có nhiều tiền. Là có một chỗ để về, có người để nói chuyện. Là thấy cái bảo tàng kia và biết — mình đã làm được một điều gì đó cho đời."
+- Hùng không nói gì. Nhưng trong lòng ông, một cảm giác nhẹ nhõm lan tỏa. Ba mươi năm — không uổng phí.
+- Khuya, khách về hết. Hùng đi một mình quanh bảo tàng, kiểm tra từng góc. Đèn tắt, chỉ còn ánh sáng an ninh. Những bóng đèn nhỏ màu cam rọi lên tường, tạo ra những cái bóng dài. Ông dừng ở tầng ba, trước tủ kính trưng bày bộ sưu tập tem — sở thích từ thời niên thiếu. Bên cạnh là tấm bảng nhỏ: "Trần V
+- Ông cười một mình trong bóng tối. "Bộ sưu tập đó hồi nhỏ đổi được ba mươi ký gạo. Cả nhà sống nhờ hai tháng."
+- Ông đặt tay lên tủ kính. Hệ thống im — không có nhiệm vụ, không EXP. Chỉ có ký ức. Và ký ức, đôi khi, còn hơn cả phần thưởng.
+- Một góc nhỏ ở tầng một, khuất sau cầu thang, là nơi Hùng dành riêng cho những người đã khuất — những công nhân, những đối tác, những người bạn không còn nữa. Một bảng gỗ nhỏ khắc tên từng người, xếp theo năm mất. Có mười hai cái tên. Trên cùng là tên ba Hùng — người đã mất năm 1975, trước khi Thương
+- Hùng đứng trước bảng gỗ, im lặng. Ông không cúi đầu, không khấn vái. Ông chỉ đứng đó, nhớ về từng người, từng khuôn mặt, từng câu nói. Một số đã gắn bó với ông từ những ngày đầu — những người thợ may, những người lái xe tải, những người bán hàng ở các đại lý nhỏ. Họ không giàu, không nổi tiếng. Nhưn
+- "Cảm ơn các anh các chị," Hùng nói nhỏ. "Tôi không quên đâu."
+- Trong số những vị khách đến thăm bảo tàng tuần đầu tiên, có một người đàn ông trạc năm mươi, mặc áo sơ mi trắng đã ngả màu, đi đôi giày da cũ. Ông ta đi một mình, không cùng ai, và dừng lại rất lâu trước mỗi tủ kính. Hùng tình cờ cùng lúc kiểm tra hệ thống điện ở tầng một, thấy người đàn ông lạ, liề
+- Người đàn ông dừng ở tủ kính trưng bày những cuốn sổ tay cũ của Hùng — những cuốn sổ bìa cứng, giấy đã ố vàng, nét chữ nguệch ngoạc ghi chép từng khoản nợ, từng chuyến hàng, từng cái bắt tay. Ông ta cúi xuống nhìn, rồi lùi lại, như thể bất ngờ.
+- "Ông là Trần Văn Hùng?" người đàn ông hỏi.
+- Người đàn ông cười — một nụ cười buồn. "Tôi là Tuấn. Công nhân xưởng may năm 1987. Bị tai nạn lao động, mất ba ngón tay. Ông trả viện phí cho tôi. Tôi nhớ mãi."
+- Hùng nhìn người đàn ông, cố nhớ lại. Năm 1987, xưởng may còn nhỏ. Một vụ tai nạn — công nhân bị máy may cắt vào tay. Hùng đích thân đưa người đó đi bệnh viện, trả tiền viện phí, và giữ nguyên lương ba tháng.
+- "Mười lăm năm sau, tôi không còn làm cho Thương Gia nữa," người đàn ông nói. "Nhưng tôi vẫn nhớ. Ông không sa thải tôi. Ông bảo: tay em không may được nữa, nhưng đầu em còn dùng được. Ông cho tôi làm thủ kho."
+- Hùng không nói gì. Ông nhớ vụ việc, nhưng không nhớ mặt người công nhân. Ba mươi năm, biết bao nhiêu con người, bao nhiêu câu chuyện. Nhưng với người công nhân kia, câu chuyện đó là một dấu mốc cuộc đời.
+- Người đàn ông bắt tay Hùng, tay trái — vì tay phải chỉ còn hai ngón. "Cảm ơn ông. Tôi về hưu năm ngoái. Lương hưu đủ sống. Vợ con tôi vẫn làm cho Thương Gia. Tôi nói với tụi nó: ở đây mà làm, tử tế."
+- Ông ta quay đi, không nói thêm. Hùng đứng nhìn theo, lòng ông đầy ắp. Ông tự hỏi: có bao nhiêu câu chuyện như thế này mà ông không biết? Bao nhiêu cuộc đời đã đi qua Thương Gia, để lại những vết tích không ai ghi chép?
+- Sau chuyến thăm của người công nhân cũ, Hùng thay đổi một điều trong bảo tàng. Ông cho thêm một góc nhỏ ở tầng một, phía cuối hành lang: "Gương mặt Thương Gia" — nơi trưng bày ảnh của những công nhân tiêu biểu qua từng thời kỳ, kèm câu chuyện ngắn về họ.
+- Lan phụ trách thu thập tư liệu. Cô đăng thông báo trên nội bộ: "Ai có kỷ niệm với Thương Gia, xin gửi về phòng nhân sự." Chỉ trong một tuần, hơn hai trăm lá thư, tấm ảnh, câu chuyện được gửi về.
+- Có chuyện về một nữ công nhân làm việc suốt hai mươi năm, nuôi ba con ăn học từ lương Thương Gia. Có chuyện về một người bảo vệ giữ nhà máy suốt mười lăm năm, chưa một lần ngủ quên. Có chuyện về một tài xế lái xe tải ba mươi năm, chạy hơn hai triệu cây số không tai nạn.
+- Hùng đọc từng câu chuyện. Một số làm ông cười. Một số làm ông im lặng lâu. Và một số làm ông nhận ra: ba mươi năm qua, ông không chỉ xây dựng một tập đoàn. Ông đã xây dựng một cộng đồng.
+- Chiều thứ bảy, Hùng ngồi trong bảo tàng, một mình. Các phòng đã đóng cửa, chỉ còn ánh sáng vàng từ những đèn trần. Ông ngồi trên băng ghế gỗ ở tầng một, nhìn lên những kỷ vật — từ chiếc cân bàn cũ kỹ đến những hợp đồng xuất khẩu đầu tiên.
+- Ông nhớ lại một câu hỏi mà phóng viên đã hỏi ông trong ngày khánh thành: "Ông nghĩ điều gì làm nên thành công của Thương Gia?"
+- Hồi đó, ông trả lời: "Sự kiên trì và một chút may mắn."
+- Nhưng ngồi một mình trong bảo tàng, giữa những kỷ vật của ba mươi năm, ông nghĩ câu trả lời có thể khác. Thành công của Thương Gia — nó đến từ những người công nhân như anh Tuấn mất ba ngón tay, từ những bà lão cựu công nhân mắt kém vẫn nhớ màu sơn của chiếc máy may, từ những đứa trẻ như cậu học sin
+- Thành công không phải là thứ mình xây. Nó là thứ người khác nhớ về mình.
+- Sau khánh thành ba ngày, bảo tàng đón hơn năm nghìn lượt khách. Trong sổ vàng, một du khách viết: "Tôi thấy tự hào vì là người Việt Nam." Một học sinh lớp chín: "Em muốn sau này làm doanh nhân như chú Hùng." Một công nhân: "Cảm ơn Thương Gia cho tôi việc làm hai mươi năm."
+- Hùng đọc từng dòng. Có một dòng làm ông dừng lại lâu: "Cảm ơn chú Hùng vì đã giữ lời hứa với những người lao động nghèo. Mẹ con làm cho Thương Gia mười lăm năm, giờ đã về hưu. Bà vẫn nhắc về chú."
+- Ông không biết người viết là ai. Nhưng ông biết: có những lời hứa, dù không viết thành hợp đồng, vẫn được nhớ.
+- Sáng chủ nhật, Hùng đưa bà Hà đến thăm — lần đầu sau ngày khánh thành. Bà mặc áo dài, tóc bới, đi giày búp bê. Hùng dắt bà đi từng tầng. Đến tầng hai, trước tấm ảnh cha — người đàn ông đội nón lá đẩy xe hàng rong — bà dừng lại lâu.
+- Bà quay sang Hùng: "Mẹ có một hối tiếc — hồi ba con mất, không có tiền mua quan tài tử tế. Phải mua gỗ tạp."
+- Bà không nói hết. Hùng nắm tay bà, tay bà run nhẹ trong tay ông. "Bà ơi, thôi đừng nhắc. Quan tài gì bây giờ cũng không quan trọng. Ba biết mình làm được cái này — chắc ổng vui."
+- Bà Hà lau nước mắt, gật đầu. Hai mẹ con đứng đó, trước tấm ảnh cũ, không nói gì thêm. Những người tham quan đi qua, không ai biết người phụ nữ lớn tuổi đang đứng đó là mẹ của người sáng lập. Họ chỉ thấy một bà lão mặc áo dài, đứng trước một tấm ảnh, mắt đỏ hoe.
+- Một tháng sau ngày khánh thành, bảo tàng đón vị khách thứ hai mươi nghìn — một em học sinh từ Quốc Oai, Hà Tây cũ. Em đi cùng bố, người từng làm công nhân cho Thương Gia những năm 1990. Hùng tình cờ có mặt hôm đó. Ông đang kiểm tra lại hệ thống đèn ở tầng ba thì thấy hai cha con bước vào.
+- Người bố khoảng năm mươi, tay chai sần, nhìn quanh bảo tàng với ánh mắt lạ lẫm. Ông ta dừng trước bức ảnh chụp xưởng may năm 1986 — những chiếc máy may cũ, những người công nhân trẻ, mồ hôi nhễ nhại. "Ba làm ở đây hồi đó," người đàn ông nói với con. "Máy may cũ lắm, nhưng vải đẹp."
+- Hùng đứng sau, lắng nghe. Người đàn ông không nhận ra ông. Và Hùng cũng không muốn làm phiền — câu chuyện giữa hai cha con còn quý hơn một lời chào của chủ tịch tập đoàn.
+- Nhưng trước khi ra về, cậu bé chạy đến bàn lưu niệm, mua một tấm bưu thiếp in hình tòa nhà Thương Gia đầu tiên. Trên bưu thiếp có dòng chữ: "Khởi đầu từ một ước mơ."
+- Hùng đứng nhìn hai cha con khuất dần sau cánh cửa. Một cảm giác lạ — như thể ông vừa thấy chính mình và ba mình, ba mươi năm trước, qua một tấm gương thời gian.
+- Một hôm, Hùng nhận được thư tay từ một người phụ nữ ở Đà Nẵng. Chị viết:
+- "Chú Hùng, con là con gái của bác Tuấn — công nhân bị tai nạn năm 1987. Sau khi ba con mất năm ngoái, con tìm thấy cuốn nhật ký cũ của ba. Trong đó, ba viết nhiều về chú. Ba bảo: 'Hùng là người tốt, dù làm chủ lớn, vẫn không quên người nghèo.' Con muốn gửi lời cảm ơn. Bây giờ con cũng đang nuôi con 
+- Hùng đọc thư, gấp lại, bỏ vào túi áo. Ông lấy một tờ giấy, viết vài dòng gửi lại:
+- "Cháu gái, cảm ơn cháu. Chú không làm gì nhiều — chỉ làm điều phải làm. Ba cháu là người tốt hơn chú nhiều. Cố gắng lên. Nếu cần giúp gì, hãy gọi số này."
+- Kèm theo là số điện thoại của phòng nhân sự Thương Gia — nơi luôn có việc cho người tử tế.
+- Một buổi tối cuối năm, bảo tàng tổ chức một sự kiện nhỏ — không phải cho báo chí, không phải cho đối tác. Chỉ cho những công nhân cũ và gia đình họ. Hai trăm người, bảy mươi lăm gia đình, ngồi trong hội trường tầng ba. Có mâm cơm, có trà, có kẹo bánh. Trẻ con chạy nhảy giữa những tủ kính trưng bày. 
+- Một người đàn ông khoảng bảy mươi, tóc bạc trắng, đến gần Hùng: "Anh Hùng, nhận ra tôi không? Tôi là tổ trưởng tổ may năm 1988."
+- Hùng nhìn kỹ. "Nhớ. Anh Hai, tổ trưởng, tay nghề giỏi nhất xưởng."
+- Người đàn ông cười, hàm răng đã rụng mấy cái. "Nhớ tài. Hồi đó tôi may nhanh nhất, một ngày ba chục cái áo. Bây giờ tay run rồi, không may được nữa."
+- "Đủ ăn. Vợ mất năm năm rồi. Ở với con. Cháu nội hai đứa. Chúng nó học giỏi."
+- Hùng gật, nắm tay người tổ trưởng cũ. "Quý hóa quá. Cảm ơn anh đã đến."
+- Đó là một buổi tối không có bài phát biểu, không có hệ thống, không có EXP. Chỉ có những con người — đã cùng nhau làm việc ba mươi năm — ngồi lại với nhau, như một gia đình.
+- Đêm đó, trước khi ngủ, Hùng lật cuốn sổ cái. Ông viết một dòng duy nhất:
+- "Ba mươi năm — mình không xây một công ty. Mình xây một gia đình lớn."
+- Kỹ năng: Quản trị thương hiệu lv2, Ảnh hưởng xã hội lv3, Di sản lv1
+- Ghi chú: Bảo tàng Thương Gia khánh thành — hành trình 30 năm.

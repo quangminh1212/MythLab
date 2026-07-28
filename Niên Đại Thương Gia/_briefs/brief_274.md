@@ -1,0 +1,65 @@
+# BRIEF — Chương 274: Kênh truyền hình thực tế
+
+FILE (exact): Chương 274 - Kênh truyền hình thực tế.txt
+Ledger: EXP=62000, space=25000m²
+Năm chủ đạo hiện tại trong prose: 2007
+Token hiện tại: 3053 | Clone: 48.1% (25 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ 
+- Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô 
+- Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng k
+- Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?
+- Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nh
+- Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn 
+- Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc l
+- "Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng
+- Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+- Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng
+- Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+- Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gâ
+- Năm giờ sáng, đường từ làng ra huyện còn tối om. Hùng đạp xe, hai bên đường là cánh đồng lúa sắp gặt. Tiếng ếch nhái kêu ran trong sương. Đôi dép tổ ong mòn gót, bàn đạp xe trơn vì sương đêm. Hùng nghĩ về chuyến đi hôm nay: phải gặp một đầu mối mới, phải thương lượng giá, phải về kịp trước tối.
+- Tới huyện, trời vừa sáng. Chợ đã nhóm. Hùng ghé vào quán phở đầu chợ. Bát phở bò nóng, nước dùng thơm mùi xương hầm, hành lá xanh cắt khúc. Hùng ăn nhanh, trả tiền, rời đi. Phố huyện lúc này đã đông người. Xe đạp len lỏi qua đám đông. Mùi bánh mì nóng, mùi dầu rán, mùi thuốc lào quyện vào nhau.
+- Người đầu mối tên Khoa, trạc bốn lăm, chuyên buôn chỉ thêu từ Hải Dương. Hùng gặp ông ta ở quán nước đầu phố. 'Cần bao nhiêu?' — 'Ba trăm cuộn, mười màu.' — 'Có ngay.' Họ bắt tay. Không giấy tờ, chỉ một cái bắt tay và một lời hứa. Hùng đạp về khi nắng xế, lòng nhẹ.
+- Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm t
+- Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết 
+- Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ 
+- Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+- Kỹ năng trọng yếu: Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
+- ============================================================
+- Buổi chiều, Hùng vào kho kiểm hàng. Bụi bám trắng xóa trên bao tải, mùi vải mới lẫn mùi đất ẩm. Ông cầm từng mét vải lên, sờ mặt vải, vuốt dọc thớ. Từng cuộn đều có phiếu ghi tay: ngày nhập, số mét, giá vốn. Lan đứng sau, tay cầm sổ, đọc số: 'Còn bảy mươi mét vải hoa, chín mươi mét vải trắng, sáu mư
+- Văn phòng làm việc sáng thứ Hai. Hùng ngồi sau bàn gỗ, cốc cà phê đã nguội từ sớm. Trước mặt là bản đề xuất dày hai mươi trang. Ông đọc từng trang, ghi chú vào lề bằng bút đỏ. Có những dòng ông gạch, có những dòng ông khoanh. Lan gõ cửa bước vào, mang theo tách trà mới. 'Anh chưa ăn sáng.' Hùng khôn
+- Chiều, Hùng ra ngoài đi dạo một mình. Phố xá đông đúc, nhưng ông không để ý. Ông nhìn những tòa nhà mới mọc lên, những cửa hàng mới mở. Hà Nội đã khác xưa nhiều. Xe máy thay xe đạp, biển hiệu thay bảng gỗ. Nhưng ở một góc, ông vẫn thấy bà cụ bán chè đỗ đen, vẫn thấy người đàn ông đạp xích lô, vẫn th
+- Tối, bà Hà gọi điện thoại. Giọng bà yếu nhưng vẫn ấm. 'Mày ăn cơm chưa?' Hùng bảo chưa, nhưng sắp ăn. Bà bảo: 'Đừng làm việc quá khuya. Sức khỏe là vốn.' Hùng ậm ừ cho qua. Cúp máy, ông nhìn ra cửa sổ trời tối. Đèn đường Hà Nội vàng vọt. Ông lấy cơm nguội ra, chan nước mắm, ăn trong phòng tối, không
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- Một buổi tối tháng 6 năm 2007, Hùng ngồi xem tivi cùng bà Hà trong căn nhà ở Hà Đông. Chương trình đang chiếu là "Nhịp cầu âm nhạc" — một cuộc thi tìm kiếm tài năng ca hát trên VTV. Những thí sinh lần lượt lên sân khấu, hát những bài hát tiếng Anh, tiếng Hàn, tiếng Trung. Họ hát hay, kỹ thuật tốt, n
+- Bà Hà vừa xem vừa lắc đầu: "Các cháu hát hay quá, nhưng sao toàn hát tiếng nước ngoài không vậy? Có bài nào tiếng Việt đâu."
+- Hùng nhìn màn hình. Quả thật, ba thí sinh liên tiếp đều chọn bài hát nước ngoài. Người dẫn chương trình nói tiếng Việt, nhưng âm nhạc thì hoàn toàn xa lạ.
+- "Ngày xưa con hay hát 'Bụi phấn' lắm," bà Hà nói tiếp, giọng hoài niệm. "Mỗi lần con hát là má muốn khóc. Mà hồi đó con hát hay hơn mấy đứa trên tivi nhiều."
+- Hùng cười. "Má thương con nên nói thế thôi."
+- "Không phải. Con hát hay thật mà. Nhưng hồi đó nhà nghèo, không có điều kiện cho con đi học nhạc. Giá mà có một cuộc thi dành cho trẻ em nghèo, chắc con cũng tham gia."
+- Câu nói của bà Hà ở lại trong đầu Hùng rất lâu. Đêm đó, ông trằn trọc không ngủ. Ông nghĩ về một chương trình truyền hình thực tế không chỉ để giải trí, mà còn để tìm kiếm và bảo tồn những tài năng âm nhạc dân gian Việt Nam.
+- Sáng hôm sau, Hùng gọi Lan và ông Lộc lên văn phòng. Trên bảng trắng, ông phác thảo ý tưởng: một cuộc thi tìm kiếm tài năng trẻ, dành cho lứa tuổi 16-25, với thể lệ đặc biệt — thí sinh phải hát ít nhất một bài dân ca hoặc nhạc truyền thống Việt Nam trong mỗi vòng thi. Chương trình sẽ có phần phóng s
+- Hùng tính nhẩm trên đầu ngón tay, thói quen từ thời còn bán hàng ngoài chợ. "Mười hai tập, mỗi tập khoảng ba trăm triệu cho sản xuất. Tổng cộng ba tỷ sáu. Thêm chi phí quảng bá, truyền thông, hậu kỳ — khoảng bốn tỷ rưỡi đến năm tỷ."
+- Ông Lộc nhíu mày. "Năm tỷ cho một chương trình truyền hình. Nếu không có đối tác phát sóng, mình sẽ mất trắng."
+- "Tôi đã nghĩ đến việc hợp tác với VTC. Họ đang cần nội dung chất lượng. Mình sản xuất, họ phát sóng, chia sẻ doanh thu quảng cáo."
+- Lan ghi chép nhanh. "Em sẽ liên hệ với VTC trong tuần này. Nếu họ đồng ý, em sẽ soạn hợp đồng."
+- Hùng giao cho đội sản xuất của TG Channel thực hiện. Đạo diễn Quang, người từng làm phóng sự về làng gốm Bát Tràng, được giao chỉ đạo chương trình. Quang nhận nhiệm vụ với vẻ mặt đầy hào hứng: "Đây là cơ hội để em làm một chương trình có giá trị văn hóa thực sự. Em sẽ không làm nó như một show giải 
+- Vòng loại bắt đầu vào tháng 8 năm 2007. Ba địa điểm: Hà Nội, Đà Nẵng, TP.HCM. Mỗi địa điểm hai ngày thi. Hơn 2.000 thí sinh đăng ký dự thi. Trong số họ, có những em bé dân tộc thiểu số lần đầu xuống núi, lần đầu nhìn thấy đèn sân khấu. Có những sinh viên trường nghệ thuật, có những công nhân hát tro
+- Buổi ghi hình đầu tiên diễn ra tại một trường quay nhỏ ở phố Vĩnh Phúc, Hà Nội. Trường quay rộng 200 mét vuông, trần thấp, tường cách âm bằng mút xốp. Ghế khán giả là ghế nhựa xếp mua từ chợ Nhông. Đèn chiếu sáng mượn từ một công ty tổ chức sự kiện, vẫn còn dán nhãn cho thuê.
+- Hùng đến xem buổi ghi hình. Ông mặc áo sơ mi trắng, quần tây đen, ngồi hàng ghế cuối cùng, không ai nhận ra ông. Trên sân khấu, thí sinh đầu tiên là một cô gái người Mông — em mặc váy thổ cẩm truyền thống, tay cầm micro, hai chân run bần bật.
+- Em hát bài "Một vành trăng khuyết" bằng giọng Mông pha tiếng Kinh. Giọng em khàn, cao, như tiếng gió trên núi. Có chỗ em hát sai lời, vấp micro, nhưng cảm xúc thì rất thật. Khi em hát đến đoạn "tình yêu như trăng khuyết," nước mắt em chảy dài trên má.
+- Hùng thấy nước mắt mình cũng chảy. Ông không khóc vì em hát hay. Ông khóc vì em dám đứng trên sân khấu, hát bằng cả trái tim, để bảo tồn một nét văn hóa đang dần mai một. Trong một thế giới đầy những bài hát tiếng Anh, tiếng Hàn, em chọn hát tiếng mẹ đẻ bằng một làn điệu dân gian mà chỉ bà nội em cò
+- Sau buổi ghi hình, Hùng gặp cô gái người Mông ở hậu trường. Em tên là Thào Thị Xanh, 19 tuổi, đến từ Hà Giang. Em đi xe buýt hai ngày xuống Hà Nội dự thi, mang theo ba cân gạo nếp và một bọc muối vừng.
+- "Dạ, bà nội cháu dạy. Bà nội cháu năm nay 94 tuổi, là người hát dân ca giỏi nhất bản. Trong bản chỉ còn bà nội cháu biết hát bài này."
+- "Cảm ơn cháu đã mang bài hát đó đến đây."
+- Xanh cúi đầu, mắt đỏ hoe. "Cháu sợ lắm. Cháu chưa bao giờ hát trước đám đông. Nhưng mẹ cháu bảo: cứ đi, không đi thì không biết mình làm được gì."
+- Về đến nhà, trời đã khuya. Hùng không ngủ được. Ông ngồi ở bàn viết, mở cuốn sổ, viết: "Tháng 8 năm 2007. Em bé người Mông hát dân ca. Nước mắt. Tôi nhận ra: những gì quý giá nhất trên đất nước này đang dần mất đi. Thương Gia phải làm gì đó."
+- Chương trình lên sóng vào tháng 10 năm 2007, đúng dịp Quốc khánh. Tập đầu tiên đạt tỷ lệ người xem 4,5% — một con số ấn tượng cho một chương trình trên kênh kỹ thuật số mới thành lập. Các tập sau giữ vững phong độ, có tập đạt đến 5,8%. Những bài hát dân ca được trẻ hóa, được trình diễn với phong các
+- Hùng gọi cho đạo diễn Quang: "Em đã làm tốt. Tiếp tục phát huy."
+- Ghi chú: Chương trình truyền hình thực tế TG Channel ra mắt - rating 4,5%
+- Buổi ghi hình đầu tiên của chương trình truyền hình thực tế về khởi nghiệp. Hùng ngồi ghế giám khảo, bên cạnh là hai doanh nhân trẻ. Các thí sinh lần lượt lên trình bày ý tưởng. Một cậu sinh viên năm cuối, quê Nghệ An, muốn mở quán cà phê sách. Hùng hỏi: 'Vốn bao nhiêu?' — 'Ba trăm triệu.' — 'Lợi nh

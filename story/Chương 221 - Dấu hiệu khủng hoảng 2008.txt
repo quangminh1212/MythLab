@@ -2,7 +2,7 @@
 Chương 221: Dấu hiệu khủng hoảng 2008
 ============================================================
 
-Tháng Hai năm 2007, một bản tin Bloomberg đập vào mắt Hùng lúc sáu giờ sáng. Ông ngồi trong phòng làm việc tại nhà — một căn phòng nhỏ ở tầng hai, bàn gỗ, tủ sắt, quạt trần, màn hình CRT cũ kết nối Internet qua đường dây điện thoại. Tốc độ tải trang chậm đến mức ông có thể đi pha cà phê — phin, bột cà phê Trung Nguyên, nước sôi — rồi quay lại xem.
+Tháng Hai năm 2008, một bản tin Bloomberg đập vào mắt Hùng lúc sáu giờ sáng. Ông ngồi trong phòng làm việc tại nhà — một căn phòng nhỏ ở tầng hai, bàn gỗ, tủ sắt, quạt trần, màn hình CRT cũ kết nối Internet qua đường dây điện thoại. Tốc độ tải trang chậm đến mức ông có thể đi pha cà phê — phin, bột cà phê Trung Nguyên, nước sôi — rồi quay lại xem.
 
 Dòng chữ hiện ra trên màn hình, từng chữ một, như một bức điện tín: *"New Century Financial — lender to borrowers with poor credit — reports 25% drop in earnings. Shares fall 36%."*
 
@@ -179,4 +179,15 @@ Tổng EXP: 51,000 (+1,480 nhịp này)
 Không gian kho: 18,500m² (+700m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv3, Ngoại giao kinh tế lv3, Dự báo rủi ro lv3, Công nghệ cao lv2
 Ghi chú: Phát hiện dấu hiệu khủng hoảng từ tháng 2/2007 — New Century sụp. Áp dụng chính sách phòng thủ tài chính từ tháng 6. Hệ thống dự đoán nội bộ — cấp báo động 2. Kế hoạch khẩn cấp 16 trang — mở rộng lên 17 trang với phương án hỗ trợ công nhân.
+============================================================
+
+Teaser: 
+
+
+「Hệ thống — GHI NHẬN ch.221」
+Năm: 2008
+Tổng EXP: 43,000 (+238)
+Không gian kho: 15,000m² (+143m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú:  system_ledger
 ============================================================

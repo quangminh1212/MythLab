@@ -244,4 +244,5 @@ Không gian kho: 34,000m²
 Kỹ năng: Quản trị thương hiệu lv2 (MỚI)
 Ghi chú: Thương Gia Group lọt vòng chung khảo Thương hiệu Quốc gia.
 ============================================================
-Teaser: Chưa kịp ăn mừng, Hùng nhận điện thoại từ con trai — nó muốn về nước, xin vào công ty từ vị trí thấp nhất. Cùng lúc, bảo tàng Thương Gia chuẩn bị khánh thành.
+
+Teaser: 

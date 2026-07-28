@@ -1,0 +1,72 @@
+# BRIEF — Chương 323: Khách hàng trung thành
+
+FILE (exact): Chương 323 - Khách hàng trung thành.txt
+Ledger: EXP=72000, space=35000m²
+Năm chủ đạo hiện tại trong prose: 2015
+Token hiện tại: 3344 | Clone: 30.0% (17 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- ============================================================
+- Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ 
+- Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô 
+- Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí  của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng k
+- Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?
+- Tám giờ, khi mặt trời đã lên cao, Hùng bắt đầu chuyến đi trong ngày. Điểm đầu là cửa hàng vải. Một người phụ nữ trẻ, chừng hai lăm tuổi, đang lúi húi sắp xếp hàng từ sáng. Thấy Hùng vào, chị ta đon đả mời chào. Hùng không vội xem hàng, ông hỏi chuyện chị ta một lúc — hàng nhập từ đâu, giá vốn bao nh
+- Chợ trưa đông đúc hơn. Tiếng người mua kẻ bán ồn ào, tiếng leng keng của cân, tiếng đếm tiền, tiếng trả giá. Hùng đi qua khu thịt cá, nơi mùi tanh trộn với mùi rau thơm, tạo nên thứ mùi đặc trưng của chợ truyền thống. Ông quen với mùi này, nó gợi cho ông nhớ về những năm tháng đầu tiên, khi ông còn 
+- Buổi trưa, Hùng nghỉ ở một quán chè đầu phố. Ly chè đậu đen ngọt mát làm dịu cái nắng gắt đầu hè. Ngồi đây, ông nhìn ra con đường nhựa mới trải, những ngôi nhà cao hơn, những cửa hàng mới mở, những biển hiệu mới treo. Mọi thứ đang thay đổi nhanh hơn ông tưởng. Mỗi ngày lại có một cái gì đó mới mọc l
+- "Mình cũng phải thay đổi," Hùng nghĩ. Ông không nói ra thành lời, nhưng suy nghĩ đó cứ lởn vởn trong đầu như một ám ảnh ngọt ngào. Thay đổi không phải từ bỏ cái cũ. Thay đổi là làm cho cái cũ tốt hơn. Ông rút chiếc bút bi từ túi áo, viết vài dòng vào trang sổ cuối: phải thuê thêm một người giao hàng
+- Chiều về, Lan hỏi: "Hôm nay anh kiếm được gì?" Hùng trả lời: "Không mua gì, nhưng biết được mấy chỗ có thể mua." Lan không hỏi thêm. Cô hiểu cách anh trai mình làm việc — không phải ngày nào cũng phải mua mới là ngày có ích.
+- Tối đến, sau bữa cơm, Hùng ngồi trước bàn viết. Đèn dầu hắt ánh sáng vàng ấm lên tờ giấy, bóng bàn tay ông đổ dài trên mặt bàn. Ông viết lại những gì đã thấy trong ngày: giá vải ở chỗ mới, giá thuốc ở hiệu thuốc, tên người bán, cách thức thanh toán. Những thông tin rời rạc, nhưng khi ghép lại, chúng
+- Bên ngoài, đêm đã khuya. Một con chó sủa xa rồi im bặt. Tiếng côn trùng rả rích trong vườn, đều đều và không ngừng nghỉ. Hùng ngả lưng ra ghế, mắt lim dim. Những con số đã xong. Ngày mai lại bắt đầu.
+- Sáng hôm sau, Hùng dậy sớm hơn. Trời chưa sáng hẳn, nhưng khi thấy bà Hà đã ở bếp, ông chào một tiếng rồi ra ngoài giếng rửa mặt. Nước lạnh làm ông tỉnh hẳn. Ông nhìn xuống bàn tay mình, những ngón tay chai sạn, những đường gân nổi lên dưới lớp da. Mỗi một vết chai là một công việc. Mỗi một đường gâ
+- Hôm đó, Hùng quyết định đi xa hơn một chút. Ông ghé một xưởng sản xuất nhỏ ở ngoại ô, nơi một người quen mới mở xưởng may. Người quen tên Đức, trạc ngoài bốn mươi, trước làm thợ may ở phố Khâm Thiên, sau tích góp mở xưởng riêng. Xưởng của Đức nhỏ, chỉ sáu máy, nhưng máy móc mới tinh. Hùng hỏi thăm t
+- Đức ngạc nhiên. Mới gặp lần đầu, vậy mà đã nói đến chuyện góp vốn. Nhưng Hùng giải thích: hàng tốt, người thợ giỏi, chỗ làm có triển vọng. Ông không bỏ tiền vì thích, ông bỏ tiền vì thấy được lợi nhuận. Hai bên thỏa thuận miệng: Hùng góp một nửa vốn mở rộng, chia lợi nhuận theo tỷ lệ, hợp đồng viết 
+- Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở quán nước đầu làng, uống chén trà nóng, mắt nhìn lên bầu trời. Đã khá nhiều việc thay đổi chỉ trong vài tháng. Nhưng còn rất nhiều việc phải làm. Trong đầu ông bắt đầu vẽ ra những kế hoạch dài hạn hơn: một cửa hàng ở thị trấn, tuyến hàng từ 
+- Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- Giữa năm 2015, một câu chuyện nhỏ nhưng đã thay đổi cách Hùng nhìn về khách hàng mãi mãi.
+- Đó là một ngày thứ Bảy đầu tháng Sáu, nắng nóng như đổ lửa. Hùng ngồi trong văn phòng điều hòa mát lạnh, xem báo cáo tài chính quý II. Lan gọi điện từ dưới sảnh:
+- "Anh, xuống đây một lát. Có người muốn gặp anh."
+- Hùng xuống thang máy, nghĩ đó là đối tác hay khách VIP nào đó. Nhưng người đợi ở sảnh không phải đối tác. Đó là một bà lão — khoảng bảy mươi lăm, bảy mươi bảy tuổi — ngồi trên ghế đá, mặc áo bà ba nâu sờn, tay xách một cái giỏ nhựa đã cũ, bạc màu. Mặt bà đen sạm vì nắng, tóc bạc trắng, nhưng đôi mắt
+- Hùng bước tới. "Dạ, tôi đây. Bà tìm tôi có việc gì ạ?"
+- Bà lão mở cái giỏ nhựa — bên trong là một túi nilon, trong túi nilon là một hộp bánh trung thu Thương Gia — loại hộp giấy in hình chị Hằng, mẫu mã của năm 2013. Hộp đã cũ, mép hơi bạc màu, nhưng được giữ gìn cẩn thận.
+- Bà lão lấy hộp bánh ra, mở nắp, chỉ cho Hùng xem: bên trong, một cái bánh dẻo đã mốc xanh, mốc trắng, mốc đen — những đám mốc to bằng đồng xu, mọc thành từng mảng trên mặt bánh. Mùi mốc bay lên nồng nặc. Bảo vệ đứng gần đó nhăn mặt.
+- "Chú Hùng," bà lão nói, giọng run run. "Tôi mua cái bánh này Tết Trung thu năm kia. Để dành cho đứa cháu nội đi bộ đội xa về ăn. Cháu nó về, tôi đưa bánh ra, thì bánh đã mốc hết rồi. Cháu nó bảo: 'Bà ơi, bánh hết hạn rồi, vứt đi.' Nhưng tôi tiếc, tôi giữ lại. Tôi muốn đem lên hỏi chú: bánh Thương Gi
+- Hùng nhìn bà lão, nhìn hộp bánh, nhìn những đám mốc xanh — những đám mốc đã hình thành từ hai năm trước, trên một cái bánh mà bà đã để dành cho cháu. Ông không thấy dơ. Ông thấy một tình yêu. Một bà lão, có thể cả năm không dám ăn một cái bánh trung thu, dành dụm để mua một hộp bánh Thương Gia cho đ
+- Hùng cúi người xuống ngang tầm mắt bà, nói chậm và nhẹ: "Bà ơi, bánh hết hạn sử dụng. Trên hộp có in date. Bánh để lâu quá nó mốc. Lỗi không phải tại Thương Gia — lỗi tại bánh không được ăn đúng lúc. Nhưng tôi xin lỗi bà. Vì lẽ ra chúng tôi phải làm bánh ngon hơn, để dù có để lâu cũng không mốc."
+- Bà lão nghe, mắt bà đỏ hoe. "Tôi không trách chú. Tôi thương cái bánh. Tôi mua bằng đồng lương hưu, để dành cho cháu. Mà cháu nó không được ăn."
+- Hùng quay sang Lan, nói nhỏ: "Em lấy cho bà ấy một hộp bánh mới — loại bánh nướng, hạn dùng còn dài. Và lấy thêm một túi quà — đồ khô, sữa, bột ngũ cốc — cho bà mang về."
+- Hùng tiếp tục ngồi với bà lão ở sảnh. Ông hỏi bà về cháu — cháu bà tên Quân, hai mươi hai tuổi, bộ đội biên phòng ở Điện Biên. Cháu về phép mỗi hai năm một lần. Bà kể, mắt sáng lên: "Cháu nó cao lắm, gấp rưỡi bà. Cháu nó hiếu thảo. Lần nào về cũng mang quà cho bà."
+- Hùng lặng lẽ nghe. Trong đầu ông vang lên một câu: cái bánh trung thu mà bà giữ hai năm — nó không chỉ là bánh. Nó là tình yêu của một bà già dành cho đứa cháu đi xa. Và Thương Gia đã không giữ được tình yêu đó vẹn nguyên.
+- Lan quay lại với túi quà. Bà lão ngần ngại — "Tôi không xin quà, tôi chỉ muốn hỏi cho rõ." Hùng nói: "Bà ơi, đây không phải quà. Đây là phần bồi thường cho cái bánh đã hỏng. Và đây là lời xin lỗi của Thương Gia."
+- Bà lão nhận túi, tay run run. Bà cúi đầu cảm ơn, rồi xoay người bước ra cổng. Hùng nhìn theo bà — dáng người nhỏ bé, lưng hơi còng, chân đi chậm nhưng vững. Khi bà ra đến cổng, bà quay lại, nói: "Chú Hùng, tôi vẫn mua đồ Thương Gia. Từ hồi còn ở trong ngõ, chú bán rong. Đến bây giờ, nhà tôi vẫn dùng
+- Hùng gật đầu, không nói được gì. Ông chỉ giơ tay vẫy.
+- Ba tháng sau, Hùng ra quyết định: tất cả sản phẩm Thương Gia phải in thêm dòng chữ "SỬ DỤNG NGAY KHI MỞ NẮP" và "KHÔNG NÊN ĐỂ DÀNH QUÁ LÂU" trên bao bì — bằng chữ to, màu đỏ, dễ đọc. Phòng marketing phản đối: "Sếp, ghi vậy giống như bảo sản phẩm không để được lâu, khách hàng sẽ không mua nhiều." Hùn
+- Đó cũng là lần đầu tiên Thương Gia in số điện thoại đường dây nóng trên tất cả bao bì — không phải số của tổng đài, mà là số điện thoại di động của một nhân viên chăm sóc khách hàng cụ thể, trực 24/7. Hùng bảo: "Người già như bà ấy, họ không biết gọi tổng đài. Họ cần một giọng người, không phải máy.
+- Cuối năm 2015, Thương Gia tổ chức một buổi gặp mặt khách hàng thân thiết — không phải khách VIP giàu có, mà là những khách hàng bình thường đã gắn bó từ mười năm trở lên. Hùng tự tay viết thiệp mời, từng cái, nét chữ nắn nót. Thiệp in trên giấy thô, màu kem, không hoa mỹ — chỉ vài dòng: "Thương Gia 
+- Hơn ba trăm người đến. Có người từ Nam Định lên, có người từ Hưng Yên, có người từ tận Thanh Hóa. Họ ngồi trong hội trường nhỏ — những khuôn mặt già nua, những bàn tay chai sần, những nụ cười móm mém. Họ không phải là đối tác lớn. Họ là những người đã mua đồ Thương Gia hàng ngày trong hai, ba thập k
+- Một người đàn ông sáu mươi tuổi — tên Sơn, ở Đông Anh — kể: "Hồi năm 1993, vợ tôi mất, tôi nuôi ba đứa nhỏ một mình. Lương công nhân của tôi không đủ mua gạo. Thỉnh thoảng tôi mua mì tôm Thương Gia về cho tụi nhỏ. Một gói mì mười hai xu, nhưng ngon, tụi nhỏ ăn no. Bây giờ tụi nhỏ lớn hết rồi, đứa nà
+- Hùng ngồi dưới khán đài, nghe từng câu chuyện. Ông thấy mắt mình cay. Ông không ngờ — những gói mì, những chai dầu, những bịch đường — đã đi vào cuộc đời người ta nhiều như vậy.
+- Một bà lão — tám mươi hai tuổi, ngồi xe lăn, con trai đẩy — cầm micro, nói: "Tôi bảy lăm năm mua đồ Thương Gia. Từ hồi còn ở Hàng Bông, chú Hùng còn trẻ, đẹp trai, bán hàng trước cửa nhà tôi. Bây giờ tôi già rồi, con cháu nó mua cho. Nhưng tôi biết đồ Thương Gia — vì nó không thay đổi. Bánh kẹo ngày
+- Cuối buổi, một ông lão bảy mươi tuổi — khách hàng mua sỉ từ năm 1993 — lại gần Hùng, bắt tay ông và nói: "Hồi đó tui lấy hàng của anh về bán. Xóm tui toàn hàng Thương Gia. Bây giờ con cái tui lớn, vẫn lấy hàng Thương Gia. Cảm ơn chú vì không thay đổi." Hùng bắt tay ông lão, tay lão run run vì tuổi. 
+- Tối hôm đó, Hùng ngồi với bà Hà ngoài hiên. Ông kể về bà lão mang bánh mốc, về ông già ở Đông Anh, về bà cụ tám hai tuổi. Bà Hà nghe, không nói gì, chỉ gật đầu.
+- "Bà ơi, hồi xưa con đi bán dạo, có một bà khách mua một gói kẹo lạc, trả tiền lẻ từng đồng — con nhớ hoài. Bây giờ con không nhớ mặt bà ấy nữa."
+- Bà Hà nhìn con, chậm rãi nói: "Có thể bà ấy vẫn mua đồ của con. Ở một chợ nào đó, một tỉnh nào đó. Con không nhớ bà ấy, nhưng bà ấy nhớ con. Đó là cái mà con gọi là trung thành."
+- "Vì con bận nghĩ về doanh thu, về nhà máy, về đối thủ. Con quên mất những người đã cho con tất cả."
+- Hùng không nói gì. Ông ngồi nhìn ra vườn khuya, nơi những đom đóm lập lòe trong bóng tối.
+- Hôm sau, Hùng triệu tập phòng marketing. Ông bảo: "Bỏ hết các chiến dịch quảng cáo đang chạy. Từ giờ đến Tết, tôi muốn mỗi sản phẩm có kèm một tấm thiệp cảm ơn viết tay — sáu mươi nghìn tấm cho sáu mươi nghìn sản phẩm bán ra trong tháng."
+- Phòng marketing tròn mắt. "Sáu mươi nghìn tấm? Viết tay? Ai viết?"
+- "Tất cả nhân viên văn phòng, từ tôi đến bảo vệ. Mỗi người viết năm trăm tấm. Mỗi tấm ba dòng: 'Cảm ơn quý khách. Chúc quý khách và gia đình một năm mới an khang. Thương Gia.'"
+- Buổi tối, cả tòa nhà Thương Gia sáng đèn. Nhân viên văn phòng ngồi ở bàn, viết tay từng tấm thiệp. Hùng ngồi ở cuối phòng, cũng viết — nét chữ của ông già nua nhưng đều đặn. Lan ngồi cạnh, nhìn anh, không nói gì.
+- Một nhân viên trẻ hỏi: "Sếp ơi, sao sếp không in? In đẹp hơn, nhanh hơn, rẻ hơn."
+- Hùng không ngước lên: "Vì người ta sẽ biết mình in. Còn viết tay — họ biết mình đã ngồi xuống, nghĩ về họ, viết từng chữ. Một tấm thiệp in mất ba giây. Một tấm viết tay mất ba mươi giây. Hai mươi bảy giây chênh lệch — nhưng với người nhận, nó là cả một sự khác biệt."
+- Cuối tháng Chạp, từng tấm thiệp theo từng sản phẩm đến tay khách hàng. Một tuần sau, Lan nhận được điện thoại từ một phụ nữ ở Vinh, Nghệ An. Chị khóc: "Chị Lan ơi, tôi nhận được thiệp. Tôi mua đồ Thương Gia mười lăm năm rồi. Chưa bao giờ tôi nhận được một lời cảm ơn nào. Cảm ơn chị. Cảm ơn sếp Hùng.
+- Lan kể lại cho Hùng nghe. Hùng im lặng, gật đầu. Ông không nói gì, nhưng trong lòng ông biết: sáu mươi nghìn tấm thiệp đó, dù chỉ một người gọi, cũng đã đáng.
+- Sau Tết, một sinh viên đại học — tên Huy, năm thứ ba, trường Kinh tế Quốc dân — viết thư cho Hùng. Huy kể: nhà em nghèo, mẹ em bán tạp hóa ở quê, toàn bán đồ Thương Gia. Mẹ em nhận được thiệp cảm ơn viết tay, đem lồng kính để trên bàn thờ, cạnh di ảnh của bố. Mẹ em bảo: "Mẹ bán hàng mười năm, lần đầ
+- Hùng đọc thư, xếp lại, cất vào ngăn kéo riêng. Những lá thư kiểu đó, ông không vứt bao giờ.
+- Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Dây chuyền lạnh lv2, Công nghệ cao lv2, Di sản lv1
+- Ghi chú: Khách hàng trung thành — bà lão giữ bánh 2 năm — gặp mặt 300 khách hàng thân thiết — chiến dịch thiệp cảm ơn viết tay

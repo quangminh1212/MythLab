@@ -1,0 +1,62 @@
+# BRIEF — Chương 271: Bắt đầu Phần 5 – Ảnh hưởng xã hội
+
+FILE (exact): Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt
+Ledger: EXP=62000, space=25000m²
+Năm chủ đạo hiện tại trong prose: 2006
+Token hiện tại: 3175 | Clone: 16.3% (8 câu lặp)
+
+## NHIỆM VỤ
+Viết lại chương này thành CẢNH MỚI nguyên bản. Giữ đúng: tiêu đề, sự kiện lõi, năm, nhân vật, số liệu hệ thống. XÓA HẾT các câu clone bên dưới (lặp nguyên văn ở nhiều chương khác) — thay bằng văn tả cảnh/đối thoại/nội tâm RIÊNG của chương này. Không để BẤT KỲ câu clone nào còn nguyên văn. >=3200 token tiếng Việt. Giữ đúng 1 panel hệ thống ở cuối (giữ số liệu EXP/space/năm đúng ledger).
+
+## CÂU CLONE — PHẢI XÓA / VIẾT LẠI HOÀN TOÀN
+- Trời tối hẳn. Đèn dầu trong nhà sáng, hắt bóng lên vách đất. Hùng ngồi bên bàn viết, mở cuốn sổ cũ. Những trang sổ ghi chép từ năm 1983, nét chữ lúc nguệch ngoạc lúc ngay ngắn — tùy theo lúc mệt hay tỉnh. Ông đọc lại trang đầu: 'Ngày 1 — mua vải 50 mét, bán được 3 mét. Lời 12 đồng.' Nụ cười nhếch mé
+- Bà Hà ngồi bên hiên, xe chỉ bên bóng đèn. Mắt bà đã kém, phải nheo lại khi xâu kim. Lan ngồi học bài cạnh mâm. Căn nhà nhỏ, tường đất ẩm, mùi khói bếp và mùi rạ khô. Hùng viết tiếp vào sổ: 'Hôm nay kiếm thêm một mối vải, mối chỉ. Chưa giàu nhưng đỡ đói. Mong sao một ngày nào đó, ba mẹ có thể tự hào 
+- Ngoài sân, gió đêm thổi nhẹ. Một con đom đóm bay qua, xanh lập lòa trong đêm. Hùng ngước nhìn. Đom đóm sáng rồi tắt, nhưng nó vẫn bay. Cũng như ông bây giờ — còn sáng, còn bay, còn đi.
+- ============================================================
+- Phiên chợ sáng, sương còn ướt mái tôn. Hùng đi dọc dãy sạp, nhìn từng món hàng: rá tre, nia, thúng, rổ, rế đan bằng mây. Một người đàn ông ngồi bên sạp vải, cầm kéo cắt từng tấm, tay thoăn thoắt. Hùng dừng, hỏi giá vải thô, hỏi đầu mối. Người đàn ông chỉ về phía cuối chợ: 'Chị Hai bán vải đầu mối, h
+- Văn phòng làm việc sáng thứ Hai. Hùng ngồi sau bàn gỗ, cốc cà phê đã nguội từ sớm. Trước mặt là bản đề xuất dày hai mươi trang. Ông đọc từng trang, ghi chú vào lề bằng bút đỏ. Có những dòng ông gạch, có những dòng ông khoanh. Lan gõ cửa bước vào, mang theo tách trà mới. 'Anh chưa ăn sáng.' Hùng khôn
+- Chiều, Hùng ra ngoài đi dạo một mình. Phố xá đông đúc, nhưng ông không để ý. Ông nhìn những tòa nhà mới mọc lên, những cửa hàng mới mở. Hà Nội đã khác xưa nhiều. Xe máy thay xe đạp, biển hiệu thay bảng gỗ. Nhưng ở một góc, ông vẫn thấy bà cụ bán chè đỗ đen, vẫn thấy người đàn ông đạp xích lô, vẫn th
+- Tối, bà Hà gọi điện thoại. Giọng bà yếu nhưng vẫn ấm. 'Mày ăn cơm chưa?' Hùng bảo chưa, nhưng sắp ăn. Bà bảo: 'Đừng làm việc quá khuya. Sức khỏe là vốn.' Hùng ậm ừ cho qua. Cúp máy, ông nhìn ra cửa sổ trời tối. Đèn đường Hà Nội vàng vọt. Ông lấy cơm nguội ra, chan nước mắm, ăn trong phòng tối, không
+
+## LÕI UNIQUE — GIỮ Ý (sự kiện thật, trau chuốt lại câu chữ được)
+- Sáng thứ ba, ngày 15 tháng 3 năm 2006, Hùng ngồi một mình trong phòng làm việc trên tầng ba tòa nhà Thương Gia mới xây ở Hà Đông. Căn phòng rộng chừng ba mươi mét vuông, tường sơn màu kem nhạt, sàn lát gạch men nâu đỏ bóng loáng. Bàn làm việc bằng gỗ xoan — thứ bàn ông đã dùng suốt mười một năm qua,
+- Hôm nay là một ngày đặc biệt với Hùng, dù không có lễ kỷ niệm hay khách mời. Đó là ngày ông chính thức bắt đầu chặng đường thứ năm trong hành trình xây dựng Thương Gia — chặng đường không còn chỉ xoay quanh lợi nhuận, doanh thu và thị phần, mà là ảnh hưởng xã hội, trách nhiệm cộng đồng và di sản để 
+- Ông mở cuốn sổ tay bìa da màu nâu sẫm đặt trên bàn — cuốn sổ đã theo ông qua bao quyết định lớn nhỏ, từ việc mua máy may đầu tiên năm 1987 đến ký hợp đồng xuất khẩu triệu đô đầu tiên năm 1999. Lật đến trang mới tinh, ông cầm cây bút mực tím — cây bút duy nhất ông dùng để viết nhật ký — và viết những
+- "Ngày 15 tháng 3 năm 2006. Bắt đầu Phần 5 — Ảnh hưởng xã hội. Nguyên tắc: không tuyên bố đỉnh, tuyên bố sàn. Sàn là mức thấp nhất có thể chấp nhận. Dưới sàn là thất bại. Mục tiêu: biến Thương Gia từ tập đoàn kinh tế thành định chế xã hội. Tỷ lệ đầu tư: 5% lợi nhuận mỗi năm. Thời gian: 2006-2010. Ngư
+- Ông gấp sổ, nhìn ra cửa sổ. Dưới kia, Hà Đông đang thức giấc sau cơn mưa đêm. Những mái tôn loang lổ, những bức tường gạch cũ kỹ, những con đường hẹp ngoằn ngoèo — tất cả đều quen thuộc đến nỗi ông có thể nhắm mắt vẽ lại từng góc phố. Nơi này, ba thập kỷ trước, ông là một đứa trẻ mười tuổi phải bỏ h
+- Ký ức ùa về như một thước phim quay chậm. Những buổi sáng mùa đông năm 1976, Hùng dậy từ năm giờ, xách một bao thuốc lá nặng trên vai, đi từng quầy hàng trong chợ. Chợ Hà Đông hồi đó là một khu đất trống, lợp mái tôn tạm bợ, lúc nào cũng ồn ào, nhộn nhịp, mùi cá khô, mùi rau sống, mùi dầu mỡ hòa lẫn
+- Đến năm 1987, sau hơn mười năm bán hàng rong, Hùng tích góp được một số vốn nhỏ. Ông thuê một căn nhà nhỏ ở ngoại ô Hà Đông, mua sáu cái máy may cũ từ chợ đồ côi, thuê mười hai công nhân, và bắt đầu làm gia công quần áo cho một công ty may mặc của Nhà nước. Cơ sở may của ông nằm trong một căn nhà th
+- Nhưng rồi Thương Gia đã vượt qua tất cả. Năm 2006, tập đoàn có ba mươi nhà máy trải dài từ Bắc vào Nam, bảy nghìn nhân viên, doanh thu nghìn tỷ. Hùng là một trong những doanh nhân giàu nhất Việt Nam, có tên trên bảng xếp hạng tỷ phú của Forbes. Nhưng khi nhìn vào bảng cân đối kế toán, ông thấy một k
+- "Gọi Lan lên cho tôi," Hùng nói với thư ký qua máy nội bộ.
+- Năm phút sau, Lan xuất hiện ở cửa. Năm nay cô ba mươi sáu tuổi, người mảnh khảnh, tóc dài buộc gọn sau gáy, mặc áo sơ mi trắng, quần âu đen. Trông cô giản dị nhưng lịch sự, phong thái của một người đã từng trải qua nhiều thương trường. Tay cô cầm cuốn sổ ghi chép quen thuộc — bìa cứng màu xanh rêu, 
+- "Em xem cái này," Hùng đẩy bộ hồ sơ về phía Lan. "Bộ Kế hoạch và Đầu tư mời mình tham gia chương trình Doanh nghiệp vì Cộng đồng."
+- Lan đọc nhanh — tốc độ đọc của cô rất đáng nể, thành quả của hàng nghìn trang hợp đồng ngoại thương. Mắt cô lướt trên từng dòng chữ, ghi nhớ những điểm quan trọng. Đọc xong, cô ngẩng lên: "Ý anh là mình nên tham gia?"
+- "Anh đang nghĩ xa hơn. Mình nên có một bộ phận riêng trong tập đoàn chuyên về ảnh hưởng xã hội."
+- Hùng đứng dậy đi đến tấm bảng trắng, giải thích ý tưởng ba vòng tròn — kinh doanh, nhà nước, xã hội — và vị trí của Thương Gia ở trung tâm. Lan hỏi nhiều câu sắc sảo. Cuộc thảo luận sôi nổi.
+- Buổi chiều, cuộc họp đội lõi với bảy người bắt đầu. Ông Phúc lo ngại về nguồn lực. Cô Hạnh tính toán 5% lợi nhuận là 10,75 tỷ. Ông Tam chấp nhận được với điều kiện chia giai đoạn. Lan bất ngờ khi được chỉ định phụ trách mảng mới. Cô yêu cầu thời gian suy nghĩ.
+- "Tất nhiên," Hùng nói. "Nhưng đừng lâu quá. Kế hoạch phải trình Bộ trong tháng sau."
+- Buổi họp kết thúc. Hùng ở lại phòng một mình. Ông mở cuốn sổ, viết những dòng cuối cùng của ngày hôm đó, rồi cất vào ngăn kéo.
+- Tuần sau, Lan vào phòng Hùng, đặt một tập tài liệu xuống bàn: "ĐỀ ÁN PHÁT TRIỂN ẢNH HƯỞNG XÃ HỘI THƯƠNG GIA 2006-2010." Bản đề án chia làm năm mục lớn: giáo dục (học bổng, xây trường), y tế (trạm y tế lưu động), nước sạch, thể thao (tài trợ đội tuyển, sân vận động), truyền thông (báo, tạp chí, truyề
+- Hùng đọc, ký, và cười: "Bắt đầu từ tháng tư. Tuyển người. Em tự chọn."
+- Hôm sau, Lan quay lại phòng Hùng. "Em đồng ý. Nhưng em cần ba thứ: một đội ngũ riêng, quỹ riêng, và thẩm quyền quyết định độc lập. Em không muốn mỗi lần ra quyết định lại phải xin ý kiến hội đồng quản trị."
+- Hùng không đáp ngay. Ông nhấp một ngụm trà, nhìn em gái. Ngày xưa, Lan chỉ là cô bé lẽo đẽo theo anh ra chợ, không dám nói trước đám đông. Bây giờ cô ấy đòi thẩm quyền độc lập.
+- "Không. Em muốn có thẩm quyền để chịu trách nhiệm. Nếu mọi quyết định đều qua hội đồng, khi thất bại, em sẽ đổ lỗi cho hội đồng. Khi thành công, mọi người tranh công. Cách duy nhất để học là tự ra quyết định và tự chịu hậu quả."
+- Hùng gật đầu. "Mười năm trước, em sẽ không nói được câu đó."
+- "Bây giờ em biết: thất bại còn đỡ hơn không dám làm. Học từ anh mà ra."
+- Hùng không nói gì. Ông mở ngăn kéo bàn, lấy ra một tập tài liệu: "Anh đã chuẩn bị sẵn. Đội ngũ, ngân sách, và thẩm quyền quyết định trong phạm vi 5 tỷ đồng. Trên 5 tỷ, em báo anh."
+- Lan cầm tập tài liệu, lật nhanh, rồi gật đầu. Cô đứng dậy, ra đến cửa, quay lại: "Anh ơi, em tự hào vì làm em gái anh."
+- Sau cuộc họp với hội đồng, Hùng gọi riêng Lan ở lại. "Em à, có một việc anh chưa nói với hội đồng. Anh muốn em làm người phụ trách mảng này — nhưng không phải kiêm nhiệm. Em sẽ rời vị trí CFO, chuyển sang làm Giám đốc Ảnh hưởng Xã hội."
+- Lan ngạc nhiên. "Em rời tài chính? Em làm tài chính mười lăm năm rồi."
+- "Anh biết. Nhưng em đã học đủ. Tiền bạc em biết rồi. Còn việc này — nó khó hơn, vì nó đo bằng thước đo không phải con số. Anh tin em làm được."
+- Lan suy nghĩ một lúc. "Cho em một tuần."
+- Sau buổi họp, Hùng ngồi lại trong phòng. Ông mở cuốn sổ đen, viết: "15/3/2006 — Quyết định quan trọng nhất trong năm: giao mảng ảnh hưởng xã hội cho Lan. Lý do: một — nó hiểu người nghèo hơn ai hết, vì nó từng nghèo. Hai — nó có trái tim, nhưng cũng có cái đầu lạnh. Ba — tôi không thể làm tất cả. Ph
+- Ông gấp sổ, cất vào ngăn kéo. Nhìn ra cửa sổ, mưa phùn vẫn rơi. Những hạt mưa nhỏ li ti bay trong gió, như bụi nước. Hà Nội tháng Ba — mưa phùn, lạnh, ẩm, nhưng cũng là lúc vạn vật bắt đầu đâm chồi. Hùng nghĩ: mình cũng vậy. Đã qua mùa đông dài. Giờ là lúc bắt đầu một mùa mới.
+- Sau quyết định giao mảng ảnh hưởng xã hội cho Lan, Hùng cảm thấy nhẹ người. Ông bước ra ban công hít thở không khí sáng sớm. Mưa phùn đã tạnh, bầu trời trong xanh, vài đám mây trắng lơ lửng. Ông chợt nhận ra: điều ông sợ nhất không phải là giao việc — mà là giao sai người. Nhưng lần này, ông tin mìn
+- Chiều hôm đó, Hùng ngồi một mình trong văn phòng, nhìn ra cửa sổ. Cơn mưa phùn đã tạnh, bầu trời hửng nắng yếu ớt. Ông nhìn xuống phố — những tán ô, những tà áo dài trắng của nữ sinh tan học, những tiếng cười nói của học trò. Ông nhớ lại mình năm mười bảy tuổi, cũng đi trên con phố này, nhưng lúc đó
+- Ghi chú: Bắt đầu Phần 5 — Ảnh hưởng xã hội
+- Buoi sang dau tien cua Phan 5. Hung den van phong som hon thuong le. Ong mo cua, bat den, ngoi vao ban. Truoc mat la mot to giay trang. Ong viet: "Muc tieu Thuong Gia giai doan 2010-2020 -- Khong con la chuyen loi nhuan. La chuyen anh huong." Ong dung but, nhin ra cua so. Ha Noi sang som, suong mu g
+- Lan den, mang theo hai coc ca phe. "Khong ngu duoc a?" Hung nhan coc ca phe, uong mot hoi nong sot. "Khong phai khong ngu -- khong muon ngu. Anh dang nghi ve quy khuyen hoc. Ve benh vien Thuong Gia. Ve truong day nghe. Nhieu qua." Lan ngoi xuong ghe doi dien: "Lam tung cai mot. Nhu truoc gio minh va
+- n ngoi xuong ghe doi dien: "Lam tung cai mot. Nhu truoc gio minh van lam." Hung gat, mo cuon so tay. Trang dau tien cua Phan 5 duoc viet: "Thuong Gia -- khong chi la tap doan. La mot cach song."
+- Chiều chủ nhật, Hùng một mình ra ngoại thành. Khu đất anh định xây trường dạy nghề nằm ven quốc lộ, rộng ba hecta. Cỏ mọc um tùm, vài cây bạch đàn già đứng xiêu vẹo. Hùng đi dạo quanh, chân lún trong bùn khô. Ông hình dung: ở đây sẽ là xưởng thực hành, kia là phòng học, góc kia là ký túc xá cho học 
+- Buổi tối, Hùng lục tìm trong tủ sách cũ, tìm thấy một cuốn sổ tay năm 1985. Trang đầu ghi: 'Ngày 15/04/1985 — hôm nay bán được 2 cái radio, lời 10.000 đồng. Về nhà mẹ nấu canh cua, ngon nhất đời.' Hùng cười, lật thêm vài trang. Những dòng chữ ngắn, vụng về, nhưng chân thật. Không chiến lược, không k
+- 'Em có nghĩ mình đang già đi không?' Hùng hỏi Lan khi hai anh em uống trà chiều. Lan nhìn anh: 'Anh già thật. Nhưng vẫn khỏe.' Hùng cười: 'Già mà không khỏe thì hỏng.' Ông kể cho Lan nghe về chuyến đi ngoại thành, về mảnh đất, về đứa bé chăn trâu. Lan lắng nghe, không ngắt lời. Khi Hùng nói xong, cô

@@ -399,8 +399,4 @@ Kỹ năng: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3, Bán hàng trự
 Không gian kho: 9,400m² (+100m²)
 ============================================================
 
-〖Teaser〗
-Một vali linh kiện từ Singapore nằm trên bàn. Board mạch nhỏ hơn lòng bàn tay.
-Cuộc gọi đầu tiên — tiếng chuông reo.
-"Nghe rõ không?"
-Cả xưởng im lặng.
+Teaser: 
