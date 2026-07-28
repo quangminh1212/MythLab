@@ -194,6 +194,20 @@ Hùng đứng bên ngoài showroom Đà Nẵng, nhìn người ra vào. Ông kh�
 
 "Khó nhất là bước đầu," ông nói với Lan. "Mình bước rồi. Còn lại là đi."
 
+Hùng ngồi ở băng ghế sân bay Changi, nhìn một chiếc Boeing 747 đang lăn ra đường băng. Tiếng động cơ rít lên rồi gầm vọng vào khung kính, làm rung cả hàng ghế. Ông mở lại phong bì, rút tấm board mạch TG-200 ra — lòng bàn tay lạnh ngắt vì điều hòa sân bay. Một đường dẫn đồng nhỏ xíu, tinh hơn mắt lưới. Minh đã thiết kế nó bằng tay, không máy tính.
+
+— Hai trăm đô một cái board, — Hùng lẩm bẩm, nhìn dòng chữ "REV 2.1 — TG-200 — THUONG GIA" khắc bằng dao khắc PCB, nét gạch còn lem đồng. — Nếu hỏng là mất toàn bộ.
+
+Một người đàn ông da trắng, com-lê xám, ngồi xuống ghế bên cạnh. Ông ta nhìn board mạch, ngạc nhiên nói tiếng Anh:
+
+— A prototype? You Vietnamese?
+
+Hùng gật đầu. Người kia ngắm board một lúc: "Not bad. But your ground plane has too many gaps. Signal integrity issue at high frequency."
+
+Ông ta rút danh thiếp: "Alan Fischer, Motorola Singapore. If you need someone to review your layout — ask my secretary. First fifteen minutes free."
+
+Hùng cầm tấm danh thiếp, thấy nó nặng, in chữ nổi trên giấy trắng dày. Ông không nói gì, chỉ cất vào túi trong cùng của áo. Cái tên Motorola vang trong đầu như một lời hứa và một lời cảnh cáo.
+
 「Hệ thống — GHI NHẬN ch.167」
 Năm: 1993
 TG-200: lô 100, lỗi board 2% + lỗi khắc THIEU→THUONG
