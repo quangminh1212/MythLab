@@ -112,7 +112,7 @@ Bác nông dân chống tay lên tay lái, lắc thử.
 
 “Nặng đầu. Quay ở bờ hẹp sẽ mệt. Cần cắt này xa ngón tay. Lúc máy chồm, tôi không rảnh buông một tay để tìm.”
 
-Ba nhận xét đầu đã đi thẳng vào những chỗ nhóm thợ chưa ghi. Hùng yêu cầu dời cần cắt sát tay nắm, bọc tay cầm bằng cao su có gân, đồng thời gắn thêm một bánh đỡ nhỏ phía trước để di chuyển khi chưa hạ lưỡi. Bánh đỡ có thể gập lên lúc cày, không chịu lực kéo chính.
+Ba nhận xét đầu đã đi thẳng vào những chỗ nhóm thợ chưa ghi. Trong nắng gắt, Hùng đứng yên nhìn bác nông dân lau mồ hôi trên trán, mùi đất ẩm bốc lên từ bàn tay chai sần của bác, phảng phất vị mặn của mồ hôi và rơm rạ. Ông cảm nhận được sự nặng nhọc trong từng động tác của người nông dân — một sự mệt mỏi mà không cỗ máy nào đo được, và ông thầm hứa với lòng sẽ không để chiếc máy cày này trở thành gánh nặng thêm cho họ. Hùng yêu cầu dời cần cắt sát tay nắm, bọc tay cầm bằng cao su có gân, đồng thời gắn thêm một bánh đỡ nhỏ phía trước để di chuyển khi chưa hạ lưỡi. Bánh đỡ có thể gập lên lúc cày, không chịu lực kéo chính.
 
 Thửa ruộng thử được chia thành bốn dải. Dải đầu dành cho bác thợ cả vận hành, dải thứ hai cho bác nông dân, hai dải còn lại dùng sau khi điều chỉnh. Hai cọc tre đánh dấu chiều dài một trăm mét. Lan chuẩn bị đồng hồ cơ, can đong nhiên liệu, thước đo độ sâu và bao vải để gom phần đất bị lưỡi cày hất không đều. Mục tiêu ghi rõ trước khi máy chạy: cày sâu trung bình từ mười hai đến mười lăm phân; đi hết dải một trăm mét không chết máy quá một lần; mức tiêu hao không vượt lượng nhiên liệu đã định cho giờ thử; người vận hành phải dừng được máy trong vòng hai bước chân khi buông tay.
 
@@ -244,13 +244,29 @@ Hùng không mơ đến một cánh đồng đầy máy ngay trong đêm. Ông n
 
 Trước khi ngủ, hệ thống hiện lên một lần duy nhất. Ánh chữ đứng yên, không thêm phần thưởng ngoài sổ cái đã khóa.
 
+Hùng nằm trong bóng tối, mắt mở. Trên trần nhà, những vết nứt chạy dọc theo đường mái, quen thuộc đến mức ông có thể thuộc từng nhánh. Ngoài sân, thỉnh thoảng một con chó sủa xa, rồi im. Gió đêm thổi qua khe cửa, mang theo mùi đất ẩm và mùi rơm rạ — mùi của những thửa ruộng ban chiều, nơi chiếc máy cày hai bánh đã cày xong một dải ruộng và đang chờ ngày mai được tháo kiểm. Ông nghĩ về năm bộ khung, ba động cơ đợt đầu, bốn hộ thử, một cuốn sổ phụ tùng. — Máy cày mà bán cho nông dân, họ có mua nổi không anh? — Lan hỏi.
+
+— Mua nổi nếu mình cho trả góp. — Hùng đáp. — Một vụ lúa là họ trả hết.
+
+— Nhưng ai dám cho nợ?
+
+— Mình. — Hùng nhìn Lan. — Mình biết họ, họ biết mình. Không cho nợ thì họ không mua.
+
+Những con số trôi qua trong đầu ông không phải để tính lãi. Chúng trôi qua như một bài hát đã thuộc, một giai điệu quen thuộc của lo toan và hy vọng. Ông xoay người, kéo tấm chăn mỏng lên vai. Một ngày nữa đã xong. Ngày mai sẽ là những đường cày mới, những lỗi mới, những bài học mới.
+
 ============================================================
 「Hệ thống — GHI NHẬN ch.62」
 Năm: 1985
 Tổng EXP: 8,227 (+214 nhịp này)
 Không gian kho: 3,593m² (+46m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1
-Ghi chú: Hoàn thành mẫu máy cày hai bánh và thử ruộng; phê duyệt lô thử nhỏ, chưa sản xuất đại trà; sổ cái khớp system_ledger — không double-book
+Chiếc máy cày hai bánh nổ máy giữa thửa ruộng. Mấy ông nông dân đứng xem, tay che nắng.
+Khi lưỡi cày lật đất, ai đó xuýt xoa: "Chạy thật kìa." Hùng nắm chặt tay cày. Máy đầu tiên đã chạy.
+
+
+Đêm cuối năm, xưởng còn sáng. Hùng đứng trước khung sắt thô, tay chạm mép hàn còn ấm. Mùi sắt cháy xộc lên mũi. Xa xa, pháo Tết nổ lẻ tẻ — tiếng vui của người khác. Ông nghĩ đến ruộng, đến bàn chân lội bùn, đến người nông dân cần lực kéo hơn là lời chúc. Lan vào, khoác áo cho ông. "Giao thừa mà anh còn trong này." Hùng cười mệt: "Máy cày không ăn bánh chưng. Nhưng người dùng nó thì có." Trong ánh đèn, khuôn mặt ông cứng và mềm cùng lúc.
+
+
 ============================================================
 
-Sáng mai, việc đầu tiên không phải sơn biểu tượng lên thân máy. Đó là tháo chốt lưỡi cày, đo lại vệt mòn và hỏi xem một cỗ máy có thể chịu được bao nhiêu mùa ruộng trước khi người nông dân phải gọi người của xưởng tới.
+Teaser: 

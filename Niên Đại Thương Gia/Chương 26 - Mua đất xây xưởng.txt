@@ -21,7 +21,7 @@ Phúc đưa ba phương án: thuê kho cũ 600 đồng một tháng, xin giao b�
 Hùng bắt mọi người nói luôn cái giá của lựa chọn vừa chốt: một chuyến xe phải quay lại, người nào chịu trách nhiệm, việc nào vì thế phải lùi. Ông không cho phép dùng doanh thu dự kiến để trả một khoản đã phát sinh, cũng không lấy sự sốt ruột làm bằng chứng. Sau khi Lan đọc lại giới hạn, người phụ trách tự nhắc điều kiện dừng. Nếu điều kiện ấy bị vượt, cả nhóm quay về bước trước thay vì cố làm cho xong để giữ thể diện.
 Trước khi rời bờ rãnh phía nam, Phúc lần từ kết quả trở lại đầu việc. Phiếu nào thiếu chữ ký được để riêng; số lượng nào chỉ nghe báo miệng phải đếm lại; hạn nào mơ hồ được viết thành ngày. Hùng đứng ngoài lần kiểm cuối, bởi chính người ra quyết định không nên tự xác nhận rằng mình đúng. Chỉ sau khi người kiểm chỉ được giấy, vật và con số tương ứng, Lan mới gạch dấu hoàn tất. Cách làm chậm ấy giữ cho sai sót dừng tại chỗ, không chạy sang tiền lương, nguyên liệu hoặc lời hẹn với khách.
 
-Cả nhóm đạp xe ra sân phơi sau trận mưa; thợ Tư cắm que tre ở bốn góc, thấy góc đông lún gần một gang, nền giữa cao, rãnh phía nam bị bèo bịt kín.
+Cả nhóm đạp xe ra sân phơi sau trận mưa. Trời vẫn còn âm u, những đám mây xám xịt lững thững trôi. Mùi đất ướt bốc lên nồng nặc, pha lẫn mùi cỏ dại vừa bị giày xéo. Nước đọng thành từng vũng nhỏ trên mặt sân, ánh lên màu chì dưới bầu trời xám. Thợ Tư cắm que tre ở bốn góc, đôi chân lún nhẹ xuống lớp đất bão hòa, phát ra âm thanh nhão nhoẹt. Ông cúi xuống, dùng ngón tay móc thử đất rồi đứng dậy, lắc đầu: góc đông lún gần một gang, năm nay mưa còn dai, nền giữa cao nhưng không đều, rãnh phía nam bị bèo bịt kín, nước không thoát được.
 Ở lối xe vào, Lan mở riêng một dòng cho việc này: chứng từ gốc nằm bên trái, khoản đã chi nằm bên phải, tên người nhận và ngày phải kiểm nằm ở cuối. Cô không chép lại lời Hùng cho đẹp sổ; cô hỏi người trực tiếp làm, nhìn vật hoặc giấy vừa nhận rồi mới ghi. Nhờ vậy, mảnh đất và dòng tiền hiện ra thành những phần có thể kiểm đếm, không còn là một câu hứa chung chung. Khi một con số chưa có biên nhận, cô khoanh bằng mực chì để hôm sau còn xóa hoặc sửa mà không làm giả dấu vết.
 Hùng bắt mọi người nói luôn cái giá của lựa chọn vừa chốt: một cuộc hẹn phải dời, người nào chịu trách nhiệm, việc nào vì thế phải lùi. Ông không cho phép dùng doanh thu dự kiến để trả một khoản đã phát sinh, cũng không lấy sự sốt ruột làm bằng chứng. Sau khi Lan đọc lại giới hạn, người phụ trách tự nhắc điều kiện dừng. Nếu điều kiện ấy bị vượt, cả nhóm quay về bước trước thay vì cố làm cho xong để giữ thể diện.
 Trước khi rời lối xe vào, người nhận hàng lần từ kết quả trở lại đầu việc. Phiếu nào thiếu chữ ký được để riêng; số lượng nào chỉ nghe báo miệng phải đếm lại; hạn nào mơ hồ được viết thành ngày. Hùng đứng ngoài lần kiểm cuối, bởi chính người ra quyết định không nên tự xác nhận rằng mình đúng. Chỉ sau khi người kiểm chỉ được giấy, vật và con số tương ứng, Lan mới gạch dấu hoàn tất. Cách làm chậm ấy giữ cho sai sót dừng tại chỗ, không chạy sang tiền lương, nguyên liệu hoặc lời hẹn với khách.
@@ -136,5 +136,32 @@ Năm: 1984
 Tổng EXP: 1,440 (+90 nhịp này)
 Không gian kho: 1,840m² (+40m²)
 Kỹ năng trọng yếu: Y tế lv1, Sản xuất lv1, Sản xuất giày lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Mảnh đất góc làng — ba trăm mét vuông — được sang tên. Hùng đóng cọc gỗ làm mốc.
+Đất hơi thấp, phải tôn nền. Lan hỏi: "Có chắc không?" Hùng nhìn bốn góc, không đáp.
+Trời mưa nhẹ. Mưa trên đất mới. Hùng đứng thêm một lúc rồi mới đi.
+
+Mảnh đất mua hôm nay là nền móng cho nhà máy ngày mai. Hùng cắm cọc xuống mảnh đất ven đường tỉnh lộ. Chiếc cọc gỗ dập xuống nền đất ẩm phát ra âm thanh ùm đục, vọng nhẹ trong không gian chiều muộn. Cánh đồng hai bên còn xanh lúa, gió từ ruộng thổi mát rượi, mang theo mùi rơm rạ và hơi nước bốc lên sau những ngày mưa.
+
+Ông đứng giữa mảnh đất, quay bốn hướng. Nắng chiều hắt dài cái bóng ông trên nền đất mới — một cái bóng gầy, cao, nhưng vững chãi. Chỗ này làm xưởng chính. Chỗ kia làm kho. Chỗ cuối làm nhà ăn. Trong đầu ông, những bức tường đã hiện ra, tiếng máy may rộn ràng, tiếng công nhân cười nói tan ca. Một đàn chim sẻ bay ngang, tiếng cánh vỗ phần phật, rồi đáp xuống bụi tre cuối làng.
+
+Bà Hà dọn cơm muộn. Hùng kể đúng một điều đã làm được và một điều còn có thể hỏng.
+
+— Con mua mảnh đất ven đường tỉnh lộ. — Hùng gắp miếng cà.
+
+— Lớn không? — Bà Hà không ngẩng lên.
+
+— Lớn hơn mình cần một chút. Nhưng sau này sẽ vừa.
+
+— Có đủ tiền không?
+
+— Có. Nhưng phải chắt chiu mấy tháng.
+
+Bà Hà gật. Bà không hỏi thêm. Nếu cần giúp, Hùng sẽ nói. Đó là cách hai mẹ con hiểu nhau từ ngày ông còn nhỏ.
+
+Lan giữ sổ bên cạnh. — Anh, em kiểm lại rồi. Mỗi khoản đều có phiếu thu.
+
+— Ừ. Cất đi. — Hùng đặt đũa xuống. — Ngày mai qua hợp tác xã làm nốt thủ tục.
+
+Bà Hà nhìn ông: "Có to quá không?" Hùng lắc đầu. Tầm mắt ông không dừng trên mảnh đất trước mặt — nó nhìn xa hơn, qua cánh đồng, qua lũy tre, đến những điều chưa thành hình. "Chưa to bằng mơ."
+
 ============================================================

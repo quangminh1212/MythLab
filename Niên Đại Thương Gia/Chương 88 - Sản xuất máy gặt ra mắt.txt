@@ -174,6 +174,8 @@ Ba người nông dân vẫn ngồi. Người lớn tuổi đứng lên, đến 
 
 "Giá?"
 
+Hùng nói giá xong, nhìn vào mắt ba người nông dân. Ông thấy cái nhìn xuống đất, cái nhìn sang nhau, cái nhìn vào máy. Những tia mắt ấy ông biết rõ—đó là cách người làm ruộng tính toán trong đầu không cần giấy bút. Một mùa lúa được bao nhiêu, trừ giống trừ phân, còn lại bao nhiêu để mua máy. Ông nhìn ra ruộng lúa ngoài kia, thấy những bông lúa đang trĩu hạt, và biết cái giá ông đưa ra không chỉ là tiền—nó là một vụ cược vào mùa màng, vào thời tiết, vào cái giá thóc năm sau. Lòng ông se lại nhưng ông không hạ giá.
+
 Hùng báo giá. Cao hơn dự kiến của họ — Hùng biết ngay qua ánh mắt — nhưng thấp hơn máy nhập. Ông giải thích: giá cao vì linh kiện nhập từ Thái, khung thép tự làm, nhân công làm thủ công. "Nhưng cắt linh kiện thì rẻ hơn. Hỏng mùa thì đắt hơn."
 
 Người nông dân hỏi: "Bán chịu được không? Hợp tác xã tôi không có sẵn tiền mặt. Thu hoạch xong mới có."
@@ -292,5 +294,8 @@ Năm: 1986
 Tổng EXP: 14,250 (+250 nhịp này)
 Không gian kho: 4,943m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Máy gặt ra mắt. Phục vụ miễn phí tuần đầu. Mấy chục héc-ta gặt trong ba ngày, thay vì ba tuần.
+Minh đứng trên máy suốt ba ngày, mặt đen nắng. Hùng mang cơm ra đồng cho anh.
+
+Máy gặt chạy trên ruộng lúa. Hùng đứng nhìn, thấy mùa vụ không còn là nỗi lo.
 ============================================================

@@ -231,5 +231,7 @@ Năm: 1990
 Tổng EXP: 20,940 (+180 nhịp này)
 Không gian kho: 6,776m² (+72m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Thử thách từ ông Sato: một lô hàng phải đạt chuẩn Nhật. Minh ở lại xưởng ba ngày liền.
+Khi lô hàng được thông qua, Hùng gửi cho ông Sato một hộp trà Việt.
+
 ============================================================

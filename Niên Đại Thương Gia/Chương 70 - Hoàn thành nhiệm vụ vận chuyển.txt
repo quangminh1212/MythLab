@@ -72,13 +72,13 @@ Trưa, Hùng đi bộ ra cảng Tiên Sa. Tàu của đối tác Nhật Buchi & 
 
 — Ba ống bị nicks, xước dài gần hai cm. Có thể chấp nhận vì standard Nhật cho thép xây dựng là toler. Nhưng lô này mình ghi trong hợp đồng "loại một, không nicks". Tôi không gửi complaint, nhưng anh phải ghi trong hồ sơ để sau đừng làm lại.
 
-Hùng nhìn hàng chục ống thép đã nằm gọn dưới tàu. Tanaka không làm khó — ông ta chỉ làm đúng. Đó là lý do Hùng chọn hợp tác với người Nhật này, không phải mấy "đại lý" người Việt chạy theo hoa hồng mà không có tiêu chuẩn gì ngoài miệng.
+Hùng nhìn hàng chục ống thép đã nằm gọn dưới tàu. Mùi nước biển mặn hòa lẫn mùi dầu máy tàu, mùi sắt thép mới và hơi muối từ cảng bốc lên trong gió chiều. Tiếng sóng vỗ nhẹ vào mạn tàu vọng lên từng hồi, nhịp nhàng và đều đặn, hòa cùng tiếng còi tàu xa xa. Tanaka không làm khó — ông ta chỉ làm đúng. Đó là lý do Hùng chọn hợp tác với người Nhật này. Trong lòng ông lặng lẽ dâng lên một niềm hài lòng, không phải vì đã kiếm được tiền, mà vì mình đã làm đúng như đã hứa. Cảm giác ấy nhẹ và ấm, như nắng cuối ngày trên mặt cảng.
 
 — Tôi sẽ ghi sổ. Lô sau sẽ chọn hàng kỹ hơn và đóng lót bằng bao tải cuộn, không dùng nilon. Cảm ơn ông.
 
 — À, — Tanaka cầm ly cà phê lên, mắt vẫn nhìn Hùng, — chuyến này anh giao sớm hơn hẹn một ngày. Tàu của tôi có lịch rời cảng mười bảy giờ. Thép vào hầm xong, tôi ký phiếu giao nhận. Bên Buchi chịu phạt tàu nằm chờ từ hôm qua, giờ chỉ chờ hàng là chạy — tức là anh giúp họ tiết kiệm ít nhất ba trăm đô Mỹ tiền phạt cảng. Họ không biết đâu, nhưng tôi biết.
 
-Hùng không đáp lời cảm ơn. Ông chỉ nhìn Tanaka và gật. Một cái gật giữa hai người hiểu giá trị của việc đúng hẹn.
+Hùng không đáp lời cảm ơn. Ông chỉ nhìn Tanaka và gật.
 
 Tanaka đẩy một tập giấy qua bàn: bản dịch điều khoản hợp đồng gốm mỹ nghệ, kèm thông số kỹ thuật đóng gói. Hùng lật qua, thấy yêu cầu giấy gói không axit, chống ẩm, kiểm tra độ bóng men bằng đèn cầm tay. Đây là level khó hơn thép nhiều — nhưng rào cản càng cao thì đối thủ càng ít.
 
@@ -189,5 +189,8 @@ Năm: 1985
 Tổng EXP: 9,933 (+213 nhịp này)
 Không gian kho: 3,967m² (+47m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Chuyến xe cuối cùng của nhiệm vụ vận chuyển lăn bánh lúc 4 giờ.
+Điện thoại reo: "Hàng tới nơi, nguyên vẹn." Hùng gạch một dòng: "NVVC — HOÀN THÀNH."
+
+Giao hàng đúng hẹn — cam kết nhỏ mà làm nên thương hiệu lớn.
 ============================================================

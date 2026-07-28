@@ -11,10 +11,12 @@ Không phải vì chuông báo thức — mà vì đầu ông đang chạy kế 
 Hôm nay ông sẽ bán hàng ở huyện thành lần thứ hai. Nhưng khác hôm qua — hôm nay ông sẽ không chỉ bán quần áo. Ông sẽ mang theo thêm một ít thực phẩm cao cấp: trứng tươi và mì gói. Đây là hai mặt hàng mà Cung Tiêu Xã không có, chợ huyện hiếm, và người dân cần — đặc biệt là gia đình có trẻ con hoặc người ốm.
 
 Nhưng ông phải cẩn thận. Thực phẩm dễ gây chú ý hơn quần áo — vì trong thời bao cấp, ai có nhiều thực phẩm khan hiếm thì bị nghi buôn lậu. Quần áo thì khác — có thể nói là hàng từ Hà Nội, do người thân gửi, hoặc mua ở chợ trời. Thực phẩm thì khó giải thích hơn.
+Loẹt xoẹt biên lai thu tiền.
 
 Hùng quyết định: chỉ mang 20 quả trứng và 2 thùng mì gói. Số lượng nhỏ, dễ giấu, dễ bán nhanh. Quần áo vẫn là mặt hàng chính — 5 bộ, giống hôm qua.
 
 Ông bước ra sân. Trời còn tối, sao còn lấp lánh. Bà Hà chưa dậy — bà dậy lúc gà gáy, không sớm hơn. Hùng vào bếp, nhóm lửa, nấu cơm sáng. Nồi cơm trắng còn thừa tối qua, ông hâm nóng, chiên thêm mấy quả trứng (lấy từ không gian, ẩn giấu). Mâm cơm sáng: cơm trắng, trứng chiên, nước mắm. Đơn giản nhưng no.
+Cót két cổng sắt mở.
 
 Bà Hà ra bếp, thấy mâm cơm đã sẵn, sững người. "Cậu nấu rồi? Bà chưa thấy cậu nấu bao giờ."
 
@@ -75,6 +77,7 @@ Mì gói: 2 thùng, mỗi thùng 30 gói. Hùng bán lẻ — 0.5 đồng/gói, 
 Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
  Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
+Tõm tõm gầu nước giếng.
 
 Hệ thống chỉ ghi nhận giao dịch; con số được khóa một lần ở sổ cuối chương.
 
@@ -117,7 +120,7 @@ Khanh gật đầu. "Được. Cậu đến nhà tôi mỗi sáng, tôi sẽ gi�
 
 Một mạng lưới bắt đầu hình thành. Không phải mạng lưới lớn — chỉ một cán bộ huyện giới thiệu cho đồng nghiệp — nhưng trong thời bao cấp, quan hệ là vàng. Một cán bộ giới thiệu, uy tín tăng, khách hàng tăng, và ông sẽ không cần bán rong nữa — khách sẽ tìm đến ông.
 
-Hùng về làng lúc chiều muộn. Nắng đã tắt, gió lạnh, đường đất đỏ tối dần. Ông đi bộ, tay túi quần có 335 đồng (255 buổi sáng + 80 chiều), và trong đầu là kế hoạch cho ngày mai.
+Hùng về làng lúc chiều muộn. Nắng đã tắt, gió lạnh, đường đất đỏ tối dần. Ông đi bộ, tay túi quần có 335 đồng (255 buổi sáng + 80 chiều), và trong đầu là kế hoạch cho ngày mai. Gió chiều buốt thổi qua áo sơ mi mỏng, da nổi gai ốc. Nhưng bàn tay ông trong túi quần siết chặt xấp tiền, cảm nhận từng tờ giấy bạc nhàu — mồ hôi tay, dầu mỡ, mùi của lao động và may mắn. Ông hít sâu mùi rơm khô hai bên đường, mùi đồng nội đang lên đèn trong từng căn nhà nhỏ.
 
 Về đến nhà, bà Hà đang ngồi ở hiên, tay quay sợi. Bà quay sợi bằng cái quay cũ — trục tre, con quay gỗ, sợi bông se dần thành sợi chỉ. Bà quay mỗi tối, sợi chỉ để dệt vải, vải để may quần áo. Trong thời bao cấp, tự làm là cách duy nhất để có quần áo — mua vải rồi tự may, hoặc tự se sợi, tự dệt, tự may. Bà Hà làm tất cả.
 
@@ -202,5 +205,10 @@ Năm: 1983
 Tổng EXP: 90 (+30 nhịp này)
 Không gian kho: 1,150m² (+50m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Tờ tiền đầu tiên trong tay, mồ hôi còn thấm ở mép.
+Khách quay lưng đi, Hùng đứng yên một lúc, nghe tim đập.
+Không phải vì tiền. Vì lần đầu tiên trong kiếp này, ông tự nuôi được mình.
+Ông xếp tiền vào túi vải, thắt nút ba lần, đạp xe về nhà trong bóng chiều.
+
+Đồng tiền đầu tiên không phải là lợi nhuận — nó là sự xác nhận từ thị trường.
 ============================================================

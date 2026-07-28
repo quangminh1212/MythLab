@@ -283,8 +283,4 @@ Kỹ năng trọng yếu: Ngoại giao kinh tế lv2 (+1), Branding lv1 (mới),
 Ghi chú: Hùng hoàn thành thủ tục thương hiệu năm nước — bài học từ chú Hai (mất tên), lời khuyên từ Lian (không cạnh tranh giá, chọn sản phẩm chủ lực, xuất hiện)
 ============================================================
 
-〖Teaser〗
-Hùng gấp tờ fax từ Lim, đặt vào cùng ngăn kéo với sổ đen.
-"Ba tuần nữa, Malaysia." Hắn nói, không ngước lên.
-Lan đứng ở cửa: "Xong Malaysia — mình tính gì tiếp?"
-"Đối tác Mỹ. Sắp gặp rồi."
+Teaser: 

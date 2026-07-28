@@ -1,5 +1,5 @@
 ============================================================
-Chương 99: Mở rộng viễn thông
+Chương 99: Mở rộngviễn thông
 ============================================================
 
 Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi giấy tờ cũ, mùi đồng, mùi mồ hôi và thuốc lá. Năm 1987.
@@ -292,6 +292,7 @@ Hùng cảm ơn, gác máy. Ông ngồi lại một lúc, nhìn chiếc máy đi
 Ông nhớ lại cái ngày ở phường Hà Đông — cô Liên ngồi trước bảng cắm dây, tay rút tay cắm. Ông đã từng nghĩ: tổng đài nhân công — thế giới của một thời đã qua, sắp bị cuốn đi. Nhưng hôm nay, ông đứng ở đây — đầu dây bên kia — và hệ thống vẫn đang vận hành bằng chính bàn tay những người như cô Liên.
 
 Tổng đài điện tử sẽ đến. Cáp quang sẽ thay cáp đồng. Nhưng năm 1987 — cáp đồng, tổng đài analog Nhật cũ, và những người thợ leo cột là tất cả những gì ông có. Đủ để bắt đầu.
+Hùng đứng lặng bên cửa sổ phòng máy, nhìn ra những cột cáp mới trắng tinh chạy dài về phía chân trời. Trời đã nhá nhem tối, những bóng cây đổ dài trên mặt đường, và trên mỗi cột cáp, những con chim sẻ tụ về đậu trên dây, trông như những nốt nhạc trên khuông nhạc bằng đồng. Gió chiều thổi nhẹ, căng dây cáp rung lên một âm thanh trầm, vi vu, như tiếng đàn bầu xa vắng — bài hát của thời đại mới, của những kết nối chưa từng có. Trong không gian tĩnh lặng, những đường cáp ấy như những sợi chỉ vô hình nối liền xưởng nhỏ của ông với thế giới bên ngoài, nối liền hiện tại với tương lai.
 
 Hùng ghi vào sổ ngày: "Tháng 9/1987 — mạng viễn thông khu vực Hà Đông đi vào hoạt động. 20 thuê bao. 8 km cáp. 150 số tổng đài. 3 công nhân mạng lưới. Doanh thu tháng đầu: 2,74 triệu. Mục tiêu tháng 12: 60 thuê bao. Nhân rộng ra Hóc Môn và Bình Chánh nếu tuyến này chạy ổn."
 
@@ -305,5 +306,8 @@ Năm: 1987
 Tổng EXP: 16,318 (+182 nhịp này)
 Không gian kho: 5,455m² (+46m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Ghi chú: sổ cái khớp system_ledger — không double-book
+Viễn thông Thương Gia phủ sóng ba tỉnh. Hùng gọi chi nhánh Hà Nam, không qua bưu điện.
+Tư Hạnh: "Anh Hùng hả? Nghe rõ quá!" Ông cúp máy, gạch một dòng: viễn thông — OK.
+
+Viễn thông kéo cả nước lại gần — từ thành thị đến bản xa.
 ============================================================
