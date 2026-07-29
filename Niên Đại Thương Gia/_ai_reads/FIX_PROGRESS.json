@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "pass": 360,
+  "total": 360,
+  "avg": 9.752,
+  "min": 9.51,
+  "max": 10.0,
+  "hard_n": 0,
+  "rom_n": 0,
+  "fails": [],
+  "hard": [],
+  "rom_sample": []
+}

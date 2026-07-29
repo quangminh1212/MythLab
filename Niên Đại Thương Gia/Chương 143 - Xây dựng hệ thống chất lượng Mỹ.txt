@@ -1,6 +1,5 @@
 ============================================================
 Chương 143: Xây dựng hệ thống chất lượng Mỹ
-============================================================
 
 Los Angeles, cuối tháng năm 1990. Trời nóng ba mươi lăm độ, nhưng cái nóng California khô khốc, khác hẳn oi bức Sài Gòn. Hùng ngồi trong văn phòng nhỏ Linda cho mượn — một góc kho sửa thành phòng, máy lạnh cũ kêu đều, bàn gỗ công nghiệp mặt bị trầy, tủ sắt màu xám. Trên bàn là xấp tài liệu dày gần hai trăm trang — tiêu chuẩn kỹ thuật Mỹ cho hàng may mặc nhập khẩu.
 
@@ -174,12 +173,9 @@ Tối hôm đó, Hùng ngồi một mình ở hiên nhà, mở lại catalogue M
 
 Ông gập catalogue. Còn đường dài. Nhưng đường đã rõ.
 
-
 Một buổi tối, Hùng nhận được điện thoại từ một đối tác cũ ở Quảng Ninh, nói rằng lô hàng vừa giao bị trả lại vì chất lượng không đạt. Hùng không nổi nóng. Ông bảo tài xế lấy xe, đi ngay trong đêm. Đường từ Hà Nội lên Quảng Ninh tối om, mưa lâm thâm. Xe chạy chậm, Hùng ngồi nhìn ra màn mưa, suy nghĩ. Lỗi ở đâu? Máy móc? Nguyên liệu? Đến nơi, đã mười một giờ đêm. Ông gọi quản đốc nhà máy ra, cùng kiểm tra từng sản phẩm trong lô hàng bị trả. Hóa ra lỗi ở khâu đóng gói — bao bì không đúng quy cách, bị ướt trong quá trình vận chuyển. Hùng thở phào — không phải lỗi sản xuất. Nhưng ông cũng nhận ra trách nhiệm của mình: không kiểm tra kỹ khâu đóng gói. "Từ nay, mỗi lô hàng trước khi xuất đi, tôi sẽ ký vào phiếu kiểm tra. Nếu có lỗi, tôi chịu." Cả nhà máy im lặng. Một ông chủ nhận lỗi về mình — điều hiếm thấy. Nhưng chính vì thế, từ hôm đó, không ai dám làm ẩu. Vì nếu sếp còn chịu trách nhiệm đến vậy, mình làm ẩu thì không phải với ai, mà với lương tâm mình.
 
-
 Một lần, Hùng mời hai đối tác nước ngoài về nhà ăn cơm — một người Nhật, một người Mỹ. Bà Hà nấu một mâm cơm Việt Nam: nem cuốn, bò xào, canh chua, cá kho. Người Nhật ăn nem cuốn lần đầu, khen: "Fresh and delicious!" Người Mỹ ăn cá kho, tấm tắc: "This is better than any restaurant I've been to in Hanoi." Hùng ngồi nhìn họ ăn, lòng tự hào. Không phải tự hào vì nhà mình nấu ngon, mà vì ẩm thực Việt Nam — mộc mạc, giản dị nhưng đậm đà — đã chinh phục được những vị khách khó tính. Sau bữa ăn, người Mỹ nói: "You know what, Mr. Hung? Doing business with you feels like eating at your home — warm, honest, and real." Hùng gật: "That's what I want my business to be." Hai vị khách ra về, mỗi người được tặng một hộp nem cuốn để ăn sáng hôm sau. Họ cười, cảm ơn. Và những hợp đồng sau đó, được ký không chỉ vì giá cả, mà vì tình cảm.
-
 
 Hung mo rong san xuat ra tinh ngoai. O đi kha sat, gap chinh quyen đia phuong, dat van đe. Nguoi ta tiep ong vui ve, nhung thu tuc hanh chinh ray ra. Hung kien nhan: 'Toi se lam theo dung quy đinh.' Mot thang sau, Thuong Gia co chi nhanh o tinh ban. Bai hoc: kien nhan la chua kho đe mo đuoc canh cua.
 
@@ -187,35 +183,25 @@ O thay, dang sau moi hop dong, moi con so, la nhung con nguoi. Khach hang cung c
 
 Mot lan, Hùng gap mot doi tac nguoi Phap. Nguoi Phap đen đung 10h sang. Hùng đon tiep bang cai bat tay nhiet thanh. Nguoi Phap noi: 'Ong đung gio.' Hùng cuoi: 'Toi luon đung gio.' 'Vi sao?' 'Vi co đuoc nhu the, nguoi ta moi tin toi.' Do la bai hoc đau tien ong hoc đuoc tu nguoi Nhat.
 
-
 Mot lan cuoi cung, Hung truoc khi ve huu, ong tap trung toan bo nhan vien lai, cam on tung nguoi. O het long cam ta, vi khong co ho, Thuong Gia khong the co ngay hom nay. 'Toi rat tu hao ve cac anh chi. Nguoi ta noi: thanh cong cua toi la tai san. Nhung toi noi: thanh cong cua toi la con nguoi – la cac ban.'
-
 
 Hùng đi tham quan một bảo tàng. Trong bảo tàng có triển lãm về lịch sử công nghiệp Việt Nam. Một góc nhỏ trưng bày chiếc quạt Thương Gia đầu tiên. Hùng đứng ngắm nó thật lâu. Nó không phải là một hiện vật giá trị, nhưng nó là một phần của lịch sử. Ông chụp một tấm ảnh. Rồi ông mua vé vào cửa cho một nhóm sinh viên đang đi tham quan, chỉ để họ có dịp xem chiếc quạt đó. 'Một chút đóng góp nhỏ cho lịch sử,' ông nói.
 
-
 Cuoc đoi cua Hùng đep nhu nhung hoi uc. O khong the quen đuoc nhung ngay đau tien, chang đuong kho khan, nhung nu cuoi cua cong nhan. O hoi tuong lai nhung ngay đam me va bao dung. Nhung loi noi chan thanh. Nhung hoc hoi truong thanh. 'Nhung ngay đo, toi trẻ, toi nhieu uoc mo. Va toi manh me.' Bay gio, toi gia, uoc mo van con, co the da it đi. Nhung long bao dung va kien nhan la diem tuong đuong.
-
 
 Mot chieu, Hùng ngoi o quan nuoc đau pho, uong tra. Mot nguoi ban gia đen. Nguoi ban nay la nguoi đa giup ong nhieu trong nhung ngay đau. Hai nguoi ngoi nho lai chuyen cu. 'May nho khong? Cai hom may đen muon xin viec, ngay mua. Uot het.' Hai nguoi cuoi vang. Roi ho noi chuyen ve gia đinh, ve con cai. Cuoc song them them nhung dai đơn, khi buon khi vui.
 
-
 Mot ngay, Hung tiep mot vi khach đac biet: mot nguoi phu nu tre gap kho khan. Nguoi phu nu đo đen xin ong giup đo. Hung khong do du, ong giup ngay. Vi khong co ong, nguoi phu nu đo co the that vong va gat bo uoc mo.
-
 
 Hom ay la ngay cuoi cung trong nam. Hùng ngoi dem so lieu cuoi nam. Loi nhuan tot, doanh so đeu. O thay hai long. Nhung cung thay ot sach, khoi nuoc mat đang ra. 'Mot nam nua đa qua. Cam on tat ca nguoi lao đong, cam on bac sy, cam on nguoi ban hang.' O noi cuoi cung: 'Chuc mung nam moi.'
 
-
 Cuoc đoi cua Hung la mot bai hoc lon. O day con chau: cuoc song vat va, nhung trong kho khan co niem vui. Nhung đau kho se lam ta manh me. Nhung that bai se lam ta thong thai. Va tinh yeu, long bao dung, la chan troi cua cuoc song.
 
-
 Cuộc đời là những câu chuyện. Hùng thích kể chuyện. Và mỗi câu chuyện ông kể, đều mang một bài học. Bây giờ, khi về già, ông dành thời gian để viết lại tất cả. Để lại cho đời sau. 'Tôi muốn họ biết, con đường nào cũng có hoa, nhưng cũng có gai. Và quan trọng là biết dừng lại để ngắt hoa, tránh gai.'
-
 
 Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. bà Hà đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” bà Hà dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
 
 Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, bà Hà đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
-
 
 Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
 
@@ -223,26 +209,19 @@ Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà 
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
 
-
 Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Minh đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
-
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho Lan. "Uống đi, trời lạnh." Lan nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" bà Hà hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Minh nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Minh cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.143. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.143」
 Năm: 1990
 Tổng EXP: 21,840 (+180 nhịp này)
 Không gian kho: 7,136m² (+72m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
-Los Angeles. Tiêu chuẩn kỹ thuật Mỹ dày hai trăm trang. Sinh viên UCLA phiên dịch.
-Một doanh nhân Việt ngồi đọc hai trăm trang tiêu chuẩn — chuyện chưa từng thấy.
-
-Hùng đóng tập tài liệu dày hai trăm trang sau ba ngày đọc.
-Bản dịch từ tiếng Anh của sinh viên UCLA có chỗ còn sai thuật ngữ.
-Nhưng ông hiểu cốt lõi: chất lượng không phải kiểm tra ở cuối dây chuyền.
-Nó phải được dệt vào từng đường may ngay từ đầu.
-Ông viết thư về cho Lan: "Bắt đầu từ khâu chọn vải."
-============================================================
+Ghi chú: khóa nhịp

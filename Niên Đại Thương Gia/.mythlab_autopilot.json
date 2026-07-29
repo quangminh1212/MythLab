@@ -29,6 +29,16 @@
       "below": 308,
       "total": 360,
       "all_pass": false
+    },
+    {
+      "round": 4,
+      "ts": "2026-07-29T11:17:09",
+      "avg": 9.753,
+      "min_final": 9.51,
+      "pass": 360,
+      "below": 0,
+      "total": 360,
+      "all_pass": true
     }
   ]
 }

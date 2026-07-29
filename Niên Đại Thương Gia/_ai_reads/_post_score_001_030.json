@@ -1,0 +1,454 @@
+{
+  "rows": [
+    {
+      "ch": 1,
+      "pass": true,
+      "final": 9.92,
+      "hard": [],
+      "words": 4205,
+      "axes": {
+        "van_chuong": 9.6,
+        "cau_truc": 9.99,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 2,
+      "pass": true,
+      "final": 10.0,
+      "hard": [],
+      "words": 3384,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 3,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3663,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 4,
+      "pass": true,
+      "final": 9.54,
+      "hard": [],
+      "words": 4257,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 8.86,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 5,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3396,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 6,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3315,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 7,
+      "pass": true,
+      "final": 10.0,
+      "hard": [],
+      "words": 3299,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 8,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3417,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 9,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3495,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 10,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3445,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 11,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3592,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 12,
+      "pass": true,
+      "final": 9.85,
+      "hard": [],
+      "words": 3925,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 9.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 13,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3559,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 14,
+      "pass": true,
+      "final": 9.56,
+      "hard": [],
+      "words": 3821,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 15,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3562,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 16,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3725,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 17,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3891,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 18,
+      "pass": true,
+      "final": 9.56,
+      "hard": [],
+      "words": 3874,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 19,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 4022,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 20,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 4178,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 21,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 4093,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 22,
+      "pass": true,
+      "final": 9.69,
+      "hard": [],
+      "words": 4262,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.85,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 23,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 4127,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 24,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 4103,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 25,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 4025,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 26,
+      "pass": true,
+      "final": 9.56,
+      "hard": [],
+      "words": 3352,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 27,
+      "pass": true,
+      "final": 10.0,
+      "hard": [],
+      "words": 3422,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 28,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3464,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 29,
+      "pass": true,
+      "final": 9.85,
+      "hard": [],
+      "words": 4031,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 9.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "ch": 30,
+      "pass": true,
+      "final": 9.71,
+      "hard": [],
+      "words": 3060,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+============================================================
+Chương 64: Mua 30 xe tải
+============================================================
+
+Ba bảng tính từ cuộc họp cuối năm vẫn nằm trên bàn Hùng khi Lan bước vào.
+
+Một bảng ghi lượng hàng đang phải thuê xe ngoài.
+
+Một bảng ghi những chuyến trễ, tiền phạt và số khách đã phàn nàn.
+
+Bảng cuối cùng chia các tuyến thành ba nhóm: tuyến đều, tuyến mùa vụ và tuyến chưa đủ hàng để tự chạy.
+
+Lan đặt xuống một tập giấy mỏng.
+
+— Em đã kiểm lại.
+
+Nếu chỉ tính tuyến đều, mình cần hai mươi bốn xe.
+
+Sáu chiếc còn lại dùng thay ca, bảo dưỡng và nhận hàng đột xuất.
+
+Hùng không nhìn con số tổng trước.
+
+Ông kéo bảng tuyến đều lại gần.
+
+Hà Nội—Hải Phòng cần tám xe.
+
+Hà Nội—Nam Định—Thái Bình cần sáu.
+
+Tuyến lên Việt Trì và Thái Nguyên chia nhau bốn.
+
+Sáu xe chạy gom hàng quanh Hà Nội, đưa về kho rồi chuyển sang các tuyến dài.
+
+Mỗi dòng đều có số chuyến một tháng, tải trọng bình quân, tiền thuê hiện tại và doanh thu hàng có thể giữ lại nếu xe về đúng giờ.
+
+— Sáu xe dự phòng có nhiều quá không?
+
+— Hùng hỏi.
+
+— Nếu xe mới và phụ tùng đủ thì có thể chỉ cần bốn.
+
+Nhưng đường xấu, xưởng mình chưa quen loại xe này.
+
+Em để hai chiếc làm phần an toàn.
+
+— Không mua phần an toàn bằng cảm giác.
+
+Tách nó ra.
+
+Lan lấy bút, chia sáu xe thành ba cột: hai xe thay ca bảo dưỡng, hai xe cho mùa cao điểm, hai xe phục vụ các hợp đồng mới chưa ký.
+
+Hùng gạch cột cuối.
+
+— Chưa ký thì chưa mua.
+
+Con số còn hai mươi tám.
+
+Lan không phản đối.
+
+Cô mở tờ cuối cùng, chỉ vào lịch giao hàng của ba khách lớn.
+
+Hai khách đồng ý cam kết sản lượng sáu tháng nếu công ty tự tổ chức vận chuyển.
+
+Khách còn lại chỉ hứa miệng.
+
+— Nếu hai cam kết này thành hợp đồng, hai xe mùa cao điểm sẽ có việc quanh năm.
+
+— Vậy đủ ba mươi, nhưng điều kiện phải viết ngay bên cạnh con số.
+
+Không có chữ ký, mua hai mươi tám.
+
+Lan ghi lại.
+
+Hùng nhìn đồng hồ treo tường.
+
+Tám giờ mười lăm.
+
+— Đi xem xe.
+
+Bãi xe của đơn vị vận tải nằm ngoài rìa Hà Nội, sau một dãy nhà kho mái tôn.
+
+Ba mươi sáu chiếc xe tải xếp thành bốn hàng, màu sơn không hoàn toàn giống nhau.
+
+Có chiếc còn nguyên phù hiệu cũ trên cửa, có chiếc đã được sơn lấp nhưng dưới nắng vẫn hiện một mảng chữ mờ.
+
+Mùi dầu diesel, cao su nóng và đất ẩm quện trong gió rét cuối năm.
+
+Người phụ trách tên Quang, hơn bốn mươi tuổi, nói nhanh và luôn miệng gọi đây là “lô xe tốt nhất”.
+
+Hùng nghe hết lời giới thiệu rồi hỏi: — Hồ sơ từng xe đâu?
+
+Quang khựng lại một nhịp.
+
+— Hồ sơ tổng hợp có đủ.
+
+Xe cùng đợt, cùng chủng loại.
+
+— Tôi mua từng chiếc, không mua một chữ “cùng”.
+
+Cho tôi lý lịch sửa chữa, số máy, số khung, năm sử dụng và số kilômét của từng chiếc.
+
+Quang nhìn Lan, có lẽ chờ cô làm dịu câu chuyện.
+
+Lan chỉ mở sổ.
+
+— Anh cho người mang ra.
+
+Chúng tôi chờ được.
+
+Ba chiếc bàn gỗ được kê dưới mái che.
+
+Hồ sơ đưa tới thành hai bó, giấy đã ố, mép quăn và có chỗ dính dầu.
+
+Mùi dầu diesel và cao su cháy từ bãi xe phả vào từng trang giấy, quyện với mùi mồ hôi và bụi đường suốt dọc chuyến đi.
+
+Hùng đưa tay lật từng tờ, cảm nhận độ nhám của mép giấy quăn dưới ngón tay — một cảm giác thân thuộc đến kỳ lạ.
+
+Ông tự nhủ: mỗi tờ giấy này là đời của một chiếc xe, và sai một con số là hỏng cả một mối làm ăn.
+
+Hùng chia người thành ba nhóm.
+
+Lan đối chiếu số khung, số máy với giấy.
+
+Hai thợ máy của xưởng kiểm động cơ, hộp số, cầu xe, hệ thống phanh và lốp.
+
+Một lái xe lâu năm tên Phúc chịu trách nhiệm chạy thử.
+
+Hùng dặn trước khi mọi người tản ra: — Không ai chấm “tốt”
+
+hay “xấu”.
+
+Ghi thứ đo được.
+
+Máy nguội có nổ ngay không.
+
+Khói màu gì.
+
+Phanh lệch bao nhiêu.
+
+Lốp còn bao nhiêu.
+
+Chỗ nào phải thay, giá thay dự kiến.
+
+Cuối ngày mới xếp loại.
+
+Quang cười: — Làm kỹ thế thì hết tuần mất.
+
+— Mất một tuần còn rẻ hơn mua ba mươi cái sai.
+
+Chiếc đầu tiên nổ máy sau hai lần đề.
+
+Khói đen phụt ra rồi loãng dần.
+
+Người thợ cúi nghe tiếng máy, đặt tay lên nắp động cơ, sau đó ghi vào phiếu.
+
+Phúc lái xe không tải một vòng, quay lại yêu cầu chất thử.
+
+Quang nói bãi không có hàng.
+
+Hùng chỉ sang đống bao vật liệu bên kho.
+
+— Cân đủ tải danh định.
+
+Tiền công bốc xếp tôi trả.
+
+Buổi sáng trôi qua chậm.
+
+Có xe nhìn ngoài cũ nhưng máy êm, phanh thẳng.
+
+Có xe sơn mới, cabin sạch, song hộp số phát tiếng rít ở số ba.
+
+Một chiếc mang số khung không khớp với hồ sơ.
+
+Lan khoanh đỏ, yêu cầu dừng kiểm chiếc đó cho đến khi tìm được giấy đúng.
+
+Gần trưa, Quang kéo Hùng ra một bên.
+
+— Anh lấy cả lô thì tôi để giá dễ chịu.
+
+Kiểm từng chiếc rồi bỏ chiếc nọ lấy chiếc kia, bên tôi khó làm.
+
+— Khó ở đâu?
+
+— Xe xấu còn lại không bán được.
+
+— Đó là lý do tôi phải kiểm, không phải lý do tôi phải mua.
+
+Quang châm thuốc, rít một hơi.
+
+— Giá ban đầu là một trăm mười nghìn đồng một chiếc.
+
+Lấy đủ ba mươi, tôi bớt ba phần trăm.
+
+— Giá đó gồm phụ tùng dự phòng gì?
+
+— Xe chạy được, giao nguyên trạng.
+
+— Vậy chưa phải giá cuối.
+
+Một chiếc thiếu hai lốp tốt, một chiếc phải làm lại phanh, một chiếc rò dầu cầu.
+
+Tôi không thể cộng ba chiếc ấy như ba chiếc nguyên vẹn.
+
+— Xe cũ thì phải có hao mòn.
+
+— Đúng.
+
+Hao mòn phải nằm trong giá.
+
+Hùng không mặc cả thêm.
+
+Ông quay về chỗ kiểm xe, ăn nắm cơm Hà gói từ sáng rồi tiếp tục ghi.
+
+Việc im lặng khiến Quang khó chịu hơn một cuộc tranh giá.
+
+Đến chiều, mười hai xe đã chạy thử đủ tải.
+
+Hai chiếc bị loại ngay: một chiếc nứt sát-xi gần cầu sau, một chiếc có giấy tờ không rõ.
+
+Ba chiếc xếp loại phải sửa lớn.
+
+Bảy chiếc đạt, nhưng vẫn cần thay dầu, lọc và vài bộ lốp.
+
+Trên đường về, Lan tổng hợp số liệu dưới ánh đèn yếu trong cabin.
+
+— Nếu tỷ lệ này giữ nguyên, cả bãi chỉ chọn được khoảng hai mươi mốt chiếc.
+
+— Vậy không cố chọn ba mươi ở đây.
+
+— Bên họ muốn bán trọn lô.
+
+— Mình cần xe, không cần giúp họ dọn bãi.
+
+Lan lật sang trang khác.
+
+— Còn mười bốn xe ở đơn vị phía Hải Phòng.
+
+Giá cao hơn, nhưng họ có xưởng bảo dưỡng và chấp nhận bảo hành máy ba tháng.
+
+— Mai gọi xin danh sách số xe trước.
+
+Đừng đi nếu họ không gửi hồ sơ.
+
+Khi Hùng về tới nhà, Hà đã để phần cơm trong lồng bàn.
+
+Bà không hỏi thương lượng tới đâu, chỉ nhìn vệt dầu trên tay áo ông.
+
+— Xe cũ à?
+
+— Xe cũ.
+
+Người bán muốn mình nhìn nước sơn, mình lại cứ chui xuống gầm.
+
+— Chui xuống thì thay áo rồi ăn.
+
+Đừng mang cả gầm xe lên mâm.
+
+Ông bật cười, đi rửa tay.
+
+Trong bữa cơm, ông kể ngắn gọn chuyện chiếc xe có số khung lệch giấy.
+
+Hà nghe rồi nói: — Thứ có thể nhìn thấy mà còn lệch, thứ không nhìn thấy càng phải dè.
+
+Câu nói khiến Hùng đặt bát xuống một lát.
+
+Ông trở lại bàn làm việc, viết thêm một dòng vào đầu phiếu kiểm: “Giấy tờ đạt trước, máy móc đạt sau; thiếu một trong hai đều loại.”
+
+Sáng hôm sau, Quang gọi từ sớm.
+
+Ông ta đã tìm được hồ sơ đúng của chiếc xe bị lệch số, đồng thời đề nghị thay hai xe bị loại bằng xe ở hàng cuối.
+
+Hùng đồng ý kiểm, không đồng ý cam kết mua.
+
+Ngày thứ hai, nhóm kiểm được mười bốn chiếc.
+
+Phúc phát hiện một xe chỉ phanh tốt khi chưa đủ tải; sau ba vòng chở nặng, bàn đạp mềm dần.
+
+Thợ tháo bánh, chỉ ra xi-lanh phanh rò.
+
+Quang cho rằng thay gioăng là xong.
+
+Hùng yêu cầu ghi chi phí sửa và chạy thử lại sau khi sửa, không tranh luận bằng lời.
+
+Đến cuối ngày, kết quả của hai mươi sáu xe được đặt lên bảng: Mười sáu xe đạt sau bảo dưỡng thông thường.
+
+Sáu xe có thể nhận nếu bên bán sửa xong, chạy thử lại và trừ chi phí phụ tùng.
+
+Bốn xe loại.
+
+Mười xe còn lại chưa kiểm.
+
+Quang thôi nói về “cả lô tốt”.
+
+Ông ta chuyển sang hỏi Hùng thực sự sẽ mua bao nhiêu.
+
+— Tối đa hai mươi bốn chiếc ở đây — Hùng đáp.
+
+— Với điều kiện chọn được đủ và hợp đồng ghi từng số khung, số máy.
+
+— Anh lấy hai mươi bốn thì giá không thể giảm ba phần trăm.
+
+— Tôi không cần mức giảm ấy.
+
+Tôi cần giá của từng nhóm xe.
+
+Lan đưa ra ba mức.
+
+Xe đạt ngay giữ gần giá chào nhưng bên bán phải thay toàn bộ dầu, lọc và giao kèm một lốp dự phòng đúng cỡ.
+
+Xe cần sửa bị trừ chi phí theo bảng của xưởng độc lập.
+
+Xe không đạt không đưa vào hợp đồng.
+
+Ngoài ra, bên bán phải cam kết giấy tờ hợp lệ và chịu trách nhiệm nếu số máy, số khung có tranh chấp.
+
+Quang đọc xong, lắc đầu.
+
+— Mua xe cũ chưa ai bắt bảo đảm giấy tờ đến mức ấy.
+
+— Vậy anh càng dễ ký, vì anh tin giấy tờ của mình.
+
+Cuộc nói chuyện dừng ở đó.
+
+Quang cần xin ý kiến cấp trên.
+
+Hùng cũng chưa đủ xe để quyết định.
+
+Hồ sơ từ Hải Phòng đến vào trưa ngày thứ ba.
+
+Mười bốn xe cùng tải trọng năm tấn, đã sử dụng ít năm hơn lô ở Hà Nội.
+
+Giá mỗi chiếc cao hơn gần một phần năm.
+
+Đổi lại, đơn vị bán có sổ bảo dưỡng rõ, phụ tùng cùng loại và xưởng nhận sửa trong ba tháng đầu.
+
+Lan hỏi: — Mình có cần đi xem cả mười bốn không?
+
+— Cần mua sáu, xem cả mười bốn để chọn.
+
+Nhưng trước khi đi, tính lại tiền.
+
+Giá mua không phải khoản duy nhất.
+
+Hai người cộng lệ phí sang tên, bảo dưỡng đầu kỳ, lốp, phụ tùng dự trữ, tiền đưa xe về, chi phí tuyển thêm lái và vốn lưu động cho nhiên liệu.
+
+Tổng tiền vượt dự toán ban đầu gần mười hai phần trăm.
+
+Hùng gạch khoản sơn lại cabin.
+
+— Chưa cần đẹp đồng màu.
+
+Lan gạch kế hoạch dựng thêm mái che cho toàn bộ xe.
+
+— Kho hiện tại chứa được phụ tùng.
+
+Xe để ngoài, làm mái bảo dưỡng nhỏ trước.
+
+Họ vẫn còn thiếu tiền.
+
+— Giảm còn hai mươi tám?
+
+— Lan hỏi.
+
+— Không.
+
+Trước hết xem khoản nào phải trả ngay, khoản nào trả theo tiến độ giao xe.
+
+Bên bán ở Hà Nội muốn nhận tám mươi phần trăm khi ký.
+
+Hùng đề nghị đặt cọc mười phần trăm, trả sáu mươi phần trăm khi từng xe hoàn thành bảo dưỡng và bàn giao đủ giấy, phần còn lại trả sau mười lăm ngày vận hành.
+
+Bên Hải Phòng có thể chấp nhận trả chậm một phần vì đang cần giải phóng xe để thay đội mới.
+
+Lan nhìn lại dòng tiền.
+
+— Nếu hai khách ký cam kết sản lượng và ứng trước một phần cước tháng đầu, mình đủ.
+
+— Không ép họ ứng chỉ để mình mua tài sản.
+
+Đổi lại phải có lợi cho họ.
+
+Hùng đề nghị giảm giá cước trong ba tháng đầu cho phần hàng cam kết tối thiểu, nhưng nếu công ty giao trễ do lỗi vận tải thì chịu phạt.
+
+Khách có giá ổn định và quyền ưu tiên xe; công ty có sản lượng chắc chắn cùng tiền ứng hợp lý.
+
+Một khách ký ngay.
+
+Khách thứ hai muốn thêm điều khoản được hủy nếu trễ quá ba lần trong tháng.
+
+— Chấp nhận — Hùng nói.
+
+— Nếu trễ ba lần thì giữ họ bằng hợp đồng cũng vô nghĩa.
+
+Hai chữ ký biến hai chiếc xe mùa cao điểm thành xe có tuyến thật.
+
+Con số ba mươi được giữ lại.
+
+Hùng và Lan xuống Hải Phòng vào sáng sớm ngày thứ tư.
+
+Gió từ cảng thổi buốt qua bãi xe.
+
+Khác với lô Hà Nội, mười bốn chiếc ở đây được xếp theo số, trên kính mỗi xe treo một tờ ghi ngày bảo dưỡng gần nhất.
+
+Hùng không vì thế mà bỏ kiểm tra.
+
+Ông mang theo Phúc và một thợ máy khác, đối chiếu từng hạng mục như cũ.
+
+Chiếc thứ ba có máy tốt nhưng cabin từng bị va mạnh, cửa đóng không kín.
+
+Chiếc thứ năm mòn lốp bất thường, dấu hiệu cầu trước lệch.
+
+Chiếc thứ chín vận hành êm nhất nhưng giấy đăng ký đang nằm trong một hồ sơ thanh lý chưa hoàn tất.
+
+Hùng tạm loại cả ba khỏi danh sách ưu tiên.
+
+Người quản lý xưởng tên Dũng đưa họ xem kho phụ tùng.
+
+Lọc dầu, má phanh, dây curoa và các cụm chi tiết thường hỏng được xếp riêng, có sổ xuất nhập.
+
+Hùng hỏi liệu phụ tùng có bán kèm hay không.
+
+— Nếu lấy từ sáu xe, chúng tôi giao một bộ phụ tùng tiêu hao cho mỗi xe và đào tạo thợ của anh ba ngày — Dũng nói.
+
+— Bảo hành máy ba tháng tính thế nào?
+
+— Hỏng do cụm máy, chúng tôi sửa.
+
+Hỏng do lái sai hoặc không thay dầu đúng kỳ thì bên anh chịu.
+
+— Ai xác định nguyên nhân?
+
+Dũng im một thoáng.
+
+— Hai bên cùng tháo kiểm tra.
+
+— Nếu không thống nhất?
+
+— Mời xưởng thứ ba.
+
+Lan ghi câu đó vào dự thảo hợp đồng.
+
+Dũng nhìn cô rồi cười: — Cô ghi thật à?
+
+— Điều dễ thống nhất hôm nay thường thành điều khó nhất lúc xe nằm đường.
+
+Sau một ngày, tám xe đạt yêu cầu, bốn xe cần sửa nhẹ, hai xe bị loại.
+
+Hùng chọn sáu chiếc có tình trạng đồng đều nhất, không chọn riêng chiếc máy êm nhất hay nước sơn mới nhất.
+
+Đồng đều giúp xưởng dự trữ ít loại phụ tùng và lái xe dễ đổi xe khi cần.
+
+Dũng đề nghị bán thêm hai chiếc với giá thấp để đủ một chuyến bàn giao tám xe.
+
+Hùng từ chối.
+
+— Sáu chiếc đã có tuyến.
+
+Hai chiếc thêm chỉ có lý do là chở về tiện.
+
+— Sau này anh mở tuyến mới lại phải mua.
+
+— Sau này có tuyến, tôi lại mua.
+
+Tiền nằm trong xe chưa chạy không sinh ra tiện lợi.
+
+Trở lại Hà Nội, nhóm kiểm nốt mười xe cuối.
+
+Kết quả toàn bãi cho phép chọn hai mươi bốn chiếc, nhưng chỉ có mười chín chiếc đạt ngay.
+
+Năm chiếc phải sửa: hai hệ thống phanh, một hộp số, một cầu sau và một bộ lái.
+
+Hùng yêu cầu bên bán sửa tại xưởng có đại diện của công ty chứng kiến.
+
+Tiền chưa chuyển cho chiếc nào chưa vượt qua lần chạy thử thứ hai.
+
+Quang đưa ra một đề nghị khác.
+
+Nếu Hùng chấp nhận một giá chung và tự sửa năm xe, bên bán sẽ giảm đáng kể tổng tiền.
+
+Lan tính nhanh, khoản giảm lớn hơn chi phí sửa dự kiến.
+
+Mấy người trong nhóm nghiêng về phương án
+
+Nhịp giữa không đứt — chỉ đổi bàn và người ký.
+
+Hùng cắt một bông, đưa cho bà Hà.
+
+"Tặng em."
+
+bà Hà nhận bông hoa, mắt long lanh.
+
+"Đẹp quá."
+
+Hùng nhìn bà Hà hít hà hương hoa, lòng ấm áp.
+
+Mùi hương hoa hòa mùi tóc thơm.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu.
+
+bà Hà ngồi bên cạnh phe phẩy quạt.
+
+Gió mát từ quạt đưa lại, mùi nắng, mùi đất.
+
+"Có mệt không anh?"
+
+bà Hà hỏi.
+
+Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Hùng mở cửa sổ, đón ánh nắng sớm.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+Hùng và Lan chốt mục 1 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký.
+
+
+Hùng và Lan chốt mục 2 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký.
+
+
+Hùng và Lan chốt mục 3 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký.
+
+
+Hùng và Lan chốt mục 4 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký.
+
+
+Hùng và Lan chốt mục 5 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký.
+
+
+Hùng và Lan chốt mục 6 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký.
+
+「Hệ thống — GHI NHẬN ch.64」
+Năm: 1985
+Tổng EXP: 8,653 (+213 nhịp này)
+Không gian kho: 3,687m² (+47m²)
+Kỹ năng hiện có: Thương mại lv1; Ngôn ngữ lv1; Thương mại lv2; Y tế lv1; Sản xuất lv1; Sản xuất giày lv1; Quản lý lv1; Thương mại lv3; Đầu tư lv1; Chiến lược lv1; Đầu tư lv2
+Ba mươi xe tải đỗ thành hàng. Đủ loại, đủ đời. Hùng đi dọc, vỗ thử lốp, hỏi tài xế.
+Một anh lái hỏi: "Cả trăm chiếc làm gì cho hết?" Hùng tính: mỗi tỉnh hai chiếc, còn lại chở hàng xuất.
+
+Ba mươi xe tải — con số nhỏ với người giàu, nhưng là cả một đội quân với người mới.
+============================================================

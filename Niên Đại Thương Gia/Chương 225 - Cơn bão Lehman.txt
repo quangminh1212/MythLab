@@ -1,6 +1,5 @@
 ============================================================
 Chương 225: Cơn bão Lehman
-============================================================
 
 Đầu tháng Chín năm 2008, Hùng đang ngồi trong phòng làm việc tại Thương Gia Tower. Trên bàn là một tập báo cáo tài chính quý II dày ba mươi trang, góc trái có chữ ký của ông Phúc — người đã kiểm tra từng con số trước khi trình lên. Ngoài cửa sổ, phố Nguyễn Huệ vẫn đông đúc xe cộ, người mua người bán tấp nập. Không ai biết rằng cách nửa vòng trái đất, một con tàu khổng lồ vừa chìm.
 
@@ -164,8 +163,6 @@ Bên ngoài, mưa bắt đầu rơi. Những giọt mưa đầu mùa gõ lên m�
 
 Thứ Hai, ngày 15 tháng 9 năm 2008. Tuần đầu của cơn bão. Nhưng cơn bão nào rồi cũng qua — và sau cơn bão, những cây có gốc sâu nhất sẽ vẫn đứng vững.
 
-
-
 Hùng cầm cốc cà phê đã nguội, uống một ngụm. Vị đắng tan trên đầu lưỡi. Trong đầu ông, một danh sách đang dài ra: những việc cần làm, những người cần gọi, những quyết định cần đưa ra. Ông lấy bút, viết nguệch ngoạc trên tờ giấy nháp: "Ngân sách M&A — 250 tỷ. Không vượt. Giữ 170 tỷ thanh khoản." Rồi gạch dưới ba lần.
 
 Hải nhìn tờ giấy, gật đầu. "Em sẽ mở một tài khoản riêng cho khoản này. Kiểm soát chặt."
@@ -174,26 +171,25 @@ Hải nhìn tờ giấy, gật đầu. "Em sẽ mở một tài khoản riêng c
 
 Hải ra về. Hùng ngồi lại một mình trong phòng, nhìn những con số trên màn hình. 420 tỷ. 250 tỷ. 170 tỷ. Những con số vô tri, nhưng nó quyết định số phận của hàng nghìn con người.
 
-============================================================
-
 Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
-
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Minh đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Minh quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
 
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
-
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, bà Hà nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." bà Hà mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
-
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho bà Hà nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." bà Hà cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" bà Hà hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.225. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+
 「Hệ thống — GHI NHẬN ch.225」
 Năm: 2008
 Tổng EXP: 45,000
-Kỹ năng: Dự báo rủi ro lv2, Quản trị tài chính lv2
+Không gian kho: 0
+Kỹ năng trọng yếu: (xem ledger)
 Ghi chú: Lehman Brothers phá sản. Hùng vạch chiến lược ba giai đoạn — bảo vệ, chờ đợi, tấn công. Lan về Mỹ. Ngân sách mua sắm tối đa 250 tỷ. Hải phát hiện rủi ro Thiên Nam — gác lại.
-============================================================

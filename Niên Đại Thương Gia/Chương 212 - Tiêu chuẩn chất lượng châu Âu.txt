@@ -1,6 +1,5 @@
 ============================================================
 Chương 212: Tiêu chuẩn chất lượng châu Âu
-============================================================
 
 Tháng Sáu năm 1998, Hùng đón chuyên gia tư vấn chất lượng người Đức tại sân bay Nội Bài. Ông tên Klaus Weber, năm mươi hai tuổi, cựu kỹ sư của TÜV Rheinland — tổ chức chứng nhận chất lượng hàng đầu châu Âu. Klaus đã nghỉ hưu sớm theo chế độ đặc biệt ở Đức, nhưng vẫn nhận hợp đồng tư vấn ngắn hạn cho các công ty châu Á muốn đạt chuẩn xuất khẩu vào EU. Ông ta đã làm việc cho ba công ty Thái Lan, một công ty Philippines, và một công ty Ấn Độ. Thương Gia là công ty Việt Nam đầu tiên.
 
@@ -102,20 +101,6 @@ Klaus nâng cốc cà phê trứng — lần thứ hai. "Ông sẽ thành công.
 
 ---
 
-Tuần đầu tiên, Klaus làm việc từ sáu giờ sáng đến tám giờ tối — đúng tám tiếng theo hợp đồng, nhưng ông ta tự nguyện làm thêm vì "có quá nhiều việc". Ông ta vẽ sơ đồ quy trình cho từng dây chuyền — mì gói, nước mắm, đồ khô, may mặc. Từng bước được ghi chép, chụp ảnh, đánh số, phân tích rủi ro. Ông ta phát hiện bảy chỗ có nguy cơ nhiễm chéo trong nhà máy thực phẩm — hai trong đó nghiêm trọng đến mức Klaus nói: "Nếu không sửa, đừng mơ đến HACCP." Và ba chỗ mất kiểm soát chất lượng trong nhà máy may — một chỗ là kho nguyên liệu để cạnh nhà vệ sinh, vải bị ẩm, có vết mốc.
-
-Nhân viên phụ trách dịch thuật là Thủy — một kỹ sư thực phẩm mới ra trường Đại học Bách khoa Hà Nội, tiếng Anh tốt, tác phong nhanh nhẹn. Thủy dịch các tài liệu của Klaus từ tiếng Anh sang tiếng Việt và đánh máy lại trên máy tính để bàn — một chiếc máy đời cũ, màn hình đen trắng, chạy phần mềm soạn thảo trên nền DOS. Hùng thuê thêm hai sinh viên năm cuối Đại học Bách khoa — một khoa Điện, một khoa Cơ khí — để hỗ trợ soạn thảo quy trình kỹ thuật.
-
-Cuối tuần đầu tiên, Klaus đưa Hùng một bản danh sách chín mươi lăm đầu việc cần làm — từ việc mua tủ giày cho công nhân (loại tủ sắt hai ngăn, có khóa, chống ẩm) đến việc lắp đèn diệt khuẩn UV-C trong khu vực đóng chai (hai bộ, mỗi bộ một triệu rưỡi), đến việc viết sổ tay chất lượng cho từng vị trí (tổng cộng ba mươi bảy quy trình). Mỗi đầu việc được đánh mã số từ QC-001 đến QC-095.
-
-Hùng đọc một lần, ký tên vào cuối trang, và nói với quản đốc Hưng: "Hai tuần sau, tôi muốn hết những việc màu xanh. Bốn tuần sau, hết việc màu đỏ."
-
-Hưng nhìn danh sách — ba mươi hai việc màu xanh — bao gồm mua sắm, lắp đặt, đào tạo. "Anh Hùng, hơi gấp. Công nhân còn phải sản xuất."
-
-"Gấp nhưng làm được. Nếu thiếu người, thuê thêm thời vụ. Thiếu tiền, báo tôi. Nhưng đừng để chậm tiến độ."
-
-Hưng gật đầu. Ông ta biết Hùng không bao giờ yêu cầu điều không thể.
-
 ---
 
 Tuần thứ hai: Klaus đích thân huấn luyện công nhân. Buổi sáng ở nhà máy Hải Phòng — buổi chiều bay ra Hà Nội bằng chuyến bay nội địa của Vietnam Airlines, máy bay Tupolev TU-134 cũ kỹ, ồn, nhưng đúng giờ. Ông ta không dùng PowerPoint dài dòng — chỉ đứng trước dây chuyền, chỉ tay vào từng khâu, nói bằng tiếng Anh, Thủy dịch từng câu.
@@ -206,14 +191,7 @@ Hùng cảm ơn bác Sơn. Những người như bác Sơn — làm lâu năm, c
 
 Ngồi trong văn phòng sau buổi họp, Hùng mở sổ, viết: *"Học được: văn hóa chất lượng không mua bằng tiền. Nó mua bằng thời gian sửa sai — và sẵn sàng sửa công khai. Chi phí hai tỷ. Nhưng nếu không làm, khi EU đóng cửa, tổn thất sẽ là hai trăm tỷ."*
 
-============================================================
-
-Sáng chủ nhật, Hùng gấp chăn màn, Minh lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Minh quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Minh. "Tặng em." Minh nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Minh hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
 
 Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
 
@@ -223,10 +201,11 @@ Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Minh đến ngồi bên 
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
 「Hệ thống — GHI NHẬN ch.212」
 Năm: 1998
 Tổng EXP: 40,736 (+238 nhịp này)
 Không gian kho: 13,657m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
 Ghi chú: Bắt đầu dự án nâng cấp chất lượng theo chuẩn EU — tư vấn Klaus Weber, phát hiện bảy lỗ hổng quy trình. Lô hàng lỗi đầu tiên → sửa hệ thống ghi chép ca. Chín mươi lăm đầu việc hoàn thành trong tuần.
-============================================================

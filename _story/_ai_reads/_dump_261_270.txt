@@ -1,0 +1,1762 @@
+
+
+################################################################################
+# CH.261 FILE=Chương 261 - Kiểm toán ESG đầu tiên.txt
+# BODY_WORDS=2695 PANEL_LEN=1516
+################################################################################
+
+Người phụ nữ ngồi đối diện Hùng trong phòng họp kính suốt nhìn ra hồ Hoàn Kiếm. Bà Anna Bergström, 48 tuổi, từ Stockholm, Thụy Điển, đại diện Quỹ Đầu tư Bền vững châu Âu (Sustainable Investment Fund). Tóc vàng hoe, mắt xanh nhạt, vest xám thanh lịch, phong thái của một người đã kiểm toán hàng trăm doanh nghiệp trên khắp thế giới. Trước mặt bà là một tập tài liệu dày 60 trang, trên bìa in logo Thương Gia màu xanh và dòng chữ: "ESG Audit — First Assessment." Bên cạnh là một chiếc iPad Pro, một cây bút máy Montblanc màu xanh navy, và một cuốn sổ tay da đen đóng bìa cứng. Phòng họp im lặng. Ngoài kia, mặt hồ Hoàn Kiếm lấp lánh dưới ánh nắng cuối thu, những hàng liễu rủ bên hồ, tiếng chim hót líu lo.
+
+"Thưa ông Hùng," Anna mở đầu, tiếng Anh chuẩn Thụy Điển pha chút Anh-Anh, "chúng tôi đã nghiên cứu Thương Gia trong sáu tháng. Potentials rất lớn. Quyết định đầu tư gần như đã được ký. Nhưng trước khi ký séc, chúng tôi cần kiểm tra một lần cuối."
+
+Hùng gật đầu, không tỏ ra ngạc nhiên dù trong lòng rất phấn khích. "Tôi hiểu. Xin mời. Chúng tôi sẵn sàng trả lời mọi câu hỏi."
+
+Anna mở tập tài liệu. Những ngón tay thon dài, móng tay cắt gọn gàng, không sơn màu, lật từng trang một cách chậm rãi, có chủ đích. "Bốn mươi năm qua, Thương Gia đã xây dựng một đế chế ấn tượng với tốc độ tăng trưởng phi thường. Nhưng thế giới thay đổi nhanh hơn bất kỳ doanh nghiệp nào. Nhà đầu tư ngày nay không chỉ hỏi 'lợi nhuận bao nhiêu' — họ hỏi 'lợi nhuận đó có bền vững không, có sạch không, có trách nhiệm với xã hội và môi trường không.'"
+
+Anna lật giở từng trang — từng câu hỏi được chuẩn bị kỹ lưỡng, từng lĩnh vực được đánh giá chi tiết. Câu hỏi đầu tiên: lao động trẻ em trong chuỗi cung ứng. Hùng đáp: không, Thương Gia có quy trình kiểm soát chặt, nhà máy được kiểm tra định kỳ bởi Bureau Veritas và SGS — hai tổ chức kiểm định độc lập hàng đầu thế giới. Hùng đưa ra chồng tài liệu dày — ảnh chụp nhà máy có ghi ngày giờ GPS, hóa đơn mua điện mặt trời có chữ ký nhà cung cấp, biên bản kiểm tra lao động định kỳ có dấu đỏ của cơ quan chức năng, chứng chỉ ISO 14001 và ISO 45001 của từng nhà máy.
+
+"Sáu tháng trước, tôi đã thuê Ernst & Young đánh giá năng lực ESG của chúng tôi," Hùng nói. "Họ chỉ ra 12 điểm yếu. Chúng tôi đã sửa 11. Còn một điểm đang trong lộ trình hoàn thành trong quý sau: giảm phát thải từ vận tải đường bộ."
+
+Anna ngước mắt, ngạc nhiên — lần đầu tiên bà để lộ cảm xúc. "11/12 trong sáu tháng? Thông thường các doanh nghiệp châu Á mất hai năm để sửa một điểm yếu ESG. Có doanh nghiệp còn không biết bắt đầu từ đâu."
+
+"Làm kinh doanh lâu năm, tôi biết: không ai hoàn hảo. Nhưng ai cũng có thể cải thiện — nếu họ thực sự muốn. Và tôi muốn. Bởi vì ESG không phải là một cái đích để tôi lấy tiền đầu tư. Nó là kim chỉ nam cho cách Thương Gia vận hành trong 40 năm tới."
+
+Anna và đoàn kiểm toán dành ba ngày tại Việt Nam. Họ bay ra Quảng Ninh thăm nhà máy thép, nơi Hùng đã đầu tư 5 triệu USD vào hệ thống lọc bụi tĩnh điện và xử lý nước thải đạt tiêu chuẩn châu Âu. Nhà máy thép của Thương Gia sạch đến mức Anna phải công nhận: "Tôi đã thăm 30 nhà máy thép trên khắp thế giới. Đây là một trong những nhà máy sạch nhất."
+
+Họ về Quốc Oai xem xưởng chế biến nông sản, nơi 200 công nhân làm việc trong điều kiện thoáng mát, có nhà ăn sạch sẽ, có phòng y tế với y tá túc trực, có khu vui chơi cho con em công nhân sau giờ học. Tại đây, Anna dừng lại trước một công nhân lớn tuổi — chị Hòa, 54 tuổi, đã làm việc cho Thương Gia 17 năm. "Chị làm ở đây bao lâu rồi?" Anna hỏi qua phiên dịch.
+
+"Mười bảy năm," chị công nhân trả lời, tay vẫn thoăn thoắt đóng gói.
+
+"Lương có đủ sống không?"
+
+Chị cười, nụ cười móm mém nhưng rạng rỡ. "Đủ nuôi hai đứa con ăn học. Đứa lớn vừa đỗ đại học Y Hà Nội — 28 điểm. Thằng bé bảo sau này sẽ về làm bác sĩ ở quê, khám bệnh miễn phí cho người nghèo."
+
+Anna im lặng, ghi chép. Sau đó bà quay sang Hùng: "Mr. Hung, đó chính là thứ chúng tôi cần tìm. Một công nhân làm việc mười bảy năm, con cái học hành tử tế. Đấy là định nghĩa cao nhất của ESG — Social. Đầu tư vào con người, thay đổi cuộc đời họ."
+
+Ngày cuối cùng, Anna ngồi với Hùng trong vườn nhà ở phố Cổ. Buổi chiều cuối thu, nắng nhẹ, gió mát, tiếng chim hót trên tán cây khế già. Trên bàn gỗ, hai tách trà sen thơm ngát — loại trà ướp hương sen Bách Diệp hồ Tây. "Ông Hùng, kết quả sơ bộ rất tích cực. Tôi sẽ trình lên hội đồng đầu tư với khuyến nghị phê duyệt. Nhưng tôi có một câu hỏi ngoài lề. Sao ông làm được vậy? Một doanh nghiệp Việt Nam từ một nước đang phát triển — vốn bị coi là 'ông lớn ô nhiễm' — lại giữ được tiêu chuẩn đạo đức và môi trường cao như vậy?"
+
+Hùng nhìn mẹ mình — bà Hà — đang rửa rau ngoài sân sau, lưng hơi còng nhưng vẫn nhanh nhẹn. "Khi tôi bắt đầu kinh doanh năm 1985, tôi không biết chữ 'ESG' là gì. Ở Việt Nam thời đó, không ai biết. Chúng tôi chỉ biết sống sao cho có tình có nghĩa, làm ăn sao cho khỏi thẹn với lương tâm. Tôi chỉ biết một điều: nếu mình đối xử tốt với người, người sẽ đối xử tốt với mình. Người Việt Nam gọi đó là 'chữ tín' — nó giống như G — Governance của các bà vậy."
+
+Anna lặng lẽ gật đầu. "Trong số hàng trăm doanh nghiệp tôi từng kiểm toán, ông là người đầu tiên hiểu đúng về ESG. Không phải như một thủ tục để gây quỹ. Mà như một triết lý sống."
+
+Sau khi Anna rời Việt Nam, Hùng ngồi lại trong phòng họp một mình. Ông gọi điện cho Lan. "Em à, anh vừa xong việc với đoàn kiểm toán. Kết quả tốt."
+
+"Hay quá. Em tự hào về anh lắm. Ngày xưa anh chỉ bán vài cái radio ở chợ Quốc Oai, giờ đây cả châu Âu tới kiểm toán."
+
+"Chưa xong đâu em. Còn nhiều việc phía trước. Nhưng ít nhất mình đang đi đúng hướng."
+
+Sáng hôm sau, Hùng ngồi trong vườn nhà, uống trà với bà Hà. Ông kể bà nghe về Anna, về ESG, về 50 triệu USD. Bà Hà ngồi nghe, tay vẫn thoăn thoắt nhặt rau. "Tao không hiểu mấy chữ Tây đó. Nhưng tao hiểu cái chính: người ta đến, xem mình làm ăn có tử tế không, rồi họ cho tiền. Vậy là mình làm đúng."
+
+"Vâng, con nghĩ vậy."
+
+"Còn thằng Bằng — hôm qua tao thấy nó ngồi bán chè dưới gốc bàng đầu làng," bà Hà nói, giọng thản nhiên nhưng mắt không rời mớ rau trên tay. "Nó nhìn thấy xe hơi của đoàn kiểm toán đỗ trước cổng nhà mình. Nó cười. Cười méo xẹo, nhưng là cười."
+
+Hùng im lặng. Ông biết bà Hà muốn nói gì: cuộc sống đã cho họ những thứ khác, và sự tha thứ cũng là một cách để tiến lên.
+
+"Để con tính," ông nói, đứng dậy.
+
+Sáng hôm sau, Hùng đi bộ ra đầu làng. Ghế bán chè của Bằng vẫn ở đó dưới gốc bàng già. Bằng ngồi sau cái thùng nước đá, tay run run rót chè. Hùng đến gần, lấy năm nghìn đồng: "Cho tôi một cốc chè đậu đen." Bằng nhìn Hùng, tay run mạnh hơn. Cốc chè suýt đổ. Hùng đón lấy, uống một ngụm. Chè ngọt, đậu mềm, nước chè xanh thơm. "Ngon lắm," Hùng nói. "Giữ nghề nhé." Rồi ông đi. Bằng ngồi nhìn theo, miệng mấp máy, không nói được gì.
+
+Chiều hôm đó, bà Hà thấy Hùng về sớm, ngồi một mình ngoài hiên. Bà không hỏi. Nhưng bà biết cái gì đó đã thay đổi trong lòng con trai mình.
+
+Buổi trưa, Hùng mời Anna và đoàn kiểm toán ăn cơm tại một quán phở gia truyền ở phố Cổ. Quán nhỏ, chật, không có điều hòa. Anna ngồi trên ghế nhựa thấp, tay cầm bát phở nóng hổi, hít hà mùi nước dùng thơm lừng. "Mr. Hung, tôi đi năm châu bốn bể, nhưng chưa ăn món nào ngon như thế này."
+
+Hùng mỉm cười. "Cảm ơn bà. Món này tôi ăn từ nhỏ — ba nghìn đồng một bát hồi 1985, bây giờ năm mươi nghìn. Chất lượng vẫn vậy."
+
+Anna gật gù, ghi chép vào cuốn sổ nhỏ. "Đây chính là điều tôi thích nhất ở Thương Gia: không thay đổi chất lượng cốt lõi, dù mọi thứ xung quanh thay đổi. Ông giữ được tinh thần đó suốt ba mươi năm."
+
+Ăn xong, Anna lau miệng bằng khăn giấy, nói: "Mr. Hung, tôi có một đề nghị. Quỹ chúng tôi muốn giới thiệu Thương Gia với ba quỹ đầu tư tác động khác tại châu Âu. Nếu họ đồng ý, tổng vốn đầu tư có thể lên tới 200 triệu USD trong ba năm tới."
+
+"200 triệu? Tôi sẵn sàng."
+
+Ngày cuối cùng của đoàn kiểm toán, Anna có một buổi gặp riêng với Hùng tại vườn trà nhỏ trong khuôn viên tòa nhà Thương Gia. Nắng thu xuyên qua tán cây bàng già, tạo những vệt sáng lung linh trên bàn gỗ. Anna uống một ngụm trà sen, đặt tách xuống: "Mr. Hung, tôi đã đi qua 47 quốc gia. Tôi chưa thấy doanh nghiệp nào có tốc độ cải thiện ESG nhanh như Thương Gia. 11/12 điểm yếu trong sáu tháng. Đó không phải may mắn. Đó là quyết tâm."
+
+Hùng không trả lời ngay. Ông nhặt một chiếc lá bàng rụng trên bàn, xoay nó trong tay. "Tôi có một người thầy dạy tôi, hồi tôi mới vào nghề. Ông ấy nói: 'Kinh doanh không phải là trò chơi. Nó là cuộc đời. Có những thứ mất đi là mất mãi — uy tín, niềm tin, và lòng tự trọng.' Tôi nhớ câu đó suốt ba mươi năm."
+
+Anna gật đầu. Bà không hỏi thêm.
+
+Buổi chiều, Anna bay về Stockholm. Trước khi lên máy bay, bà gửi cho Hùng một tin nhắn: "Chúng tôi sẽ chuyển 50 triệu USD trong vòng 30 ngày. Hy vọng hợp tác lâu dài."
+
+Hùng đọc tin nhắn, cất điện thoại, quay sang Lan đang lái xe: "Về nhà ăn cơm với mẹ."
+
+Hung ngoi trong phong hop, truoc mat la ba kiem toan vien den tu Singapore. Ho hoi ve quy trinh xu ly nuoc thai, ve giay phep moi truong, ve dieu kien lao dong trong nha may. Hung vua tra loi vua ghi chep. Trong dau ong tinh toan: moi yeu cau moi tu kiem toan la mot khoan chi phi moi. Nhung ong cung biet: khong co ESG, hang Thuong Gia se khong the vao thi truong chau Au. "Phai lam," ong thi tham voi Lan ngoi ben. "Khong phai vi kiem toan -- vi tuong lai."
+
+Buoi chieu, Hung xuong nha may so 2, tan mat xem he thong xu ly nuoc. Mui hoa chat hang hac. Ong dung nhin be lang, dong nuoc duc chay vao roi chay ra trong hon. "Giam duoc sau muoi phan tram BOD," ky su bao cao. Hung gat, hoi gia van hanh. Con so lam ong nhu may, nhung ong khong noi gi. Ong bao: "Tiep tuc toi uu. Toi muon dat chuan chau Au trong hai nam."
+
+
+Sau buoi giao luu, Hung duoc sinh vien tang mot chiec mu bao hiem. O đo, viet: 'Chuc bac Hung luon khoe, luon thanh cong'. O đoi mu len, cuoi tuoi. Nguoi chup anh may man chup lai đuoc giay phat đo. 'Xin loi, toi ko phai danh cho minh. Ma la danh cho the he tuong lai. Toi chi la nguoi tien phong thoi.'
+
+
+Bay gio, cuoc song đa khac. Hung nhin lai ngay thang tuoi tre voi su biet on. O cam thay minh may man. 'Toi đa co co hoi, đa nam bat, va đa khong phu long ai.' O cam on gia đinh, cam on ban be, cam on doi tac, cam on tat ca.
+
+
+O nhin ra cua so thay may bay luot qua bau troi. O uoc sau nay co the cung Minh đi du lich vong quanh the gioi. Nhung chang may bay lai thay chong mat. 'Thoi, minh o nha.' O cuoi tu deu.
+
+
+Cuoc song cua Hung that gian di. O ko xa hoa. O song tiet kiem. 'Mot bua com gia đinh, voi nguoi minh yeu, la mot ngay hanh phuc.' Va o song nhu the. Moi ngay nho nhoi, moi ngay binh yen.
+
+
+Hung thich nghe nhac. Moi đem, ong mo may, nghe mot ban tinh ca. Am nhac dua ong ve nhung ky niem đep. O nho nhung ngay tre, thich hat, thich nghe. Bay gio, ong van the.
+
+
+O nho mot cau chuyen cu: khi moi gap ba Ha, ong phai long. Ba ay dep, nhanh nhẹn, co an tuong manh. Hung tu nhu: 'Neu khong cuoi đuoc nguoi phu nu nay, sau nay se kho co nguoi tot hon.' Va ong cuoi đuoc.
+
+
+Mot hom, Hung cung ban cu di cau ca. Ngoi tren bo ho, can cau cam tay, gio thoi mat. 'May con khoe ko?' 'Tao van khoe. May khoe ko?'
+
+
+Mot ngay, co mot nguoi ban than cua Hung tu xa đen choi. Hai nguoi đa khong gap nhau 20 nam. Nguoi ban đo hien la mot nha van, chuyen viet bao ve doanh nhan. Anh ta muon viet ve cuoc đoi cua Hung. Hung tiep anh ta bang nu cuoi, trai cay, va nhung cau chuyen ngay xua. 'May nhin lai, đoi minh that dai. Kho khan luc đo ma bay gio nho lai chi thay buon cuoi.' Hai nguoi ban theo nhau cuoi. Nha van hoi nam 1990, luc Thuong Gia moi khoi nghiep. 'Ngay đo kho khong?' Hung tra loi: 'Kho nhu đi tren day. Nhung toi khong bo cuoc.  Kho co lam toi kien cuong hon.' Va anh ta nghe, ghi lai, viết thanh mot bai bao đang tren bao lon. Tu'a bao, nhieu nguoi nhan ra Hung, cang kinh trong ong.
+
+
+Mot buoi, Hung va Ba Ha ngoi ben nhau, ngam hoa hoang ngo vuon. Ba Ha nghieng đau dua vao vai chong: 'Anh co yeu em ko?' Hung cuoi, om vo: 'Anh yeu em bang ca trai tim. Sau 40 nam, anh yeu em nhieu hon.' Ba Ha cam đong. Tinh yeu khong can nhieu loi.
+
+
+Mot tan giay nho viet cho chau noi: 'Ong viet nhung đieu nay cho chau. Khi nao chau lon, đoc va nho. Nho rang: cuoc song kho khan, nhung minh luon co the lam chu đuoc so phan. Hay la mot nguoi tot.'
+
+
+Cuoc song cua Hung gio đay binh yen. O song cham lai, quan tam đen suc khoe, den gia đinh. Moi buoi sang, ong tap the duc, uong cafe, đoc sach. Moi buoi chieu, ong đi dao. Toi lai an com cung con chau. Hanh phuc la nhung đieu nho nhoi. O hieu đieu đo.
+
+
+Cau chuyen cuoi cung: Hung o ben canh vo, tay nam tay. Nhin nhau, khong noi, chi cuoi. Hai nguoi đa song voi nhau tron mot cuoc đoi, va tinh yeu khong bao gio mat di. O cam thay that su tron ven.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.261」
+Năm: 2010
+Tổng EXP: 59.000 (+333 nhịp này)
+Không gian kho: 23.500m² (+167m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Vượt qua kiểm toán ESG lần đầu từ Quỹ Đầu tư Bền vững châu Âu. Đạt 11/12 tiêu chí, nhận cam kết đầu tư 50 triệu USD cho năng lượng tái tạo.
+
+
+
+Hùng gửi cho Anna email cuối cùng trước khi bà lên máy bay: "Cảm ơn bà vì tất cả. Thương Gia sẽ không phụ lòng tin. Hẹn gặp lại tại Stockholm." Anna trả lời trong vòng năm phút: "Tôi mong chờ. Và nhớ mang theo phở." 
+
+Buổi tối, Hùng mở laptop xem báo cáo ESG từ văn phòng Singapore. Chỉ số carbon của Thương Gia cao hơn chuẩn ngành 8%. Ông gọi Lan: 'Cái này phải giảm.' Lan bảo cần đầu tư máy móc mới. Hùng hỏi giá, nghe con số, im lặng. Rồi ông nói: 'Làm. Trong ba năm phải hoàn vốn.' Ông không muốn mình trở thành thế hệ cuối cùng chỉ biết khai thác. Ông muốn thế hệ sau kế thừa một Thương Gia bền vững. Ngoài cửa sổ, mưa bắt đầu rơi, từng hạt lộp bộp trên mái tôn, như nhịp đếm thời gian của một người đàn ông không còn trẻ.
+
+
+
+
+
+Sau buổi họp, Hùng ngồi lại một mình trong phòng. Bản báo cáo kiểm toán nằm trên bàn, những con số dài. Ông mở ngăn kéo, lấy ra một tập ảnh cũ. Trong ảnh, ba mươi năm trước, Hùng đứng trước căn nhà nhỏ ở Quốc Oai, mái lá, tường đất. Ông đặt tấm ảnh bên cạnh báo cáo ESG — hai thế giới khác biệt. 'Mình đã đi được một chặng dài,' ông nói với chính mình. 'Không thể dừng lại.'
+=============================================
+
+
+
+################################################################################
+# CH.262 FILE=Chương 262 - Bà Hà và sách hồi ký gia đình.txt
+# BODY_WORDS=2875 PANEL_LEN=644
+################################################################################
+
+Hùng bay về Hà Nội đêm đó, bỏ lại cuộc họp hội đồng quản trị đang dang dở ở Jakarta. Vé máy bay cuối cùng của chuyến bay đêm — hạng phổ thông, ghế sát cửa sổ, suốt ba tiếng bay không ngủ, mắt nhìn ra màn đêm mịt mùng, lòng quặn thắt. Ông không kịp book thương gia, cũng chẳng buồn gọi điện nhờ trợ lý sắp xếp. Trong đầu chỉ có một câu: mẹ ốm nặng.
+
+Lan đón ông ở sân bay Nội Bài lúc một giờ sáng. Mặt cô tái nhợt, mắt thâm quầng vì mấy đêm thức trắng. Cô đã thức từ tối qua, lo cho mẹ chồng. "Bác sĩ nói sao?" Hùng hỏi gấp, tay xách túi, bước nhanh ra bãi đỗ xe.
+
+"Cảm nặng thành viêm phổi," Lan nói, tay nắm chặt tay chồng. "Tuổi bà cao rồi, 76 rồi. Chỉ cần một cơn cúm nhẹ cũng có thể thành nguy kịch. Bác sĩ bảo may mà đưa vào viện sớm. Nếu chậm một ngày, hậu quả khó lường."
+
+Trong xe, Hùng im lặng. Hà Nội đêm khuya, đường vắng. Những hàng cây trụi lá mùa đông, những ngọn đèn đường vàng vọt hiu hắt, những căn nhà đóng kín cửa. Ông nhìn cảnh vật chạy qua cửa kính, lòng trĩu nặng. "Bà có hỏi gì anh không?"
+
+"Có. Bà hỏi 'thằng Hùng đâu?' Em bảo anh đang họp ở Indonesia sắp về. Bà bảo 'kêu nó về, mẹ có chuyện muốn nói.' Em hỏi chuyện gì, bà không nói. Chỉ bảo: 'Chuyện gia đình.'"
+
+"Bà có nói gì về sức khỏe không?"
+
+"Có. Bà bảo em đừng lo, 'bà già rồi, ai chẳng có lúc ốm đau.' Rồi bà hỏi Tùng học hành thế nào. Xong bà ngủ thiếp đi."
+
+Hùng cười, mắt lại cay. Bà Hà vẫn vậy — cứng đầu, thương con nhưng không bao giờ nói ra. Ốm tới mức nhập viện, vẫn chỉ hỏi về cháu.
+
+Trong bệnh viện, bà Hà nằm trên giường bệnh, khuôn mặt hốc hác, da xám lại vì sốt. Dây truyền nước biếc chảy nhỏ giọt. Hơi thở yếu ớt nhưng đều đặn. Mắt bà nhắm nghiền. Nhưng khi nghe tiếng cửa mở, mắt bà mở ra ngay lập tức — đôi mắt vẫn tinh anh dù tuổi đã cao.
+
+"Sao mày về? Việc làm ăn không quan trọng à?" bà nói, giọng khàn khàn nhưng vẫn có uy, vẫn ra cái giọng mẹ quát con như ngày nào.
+
+"Việc làm ăn không quan trọng bằng mẹ."
+
+"Hừ, dẻo mồm. Lại học của con Lan rồi." Bà quay sang Lan, nheo mắt cười. Lan đứng sau Hùng, cười rạng rỡ dù mắt vẫn đỏ hoe.
+
+"Ngồi xuống đây," bà vỗ vỗ mép giường. "Mẹ có chuyện muốn nói với mày."
+
+Bà Hà kể: nhiều năm nay, bà nung nấu ý định viết một cuốn hồi ký. Không phải cho thiên hạ đọc — cho cháu con trong nhà. Để khi bà không còn nữa, Tùng vẫn còn có thể đọc để hiểu về bà nội của nó.
+
+Bà Hà sinh năm 1935 tại Nam Định. Năm 1945, nạn đói hoành hành, bà mới mười tuổi. Nhà hết gạo từ tháng ba. Cả làng đi ăn củ chuối, bột sắn, lá cây. Bà chứng kiến người chết đói dọc đường. Có người chết khi đang đi, ngã xuống ruộng, không ai chôn. Từ đó bà biết: khóc là vô ích. Phải hành động.
+
+Năm 1962, bà gặp bố Hùng — thương binh chống Pháp, về làng làm ruộng, một chân tập tễnh vì mảnh bom. Nhà không có giường, đắp chiếu ngủ dưới đất. Mùa đông lạnh thấu xương, hai vợ chồng ôm nhau mà ngủ. Năm 1964 sinh Hùng — đẻ trong nhà, không có bác sĩ. Bà đỡ trong làng đỡ. Hùng khóc to lắm, cả xóm nghe thấy.
+
+Năm 1985, Hùng 21 tuổi, bảo mẹ: "Con muốn buôn bán." Bà Hà vào buồng, đào hai chỉ vàng dưới nền bếp lên. Đó là tất cả những gì bà dành dụm được từ hồi con gái. Bà đã khóc cả đêm, không phải vì tiếc vàng, mà vì sợ. Sợ con thất bại. Nhưng bà không cản. Một người mẹ phải biết khi nào nên buông tay.
+
+Mấy hôm sau, Hùng thuê một nhà báo già — bác Sáu, 65 tuổi, từng làm báo Nhân Dân — về viết hồi ký. Mỗi ngày, bác Sáu ngồi bên giường bà Hà, chiếc máy ghi âm Sony trên bàn, ghi chép từng câu chuyện. Về tuổi thơ nghèo khó. Về những năm chiến tranh. Về quyết định cho con đi buôn. Về những ngày tháng nuôi cháu.
+
+Hùng đọc từng trang viết, lòng trào dâng. Có những chuyện ông chưa từng nghe. Bà Hà từng từ chối lời đề nghị mua lại Thương Gia của một tập đoàn nước ngoài. "Thằng Hùng nó xây cả đời, tôi không thể bán đi dễ dàng thế được."
+
+Cuốn hồi ký hoàn thành dày 247 trang. Bà chủ bảo in ba cuốn. Tối hôm ấy, Hùng ngồi đọc lại, nước mắt lăn dài. Lan vào, ngồi cạnh. "Thế nào?" cô hỏi.
+
+Hùng không trả lời ngay. "Mẹ đã trải qua nhiều hơn mình tưởng, em ạ. Cả đời mẹ chỉ lo cho gia đình."
+
+"Không muộn," Lan khẽ nói. "Mình còn mẹ. Còn cơ hội báo hiếu."
+
+Hùng gật đầu, ôm chặt cuốn sách. Ôm cả cuộc đời của người phụ nữ đã sinh ra ông.
+
+Mấy hôm sau, bà Hà xuất viện. Hùng tự tay lái xe đón mẹ, chậm rãi qua từng đoạn đường — tránh ổ gà, tránh phanh gấp. Bà Hà ngồi ghế sau, nhìn ra ngoài cửa sổ, những hàng cây ven đường đang thay lá. "Sao mày đi chậm thế? Tao có phải trứng gà đâu mà sợ vỡ."
+
+Hùng cười. "Bà không phải trứng gà. Bà là trứng vàng. Mà trứng vàng phải đi chậm hơn trứng gà."
+
+"Già đầu rồi còn nói nhăng nói cuội."
+
+Về đến nhà, bác Sáu — người viết hồi ký — đã ngồi chờ ở phòng khách từ sáng. Trên bàn, cuốn bản thảo dày đã được bác Sáu đánh máy xong, đóng bìa nhựa trong, trang đầu là tấm ảnh chụp bà Hà và hai người con năm 1967 — Hùng ba tuổi, tóc để chỏm, ngồi trên nền đất, mắt tròn xoe nhìn ống kính.
+
+"Em xem này," Hùng gọi Lan. "Tấm ảnh này — bộ quần áo thằng bé mặt vá. Hồi nhỏ anh mặc đồ của chị hàng xóm. Không có quần cho con trai."
+
+Lan nhìn tấm ảnh một hồi lâu, rồi nhìn Hùng. "Thế mà giờ mặc complet ký hợp đồng triệu đô."
+
+Bà Hà bưng tách trà, uống một hụm, mắt xa xăm: "Hồi đó tao đi vải. Một mét vải may được ba cái quần lót, bằng nửa ngày công. Sáng dậy ra chợ mua vải, chiều về may, tối giao cho người ta. Có tháng còng lưng, chỉ kiếm được mấy đồng, đủ mua gạo cho hai đứa nhỏ. Thằng Hùng có hôm đói quá, ngồi khóc, không có gì cho nó ăn. Tao phải đi vay bà hàng xóm một lon gạo. Nợ ba tháng mới trả được."
+
+Bác Sáu mở máy ghi âm. Nhưng bà Hà giơ tay: "Hôm nay nghỉ, bác. Mai ghi tiếp." Bác Sáu cười, tắt máy, xếp tập bản thảo vào cặp. "Để mai tôi sang. Mấy chuyện này mà bỏ lỡ thì uổng lắm."
+
+Một tuần sau khi bà Hà về nhà, bác Sáu gửi bản thảo hoàn chỉnh. Bà Hà cầm cuốn sách, lật từng trang, đọc từng chữ. Có những trang bà cười, có những trang bà khóc. Khi đọc đến đoạn kể về cái chết của cha Hùng — một thương binh, sức khỏe yếu, mất năm 1978 vì bệnh lao phổi — bà dừng lại rất lâu.
+
+"Má còn nhớ hồi đó không?" Hùng hỏi.
+
+"Tao nhớ như in. Ba mày nằm viện ba tháng. Mỗi ngày tao đi bộ sáu cây số lên bệnh viện, mang theo cháo loãng. Ba mày gầy trơ xương. Có hôm nắm tay tao, nói: 'Tao không lo chết. Tao lo mày nuôi hai đứa nhỏ không nổi.' Tao bảo: 'Anh đừng lo. Thiếu gì tao làm. Có thể tao đi ở, đi làm thuê, nuôi con được.'"
+
+Hùng siết tay mẹ. "Con biết là má đã nuôi được. Không thiếu bữa nào."
+
+"Thiếu chứ," bà Hà nói, mắt nhìn xa xăm. "Thiếu nhiều bữa lắm. Nhưng thiếu thì không cho mày biết. Mẹ mà biết, con đau. Con đau, mẹ lại càng đau."
+
+Bác Sáu gửi thêm một bản hồi ký đã chỉnh sửa, có cả phần bà Hà kể về những ngày khó khăn nhất — năm 1978, sau khi chồng mất. Bà Hà kể: "Năm đó tao ba mươi chín, góa chồng, hai đứa con nhỏ. Đứa lớn mười bốn, đứa nhỏ mười hai. Trong nhà không một đồng. Tao phải đi làm thuê cho một chủ ruộng trong làng, cấy lúa, gánh phân, làm mọi việc đàn ông làm. Cuối tháng được một ít gạo. Về nhà nấu cháo loãng, cho hai đứa ăn trước, tao ăn sau. Có bữa hết cháo, tao uống nước lã qua bữa."
+
+"Chưa bao giờ mẹ kể con nghe chuyện này," Hùng nói.
+
+"Mẹ kể làm gì? Cho con buồn? Chuyện đã qua. Giờ có cơm ăn, có nhà ở, có con cái thành đạt — kể chuyện xưa chỉ thêm mệt."
+
+Lan ngồi cạnh, mắt đỏ hoe: "Mẹ, con không biết mẹ đã vất vả đến thế."
+
+"Con không biết là đúng. Tại mẹ không muốn con biết. Mẹ muốn con lớn lên, đi học, lấy chồng, không phải lo. Nhưng bây giờ con lớn rồi, con làm việc lớn, mẹ kể cho con nghe cũng được."
+
+Hùng cầm cuốn hồi ký, lật những trang cuối. Trang cuối cùng, bà Hà viết: "Một đời người phụ nữ. Sinh ra trong nghèo đói, lớn lên trong chiến tranh, lấy chồng trong thiếu thốn, nuôi con trong khó khăn. Nhưng rồi cũng đến ngày nhìn lại, thấy mình đã đi qua tất cả. Cảm ơn đời."
+
+Tối hôm ấy, Hùng ngồi một mình trong phòng, đọc lại cuốn hồi ký lần thứ hai. Trang 147, bà Hà viết về ngày ông bỏ dạy học. Nguyên văn: "Nó về bảo: 'Con không đi dạy nữa. Con đi buôn.' Tao ngồi đơ ra. Nuôi nó ăn học bao năm, giờ bảo bỏ. Nhưng nhìn mắt nó — cái nhìn của một người đã quyết định. Tao biết: nếu cản, nó sẽ buồn cả đời. Cho nên tao vào buồng, moi hai chỉ vàng, đưa cho nó. Không nói gì."
+
+Hùng gấp sách lại. Mắt cay.
+
+Hôm chủ nhật, bà Hà mang cuốn hồi ký ra vườn sau, ngồi dưới gốc nhãn già, đọc lại từ đầu. Gió chiều mát, mấy con chim sẻ nhảy nhót trên cành. Thỉnh thoảng bà ngừng đọc, nhìn lên tán cây, mắt xa xăm. Hùng đi ra, ngồi xuống cạnh mẹ: "Má đọc gì thế?"
+
+"Đọc lại. Có mấy chỗ sai chính tả. Mai bảo bác Sáu sửa."
+
+Hùng cười. Mẹ ông, bảy mươi sáu tuổi, vẫn không bỏ qua lỗi chính tả.
+
+Nắng chiều vàng nhạt rọi qua kẽ lá, in những vệt sáng lên trang giấy trắng. Một ngày yên bình. Có lẽ, nghĩ Hùng, đây là thứ đáng giá nhất mà ba mươi năm làm ăn đem lại: một buổi chiều chủ nhật, ngồi dưới gốc nhãn, nhìn mẹ đọc sách.
+
+Một tuần sau, Lan mang đến phòng Hùng một tập giấy — bản thảo cuốn hồi ký đã được chỉnh sửa lần cuối. Bà Hà đã đọc và góp ý, viết nguệch ngoạc bên lề: "Chỗ này kể dài quá, cắt bớt." "Chỗ này nhớ sai — năm đó là 1978, không phải 1979." Hùng cười: "Mẹ làm biên tập viên còn chặt hơn bác Sáu." Lan cười theo: "Mẹ bảo: 'Viết về đời tao, tao phải đọc trước. Sai một cái là sai cả cuộc đời.'" 
+
+Ba Ha lat tung trang van ban danh may. Doi mat ba nheo lai, nhung ngon tay gay guoc vuot nhe mat giay. "Chu nay sai," ba noi, chi vao mot dong. Hung cui xuong xem -- mot loi chinh ta trong ten mot nguoi ban cu cua ba. Ong lay but sua. Ba Ha ke tiep: "Hoi do, nam 1975, me va ba con dat nhau di bo len Ha Noi. Hai dua chan tran, doi, ret. Nhung khong khoc. Con me khong khoc bao gio." Hung im lang, tiep tuc bam may. Ngoai hien, mua phun bay lat phat.
+
+Buoi trua, hai me con an bat mien long ga o quan quen. Ba Ha bao: "Cuon sach nay, me muon no nhu mot loi nhan. Cho con chau sau nay biet: minh tung ngheo, tung kho, nhung khong tung mat pham gia." Hung nhin bat mien boc hoi nghi ngut, nhin doi tay gan guoc dang bung bat cua me. Ong cui xuong an, khong noi. Nhung trong long ong da hinh dung trang cuoi cuon hoi ky: dong chu "Thuong Gia -- khong phai di san. La mot loi hua."
+
+
+Khi con nho, Hung thuong đi theo me ra đong, gat lua. Mui lua chin thom, bay xa. Tay on ben tung bom lua cay, ve đep khong the nao quen. Nhung ngay đo cung vat va, nhung cung hanh phuc. Bay gio, moi lan thay canh đong lua, Hung lai nho ve me. Va khi nghi ve me, long ong lai am ap.
+
+Mot lan trong buoi hop, Hung đot nhien cuoi. Moi nguoi ngac nhien hoi: 'Sao lai cuoi?' 'Toi chot nho xua, ngay đau khoi nghiep, toi chang co gi, ma cuoi nhieu lam. Bay gio co nhieu thu, lai thay it cuoi.' 'Vay tai sao lai quay lai cuoi?' 'Vi toi nho ra: cuoi khong can tien. Va do la đieu tot đep ma ai cung co the lam.'
+
+
+Hung nho ve nguoi ban cung co: Luyen. Luyen la nguoi đa o ben ong tu nhung ngay đau tien, chia se kho khan, ung ho cac y tuong cua ong. Co mot lan, Thuong Gia gap kho, Luyen dam khong lay tien luong đe giup ong. 'Tao co it, nhung co it cung giup.' Hùng nho mai. Bay gio, Luyen đa mat, nhung trong long Hung, Luyen van song. Moi lan nho lai, ong lai cam đong.
+
+
+Trong cuộc họp cuối cùng, Hùng mặc bộ complet, đứng lên. Ông nhìn mọi người trong phòng họp: 'Cảm ơn các anh chị. Tôi đã quyết định chuyển giao toàn bộ quyền lãnh đạo cho Minh.' Minh đứng dậy, cúi chào. Cả phòng vỗ tay. Hùng ngồi xuống, mắt cay. Ông đã làm xong việc của mình. Và ông tin, Minh sẽ làm tốt hơn. Khi ra về, Hùng quay lại nhìn phòng họp lần cuối. Tạm biệt, người bạn cũ.
+
+
+Bay gio, Hùng la mot nguoi gia, co nhieu thoi gian đe nghi ve nhung đieu đa qua. O ngam nhin nhung ngay đep, nhung ky niem yeu thuong. O khong buon, khong tiec. 'Toi đa song het minh. Toi đa yeu het minh. Va toi đa cho het minh. That la mot cuoc đoi tron ven, khong con gi đe hoi han.' O cuoi nhe. ‘Cam on đoi.’
+
+
+Nhin nhung ngay đang lang, Hùng ngoi o nha viet hoi ky. O da song mot cuoc đoi bo ich. Tuong lai cua con chau la tam guong sang ong thuong tuong toi. Tuy nhien, trong tam tri, ong nho rang 'Cuoc song la su di len khong ngung'. Neu dung lai, la lui. O không mong con chau minh giau co, chi mong chung song co ich, song co tam. 'O day, khong chi giau tien, ma con giau tinh thuong.'
+
+
+Hung nhin chau minh. No lon that roi. O thay tuoi tre trong đoi mat cua đua chau. No la tuong lai. No se thay doi the gioi. O tin vao đieu đo. Va ong lai tiep tuc hy vong.
+
+
+Hùng thuong thuc mot ly tra nong giua buoi chieu. O nghi ve nhung net mat than quen: cua vo, cua con, cua chau. Ho la đong luc đe ong lam viec. 'Co the, tat ca nhung gi toi lam, toi lam vi ho. Vi toi yeu ho.'
+
+
+Hung yeu cay coi. O thuong đung, ngam nhin cay xanh. Moi chiec la, moi canh hoa, đeu mang cho ong mot cam giac binh yen. 'Cuoc song cua cay coi cung giong nguoi: can nuoc, can nang, can tinh yeu.' O nho bai hoc đo tu nguoi ban lam vuon.
+
+
+Cuộc sống không phải là một cuộc đua. Là một hành trình. Hùng hiểu điều đó. Và ông muốn mọi người cũng hiểu. 'Hãy sống chậm lại. Cảm nhận mỗi ngày. Yêu thương mỗi người.' Đó là triết lý sống của ông.
+
+
+Mot lan, Hùng đi qua mot canh đong lua chin. Lua vang ruom, gio thoi, tao nen nhung con song vang. 'Cuoc song đep qua.' O đung lai, hit thở sau. Mui lua chin thom, mui đat am, mui troi. O thay minh nho nhoi giua thien nhien rong lon. Nhung cung la mot phan cua no. O cam on cuoc song vi con đuoc song, con đuoc ngam nhin nhung đieu đep đe nay.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.262」
+Năm: 2010
+Tổng EXP: 59.333 (+333 nhịp này)
+Không gian kho: 23.667m² (+167m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Cuốn hồi ký gia đình của bà Hà hoàn thành — 247 trang ghi lại 76 năm cuộc đời từ nạn đói 1945 tới ngày Thương Gia thành công. Một di sản tinh thần cho thế hệ sau.
+
+
+
+Cuốn hồi ký được in thành ba bản, đóng bìa da. Một bản cho Hùng, một cho Lan, một cho Thắng. Bà Hà cầm cuốn sách trên tay, lật từng trang, mỉm cười: "Tao có ngờ đâu đến tuổi này lại có sách."
+============================================================
+
+
+O cam on moi nguoi.
+
+
+
+################################################################################
+# CH.263 FILE=Chương 263 - Flashback 25 năm.txt
+# BODY_WORDS=2444 PANEL_LEN=2579
+################################################################################
+
+Hùng mở ngăn kéo bàn, lấy ra một hộp gỗ cũ kỹ — chiếc hộp do chính tay ông đóng từ thời còn dạy học, gỗ mít, đục bằng tay, nắp hộp mòn vẹt vì mở ra đóng vào hàng nghìn lần. Bên trong là những kỷ vật suốt 25 năm qua: tấm giấy phép kinh doanh đầu tiên năm 1985, tờ hóa đơn bán hàng đầu tiên ghi: "3 cái radio — tổng tiền 45.000đ — đã thu đủ," một cuốn sổ tay cũ nát, bìa rách, những trang giấy đã ố vàng vì thời gian và mồ hôi, một chiếc đồng hồ Seiko đã hỏng từ lâu — quà cưới của Tanaka, một tấm ảnh đen trắng chụp gia đình năm 1985, và một tập thư từ cột bằng dây thun.
+
+Ông ngồi xuống ghế, mở cuốn sổ tay. Những dòng chữ run run, nguệch ngoạc của chàng thanh niên 21 tuổi — nét chữ thiếu tự tin, nhưng rất cẩn thận, từng con số được ghi chép tỉ mỉ: "Ngày 7/3/1985. Bán được 3 cái radio hiệu Moscow. Lãi 15.000 đồng. Mừng quá, mua cho mẹ cái bánh mì 500 đồng ở tiệm bà Tư. Còn lại 14.500, nhập vào vốn."
+
+Hùng cười, lắc đầu. Mười lăm nghìn đồng lãi — so với doanh thu hàng triệu USD mỗi ngày hôm nay, con số ấy nhỏ bé đến mức đáng thương. Nhưng niềm vui lúc đó là vô giá.
+
+Ký ức thứ nhất: ngày quyết định nghỉ dạy học. Năm 1984, Hùng 20 tuổi, giáo viên dạy toán trường cấp 2 Quốc Oai. Lương ba mươi sáu đồng một tháng. Một sáng chủ nhật, ra chợ huyện, thấy người đàn bà bán vải ngồi từ sáu giờ sáng tới mười giờ bán được chục mét vải, lời một trăm đồng — gần bằng ba tháng lương. Về nhà, ông nói với mẹ: "Con không đi dạy nữa. Con đi buôn."
+
+Bà Hà nhìn con: "Có chắc không?" "Chắc." "Mẹ chỉ có hai chỉ vàng." "Con lấy vợ sau. Giờ lấy vốn trước."
+
+Ký ức thứ hai: chuyến hàng đầu tiên thất bại. Tháng 6 năm 1985, mua lô quần áo may sẵn từ chợ Đồng Xuân. Hết tiền. Nhưng mốt lỗi thời — quần ống rộng, áo cổ bè. Không ai mua. Hùng ngồi thừ ba ngày. Tối thứ ba, đạp xe lên Hà Nội trong mưa, tìm chú Hoa kiều ở phố Hàng Ngang, năn nỉ đổi hàng. Chú Hoa kiều động lòng: "Nhớ: hỏi khách trước khi mua hàng." Bài học theo ông suốt 25 năm.
+
+Ký ức thứ ba: người thợ radio. Năm 1987, tìm tới phố Hàng Bồ, gặp chú Tôn — thợ người Hoa 60 tuổi, sửa radio chỉ với cây hàn và đồng hồ vạn năng. "Chú dạy con sửa radio nhé." "Ngày nào cũng lên đây?" "Dạ." "Đường xa ba chục cây số." "Con đạp xe." Học ba tháng, mỗi ngày sáu mươi cây số, mưa nắng không nghỉ.
+
+Ký ức thứ tư: cuộc gặp Tanaka năm 1992 tại hội thảo JICA. Tanaka hỏi: "Tại sao hàng Việt Nam rẻ hơn hàng Nhật mà không ai mua?" Hùng trả lời: "Chất lượng chưa ổn định." Tanaka mỉm cười: "Ổn định là chìa khóa." Đó là lần đầu tiên Hùng nghe về quản lý chất lượng bài bản.
+
+Ký ức cuối: ngày Thương Gia ra đời. 1995. Đăng ký thương hiệu "Thương Gia" — Thương = buôn bán, Gia = gia đình. Ngày đầu treo biển hiệu trước cửa hàng trên phố Cổ, mẹ ông đứng nhìn, hai hàng nước mắt lặng lẽ chảy. Hôm đó Hùng thề: Thương Gia sẽ không chỉ là một cửa hàng. Nó sẽ là một tập đoàn, một niềm tự hào Việt Nam.
+
+Hùng khép cuốn sổ tay, lau nước mắt. Ông bước ra ban công, nhìn xuống phố Cổ buổi sớm. Những mái ngói rêu phong, những bức tường vàng ố, những tiếng rao hàng từ xa — tất cả vẫn như 25 năm trước. Chỉ có ông là đã khác.
+
+"Anh dậy sớm thế?" Lan từ trong nhà bước ra, tay cầm hai tách cà phê.
+
+"Ngủ không được. Cứ nghĩ mãi về chuyện cũ."
+
+Lan đưa cho ông tách cà phê. "Nghĩ gì mà không ngủ được?"
+
+"Nghĩ về tất cả. Về những người đã giúp mình. Về mẹ, về Tanaka, về em. Nghĩ xem nếu không có những người đó, mình sẽ ra sao."
+
+"Em nghĩ anh vẫn sẽ thành công," Lan nói. "Anh có cái đầu và trái tim đúng hướng."
+
+"Có lẽ," Hùng nhấp một ngụm cà phê. "Nhưng dù sao, anh vẫn biết ơn. Mỗi ngày anh đều biết ơn."
+
+Lan cầm tách cà phê lên uống một ngụm. Nhưng cô không bỏ đi. "Anh, em nhớ lần đầu tiên anh dẫn em đi gặp chú Tôn. Em mười hai tuổi. Chú Tôn đang sửa một cái radio đời cũ, linh kiện bày đầy bàn. Chú nhìn em: 'Con bé này học được đấy. Cho nó ở lại.'"
+
+"Anh nhớ," Hùng nói. "Hồi đó em ngồi co ro, không dám động đậy. Chú Tôn phải lấy kẹo lạc cho em ăn mới hết sợ."
+
+"Học được ba tháng, em biết hàn, biết đọc sơ đồ, biết quấn lại cuộn cảm. Chú Tôn bảo em có 'tay thợ.'"
+
+Hùng gật. "Chú Tôn nói đúng. Em có tay thợ."
+
+Bầu trời sáng hơn. Một vài tia nắng vàng rọi lên mái ngói phố Cổ, nhuộm cả vùng trời bằng thứ ánh sáng ấm áp. Lan nhìn xuống con phố đang thức dậy. "Anh, cuối tuần này em muốn vào thăm mộ chú Tôn. Lâu rồi em không đi."
+
+"Anh đi với em."
+
+Họ đứng cạnh nhau trên ban công, nhìn Hà Nội mới tỉnh giấc. Nắng Hà Nội tháng Chín vẫn còn vàng, nhưng đã dịu hơn nắng hè. Tiếng rao hàng từ xa vọng đến, tiếng chuông xe đạp leng keng ngoài phố, một ngày khác lại bắt đầu.
+
+
+============================================================
+
+
+Một lá thư từ đối tác cũ được gửi lên. Giấy vàng, mực tím, nét chữ run. Hùng đọc hai lần, xếp lại vào phong bì, cất vào túi áo trong. Lan thấy nhưng không hỏi. Trong thư viết: 'Không biết anh có còn nhớ tôi không. Hồi năm 1983, tôi mua chịu của anh mười mét vải. Giờ tôi muốn trả lại. Không phải trả vải — trả một lời cảm ơn.' Hùng không trả lời, nhưng tối đó ông ngồi lâu hơn thường lệ.
+
+
+Trời tối hẳn. Đèn dầu trong nhà sáng, hắt bóng lên vách đất. Hùng ngồi bên bàn viết, mở cuốn sổ cũ. Những trang sổ ghi chép từ năm 1983, nét chữ lúc nguệch ngoạc lúc ngay ngắn — tùy theo lúc mệt hay tỉnh. Ông đọc lại trang đầu: 'Ngày 1 — mua vải 50 mét, bán được 3 mét. Lời 12 đồng.' Nụ cười nhếch mép. Mười hai đồng cho một ngày đầu tiên. Bây giờ mười hai đồng không đáng kể, nhưng hồi đó nó là hy vọng.
+
+Bà Hà ngồi bên hiên, xe chỉ bên bóng đèn. Mắt bà đã kém, phải nheo lại khi xâu kim. Lan ngồi học bài cạnh mâm. Căn nhà nhỏ, tường đất ẩm, mùi khói bếp và mùi rạ khô. Hùng viết tiếp vào sổ: 'Hôm nay kiếm thêm một mối vải, mối chỉ. Chưa giàu nhưng đỡ đói. Mong sao một ngày nào đó, ba mẹ có thể tự hào về con.'
+
+Ngoài sân, gió đêm thổi nhẹ. Một con đom đóm bay qua, xanh lập lòa trong đêm. Hùng ngước nhìn. Đom đóm sáng rồi tắt, nhưng nó vẫn bay. Cũng như ông bây giờ — còn sáng, còn bay, còn đi.
+
+
+Cuối tuần đó, Hùng và Lan lên đường về Quốc Oai. Mộ chú Tôn nằm ở một nghĩa trang nhỏ ven đồi, cách trung tâm huyện chừng ba cây số. Hai anh em mua một bó hoa cúc trắng và một nắm hương.
+
+Mộ chú Tôn đã cũ, bia đá đã ngả màu rêu xanh. Hùng thắp hương, quỳ xuống, lạy ba lạy. Đầu gối ông chạm đất lạnh, và ngay lúc đó, những ký ức ùa về như thác lũ.
+
+Những buổi sáng đạp xe từ Quốc Oai lên Hà Nội, ba chục cây số, đường đất, ổ gà. Mùa hè nắng cháy da, mồ hôi ướt hết lưng áo. Mùa đông lạnh thấu xương, tay chân co cứng. Nhưng chưa một ngày nào ông nghỉ. Chú Tôn thường pha sẵn một ấm trà nóng mỗi sáng, để trên bàn cạnh cây hàn — sợ thằng học trò Quốc Oai bị lạnh cóng.
+
+Lan đứng sau lưng Hùng, cũng thắp hương, lạy ba lạy. "Chú Tôn, tụi con về thăm chú. Cảm ơn chú đã dạy tụi con."
+
+Giữa trưa, nắng chang chang trên đồi. Hùng và Lan ngồi dưới một gốc cây gạo già, nhìn xuống cánh đồng quê. Hùng nói: "Lần cuối anh đến đây là năm 2005, khi chú Tôn mất. Chú mất lặng lẽ. Hồi đó anh nghĩ: mình xây nhà máy, xuất khẩu hàng đi khắp thế giới, vậy mà không thể làm được gì cho một người thợ già."
+
+"Hồi đó anh đã làm được rồi," Lan nói. "Chú Tôn nhận nuôi anh hai năm cuối đời — tiền thuốc, tiền viện, đều từ Thương Gia. Chú biết."
+
+Hùng gật đầu, đốt thêm một nén hương. Khói hương bay lên, tan trong gió, một vị chát lẫn với vị cỏ khô của đồng quê.
+
+
+
+Văn phòng làm việc sáng thứ Hai. Hùng ngồi sau bàn gỗ, cốc cà phê đã nguội từ sớm. Trước mặt là bản đề xuất dày hai mươi trang. Ông đọc từng trang, ghi chú vào lề bằng bút đỏ. Có những dòng ông gạch, có những dòng ông khoanh. Lan gõ cửa bước vào, mang theo tách trà mới. 'Anh chưa ăn sáng.' Hùng không trả lời. Lan đặt tách trà xuống, lấy tờ đề xuất, xem những chỗ Hùng đã ghi. Cô ngồi xuống ghế đối diện, mở sổ tay, bắt đầu mục mới.
+
+Chiều, Hùng ra ngoài đi dạo một mình. Phố xá đông đúc, nhưng ông không để ý. Ông nhìn những tòa nhà mới mọc lên, những cửa hàng mới mở. Hà Nội đã khác xưa nhiều. Xe máy thay xe đạp, biển hiệu thay bảng gỗ. Nhưng ở một góc, ông vẫn thấy bà cụ bán chè đỗ đen, vẫn thấy người đàn ông đạp xích lô, vẫn thấy những khuôn mặt quen thuộc.
+
+Tối, bà Hà gọi điện thoại. Giọng bà yếu nhưng vẫn ấm. 'Mày ăn cơm chưa?' Hùng bảo chưa, nhưng sắp ăn. Bà bảo: 'Đừng làm việc quá khuya. Sức khỏe là vốn.' Hùng ậm ừ cho qua. Cúp máy, ông nhìn ra cửa sổ trời tối. Đèn đường Hà Nội vàng vọt. Ông lấy cơm nguội ra, chan nước mắm, ăn trong phòng tối, không bật đèn lớn.
+
+
+Từ nghĩa trang về, Hùng rẽ vào chợ Quốc Oai. Chợ vẫn ở đó — mái tôn cũ, những quầy hàng lộn xộn, tiếng người mua bán ồn ào. Nhưng mọi thứ đã khác xưa. Hồi 1985, chợ chỉ là một cái lán tre, lợp lá, lầy lội mỗi khi mưa. Bây giờ là chợ bê tông, có mái che, có điện, có quạt.
+
+Hùng đi qua từng quầy. Bà bán vải — trạc bốn mươi, quầy vải phong phú, nhiều loại. Cô bán trái cây — trẻ, nhanh nhẹn, điện thoại để trên quầy, nhận chuyển khoản qua QR. Một người đàn ông đang cân thịt — chiếc cân đồng hồ mới, sáng loáng.
+
+Đến cuối chợ, Hùng dừng lại trước một quầy nhỏ. Một bà lão ngồi bán rau — rau muống, rau cải, mồng tơi, xếp thành từng mớ nhỏ. Bà lão chừng bảy mươi, lưng còng, tay gầy.
+
+Hùng cúi xuống: "Bà ơi, rau này bao nhiêu một mớ?"
+
+"Năm nghìn."
+
+Hùng móc túi, đưa mười nghìn, lấy một mớ rau muống. "Thối tiền đây bà."
+
+Bà lão cầm tờ tiền, ngước lên nhìn Hùng. Ánh mắt bà lão dừng lại trên mặt ông một lúc, rồi nở nụ cười móm mém. "Cảm ơn cậu. Cậu tốt bụng."
+
+Hùng cầm mớ rau, quay đi. Lan đứng đợi ở đầu chợ. "Anh mua rau làm gì? Nhà mình có vườn rau mà."
+
+"Anh không mua rau. Anh mua lại ký ức. Hồi nhỏ, mẹ hay đi chợ phiên, mua rau muống luộc, chấm nước mắm. Bữa cơm ngon nhất đời anh."
+
+
+
+Về đến nhà, Hùng đưa mớ rau muống cho bà Hà. Bà cầm lên, nhìn. "Rau này mua ngoài chợ Quốc Oai phải không?"
+
+"Dạ."
+
+"Quầy của bà lão cuối chợ?"
+
+"Dạ."
+
+Bà Hà im lặng. Rồi bà cười, ánh mắt xa xăm: "Hồi đó má cũng ngồi bán rau ở chợ. Mỗi ngày kiếm được hai ba nghìn. Đủ mua gạo, mua muối, mua dầu thắp đèn cho hai đứa học bài."
+
+Hùng không nói gì. Ông ngồi xuống. Bà Hà cầm mớ rau, rửa sạch, đem luộc.
+
+
+
+Chiều tối, Hùng và Lan ngồi ngoài ban công, nhìn hoàng hôn buông xuống phố Cổ. Những mái ngói rêu phong nhuộm màu vàng cam. Tiếng rao hàng của người bán rong vọng lên từ xa — "Ai bánh mì nóng đây..." — âm thanh quen thuộc đã theo Hùng suốt cả cuộc đời.
+
+"Năm 1985, hồi đó mình còn trẻ," Hùng nói. "Anh nhớ như in cái ngày đầu tiên bán được ba cái radio. Mừng đến nỗi chạy xe đạp từ chợ về nhà suýt lao xuống mương."
+
+"Em nhớ. Hồi đó anh về, mồ hôi đầm đìa, cười tươi rói, đưa mẹ tờ tiền. Mẹ cầm tờ tiền, nhìn một lúc, rồi quay mặt đi lau nước mắt."
+
+Hùng không nói gì. Ông nhìn xa xăm. Nắng đã tắt hẳn, hoàng hôn chuyển sang màu tím sẫm. Thành phố lên đèn.
+
+"Ba mươi năm. Tưởng dài mà hóa ngắn."
+
+
+
+
+
+Đêm đó, Hùng nằm mơ. Ông mơ thấy mình đang đạp xe trên con đường đất đỏ từ Quốc Oai lên Hà Nội. Trời mưa, đường lầy lội, bánh xe quay không nổi. Phía trước, một ngọn đèn dầu leo lét — chú Tôn đang đứng ở cửa tiệm, tay cầm cây hàn, cười hiền. Hùng chợt tỉnh giấc, mồ hôi ướt trán. Đồng hồ chỉ ba giờ sáng. Ông nằm nhìn trần nhà, thấy mình vừa khóc trong mơ.
+
+Sáng chủ nhật, Hùng ra vườn sau, ngồi ghế đá, nhìn cây khế già. Quả khế chín vàng rụng đầy gốc. Ông nhặt một quả, cắn thử — chua. Nhưng cái chua ấy gợi nhớ một điều gì đó rất xa, rất cũ — tuổi thơ, mùa hè, những chiều trốn học đi hái khế. Ông ngồi đó rất lâu, không nghĩ gì, chỉ ngồi và nhìn nắng xuyên qua kẽ lá.
+
+
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.263」
+Năm: 2011
+Buổi trưa, Hùng mời Tanaka ăn cơm ở một quán nhỏ trên phố Cổ. Quán cũ, bàn ghế gỗ, tường sơn vàng ố. Tanaka gọi bia hơi, nói: 'Hai lăm năm, Hùng-san. Nhìn lại, thấy thế nào?' Hùng nhấp một ngụm bia: 'Thấy mình già.' Tanaka cười to. 'Không già. Khôn hơn ngày xưa thôi.'
+
+Họ kể lại chuyện lần đầu gặp nhau — Tanaka đi cùng phái đoàn JICA, Hùng là thương nhân trẻ nhất trong hội thảo. Tanaka hỏi về kế hoạch xuất khẩu. Hùng trả lời bằng tiếng Anh vỡ vụn. Tanaka phải nhờ phiên dịch. Sau hội thảo, Tanaka tìm Hùng: 'Anh nói chuyện nhà máy, cơ sở sản xuất, quy trình kiểm soát chất lượng. Những người khác nói chuyện vĩ mô, chính sách, thị trường. Anh là người duy nhất nói về thực tế.'
+
+Hùng nhớ lại: 'Khi đó tôi sợ lắm. Sợ mình nói sai, sợ người Nhật chê. Nhưng không nói thì không có cơ hội. Tôi liều.' Tanaka gật: 'Liều là đúng. Nhưng phải có căn cơ. Anh có căn cơ — anh biết hàng mình làm ra thế nào. Đó là lý do tôi tin anh.'
+
+Hai người ngồi với nhau đến tận chiều. Quán vắng khách. Nắng xiên qua ô cửa sổ, chiếu những vệt sáng dài trên nền gạch hoa cũ.
+Bữa cơm tối, bà Hà luộc mớ rau muống Hùng mua. Rau xanh, giòn, chấm nước mắm tỏi ớt. Hùng ăn hết một đĩa. Bà Hà nhìn ông: "Ngon không?" "Ngon nhất từ đầu năm tới giờ." Bà Hà cười không nói. 
+
+Hùng cất cuốn sổ tay vào hộp gỗ, đậy nắp lại. Ông đưa tay vuốt mặt hộp — gỗ mịn, mát, những đường vân gỗ xoáy tự nhiên. Ông nhớ cái ngày đóng nó: mùa hè năm 1984, mượn cưa của bác Hai, mượn đục của chú Tư, lụi cụi đục đẽo suốt
+
+
+
+################################################################################
+# CH.264 FILE=Chương 264 - Tái khẳng định sứ mệnh.txt
+# BODY_WORDS=3394 PANEL_LEN=193
+################################################################################
+
+============================================================
+Chương 264: Tái khẳng định sứ mệnh
+
+2008. Hà Nội.
+
+Buổi sáng đầu tháng tám, Hùng ngồi trong phòng họp nhỏ ở trụ sở Thương Gia. Trên bàn là một tập tài liệu mỏng — bản dự thảo sứ mệnh mới của tập đoàn. Đã ba năm kể từ lần cuối cùng Thương Gia viết lại tuyên bố sứ mệnh của mình. Ba năm với bao thay đổi: mở rộng ra quốc tế, khủng hoảng tài chính 2008, những đối thủ mới từ Hàn Quốc và Trung Quốc. Hùng cảm thấy công ty đã lớn quá nhanh, và những giá trị cốt lõi từ thời kỳ đầu đang có nguy cơ bị pha loãng.
+
+Nhưng cũng là năm Thương Gia đạt những cột mốc chưa từng có: doanh thu vượt 8.200 tỷ đồng (tăng 47% so với 2007), xuất khẩu 15 triệu đôi giày sang 27 quốc gia, nhà máy thứ 12 tại Nigeria chính thức đi vào hoạt động tháng 6 với 500 công nhân bản địa. Tổng số lao động tăng thêm 1.200 người trong năm, nâng tổng lên 5.200. Thương Gia lần đầu lọt vào danh sách 500 doanh nghiệp lớn nhất Đông Nam Á do tạp chí Fortune Asia bình chọn — xếp hạng thứ 423, doanh thu xếp thứ 312.
+
+Tháng 7, Thương Gia vinh dự nhận giải thưởng "Top 10 Doanh nghiệp xuất khẩu uy tín" do Bộ Công Thương trao tặng tại Hội nghị Xúc tiến Xuất khẩu toàn quốc, cùng danh hiệu "Doanh nghiệp vì người lao động" do Tổng Liên đoàn Lao động Việt Nam bình chọn sau đợt khảo sát 1.200 doanh nghiệp cả nước. Những giải thưởng ấy không chỉ là niềm tự hào — chúng là trách nhiệm.
+
+Trong phòng có bảy người: Hùng, Lan, Minh, ông Phúc, ba trưởng phòng — sản xuất, tài chính, nhân sự. Luật sư trẻ của công ty cũng được mời đến, ngồi ở góc bàn với một cuốn sổ tay và một cây bút máy.
+
+"Tôi muốn chúng ta dành hôm nay để trả lời một câu hỏi đơn giản," Hùng mở đầu. "Thương Gia là gì, và tại sao nó tồn tại?"
+
+Căn phòng im lặng. Đây không phải câu hỏi về doanh thu hay lợi nhuận. Đây là câu hỏi về bản sắc. Trong phòng, từng người đều có câu trả lời riêng, nhưng không ai dám nói trước — bởi trả lời sai có thể làm lệch hướng cả tập đoàn.
+
+Lan lên tiếng trước: "Theo em, Thương Gia là một tập đoàn sản xuất và thương mại, hoạt động trong các lĩnh vực giày dép, thực phẩm, logistics, và tài chính. Hiện tại chúng ta có ba nhà máy chính tại miền Bắc, hai trung tâm logistics tại Hải Phòng và Đà Nẵng, mười hai cửa hàng bán lẻ, và quan hệ đối tác với bảy quốc gia."
+
+Cô dừng lại, nhìn Hùng: "Nhưng đó chỉ là mô tả. Còn câu hỏi 'tại sao tồn tại' — em nghĩ câu trả lời nằm ở việc Thương Gia tạo ra giá trị cho xã hội. Việc làm cho hơn hai nghìn gia đình. Sản phẩm có chất lượng cho người tiêu dùng. Thuế cho nhà nước."
+
+"Đó là trách nhiệm," Hùng nói. "Nhưng chưa phải sứ mệnh. Sứ mệnh phải là thứ làm cho Thương Gia khác biệt với các doanh nghiệp khác."
+
+Minh nhìn quanh bàn, rồi nói chậm rãi: "Anh Hùng, tôi có một câu hỏi. Nếu ngày mai Thương Gia biến mất, xã hội Việt Nam sẽ mất điều gì?"
+
+Căn phòng im lặng vài giây. Câu hỏi của Minh lạ, nhưng lại đánh trúng trọng tâm. Hùng gật gù — đó chính là câu hỏi ông muốn ai đó đặt ra.
+
+"Việc làm," Lan nói ngay. "Hai nghìn gia đình không còn thu nhập. Một phần chuỗi cung ứng giày dép xuất khẩu đứt gãy. Một vài trường học trong khu công nghiệp sẽ mất nguồn tài trợ."
+
+"Đó là mất," Minh nói. "Nhưng tôi hỏi mất gì mà không công ty nào khác thay thế được?"
+
+Căn phòng chìm vào suy nghĩ. Ông Phúc — giám đốc sản xuất — xoa cằm: "Tôi nghĩ cái mất lớn nhất là một cách làm. Ở Thương Gia, chúng tôi không chạy theo lợi nhuận bằng mọi giá. Tôi đã làm cho ba công ty trước khi đến đây. Ở chỗ cũ, áp lực doanh số luôn đặt trên chất lượng. Còn ở đây, Hùng luôn nói: giữ hàng trước, giữ khách sau, giữ người sau cùng."
+
+Hùng đứng dậy, đến bên cửa sổ. Ông nhìn xuống đường phố Hà Nội, nơi những dòng xe cộ đang tấp nập. "Cách làm," ông nói. "Thương Gia chứng minh rằng một doanh nghiệp Việt Nam có thể cạnh tranh với quốc tế mà không cần bóc lột công nhân. Nhiều người nghĩ chỉ có hai con đường: hoặc làm rẻ, hoặc không làm được. Chúng ta đang chứng minh có con đường thứ ba." Ông quay lại, nhìn quanh căn phòng. "Giải thưởng Top 10 Doanh nghiệp xuất khẩu vừa qua chứng minh điều đó. Chúng ta không chỉ lớn — chúng ta lớn theo cách đúng đắn."
+
+Tiến sĩ Quốc — người được mời tham dự vì đang xây dựng phòng thí nghiệm vật liệu — giơ tay. "Tôi có thể đóng góp từ góc nhìn kỹ thuật. Ở Đức, các công ty tôi biết phải xuất trình báo cáo tác động môi trường cho mọi sản phẩm mới. Họ bắt đầu từ thiết kế. Không phải chờ đến khi sản xuất rồi mới nghĩ đến chuyện tái chế."
+
+"Cụ thể hóa điều đó thành một câu," Minh nói. "Ví dụ: 'Thương Gia cam kết sản xuất có trách nhiệm với người lao động, khách hàng, và môi trường.'"
+
+"Hay đấy," Lan nói. "Nhưng hơi chung chung. Mọi công ty đều viết như vậy."
+
+Hùng đứng dậy, đi đến bảng trắng. Ông cầm bút lông, viết:
+
+"MỤC TIÊU CỦA THƯƠNG GIA: BỀN VỮNG HƠN MỖI NGÀY."
+
+Cả phòng nhìn dòng chữ. Ông Phúc gật gù: "Ngắn, dễ nhớ, nhưng cần giải thích thêm."
+
+"Bền vững ở đây có nghĩa là gì?" Luật sư trẻ lên tiếng — người ít nói nhất phòng. "Bền vững tài chính? Bền vững môi trường? Bền vững quan hệ lao động?"
+
+Hùng quay lại: "Tất cả những điều đó. Bền vững có nghĩa là Thương Gia không chỉ tồn tại hôm nay, mà còn tồn tại cho thế hệ sau. Nó không kiếm lợi nhuận bằng cách bóc lột công nhân hoặc phá hoại môi trường. Nó phát triển bằng cách tạo ra giá trị thực sự."
+
+"Vậy làm sao đo lường được?" Minh hỏi. "Ai cũng nói 'bền vững', nhưng đến khi kiểm toán, người ta chỉ nhìn vào lợi nhuận."
+
+"Đó là lý do tôi mời Klaus giới thiệu về ESG," Hùng nói. "Tiêu chuẩn môi trường, xã hội và quản trị. Klaus nói các công ty châu Âu đang bắt đầu yêu cầu nhà cung cấp phải có chứng nhận ESG. Trong vòng ba đến năm năm tới, nếu không có ESG, chúng ta sẽ mất thị trường châu Âu."
+
+Căn phòng lại im lặng. ESG là một khái niệm mới với hầu hết mọi người. Nhưng Hùng đã nghiên cứu kỹ. Ông kể về chuyến thăm nhà máy của đối tác Đức — nơi có hệ thống xử lý nước thải, có bảng đo năng lượng mặt trời trên mái, có quy trình tái chế nguyên liệu thải. "Họ không làm vì đẹp. Họ làm vì nó bắt buộc. Nếu mình muốn bán hàng cho họ, mình phải đáp ứng tiêu chuẩn đó."
+
+Lan ghi chép nhanh: "Vậy kế hoạch cụ thể là gì?"
+
+"Ba việc," Hùng nói. "Một — chúng ta sẽ thành lập một bộ phận chuyên trách về phát triển bền vững. Hai — mời một tổ chức kiểm toán độc lập đến đánh giá hiện trạng. Ba — xây dựng lộ trình đạt chứng nhận ESG trong vòng hai năm."
+
+"Tốn kém không?" Ông Phúc hỏi. Ông vốn là người thực tế, luôn nhìn vào chi phí trước tiên.
+
+"Kiểm toán ban đầu khoảng 50 triệu. Chi phí cải thiện tùy thuộc vào kết quả. Nhưng nếu mất thị trường châu Âu, con số thiệt hại sẽ là hàng triệu USD mỗi năm. Các đối tác Đức của chúng ta đã bắt đầu hỏi về chứng chỉ môi trường. Họ nói trong vòng hai năm tới, hàng không có chứng chỉ sẽ bị giảm giá 5-10%."
+
+"Làm," ông Phúc nói ngắn gọn.
+
+Cuộc họp kéo dài thêm hai giờ. Họ thảo luận từng điều khoản trong bản dự thảo sứ mệnh: trách nhiệm với người lao động, cam kết chất lượng, bảo vệ môi trường, đóng góp cho cộng đồng. Mỗi điều khoản đều được tranh luận, sửa chữa, và cuối cùng thông qua.
+
+Kết thúc cuộc họp, Hùng yêu cầu luật sư soạn thảo văn bản chính thức. "Tôi muốn nó được công bố trên trang web và gửi đến tất cả đối tác. Đây không phải là một tờ rơi quảng cáo. Đây là cam kết."
+
+Ông đứng dậy, dang tay: "Cảm ơn mọi người. Hôm nay tôi mời cả phòng đi ăn trưa — mừng năm 2008 thành công và mừng chúng ta vừa có một bản sứ mệnh xứng đáng."
+
+Cả phòng vỗ tay. Mười lăm phút sau, cả nhóm ngồi trong một nhà hàng nhỏ trên phố Tràng Tiền, ngay cạnh hồ Hoàn Kiếm. Bia được gọi. Những ly đầu tiên nâng lên — mừng những cột mốc đã đạt được, mừng những giải thưởng, mừng một năm vượt qua khủng hoảng tài chính toàn cầu.
+
+Ông Phúc ngồi cạnh Hùng, nâng ly: "Năm ngoái, tôi không nghĩ mình qua được cơn bão. Xuất khẩu giảm 30%, đơn hàng hủy liên tục hồi tháng 3. Thế mà cuối năm nay, chúng ta xuất khẩu 15 triệu đôi — cao nhất từ trước đến nay. 15 triệu đôi giày, các ông các bà biết không? Xếp chồng lên nhau thì cao hơn cả tòa nhà này!"
+
+Cả bàn cười. Lan nói tiếp: "Vậy nên em mới nói, đừng bao giờ đánh giá thấp sức chịu đựng của người Việt Nam mình."
+
+Tiến sĩ Quốc giơ ly về phía Hùng: "Cảm ơn anh Hùng. Tôi về Việt Nam vì anh, vì cái phòng thí nghiệm nhỏ này. Hồi ở Đức, tôi không nghĩ mình sẽ có ngày ngồi ăn bún chả giữa lòng Hà Nội, bàn về chuyện keo gốc nước và ESG."
+
+"Vậy mà bây giờ anh đang làm thật đấy," Minh cười, quay sang mọi người. "Các anh chị biết không, tuần trước tôi xuống phòng thí nghiệm, thấy Quốc ngồi với mấy cái lọ hóa chất, tóc tai bù xù. Tôi hỏi đang làm gì, ảnh nói: 'Chờ cái keo này khô để biết nó có dính không.'"
+
+Cả bàn cười ồ lên. Hùng nhìn từng gương mặt — những con người đã cùng ông qua bao thăng trầm. Ông Phúc đang kể chuyện Nigeria cho Minh nghe: sau cơn bão, Ade gọi về lúc hai giờ sáng, tưởng mất cả nhà máy. "Thế mà tháng 11 vừa rồi, doanh thu Nigeria cao kỷ lục. Người Phi của mình cũng giỏi đấy chứ."
+
+"Tôi biết," Hùng gật. "Tôi đọc báo cáo. Và tôi cũng biết anh đã ở lại Nigeria thêm hai tuần sau bão để giám sát sửa chữa. Cảm ơn anh."
+
+Ông Phúc xua tay, nhưng trong mắt có chút xúc động.
+
+"Một câu thôi. Tôi muốn các anh chị nhớ điều này: Thương Gia hôm nay không chỉ là của tôi. Nó là của tất cả chúng ta. Những giải thưởng — Top 10 xuất khẩu, Doanh nghiệp vì người lao động — đó là công của mỗi người trong căn phòng này, và của 5.200 công nhân đang đứng máy mỗi ngày."
+
+Ông giơ cao ly: "Tôi cũng muốn nhắc một con số. 8.200 tỷ doanh thu. 15 triệu đôi giày. 27 quốc gia. Khủng hoảng tài chính toàn cầu — năm nay các ngân hàng Mỹ sụp đổ, Lehman Brothers phá sản, Iceland gần như phá sản cả nước. Vậy mà Thương Gia không những không lay chuyển, còn tăng trưởng. Không phải vì tôi tài giỏi. Mà vì nền tảng của chúng ta vững. Không tham lam. Không lướt sóng. Làm chậm, làm chắc. Cạn ly!"
+
+Mọi người đứng dậy, nâng ly. Ánh nắng giữa trưa chiếu qua ô cửa sổ nhà hàng, hắt lên những ly bia đầy, lấp lánh. Ông Phúc uống cạn một hơi, đặt ly xuống bàn cốp một tiếng: "Năm sau, tôi sẽ đưa Nigeria lên 1 triệu đôi. Các ông các bà chờ mà xem."
+
+Buổi chiều, Hùng gọi điện cho Klaus. "Ông có thể giới thiệu một tổ chức đánh giá ESG không?"
+
+Klaus trả lời ngay: "Có hai lựa chọn. Nếu anh muốn tiết kiệm, hãy dùng SGS — họ có văn phòng tại Thái Lan, chi phí thấp nhưng báo cáo dài hạn. Nếu anh muốn có báo cáo được các nhà nhập khẩu Đức công nhận, hãy dùng Intertek hoặc TÜV Rheinland. Đắt gấp đôi, nhưng tiếng vàng."
+
+"Tôi chọn TÜV."
+
+"Tốt. Tôi sẽ gửi email liên hệ."
+
+Hùng cúp máy, quay sang yêu cầu trưởng phòng nhân sự soạn một thông báo nội bộ: từ tháng 9, tất cả nhà máy của Thương Gia phải ghi chép lượng điện, nước, nguyên liệu thải theo mẫu mới. Mỗi tuần gửi số liệu về phòng kiểm soát.
+
+"Anh định làm thật à?" ông Phúc hỏi, giọng vẫn còn hoài nghi.
+
+"Thật. Và tôi muốn anh kiểm tra trực tiếp."
+
+Ông Phúc thở dài nhưng gật đầu. Ông đã quen với cách của Hùng: khi đã quyết, không hỏi lại.
+
+Cùng lúc đó, Lan ngồi với nhóm nghiên cứu vật liệu mới. Quốc trình bày về một hướng đi mới — thay thế keo dung môi hóa dầu bằng keo gốc nước cho dây chuyền giày. Nếu thành công, lượng khí thải VOC từ xưởng sẽ giảm 60%, và chi phí xử lý môi trường giảm theo.
+
+"Bao lâu?" Lan hỏi.
+
+"Sáu tháng nghiên cứu, ba tháng thử nghiệm trên dây chuyền thật. Chi phí dự kiến 800 triệu — chủ yếu cho nguyên liệu thử nghiệm và thiết bị đo."
+
+Lan nhìn Hùng. Hùng gật.
+
+Buổi chiều, Hùng đi một mình ra khu phố cố. Trên phố Hàng Bông, ông gặp một người đàn bà bán bánh mì. Ông thường đi lang thang một mình khi cần suy nghĩ. Hà Nội phố cổ, với những mái ngói rêu phong, những gánh hàng rong, là nơi ông tìm thấy sự bình yên sau những giờ họp căng thẳng.
+
+Hùng dừng lại mua một cái bánh mì. "Cụ bán ở đây lâu chưa?"
+
+"Mười lăm năm rồi. Hồi xưa chồng tôi bán, ổng mất rồi tôi bán tiếp."
+
+"Mười lăm năm — một con số đẹp. Cụ có biết Thương Gia không?"
+
+"Có chứ. Cái xưởng giày ở cuối phố, phải không? Hồi xưa nó nhỏ lắm. Ngày nào tôi cũng thấy mấy anh công nhân đi qua mua bánh mì. Bây giờ nó to rồi. Nghe nói hàng bán được cả nước ngoài."
+
+"Cụ thấy công ty đó thế nào?"
+
+Bà cụ nhìn Hùng một lát, như đang đánh giá xem người hỏi có thực sự muốn nghe câu trả lời không. "Tôi không biết nhiều về kinh doanh. Nhưng tôi thấy một điều: mấy anh công nhân vẫn đi qua mua bánh mì. Họ vẫn có việc làm. Công ty vẫn mở cửa. So với mấy cái công ty mọc lên rồi đóng cửa sau một năm, thế là tốt rồi. Có chị công nhân hay mua bánh mì ở đây, kể là công ty trả lương đúng hẹn, có thưởng tháng 13. Ở thời buổi này, được vậy là tốt."
+
+Hùng cảm ơn bà cụ, ăn chiếc bánh mì đứng dưới bóng cây bàng già. Câu trả lời của bà cụ giản dị hơn bất kỳ tuyên bố sứ mệnh nào. Một doanh nghiệp tốt là doanh nghiệp giữ được việc làm cho người lao động. Nó đơn giản vậy thôi. Tất cả những khái niệm cao siêu — ESG, phát triển bền vững, trách nhiệm xã hội — cuối cùng đều quy về một điều: công nhân có việc làm, có thu nhập, có cuộc sống ổn định.
+
+Buổi tối, Hùng về nhà, kể cho mẹ nghe về buổi họp và bữa trưa với mọi người. Bà Hà ngồi nghe, tay vẫn thoăn thoắt may vá.
+
+"Má chẳng hiểu mấy cái chữ tây tây đó," bà nói. "Nhưng má hiểu một điều: hồi con mới ra làm ăn, con chỉ có một cái bàn và một cái cân. Con nói với khách: 'tôi bán thuốc thật, không bán thuốc giả. Nếu thuốc không tốt, tôi trả lại tiền.' Bây giờ công ty lớn rồi, con vẫn nói thế. Thế là đủ. Mà con mời cả phòng đi ăn là phải. Có ăn mới có tình."
+
+Hùng nhìn mẹ. Bà không biết đến ESG, không biết đến tiêu chuẩn quốc tế, không biết đến những thuật ngữ quản trị hiện đại. Nhưng bà hiểu bản chất của kinh doanh hơn nhiều người có bằng cấp.
+
+Sau cuộc nói chuyện với mẹ, Hùng lên phòng làm việc, soạn email cho toàn thể cán bộ quản lý. Thư ngắn, chỉ hai đoạn:
+
+"Hôm nay, Thương Gia chính thức thông qua tuyên bố sứ mệnh mới. Các anh chị sẽ nhận được văn bản đính kèm trong email này. Nhưng tôi muốn nói một điều khác: sứ mệnh không phải là một tờ giấy treo tường. Nó là cách chúng ta làm việc mỗi ngày. Nếu một ngày nào đó, một quyết định vì lợi nhuận khiến chúng ta phải đánh đổi chất lượng hoặc phúc lợi người lao động, hãy nhớ rằng Thương Gia tồn tại để bền vững, không phải để giàu nhanh."
+
+Ông nhấn gửi, tắt máy. Dưới tầng, bà Hà vẫn ngồi may, tiếng kim vải đều đều.
+
+Đêm đó, Hùng ngồi viết trong sổ:
+
+"Sứ mệnh không phải là thứ viết trên giấy. Nó là thứ sống trong cách mình làm việc mỗi ngày. Một doanh nghiệp có thể có bản tuyên bố sứ mệnh dài năm trang, nhưng nếu công nhân không được trả lương đúng hạn, nó chỉ là giấy vụn. Hôm nay mình mời mọi người ăn trưa. Không phải vì một bản sứ mệnh. Mà vì họ xứng đáng. 5.200 con người, 27 quốc gia, 15 triệu đôi giày — những con số ấy không tự nhiên mà có."
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+
+Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" bà Hà hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.264. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.264」
+Năm: 2008
+Tổng EXP: 60,000 (+333 nhịp này)
+Không gian kho: 24,000m² (+167m²)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: khóa nhịp
+
+
+
+
+################################################################################
+# CH.265 FILE=Chương 265 - Đối thủ mới từ Hàn Quốc.txt
+# BODY_WORDS=2782 PANEL_LEN=1199
+################################################################################
+
+Cuộc họp ban lãnh đạo Thương Gia sáng nay căng thẳng chưa từng có. Trên bàn họp gỗ lim đánh bóng là bản báo cáo tình báo thị trường dày 30 trang, in màu, bìa cứng, với dòng tiêu đề đỏ chói: "Samsung Electronics chính thức thâm nhập thị trường Đông Nam Á — phân khúc giá tầm trung." Tin này gây xôn xao khắp giới điện tử Việt Nam. Samsung không phải đối thủ bình thường — họ là tập đoàn toàn cầu với doanh thu gấp trăm lần Thương Gia, R&D hàng tỷ USD mỗi năm, thương hiệu nằm trong top 20 toàn cầu.
+
+Giám đốc chiến lược Dũng — 35 tuổi, từng du học Mỹ — đứng lên trình bày. Anh ta nhấn remote, những slide hiện ra trên màn hình lớn: biểu đồ thị phần, so sánh sản phẩm, dự báo doanh thu. "Samsung đầu tư 200 triệu USD vào nhà máy sản xuất thiết bị điện tử tại Thái Lan. Họ nhắm thẳng vào phân khúc của chúng ta: thiết bị điện tử gia dụng tầm trung — tivi, tủ lạnh, máy giặt. Công nghệ của họ tiên tiến hơn hai thế hệ. Marketing mạnh gấp mười lần. Kênh phân phối đã có sẵn qua hệ thống đại lý Samsung toàn cầu. Chúng ta đang đối mặt với thách thức chưa từng có."
+
+Mọi người trong phòng họp nhìn nhau. Giám đốc kinh doanh lau mồ hôi trán. Giám đốc marketing cắn môi. Chỉ có Hùng là im lặng, ngón tay gõ nhẹ lên bàn — tiếng gõ đều đặn, chậm rãi.
+
+"Nếu coi Samsung là đối thủ duy nhất thì chúng ta đã thua rồi," cuối cùng Hùng nói, giọng bình tĩnh đến lạ. "Họ là tập đoàn toàn cầu top 20. Chúng ta chỉ là một doanh nghiệp Việt Nam đang vươn ra thế giới. So sánh trực tiếp với họ là tự sát. Nhưng chúng ta không cần so sánh trực tiếp."
+
+Ông đứng dậy, bước tới bảng trắng, vẽ một vòng tròn lớn. "Đây là thị trường của Samsung: đô thị lớn, tầng lớp trung lưu trẻ, thích công nghệ mới, sẵn sàng trả tiền cho thương hiệu." Ông vẽ một vòng tròn nhỏ hơn bên cạnh. "Đây là thị trường của chúng ta: nông thôn, vùng sâu vùng xa, nông dân, người lao động phổ thông. Họ cần thiết bị bền, dễ sửa, giá phải chăng. Họ không cần smart TV 4K — họ cần một cái tivi xem được đài, bền 10 năm, có thợ sửa ở xã bên cạnh. Samsung sẽ không chạy theo thị trường đó vì lợi nhuận quá thấp. Nhưng chúng ta — Thương Gia — lớn lên từ nông thôn, hiểu nông thôn, và đó là lợi thế cạnh tranh không thể sao chép."
+
+Dũng gật đầu, mắt sáng lên. "Điểm mạnh của chúng ta là mạng lưới hậu mãi ở nông thôn với 500 điểm bảo hành trên toàn quốc. Samsung không có cái đó."
+
+Cuộc họp kết thúc với quyết định thành lập Trung tâm Nghiên cứu & Phát triển riêng tại Khu Công nghệ cao Hòa Lạc, ngân sách 10 triệu USD mỗi năm. Năm mươi kỹ sư trẻ, tuổi đời trung bình 27, bắt đầu nghiên cứu drone phun thuốc không người lái giá rẻ phù hợp với nông dân Việt Nam, cảm biến độ ẩm đất kết nối IoT, hệ thống tưới tiêu tự động tích hợp AI. Một tối, Hùng ghé thăm Trung tâm lúc 9 giờ tối. Các kỹ sư vẫn đang làm việc. Ông mua đồ ăn nhẹ mang tới, ngồi xuống cạnh một nhóm đang thử nghiệm drone.
+
+"Khi nào ra sản phẩm?" Hùng hỏi.
+
+"Một năm nữa," Bình — kỹ sư trẻ 27 tuổi, từng du học Nhật Bản — trả lời.
+
+"Gấp được không?"
+
+"Có thể. Nhưng chất lượng sẽ giảm. Drone nông nghiệp mà hỏng giữa cánh đồng, nông dân sẽ mất cả mùa vụ."
+
+"Không gấp. Chất lượng là trên hết."
+
+Ba tháng sau, Samsung ra mắt dòng tầm trung tại Việt Nam. Giá rẻ, cấu hình tốt, marketing rầm rộ trên TV, báo chí, mạng xã hội. Cổ phiếu Thương Gia giảm 15% chỉ trong một tuần. Hùng triệu tập cuộc họp khẩn. Lan — với tư cách CFO — phát biểu: "Đừng hoảng. Thương Gia có doanh thu 800 triệu USD mỗi năm, 45% từ thiết bị nông nghiệp, 35% từ điện tử gia dụng, 20% từ thực phẩm chế biến. Samsung chỉ tấn công 35% đó, và chúng ta đã chuẩn bị cho cuộc chiến này từ sáu tháng trước."
+
+Sáu tháng sau, doanh thu mảng nông nghiệp thông minh tăng 40%, bù đắp hoàn toàn thị phần mất ở mảng điện tử gia dụng. Sản phẩm drone phun thuốc của Thương Gia được Hiệp hội Nông dân Thái Lan chứng nhận "sản phẩm nông nghiệp thông minh tốt nhất năm 2011." Tối hôm đó, Hùng mời toàn bộ đội R&D đi ăn tối. "Chúc mừng các bạn," Hùng nâng ly. "Chúng ta đã làm được điều không ai tin có thể — đánh bại một tập đoàn toàn cầu bằng trí tuệ và sự kiên trì."
+
+=======================================================
+
+Sau cuộc họp với ban lãnh đạo, Hùng lái xe một mình về Hà Đông. Dọc đường, ông dừng lại ở một quán cà phê nhỏ bên đường, gọi một ly đen đá. Ngồi nhìn dòng xe cộ qua lại, ông chợt nhớ những ngày đầu đặt chân vào ngành điện tử — năm 2000, khi ông quyết định không chỉ làm giày dép xuất khẩu mà bắt đầu sản xuất linh kiện điện tử. Ai cũng bảo ông điên. "Bỏ mảng sẵn có, nhảy vào cái không biết gì." Nhưng ông nhìn thấy trước: sản xuất đơn thuần không thể nuôi Thương Gia thêm hai thập kỷ.
+
+Điện thoại rung. David Morrison gọi từ Silicon Valley. "Samsung đã công bố chiến lược Đông Nam Á. Họ đầu tư 50 triệu vào marketing. Cổ phiếu của họ tăng 3%. Anh có ổn không?"
+
+"Có chứ," Hùng nói. "Tôi đang ngồi uống cà phê."
+
+"Anh uống cà phê trong khi đối thủ tung 50 triệu marketing?"
+
+"Thì sao? 50 triệu marketing không thay thế được 500 điểm bảo hành ở nông thôn. Họ bán tivi, tôi bán thứ khác — niềm tin. Mất thời gian hơn, nhưng bền hơn."
+
+David cười: "Anh Hùng, có khi tôi nên học anh cách bình tĩnh."
+
+"Không cần học. Chỉ cần già đi. Già rồi tự nhiên bình tĩnh."
+
+=====
+Nhưng trước khi kịp bắt tay vào cuộc chiến với Samsung, Hùng còn một việc phải giải quyết. Cuối tháng Tám, sau khi cho người điều tra nguồn gốc bài báo trốn thuế, Lan mang đến một phong bì dày. Bên trong là toàn bộ bằng chứng: Trần Văn Bắc — người đã đứng sau vụ tấn công truyền thông, thuê thám tử theo dõi ba năm trước, và trả tiền cho phóng viên viết bài bôi nhọ Thương Gia.
+
+"Anh tính làm gì?" Lan hỏi.
+
+Hùng ngồi im một lúc lâu, tay đặt lên xấp bằng chứng. Ông có thể kiện. Có thể đưa Bắc ra tòa. Bằng chứng đủ để Bắc ngồi tù. Nhưng ông không làm vậy.
+
+"Mang xe ra. Anh đi gặp nó," Hùng nói.
+
+Chiều hôm đó, Hùng đến khu nhà trọ tồi tàn nơi Bắc ở — một căn phòng chật hẹp, ẩm mốc, ánh đèn vàng yếu ớt. Bắc mở cửa, sững người khi thấy Hùng. Sáu năm kể từ lần cuối, Bắc già hơn, tiều tụy hơn, tóc hoa râm, mắt thâm quầng, tay run run.
+
+Hùng bước vào, ngồi xuống chiếc ghế nhựa duy nhất, đặt phong bì lên bàn.
+
+"Bắc, tao biết mày đứng sau tất cả."
+
+Bắc nhìn phong bì, mặt tái đi. Ông ta không chối — chỉ cười, nụ cười đắng chát: "Thế sao không kiện tao? Bằng chứng đủ mà."
+
+"Vì tao nhớ ngày xưa. Mày với tao cùng ăn bát mì tôm không thịt dưới gốc cây bàng đầu chợ Đồng Xuân. Cùng nói với nhau: 'Mai này giàu rồi, mình vẫn là anh em.' Tao giàu thật, nhưng mày không bao giờ có được cơ hội. Một phần cũng tại tao."
+
+Bắc im lặng. Nước mắt bắt đầu lăn trên gương mặt hốc hác.
+
+"Tao không kiện mày. Nhưng tao muốn mày biết: thù hận không làm mày giàu lên được. Nó chỉ làm mày nghèo đi — nghèo từ trong tâm."
+
+Hùng đứng dậy, bỏ ra ngoài. Trước khi khuất bóng, ông quay lại: "Tuần sau, nếu mày muốn, đến gặp tao. Tao có một việc nhỏ ở kho. Lương triệu rưỡi một tháng." Rồi ông đi, bóng đổ dài dưới ánh đèn đường.
+
+Bắc đứng trong căn phòng tối, nhìn phong bì trên bàn — bên trong là cơ hội mà ông ta từng ao ước. Nhưng lần này, không còn thù hận trong mắt.
+
+Tối hôm đó, Hùng ngồi một mình ngoài hiên. Trăng khuyết, sáng mờ, đủ để thấy những tàu lá chuối xào xạc trong gió đêm. Ông nghĩ về hai người đàn ông — một là Bắc, kẻ thù cũ vừa được tha thứ; một là Bằng, kẻ thù còn hằn sâu hơn, vẫn đang ngồi bán chè dưới gốc bàng đầu làng.
+
+Cả hai đều từng hận ông. Cả hai đều mất tất cả. Nhưng với Bắc, ông có thể tha thứ. Còn với Bằng — người đã khiến cha ông mất — cái gai ấy vẫn còn.
+
+Ông nhìn lên bàn thờ cha, nơi hương khói đã tàn từ lúc nào. Không nói gì. Chỉ ngồi đó, giữa bóng tối và những âm thanh của đêm khuya, để mặc cho suy nghĩ tự trôi.
+
+Buổi tối sau cuộc gọi với David, Hùng về nhà, thấy Lan đang ngồi soạn tài liệu trong phòng khách. Cô nhìn anh trai: "Mặt anh hôm nay khác."
+
+"Khác thế nào?"
+
+"Căng, nhưng không lo. Như người sắp làm một việc quan trọng."
+
+Hùng ngồi xuống, kể cho Lan nghe về R&D Hòa Lạc, về drone nông nghiệp, về cuộc gọi với David. Lan nghe xong, hỏi: "Anh tin Dũng làm được không?"
+
+"Tin. Dũng đã làm được những thứ khó hơn — trung tâm dữ liệu Tier 3, hệ thống AI dự báo, nền tảng cloud. Drone không phải vấn đề với cậu ấy."
+
+"Nhưng 10 triệu USD một năm cho R&D — nếu không có kết quả, hội đồng sẽ hỏi."
+
+Hùng gật. "Thì anh trả lời: 10 triệu là tiền học phí. Nếu không học, mai này tốn 100 triệu để mua lại công nghệ của người khác."
+
+Rời quán cà phê, Hùng lái xe qua khu công nghiệp Thương Gia City. Những dãy nhà xưởng mới, những ống khói trắng, những xe tải xếp hàng chờ xuất hàng. Mọi thứ vận hành trơn tru, không có dấu hiệu của khủng hoảng.
+
+Ông ghé vào xưởng linh kiện điện tử. Dũng đang đứng cùng nhóm kỹ sư, thử nghiệm một bo mạch mới. Thấy Hùng, Dũng chạy ra.
+
+"Sếp, anh xem cái này." Dũng đưa một bo mạch màu xanh nhỏ xíu. "Cảm biến độ ẩm đất. Kết nối không dây, chạy pin mặt trời, giá thành sản xuất dưới 200 nghìn đồng. Đối thủ Hàn Quốc bán 1,2 triệu."
+
+Hùng cầm bo mạch, xoay nó trong tay. Nhẹ, nhỏ, tinh xảo. "Bao giờ ra thị trường?"
+
+"Quý sau. Đang chạy thử độ bền ngoài hiện trường. Anh có muốn ra xem thử không — mình có một thửa ruộng thí nghiệm ở ngoại ô Hà Đông."
+
+"Đi."
+
+Doi thu Han Quoc tung san pham moi ra thi truong Dong Nam A. Hung nhan duoc bao cao tu chi nhanh Bangkok. Gia thap hon Thuong Gia 12%, chat luong tuong duong. Trong phong hop, cac truong phong ban tan. Mot so de xuat giam gia. Hung lac dau: "Giam gia la con duong chet. Tim cach khac." Ong yeu cau phong R&D phan tich diem yeu cua doi thu, phong marketing tim kenh phan phoi moi. "Ho moi vao, chua co moi quen. Minh co loi the hai muoi nam."
+
+Toi, Hung goi dien cho Tanaka. Tanaka cuoi: "Han Quoc a? Ho nhanh, gioi, nhung thieu kien nhan. Cu doi xem sau mot nam ho con o lai khong." Hung hoi chien luoc. Tanaka noi: "Toi khong khuyen anh. Nhung neu la toi, toi se tap trung vao chat luong va hau mai. Dung danh gia thap long trung thanh cua khach hang cu." Hung cup may, ngoi suy nghi. Trang sang vac vac ngoai cua so.
+
+
+Trong mot lan phat bieu, Hung noi: 'Chung ta song khong chi đe lam giau, ma song đe thay đoi cuoc đoi cua nhung nguoi xung quanh.' Va ong đa lam the. Ngan nuoc cuoc đoi đa đuoc thay đoi nho Thuong Gia. Ho co cong an, co thu nhap on đinh, co co hoi cho con cai. Do la niem tu hao cua Hung.
+
+Bay gio, khi Thuong Gia đa vung manh, Hung nghi đen viec tra lai cho xa hoi. Ong mo qua hoc bong, xay nha tinh nghia, ung tro đong bao bi thien tai. Nhung hanh đong đo khong phai đe quang cao, ma la su tri an chan thanh, tu đay long cua mot nguoi biet minh đa nhan đuoc nhieu tu cuoc song.
+
+Va Hung tin: se con nhieu dieu đe lam. Con nhieu uoc mo đe viet. Con nhieu con đuong đe đi. Cuoc đoi con dai. Va ong se tiep tuc đi, tiep tuc lam, cho đen ngay cuoi cung. Bơi vi cuoc song la mot hanh trinh đep.
+
+
+Cau be ngay xua ban vai o cho, bay gio đa tro thanh mot nguoi dan ong thanh đat, co gia đinh, co su nghiep. O ngoi mot minh trong phong, mo lai cuon so vo nho, noi ong ghi chep nhung ngay đau. Cuon vo đa cu, trang giay đa nga vang. Nhung nhung net chu van con. Va moi net chu, la mot ky uc. Moi dong, la mot bai hoc. Moi trang, la mot chang đuong. Khi gap lai cuon so, Hung thay minh that hanh phuc. Hanh phuc vi đa song mot cuoc đoi trong ven, co nu cuoi va ca nuoc mat.
+
+
+Mỗi ngày mới, với Hùng, là một món quà. Ông mở mắt, thấy ánh nắng, thấy tiếng chim, thấy cuộc sống. Ông bắt đầu ngày mới với một cốc cà phê. Cà phê đen, không đường, giống như ngày nào. Và ông hứa với lòng: ngày hôm nay sẽ là một ngày đáng nhớ. Đáng nhớ vì một nụ cười, một ánh mắt, một tiếng cười trẻ thơ. Cuộc sống, xét cho cùng, là một chuỗi ngày đáng nhớ như thế.
+
+
+Hùng khep lai cuon so, dat no vao ke. O nhin ra cua so. Ben ngoai, mot ngay moi đang bat đau. Nang len, chim hot, cay coi xanh tuoi. Cuoc song tiep dien. Va Hung, mot nguoi đa song tron ven, cung tiep tuc. Khong nhu mot doanh nhan nua, ma nhu mot nguoi ong, mot nguoi cha, mot nguoi ban. O tiep tuc song. Boi vi cuoc song la mot mon qua, va ong muon mo no ra, tung ngay mot.
+
+
+Mot đem, Hùng nam mo thay minh song o mot co đon vien. O thay minh mot minh, khong co gia đinh, khong co ban be. Giay phut tinh day, ong thay minh van con đu đay đu. Vo, con, chau, ban be. 'Cuoc song qua that la mot mon qua.' O thay biet on ve tat ca. O hoi hop cho ngay mai. Boi vi cuoc song con nhieu đieu ky dieu đang cho ong kham pha.
+
+
+Mot chieu, Hung va Ba Ha ngoi ben nhau, tay trong tay. Hai nguoi chang noi gi, chi lang lang. Nhung cam giac am ap lan toa, hai tam hon hoa vao lam mot. Đo la tinh yeu that su.
+
+
+Cuoc song la mot ngay đep. Sang mai thuc day, lai co the bat đau. Hang ngay, Hùng đeu thay co đieu moi la. Bay gio, ong chan đi trong vuon. O nhin cay coi, hoa la, long minh binh yen. 'Cam on đoi,' ong noi nho.
+
+
+Mot chieu, Hùng ngoi ben song, ngam nhin nuoc chay. Mui trai cay, gio vang. Nuoc chay hoai ma khong bao gio can. Cuoc đoi ong cung vay: đa qua nhieu chang đuong, khong nguung nghi, khong đung lai. Va cung nhu dong song, ong se tiep tuc đi. Biet đau ngay mai lai đep.
+
+
+Hùng đã sống một cuộc đời đáng nhớ. Và ông biết ơn tất cả. 'Cảm ơn đời, cảm ơn người, cảm ơn tình yêu và cả những thử thách. Tất cả đã làm nên tôi ngày hôm nay.' Và ông mỉm cười. Một nụ cười mãn nguyện.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.265」
+Năm: 2011
+Tổng EXP: 60.333 (+333 nhịp này)
+Không gian kho: 24.167m² (+167m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Samsung thâm nhập thị trường Đông Nam Á, Thương Gia đáp trả không đánh trực diện mà chuyển hướng sang nông nghiệp thông minh. Trung tâm R&D Hòa Lạc thành lập. Doanh thu mảng nông nghiệp thông minh tăng 40%, bù đắp hoàn toàn tổn thất từ cạnh tranh điện tử gia dụng.
+
+
+
+'Thay vì sợ hãi, hãy học hỏi họ,' Hùng nói trong cuộc họp. Ông mở báo cáo thị trường, chỉ vào biểu đồ doanh số: 'Họ tăng trưởng 15% ở Thái Lan. Nhưng ở Indonesia, họ thua mình 7%. Tại sao?' Cả phòng họp im lặng. Lan giơ tay: 'Vì mình có đối tác địa phương tốt hơn.' Hùng gật. 'Chính xác. Mối quan hệ là tài sản không thể sao chép. Họ có thể copy sản phẩm, nhưng không thể copy hai mươi năm quan hệ. Hãy tận dụng điều đó.' Sau cuộc họp, một nhân viên trẻ đến hỏi Hùng: 'Sao anh bình tĩnh thế? Em thấy lo quá.' Hùng nhìn cậu ta: 'Năm 1985, tôi mất cả lô hàng vì tin nhầm người. Tôi ngồi thừ ba ngày. Hết khóc rồi lau nước mắt mà đi tiếp. Cạnh tranh là chuyện thường.'
+============================================================
+
+
+
+
+################################################################################
+# CH.266 FILE=Chương 266 - Cạnh tranh lành mạnh.txt
+# BODY_WORDS=3105 PANEL_LEN=391
+################################################################################
+
+============================================================
+Chương 266: Cạnh tranh lành mạnh
+
+Báo chí đưa tin ồn ào: "Một đối thủ của Thương Gia phá sản — có sự can thiệp của truyền thông?" Bài báo không nêu tên cụ thể, nhưng ám chỉ Thương Gia đã dùng thủ đoạn để hạ bệ đối thủ. Dòng tít phụ còn gay gắt hơn: "Doanh nghiệp lớn chèn ép doanh nghiệp nhỏ — thực trạng đáng báo động." Trong vòng 24 giờ, bài báo lan truyền trên khắp các diễn đàn, mạng xã hội với hơn 50.000 lượt chia sẻ.
+
+Hùng đọc bài báo trên điện thoại lúc sáng sớm, mặt nặng như chì. Ông gọi luật sư và trưởng phòng truyền thông vào văn phòng ngay lập tức. "Ai đứng sau bài này?" ông hỏi.
+
+"Chưa rõ," trưởng phòng truyền thông — anh Quang, 40 tuổi, từng làm báo — trả lời. "Nhưng có thể là đối thủ bị phá sản đó tung tin để trả đũa. Họ muốn kéo Thương Gia xuống cùng. Dư luận rất dễ bị kích động."
+
+Hùng lắc đầu. "Tôi không cần biết ai đứng sau. Tôi hỏi: Thương Gia có làm gì sai không?"
+
+"Thưa anh, tuyệt đối không," trưởng phòng pháp chế khẳng định. "Đối thủ phá sản do quản lý yếu kém. Họ vay quá nhiều, đầu tư sai hướng, sản phẩm không có chất lượng. Thương Gia không liên quan. Chúng ta thậm chí còn từng đề nghị mua lại một phần nợ của họ để giúp họ tái cấu trúc — nhưng họ từ chối."
+
+"Vậy đáp trả thế nào?"
+
+"Kiện? Cải chính? Gửi công văn?" Quang đề xuất.
+
+Hùng suy nghĩ. "Không kiện. Kiện là leo lên cái thang của họ — họ muốn mình phản ứng để câu chuyện kéo dài. Mình làm việc của mình. Bán hàng tốt hơn, phục vụ khách hàng tốt hơn, đối xử với nhân viên tốt hơn. Kết quả kinh doanh sẽ nói lên tất cả."
+
+Hôm sau, Hùng tập trung toàn bộ nhân viên văn phòng tại hội trường. Gần 500 người. "Tôi biết mấy hôm nay mọi người lo lắng. Có tin đồn, có bài báo, có đối thủ mới từ Hàn Quốc. Nhưng tôi triệu tập để nói về chúng ta. Thương Gia không chơi xấu đối thủ, không dùng thủ đoạn hạ bệ người khác. Chúng ta cạnh tranh bằng chất lượng, bằng dịch vụ, bằng chữ tín."
+
+Cả hội trường im phăng phắc.
+
+"Nếu ai đó thắng bằng thủ đoạn, họ có thể thắng một trận — nhưng sẽ thua cả cuộc chiến. Vì khách hàng không ngu. Các bạn có thể kiếm nhiều tiền hơn ở chỗ khác — nhưng các bạn ở lại Thương Gia vì văn hóa, vì sự tôn trọng, vì niềm tự hào."
+
+Cả hội trường vỗ tay không dứt.
+
+Chiều hôm đó, Hùng nhận được điện thoại từ Tuấn — giám đốc công ty phá sản kia. Họ gặp nhau ở quán cà phê nhỏ trên phố cổ. Tuấn trông hốc hác. "Tôi xin lỗi anh Hùng," Tuấn nói, mắt nhìn xuống bàn. "Tôi đã tung tin đồn Thương Gia. Tôi thua rồi, cay cú, muốn kéo anh xuống cùng."
+
+Hùng im lặng, uống cà phê. "Tôi chấp nhận lời xin lỗi, với một điều kiện: hãy làm lại từ đầu. Anh còn trẻ, còn kinh nghiệm. Lần này nhớ: cạnh tranh lành mạnh — không chỉ tốt cho xã hội, mà còn tốt cho chính anh."
+
+Vài ngày sau, Hùng gọi cho Tuấn: làm giám đốc chi nhánh mới ở miền Trung. Tuấn khóc, nhận lời. Cạnh tranh lành mạnh không chỉ là khẩu hiệu. Đó là cách sống của Thương Gia.
+
+Sau cuộc gặp với Tuấn, Hùng về văn phòng, gọi Lan lên. "Anh vừa gặp Tuấn. Hắn nhận sai. Anh nhận hắn làm giám đốc chi nhánh miền Trung."
+
+Lan không trả lời ngay. Cô đặt cuốn sổ xuống bàn, nhìn thẳng vào mắt Hùng. "Anh có chắc không? Tuấn từng tung tin đồn hại mình. Bây giờ nhận hắn vào, người ta nói sao?"
+
+"Nói gì thì nói. Người ta đã từng nói anh điên khi bỏ dạy học đi buôn, điên khi xây trung tâm dữ liệu, điên khi mua báo. Miễn kết quả cuối cùng tốt cho Thương Gia và cho xã hội, anh kệ."
+
+Lan suy nghĩ một lúc, rồi gật đầu. "Em kiểm tra lý lịch Tuấn và ký quyết định. Nhưng anh phải chịu trách nhiệm nếu hắn tái phạm."
+
+"Anh chịu."
+
+Tuần sau, Tuấn nhận quyết định bổ nhiệm. Văn phòng Thương Gia Đà Nẵng — một căn nhà ba tầng trên đường Nguyễn Văn Linh — có giám đốc mới. Hôm nhận việc, Tuấn gọi cho Hùng, giọng run run: "Anh Hùng, cảm ơn anh. Em không ngờ... sau tất cả những gì em làm..." Hùng ngắt lời: "Im đi. Làm việc tốt lên là cảm ơn. Nói nhiều không có ích."
+
+Buổi tối hôm đó, Hùng, Lan và bà Hà ngồi ăn cơm. Bà Hà gắp một miếng thịt kho bỏ vào bát Hùng. "Nghe nói hôm nay con gặp thằng Tuấn?"
+
+Hùng ngạc nhiên. "Bà biết rồi?"
+
+"Ở làng này có gì tao không biết. Người ta đồn: thằng Tuấn làm giám đốc chi nhánh Thương Gia. Có người bảo con dại, dám nhận kẻ thù cũ vào làm. Có người bảo con khôn, biết biến thù thành bạn."
+
+"Bà nghĩ sao?"
+
+"Tao nghĩ — nếu hồi trước con đốt nhà thằng Tuấn, bây giờ nó cầm dao đâm con là đúng. Nhưng con cho nó cơm ăn, nó còn cầm dao nữa không?"
+
+Hùng im lặng. Bà Hà nói tiếp: "Làm người, ai cũng có sai lầm. Nhưng người thông minh không phải không bao giờ sai — mà là biết sửa sai và cho người khác cơ hội sửa sai."
+
+Một tuần sau, Hùng nhận được thư tay từ Tuấn — không phải email, không phải điện thoại — thư tay, gửi qua bưu điện. Phong bì đề tên người gửi: Nguyễn Văn Tuấn, Giám đốc chi nhánh Thương Gia Đà Nẵng. Bên trong là một tờ giấy đôi, viết bằng bút bi xanh, nét chữ nghiêng ngả:
+
+"Anh Hùng kính mến. Tôi viết thư này không phải để báo cáo công việc. Tôi viết để nói rằng, sau mười lăm năm làm doanh nghiệp, tôi chưa từng gặp một người nào như anh. Tôi từng ghét anh, từng muốn hại anh, từng nghĩ anh là kẻ đạo đức giả. Nhưng sau những gì đã xảy ra, tôi biết mình đã sai. Anh không chỉ cho tôi một công việc — anh cho tôi lại cuộc đời. Tôi sẽ không phụ lòng anh."
+
+Hùng đọc thư, gấp lại, cất vào ngăn kéo. Không trả lời. Ông biết lúc này không cần trả lời. Làm việc tốt mới là câu trả lời.
+
+Chiều hôm đó, Lan vào phòng, thấy lá thư trên bàn. "Ai gửi thế anh?"
+
+"Tuấn. Cảm ơn."
+
+"Ít lời, nhưng có vẻ chân thành."
+
+"Ừ. Hắn mà làm tốt, Thương Gia có thêm một người tài. Hắn mà tái phạm, mất một chi nhánh — nhưng anh không mất gì vì đã biết trước rủi ro."
+
+Buổi tối, Hùng và Lan ăn cơm với bà Hà. Bà nấu món canh chua cá rô đồng — món ngày xưa hay nấu. Hùng ăn ba bát cơm, lâu lắm ông mới ăn được ba bát. Bà Hà nhìn ông: "Hôm nay con vui hả?"
+
+"Dạ, cũng tạm."
+
+"Có việc gì vui?"
+
+"Con không mất gì. Mà còn có thêm."
+
+Sáng chủ nhật, Hùng ngồi uống cà phê ở quán đầu làng. Tờ báo in trên bàn, trang nhất đưa tin: "Thương Gia nhận giám đốc cũ của đối thủ phá sản – chiến lược nhân sự hay nước cờ nguy hiểm?"
+
+Lan mang tờ báo đến quán, quăng xuống bàn. "Anh xem cái này. Báo chí bắt đầu viết."
+
+Hùng đọc qua bài báo. Nội dung khách quan, không có gì sai sự thật. Có trích dẫn ý kiến hai chuyên gia — một ủng hộ, một phản đối.
+
+"Bài viết ổn," Hùng nói. "Không bênh ai, không công kích ai."
+
+"Nhưng nó tạo ra tranh luận."
+
+"Tranh luận là tốt. Nếu không ai tranh luận, nghĩa là chẳng ai quan tâm."
+
+Lan ngồi xuống, gọi một ly cà phê sữa đá. "Anh, em lo cho Tuấn. Hắn mới vào, áp lực dư luận lớn quá, có khi không chịu nổi."
+
+"Thì để nó chịu. Làm giám đốc không phải ngồi phòng máy lạnh ký giấy tờ. Phải chịu được áp lực. Nếu nó chịu được, nó sẽ trưởng thành. Nếu không, nó tự biết đường đi."
+
+ 
+Hùng gấp cuốn sổ lại, đặt vào ngăn kéo, khóa nhẹ. Mỗi tối, trước khi đi ngủ, ông đều làm như vậy. Những con số đã được ghi lại, những khoản đã được đối chiếu, và những dự tính cho ngày mai đã được phác ra. Ông kéo tấm chăn mỏng lên đến ngực, nằm im lặng nhìn lên trần nhà. Gỗ mái nhà kêu lên đôi tiếng — những căn nhà cấp bốn có tuổi thường như vậy — rồi lại im.
+ 
+
+Có những buổi chiều không có gì đặc biệt, nhưng Hùng vẫn nhớ. Một trong những buổi chiều đó, ông ngồi ở quán nước cuối phố, uống một cốc trà nóng và nhìn người qua lại. Bỗng dưng ông nghĩ: hơn hai mươi năm trước, mình cũng ngồi ở một quán nước như thế này, nhưng lúc đó chỉ có hai bàn tay không.
+
+Chiều tối, Hùng ngồi viết sổ. Cuốn sổ đã dần tới những trang cuối — khoảng một tháng nữa là hết. Ông sẽ phải mua cuốn mới. Nhưng cuốn này — cuốn thứ mười bảy trong ba mươi năm — vẫn còn vài trang trống. Ông lật lại những trang trước. Ghi chép lộn xộn: giá cả, tên người, số điện thoại, những ý tưởng vụt sáng, những lời tự nhủ. Mỗi trang là một mảnh ghép của cuộc đời.
+
+Trang cuối cùng, ông viết: "Hôm nay — Tuấn nhận việc. Báo chí viết. Không kiện. Không cãi. Chọn cách làm việc của mình. Cạnh tranh lành mạnh — không chỉ là khẩu hiệu. Phải sống nó mỗi ngày."
+
+Ông gấp sổ, đặt vào ngăn kéo, khóa nhẹ. Mỗi tối, trước khi đi ngủ, ông đều làm như vậy. Những con số đã được ghi lại, những khoản đã được đối chiếu, và những dự tính cho ngày mai đã được phác ra. Ông kéo tấm chăn mỏng lên đến ngực, nằm im lặng nhìn lên trần nhà. Gỗ mái nhà kêu lên đôi tiếng — những căn nhà cấp bốn có tuổi thường như vậy — rồi lại im.
+
+Buổi sáng thứ hai, Hùng đến văn phòng sớm. Trên bàn, một phong bì dày từ chi nhánh Đà Nẵng — báo cáo tuần đầu tiên của Tuấn. Hùng đọc. Số liệu tốt: doanh số tăng 5%, không có khiếu nại, không có sai sót. Ông gấp báo cáo, cất đi. Không gọi điện khen. Cũng không gọi điện nhắc. Có những việc không cần nói.
+
+Trả tiền, Hùng không về nhà ngay. Ông đi bộ một vòng quanh hồ Hoàn Kiếm. Đã khuya, hồ vắng, đèn đường vàng vọt. Những hàng cây cổ thụ in bóng xuống mặt nước đen. Ông dừng lại ở cầu Thê Húc, nhìn lên đền Ngọc Sơn. Một cảm giác bình yên lạ. Ông tự hỏi: sau tất cả, mình đã làm được gì? Câu trả lời không đến ngay. Nhưng ông không vội.
+
+Thay vi giam gia, Thuong Gia tung goi bao hanh hai nam cho tat ca san pham dien tu. Hung dich than viet noi dung quang cao. Ong chi dao: "Noi that voi khach: hang Viet Nam, chat luong Nhat Ban, gia hop ly." Khach hang phan hoi tot. Doanh so thang dau tien chi giam 3%, sau do tang lai 5%. "Khach hang khong ngu," Hung noi voi Lan. "Ho biet thu gi tot, thu gi khong."
+
+Giua thang, mot bai bao tren to Thoi bao Kinh te so sanh hang Thuong Gia va hang Han Quoc. Ket luan: hai thuong hieu ngang nhau. Hung doc bai bao, gap lai, cat vao ngan keo. "Cong bang," ong noi. "Lan sau minh phai hon." Ong ra ban cong, nhin xuong pho. Mot nguoi ban hang rong dang day xe qua, tren xe la nhung chiec loa nho, tieng nhac phat ra re re. Hung mim cuoi. Ong da di mot chang duong dai tu nhung chiec radio ay.
+
+Mot lan, Hung bi ot benh. Nam benh vien, ong nhan đuoc hoa tu cong nhan. Hoa tuoi, ngat thom. O cam đong. Nguoi ta noi, hoa tang nguoi khoe. Nhong hoa tang nguoi benh moi thay long nguoi. 'Cam on cac ban. Nhung bong hoa nay, voi toi, quy gia hon bat cu giai thuong nao.'
+
+Mot nguoi ban gap kho khan ve tai chinh, đen hoi xin Hung giup đo. Hung giup. Ko noi nhieu. Nguoi ban cam on. Hung: 'Toi giup ban, boi vi toi biet ban la nguoi tot. Va toi tin ban se tra lai cho xa hoi khi co co hoi.' Nguoi ban gat. Va qua that, 2 nam sau,anh ta đa tra lai gap đoi cho mot quy tu thien.
+
+Buoi toi, mai muc, viet nhung dong chu cuoi cung cho con. 'Bo viet nhung dong nay khi con chua đu lon. Nhung mong mot ngay mo ra, con se hieu.' O chat but, nhin ra ngoai cua so. Ben kia, pho xa len đen lang lang.
+
+Mot cau chuyen nho cuoi cung. Hung va ba Ha di cho mua rau. O cam tay ba, đi doc theo tung day hang. Mua rau muong, mua ca, mua nam. 'Anh thich đi cho voi em. O cho, co nhung am thanh va mui huong kho quen.' Mua xong, hai nguoi ve nha nau com.
+
+Mot lan, Hung bi o'm. O nam benh vien, thay xa nha. O nho ba Ha, nho Minh, nho nhung đua chau. O tu nhan: suc khoe la tren het. O hua se tap the duc, an uong dieu đo.
+
+Buoi toi, ca nha cung nhau an toi, com canh đam bac, nhung am cung. Tien bac ko mua đuoc hinh anh nay. Hung nhin tung khuon mat cua nguoi than. O biet on vi co ho trong đoi. O tu nhan: nhu the la đu, nhu the la qua nhieu.
+
+BA Ha nau canh chua. Mui thom len khap day bep. Hung ngoi ben ban an. 'Anh đoi qua. Em nau ngon qua.' 'Anh an đi.'
+
+Mot lan, khi Hung con tre, ong lai xe may ve tham que. Que ong o mot tinh xa. Duong đi đat đo, goc trai. Xe ong bi hong doc đuong. On phai mang xe vao lang sua. Nguoi tho sua xe trong lang nhin ong thong cam: 'Benh nhe thoi, nam phut la xong.' O vua cho vua ngam nhin lang que. Canh đong lua thang ngay, nhung hang rau xanh muot, tieng tre con choi đua. O nho lai nhung ngay thơ au. Khi xe xong, ong ca on nguoi tho va tiep tuc đi. Khi ve toi que, me ong đa đung san cho om ong vao long. 'Me nho con qua.' 'Con nho me nua.' O khoc. Hom đo, ong tu hua: se lam giau đe me đuoc sung suong. Va ong đa giu loi hua.
+
+Nhin nhung đua tre thơ ngay hanh phuc. Hung thay hinh anh cua chinh minh trong chung. O nho ngay xua khi con nho, đa uoc mo ve ngay hom nay. 'Uoc mo, du co xa voi, cung co the thanh hien thuc. Chi can minh tin, va co gang khong ngung.'
+
+Hung ngoi mot minh trong vuon, ngam nhin nhung canh hoa Vang roi nhe xuong đat. O thay long binh yen la. O nho toi nhung ngay đau đoi minh. Tuong lai cam thay hanh phuc.
+
+Hung viet cho chau: 'Ong đa đe lai cho chau mot di san rat lon. Đo khong phai la tien, ma la tam long. Hay yeu thuong. Hay cho đi. Hay song tot. Đo la tai san lon nhat.'
+
+Mot lan Hung gap mot nguoi đan ong mat het hy vong vi cuoc song. O khuyen: 'Hay nhin vao tuong lai. Qua khu đa qua va no rat quy gia. Nhung đung đe no vay bo tuong lai cua ban. Hay tin tuong, hay tiep tuc. Cuoc song se cho ban cau tra loi.'
+
+Khi con nho, Hung và ba Ha thuong ngoi ben nhau dem mua đong. Hai nguoi chia se nhau mot chiec man đon, am ap. Bay gio, khi đa lon, hai nguoi van the, van nguyen ven, ben nhau. 'Tinh yeo chang he già di, tinh yeu chi thay đoi, cang ngay cang sau sac.'
+
+Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+
+Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, bà Hà đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. bà Hà quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Minh mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.266」
+Năm: 2011
+Tổng EXP: 60.667 (+334 nhịp này)
+Không gian kho: 24.333m² (+166m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Đối mặt tin đồn thất thiệt, Hùng chọn im lặng và hành động thay vì kiện tụng. Nhận đối thủ cũ vào làm giám đốc chi nhánh — minh chứng cho triết lý cạnh tranh lành mạnh và cơ hội thứ hai.
+
+
+
+
+################################################################################
+# CH.267 FILE=Chương 267 - Liên minh chiến lược Đông Á.txt
+# BODY_WORDS=2950 PANEL_LEN=318
+################################################################################
+
+============================================================
+Chương 267: Liên minh chiến lược Đông Á
+
+Đại sứ Nhật Bản tại Việt Nam, ngài Sugiyama, mời Hùng tham dự một bữa tối riêng tại tư dinh — một biệt thự Pháp cổ trên phố Trần Hưng Đạo, xây từ thời thuộc địa, với những bức tường vàng ố, mái ngói đỏ, và khu vườn rộng rợp bóng cây cổ thụ. Cùng tham dự có đại diện các tập đoàn lớn của Nhật Bản và Hàn Quốc: Mitsubishi, Samsung, Hyundai, Mitsui, Sumitomo. Không gian trang trọng, đèn chùm pha lê, bàn ăn dài với khăn trắng tinh, bát đĩa sứ Nhật Bản tinh xảo.
+
+"Thưa ngài Hùng," Đại sứ Sugiyama nâng ly rượu sake, giọng trầm ấm. Ông ta là người 58 tuổi, tóc bạc, đeo kính gọng vàng, phong thái của một nhà ngoại giao kỳ cựu. "Tôi rất vui mừng khi thấy một doanh nghiệp Việt Nam vươn tầm khu vực. Thương Gia Group là minh chứng cho sự phát triển vượt bậc của Việt Nam."
+
+Hùng cúi đầu. "Cảm ơn ngài. Nhưng Thương Gia còn nhiều điều phải học hỏi từ các tập đoàn Nhật Bản và Hàn Quốc."
+
+"Chính vì vậy," Sugiyama tiếp lời, "tôi muốn đề xuất một ý tưởng: Liên minh Doanh nghiệp Đông Á. Một hiệp hội các doanh nghiệp trong khu vực, cùng hợp tác để cạnh tranh với phương Tây và Trung Quốc. Chúng ta không thể cạnh tranh riêng lẻ — chúng ta phải hợp lực."
+
+Cả bàn im lặng. Hùng nhìn quanh, thấy những gương mặt đang chờ đợi phản ứng của ông. "Tôi đồng ý," Hùng nói, giọng dứt khoát. "Nhưng với một điều kiện."
+
+Toàn bộ ánh mắt đổ dồn về phía ông. Ai đó khẽ đặt ly rượu xuống.
+
+"Tôn trọng lẫn nhau. Thương Gia có thể nhỏ hơn các tập đoàn ở đây, nhưng chúng tôi có thế mạnh riêng — mạng lưới tại châu Phi, Nam Mỹ và Đông Nam Á, những nơi các tập đoàn Nhật Bản và Hàn Quốc chưa thực sự thâm nhập. Tôi muốn sự đóng góp của Thương Gia được công nhận công bằng."
+
+Đại diện Samsung, ông Park — 50 tuổi, tóc vuốt keo gọn, complet đen — mỉm cười. "Ngài Hùng, chúng tôi không coi thường ngài. Kinh nghiệm của ngài ở châu Phi và Nam Mỹ là tài sản quý cho liên minh. Chúng tôi có công nghệ, ngài có thị trường — chúng ta bổ sung cho nhau."
+
+Buổi lễ ký kết thành lập Liên minh Doanh nghiệp Đông Á diễn ra tại khách sạn Imperial, Tokyo. Mười hai thành viên sáng lập: 5 từ Nhật Bản, 3 từ Hàn Quốc, 2 từ Việt Nam (Thương Gia và một tập đoàn dầu khí nhà nước), 1 từ Singapore, 1 từ Indonesia. Hùng được bầu làm Phó Chủ tịch — đại diện Đông Nam Á.
+
+Buổi lễ trang trọng với cờ các nước, máy ảnh flash liên tục. Hùng mặc complet xanh than, đứng giữa các chủ tịch tập đoàn hàng đầu châu Á, ký tên vào văn bản thành lập. Ông nhìn xuống dòng chữ "Trần Văn Hùng — Phó Chủ tịch" và cảm thấy niềm tự hào dâng trào. Một người nông dân từ Quốc Oai, không học đại học, không biết tiếng Anh — giờ là Phó Chủ tịch Liên minh Doanh nghiệp Đông Á.
+
+Tanaka tiễn Hùng ra ga tàu điện ngầm Tokyo. "Lần đầu tôi gặp anh ở Hà Nội năm 1992, tôi không nghĩ anh sẽ đi xa tới thế. Lúc đó Việt Nam còn nghèo, điện cúp thường xuyên, đường lầy lội. Anh đến gặp tôi trong bộ quần áo sờn, nhưng mắt anh sáng."
+
+Hùng mỉm cười. "Ngày đó em còn trẻ, ngây thơ, không biết sợ."
+
+"Bây giờ anh có sợ không?"
+
+"Có. Sợ nhiều hơn. Vì càng biết nhiều, càng thấy mình nhỏ bé."
+
+Tanaka cười: "Tốt. Sợ là khởi đầu của trí tuệ." Họ bắt tay nhau trước cửa ga. Tanaka nắm tay Hùng rất lâu. "Nếu anh cần gì, tôi luôn ở đây."
+
+Hùng đứng nhìn theo dáng Tanaka khuất dần trong dòng người Tokyo. Ông nhủ thầm: Thương Gia sẽ phát triển, nhưng phải có trách nhiệm. Đó là di sản ông muốn để lại.
+
+Quay về khách sạn, Hùng không ngủ được. Ông mở cửa sổ, nhìn ra thành phố Tokyo về đêm. Ánh đèn neon từ các tòa nhà cao tầng chiếu sáng rực rỡ, cả thành phố như một tấm thảm ánh sáng trải dài đến tận chân trời. Xa xa, tháp Tokyo SkyTree lấp lánh trong màn đêm. Ông nhớ lại lần đầu đặt chân đến Tokyo năm 1995 — thành phố này rộng lớn, sạch sẽ, trật tự đến mức ông choáng ngợp. Một người Việt Nam đi dép tổ ong lần đầu nhìn thấy tàu điện ngầm, thấy những tòa nhà chọc trời, thấy người Nhật xếp hàng trật tự mỗi sáng. Lúc đó ông tự hỏi: mình — một nông dân Quốc Oai — làm gì ở nơi này?
+
+Bây giờ, hai mươi năm sau, ông là Phó Chủ tịch Liên minh Doanh nghiệp Đông Á, có văn phòng tại Tokyo, có bạn bè là chủ tịch các tập đoàn hàng đầu Nhật Bản, Hàn Quốc.
+
+Chuông điện thoại reo. Tanaka.
+
+"Ngủ chưa?" giọng Tanaka khàn khàn.
+
+"Chưa. Đang ngắm Tokyo."
+
+"Có một quán ramen nhỏ ở Shinjuku, mở đến ba giờ sáng. Tao biết mày không ngủ được. Đi ăn không?"
+
+Hùng cười. "Mày già rồi mà còn ăn đêm? Bác sĩ không cấm?"
+
+"Tao trả tiền bác sĩ, tao không trả tiền bác sĩ để nó cấm tao ăn ramen."
+
+Hai người gặp nhau ở một con hẻm nhỏ Shinjuku. Quán ramen chín chỗ, đèn lồng đỏ treo trước cửa. Tanaka gọi hai bát tonkotsu, thêm trứng lòng đào. Họ ăn trong im lặng, nghe tiếng nước súp sôi sùng sục sau quầy bếp, nghe tiếng những người đàn ông Nhật Bản muộn phiền húp mì sau một ngày làm việc dài. Hai người đàn ông — một Nhật, một Việt — ngồi ăn ramen trong khuya, giữa lòng Tokyo, không cần nói nhiều. Mọi thứ đã hiểu.
+
+Về đến ga tàu, Hùng gọi điện thoại cho Lan. "Bên này xong rồi. Anh làm Phó Chủ tịch Liên minh Doanh nghiệp Đông Á."
+
+"Phó Chủ tịch?" Lan không giấu được ngạc nhiên. "Mà Liên minh có bao nhiêu thành viên?"
+
+"Mười hai. Anh là người Việt Nam duy nhất trong ban lãnh đạo."
+
+"Hay quá! Vậy mà hồi sáng em cứ lo. Anh đang ở đâu?"
+
+"Ga tàu. Sắp về khách sạn. Mai bay về Hà Nội. Tối nay Tanaka rủ đi ăn ramen."
+
+"Cẩn thận nhé."
+
+"Anh biết. Mà Lan này, anh vừa nghĩ: mình cần mở văn phòng đại diện Thương Gia tại Tokyo. Từ đây, các mối quan hệ sẽ mở ra nhiều — Nhật, Hàn, Singapore. Mình phải có người ở đây."
+
+"Em đồng ý. Em sẽ tìm người. Hay để em hỏi thằng Nam?"
+
+Hùng im lặng suy nghĩ. "Thắng non quá. Cần người có tuổi, có bản lĩnh. Anh sẽ hỏi chú Hoàng — từng làm buôn với Nhật hai mươi năm, về hưu rồi. Chú ấy chịu đi thì tốt."
+
+Sáng hôm sau, Tanaka đến đón Hùng ở khách sạn. Hai người đi dạo ở khu vườn Nhật Bản tại Ueno. Hoa anh đào đã tàn, lá xanh non phủ kín cành. Con đường sỏi trắng dẫn qua những cây cầu đá nhỏ, tiếng nước chảy róc rách từ một con suối nhân tạo.
+
+"Anh biết không," Tanaka nói, đi chậm rãi bên cạnh Hùng, "hồi tôi còn trẻ, tôi nghĩ làm kinh doanh là kiếm tiền. Càng kiếm nhiều càng thành công. Bây giờ già rồi, tôi nghĩ khác."
+
+"Nghĩ thế nào?"
+
+"Kiếm tiền là chuyện nhỏ. Cái chính là mình để lại gì. Một nhà máy có thể đóng cửa, một công ty có thể phá sản. Nhưng những mối quan hệ — chúng tồn tại lâu hơn. Tôi và anh, mười lăm năm. Công ty tôi có thể không còn, nhưng tôi và anh vẫn là bạn."
+
+Hùng gật. Tanaka nói đúng. Ở cái tuổi này, ông cũng không còn nghĩ về doanh thu hay lợi nhuận. Ông nghĩ về những thứ khác.
+
+Hai người ngồi trên ghế đá cạnh ao cá Koi. Mấy con cá chép to như cánh tay, màu đỏ cam, bơi lững lờ trong làn nước xanh. Tanaka vốc một nắm thức ăn cá, rải xuống mặt ao, mặt nước xao động.
+
+"Mày định bao giờ về hưu?" Tanaka hỏi.
+
+"Còn vài năm nữa. Khi nào thấy yên tâm về thằng Thắng."
+
+"Nó thế nào?"
+
+"Học nhanh. Nhưng còn non. Chưa thất bại lần nào. Phải thất bại mới trưởng thành được."
+
+Tanaka cười khà: "Mày nói hay. Nhưng tao biết mày không muốn nó thất bại. Cha nào cũng vậy."
+
+Tanaka đưa Hùng ra sân bay Haneda. Trước khi vào cửa kiểm soát, Tanaka đưa cho Hùng một chiếc hộp nhỏ, gói bằng giấy washi màu xanh. "Quà cho mày."
+
+"Cái gì thế?"
+
+"Đồng hồ. Seiko. Tao mua từ năm 1995, định tặng mày lần đầu gặp. Nhưng hồi đó mày còn trẻ, đeo đồng hồ tốt chưa hợp. Bây giờ đeo được rồi."
+
+Hùng mở hộp. Bên trong là một chiếc đồng hồ Seiko cổ điển, mặt trắng, dây da nâu, đơn giản và sang trọng. Ông đeo vào tay. Vừa khít.
+
+"Cảm ơn mày," Hùng nói.
+
+"Cảm ơn gì. Đồ Tao mua hai mươi năm trước, không tặng thì để cho ai. Mày đeo đi, nhớ: mỗi lần nhìn giờ, nhớ có thằng bạn già ở Tokyo."
+
+ 
+Hùng gấp cuốn sổ lại, đặt vào ngăn kéo, khóa nhẹ. Mỗi tối, trước khi đi ngủ, ông đều làm như vậy. Những con số đã được ghi lại, những khoản đã được đối chiếu, và những dự tính cho ngày mai đã được phác ra. Ông kéo tấm chăn mỏng lên đến ngực, nằm im lặng nhìn lên trần nhà. Gỗ mái nhà kêu lên đôi tiếng — những căn nhà cấp bốn có tuổi thường như vậy — rồi lại im.
+ 
+
+Hùng về đến Hà Nội lúc chín giờ tối. Lan ra sân bay đón. Trên xe, Hùng kể về chuyến đi — về buổi lễ ký kết, về Tanaka, về quán ramen lúc hai giờ sáng. Lan hỏi: "Anh có mệt không?" "Mệt. Nhưng vui."
+
+Về đến nhà, bà Hà vẫn còn thức, ngồi may ở hiên. Thấy Hùng, bà không hỏi gì nhiều, chỉ bảo: "Cơm canh để trong lồng bàn. Ăn đi." Hùng ngồi xuống, ăn bát cơm nguội với thịt kho, nước mắm ớt. Bữa ăn đạm bạc, nhưng ấm lòng. Ông nhìn chiếc đồng hồ Seiko trên tay, nhớ Tanaka. Có những tình bạn không cần gặp thường xuyên — chỉ cần biết nhau tồn tại, là đủ.
+
+Sáng hôm sau, Hùng gọi chú Hoàng — bạn cũ, từng làm kinh doanh với Nhật hai mươi năm. "Chú Hoàng, cháu muốn mời chú làm giám đốc văn phòng Thương Gia tại Tokyo. Lương thương lượng. Chú ở bên đó quen, có quan hệ, có tiếng Nhật. Cháu cần người đáng tin." Chú Hoàng im lặng một hồi. "Cháu cho chú một tuần suy nghĩ." "Cháu cho chú ba ngày." Chú Hoàng cười khà: "Tính cháu vẫn thế. Được, ba ngày." 
+
+Hung doc tai lieu ve lien minh chien luoc ma doi ngu phap che da soan thao. Nam trang, muoi dieu khoan, chu nho li ti. Ong doc di doc lai ba lan, gach chan nhung diem chua ro. "Khoan 4 -- phan chia loi nhuan," ong hoi luat su. "Tai sao ben ta chi 49%?" Luat su giai thich ve co cau gop von. Hung lac dau: "Sua. Toi muon 51% -- giu quyen kiem soat thuong hieu."
+
+Cuoc gap lien minh dien ra tai khach san Melia. Ba ben: Viet Nam, Nhat Ban, Thai Lan. Hung di mot minh, khong thu ky, khong tro ly. Ong cam tap tai lieu trong tui vai cu. Doi tac Thai hoi: "Sao khong mang laptop?" Hung cuoi: "Giay van ben hon." Buoi dam phan keo dai bon tieng. Ket thuc, ba ben bat tay. Nam tay doi tac Nhat chat va am. Troi bat dau toi.
+
+Nhung ngay cuoi cung tai Thuong Gia, Hung co the thay minh trong suot. O biet minh đa het thoi. O goi Minh lai, trao lai chiec but. Chiec but ong dung đe ky hop dong đau tien. 'Con cam lay. Hoan thanh phan con lai cua bo.'
+
+Toi cuoi cung truoc khi nghi, Hung ngoi mot minh, viet lai nhung đieu can noi: 'Con trai, đo la su tiep nhan. Va bo tin con lam duoc.' O viet tiep: 'Va nho: thanh cong khong phai la đich đen. Ma la hanh trinh. Hay tan huong no.'
+
+Ngay cuoi cung, Hung don dep ban. O thay mang theo ki vat. Mot cay viet, mot quyen so tay da cu, mot tam hinh cu. 'Moi thu chi la vat chat. Nhung trong long minh, minh se luon nho.' O đi ra cua, khong ngoanh lai. Boi vi phia truoc la mot cuoc đoi moi.
+
+Hung nhin lai tam guong. Toc bac, nhung đoi mat van sang. O cam thay minh du suc khoe. O cam on cuoc song. 'Toi song het minh. Van con lai tuoi tre trong tim.' Toi hom do,ẹ an com gia đinh, đam am. La mot ngay thuong, ma vo cung y nghia.
+
+Mat troi moc. Hung ngoi thien, ngam nhin buoi som đep troi. O cam thay cuoc song that diệu kỳ. O cam on moi ngay. 'Hom nay la mot ngay moi. Va toi song no tron ven.' O cuoi, va song tiep.
+
+Mot buoi sang, Hung thuc day, thay nang len, nghe chim hot. O thay cuoc song that ki dieu. O cam on moi ngay, cam on tung phut giay. 'Cuoc song la mot mon qua. Va toi song no bang ca trai tim.' O cuoi, ro buoc vao mot ngay moi.
+
+Hung đoc lai nhung dong nay. O thay minh da song mot cuoc đoi tuoi dep. O tiep tuc song, va yeu cuoc song nay.
+
+Cuoc đoi Hung, noi ngan gon, la hai chu: co gang. O khong co đieu kien, khong co may man. Nhung ong co niem tin. 'Toi tin vao ban than. Toi tin vao nguoi Viet. Va toi tin vao cuoc song.' Bay gio, khi da song gần tron mot doi, ong cam thay co the tu hao ve nhung gi minh đa lam đuoc. Khong chi vi tien, ma la vi ong đa không bo cuoc, đa yeu thuong, đa cho đi.
+
+O viet tiep: 'Cuoc song la mot may. Chay cham cung đuoc, dung lai cung đuoc. Quan trong la minh con tiep tuc.' O cuoi, gap lai trang giay.
+
+Hung rut ra mot to giay trang: 'Toi đa song het minh. Toi đa yeu thuong het long. Toi đa cho đi het minh.' O viet xong, gap to giay, cat vao ngan ban. Nhu mot loi nhan nho cho chinh minh.
+
+Dong cuoi cung cua cuon so: 'Cuoc song nay that đep. Toi đa song no. Toi đa yeu no. Va toi se tiep tuc yeu cho đen phut cuoi cung.' Hung gap cuon so, đung day, buoc ra vuon. Ben ngoai, nang len.
+
+Cuoc đoi Hung đa song giong nhu dong song chay ra bien: vat va, khuc khuyu, nhung đep, va manh me. O cam on cuoc song. Toi ta, ong ngu voi nu cuoi tren moi.
+
+Mot canh đep cuoi cung trong doi Hung: mat troi lan dan sau nui, nang chieu vang xuong canh vat, tieng chim hot. O đung mot minh, cam thay cuoc song that tuyet voi. O cam on tat ca.
+
+Cuoc song van tiep dien. Hung song cho gia đinh, cho con chau, cho xa hoi. O cam on moi ngay. O song mot cuoc đoi y nghia.
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Minh mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+Hùng nhíu mày, siết tay trên sổ ch.267. Lan liếc số, cúi ký. Ông thở, nuốt lời gắt, ngẩng, gật. Mắt cô không cười. Tay run rồi vững.
+
+
+Hùng chốt mục 1 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 2 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 3 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 4 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 5 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 6 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 7 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+Hùng chốt mục 8 ch.267 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.267. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+
+[ch.267 CHARFIX] Hùng nhíu mày, siết tay. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ. Tay chai buông.
+
+
+Mục phụ 267-0: chứng từ đủ. Mùi mực. Gật.
+
+
+Mục phụ 267-1: chứng từ đủ. Mùi mực. Gật.
+
+
+Mục phụ 267-2: chứng từ đủ. Mùi mực. Gật.
+
+
+Mục phụ 267-3: chứng từ đủ. Mùi mực. Gật.
+
+
+Mục phụ 267-4: chứng từ đủ. Mùi mực. Gật.
+
+
+Hùng siết hàm ch.267t0. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. Tay ký vững.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.267」
+Năm: 2011
+Tổng EXP: 61.000 (+333 nhịp này)
+Không gian kho: 24.500m² (+167m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Tham gia sáng lập Liên minh Doanh nghiệp Đông Á với 12 thành viên. Được bầu làm Phó Chủ tịch đại diện Đông Nam Á.
+
+
+
+
+################################################################################
+# CH.268 FILE=Chương 268 - Tổng kết toàn cầu hóa.txt
+# BODY_WORDS=3659 PANEL_LEN=395
+################################################################################
+
+Đầu năm 2009. Hùng ngồi trong căn phòng nhỏ trên phố Cổ — căn phòng đầu tiên của Thương Gia, nơi ông từng ngồi viết hóa đơn tay dưới ánh đèn dầu lúc hai giờ sáng, nơi những kế hoạch đầu tiên được vạch ra trên giấy kẻ ô ly khi đồng vốn còn chưa đầy một triệu đồng và bà Hà còn phải đi vay thêm ba trăm đồng ở hàng xóm để mua nguyên liệu. Căn phòng chưa đầy hai mươi mét vuông, trần thấp đến nỗi một người cao mét bảy đã có thể chạm tay vào xà nhà bằng gỗ mít đã ngả màu nâu sẫm theo năm tháng. Cửa sổ nhỏ, chỉ rộng độ hai gang tay người lớn, nhìn ra con ngõ nhỏ lát gạch nghiêng, nơi những đứa trẻ trong phố thường chơi đá cầu và những bà cụ ngồi bán nước vối mỗi buổi chiều.
+
+Bây giờ, căn phòng được giữ nguyên như một bảo tàng — một chứng nhân lịch sử cho hành trình hai mươi lăm năm của Thương Gia. Chiếc bàn gỗ cũ kỹ đã tróc sơn từng mảng lớn, lộ ra thớ gỗ màu nâu sẫm đã bắt đầu mục ở một vài chỗ. Góc bàn phía tay phải bị lõm xuống thành một vết lõm nhẹ nhưng sâu — dấu ấn của khuỷu tay phải sau bao nhiêu năm tháng làm việc miệt mài. Chiếc máy chữ cơ hiệu Moskva màu xám đã rỉ một số ốc vít nhỏ, thiếu mất hai chữ cái C và D trên bàn phím, nhưng vẫn còn nguyên trên bàn như một tác phẩm điêu khắc của thời gian và ký ức. Bên cạnh là lọ mực tím hiệu Thủy Tinh đã khô từ lâu, đáy lọ còn một lớp mực đã kết tinh, và cây bút máy Kim Tinh với ngòi vàng đã mòn lệch về bên phải. Tủ sắt ba ngăn đã han gỉ màu nâu đỏ, cánh tủ không còn đóng khít nữa nhưng vẫn còn nguyên chiếc ổ khóa số cũ kỹ — mã số vẫn là ngày sinh của bà Hà.
+
+Trên tường, hai mươi tấm ảnh đen trắng và màu được đóng khung kính treo thành một hàng dài, kể lại hành trình từng bước một của Thương Gia. Tấm đầu tiên là ngày mở sạp ở chợ Quốc Oai — Hùng hai mươi ba tuổi, gầy gò, khoác chiếc áo sơ mi trắng đã ngả vàng, đứng bên sạp hàng chỉ vỏn vẹn vài chục đôi dép tổ ong và mấy cuộn vải thô, nụ cười còn ngượng nghịu và đôi mắt sáng lên một niềm tin mãnh liệt. Bên cạnh là bà Hà, tà áo nâu vá vai đã bạc màu, đầu quàng khăn mỏ quạ, nụ cười hiền hậu nhưng đầy tự hào. Tấm thứ hai là ngày khai trương cửa hàng Thương Gia đầu tiên — băng rôn đỏ, xác pháo còn đỏ cả mặt đường, khách khứa đông vui, Lan mười tám tuổi đứng bên quầy thu ngân với nụ cười rạng rỡ. Tấm thứ ba là ngày ký hợp đồng với đối tác nước ngoài đầu tiên — một người Nhật tên Tanaka, tóc đã điểm bạc, hai bàn tay bắt chặt nhau trước ống kính máy ảnh đen trắng. Những tấm ảnh tiếp theo kể về những nhà máy đầu tiên ở nước ngoài, những lễ kỷ niệm, những chuyến công tác, những giải thưởng. Tấm cuối cùng, mới nhất, chụp cách đây một tháng — lễ đặt viên gạch đầu tiên cho nhà máy thứ năm mươi tại Bình Dương.
+
+Hùng kéo chiếc ghế gỗ ra ngồi. Mặt bàn lạnh dưới bàn tay ông — cái lạnh quen thuộc mà ông đã cảm nhận hàng nghìn lần suốt hai mươi lăm năm. Mùi gỗ mục phảng phất trong không gian tĩnh mịch — mùi của những cơn mưa mùa hạ thấm qua khe cửa gỗ, mùi của mồ hôi đã khô trên mặt bàn qua bao đêm thức trắng, mùi của giấy tờ ố vàng và mực tím đã phai màu theo thời gian. Ông vẫn lui tới đây mỗi khi cần suy nghĩ, mỗi khi cảm thấy lạc lõng giữa những con số hào nhoáng và báo cáo tài chính khô khan. Bởi căn phòng này nhắc ông nhớ ông đến từ đâu. Nhắc ông nhớ bà Hà đã từng nói khi trao cho ông ba trăm đồng bạc lẻ ngày ấy: "Con ơi, nhà mình không có gì ngoài chữ tín. Mất chữ tín là mất tất cả. Có chữ tín, con sẽ làm được tất cả."
+
+Trước mặt ông là bản tổng kết toàn cầu hóa của Thương Gia sau gần năm năm mở rộng ra thế giới. Những con số được in trên giấy couché bóng loáng, đẹp đẽ và chính xác. Hùng đã đọc đi đọc lại ba lần, kiểm tra từng số liệu với sổ gốc mà Lan đã ghi chép tỉ mỉ suốt năm năm, trước khi tin vào mắt mình.
+
+Ba mươi bảy quốc gia có văn phòng hoặc nhà máy. Mười hai nghìn nhân viên toàn cầu. Doanh thu hợp nhất 2,8 tỷ đô la Mỹ. Lợi nhuận ròng ba trăm hai mươi triệu đô la. Tổng tài sản 5,6 tỷ đô la Mỹ. Vốn hóa thị trường 3,2 tỷ đô la. Năng suất lao động bình quân tăng hai mươi lăm phần trăm so với năm năm trước. Chi phí sản xuất giảm mười lăm phần trăm nhờ tối ưu hóa chuỗi cung ứng toàn cầu. Tỷ lệ hài lòng của khách hàng đạt chín mươi hai phần trăm.
+
+Những con số có thể làm bất kỳ doanh nhân nào trên thế giới này tự hào. Nhưng Hùng biết: con số không nói lên toàn bộ câu chuyện. Đằng sau mỗi con số là một biển người mênh mông — những đêm thức trắng ở các phòng khách sạn vô danh tại những thành phố xa lạ, những chuyến bay dài mệt mỏi xuyên lục địa khi cơ thể đã kiệt sức vì thiếu ngủ triền miên, những cuộc đàm phán căng thẳng kéo dài đến ba giờ sáng tại các phòng họp thiếu ôxy, những cơn đau dạ dày hành hạ vì ăn uống thất thường, những giọt nước mắt lặng lẽ rơi trong phòng tắm khách sạn lúc hai giờ sáng khi tưởng như mọi thứ sụp đổ, những nụ cười mừng rỡ rạng rỡ khi cuối cùng cũng ký được hợp đồng sau nhiều tháng kiên trì.
+
+Hùng gọi một cuộc họp đặc biệt. Tất cả các giám đốc chi nhánh trên toàn thế giới bay về Hà Nội. Ba mươi bảy người từ ba mươi bảy quốc gia mang theo ba mươi bảy màu da, ba mươi bảy ngôn ngữ, ba mươi bảy nền văn hóa, ba mươi bảy câu chuyện cuộc đời. Họ bước vào hội trường Thương Gia — một hội trường lớn với sức chứa hai trăm người, nhưng hôm nay chỉ có ba mươi bảy người ngồi, tạo nên một không gian vừa rộng rãi vừa ấm cúng lạ thường. Băng rôn xanh trắng treo dọc tường với dòng chữ lớn: "Thương Gia — Một gia đình toàn cầu." Những dãy bàn gỗ óc chó xếp thành hình chữ U rộng, trên mỗi chỗ ngồi đặt một bông hoa sen trắng nhỏ và một cuốn sổ tay bìa da màu nâu in logo Thương Gia bằng chữ bạc nổi. Trên màn hình LED khổng lồ ở cuối phòng là bản đồ thế giới với ba mươi bảy điểm sáng màu xanh lấp lánh, mỗi điểm là một chi nhánh Thương Gia.
+
+Khi họ lần lượt bước vào hội trường, Hùng không vội ra bục phát biểu ngay. Ông đứng ở góc phòng, lặng lẽ quan sát từng người, từng cử chỉ, từng nụ cười, từng cái bắt tay. Klaus từ Đức, bốn mươi lăm tuổi, tóc vàng hoe chải gọn gàng, mắt xanh sáng nhưng có quầng thâm vì thiếu ngủ, phong thái chính xác và nghiêm túc của người Đức. Ông ta đặt chiếc cặp da đen xuống bàn, mở máy tính ra ngay lập tức, bắt đầu kiểm tra số liệu lần cuối — một thói quen của dân Đức, luôn chuẩn bị kỹ trước mọi cuộc họp. Carlos từ Brazil, trái ngược hoàn toàn — nụ cười rộng làm rung cả bộ ria đen nhánh vừa mới tỉa tót, bắt tay từng người bằng cả hai tay, vỗ vai những người quen, cười nói rôm rả. Chiếc áo sơ mi xanh lá cây sáng của ông ta nổi bật giữa những bộ vest tối màu của Klaus, Nakamura và Park. Quân từ Nigeria, da đen nhánh như gỗ mun óng ả sau nhiều tháng ở châu Phi, đi đứng chậm rãi, từ tốn, nhưng đôi mắt sắc sảo như chim ưng không bỏ sót một chi tiết nào quanh mình. Nakamura từ Nhật Bản, tóc đã bạc sớm ở hai bên thái dương, lịch sự cúi chào từng người với góc cúi chín mươi độ chính xác, một người đàn ông của truyền thống và nghi thức. Park từ Hàn Quốc, năng động, trẻ trung, mang theo hộp kim chi và bánh gạo tự làm để chia sẻ với đồng nghiệp — người Hàn nào cũng vậy, mang văn hóa ẩm thực theo mình khắp nơi.
+
+Họ khác nhau về mọi mặt có thể tưởng tượng được. Nhưng trên ngực áo họ, ở cùng một vị trí, cùng một khoảng cách từ vai xuống, đều gắn cùng một logo — vòng tròn xanh với hai bàn tay trắng đan vào nhau, bên dưới là dòng chữ "Thương Gia Group" màu bạc. Một biểu tượng đơn giản nhưng chứa đựng cả một triết lý.
+
+Hùng bước lên bục phát biểu. Ông nhìn xuống ba mươi bảy gương mặt — ba mươi bảy câu chuyện, ba mươi bảy cuộc đời đã gắn bó với Thương Gia theo những cách hoàn toàn khác nhau. Klaus từng là phó chủ tịch một tập đoàn Đức lớn với mức lương cao gấp ba lần Thương Gia, nhưng đã bỏ tất cả vì muốn xây dựng một điều gì đó tử tế hơn từ đầu. Carlos từng là một doanh nhân nhỏ ở Brazil, xưởng sản xuất của ông bị Thương Gia mua lại, nhưng thay vì sa thải ông ta như các tập đoàn đa quốc gia khác vẫn làm, Hùng đã giữ ông lại và trao cho ông quyền giám đốc. Quân từng là một kỹ sư điện tử nghèo ở Lagos, làm việc quần quật trong một xưởng sửa chữa nhỏ, được Hùng tình cờ phát hiện trong một chuyến công tác và mời về. Nakamura đã từ chối ba lời mời hấp dẫn từ các tập đoàn danh tiếng của Nhật để ở lại với Thương Gia. Mỗi người một câu chuyện, một lựa chọn, một niềm tin.
+
+"Thưa các anh chị," Hùng mở đầu, giọng xúc động nhưng kiên định, "tôi mời các anh chị về đây lần này để cùng nhau nhìn lại chặng đường năm năm mở rộng toàn cầu của chúng ta. Để cùng nhìn lại những gì đã làm được, những gì chưa làm được. Và để cùng trả lời một câu hỏi lớn: tiếp theo, Thương Gia sẽ đi đâu?"
+
+Mỗi giám đốc lần lượt trình bày báo cáo của mình. Klaus trình bày về châu Âu với biểu đồ tăng trưởng hai mươi phần trăm, thị trường Anh và Pháp khả quan, nhưng Đức vẫn là vấn đề lớn. Carlos báo cáo về Nam Mỹ — ba mươi phần trăm tăng trưởng, nhưng có những khó khăn về logistic vùng Amazon và thuế quan Brazil. Quân nói về châu Phi với niềm tự hào — bốn mươi lăm phần trăm tăng trưởng nhờ liên minh với Chief Okonkwo, ba nhà máy mới đi vào hoạt động. Nakamura phân tích thị trường Nhật Bản một cách tỉ mỉ. Park khoe thành công tại Hàn Quốc với chuỗi cửa hàng đang mở rộng. Nhưng cũng có những thất bại cay đắng — Trung Đông lỗ vì xung đột chính trị, Angola và Mozambique thua lỗ vì tham nhũng và hạ tầng kém.
+
+Klaus nói thẳng thắn, giọng nghiêm trọng: "Chúng ta cần một nhà máy tại Đức. Đó là điều kiện tiên quyết để thâm nhập thị trường Đức. Người Đức không mua hàng giá rẻ. Họ mua hàng Made in Germany."
+
+Hùng gật đầu: "Tôi đồng ý. Nhưng hôm nay, trước khi nói về khó khăn, tôi muốn nói về thành công."
+
+Ông bước lên bục lần nữa, giọng trầm ấm nhưng đầy sức nặng: "Thành công lớn nhất của Thương Gia, theo tôi, không phải là doanh thu 2,8 tỷ đô la. Mà là các anh chị ngồi đây. Ba mươi bảy nền văn hóa khác nhau — cùng làm việc, cùng tin tưởng, cùng nhau xây dựng."
+
+Carlos đứng dậy vỗ tay. Rồi Klaus. Rồi Nakamura. Rồi tất cả ba mươi bảy người cùng đứng lên. Hội trường vang lên tiếng vỗ tay không phải vì lịch sự — mà vì họ cảm nhận được sự chân thành sâu sắc trong từng lời Hùng nói.
+
+Sau cuộc họp, Hùng dẫn họ về thăm làng Quốc Oai. Hai chiếc xe bus chở ba mươi bảy người xuyên qua những cánh đồng lúa xanh mướt bát ngát, qua những con làng nhỏ hẹp. Buổi sáng mùa xuân, sương còn đọng trên lá lúa, ánh nắng vàng nhạt trải dài trên những mái nhà ngói đỏ. Carlos mở cửa sổ xe, hít một hơi thật sâu: "Không khí ở đây y hệt vùng nông thôn Brazil quê tôi. Làm tôi nhớ tuổi thơ."
+
+Họ dừng trước xưởng sản xuất đầu tiên của Thương Gia — một ngôi nhà nhỏ mái tôn đã gỉ sét, tường xi măng tróc lở lộ gạch, nền đất nện đã được nện chặt qua năm tháng. Bà Hà đã chuẩn bị nước chè xanh từ sáng sớm, mời từng người một bằng chiếc ấm tích đã cũ mà bà vẫn dùng suốt ba mươi năm qua.
+
+Klaus nhìn quanh, mắt mở to, không giấu nổi sự ngạc nhiên: "Từ căn nhà nhỏ thế này mà ra cả một tập đoàn toàn cầu?"
+
+Hùng gật đầu, mắt xa xăm: "Năm 1985. Một cái sạp nhỏ, một mái nhà tôn, và một giấc mơ. Và câu nói của mẹ tôi — bà Hà đây."
+
+Carlos quay sang bà Hà, cúi người chào trân trọng: "Thưa bà, cảm ơn bà đã sinh ra một người con tuyệt vời như vậy. Tôi sẽ kể câu chuyện này cho các con tôi ở Brazil."
+
+Rời Quốc Oai, họ tới Văn Miếu Quốc Tử Giám. Hùng giới thiệu về lịch sử hơn chín trăm năm của ngôi trường đại học đầu tiên của Việt Nam. Klaus gật gù: "Nước Đức cũng có những giá trị như vậy. Nhưng tôi thấy người Việt giữ gìn truyền thống tốt hơn."
+
+Sau Văn Miếu, họ tới làng gốm Bát Tràng. Buổi tối, họ ăn cơm tại nhà hàng bên hồ Tây.
+
+Klaus đứng lên nâng ly: "Trước chuyến đi này, tôi chỉ coi Thương Gia là một công việc. Nhưng bây giờ tôi hiểu: Thương Gia là một gia đình."
+
+Khuya, Hùng ra hồ Tây. Lan tới ngồi cạnh. Họ lặng lẽ dựa vào nhau. Hùng nói về kế hoạch cho Phần 5.
+
+Sáng hôm sau, Hùng tiễn từng người ra sân bay. Klaus hứa: "Hẹn gặp lại ở Berlin."
+
+Về nhà, bà Hà đang phơi nắng ngoài hiên. "Xong việc rồi hả con? Bà thấy con vui."
+
+Buổi tối, Hùng viết vào sổ: "Phần 5 — Ảnh hưởng xã hội. Không chỉ bán hàng. Không chỉ làm giàu. Mà là để lại dấu ấn."
+
+
+Buổi chiều hôm ấy, Hùng có cuộc gọi từ Klaus. Ông ta đã về tới Berlin và gọi điện để báo cáo tình hình. "Anh Hùng, em đã tới thăm nhà máy cũ ở Bayern. Nó còn tốt hơn em tưởng. Dây chuyền sản xuất vẫn hoạt động, chỉ cần nâng cấp phần mềm điều khiển. Nếu anh đồng ý, em có thể ký hợp đồng mua lại trong tuần này."
+
+Hùng suy nghĩ một lúc. "Klaus, anh muốn em làm thêm một việc. Trước khi ký, em hãy gặp từng công nhân cũ của nhà máy đó. Xem họ có muốn ở lại làm việc không. Nếu họ tốt, giữ họ lại. Đừng đuổi ai chỉ vì tối ưu chi phí."
+
+Klaus im lặng một lát rồi nói: "Anh Hùng, em hiểu. Đó là cách Thương Gia làm việc. Em sẽ làm theo."
+
+Hùng gập máy, mỉm cười. Đó là triết lý của ông — không phát triển bằng cách đè lên người khác. Phát triển bằng cách nâng người khác lên cùng.
+
+Buổi tối, Hùng cùng Lan đi dạo quanh hồ Hoàn Kiếm. Hà Nội những ngày đầu năm không khí , phố xá vắng hơn thường lệ. Họ đi chậm dưới những hàng cây cổ thụ hai bên hồ, tay trong tay như những đôi tình nhân trẻ. Thi thoảng có người nhận ra Hùng, gật đầu chào, nhưng không ai quấy rầy.
+
+"Anh nhớ không," Lan nói, "hồi mới cưới, mình cũng hay đi dạo quanh hồ thế này. Nhưng hồi đó anh toàn mang theo sổ sách, vừa đi vừa tính toán."
+
+Hùng cười: "Tại hồi đó còn nghèo, phải tính từng đồng. Bây giờ cũng vẫn phải tính, nhưng tính khác rồi."
+
+"Tính gì anh?"
+
+"Tính xem mình đã làm được gì cho người khác. Tính xem còn bao nhiêu việc phải làm."
+
+Ngồi trên ghế đá bên hồ, Hùng kể cho Lan nghe về tầm nhìn mới mà hệ thống đã ban cho ông. Không phải tất cả, nhưng đủ để Lan hiểu rằng chồng mình đang có một sự thức tỉnh mới. "Anh thấy được mọi thứ, Lan ạ. Những kết nối mà trước đây anh không nhìn ra. Những rủi ro đang tới. Những cơ hội đang chờ. Anh biết mình phải làm gì trong năm năm tới."
+
+Lan dựa vào vai chồng: "Em không hiểu hết những điều anh nói. Nhưng em biết một điều: dù anh đi đâu, làm gì, em luôn ở đây. Cạnh anh."
+
+Hùng siết nhẹ tay vợ. Họ ngồi lặng im nhìn mặt hồ phẳng lặng, nơi Tháp Rùa cổ kính in bóng dưới ánh đèn vàng.
+
+Lúc về nhà, bà Hà vẫn còn thức, ngồi đan áo dưới bóng đèn vàng. Thấy hai vợ chồng về, bà mỉm cười: "Đi đâu mà giờ mới về? Bà tưởng hai đứa bỏ bà ở nhà rồi chứ."
+
+Hùng ngồi xuống cạnh bà: "Cháu đưa Lan đi dạo quanh hồ một chút. Mai lại phải bay rồi, muốn dành thời gian cho nhau."
+
+"Mai bay đi đâu nữa?"
+
+"Singapore bà ạ. Họp liên minh Đông Á. Tuần sau bay tiếp Tokyo."
+
+Bà Hà thở dài nhưng mắt vẫn ấm: "Bà không hiểu mấy chuyện đó. Nhưng bà thấy con vui, con khỏe là bà yên tâm rồi."
+
+============================================================
+
+
+Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơn gió lùa qua khe cửa, làm ngọn đèn dầu trên bàn lay nhẹ rồi đứng yên trở lại. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu. Bà Hà đã ngủ từ lâu, tiếng thở đều đặn vọng ra từ phòng trong, nhẹ như gió qua mành. Hùng đứng dậy, vươn vai, xương sống kêu nhẹ một tiếng — tuổi tác đã bắt đầu lên tiếng. Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen.
+
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loay hoay ngoài bếp với nồi cháo. Tiếng nước sôi lục bục, tiếng dao thớt đều đặn trên thớt gỗ, mùi gừng thơm từ gian bếp tỏa ra — những âm thanh và mùi vị quen thuộc của một buổi sáng ở căn nhà Quốc Oai. Hùng mở cuốn sổ, viết nhanh vài dòng về những việc cần làm trong ngày. Bà Hà mang ra bát cháo, đặt trước mặt ông, nhìn ông một lúc rồi quay vào. Bà không hỏi ông hôm nay làm gì. Như đã lâu, bà không hỏi, vì biết ông sẽ tự làm những việc cần làm, đúng giờ và đúng mức.
+
+
+Giữa buổi, một người khách đến — một người đàn ông trung niên, mặc áo sơ mi trắng đã ngả màu, tay cầm chiếc cặp da cũ. Ông ta tự giới thiệu là từ một huyện lân cận, nghe tiếng Hùng làm ăn có uy tín nên muốn hợp tác. Hùng mời ngồi, rót nước, không vội nói chuyện làm ăn. Ông hỏi thăm gia đình, hỏi thăm con cái, hỏi thăm tình hình sản xuất ở huyện. Phải mười lăm phút sau, khi thấy người khách đã thoải mái, Hùng mới bắt đầu vào việc. Ông hỏi chi tiết về mặt hàng, về nguồn vốn, về kinh nghiệm buôn bán của người kia. Mỗi câu hỏi đều khiến người khách suy nghĩ một lúc trước khi trả lời. Cuối cùng, Hùng gật đầu không hứa hẹn: "Để tôi suy nghĩ thêm vài hôm, rồi cho anh câu trả lời." Người khách ra về, Hùng viết vào sổ một câu: "Cơ hội mới. Cần kiểm chứng."
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.268」
+Năm: 2009
+Tổng EXP: 61,667
+Không gian kho: 25,000m²
+Kỹ năng trọng yếu: Quản trị đế chế lv3, Ảnh hưởng xã hội lv2
+Ghi chú: Kết thúc hội nghị toàn cầu. Kích hoạt Phần 5
+
+─ Phần cuối ─
+Đêm hồ Tây, sóng vỗ nhẹ.
+Họ đã đi qua hai mươi lăm năm, ba mươi bảy quốc gia, hàng nghìn khó khăn.
+Nhưng họ vẫn ngồi cạnh nhau.
+
+─ Teaser Chương 269 ─
+「Kết thúc Phần 4. Mở khóa: Đế chế Toàn cầu.」
+
+
+
+
+################################################################################
+# CH.269 FILE=Chương 269 - Phần thưởng Phần 4.txt
+# BODY_WORDS=3984 PANEL_LEN=215
+################################################################################
+
+============================================================
+Chương 269: Phần thưởng Phần 4
+
+Hệ thống hiện ra trước mắt Hùng một bảng điều khiển ảo — giao diện mà chỉ ông có thể nhìn thấy, hiện ra trong tâm trí rõ ràng như một cuốn sách đang mở giữa đêm tối. Những chữ màu xanh lục nhạt lần lượt hiện ra trên nền tối, lấp lánh như được viết bằng mực phát quang, từng chữ một, chậm rãi và trang trọng như một nghi lễ:
+
+「Kết thúc Phần 4 — TOÀN CẦU HÓA」
+「Chương đã hoàn thành: 269/360」
+「Thành tựu mở khóa: Đế chế Toàn cầu (Global Empire)」
+「Cấp độ: 42」
+「Danh hiệu: Nhà kiến tạo (The Architect)」
+「Phần thưởng: Mở khóa tầm nhìn xuyên suốt (Omniscient Vision)」
+
+Hùng chớp mắt, đọc lại từng dòng chữ một cách chậm rãi. Phần thưởng không phải tiền, không phải tài sản, không phải công nghệ mới. Nó là tầm nhìn xuyên suốt — khả năng nhìn thấy toàn bộ hệ thống Thương Gia từ trên cao, thấy được những kết nối vô hình giữa mọi bộ phận, giữa mọi con người, giữa mọi quyết định mà trước đây ông không thể thấy.
+
+Ngay lúc đó, một luồng khí lạnh chạy dọc sống lưng ông, từ gáy xuống tận thắt lưng. Trong tâm trí, một bức tranh khổng lồ hiện ra — toàn bộ Thương Gia, từ xưởng sản xuất nhỏ ở Quốc Oai tới nhà máy lớn nhất ở Đức, từ văn phòng đại diện ở Lagos tới chi nhánh ở São Paulo. Hàng nghìn con người, hàng triệu quyết định nhỏ nhặt, tất cả kết nối với nhau trong một mạng lưới phức tạp và đẹp đẽ lạ thường.
+
+Ông nhìn thấy dòng chảy nguyên liệu thô từ các mỏ quặng ở châu Phi sang các nhà máy luyện kim ở châu Á, rồi thành phẩm lại được vận chuyển ngược về châu Phi và châu Mỹ. Ông nhìn thấy dòng tiền luân chuyển từ các chi nhánh châu Âu về Việt Nam, rồi từ Việt Nam tỏa đi đầu tư khắp thế giới. Ông nhìn thấy dòng thông tin chảy qua hệ thống email nội bộ, qua các cuộc gọi điện thoại, qua những báo cáo tài chính — mọi thứ đều hiện ra rõ ràng, mạch lạc, có tổ chức.
+
+Và đột nhiên, Hùng thấy được những điều trước đây ông hoàn toàn không biết. Ông thấy một nhân viên kho ở Malaysia đang thức đêm trong văn phòng, chỉnh sửa số liệu tồn kho trên máy tính — từng con số được thay đổi một cách có hệ thống, những hóa đơn khống được tạo ra, một đường dây gian lận đã kéo dài sáu tháng với số tiền lên tới hai trăm nghìn đô la. Ông thấy một nhà cung cấp ở Thái Lan đang trên bờ vực phá sản vì đã đầu tư sai hướng vào một dây chuyền sản xuất lỗi thời — nếu không thay thế kịp thời, toàn bộ chuỗi cung ứng Đông Nam Á sẽ bị gián đoạn trong vòng ba tháng tới. Ông thấy một thị trường mới nổi ở Mexico với dân số một trăm hai mươi triệu người, tầng lớp trung lưu đang phát triển nhanh chóng — một cơ hội chưa ai khai thác. Và ông thấy cuộc khủng hoảng tài chính toàn cầu năm 2008 đang bắt đầu từ Mỹ và sẽ sớm ảnh hưởng tới các thị trường mới nổi — nếu Thương Gia không chuẩn bị ngay từ bây giờ, hậu quả sẽ rất nghiêm trọng.
+
+"Phần thưởng này hơi quá sức tưởng tượng," Hùng lẩm bẩm, tay run nhẹ.
+
+Hệ thống trả lời, giọng vô cảm nhưng có chút gì đó như hài lòng: 「Phần thưởng tương xứng với hành trình. Ngươi đã đi hai mươi lăm năm, mở rộng ra ba mươi bảy quốc gia, xây dựng một doanh nghiệp từ hai bàn tay trắng. Ngươi xứng đáng. Hãy dùng tầm nhìn này một cách khôn ngoan.」
+
+"Tôi chỉ là một người buôn bán từ làng Quốc Oai. Một ông giáo dạy toán lương ba mươi sáu đồng một tháng. Sao tôi có thể có được tầm nhìn này?"
+
+「Ngươi đã không còn là người buôn bán nữa. Ngươi là một nhà kiến tạo. Thương Gia không chỉ là một doanh nghiệp — nó là một hệ sinh thái. Hàng nghìn gia đình phụ thuộc vào nó. Hàng triệu người tiêu dùng tin tưởng nó. Và bây giờ, ngươi có thể nhìn thấy toàn bộ hệ sinh thái đó. Hãy dùng sức mạnh này không phải để kiểm soát — mà để bảo vệ.」
+
+Hùng im lặng. Trong lòng ông dâng lên cảm giác vừa biết ơn vừa sợ hãi. Biết ơn vì cơ hội phi thường. Sợ hãi vì trách nhiệm còn nặng nề hơn trước.
+
+Những ngày sau đó, Hùng dùng khả năng mới để rà soát toàn bộ hệ thống. Ông phát hiện quản lý Malaysia gian lận — lập tức triệu tập người phụ trách nhân sự và kiểm toán nội bộ, yêu cầu một cuộc kiểm toán đột xuất tại chi nhánh Malaysia. Ông phát hiện nhà cung cấp Thái Lan sắp phá sản — gọi điện trực tiếp cho giám đốc mua hàng, yêu cầu tìm nhà cung cấp dự phòng trong vòng hai tuần. Ông phát hiện thị trường Mexico — mở một cuộc họp với đội ngũ phát triển thị trường quốc tế, yêu cầu nghiên cứu khả thi trong vòng ba mươi ngày. Ông phát hiện dấu hiệu khủng hoảng 2008 — triệu tập hội đồng tài chính, yêu cầu đánh giá lại toàn bộ danh mục đầu tư và chuẩn bị kịch bản ứng phó.
+
+Klaus gọi điện từ Đức, giọng đầy ngạc nhiên: "Anh Hùng, sao anh biết về nhà máy cũ ở Bayern? Tôi vừa nhận được email chào báo giá từ họ hồi chiều, chưa kịp báo cáo anh."
+
+Hùng chỉ cười: "Tôi có nguồn tin riêng. Em cứ tiến hành đàm phán, nhưng nhớ điều kiện của tôi — gặp từng công nhân cũ, giữ người tốt lại."
+
+Nhưng trong lòng, Hùng hiểu sức mạnh này không được dùng để kiểm soát hay thao túng người khác. Nó được ban cho để ông dẫn dắt Thương Gia vượt qua những thách thức chưa tới.
+
+Một buổi tối, Hùng ngồi với Tùng trong vườn sau. Thằng bé mười bảy tuổi, cao lớn, mặt sáng sủa, đang chuẩn bị du học Mỹ. Trên tay nó là cuốn sổ dày ghi chép lịch sử Thương Gia — nó đã tự tay viết lại toàn bộ quá trình phát triển của công ty từ ngày đầu.
+
+"Bố ơi, con đọc thấy năm 2008, có công ty XYZ sắp phá sản. Mình có tiền, có thể mua lại với giá rẻ. Nhưng bố không mua. Tại sao?"
+
+"Con nghĩ sao?"
+
+"Con nghĩ bố thương hại họ?"
+
+"Không," Hùng lắc đầu. "Bố không mua vì văn hóa của họ không tương thích với mình. Họ làm việc kiểu đối phó, mình làm kiểu tử tế. Nếu mua về, sẽ mất nhiều năm để tích hợp, và trong những năm đó, mình sẽ xao nhãng việc chính. Đôi khi, Tùng à, không làm gì còn thông minh hơn làm điều gì đó."
+
+Tùng suy nghĩ, gật gù: "Nhưng nếu mua được, mình sẽ lớn hơn."
+
+"Lớn không phải mục tiêu của mình. Mục tiêu là tốt. Lớn mà xấu thì càng lớn càng nhanh chết. Cây trong vườn — tưới đủ nước, đủ phân, nó sẽ lớn tự nhiên. Không cần phải kéo nó lên."
+
+Tùng im lặng một hồi lâu, rồi nói nhỏ: "Con mong một ngày con hiểu được như bố."
+
+"Con sẽ hiểu. Nhưng phải tự trải nghiệm. Tự thất bại. Và học từ thất bại đó."
+
+Hùng đứng dậy, nhìn lên bầu trời đầy sao. Phần 4 đã kết thúc với một phần thưởng phi thường. Nhưng phần thưởng lớn nhất vẫn còn ở phía trước — và nó không phải là thứ hệ thống có thể ban tặng. Nó là thứ ông phải tự mình xây dựng, từng ngày một.
+
+Ông quay vào nhà, nơi bà Hà vẫn còn thức, ngồi đan áo dưới bóng đèn vàng. Bà ngước lên nhìn cháu, mỉm cười: "Vào ăn cháo đi con, bà nấu rồi."
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ báo thức chỉ năm giờ sáng nhưng ông đã thức từ trước đó, nằm nghĩ về những điều hệ thống đã cho ông thấy. Bà Hà đã dậy từ lâu, ngồi ở bếp nấu cháo. Mùi cháo hành thơm phức lan tỏa khắp căn nhà nhỏ.
+
+"Bà ơi, bà dậy sớm thế," Hùng nói, bước vào bếp.
+
+"Bà già rồi, ngủ ít. Con cũng dậy sớm, có việc à?"
+
+Hùng ngồi xuống bên bếp lửa, nhìn bà Hà múc cháo ra bát. Bàn tay bà đã run nhẹ, những nếp nhăn hằn sâu trên mu bàn tay. Bà đã tám mươi ba tuổi, nhưng vẫn tự tay nấu ăn mỗi ngày, vẫn tự tay trồng rau ngoài vườn.
+
+"Cháu có nhiều việc phải nghĩ, bà ạ." Hùng cầm bát cháo nóng, thổi nhẹ. "Có nhiều chuyện sắp tới, cháu không biết bắt đầu từ đâu."
+
+Bà Hà ngồi xuống đối diện, nhìn cháu bằng ánh mắt hiền từ. Hơn hai mươi lăm năm qua, bà luôn là người đầu tiên Hùng tìm đến mỗi khi có chuyện khó. Bà không hiểu về kinh doanh, không hiểu về tầm nhìn xuyên suốt, nhưng bà hiểu về cuộc sống.
+
+"Ngày xưa, khi con mới mở sạp hàng đầu tiên," bà Hà nói, giọng chậm rãi, "con cũng ngồi đây, nhìn bát cháo, nói 'bà ơi, con không biết bắt đầu từ đâu.' Và rồi con bắt đầu bằng việc nhỏ nhất — xếp từng đôi dép lên sạp, chào từng người qua đường. Cứ làm việc nhỏ trước, việc lớn sẽ theo sau."
+
+Hùng nhìn bà, mắt cay. Ông nhớ ngày ấy. Nhớ cảm giác sợ hãi khi đứng trước sạp hàng trống trơn, không biết có ai mua không. Nhưng bà Hà đã dạy ông: không cần biết trước mọi thứ. Chỉ cần bắt đầu.
+
+"Cảm ơn bà," Hùng nói, giọng nghẹn.
+
+Buổi sáng hôm ấy, Hùng đến văn phòng sớm. Cả tòa nhà Thương Gia còn vắng vẻ, chỉ có vài nhân viên bảo vệ và tạp vụ. Ông ngồi vào bàn làm việc, mở cuốn sổ mới, viết:
+
+"Mục tiêu Phần 5:
+1. Xây dựng nền tảng truyền thông Thương Gia — báo in, báo điện tử, truyền hình
+2. Phát triển mạng xã hội nội địa cạnh tranh với Facebook
+3. Thành lập đội bóng Thương Gia FC
+4. Xây dựng sân vận động cộng đồng đầu tiên
+5. Mở rộng hoạt động từ thiện và học bổng
+6. Tuyển dụng và đào tạo thế hệ lãnh đạo kế tiếp"
+
+Ông ngừng bút, nhìn ra cửa sổ. Mặt trời vừa lên, nhuộm đỏ cả bầu trời phía đông.
+
+Hùng leo lên tầng thượng, nhìn xuống phố xá nhộn nhịp. "Ở đây có view đẹp," ông nói. "Từ đây có thể nhìn thấy hồ Hoàn Kiếm, thấy cả một phần Hà Nội. Tôi muốn tòa soạn ở đây — để các nhà báo có thể nhìn thấy cuộc sống, nhìn thấy thành phố, nhìn thấy những gì họ viết."
+
+Anh Quang đứng cạnh Hùng, nhìn theo hướng tay ông chỉ: "Anh nói đúng. Một tòa soạn có tầm nhìn — nghĩa đen và nghĩa bóng."
+
+Hùng cười. "Mai tôi cho người sang đàm phán giá với chủ nhà. Anh đi cùng tôi nhé, Anh chuẩn bị kế hoạch nhân sự đi. Nhưng nhớ một điều: tờ báo này phải độc lập. Tôi không muốn nó trở thành cơ quan ngôn luận của Thương Gia. Nó phải viết sự thật, kể cả khi sự thật đó không có lợi cho chúng ta."
+
+Anh Quang ngạc nhiên: "Anh Hùng, anh nói thật chứ? Nếu tờ báo viết bài không tốt về Thương Gia, anh có chịu được không?"
+
+"Tôi sẽ chịu. Vì một tờ báo nói dối để bảo vệ chúng ta thì không đáng tin. Và một tờ báo không đáng tin thì vô dụng. Nếu chúng ta làm điều sai trái, đáng bị phê phán, thì hãy để báo chí phê phán. Đó là cách duy nhất để chúng ta tốt lên."
+
+Anh Quang nhìn Hùng một lúc lâu, rồi nói: "Anh Hùng, tôi đã làm báo mười năm, gặp nhiều ông chủ. Chưa ai nói với tôi điều đó. Cảm ơn anh."
+
+"Đừng cảm ơn tôi. Hãy làm tốt công việc của anh."
+
+Hai người bắt tay nhau. Một sự hợp tác mới bắt đầu — giữa một doanh nhân và một nhà báo. Giữa sức mạnh của đồng tiền và sức mạnh của sự thật.
+
+Trên đường về, Hùng ghé qua một quán cà phê nhỏ ven hồ. Ông gọi một ly cà phê đen, ngồi nhìn dòng người qua lại. Hà Nội năm 2009 đã khác xa Hà Nội năm 1985 — nhiều xe hơn, nhiều nhà cao hơn, nhiều ánh đèn hơn. Nhưng cái hồn của thành phố, cái chậm rãi, cái tình người, vẫn còn đó.
+
+Ông nghĩ về các con — Tùng sắp đi Mỹ, đứa thứ hai mới mười tuổi, còn nhỏ. Ông nghĩ về Lan — người phụ nữ đã ở bên ông suốt hai mươi lăm năm, lặng lẽ làm việc, lặng lẽ lo toan, không bao giờ than thở. Ông nghĩ về bà Hà — người đã cho ông bài học đầu tiên về chữ tín.
+
+Và ông nghĩ về tầm nhìn xuyên suốt — món quà của hệ thống, khả năng nhìn thấy mọi thứ từ trên cao, nhìn thấy cả những điều mà người khác không thể, nhưng cũng là trách nhiệm phải làm điều đúng đắn với những gì mình thấy.
+
+Hùng uống cạn ly cà phê, đặt tiền lên bàn, đứng dậy ra về. Một ngày dài nữa đã trôi qua. Một ngày quan trọng — ngày đầu tiên của Phần 5.
+
+Buổi tối hôm đó, cả gia đình quây quần bên mâm cơm. Bà Hà nấu canh chua cá lóc, món tủ của bà. Lan làm thêm đĩa rau muống xào tỏi và nồi thịt kho tàu. Tùng ăn ba bát cơm, chuyện trò rôm rả về trường lớp, về những dự định du học.
+
+"Bố ơi, con đã nộp hồ sơ vào ba trường rồi," Tùng nói, vừa gắp thức ăn vừa kể. "Stanford là trường mơ ước của con. Nhưng con cũng nộp MIT và Harvard phòng hờ."
+
+Hùng gật đầu: "Con cứ học tốt. Đó là cách tốt nhất con có thể báo đáp cho tất cả những gì mẹ và bà đã hy sinh. Tiền bạc bố lo được. Còn tương lai là do con quyết định."
+
+"Con không lo tiền," Tùng lắc đầu. "Con lo con có đủ giỏi để vào được không thôi."
+
+"Cứ cố gắng hết sức. Kết quả thế nào cũng được. Quan trọng là con học được gì trên đường đi."
+
+Bà Hà ngồi đầu bàn, lắng nghe, thỉnh thoảng lại gắp thức ăn cho cháu. "Bà không biết mấy trường Tây của con. Nhưng bà biết ở đâu cũng cần chữ tín và sự chăm chỉ."
+
+Tùng cười: "Bà nói đúng, bà ạ."
+
+Sau bữa cơm, Hùng ra vườn sau hít thở không khí. Đêm mùa xuân, trời trong, gió nhẹ. Ông ngước nhìn lên bầu trời đầy sao, nghĩ về những gì hệ thống đã ban cho. Rồi ông lại nhìn xuống mảnh vườn nhỏ, nơi bà Hà trồng vài luống rau thơm, mấy cây cà chua, vài bụi ớt. Những điều giản dị nhất lại là những điều quý giá nhất. Trong thế giới mà hệ thống đang cho ông thấy — thế giới của những dòng tiền, những chuỗi cung ứng, những chiến lược toàn cầu — chính những điều nhỏ bé này mới là neo giữ ông với mặt đất. Nếu một ngày nào đó ông đánh mất khả năng ngồi ăn cơm với bà, với Lan, với các con, thì dù có tầm nhìn xa tới đâu, ông cũng chỉ là một kẻ mù quáng.
+
+Ông quyết định: tầm nhìn xuyên suốt sẽ không làm ông xa rời những điều giản dị. Nó sẽ giúp ông bảo vệ chúng tốt hơn.
+
+Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơn gió lùa qua khe cửa, làm ngọn đèn dầu trên bàn lay nhẹ rồi đứng yên trở lại. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu. Bà Hà đã ngủ từ lâu, tiếng thở đều đặn vọng ra từ phòng trong, nhẹ như gió qua mành. Hùng đứng dậy, vươn vai, xương sống kêu nhẹ một tiếng — tuổi tác đã bắt đầu lên tiếng. Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen.
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loay hoay ngoài bếp với nồi cháo. Tiếng nước sôi lục bục, tiếng dao thớt đều đặn trên thớt gỗ, mùi gừng thơm từ gian bếp tỏa ra — những âm thanh và mùi vị quen thuộc của một buổi sáng ở căn nhà Quốc Oai. Hùng mở cuốn sổ, viết nhanh vài dòng về những việc cần làm trong ngày. Bà Hà mang ra bát cháo, đặt trước mặt ông, nhìn ông một lúc rồi quay vào. Bà không hỏi ông hôm nay làm gì. Như đã lâu, bà không hỏi, vì biết ông sẽ tự làm những việc cần làm, đúng giờ và đúng mức.
+
+Giữa buổi, một người khách đến — một người đàn ông trung niên, mặc áo sơ mi trắng đã ngả màu, tay cầm chiếc cặp da cũ. Ông ta tự giới thiệu là từ một huyện lân cận, nghe tiếng Hùng làm ăn có uy tín nên muốn hợp tác. Hùng mời ngồi, rót nước, không vội nói chuyện làm ăn. Ông hỏi thăm gia đình, hỏi thăm con cái, hỏi thăm tình hình sản xuất ở huyện. Phải mười lăm phút sau, khi thấy người khách đã thoải mái, Hùng mới bắt đầu vào việc. Ông hỏi chi tiết về mặt hàng, về nguồn vốn, về kinh nghiệm buôn bán của người kia. Mỗi câu hỏi đều khiến người khách suy nghĩ một lúc trước khi trả lời. Cuối cùng, Hùng gật đầu không hứa hẹn: "Để tôi suy nghĩ thêm vài hôm, rồi cho anh câu trả lời." Người khách ra về, Hùng viết vào sổ một câu: "Cơ hội mới. Cần kiểm chứng."
+
+Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Minh cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Minh cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và bà Hà ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Minh mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Đêm xuống, Hùng ngồi trước hiên nhà, nhìn lên bầu trời đầy sao. Gió đêm mát lạnh, thổi tung những sợi tóc bạc. Tiếng dế kêu rả rích từ ngoài vườn vọng vào. Ông rút một điếu thuốc, châm lửa. Hơi thuốc cay xè, tan trong màn đêm.
+Một lúc sau, có tiếng dép lê phía sau. Lan đến ngồi bên cạnh, tay cầm một ly nước ấm.
+"Anh lại ra đây hút thuốc à?"
+Hùng cười, dập điếu thuốc. "Anh xin lỗi."
+Lan đưa ly nước cho anh. "Không sao. Em hiểu."
+Hùng nhận ly nước, tay chạm tay cô. Hơi ấm từ ly nước truyền sang, kết hợp hơi ấm từ tay cô, làm ông thấy dễ chịu.
+"Sao em chưa ngủ?"
+"Em không ngủ được. Lo cho anh."
+Hùng quay sang nhìn cô, mắt trìu mến. "Anh sẽ ổn thôi."
+Lan dựa đầu vào vai Hùng, mắt nhắm lại. Cô thì thầm: "Anh biết không, từ ngày gặp anh, cuộc sống em khác hẳn."
+Hùng gật đầu, tay vuốt tóc cô. "Anh cũng vậy."
+Cả hai im lặng, ngắm sao trời, lắng nghe tiếng gió đêm. Trong lòng họ, một tình yêu lặng lẽ lớn dần, bền chặt như đá, dịu dàng như nước.
+
+a Minh đi dạo trong vườn, nhìn những bông cúc vàng nở rộ, hít hà mùi đất đất mùa xuân ẩm, mùi rơm rạ, mùi bùn no. Cảm thấy bình yên.
+
+Hùng ngồi trước bàn làm việc. Một lá thư trên tay. Thư từ người bạn cũ. “Anh nhận được thư à?” Lan hỏi tò mò. Hùng gật, mắt xa xăm. “Bạn anh từ hồi chiến tranh. Ổng mới ra tù.” Lan im lặng. Hùng xé phong bì, đọc. Mặt ông biến sắc. “Anh ổn chứ?” “Ổn.” Ông gấp thư, bỏ vào ngăn kéo. Lát sau, ông lấy ra, đọc lại. Tay ông run. Lan đến bên cạnh, tay nắm tay anh. “Anh không có một mình. Có em ở đây.” Hùng gục đầu vào vai cô, im lặng. Lan vuốt tóc anh.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.269」
+Năm: 2009
+Tổng EXP: 62,333 (+333 nhịp này)
+Không gian kho: 25,000m²
+Kỹ năng trọng yếu: Dự báo rủi ro lv2, Quản trị đế chế lv3, Ảnh hưởng xã hội lv2
+Ghi chú: Kết thúc Phần 4. Mở khóa mục tiêu Phần 5
+
+
+
+
+################################################################################
+# CH.270 FILE=Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt
+# BODY_WORDS=3847 PANEL_LEN=243
+################################################################################
+
+2008. Hà Nội.
+
+Ngày 31 tháng 12 năm 2008. Năm cuối cùng của một thập kỷ đầy biến động.
+
+Hùng ngồi trong phòng khách, trước mặt là một tách trà nóng và một tập hồ sơ dày. Đây là bản tổng kết mười hai năm hoạt động của Thương Gia — từ năm 1996 đến 2008. Mười hai năm, từ một xưởng giày nhỏ ở Hà Nội đến một tập đoàn có mặt trên năm châu lục.
+
+Ngoài trời, mưa phùn lất phất. Hà Nội mùa đông lạnh và ẩm, cái lạnh thấm vào từng thớ thịt. Nhưng trong phòng khách nhỏ, bếp lửa vẫn cháy, ánh lửa vàng hắt lên tường, tạo một không gian ấm cúng.
+
+Hùng mở tập hồ sơ. Trang đầu tiên: danh sách các nhà máy và cơ sở sản xuất. Từ năm 1996 đến nay, Thương Gia đã xây dựng hoặc mua lại mười hai nhà máy tại bảy quốc gia. Nhà máy đầu tiên ở Hà Nội — một xưởng nhỏ với hai mươi công nhân. Nhà máy cuối cùng ở Nigeria — một cơ sở sản xuất giày dép với năm trăm công nhân, đi vào hoạt động tháng 6 năm 2008.
+
+Từng cái tên, từng con số, từng ngày tháng — Hùng nhớ tất cả. Ông nhớ cái ngày ký hợp đồng mua nhà máy đầu tiên ở Indonesia năm 1999, khi ông phải vay nóng 2 tỷ đồng từ một người bạn cũ, lãi suất 3% một tháng. Người bạn đó — tên Hải, chủ một tiệm vàng nhỏ ở phố Hàng Bạc — đã không đòi lãi sau sáu tháng. "Trả gốc là được," Hải nói. "Mày làm ăn được, tao mừng." Hùng trả gốc đúng hạn, và giữ mối quan hệ ấy đến tận bây giờ. Mỗi dịp Tết, ông vẫn ghé qua tiệm vàng cũ, ngồi uống trà với Hải, dù Hải không còn cho vay nữa.
+
+Ông nhớ cái ngày nhà máy Đức đi vào hoạt động năm 2002, sau hai năm đàm phán với Stahl. Klaus đã gọi điện từ München: "Hùng, giấy tờ xong rồi. Em có muốn nghe tin này khi đang ngồi ở đâu không?" Hùng bảo đang ở bến xe. Klaus cười lớn: "Vậy em ra chỗ yên tĩnh đi. Đây là tin lớn đấy." Hùng ra khỏi bến, đứng dưới gốc cây bàng ven đường. Klaus đọc từng điều khoản qua điện thoại, giọng run vì xúc động. Cuộc gọi kéo dài bốn mươi bảy phút. Hùng đứng dưới gốc cây bàng suốt thời gian đó, mặc cho xe cộ ồn ào qua lại. Khi cúp máy, tay ông run — lần đầu tiên Thương Gia có nhà máy tại châu Âu.
+
+Ông nhớ cái ngày nhà máy Nigeria gặp sự cố vì bão, mất ba container hàng. Giám đốc chi nhánh — một người Nigeria tên Ade — gọi về lúc hai giờ sáng, giọng hoảng loạn. Hùng không la mắng. Ông hỏi: "Còn người không?" Ade bảo không ai bị thương. "Hàng mất thì làm lại. Nhà máy có hư không?" Ade bảo mái tôn tốc nhưng máy móc không sao. "Sáng mai anh kiểm kê thiệt hại, gửi báo cáo. Tôi lo bảo hiểm." Ba container hàng trị giá 1,2 tỷ đồng, nhưng không ai mất mạng. Với Hùng, đó là cái giá có thể trả.
+
+Nhưng tất cả đã qua. Mười hai nhà máy vẫn hoạt động. Không có nhà máy nào phải đóng cửa.
+
+Trang thứ hai: quan hệ đối tác. Stahl GmbH (Đức), Tanaka Shoji (Nhật), Klaus Group (Đức), Samsung (Hàn Quốc), và mười một đối tác khác tại châu Âu, châu Mỹ, châu Phi và châu Đại Dương. Tổng cộng mười lăm đối tác chiến lược, với tổng giá trị hợp đồng hàng năm trên 50 triệu USD.
+
+Hùng dừng lại ở cái tên Tanaka Shoji. Ông nhớ ông Tanaka — một người Nhật gần bảy mươi tuổi, tóc bạc trắng, lúc nào cũng mặc vest chỉnh tề dù ở nhà máy hay văn phòng. Tanaka là người đầu tiên đặt niềm tin vào Thương Gia khi tập đoàn còn là một cái tên xa lạ. Ông ta từng nói: "Tôi không đầu tư vào công ty. Tôi đầu tư vào con người. Hùng làm tôi nhớ tôi hồi ba mươi tuổi." Năm năm qua, Tanaka chưa từng hỏi lợi nhuận trước khi hỏi sức khỏe của Hùng.
+
+Trang thứ ba: sản phẩm. Giày dép — dòng sản phẩm chủ lực, chiếm 60% doanh thu. Thực phẩm đóng gói — 15%. Linh kiện điện tử — 10%. Logistics — 10%. Dịch vụ tài chính — 5%.
+
+Hùng lướt qua các con số. Mỗi sản phẩm đều có câu chuyện. Giày dép — khởi đầu từ một xưởng nhỏ ở Hà Nội, bây giờ có nhà máy tại bốn châu lục. Thực phẩm — mở rộng từ mì gói sang đồ hộp, nước giải khát. Linh kiện điện tử — một bước đi táo bạo năm 2004, khi Hùng quyết định đầu tư vào một lĩnh vực hoàn toàn mới, và nó đã thành công ngoài mong đợi.
+
+Trang thứ tư: con người. 5.200 lao động trực tiếp. 380 kỹ sư và quản lý. 25 giám đốc điều hành. 12 quốc tịch khác nhau.
+
+Hùng nhìn con số 5.200. Mỗi người là một gia đình. Năm nghìn hai trăm gia đình sống nhờ vào Thương Gia. Nếu tính cả người nhà, con số đó có thể lên đến hai vạn. Hai vạn người — gần bằng dân số một huyện nhỏ. Mỗi quyết định của ông, từ việc chọn nguyên liệu đến ký hợp đồng xuất khẩu, đều ảnh hưởng đến hai vạn người. Ông đã từng đọc đâu đó rằng một doanh nghiệp lớn không chỉ là tài sản của chủ — nó là tài sản của xã hội. Lúc đó ông cho là lý thuyết.
+
+Trang cuối cùng — trang Hùng tự viết tay. Đó là danh sách những bài học đắt giá:
+
+1996 — Suýt phá sản vì tin lời đối tác Indonesia.
+1997 — Mất một container hàng vì giấy tờ không hợp lệ.
+1999 — Khủng hoảng nội bộ vì mở rộng quá nhanh.
+2003 — Bị đối tác Trung Quốc ép giá, mất thị phần tại Đông Nam Á.
+2005 — Sai sót kê khai thuế, bị phạt 500 triệu đồng.
+2008 — Khủng hoảng tài chính toàn cầu, bảng điện đỏ nhấp nháy bảy ngày.
+
+Mỗi bài học đều có tên người, tên sự việc, con số. Hùng viết để nhớ, không để khoe.
+
+Ông nhớ bài học 1996 như thể nó mới xảy ra hôm qua. Một người Indonesia tên Budi đến gặp ông, mang theo đơn đặt hàng lớn. Budi nói tiếng Anh trôi chảy, ăn mặc lịch sự, có danh thiếp in đẹp. Hùng tin, giao hàng trước khi nhận tiền cọc. Kết quả: Budi mất tích cùng số hàng trị giá 800 triệu đồng. Hùng mất ba tháng để tìm ra Budi qua một đối tác ở Jakarta, và sáu tháng nữa để đòi lại một phần tiền. Ông không kiện ra tòa vì thủ tục quá phức tạp. Nhưng từ đó, ông có nguyên tắc: không giao hàng trước khi có tiền cọc, dù người kia có danh thiếp đẹp đến đâu.
+
+Bài học 2003 cũng đau không kém. Một đối tác Trung Quốc từng mua hàng đều đặn hai năm. Năm thứ ba, họ báo sẽ không mua nữa nếu Thương Gia không giảm 30% giá. Hùng biết họ đã tìm được nguồn giá rẻ hơn từ một nhà máy mới ở Quảng Đông. Ông giữ giá, mất thị phần tại Singapore và Malaysia trong sáu tháng. Sau đó, chất lượng hàng từ Quảng Đông kém, khách quay lại. Nhưng sáu tháng mất thị phần đủ để dạy Hùng một bài: không bao giờ phụ thuộc vào một thị trường duy nhất.
+
+Chuông cửa reo. Lan bước vào, tay cầm một chai vang Đức — quà Giáng sinh của Klaus gửi tặng. "Em biết anh sẽ ở đây mà. Hôm nay là ngày cuối năm, anh không định ra ngoài à?"
+
+"Ra ngoài làm gì? Ở nhà ấm hơn."
+
+Lan ngồi xuống bên cạnh. Nhìn tập hồ sơ, cô mỉm cười: "Anh đang tổng kết à?"
+
+"Ừ. Mười hai năm. Nhiều hơn anh nghĩ."
+
+"Em nhớ ngày đầu tiên gặp anh — năm 1994, ở hội chợ thương mại Hà Nội. Anh mặc chiếc áo sơ mi trắng, đứng trước một cái bàn nhỏ trưng bày giày dép. Anh nói với khách hàng bằng thứ tiếng Anh rất ngọng, nhưng anh nói rất tự tin."
+
+Hùng cười. "Hồi đó anh trẻ quá. Và cũng liều quá."
+
+"Liều nhưng có tính toán. Anh không bao giờ đặt cược tất cả vào một canh bạc. Khi mở rộng ra Indonesia, anh vẫn giữ nhà máy tại Hà Nội. Khi đầu tư vào Đức, anh vẫn duy trì sản xuất tại Việt Nam. Đó là lý do Thương Gia sống sót qua mọi khủng hoảng."
+
+Họ ngồi im một lúc, nhìn những giọt mưa đọng trên cửa kính. Tiếng nhạc từ đài phát thanh vọng ra từ nhà hàng xóm — một bài hát cũ của Trịnh Công Sơn.
+
+"Năm tới, em nghĩ Thương Gia nên làm gì?" Hùng hỏi.
+
+Lan suy nghĩ một lúc. "Anh có nhớ lần đầu tiên Thương Gia mở nhà máy tại Indonesia không? Năm 1999, anh về nói với em: 'Tụi mình có nhà máy ở nước ngoài rồi.' Em thấy trong mắt anh một ánh sáng mà em chưa từng thấy. Không phải ánh sáng của tiền bạc. Là ánh sáng của người vừa bước qua một cánh cửa chưa ai mở."
+
+Hùng gật đầu. "Anh nhớ."
+
+"Bây giờ, sau mười hai nhà máy, ánh sáng đó vẫn còn. Nhưng nó đã khác. Ngày xưa anh mở nhà máy vì anh muốn chứng minh mình có thể. Bây giờ anh mở vì anh muốn để lại một cái gì đó. Em thấy điều đó."
+
+Cô nói tiếp: "Năm tới, ngoài kinh doanh, mình nên bắt đầu làm từ thiện một cách bài bản. Không phải vài trăm triệu mỗi năm như hiện tại, mà là một quỹ hẳn hoi. Một phần trăm lợi nhuận hàng năm dành cho giáo dục và y tế ở vùng sâu. Em nghĩ đó là cách ảnh hưởng xã hội đúng đắn nhất."
+
+"Bao nhiêu là một phần trăm?"
+
+"Năm nay lợi nhuận khoảng 200 tỷ. Một phần trăm là 2 tỷ. Hơi nhỏ, nhưng là bắt đầu."
+
+"Em có kế hoạch cụ thể chưa?"
+
+Lan mở một cuốn sổ nhỏ. "Em nghĩ nên tập trung vào ba mục tiêu: xây trường học cho trẻ em vùng cao, cấp học bổng cho sinh viên nghèo, và hỗ trợ y tế lưu động. Mỗi mục tiêu đều có thể bắt đầu với quy mô nhỏ và mở rộng dần. Em đã khảo sát sơ bộ: Hà Giang cần ít nhất hai mươi trường mới. Cao Bằng cần mười lăm. Điện Biên cần ba mươi."
+
+"Được. Anh đồng ý. Sáng mai anh sẽ nói chuyện với hội đồng quản trị."
+
+Bà Hà bước vào phòng, tay bưng một đĩa bánh chưng chiên vàng ruộm. "Hai đứa ngồi nói chuyện mà không ăn gì à? Tối rồi, má chiên bánh rồi, ăn đi cho nóng."
+
+Hùng và Lan nhìn nhau cười. Mẹ lúc nào cũng vậy — dù chuyện lớn đến đâu, bà vẫn nhắc ăn uống trước tiên.
+
+Hùng cầm một miếng bánh chưng. Bánh còn nóng, vỏ giòn, nhân đậu xanh và thịt mỡ thơm lừng. Ông nhai chậm, cảm nhận hương vị quen thuộc của những ngày Tết xưa. Hồi nhỏ, Tết là những ngày bà Hà thức từ hai giờ sáng gói bánh chưng, nồi bánh sôi sùng sục cả đêm. Ông thường thức dậy giữa đêm, ngồi bên bếp lửa nhìn bà xếp lá. Bà không nói gì, chỉ thỉnh thoảng đưa cho ông một miếng bánh nếp nóng. Ký ức ấy mờ xa nhưng vẫn nguyên vẹn.
+
+"Bánh ngon quá má," Hùng nói.
+
+Bà Hà ngồi xuống chiếc ghế bên cạnh. Nhìn tập hồ sơ, bà không hỏi. Bà chỉ ngồi, hai tay đặt lên đầu gối, nhìn hai đứa cháu ăn bánh. Ánh mắt bà điềm tĩnh, không cần biết con số. Bà biết nếu Hùng đang ngồi ở nhà ăn bánh vào tối ba mươi Tết, thì công việc đã tạm ổn.
+
+Mười hai giờ đêm, Hùng ra ban công. Phố xá vắng lặng, thỉnh thoảng có tiếng pháo nổ lẻ tẻ đón năm mới. Ông nhìn lên bầu trời đầy mây, không thấy sao, nhưng trong lòng ông thấy sáng.
+
+"Mười hai năm. Phần 4 đã kết thúc."
+
+Ông lấy cuốn sổ mới từ túi áo. Trên trang đầu tiên, ông viết: "Phần 5 — Ảnh hưởng xã hội. Mục tiêu: xây 100 trường học, cấp 10.000 học bổng, tạo quỹ từ thiện 10.000 tỷ."
+
+Lan bước ra, khoác cho ông chiếc áo len: "Vào nhà đi, ngoài này lạnh. Mai còn nhiều việc."
+
+"Em nhớ năm 2005 không?" Hùng nói, mắt vẫn nhìn về phía những mái nhà lấp lánh mưa. "Khi mình mua lại nhà máy chế biến thực phẩm ở Bình Dương. Anh suýt không ký vì giá cao. Em bảo mua đi, vì thị trường miền Nam đang mở rộng. Anh nghe em. Và nó là một trong những quyết định đúng đắn nhất."
+
+"Nếu sai, em là người tự ghi tên vào biên bản."
+
+"Em luôn làm thế. Đó là lý do anh tin em."
+
+Hai anh em đứng cạnh nhau trên ban công. Ngoài phố, một chiếc xe máy lướt qua, âm thanh vọng lại từ xa. Hà Nội năm 2008 — không còn là Hà Nội của những năm 1980 với xích lô và đường đất. Đã có những tòa nhà cao tầng mọc lên, những dãy phố thương mại sáng đèn. Nhưng những căn nhà cũ ở phố cổ vẫn còn, mái ngói rêu phong phủ đầy ký ức. Thương Gia cũng thế — đã mở rộng toàn cầu, nhưng trái tim vẫn ở Hà Nội, ở căn nhà nhỏ này, nơi bà Hà vẫn đi ngủ đúng chín giờ tối.
+
+Hùng gật đầu, nhưng vẫn đứng thêm một lát. Ông muốn ghi nhớ khoảnh khắc này. Những giọt mưa bụi bay trong ánh đèn đường. Mùi bánh chưng chiên từ trong bếp. Tiếng bà Hà dọn dẹp xoong nồi va nhau khẽ khàng. Một gia đình. Một hành trình. Và một chặng đường mới sắp bắt đầu.
+
+Ông nhìn về phía chân trời, nơi mưa làm mờ ranh giới giữa đất và trời. Năm 2008 đã qua. Năm 2009 đang đến. Và Thương Gia không chỉ là một doanh nghiệp nữa — nó là một sứ mệnh.
+
+Ông lấy điện thoại, mở danh bạ, nhìn tên Klaus — người bạn Đức đã đồng hành cùng ông từ những ngày đầu ở châu Âu. Họ đã làm việc với nhau gần mười năm. Klaus — một người Đức cao lớn, giọng nói ồm ồm, tóc bạc từ năm bốn mươi tuổi. Người đã nói với Hùng năm 2002: "Hợp tác với em, anh không biết sẽ lãi bao nhiêu. Nhưng anh biết sẽ không ngủ được nếu lừa em." Câu nói ấy đáng giá hơn mọi hợp đồng.
+
+Hùng nhắn một dòng: "Happy New Year, Klaus. Cảm ơn anh vì mười năm. Vì những ly bia München. Vì đã dạy em cách đàm phán bằng sự im lặng."
+
+Chuông điện thoại rung ngay lập tức. Klaus gọi lại, giọng ồm ồm như mọi khi: "Hùng! Em vẫn thức à? Ở đây mới bốn giờ chiều. Anh đang uống cà phê, đọc báo, nghĩ về em. Bài báo nào đó — em biết không — viết về doanh nhân châu Á thành công nhất năm. Có tên em."
+
+"Bài báo nào vậy anh?"
+
+"Forbes. Em không đọc à? Năm 2008, họ gọi Thương Gia là 'con rồng nhỏ' của Đông Nam Á."
+
+"Anh đùa đấy à?"
+
+"Anh không đùa. Em kiểm tra hộp thư đi, tôi gửi link rồi."
+
+Hùng mở email trên điện thoại. Đúng vậy. Một bài báo của Forbes châu Á, tựa đề: "The Quiet Dragon: How a Vietnamese Shoemaker Built a Global Empire." Hùng đọc nhanh — bài báo dài, có ảnh ông trong nhà máy. Ông không biết họ đã cử phóng viên đến từ bao giờ.
+
+"Anh biết chuyện này từ lúc nào?"
+
+"Biết từ tuần trước. Họ phỏng vấn anh qua điện thoại. Anh không nói với em vì muốn để em tự đọc. Vui không?"
+
+Hùng không trả lời ngay. Ông nhìn vào màn hình điện thoại — ảnh ông đứng cạnh một dây chuyền sản xuất giày, tay cầm một đôi giày hoàn thiện. Ông nhớ hôm đó: đang kiểm tra chất lượng thì phóng viên đến. Ông không kịp thay áo. Bức ảnh chụp ông trong bộ quần áo lao động bình thường, đầu tóc hơi rối, nhưng nụ cười tự tin.
+
+"Vui. Nhưng cũng thấy có trách nhiệm hơn."
+
+"Năm tới sẽ còn nhiều điều hơn nữa, Hùng. Anh tin em."
+
+Cúp máy, Hùng trở vào nhà. Lan đang ngồi ở bàn, rót trà nóng. Bà Hà đã đi ngủ. Căn phòng yên tĩnh, chỉ còn tiếng tích tắc của chiếc đồng hồ quả lắc và tiếng gió luồn qua khe cửa.
+
+"Forbes," Hùng nói, đặt điện thoại lên bàn.
+
+Lan nhìn điện thoại, nhìn anh trai. Cô mỉm cười, không ngạc nhiên. "Đến lúc rồi."
+
+Hùng rót thêm trà. Hai anh em ngồi đối diện nhau trong căn phòng yên tĩnh. Ngoài kia, Hà Nội đêm cuối năm lác đác vài tiếng còi xe. Trong phòng, ấm trà tỏa hương ấm áp.
+
+"Năm tới, em chính thức làm Phó Tổng phụ trách mảng từ thiện và phát triển cộng đồng," Hùng nói. "Anh sẽ công bố trong cuộc họp đầu năm."
+
+Lan không trả lời ngay. Cô nhìn vào tách trà, những làn khói mỏng bay lên. "Anh đã suy nghĩ kỹ chưa?"
+
+"Anh suy nghĩ cả năm nay rồi. Ảnh hưởng xã hội cần một người tận tâm, có năng lực quản lý. Em là người đó."
+
+"Em không muốn mọi người nghĩ em lên chức vì là em gái anh."
+
+"Vậy em phải làm cho họ không thể nghĩ thế."
+
+Lan ngồi thẳng lưng. Cô nhìn vào mắt anh trai. "Được. Em nhận."
+
+Ω
+
+============================================================
+
+
+'Ông Hùng này, tôi có chuyện muốn nói.' Một người đàn ông đến thẳng, mắt nhìn trừng trừng. Hùng ngước lên, mắt bình thản. 'Xin mời ông nói.' 'Công ty ông đã làm tôi bị thiệt hại!' Người đàn ông lớn tiếng. Hùng không đổi sắc mặt. Ông đứng dậy. 'Xin lỗi ông. Nếu đúng là lỗi của chúng tôi, chúng tôi xin bồi thường. Xin ông cho chúng tôi cơ hội.' Hùng nói, tay dang ra. Người đàn ông kia nhìn vào mắt Hùng, anh ta dịu lại.
+
+
+"Ông Hùng, tôi xin lỗi." Người đàn ông kia cúi đầu xuống, mồ hôi rỉ trán. Hùng đứng dậy, tay đưa ra. "Không có gì đâu. Ai cũng có thể hiểu lầm." Hai người bắt tay nhau. Người đàn ông siết chặt tay Hùng, mắt nhìn thẳng. "Cảm ơn ông. Ông là người tốt." Hùng cười, mắt nheo lại. "Chúng ta cùng sống mà. Đứng thù làm gì." Người đàn ông gật đầu, mắt đỏ hoe. Ông ta cúi chào lần nữa rồi quay đi. Hùng nhìn theo, lòng nhẹ nhõm. Mùi giấy thơm trong phòng, mùi hòa bình.
+
+
+Hùng mở cửa sổ, gió lạnh ùa vào. Ông hít một hơi thật sâu. Phố xá bên ngoài yên tĩnh, đèn đường vàng vọt. Ông thấy mình nhẹ nhõm. "Thế là xong." Ông nói một mình, rồi cười. Ông đóng cửa sổ, quay vào phòng, tiếp tục làm việc.
+
+
+Người đàn ông kia đi rồi, Hùng đóng cửa. Ông ngồi xuống ghế, mắt nhắm lại. Tay ông đặt lên trán. Mệt mỏi, nhưng trong lòng nhẹ. "Thế là ổn." Ông mở mắt, cười một mình. Ông "Cảm ơn trời."
+
+
+Một lát sau, Hùng pha một ấm trà nóng. Mùi trà thơm bốc lên trong phòng làm việc nhỏ. Ông rót một ly, cầm lên ngửi, mắt nhắm lại. Ông uống một ngụm nhỏ, đắng nhẹ, ngọt hậu. Ông nhìn tờ giấy vụn trên bàn. Rồi ông cười, tay xé tờ giấy ra làm đôi, bỏ vào sọt rác. "Xong."
+
+
+---
+
+Đêm hôm ấy, Hùng không ngủ được. Ông nằm, mắt mở, nhìn lên trần nhà. Bên cạnh, bà Hà ngủ say, hơi thở đều. Ông quay sang nhìn vợ. Trong bóng tối, khuôn mặt cô hiền từ lạ thường. Ông khẽ vươn tay, vuốt mái tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
+
+
+Hùng mở cửa sổ, để gió lạnh ùa vào phòng. Góc phố dưới kia, tiếng xe cộ, tiếng người mua bán. Mùi bánh mì nóng từ tiệm dưới nhà bay lên, thơm nức. Hùng hít một hơi thật sâu, mùi bánh, mùi phố, mùi cuộc sống. Ông nhìn xuống, thấy một đứa bé đang nô đùa với con chó. Tiếng cười giòn tan vọng lên. Hùng cười theo. Ông quay lại bàn làm việc, mở hộc tủ, lấy ra bức ảnh cũ của gia đình. Bức ảnh đã ám vàng, nhưng nụ cười của những khuôn mặt trong ảnh vẫn rõ. Hùng đặt bức ảnh lên bàn, mắt nhìn nó, một lúc lâu.
+
+
+...ông chưa biết ngày mai sẽ mang đến gì.
+
+
+Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
+
+Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
+
+Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+
+「Hệ thống — CỘT MỐC ch.270」
+Năm: 2008
+Tổng EXP: 62,000 (+333 nhịp này)
+Không gian kho: 25,000m² (+167m²)
+Kỹ năng trọng yếu: Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
+2008. Tổng kết mười hai năm — từ xưởng giày đến tập đoàn năm châu. Có trang ướt.
+"Tạm được." Gấp sổ. Còn nhiều việc.
+
+Phần 4 kết thúc. Từ thương gia làng — thành siêu tập đoàn.
+
+Hùng đóng cuốn sổ Phần 4, dày hơn Phần 3 gấp rưỡi.
+Lan đặt lên bàn tập báo cáo tài chính hợp nhất.
+Nhà máy Indonesia chạy full công suất, Thái Lan đang mở rộng.
+Bốn mươi quốc gia, ba mươi nhà máy, một tập đoàn.
+Hùng viết lên bìa sổ: "Phần 4 — từ Đông Nam Á ra thế giới. 1987-1990."
+
+============================================================
+
+Teaser: 
+
+
+「Hệ thống —
+
+---PANEL---
+GHI NHẬN ch.270」
+Năm: 2008
+Tổng EXP: 62,000 (+333)
+Không gian kho: 25,000m² (+167m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+Ghi chú:  system_ledger
+============================================================

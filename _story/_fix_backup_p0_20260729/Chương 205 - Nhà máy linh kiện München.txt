@@ -1,0 +1,195 @@
+============================================================
+Chương 205: Nhà máy linh kiện München
+============================================================
+
+München, đầu tháng Sáu năm 1998. Bavaria, miền nam nước Đức. Không khí trong lành đến mức như uống được, dãy Alps phủ tuyết trắng xa xa mờ trong sương sớm. Hùng và Phúc đáp chuyến bay nội địa từ Berlin, chỉ một tiếng trên bầu trời Đức — nhưng đủ để thấy những cánh đồng xanh mướt trải dài bất tận, những ngôi làng nhỏ với mái ngói đỏ nằm giữa các thung lũng, những khu rừng rậm rạp trên sườn đồi thoai thoải. Nước Đức đẹp nhất từ trên cao, Hùng nghĩ. Đẹp, có trật tự, và sạch sẽ — ba điều mà một người Việt Nam như ông vừa ngưỡng mộ vừa cảm thấy xa lạ.
+
+Xuống sân bay München, Klaus đón sẵn — lần này Wolfgang đi cùng, nhưng còn có một người nữa: một người đàn ông Đức cao lớn, mái tóc bạch kim cắt ngắn, mặc áo khoác da nâu cũ nhưng sạch sẽ. Klaus giới thiệu: "Heinrich Vogel. Chủ nhà máy gia công linh kiện ở Garching. Sắp nghỉ hưu — muốn gặp anh vì ông ấy có thứ anh cần."
+
+Vogel — sáu mươi hai tuổi, mắt xanh nhạt, khuôn mặt vuông kiểu người Bavaria, da sạm nắng — bắt tay Hùng. Bàn tay khô, rắn, ấm. Bàn tay của người thợ cả đời, không phải người ngồi phòng lạnh. "Guten Tag, Herr Hùng. Willkommen in Bayern. Tôi đã nghe nhiều về anh từ Klaus."
+
+Xe chạy từ sân bay qua trung tâm München. Thành phố sạch sẽ, những con đường rộng, những tòa nhà cổ kính với kiến trúc Baroque, quảng trường Marienplatz với tòa thị chính Gothic sừng sững. Klaus nói từ ghế trước: "München là trái tim của ngành ô tô Đức. BMW, MAN, Audi — trụ sở chính hoặc nhà máy lớn đều quanh đây. Ở vùng Bavaria này, thép và kỹ thuật chính xác là thứ người ta tôn trọng nhất."
+
+Wolfgang đưa Hùng đến một nhà máy nhỏ ở thị trấn Garching, ngoại ô München, gần khu kỹ thuật của Đại học Kỹ thuật München. Nhà máy rộng hơn khu Marzahn một chút — bốn dây chuyền sản xuất, hai khu kiểm tra riêng biệt, một phòng thí nghiệm nhỏ nhưng đầy đủ thiết bị. Nhưng máy móc mới hơn, sạch hơn, ngăn nắp hơn nhiều. Sàn nhà bóng loáng đến nỗi Hùng có thể nhìn thấy khuôn mặt mình phản chiếu trên nền bê-tông. Không một vết dầu, không một hạt bụi. Công nhân mặc áo blouse trắng, đội mũ trắng, đeo găng tay trắng, kính bảo hộ — trông như các bác sĩ trong phòng mổ, chứ không phải công nhân trong nhà máy cơ khí.
+
+Phòng thí nghiệm là nơi Hùng dừng lại lâu nhất. Một người đàn ông trạc ba mươi đang vận hành máy đo quang phổ — một cỗ máy màu trắng cỡ tủ lạnh, trên màn hình hiển thị các vạch màu với những con số phức tạp.
+
+"Kiểm tra thành phần hóa học của thép," Wolfgang giải thích, chỉ vào máy. "Mỗi lô thép nhập về phải được kiểm tra — không chỉ mác thép, cả hàm lượng tạp chất. Họ yêu cầu sắt tinh khiết 99.7%. Tạp chất không quá 0.3%, trong đó lưu huỳnh không quá 0.05% và phốt pho không quá 0.04%."
+
+Phúc bước lại gần, mắt dán vào màn hình. "Ở nhà mình thì khác, sếp ạ. Mua thép là mua theo mác — thép gì, giá đó. Không ai kiểm tra tạp chất. Người bán nói mác thép gì, mình tin vậy."
+
+Hùng gật. "Ở Đức, không ai tin ai — họ kiểm tra. Đó là sự khác biệt giữa một nền công nghiệp thực thụ và một nền sản xuất thủ công. Mỗi lô thép đều có giấy tờ theo dõi, truy xuất được từ nhà máy đến lò nấu. Ở Việt Nam, nếu mua thép Trung Quốc, có khi còn không biết nó được nấu từ sắt vụn hay quặng thật."
+
+Vogel đưa Hùng đi tham quan toàn bộ nhà máy, từ đầu đến cuối dây chuyền. Mỗi trạm dừng, ông ta giải thích bằng tiếng Đức — giọng Bavaria hơi khó nghe — và Wolfgang dịch sang tiếng Anh. Nhà máy chỉ có ba mươi công nhân cho cả ba ca, nhưng mỗi người biết chính xác việc mình làm.
+
+"Trạm một: kiểm tra nguyên liệu đầu vào. Mỗi lô thép được gắn mã số vạch, theo dõi từ nhà cung cấp đến nhà máy. Nếu lỗi, truy xuất được đến từng lò nấu, từng ngày sản xuất, từng lô quặng."
+
+"Trạm hai: cắt CNC bằng laser. Máy mua từ Nhật Bản — loại Mazak. Độ chính xác cắt đạt 0.005mm, gấp đôi yêu cầu DIN tiêu chuẩn."
+
+"Trạm ba: kiểm tra gia nhiệt. Mỗi chi tiết được nung ở 850 độ C trong lò điện, tôi trong dầu đặc biệt nhập từ Shell, để đảm bảo độ cứng và độ bền đạt yêu cầu."
+
+Hùng đi chậm qua từng trạm, mắt quan sát từng chi tiết nhỏ nhất. Cách họ sắp xếp dụng cụ trên bàn làm việc — gọn gàng, mỗi cái một vị trí, từ cờ lê đến thước đo, từ dao cắt đến búa nguội. Cách họ để phôi gia công — ngăn nắp trong khay sắt mạ kẽm, mỗi khay ghi nhãn loại chi tiết, số lượng, ngày sản xuất. Cách họ ghi chép — mỗi công đoạn đều có một tờ phiếu trắng kẹp trên bảng, ghi rõ giờ bắt đầu, giờ kết thúc, số lô, tên công nhân, kết quả kiểm tra.
+
+Hùng im lặng suốt buổi tham quan. Trong đầu ông, những so sánh với nhà máy Hải Phòng không ngừng hiện ra — và ông thấy rõ khoảng cách. Không phải khoảng cách về trình độ công nhân — công nhân Việt Nam chăm chỉ hơn, khéo tay hơn nhiều người Đức. Mà là khoảng cách về tổ chức, về quy trình, về kỷ luật. Một cái gì đó vô hình nhưng hữu hình hơn cả máy móc.
+
+***
+
+Hai giờ sau, Hùng và Vogel ngồi trong phòng khách của nhà máy — một căn phòng nhỏ ấm cúng, tường ốp gỗ, dán đầy ảnh sản phẩm, giấy khen từ các hội chợ triển lãm công nghiệp châu Âu. Trên kệ là một chiếc cúp bạc từ triển lãm Hannover Messe năm 1994. Vogel pha cà phê bằng máy pha tự động — hạt cà phê xay sẵn từ Ấn Độ, mùi thơm nồng, đậm.
+
+"So," Vogel nói, tiếng Anh chậm nhưng rõ, từng chữ được cân nhắc. "You want to make machine parts in Vietnam and sell them in Germany. Big dream. Honorable dream. But you need German quality. Without German quality, you are nothing in this industry."
+
+Hùng gật. Câu nói đơn giản, nhưng chứa đựng sự thật mà ông đã tự nhủ hàng trăm lần.
+
+Vogel cầm ly cà phê lên, hít mùi thơm, mắt nhìn xa xăm. "I can help. I am retiring next year. My son doesn't want the factory — he studies computer science, writes software, thinks hardware is old-fashioned. So I need to sell. I want to sell to someone who will take care of my machines, not scrap them."
+
+"Bao nhiêu?" Hùng hỏi, không vòng vo.
+
+"All machines in this factory — 1.8 million German marks. Including three CNC machines from Mazak Japan, two electronic testers from Bosch, one laser cutter calibrator from Zeiss. I will personally train your best workers for one month. Free. Because I want my machines in good hands."
+
+1.8 triệu mark — hơn 21 tỷ đồng. Một con số khổng lồ với một doanh nghiệp tư nhân Việt Nam. Nhưng Hùng đã làm phép tính: nếu mua máy mới cùng chủng loại, giá ít nhất 4-5 triệu mark. Máy của Vogel dùng sáu năm, nhưng bảo dưỡng đều đặn, có sổ sách ghi chép đầy đủ từng lần thay dầu, thay vòng bi.
+
+Hùng nhìn Phúc. Phúc gật nhẹ — máy tốt, bảo dưỡng tốt, giá hợp lý.
+
+"Tôi muốn kiểm tra máy trước. Đưa kỹ thuật của tôi sang xem từng máy."
+
+"Sure," Vogel nói, đặt ly cà phê xuống bàn. "Send your best engineer. I will show him everything. No secrets. German engineers don't hide."
+
+Hùng đứng dậy, bắt tay Vogel. Cái bắt tay khô, rắn, chắc. Một thỏa thuận bằng tay — ở Đức, nó có giá trị.
+
+***
+
+Buổi tối, Hùng gọi điện cho Lan từ khách sạn ở München. Trời đã tối, ngoài cửa sổ là những mái nhà cổ kính của München dưới ánh đèn đường, một vài ngôi sao lấp lánh trên bầu trời đông Âu.
+
+"Anh định mua máy của Vogel. 1.8 triệu mark. Nhưng ông ta đồng ý giảm còn 1.7."
+
+Lan im lặng khoảng năm giây. Hùng nghe tiếng thở dài qua điện thoại, rất nhẹ.
+
+"Vốn tháng này đang căng, anh. Đã chi 2.5 triệu franc cho Lyon, cộng thêm chi phí đi lại, khách sạn, đãi khách. Nếu chi tiếp 1.7 triệu mark, quỹ dự trữ sẽ xuống dưới mức an toàn."
+
+"Anh biết. Nhưng cơ hội này không nhiều. Máy tốt, rẻ hơn mới ba lần, có đào tạo miễn phí."
+
+"Một tháng," Lan nói. "Em sẽ điều chuyển vốn từ các đơn vị khác — tạm ngừng kế hoạch mở rộng kho Cần Thơ, rút bớt tiền từ quỹ dự phòng. Nhưng anh biết rồi — nếu tháng Mười không có doanh thu từ Đức, em không thể kham nổi."
+
+"Tháng Mười sẽ có. Anh hứa."
+
+"Anh hứa hay anh nghĩ? Khác nhau đấy."
+
+Hùng nằm ngửa trên giường khách sạn, nhìn lên trần nhà trắng tinh. Outside the window, the bells of a nearby church chimed eight times. "Anh tính. Hợp đồng KFG — nếu đạt chuẩn DIN — 50,000 chiếc một năm, giá 140 mark mỗi chiếc. Doanh thu 7 triệu mark. Trừ nguyên liệu, nhân công, khấu hao — lãi gộp 40%. Hồi vốn trong sáu tháng."
+
+Hùng nghe tiếng bút sột soạt trên giấy. Lan kiểm tra số liệu. "Được. Em sẽ sắp xếp. Nhưng anh nhớ: em không thích chạy theo cơ hội. Em thích tính toán từng bước."
+
+"Anh biết. Nhờ em, anh mới dám chạy theo cơ hội."
+
+***
+
+Nửa cuối tháng Sáu, Phúc bay về Hải Phòng với bản vẽ kỹ thuật dày hơn năm centimét — sơ đồ điện, hướng dẫn vận hành, danh mục phụ tùng thay thế, tất cả bằng tiếng Đức, phải thuê người dịch. Hùng ở lại München thêm một tuần, mỗi ngày đến nhà máy Vogel từ bảy giờ sáng đến sáu giờ chiều, học cách vận hành máy đo laser, cách đọc biểu đồ quang phổ, cách kiểm tra chất lượng mối hàn. Ông năm mươi lăm tuổi, mắt đã kém, tay đã run — nhưng ông học để hiểu, học để biết khi nào nhân viên nói đúng, khi nào họ nói láo.
+
+Buổi cuối cùng, Vogel mời Hùng ăn tối tại nhà — một căn nhà nhỏ ở ngoại ô, tường gạch đỏ, vườn hoa tulip đỏ rực, con chó chăn cừu Đức già nằm dưới hiên nhà. Vợ Vogel — bà Greta, tóc bạc, mắt hiền, mặc tạp dề hoa — nấu món thịt bò hầm và bánh mì đen, kèm khoai tây luộc và bắp cải muối.
+
+Bữa tối yên tĩnh. Không nói chuyện làm ăn, không bàn hợp đồng. Chỉ có tiếng dao nĩa trên đĩa, tiếng lửa crackle trong lò sưởi, và tiếng gió thổi qua vườn.
+
+"Mein Vater war Schmied," Vogel nói, nâng ly rượu vang đỏ. "Cha tôi là thợ rèn. Ông dạy tôi: gutes Eisen erkennt man am Klang. Sắt tốt có thể nhận ra bằng âm thanh khi gõ vào. Tiếng trong, vang, không đục."
+
+Hùng đặt dao xuống, nhìn Vogel. "Ở Việt Nam, ông tôi nói: gỗ tốt nhận ra bằng thớ. Hai câu khác nhau, nhưng cùng một nghĩa: người thợ biết chất liệu bằng tay, không bằng sách vở."
+
+Vogel cười, hàm răng trắng đều. "Ja, genau."
+
+Hai người nâng ly chạm nhau. Rượu vang Đức — loại Spätburgunder nhẹ, chua nhẹ nhưng dễ uống.
+
+***
+
+Buổi sáng cuối cùng ở München, Hùng và Phúc quay lại nhà máy Vogel lúc sáu giờ sáng. Phúc mở từng tủ điện, kiểm tra từng dây dẫn, chạy thử từng máy CNC. Máy chạy êm, không rung, không tiếng kêu lạ, độ chính xác đo được 0.008mm — vượt yêu cầu DIN 0.01mm.
+
+"Máy tốt," Phúc nói. "Bảo dưỡng đều đặn, dây chuyền đồng bộ. Có thể chạy ngay khi về đến Hải Phòng."
+
+Vogel đứng cạnh, im lặng quan sát. Ông ta biết: người Việt Nam này không mua bò xem lông.
+
+Hùng gọi Lan. "Máy tốt. 1.7 triệu mark. Ông ta bớt còn 1.7, bớt thêm được 100,000. Anh quyết định mua."
+
+"Chuyển tiền thế nào? Vogel muốn nhận qua ngân hàng nào?"
+
+"Deutsche Bank. Anh sẽ mở tài khoản sáng nay ở chi nhánh München."
+
+"Được. Em sẽ gửi lệnh chuyển tiền từ Sài Gòn. Ký quỹ 30% — phần còn lại khi máy lên tàu ở cảng Hamburg."
+
+Hùng quay sang Vogel, bắt tay lần cuối. "Deal. I buy."
+
+Vogel siết tay Hùng. Bàn tay người thợ già — khô, ấm, chắc.
+
+Trên máy bay về, Hùng mở cuốn sổ bìa xanh, viết: "Tháng 6/1998 — München. Mua máy Vogel: 1.7 triệu mark. Giao mẫu KFG: tháng 8. Đầu tư nhà máy Hải Phòng — tiêu chuẩn Đức. Nếu thành: bước vào chuỗi cung ứng châu Âu. Nếu thất bại: mất tiền, giữ bài học."
+
+Ông gấp sổ, nhìn qua cửa sổ máy bay. Những ngọn đồi Bavaria xanh mướt dần xa, nhường chỗ cho những đám mây trắng. Dưới kia, những nhà máy, những dây chuyền, những con người Đức đang làm việc — họ không biết Hùng, không biết Thương Gia. Nhưng một ngày không xa, họ sẽ biết. Bởi vì những cỗ máy của Vogel đang trên tàu đến Việt Nam.
+
+***
+
+Về đến Sài Gòn, Hùng không nghỉ. Sáng hôm sau, ông có mặt ở nhà máy Hải Phòng từ sáu giờ sáng, cùng Phúc khảo sát mặt bằng cho dây chuyền mới. Khu vực dự kiến đặt máy — một nhà xưởng rộng 500 mét vuông, trần cao 10 mét, đủ chỗ cho ba máy CNC và các thiết bị phụ trợ.
+
+"Phải đổ lại nền," Phúc nói, quỳ xuống gõ tay lên sàn bê-tông cũ. "Nền này không đủ phẳng cho máy CNC. Sai số 2mm là hỏng chi tiết."
+
+"Bao nhiêu?" Hùng hỏi.
+
+"Đổ nền mới, gia cố thép — khoảng 200 triệu. Thêm hệ thống điện ba pha ổn áp — 100 triệu. Tổng cộng 300 triệu."
+
+Hùng gật. "Làm. Trong một tháng."
+
+Phúc gật, móc thước dây ra đo lại lần nữa. Hùng đứng nhìn ông ta làm việc — một người đàn ông năm mươi sáu tuổi, tóc muối tiêu, vẫn cặm cụi với từng milimét. Thương Gia may mắn có những người như Phúc — không ồn ào, không kể công, chỉ làm.
+
+Chiều, Hùng ngồi trong văn phòng nhỏ ở Hải Phòng — một căn phòng mười mét vuông, bàn gỗ cũ, quạt máy chạy hết tốc lực. Ông mở sổ, ghi chép tiến độ: "Nhà máy Hải Phòng — nâng cấp cho tiêu chuẩn Đức. Việc cần làm: 1) đổ nền mới; 2) hệ thống điện ba pha; 3) lắp điều hòa cho phòng kiểm tra; 4) đào tạo công nhân vận hành máy CNC — Phúc phụ trách. Hạn: hết tháng Bảy phải xong."
+
+Hùng ngước lên, nhìn ra cửa sổ. Nắng chiều Hải Phòng đỏ ối, những cần cẩu cảng vươn lên từ xa. Ở đó, những container từ Đức sắp cập bến — mang theo tương lai mới của Thương Gia.
+
+Nhưng tương lai đó không tự đến. Nó đến từ những quyết định đã được đưa ra — từ việc mua máy Vogel, từ cam kết với KFG, từ niềm tin của Lan, từ sự cần mẫn của Phúc. Và nó sẽ đến từ những việc nhỏ nhất — đổ một nền xi-măng đúng phẳng, vặn một con ốc đúng lực, hàn một mối hàn đúng chuẩn.
+
+Chiều tối, Hùng gọi điện cho Dieter Fischer ở Potsdam. Đường dây quốc tế vẫn xèo xèo, nhưng đủ nghe.
+
+"Mr. Fischer, tôi đã về đến Việt Nam. Đang chuẩn bị mặt bằng cho máy mới. Tháng Tám, tôi sẽ có mẫu đạt DIN."
+
+"Gut," Dieter nói. "Tôi chờ. Nhưng nhớ: tháng Tám là hạn cuối. Tháng Chín, tôi phải đặt hàng."
+
+"Tôi hiểu."
+
+Hùng tắt máy, nhìn ra biển đêm Hải Phòng. Những ánh đèn từ tàu ngoài khơi lấp lánh. Một ngày mới đang bắt đầu ở một nơi xa, và kết thúc ở nơi này. Ông mệt, nhưng chưa thể ngủ. Còn việc.
+
+Luôn còn việc.
+
+Bên ngoài, mưa bắt đầu rơi — những hạt mưa nhỏ, lất phất trên mái tôn, tạo thứ âm thanh lộp độp quen thuộc. Hùng nghe tiếng mưa, một âm thanh từ thuở ấu thơ ở Quốc Oai. Ngày xưa, mưa là nỗi lo — mưa làm đường đất lầy lội, làm hàng ế ẩm, làm những chuyến đi buôn trên chiếc xe đạp cũ trở nên khó khăn gấp bội. Những đêm mưa, ông và bà Hà thức trắng vì nóc nhà dột, phải hứng nước bằng chậu nhôm, tiếng nước rơi lộp bộp suốt đêm. Ngày nay, ngồi trong nhà máy Hải Phòng với mái tôn mới, ông nghe tiếng mưa và thấy nó như một bản nhạc — bản nhạc của sự chờ đợi, của sự chuẩn bị, của niềm tin rằng ngày mai sẽ tốt hơn hôm nay.
+
+Hùng đứng dậy, tắt đèn phòng. Trước khi ra về, ông nhìn lại căn phòng nhỏ — bàn giấy, cuốn lịch treo tường, tấm bản đồ thế giới ông mới mua ở Berlin về. Trên bản đồ, ông đã đánh dấu ba điểm: Paris, Berlin, London. Ba chấm đỏ trên một tấm bản đô xanh. Ba mục tiêu cho năm 1998.
+
+Nhưng để đạt được mục tiêu, cần nhiều hơn ước mơ. Cần nền bê-tông đúng phẳng. Cần những con ốc đúng lực. Cần những đường hàn đúng chuẩn. Cần những con người — như Phúc, như Lan, như Tuấn — những người đặt chữ tín lên trên hết.
+
+Hùng bước ra khỏi nhà máy Hải Phòng lúc tám giờ tối. Gió biển mát rượi, mùi muối và mùi cá từ cảng cá xa xa thoảng đến. Ông đứng một lúc trước cổng nhà máy, nhìn lên bầu trời đầy sao.
+
+Mai sẽ có một ngày mới. Và việc thì không bao giờ hết.
+
+Nhưng tối nay, ông có thể ngủ yên. Bởi vì những cỗ máy của Vogel đang trên biển, hướng về Việt Nam. Và tháng Tám, ông sẽ chứng minh cho người Đức thấy: một công ty Việt Nam có thể làm ra sản phẩm đạt chuẩn DIN.
+
+Cùng thời điểm Hùng đàm phán mua máy Vogel ở München, tại Hải Phòng, một người đàn ông lạ mặt đang lảng vảng quanh nhà máy Thương Gia. Hắn ta mặc áo khoác nâu cũ, đội mũ lưỡi trai, tay cầm máy ảnh Nhật — loại zoom xa. Mỗi ngày hắn ghi chép: giờ giấc ra vào của công nhân, số lượng xe tải chở hàng, biển số xe, tên khách hàng ghé thăm.
+
+Người thuê hắn là Trần Văn Bằng.
+
+Trong căn phòng trọ ẩm thấp ở khu lao động Hải Phòng, Bằng ngồi trước đống ảnh chụp và báo cáo. Ba năm kể từ lễ kỷ niệm 10 năm Thương Gia, Bằng đã thâm nhập sâu hơn: không chỉ gây khó dễ ở hải quan, hắn móc nối với một số cán bộ cấp thấp, thu thập thông tin thị trường, chờ thời cơ. Cuộc chiến giá rẻ trực diện thất bại — xe Thương Gia tuy đắt hơn nhưng bền, có bảo hành, có uy tín. Xe Phương Bắc hỏng dần, khách quay sang chửi rủa, đại lý lần lượt đóng cửa. Bằng mất hết tài sản, chỉ còn lại lòng thù hận.
+
+Nhưng lần này, Bằng không đánh trực diện. Hắn đã học được rằng không thể thắng Hùng bằng làm ăn tử tế. Phải tìm điểm yếu. Và Bằng tin: ai làm ăn lớn cũng có điểm yếu.
+
+— Có một phụ nữ thường đến gặp Hùng vào buổi tối. Tôi chụp được ba tấm. Và Thương Gia đang nhập khẩu thiết bị từ Đức — nếu họ chuyển tiền không đúng quy định, đó là vi phạm pháp luật. — Thám tử gõ cửa, đưa xấp ảnh cho Bằng.
+
+Bằng cầm tấm ảnh, mắt nheo lại. Trong ảnh, Hùng đang nói chuyện với một phụ nữ trẻ trước cổng nhà máy — bóng tối, khó nhận diện, nhưng đủ để Bằng mỉm cười. Hắn nhớ lại vụ container Hải Phòng ba năm trước — Hùng vẫn xoay sở thoát được, gỡ được lô hàng, không kiện ai. Nhưng lần này, nếu có bằng chứng sai phạm tài chính...
+
+— Tiếp tục theo dõi. Tao muốn biết mọi cử động của nó. Mọi quan hệ. Mọi giao dịch. Mọi sơ hở.
+
+Bằng bỏ xấp ảnh vào túi, nhìn ra cửa sổ nơi thành phố đang lên đèn. Mưa bắt đầu rơi lất phất — thứ mưa lạnh của Hải Phòng tháng Sáu. Trong bóng tối ẩm ướt, một kế hoạch đang hình thành trong đầu Bằng, đen tối hơn bất kỳ buổi chiều nào — một kế hoạch không còn dừng ở gây khó thủ tục, mà nhắm vào chính dòng chảy tài chính của Thương Gia.
+
+
+Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
+
+Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
+
+Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
+
+「Hệ thống — GHI NHẬN ch.205」
+Năm: 1998
+Địa điểm: München
+Sự kiện: Mua máy Vogel 1.7M mark; hẹn tháng 8 giao mẫu KFG
+Kỹ năng: Công nghệ cao lv2, Quản trị đế chế lv1
+============================================================

@@ -1,6 +1,5 @@
 ============================================================
 Chương 43: Sản xuất đèn điện
-============================================================
 
 Ngày 13 tháng ba năm 1984, chiếc đui sứ Minh đặt trên bàn được mở thành bốn phần: thân đui, hai cực đồng, vòng ren và vít giữ dây. Một vật nhỏ hơn nắm tay có thể gây cháy cả căn nhà nếu cực lỏng, dây trần chạm vỏ hoặc nhiệt của bóng bị giữ dưới chao. Hùng không cho gọi đó là sản phẩm phụ sau quạt. Lan mở sổ mã ĐB-01, dành riêng cho đèn bàn.
 
@@ -54,18 +53,6 @@ Lô đầu ba mươi chiếc có ba lỗi lần đầu, mười phần trăm: m�
 
 Lỗi đấu nhầm xảy ra vì hai dây cùng màu, chỉ một dây có gân rất khó thấy dưới ánh sáng xưởng. Lan mua vòng vải đỏ nhỏ để đánh dấu đầu dây qua công tắc. Lỗi kẹp dây do rãnh dẫn nằm khuất khi đặt tấm gang; ông Tam thêm một chốt gỗ giả lập đường dây, chỉ rút sau khi tấm vào đúng vị trí. Đế nghiêng do một tai gài dập chưa hết; dưỡng mặt phẳng được đặt trước sơn, vì sau sơn mới sửa sẽ phá lớp phủ.
 
-Lô thứ hai năm mươi chiếc có hai lỗi lần đầu: một đui siết chưa đủ, một chao xước. Bốn phần trăm, vừa bằng ngưỡng. Lô thứ ba bảy mươi chiếc có một lỗi công tắc, một phẩy bốn phần trăm. Toàn bộ một trăm năm mươi chiếc có sáu lỗi lần đầu, đúng bốn phần trăm. Sáu chiếc được cách ly, sửa rồi phải làm lại toàn bộ phép thử; kết quả sau sửa không xóa tỷ lệ ban đầu.
-
-Kiểm điện gồm ba bước. Trước hết, đồng hồ xác nhận công tắc ngắt và nối đúng đường. Sau đó đo giữa hai cực để loại chập. Cuối cùng kiểm giữa mạch dẫn và thân kim loại; kim không được dịch trong phép đo theo thiết bị của xưởng. Minh biết thiết bị ấy không thay cho máy thử điện áp cao chuyên dụng, nên ông ghi giới hạn và bổ sung phép thử mẫu tại phòng kỹ thuật của một đơn vị điện ở Hà Nội. Năm thân đèn được mang tới, chịu điện áp thử theo mức đơn vị đó quy định; cả năm không phóng điện hay đánh thủng. Biên bản có số thân và dấu, không dùng cho các cấu hình khác.
-
-Ba mươi đèn được Lan bốc số ngẫu nhiên cho thử nhiệt sáu giờ. Mười đèn dựng thẳng, mười đèn cúi thấp, mười đèn đổi góc mỗi giờ. Tất cả dùng bóng sáu mươi oát cùng mẻ. Giờ thứ tư, ĐB01-0117 có mùi sơn. Nhiệt điện không bất thường; mùi đến từ mặt trong chao đã nhận nhầm một chiếc sơn hai lớp cũ. Máy được dừng, đánh dấu không phù hợp ngoại quan và vật liệu. Các chao cùng phiếu giao được kiểm; hai chiếc khác có lớp sơn trùng nhưng chưa lắp vào nhóm thử. Ba chao được thay. Đèn 0117 chạy lại đủ sáu giờ từ đầu.
-
-Không máy nào làm nóng phích hoặc dây tới mức bất thường so với đầu ca. Công tắc không kẹt. Chao không biến dạng. Năm đèn được bẻ cổ thêm năm trăm chu kỳ sau thử nóng; độ xệ vẫn trong giới hạn. Ba đèn được kéo dây bằng cân lò xo; mối nối không dịch. Hai mẫu được cho đổ từ mép bàn thấp xuống tấm gỗ để kiểm vỏ: sơn xước và một chao méo, nhưng không dây nào lộ, đui không vỡ. Đây là phép thử hư hại, hai máy bị loại vĩnh viễn khỏi hàng bán.
-
-Ngày 16 tháng tư, xưởng hoàn tất một trăm năm mươi đèn bán được, ngoài các mẫu phá hủy. Mười một đui làm lại đã về đủ ngày 6 và qua kiểm, nhưng chỉ dùng bổ sung kho phụ tùng. Giá thành thực tế sáu mươi bảy đồng sáu hào mỗi bộ, thấp hơn trần bốn hào. Số chênh ít, nên Lan chưa cho hạ giá bán dự kiến chín mươi đồng. Một biến động ở đui sứ có thể ăn hết phần đệm; đơn sau phải thương lượng lại theo số lượng thật.
-
-Ba cửa hàng từng nhận quạt xem mẫu ĐB-01. Họ không ký nhận toàn lô vì nhiệm vụ hiện tại là sản xuất, chưa phải hoàn thành thương mại. Cửa hàng Hàng Bồ đặt sáu mươi chiếc; phố Huế đặt năm mươi; Đồng Xuân đặt hai mươi; hai mươi chiếc còn lại dành cho cửa hàng của Hùng và hàng thay. Tiền đặt trước ba mươi phần trăm được ghi là khoản nhận trước. Điều kiện giao dự kiến ngày 22 tháng tư, theo dõi lỗi mười ngày. Chương sau phải chứng minh đủ số giao, tỷ lệ lỗi, tiền thanh toán và trách nhiệm bảo hành.
-
 Lan khóa bảng sản xuất:
 
 - sản phẩm: đèn bàn ĐB-01, 220 vôn, bóng tối đa 60 oát;
@@ -99,39 +86,19 @@ Lan chạy ra, giải thích hàng không phải của Thương Gia. Người đ
 
 Nhưng Lan thấy trong mắt ông có một tia gì đó — không phải lo lắng, mà là một nỗi buồn dai dẳng, như cũi sắt đè lên cổ họng từ lâu, và ông đã quen không nói ra. Cô muốn hỏi về chuyện năm 1978, về cha Bằng từng khai cha Hùng, nhưng cô không dám.
 
-============================================================
-
-
 Hùng ngồi xuống bên chiếc đèn bàn mẫu ĐB-01, bật công tắc. Ánh sáng vàng ấm tỏa ra từ chao kim loại, hắt lên mặt bàn gỗ, làm hiện rõ từng vân gỗ, từng vết xước nhỏ trên mặt bàn. Ông đưa tay chạm vào chao – còn mát. Đã chạy sáu giờ liên tục. Ông chỉnh cổ đèn, hạ thấp xuống, rồi ngước lên cao. Cơ cấu giữ chặt, không xệ. Ông tắt đèn, rút phích, xoay đui bóng ra xem. Cực đồng vẫn sáng, không đổi màu. "Tốt," ông nói, như nói với chính mình.
-
-============================================================
-
-Teaser: 
-
-
 
 Hai người ngồi ăn cơm tối. Mùi cơm mới, mùi canh chua cá lóc, mùi thịt kho tàu. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại cho Hùng. “Anh ăn đi. Anh là lao động chính.” Hai người cười, mắt nhìn nhau ấm áp. Hùng nhai chậm, cảm nhận hương vị thức ăn và hơi ấm của bữa cơm gia đình. Ông thấy mình may mắn.
 
 Hùng ngồi bên bàn, tay lật những tờ giấy. Mùi mực, mùi giấy, mùi công việc. Lan ngồi bên cạnh, tay ghi chép. “Anh xem số liệu này.” Lan chỉ tay vào một con số. Hùng nhìn theo ngón tay Lan, mắt nheo lại. “Tốt. Em làm tốt lắm.” Ông quay sang nhìn Lan, mắt trìu mến. Lan cười, mắt sáng lên. “Cảm ơn anh.”
 
-
-
-
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" bà Hà hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
 Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, bà Hà đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. bà Hà quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
 
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho bà Hà nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." bà Hà cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
-
-
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
 
-Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Minh nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
-
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho bà Hà. "Tặng em." bà Hà nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn bà Hà hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
@@ -139,17 +106,7 @@ Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Lan đến ngồi bên c
 
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
-Sáng chủ nhật, Hùng gấp chăn màn, Minh lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Minh quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
-
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Lan. "Tặng em." Lan nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Lan hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Minh nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Minh cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
-
-Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Lan nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
-
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
 
 Trong căn nhà nhỏ, mùi thức ăn tỏa ra từ bếp. Hùng ngồi bên bàn, tay mở cuốn sổ cái. Những con số nối tiếp nhau, nhưng mắt ông không tập trung. Ông ngước lên, nhìn Lan đang thái rau bên bếp.
 Bà Hà đứng bên cạnh cô. Tay bà thoăn thoắt rửa rau, nước chảy róc rách. "Con để cô làm, cô quen rồi." Bà nói với Lan, giọng hiền hậu.
@@ -160,16 +117,15 @@ Bà Hà quay lại, mắt đỏ lên. "Cảm ơn gì?"
 Bà Hà dựa đầu vào ngực Hùng, mắt nhắm lại. Lan mỉm cười, quay mặt đi, ngại ngùng. Trong nồi, canh sôi ùng ục, mùi thơm tỏa ra, ấm áp, thân thuộc.
 Hùng vuốt tóc bà Hà, mắt nhìn xa xăm. Ông nghĩ về quá khứ, về những ngày đã qua. Về những gì đã mất, những gì đã tìm lại. Ông nắm chặt tay bà Hà, không muốn buông.
 
-
 a bà Hà đi dạo trong vườn, nhìn những bông cúc vàng nở rộ, hít hà mùi đất đất mùa xuân ẩm, mùi rơm rạ, mùi bùn. Cảm thấy bình yên.
 
-
 “Anh Hùng, có khách.” Lan gọi từ ngoài. Hùng bước ra, mắt nhìn người khách. “Chào anh. Có gì tôi giúp được?”
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.43」
 Năm: 1984
 Tổng EXP: 3,800 (+200)
 Không gian kho: 2,650m² (+50m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================
+Ghi chú: system_ledger

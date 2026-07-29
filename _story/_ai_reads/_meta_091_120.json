@@ -1,0 +1,1153 @@
+[
+  {
+    "ch": 91,
+    "title": "Sản xuất thép Hải Phòng",
+    "file": "Chương 91 - Sản xuất thép Hải Phòng.txt",
+    "final": 9.71,
+    "words": 3669,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 63,
+      "sensory_density": 15.44,
+      "char_density": 2.32,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Năm 1987, tại Hải Phòng. Không phố xá ồn ào, không biển hiệu hào nhoáng. Chỉ mùi dầu máy, tiếng búa đe, và những lò nung thủ công nằm sâu trong khu công nghiệp cũ.",
+    "cliff": "Hùng không đáp. Ông giấu. Giấu vì sợ Lan lo. Sợ chị sẽ hỏi thêm, sẽ biết nhiều, sẽ không ngủ được. Cô lập hóa chính mình — một thói quen đã theo ông từ kiếp trước: giải quyết mọi thứ một mình, vì tin ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Klaus",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 17389
+  },
+  {
+    "ch": 92,
+    "title": "Sản xuất xi măng",
+    "file": "Chương 92 - Sản xuất xi măng.txt",
+    "final": 9.71,
+    "words": 3931,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 82,
+      "sensory_density": 11.24,
+      "char_density": 2.57,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Năm 1987. Khu công nghiệp phía nam thành phố.",
+    "cliff": "Ông gấp sổ. Ngoài trời, tiếng xe máy chạy qua. Một âm thanh đặc trưng của năm 1987 — khi xe máy bắt đầu lấn đường của xe đạp, khi ống xả thải khói xanh ra phố, khi thị trường sống trong miệng người tr",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "Mai",
+      "Tanaka",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 18473
+  },
+  {
+    "ch": 93,
+    "title": "Hùng gặp cô Hạnh",
+    "file": "Chương 93 - Hùng gặp cô Hạnh.txt",
+    "final": 10.0,
+    "words": 3431,
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 117,
+      "sensory_density": 15.02,
+      "char_density": 4.27,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1986,
+    "head_year": "1986",
+    "pads": {},
+    "hook": "Năm 1986, TP.HCM.",
+    "cliff": "— Thì mai. | Cánh cửa khép lại. Chị Hạnh đứng yên một lúc, tay đặt trên hộp chỉ gỗ, rồi khẽ cười. Ngoài phố, Hùng đi trong bóng tối mà lòng sáng rỡ.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "Hạnh",
+      "Mai",
+      "Minh",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16325
+  },
+  {
+    "ch": 94,
+    "title": "Hùng gặp cô Mai và cô Lan",
+    "file": "Chương 94 - Hùng gặp cô Mai và cô Lan.txt",
+    "final": 9.71,
+    "words": 3946,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 112,
+      "sensory_density": 13.88,
+      "char_density": 3.05,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1986,
+    "head_year": "1986",
+    "pads": {},
+    "hook": "Năm 1986. Đà Nẵng.",
+    "cliff": "Nhưng ông biết: câu hỏi đó sẽ trả lời vào lúc khác. Hôm nay, ông chỉ muốn nhớ: 1986, Đà Nẵng, hai con người — và một bữa phở còn ấm. | Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Mai",
+      "Minh",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 18526
+  },
+  {
+    "ch": 95,
+    "title": "Hùng chọn cô Hạnh",
+    "file": "Chương 95 - Hùng chọn cô Hạnh.txt",
+    "final": 9.71,
+    "words": 3943,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 91,
+      "sensory_density": 12.49,
+      "char_density": 3.09,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1986,
+    "head_year": "1986",
+    "pads": {},
+    "hook": "Năm 1986, Hà Nội vào thu. Gió heo may thổi qua ô cửa kính mờ của quán cà phê góc phố Cổ Điển, mang theo mùi bụi đường và khói than tổ ong từ xa vọng lại. Ngoài kia, một chiếc xe tả",
+    "cliff": "Câu nói khô khốc. Lan cúi xuống, tiếp tục viết. Nhưng tay chị chậm lại. Chị biết Hùng không nói hết. Và chị biết — bởi vì chị biết ông hơn ai hết — rằng khi Hùng giấu, là khi việc đó nặng đến mức ông ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 18247
+  },
+  {
+    "ch": 96,
+    "title": "Bà Hà bế cháu nội",
+    "file": "Chương 96 - Bà Hà bế cháu nội.txt",
+    "final": 10.0,
+    "words": 3608,
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 71,
+      "sensory_density": 12.71,
+      "char_density": 5.96,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": null,
+    "pads": {},
+    "hook": "Bà Hà mở mắt trước tiếng gà. Cái lạnh tháng Mười một thấm qua bức tường gạch xây từ thời bao cấp. Bà kéo tấm chăn bông độn bông cũ lên ngang ngực, không vội trở dậy. Tai bà lắng ng",
+    "cliff": "Nhưng trong căn phòng nhỏ này, thế giới thu nhỏ lại chỉ còn một đứa trẻ đang ngủ trong nôi gỗ mít và một bà già đang ngồi cạnh. | Bà Hà không cần gì hơn.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16600
+  },
+  {
+    "ch": 97,
+    "title": "Sản xuất điện tử",
+    "file": "Chương 97 - Sản xuất điện tử.txt",
+    "final": 9.71,
+    "words": 3257,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 47,
+      "sensory_density": 13.33,
+      "char_density": 2.39,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Sáng sớm tháng ba năm 1987. Khu công nghiệp mới nhú lên ở rìa thành phố, giữa những thửa ruộng lúa chiêm còn xanh. Nhà xưởng dựng tạm — tường tôn, mái fibrô xi măng, nền xi măng gồ",
+    "cliff": "Chú Bảy gật. Ăn xong, ông lấy kính lúp ra, đi từng trạm hàn. Hùng đứng nhìn. Một già một trẻ — không cần nói nhiều. Trong xưởng sản xuất điện tử, tay nghề là thứ tiếng duy nhất không cần phiên dịch. |",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 15601
+  },
+  {
+    "ch": 98,
+    "title": "Sản xuất điện thoại",
+    "file": "Chương 98 - Sản xuất điện thoại.txt",
+    "final": 9.71,
+    "words": 3423,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 91,
+      "sensory_density": 10.82,
+      "char_density": 2.49,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Bảy giờ sáng, Khu công nghiệp tỉnh Hà Tây. Năm 1987.",
+    "cliff": "— Không — Bình đáp ngay. | Hùng nhìn Bình, thấy cậu thợ trẻ đã khác. Không còn sợ sệt, không còn hỏi \"có làm nổi không\". Chỉ biết việc và làm. Ông viết vào sổ: \"Bộ số 7 — mẫu chuẩn. Người đã có. Mai b",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16600
+  },
+  {
+    "ch": 99,
+    "title": "Mở rộngviễn thông",
+    "file": "Chương 99 - Mở rộng viễn thông.txt",
+    "final": 9.71,
+    "words": 3950,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 140,
+      "sensory_density": 7.12,
+      "char_density": 2.23,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi giấy tờ cũ, mùi đồng, ",
+    "cliff": "\"Nhưng ba tỉnh còn lại — chưa. Sáng mai đi tiếp.\" | Lan chạm vai anh, gật. Hơi thở hai người lẫn mùi nhựa vỏ cáp mới.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "Hạnh",
+      "Mai",
+      "Minh",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 18970
+  },
+  {
+    "ch": 100,
+    "title": "Sản xuất phần mềm",
+    "file": "Chương 100 - Sản xuất phần mềm.txt",
+    "final": 9.71,
+    "words": 3198,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 89,
+      "sensory_density": 12.38,
+      "char_density": 2.57,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "1987. Một căn phòng nhỏ nằm sâu trong Khu công nghiệp — ba cái bàn gỗ ghép từ ván thùng, hai máy tính IBM PC XT 286 mang về từ Singapore, một ổ đĩa mềm 5.25 inch kêu rè rè mỗi lần ",
+    "cliff": "Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1987 — được rồi.' | Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1987 đã cho ông nhiều hơn ông tưởng. Ông g",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 15340
+  },
+  {
+    "ch": 101,
+    "title": "Mở rộngcửa hàng 108",
+    "file": "Chương 101 - Mở rộng cửa hàng 108.txt",
+    "final": 9.71,
+    "words": 3606,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 87,
+      "sensory_density": 10.94,
+      "char_density": 2.31,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Năm 1987. Hùng đặt mục tiêu: 108 cửa hàng trên cả nước trước khi tờ lịch cuối rơi. Không phải vì số đẹp — 108 là con số ông tính ra từ sổ: 36 tỉnh thành, trung bình ba điểm bán mỗi",
+    "cliff": "Hùng gật. Hơi thở ông dài ra, như vừa đặt được một gánh xuống đất. | Một trăm linh tám cửa. Còn tỉnh nào chưa có điểm? Lan sẽ mang danh sách ngày mai.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 17434
+  },
+  {
+    "ch": 102,
+    "title": "Mở rộngnhà hàng 42",
+    "file": "Chương 102 - Mở rộng nhà hàng 42.txt",
+    "final": 9.71,
+    "words": 3368,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 82,
+      "sensory_density": 10.92,
+      "char_density": 2.38,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Hùng đứng trước ba cái lò cũ kỹ, tay lau mồ hôi dính bột. Tháng ba năm 1987, Hà Nội vẫn  nhưng mồ hôi cứ chảy vì lo chứ không vì nóng. Nhà hàng 42 đã có chỗ đứng ở phố cổ, và bây g",
+    "cliff": "Một buổi sáng, Hùng mở cửa hàng. Mùi gỗ mớcủa bốc lên thơm ngày. Ông lấy chổi quét sân, cát sỏi lăn tăn dưới chân. Một người khách bước vào. \"Chào chú. Chú có bán loại này không?\" Hùng ngẩng lên, mắt ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Klaus",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 15719
+  },
+  {
+    "ch": 103,
+    "title": "Mở rộngnhà máy 30",
+    "file": "Chương 103 - Mở rộng nhà máy 30.txt",
+    "final": 9.71,
+    "words": 3290,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 49,
+      "sensory_density": 12.68,
+      "char_density": 2.22,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Con số 30 treo trước mặt Hùng từ đầu năm 1987. Ba mươi nhà máy — không phải ba mươi xưởng nhỏ, không phải ba mươi điểm thuê mặt bằng. Nhà máy. Mỗi cái có tường, có mái, có giấy phé",
+    "cliff": "Hùng ôm lấy vai mẹ một nhịp. Hơi thở bà thơm mùi gừng. | Ba mươi nhà máy. Bà Hà bảo đừng vội năm mươi — ông gật, nhưng trong sổ vẫn ghi kế hoạch phía trước.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Minh",
+      "Tanaka",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 15448
+  },
+  {
+    "ch": 104,
+    "title": "Mở rộngxuất khẩu châu Âu",
+    "file": "Chương 104 - Mở rộng xuất khẩu châu Âu.txt",
+    "final": 9.71,
+    "words": 3894,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 89,
+      "sensory_density": 12.84,
+      "char_density": 2.79,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Bình minh tháng Ba năm 1987, Hùng đứng ở cầu cảng Hải Phòng. Gió biển thổi mạnh, mang theo vị mặn chát của muối lẫn với mùi dầu diesel từ những con tàu đang nổ máy, mùi sắt thép và",
+    "cliff": "Một đứa trẻ chạy đến, mắt mở to, tay cầm que kem. \"Bác Hùng ơi, bác ăn kem không?\"Hùng cúi xuống, mắt nhìn thẳng vào mắt đứa bé. Ông cười, nụ cười ấm áp. \"Ừ, cảm ơn cháu.\" Ông nhận que kem, tay hơi ru",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Minh",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 18769
+  },
+  {
+    "ch": 105,
+    "title": "Tổng kết Phần 3",
+    "file": "Chương 105 - Tổng kết Phần 3.txt",
+    "final": 9.71,
+    "words": 3888,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 47,
+      "sensory_density": 11.65,
+      "char_density": 2.4,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Năm 1987, TP.HCM. Trần Văn Hùng đóng cuốn sổ cuối cùng của Phần 3, thấy một đường thẳng từ Chương 90 đến Chương 104 — không đẹp, không trơn, nhưng mỗi đoạn đều có người thật việc t",
+    "cliff": "Hai người bạn cũ ngồi với nhau trong quán nước chè. Bàn gỗ cũ, mùi trà xanh thơm lừng. \"Cậu nhìn tôi này.\"Người bạn chỉ vào mái tóc bạc của mình. \"Tóc tôi bạc hết rồi.\"Hùng cười, tay xoay ly trà. \"Tóc",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Mai",
+      "Minh",
+      "Klaus",
+      "Tanaka",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 18521
+  },
+  {
+    "ch": 106,
+    "title": "Bắt đầu Phần 4",
+    "file": "Chương 106 - Bắt đầu Phần 4.txt",
+    "final": 9.71,
+    "words": 3404,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 103,
+      "sensory_density": 15.51,
+      "char_density": 2.59,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Hùng ngồi ở bàn giấy cạnh cửa sổ nhìn ra cảng Đà Nẵng. Sáng sớm, cảng chưa ồn. Năm 1987. Part 4 bắt đầu không bằng tiếng pháo — bằng một tờ giấy nháp viết tay với ba dòng: \"Người b",
+    "cliff": "— Vì — Hùng nói, giọng trầm — những thứ mình cần, nó ở ngoài kia cho mình tới. Mình không tới người ta không mang vào tận nhà. | Tàu lăn bánh. Đà Nẵng lùi xa dần. Hùng mở sổ viết một dòng: \"Ra thế giớ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Klaus",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16336
+  },
+  {
+    "ch": 107,
+    "title": "Mở nhà máy Thái Lan",
+    "file": "Chương 107 - Mở nhà máy Thái Lan.txt",
+    "final": 9.71,
+    "words": 3948,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 112,
+      "sensory_density": 14.16,
+      "char_density": 2.32,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Tháng Ba năm 1987. Trần Văn Hùng xuống sân bay Don Mueang — hành lý một túi, hồ sơ một cặp, danh thiếp một xấp nhàu. Bangkok đón ông bằng hơi nóng 35 độ và mùi dầu diesel trộn nước",
+    "cliff": "Một thanh niên măng áo lính chạy đến, mồ hôi ướt trán. Chú Hùng, máy hỏng rồi. Hùng bỏ tờ giấy xuống, đứng dậy. Máy nào? Máy số hai. Lại đây, tôi xem. Ông bước vào xưởng, tay sờ vào máy. Mùi nhớt dầu ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 19148
+  },
+  {
+    "ch": 108,
+    "title": "Mở nhà máy Indonesia",
+    "file": "Chương 108 - Mở nhà máy Indonesia.txt",
+    "final": 9.71,
+    "words": 3746,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 104,
+      "sensory_density": 13.15,
+      "char_density": 2.08,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Năm 1987, Jakarta.",
+    "cliff": "\"Nhà máy Indonesia — ngày 1 — còn nguyên rủi ro — nhưng đã mở được cửa.\" | Ông tắt đèn. Mưa rơi trên mái tôn. Jakarta còn nhiều việc — nhưng hiện tại, thứ ông cần là ngủ đủ để mai còn tỉnh làm tiếp.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 17944
+  },
+  {
+    "ch": 109,
+    "title": "Mở nhà máy Đức",
+    "file": "Chương 109 - Mở nhà máy Đức.txt",
+    "final": 9.71,
+    "words": 3337,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 60,
+      "sensory_density": 13.08,
+      "char_density": 2.19,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Tháng Mười 1987, Tây Đức.",
+    "cliff": "Hai người đứng im. Hơi thở trắng mỏng trong không khí Frankfurt buổi sớm. | Lô đầu rời Frankfurt. Còn chứng nhận Đức phía trước — ông chưa dám tuyên bố xong.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Klaus",
+      "Bằng",
+      "Schmidt"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16123
+  },
+  {
+    "ch": 110,
+    "title": "M&A Bangkok Electronics",
+    "file": "Chương 110 - M&A Bangkok Electronics.txt",
+    "final": 9.71,
+    "words": 3393,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 53,
+      "sensory_density": 12.67,
+      "char_density": 2.78,
+      "pad_total": 0,
+      "maxrep": 2
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Năm 1987. Bangkok. Mục tiêu: một xưởng linh kiện điện tử Thái Lan tên Bangkok Electronics — ba mươi bảy nhân công, một dây chuyền lắp ráp bo mạch đơn giản, và một giấy phép xuất kh",
+    "cliff": "\"Mua máy. Rác thì quét. Ngày mai kiểm kho — tôi muốn mắt tôi thấy từng thùng.\" | Bangkok Electronics về tay. Nhưng sổ nợ cũ sẽ nổi khi nào? Ông đợi báo cáo kiểm toán tuần sau.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "Mai",
+      "Minh",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16337
+  },
+  {
+    "ch": 111,
+    "title": "Mở sang châu Mỹ USA",
+    "file": "Chương 111 - Mở sang châu Mỹ USA.txt",
+    "final": 10.0,
+    "words": 3138,
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 76,
+      "sensory_density": 15.04,
+      "char_density": 3.61,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Bảy giờ sáng, Sài Gòn cuối năm 1987. Cái lạnh miền Nam không ồn ào như gió mùa đông bắc — nó im lặng, thấm dần qua từng lớp áo len mỏng, qua kẽ cửa sổ gỗ đã co lại vì ẩm. Trời vừa ",
+    "cliff": "\"Ký. Nếu hỏng, tên anh trên sổ.\" | Ngoài ngõ, tiếng xe ôm nổ. Mùi xăng lẫn mùi mưa. Phía trước là một nước ông mới chỉ biết qua bản đồ.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 15116
+  },
+  {
+    "ch": 112,
+    "title": "Hoàn thành phần 3",
+    "file": "Chương 112 - Hoàn thành phần 3.txt",
+    "final": 9.63,
+    "words": 3441,
+    "axes": {
+      "van_chuong": 8.9,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 50,
+      "sensory_density": 13.44,
+      "char_density": 3.08,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Tháng Mười Hai 1987. Đà Nẵng.",
+    "cliff": "Hùng gật, ôm vai mẹ một nhịp. | Phần 3 xong trên giấy. Phía trước là Mỹ — ông hít sâu, chưa chắc mình đã sẵn sàng.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Klaus",
+      "Tanaka",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16370
+  },
+  {
+    "ch": 113,
+    "title": "Mở nhà máy USA",
+    "file": "Chương 113 - Mở nhà máy USA.txt",
+    "final": 10.0,
+    "words": 3028,
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 45,
+      "sensory_density": 14.83,
+      "char_density": 3.88,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Tháng Mười Một 1987. Chicago.",
+    "cliff": "Kỹ năng trọng yếu: Ngôn ngữ lv1, Tài chính lv1, Tài chính lv2 | Mối hàn của Wojtek vẫn chịu được.",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Minh",
+      "Klaus",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14579
+  },
+  {
+    "ch": 114,
+    "title": "M&A Stahl GmbH",
+    "file": "Chương 114 - M&A Stahl GmbH.txt",
+    "final": 9.78,
+    "words": 3005,
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 8.5,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 53,
+      "sensory_density": 14.21,
+      "char_density": 3.69,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Sáng đầu tháng Mười Một 1987, Hà Nội.",
+    "cliff": "Đêm đó, ông ghi vào sổ dòng cuối: \"Chuỗi thép khép vòng. Từ quặng đến cuộn, từ Essen đến Hải Phòng, đều nằm trong tay mình. Không còn phải ngửa tay mua giá người khác đặt.\" | Đặt máy xuống, Hùng nhìn ",
+    "cast": [
+      "Hùng",
+      "bà Hà",
+      "Mai",
+      "Minh",
+      "Klaus",
+      "Bằng",
+      "Schmidt"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14511
+  },
+  {
+    "ch": 115,
+    "title": "Mở nhà máy Nigeria",
+    "file": "Chương 115 - Mở nhà máy Nigeria.txt",
+    "final": 9.71,
+    "words": 3050,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 85,
+      "sensory_density": 14.85,
+      "char_density": 2.78,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Lagos, Nigeria — tháng Ba 1987. Nhiệt độ lúc mười giờ sáng đã chạm bốn mươi hai độ C. Bụi đỏ laterit mịn như bột mì nhưng dai như keo — bám vào ống quần, vào cổ áo, vào kẽ móng tay",
+    "cliff": "\"Không ai.\" Hùng đáp. Ông ghi câu ấy vào sổ trước khi máy đóng cửa ca đêm. | Về căn nhà thuê, bà Hà chưa ngủ, ngồi đợi dưới đèn dầu. \"Xong chưa con?\" \"Xong. Máy chạy rồi.\" Bà gật, múc cho ông tô cháo ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14898
+  },
+  {
+    "ch": 116,
+    "title": "Mở nhà máy Úc",
+    "file": "Chương 116 - Mở nhà máy Úc.txt",
+    "final": 9.71,
+    "words": 3431,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 67,
+      "sensory_density": 10.97,
+      "char_density": 3.34,
+      "pad_total": 0,
+      "maxrep": 2
+    },
+    "panel_year": 1987,
+    "head_year": "1987",
+    "pads": {},
+    "hook": "Sydney, tháng Ba 1987. Chuyến bay từ Sài Gòn qua Singapore rồi Sydney kéo dài mười bốn tiếng. Hùng ngồi ghế phổ thông, tập bản vẽ và sổ tay trên bụng, ngủ được ba tiếng lẻ — những ",
+    "cliff": "Đêm, Hùng viết sổ trên giường khách sạn. Hơi thở đều. Phía trước còn đơn hàng, còn hải quan, còn một thị trường chưa biết tên mình. | Nhưng đơn hàng đầu sẽ về khi nào? Ông đợi fax từ Melbourne — không",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Minh",
+      "Klaus",
+      "Tanaka",
+      "Bằng",
+      "Craig",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 16921
+  },
+  {
+    "ch": 117,
+    "title": "Tổng tài sản 1000 tỷ",
+    "file": "Chương 117 - Tổng tài sản 1000 tỷ.txt",
+    "final": 9.71,
+    "words": 3002,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 43,
+      "sensory_density": 11.65,
+      "char_density": 3.25,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": null,
+    "pads": {},
+    "hook": "Tiếng máy may dừng lúc mười một giờ đêm. Cả xưởng chỉ còn một bóng đèn trần vàng vọt, hắt bóng dài lên những kiện vải xếp chồng dọc tường. Những chiếc máy may im lìm thành hàng, ki",
+    "cliff": "Sau chuyến thăm Nhật, Hùng mang về một cuốn sách bằng tiếng Nhật, dù không đọc được. Ông giữ nó trên bàn như một biểu tượng. Mỗi lần nhìn thấy cuốn sách, ông nhớ về những con người đã giúp mình: ông Đ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Minh",
+      "Tanaka",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14319
+  },
+  {
+    "ch": 118,
+    "title": "Những ngày nằm viện",
+    "file": "Chương 118 - Những ngày nằm viện.txt",
+    "final": 10.0,
+    "words": 3033,
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 49,
+      "sensory_density": 14.49,
+      "char_density": 4.9,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1987,
+    "head_year": null,
+    "pads": {},
+    "hook": "Cơn đau đến không báo trước.",
+    "cliff": "Trong đầu ông lúc này không có con số. Không hợp đồng. Không đối tác. Chỉ có bát cháo hành bà Hà mang sáng nay, vị ngọt của cá kho, câu nói của bà: đừng tính sai cái gì đáng giá hơn. Ông nhắm mắt, cố ",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Hạnh",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14440
+  },
+  {
+    "ch": 119,
+    "title": "Bước ngoặt sức khỏe",
+    "file": "Chương 119 - Bước ngoặt sức khỏe.txt",
+    "final": 9.71,
+    "words": 3148,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 29,
+      "sensory_density": 13.95,
+      "char_density": 2.3,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1988,
+    "head_year": null,
+    "pads": {},
+    "hook": "Tròn mặt trời đang lên cao giữa buổi trưa. Hùng ngồi ở bàn cuối phòng giao dịch, tay phải cầm bản hợp đồng thương lượng giá lô hàng xà phòng với đối tác Đà Nẵng. Bản hợp đồng đã gầ",
+    "cliff": "Hùng dừng bút, nhìn ra cửa sổ một lúc rồi viết tiếp, chữ nét đậm hơn dòng trước. Lan gấp trang sổ, đặt bút xuống bàn, nhìn Hùng chờ câu trả lời cuối. Ngoài sân, gió thổi qua mái tôn, tiếng động nhẹ nh",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng",
+      "Quý"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14922
+  },
+  {
+    "ch": 120,
+    "title": "Học cách ủy thác sâu hơn",
+    "file": "Chương 120 - Học cách ủy thác sâu hơn.txt",
+    "final": 9.71,
+    "words": 3047,
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "dialogue": 55,
+      "sensory_density": 13.45,
+      "char_density": 3.14,
+      "pad_total": 0,
+      "maxrep": 1
+    },
+    "panel_year": 1988,
+    "head_year": "1988",
+    "pads": {},
+    "hook": "Năm giờ sáng, Đà Nẵng 1988. Hùng ngồi ở bàn gỗ trong căn phòng vừa làm việc vừa làm phòng khách — hai chồng hồ sơ, một máy chữ cũ Olivetti, một lịch treo tường in hình nhà máy thủy",
+    "cliff": "Teaser: Đêm đó, Lan về phòng, mở tủ lấy cuốn sổ mới. Trên trang đầu, cô viết: \"Ngày đầu tiên tự kiểm.\" Rồi cô ngồi nhìn dòng chữ ấy rất lâu. | Hoàng hôn buông xuống, ánh đèn đường hắt vào phòng qua kh",
+    "cast": [
+      "Hùng",
+      "Lan",
+      "bà Hà",
+      "Mai",
+      "Bằng"
+    ],
+    "hf": [],
+    "pass": true,
+    "chars": 14506
+  }
+]

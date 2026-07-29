@@ -1,6 +1,5 @@
 ============================================================
 Chương 250: Lan dẫn quỹ R&D
-============================================================
 
 Đầu năm 2010, Hùng ký quyết định thành lập Quỹ Đầu tư Nghiên cứu và Phát triển — gọi tắt là Quỹ R&D. Mùi mực ký trên tờ quyết định còn thơm, mùi giấy in nhiệt từ máy fax trong góc phòng, và mùi cà phê mới pha từ chiếc phích giữ nhiệt — tất cả như một nghi thức bắt đầu. Vốn điều lệ: 200 tỷ đồng. Người đứng đầu quỹ: Trần Thị Lan.
 
@@ -134,7 +133,6 @@ Không ai vỗ tay. Nhưng Quốc thấy Lan cười — một nụ cười nh�
 
 Chiều hôm đó, cô viết báo cáo cho Hùng. Ba trang, không cảm xúc. Số liệu: chi phí lab ban đầu 950 triệu, đã tuyển được 12 kỹ sư, đã có 2 kết quả thử nghiệm khả quan, dự kiến 6 tháng tới ra sản phẩm thương mại đầu tiên. Hùng đọc xong, ghi một chữ ở cuối: “Tiếp.”
 
-
 Trong quý tiếp theo, Lan mở rộng quỹ R&D sang mảng phần mềm. Nhóm của Dũng bắt đầu phát triển một hệ thống ERP nội bộ, đặt tên là TG-ERP, viết trên nền tảng mã nguồn mở. Hai lập trình viên trẻ do Dũng dẫn dắt — một người tốt nghiệp Đại học Bách khoa, một người tự học qua mạng — ngồi trong căn phòng nhỏ cạnh trung tâm dữ liệu, viết từng dòng code.
 
 “Tại sao không mua phần mềm có sẵn?” một trưởng phòng tài chính hỏi.
@@ -169,29 +167,13 @@ Bà Hà nắm tay Lan. "Ngày xưa mẹ chỉ mong con biết đọc biết vi�
 
 Lan cười: "Con còn làm lớn hơn nữa, mẹ ạ."
 
-============================================================
-
-
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Minh đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Minh quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
-
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
 
-Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Minh nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.250」
 Năm: 2010
 Tổng EXP: 57,667 (+576 nhịp này)
 Không gian kho: 22,834m² (+228m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Quản trị R&D lv1, Dự báo rủi ro lv2
-Quỹ R&D 200 tỷ. Phản đối: "Đầu tư đất có phải hơn?" Hùng: "Đất mua sau. Kỹ sư không mua gấp."
-Lan đứng quỹ: "Anh giao em việc khó nhất." — "Biết. Nên mới giao em."
-
-Lan đứng trước hội đồng quỹ — thế hệ tiếp theo đã sẵn sàng.
-
-Lan đứng trước căn phòng trống ở tầng hai — nơi sẽ là phòng R&D đầu tiên.
-Ba cái bàn, hai máy tính, một cuốn sổ tay.
-Cô viết lên bảng: "Mục tiêu năm nay — 3 sản phẩm mới."
-Hùng ghé qua, nhìn bảng rồi bỏ đi, không nói gì.
-Nhưng Lan thấy bố cười ở hành lang.
-
-============================================================
+Ghi chú: khóa nhịp

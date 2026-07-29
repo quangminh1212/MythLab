@@ -1,6 +1,5 @@
 ============================================================
 Chương 331: Bắt đầu Phần 6 – Di sản
-============================================================
 
 Hà Nội, tháng Giêng năm 2016. Cái rét cuối đông vẫn chưa chịu buông — gió bấc thổi từng cơn mỏng và sắc như lưỡi lam, len qua khe cửa mang theo mùi khói rơm khô và mùi đất lạnh. Trong phòng khách căn nhà cũ trên phố Trần Phú, Trần Văn Hùng ngồi đối diện với một xấp tài liệu dày hơn ba trăm trang. Mùi giấy in mới và mùi mực của máy photocopy còn thoảng trong không khí, lẫn với mùi hương trầm từ tủ thờ. Những ngón tay ông lạnh buốt, những đầu ngón tay chai sạn vì đã cầm bút suốt ba mươi năm — va vào mép giấy không còn cảm giác sắc nữa.
 
@@ -189,37 +188,23 @@ Trong đầu, dòng chữ hệ thống xuất hiện, nhạt, như thường l�
 
 Có những thứ đáng sống hơn là tiền. Hùng không xóa dòng chữ hệ thống. Ông chỉ gập cuốn sổ, đặt nó vào ngăn kéo bàn, nơi màu tối che khuất mọi con số. Tiếng xe đạp cũ lạch cạch ngoài phố, tiếng rao hàng chiều muộn xa dần — những âm thanh quen thuộc của Hà Nội hơn ba mươi năm qua. Ông đưa tay lau mặt, lòng bàn tay ướt mồ hôi lạnh, và cười một mình trong bóng tối. Cả ngày hôm nay, những lời của Mai vẫn vang trong đầu ông: "Ba, con hi vọng một ngày con cũng có thể tự hào như ba đã tự hào về cố nội." Câu nói đó làm ông nhận ra — di sản không phải tập đoàn hay tài sản, mà là những gì người khác nhớ về mình khi mình không còn ở đó. Một ngọn đèn bàn trên bàn học cũ vẫn sáng, soi rõ góc phòng — nơi treo di ảnh bố Hùng, người đàn ông chưa từng thấy con trai mình giàu có. Ông nhìn bức ảnh, nhẹ nhàng cúi đầu. "Bố ạ, con đã giữ được nhà."
 
-============================================================
-
-
 Một chương mới bắt đầu — không phải bằng số liệu, mà bằng người còn lại.
-
-
-============================================================
-
-Teaser: 
-
-
-
-Sáng chủ nhật, Hùng gấp chăn màn, Lan lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Lan quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
-
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho bà Hà nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." bà Hà cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
 
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
 
-
-Sáng chủ nhật, Hùng gấp chăn màn, bà Hà lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." bà Hà quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
-
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Minh đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Minh quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
 
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho bà Hà. "Uống đi, trời lạnh." bà Hà nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
+
+Hùng nhíu mày, siết ngón tay sổ ch.331. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.331. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.331」
 Năm: 2016
 Tổng EXP: 81,600 (+600)
 Không gian kho: 45,520m² (+520m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================
+Ghi chú: system_ledger

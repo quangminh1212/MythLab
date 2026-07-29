@@ -1,6 +1,5 @@
 ============================================================
 Chương 219: Xe điện nguyên mẫu
-============================================================
 
 Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương Gia mở rộng — một khu vực riêng biệt nằm sâu trong đất liền, cách cảng Hải Phòng bốn mươi cây số. Hùng chọn chỗ này vì đất rẻ, mặt bằng rộng, và quan trọng hơn — kín đáo. Không có tòa nhà cao tầng nào nhìn vào được, không có đường lớn chạy qua, và khu vực này không nằm trong quy hoạch du lịch hay khu đô thị. Những gì xảy ra trong đó, chỉ người trong đó biết.
 
@@ -80,48 +79,6 @@ Hùng bước đến, đặt tay lên khung xe. Kim loại còn ấm — motor v
 
 "Với bộ pin lithium-ion Samsung 48V-100Ah hiện tại — khoảng sáu mươi cây số. Bằng một phần bảy xe xăng. Nhưng đây là pin mua ngoài, dung lượng thấp, trọng lượng nặng. Nếu mình tự thiết kế bộ pin với cell 18650 — như Tesla — có thể đạt hai trăm cây số với cùng trọng lượng."
 
-Hùng gật đầu. Ông đi vòng quanh khung xe, quan sát từng chi tiết. Hệ thống phanh đĩa — lấy từ xe máy Honda Wave, cải tiến càng phanh. Hệ thống treo — tự thiết kế, dùng lò xo cuộn và giảm xóc dầu từ xe tay ga. Khung xe — thép ống, hàn tay từng mối, mỗi mối hàn được đánh dấu bằng tên thợ hàn để truy xuất nếu có lỗi.
-
-"Nặng bao nhiêu?"
-
-"Bốn trăm năm mươi kilogram. Với vỏ nhôm tổng thể — em dự tính giảm còn ba trăm tám mươi."
-
-"Xe xăng cùng kích thước?"
-
-"Khoảng tám trăm kilogram. Nhưng có động cơ, hộp số, bình xăng, hệ thống xả, két nước. Xe điện bỏ được tất cả những thứ đó."
-
-Hùng quỳ xuống, nhìn dưới gầm xe. Motor gắn trực tiếp vào trục sau qua bộ giảm tốc, gọn gàng, không có dây curoa phức tạp. Pin nằm gọn trong một khung nhôm dưới sàn xe, cách mặt đất hai mươi lăm phân. Mỗi cell pin được quấn băng keo Kapton chịu nhiệt, các đầu nối được bọc co nhiệt cẩn thận.
-
-Hùng ghi nhanh vào sổ: *Khung thép ống. Motor Đức Baumüller 15kW. Pin Samsung 48V-100Ah. Range 60km. Tốc độ 70km/h (tính toán). Phanh đĩa xe máy. Hệ thống treo tự chế.*
-
-"Em có nghĩ đến việc sạc pin không?"
-
-"Có. Sạc từ ổ cắm gia đình 220V — sáu giờ đầy. Sạc nhanh bằng bộ sạc chuyên dụng — một giờ, nếu mình có hạ tầng. Nhưng em đã thiết kế bộ sạc để có thể dùng ổ cắm thường — vì ở Việt Nam, trạm sạc chưa có."
-
-Hùng đặt bút xuống. "Một giờ vẫn dài. Xe xăng đổ đầy mất ba phút."
-
-"Em biết. Nhưng hầu hết người dùng sạc qua đêm — họ cắm điện trước khi ngủ, sáng ra xe đầy điện. Họ không quan tâm thời gian sạc nếu nó tiện."
-
-"Với điều kiện họ có chỗ để sạc. Ở Việt Nam, phần lớn người dân sống trong nhà ống, không có gara, không có chỗ đậu xe qua đêm."
-
-Minh im lặng. Đó là vấn đề cốt lõi: hạ tầng, thói quen người dùng, giá thành. Cậu đã nghĩ đến điều đó — cậu có câu trả lời, nhưng câu trả lời đó là "sẽ có giải pháp trong tương lai", và cậu biết ba mình không mua những câu trả lời như vậy.
-
-"Xe ba bánh chở hàng," Hùng nói, "có thể là hướng khác. Họ chạy trong thành phố, quãng đường ngắn, chở hàng nhẹ. Và quan trọng — họ có chỗ sạc qua đêm vì hàng hóa để trong kho."
-
-Minh ngạc nhiên nhìn ba. "Ba đã nghĩ đến chuyện đó rồi?"
-
-"Ba nghĩ từ khi con nói xe điện tháng Mười hai năm ngoái. Con nói xe chở khách. Ba nói xe chở hàng. Cả hai đều làm."
-
-Minh cười — một nụ cười mệt mỏi nhưng thật sự.
-
----
-
-Mười một giờ đêm, hầu hết kỹ sư đã về. Chỉ còn Minh và Hùng trong xưởng. Hai cha con ngồi trên hai cái thùng nhựa lật ngược, giữa họ là khung xe thử nghiệm. Một cốc cà phê đen để trên nắp hộp dụng cụ — cà phê phin, đặc sệt, Minh đã uống hết hai cốc từ tối.
-
-"Ba có nhớ năm 1998 không?" Minh hỏi. "Lúc mình mở xưởng điện tử Hải Phòng."
-
-"Nhớ. Tháng Năm — mưa suốt. Mái tôn dột, ướt hết linh kiện. Con khi đó mười sáu tuổi, mặc áo mưa ra đỡ đồ."
-
 "Em nhớ ba nói: 'Điện tử Việt Nam không thể cạnh tranh với Trung Quốc, nhưng không vì thế mà không làm.'"
 
 "Người ta nói đúng lúc đó. Điện tử Việt Nam lúc đó chỉ lắp ráp loa đài cho Đài Loan. Bây giờ — TG-001 chạy được, pin mặt trời xuất sang Đức. Có thể rồi."
@@ -184,16 +141,7 @@ Khi tất cả ra về, Hùng ngồi lại một mình trong phòng họp. Màn 
 
 Hùng tắt máy chiếu. Phòng tối lại. Ông ngồi trong bóng tối một lúc lâu, nghe tiếng quạt điều hòa rền đều. Rồi ông đứng dậy, đi ra cửa. Xe điện Thương Gia sẽ mất ít nhất hai năm nữa mới ra đường. Nhưng hôm nay — sáu tháng sau câu hỏi của Minh — nó đã lăn bánh.
 
-============================================================
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho bà Hà. "Tặng em." bà Hà nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn bà Hà hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
-Sáng chủ nhật, Hùng gấp chăn màn, Lan lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Lan quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
-
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
-
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho bà Hà. "Tặng em." bà Hà nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn bà Hà hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
 
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
 
@@ -201,24 +149,11 @@ Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì 
 
 Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Lan đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
 
-
 Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, bà Hà đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. bà Hà quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
-
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho Minh. "Uống đi, trời lạnh." Minh nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Lan. "Tặng em." Lan nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Lan hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
 
-
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho Lan. "Uống đi, trời lạnh." Lan nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
-
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Lan nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
-
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho bà Hà nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." bà Hà cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
-
 
 Hùng mở cửa bước ra vườn sau. Cơn gió chiều thổi qua, mát rượi, mang theo mùi cỏ mới cắt và mùi hoa nhài nở muộn. Ông hít một hơi thật sâu, lồng ngực căng đầy không khí trong lành. Đôi mắt ông lim dim, tận hưởng khoảnh khắc bình yên hiếm hoi. Trong vườn, những bông hồng đỏ rực đang độ kỳ nở, cánh hoa mỏng tang, phơn phớt sương chiều. Mấy cây cúc vàng lắc lư trong gió, rụng vài cánh hoa xuống mặt đất ẩm.
 Bỗng, tiếng guốc gõ nhẹ sau lưng. Hùng quay lại. Lan đang đứng đó, tay ôm một rổ rau mới hái. Mồ hôi lấm tấm trên trán cô, lấp lánh dưới ánh nắng chiều.
@@ -231,10 +166,11 @@ Hùng xúc động, đưa tay nắm lấy tay cô. Bàn tay cô hơi thô ráp, 
 "Cảm ơn em, Lan."
 Cô gật đầu, mắt ánh lên niềm vui. Trong vườn, tiếng chim hót ríu rít. Mùi đất mới sau mưa, mùi lá cây xanh, mùi của sự sống.
 
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
 「Hệ thống — GHI NHẬN ch.219」
 Năm: 2007
 Tổng EXP: 49,520 (+600 nhịp này)
 Không gian kho: 17,800m² (+600m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv2, Công nghệ ô tô lv1
 Ghi chú: Xưởng 219 — xe điện nguyên mẫu đầu tiên chạy thử thành công. Motor Baumüller 15kW, pin Samsung 48V-100Ah, range 60km, controller tự thiết kế. Hùng phê duyệt ngân sách 12 tỷ. Mục tiêu 2009: sản xuất thử 100 chiếc.
-============================================================

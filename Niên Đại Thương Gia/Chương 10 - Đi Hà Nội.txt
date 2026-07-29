@@ -1,6 +1,5 @@
 ============================================================
 Chương 10: Đi Hà Nội
-============================================================
 
 Hà Nội năm 1983 không chào kẻ lạ bằng nụ cười — chào bằng ánh mắt đo.
 
@@ -124,9 +123,6 @@ Ngày mai: mang hóa đơn cho ông Tâm, bán hàng mới, và bắt đầu nhi
 
 Hành trình tiếp tục.
 
-
-
-
 Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ thể đã thuộc từng động tác đến mức không cần mắt.
 
 Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô dần khi nắng lên.
@@ -161,18 +157,15 @@ Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở qu
 
 Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
 
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. {a} gắp thịt cho {b}. “Em ăn đi.” {b} gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. {a} cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
 
-Một buổi sáng, {a} thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. {b} đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. {a} bước ra, tay ôm nhẹ {b}. “Cảm ơn em.” {b} quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
-
-Trong phòng khách, {a} mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. {b} đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” {b} dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
+Hùng nhíu mày, siết ngón tay sổ ch.10. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.10」
 Năm: 1983
 Tổng EXP: 1,250
 Không gian kho: 100m²
-Kỹ năng: Thương mại lv2, Đầu tư lv1
+Kỹ năng trọng yếu: (xem ledger)
 Ghi chú: Chuyến đi Hà Nội — hóa đơn, phiếu, sạp cố định. Mở tuyến vận chuyển tiềm năng.
-============================================================
