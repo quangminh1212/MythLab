@@ -1,0 +1,361 @@
+﻿chuong,file,final,pass_9_5,van,cau_truc,nhan_vat,continuity,filler,he_thong,words,dialogue,sensory,pad,maxrep,hard_fails,weakest
+1,Chương 1 - Tỉnh lại.txt,9.32,NO,9.6,6.0,10.0,10.0,10.0,10.0,6498,89,14.11,0,2,,cau_truc:6.0;van_chuong:9.6;nhan_vat:10.0
+2,Chương 2 - Bữa tối đầu tiên.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3397,54,13.87,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+3,Chương 3 - Đi huyện thành.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3679,47,12.53,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+4,Chương 4 - Bán hàng đầu tiên.txt,9.63,YES,10.0,7.56,10.0,10.0,10.0,10.0,4575,95,15.32,0,2,,cau_truc:7.56;van_chuong:10.0;nhan_vat:10.0
+5,Chương 5 - Mở rộng kinh doanh.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3444,46,12.35,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+6,Chương 6 - Tìm đối tác mới.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3321,73,12.66,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+7,Chương 7 - Sửa nhà.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3305,42,14.93,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+8,Chương 8 - Mở rộng hàng hóa.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3510,54,15.24,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+9,Chương 9 - Bán thuốc men.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3556,76,14.47,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+10,Chương 10 - Đi Hà Nội.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3587,46,17.13,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+11,Chương 11 - Đi Hà Nam.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3593,69,13.04,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+12,Chương 12 - Đi Hải Dương.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4034,102,15.97,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+13,Chương 13 - Đi Thái Bình.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3560,76,12.6,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+14,Chương 14 - Bắt đầu sản xuất.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3825,68,12.6,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+15,Chương 15 - Thuê người giúp việc.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3563,85,11.96,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+16,Chương 16 - Mở rộng xưởng may.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4054,22,12.93,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+17,Chương 17 - Đi Quảng Ninh.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3844,32,13.46,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+18,Chương 18 - Đi Nghệ An.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3878,18,12.32,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+19,Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt,9.57,YES,9.3,9.04,9.0,10.0,10.0,10.0,4585,15,12.32,0,1,,nhan_vat:9.0;cau_truc:9.04;van_chuong:9.3
+20,Chương 20 - Sản xuất giày dép.txt,9.40,NO,9.3,7.96,9.0,10.0,10.0,10.0,5014,47,13.41,0,2,,cau_truc:7.96;nhan_vat:9.0;van_chuong:9.3
+21,Chương 21 - Mở rộng làm giày.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,7267,104,12.12,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+22,Chương 22 - Đi Thành phố Hồ Chí Minh.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,6505,112,16.04,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+23,Chương 23 - Sản xuất túi xách.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,6279,79,14.21,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+24,Chương 24 - Mở rộng làm túi.txt,9.59,YES,9.3,9.21,9.0,10.0,10.0,10.0,4514,66,13.23,0,1,,nhan_vat:9.0;cau_truc:9.21;van_chuong:9.3
+25,Chương 25 - Mở cửa hàng thứ hai.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5210,74,14.54,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+26,Chương 26 - Mua đất xây xưởng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3030,32,13.31,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+27,Chương 27 - Đi Lào.txt,9.62,YES,10.0,7.5,10.0,10.0,10.0,10.0,12134,99,12.56,0,2,,cau_truc:7.5;van_chuong:10.0;nhan_vat:10.0
+28,Chương 28 - Đi Campuchia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3464,29,16.22,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+29,Chương 29 - Đi Thái Lan.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4092,48,16.03,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+30,Chương 30 - Mở rộng cửa hàng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3108,39,11.56,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+31,Chương 31 - Tổng kết năm 1983.txt,9.54,YES,9.3,8.9,9.0,10.0,10.0,10.0,4641,43,12.43,0,2,,cau_truc:8.9;nhan_vat:9.0;van_chuong:9.3
+32,Chương 32 - Sản xuất thực phẩm.txt,9.53,YES,9.3,8.79,9.0,10.0,10.0,10.0,4686,45,18.02,0,2,,cau_truc:8.79;nhan_vat:9.0;van_chuong:9.3
+33,Chương 33 - Mở rộng thực phẩm.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4195,42,17.5,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+34,Chương 34 - Tuyển kỹ sư Minh.txt,9.62,YES,9.3,9.41,9.0,10.0,10.0,10.0,4437,91,12.51,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.41
+35,Chương 35 - Mở rộng miền Nam.txt,9.49,NO,9.3,8.55,9.0,10.0,10.0,10.0,4779,65,16.71,0,2,,cau_truc:8.55;nhan_vat:9.0;van_chuong:9.3
+36,Chương 36 - Mở chi nhánh Hoài Đức.txt,9.43,NO,9.3,8.11,9.0,10.0,10.0,10.0,4957,80,16.29,0,2,,cau_truc:8.11;nhan_vat:9.0;van_chuong:9.3
+37,Chương 37 - Mở chi nhánh Hà Nội.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,7434,70,12.46,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+38,Chương 38 - Sản xuất radio.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,7095,65,15.23,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+39,Chương 39 - Mở rộng sản xuất radio.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5731,23,11.45,0,1,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+40,Chương 40 - Hoàn thành nhiệm vụ radio.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5785,54,14.96,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+41,Chương 41 - Sản xuất quạt điện.txt,9.63,YES,9.3,9.44,9.0,10.0,10.0,10.0,4423,36,14.83,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.44
+42,Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt,9.58,YES,9.3,9.11,9.0,10.0,10.0,10.0,4557,34,14.05,0,2,,nhan_vat:9.0;cau_truc:9.11;van_chuong:9.3
+43,Chương 43 - Sản xuất đèn điện.txt,9.43,NO,9.3,8.16,9.0,10.0,10.0,10.0,4935,49,15.29,0,1,,cau_truc:8.16;nhan_vat:9.0;van_chuong:9.3
+44,Chương 44 - Hoàn thành nhiệm vụ đèn.txt,9.39,NO,9.3,7.87,9.0,10.0,10.0,10.0,5052,45,14.51,0,1,,cau_truc:7.87;nhan_vat:9.0;van_chuong:9.3
+45,Chương 45 - Mở nhà hàng.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,6716,76,14.07,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+46,Chương 46 - Mở nhà hàng Hà Nội.txt,9.51,YES,9.3,8.66,9.0,10.0,10.0,10.0,4736,49,14.25,0,2,,cau_truc:8.66;nhan_vat:9.0;van_chuong:9.3
+47,Chương 47 - Mở nhà hàng Sài Gòn.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4082,16,13.92,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+48,Chương 48 - Đầu tư bất động sản.txt,9.52,YES,9.3,8.71,9.0,10.0,10.0,10.0,4717,55,14.28,0,1,,cau_truc:8.71;nhan_vat:9.0;van_chuong:9.3
+49,Chương 49 - Mua đất miền Nam.txt,9.45,NO,8.9,8.81,9.0,10.0,10.0,10.0,4677,33,13.01,0,2,,cau_truc:8.81;van_chuong:8.9;nhan_vat:9.0
+50,Chương 50 - Cột mốc Chương 41–50.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,6120,67,12.05,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+51,Chương 51 - Mở chi nhánh Bắc Ninh.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5537,91,16.52,0,1,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+52,Chương 52 - Tuyển kỹ sư Minh.txt,9.40,NO,9.3,7.92,9.0,10.0,10.0,10.0,5032,161,14.41,0,2,,cau_truc:7.92;nhan_vat:9.0;van_chuong:9.3
+53,Chương 53 - Mở phòng khám.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,7762,89,15.7,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+54,Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt,9.45,NO,9.3,8.28,9.0,10.0,10.0,10.0,4888,59,15.95,0,2,,cau_truc:8.28;nhan_vat:9.0;van_chuong:9.3
+55,Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,6279,123,15.14,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+56,Chương 56 - Minh qua chín mươi ngày thử việc.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,6758,101,13.76,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+57,Chương 57 - Xây đội ngũ cốt lõi.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,6277,157,16.09,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+58,Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,7759,176,14.55,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+59,Chương 59 - Mở chi nhánh Ninh Bình.txt,9.41,NO,9.3,8.02,9.0,10.0,10.0,10.0,4994,117,14.47,0,2,,cau_truc:8.02;nhan_vat:9.0;van_chuong:9.3
+60,Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt,9.71,YES,9.3,9.98,9.0,10.0,10.0,10.0,4208,68,14.77,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.98
+61,Chương 61 - Sản xuất xe đạp.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5991,68,12.86,0,1,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+62,Chương 62 - Sản xuất máy cày.txt,9.48,NO,9.3,8.45,9.0,10.0,10.0,10.0,4822,74,13.02,0,1,,cau_truc:8.45;nhan_vat:9.0;van_chuong:9.3
+63,Chương 63 - Sản xuất máy gặt.txt,9.37,NO,9.3,7.75,9.0,10.0,10.0,10.0,5101,37,11.82,0,1,,cau_truc:7.75;nhan_vat:9.0;van_chuong:9.3
+64,Chương 64 - Mua 30 xe tải.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5559,94,12.97,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+65,Chương 65 - Mở rộng chi nhánh tài chính.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4142,100,13.29,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+66,Chương 66 - Mở rộng trường học.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5519,108,14.03,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+67,Chương 67 - Mở trường Sài Gòn.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3377,65,13.0,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+68,Chương 68 - Mở trung tâm đào tạo.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3553,52,13.84,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+69,Chương 69 - Mở rộng phòng khám.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,6449,74,14.52,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+70,Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4115,65,15.27,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+71,Chương 71 - Mở dịch vụ cho vay.txt,9.46,NO,9.3,8.36,9.0,10.0,10.0,10.0,4858,87,14.75,0,2,,cau_truc:8.36;nhan_vat:9.0;van_chuong:9.3
+72,Chương 72 - Mở rộng chi nhánh tài chính.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5616,91,14.08,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+73,Chương 73 - Hoàn thành nhiệm vụ cho vay.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,6473,109,14.2,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+74,Chương 74 - Mở trường học tiếp.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,7273,100,11.93,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+75,Chương 75 - Mở rộng trường học 30 trường.txt,9.63,YES,9.3,9.45,9.0,10.0,10.0,10.0,4420,68,12.76,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.45
+76,Chương 76 - Mở rộng trung tâm đào tạo.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5472,40,11.89,0,2,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+77,Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt,9.26,NO,8.9,7.5,9.0,10.0,10.0,10.0,6084,61,9.35,0,1,,cau_truc:7.5;van_chuong:8.9;nhan_vat:9.0
+78,Chương 78 - Mở rộng phòng khám tiếp.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5366,159,13.33,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+79,Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3841,98,10.12,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+80,Chương 80 - Mở rộng công ty xây dựng.txt,9.62,YES,10.0,7.44,10.0,10.0,10.0,10.0,4226,106,9.95,0,2,,cau_truc:7.44;van_chuong:10.0;nhan_vat:10.0
+81,Chương 81 - Mở rộng năng lượng nhà máy điện.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3425,116,8.91,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+82,Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3991,82,11.55,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+83,Chương 83 - Mở rộng từ thiện quỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3484,75,13.19,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+84,Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3831,59,13.57,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+85,Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4044,94,10.5,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+86,Chương 86 - Mở rộng bảo hiểm.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5427,156,10.36,0,1,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+87,Chương 87 - Sản xuất máy cày ra mắt.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3559,99,10.23,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+88,Chương 88 - Sản xuất máy gặt ra mắt.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3930,111,13.78,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+89,Chương 89 - Tổng kết Phần 2.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3495,68,15.22,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+90,Chương 90 - Bắt đầu Phần 3.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4082,72,14.77,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+91,Chương 91 - Sản xuất thép Hải Phòng.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4140,78,16.24,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+92,Chương 92 - Sản xuất xi măng.txt,9.63,YES,10.0,7.53,10.0,10.0,10.0,10.0,4588,97,12.67,0,2,,cau_truc:7.53;van_chuong:10.0;nhan_vat:10.0
+93,Chương 93 - Hùng gặp cô Hạnh.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3430,117,15.08,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+94,Chương 94 - Hùng gặp cô Mai và cô Lan.txt,9.65,YES,10.0,7.65,10.0,10.0,10.0,10.0,4540,129,14.95,0,2,,cau_truc:7.65;van_chuong:10.0;nhan_vat:10.0
+95,Chương 95 - Hùng chọn cô Hạnh.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5973,134,13.29,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+96,Chương 96 - Bà Hà bế cháu nội.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3608,71,12.71,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+97,Chương 97 - Sản xuất điện tử.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3256,47,13.38,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+98,Chương 98 - Sản xuất điện thoại.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3422,91,10.86,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+99,Chương 99 - Mở rộng viễn thông.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5437,183,7.42,0,1,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+100,Chương 100 - Sản xuất phần mềm.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3585,100,12.74,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+101,Chương 101 - Mở rộng cửa hàng 108.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3855,98,11.63,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+102,Chương 102 - Mở rộng nhà hàng 42.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3883,97,13.23,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+103,Chương 103 - Mở rộng nhà máy 30.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3364,50,13.09,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+104,Chương 104 - Mở rộng xuất khẩu châu Âu.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,7485,179,16.03,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+105,Chương 105 - Tổng kết Phần 3.txt,9.48,NO,10.0,6.52,10.0,10.0,10.0,10.0,4992,77,13.92,0,2,,cau_truc:6.52;van_chuong:10.0;nhan_vat:10.0
+106,Chương 106 - Bắt đầu Phần 4.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3403,103,15.56,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+107,Chương 107 - Mở nhà máy Thái Lan.txt,9.68,YES,9.3,9.78,9.0,10.0,10.0,10.0,4287,122,13.93,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.78
+108,Chương 108 - Mở nhà máy Indonesia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3746,104,13.15,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+109,Chương 109 - Mở nhà máy Đức.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3413,60,13.14,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+110,Chương 110 - M&A Bangkok Electronics.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3288,49,13.31,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+111,Chương 111 - Mở sang châu Mỹ USA.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3027,71,14.77,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+112,Chương 112 - Hoàn thành phần 3.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3369,47,13.38,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+113,Chương 113 - Mở nhà máy USA.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3028,45,14.88,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+114,Chương 114 - M&A Stahl GmbH.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3017,53,14.21,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+115,Chương 115 - Mở nhà máy Nigeria.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3049,85,14.91,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+116,Chương 116 - Mở nhà máy Úc.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3273,59,10.08,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+117,Chương 117 - Tổng tài sản 1000 tỷ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3001,43,11.69,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+118,Chương 118 - Những ngày nằm viện.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3034,49,14.48,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+119,Chương 119 - Bước ngoặt sức khỏe.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3148,29,14.0,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+120,Chương 120 - Học cách ủy thác sâu hơn.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3046,55,13.51,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+121,Chương 121 - Mở rộng sang Thái Lan.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3038,41,13.6,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+122,Chương 122 - Myanmar và Campuchia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3125,52,13.06,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+123,Chương 123 - Xây dựng đội ngũ xuất khẩu.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3563,61,12.72,0,2,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+124,Chương 124 - Cạnh tranh với Trung Quốc.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3013,59,8.66,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+125,Chương 125 - Lan trưởng thành.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3059,66,8.35,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+126,Chương 126 - Giá trị của sự buông.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3203,101,12.64,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+127,Chương 127 - Lan nhận nhiệm vụ mới.txt,9.51,YES,8.3,10.0,9.0,10.0,10.0,10.0,3002,93,6.52,0,1,,van_chuong:8.3;nhan_vat:9.0;cau_truc:10.0
+128,Chương 128 - Khủng hoảng đầu tiên.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3613,111,14.15,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+129,Chương 129 - Bước lùi để tiến xa hơn.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3024,74,11.98,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+130,Chương 130 - Thử thách kế thừa.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3428,64,9.43,0,2,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+131,Chương 131 - Mở rộng Đông Nam Á.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3312,70,11.66,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+132,Chương 132 - Đối mặt hải quan Indonesia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3116,81,9.86,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+133,Chương 133 - Malaysia và Philippines.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3208,59,11.08,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+134,Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3084,73,12.82,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+135,Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3166,79,12.2,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+136,Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3010,56,11.91,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+137,Chương 137 - Cuộc gặp với ông Sato.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3291,70,12.7,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+138,Chương 138 - Thử thách từ ông Sato.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3671,92,14.15,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+139,Chương 139 - Mở rộng sang Hàn Quốc.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3584,117,13.6,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+140,Chương 140 - Chuẩn bị cho thị trường Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3141,64,10.86,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+141,Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3074,77,11.58,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+142,Chương 142 - Thử thách đầu tiên tại Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3083,80,13.06,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+143,Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3453,86,12.17,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+144,Chương 144 - Mở rộng đối tác Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3207,82,12.38,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+145,Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt,9.43,NO,9.3,8.15,9.0,10.0,10.0,10.0,4940,98,14.77,0,1,,cau_truc:8.15;nhan_vat:9.0;van_chuong:9.3
+146,Chương 146 - Lan học cách đàm phán với người Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3001,73,11.7,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+147,Chương 147 - Lan đối mặt với áp lực Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3127,101,11.16,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+148,Chương 148 - Bữa tối 3 thế hệ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3859,71,13.08,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+149,Chương 149 - Trở lại Mỹ với tinh thần mới.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3146,105,13.82,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+150,Chương 150 - Văn Hùng tập trung vào Việt Nam.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3529,78,10.49,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+151,Chương 151 - Lan mở rộng sang Canada.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3197,140,10.55,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+152,Chương 152 - Văn Hùng nhận huân chương.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3027,110,11.93,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+153,Chương 153 - Lan mở rộng sang Australia.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3296,100,7.55,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+154,Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3113,52,11.44,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+155,Chương 155 - Ngân hàng Thương Gia mở cửa.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3481,60,12.98,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+156,Chương 156 - Cho vay doanh nghiệp nhỏ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3554,41,12.99,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+157,Chương 157 - Đối mặt kiểm toán nhà nước.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3283,38,13.24,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+158,Chương 158 - Lan về nước báo cáo.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3579,64,12.27,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+159,Chương 159 - Xây nhà máy ô tô đầu tiên.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3057,44,10.64,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+160,Chương 160 - Thử nghiệm mẫu xe Thành Công.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3060,45,13.93,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+161,Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3112,55,11.94,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+162,Chương 162 - Chuỗi cung ứng phụ tùng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3019,47,8.54,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+163,Chương 163 - Khủng hoảng nguyên liệu thép.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3361,53,11.19,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+164,Chương 164 - Hùng dàn xếp với nhà cung cấp.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3233,64,11.3,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+165,Chương 165 - Ra mắt xe máy Thương Gia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3060,56,10.73,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+166,Chương 166 - Mở showroom toàn quốc.txt,9.72,YES,10.0,8.14,10.0,10.0,10.0,10.0,4343,177,15.07,0,2,,cau_truc:8.14;van_chuong:10.0;nhan_vat:10.0
+167,Chương 167 - Điện thoại Thương Gia thế hệ 2.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3525,80,11.97,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+168,Chương 168 - Nhà máy máy tính Hà Nội.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3352,67,11.71,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+169,Chương 169 - Xây dựng thương hiệu quốc tế.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3537,120,13.86,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+170,Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3152,76,11.79,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+171,Chương 171 - Chuyển giao cho thế hệ sau.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3448,105,14.13,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+172,Chương 172 - Gia đình sum họp.txt,9.76,YES,10.0,8.38,10.0,10.0,10.0,10.0,4249,113,16.69,0,2,,cau_truc:8.38;van_chuong:10.0;nhan_vat:10.0
+173,Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3644,72,13.85,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+174,Chương 174 - Logistics quốc tế Thương Gia.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3929,89,13.09,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+175,Chương 175 - Cảng container Hải Phòng.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3585,62,13.81,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+176,Chương 176 - Lan về nước.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3772,81,13.99,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+177,Chương 177 - Mở rộng nhà máy ô tô.txt,9.65,YES,9.3,9.59,9.0,10.0,10.0,10.0,4364,95,10.94,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.59
+178,Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3144,71,9.79,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+179,Chương 179 - Chuẩn bị niêm yết công ty con.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3221,66,10.24,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+180,Chương 180 - Lan đàm phán với đối tác châu Âu.txt,9.46,NO,8.3,9.64,9.0,10.0,10.0,10.0,4345,108,6.58,0,1,,van_chuong:8.3;nhan_vat:9.0;cau_truc:9.64
+181,Chương 181 - Cô Hạnh sinh con.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3899,64,11.72,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+182,Chương 182 - Mở rộng quỹ đầu tư.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3406,124,10.23,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+183,Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3608,95,11.66,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+184,Chương 184 - Khủng hoảng tài chính châu Á 1994.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4048,139,11.44,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+185,Chương 185 - Tổng kết nửa chặng đường châu Á.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3047,103,10.06,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+186,Chương 186 - Lan và chiến lược châu Á mới.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5446,100,9.59,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+187,Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5451,189,12.55,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+188,Chương 188 - Điều tra và chứng cứ.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3908,100,13.7,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+189,Chương 189 - Đối chất công khai.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3115,80,11.44,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+190,Chương 190 - Mở rộng sang châu Phi.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4065,111,11.37,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+191,Chương 191 - Đầu tư công nghệ cao.txt,9.34,NO,9.3,7.5,9.0,10.0,10.0,10.0,5205,214,12.06,0,1,,cau_truc:7.5;nhan_vat:9.0;van_chuong:9.3
+192,Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt,9.40,NO,10.0,6.0,10.0,10.0,10.0,10.0,5373,153,9.22,0,2,,cau_truc:6.0;van_chuong:10.0;nhan_vat:10.0
+193,Chương 193 - Xây dựng thương hiệu toàn cầu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4126,166,11.34,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+194,Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt,9.55,YES,10.0,6.99,10.0,10.0,10.0,10.0,4805,150,13.9,0,2,,cau_truc:6.99;van_chuong:10.0;nhan_vat:10.0
+195,Chương 195 - Lan chèo lái Thương Gia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3485,162,9.6,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+196,Chương 196 - Bà Hà sức khỏe giảm.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3419,75,14.56,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+197,Chương 197 - Bà Hà phát biểu trước toàn thể.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3016,50,11.75,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+198,Chương 198 - Hùng về vườn.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3930,55,14.4,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+199,Chương 199 - Tổng kết Phần 3.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3675,119,11.97,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+200,Chương 200 - Lễ kỷ niệm 10 năm.txt,9.65,YES,10.0,7.68,10.0,10.0,10.0,10.0,5129,119,11.37,0,1,,cau_truc:7.68;van_chuong:10.0;nhan_vat:10.0
+201,Chương 201 - Mở rộng châu Âu.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3426,102,12.98,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+202,Chương 202 - Chi nhánh Paris.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3275,92,14.74,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+203,Chương 203 - Nhà hàng Thương Gia tại Lyon.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4077,131,17.0,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+204,Chương 204 - Berlin và kỹ thuật Đức.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3766,113,12.91,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+205,Chương 205 - Nhà máy linh kiện München.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3730,78,11.11,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+206,Chương 206 - London – trung tâm tài chính.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3453,99,12.44,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+207,Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3394,101,10.71,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+208,Chương 208 - New York – Wall Street lần đầu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3361,87,12.54,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+209,Chương 209 - Đàm phán niêm yết ADR.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3931,114,12.09,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+210,Chương 210 - Văn phòng Thương Gia Manhattan.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3187,92,11.2,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+211,Chương 211 - Chuỗi cửa hàng West Coast.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3461,99,14.4,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+212,Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt,9.59,YES,9.3,9.21,9.0,10.0,10.0,10.0,4518,123,12.15,0,1,,nhan_vat:9.0;cau_truc:9.21;van_chuong:9.3
+213,Chương 213 - Chứng nhận ISO toàn hệ thống.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3593,81,13.3,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+214,Chương 214 - M&A đối thủ vừa tại Pháp.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3425,99,10.77,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+215,Chương 215 - Tích hợp văn hóa doanh nghiệp.txt,9.70,YES,9.3,9.95,9.0,10.0,10.0,10.0,4219,106,13.28,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.95
+216,Chương 216 - Sản xuất chip thử nghiệm.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3660,110,10.33,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+217,Chương 217 - Nhà máy năng lượng tái tạo.txt,9.64,YES,9.3,9.52,9.0,10.0,10.0,10.0,4394,101,11.09,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.52
+218,Chương 218 - Pin mặt trời thế hệ mới.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3364,77,9.75,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+219,Chương 219 - Xe điện nguyên mẫu.txt,9.43,NO,9.3,8.16,9.0,10.0,10.0,10.0,4934,126,12.68,0,2,,cau_truc:8.16;nhan_vat:9.0;van_chuong:9.3
+220,Chương 220 - Triển lãm công nghệ châu Á.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3082,95,8.6,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+221,Chương 221 - Dấu hiệu khủng hoảng 2008.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3845,102,11.28,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+222,Chương 222 - Hệ thống cảnh báo sớm.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3917,104,10.7,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+223,Chương 223 - Họp khẩn ban lãnh đạo.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3442,73,9.94,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+224,Chương 224 - Bảo vệ dòng tiền.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3608,94,12.01,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+225,Chương 225 - Cơn bão Lehman.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3629,109,11.12,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+226,Chương 226 - Những cuộc gọi nửa đêm.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3783,101,12.1,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+227,Chương 227 - Đi săn khi ai cũng sợ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3585,73,10.54,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+228,Chương 228 - Lan giữ pháo đài Mỹ.txt,9.51,YES,8.3,10.0,9.0,10.0,10.0,10.0,3323,73,6.18,0,1,,van_chuong:8.3;nhan_vat:9.0;cau_truc:10.0
+229,Chương 229 - Không ai bị bỏ lại.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3323,79,12.33,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+230,Chương 230 - Truyền thông và niềm tin.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3609,89,15.18,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+231,Chương 231 - Mua lại nhà máy đối thủ phá sản.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3651,120,10.53,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+232,Chương 232 - Tái khởi động sản xuất.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3024,93,11.42,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+233,Chương 233 - Truyền thông khủng hoảng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3967,122,8.83,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+234,Chương 234 - Niềm tin khách hàng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3588,105,8.67,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+235,Chương 235 - Hùng trên truyền hình quốc tế.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3473,96,9.5,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+236,Chương 236 - Forbes gọi tên Thương Gia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3039,30,9.33,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+237,Chương 237 - Vượt qua đáy khủng hoảng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3319,95,12.27,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+238,"Chương 238 - Năm mới, trời mới.txt",9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3750,43,7.87,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+239,Chương 239 - Đường dài.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3331,65,9.38,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+240,Chương 240 - Thương Gia City.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3780,65,11.37,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+241,Chương 241 - Khởi công Thương Gia City.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3064,60,12.96,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+242,Chương 242 - Quy hoạch 500 hecta.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3500,78,11.6,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+243,Chương 243 - Hạ tầng và nhà ở công nhân.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4023,126,13.65,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+244,Chương 244 - Trường học trong khu công nghiệp.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3569,87,11.64,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+245,Chương 245 - Xe điện thương mại hóa.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3729,88,11.67,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+246,Chương 246 - Trạm sạc toàn quốc.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3258,66,8.72,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+247,Chương 247 - AI sơ khai trong quản lý kho.txt,9.51,YES,8.3,10.0,9.0,10.0,10.0,10.0,3382,30,6.78,0,1,,van_chuong:8.3;nhan_vat:9.0;cau_truc:10.0
+248,Chương 248 - Trung tâm dữ liệu Thương Gia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3013,62,15.35,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+249,Chương 249 - Đối tác công nghệ Silicon Valley.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3019,98,13.4,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+250,Chương 250 - Lan dẫn quỹ R&D.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3566,83,10.11,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+251,Chương 251 - Con trai Hùng vào công ty.txt,9.52,YES,9.3,8.7,9.0,10.0,10.0,10.0,4720,103,15.53,0,2,,cau_truc:8.7;nhan_vat:9.0;van_chuong:9.3
+252,Chương 252 - Thế hệ thứ hai học việc.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3917,63,9.17,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+253,Chương 253 - Huân chương Lao động.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3089,76,13.44,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+254,Chương 254 - Gặp lãnh đạo ngành.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3962,87,10.52,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+255,Chương 255 - Cam kết phát triển bền vững.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3222,45,14.15,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+256,Chương 256 - Top thương gia Việt Nam.txt,9.65,YES,9.3,9.58,9.0,10.0,10.0,10.0,4369,138,11.23,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.58
+257,Chương 257 - Lễ vinh danh toàn quốc.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3001,46,10.04,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+258,Chương 258 - Mở rộng châu Phi sâu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3753,69,9.97,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+259,Chương 259 - Nam Mỹ – Brazil và Chile.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3008,45,11.28,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+260,Chương 260 - Chuỗi giá trị toàn cầu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3555,103,9.75,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+261,Chương 261 - Kiểm toán ESG đầu tiên.txt,9.51,YES,8.3,10.0,9.0,10.0,10.0,10.0,3005,51,6.93,0,1,,van_chuong:8.3;nhan_vat:9.0;cau_truc:10.0
+262,Chương 262 - Bà Hà và sách hồi ký gia đình.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3001,57,8.08,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+263,Chương 263 - Flashback 25 năm.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3000,64,13.78,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+264,Chương 264 - Tái khẳng định sứ mệnh.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3641,102,12.94,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+265,Chương 265 - Đối thủ mới từ Hàn Quốc.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3020,56,9.71,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+266,Chương 266 - Cạnh tranh lành mạnh.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3699,94,13.47,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+267,Chương 267 - Liên minh chiến lược Đông Á.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3134,74,8.82,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+268,Chương 268 - Tổng kết toàn cầu hóa.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3740,45,11.06,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+269,Chương 269 - Phần thưởng Phần 4.txt,9.54,YES,9.6,7.48,10.0,10.0,10.0,10.0,4608,103,14.48,0,2,,cau_truc:7.48;van_chuong:9.6;nhan_vat:10.0
+270,Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3880,86,14.62,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+271,Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3019,45,11.11,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+272,Chương 272 - Đế chế truyền thông Thương Gia.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4010,105,13.02,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+273,Chương 273 - Báo và tạp chí kinh tế.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3262,48,11.52,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+274,Chương 274 - Kênh truyền hình thực tế.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3057,55,12.7,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+275,Chương 275 - Nền tảng mạng xã hội nội địa.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3078,42,10.47,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+276,Chương 276 - Thương Gia FC ra đời.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3060,40,13.27,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+277,Chương 277 - Sân vận động cộng đồng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3309,45,10.16,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+278,Chương 278 - Tài trợ Olympic khu vực.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3198,76,11.61,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+279,Chương 279 - Học bổng 10.000 sinh viên.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3008,62,10.49,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+280,Chương 280 - Xây 100 trường vùng sâu.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3810,106,13.97,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+281,Chương 281 - Quỹ 10.000 tỷ từ thiện.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3088,76,11.26,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+282,Chương 282 - Minh bạch quỹ công khai.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3642,93,17.3,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+283,Chương 283 - Y tế lưu động miền núi.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3595,61,15.11,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+284,Chương 284 - Nước sạch cho 500 xã.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3136,60,12.78,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+285,Chương 285 - Lan đứng đầu mảng xã hội.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3083,77,11.56,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+286,Chương 286 - Con trai phụ trách sản xuất.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3032,43,8.68,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+287,Chương 287 - Hùng lui về chiến lược.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3538,97,11.53,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+288,Chương 288 - Khủng hoảng truyền thông giả.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3482,109,11.94,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+289,Chương 289 - Phản ứng minh bạch.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3854,125,11.83,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+290,Chương 290 - Từ thiện Đông Timor.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3441,117,13.33,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+291,Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3140,92,9.05,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+292,Chương 292 - Đề xuất chính sách xanh.txt,9.57,YES,8.9,9.6,9.0,10.0,10.0,10.0,4360,106,13.0,0,2,,van_chuong:8.9;nhan_vat:9.0;cau_truc:9.6
+293,Chương 293 - Thương hiệu quốc gia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4032,104,14.31,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+294,Chương 294 - Bảo tàng Thương Gia.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3127,73,12.41,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+295,Chương 295 - Ngày hội công nhân.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3066,54,15.9,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+296,Chương 296 - Mở quỹ học bổng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3509,52,10.0,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+297,Chương 297 - Công đoàn đối thoại.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3218,60,14.41,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+298,Chương 298 - Đào tạo lãnh đạo trẻ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3604,61,11.25,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+299,Chương 299 - Hùng 50 tuổi – nhìn lại.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3577,78,14.88,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+300,Chương 300 - Mở rộng từ thiện châu Á.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4018,54,10.15,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+301,Chương 301 - Lan CEO tập đoàn.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3156,24,12.05,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+302,Chương 302 - Hùng Chủ tịch Hội đồng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3083,33,11.79,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+303,Chương 303 - Thế hệ ba bắt đầu.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3078,23,12.41,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+304,Chương 304 - Học bổng 10.000 SV.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3971,147,12.71,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+305,Chương 305 - Gặp lại ông Tanaka.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3324,25,13.4,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+306,Chương 306 - Gặp lại ông Sato.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3012,60,11.5,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+307,Chương 307 - Gặp lại Klaus.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3080,29,11.03,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+308,Chương 308 - Gặp lại đối tác Mỹ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3337,80,12.54,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+309,Chương 309 - Quỹ học bổng mang tên bà Hà.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3353,69,11.58,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+310,Chương 310 - Thương gia huyền thoại.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3555,77,13.01,0,2,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+311,Chương 311 - Giải Thương gia huyền thoại.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3060,58,15.6,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+312,Chương 312 - Giao quyền cho Lan.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3806,90,12.79,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+313,Chương 313 - Sách trắng quản trị Thương Gia.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3008,70,11.54,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+314,Chương 314 - Đối mặt tin đồn sức khỏe.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3104,69,12.05,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+315,Chương 315 - Hùng chăm sóc sức khỏe.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3744,81,14.92,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+316,Chương 316 - Gia đình ba thế hệ sum họp.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3347,54,12.14,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+317,Chương 317 - Kế hoạch di sản pháp lý.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3660,62,11.53,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+318,Chương 318 - Ủy thác tài sản minh bạch.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3482,62,12.43,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+319,Chương 319 - Cam kết không chia cắt tập đoàn.txt,9.47,NO,9.3,8.41,9.0,10.0,10.0,10.0,4837,50,14.3,0,1,,cau_truc:8.41;nhan_vat:9.0;van_chuong:9.3
+320,Chương 320 - Truyền thông Thương Gia.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3560,76,12.53,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+321,Chương 321 - Khủng hoảng cạnh tranh giá.txt,9.63,YES,8.9,10.0,9.0,10.0,10.0,10.0,3224,49,11.63,0,1,,van_chuong:8.9;nhan_vat:9.0;cau_truc:10.0
+322,Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3661,93,13.53,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+323,Chương 323 - Khách hàng trung thành.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3062,52,13.5,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+324,Chương 324 - Tái định vị thương hiệu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3205,66,9.76,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+325,Chương 325 - Công nghệ xanh toàn hệ thống.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3589,82,12.33,0,2,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+326,Chương 326 - Net zero cam kết.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3340,66,11.61,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+327,Chương 327 - Lễ 30 năm Thương Gia.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3014,38,11.58,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+328,Chương 328 - Quỹ 10.000 tỷ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3492,114,10.88,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+329,Chương 329 - Tổng kết Phần 5.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3123,83,13.19,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+330,Chương 330 - Đội bóng Thương Gia FC.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3343,65,13.04,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+331,Chương 331 - Bắt đầu Phần 6 – Di sản.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3578,108,13.96,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+332,Chương 332 - Tập đoàn bóng tối trở lại.txt,9.69,YES,9.3,9.89,9.0,10.0,10.0,10.0,4243,130,12.5,0,2,,nhan_vat:9.0;van_chuong:9.3;cau_truc:9.89
+333,Chương 333 - Âm mưu thôn tính cổ phiếu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,4145,110,8.53,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+334,Chương 334 - Phòng thủ cổ đông.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3623,107,11.1,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+335,Chương 335 - Liên minh cổ đông nhỏ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3645,81,10.66,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+336,Chương 336 - Âm mưu tập đoàn bóng tối.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3349,58,10.78,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+337,Chương 337 - Trí tuệ và hệ thống.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3314,94,10.42,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+338,Chương 338 - Chiến thắng đại hội cổ đông.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3749,111,9.75,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+339,Chương 339 - Thanh lọc nội bộ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3390,113,7.61,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+340,Chương 340 - Vượt qua âm mưu.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3695,178,10.81,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+341,Chương 341 - Lễ bàn giao quyền lực chính thức.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3491,93,12.12,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+342,Chương 342 - Lan CEO – con trai Phó.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3536,148,9.36,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+343,Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3286,124,11.67,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+344,Chương 344 - Lễ bàn giao quyền lực.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3435,87,10.21,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+345,Chương 345 - Quỹ Di sản Trần Văn Hùng.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3486,115,12.49,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+346,Chương 346 - Người giàu có trách nhiệm.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3338,58,12.93,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+347,Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3424,68,12.2,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+348,Chương 348 - Du hành tri ân thế giới.txt,9.62,YES,9.2,8.5,10.0,10.0,10.0,10.0,3486,102,11.16,0,1,,cau_truc:8.5;van_chuong:9.2;nhan_vat:10.0
+349,Chương 349 - Hợp tác với đối tác quốc tế.txt,9.51,YES,8.3,10.0,9.0,10.0,10.0,10.0,3311,81,6.6,0,1,,van_chuong:8.3;nhan_vat:9.0;cau_truc:10.0
+350,Chương 350 - Du hành thế giới.txt,10.00,YES,10.0,10.0,10.0,10.0,10.0,10.0,3224,95,10.52,0,1,,van_chuong:10.0;cau_truc:10.0;nhan_vat:10.0
+351,Chương 351 - Nhà đất cũ và ký ức.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3430,57,16.0,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+352,Chương 352 - Từ thiện 100.000 tỷ.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,3844,64,9.17,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+353,Chương 353 - Thư gửi thế hệ sau.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3559,58,9.57,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+354,Chương 354 - Hệ thống nhiệm vụ cuối.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3311,36,13.73,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+355,Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt,9.26,NO,8.9,7.5,9.0,10.0,10.0,10.0,5391,109,12.47,0,1,,cau_truc:7.5;van_chuong:8.9;nhan_vat:9.0
+356,Chương 356 - Bữa tối gia đình.txt,9.78,YES,10.0,8.5,10.0,10.0,10.0,10.0,4043,60,15.61,0,1,,cau_truc:8.5;van_chuong:10.0;nhan_vat:10.0
+357,Chương 357 - Flashback toàn hành trình.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3168,54,14.59,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+358,Chương 358 - Bữa tối ba thế hệ.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3213,58,12.0,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+359,Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3230,42,13.41,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0
+360,Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt,9.71,YES,9.3,10.0,9.0,10.0,10.0,10.0,3468,114,13.75,0,1,,nhan_vat:9.0;van_chuong:9.3;cau_truc:10.0

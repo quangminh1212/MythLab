@@ -1,0 +1,117 @@
+============================================================
+Chương 247: AI sơ khai trong quản lý kho
+============================================================
+
+Năm 2006, Hải Phòng.
+
+Lê Anh Dũng ngồi trước màn hình máy tính trong căn phòng nhỏ nóng hầm hập. Trên bàn là ba cuốn sách đã cũ: "Cấu trúc dữ liệu và giải thuật" của Nguyễn Văn Thường, "Kỹ thuật lập trình" do một tác giả người Nga viết được dịch sang tiếng Việt, và một cuốn sách tiếng Anh mua từ hiệu sách cũ trên mạng với nhan đề "Machine Learning — An Algorithmic Perspective." Ngoài cửa sổ, tiếng máy móc từ nhà máy vọng vào ồn ào không dứt. Cơn nóng tháng Sáu ở Hải Phòng làm cả căn phòng như một cái lò bánh mì — nhiệt độ lên đến ba mươi lăm độ C ngay cả khi ngồi yên. Nhưng Dũng không để ý đến cái nóng. Mắt anh dán chặt vào dòng chữ trên màn hình — những con số, những dòng code, và trên hết, một bài toán đã ám ảnh anh suốt ba tháng nay.
+
+Hồi đầu năm, Dũng nhận thấy một vấn đề lặp đi lặp lại ở tất cả các kho hàng của Thương Gia: hàng tồn kho luôn không khớp. Mỗi tháng, khi kiểm kê, số liệu thực tế luôn lệch so với sổ sách. Đôi khi vài chục đôi giày, đôi khi cả trăm đôi. Nguyên nhân rất khó xác định — có thể do nhập sai số liệu, có thể do thất thoát trong quá trình vận chuyển, có thể do đơn hàng bị giao nhầm hoặc thất lạc. Nhưng hậu quả thì rõ ràng: mỗi tháng, Thương Gia mất từ năm triệu đến mười lăm triệu đồng vì sai lệch tồn kho không được phát hiện kịp thời.
+
+Dũng không thể chấp nhận điều đó. Anh quyết định xây một hệ thống tự động phát hiện sai lệch tồn kho dựa trên phân tích dữ liệu. Ý tưởng cơ bản: hệ thống sẽ học từ lịch sử nhập xuất của từng mặt hàng để dự đoán mức tồn kho kỳ vọng vào cuối mỗi tháng. Nếu số liệu kiểm kê thực tế lệch quá xa so với dự đoán, hệ thống sẽ phát cảnh báo để đội ngũ quản lý có thể can thiệp sớm, trước khi sai lệch trở nên nghiêm trọng và gây tổn thất lớn.
+
+Trong thế giới công nghệ năm 2006, thứ Dũng đang xây dựng không có gì đặc biệt. Ở Mỹ hay châu Âu, những hệ thống tương tự đã được các tập đoàn lớn sử dụng từ nhiều năm trước. Nhưng tại Việt Nam, trong một công ty sản xuất giày dép và túi xách đặt tại Hải Phòng, nó là thứ chưa ai từng làm. Dũng là người đầu tiên — có lẽ là người duy nhất ở thời điểm đó — dám nghĩ đến việc áp dụng machine learning vào quản lý kho tại một doanh nghiệp sản xuất của Việt Nam.
+
+Vấn đề đầu tiên và lớn nhất là dữ liệu. Dũng muốn hệ thống học từ quá khứ để dự đoán tương lai. Nhưng lịch sử tồn kho của Thương Gia được ghi chép như thế nào? Trên giấy. Sổ sách viết tay bằng bút bi, lưu trong các tủ hồ sơ sắt, xếp chồng lên nhau từ năm này qua năm khác trong một góc kho vừa ẩm vừa bụi. Không có dữ liệu số hóa. Không có file Excel. Không có bất kỳ thứ gì có thể đưa vào máy tính để xử lý tự động. Muốn có dữ liệu, phải gõ tay từng con số từ những cuốn sổ cũ.
+
+Dũng thuê hai sinh viên năm cuối trường Cao đẳng Công nghiệp Hải Phòng. Họ ngồi trong căn phòng nhỏ không có điều hòa giữa mùa hè Hải Phòng — nắng đổ lửa từ ngoài sân xi măng hắt vào kính, nhiệt kế trên tường chỉ ba mươi bảy độ lúc một giờ chiều. Hai đứa con trai cởi trần, áo thun nhúng nước vắt lên vai cho đỡ nóng. Ngón tay gõ liên tục trên bàn phím cơ, tiếng lách cách lẫn vào tiếng quạt trần kêu ro ro như sắp rời trục. Mồ hôi chảy từ trán xuống má; thi thoảng họ đưa mu bàn tay lên quẹt — mồ hôi mặn làm xót mắt. Những cuốn sổ tồn kho cũ mở tung trên bàn, trang giấy ố vàng, nét chữ bút bi nhòe mờ ở những chỗ ẩm, những con số nhỏ li ti phải nheo mắt mới đọc được. Bụi giấy lâu năm bốc lên mỗi lần lật trang, làm họ hắt hơi. Nhưng họ không dừng. Ba tuần — 15.000 dòng dữ liệu nhập xuất được gõ bằng tay, từng con số một. Dũng nhìn họ làm việc, trong lòng dậy lên một sự biết ơn lặng lẽ. Những dòng số liệu ấy, sau này, sẽ là nền móng cho một hệ thống chưa ai từng nghĩ tới ở Việt Nam. Dũng có căn cứ để bắt đầu.
+
+Anh viết chương trình bằng Python, một ngôn ngữ lập trình anh tự học từ sách và các diễn đàn nước ngoài. Không có khóa học trực tuyến bằng tiếng Việt thời đó. Không có Google Dịch. Mỗi lần gặp lỗi, anh phải gõ dòng lỗi vào một diễn đàn lập trình của Nga — nơi lập trình viên từ các nước xã hội chủ nghĩa cũ thường giao lưu và giúp đỡ nhau — rồi chờ đợi ai đó trả lời. Có khi phải chờ cả tuần mới có phản hồi.
+
+Thuật toán đầu tiên Dũng thử nghiệm là hồi quy tuyến tính — một phương pháp thống kê đơn giản: dựa trên dữ liệu quá khứ vẽ một đường thẳng thể hiện xu hướng chung, từ đó dự đoán các giá trị tương lai. Kết quả: độ chính xác chỉ đạt 52,3 phần trăm — cao hơn tung đồng xu một chút nhưng hoàn toàn vô dụng trong thực tế. Với độ chính xác đó, hệ thống cảnh báo sai nhiều hơn cảnh báo đúng.
+
+Dũng ghi vào sổ tay: "Tuyến tính không đủ. Dữ liệu có tính chu kỳ rõ rệt — mùa vụ sản xuất, đơn hàng lớn theo quý, biến động bất thường do thị trường. Cần thuật toán phức tạp hơn để nắm bắt được các mô hình phi tuyến này."
+
+Anh chuyển sang thử nghiệm với mạng nơ-ron nhân tạo — một chủ đề hết sức mới mẻ, đến mức trong nước hầu như không có tài liệu. Dũng phải đọc tài liệu tiếng Anh, tra từ điển từng chữ, mày mò hiểu từng công thức toán học. Mất hai tháng để viết xong phiên bản đầu tiên — một mạng nơ-ron ba lớp với mười hai nơ-ron ở lớp ẩn. Kết quả: độ chính xác 68,3 phần trăm. Vẫn chưa đủ tốt để áp dụng thực tế — sai ba lần trên mười dự đoán là quá nhiều. Nhưng Dũng thấy con đường phía trước đã có ánh sáng, dù còn xa.
+
+Tháng 8 năm 2006, Hùng ghé thăm phòng làm việc của Dũng. Ông thấy ba cuốn sách cũ kỹ trên bàn, thấy những tờ giấy nháp ghi chép chi chít công thức toán học, thấy màn hình máy tính đầy code. Ông hỏi: "Cậu đang làm gì thế?"
+
+Dũng ngẩng lên, dụi mắt mỏi: "Em đang xây một hệ thống dự báo tồn kho tự động. Nếu thành công, nó sẽ giúp mình giảm sai lệch tồn kho xuống dưới năm phần trăm. Tiết kiệm cho công ty khoảng mười lăm triệu đồng mỗi tháng."
+
+Hùng hỏi thêm: "Mất bao lâu nữa?"
+
+"Có thể sáu tháng. Có thể một năm. Em không biết chắc. Công nghệ này ở Việt Nam chưa ai làm, em phải tự mò mẫm."
+
+Hùng không nói gì thêm. Ông chỉ đứng nhìn màn hình một lúc lâu. Trên đó là những đồ thị và con số mà ông không hiểu hết. Nhưng ông hiểu được ý chí đằng sau chúng — ý chí của một người không chấp nhận thực tại, muốn cải tiến mọi thứ. Ông nói ngắn gọn: "Cần thêm gì thì bảo tôi. Không phải xin phép, chỉ cần báo."
+
+"Dạ, em cần một máy tính mạnh hơn. Con máy hiện tại yếu quá, chạy một lần thử nghiệm mất nửa ngày."
+
+Hùng đồng ý ngay — không hỏi giá, không hỏi lý do chi tiết. Tuần sau, một máy tính Dell Precision mới tinh, cấu hình mạnh nhất thời điểm đó, được chuyển đến phòng Dũng. Chi phí: 3.500 đô la Mỹ — một khoản tiền lớn thời đó. Hùng không một lần hỏi lại.
+
+Cuối tháng 9, Dũng có một bước đột phá về nhận thức hơn là về kỹ thuật. Anh phát hiện ra vấn đề không nằm ở thuật toán — mà nằm ở lượng dữ liệu đầu vào. Dữ liệu hai năm là không đủ. Mạng nơ-ron của anh chỉ có 15.000 dòng để học — quá ít để nhận diện các mô hình phức tạp. Cần thêm dữ liệu. Nhưng số hóa sổ sách thủ công đã đạt giới hạn — không còn ai để thuê và cũng không còn sổ sách nào để số hóa.
+
+Dũng quyết định chuyển hướng chiến lược: thay vì cố gắng cải thiện thuật toán với lượng dữ liệu hạn chế, anh xin Hùng cho phép triển khai một hệ thống nhập dữ liệu điện tử cho tất cả các kho. Mỗi lần nhập hàng hoặc xuất hàng, nhân viên kho sẽ nhập trực tiếp vào máy tính — không còn ghi sổ giấy nữa. Dữ liệu sẽ được lưu trữ tự động trên máy chủ của công ty, sẵn sàng cho mọi phân tích sau này.
+
+Chi phí triển khai: 15 máy tính cho 15 kho trên toàn quốc — 200 triệu đồng. Đào tạo nhân viên kho sử dụng máy tính — 45 triệu đồng. Phần mềm quản lý nhập xuất do chính Dũng viết — không tốn thêm chi phí nào ngoài thời gian và công sức.
+
+Hùng phê duyệt toàn bộ gói đầu tư ngay lập tức. Ông nói với Dũng: "Tôi không hiểu hết về machine learning của cậu. Nhưng tôi hiểu một điều: nếu không có dữ liệu, mọi thứ khác đều là vô nghĩa."
+
+Sáu tháng sau, khi lượng dữ liệu tích lũy từ hệ thống mới đã đạt gần 100.000 dòng, Dũng chạy lại mô hình mạng nơ-ron. Kết quả: độ chính xác 82 phần trăm. Sai lệch tồn kho tại các kho đã triển khai hệ thống giảm từ trung bình 8 phần trăm xuống còn 2,5 phần trăm. Khoản tiết kiệm hàng tháng vượt xa dự kiến: không dừng lại ở 15 triệu, mà lên đến 28 triệu đồng, nhờ hệ thống còn phát hiện được cả các trường hợp nhập sai số liệu và cảnh báo kịp thời trước khi hàng hóa bị thất thoát.
+
+Nhưng giá trị quan trọng nhất không phải những con số. Giá trị lớn nhất là Dũng đã chứng minh một điều có tính cách mạng: công nghệ có thể áp dụng được tại Việt Nam, không phải ở đâu xa xôi trong tương lai. Ngay tại Hải Phòng năm 2007, với một đội ngũ nhỏ, với ngân sách khiêm tốn, Thương Gia đã bắt đầu xây dựng nền tảng cho một cuộc cách mạng công nghệ mà không một doanh nghiệp sản xuất nào ở Việt Nam thời đó dám nghĩ tới.
+
+Tối hôm đó, Dũng gửi email cho Hùng với tiêu đề: "Hệ thống dự báo tồn kho — kết quả tháng đầu tiên." Trong email có biểu đồ so sánh độ chính xác trước và sau khi triển khai. Hùng đọc email một lúc lâu, rồi gọi điện cho Dũng chỉ với một câu hỏi: "Có thể nhân rộng ra toàn bộ hệ thống được không?"
+
+"Được. Nhưng em cần thêm hai người."
+
+"Tuyển ngay. Trả lương theo năng lực, không theo thâm niên."
+
+Năm 2007, hệ thống quản lý kho thông minh của Dũng — thứ mà sau này được gọi là hệ thống AI sơ khai của Thương Gia — được triển khai trên toàn bộ 15 kho hàng của tập đoàn. Sai lệch tồn kho toàn hệ thống giảm từ 9 phần trăm xuống còn 2 phần trăm. Khoản tiết kiệm ước tính hơn 400 triệu đồng mỗi năm.
+
+Nhưng giá trị thực sự không nằm ở 400 triệu đồng tiết kiệm được. Giá trị thực sự là nền móng. Bởi từ hệ thống dữ liệu ban đầu này, Thương Gia bắt đầu xây dựng những thứ lớn hơn nhiều. Trung tâm dữ liệu. Phân tích thị trường tiêu dùng. Dự báo xu hướng bán hàng theo mùa vụ. Và cuối cùng — bước ra thế giới, với công nghệ do chính người Việt Nam viết ra.
+
+Hung gap mot nguoi thay tuong noi tieng. Ong thay nhin ong mot luc roi noi: 'Ong la nguoi co niem tin rat lon. Nhung ong cung co nhieu lo au.' Hung gat: 'Toi lo cho cong ty, lo cho cong nhan.' Ong thay cuoi: 'Lo la tot. Nhung dung đe lo au lam ong quen mat nhung đieu tot đep xung quanh.' Tu đo, Hung tap nhin cuoc song nhe nhang hon. O van lo, nhung khong đe no ap che.
+
+Hung ngoi mot minh trong van phong vang, nhin ra pho phuong ben ngoai. Den pho bat đau vang len. O thay minh that nho be giua long thanh pho lon. Nhung chinh cam giac nho be đo lai cho ong suc manh: boi vi khi biet minh con nho be, ong moi tiep tuc co gang. 'Khong co gi la lon lao neu minh khong biet bo cong xay dung. Moi thu đeu tu nhung đieu nho nhat.' O nho lai nhung ngay đau chi co mot sap vai nho. Va bay gio, khi Thuong Gia đa lon, ong van song voi tinh than cu. O khong đe minh tro thanh mot 'ong chu' kieu cach.
+
+Mot đêm mua đong, Hung cam thay noi nho đen nhung ngay xua, nhung ngay con kho khan nhung đay cam xuc. O nho buoi toi ngoi ben vo bep lua, lang nghe gio mua, an bat com dem. Khi đo, ong co it nhung hanh phuc. 'Hanh phuc khong phai khi co nhieu. Ma khi can đu, la hanh phuc nhat.' Bay gio, ong co nhieu, nhung ong van giu đuoc tinh than đo.
+
+Tien bac, đoi khi, lam con nguoi thay đoi. Nhung Hung khong đe tien lam hu ong. O vẫn ăn com binh dan, mặc ao gia re, đi xe cu. Khong phai vi tiet kiem. Ma vi ong thay, tien khong lam minh tot hon. 'Giau co khong xau. Nhung giau co ma mat nhan cach moi la xau.' Câu noi đo đa thanh cham ngon song cua ong.
+
+O nhin lai cuoc đoi, Hung thay minh đa đat đuoc nhieu thu. Nhung ong khong kieu ngạo. O biet con đuong phia truoc con dai, con nhieu đieu phai hoc. 'Mot đoi nguoi, đu song đe hieu het moi đieu hay sao?' O tu nhu, roi tu cuoi. Chac la khong. Nhung cu đu co gang, cu đu song het long, la đu.
+
+Hung gap lai mot nguoi ban cu o cho cu. Ho o nha huu, lon tuoi, nhung van ngoi ban rau. Hoi tham nhau, nguoi ban noi: 'Tao the nay, ma vui.' Hung cuoi: 'Tao cung vui.' Hai nguoi ban gia, khong con nhung uoc mo lon, chi con nhung cau chuyen nho ve con chau, ve thoi tiet. Nhung tinh ban van nguyen ven.
+
+Hung to chuc tet som cho cong nhan. 500 nguoi trong nha may, moi nguoi mot phong bi. Phong bi khong lon, nhung du đe mua thit, mua banh. Mot nguoi cong nhan gia cam đong noi: 'Sep oi, bao nhieu nam nay, chua nam nao sep quen tet.' Hung cuoi: 'Toi khong quen đuoc. Vi tet la cua anh chi em.' Nhung giay phut do, Hung thay minh nhu mot nguoi cha cua mot gia đinh lon. Va ong yeu gia đinh đo.
+
+Hung va ba Ha xem lai album cu. Nhin nhung buc anh cu, nhung nguoi ban cu, nhung ky niem xua. O cuoi: 'Cuoc song đa cho minh nhieu qua that.' O cam thay binh yen, hanh phuc, va song tiep cuoc song.
+
+Hung nho lai nhung ngay đau tien xay dung nha may. O cung ban be, anh em, thuc đem lam đem. 'Cuc, nhung vui.' O thay minh that co gang thanh cong va co y nghia. Tuong lai, ong se con lam nhieu đieu cho xa hoi.
+
+Hung di tham vung cao. O giup do bang cach mua san pham. Kinh doanh khong chi la ban hang, con la chia se.
+
+Hung ngoi tren ban, nhin ra pho. O nho mot cau noi: 'Song la khong chi cho minh. Ma cho moi nguoi.' O hieu ra: cuoc song cua ong co y nghia nho nhung nguoi xung quanh. Cong nhan, ban be, đoi tac, gia đinh. O cam on ho.
+
+Hung đi dao tren pho, thay hai đua tre choi đua. O đung lai nhin. Chung cuoi vang, ngu ngheo. Hung cam thay nho lai tuoi tho. O hua se giup đua tre co tuong lai tot hon.
+
+Mot nguoi ban ngheo gap Hung keu khan. Hung liên he giup đo. 'Minh song phai biet giup đo nhau. Kho khan roi se qua. Tinh ban con đay.'
+
+Mot hom, Hung doc sach ve cac nha sang lap. O thay minh trong ho. Cung gian kho, cung đam me. O cam thay minh khong đon đoc. O tiep tuc đoc, tiep tuc hoc.
+
+Mot chuyen xe đi qua vung nui. Hung thay canh đep. O thay minh nho nhoi. O song co ich. O song cho moi nguoi. Chuyen xe đi tiep, mang ong đen nhung noi xa. O tiep tuc hanh trinh.
+
+Mot cau chuyen nho: Hung thay mot em be nhat chiec banh roi xuong đat, em be nhat len an tiep. Hung mua cho em be mot o banh khac. 'Em an đi. Song phai biet huong thu.' Em be cuoi. Hung thay long am.
+
+'Anh Hung, anh lam the nao đe thanh cong?' Mot phong vien hoi. 'Khong co bi quyet. Chi co co gang, that la, va kien nhan.' 'Cam on anh.' Phong vien gap so ghi chep. Hung cuoi, nhin ra cua so, thay nang chieu vang.
+
+'Bác Hùng! Cháu chờ bác!' Một thanh niên chạy đến. 'Có chuyện gì thế cháu?' 'Cháu muốn cảm ơn bác. Cháu vừa tốt nghiệp đại học, đã có việc làm ổn định. Nhờ có bác cho cháu vay tiền học.' Thanh niên cúi gập người. Hùng đỡ cậu ta dậy: 'Tốt, tốt lắm. Cố gắng làm việc thật tốt nhé.' Cậu thanh niên gật đầu, mắt sáng lên, rồi chào tạm biệt. Hùng nhìn cậu ta khuất sau góc phố, thấy lòng mình reo vui.
+
+Người thanh niên cúi gập người, mắt đỏ hoe. "Bác ơi, cháu không biết nói gì hơn. Cảm ơn bác." Hùng đỡ cậu dậy, tay vỗ vai. "Không có gì đâu cháu. Cuộc sống là phải giúp đỡ nhau." Người thanh niên gật đầu, lau nước mắt. "Cháu sẽ cố gắng không phụ lòng bác." Hùng cười, mắt nheo lại. "Ừ, bác tin cháu."
+
+============================================================
+
+Trước khi khóa nhịp, Hùng gọi đúng một người liên quan trực tiếp tới việc còn mở của chương này.
+
+Người kia nói. Lan ghi. Hùng sửa một chữ cho khỏi hiểu nhầm. Ánh đèn ca đêm vàng nhạt, đủ để đọc biên bản không chói mắt. Ông không thêm lời thề. Chỉ chốt người nhận, hạn, và cách kiểm vào sáng mai.
+
+— Mai bắt đầu từ đây — ông nói.
+
+「Hệ thống — GHI NHẬN ch.247」
+Năm: 2006-2007
+Tổng EXP: 57,000 (+1,500 nhịp này)
+Không gian R&D: 40m²
+Kỹ năng trọng yếu: Công nghệ cao lv2, Quản trị dữ liệu lv2, Quản lý kho lv3
+Ghi chú: Hệ thống dự báo tồn kho đầu tiên — độ chính xác 82%
+
+Teaser:
+============================================================

@@ -1,6 +1,5 @@
 ============================================================
 Chương 221: Dấu hiệu khủng hoảng 2008
-============================================================
 
 Tháng Hai năm 2008, một bản tin Bloomberg đập vào mắt Hùng lúc sáu giờ sáng. Ông ngồi trong phòng làm việc tại nhà — một căn phòng nhỏ ở tầng hai, bàn gỗ, tủ sắt, quạt trần, màn hình CRT cũ kết nối Internet qua đường dây điện thoại. Tốc độ tải trang chậm đến mức ông có thể đi pha cà phê — phin, bột cà phê Trung Nguyên, nước sôi — rồi quay lại xem.
 
@@ -172,15 +171,6 @@ Khủng hoảng chưa đến. Nhưng bóng nó đã phủ dài.
 
 Ông không sợ. Ông đã trải qua khủng hoảng năm 1997, suy thoái năm 2001, dịch SARS năm 2003. Mỗi lần, ông đều sống sót. Nguyên tắc: không bao giờ đặt tất cả trứng vào một rổ, luôn giữ tiền mặt, luôn có phương án dự phòng. Và quan trọng nhất — không bao giờ để lòng tham lấn át lý trí.
 
-============================================================
-
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Minh nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Minh cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Lan. "Tặng em." Lan nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Lan hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho Lan. "Uống đi, trời lạnh." Lan nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
-
-
 Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
 
 Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Minh cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
@@ -190,29 +180,19 @@ Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nh
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
 
 
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Lan. "Tặng em." Lan nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Lan hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho Lan. "Uống đi, trời lạnh." Lan nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
-
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
-
 Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
 
-「Hệ thống — CỘT MỐC ch.221」
-Năm: 2007
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.221. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+
+[ch.221 CHARFIX] Hùng nhíu mày, siết tay. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ. Tay chai buông.
+
+「Hệ thống — GHI NHẬN ch.221」
+Năm: 2008
 Tổng EXP: 51,000 (+1,480 nhịp này)
 Không gian kho: 18,500m² (+700m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv3, Ngoại giao kinh tế lv3, Dự báo rủi ro lv3, Công nghệ cao lv2
 Ghi chú: Phát hiện dấu hiệu khủng hoảng từ tháng 2/2007 — New Century sụp. Áp dụng chính sách phòng thủ tài chính từ tháng 6. Hệ thống dự đoán nội bộ — cấp báo động 2. Kế hoạch khẩn cấp 16 trang — mở rộng lên 17 trang với phương án hỗ trợ công nhân.
-============================================================
-
-Teaser: 
-
-
-「Hệ thống — GHI NHẬN ch.221」
-Năm: 2008
-Tổng EXP: 43,000 (+238)
-Không gian kho: 15,000m² (+143m²)
-Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================

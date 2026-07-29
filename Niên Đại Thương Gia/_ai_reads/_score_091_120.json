@@ -1,0 +1,726 @@
+[
+  {
+    "ch": 91,
+    "file": "Chương 91 - Sản xuất thép Hải Phòng.txt",
+    "final": 9.48,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 8.5,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3710,
+      "sensory_density": 15.45,
+      "char_density": 2.29,
+      "dialogue": 64,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 92,
+    "file": "Chương 92 - Sản xuất xi măng.txt",
+    "final": 9.42,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 8.09,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 4366,
+      "sensory_density": 11.68,
+      "char_density": 3.03,
+      "dialogue": 91,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 93,
+    "file": "Chương 93 - Hùng gặp cô Hạnh.txt",
+    "final": 10.0,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3432,
+      "sensory_density": 14.97,
+      "char_density": 4.25,
+      "dialogue": 117,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 94,
+    "file": "Chương 94 - Hùng gặp cô Mai và cô Lan.txt",
+    "final": 9.48,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 8.5,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 4195,
+      "sensory_density": 13.8,
+      "char_density": 3.02,
+      "dialogue": 119,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 95,
+    "file": "Chương 95 - Hùng chọn cô Hạnh.txt",
+    "final": 9.11,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 6.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 5583,
+      "sensory_density": 12.06,
+      "char_density": 3.05,
+      "dialogue": 122,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 96,
+    "file": "Chương 96 - Bà Hà bế cháu nội.txt",
+    "final": 10.0,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3609,
+      "sensory_density": 12.66,
+      "char_density": 5.94,
+      "dialogue": 71,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 97,
+    "file": "Chương 97 - Sản xuất điện tử.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3258,
+      "sensory_density": 13.28,
+      "char_density": 2.39,
+      "dialogue": 47,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 98,
+    "file": "Chương 98 - Sản xuất điện thoại.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3424,
+      "sensory_density": 10.78,
+      "char_density": 2.48,
+      "dialogue": 91,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 99,
+    "file": "Chương 99 - Mở rộng viễn thông.txt",
+    "final": 8.87,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 7.5,
+      "cau_truc": 7.8,
+      "nhan_vat": 8.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 5080,
+      "sensory_density": 6.76,
+      "char_density": 1.94,
+      "dialogue": 177,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 100,
+    "file": "Chương 100 - Sản xuất phần mềm.txt",
+    "final": 9.26,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 9.0,
+      "filler_pad": 10.0,
+      "he_thong": 8.0
+    },
+    "metrics": {
+      "words": 3577,
+      "sensory_density": 12.63,
+      "char_density": 2.44,
+      "dialogue": 100,
+      "pad_total": 0,
+      "maxrep": 2,
+      "maxrep_short": 3
+    },
+    "pass": false
+  },
+  {
+    "ch": 101,
+    "file": "Chương 101 - Mở rộng cửa hàng 108.txt",
+    "final": 9.4,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.5,
+      "cau_truc": 10.0,
+      "nhan_vat": 8.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3684,
+      "sensory_density": 10.77,
+      "char_density": 1.92,
+      "dialogue": 92,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 102,
+    "file": "Chương 102 - Mở rộng nhà hàng 42.txt",
+    "final": 9.48,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 8.5,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3682,
+      "sensory_density": 11.65,
+      "char_density": 3.22,
+      "dialogue": 89,
+      "pad_total": 0,
+      "maxrep": 2,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 103,
+    "file": "Chương 103 - Mở rộng nhà máy 30.txt",
+    "final": 9.4,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.5,
+      "cau_truc": 10.0,
+      "nhan_vat": 8.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3198,
+      "sensory_density": 12.34,
+      "char_density": 1.48,
+      "dialogue": 44,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 104,
+    "file": "Chương 104 - Mở rộng xuất khẩu châu Âu.txt",
+    "final": 9.11,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 6.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 6189,
+      "sensory_density": 12.45,
+      "char_density": 2.35,
+      "dialogue": 134,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 105,
+    "file": "Chương 105 - Tổng kết Phần 3.txt",
+    "final": 9.04,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 8.5,
+      "nhan_vat": 9.0,
+      "continuity": 9.0,
+      "filler_pad": 10.0,
+      "he_thong": 8.0
+    },
+    "metrics": {
+      "words": 4195,
+      "sensory_density": 11.22,
+      "char_density": 2.29,
+      "dialogue": 49,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 2
+    },
+    "pass": false
+  },
+  {
+    "ch": 106,
+    "file": "Chương 106 - Bắt đầu Phần 4.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3405,
+      "sensory_density": 15.45,
+      "char_density": 2.58,
+      "dialogue": 103,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 107,
+    "file": "Chương 107 - Mở nhà máy Thái Lan.txt",
+    "final": 9.23,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 9.79,
+      "nhan_vat": 9.0,
+      "continuity": 9.0,
+      "filler_pad": 10.0,
+      "he_thong": 8.0
+    },
+    "metrics": {
+      "words": 4283,
+      "sensory_density": 13.84,
+      "char_density": 2.27,
+      "dialogue": 121,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 2
+    },
+    "pass": false
+  },
+  {
+    "ch": 108,
+    "file": "Chương 108 - Mở nhà máy Indonesia.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3747,
+      "sensory_density": 13.11,
+      "char_density": 2.07,
+      "dialogue": 104,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 109,
+    "file": "Chương 109 - Mở nhà máy Đức.txt",
+    "final": 9.4,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.5,
+      "cau_truc": 10.0,
+      "nhan_vat": 8.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3243,
+      "sensory_density": 12.85,
+      "char_density": 1.8,
+      "dialogue": 56,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 110,
+    "file": "Chương 110 - M&A Bangkok Electronics.txt",
+    "final": 9.4,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.5,
+      "cau_truc": 10.0,
+      "nhan_vat": 8.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3122,
+      "sensory_density": 12.57,
+      "char_density": 1.34,
+      "dialogue": 43,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 111,
+    "file": "Chương 111 - Mở sang châu Mỹ USA.txt",
+    "final": 7.5,
+    "hard_fails": [
+      "short<3000(2979)"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 9.93,
+      "nhan_vat": 9.0,
+      "continuity": 9.0,
+      "filler_pad": 10.0,
+      "he_thong": 8.0
+    },
+    "metrics": {
+      "words": 2979,
+      "sensory_density": 14.77,
+      "char_density": 3.29,
+      "dialogue": 69,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 112,
+    "file": "Chương 112 - Hoàn thành phần 3.txt",
+    "final": 9.18,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.9,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 9.0,
+      "filler_pad": 10.0,
+      "he_thong": 8.0
+    },
+    "metrics": {
+      "words": 3361,
+      "sensory_density": 13.26,
+      "char_density": 2.7,
+      "dialogue": 46,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 113,
+    "file": "Chương 113 - Mở nhà máy USA.txt",
+    "final": 10.0,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3030,
+      "sensory_density": 14.76,
+      "char_density": 3.86,
+      "dialogue": 45,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 114,
+    "file": "Chương 114 - M&A Stahl GmbH.txt",
+    "final": 9.78,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 8.5,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3019,
+      "sensory_density": 14.09,
+      "char_density": 3.66,
+      "dialogue": 53,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 115,
+    "file": "Chương 115 - Mở nhà máy Nigeria.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3051,
+      "sensory_density": 14.79,
+      "char_density": 2.77,
+      "dialogue": 85,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 116,
+    "file": "Chương 116 - Mở nhà máy Úc.txt",
+    "final": 7.5,
+    "hard_fails": [
+      "short<3000(2945)"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 8.32,
+      "nhan_vat": 9.0,
+      "continuity": 9.0,
+      "filler_pad": 10.0,
+      "he_thong": 8.0
+    },
+    "metrics": {
+      "words": 2945,
+      "sensory_density": 7.71,
+      "char_density": 2.41,
+      "dialogue": 51,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": false
+  },
+  {
+    "ch": 117,
+    "file": "Chương 117 - Tổng tài sản 1000 tỷ.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3003,
+      "sensory_density": 11.6,
+      "char_density": 3.23,
+      "dialogue": 43,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 118,
+    "file": "Chương 118 - Những ngày nằm viện.txt",
+    "final": 10.0,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3036,
+      "sensory_density": 14.36,
+      "char_density": 4.86,
+      "dialogue": 49,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 3
+    },
+    "pass": true
+  },
+  {
+    "ch": 119,
+    "file": "Chương 119 - Bước ngoặt sức khỏe.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3150,
+      "sensory_density": 13.88,
+      "char_density": 2.29,
+      "dialogue": 29,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  },
+  {
+    "ch": 120,
+    "file": "Chương 120 - Học cách ủy thác sâu hơn.txt",
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "metrics": {
+      "words": 3048,
+      "sensory_density": 13.4,
+      "char_density": 3.12,
+      "dialogue": 55,
+      "pad_total": 0,
+      "maxrep": 1,
+      "maxrep_short": 1
+    },
+    "pass": true
+  }
+]

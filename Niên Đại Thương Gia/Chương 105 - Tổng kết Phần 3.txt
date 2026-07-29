@@ -2,140 +2,411 @@
 Chương 105: Tổng kết Phần 3
 ============================================================
 
-Năm 1987, TP.HCM. Trần Văn Hùng đóng cuốn sổ cuối cùng của Phần 3, thấy một đường thẳng từ Chương 90 đến Chương 104 — không đẹp, không trơn, nhưng mỗi đoạn đều có người thật việc thật và số thật để kiểm.
+Năm 1987, TP.HCM.
 
-Phần 3 bắt đầu từ Chương 90 — một buổi sáng ở quán nước đầu ngõ Hà Nội, bốn người quanh bàn: Hùng, Lan, cô Hạnh, Tanaka. Năm cốc chè. Một tờ giấy A4 gấp tư. Lúc ấy EXP là 14.682, không gian kho 5.045m², đội ngũ lõi chưa đầy mười người. Những gì sau đó — mười lăm chương, hai năm (1986-1987) — đã kéo Thương Gia từ một doanh nghiệp thương mại nhỏ thành một hệ thống sản xuất và phân phối vươn ra cả nước và vượt biên giới.
+Trần Văn Hùng đóng cuốn sổ cuối cùng của Phần 3, thấy một đường thẳng từ Chương 90 đến Chương 104 — không đẹp, không trơn, nhưng mỗi đoạn đều có người thật việc thật và số thật để kiểm.
+
+Phần 3 bắt đầu từ Chương 90 — một buổi sáng ở quán nước đầu ngõ Hà Nội, bốn người quanh bàn: Hùng, Lan, cô Hạnh, Tanaka.
+
+Năm cốc chè.
+
+Một tờ giấy A4 gấp tư.
+
+Lúc ấy EXP là 14.682, không gian kho 5.045m², đội ngũ lõi chưa đầy mười người.
+
+Những gì sau đó — mười lăm chương, hai năm (1986-1987) — đã kéo Thương Gia từ một doanh nghiệp thương mại nhỏ thành một hệ thống sản xuất và phân phối vươn ra cả nước và vượt biên giới.
 
 Tám mũi chính của Phần 3 — mỗi mũi có số, có người chịu, có bài học đóng dấu bằng mực không phai.
 
-Một — thép Hải Phòng. Dây chuyền cán thép Liên Xô đời sáu mươi, đen dầu mỡ, chạy thử rung từ móng lên tới đỉnh đầu. Hùng đặt tay lên thân máy, cảm nhận hơi nóng — sắt sống ở chế độ nào đều nóng, nhưng nhiệt độ đúng thì ra phôi chuẩn, nhiệt độ sai thì ra phôi vụn. Mảnh nilon gói hàng buộc dây chuối khô. Nhà máy trước đây sản xuất theo chỉ tiêu 5.000 tấn/năm, giao đủ là xong, phẩm cấp là chuyện của khâu sau. Hùng thay đổi: chỉ tiêu là sàn, không phải trần. Thép xây dựng theo tiêu chuẩn GOST — CT3 cho kết cấu thường, CT5 cho chịu lực cao hơn — mỗi lô phải có mẫu thử lưu một tháng. Klaus, kỹ sư người Đức, kiểm tra mác thép bằng kính lúp và cảm quan tay, đứng canh nhiệt kế lò nung như canh nồi thuốc — nhiệt độ lý tưởng 1.200 độ C, thấp hơn 50 độ phôi nứt bề mặt, cao hơn 30 độ thép cháy mất carbon. Một đối thủ tư nhân mới thành lập bán thép rẻ hơn 15% — Hùng đi xem hàng của họ, thép non thiếu carbon, đẹp mắt nhưng không đủ độ cứng. Ông quyết định không hạ giá. Thà mất đơn hàng trước mắt còn hơn để một cây cầu nào đó đổ vì thép Hải Phòng.
+Một — thép Hải Phòng.
 
-Hai — xi măng Khu công nghiệp. Lò nung dài hơn trăm mét, nằm nghiêng giữa bãi đất nện rộng mênh mông, tro bụi bám trắng mái tóc sau mười phút đứng gần cửa lò. Mẻ đầu clinker xốp như bọt biển — Tanaka cầm một mảnh, xoay dưới nắng, giữ im lặng bảy giây. Cấp liệu nghiền số 3 phải điều chỉnh tỷ lệ thạch cao. Cường độ nén mẫu đạt 380 kg/cm² sau bảy ngày — tiêu chuẩn TCVN cho phép, nhưng còn phải chờ số liệu sau hai mươi tám ngày. Hùng mua tủ dưỡng hộ mẫu, dành ngân sách cho thiết bị đo độ mịn nghiền, lọc bụi tĩnh điện. Máy phát dự phòng 150 KVA được đề xuất mua ngay trong quý sau khi cúp điện làm ngừng toàn bộ dây chuyền — mỗi giờ mất điện là mất 2,5 tấn clinker, nếu cúp ba tiếng lò bắt đầu nguội từ 1.400°C xuống 1.000°C, clinker đông cứng phải đục phải đốt lại mất thêm nửa ca. Người thợ già Hải hai mươi năm trong nghề có thể đo độ mòn của bi nghiền bằng tai — bi 60 ly kêu trầm, bi 30 ly kêu cao, bi mòn kêu đục, bi mới kêu trong. Những chi tiết ấy không có trong catalogue. Kỹ sư Tín từ Liên Xô về mang theo lý thuyết về lò quay và phương trình nung, nhưng thực tế dạy ông ta bài học đầu tiên: lò ì ạch mỗi khi trời chuyển mưa và than ẩm. Năng suất đạt 78% thiết kế — con số Hùng gạch chân bằng mực đen để không tự mãn.
+Dây chuyền cán thép Liên Xô đời sáu mươi, đen dầu mỡ, chạy thử rung từ móng lên tới đỉnh đầu.
 
-Ba — sản xuất điện tử. Xưởng lắp ráp linh kiện dựng tạm giữa ruộng lúa chiêm còn xanh — tường tôn, mái fibrô xi măng, bảng hiệu sơn tay. Dây chuyền dài hai mươi mét, băng tải là tấm ván ép phủ nhựa kê trên bốn cái bàn, chạy bằng mô-tơ máy khâu cũ. Không PLC, không cảm biến, không đèn báo lỗi. Mười bảy người ngồi hai bên, mỗi người một cây hàn, một cuộn thiếc. Ngày đầu tiên: 73 bo đạt, 12 lỗi, yield 86%. Lạch cạch khung xe đạp cũ trên đường đất. Hùng quyết định: ca tối kéo dài thêm một tiếng không hàn mới — toàn bộ hàn lại năm mươi bo lỗi có giám sát. Ai hàn đúng hai mươi bo liên tiếp không lỗi được thưởng cuối tuần. Ngày thứ hai yield 89,5%, ngày thứ tư yield 92% — mục tiêu đặt ra từ đầu. Lỗi hàn nguội chiếm 42% — giải pháp: thay mỏ hàn cũ, tăng đèn, mua kính lúp để bàn giá 12.000 đồng một cái. Lỗi lắp sai chiều linh kiện 28% — dạy lại từng trạm. Lỗi linh kiện nhà cung cấp 18% — kiểm độ ẩm kho trước khi nhập, mua ẩm kế cơ Trung Quốc cho thủ kho Sơn. Lỗi thiết kế bo mạch 12% — không đủ đường thoát nhiệt, dây đồng quá mảnh. Đơn hàng đầu tiên: 500 bo cho công ty Tân Bình, giao trong ba tuần. Máy hiện sóng Tektronix 465 cũ mua từ xưởng tháo dỡ hải quân. IC 555 và LM358 — hàng tồn kho Nhật hạn dùng 1985 nhưng thử vẫn chạy.
+Hùng đặt tay lên thân máy, cảm nhận hơi nóng — sắt sống ở chế độ nào đều nóng, nhưng nhiệt độ đúng thì ra phôi chuẩn, nhiệt độ sai thì ra phôi vụn.
 
-Bốn — điện thoại bàn. Không phải điện thoại xách tay. Điện thoại bàn quay số, vỏ nhựa đen, mâm quay số bằng nhôm đúc, chuông 75V, micro carbon, loa thép từ. Than tổ ong lúc nửa đêm. Linh kiện trong nước ráp — chỉ cuộn cảm chuông và chip khuếch đại thuê bao là nhập. Ngày đầu tiên: hai mươi ba bộ lắp ráp hoàn chỉnh, mười lăm bộ qua kiểm tra lần một. Bộ số 7 trở thành mẫu chuẩn cho tất cả các bộ sau — khe vỏ, tiếng chuông, độ êm mâm quay, độ rõ âm thoại đều so với bộ số 7. Buổi thử cuộc gọi hai chiều đầu tiên: Bình quay số 0-4-2, tổng đài thử đếm xung, chuông bên kia reo, giọng nói qua micro carbon nghe rõ từng tiếng, không ù nền, không rít cao tần. Trong dải thoại 300-3400 Hz, chất lượng đạt. Ba trăm bộ đặt hàng từ Bưu điện tỉnh — chiếc điện thoại đầu tiên của Thương Gia ra lò.
+Mảnh nilon gói hàng buộc dây chuối khô.
 
-Năm — phần mềm HT-QL1. Hai máy tính IBM PC XT 286 mang về từ Singapore, ổ đĩa mềm 5.25 inch kêu rè rè. Ba cái bàn gỗ ghép từ ván thùng. Ướt sũng mồ hôi lưng áo sau một ngày dài. Một cuốn Lập trình bằng ngôn ngữ BASIC photo từ bản gốc tiếng Nga. Turbo Pascal 3.0, DOS 3.3, 640KB RAM phải chia làm overlay — mỗi lần nạp module từ đĩa mềm mất 15-20 giây. Cường — lập trình chính, tự học Pascal từ sách Nga dịch tay — viết code ra giấy trước, dùng bút đỏ soát lỗi cú pháp, chỉ gõ vào máy khi đã chắc, có đêm thức tới hai giờ sáng soát gần năm trăm dòng bằng mắt thường. Đĩa mềm mua từ chợ Giời — hàng xách tay Liên Xô cũ, cứ mười đĩa thì hai ba cái bad sector, phải quét từng cái bằng CHKDSK trước khi dùng. Buổi demo đầu tiên tại Xí nghiệp Cơ khí — bà kế toán trưởng ba mươi năm làm sổ giấy gõ từng chữ một, nhấn F2, máy báo ĐÃ LƯU, bà gật đầu. Một cái gật của người đã làm sổ sách ba mươi năm có giá trị hơn mọi chữ ký hợp đồng. Giá bán 2.500 đồng một bản, thanh toán ba đợt — có xí nghiệp trả bằng thép tấm, bằng giấy in, bằng cam. Hùng không từ chối: đào tạo thị trường trước, tiền sẽ theo sau.
+Nhà máy trước đây sản xuất theo chỉ tiêu 5.000 tấn/năm, giao đủ là xong, phẩm cấp là chuyện của khâu sau.
 
-Sáu — mở rộng cửa hàng 108. Chín điểm bán đầu Phần 3, doanh thu ~104 triệu/tháng. Sáu tháng sau: 108 cửa hàng, 687 triệu/tháng, 184 nhân sự. Bắc Bộ 65 điểm, Trung Bộ 23 điểm, Nam Bộ 20 điểm. Loẹt xoẹt giấy tờ bóc biên lai thu tiền. Tám kho tổng dung tích 7.920m². Vốn đầu tư 1,39 tỷ — trong két 320 triệu, nợ ngân hàng 180 triệu (giảm từ 210), nợ bạn hàng 63 triệu. Công nợ phải thu 94 triệu. Hàng tồn 312 triệu tính theo giá vốn. Lan nhận miền Bắc mở Nam Định, Thái Bình, Hải Dương. Bé Rớ mở năm điểm quanh Sài Gòn — chợ Bà Chiểu, Xóm Chiếu, Nguyễn Trãi, Lăng Cha Cả, Tân Định. Sáu Nhẫn mở trạm trung chuyển Vinh. Chị Mỹ, góa chồng mười năm, mở hai cửa hàng ở Huế — Đông Ba và An Cựu — tháng thứ ba mở thêm tủ hàng ở bến xe. Dương, người Hoa ở Sài Gòn, cho thuê bảy mặt bằng — Nguyễn Thái Học, Phan Văn Khỏe, Hải Thượng Lãn Ông, Trần Hưng Đạo, Châu Văn Liêm, An Dương Vương — một lần mở bảy điểm. Hà Thị Thanh, người Thái ở Sơn La, nhận quản lý cửa hàng vùng cao. Mỗi cửa hàng ba mươi mặt hàng cốt lõi, năm mươi mặt hàng phụ, tồn kho tối thiểu hai mươi đơn vị mỗi mặt hàng — nếu hết hàng phải báo trong hai tiếng. Tổn thất vận chuyển trung bình 3,2% giá trị lô hàng — sau khi gia cố thùng xe, bọc cao su chống ẩm, thêm khóa an toàn, giảm còn 1,1%. Một bài học: đầu tư vào xe tốt hơn đầu tư vào quảng cáo.
+Hùng thay đổi: chỉ tiêu là sàn, không phải trần.
 
-Bảy — chuỗi nhà hàng 42. Ba cơ sở — phố cổ, khu chợ, gần bến xe — tổng cộng ba mươi hai nhân viên. Thằng Cường mười chín tuổi từ phụ bếp lên bếp phó. Chị Hương, bị tinh giản biên chế từ xí nghiệp dệt, phát hiện chỗ hao hụt nước và đề xuất lắp vòi riêng — tiết kiệm mấy chục đồng mỗi tháng nhưng quan trọng hơn: chị nghĩ cho việc như việc của mình. Sau này chị trở thành quản lý bếp toàn chuỗi, mỗi nhà hàng mới mở là người đầu tiên được cử sang để dạy lại công thức — chuẩn hóa hương vị giữa các cơ sở. Hậu mười chín tuổi, từ lái xe hợp tác xã nông nghiệp, phát hiện nguồn cung nấm rơm từ nhà trồng ngoại thành — giá bằng một phần ba chợ — sau này trở thành Giám đốc chuỗi cung ứng. Ông Hạnh sáu mươi tư tuổi, kế toán hợp tác xã nghỉ hưu, xây hệ thống sổ sách cho ba nhà hàng bằng bút và giấy với nguyên tắc: mỗi đồng phải có địa chỉ. Rạ khô vừa gặt còn thơm nắng. Cơ sở bến xe thua lỗ hai tháng đầu — Hùng đứng quầy một tuần liền, rút ra bài học: khách bến xe không mua bát phở, họ mua thứ gói được mang lên xe. Chuyển thực đơn sang phần mang đi — lá chuối, giấy báo — tháng thứ ba hòa vốn, tháng thứ tư có lãi.
+Thép xây dựng theo tiêu chuẩn GOST — CT3 cho kết cấu thường, CT5 cho chịu lực cao hơn — mỗi lô phải có mẫu thử lưu một tháng.
 
-Tám — xuất khẩu châu Âu. Container đầu tiên rời cảng Hải Phòng tháng Ba 1987 — hàng thủ công mỹ nghệ mây tre đan, sơn mài, gốm — trị giá 47.500 USD, đối tác CEL Handel (Ba Lan), qua sáu tháng đàm phán telex, mười bảy bức điện, bức dài nhất 47 phút gần hai trăm nghìn đồng. Lợi nhuận gộp 15,5% — không cao nhưng quan trọng hơn: đường đi đã được xác lập. Telex hồi báo chín dòng — Container VN-HP-001 onboard MV KOLOBRZEG ETD HAI PHONG 15-MAR-1987 ETA GDANSK 28-APR-1987. Thời gian thực tế Hải Phòng—Gdansk trung bình 42 ngày, mùa bão có thể 50. Vận đơn đường biển — Hùng suýt mất hàng vì tàu cập cảng trước khi vận đơn đến nơi, năm ngày phí lưu container 1.200 USD. Bài học: split B/L, chia vận đơn làm hai bộ gửi hai đường. L/C — thư tín dụng — bảy trang tiếng Anh và tiếng Ba Lan, Hùng phát hiện điều khoản inspection certificate do buyer's representative có thể block shipment, yêu cầu sửa thêm một câu, phí 150 USD — rẻ hơn nhiều so với hàng nằm cảng. Mười một loại chứng từ cho mỗi lô hàng. C/O phải chứng minh nguyên liệu trong nước tối thiểu 40% giá thành — Hùng mở cuốn sổ riêng ghi từng lô nguyên liệu. Bảo hiểm hàng hải — bảy điều khoản loại trừ được gạch chân, máy ảnh Zenit Liên Xô chụp từng công đoạn đóng gói làm bằng chứng. Đơn hàng thứ hai: ba container trị giá 142.500 USD — gấp ba lần đầu. Hùng viết vào sổ: tìm nguồn mây dự phòng từ Lào, nhưng nếu nhập mây Lào tỷ lệ nội địa hóa giảm, rủi ro C/O tăng.
+Klaus, kỹ sư người Đức, kiểm tra mác thép bằng kính lúp và cảm quan tay, đứng canh nhiệt kế lò nung như canh nồi thuốc — nhiệt độ lý tưởng 1.200 độ C, thấp hơn 50 độ phôi nứt bề mặt, cao hơn 30 độ thép cháy mất carbon.
 
-Tám mũi chính — nhưng Phần 3 không chỉ là những con số. Phần 3 là khi Trần Thị Lan, từ chỗ ghi việc thành văn, nay ghi thành checklist — gạch đầu dòng, biết hỏi thiếu gì trước khi hỏi sai đâu. Cô phụ trách cụm Hải Dương, sáu cơ sở dệt may phụ trợ, mỗi cơ sở bốn mươi đến sáu mươi máy may Trung Quốc nhập qua Lạng Sơn. Một lần vải từ Nam Định lên chậm ba ngày, Lan phải đổi ca để máy không chết. Hùng hỏi sao không chửi đối tác, Lan cười: chửi xong có vải không? Điều chỉnh, không điều khiển — đó là bài học cô học được từ chính mình trong Phần 3. Bà Nguyễn Thị Hà phụ trách cụm Hưng Yên — sáu nhà máy bao bì cung ứng thùng giấy, nilon, nhãn mác cho toàn bộ hệ thống. Một lần công nhân đóng gói dùng keo kém chất lượng để tiết kiệm hai đồng một thùng, lô hàng xuất khẩu bị trả về vì bao bì rách. Bà Hà tự nhận trách nhiệm. Hùng viết quy định thành văn — mười dòng quy trình đóng gói, ký, đóng dấu, dán trong xưởng. Cái đập tay xuống bàn ngày nào giờ thành điều lệ. Tanaka, đối tác Nhật, đi hết năm cụm nhà máy trong bốn ngày, ngủ tại nhà khách xã, ăn cơm với công nhân. Tõm tõm gầu nước xuống giếng sâu. Cuối chuyến ông tặng Hùng một quyển sổ mẫu có kẻ sẵn các cột — mã lô, kích thước, dung sai, ngày kiểm, người kiểm. Hùng dịch ra tiếng Việt, in ronéo, giao cho ba mươi tổ trưởng. Cuốn sổ đó sau là hạt nhân của hệ thống quản lý chất lượng toàn công ty.
+Một đối thủ tư nhân mới thành lập bán thép rẻ hơn 15% — Hùng đi xem hàng của họ, thép non thiếu carbon, đẹp mắt nhưng không đủ độ cứng.
 
-Về con người, Phần 3 có những thay đổi không ghi vào bảng EXP. Hùng gặp cô Hạnh ở Sài Gòn tháng Ba 1986 — chị thợ may gốc Bến Tre, tự học may nuôi mẹ già, không tin vào lời hứa nhanh. Buổi gặp đầu tiên kéo dài hơn dự tính, từ một tiếng thành ba. Bữa cơm trưa chia đôi, phần chị vun thấp hơn phần ông. Một cuộn chỉ trong hộp gỗ làm quà — vì Hùng thấy cuộn chỉ gần hết. Cồn cào ruột khi chưa kịp ăn sáng. Thợ may hết chỉ là hết nghề. Tháng sau họ cùng đi Bến Tre. Rồi Hùng chọn chị — không chọn cô Mai bác sĩ ở Đà Nẵng, không chọn cô Lan giáo viên dạy văn. Chọn người có thể đứng cạnh khi ông mệt. Và bà Hà — mẹ Hùng — bế cháu nội Gia Huy trong nôi gỗ mít, đứa trẻ chín tháng tên Trần Gia Huy, mắt đen láy như hòn bi ve. Bà nhìn thằng bé và thấy cả quá khứ lẫn tương lai trong cùng một khuôn mặt. Ngày bà còn phải chạy gạo từng bữa. Bây giờ cháo thịt băm mỗi sáng. Căn nhà tường ẩm, mái rêu phong ngày nào giờ có đủ sữa hộp, thuốc bổ thần kinh, và một đứa trẻ ngủ ngon trong nôi.
+Ông quyết định không hạ giá.
 
-Ba mươi nhà máy — năm cụm, sáu điểm mỗi cụm. Bắc Ninh (cơ khí), Hải Dương (dệt may), Hưng Yên (bao bì), Nam Định (nguyên liệu đầu vào), Hà Nội (lắp ráp hoàn thiện và kho tổng). Tổng mặt bằng sản xuất 16.400m². Khoảng bảy trăm lao động — Hùng nhớ mặt khoảng năm trăm, không phải vì siêu trí nhớ, vì ông xuống từng ca, từng bàn. Mỗi sáng tổ trưởng đánh dấu ba mục trên biểu: số lượng đầu ca, hỏng hóc ca trước, vật tư thiếu — chỉ ba mục, nhưng ba mươi tờ giấy than hai lớp thu về Hà Nội, Lan dồn số, một tuần sau biết nhà máy nào ổn, nhà máy nào cần ghé. Không phần mềm. Chiếc cân bàn đĩa đồng đã mờ vạch số. Nhưng nhanh hơn họp, rẻ hơn thanh tra, và không ai cãi được số. Cơ chế xin dấu mất trung bình bốn tháng cho một nhà máy mới — Hùng đi mỗi bước một dấu, có lần cán bộ huyện yêu cầu ngừng xây vì chưa có quy hoạch. Hùng lên tỉnh, xin được văn bản: đất chưa quy hoạch, tạm thời được phép sản xuất nếu địa phương đồng ý. Cán bộ huyện không nói thêm. Hùng biết mình không được lòng, nhưng việc được làm. Có tháng hóa đơn tiền điện sáu nhà máy Hà Nội đội lên gần ba triệu. Hùng tạm ngưng mua sắm thiết bị mới lấy tiền trả điện. Lan nói: cắt cái gì khác, đừng cắt điện. Hùng nghe. Nghỉ việc vụ mùa — một phần ba công nhân về ruộng tháng Năm tháng Mười. Hùng không cấm. Cấm cũng không được, mà cấm xong họ đi luôn. Ông xếp lịch linh hoạt: tăng ca trước mùa, giữ máy những ngày khan người, huy động dòng họ từ quê lên thay. Bà Hà nói vui: nhà máy của cậu Hùng có tuyển cả cụ.
+Thà mất đơn hàng trước mắt còn hơn để một cây cầu nào đó đổ vì thép Hải Phòng.
 
-Mỗi tháng Hùng ngồi với Lan vào tối chủ nhật, rà soát số liệu ba mươi nhà máy. Lan đọc số, Hùng chấm vào bảng. Vải mới cắt thơm mùi hồ. Nhà máy nào đỏ — lỗ, chậm, sai — là sáng thứ hai có mặt ông. Nhà máy nào xanh liên tục ba tháng, ông gửi thư khen kèm một khoản thưởng nhỏ. Nhà máy có lãi nhiều nhất là xưởng cơ khí Bắc Ninh — làm chi tiết cho máy xay xát, máy bơm nước — vì nhu cầu nông nghiệp lên cao, cánh chủ ruộng đổi máy cũ. Hùng dồn thêm vốn cho xưởng đó mở rộng, không phải vì tiền — vì xưởng đó giải quyết việc làm cho bốn mươi người trong xã, và xã nhờ đó đỡ bức xúc về lao động dư thừa.
+Hai — xi măng Khu công nghiệp.
 
-Về bài học xương máu của Phần 3, Hùng ghi trong sổ: không bao giờ tin vào một con số trước khi kiểm tra bằng chứng. Mẫu thử phải lưu một tháng, biên bản phải đủ chữ ký, số lô phải khớp hóa đơn, tỷ giá phải khóa phụ lục, ngày giao phải trừ mưa và tàu trễ. Năm chỗ dễ gian: ca làm, cân đong, báo cáo tồn, chiết khấu, hoa hồng môi giới — phải kiểm tra luân phiên, không báo trước. Gian nhỏ nuôi hỏng lớn — câu đó ông viết hoa đầu dòng và dán trong xưởng. Phần thưởng của Phần 3: 17.125 EXP, 5.667m² kho, 108 cửa hàng, 30 nhà máy, 3 nhà hàng, 1 dây chuyền thép, 1 nhà máy xi măng, 1 dây chuyền điện tử, 1 dây chuyền điện thoại, 1 phần mềm quản lý, 1 container xuất khẩu sang châu Âu. Nhưng phần thưởng thật sự, ông viết trong trang cuối, là khi cửa còn mở, hàng vẫn đúng, lương vẫn trả, và nhà vẫn muốn ông về.
+Lò nung dài hơn trăm mét, nằm nghiêng giữa bãi đất nện rộng mênh mông, tro bụi bám trắng mái tóc sau mười phút đứng gần cửa lò.
 
-Phần 3 đóng lại bằng bút chì — có thể lùi, nhưng Hùng không có ý định lùi. Vải mới cắt thơm mùi hồ. — Anh, ba mươi nhà máy, một trăm linh tám cửa hàng. — Lan đọc xong báo cáo, nhìn anh. — Em vẫn không tin nổi.
+Mẻ đầu clinker xốp như bọt biển — Tanaka cầm một mảnh, xoay dưới nắng, giữ im lặng bảy giây.
 
-— Tin đi. Có sổ đây. — Hùng gõ tay lên tập giấy.
+Cấp liệu nghiền số 3 phải điều chỉnh tỷ lệ thạch cao.
 
-— Nhưng mệt quá, anh. — Lan nói khẽ. — Đôi khi em muốn nghỉ một ngày.
+Cường độ nén mẫu đạt 380 kg/cm² sau bảy ngày — tiêu chuẩn TCVN cho phép, nhưng còn phải chờ số liệu sau hai mươi tám ngày.
 
-— Nghỉ đi. Ngày mai em nghỉ, anh trông.
+Hùng mua tủ dưỡng hộ mẫu, dành ngân sách cho thiết bị đo độ mịn nghiền, lọc bụi tĩnh điện.
 
-— Thế ai trông khi anh nghỉ?
+Máy phát dự phòng 150 KVA được đề xuất mua ngay trong quý sau khi cúp điện làm ngừng toàn bộ dây chuyền — mỗi giờ mất điện là mất 2,5 tấn clinker, nếu cúp ba tiếng lò bắt đầu nguội từ 1.400°C xuống 1.000°C, clinker đông cứng phải đục phải đốt lại mất thêm nửa ca.
 
-— Không ai. Nên anh không nghỉ.
+Người thợ già Hải hai mươi năm trong nghề có thể đo độ mòn của bi nghiền bằng tai — bi 60 ly kêu trầm, bi 30 ly kêu cao, bi mòn kêu đục, bi mới kêu trong.
 
-Hai anh em nhìn nhau. Hùng đứng dậy, tiến về phía cửa sổ nhìn ra bầu trời Sài Gòn đang lên đèn.
+Những chi tiết ấy không có trong catalogue.
 
-Phía trước: Part 4. Xuất khẩu mở rộng, chi nhánh quốc tế, những đối tác và thị trường chưa từng đặt chân đến. Nhưng tối nay, ông gấp sổ, đặt dưới gối, nghe tiếng thở đều của đứa cháu nội trong nôi gỗ mít. Ngày mai: còn việc. Nhưng tối nay — tối nay đủ để mai còn mở được cửa.
+Kỹ sư Tín từ Liên Xô về mang theo lý thuyết về lò quay và phương trình nung, nhưng thực tế dạy ông ta bài học đầu tiên: lò ì ạch mỗi khi trời chuyển mưa và than ẩm.
 
-Nhưng ngay cả trong căn phòng ấm này, có một cái bóng lặng lẽ. Bà Hà biết.
+Năng suất đạt 78% thiết kế — con số Hùng gạch chân bằng mực đen để không tự mãn.
 
-Bà biết con trai mình có chuyện. Không phải chuyện làm ăn — chuyện gì đó sâu hơn. Từ mấy tháng nay, Hùng về nhà muộn hơn, nhưng không phải muộn vì việc — muộn vì ông không muốn về. Ông ngồi ngoài hiên một mình lâu hơn, nhìn vào bóng tối, tay xoa vết sẹo trên tay trái — một thói quen từ nhỏ mỗi khi ông lo.
+Ba — sản xuất điện tử.
 
-Bà Hà không hỏi.
+Xưởng lắp ráp linh kiện dựng tạm giữa ruộng lúa chiêm còn xanh — tường tôn, mái fibrô xi măng, bảng hiệu sơn tay.
 
-Một bữa tối, khi Hùng ăn xong đứng dậy, bà nói: "Có chuyện gì, con có thể nói. Nhưng không nói cũng được. Mẹ biết con tự giải quyết được."
+Dây chuyền dài hai mươi mét, băng tải là tấm ván ép phủ nhựa kê trên bốn cái bàn, chạy bằng mô-tơ máy khâu cũ.
 
-Hùng đứng lại. "Con không muốn mẹ lo."
+Không PLC, không cảm biến, không đèn báo lỗi.
 
-"Lo thì mẹ vẫn lo. Nhưng mẹ không hỏi. Hỏi khi nào con muốn nói."
+Mười bảy người ngồi hai bên, mỗi người một cây hàn, một cuộn thiếc.
 
-Hùng định nói. Rồi không. Ông chỉ gật, bước ra hiên. Bà Hà nhìn theo bóng ông khuất sau cánh cửa, thấy ông đốt một điếu thuốc — dù từ ngày sinh cháu nội, ông đã bỏ hút. Tàn thuốc đỏ rực trong bóng tối, rồi vụn xuống nền gạch.
+Ngày đầu tiên: 73 bo đạt, 12 lỗi, yield 86%.
 
-Bà không hỏi. Nhưng bà biết — Hùng đang gánh thứ gì đó mà ông nghĩ chỉ một mình ông gánh được.
+Lạch cạch khung xe đạp cũ trên đường đất.
 
-============================================================
+Hùng quyết định: ca tối kéo dài thêm một tiếng không hàn mới — toàn bộ hàn lại năm mươi bo lỗi có giám sát.
 
-'Đi đau ma vui the?' Hung hoi mot nguoi ban. 'Di choi tet.' 'Tet con lau ma.' 'Thi chuan bi truoc.' Hai nguoi cuoi, bat tay nhau. Tay ngưoi ban am. 'Chuc tet som.' 'Cam on.' Hung quay ve, thay long vui. Nang nhe roi, hiu hiu, anh thay am ap trong long.
+Ai hàn đúng hai mươi bo liên tiếp không lỗi được thưởng cuối tuần.
 
+Ngày thứ hai yield 89,5%, ngày thứ tư yield 92% — mục tiêu đặt ra từ đầu.
 
-Một người bạn cũ gặp Hùng ngoài chợ. Hai người bắt tay, vỗ vai nhau. Lâu quá không gặp, cậu vẫn khỏe chứ? Vẫn khỏe. Tôi vẫn khỏe. Hai người cười, tay vẫn nắm tay. Mùi bún cá thơm lừng từ quán bên cạnh. Vào ăn bát bún đi. Ừ, vào ăn đi.
+Lỗi hàn nguội chiếm 42% — giải pháp: thay mỏ hàn cũ, tăng đèn, mua kính lúp để bàn giá 12.000 đồng một cái.
 
+Lỗi lắp sai chiều linh kiện 28% — dạy lại từng trạm.
 
-Hai người bạn cũ ngồi với nhau trong quán nước chè. Bàn gỗ cũ, mùi trà xanh thơm lừng. "Cậu nhìn tôi này."Người bạn chỉ vào mái tóc bạc của mình. "Tóc tôi bạc hết rồi."Hùng cười, tay xoay ly trà. "Tóc tôi cũng bạc. Chúng mình già rồi."Người bạn gật đầu, mắt trầm ngâm. "Già thật rồi. Nhưng mà vẫn còn vui."Hai người cười, tiếng cười giòn trong không gian tĩnh lặng. Hùng vỗ vai người bạn, tay ông nặng và ấm. "Cố gắng sống vui nhé. Tôi sẽ thăm cậu thường xuyên."Người bạn xiết tay Hùng, mắt đỏ hoe. "Cảm ơn cậu."Nắng chiều hắt qua kính, vàng óng. Hùng đứng dậy, bắt tay bạn lần cuối cùng rồi quay lưng bước ra. Ngoài đường, gió thổi nhẹ, lạnh. Ông kéo cổ áo lại, mắt không nhìn lại.
+Lỗi linh kiện nhà cung cấp 18% — kiểm độ ẩm kho trước khi nhập, mua ẩm kế cơ Trung Quốc cho thủ kho Sơn.
 
+Lỗi thiết kế bo mạch 12% — không đủ đường thoát nhiệt, dây đồng quá mảnh.
 
-Hùng quay lại nhìn quán nước chè một lần cuối. Mắt ông ấm áp. "Cảm ơn cậu." Ông nói khẽ, rồi bước đi.
+Đơn hàng đầu tiên: 500 bo cho công ty Tân Bình, giao trong ba tuần.
 
+Máy hiện sóng Tektronix 465 cũ mua từ xưởng tháo dỡ hải quân.
 
-Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+IC 555 và LM358 — hàng tồn kho Nhật hạn dùng 1985 nhưng thử vẫn chạy.
 
-Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
+Bốn — điện thoại bàn.
 
+Không phải điện thoại xách tay.
 
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
+Điện thoại bàn quay số, vỏ nhựa đen, mâm quay số bằng nhôm đúc, chuông 75V, micro carbon, loa thép từ.
 
-Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
+Than tổ ong lúc nửa đêm.
 
-Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
+Linh kiện trong nước ráp — chỉ cuộn cảm chuông và chip khuếch đại thuê bao là nhập.
 
+Ngày đầu tiên: hai mươi ba bộ lắp ráp hoàn chỉnh, mười lăm bộ qua kiểm tra lần một.
 
-Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
+Bộ số 7 trở thành mẫu chuẩn cho tất cả các bộ sau — khe vỏ, tiếng chuông, độ êm mâm quay, độ rõ âm thoại đều so với bộ số 7.
 
-Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+Buổi thử cuộc gọi hai chiều đầu tiên: Bình quay số 0-4-2, tổng đài thử đếm xung, chuông bên kia reo, giọng nói qua micro carbon nghe rõ từng tiếng, không ù nền, không rít cao tần.
 
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
+Trong dải thoại 300-3400 Hz, chất lượng đạt.
 
-Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
+Ba trăm bộ đặt hàng từ Bưu điện tỉnh — chiếc điện thoại đầu tiên của Thương Gia ra lò.
 
+Năm — phần mềm HT-QL1.
 
-Sáng chủ nhật, Hùng gấp chăn màn, Lan lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Lan quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
+Hai máy tính IBM PC XT 286 mang về từ Singapore, ổ đĩa mềm 5.25 inch kêu rè rè.
 
-Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
+Ba cái bàn gỗ ghép từ ván thùng.
 
+Ướt sũng mồ hôi lưng áo sau một ngày dài.
 
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho bà Hà. "Uống đi, trời lạnh." bà Hà nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
+Một cuốn Lập trình bằng ngôn ngữ BASIC photo từ bản gốc tiếng Nga.
 
-Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+Turbo Pascal 3.0, DOS 3.3, 640KB RAM phải chia làm overlay — mỗi lần nạp module từ đĩa mềm mất 15-20 giây.
 
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Minh nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Minh cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
+Cường — lập trình chính, tự học Pascal từ sách Nga dịch tay — viết code ra giấy trước, dùng bút đỏ soát lỗi cú pháp, chỉ gõ vào máy khi đã chắc, có đêm thức tới hai giờ sáng soát gần năm trăm dòng bằng mắt thường.
 
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, bà Hà đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. bà Hà quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+Đĩa mềm mua từ chợ Giời — hàng xách tay Liên Xô cũ, cứ mười đĩa thì hai ba cái bad sector, phải quét từng cái bằng CHKDSK trước khi dùng.
 
-「Hệ thống — CỘT MỐC ch.105 — TỔNG KẾT PHẦN 3」
-Năm: 1987
-Tổng EXP: 17,125
-Không gian kho: 5,667m²
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1, Sản xuất lv1
-Nhân sự lõi: Trần Văn Hùng, Trần Thị Lan, Nguyễn Thị Hà, cô Hạnh, ông Tam, chú Bảy, Klaus (Đức), Tanaka (Nhật), Cường (lập trình), Bình (điện thoại), chị Hương, Hậu (cung ứng), Hải (kỹ thuật), ông Ba (cơ khí), ông Hạnh (kế toán)
-Đối tác ngoại: CEL Handel (Ba Lan), Motokov (Tiệp Khắc), Tanaka & Co. (Nhật)
-Thành quả chính: 108 cửa hàng (9→108) | 30 nhà máy (5 cụm, 16.400m²) | 3 nhà hàng 42 | 1 dây chuyền thép Hải Phòng | 1 nhà máy xi măng (78% công suất) | 1 dây chuyền điện tử (yield 92%) | 1 dây chuyền điện thoại (300 bộ đặt hàng) | 1 phần mềm HT-QL1 (4 xí nghiệp) | 1 container xuất khẩu Ba Lan (47.500 USD, đơn hàng thứ hai 142.500 USD)
-Tài sản cố định: văn phòng Hà Nội, nhà xưởng Khu công nghiệp, cơ sở đào tạo, phòng khám An Tín, 8 kho tổng dung tích 7.920m²
-Tổng kết Phần 3. Hùng đóng cuốn sổ dày nhất. 108 cửa hàng, 30 nhà máy, container châu Âu.
-Lan đọc báo cáo. Hùng nói: "Làm tốt lắm." Hai tiếng hiếm hoi.
+Buổi demo đầu tiên tại Xí nghiệp Cơ khí — bà kế toán trưởng ba mươi năm làm sổ giấy gõ từng chữ một, nhấn F2, máy báo ĐÃ LƯU, bà gật đầu.
 
-Hùng đóng cuốn sổ bìa xanh, lấy bút viết lên trang bìa trong:
-"Phần 3 — từ con số 0 đến container châu Âu. 1986-1987."
-Ông ngồi lặng, trang sổ cuối cùng vẫn còn thơm mực.
-Lan rót chén trà, đặt xuống bàn không nói.
-Cả hai nhìn ra cửa sổ: cảng Đà Nẵng đã lên đèn.
+Một cái gật của người đã làm sổ sách ba mươi năm có giá trị hơn mọi chữ ký hợp đồng.
 
-============================================================
+Giá bán 2.500 đồng một bản, thanh toán ba đợt — có xí nghiệp trả bằng thép tấm, bằng giấy in, bằng cam.
 
-Teaser: 
+Hùng không từ chối: đào tạo thị trường trước, tiền sẽ theo sau.
 
+Sáu — mở rộng cửa hàng 108.
+
+Chín điểm bán đầu Phần 3, doanh thu ~104 triệu/tháng.
+
+Sáu tháng sau: 108 cửa hàng, 687 triệu/tháng, 184 nhân sự.
+
+Bắc Bộ 65 điểm, Trung Bộ 23 điểm, Nam Bộ 20 điểm.
+
+Loẹt xoẹt giấy tờ bóc biên lai thu tiền.
+
+Tám kho tổng dung tích 7.920m².
+
+Vốn đầu tư 1,39 tỷ — trong két 320 triệu, nợ ngân hàng 180 triệu (giảm từ 210), nợ bạn hàng 63 triệu.
+
+Công nợ phải thu 94 triệu.
+
+Hàng tồn 312 triệu tính theo giá vốn.
+
+Lan nhận miền Bắc mở Nam Định, Thái Bình, Hải Dương.
+
+Bé Rớ mở năm điểm quanh Sài Gòn — chợ Bà Chiểu, Xóm Chiếu, Nguyễn Trãi, Lăng Cha Cả, Tân Định.
+
+Sáu Nhẫn mở trạm trung chuyển Vinh.
+
+Chị Mỹ, góa chồng mười năm, mở hai cửa hàng ở Huế — Đông Ba và An Cựu — tháng thứ ba mở thêm tủ hàng ở bến xe.
+
+Dương, người Hoa ở Sài Gòn, cho thuê bảy mặt bằng — Nguyễn Thái Học, Phan Văn Khỏe, Hải Thượng Lãn Ông, Trần Hưng Đạo, Châu Văn Liêm, An Dương Vương — một lần mở bảy điểm.
+
+Hà Thị Thanh, người Thái ở Sơn La, nhận quản lý cửa hàng vùng cao.
+
+Mỗi cửa hàng ba mươi mặt hàng cốt lõi, năm mươi mặt hàng phụ, tồn kho tối thiểu hai mươi đơn vị mỗi mặt hàng — nếu hết hàng phải báo trong hai tiếng.
+
+Tổn thất vận chuyển trung bình 3,2% giá trị lô hàng — sau khi gia cố thùng xe, bọc cao su chống ẩm, thêm khóa an toàn, giảm còn 1,1%.
+
+Một bài học: đầu tư vào xe tốt hơn đầu tư vào quảng cáo.
+
+Bảy — chuỗi nhà hàng 42.
+
+Ba cơ sở — phố cổ, khu chợ, gần bến xe — tổng cộng ba mươi hai nhân viên.
+
+Thằng Cường mười chín tuổi từ phụ bếp lên bếp phó.
+
+Chị Hương, bị tinh giản biên chế từ xí nghiệp dệt, phát hiện chỗ hao hụt nước và đề xuất lắp vòi riêng — tiết kiệm mấy chục đồng mỗi tháng nhưng quan trọng hơn: chị nghĩ cho việc như việc của mình.
+
+Sau này chị trở thành quản lý bếp toàn chuỗi, mỗi nhà hàng mới mở là người đầu tiên được cử sang để dạy lại công thức — chuẩn hóa hương vị giữa các cơ sở.
+
+Hậu mười chín tuổi, từ lái xe hợp tác xã nông nghiệp, phát hiện nguồn cung nấm rơm từ nhà trồng ngoại thành — giá bằng một phần ba chợ — sau này trở thành Giám đốc chuỗi cung ứng.
+
+Ông Hạnh sáu mươi tư tuổi, kế toán hợp tác xã nghỉ hưu, xây hệ thống sổ sách cho ba nhà hàng bằng bút và giấy với nguyên tắc: mỗi đồng phải có địa chỉ.
+
+Rạ khô vừa gặt còn thơm nắng.
+
+Cơ sở bến xe thua lỗ hai tháng đầu — Hùng đứng quầy một tuần liền, rút ra bài học: khách bến xe không mua bát phở, họ mua thứ gói được mang lên xe.
+
+Chuyển thực đơn sang phần mang đi — lá chuối, giấy báo — tháng thứ ba hòa vốn, tháng thứ tư có lãi.
+
+Tám — xuất khẩu châu Âu.
+
+Container đầu tiên rời cảng Hải Phòng tháng Ba 1987 — hàng thủ công mỹ nghệ mây tre đan, sơn mài, gốm — trị giá 47.500 USD, đối tác CEL Handel (Ba Lan), qua sáu tháng đàm phán telex, mười bảy bức điện, bức dài nhất 47 phút gần hai trăm nghìn đồng.
+
+Lợi nhuận gộp 15,5% — không cao nhưng quan trọng hơn: đường đi đã được xác lập.
+
+Telex hồi báo chín dòng — Container VN-HP-001 onboard MV KOLOBRZEG ETD HAI PHONG 15-MAR-1987 ETA GDANSK 28-APR-1987.
+
+Thời gian thực tế Hải Phòng—Gdansk trung bình 42 ngày, mùa bão có thể 50.
+
+Vận đơn đường biển — Hùng suýt mất hàng vì tàu cập cảng trước khi vận đơn đến nơi, năm ngày phí lưu container 1.200 USD.
+
+Bài học: split B/L, chia vận đơn làm hai bộ gửi hai đường.
+
+L/C — thư tín dụng — bảy trang tiếng Anh và tiếng Ba Lan, Hùng phát hiện điều khoản inspection certificate do buyer's representative có thể block shipment, yêu cầu sửa thêm một câu, phí 150 USD — rẻ hơn nhiều so với hàng nằm cảng.
+
+Mười một loại chứng từ cho mỗi lô hàng.
+
+C/O phải chứng minh nguyên liệu trong nước tối thiểu 40% giá thành — Hùng mở cuốn sổ riêng ghi từng lô nguyên liệu.
+
+Bảo hiểm hàng hải — bảy điều khoản loại trừ được gạch chân, máy ảnh Zenit Liên Xô chụp từng công đoạn đóng gói làm bằng chứng.
+
+Đơn hàng thứ hai: ba container trị giá 142.500 USD — gấp ba lần đầu.
+
+Hùng viết vào sổ: tìm nguồn mây dự phòng từ Lào, nhưng nếu nhập mây Lào tỷ lệ nội địa hóa giảm, rủi ro C/O tăng.
+
+Tám mũi chính — nhưng Phần 3 không chỉ là những con số.
+
+Phần 3 là khi Trần Thị Lan, từ chỗ ghi việc thành văn, nay ghi thành checklist — gạch đầu dòng, biết hỏi thiếu gì trước khi hỏi sai đâu.
+
+Cô phụ trách cụm Hải Dương, sáu cơ sở dệt may phụ trợ, mỗi cơ sở bốn mươi đến sáu mươi máy may Trung Quốc nhập qua Lạng Sơn.
+
+Một lần vải từ Nam Định lên chậm ba ngày, Lan phải đổi ca để máy không chết.
+
+Hùng hỏi sao không chửi đối tác, Lan cười: chửi xong có vải không?
+
+Điều chỉnh, không điều khiển — đó là bài học cô học được từ chính mình trong Phần 3.
+
+Bà Nguyễn Thị Hà phụ trách cụm Hưng Yên — sáu nhà máy bao bì cung ứng thùng giấy, nilon, nhãn mác cho toàn bộ hệ thống.
+
+Một lần công nhân đóng gói dùng keo kém chất lượng để tiết kiệm hai đồng một thùng, lô hàng xuất khẩu bị trả về vì bao bì rách.
+
+Bà Hà tự nhận trách nhiệm.
+
+Hùng viết quy định thành văn — mười dòng quy trình đóng gói, ký, đóng dấu, dán trong xưởng.
+
+Cái đập tay xuống bàn ngày nào giờ thành điều lệ.
+
+Tanaka, đối tác Nhật, đi hết năm cụm nhà máy trong bốn ngày, ngủ tại nhà khách xã, ăn cơm với công nhân.
+
+Tõm tõm gầu nước xuống giếng sâu.
+
+Cuối chuyến ông tặng Hùng một quyển sổ mẫu có kẻ sẵn các cột — mã lô, kích thước, dung sai, ngày kiểm, người kiểm.
+
+Hùng dịch ra tiếng Việt, in ronéo, giao cho ba mươi tổ trưởng.
+
+Cuốn sổ đó sau là hạt nhân của hệ thống quản lý chất lượng toàn công ty.
+
+Về con người, Phần 3 có những thay đổi không ghi vào bảng EXP.
+
+Hùng gặp cô Hạnh ở Sài Gòn tháng Ba 1986 — chị thợ may gốc Bến Tre, tự học may nuôi mẹ già, không tin vào lời hứa nhanh.
+
+Buổi gặp đầu tiên kéo dài hơn dự tính, từ một tiếng thành ba.
+
+Bữa cơm trưa chia đôi, phần chị vun thấp hơn phần ông.
+
+Một cuộn chỉ trong hộp gỗ làm quà — vì Hùng thấy cuộn chỉ gần hết.
+
+Cồn cào ruột khi chưa kịp ăn sáng.
+
+Thợ may hết chỉ là hết nghề.
+
+Tháng sau họ cùng đi Bến Tre.
+
+Rồi Hùng chọn chị — không chọn cô Mai bác sĩ ở Đà Nẵng, không chọn cô Lan giáo viên dạy văn.
+
+Chọn người có thể đứng cạnh khi ông mệt.
+
+Và bà Hà — mẹ Hùng — bế cháu nội Gia Huy trong nôi gỗ mít, đứa trẻ chín tháng tên Trần Gia Huy, mắt đen láy như hòn bi ve.
+
+Bà nhìn thằng bé và thấy cả quá khứ lẫn tương lai trong cùng một khuôn mặt.
+
+Ngày bà còn phải chạy gạo từng bữa.
+
+Bây giờ cháo thịt băm mỗi sáng.
+
+Căn nhà tường ẩm, mái rêu phong ngày nào giờ có đủ sữa hộp, thuốc bổ thần kinh, và một đứa trẻ ngủ ngon trong nôi.
+
+Ba mươi nhà máy — năm cụm, sáu điểm mỗi cụm.
+
+Bắc Ninh (cơ khí), Hải Dương (dệt may), Hưng Yên (bao
+
+Nhịp giữa ngày không đứt.
+
+Việc trước đã chốt; việc sau chờ chữ ký đúng người.
+
+lật từng trang, mắt nhìn những dòng chữ đã phai mờ.
+
+Lan đến ngồi bên cạnh, nhìn vào cuốn sách.
+
+“Sách gì thế anh?” “Sách cũ.
+
+Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách.
+
+Hai người đọc cùng nhau.
+
+Hai người ăn cơm tối.
+
+Mùi cơm mới thơm, mùi canh cá nóng hổi.
+
+Hùng gắp thịt cho Lan.
+
+“Em ăn đi.” Lan gắp lại.
+
+“Anh ăn đi.” Họ cười, mắt nhìn nhau.
+
+Hùng cảm thấy bình yên.
+
+Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
+
+Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ.
+
+Nắng vàng nhạt rải trên hàng cây trước nhà.
+
+Lan đã dậy, đang pha trà.
+
+Mùi trà xanh thơm bốc lên, ấm áp.
+
+Hùng bước ra, tay ôm nhẹ Lan.
+
+“Cảm ơn em.” Lan quay lại cười.
+
+“Không có gì.” Mắt họ chạm nhau, ấm áp.
+
+Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ.
+
+Mùi giấy cũ, mùi mực thời gian.
+
+Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ.
+
+Lan đến ngồi bên cạnh, nhìn vào cuốn sách.
+
+“Sách gì thế anh?” “Sách cũ.
+
+Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách.
+
+Hai người đọc cùng nhau.
+
+Một người khách đến, mắt đỏ hoe.
+
+Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu.
+
+“Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt.
+
+Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước.
+
+“Không sao.
+
+Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm.
+
+Người khách cầm ly nước, tay hết run.
+
+Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố.
+
+Gót chân người qua lại, tiếng xe cộ xa xa.
+
+Lan đi ra, tay cầm ly nước.
+
+“Anh uống đi.” Hùng nhận ly, tay chạm tay Lan.
+
+Mùi nước mát.
+
+“Cảm ơn em.” Ông uống một ngụm, mát lạnh.
+
+Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+
+Hai người ăn cơm tối.
+
+Mùi cơm mới thơm, mùi canh cá nóng hổi.
+
+Hùng gắp thịt cho Lan.
+
+“Em ăn đi.” Lan gắp lại.
+
+“Anh ăn đi.” Họ cười, mắt nhìn nhau.
+
+Hùng cảm thấy bình yên.
+
+Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
+
+Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà.
+
+Bên cạnh, Lan đã ngủ say, hơi thở đều đặn.
+
+Hùng quay sang, nhìn vợ trong bóng tối.
+
+Ông khẽ vươn tay, vuốt tóc cô.
+
+Cô khẽ cựa, nhưng vẫn ngủ.
+
+Hùng mỉm cười, xoay người, nhắm mắt.
+
+Lần này, ông ngủ thiếp đi.
+
+Sáng chủ nhật, Hùng gấp chăn màn, Lan lau bàn ghế.
+
+Radio phát nhạc Trịnh Công Sơn.
+
+"Anh thích bài này lắm." Lan quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.105」
 Năm: 1987
@@ -143,4 +414,5 @@ Tổng EXP: 17,125 (+125)
 Không gian kho: 5,667m² (+34m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
 Ghi chú:  system_ledger
+============================================================
 ============================================================

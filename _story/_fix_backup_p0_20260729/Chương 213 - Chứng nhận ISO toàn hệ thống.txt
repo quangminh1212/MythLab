@@ -1,0 +1,187 @@
+============================================================
+Chương 213: Chứng nhận ISO toàn hệ thống
+============================================================
+
+Tháng Bảy năm 1998, Hùng thuê một công ty tư vấn ISO từ Singapore — BST Quality Solutions — để chuẩn bị cho đợt đánh giá chính thức vào tháng Mười. Chi phí: mười tám nghìn đô la Singapore cho hai tuần làm việc, bao gồm vé máy bay, khách sạn, và phí tư vấn. Ba chuyên gia Singapore đến Việt Nam làm việc trong hai tuần, trực tiếp đến từng nhà máy, kiểm tra đối chiếu giữa quy trình trên giấy và thực tế.
+
+Người dẫn đầu là ông Lý Chính Huy, năm mươi lăm tuổi, từng làm quản lý chất lượng cho nhà máy thực phẩm ở Johor Bahru hai mươi năm. Lý nói tiếng Anh trôi chảy, thỉnh thoảng xen tiếng Quảng Đông, tiếng Mân Nam khi nói chuyện điện thoại với gia đình. Ông ta mặc áo sơ mi trắng, quần tây đen, luôn mang theo một chiếc clipboard và bút đỏ. Clipboard của ông ta có một tờ giấy trắng — mỗi khi phát hiện lỗi, ông ta ghi bằng bút đỏ, đánh số, và cuối ngày tổng kết.
+
+Ngày đầu tiên, Lý làm việc cùng Hùng và Thủy. Họ đi qua nhà máy thực phẩm Hải Phòng. Lý không hỏi nhiều. Ông ta quan sát và ghi chép — bút đỏ lia trên giấy. Sau hai giờ, ông ta nói:
+
+"Quy trình trên giấy của các anh tốt — tôi đọc tài liệu trên máy bay. Nhưng thực tế ba chỗ chưa khớp. Một: nhiệt kế kho lạnh không được hiệu chuẩn — tôi thấy cái treo tường không có phiếu kiểm định, chỉ là loại nhiệt kế thủy ngân rẻ tiền mua ngoài chợ. Hai: công nhân khu vực đóng gói không rửa tay trước khi vào ca — tôi vừa thấy một người phụ nữ đi vệ sinh ra, không rửa, cầm găng tay đeo luôn. Ba: sổ kiểm soát dịch hại không có bất kỳ ghi chép nào trong tháng Sáu. Sổ trắng tinh."
+
+Hùng gật. Thủy ghi chép. Mỗi điểm đều được Thủy ghi lại bằng bút bi xanh, đánh dấu mức độ ưu tiên bằng dấu sao.
+
+"Tháng Mười có đánh giá TÜV," Lý nói. "Các anh muốn đỗ, cần sửa ba chỗ đó trong tuần này. Nếu không, tôi không đảm bảo. TÜV không phải tổ chức từ thiện."
+
+"Tuần này là được," Hùng nói. "Thứ Hai tuần sau, ông kiểm tra lại."
+
+Lý nhìn Hùng, không nói gì, nhưng gật. Trong hai mươi năm tư vấn, ông ta chưa thấy khách hàng Việt Nam nào hứa sửa trong một tuần.
+
+---
+
+Ba ngày tiếp theo là cuộc chạy đua với thời gian. Hùng cho kỹ thuật kiểm tra toàn bộ nhiệt kế, ẩm kế, đồng hồ đo tại hai nhà máy — tổng cộng bảy mươi ba thiết bị — và gửi đi hiệu chuẩn lại tại Trung tâm Đo lường Hà Nội. Công ty hiệu chuẩn duy nhất ở Hà Nội báo giá hai nghìn đồng một thiết bị — tổng chi phí một trăm bốn mươi sáu nghìn đồng. Hùng trả tiền mặt, yêu cầu gấp. Thường thì hiệu chuẩn mất năm ngày — Hùng trả thêm phí khẩn, lấy trong hai ngày.
+
+Nhưng chuyện rửa tay khó hơn. Quản đốc phân xưởng — bà Minh, năm mươi tuổi, làm trong nhà máy từ ngày đầu — nói: "Công nhân quen rồi. Bảo họ rửa tay mười lăm giây trước khi vào ca, họ bảo mất thời gian. Năm nay nóng lắm, nước lạnh cũng không có. Tay họ sạch mà."
+
+Hùng không thuyết giảng. Ông mua ba máy nước nóng lạnh — loại máy đun điện nhỏ, hai trăm nghìn một cái — lắp ở cửa ra vào khu vực sản xuất. Treo biển hướng dẫn rửa tay bốn bước bằng tiếng Việt và hình ảnh — không dùng tiếng Anh, vì nhiều công nhân không biết chữ. Biển được ép plástic, đóng vít vào tường, không thể gỡ xuống. Và ông yêu cầu quản đốc đứng ở cửa trong một tuần — không cho ai vào khu vực sản xuất nếu chưa rửa tay, dù là kỹ sư, dù là khách, dù là chủ tịch tập đoàn.
+
+Ngày thứ ba, bà Minh báo: "Họ rửa, nhưng chưa quen. Có mấy đứa trẻ rửa qua loa — hai giây là xong, không đủ mười lăm giây như yêu cầu."
+
+"Quen sau một tuần. Cứ làm. Ai không rửa đủ mười lăm giây — nhắc lần một. Lần hai — cảnh cáo. Lần ba — mời ra khỏi khu vực sản xuất."
+
+Bà Minh nhìn Hùng — đã làm việc với ông năm năm, chưa thấy ông nghiêm khắc đến vậy. Bà gật.
+
+---
+
+Vấn đề thứ ba — sổ kiểm soát dịch hại — hóa ra là lỗi của một nhân viên cũ đã nghỉ việc. Nhân viên mới — một thanh niên tên Phong, mới tốt nghiệp trung cấp — chưa được hướng dẫn nên không ghi. Hùng không đổ lỗi. Ông chỉ bảo Thủy soạn một tờ hướng dẫn một trang: "Cách ghi sổ kiểm soát dịch hại — dành cho người mới." Tờ hướng dẫn được ép plástic, treo cạnh sổ, kèm theo một cây bút bi buộc dây.
+
+Lý thấy vậy, nhận xét: "Tôi chưa thấy ai treo hướng dẫn ép plástic ở Việt Nam. Người của ông phân tích nguyên nhân hơn là tìm người chịu lỗi. Đó là dấu hiệu tốt cho ISO — vì ISO không phải là tìm người sai, mà là tìm lỗi trong hệ thống."
+
+---
+
+Tuần thứ hai, Lý kiểm tra nhà máy may. Ông ta phát hiện vấn đề sắp xếp kho — nguyên liệu đầu vào (vải, chỉ, cúc) và thành phẩm (quần áo đóng gói) để gần nhau, chỉ cách một lối đi hẹp. Không có vạch phân cách, không có biển báo, công nhân có thể lấy nhầm.
+
+Lý yêu cầu: "Phải phân khu rõ bằng màu sắc: nguyên liệu — màu xanh. Bán thành phẩm — màu vàng. Thành phẩm — màu đỏ. Hàng lỗi — màu đen. Không thể chỉ dùng biển giấy — biển giấy sẽ rách, sẽ bị che, sẽ không ai nhìn. Dùng sơn sàn."
+
+"Chi phí sơn sàn khoảng bao nhiêu?" Hùng hỏi Thủy.
+
+"Cỡ mười lăm triệu đồng — sơn epoxy chịu lực, hai màu xanh và đỏ. Hai ngày sơn, phải ngưng sản xuất một ngày để sơn khô và thông thoáng."
+
+"Làm. Ngày thứ Bảy tuần này."
+
+Hùng ngưng sản xuất ngày thứ Bảy — lỗ doanh thu khoảng hai mươi triệu, nhưng Hùng coi đó là đầu tư cho ISO. Thứ Hai, kho có sàn ba màu: xanh, vàng, đỏ. Công nhân bước vào — không cần hỏi ai, nhìn sàn biết ngay chỗ nào để gì. Lần đầu tiên trong lịch sử nhà máy, không ai đặt nhầm hàng.
+
+Lý nói: "Một tuần — các anh sửa được những gì các anh sửa. Tôi không còn nhiều góp ý. Tôi chỉ còn hai điều kiện cho lần đánh giá chính thức."
+
+"Điều kiện gì?"
+
+"Một: mỗi tháng một cuộc đánh giá nội bộ — người của ông tự đánh giá chéo lẫn nhau. Hai: thành lập ban ISO chính thức — không kiêm nhiệm. Một người phụ trách toàn thời gian, được đào tạo bài bản làm Lead Auditor."
+
+"Đã tìm được người. Kỹ sư Thủy — cô ấy sẽ làm trưởng ban ISO. Tuần sau cô ấy vào học khóa ISO Lead Auditor ở thành phố Hồ Chí Minh — khóa chín ngày, của tổ chức chứng nhận SGS."
+
+Lý cười — lần đầu tiên trong hai tuần. "Ông đi trước tôi một bước."
+
+---
+
+Ban ISO của Thương Gia gồm năm người. Thủy làm trưởng ban — cô được Hùng cho toàn quyền kiểm tra các nhà máy mà không cần báo trước. Hai kỹ thuật viên ở nhà máy Hải Phòng — một người phụ trách quy trình sản xuất, một người phụ trách thiết bị đo lường. Một nhân viên kiểm soát chất lượng ở nhà máy may — chị Hương, quản đốc đã làm lâu năm, biết từng đường kim mũi chỉ. Và một người ở văn phòng Hà Nội phụ trách tài liệu — một sinh viên mới tốt nghiệp, viết tiếng Anh tốt, đánh máy nhanh.
+
+Hùng không đứng tên trong ban — ông muốn hệ thống tự vận hành, không phụ thuộc vào người chủ. Nếu ISO chỉ tồn tại vì chủ tịch đứng tên, nó sẽ sụp đổ khi chủ tịch vắng mặt.
+
+Thủy lo lắng: "Em mới ra trường hai năm, anh Hùng. Em sợ không đủ tầm để đứng ban ISO. Mấy quản đốc họ lớn tuổi, họ không nghe em."
+
+"Không ai đủ tầm từ ngày đầu. Em học từ sai lầm. Còn chuyện quản đốc không nghe — nếu họ không nghe, em báo tôi. Tôi xử lý."
+
+Thủy nhận việc. Tối hôm đó, cô ngồi lại văn phòng đến mười giờ, soạn kế hoạch đánh giá nội bộ tháng đầu tiên. Sáng hôm sau, cô đưa Hùng ký.
+
+---
+
+Giữa tháng Tám, Hùng nhận email từ Klaus Weber — vị chuyên gia Đức gửi thư từ nhà riêng ở Berlin: chuyên gia khảo thí sơ bộ của TÜV sẽ vào tháng Chín. Họ muốn kiểm tra hồ sơ tài liệu trong hai ngày, không kiểm nhà máy — nhưng nếu hồ sơ không đạt, họ sẽ không đặt lịch đánh giá chính thức. Việc kiểm tra hồ sơ là bước lọc đầu tiên — nếu tài liệu không chuẩn, nhà máy cũng vô ích.
+
+Hùng dồn toàn lực cho việc chuẩn bị hồ sơ. Thủy và hai sinh viên ngồi sắp xếp lại toàn bộ tài liệu — chính sách chất lượng, mục tiêu chất lượng, sổ tay chất lượng, quy trình, hướng dẫn công việc, biểu mẫu. Tài liệu đầy hai tủ ba ngăn — tủ sắt màu xám — phân loại theo mã số từ QP-001 đến QP-037.
+
+Klaus gọi: "Mr. Hùng, tôi nói trước: đánh giá hồ sơ TÜV rất khó. Họ đã đọc hồ sơ của một trăm công ty châu Á. Họ biết lỗi ở đâu. Họ sẽ tìm ra lỗi của ông. Ông đừng nản."
+
+"Tôi không nản. Tôi chỉ sợ mình không biết lỗi. Nếu họ chỉ lỗi, tôi sửa."
+
+---
+
+Ngày 15 tháng Chín, hai chuyên gia TÜV đến Hà Nội. Một người tên Schmidt — người Đức gốc Hamburg, cao 1m90, tóc vàng muối tiêu, mắt xanh, mặc comple xám, đi giày đen bóng. Một người Việt Nam tên Quốc, ba mươi lăm tuổi, từng làm việc cho TÜV Singapore ba năm, mới về nước đầu năm. Quốc nói tiếng Việt và tiếng Anh như nhau.
+
+Họ làm việc trong phòng họp của công ty từ tám giờ sáng đến năm giờ chiều, chỉ nghỉ ăn trưa bốn mươi lăm phút tại một quán phở gần văn phòng. Schmidt hỏi từng quy trình — so sánh tài liệu với thực tế dựa trên ảnh chụp và ghi chép mà Thủy cung cấp. Quốc lật từng biểu mẫu, kiểm tra từng chữ ký, từng ngày tháng. Cuối ngày, Schmidt nói:
+
+"Tôi tìm thấy mười hai điểm không phù hợp. Bốn điểm lớn — phải sửa trước đánh giá chính thức. Tám điểm nhỏ — có thể sửa sau. Dưới đây là danh sách."
+
+Hùng nhận tờ giấy A4 — viết tay bằng tiếng Anh, chữ in hoa, rõ ràng:
+
+1. NỒI HẤP KHÔNG CÓ LỊCH KIỂM ĐỊNH ÁP SUẤT THEO QUY ĐỊNH.
+2. HỒ SƠ ĐÀO TẠO NHÂN VIÊN KHÔNG ĐẦY ĐỦ — THIẾU KẾ HOẠCH ĐÀO TẠO NĂM.
+3. THIẾU QUY TRÌNH KIỂM SOÁT HÀNG TRẢ LẠI.
+4. SỔ TAY CHẤT LƯỢNG THIẾU PHẦN TRÁCH NHIỆM VÀ CAM KẾT CỦA LÃNH ĐẠO.
+
+Hùng nói: "Tuần sau sẽ xong."
+
+Schmidt nhìn Hùng — có chút ngạc nhiên, có chút hoài nghi. "Tuần sau? Bốn điểm này — nồi hấp phải kiểm định, hồ sơ đào tạo phải xây dựng lại từ đầu, quy trình hàng trả lại phải viết mới, sổ tay phải bổ sung. Với các công ty khác, thường mất một tháng."
+
+Hùng cười. "Tôi không thuộc loại công ty khác. Ông quay lại kiểm tra vào thứ Hai tuần sau."
+
+Schmidt nhìn Hùng một lúc, rồi gật. "Tôi sẽ quay lại."
+
+---
+
+Tuần đó, Hùng cùng Thủy giải quyết từng điểm.
+
+Điểm một — nồi hấp. Hùng gọi ngay đơn vị kiểm định — Trung tâm Kiểm định Kỹ thuật An toàn Hà Nội — đến nhà máy. Họ kiểm tra trong một ngày, cấp giấy chứng nhận. Chi phí: năm triệu đồng. Hùng trả tiền mặt, lấy hóa đơn đỏ.
+
+Điểm hai — hồ sơ đào tạo. Thủy xây dựng lại toàn bộ — từ danh sách nhân viên (hai trăm mười ba người), chứng chỉ đào tạo (nếu có), kế hoạch đào tạo cho sáu tháng tiếp theo. Cô viết kế hoạch trong hai đêm, thức đến ba giờ sáng, uống ba cốc cà phê đen. Sáng hôm sau, cô đưa Hùng ký — kế hoạch dày hai mươi trang, từ đào tạo vệ sinh an toàn thực phẩm đến đào tạo quy trình ISO.
+
+Điểm ba — quy trình kiểm soát hàng trả lại. Hùng dừng lại. Thương Gia rất ít hàng trả lại — tỷ lệ dưới 0,5% — nên chưa từng có quy trình. Nhưng ISO yêu cầu phải có — kể cả khi tỷ lệ bằng không.
+
+"Viết quy trình cho trường hợp hiếm," Hùng nói với Thủy. "Một trang. Ba bước: nhận hàng trả — phân loại lỗi sản xuất, lỗi vận chuyển, hay lỗi khách hàng — quyết định xử lý. Đừng làm phức tạp. ISO không yêu cầu dài — yêu cầu đủ."
+
+Điểm bốn — trách nhiệm lãnh đạo. Thủy bối rối: "Phần này nói gì ạ? Em đọc mẫu của họ — dài lắm, kiểu 'lãnh đạo cam kết xây dựng hệ thống chất lượng, cung cấp nguồn lực, tham gia đánh giá định kỳ...'"
+
+"Viết: lãnh đạo Thương Gia cam kết xây dựng hệ thống chất lượng theo tiêu chuẩn ISO 9001 và HACCP, cung cấp đầy đủ nguồn lực về tài chính, nhân sự, thiết bị. Một đoạn. Rồi đưa tôi ký."
+
+---
+
+Hai tuần sau, thư điện tử từ Schmidt: *"Conditions satisfaites. Đánh giá chính thức được lên lịch vào ngày 20 tháng Mười."*
+
+Hùng gập thư. Ông ngồi xuống ghế văn phòng, nhìn trần nhà — trần nhà thấp, sơn trắng đã ố vàng, quạt trần chạy chậm. Năm phút, ông không nghĩ gì. Chỉ lặng lẽ hít thở.
+
+---
+
+Sáng 20 tháng Mười, bảy giờ ba mươi. Trời Hải Phòng đầy mây, gió từ biển thổi vào mát rượi. Hùng có mặt tại nhà máy thực phẩm từ sáu giờ sáng — kiểm tra bảng kiểm soát nhiệt độ, tủ giày công nhân, sổ kiểm soát dịch hại. Toàn bộ nhà máy sáng bóng — sàn gạch men trắng được lau bằng nước Javel, khu vực sản xuất được phân khu bằng vạch sơn vàng, công nhân mặc đồ bảo hộ trắng tinh, găng tay xanh, mũ trùm kín tóc.
+
+Hai chuyên gia TÜV đến lúc chín giờ bằng một chiếc taxi Hải Phòng — Schmidt và một phụ nữ người Pháp tên Anne Moreau, chuyên gia HACCP. Anne bốn mươi lăm tuổi, tóc ngắn, kính gọng đen, không trang điểm, đi giày bảo hộ. Họ đi một vòng nhà máy trong hai giờ — kiểm tra từng khu vực. Anne dừng lại ở khu vực chiết rót nước mắm, yêu cầu xem quy trình CIP — làm sạch bồn chứa tại chỗ. Hùng đưa tài liệu. Anne xem, gật.
+
+Họ kiểm tra sổ ghi chép ca — từng cuốn sổ, từng ngày. Quản đốc Hưng mở tủ, lấy ra chồng sổ dày — mỗi cuốn có bìa ghi ngày tháng rõ ràng. Schmidt lật ngẫu nhiên ba cuốn: mỗi cuốn đều có chữ ký quản đốc, ghi chép đầy đủ — cả mục "bất thường" đều có nội dung.
+
+Anne nói: "Các anh có ghi cả ngày mưa dột — và giải pháp khắc phục. Thường thì các công ty khác giấu chuyện đó — sợ mất điểm. Nhưng TÜV lại muốn thấy sự thật."
+
+Hùng trả lời: "Ghi để biết đường sửa. Giấu không làm sạch nước mắm."
+
+Schmidt cười — một tiếng cười khẽ. Anne không cười, nhưng mắt có ánh nhìn tôn trọng.
+
+---
+
+Đầu giờ chiều, buổi tổng kết. Schmidt và Anne họp riêng ba mươi phút trong phòng họp nhỏ, đóng cửa. Hùng và Thủy ngồi ngoài hành lang, không nói gì. Thủy cầm cốc nước, uống từng ngụm nhỏ. Hùng nhìn ra cửa sổ — nắng đã lên cao, biển xanh thẫm ngoài xa.
+
+Cửa phòng họp mở. Schmidt bước ra.
+
+"Kết quả đánh giá chính thức," ông ta nói, giọng đều đều — giọng một người đã đọc kết quả này hàng trăm lần. "Hai mươi điểm kiểm tra. Không phát hiện điểm không phù hợp nghiêm trọng. Ba điểm cần cải tiến — minor — sẽ được theo dõi qua báo cáo hàng quý."
+
+Ông ta đứng lên, bắt tay Hùng. Lòng bàn tay khô, chắc.
+
+"Chúc mừng. Nhà máy thực phẩm Thương Gia đạt chứng nhận ISO 9001 và HACCP."
+
+Anne cũng bắt tay: "Tôi đã đánh giá HACCP cho hai mươi bảy nhà máy ở châu Á. Chưa có nhà máy nào đạt cả hai chứng chỉ trong lần đánh giá đầu tiên."
+
+Hùng gật, bắt tay mỗi người. Không bài phát biểu. Không vỗ tay. Không gọi người quay phim. Nhưng khi hai chuyên gia ra cửa, quản đốc nhà máy và công nhân đứng ở dây chuyền đã vỗ tay — không ai bảo, tự nhiên. Có người reo nhẹ. Một người phụ nữ lau nước mắt.
+
+Hùng ra ngoài sân, đứng dưới cây bàng trụi lá đầu mùa, một mình. Trong tay ông là tờ giấy chứng nhận đóng khung tạm thời — nhẹ, nhưng nặng hơn một container hàng.
+
+Tối, Hùng về nhà ăn cơm với bà Hà. Bà hỏi: "Có kết quả như ý không?"
+
+"Có."
+
+Bà gắp thêm cho ông miếng cá kho — cá trắm, kho với riềng và mẻ — không hỏi thêm. Bà biết mỗi câu trả lời ngắn của con trai là mỗi chuyện đã xong. Ăn xong, ông lên gác, ngồi viết sổ tay: *"20/10/1998. ISO 9001 và HACCP. Nhà máy Hải Phòng. Là công ty đầu tiên trong lĩnh vực của mình ở Việt Nam đạt hai chứng chỉ. Tháng sau đánh giá nhà máy may. Tháng Mười một — ISO cho văn phòng."*
+
+============================================================
+
+
+Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơn gió lùa qua khe cửa, làm ngọn đèn dầu trên bàn lay nhẹ rồi đứng yên trở lại. Hùng nhìn tay mình — những đường chỉ tay đã sâu hơn theo năm tháng — rồi cụp mắt lại. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu. Bà Hà đã ngủ từ lâu, tiếng thở đều đặn vọng ra từ phòng trong, nhẹ như gió qua mành. Hùng đứng dậy, vươn vai, xương sống kêu nhẹ một tiếng — tuổi tác đã bắt đầu lên tiếng. Cuốn sổ tay được đặt lại đúng chỗ cũ trên giá, cạnh những cuốn sổ của những năm trước. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen.
+
+
+Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loay hoay ngoài bếp với nồi cháo. Tiếng nước sôi lục bục, tiếng dao thớt đều đặn trên thớt gỗ, mùi gừng thơm từ gian bếp tỏa ra — những âm thanh và mùi vị quen thuộc của một buổi sáng ở căn nhà Quốc Oai. Hùng mở cuốn sổ, viết nhanh vài dòng về những việc cần làm trong ngày. Bà Hà mang ra bát cháo, đặt trước mặt ông, nhìn ông một lúc rồi quay vào. Bà không hỏi ông hôm nay làm gì. Như đã lâu, bà không hỏi, vì biết ông sẽ tự làm những việc cần làm, đúng giờ và đúng mức.
+
+
+Giữa buổi, một người khách đến — một người đàn ông trung niên, mặc áo sơ mi trắng đã ngả màu, tay cầm chiếc cặp da cũ. Ông ta tự giới thiệu là từ một huyện lân cận, nghe tiếng Hùng làm ăn có uy tín nên muốn hợp tác. Hùng mời ngồi, rót nước, không vội nói chuyện làm ăn. Ông hỏi thăm gia đình, hỏi thăm con cái, hỏi thăm tình hình sản xuất ở huyện. Phải mười lăm phút sau, khi thấy người khách đã thoải mái, Hùng mới bắt đầu vào việc. Ông hỏi chi tiết về mặt hàng, về nguồn vốn, về kinh nghiệm buôn bán của người kia. Mỗi câu hỏi đều khiến người khách suy nghĩ một lúc trước khi trả lời. Cuối cùng, Hùng gật đầu không hứa hẹn: "Để tôi suy nghĩ thêm vài hôm, rồi cho anh câu trả lời." Người khách ra về, Hùng viết vào sổ một câu: "Cơ hội mới. Cần kiểm chứng."
+
+「Hệ thống — GHI NHẬN ch.213」
+Năm: 1998
+Tổng EXP: 41,095 (+238 nhịp này)
+Không gian kho: 13,857m² (+143m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
+Ghi chú: NHÀ MÁY THỰC PHẨM ĐẠT ISO 9001 & HACCP — đánh giá TÜV lần đầu — không điểm không phù hợp nghiêm trọng — đầu tiên trong ngành.
+============================================================

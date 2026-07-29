@@ -1,0 +1,176 @@
+============================================================
+Chương 219: Xe điện nguyên mẫu
+
+Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương Gia mở rộng — một khu vực riêng biệt nằm sâu trong đất liền, cách cảng Hải Phòng bốn mươi cây số. Hùng chọn chỗ này vì đất rẻ, mặt bằng rộng, và quan trọng hơn — kín đáo. Không có tòa nhà cao tầng nào nhìn vào được, không có đường lớn chạy qua, và khu vực này không nằm trong quy hoạch du lịch hay khu đô thị. Những gì xảy ra trong đó, chỉ người trong đó biết.
+
+Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy tính工作站 Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.
+
+Dự án bắt đầu từ một câu hỏi của đứa con trai lớn — Trần Văn Minh — vào một buổi tối cuối năm 2006. Minh khi ấy hai mươi lăm tuổi, vừa tốt nghiệp thạc sĩ kỹ thuật điện tử ở Đại học Bách khoa Paris — trường mà Hùng đã lo liệu cho con vào từ năm 2001. Minh là kỹ sư trưởng mảng điện tử của Thương Gia, tóc dài, hay mặc áo phông và quần jean ngay cả khi họp với đối tác Nhật. Cậu thông minh, nhưng cái thông minh đó không đến từ trường lớp — nó đến từ những buổi chiều ngồi dưới gầm bàn xem ba sửa radio, từ những cuốn sách điện tử tiếng Anh Hùng mang về từ các chuyến công tác, từ những lần hai cha con tháo tung cái tivi để xem bên trong có gì.
+
+"Ba, tại sao mình không làm xe điện?"
+
+Hùng đang đọc báo cáo tài chính — báo cáo quý IV của nhà máy chip, dài ba mươi trang, con số chi chít. Ông không ngẩng lên. "Vì mình không biết làm xe."
+
+"Thế thì học."
+
+"Cả một ngành công nghiệp — học bằng cách nào?"
+
+"Mình có điện tử, có pin mặt trời, có cơ khí, có phần mềm. Ghép lại."
+
+Hùng ngẩng lên. Minh đang đứng ở cửa phòng làm việc — căn phòng nhỏ của Hùng trong nhà, một bàn gỗ, một tủ sắt, vài cuốn sổ. Tay Minh cầm một cuốn sách — *The Electric Vehicle: Technology and Economics* — bìa xanh, góc quăn, gáy đã mòn. Trên bàn, một mô hình xe bằng giấy carton, tự cắt, tự dán, có cả bánh xe làm từ nắp chai nhựa. Mô hình đơn giản, nhưng tỉ lệ chuẩn. Trên nóc có một tấm giấy nhỏ ghi chữ: *Thương Gia EV-01*.
+
+"Ngồi xuống," Hùng nói. "Giải thích."
+
+Minh kéo ghế, ngồi đối diện. Cậu không mở sách — cậu nói từ trí nhớ, vừa nói vừa dùng tay vẽ trên không: "Ngành xe điện toàn cầu đang ở giai đoạn khởi động. Tesla ra mắt Roadster năm 2006 — chỉ một nghìn chiếc, giá một trăm nghìn đô. Không phải thị trường của mình. Nhưng pin lithium-ion đang giảm giá 10% mỗi năm. Motor điện thì càng ngày càng rẻ vì Trung Quốc sản xuất hàng loạt. Trong năm năm nữa, chi phí pin sẽ xuống dưới 300 đô một kWh. Khi đó, xe điện có thể cạnh tranh với xe xăng ở phân khúc phổ thông."
+
+"Thị trường Việt Nam?"
+
+"Không phải ngay. Nhưng Đông Nam Á — hai trăm triệu xe máy. Nếu mình thay thế một phần bằng xe điện — chưa cần ô tô, chỉ cần xe ba bánh chở hàng, xe chở khách nhỏ — thị trường đã vài trăm nghìn chiếc."
+
+Hùng không nói gì. Ông nhìn mô hình xe bằng giấy. Nhìn con trai. Rồi nhìn ra cửa sổ, nơi Hà Nội đang chìm trong mưa phùn tháng Mười hai, màn mưa mỏng trắng xóa, những mái ngói đen ướt đẫm.
+
+"Ba suy nghĩ thêm," Hùng nói.
+
+Minh không thất vọng. Cậu biết ba mình không bao giờ trả lời ngay. "Tối mai em mang bản vẽ sơ bộ," cậu nói, và đi ra, cuốn sách vẫn trên tay.
+
+Đó là buổi tối đầu tiên của dự án xe điện Thương Gia.
+
+---
+
+Xưởng 219 được khởi công tháng Ba năm 2007. Hùng không công bố rộng rãi — chỉ nội bộ tập đoàn biết, và chỉ ba người trong hội đồng quản trị được thông báo chi tiết. Lý do: nếu dự án thất bại, không ai nhớ; nếu thành công, họ sẽ tung ra đúng thời điểm. Một nguyên tắc Hùng đã học từ các tập đoàn Nhật — giữ bí mật cho đến khi sản phẩm sẵn sàng. Không họp báo, không giới thiệu sớm, không làm hình ảnh. Chỉ làm.
+
+Mười lăm kỹ sư — bảy người từ Đại học Bách khoa Hà Nội, bốn người từ Đại học Giao thông Vận tải, hai người từ Đức về nước (học bổng của DAAD, về nước làm vì được trả lương bằng mức ở Đức), hai người Singapore — dưới sự dẫn dắt của Minh. Họ làm việc sáu ngày một tuần, mười hai tiếng một ngày. Lương cao hơn mặt bằng thị trường năm mươi phần trăm, nhưng áp lực cũng gấp đôi. Minh đặt ra một nguyên tắc: không ai được làm việc quá mười bốn tiếng — cậu đã đọc nghiên cứu về năng suất lao động giảm sau giờ thứ mười, và không muốn đội ngũ kiệt sức trước khi kịp nhìn thấy thành quả.
+
+Tháng Tư, bản vẽ khung gầm đầu tiên hoàn thành. Minh và hai kỹ sư cơ khí ngồi với nhau bốn ngày liền, vẽ trên giấy trắng bằng bút chì — thói quen của trường Bách khoa Paris, nơi họ bắt sinh viên vẽ tay trước khi dùng CAD. Khung gầm là một khung thép ống, thiết kế theo kiểu space frame, mỗi ống thép được hàn lại với nhau để tạo thành một lồng cứng bảo vệ người lái. Trọng lượng mục tiêu: dưới một trăm năm mươi kilogram, chưa kể pin và motor.
+
+Tháng Năm, mô hình 3D trên SolidWorks hoàn chỉnh — hai nghìn chi tiết, từ vít nhỏ nhất đến trục motor. Một kỹ sư mất hai tuần để kiểm tra xem có chi tiết nào chồng lên nhau không.
+
+Tháng Bảy, đặt hàng motor điện từ một công ty Đức — Baumüller Nürnberg — loại motor đồng bộ nam châm vĩnh cửu 15kW, giá bảy nghìn euro một chiếc. Minh muốn mua bốn chiếc: một để chạy thử, một dự phòng, hai để test độ bền. Tổng chi phí motor: hai mươi tám nghìn euro. Hùng đọc hóa đơn, không nói gì, ký.
+
+Tháng Tám, motor về đến cảng Hải Phòng trong một container lạnh — bốn khối thép đen, mỗi khối nặng ba mươi lăm kilogram, nằm trong thùng gỗ đóng theo tiêu chuẩn xuất khẩu Đức. Cường — kỹ sư trưởng dự án năng lượng, được Minh mời sang hỗ trợ — mở thùng, kiểm tra bằng mắt thường: không vết xước, không dầu rò rỉ. Anh gật đầu với Minh. Motor chính hãng, đúng thông số.
+
+Tháng Chín, lắp ráp thử — motor, pin, controller, khung gầm. Controller — bộ điều khiển motor — là một hộp nhôm nhỏ bằng cuốn sách, do Minh và một kỹ sư phần mềm tên Vũ tự thiết kế và đặt gia công tại xưởng cơ khí nhỏ ở phố Huế, Hà Nội. Đây là linh kiện duy nhất trong xe do người Việt tự thiết kế — phần còn lại đều là linh kiện thương mại mua từ Đức, Nhật, Hàn Quốc. Controller đó có nhiệm vụ biến dòng điện một chiều từ pin thành dòng xoay chiều ba pha để chạy motor. Nếu nó hỏng, xe không chạy. Minh đã kiểm tra nó hai mươi lần trước khi đưa vào lắp ráp.
+
+Buổi chiều đầu tháng Mười một, Minh gọi Hùng: "Ba qua xưởng 219. Có thứ này."
+
+---
+
+Khi Hùng đến, trời đã tối. Con đường từ quốc lộ vào xưởng không có đèn, chỉ có hai dải phản quang trên cọc tiêu. Tài xế lái chậm, đèn pha rọi vào những bụi cây hai bên đường, thỉnh thoảng một con ếch nhảy ngang. Xe dừng trước cổng thép, Hùng xuống, dùng thẻ từ mở cửa.
+
+Đèn trong xưởng sáng trưng, mùi dầu mỡ và kim loại nóng hòa vào nhau, thoảng qua mùi keo epoxy từ khu vực đóng gói pin. Giữa xưởng là một khung xe — trần, chưa có vỏ — nằm trên giá đỡ. Bốn bánh, motor gắn trên trục sau qua một bộ giảm tốc bằng dây curoa, một dãy pin lithium-ion được bó thành khối dưới sàn, nằm giữa hai trục bánh xe để giữ trọng tâm thấp. Các dây dẫn màu đen và đỏ chạy dọc khung xe, buộc gọn bằng dây nhựa. Trên bảng điều khiển tạm — một miếng gỗ dán — là một công tắc, một núm ga bằng tay, và một đèn led xanh nhỏ.
+
+Minh mặc áo bảo hộ trắng, tay cầm bảng mạch điều khiển — controller do cậu và Vũ thiết kế. Hai kỹ sư khác đang cúi xuống dưới gầm xe, kiểm tra kết nối. Một người dùng đèn pin chiếu vào hộp nối motor, người kia siết lại một con ốc bằng cờ-lê lực, vặn đúng mười lăm Newton-mét.
+
+"Bật thử đi," Hùng nói.
+
+Minh ngồi vào ghế lái — một ghế nhựa tạm thời, mua từ chợ xe đạp điện, chưa có đệm. Cậu vặn chìa khóa — thực ra chỉ là một công tắc gạt. Một tiếng rền nhẹ vọng lên từ motor. Không ồn ào như động cơ đốt trong, không rung, không khói. Chỉ một âm thanh đều đều, the thé nhẹ ở tần số cao. Trong không gian kín của xưởng, âm thanh đó vọng lại, nghe như một chiếc máy may công nghiệp.
+
+Minh đạp ga — một bàn đạp bằng nhôm, tự chế bằng cách cưa từ một thanh nhôm góc L, có lò xo hồi vị. Khung xe chuyển động — từ từ, rồi nhích nhanh hơn. Bánh xe lăn trên sàn bê tông với tiếng rít nhẹ của cao su. Minh điều khiển xe chạy một vòng quanh xưởng, dài chừng ba mươi mét — rẽ trái, rẽ phải, tăng ga, giảm ga. Khi tăng ga đột ngột, motor rít lên, bánh sau hơi trượt trên nền bê tông vì moment xoắn quá lớn ở dải thấp. Minh giảm ga ngay lập tức, xe chậm lại, dừng.
+
+Tiếng motor tắt, im lặng trở lại. Chỉ còn tiếng quạt thông gió trên tường và tiếng tim Hùng đập trong lồng ngực.
+
+"Chạy rồi," Minh nói, giọng có chút khác đi. Cậu chưa bao giờ hay tin — nhưng có một thứ trong giọng của cậu lúc này mà Hùng chưa từng nghe thấy. Không phải tự hào. Một thứ gần với nhẹ nhõm hơn. Sáu tháng làm việc mười hai tiếng mỗi ngày, hai mươi chip controller hỏng, ba lần cháy driver motor, một lần suýt cháy pin — và bây giờ nó chạy.
+
+Hùng bước đến, đặt tay lên khung xe. Kim loại còn ấm — motor và controller đã tỏa nhiệt sau năm phút chạy. "Tốc độ tối đa?"
+
+"Trong xưởng — chỉ chạy được hai mươi cây số một giờ vì đường cong. Nhưng em tính toán — motor này có thể đạt bảy mươi cây số một giờ trên đường thẳng, với tỷ số truyền hiện tại."
+
+"Range?"
+
+"Với bộ pin lithium-ion Samsung 48V-100Ah hiện tại — khoảng sáu mươi cây số. Bằng một phần bảy xe xăng. Nhưng đây là pin mua ngoài, dung lượng thấp, trọng lượng nặng. Nếu mình tự thiết kế bộ pin với cell 18650 — như Tesla — có thể đạt hai trăm cây số với cùng trọng lượng."
+
+"Em nhớ ba nói: 'Điện tử Việt Nam không thể cạnh tranh với Trung Quốc, nhưng không vì thế mà không làm.'"
+
+"Người ta nói đúng lúc đó. Điện tử Việt Nam lúc đó chỉ lắp ráp loa đài cho Đài Loan. Bây giờ — TG-001 chạy được, pin mặt trời xuất sang Đức. Có thể rồi."
+
+"Xe điện cũng vậy, ba ạ. Bây giờ chưa ai tin. Nhưng mười năm nữa — thị trường sẽ thay đổi. Và em muốn mình là người ở đó khi nó thay đổi."
+
+Hùng uống một ngụm cà phê. Đắng, nóng, đậm. Ông nhìn con trai — hai mươi lăm tuổi, tóc dài, áo phông cũ dính dầu mỡ, mắt thâm quầng vì thiếu ngủ. Nhưng trong mắt nó có một thứ mà Hùng chưa từng thấy ở bất kỳ người làm thuê nào — niềm tin vào thứ nó đang làm.
+
+"Chi phí sản xuất một chiếc — em tính chưa?"
+
+"Xe nguyên mẫu — chi phí khoảng một trăm năm mươi triệu. Vật liệu, linh kiện nhập khẩu, motor Đức, pin Samsung, controller tự thiết kế. Nếu sản xuất hàng loạt — một nghìn chiếc — giá thành hạ xuống còn năm mươi triệu một chiếc. Motor mua số lượng lớn giảm ba mươi phần trăm. Pin mua từ Trung Quốc thay vì Hàn Quốc giảm thêm hai mươi phần trăm. Controller sản xuất hàng loạt giảm bảy mươi phần trăm."
+
+"Bằng xe xăng hạng phổ thông."
+
+"Bằng, nhưng chi phí vận hành thấp hơn bảy mươi phần trăm. Mỗi kilômét chạy điện chỉ tốn hai trăm đồng — xe xăng tốn một nghìn hai. Mỗi năm mười nghìn kilômét, người dùng tiết kiệm mười triệu đồng. Chỉ tiền xăng đã bù được chênh lệch giá mua sau ba năm."
+
+Hùng gật đầu, nhưng trong đầu ông đã tính xa hơn. Năm mươi triệu một chiếc — với người Việt Nam, đó là một năm rưỡi thu nhập của gia đình trung lưu. Chưa ai mua với giá đó. Nhưng nếu sản xuất hai mươi nghìn chiếc? Giá thành có thể xuống ba mươi lăm triệu. Và nếu Thương Gia tự sản xuất pin — giảm thêm hai mươi phần trăm nữa. Hai mươi tám triệu — giá một chiếc xe máy tay ga cao cấp. Ở mức giá đó, thị trường sẽ mở ra.
+
+Hùng không nói những tính toán đó với Minh. Không phải vì giấu — mà vì Minh cần tập trung vào kỹ thuật. Chuyện giá thành, thị trường, chiến lược — đó là việc của Hùng.
+
+"Kế hoạch của em?"
+
+"Mười hai tháng nữa — hoàn thiện thiết kế, chạy thử nghiệm độ bền, kiểm tra pin dưới nhiệt độ cao. Năm 2009 — sản xuất thử một trăm chiếc. Năm 2010 — ra mắt thị trường."
+
+"Em có ngân sách bao nhiêu?"
+
+"Tám tỷ cho năm nay. Em đã tính chi tiết — gửi Lan duyệt." Minh lấy từ túi áo một USB — một chiếc Kingston 256MB, vỏ nhựa đỏ, nắp đã mất. Đưa cho Hùng. "File Excel, hai mươi tab, chi phí đến từng con ốc."
+
+Hùng cầm USB. Nhẹ, nhỏ, nhưng bên trong là tám tỷ đồng và niềm tin của mười lăm kỹ sư trẻ.
+
+---
+
+Một giờ sáng, Hùng về nhà. Bà Hà vẫn thức, ngồi may áo trong phòng khách. Bà không hỏi ông đi đâu, chỉ nói: "Còn cháo trong nồi. Mở lửa nhỏ cho nóng."
+
+Hùng vào bếp, hâm nóng cháo. Ngồi một mình trong bếp — căn bếp nhỏ, gạch men trắng, tủ gỗ cũ — mở USB của Minh ra xem trên laptop. Máy tính khởi động chậm, quạt kêu ầm ầm. File Excel mở ra — hai mươi tab, mỗi tab là một hạng mục: khung gầm, motor, pin, controller, vỏ xe, hệ thống điện, nội thất, thử nghiệm, nhân công, chi phí dự phòng...
+
+Mỗi con số đều có ghi chú — nguồn gốc, cơ sở tính toán, sai số dự phòng. Tab cuối cùng — Risk Assessment — có một bảng đỏ: *Rủi ro 1: Cháy pin trong quá trình thử nghiệm — chi phí dự phòng 500 triệu. Rủi ro 2: Motor không đạt công suất danh định — phương án thay thế motor Baumüller 20kW, tăng chi phí 15%. Rủi ro 3: Không bán được — thị trường chưa sẵn sàng — lỗ tối đa 12 tỷ.*
+
+Hùng đọc một lần, rồi đọc lại. Không tìm thấy lỗi nào rõ ràng. Cậu con trai ông đã trưởng thành.
+
+Ông đóng laptop, ăn cháo. Cháo gà, bà Hà nấu từ chiều, thịt gà xé nhỏ, hành phi thơm. Bên ngoài, gà đã gáy sáng — tiếng gà từ chuồng sau nhà, xa xa thêm tiếng gà từ nhà hàng xóm, như một dàn hợp xướng đồng quê.
+
+---
+
+Hai tuần sau, trong cuộc họp ban lãnh đạo Thương Gia, Hùng trình bày dự án xe điện. Phòng họp tầng ba trụ sở — bàn gỗ dài, mười hai người ngồi hai bên. Các phó tổng giám đốc nhìn nhau, im lặng. Một người lên tiếng — ông Lê Văn Thành, phó tổng phụ trách sản xuất, đã làm với Hùng từ năm 1990, qua bao thăng trầm: "Thưa chủ tịch, thị trường xe điện toàn cầu năm 2007 chỉ có hai trăm nghìn chiếc — chủ yếu là golf cart và xe cảnh sát địa phương. Ngay cả Toyota, hãng xe lớn nhất thế giới, cũng mới chỉ bán được vài nghìn chiếc Prius hybrid. Tại sao mình phải nhảy vào một thị trường không tồn tại?"
+
+"Tại vì nó tồn tại," Hùng trả lời. "Chỉ là chưa ai thấy."
+
+Ông mở tập tài liệu — phân tích thị trường do Minh và một nhóm sinh viên kinh tế trường Ngoại thương soạn, dài ba mươi trang — và chiếu lên màn hình. Biểu đồ đầu tiên: sản lượng xe điện toàn cầu 2000-2007, một đường cong hình que gậy hockey — bằng phẳng từ 2000 đến 2005, rồi bắt đầu dốc lên từ 2006.
+
+"Đây là báo cáo của McKinsey," Hùng nói. "Họ dự đoán sản lượng xe điện toàn cầu sẽ đạt một triệu chiếc vào năm 2010, và mười triệu vào năm 2015. Nếu đúng, người đi trước sẽ có lợi thế tuyệt đối."
+
+Ông dừng lại, nhìn từng người trong phòng. "Tôi biết câu hỏi của anh. Tôi đã tự hỏi câu đó mười năm trước, khi mở xưởng điện tử Hải Phòng — lúc đó ai cũng bảo không thể cạnh tranh với Trung Quốc. Tôi cũng đã tự hỏi năm năm trước, khi bắt đầu làm chip — lúc đó tôi còn không biết fabless là gì. Nhưng bây giờ TG-001 nằm trong thiết bị đo lường của nhà máy thủy điện Hòa Bình. Thị trường tồn tại khi người tiên phong đến. Nó không tồn tại cho kẻ đến sau."
+
+Không ai phản đối nữa. Thành — người đã hỏi — nhìn Hùng, gật đầu. Ông ta không hoàn toàn tin, nhưng ông ta tin Hùng. Sau mười bảy năm, đó là đủ.
+
+Dự án xe điện được phê duyệt. Ngân sách mười hai tỷ — tăng thêm bốn tỷ so với đề xuất ban đầu, vì Hùng muốn mở rộng đội ngũ từ mười lăm lên ba mươi người. Minh nhìn ba từ cuối bàn, không nói gì, nhưng tay cậu siết chặt cây bút.
+
+Khi tất cả ra về, Hùng ngồi lại một mình trong phòng họp. Màn hình máy chiếu vẫn sáng, hiển thị trang cuối cùng của báo cáo — một bức ảnh chụp nguyên mẫu xe điện Thương Gia trên nền trắng, góc nghiêng, ánh đèn studio. Nó thô, chưa có vỏ, dây điện tua tủa. Nhưng nó thật.
+
+Hùng tắt máy chiếu. Phòng tối lại. Ông ngồi trong bóng tối một lúc lâu, nghe tiếng quạt điều hòa rền đều. Rồi ông đứng dậy, đi ra cửa. Xe điện Thương Gia sẽ mất ít nhất hai năm nữa mới ra đường. Nhưng hôm nay — sáu tháng sau câu hỏi của Minh — nó đã lăn bánh.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Lan đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+
+Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, bà Hà đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. bà Hà quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+
+Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Hùng mở cửa bước ra vườn sau. Cơn gió chiều thổi qua, mát rượi, mang theo mùi cỏ mới cắt và mùi hoa nhài nở muộn. Ông hít một hơi thật sâu, lồng ngực căng đầy không khí trong lành. Đôi mắt ông lim dim, tận hưởng khoảnh khắc bình yên hiếm hoi. Trong vườn, những bông hồng đỏ rực đang độ kỳ nở, cánh hoa mỏng tang, phơn phớt sương chiều. Mấy cây cúc vàng lắc lư trong gió, rụng vài cánh hoa xuống mặt đất ẩm.
+Bỗng, tiếng guốc gõ nhẹ sau lưng. Hùng quay lại. Lan đang đứng đó, tay ôm một rổ rau mới hái. Mồ hôi lấm tấm trên trán cô, lấp lánh dưới ánh nắng chiều.
+"Anh ra đây làm gì thế?"
+Hùng cười, bước đến gần cô. "Ra hít thở chút không khí. Em mới hái rau à?"
+Lan gật đầu, tay chỉ vào rổ: "Rau muống, mồng tơi. Tối nay nấu canh ăn mát."
+Hùng nhìn những cọng rau xanh mướt, còn đọng nước mưa. Ông đưa tay vuốt nhẹ một cọng rau, mát lạnh. "Đẹp quá. Em vất vả quá."
+Lan lắc đầu, mắt cô nhìn anh ấm áp. "Không vất vả. Có anh, em làm gì cũng vui."
+Hùng xúc động, đưa tay nắm lấy tay cô. Bàn tay cô hơi thô ráp, nhưng ấm áp lạ thường. Ngón tay cô đan vào tay anh, nhẹ nhàng, như một lời hứa.
+"Cảm ơn em, Lan."
+Cô gật đầu, mắt ánh lên niềm vui. Trong vườn, tiếng chim hót ríu rít. Mùi đất mới sau mưa, mùi lá cây xanh, mùi của sự sống.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+「Hệ thống — GHI NHẬN ch.219」
+Năm: 2007
+Tổng EXP: 49,520 (+600 nhịp này)
+Không gian kho: 17,800m² (+600m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv2, Công nghệ ô tô lv1
+Ghi chú: Xưởng 219 — xe điện nguyên mẫu đầu tiên chạy thử thành công. Motor Baumüller 15kW, pin Samsung 48V-100Ah, range 60km, controller tự thiết kế. Hùng phê duyệt ngân sách 12 tỷ. Mục tiêu 2009: sản xuất thử 100 chiếc.

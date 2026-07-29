@@ -1,0 +1,602 @@
+[
+  {
+    "ch": 121,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3039,
+    "dialogue": 41,
+    "char_density": 2.2,
+    "sensory_density": 13.55,
+    "panel_year": 1988,
+    "prose_year": 1988,
+    "pass": true
+  },
+  {
+    "ch": 122,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3126,
+    "dialogue": 52,
+    "char_density": 2.64,
+    "sensory_density": 13.01,
+    "panel_year": 1988,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 123,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3294,
+    "dialogue": 54,
+    "char_density": 2.52,
+    "sensory_density": 12.66,
+    "panel_year": 1988,
+    "prose_year": 1988,
+    "pass": true
+  },
+  {
+    "ch": 124,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3014,
+    "dialogue": 59,
+    "char_density": 2.51,
+    "sensory_density": 8.63,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 125,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3060,
+    "dialogue": 66,
+    "char_density": 2.57,
+    "sensory_density": 8.32,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 126,
+    "final": 10.0,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3203,
+    "dialogue": 101,
+    "char_density": 4.4,
+    "sensory_density": 12.6,
+    "panel_year": 1988,
+    "prose_year": 1988,
+    "pass": true
+  },
+  {
+    "ch": 127,
+    "final": 9.51,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3003,
+    "dialogue": 93,
+    "char_density": 2.12,
+    "sensory_density": 6.49,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 128,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3588,
+    "dialogue": 111,
+    "char_density": 2.51,
+    "sensory_density": 14.03,
+    "panel_year": 1988,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 129,
+    "final": 9.63,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 8.9,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3025,
+    "dialogue": 74,
+    "char_density": 3.2,
+    "sensory_density": 11.93,
+    "panel_year": 1989,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 130,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3115,
+    "dialogue": 55,
+    "char_density": 2.29,
+    "sensory_density": 7.85,
+    "panel_year": 1988,
+    "prose_year": 1988,
+    "pass": true
+  },
+  {
+    "ch": 131,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3333,
+    "dialogue": 77,
+    "char_density": 2.58,
+    "sensory_density": 12.63,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 132,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3117,
+    "dialogue": 81,
+    "char_density": 2.79,
+    "sensory_density": 9.83,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 133,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3378,
+    "dialogue": 62,
+    "char_density": 2.69,
+    "sensory_density": 11.24,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 134,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3085,
+    "dialogue": 73,
+    "char_density": 3.23,
+    "sensory_density": 12.78,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 135,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3411,
+    "dialogue": 88,
+    "char_density": 2.44,
+    "sensory_density": 12.61,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 136,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3465,
+    "dialogue": 64,
+    "char_density": 2.31,
+    "sensory_density": 12.57,
+    "panel_year": 1989,
+    "prose_year": 1989,
+    "pass": true
+  },
+  {
+    "ch": 137,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3290,
+    "dialogue": 70,
+    "char_density": 2.79,
+    "sensory_density": 12.67,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 138,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3468,
+    "dialogue": 89,
+    "char_density": 3.21,
+    "sensory_density": 13.84,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 139,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3650,
+    "dialogue": 119,
+    "char_density": 3.19,
+    "sensory_density": 13.03,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 140,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3147,
+    "dialogue": 69,
+    "char_density": 2.05,
+    "sensory_density": 10.4,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 141,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3075,
+    "dialogue": 77,
+    "char_density": 2.27,
+    "sensory_density": 11.54,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 142,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3084,
+    "dialogue": 80,
+    "char_density": 3.0,
+    "sensory_density": 13.01,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 143,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3697,
+    "dialogue": 101,
+    "char_density": 2.36,
+    "sensory_density": 11.11,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 144,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3207,
+    "dialogue": 82,
+    "char_density": 2.53,
+    "sensory_density": 12.38,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 145,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3632,
+    "dialogue": 73,
+    "char_density": 3.05,
+    "sensory_density": 14.0,
+    "panel_year": 1990,
+    "prose_year": 1980,
+    "pass": true
+  },
+  {
+    "ch": 146,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3002,
+    "dialogue": 73,
+    "char_density": 3.19,
+    "sensory_density": 11.66,
+    "panel_year": 1990,
+    "prose_year": 1988,
+    "pass": true
+  },
+  {
+    "ch": 147,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3128,
+    "dialogue": 101,
+    "char_density": 2.24,
+    "sensory_density": 11.12,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 148,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3858,
+    "dialogue": 71,
+    "char_density": 3.02,
+    "sensory_density": 13.09,
+    "panel_year": 1990,
+    "prose_year": 1990,
+    "pass": true
+  },
+  {
+    "ch": 149,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3147,
+    "dialogue": 105,
+    "char_density": 2.66,
+    "sensory_density": 13.77,
+    "panel_year": 1991,
+    "prose_year": 1991,
+    "pass": true
+  },
+  {
+    "ch": 150,
+    "final": 9.71,
+    "hard_fails": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "words": 3529,
+    "dialogue": 78,
+    "char_density": 2.09,
+    "sensory_density": 10.46,
+    "panel_year": 1991,
+    "prose_year": 1991,
+    "pass": true
+  }
+]

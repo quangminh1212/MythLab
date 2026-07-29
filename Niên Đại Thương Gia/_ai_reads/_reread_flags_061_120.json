@@ -1,0 +1,2079 @@
+[
+ {
+  "n": 61,
+  "title": "Sản xuất xe đạp",
+  "vi": 4026,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 22,
+  "spam_rep": [
+   [
+    "Chiếc cân bàn đĩa đồng",
+    4
+   ],
+   [
+    "Tờ tiền giấy bạc mòn góc",
+    4
+   ],
+   [
+    "Đì đùng máy nổ",
+    3
+   ],
+   [
+    "Hăng hắc khói than",
+    3
+   ]
+  ],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Chỗ này. — Ông nắm bút, buông, nắm lại. | Lan gật. Mắt cô không cười. Tay run nhẹ rồi vững. Hùng cau mày rồi nới ra, gật chậm. Bà Hà đứng cửa, liếc hai người, mỉm cười nhỏ rồi qu",
+  "py": "1985",
+  "exp": "8,013 (+213 nhịp này)",
+  "sp": "3,547 m² (+47 m²)",
+  "freeform": [],
+  "beat": "Ngay trong những ngày cuối năm 1985, sau khi sổ Phần 1 được khóa ở Chương 60, chiếc xe đạp cũ được đưa từ góc kho ra giữa nền xưởng.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 62,
+  "title": "Sản xuất máy cày",
+  "vi": 3652,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Ông xoay người, kéo tấm chăn mỏng lên vai. | Một ngày nữa đã xong. | Ngày mai sẽ là những đường cày mới, những lỗi mới, những bài học mới.",
+  "py": "1985",
+  "exp": "8,227 (+214 nhịp này)",
+  "sp": "3,593m² (+46m²)",
+  "freeform": [
+   "Chiếc máy cày hai bánh nổ máy giữa thửa ruộng. Mấy ông nông dân đứng xem, tay ch",
+   "Khi lưỡi cày lật đất, ai đó xuýt xoa: \"Chạy thật kìa.\" Hùng nắm chặt tay cày. Má",
+   "Đêm cuối năm, xưởng còn sáng. Hùng đứng trước khung sắt thô, tay chạm mép hàn cò"
+  ],
+  "beat": "Vào những ngày cuối cùng của năm 1985, sau đủ ba tuần hậu kiểm xe đạp, Hùng mới đặt lên bàn một câu hỏi khác: người nông dân cần gì hơn một phương tiện để đi ch",
+  "panel_has_teaser": true
+ },
+ {
+  "n": 63,
+  "title": "Sản xuất máy gặt",
+  "vi": 4065,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 20,
+  "spam_rep": [
+   [
+    "Chiếc cân bàn đĩa đồng",
+    2
+   ],
+   [
+    "Mảnh nilon gói hàng",
+    2
+   ],
+   [
+    "Nước mắm cá cơm",
+    2
+   ],
+   [
+    "Rè rè loa phường",
+    3
+   ]
+  ],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Chỗ này. — Ông nắm bút, buông, nắm lại. | Lan gật. Mắt cô không cười. Tay run nhẹ rồi vững. Hùng cau mày rồi nới ra, gật chậm. Bà Hà đứng cửa, liếc hai người, mỉm cười nhỏ rồi qu",
+  "py": "1985",
+  "exp": "8,440 (+213 nhịp này)",
+  "sp": "3,640m² (+47m²)",
+  "freeform": [],
+  "beat": "Ba động cơ đầu tiên cho lô máy cày được giao tới xưởng vào tuần cuối tháng Chạp năm 1985. Hùng không cho tháo kiện ngay. Ông đối chiếu số máy, thông số và bộ ph",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 64,
+  "title": "Mua 30 xe tải",
+  "vi": 2906,
+  "dbl": true,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng và Lan chốt mục",
+    6
+   ]
+  ],
+  "broken": 0,
+  "wife": [
+   "bà Hà nhận bông hoa, mắt long lanh.",
+   "bà Hà ngồi bên cạnh phe phẩy quạt.",
+   "Hùng lắc đầu: \"Có em ở đây, không mệt.\""
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng và Lan chốt mục 4 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ông gật. Tay cô ký. | Hùng và Lan chốt mục 5 sổ ch.64: hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt ôn",
+  "py": "1985",
+  "exp": "8,653 (+213 nhịp này)",
+  "sp": "3,687m² (+47m²)",
+  "freeform": [
+   "Ba mươi xe tải đỗ thành hàng. Đủ loại, đủ đời. Hùng đi dọc, vỗ thử lốp, hỏi tài ",
+   "Một anh lái hỏi: \"Cả trăm chiếc làm gì cho hết?\" Hùng tính: mỗi tỉnh hai chiếc, ",
+   "Ba mươi xe tải — con số nhỏ với người giàu, nhưng là cả một đội quân với người m"
+  ],
+  "beat": "Bảng cuối cùng chia các tuyến thành ba nhóm: tuyến đều, tuyến mùa vụ và tuyến chưa đủ hàng để tự chạy.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 65,
+  "title": "Mở rộngchi nhánh tài chính",
+  "vi": 3915,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "nắm tay nhau",
+    2
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "Thôi, vì em",
+    2
+   ],
+   [
+    "xoa vai anh",
+    2
+   ],
+   [
+    "xoa bóp vai",
+    2
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    2
+   ]
+  ],
+  "spam_tot": 12,
+  "spam_rep": [
+   [
+    "Rè rè loa phường",
+    2
+   ],
+   [
+    "Bùn non dưới ruộng",
+    2
+   ]
+  ],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua",
+   "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. \"Anh bỏ thuốc",
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng,",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q"
+  ],
+  "dups": [
+   [
+    "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhì",
+    2
+   ],
+   [
+    "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. \"Anh làm việc nhiều quá.\" Hùng gác bút: \"Cũng sắp xong rồi.\" Minh xoa bó",
+  "py": "1985",
+  "exp": "8,867 (+214 nhịp này)",
+  "sp": "3,733m² (+46m²)",
+  "freeform": [],
+  "beat": "Cánh cửa cuốn vừa kéo lên, mùi giấy mới, mực dấu và gỗ ép còn quẩn trong căn phòng hẹp. Trên tường chỉ có một tấm bảng ghi tên chi nhánh; dưới quầy là ba quyển ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 66,
+  "title": "Mở rộngtrường học",
+  "vi": 3365,
+  "dbl": true,
+  "rom": [
+   [
+    "nắm tay nhau",
+    1
+   ]
+  ],
+  "spam_tot": 9,
+  "spam_rep": [
+   [
+    "Tờ tiền giấy bạc mòn góc",
+    2
+   ],
+   [
+    "Nước mắm cá cơm",
+    2
+   ],
+   [
+    "Hăng hắc khói than",
+    2
+   ]
+  ],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Họ nắm tay nhau, im lặng, bình yên."
+  ],
+  "dups": [
+   [
+    "Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.",
+    2
+   ]
+  ],
+  "cliff": true,
+  "close": "Hùng gật đầu, tay thoăn thoắt. | Bữa tối ấm cúng bắt đầu. | Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.",
+  "py": "1985",
+  "exp": "9,080 (+213 nhịp này)",
+  "sp": "3,780m² (+47m²)",
+  "freeform": [
+   "Trường Thương Gia khởi công. Hùng cầm cuốc, rồi đưa cho một em nhỏ.",
+   "\"Để sau này cháu kể: ngày xưa ông nội tao xây trường này.\" Đứa bé đập cuốc. Mọi ",
+   "Trường học mở ra cùng lúc với xưởng may — vì sau này công nhân cần đọc được bản "
+  ],
+  "beat": "Chiếc U-oát của huyện dừng cách cổng gần trăm mét; bánh sau quay trơn, bắn bùn lên tận cửa kính.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 67,
+  "title": "Mở trường Sài Gòn",
+  "vi": 3309,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Nhà cháu không có tiền. | — Vào đây. Học thử một tuần không mất tiền. | Đứa bé nhìn ông, không nói, rồi chạy vào sân trường. Hùng đứng nhìn theo, tay vẫn cầm cuốn sổ bìa xanh, nh",
+  "py": "1985",
+  "exp": "9,293 (+213 nhịp này)",
+  "sp": "3,827m² (+47m²)",
+  "freeform": [
+   "Sài Gòn, một khu đất trống góc Bình Thạnh. Hùng đứng giữa cỏ dại, tay cầm bản vẽ",
+   "\"Sao không xây ở quận 1?\" — \"Học sinh ở quận 1 đã có trường. Chỗ này thì chưa.\"",
+   "Sài Gòn có thêm một mái trường mang tên Thương Gia."
+  ],
+  "beat": "Hùng xuống ga Sài Gòn lúc bảy giờ sáng, đầu óc còn nguyên cái lạnh tháng Ba của Hà Nội. Trời phương Nam đã nóng. Hơi nóng bốc lên từ mặt đường nhựa loang lổ, từ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 68,
+  "title": "Mở trung tâm đào tạo",
+  "vi": 3475,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Mộc, may, sửa xe. | — Tốt. Mấy nghề đó không bao giờ lỗi thời. | Người học viên cầm tiền, nhìn xuống cái ghế, rồi nhìn lên Hùng. Mắt nó đỏ, nhưng nó gật. Hùng đứng dậy, bước ra c",
+  "py": "1985",
+  "exp": "9,507 (+214 nhịp này)",
+  "sp": "3,873m² (+46m²)",
+  "freeform": [
+   "Trung tâm đào tạo mở lớp đầu tiên: năm nữ công nhân, ba thợ may, một kế toán.",
+   "Chị Sáu dạy cắt may, Minh dạy bảo trì, Hùng dạy sổ sách. Không giáo trình. Không",
+   "Đào tạo là món đầu tư không sợ lỗ — vì nó nhân bản chính mình."
+  ],
+  "beat": "Việc mở trường Bình An ở Sài Gòn vừa xong chưa được hai tuần thì một đề nghị khác đến. Không phải từ đối tác, không phải từ chính quyền. Từ một người thợ già ở ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 69,
+  "title": "Mở rộngphòng khám",
+  "vi": 3986,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    3
+   ],
+   [
+    "nằm võng",
+    3
+   ],
+   [
+    "Có em ở đây, không mệt",
+    3
+   ],
+   [
+    "Thôi, vì em",
+    1
+   ]
+  ],
+  "spam_tot": 16,
+  "spam_rep": [
+   [
+    "Chiếc cân bàn đĩa đồng",
+    2
+   ],
+   [
+    "Tờ tiền giấy bạc mòn góc",
+    2
+   ],
+   [
+    "Rè rè loa phường",
+    2
+   ],
+   [
+    "Hăng hắc khói than",
+    2
+   ]
+  ],
+  "b3": [],
+  "broken": 1,
+  "wife": [
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy qu",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạ"
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "a Lan đi dạo trong vườn, nhìn những bông cúc vàng nở rộ, hít hà mùi đất đất mùa xuân ẩm, mùi rơm rạ, mùi bùn non, mùi phân trâu . Cảm thấy bình yên. | Hùng ngồi trước tủ kính. Tay ",
+  "py": "1985",
+  "exp": "9,720 (+213 nhịp này)",
+  "sp": "3,920m² (+47m²)",
+  "freeform": [],
+  "beat": "Chuyến tàu đêm từ Hải Phòng đưa Hùng về Hà Nội khi trời năm 1985 còn chưa sáng hẳn. Ông không ghé nhà. Chiếc xe đạp gửi ở ga chở ông thẳng tới phòng khám An Tín",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 70,
+  "title": "Hoàn thành nhiệm vụ vận chuyển",
+  "vi": 3726,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "xoa vai anh",
+    1
+   ],
+   [
+    "xoa bóp vai",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy qu",
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng,"
+  ],
+  "dups": [
+   [
+    "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân ngườ",
+    2
+   ]
+  ],
+  "cliff": true,
+  "close": "Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. \"Em dậy sớm thế?\" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại c",
+  "py": "1985",
+  "exp": "9,933 (+213 nhịp này)",
+  "sp": "3,967m² (+47m²)",
+  "freeform": [],
+  "beat": "Bốn giờ sáng, cái lạnh tháng Mười Hai chưa kịp tan khỏi mặt đường. Hùng đã có mặt ở bãi xe sau lưng chợ Cồn. Chuyến cuối — chuyến khẳng định cả tháng chạy hàng ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 71,
+  "title": "Mở dịch vụ cho vay",
+  "vi": 4037,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "nắm tay nhau",
+    2
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "xoa vai anh",
+    2
+   ],
+   [
+    "xoa bóp vai",
+    2
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    2
+   ]
+  ],
+  "spam_tot": 13,
+  "spam_rep": [
+   [
+    "Chiếc cân bàn đĩa đồng",
+    2
+   ],
+   [
+    "Mảnh nilon gói hàng",
+    3
+   ],
+   [
+    "Tõm tõm gầu nước",
+    2
+   ],
+   [
+    "Bùn non dưới ruộng",
+    2
+   ]
+  ],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng",
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy qu",
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qu"
+  ],
+  "dups": [
+   [
+    "Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi t",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. \"Anh làm việc nhiều quá.\" Hùng gác bút: \"Cũng sắp xong rồi.\" Minh xoa bó",
+  "py": "1985",
+  "exp": "10,147 (+214 nhịp này)",
+  "sp": "4,013m² (+46m²)",
+  "freeform": [],
+  "beat": "Ba ngày sau khi chuyến vận chuyển cuối cùng được bàn giao, Trần Văn Hùng đặt biên bản nghiệm thu sang mép trái bàn. Mảnh nilon gói hàng buộc dây chuối khô. Ba m",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 72,
+  "title": "Mở rộngchi nhánh tài chính",
+  "vi": 3944,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ]
+  ],
+  "spam_tot": 15,
+  "spam_rep": [
+   [
+    "Cồn cào ruột",
+    2
+   ],
+   [
+    "Lạnh buốt ngón tay sờ gầu",
+    2
+   ],
+   [
+    "Nóng rát gáy",
+    4
+   ]
+  ],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy qu"
+  ],
+  "dups": [
+   [
+    "Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp",
+    2
+   ],
+   [
+    "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+    2
+   ]
+  ],
+  "cliff": true,
+  "close": "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. \"Có mệt không anh?\" Minh hỏi. Hùng lắc đầu",
+  "py": "1985",
+  "exp": "10,360 (+213 nhịp này)",
+  "sp": "4,060m² (+47m²)",
+  "freeform": [],
+  "beat": "Cuối năm 1985, gió bấc lùa qua khe cửa phòng làm việc ở Hà Nội, làm góc tờ tổng kết thí điểm cho vay rung đều trên mặt bàn. Hùng đặt chiếc chặn giấy lên đó rồi ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 73,
+  "title": "Hoàn thành nhiệm vụ cho vay",
+  "vi": 4020,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "nắm tay nhau",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "Thôi, vì em",
+    2
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    1
+   ]
+  ],
+  "spam_tot": 7,
+  "spam_rep": [
+   [
+    "Tờ tiền giấy bạc mòn góc",
+    3
+   ],
+   [
+    "Mảnh nilon gói hàng",
+    2
+   ]
+  ],
+  "b3": [],
+  "broken": 1,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qu",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạ"
+  ],
+  "dups": [
+   [
+    "Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Minh đến ngồi bên cạnh dựa",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "a Minh đi dạo trong vườn, nhìn những bông cúc vàng nở rộ, hít hà mùi đất đất mùa xuân ẩm, mùi rơm rạ, mùi bùn non, mùi phân t. Cảm thấy bình yên. | Trời bắt đầu tối. Hùng đóng cửa ",
+  "py": "1986",
+  "exp": "10,573 (+213 nhịp này)",
+  "sp": "4,107m² (+47m²)",
+  "freeform": [],
+  "beat": "Sáng mồng ba tháng Giêng năm 1986, Hà Nội rét khô. Trần Văn Hùng đến phòng tài chính khi người giữ sổ vừa tháo dây buộc cánh cửa chớp. Trên bàn là ba chồng hồ s",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 74,
+  "title": "Mở trường học tiếp",
+  "vi": 4009,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "nắm tay nhau",
+    2
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "Thôi, vì em",
+    1
+   ],
+   [
+    "xoa vai anh",
+    1
+   ],
+   [
+    "xoa bóp vai",
+    1
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    2
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua",
+   "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. \"Anh bỏ thuốc",
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua",
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, "
+  ],
+  "dups": [
+   [
+    "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau tro",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Hùng dậy sớm, pha ấm trà. Nước sôi đổ vào ấm, mùi trà xanh thơm bốc lên. Ông ngồi bên hiên nhà, tay cầm tách trà, nhìn ra vườn. Sương sớm còn đọng trên lá, lấp lánh. Một con chim s",
+  "py": "1986",
+  "exp": "10,787 (+214 nhịp này)",
+  "sp": "4,153m² (+46m²)",
+  "freeform": [],
+  "beat": "Sáng mồng bốn tháng Giêng năm 1986, Trần Văn Hùng trở lại phòng làm việc khi dấu mực trên biên bản nghiệm thu dịch vụ cho vay mới khô được một đêm. Mùi mực tím,",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 75,
+  "title": "Mở rộngtrường học 30 trường",
+  "vi": 3991,
+  "dbl": false,
+  "rom": [
+   [
+    "nắm tay nhau",
+    2
+   ],
+   [
+    "Thôi, vì em",
+    3
+   ],
+   [
+    "xoa vai anh",
+    2
+   ],
+   [
+    "xoa bóp vai",
+    2
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    2
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng",
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qu",
+   "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. \"Anh bỏ thuốc",
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng"
+  ],
+  "dups": [
+   [
+    "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn",
+    2
+   ],
+   [
+    "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Bà Hà dựa đầu vào ngực Hùng, mắt nhắm lại. Lan mỉm cười, quay mặt đi, ngại ngùng. Trong nồi, canh sôi ùng ục, mùi thơm tỏa ra, ấm áp, thân thuộc. | Hùng vuốt tóc bà Hà, mắt nhìn xa",
+  "py": "1986",
+  "exp": "11,000 (+213 nhịp này)",
+  "sp": "4,200m² (+47m²)",
+  "freeform": [],
+  "beat": "Giữa tháng Tám năm 1986, Trần Văn Hùng đặt bản tổng hợp cuối cùng xuống bàn và thấy con số hai mươi chín.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 76,
+  "title": "Mở rộngtrung tâm đào tạo",
+  "vi": 4015,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "nắm tay nhau",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    1
+   ]
+  ],
+  "spam_tot": 16,
+  "spam_rep": [
+   [
+    "Chiếc cân bàn đĩa đồng",
+    2
+   ],
+   [
+    "Nước mắm cá cơm",
+    2
+   ],
+   [
+    "Than tổ ong lúc nửa đêm",
+    2
+   ],
+   [
+    "Lạnh buốt ngón tay sờ gầu",
+    2
+   ]
+  ],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qu",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy qu"
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. \"Mưa rồi.\" \"Ừ, mưa.\" Họ nắm tay nhau, im lặng, bình yên. | Buổi trưa, Hùng nằ",
+  "py": "1986",
+  "exp": "11,250 (+250 nhịp này)",
+  "sp": "4,257m² (+57m²)",
+  "freeform": [],
+  "beat": "Năm 1986, ba ngày sau khi bản tổng hợp ba mươi trường được khóa sổ tại Hà Nội, Hùng mới mở sang trang việc khác.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 77,
+  "title": "Hoàn thành nhiệm vụ đào tạo",
+  "vi": 3800,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 13,
+  "spam_rep": [
+   [
+    "Đì đùng máy nổ",
+    2
+   ],
+   [
+    "Mảnh nilon gói hàng",
+    2
+   ],
+   [
+    "Hăng hắc khói than",
+    2
+   ]
+  ],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Một khóa học không có người chết, không có người bị thương, và năm mươi hai người cầm được phong bì ra ngoài. | Trong năm 1986, giữa một đất nước còn thiếu thốn đủ bề, một con số n",
+  "py": "1986",
+  "exp": "11,500 (+250 nhịp này)",
+  "sp": "4,314m² (+57m²)",
+  "freeform": [],
+  "beat": "Một chiếc xe máy cũ của trung tâm đợi sẵn, người lái đưa anh đến thẳng khu thực hành thay vì nhà khách.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 78,
+  "title": "Mở rộngphòng khám tiếp",
+  "vi": 3964,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [
+   [
+    "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân ngườ",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cu",
+  "py": "1986",
+  "exp": "11,750 (+250 nhịp này)",
+  "sp": "4,371m² (+57m²)",
+  "freeform": [],
+  "beat": "Sáng Hà Nội 1986. Hùng ngồi ở quán cà phê đầu phố Tràng Thi, trước mặt là bác sĩ Lê Văn Đức — người giữ phòng khám nhỏ ở Hà Đông suốt sáu năm thiếu thốn. Mùi th",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 79,
+  "title": "Hoàn thành nhiệm vụ phòng khám",
+  "vi": 3676,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "Thôi, vì em",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q"
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. \"Hôm nay em thấy anh cười nhiều hơn.\" Hùng gật: \"Vì có em.\" Hoàng hôn đỏ rực, gió chiều má",
+  "py": "1986",
+  "exp": "12,000 (+250 nhịp này)",
+  "sp": "4,429m² (+58m²)",
+  "freeform": [],
+  "beat": "Bảy giờ sáng, Hùng đứng ở cửa phòng khám An Tín cùng bác sĩ Tuấn và Trần Thị Lan. Hôm nay là ngày nghiệm thu. Không phải nghiệm thu cho chủ nhà — nghiệm thu cho",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 80,
+  "title": "Mở rộngcông ty xây dựng",
+  "vi": 3560,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "'Chu Hung, may hong roi.' 'Đe toi xem.' Hung xuong xa, mo may kiem tra. Mui nhot may, mui sat am len. Nhung ngon tay ong luan chuyen, tay quen đieu kien. 'O day, con oc nay long ra",
+  "py": "1986",
+  "exp": "12,250 (+250 nhịp này)",
+  "sp": "4,486m² (+57m²)",
+  "freeform": [],
+  "beat": "Năm giờ sáng, khu vực tập kết vật liệu phía nam Hải Phòng đã có người. Hùng đứng ở bãi, nhìn ba chiếc xe cút kít cũ xếp dọc bờ tường, bên cạnh là đống gạch chỉ ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 81,
+  "title": "Mở rộngnăng lượng nhà máy điện",
+  "vi": 3359,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng cười — lần đầu trong ngày. | Trước khi ngủ, ông mở lại sổ. Đọc dòng cuối cùng ghi ở hiên nhà máy: \"Tháng Mười Một, 1986 — đất nước đổi. Nhưng nhiệt độ hơi quá nhiệt vẫn là 535",
+  "py": "1986",
+  "exp": "12,500 (+250 nhịp này)",
+  "sp": "4,543m² (+57m²)",
+  "freeform": [
+   "Máy phát diesel cấp điện cho xưởng. Bóng đèn dầu thay bằng đèn điện. Cả xưởng sá",
+   "Chị Sáu: \"Từ giờ không phải nheo mắt may nữa nhỉ?\"",
+   "Điện — thứ mà cả làng cần hơn cả vàng. Hùng quyết định đầu tư đúng chỗ."
+  ],
+  "beat": "4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở c",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 82,
+  "title": "Hoàn thành nhiệm vụ năng lượng",
+  "vi": 3923,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Hoàn thành nhiệm vụ năng lượng hôm nay chỉ là một cái mốc. Mai sẽ có việc khác. Nhưng tối nay, Hùng cho phép mình nằm một lúc, nhắm mắt, nghe tiếng turbine chạy ngoài kia — một âm ",
+  "py": "1986",
+  "exp": "12,750 (+250 nhịp này)",
+  "sp": "4,600m² (+57m²)",
+  "freeform": [
+   "Nhà máy điện chạy ổn định, sản xuất tăng gấp đôi. Nhưng hóa đơn dầu diesel không",
+   "Hùng ghi: \"Cần tìm năng lượng khác.\" Hướng đi mới hình thành.",
+   "Ánh sáng từ nhà máy điện thắp sáng cả một huyện — và cả niềm tin của dân."
+  ],
+  "beat": "\"Hoàn thành nhiệm vụ năng lượng\" — năm chữ trên sổ, ba tháng rưỡi hiện ra trước mắt Hùng trong một buổi sáng cuối thu 1986.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 83,
+  "title": "Mở rộngtừ thiện quỹ",
+  "vi": 3361,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Cho đi không làm túi tiền vơi — nó làm cho vòng đời của đồng tiền dài hơn. | Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca. | Hùng nhíu mày, siết ngón tay sổ ch.83. Lan liếc, cúi, g",
+  "py": "1986",
+  "exp": "0",
+  "sp": "0",
+  "freeform": [],
+  "beat": "Giữa năm 1986, quỹ từ thiện của Hùng đã chạy được ba quý. Số tiền bỏ ra không nhỏ — gần mười ba nghìn EXP theo sổ hệ thống — nhưng ông chưa hài lòng. Tiền bỏ ra",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 84,
+  "title": "Hoàn thành nhiệm vụ từ thiện",
+  "vi": 3694,
+  "dbl": false,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ],
+   [
+    "xoa vai anh",
+    1
+   ],
+   [
+    "xoa bóp vai",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q",
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy q"
+  ],
+  "dups": [],
+  "cliff": true,
+  "close": "Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. \"Em dậy sớm thế?\" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại c",
+  "py": "1986",
+  "exp": "13,250 (+250 nhịp này)",
+  "sp": "4,714m² (+57m²)",
+  "freeform": [],
+  "beat": "Có người hỏi bao giờ xong \"Hoàn thành nhiệm vụ từ thiện\". Hùng hỏi lại: xong trên giấy hay xong ở hiện trường?",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 85,
+  "title": "Mở rộngxuất khẩu 10 đối tác",
+  "vi": 3928,
+  "dbl": false,
+  "rom": [
+   [
+    "Thôi, vì em",
+    1
+   ],
+   [
+    "xoa vai anh",
+    1
+   ],
+   [
+    "xoa bóp vai",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng"
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. \"Anh bỏ thuốc đi.\" Hùng cười, cất lại bao thuốc. \"Thôi, vì em.\" Lan mỉm cười, dựa vào Hùng. Trăng lên ca",
+  "py": "1986",
+  "exp": "13,500 (+250 nhịp này)",
+  "sp": "4,771m² (+57m²)",
+  "freeform": [],
+  "beat": "Mờ sáng, trời cuối thu 1986. Hùng mở tờ A4 gấp tư: mười cái tên, mười dòng số, mười cách thanh toán khác nhau. Ông vẽ mũi tên từ mỗi tên đến một cảng hay cửa kh",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 86,
+  "title": "Mở rộngbảo hiểm",
+  "vi": 3981,
+  "dbl": false,
+  "rom": [
+   [
+    "nắm tay nhau",
+    1
+   ],
+   [
+    "Thôi, vì em",
+    1
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua",
+   "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. \"Anh bỏ thuốc"
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. \"Anh bỏ thuốc đi.\" Hùng cười, cất lại bao thuốc. \"Thôi, vì em.\" Minh mỉm cười, dựa vào Hùng. Trăng lên ",
+  "py": "1983",
+  "exp": "13,750 (+250 nhịp này)",
+  "sp": "4,829m² (+58m²)",
+  "freeform": [],
+  "beat": "Phòng họp nhà sau vẫn cái không khí quen thuộc: ba cái bàn gỗ ghép lại, mặt bàn lõm chỗ khuỷu tay, sổ sách chất cao một góc làm căn phòng càng thêm chật. Ngoài ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 87,
+  "title": "Sản xuất máy cày ra mắt",
+  "vi": 3489,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Thế là quý. | — Ổng đặt hai cái. Một cho nhà, một cho thằng con rể. | Hùng ăn xong, mở sổ. Bảy đơn hàng đầu tiên. Ông ghi bằng bút đỏ: \"Đã bán — 2 máy. Đã đặt cọc — 5 máy. Cần sả",
+  "py": "1986",
+  "exp": "14,000 (+250 nhịp này)",
+  "sp": "4,886m² (+57m²)",
+  "freeform": [
+   "Máy cày ra mắt giữa đồng, hàng trăm nông dân kéo đến xem. Minh lái ba vòng, đất ",
+   "Ông già sờ lưỡi cày: \"Bao nhiêu một cái?\" — \"Tiết kiệm được hai con trâu.\"",
+   "Máy cày Thương Gia ra đồng — nông dân đỡ một nửa cái lưng."
+  ],
+  "beat": "Hùng đến từ lúc năm giờ kém, cốc cà phê đặc trên tay, áo sơ-mi cài đến cổ dù trời đã hơi nóng. Dây chuyền lắp ráp cuối cùng chạy thử từ ba hôm nay — lần nào cũn",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 88,
+  "title": "Sản xuất máy gặt ra mắt",
+  "vi": 3854,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ",
+  "py": "1986",
+  "exp": "14,250 (+250 nhịp này)",
+  "sp": "4,943m² (+57m²)",
+  "freeform": [
+   "Máy gặt ra mắt. Phục vụ miễn phí tuần đầu. Mấy chục héc-ta gặt trong ba ngày, th",
+   "Minh đứng trên máy suốt ba ngày, mặt đen nắng. Hùng mang cơm ra đồng cho anh.",
+   "Máy gặt chạy trên ruộng lúa. Hùng đứng nhìn, thấy mùa vụ không còn là nỗi lo."
+  ],
+  "beat": "Mùa khô 1986, Khu công nghiệp. Máy gặt đập liên hợp đầu tiên của miền Bắc chờ chạy thử. Hùng đến từ năm giờ sáng, trước cả bảo vệ, trước cả tiếng chó sủa cuối x",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 89,
+  "title": "Tổng kết Phần 2",
+  "vi": 3467,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [
+   [
+    "Một chiếc xe máy dừng trước cửa, tiếng nổ máy ngắt rồi tắt hẳn. Một ng",
+    2
+   ],
+   [
+    "Hùng gấp mảnh giấy, bỏ vào túi áo. Tối nay ông sẽ tính toán, mai sẽ đi",
+    2
+   ],
+   [
+    "Sáng hôm sau, Hùng dậy sớm pha ấm trà, uống vội rồi lấy xe đạp đi Phú ",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Bà Hà nấu nước. Bàn tay run run vì tuổi. Hùng đang mặc áo trước gương — chiếc áo sơ mi trắng bà ủi hồi chiều. \"Mẹ ơi, con đi ra nước ngoài,\" Hùng nói. Bà không quay lại. \"Mẹ biết.\"",
+  "py": "1986",
+  "exp": "14,500 (+250)",
+  "sp": "5,000m² (+57m²)",
+  "freeform": [],
+  "beat": "Cái rét cuối năm 1986 thấm qua lớp áo bông cũ của Hùng. Hà Nội tháng Chạp — đường phố vắng, những chiếc xe đạp thồ lặng lẽ lăn bánh trên mặt nhựa rạn nứt, hơi n",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 90,
+  "title": "Bắt đầu Phần 3",
+  "vi": 3852,
+  "dbl": false,
+  "rom": [
+   [
+    "nắm tay nhau",
+    1
+   ],
+   [
+    "Thôi, vì em",
+    1
+   ],
+   [
+    "xoa vai anh",
+    1
+   ],
+   [
+    "xoa bóp vai",
+    1
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qu",
+   "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, "
+  ],
+  "dups": [],
+  "cliff": false,
+  "close": "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. \"Anh bỏ thuốc đi.\" Hùng cười, cất lại bao thuốc. \"Thôi, vì em.\" Lan mỉm cười, dựa vào Hùng. Trăng lên ca",
+  "py": "1986",
+  "exp": "14,682 (+182 nhịp này)",
+  "sp": "5,045m² (+45m²)",
+  "freeform": [],
+  "beat": "Cái nóng cuối hạ vẫn chưa chịu buông tha mặt phố. Không khí đặc quánh mùi xăng pha bụi đỏ — thứ mùi của Hà Nội những ngày xe máy bắt đầu lấn xe đạp, của những c",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 91,
+  "title": "Sản xuất thép Hải Phòng",
+  "vi": 3967,
+  "dbl": false,
+  "rom": [
+   [
+    "nắm tay nhau",
+    1
+   ],
+   [
+    "Mưa rồi.\" \"Ừ, mưa",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua"
+  ],
+  "dups": [
+   [
+    "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+    2
+   ],
+   [
+    "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân ngườ",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cu",
+  "py": "1987",
+  "exp": "14,864 (+182 nhịp này)",
+  "sp": "5,091m² (+46m²)",
+  "freeform": [],
+  "beat": "Năm 1987, tại Hải Phòng. Không phố xá ồn ào, không biển hiệu hào nhoáng. Chỉ mùi dầu máy, tiếng búa đe, và những lò nung thủ công nằm sâu trong khu công nghiệp ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 92,
+  "title": "Sản xuất xi măng",
+  "vi": 3663,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Hùng cảm thấy bình yên. | Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt. | Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.",
+  "py": "1987",
+  "exp": "15,045 (+181 nhịp này)",
+  "sp": "5,136m² (+45m²)",
+  "freeform": [
+   "Xi măng Thương Gia — lò thứ hai hoạt động, 78% công suất. Kỹ sư Việt vận hành.",
+   "Hùng bốc nắm xi măng, bóp thử. Bột mịn, trắng, không vón. \"Chuẩn rồi.\"",
+   "Xi măng làm nên con đường. Hùng làm nên những con đường nối các tỉnh."
+  ],
+  "beat": "Hùng đứng trước lò nung — một khối sắt dài hơn trăm mét, nằm nghiêng như con quái vật thép giữa bãi đất nện rộng mênh mông.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 93,
+  "title": "Hùng gặp cô Hạnh",
+  "vi": 3363,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Mai chủ nhật. | — Thì mai. | Cánh cửa khép lại. Chị Hạnh đứng yên một lúc, tay đặt trên hộp chỉ gỗ, rồi khẽ cười. Ngoài phố, Hùng đi trong bóng tối mà lòng sáng rỡ.",
+  "py": "1986",
+  "exp": "15,227 (+182 nhịp này)",
+  "sp": "5,182m² (+46m²)",
+  "freeform": [
+   "Hùng gặp cô Hạnh ở quán cà phê vỉa hè. Cô mang hồ sơ kiểm toán nội bộ.",
+   "Hùng chưa đọc: \"Em làm được.\" — \"Anh chưa xem kỹ.\" — \"Nhìn mắt em biết thừa.\"",
+   "Cô Hạnh — người phụ nữ không nói nhiều, nhưng nhìn thấu lòng người."
+  ],
+  "beat": "Trần Thị Lan nói: \"Có một người chị, làm ở Sài Gòn, em nghĩ anh nên gặp.\" Câu ấy Lan nói khi đang gấp áo, giọng bình thản như bảo mai ăn gì. Hùng nhìn vợ một lú",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 94,
+  "title": "Hùng gặp cô Mai và cô Lan",
+  "vi": 3655,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "“Sách gì thế anh?” “Sách cũ. | Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách. | Hai người đọc cùng nhau.",
+  "py": "1986",
+  "exp": "15,409 (+182 nhịp này)",
+  "sp": "5,227m² (+45m²)",
+  "freeform": [
+   "Hùng gặp cô Mai và cô Lan. Cô Mai nói nhiều, cô Lan nói ít. Hùng chọn cô Lan.",
+   "\"Người nói ít thường giữ bí mật. Làm tài chính cần người giữ được bí mật.\"",
+   "Mai ráo riết, Lan sắc sảo — Hùng thấy mình đứng giữa hai ngã rẽ."
+  ],
+  "beat": "Quần áo ông bết vào ghế, mồ hôi thấm qua áo sơ mi kẻ ô vuông, mùi xăng dầu quyện với mùi người và mùi cam thối dưới gầm ghế.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 95,
+  "title": "Hùng chọn cô Hạnh",
+  "vi": 3663,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [
+   [
+    "Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.",
+    2
+   ]
+  ],
+  "cliff": true,
+  "close": "“Cảm ơn em.” Ông uống một ngụm, mát lạnh. | Ông thở dài, mỏ mệt nhưng lòng nhẹ. | Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.",
+  "py": "1986",
+  "exp": "15,591 (+182 nhịp này)",
+  "sp": "5,273m² (+46m²)",
+  "freeform": [
+   "Hùng chọn cô Hạnh — người duy nhất nói thẳng: \"Lương thế này em không làm được.\"",
+   "\"Anh không cần người dễ bảo. Anh cần người dám bảo anh sai.\"",
+   "Trái tim không chọn lý lẽ — nó chọn người mang lại sự bình yên."
+  ],
+  "beat": "Gió heo may thổi qua ô cửa kính mờ của quán cà phê góc phố Cổ Điển, mang theo mùi bụi đường và khói than tổ ong từ xa vọng lại.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 96,
+  "title": "Bà Hà bế cháu nội",
+  "vi": 3566,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Bên ngoài, Hà Nội tiếp tục chạy. Xe máy, xích lô, tiếng rao, tiếng chó, tiếng trẻ con học bài, tiếng đài phát thanh ở cuối phố. Năm 1987, một năm của Đổi Mới và của những người dám",
+  "py": "1987",
+  "exp": "15,773 (+182 tinh thần tích lũy)",
+  "sp": "5,318m² (không thay đổi)",
+  "freeform": [],
+  "beat": "Bà Hà mở mắt trước tiếng gà. Cái lạnh tháng Mười một thấm qua bức tường gạch xây từ thời bao cấp. Bà kéo tấm chăn bông độn bông cũ lên ngang ngực, không vội trở",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 97,
+  "title": "Sản xuất điện tử",
+  "vi": 3189,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "— Mỗi giờ chú kiểm một lần. Ai hàn sai, chú chỉ ngay. Một tuần, tôi cần yield lên chín mươi phần trăm. | Chú Bảy gật. Ăn xong, ông lấy kính lúp ra, đi từng trạm hàn. Hùng đứng nhìn",
+  "py": "1987",
+  "exp": "15,955 (+182 nhịp này)",
+  "sp": "5,364m² (+46m²)",
+  "freeform": [
+   "Dây chuyền điện tử chạy thử. Minh soi bo mạch dưới đèn: \"Tỉ lệ đạt 92%.\"",
+   "Hùng nhìn đường mạch đồng mảnh như sợi tóc. \"Tốt. Tháng sau nâng lên 95%.\"",
+   "Linh kiện điện tử đầu tiên ra lò — không lung linh, nhưng chạy được."
+  ],
+  "beat": "Sáng sớm tháng ba năm 1987. Khu công nghiệp mới nhú lên ở rìa thành phố, giữa những thửa ruộng lúa chiêm còn xanh. Nhà xưởng dựng tạm — tường tôn, mái fibrô xi ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 98,
+  "title": "Sản xuất điện thoại",
+  "vi": 3363,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "— Khuya nay em ngủ lại xưởng với Bình, bắt đầu sắp xếp dây chuyền cho ngày mai. Có khó không? | — Không — Bình đáp ngay. | Hùng nhìn Bình, thấy cậu thợ trẻ đã khác. Không còn sợ sệ",
+  "py": "1987",
+  "exp": "16,136 (+181 nhịp này)",
+  "sp": "5,409m² (+45m²)",
+  "freeform": [
+   "Chiếc điện thoại Thương Gia đầu tiên. Đen, đơn giản, nặng tay.",
+   "Hùng nhấc ống nghe, quay số. \"A lô?\" — Giọng Lan từ phòng bên. Hùng cười.",
+   "Chiếc điện thoại đầu tiên mang thương hiệu Thương Gia."
+  ],
+  "beat": "Tiếng máy nổ diesel rền từ xưởng cơ khí bên cạnh. Hùng đứng ở cửa, nhìn ba dãy bàn gỗ xếp dọc theo nền xi-măng còn mùi mới. Trên mỗi bàn: một khung gỗ kê, bộ đồ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 99,
+  "title": "Mở rộngviễn thông",
+  "vi": 3980,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Ông gấp sổ. Bên ngoài, mưa tháng Chín. Tiếng mưa gõ trên mái tôn — đều, không vội. Dưới ánh đèn dầu, ông thấy rõ những con số và đường kẻ trên trang giấy — mỗi con số là một thuê b",
+  "py": "1987",
+  "exp": "16,318 (+182 nhịp này)",
+  "sp": "5,455m² (+46m²)",
+  "freeform": [],
+  "beat": "Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi gi",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 100,
+  "title": "Sản xuất phần mềm",
+  "vi": 3558,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Lý Minh có lẽ sẽ tự hào. | <!-- END_MARKER_DO_NOT_REMOVE --> | Teaser:",
+  "py": "1987",
+  "exp": "16,500 (+182)",
+  "sp": "5,500m² (+45m²)",
+  "freeform": [],
+  "beat": "1987. Một căn phòng nhỏ nằm sâu trong Khu công nghiệp — ba cái bàn gỗ ghép từ ván thùng, hai máy tính IBM PC XT 286 mang về từ Singapore, một ổ đĩa mềm 5.25 inc",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 101,
+  "title": "Mở rộngcửa hàng 108",
+  "vi": 3599,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng cười, viết tiếp. Bà Hà đứng dậy, pha ấm trà mới. Ngoài hiên, mưa bụi bay lất phất. Hà Nội vào đông, nhưng tờ giấy trắng trên bàn vừa được lấp đầy những con số đầu tiên của một",
+  "py": "1987",
+  "exp": "16,625 (+125 nhịp này)",
+  "sp": "7,920m² (+2,387m² so với sổ cũ",
+  "freeform": [],
+  "beat": "Năm 1987. Hùng đặt mục tiêu: 108 cửa hàng trên cả nước trước khi tờ lịch cuối rơi. Không phải vì số đẹp — 108 là con số ông tính ra từ sổ: 36 tỉnh thành, trung ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 102,
+  "title": "Mở rộngnhà hàng 42",
+  "vi": 3772,
+  "dbl": true,
+  "rom": [
+   [
+    "phe phẩy quạt",
+    1
+   ],
+   [
+    "nằm võng",
+    1
+   ],
+   [
+    "Có em ở đây, không mệt",
+    1
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [
+   "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạ"
+  ],
+  "dups": [
+   [
+    "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+    2
+   ],
+   [
+    "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ L",
+  "py": "1987",
+  "exp": "16,750 (+125 nhịp này)",
+  "sp": "5,567m² (+34m²)",
+  "freeform": [
+   "\"Bếp Xưa\" — chuỗi nhà hàng đầu tiên — mở cửa Hà Nội. Lan hỏi vì sao tên đó.",
+   "\"Để người ta nhớ món ngày xưa ăn với bà.\" Bà Hà quay mặt đi. Hùng thấy bà quệt k",
+   "Hùng bước ra khỏi bếp \"Bếp Xưa\" lúc nửa đêm."
+  ],
+  "beat": "Hùng đứng trước ba cái lò cũ kỹ, tay lau mồ hôi dính bột. Tháng ba năm 1987, Hà Nội vẫn  nhưng mồ hôi cứ chảy vì lo chứ không vì nóng. Nhà hàng 42 đã có chỗ đứn",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 103,
+  "title": "Mở rộngnhà máy 30",
+  "vi": 3242,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Từ một xưởng may sau nhà đến ba mươi nhà máy. Ông không nói gì, chỉ gật đầu với Minh. | Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca. | Hùng nhíu mày, siết ngón tay sổ ch.103. Lan ",
+  "py": "1987",
+  "exp": "0",
+  "sp": "0",
+  "freeform": [],
+  "beat": "Con số 30 treo trước mặt Hùng từ đầu năm 1987. Ba mươi nhà máy — không phải ba mươi xưởng nhỏ, không phải ba mươi điểm thuê mặt bằng. Nhà máy. Mỗi cái có tường,",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 104,
+  "title": "Mở rộngxuất khẩu châu Âu",
+  "vi": 3585,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [
+   [
+    "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+    2
+   ],
+   [
+    "Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp",
+    2
+   ],
+   [
+    "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ",
+  "py": "1987",
+  "exp": "17,000 (+125 nhịp này)",
+  "sp": "5,633m² (+33m²)",
+  "freeform": [],
+  "beat": "Bình minh tháng Ba năm 1987, Hùng đứng ở cầu cảng Hải Phòng. Gió biển thổi mạnh, mang theo vị mặn chát của muối lẫn với mùi dầu diesel từ những con tàu đang nổ ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 105,
+  "title": "Tổng kết Phần 3",
+  "vi": 3166,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 4,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [
+   [
+    "Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách.",
+    2
+   ],
+   [
+    "Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.",
+    2
+   ]
+  ],
+  "cliff": true,
+  "close": "Radio phát nhạc Trịnh Công Sơn. | \"Anh thích bài này lắm.\" Lan quay sang cười: \"Biết, nên em mới mở đó.\" Hùng sững lại rồi cười. | Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.",
+  "py": "1987",
+  "exp": "17,125 (+125)",
+  "sp": "5,667m² (+34m²)",
+  "freeform": [],
+  "beat": "Trần Văn Hùng đóng cuốn sổ cuối cùng của Phần 3, thấy một đường thẳng từ Chương 90 đến Chương 104 — không đẹp, không trơn, nhưng mỗi đoạn đều có người thật việc",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 106,
+  "title": "Bắt đầu Phần 4",
+  "vi": 3299,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng nhìn cô gái trẻ, rồi nhìn ra cửa sổ. Biển xanh một màu xanh lạ, khác hẳn biển Bắc. Những con sóng dài lười biếng xô vào bờ cát trắng, mang theo một thứ gì đó xa xôi, mênh mang",
+  "py": "1987",
+  "exp": "17,250 (+125 nhịp này)",
+  "sp": "5,700m² (+33m²)",
+  "freeform": [
+   "Phần 4. Hùng viết: \"Ra thế giới.\" Đà Nẵng, Jakarta, Bangkok. Lan hỏi: \"Có sợ khô",
+   "Hùng nhìn tàu khuất ở chân trời. \"Sợ. Nhưng không làm còn sợ hơn.\"",
+   "Hùng cất bút, mở trang đầu Phần 4 — tờ giấy trắng tinh."
+  ],
+  "beat": "Hùng ngồi ở bàn giấy cạnh cửa sổ nhìn ra cảng Đà Nẵng. Sáng sớm, cảng chưa ồn. Năm 1987. Part 4 bắt đầu không bằng tiếng pháo — bằng một tờ giấy nháp viết tay v",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 107,
+  "title": "Mở nhà máy Thái Lan",
+  "vi": 3664,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "\"Có gì đâu.\"Ông vỗ vai công nhân, mắt ông nhìn cậu ta trìu mến, rồi quay lưng đi về phòng, bước chân mệt nhưng nhẹ nhõm. | 「Hệ thống — CỘT MỐC ch.107」 Năm: 1987 Tổng EXP: 18,400 (+",
+  "py": "1987",
+  "exp": "17,375 (+125)",
+  "sp": "5,733m² (+33m²)",
+  "freeform": [],
+  "beat": "Trần Văn Hùng xuống sân bay Don Mueang — hành lý một túi, hồ sơ một cặp, danh thiếp một xấp nhàu.",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 108,
+  "title": "Mở nhà máy Indonesia",
+  "vi": 3633,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Trước khi ngủ, ông mở sổ lần cuối, ghi vào cuối trang: | \"Nhà máy Indonesia — ngày 1 — còn nguyên rủi ro — nhưng đã mở được cửa.\" | Ông tắt đèn. Mưa rơi trên mái tôn. Jakarta còn n",
+  "py": "1987",
+  "exp": "17,500 (+125 nhịp này)",
+  "sp": "5,767m² (+34m²)",
+  "freeform": [
+   "Jakarta. Nhà máy Indonesia bắt đầu sản xuất. Công nhân mặc đồng phục Thương Gia.",
+   "Quản lý hỏi: \"Ông muốn nói gì?\" Hùng lắc đầu. \"Họ làm tốt rồi.\"",
+   "Máy chạy, tiếng động cơ vang đều trong xưởng Jakarta."
+  ],
+  "beat": "Hùng xuống xe lúc sáu giờ sáng. Chuyến bay từ Sài Gòn đến Jakarta mất ba tiếng rưỡi, nhưng cảm giác như sang một thế giới khác. Sân bay Soekarno-Hatta vừa mở đư",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 109,
+  "title": "Mở nhà máy Đức",
+  "vi": 3229,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Tối đó không có điện thoại, không có báo cáo. Ông đi bộ ra sông Main, đứng nhìn thành phố lên đèn. Xa xa là nhà máy cũ kỹ của mình với ba ô cửa sổ sáng — bảo vệ trực đêm. Ngọn đèn ",
+  "py": "1987",
+  "exp": "17,625 (+125 nhịp này)",
+  "sp": "5,800m² (+33m²)",
+  "freeform": [],
+  "beat": "Hùng đứng trước một nhà xưởng bỏ hoang ở ngoại ô Frankfurt — ba tầng, tường gạch đỏ bám bồ hóng, cửa sắt kẹt cứng vì gỉ. Đám cỏ dại mọc lút đầu gối ở bãi xe. Bê",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 110,
+  "title": "M&A Bangkok Electronics",
+  "vi": 3128,
+  "dbl": false,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [
+   [
+    "Hùng nhíu mày, siết ngón tay",
+    1
+   ]
+  ],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng gấp sổ tay lại, nhìn ra ô cửa kính. Bầu trời Bangkok đang nhạt dần vào hoàng hôn. \"Mua xong rồi, nhưng mua mới là bắt đầu,\" ông nói, như nói với chính mình. Lan ngồi đối diện,",
+  "py": "1987",
+  "exp": "17,750 (+125)",
+  "sp": "5,833m² (+33m²)",
+  "freeform": [],
+  "beat": "Năm 1987. Bangkok. Mục tiêu: một xưởng linh kiện điện tử Thái Lan tên Bangkok Electronics — ba mươi bảy nhân công, một dây chuyền lắp ráp bo mạch đơn giản, và m",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 111,
+  "title": "Mở sang châu Mỹ USA",
+  "vi": 2990,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Ngoài hiên, một con mèo hoang kêu lên rồi im bặt. Tiếng gió thổi qua kẽ cửa kêu vi vu, một âm thanh cao và đơn độc. Hùng nhận ra mình đã ngồi đây hơn ba tiếng; lưng đau âm ỉ, mắt c",
+  "py": "1987",
+  "exp": "17,875",
+  "sp": "5,867m²",
+  "freeform": [
+   "Telex từ California. Mẫu hàng chưa gửi. Nhưng một cánh cửa đã hé ra. Nếu mai mất"
+  ],
+  "beat": "Bảy giờ sáng, Sài Gòn cuối năm 1987. Cái lạnh miền Nam không ồn ào như gió mùa đông bắc — nó im lặng, thấm dần qua từng lớp áo len mỏng, qua kẽ cửa sổ gỗ đã co ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 112,
+  "title": "Hoàn thành phần 3",
+  "vi": 3341,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": true,
+  "close": "Thành quả: 108 cửa hàng | 30 nhà máy (16.400m²) | 3 container xuất khẩu | yield 92% | máy điện thoại 98-01 | Còn container nữa sẽ rời cảng. Còn người thức viết sổ cho Part 4. | Tea",
+  "py": "1987",
+  "exp": "18,000 (+125)",
+  "sp": "5,900m² (+33m²)",
+  "freeform": [],
+  "beat": "Gió biển thổi từ cảng Tiên Sa vào, mang theo vị mặn của muối, tiếng còi tàu từ xa, và một chút khói dầu diesel từ những chiếc tàu cá nằm dọc bến. Hoàng hôn buôn",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 113,
+  "title": "Mở nhà máy USA",
+  "vi": 3001,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Kỹ năng trọng yếu: Ngôn ngữ lv1, Tài chính lv1, Tài chính lv2 | Mối hàn của Wojtek vẫn chịu được. | Teaser:",
+  "py": "1987",
+  "exp": "18,083 (+83)",
+  "sp": "5,917m² (+17m²)",
+  "freeform": [],
+  "beat": "Không có xe đón ở sân bay. Hùng tự xách vali, tự bắt taxi đến khách sạn nhỏ ngoại ô — ba mươi lăm đô một đêm, cái giá bằng một tuần lương của công nhân Việt Nam",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 114,
+  "title": "M&A Stahl GmbH",
+  "vi": 2980,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Một công nhân bốc xếp, không biết Hùng là ai, vỗ tay lên cuộn thép, nói với đồng nghiệp: \"Thép Đức đấy. Của công ty mình mua hẳn cả nhà máy bên đó.\" Giọng anh ta có gì đó rất giống",
+  "py": "1987",
+  "exp": "18.150 | Không gian kho: 7.500m² (bao gồ",
+  "sp": "7.500m² (bao gồm Stahl GmbH)",
+  "freeform": [
+   "Chuỗi thép đã thành vòng. Ba thế hệ thợ Đức vẫn còn việc."
+  ],
+  "beat": "Cái rét đầu đông luồn qua ô cửa kính nhà máy Thép Thương Gia, nơi những cuộn thép cuộn tròn nằm như những con rắn sắt khổng lồ dưới ánh đèn vàng vọt. Trong phòn",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 115,
+  "title": "Mở nhà máy Nigeria",
+  "vi": 3011,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Bên góc xưởng, cánh phụ nữ lại cất tiếng hát bài Yoruba buổi tối. Fatima hát to nhất, giọng khàn nhưng khỏe. Emeka gõ nhịp lên thùng thép rỗng. Máy phát rền đều ngoài sân, ba trăm ",
+  "py": "1987",
+  "exp": "18,250",
+  "sp": "5,950m²",
+  "freeform": [
+   "Còn hỏi được là còn sống. Ngày mai dầu diesel phải đủ, và bà Fatima sẽ lại hát."
+  ],
+  "beat": "Lagos, Nigeria — tháng Ba 1987. Nhiệt độ lúc mười giờ sáng đã chạm bốn mươi hai độ C. Bụi đỏ laterit mịn như bột mì nhưng dai như keo — bám vào ống quần, vào cổ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 116,
+  "title": "Mở nhà máy Úc",
+  "vi": 3217,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [
+   [
+    "Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp",
+    2
+   ],
+   [
+    "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+    2
+   ]
+  ],
+  "cliff": false,
+  "close": "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ L",
+  "py": "1987",
+  "exp": "18,333",
+  "sp": "5,967m²",
+  "freeform": [
+   "Adapter của Ivan đến sân bay sáng mai. Geoff lắp trước một giờ. Đèn Cabramatta t",
+   "Hom sau, ong thuc day, thay minh con khoe. O song tiep."
+  ],
+  "beat": "Sydney, tháng Ba 1987. Chuyến bay từ Sài Gòn qua Singapore rồi Sydney kéo dài mười bốn tiếng. Hùng ngồi ghế phổ thông, tập bản vẽ và sổ tay trên bụng, ngủ được ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 117,
+  "title": "Tổng tài sản 1000 tỷ",
+  "vi": 2960,
+  "dbl": true,
+  "rom": [
+   [
+    "nằm võng",
+    2
+   ]
+  ],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Nhân dịp cuối năm, Hùng tổ chức trao quà Tết cho các gia đình chính sách. Ông mua hai trăm suất quà, mỗi suất gồm gạo, dầu ăn, bánh kẹo, và một phong bì. Ông tự tay trao cho từng n",
+  "py": "1987",
+  "exp": "18,417",
+  "sp": "5,983m²",
+  "freeform": [
+   "Giàu nhất huyện? Không — chỉ là người còn nhớ kiểm góc tối. Bà nội bảo ngủ đi — "
+  ],
+  "beat": "Tiếng máy may dừng lúc mười một giờ đêm. Cả xưởng chỉ còn một bóng đèn trần vàng vọt, hắt bóng dài lên những kiện vải xếp chồng dọc tường. Những chiếc máy may i",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 118,
+  "title": "Những ngày nằm viện",
+  "vi": 3007,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Trong đầu ông lúc này không có con số. Không hợp đồng. Không đối tác. Chỉ có bát cháo hành bà Hà mang sáng nay, vị ngọt của cá kho, câu nói của bà: đừng tính sai cái gì đáng giá hơ",
+  "py": "1987",
+  "exp": "18,500 (+83)",
+  "sp": "6,000m² (+17m²)",
+  "freeform": [],
+  "beat": "Hùng đang cầm bút ký hợp đồng với một thương lái từ Quảng Nam — tờ giấy kẻ ngang, mực xanh còn đọng trên ngòi. Câu cuối cùng trong bản hợp đồng: \"Bên A cam kết ",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 119,
+  "title": "Bước ngoặt sức khỏe",
+  "vi": 3121,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng dừng bút, nhìn ra cửa sổ một lúc rồi viết tiếp, chữ nét đậm hơn dòng trước. Lan gấp trang sổ, đặt bút xuống bàn, nhìn Hùng chờ câu trả lời cuối. Ngoài sân, gió thổi qua mái tô",
+  "py": "1988",
+  "exp": "18,583 (+83)",
+  "sp": "6,017m² (+17m²)",
+  "freeform": [],
+  "beat": "Tròn mặt trời đang lên cao giữa buổi trưa. Hùng ngồi ở bàn cuối phòng giao dịch, tay phải cầm bản hợp đồng thương lượng giá lô hàng xà phòng với đối tác Đà Nẵng",
+  "panel_has_teaser": false
+ },
+ {
+  "n": 120,
+  "title": "Học cách ủy thác sâu hơn",
+  "vi": 2634,
+  "dbl": true,
+  "rom": [],
+  "spam_tot": 0,
+  "spam_rep": [],
+  "b3": [],
+  "broken": 0,
+  "wife": [],
+  "dups": [],
+  "cliff": false,
+  "close": "Hùng nhìn bóng Bắc khuất sau cổng. Ông không biết — từ bước chân đó, một mối thù thầm lặng đã bắt đầu. | Teaser: Đêm đó, Lan về phòng, mở tủ lấy cuốn sổ mới. Trên trang đầu, cô viế",
+  "py": "1988",
+  "exp": "18,667 (+84)",
+  "sp": "6,033m² (+16m²)",
+  "freeform": [
+   "Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Bốn giờ rưỡi, trời còn tối. Ông không ",
+   "Ông đứng dậy, bước ra cổng. Bà bán hoa vẫn còn đó, đang sắp lại hàng. Hùng mua m",
+   "Trong phòng, mùi hoa cúc hòa với mùi giấy tờ cũ, thơm nhẹ. Hùng ngồi xuống ghế, "
+  ],
+  "beat": "Năm giờ sáng, Đà Nẵng 1988. Hùng ngồi ở bàn gỗ trong căn phòng vừa làm việc vừa làm phòng khách — hai chồng hồ sơ, một máy chữ cũ Olivetti, một lịch treo tường ",
+  "panel_has_teaser": false
+ }
+]

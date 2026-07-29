@@ -1,6 +1,5 @@
 ============================================================
 Chương 235: Hùng trên truyền hình quốc tế
-============================================================
 
 Đầu tháng Năm năm 2009, Hùng nhận được báo cáo tài chính quý I từ phòng kế toán. Bản in trên giấy trắng A4, bìa hồ sơ màu xanh nhạt, góc phải đóng dấu đỏ "TÀI LIỆU MẬT". Số liệu khả quan hơn nhiều so với quý cuối năm ngoái. Doanh thu hợp nhất đạt bảy trăm hai mươi tỷ đồng, tăng mười hai phần trăm so với quý IV năm 2008. Lợi nhuận sau thuế đạt tám mươi bốn tỷ đồng, gấp ba lần quý trước. Dòng tiền từ hoạt động kinh doanh dương trở lại lần đầu tiên sau sáu tháng. Nợ vay giảm từ hai trăm tám mươi tỷ xuống hai trăm năm mươi tỷ. Hàng tồn kho giảm ba mươi phần trăm so với quý trước. Tất cả các chỉ số tài chính đều xanh, báo hiệu sự phục hồi rõ rệt sau cơn khủng hoảng tồi tệ nhất trong lịch sử toàn cầu.
 
@@ -155,7 +154,6 @@ Hùng đứng trên khu đất, nghe ông Cường giải thích bản vẽ chi 
 "Sẽ tốn thêm phụ cấp ca đêm."
 
 "Tôi biết. Nhưng thời gian còn quý hơn tiền. Mỗi tháng chậm trễ là mất cơ hội cho thuê nhà máy."
-==================================================
 Trên chuyến bay về Hà Nội, Hùng ngồi cạnh cửa sổ, nhìn xuống những cánh đồng lúa xanh mướt trải dài dưới ánh nắng chiều. Những con sông uốn lượn, những mái nhà nhỏ bé, những con đường đất ngoằn ngoèo — đất nước còn nghèo, nhưng đang thay đổi từng ngày.
 
 Ông rút cuốn sổ tay, viết thêm:
@@ -180,25 +178,19 @@ Buổi tiệc diễn ra tại khách sạn Melia Hà Nội. Hùng mặc bộ com
 
 Hùng bỏ danh thiếp vào túi áo trong. Một cánh cửa mới vừa mở ra — không phải từ phòng họp, không phải từ ngân hàng, mà từ một buổi tiệc chiêu đãi ngoại giao.
 
-============================================================
-
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Minh nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Minh cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Minh. "Tặng em." Minh nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Minh hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
-Hai ly nước ấm trên bàn. Hùng đưa một ly cho Minh. "Uống đi, trời lạnh." Minh nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
-
-
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Lan nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
 
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Minh đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Minh quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.235. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.235」
 Năm: 2009
 Tổng EXP: 55,580 (+360)
 Không gian kho: 24,344m² (+72m²)
-Kỹ năng: Quản trị dự án lv2, Nghiên cứu & phát triển lv1, Tuyển dụng nhân tài lv1
+Kỹ năng trọng yếu: (xem ledger)
+Ghi chú: khóa nhịp

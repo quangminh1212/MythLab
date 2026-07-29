@@ -1,6 +1,5 @@
 ============================================================
 Chương 318: Ủy thác tài sản minh bạch
-============================================================
 
 「Teaser」
 Khi một người đàn ông quyết định giao lại tài sản cả đời gây dựng, ông ta không chỉ viết vài trang giấy. Ông ta phải chọn giữa niềm tin và sự kiểm soát, giữa tình thương và kỷ luật, và trên hết — giữa việc bảo vệ con cái và để mặc chúng tự bơi giữa dòng đời.
@@ -245,8 +244,6 @@ Hùng trả lời: "Con vẫn lo. Nhưng con không lo một mình nữa."
 
 Đó, có lẽ, là một trong những thành công lớn nhất của Trần Văn Hùng — không phải là xây dựng được một tập đoàn nghìn tỷ, mà là học cách chia sẻ gánh nặng với những người mình yêu thương.
 
-
-
 「PANEL」
 
 Hợp đồng ủy thác tài sản số: UT.2015.1005
@@ -298,18 +295,15 @@ Và ông nhận ra: kho báu thực sự không phải là tập đoàn nghìn t
 
 「HẾT CHƯƠNG 318」
 
-
-
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho Lan. "Tặng em." Lan nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn Lan hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
 「Hệ thống — GHI NHẬN ch.318」
-Năm: 2013
+Năm: 2015
 Tổng EXP: 77,400 (+300)
 Không gian kho: 41,000m² (+333m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================
+Ghi chú: system_ledger

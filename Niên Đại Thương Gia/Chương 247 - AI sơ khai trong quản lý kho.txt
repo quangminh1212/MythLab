@@ -1,6 +1,5 @@
 ============================================================
 Chương 247: AI sơ khai trong quản lý kho
-============================================================
 
 Năm 2006, Hải Phòng.
 
@@ -60,9 +59,7 @@ Năm 2007, hệ thống quản lý kho thông minh của Dũng — thứ mà sau
 
 Nhưng giá trị thực sự không nằm ở 400 triệu đồng tiết kiệm được. Giá trị thực sự là nền móng. Bởi từ hệ thống dữ liệu ban đầu này, Thương Gia bắt đầu xây dựng những thứ lớn hơn nhiều. Trung tâm dữ liệu. Phân tích thị trường tiêu dùng. Dự báo xu hướng bán hàng theo mùa vụ. Và cuối cùng — bước ra thế giới, với công nghệ do chính người Việt Nam viết ra.
 
-
 Hung gap mot nguoi thay tuong noi tieng. Ong thay nhin ong mot luc roi noi: 'Ong la nguoi co niem tin rat lon. Nhung ong cung co nhieu lo au.' Hung gat: 'Toi lo cho cong ty, lo cho cong nhan.' Ong thay cuoi: 'Lo la tot. Nhung dung đe lo au lam ong quen mat nhung đieu tot đep xung quanh.' Tu đo, Hung tap nhin cuoc song nhe nhang hon. O van lo, nhung khong đe no ap che.
-
 
 Hung ngoi mot minh trong van phong vang, nhin ra pho phuong ben ngoai. Den pho bat đau vang len. O thay minh that nho be giua long thanh pho lon. Nhung chinh cam giac nho be đo lai cho ong suc manh: boi vi khi biet minh con nho be, ong moi tiep tuc co gang. 'Khong co gi la lon lao neu minh khong biet bo cong xay dung. Moi thu đeu tu nhung đieu nho nhat.' O nho lai nhung ngay đau chi co mot sap vai nho. Va bay gio, khi Thuong Gia đa lon, ong van song voi tinh than cu. O khong đe minh tro thanh mot 'ong chu' kieu cach.
 
@@ -70,64 +67,43 @@ Mot đêm mua đong, Hung cam thay noi nho đen nhung ngay xua, nhung ngay con k
 
 Tien bac, đoi khi, lam con nguoi thay đoi. Nhung Hung khong đe tien lam hu ong. O vẫn ăn com binh dan, mặc ao gia re, đi xe cu. Khong phai vi tiet kiem. Ma vi ong thay, tien khong lam minh tot hon. 'Giau co khong xau. Nhung giau co ma mat nhan cach moi la xau.' Câu noi đo đa thanh cham ngon song cua ong.
 
-
 O nhin lai cuoc đoi, Hung thay minh đa đat đuoc nhieu thu. Nhung ong khong kieu ngạo. O biet con đuong phia truoc con dai, con nhieu đieu phai hoc. 'Mot đoi nguoi, đu song đe hieu het moi đieu hay sao?' O tu nhu, roi tu cuoi. Chac la khong. Nhung cu đu co gang, cu đu song het long, la đu.
 
 Hung gap lai mot nguoi ban cu o cho cu. Ho o nha huu, lon tuoi, nhung van ngoi ban rau. Hoi tham nhau, nguoi ban noi: 'Tao the nay, ma vui.' Hung cuoi: 'Tao cung vui.' Hai nguoi ban gia, khong con nhung uoc mo lon, chi con nhung cau chuyen nho ve con chau, ve thoi tiet. Nhung tinh ban van nguyen ven.
 
-
 Hung to chuc tet som cho cong nhan. 500 nguoi trong nha may, moi nguoi mot phong bi. Phong bi khong lon, nhung du đe mua thit, mua banh. Mot nguoi cong nhan gia cam đong noi: 'Sep oi, bao nhieu nam nay, chua nam nao sep quen tet.' Hung cuoi: 'Toi khong quen đuoc. Vi tet la cua anh chi em.' Nhung giay phut do, Hung thay minh nhu mot nguoi cha cua mot gia đinh lon. Va ong yeu gia đinh đo.
-
 
 Hung va ba Ha xem lai album cu. Nhin nhung buc anh cu, nhung nguoi ban cu, nhung ky niem xua. O cuoi: 'Cuoc song đa cho minh nhieu qua that.' O cam thay binh yen, hanh phuc, va song tiep cuoc song.
 
-
 Hung nho lai nhung ngay đau tien xay dung nha may. O cung ban be, anh em, thuc đem lam đem. 'Cuc, nhung vui.' O thay minh that co gang thanh cong va co y nghia. Tuong lai, ong se con lam nhieu đieu cho xa hoi.
-
 
 Hung di tham vung cao. O giup do bang cach mua san pham. Kinh doanh khong chi la ban hang, con la chia se.
 
-
 Hung ngoi tren ban, nhin ra pho. O nho mot cau noi: 'Song la khong chi cho minh. Ma cho moi nguoi.' O hieu ra: cuoc song cua ong co y nghia nho nhung nguoi xung quanh. Cong nhan, ban be, đoi tac, gia đinh. O cam on ho.
-
 
 Hung đi dao tren pho, thay hai đua tre choi đua. O đung lai nhin. Chung cuoi vang, ngu ngheo. Hung cam thay nho lai tuoi tho. O hua se giup đua tre co tuong lai tot hon.
 
-
 Mot nguoi ban ngheo gap Hung keu khan. Hung liên he giup đo. 'Minh song phai biet giup đo nhau. Kho khan roi se qua. Tinh ban con đay.'
-
 
 Mot hom, Hung doc sach ve cac nha sang lap. O thay minh trong ho. Cung gian kho, cung đam me. O cam thay minh khong đon đoc. O tiep tuc đoc, tiep tuc hoc.
 
-
 Mot chuyen xe đi qua vung nui. Hung thay canh đep. O thay minh nho nhoi. O song co ich. O song cho moi nguoi. Chuyen xe đi tiep, mang ong đen nhung noi xa. O tiep tuc hanh trinh.
-
 
 Mot cau chuyen nho: Hung thay mot em be nhat chiec banh roi xuong đat, em be nhat len an tiep. Hung mua cho em be mot o banh khac. 'Em an đi. Song phai biet huong thu.' Em be cuoi. Hung thay long am.
 
-
 'Anh Hung, anh lam the nao đe thanh cong?' Mot phong vien hoi. 'Khong co bi quyet. Chi co co gang, that la, va kien nhan.' 'Cam on anh.' Phong vien gap so ghi chep. Hung cuoi, nhin ra cua so, thay nang chieu vang.
 
-
 'Bác Hùng! Cháu chờ bác!' Một thanh niên chạy đến. 'Có chuyện gì thế cháu?' 'Cháu muốn cảm ơn bác. Cháu vừa tốt nghiệp đại học, đã có việc làm ổn định. Nhờ có bác cho cháu vay tiền học.' Thanh niên cúi gập người. Hùng đỡ cậu ta dậy: 'Tốt, tốt lắm. Cố gắng làm việc thật tốt nhé.' Cậu thanh niên gật đầu, mắt sáng lên, rồi chào tạm biệt. Hùng nhìn cậu ta khuất sau góc phố, thấy lòng mình reo vui.
-
 
 Người thanh niên cúi gập người, mắt đỏ hoe. "Bác ơi, cháu không biết nói gì hơn. Cảm ơn bác." Hùng đỡ cậu dậy, tay vỗ vai. "Không có gì đâu cháu. Cuộc sống là phải giúp đỡ nhau." Người thanh niên gật đầu, lau nước mắt. "Cháu sẽ cố gắng không phụ lòng bác." Hùng cười, mắt nheo lại. "Ừ, bác tin cháu."
 
 
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. {a} gắp thịt cho {b}. 'Em ăn đi.' {b} gắp lại. 'Anh ăn đi.' Họ cười, mắt nhìn nhau. {a} cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
 
-Một người khách đến, mắt đỏ hoe. {a} tiếp khách, mắt nhìn người đó đầy thấu hiểu. 'Có chuyện gì thế?' Người khách kể, {a} lắng nghe, không ngắt. Khi người khách kể xong, {a} gật đầu, tay đưa ly nước. 'Không sao. Rồi mọi chuyện sẽ qua.' Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
-
-Buổi chiều, {a} ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. {b} đi ra, tay cầm ly nước. 'Anh uống đi.' {a} nhận ly, tay chạm tay {b}. Mùi nước mát. 'Cảm ơn em.' Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+Hùng nhíu mày, siết ngón tay sổ ch.247. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.247」
-Năm: 2006-2007
+Năm: 2006
 Tổng EXP: 57,000 (+1,500 nhịp này)
-Không gian R&D: 40m²
+Không gian kho: 0
 Kỹ năng trọng yếu: Công nghệ cao lv2, Quản trị dữ liệu lv2, Quản lý kho lv3
 Ghi chú: Hệ thống dự báo tồn kho đầu tiên — độ chính xác 82%
-
-
-Teaser:
-============================================================

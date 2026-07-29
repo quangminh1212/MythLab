@@ -1,6 +1,5 @@
 ============================================================
 Chương 34: Tuyển kỹ sư Minh
-============================================================
 
 Ngày 12 tháng tư năm 1984, đúng lịch đã dời từ đầu tháng Ba, Hùng xuống ga Đà Nẵng khi nắng mới trườn qua mái tôn. Trong va-li của ông không có bản hợp đồng nào chờ ký, chỉ có ba gói hàng từ lô thực phẩm vừa mở tuyến vào Nam, chiếc cân lệch, bản vẽ tủ hong Minh đã gửi, một chiếc radio hỏng và thư chuyển đầu mối của ông Tam.
 
@@ -104,32 +103,6 @@ Hai người nhìn nhau, không ai nhường. Hiểu lầm mà Hùng lo đã hi�
 
 Hùng đứng giữa hai người, cảm thấy sự căng thẳng lan ra như một làn khói lạnh giữa căn kho chật hẹp. Bên ngoài, tiếng xe thồ lọc cọc trên đường đá, tiếng người bán hàng rao vọng từ xa, nhưng trong bốn bức tường này, không khí ngưng đọng. Ông nhìn Minh — người đàn ông gầy, đôi mắt sắc như lưỡi dao, bàn tay còn vương dầu mỡ — và thấy ở anh ta một cái gì đó rất giống mình thời trẻ: cứng đầu, tin vào những gì mắt thấy tay đo, không chịu nổi sự mập mờ. Rồi ông nhìn Hạnh — người đàn bà từng gom hàng cho ông khi chẳng ai dám, đôi mắt bà đã nhìn thấy quá nhiều lời hứa thất hẹn, quá nhiều kỹ thuật viên giỏi nhưng không biết làm việc với người thật. Trong đầu ông có hai tiếng nói. Một tiếng bảo: giữ Minh bằng mọi giá. Một tiếng bảo: nếu không hòa được hai người này, thì giữ cũng vô ích. Ông hít một hơi thật sâu, cảm nhận mùi dầu máy và mùi giấy cũ trong kho, rồi bước tới bàn, lấy viên phấn.
 
-Hùng lấy phấn kẻ ba cột lên vách kho: lỗi vật liệu, lỗi thiết bị, lỗi thao tác.
-
-“Không cột nào mang tên người,” ông nói. “Mã hóa đầu đóng nắp A, B, C. Hạnh giữ bảng ca; Minh chỉ thấy mã trong tuần thử. Khi tìm ra nguyên nhân mới mở bảng, mục đích là đào tạo hoặc chỉnh máy. Chỉ xử lý cá nhân nếu có hành vi che lỗi sau khi đã được hướng dẫn.”
-
-Minh hỏi: “Nếu người vận hành làm sai liên tục?”
-
-“Thì trách nhiệm đầu tiên thuộc người giao việc và người thiết kế công đoạn. Anh sẽ có quyền dừng máy khi tỷ lệ rỉ vượt hai phần trăm, nhưng không có quyền trừ lương.”
-
-Cô Hạnh hỏi lại: “Ai có quyền cho chạy?”
-
-“Minh xác nhận kỹ thuật; Hạnh xác nhận đủ người, đủ sổ lô; tôi chịu quyết định cuối trong tháng thử việc.”
-
-Đường ranh quyền hạn được viết ngay dưới ba cột. Không ai hoàn toàn hài lòng, vì vậy Hùng biết nó có cơ hội công bằng.
-
-Minh đặt đũa xuống rồi hỏi thẳng mức lương. Hùng không vòng vo: hai trăm sáu mươi đồng một tháng trong ba tháng thử việc, cao hơn thợ lành nghề tại xưởng nhưng chưa bằng mức Minh đòi ba trăm hai mươi. Tiền tàu khi đi Hà Đông, chỗ ở tập thể và công tác phí do doanh nghiệp chịu. Sau thử việc, nếu hoàn thành ba chỉ tiêu, lương lên ba trăm hai mươi: dựng được quy trình bảo trì máy đóng gói; kéo tỷ lệ rỉ nắp xuống dưới hai phần trăm trên ba lô liên tiếp; hoàn thành mẫu radio thử nghiệm có hồ sơ linh kiện, sơ đồ mạch và biên bản kiểm.
-
-“Anh đang tuyển tôi cho thực phẩm hay radio?”
-
-“Thực phẩm trả lương ba tháng đầu. Radio quyết định chúng ta có làm việc lâu không.”
-
-“Quyền mua linh kiện?”
-
-“Anh lập định mức và duyệt chất lượng. Lan duyệt tiền. Đơn trên năm trăm đồng phải có tôi hoặc hai chữ ký thay thế.”
-
-“Quyền chọn người?”
-
 “Đề xuất hai thợ phụ. Không tự nhận họ hàng. Mỗi người phải qua một bài thử có biên bản.”
 
 “Nếu tôi nói thiết kế của anh không làm được?”
@@ -228,13 +201,11 @@ Hùng không đi cùng chuyến tàu. Ông còn một cuộc gặp với đại 
 
 Khi đoàn tàu khuất sau dãy mái, hệ thống hiện lên trong tầm nhìn Hùng. Lần này ông hiểu trigger: không phải một cái bắt tay, mà là chuỗi quyết định đã biến một người giỏi thành năng lực có thể vận hành mà không phá đội cũ. Phần không gian mới mở ra được ông khóa cho bàn thử cơ điện: khu khô, cách kho thực phẩm, có giá linh kiện và tủ giữ mẫu. Năm mươi mét vuông ấy chưa phải nhà máy radio; nó chỉ là nơi một lời hứa phải chịu được đồng hồ đo, rung động và chữ ký.
 
-============================================================
-
-Sáng chủ nhật, Hùng gấp chăn màn, Lan lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Lan quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
-
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.34」
 Năm: 1984
@@ -242,4 +213,3 @@ Tổng EXP: 2,360 (+140 nhịp này)
 Không gian kho: 2,200m² (+50m²)
 Kỹ năng trọng yếu: Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
 Ghi chú: Tuyển Minh sau bốn bài thử; khu mới khóa làm bàn thử cơ điện, không tính vào kho thực phẩm.
-============================================================

@@ -1,0 +1,60 @@
+| 301 | Lan CEO tập đoàn | 8.4 | 9.0 | Không | WARN | nhẫn cưới vs em gái; panel +800 |
+| 302 | Hùng Chủ tịch Hội đồng | 8.3 | 9.1 | Không | WARN | pre-panel spill nhẹ |
+| 303 | Thế hệ ba bắt đầu | 8.5 | 9.0 | Không | WARN | teaser rỗng; Nam OK |
+| 304 | Học bổng 10.000 SV | 8.2 | 8.8 | Không | WARN | năm 2012 lùi; sensory mỏng |
+| 305 | Gặp lại ông Tanaka | 8.8 | 9.2 | Không | WARN | Tanaka vợ mất — core mạnh |
+| 306 | Gặp lại ông Sato | 5.8 | 7.5 | Không | BLOCK | SHORT+year mismatch+pad cảm xúc+template |
+| 307 | Gặp lại Klaus | 8.7 | 9.1 | Không | WARN | Klaus Parkinson core; teaser rỗng |
+| 308 | Gặp lại đối tác Mỹ | 8.0 | 8.6 | Không | WARN | scale 4.5 tỷ USD; Huy/Nam mix |
+| 309 | Quỹ học bổng mang tên bà Hà | 5.5 | 7.0 | Không | BLOCK | PAD cảm xúc + unaccent residual risk |
+| 310 | Thương gia huyền thoại | 7.8 | 8.7 | Không | BLOCK | double panel; năm 2012 |
+| 311 | Giải Thương gia huyền thoại | 7.2 | 8.3 | Không | BLOCK | SHORT; header gãy; post-panel |
+| 312 | Giao quyền cho Lan | 8.9 | 9.3 | Không | WARN | giao quyền core mạnh |
+| 313 | Sách trắng quản trị Thương Gia | 7.0 | 8.8 | Không | BLOCK | SHORT 2186; header dính body; timeline lùi 2012 |
+| 314 | Đối mặt tin đồn sức khỏe | 8.8 | 9.2 | Không | WARN | tin đồn ung thư + rổ ổi |
+| 315 | Hùng chăm sóc sức khỏe | 8.6 | 9.1 | Không | WARN | chăm SK; pad hậu nhẹ |
+| 316 | Gia đình ba thế hệ sum họp | 5.2 | 8.9 | Không | BLOCK | CODE LEAK hermes_tools + META HẾT CHƯƠNG + year 2013≠2015 + skill junk |
+| 317 | Kế hoạch di sản pháp lý | 6.8 | 8.5 | Không | BLOCK | META multi-panel; Lan role; year 2013 |
+| 318 | Ủy thác tài sản minh bạch | 7.0 | 8.4 | Không | BLOCK | trùng 317; multi-panel |
+| 319 | Cam kết không chia cắt tập đoàn | 6.2 | 8.3 | Không | BLOCK | year mismatch; Lan mix; multi-panel |
+| 320 | Truyền thông Thương Gia | 8.7 | 9.2 | Không | WARN | Media GP TV core ổn |
+| 321 | Khủng hoảng cạnh tranh giá | 6.5 | 8.6 | Không | BLOCK | year 2014≠2015; multi-panel meta |
+| 322 | Chiến lược giá trị thay vì giá rẻ | 8.2 | 8.9 | Không | WARN | giá trị vs giá; Lan mix nhẹ |
+| 323 | Khách hàng trung thành | 7.4 | 8.8 | Không | BLOCK | SHORT 2998; khách trung thành core |
+| 324 | Tái định vị thương hiệu | 8.3 | 8.7 | Không | WARN | rebrand; sensory mỏng |
+| 325 | Công nghệ xanh toàn hệ thống | 8.5 | 9.0 | Không | WARN | xanh; post spill |
+| 326 | Net zero cam kết | 8.2 | 8.8 | Không | WARN | net zero |
+| 327 | Lễ 30 năm Thương Gia | 8.6 | 9.1 | Không | WARN | lễ 30 năm |
+| 328 | Quỹ 10.000 tỷ | 8.5 | 9.0 | Không | WARN | quỹ 10k tỷ |
+| 329 | Tổng kết Phần 5 | 8.0 | 8.7 | Không | WARN | tổng kết P5; Lan mix |
+| 330 | Đội bóng Thương Gia FC | 8.4 | 8.9 | Không | WARN | TG FC; multi-panel teaser |
+| 331 | Bắt đầu Phần 6 – Di sản | 7.8 | 8.6 | Không | BLOCK | con Quân/Sơn/Thảo ≠ Nam/Minh |
+| 332 | Tập đoàn bóng tối trở lại | 7.9 | 8.7 | Không | BLOCK | bóng tối; Lan mix |
+| 333 | Âm mưu thôn tính cổ phiếu | 8.6 | 9.0 | Không | WARN | thôn tính CP core |
+| 334 | Phòng thủ cổ đông | 8.5 | 9.0 | Không | WARN | phòng thủ CĐ |
+| 335 | Liên minh cổ đông nhỏ | 8.7 | 9.1 | Không | WARN | liên minh CĐ nhỏ |
+| 336 | Âm mưu tập đoàn bóng tối | 7.5 | 8.4 | Không | BLOCK | rehash 333–334 |
+| 337 | Trí tuệ và hệ thống | 8.0 | 8.7 | Không | WARN | Lan mix; flashback ĐHĐCĐ |
+| 338 | Chiến thắng đại hội cổ đông | 8.8 | 9.2 | Không | WARN | chiến thắng ĐHĐCĐ Khoa 21.3% |
+| 339 | Thanh lọc nội bộ | 8.7 | 9.1 | Không | WARN | thanh lọc 32 spy |
+| 340 | Vượt qua âm mưu | 8.3 | 8.9 | Không | WARN | Pacific; timeline 4/2018 lùi |
+| 341 | Lễ bàn giao quyền lực chính thức | 8.4 | 9.0 | Không | WARN | bàn giao SG |
+| 342 | Lan CEO – con trai Phó | 8.6 | 9.1 | Không | WARN | Huy Phó + hoa hồng |
+| 343 | Bà Hà 90 tuổi kể chuyện xưa | 8.9 | 9.3 | Không | WARN | bà Hà 90 kể 1983 — emotional peak |
+| 344 | Lễ bàn giao quyền lực | 6.5 | 7.5 | Không | BLOCK | TRÙNG 341 + sensory spam |
+| 345 | Quỹ Di sản Trần Văn Hùng | 8.5 | 9.0 | Không | WARN | Quỹ Di sản |
+| 346 | Người giàu có trách nhiệm | 8.8 | 9.2 | Không | WARN | NƠXH + Forbes; empty teaser |
+| 347 | Từ thiện 100.000 tỷ lộ trình | 8.0 | 8.7 | Không | WARN | 100k tỷ; post spill |
+| 348 | Du hành tri ân thế giới | 8.3 | 8.9 | Không | WARN | du hành 8 nước |
+| 349 | Hợp tác với đối tác quốc tế | 7.8 | 8.6 | Không | BLOCK | năm 2020 lùi; Lan em |
+| 350 | Du hành thế giới | 6.8 | 7.8 | Không | BLOCK | TRÙNG 348; con Nghĩa |
+| 351 | Nhà đất cũ và ký ức | 8.2 | 9.0 | Không | WARN | nhà cũ core; year false-positive flash 1980; empty teaser |
+| 352 | Từ thiện 100.000 tỷ | 7.8 | 8.7 | Không | BLOCK | 100k ≈347; Lan mix |
+| 353 | Thư gửi thế hệ sau | 8.7 | 9.2 | Không | WARN | thư thế hệ sau |
+| 354 | Hệ thống nhiệm vụ cuối | 8.5 | 9.0 | Không | WARN | system đóng |
+| 355 | Hoàn thành nhiệm vụ tối thượng | 7.0 | 8.5 | Không | BLOCK | TRÙNG 354; multi-panel; tuổi vỡ |
+| 356 | Bữa tối gia đình | 8.6 | 9.1 | Không | WARN | bữa tối; cast Quyên/Cường vs 357+ |
+| 357 | Flashback toàn hành trình | 7.4 | 8.7 | Không | BLOCK | flashback; Lan=vợ vs 356; trùng 360 |
+| 358 | Bữa tối ba thế hệ | 8.4 | 8.9 | Không | WARN | ba thế hệ; family ≠356 |
+| 359 | Đêm trước ngày kỷ niệm 40 năm | 8.5 | 9.0 | Không | WARN | đêm trước 40 năm |
+| 360 | Tinh thần Thương Gia mãi trường tồn | 7.6 | 9.0 | Không | BLOCK | double panel; montage=357; empty teaser; thesis OK |

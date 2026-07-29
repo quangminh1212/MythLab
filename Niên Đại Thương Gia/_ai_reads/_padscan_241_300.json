@@ -1,0 +1,1446 @@
+[
+ {
+  "ch": 241,
+  "title": "Khởi công Thương Gia City",
+  "dbl": true,
+  "core_w": 2818,
+  "full_w": 3026,
+  "pad_w": 208,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 5,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2009"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 242,
+  "title": "Quy hoạch 500 hecta",
+  "dbl": false,
+  "core_w": 3016,
+  "full_w": 3187,
+  "pad_w": 171,
+  "hits": {
+   "Minh đến ngồi bên cạnh dựa đầu": 1,
+   "Hôm nay em thấy anh cười nhiều hơn": 1,
+   "Vì có em": 1,
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [
+   "Minh-romance"
+  ],
+  "unacc": 3,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 8
+ },
+ {
+  "ch": 243,
+  "title": "Hạ tầng và nhà ở công nhân",
+  "dbl": false,
+  "core_w": 3338,
+  "full_w": 3974,
+  "pad_w": 636,
+  "hits": {
+   "Hai người ăn cơm tối": 2,
+   "Mùi cơm mới thơm": 3,
+   "gắp thịt cho Lan": 2,
+   "Lan dựa đầu vào vai": 2,
+   "Minh đến ngồi bên cạnh dựa đầu": 1,
+   "Hôm nay em thấy anh cười nhiều hơn": 2,
+   "Vì có em": 2,
+   "Sách gì thế anh": 2,
+   "Sách cũ. Đọc hay lắm": 2,
+   "Anh uống đi": 1,
+   "tay chạm tay Lan": 1,
+   "Canh chua cá lóc": 1,
+   "Hùng ôm bà Hà": 1,
+   "Anh yêu em": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Cuoc song": 1
+  },
+  "roles": [
+   "bàHà-as-spouse",
+   "Lan-as-spouse-intimate",
+   "Minh-romance"
+  ],
+  "unacc": 33,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 26
+ },
+ {
+  "ch": 244,
+  "title": "Trường học trong khu công nghiệp",
+  "dbl": false,
+  "core_w": 2647,
+  "full_w": 3701,
+  "pad_w": 1054,
+  "hits": {
+   "Hai người ăn cơm tối": 1,
+   "Mùi cơm mới thơm": 1,
+   "gắp thịt cho Lan": 1,
+   "Lan dựa đầu vào vai": 2,
+   "Sách gì thế anh": 2,
+   "Sách cũ. Đọc hay lắm": 2,
+   "Anh uống đi": 1,
+   "tay chạm tay Lan": 1,
+   "Teaser:": 0,
+   "Cam on moi nguoi": 0,
+   "Cuoc song": 0,
+   "Hung nhin": 1
+  },
+  "roles": [
+   "Lan-as-spouse-intimate"
+  ],
+  "unacc": 39,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 12
+ },
+ {
+  "ch": 245,
+  "title": "Xe điện thương mại hóa",
+  "dbl": true,
+  "core_w": 3676,
+  "full_w": 3685,
+  "pad_w": 9,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 7,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 246,
+  "title": "Trạm sạc toàn quốc",
+  "dbl": true,
+  "core_w": 2928,
+  "full_w": 2936,
+  "pad_w": 8,
+  "hits": {
+   "Anh uống đi": 1,
+   "tay chạm tay Lan": 1,
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 9,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": false,
+  "post_len": 813,
+  "n_hits": 2
+ },
+ {
+  "ch": 247,
+  "title": "AI sơ khai trong quản lý kho",
+  "dbl": false,
+  "core_w": 3173,
+  "full_w": 3203,
+  "pad_w": 30,
+  "hits": {
+   "Cuoc song": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [],
+  "unacc": 37,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2006"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 3
+ },
+ {
+  "ch": 248,
+  "title": "Trung tâm dữ liệu Thương Gia",
+  "dbl": true,
+  "core_w": 2948,
+  "full_w": 2958,
+  "pad_w": 10,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 6,
+  "open_y": [],
+  "panel_y": [
+   "2009"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 249,
+  "title": "Đối tác công nghệ Silicon Valley",
+  "dbl": true,
+  "core_w": 2980,
+  "full_w": 2990,
+  "pad_w": 10,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 9,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 250,
+  "title": "Lan dẫn quỹ R&D",
+  "dbl": false,
+  "core_w": 3339,
+  "full_w": 3352,
+  "pad_w": 13,
+  "hits": {
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1
+  },
+  "roles": [],
+  "unacc": 33,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 2
+ },
+ {
+  "ch": 251,
+  "title": "Con trai Hùng vào công ty",
+  "dbl": false,
+  "core_w": 3981,
+  "full_w": 3981,
+  "pad_w": 0,
+  "hits": {
+   "phe phẩy quạt": 1,
+   "võng": 1
+  },
+  "roles": [],
+  "unacc": 17,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 2
+ },
+ {
+  "ch": 252,
+  "title": "Thế hệ thứ hai học việc",
+  "dbl": true,
+  "core_w": 3307,
+  "full_w": 3673,
+  "pad_w": 366,
+  "hits": {
+   "Lan dựa đầu vào vai": 1,
+   "Sách gì thế anh": 1,
+   "Sách cũ. Đọc hay lắm": 1,
+   "Anh uống đi": 2,
+   "tay chạm tay Lan": 2,
+   "Teaser:": 1,
+   "Cuoc song": 1,
+   "Hung nhin": 1
+  },
+  "roles": [
+   "Lan-as-spouse-intimate"
+  ],
+  "unacc": 78,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 498,
+  "n_hits": 10
+ },
+ {
+  "ch": 253,
+  "title": "Huân chương Lao động",
+  "dbl": true,
+  "core_w": 2920,
+  "full_w": 2928,
+  "pad_w": 8,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 6,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2009"
+  ],
+  "cliff": true,
+  "post_len": 66,
+  "n_hits": 0
+ },
+ {
+  "ch": 254,
+  "title": "Gặp lãnh đạo ngành",
+  "dbl": true,
+  "core_w": 3904,
+  "full_w": 3912,
+  "pad_w": 8,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 8,
+  "open_y": [
+   "20",
+   "20",
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 255,
+  "title": "Cam kết phát triển bền vững",
+  "dbl": true,
+  "core_w": 3175,
+  "full_w": 3185,
+  "pad_w": 10,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 16,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 256,
+  "title": "Top thương gia Việt Nam",
+  "dbl": false,
+  "core_w": 3691,
+  "full_w": 4035,
+  "pad_w": 344,
+  "hits": {
+   "Hôm nay em thấy anh cười nhiều hơn": 2,
+   "Vì có em": 2,
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "phe phẩy quạt": 1,
+   "võng": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 21,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2008"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 11
+ },
+ {
+  "ch": 257,
+  "title": "Lễ vinh danh toàn quốc",
+  "dbl": true,
+  "core_w": 2930,
+  "full_w": 2939,
+  "pad_w": 9,
+  "hits": {
+   "Teaser:": 0,
+   "Cuoc song": 1
+  },
+  "roles": [],
+  "unacc": 30,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 1
+ },
+ {
+  "ch": 258,
+  "title": "Mở rộngchâu Phi sâu",
+  "dbl": true,
+  "core_w": 3664,
+  "full_w": 3672,
+  "pad_w": 8,
+  "hits": {},
+  "roles": [],
+  "unacc": 7,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 259,
+  "title": "Nam Mỹ – Brazil và Chile",
+  "dbl": true,
+  "core_w": 2926,
+  "full_w": 2935,
+  "pad_w": 9,
+  "hits": {},
+  "roles": [],
+  "unacc": 7,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 260,
+  "title": "Chuỗi giá trị toàn cầu",
+  "dbl": false,
+  "core_w": 3336,
+  "full_w": 3366,
+  "pad_w": 30,
+  "hits": {
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 7,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2008"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 2
+ },
+ {
+  "ch": 261,
+  "title": "Kiểm toán ESG đầu tiên",
+  "dbl": true,
+  "core_w": 2695,
+  "full_w": 2704,
+  "pad_w": 9,
+  "hits": {
+   "Cuoc song": 2,
+   "Hung nhin": 1
+  },
+  "roles": [],
+  "unacc": 38,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 715,
+  "n_hits": 3
+ },
+ {
+  "ch": 262,
+  "title": "Bà Hà và sách hồi ký gia đình",
+  "dbl": true,
+  "core_w": 2875,
+  "full_w": 2887,
+  "pad_w": 12,
+  "hits": {
+   "Cuoc song": 3,
+   "Hung nhin": 2
+  },
+  "roles": [],
+  "unacc": 28,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 5
+ },
+ {
+  "ch": 263,
+  "title": "Flashback 25 năm",
+  "dbl": true,
+  "core_w": 2444,
+  "full_w": 2451,
+  "pad_w": 7,
+  "hits": {},
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 15,
+  "open_y": [
+   "19",
+   "19"
+  ],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": true,
+  "post_len": 1779,
+  "n_hits": 0
+ },
+ {
+  "ch": 264,
+  "title": "Tái khẳng định sứ mệnh",
+  "dbl": false,
+  "core_w": 3353,
+  "full_w": 3394,
+  "pad_w": 41,
+  "hits": {
+   "Canh chua cá lóc": 2,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "phe phẩy quạt": 3,
+   "võng": 3,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 17,
+  "open_y": [
+   "20",
+   "20",
+   "20"
+  ],
+  "panel_y": [
+   "2008"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 12
+ },
+ {
+  "ch": 265,
+  "title": "Đối thủ mới từ Hàn Quốc",
+  "dbl": true,
+  "core_w": 2782,
+  "full_w": 2792,
+  "pad_w": 10,
+  "hits": {
+   "Cuoc song": 3
+  },
+  "roles": [],
+  "unacc": 31,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": false,
+  "post_len": 398,
+  "n_hits": 3
+ },
+ {
+  "ch": 266,
+  "title": "Cạnh tranh lành mạnh",
+  "dbl": false,
+  "core_w": 3048,
+  "full_w": 3105,
+  "pad_w": 57,
+  "hits": {
+   "Hôm nay em thấy anh cười nhiều hơn": 1,
+   "Vì có em": 1,
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Cuoc song": 1,
+   "Hung nhin": 1,
+   "phe phẩy quạt": 2,
+   "võng": 2
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 39,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 11
+ },
+ {
+  "ch": 267,
+  "title": "Liên minh chiến lược Đông Á",
+  "dbl": false,
+  "core_w": 2655,
+  "full_w": 2950,
+  "pad_w": 295,
+  "hits": {
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Cuoc song": 4,
+   "Hung nhin": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [],
+  "unacc": 53,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 9
+ },
+ {
+  "ch": 268,
+  "title": "Tổng kết toàn cầu hóa",
+  "dbl": true,
+  "core_w": 3659,
+  "full_w": 3668,
+  "pad_w": 9,
+  "hits": {
+   "a Lan đi dạo": 1
+  },
+  "roles": [],
+  "unacc": 12,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2009"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 1
+ },
+ {
+  "ch": 269,
+  "title": "Phần thưởng Phần 4",
+  "dbl": false,
+  "core_w": 3971,
+  "full_w": 3984,
+  "pad_w": 13,
+  "hits": {
+   "Lan dựa đầu vào vai": 1,
+   "Canh chua cá lóc": 3,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "phe phẩy quạt": 1,
+   "võng": 1
+  },
+  "roles": [],
+  "unacc": 21,
+  "open_y": [],
+  "panel_y": [
+   "2009"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 8
+ },
+ {
+  "ch": 270,
+  "title": "Hoàn thành Phần 4 – Siêu tập đoàn",
+  "dbl": true,
+  "core_w": 3844,
+  "full_w": 3857,
+  "pad_w": 13,
+  "hits": {
+   "Anh uống đi": 1,
+   "tay chạm tay Lan": 1,
+   "Teaser:": 1
+  },
+  "roles": [],
+  "unacc": 17,
+  "open_y": [
+   "20",
+   "20",
+   "19",
+   "20",
+   "19"
+  ],
+  "panel_y": [
+   "2008",
+   "2008"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 3
+ },
+ {
+  "ch": 271,
+  "title": "Bắt đầu Phần 5 – Ảnh hưởng xã hội",
+  "dbl": true,
+  "core_w": 1890,
+  "full_w": 1901,
+  "pad_w": 11,
+  "hits": {},
+  "roles": [],
+  "unacc": 31,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2006"
+  ],
+  "cliff": false,
+  "post_len": 4544,
+  "n_hits": 0
+ },
+ {
+  "ch": 272,
+  "title": "Đế chế truyền thông Thương Gia",
+  "dbl": true,
+  "core_w": 3591,
+  "full_w": 3942,
+  "pad_w": 351,
+  "hits": {
+   "Hai người ăn cơm tối": 1,
+   "Mùi cơm mới thơm": 1,
+   "gắp thịt cho Lan": 1,
+   "Anh uống đi": 2,
+   "tay chạm tay Lan": 2
+  },
+  "roles": [],
+  "unacc": 25,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 7
+ },
+ {
+  "ch": 273,
+  "title": "Báo và tạp chí kinh tế",
+  "dbl": true,
+  "core_w": 3209,
+  "full_w": 3219,
+  "pad_w": 10,
+  "hits": {},
+  "roles": [],
+  "unacc": 10,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2006"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 274,
+  "title": "Kênh truyền hình thực tế",
+  "dbl": true,
+  "core_w": 2530,
+  "full_w": 2539,
+  "pad_w": 9,
+  "hits": {},
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 11,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2007"
+  ],
+  "cliff": true,
+  "post_len": 1729,
+  "n_hits": 0
+ },
+ {
+  "ch": 275,
+  "title": "Nền tảng mạng xã hội nội địa",
+  "dbl": true,
+  "core_w": 2938,
+  "full_w": 2949,
+  "pad_w": 11,
+  "hits": {},
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 15,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 276,
+  "title": "Thương Gia FC ra đời",
+  "dbl": true,
+  "core_w": 2693,
+  "full_w": 2702,
+  "pad_w": 9,
+  "hits": {},
+  "roles": [],
+  "unacc": 25,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 959,
+  "n_hits": 0
+ },
+ {
+  "ch": 277,
+  "title": "Sân vận động cộng đồng",
+  "dbl": false,
+  "core_w": 3144,
+  "full_w": 3157,
+  "pad_w": 13,
+  "hits": {
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Cuoc song": 4
+  },
+  "roles": [],
+  "unacc": 22,
+  "open_y": [],
+  "panel_y": [
+   "2011",
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 7
+ },
+ {
+  "ch": 278,
+  "title": "Tài trợ Olympic khu vực",
+  "dbl": true,
+  "core_w": 3044,
+  "full_w": 3133,
+  "pad_w": 89,
+  "hits": {
+   "Hôm nay em thấy anh cười nhiều hơn": 1,
+   "Vì có em": 1,
+   "Canh chua cá lóc": 1
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 3,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 3
+ },
+ {
+  "ch": 279,
+  "title": "Học bổng 10.000 sinh viên",
+  "dbl": true,
+  "core_w": 2934,
+  "full_w": 2943,
+  "pad_w": 9,
+  "hits": {},
+  "roles": [],
+  "unacc": 4,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 280,
+  "title": "Xây 100 trường vùng sâu",
+  "dbl": true,
+  "core_w": 3329,
+  "full_w": 3735,
+  "pad_w": 406,
+  "hits": {
+   "Hai người ăn cơm tối": 2,
+   "Mùi cơm mới thơm": 2,
+   "gắp thịt cho Lan": 2,
+   "Lan dựa đầu vào vai": 1,
+   "Sách gì thế anh": 1,
+   "Sách cũ. Đọc hay lắm": 1,
+   "Anh uống đi": 1,
+   "tay chạm tay Lan": 1
+  },
+  "roles": [
+   "Lan-as-spouse-intimate"
+  ],
+  "unacc": 35,
+  "open_y": [
+   "20",
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 11
+ },
+ {
+  "ch": 281,
+  "title": "Quỹ 10.000 tỷ từ thiện",
+  "dbl": true,
+  "core_w": 3052,
+  "full_w": 3064,
+  "pad_w": 12,
+  "hits": {
+   "Teaser:": 1
+  },
+  "roles": [],
+  "unacc": 15,
+  "open_y": [],
+  "panel_y": [
+   "2008"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 1
+ },
+ {
+  "ch": 282,
+  "title": "Minh bạch quỹ công khai",
+  "dbl": true,
+  "core_w": 2715,
+  "full_w": 2847,
+  "pad_w": 132,
+  "hits": {
+   "Lan dựa đầu vào vai": 1,
+   "Sách gì thế anh": 1,
+   "Sách cũ. Đọc hay lắm": 1
+  },
+  "roles": [
+   "Lan-as-spouse-intimate"
+  ],
+  "unacc": 25,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 3023,
+  "n_hits": 3
+ },
+ {
+  "ch": 283,
+  "title": "Y tế lưu động miền núi",
+  "dbl": true,
+  "core_w": 3506,
+  "full_w": 3515,
+  "pad_w": 9,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 0,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 284,
+  "title": "Nước sạch cho 500 xã",
+  "dbl": true,
+  "core_w": 3003,
+  "full_w": 3012,
+  "pad_w": 9,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 0,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 285,
+  "title": "Lan đứng đầu mảng xã hội",
+  "dbl": true,
+  "core_w": 3010,
+  "full_w": 3020,
+  "pad_w": 10,
+  "hits": {},
+  "roles": [],
+  "unacc": 39,
+  "open_y": [],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 286,
+  "title": "Con trai phụ trách sản xuất",
+  "dbl": true,
+  "core_w": 2948,
+  "full_w": 2958,
+  "pad_w": 10,
+  "hits": {
+   "Teaser:": 0,
+   "Cuoc song": 1,
+   "Hung nhin": 1
+  },
+  "roles": [],
+  "unacc": 14,
+  "open_y": [],
+  "panel_y": [
+   "2011"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 2
+ },
+ {
+  "ch": 287,
+  "title": "Hùng lui về chiến lược",
+  "dbl": true,
+  "core_w": 3484,
+  "full_w": 3493,
+  "pad_w": 9,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 15,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 288,
+  "title": "Khủng hoảng truyền thông giả",
+  "dbl": false,
+  "core_w": 3227,
+  "full_w": 3311,
+  "pad_w": 84,
+  "hits": {
+   "Hôm nay em thấy anh cười nhiều hơn": 1,
+   "Vì có em": 1,
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [],
+  "unacc": 18,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 7
+ },
+ {
+  "ch": 289,
+  "title": "Phản ứng minh bạch",
+  "dbl": false,
+  "core_w": 3378,
+  "full_w": 3667,
+  "pad_w": 289,
+  "hits": {
+   "Hôm nay em thấy anh cười nhiều hơn": 1,
+   "Vì có em": 1,
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "phe phẩy quạt": 1,
+   "võng": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [
+   "bàHà-as-spouse"
+  ],
+  "unacc": 19,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2009"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 9
+ },
+ {
+  "ch": 290,
+  "title": "Từ thiện Đông Timor",
+  "dbl": true,
+  "core_w": 3209,
+  "full_w": 3400,
+  "pad_w": 191,
+  "hits": {
+   "Lan dựa đầu vào vai": 1,
+   "Sách gì thế anh": 1,
+   "Sách cũ. Đọc hay lắm": 1
+  },
+  "roles": [
+   "Lan-as-spouse-intimate"
+  ],
+  "unacc": 18,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 3
+ },
+ {
+  "ch": 291,
+  "title": "Hội nghị thượng đỉnh doanh nghiệp",
+  "dbl": true,
+  "core_w": 3088,
+  "full_w": 3098,
+  "pad_w": 10,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 8,
+  "open_y": [
+   "20",
+   "20"
+  ],
+  "panel_y": [
+   "2012"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 292,
+  "title": "Đề xuất chính sách xanh",
+  "dbl": false,
+  "core_w": 3671,
+  "full_w": 3712,
+  "pad_w": 41,
+  "hits": {
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [],
+  "unacc": 14,
+  "open_y": [],
+  "panel_y": [
+   "2008"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 4
+ },
+ {
+  "ch": 293,
+  "title": "Thương hiệu quốc gia",
+  "dbl": false,
+  "core_w": 3827,
+  "full_w": 3911,
+  "pad_w": 84,
+  "hits": {
+   "Minh đến ngồi bên cạnh dựa đầu": 1,
+   "Hôm nay em thấy anh cười nhiều hơn": 1,
+   "Vì có em": 1,
+   "Canh chua cá lóc": 1,
+   "Liệu ngày mai còn lỗ hổng": 1,
+   "Sẽ rõ lúc giao ca": 1,
+   "Hùng nhíu mày, siết ngón tay sổ": 1,
+   "siết ngón tay sổ": 1
+  },
+  "roles": [
+   "Minh-romance"
+  ],
+  "unacc": 15,
+  "open_y": [
+   "19"
+  ],
+  "panel_y": [
+   "1996"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 8
+ },
+ {
+  "ch": 294,
+  "title": "Bảo tàng Thương Gia",
+  "dbl": true,
+  "core_w": 3042,
+  "full_w": 3050,
+  "pad_w": 8,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 6,
+  "open_y": [
+   "20",
+   "19",
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 295,
+  "title": "Ngày hội công nhân",
+  "dbl": true,
+  "core_w": 2997,
+  "full_w": 3005,
+  "pad_w": 8,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 6,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2012"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 296,
+  "title": "Mở quỹ học bổng",
+  "dbl": true,
+  "core_w": 3431,
+  "full_w": 3439,
+  "pad_w": 8,
+  "hits": {},
+  "roles": [],
+  "unacc": 33,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2012"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 297,
+  "title": "Công đoàn đối thoại",
+  "dbl": true,
+  "core_w": 3148,
+  "full_w": 3156,
+  "pad_w": 8,
+  "hits": {
+   "Teaser:": 0
+  },
+  "roles": [],
+  "unacc": 16,
+  "open_y": [],
+  "panel_y": [
+   "2012"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 298,
+  "title": "Đào tạo lãnh đạo trẻ",
+  "dbl": true,
+  "core_w": 3531,
+  "full_w": 3540,
+  "pad_w": 9,
+  "hits": {},
+  "roles": [],
+  "unacc": 22,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2012"
+  ],
+  "cliff": true,
+  "post_len": 0,
+  "n_hits": 0
+ },
+ {
+  "ch": 299,
+  "title": "Hùng 50 tuổi – nhìn lại",
+  "dbl": true,
+  "core_w": 3004,
+  "full_w": 3320,
+  "pad_w": 316,
+  "hits": {
+   "Lan dựa đầu vào vai": 2,
+   "Sách gì thế anh": 2,
+   "Sách cũ. Đọc hay lắm": 2,
+   "Anh uống đi": 1,
+   "tay chạm tay Lan": 2,
+   "Cuoc song": 3
+  },
+  "roles": [
+   "Lan-as-spouse-intimate"
+  ],
+  "unacc": 60,
+  "open_y": [
+   "20"
+  ],
+  "panel_y": [
+   "2010"
+  ],
+  "cliff": true,
+  "post_len": 561,
+  "n_hits": 12
+ },
+ {
+  "ch": 300,
+  "title": "Mở rộngtừ thiện châu Á",
+  "dbl": true,
+  "core_w": 3954,
+  "full_w": 3962,
+  "pad_w": 8,
+  "hits": {
+   "cân bàn đĩa đồng": 1
+  },
+  "roles": [],
+  "unacc": 16,
+  "open_y": [
+   "20",
+   "20"
+  ],
+  "panel_y": [
+   "2012"
+  ],
+  "cliff": false,
+  "post_len": 0,
+  "n_hits": 1
+ }
+]

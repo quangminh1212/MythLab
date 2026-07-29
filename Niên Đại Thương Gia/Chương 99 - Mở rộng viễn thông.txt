@@ -1,6 +1,5 @@
 ============================================================
 Chương 99: Mở rộngviễn thông
-============================================================
 
 Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi giấy tờ cũ, mùi đồng, mùi mồ hôi và thuốc lá. Năm 1987.
 
@@ -119,62 +118,6 @@ Minh ba mươi hai tuổi, tốt nghiệp Đại học Bưu điện năm 1979, t
 "Tổng đài analog Nhật — loại OKI-200, công suất 200 số, dùng cho văn phòng và khách sạn. Sản xuất năm 1979, tháo từ một tòa nhà văn phòng cũ ở Shinjuku," — Minh vừa nói vừa chỉ vào một tấm ảnh chụp bằng máy ảnh cơ — đen trắng, hơi mờ, chụp một cái tủ sắt màu xám, mặt trước đầy đèn LED và cần gạt. "Hàng đã qua kiểm tra. Giá: hai mươi lăm nghìn yên. Người môi giới bên đó — một người Nhật gốc Việt — đang giữ cho mình. Cần quyết định nhanh, vì có hai người khác cũng hỏi."
 
 Hùng nhìn ảnh. "Công suất thực tế — bao nhiêu số?"
-
-"150 số, nếu kết nối đầy đủ module thuê bao. Có thể mở rộng lên 200 nếu thêm module. Kích thước: cao 1,8 mét, rộng 1,2 mét, sâu 0,6 mét. Điện áp: 48V DC từ bộ chỉnh lưu tích hợp, đầu vào 220V AC. Tiêu thụ: khoảng 300W ở tải đầy."
-
-"Cài đặt và vận hành thế nào?"
-
-"Lập trình bằng cần gạt và jumper. Ổn định hơn tổng đài điện tử đời đầu — vì ít linh kiện số, ít hỏng vặt. Hư hỏng thường gặp: cháy cầu chì, hỏng relay đường dây, lệch thế chuông. Sửa được bằng đồng hồ VOM và mỏ hàn. Phụ tùng dễ kiếm — relay có thể thay bằng relay Trung Quốc, giá ba nghìn một cái."
-
-"Có gì phải lưu ý?"
-
-"OKI-200 dùng báo hiệu DC — xung quay số, điện áp chuông 75V. Hòa vào mạng Bưu điện được, vì mạng hiện tại cũng dùng báo hiệu DC. Nhưng phải có MDF — một khung phân phối chính — để đấu cáp ngoại vi vào tổng đài. MDF tôi có thể làm bằng khung gỗ và thanh cọc đồng."
-
-"MDF làm thủ công?"
-
-"Tạm thời. Sau này mua MDF chính hãng. Nhưng cũng phải hai ba năm nữa mới cần — khi số thuê bao vượt quá năm mươi."
-
-Hùng gật. "Bao lâu kể từ khi đặt mua đến khi tổng đài về tới xưởng?"
-
-"Ba tuần. Vận chuyển bằng đường hàng không: Tokyo — Narita — Tân Sơn Nhất. Người môi giới lo thủ tục xuất. Bên này tôi lo nhập — qua đường thiết bị sản xuất, vì tổng đài không thuộc diện cấm nhập. Tổng cục Bưu điện cho phép nhập thiết bị viễn thông đã qua sử dụng phục vụ sản xuất."
-
-"Đặt."
-
-Minh viết điện tín — bảy từ: "OKI-200 CONFIRM. WIRE TRANSFER TOMORROW. MINH." — rồi giao cho người chạy ra bưu điện gửi đi Tokyo.
-
----
-
-Hai tuần sau, đầu tháng Tám năm 1987.
-
-Đoạn đường từ quốc lộ 22 vào khu xưởng — tám cây số đường đất — bỗng nhiên thay đổi. Dọc bên đường, những cột bê tông ly tâm mới dựng lên — trắng, thẳng, cao bảy mét, cách nhau bốn mươi mét. Trên mỗi cột: một sứ cách điện kiểu tháp, một puli kéo cáp, và một tấm biển nhôm sơn số: BĐ-HĐ-01, BĐ-HĐ-02, cho đến BĐ-HĐ-200.
-
-Đội thợ gồm mười hai người. Sáu người kéo cáp, bốn người đào hố và đổ bê tông chân cột, hai người leo cột — một trong số đó là anh Sơn, thợ bưu điện đã nghỉ hưu, năm mươi lăm tuổi, leo cột nhanh như khỉ. Tay anh cầm kìm, bao đồ da đeo chéo ngực đựng ốc vít và đầu nối.
-
-Hùng đứng ở đầu tuyến, nơi tổng đài quận Hà Đông — một căn nhà cấp bốn, mái ngói đỏ, nằm sát chợ Hà Đông. Bên trong: hai dãy tủ sắt — tổng đài Siemens 40-60, cũ kỹ, mặt trước bằng thép đen, đèn báo vàng và xanh. Trên tường: bảng phân phối dây — MDF tạm bằng gỗ pơ-mu, trên đóng các thanh đồng, mỗi một thanh là một đường dây thuê bao.
-
-Người Bưu điện trực tổng đài — cô Liên, hai mươi tám tuổi, tóc dài thít bím, ngồi trước bảng cắm tay — bảng chuyển mạch nhân công. Trước mặt cô là hai trăm lỗ cắm: mỗi lỗ là một đường dây thuê bao. Phía trên là một trăm lỗ cắm đường dây nội bộ — kết nối đến các tổng đài lân cận, đến Hà Nội, đến Sài Gòn.
-
-Cô Liên đeo tai nghe — một bên tai, một mic uốn cong trước miệng. Tay cô cắm rút dây liên tục — mỗi giây một lần. Khi điện thoại reo, một đèn vàng sáng trên bảng, bên cạnh là một lá đồng nhỏ ghi số đường dây. Cô Liên cắm dây vào lỗ tương ứng, bật cần gạt, nói: "Tổng đài xin nghe."
-
-Từ Hùng đứng, ông có thể nghe tiếng cô: "Gọi số nào ạ?" — "Dạ, chờ chút." — Rồi cô cắm dây sang một lỗ khác, bật cần, đợi. Nếu đầu kia bận — tiếng bíp bíp bíp qua tai nghe — cô nói với người gọi: "Số bận, quý khách vui lòng gọi lại sau."
-
-Hùng nhìn một lúc. Một tổng đài nhân công phục vụ hai ba nghìn người — nhưng chỉ có sáu cô điện thoại viên, mỗi ca ba người, mỗi người làm việc tám giờ liên tục, tối đa xử lý khoảng ba trăm cuộc gọi mỗi ca. Mỗi cuộc gọi đường dài mất hai ba phút để kết nối thủ công. Vào giờ cao điểm — chín giờ sáng, hai giờ chiều — hàng chục đèn vàng sáng cùng lúc, cô Liên chỉ kịp trả lời từng cuộc một. Người gọi — có khi chờ mười lăm phút mới được kết nối.
-
-"Thế này không ổn," — Hùng nói với Minh, đứng bên cạnh. "Mình kéo cáp về — nhưng tổng đài nhân công nghẽn, thuê bao có cũng không gọi được."
-
-Minh gật. "OKI-200 về sẽ thay một phần. Nhưng nếu anh muốn mở rộng nhanh — nên đẩy Bưu điện mua tổng đài điện tử."
-
-"Bao nhiêu tiền?"
-
-"Tổng đài điện tử Alcatel E10B — 5.000 số — khoảng hai triệu franc. Nhưng có thể mua kiểu BCC — hợp tác kinh doanh — trả bằng doanh thu cước. Thằng bạn tôi bên Telstra đang đàm phán làm BCC cho Bưu điện về dịch vụ quốc tế. Nếu mình góp một phần — đề xuất mở rộng tổng đài nội hạt — có thể được."
-
-"BCC là gì?"
-
-"Build-Operate-Cooperate. Đối tác ngoại bỏ thiết bị. Bưu điện bỏ hạ tầng và giấy phép. Chia doanh thu. Sau mười lăm năm — thiết bị thuộc về Bưu điện. Kiểu này đang được Tổng cục khuyến khích."
-
-Hùng ghi nhớ. "Còn việc trước mắt: kéo cáp xong, OKI về, mình phải có người thuê bao. Ai sẽ xài số điện thoại?"
-
-"Trong vòng ba cây số quanh xưởng — có ba hợp tác xã thủ công mỹ nghệ, hai cơ sở may xuất khẩu, một trạm thu mua nông sản. Họ có tiền, có giao dịch với Sài Gòn — nhưng không có điện thoại. Mỗi ngày họ phải cử người chạy xe lên Bưu điện huyện gọi điện đường dài, mất cả buổi. Họ cần số."
 
 "Số lượng bao nhiêu?"
 
@@ -300,28 +243,11 @@ Hùng ghi vào sổ ngày: "Tháng 9/1987 — mạng viễn thông khu vực Hà
 
 Cáp đồng. Tổng đài cũ. Nhưng kết nối — thật.
 
-============================================================
-
-Buổi chiều, {a} ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. {b} đi ra, tay cầm ly nước. 'Anh uống đi.' {a} nhận ly, tay chạm tay {b}. Mùi nước mát. 'Cảm ơn em.' Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
-
-Một buổi sáng, {a} thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. {b} đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. {a} bước ra, tay ôm nhẹ {b}. 'Cảm ơn em.' {b} quay lại cười. 'Không có gì.' Mắt họ chạm nhau, ấm áp.
-
-Một người khách đến, mắt đỏ hoe. {a} tiếp khách, mắt nhìn người đó đầy thấu hiểu. 'Có chuyện gì thế?' Người khách kể, {a} lắng nghe, không ngắt. Khi người khách kể xong, {a} gật đầu, tay đưa ly nước. 'Không sao. Rồi mọi chuyện sẽ qua.' Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
-
-
-Buổi chiều, {a} ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. {b} đi ra, tay cầm ly nước. “Anh uống đi.” {a} nhận ly, tay chạm tay {b}. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
-
-Một người khách đến, mắt đỏ hoe. {a} tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, {a} lắng nghe, không ngắt. Khi người khách kể xong, {a} gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
-
-Trong phòng khách, {a} mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. {b} đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” {b} dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.99」
 Năm: 1987
 Tổng EXP: 16,318 (+182 nhịp này)
 Không gian kho: 5,455m² (+46m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Viễn thông Thương Gia phủ sóng ba tỉnh. Hùng gọi chi nhánh Hà Nam, không qua bưu điện.
-Tư Hạnh: "Anh Hùng hả? Nghe rõ quá!" Ông cúp máy, gạch một dòng: viễn thông — OK.
-
-Viễn thông kéo cả nước lại gần — từ thành thị đến bản xa.
-============================================================
+Ghi chú: khóa nhịp

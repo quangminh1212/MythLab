@@ -1,0 +1,466 @@
+============================================================
+Chương 1: Tỉnh lại
+============================================================
+
+Lý Minh chết lúc 2 giờ 47 phút sáng, ngày 15 tháng 3 năm 2024.
+
+Không phải một cái chết oanh liệt — không tai nạn xe hơi, không đâm chém, không hy sinh cứu người. Chỉ một cơn nhồi máu cơ tim trước màn hình máy tính, sau mười hai giờ code thẳng cho dự án hợp đồng với một startup Nhật. Màn hình còn sáng. Con trỏ nhấp nháy ở dòng cuối cùng của một pull request chưa kịp gửi. Dòng chữ "fix: update transaction logic" viết bằng tiếng Anh, là thứ cuối cùng ông đánh máy.
+
+Trong giây phút cuối, Lý Minh nghĩ về rất nhiều thứ. Về deadline lúc tám giờ sáng mà ông không thể đáp ứng. Về hai chiếc điện thoại iPhone thế hệ mới nhất nằm trên bàn, cả hai đều hết pin. Về ly cà phê sữa đá tan hết đá, chỉ còn nước màu nâu loãng. Về căn hộ hai phòng ngủ ở Quận 7 mà ông chỉ sử dụng một phòng. Về mẹ ông đã mất năm ông hai mươi tuổi, về cha ông là người mà ông cũng không biết mặt. Về một cuộc đời an toàn, đều đặn, và trống rỗng.
+
+Rồi bóng tối.
+
+—
+
+Ông mở mắt vì một cơn đau không nằm trong bất kỳ bảng phân loại đau nào ông từng đọc.
+
+Đau xương. Đau cơ. Đau từng đốt sống như thể ai đó đã tháo rời cột sống ông ra từng mảnh rồi lắp lại sai thứ tự. Đau từ trong thâm tâm, nơi mà ký ức không phải của ông đang đập vào màng não như sóng âm của một loa subwoofer hỏng — rền và méo, dội từ trong ra ngoài.
+
+Ngực nặng. Hơi thở nông. Không khí — không phải không khí điều hòa lạnh teo lọc qua vi khuẩn, mà là không khí mùi đất, mùi rơm, mùi một thứ gì đó mốc nhẹ, mùi của cuộc sống tự nhiên mà phổi một dân văn phòng chưa từng biết tới.
+
+Trần Văn Hùng mở mắt.
+
+Không, sai ngay. Người mở mắt không phải Trần Văn Hùng. Trần Văn Hùng là một thanh niên nông thôn, hai mươi ba tuổi, sống ở làng Thanh Xuân, huyện Quốc Oai, tỉnh Hà Tây, năm 1983. Người mở mắt là Lý Minh — sinh năm 1989, tốt nghiệp Đại học Bách Khoa, mười năm kinh nghiệm lập trình full-stack, cư dân thành phố Hồ Chí Minh, đã chết lúc 2:47 sáng ngày 15 tháng 3 năm 2024.
+
+Hai dòng ký ức đổ vào nhau như hai dòng sông gặp chỗ ghềnh — không hòa mà xô, không trộn mà nghiền.
+
+Ông nhắm mắt. Ánh sáng vàng cam từ khe cửa sổ vẫn hắt qua tanh tách vào võng mạc — thứ ánh nắng lành và ấm của nông thôn Bắc Bộ, không phải ánh đèn led white-balance 6500K của văn phòng. Dưới mí mắt, ông thấy màu đỏ ấm của máu chảy qua mao mạch, và trong đầu, hai câu chuyện song song:
+
+Một: chàng trai tên Hùng, sinh ra trong gia đình làm nghề buôn nhỏ, cha bị gọi là "tư sản" và đưa đi cải tạo năm 1978, mẹ mất năm anh mười lăm tuổi chỉ vì một trận viêm phổi — một trận bệnh mà chỉ cần một liều thuốc kháng sinh là qua, nhưng thời ấy thuốc không đến được tay người dân nghèo. Anh sống với bà nội và em gái trong căn nhà ba gian vách đất, lợp lá cọ. Anh trôi qua mỗi ngày với oán hận và rượu, với những trận cãi vã không đâu.
+
+Hai: người đàn ông tên Minh, lớn lên ở thời kỳ đất nước đã mở cửa, sống với một màn hình máy tính lớn hơn nhiều thứ nội thất trong căn nhà đất của Hùng. Anh kiếm tiền bằng mã nguồn — mấy dòng chữ trắng trên nền đen — mà giá trị của nó có thể mua hàng nghìn căn nhà như thế. Nhưng anh cô đơn. Không vợ, không con, không người thân. Đồng nghiệp gọi là "senpai", nhưng Tết đến không biết về đâu.
+
+—
+
+Ông ngồi dậy.
+
+Cơ thể yếu. Mỗi cơ bắp đều kêu rền như bản lề cửa sắt mười năm không tra dầu. Tay run. Ông đưa tay lên nhìn — nhìn thật lâu.
+
+Đây là bàn tay của người lao động chân tay. Móng tay dính bùn khô, nứt nẻ, đường vân móng đen vì đất. Những cái chai ở đốt tay, chai cứng dày bọc, sờ vào thấy ráp như mặt giấy nhám. Lòng bàn tay — ông nhớ bàn tay kỹ sư phần mềm của mình, trắng trẻo, mềm, ngón tay lướt trên bàn phím — còn bàn tay này, lòng bàn tay đầy vết chai gồ ghề, vết nứt sâu ở đốt ngón, vết sẹo dài từ ngón cái đến ngón trỏ. Cầm bàn phím không phù hợp. Cầm lưỡi cày mới phù hợp.
+
+Ngón tay cái day nhẹ lên vết sẹo ở lòng bàn tay trái — sờ vào vẫn thấy gồ ghề. Vết sẹo cũ từ một mùa đông năm 1973. Hùng mười hai tuổi, ngồi ở bờ ao sau làng, chân thả xuống nước lạnh cóng. Bằng — em họ xa, hơn hai tuổi, con bác ruột — đứng trước mặt, tay cầm nắm bùn. 'Mày là con thằng tư sản, cả đời mày không bằng tao.' Bằng khạc nhổ xuống bên chân Hùng, rồi xô vào. Nó cào lòng bàn tay trái Hùng, móng tay dính bùn cắt sâu vào thịt, máu chảy xuống mu bàn tay, xuống kẽ ngón. Hùng không khóc. Chỉ nhìn. Nhìn vào mặt thằng bé mười bốn tuổi đã biết căm thù. Hệ thống có thể tái tạo thể xác, nhưng vết sẹo đó không mất.
+
+Nhưng phổi — phổi trong sạch một cách kỳ lạ. Phổi ông ở tuổi 35 hút thuốc lá và hít bụi mịn thành phố, mỗi hơi thở là một cuộc đấu tranh thầm lặng. Phổi ở tuổi 23 này: sạch, sâu, mỗi hơi thở vào mát rười rượi như uống nước suối. Mùi đất ẩm. Mùi rạ khô. Mùi khói bếp — khói rơm, khói củi, mùi mà một kẻ thành phố chỉ gặp qua cuốn phim tài liệu.
+
+Trần Văn Hùng hít sâu. Ba tiếng. Sáu tiếng. Chín tiếng. Phổi vẫn còn sức. Ông giữ hơi, phình lồng ngực lên, và thở ra một cách chậm rãi.
+
+Nếu đã chết, thì đây là cơ hội.
+
+Ông nhìn quanh.
+
+Căn nhà nhỏ đến mức một người giang tay chạm được hai vách. Vách đất nện — đất trộn rơm cắt nhỏ, nện chặt từng lớp, để khô hàng tháng mới cứng. Kiểu nhà mà trong thế kỷ 21, từ "vách đất" chỉ xuất hiện trong sách giáo khoa lịch sử lớp 5 và mấy tour du lịch trải nghiệm ở Mai Châu.
+
+Sàn gỗ. Gỗ tạp, không phải lim, không phải gụ. Mỗi bước đều kêu cọt cọt, cốt cốt, như bản nhạc đệm cho mỗi động tác. Trên sàn, một cái giường gỗ đơn — giường gỗ không đệm, chỉ trải chiếu cói đã lên màu nâu vì mồ hôi và thời gian. Nằm xuống là xương cụt sẽ phản hồi rõ rệt.
+
+Một cái bàn con kê sát cửa sổ — cửa gỗ, bản lề sắt mục gỉ. Trên bàn, ba cuốn sách giáo khoa cũ: Toán lớp 10, Văn lớp 10, Sinh lớp 10 — sách của học sinh cũ trong xóm, mượn về để đọc, giấy đã ngả vàng rách mép. Một cây đèn dầu bằng thủy tinh, đã đóng muội đen kín bầu. Một hộp diêm Quốc gia, bao diêm đỏ đã bạc, còn năm que diêm.
+
+Tủ áo. Gỗ mít — mà đã mốc xanh ở góc, mùi mốc đặc trưng mỗi lần mở ra là sộc vào mũi. Mở tủ: hai bộ quần áo cho cả năm, cả hai đều vá nhiều chỗ. Một cái áo bông mỏng cho mùa đông, lớp bông xơ cứng vì giặt nhiều. Một đôi dép cao su đã mòn hết gai.
+
+Trên tường, hai bức ảnh thờ, đen trắng, lồng trong kính:
+
+Một người đàn ông trung niên, mặt nghiêm, xương gò má cao, đôi mắt sáng — cha, Trần Văn Bình. Thương nhân nhỏ ở huyện, buôn vải, buôn chè, buôn đủ thứ mà mùa nào có đấy. Bị gán nhãn "tư sản" — cái nhãn mà thời bao cấp nặng hơn án tử hình. Đưa đi cải tạo từ năm 1978. Sáu năm không tin tức. Sống hay chết, không ai biết.
+
+Một người phụ nữ trẻ, khuôn mặt thanh tú, môi cười nhẹ, mắt buồn. Mẹ, Nguyễn Thị Mai — người đã nhịn ăn nhường cơm, người đã ra đi trong một đêm mưa vì viêm phổi không kịp chữa. Người mà trong ký ức của Trần Văn Hùng, vẫn còn nguyên mùi tóc, mùi da, mùi của tình thương vô bờ.
+
+Lý Minh nhìn ảnh mẹ. Không phải mẹ ông. Nhưng ký ức của Hùng rơi vào tim như một giọt nước mắt mặn, và Lý Minh khóc. Không phải nước mắt của thương nhớ — là nước mắt của người đã sống 35 năm không ai đợi, không ai thương, và bỗng nhiên nhận ra mình có một gia đình. Gia đình này có nghèo. Gia đình này có khổ. Nhưng nó là gia đình.
+Tõm tõm gầu nước giếng.
+
+—
+
+Đột nhiên, giọng nói.
+
+Không phải qua tai. Trong đầu. Như thể một chiếc tai nghe Bluetooth kết nối trực tiếp với dây thần kinh thính giác, rồi skip luôn phân cứng, đổ thẳng vào vỏ não.
+
+「Chúc mừng chủ nhân đã trùng sinh thành công.」
+
+「Hệ thống Thương Gia đang khởi động...」
+
+Một khoảng lặng. Trong khoảng lặng đó, Lý Minh cảm thấy một thứ — giống như khi máy tính đang load, nhưng trong đầu. Một vòng xoáy vi mô, một luồng điện cực nhỏ chạy dọc theo một đường nào đó trong não, rồi dừng.
+
+「Khởi động hoàn tất.」
+
+Lý Minh không nhúc nhích. Ông ngồi im trên giường gỗ, tay vẫn để xuôi, mắt nhìn vào khoảng không trước mặt.
+
+Hệ thống. Trùng sinh. Ông đã đọc hàng trăm, hàng nghìn cuốn tiểu thuyết trên web — từ thời đại học, khi một cuốn truyện 500 chương đăng trên trang web có mã nguồn PHP mộc mạc, đến thời app đọc truyện có thuật toán gợi ý. Thể loại xuyên không, trọng sinh, đoạt xá — ông thuộc từng công thức. Nhân vật chính chết, tỉnh dậy ở thế giới khác, có hệ thống phụ trợ, farm quái, lên cấp, làm giàu, lấy vợ sinh con.
+
+Trong suốt mười năm, Lý Minh luôn tự nhủ: đó là giải trí. Ảo. Không thật. Không bao giờ thật.
+
+Nhưng lúc này, ông đang ngồi trên một cái giường gỗ không đệm, trong một căn nhà vách đất, mặc áo vải thô, tay chân gầy còm, và một giọng nói kỹ thuật số đang phát trong đầu.
+
+Ông búng vào tay mình — cái búng thật mạnh, kiểm tra tỉnh táo. Đau. Một vết đỏ hiện lên trên mu bàn tay chai sạn.
+
+Tỉnh.
+
+「Chủ nhân có thể kiểm tra thông tin cá nhân bằng suy nghĩ: 'Mở thông tin'.」
+
+Lý Minh — để suy nghĩ bằng tên nào đây. Trong đầu hai cái tên đan vào nhau nhưng lúc này, ai đang điều khiển cơ thể này? Cả hai. Một thể thống nhất. Ông là Lý Minh, và ông cũng là Trần Văn Hùng. Họ đã hòa vào nhau trong cái chết và sự tái sinh. Không ai lấn ai. Cả hai đều ở đây.
+
+Ông suy nghĩ: "Mở thông tin."
+
+Một bảng điều khiển hiện ra — không phải trước mắt vật lý, mà trong tầm nhìn tinh thần. Thiết kế tối giản, chữ màu trắng trên nền xanh đen. Không hoa văn, không icon rườm rà. Một giao diện sạch sẽ — ông khen thầm — cái này code vi vu.
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  HỆ THỐNG THƯƠNG GIA — THÔNG TIN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Tên:          Trần Văn Hùng
+  Tuổi:         23
+  Năm:          1983
+  Địa điểm:     Làng Thanh Xuân, huyện Quốc Oai, tỉnh Hà Tây
+  
+  ─── KỸ NĂNG ───
+  • Thương mại lv1:   Đánh giá giá trị hàng hóa chính xác >80%
+  • Ngôn ngữ lv1:     Thành thạo tiếng Anh + tiếng Pháp cơ bản
+
+  ─── NHIỆM VỤ CHÍNH ───
+  Trở thành thương gia lớn nhất Việt Nam
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Ông đọc lại dòng cuối. Trở thành thương gia lớn nhất Việt Nam. Năm 1983 — thời bao cấp, thời tem phiếu, thời mà buôn bán tư nhân bị gọi là "đầu cơ" và "tư thương", thời mà một người bán bánh mì ngoài chợ cũng có thể bị đưa đi cải tạo.
+
+Đây không phải con đường dễ.
+
+Nhưng cũng là thời cơ. Đất nước vừa trải qua chiến tranh. Hóa chất, đường xá, công xưởng — mọi thứ đều đổ nát. Thương mại là sợi dây sống còn. Ai biết nắm bắt, người ấy vượt lên. Lịch sử đã chứng minh: những người buôn bán nhỏ ở thập niên 80, nếu sống sót qua thời kỳ khó khăn, sẽ là những doanh nhân đầu tiên của Việt Nam thời Đổi Mới.
+
+「Không gian cất giữ: 1.000m². Đã kích hoạt.」
+
+「Chủ nhân có thể vào không gian bằng cách nhắm mắt và suy nghĩ 'Mở không gian'.」
+
+「Tính năng ẩn giấu: Khi đưa vật phẩm ra ngoài, có thể chọn chế độ 'ẩn giấu'. Vật phẩm chỉ chủ nhân mới có thể nhìn thấy và chạm vào, đến khi chủ nhân quyết định 'hiện hình'.」
+
+Lý Minh mỉm cười — nụ cười đầu tiên của kiếp mới. Tính năng ẩn giấu. Nhà phát triển hiểu về gameplay. Không thể đột nhiên xuất hiện với một bao gạo 50kg giữa làng quê năm 1983 mà không bị cán bộ xã đến tra hỏi. Cơ chế ẩn giấu này giải quyết vấn đề đó — mang đồ về, để ở chế độ ẩn, rồi từ từ "khám phá" ra một cách hợp lý.
+
+Ông nhắm mắt. Suy nghĩ: "Mở không gian."
+
+—
+
+Cảm giác giống như bước qua một lớp màng rất mỏng. Một sự dịch chuyển đột ngột, không mất thời gian, không mất ý thức. Một tích tắc trước ông còn ngồi trên giường gỗ, tích tắc sau đã đứng trên một mặt đất khác.
+
+Mặt đất đen nhánh, mỡ màng, tơi xốp — giống đất phù sa sau mùa lũ. Mùi đất ẩm bốc lên nồng nàn, mùi của sự sống đang sinh sôi trong từng vi khuẩn, từng giun dế dưới lòng đất. Một thửa ruộng triệu đô, không phải vì giá trị, mà vì sức chứa: thứ đất này trồng gì cũng được.
+
+Một ngàn mét vuông — không lớn lắm, chỉ ba sào Bắc Bộ, chỉ ba phần mười ha. Nhưng trong thời bao cấp, đây là diện tích mà một tập thể nông trường phải tính từng ly. Trên khoảng đất này, một khu vườn nhỏ mọc hoang — cây xanh lên tự nhiên, vài khóm tre, dây leo, có dại thấp. Trong vườn, một bụi chuối tây mọc bên góc, lá xòe như quạt nan, cây trĩu buồng.
+
+Dòng suối nhỏ chảy xuyên qua, nước trong thấy đá, mát rười rượi. Đá cuội tròn nhẵn dưới lòng suối, mỗi màu một vẻ — nâu, xám, trắng đục, xanh lơ — sắp hàng dưới làn nước trong như không. Rêu xanh bám trên những tảng đá lớn ven bờ, mượt mà, rung rinh theo dòng nước.
+
+Giữa đất, một căn nhà gỗ hai tầng. Gỗ thông màu vàng ấm — thứ gỗ mà ở ngoài kia năm 1983, chỉ có cán bộ cấp tỉnh trở lên mới mua được. Cửa sổ kính — kính trong suốt, không màu, không vết rạn, không bọt khí — đặt trong khuôn gỗ xẻ phẳng phiu. Mái ngói đỏ tươi, mới toanh, không một mảnh rêu.
+
+Trong nhà: sàn gỗ đánh véc-ni bóng mờ, tường vôi trắng. Phòng khách: bàn ghế gỗ xoan đào — ghế dài bốn chỗ, bàn tròn thấp, trên bàn đặt một ấm trông gốm nhỏ. Phòng bếp: bếp lò xây gạch đỏ, nồi đất, niêu đất, xoong nhôm xếp trên kệ tre, bát đĩa sành màu men nâu.
+
+Phòng ngủ tầng một: giường gỗ có đệm — đệm bông, dày, trắng tinh — một cái chăn sợi đơn mỏng. Tủ đầu giường, trên tủ một cây nến trắng và một hộp diêm.
+
+Tầng hai: hai phòng ngủ + một phòng làm việc. Phòng làm việc: bàn gỗ lớn, ghế tựa, giá sách trống đợi ngày sách vào. Cửa sổ nhìn ra thửa đất, thấy suối, thấy vườn cây xanh.
+
+Mọi thứ sạch sẽ, gọn, đẹp theo kiểu mộc mạc có chủ đích. Người thiết kế không cố gắng làm giàu — không chạm trổ, không dát vàng — chỉ làm đủ, chất lượng, bền. Một cabin thảo nguyên sang trọng. Đủ sống. Đủ làm việc. Đủ nghỉ ngơi.
+
+Lý Minh đứng một lúc ở sàn gỗ, nhìn ra khu vườn qua cửa kính. Ngạc nhiên. Đây là không gian hệ thống. Một căn nhà thật, đất thật, suối thật — trong một chiều không gian khác, chỉ ông có thể truy cập. Ông có thể ở lại đây hàng giờ, hàng ngày. Làm vườn. Đọc sách. Nghỉ ngơi. Cất giấu thứ mình cần.
+
+Thử nghiệm: ông cầm một cái bát sành trong nhà, suy nghĩ "ra ngoài". Tích tắc — bát biến mất. Ông ra ngoài thế giới thật, mở mắt, đưa tay ra, suy nghĩ "lấy bát". Cái bát sành hiện nguyên trên tay. Đúng như miêu tả. Hai chiều ra vào tự do.
+
+Hệ thống này được code chắc chắn.
+
+Ông quay lại không gian, đi ra khu vườn sau nhà. Phía sau căn nhà gỗ — một kho hàng.
+
+Kho gỗ, hai trăm mét vuông, kệ xếp dọc thành hàng. Hàng hóa trên kệ:
+
+— Gạo trắng, 100kg. Đóng trong bao tải nhỏ, mỗi bao 10kg, xếp ngay ngắn. Gạo trắng hạt dài, thơm nhẹ. Năm 1983: gạo trắng là xa xỉ. Đa số nhà ăn gạo lứt tháng, độn sắn, độn khoai, độn ngô. Một gia đình bình thường mỗi tháng được phát vài cân gạo trắng trong phiếu lương thực. Ở đây có 100kg.
+
+— Thịt bò, 50kg. Đỏ tươi, thớ thịt đều, mỡ trắng. Được ướp lạnh trong một vùng riêng của kho — vùng nhiệt độ thấp, không mất điện, không bị hỏng. Thịt bò thời bao cấp: chỉ cán bộ cao cấp, người có đặc quyền, hoặc nhà có thân nhân ở nước ngoài gửi về — nói chung là thứ nằm ngoài vùng với của người dân thường.
+
+— Thịt heo, 20kg. Thịt ba chỉ, có nạc có mỡ — phần ngon nhất. Thịt heo thời bao cấp mua cần có phiếu thịt. Mỗi người một tháng nếu may mắn được phát 500g. Hai mươi ký này là bằng hai năm phát phiếu cho một người.
+
+— Trứng gà, 100 quả. Vỏ nâu sáng, sờ vào còn ráp vì độ tươi. Xếp trong khay nan, mỗi lớp lót rơm. Mỗi quả trứng gà đều nguyên vẹn. Ở chợ đen thời ấy, một quả trứng gà ngang với một bát phở.
+
+— Mì gói, 10 thùng. Mì nhập khẩu, bao bì in tiếng nước ngoài — Thái Lan, Hồng Kông. Chưa từng xuất hiện ở huyện Quốc Oai. Ở Hà Nội, mì gói là hàng cực hiếm, chỉ có ở cửa hàng dành cho người nước ngoài. Ở huyện, dân không biết mì gói là gì.
+
+— Quần áo, 100 bộ. Áo sơ mi, quần dài, may công nghiệp, vải dày, đường may thẳng, đều. Có cả áo khoác mỏng, cả quần đùi, cả áo phông — kiểu dáng đơn giản, màu trung tính. Trong xã hội tem phiếu, mỗi người một năm may được một bộ quần áo mới nếu căng. Ở đây: 100 bộ.
+
+— Xe đạp, 1 chiếc. Mới tinh. Sơn đen bóng, vành thép sáng, tăm đều, lốp mới — nhìn là thấy gai cao su còn nguyên. Xe đạp thời bao cấp = xe hơi thời 2024: ai có xe là giàu, là có điều kiện. Và ai có xe thì bị hàng xóm hỏi mượn suốt ngày, có khi họ hàng ở làng bên qua mượn cả tuần mới trả.
+
+— Tiền mặt, 10.000 đồng. Tiền giấy, tờ một đồng, hai đồng, năm đồng — tờ mới, không nhàu. Lương công nhân viên chức thời ấy: 30-50 đồng/tháng. 10.000 đồng — bằng hai trăm tháng lương. Một gia tài.
+
+Hàng hóa.
+
+Lý Minh đứng giữa kho hàng. Tay chạm vào bao gạo — cảm giác hạt gạo cứng, mịn qua lớp bao vải. Mũi ngửi mùi thịt bò tươi. Mắt thấy những kệ hàng chất lên, đầy đủ, có tổ chức.
+
+Và tự nhiên mắt ông ướt.
+
+Không phải vì tham. Không phải vì mừng giàu. Mà vì ông vừa nhìn thấy trong ký ức của Trần Văn Hùng — bát cháo loãng, nước trong vắt, vài hạt gạo lơ lửng. Một chén nước mắm pha loãng — không có thịt, không có rau, chỉ vài giọt mắm pha nước — chấm từng miếng khoai luộc cho đỡ ngán. Những bữa cơm mà mỗi hạt gạo được đếm, được tính.
+
+Ở ngoài kia: bà Hà, Lan — đang ăn cháo loãng.
+
+Ở trong này: 100kg gạo trắng.
+
+Lý Minh lau mắt. Nước mắt mặn, chảy vào khóe miệng.
+
+Ổn. Không sao. Đây là gói khởi đầu. Nhiệm vụ là dùng nó tốt.
+
+—
+
+Ông thoát ra ngoài.
+
+Mở mắt. Trong căn nhà vách đất. Nắng chiều đã ngả vàng, rọi xiên qua khe cửa, chiếu dài một quầng sáng trên nền gỗ. Bụi bay lơ lửng trong tia sáng — từng hạt bụi li ti, lấp lánh như phấn hoa. Tiếng gà gáy vang ngoài vườn, tiếng trâu kêu ò ò từ xa. Tiếng một đứa trẻ nào đó khóc đòi ăn ở nhà bên.
+
+Âm thanh của nông thôn Bắc Bộ năm 1983.
+
+—
+
+"Cậu tỉnh rồi?"
+
+Giọng nói từ cửa. Hùng quay lại.
+
+Một cô gái đứng ở ngưỡng cửa. Gầy. Gầy đến độ hai cánh tay trông như que tăm, xương quai xanh mổ xổ chồm ra dưới lớp da mỏng. Áo bà ba màu xám cũ — loại áo vải thường may từ tấm vải trắng nhuộm màu nước dội, bền nhưng chóng phai, vá đụp vá chằng.
+
+Mặt. Gò má nhô, mắt thâm quầng, môi nứt nẻ. Nhưng mắt cô to, đen, trong. Trong đôi mắt đó có mệt mỏi, có kiên nhẫn, có sợ hãi, và có một tia hy vọng hiếm hoi.
+
+Tóc đen dài, buộc đuôi ngựa thấp, những sợi tóc khô xác bay ra hai bên thái dương. Tay bưng bát sành — và trong bát, cháo.
+
+Cháo loãng.
+
+Trần Thị Lan. Mười tám tuổi. Em gái.
+
+Ký ức của Hùng đổ vào — và lần này Lý Minh không còn ngỡ ngàng. Anh tiếp nhận nó như một bộ phim tua nhanh:
+
+Lan dậy từ 4 giờ sáng. Gánh nước từ giếng làng cách nhà hai trăm mét. Nước gánh về mới đổ vào chum, đã xách một thùng bắc lên bếp nhóm lửa. Cơm — thực ra là cháo — cho bà, cho anh, cho cô. Bà yếu, anh bệnh, cô chỉ chờ phần cuối: nước cháo sau khi vớt ra.
+
+Cô làm việc từ 4 giờ sáng đến 9 giờ tối. Quét nhà, giặt áo, rửa rau, hái rau, gánh nước, nhóm lửa, nấu cơm, vá áo cho mọi người trong xóm mỗi khi họ mang đến nhờ — có khi trả bằng vài bắp ngô, có khi không trả gì. Cô đi rừng hái củi, đi chợ bán rau, đi đòi nợ hộ vài người trong làng.
+
+Chưa bao giờ than một tiếng.
+
+Chưa bao giờ nói: anh ăn đi, em ăn rồi. Nhưng cô chưa bao giờ ăn trước mặt anh. Cô chờ anh ăn xong, mới ăn phần còn lại. Nếu không còn, cô không nói.
+
+Lý Minh nhìn cô em gái mà ký ức của Hùng gọi là "em", và một cơn đau khác đánh vào ngực — không phải cơn đau tim, mà là cơn đau của sự xấu hổ. Trong 23 năm, Trần Văn Hùng đã làm gì cho cô em này? Uống rượu, cãi vã, bỏ nhà, trút sự thất vọng lên người duy nhất yêu thương anh thật lòng.
+
+"Lan à?" Hùng nói.
+
+Giọng hơi run. Không phải vì yếu. Vì xúc động.
+
+Chân mày Lan giật. Đôi mắt mở to hơn. Môi cô hé ra, rồi khép lại. Bát sành trong tay cô run nhẹ — vành bát kêu lách cách vào viên sành trên mép.
+
+"Anh... anh gọi em là Lan?"
+
+Giọng cô như một sợi chỉ. Mỏng. Căng.
+
+Hùng nhận ra. Trần Văn Hùng cũ — say rượu, nóng nảy, thô lỗ — chưa bao giờ gọi tên em. Toàn "ê", "mày", "con kia". Nếu có gọi tên, thì là la: "Lan! Mày để cái này ở đâu?" hoặc "Lan! Nấu cơm chưa?" Chưa bao giờ "Lan à?" — dịu dàng, hỏi thăm.
+
+"Anh... anh xin lỗi."
+
+Ba tiếng. Hùng nói chậm. Từng tiếng một. Anh không nói vội, không nói trống, không nói cho qua chuyện.
+
+"Xin lỗi vì trước đây anh không tốt với em. Anh..."
+
+Anh dừng. Nuốt. Tìm từ.
+
+"Anh là đồ vô dụng. Anh say rượu, anh bỏ mặc em và bà. Anh không xứng đáng."
+
+Lan đứng đó. Gió chiều thổi nhẹ qua cửa làm mấy sợi tóc khô bay trên trán cô. Đôi mắt cô — thâm quầng, mệt mỏi — nhìn anh không chớp.
+
+Rồi cô cúi đầu. Một giọt nước mắt rơi, rơi từ khoé mắt cô xuống vạt áo ba màu xám đã bạc, làm một vệt sẫm trên vải.
+
+Cô không nói gì. Chỉ lau mắt bằng vai áo, bước vào phòng, đặt bát sành lên bàn.
+
+"Bà bảo anh ăn chút đi. Cháo loãng thôi, nhưng còn hơn không."
+
+—
+
+Hùng nhìn bát cháo.
+
+Nước trong veo, hơi đục như nước vo gạo lần thứ hai. Mấy hạt gạo lứt lơ lửng — đếm được mười hai hạt, nổi trong nước như hành tinh trong vũ trụ trống. Trên mặt, một váng dầu mỡ mỏng — dầu chuối, vài giọt. Vài cọng hành xanh nhỏ xíu, cắt tay, rải lên trên.
+
+Bát cháo mà bà nội nấu với gạo tiết kiệm trong hũ, cho con cá khô hồi tháng trước còn sót lại.
+
+Hùng đưa tay cầm thìa. Cái thìa nhôm méo, cán hơi cong vì dùng lâu. Xúc một muỗng. Đưa lên miệng. Húp.
+
+Nhạt.
+
+Vị của nước, của vài hạt gạo đã ninh đến nát, của tinh bột tan ra mơ hồ. Không có muối — muối cũng là thứ phải tiết kiệm. Không có mắm. Chỉ có cháo trắng nấu với nước lã.
+
+Nhưng ấm.
+
+Ấm từ trong ra ngoài, từ thực quản xuống dạ dày. Và trong cái ấm đó, Hùng nếm một vị khác: vị của bà nội đã nhường phần gạo — có thể bà đã bớt đi nửa bữa tối để dành gạo nấu cháo cho cháu. Vị của em gái đã nhường phần — chắc chắn Lan chưa ăn sáng, đang chờ anh ăn xong xem có còn gì không.
+
+Hùng ăn. Từng muỗng. Chậm.
+
+Khi còn là Lý Minh, ông đã từng sống qua thời sinh viên nghèo — mì gói, cơm bụi 5.000đ, xin thêm nước canh. Nhưng chưa bao giờ ông ăn thứ cháo mà mỗi hạt gạo trong đó chứa đựng sự hy sinh của những người yêu thương ông.
+
+Đây là lần đầu tiên Trần Văn Hùng ăn một bát cháo loãng mà không chê một lời. Lần đầu tiên anh ăn hết. Lần đầu tiên, khi đặt bát xuống, anh nhẹ nhàng gọi:
+
+"Lan, cảm ơn em."
+
+—
+
+Ba ngày.
+
+Thì ra Hùng đã hôn mê ba ngày. Sốt. Lạnh run. Cơ thể gầy yếu không chịu nổi cơn sốt rét rừng — bệnh mà rất nhiều người làng mắc phải, chỉ có vài viên thuốc ký ninh từ trạm xá, đủ để cầm cự, không đủ để khỏi.
+
+Suốt ba ngày, bà Hà ngồi cạnh giường. Lau trán. Đút thuốc. Nhìn cháu. Không ngủ. Bà gần bảy mươi tuổi, lưng còng, mắt mờ nhưng không rời cháu một giây.
+
+Lan nói nhỏ, như sợ làm vỡ bầu không khí. Giọng cô mỏng như lớp băng mỏng đầu mùa: chạm vào là vỡ.
+
+"Bà thức suốt. Bà ngồi cạnh giường anh, khâu áo để tỉnh. Không chịu đi ngủ."
+
+Hùng nhắm mắt.
+
+Hình ảnh hiện ra trong đầu không phải do hệ thống — là ký ức của chính Hùng, của Lý Minh, của cả hai đan vào. Một bà lão lưng còng, tay run, đôi mắt nặng trĩu, cặm cụi khâu từng mũi áo trong ánh đèn dầu leo lét, thỉnh thoảng ngước lên nhìn mặt cháu. Đưa tay sờ trán. Thở phào nếu không sốt. Lại cắm cúi khâu.
+
+Mẹ của Lý Minh mất sớm. Bà của Hùng là người bà mà Minh chưa từng có.
+
+Hai dòng ký ức xô nhau. Hùng đưa tay lên dụi mắt.
+
+"Bà đâu rồi?"
+
+"Ra vườn. Bà nói hái rau lang về nấu canh. Bà bảo anh yếu, cần ăn rau xanh."
+
+Hùng đứng dậy. Chân đau ê ẩm, nhưng ông gượng. Ông phải ra ngoài.
+
+—
+
+Vườn sau nhà như vườn của mọi nhà nghèo thời bao cấp: rau lang, rau muống, mấy cây cà, và một cây so đũa. Đất cằn. Cỏ mọc thưa thớt vì bị xới hoài.
+
+Bà Hà lom khom giữa vườn. Lưng bà còng hẳn, cong thành hình chữ C, mỗi lần bà cúi xuống hái rau phải chống tay lên đầu gối để đứng lên.
+
+Bà mặc áo nâu — màu nâu của đất, của bùn, của vải nhuộm bằng củ nâu. Đầu bà quấn khăn rằn, chiếc khăn đã cũ, rách một góc, vẫn cẩn thận quấn kín tóc bạc. Tay bà — gầy guộc như cành cây khô, da nhăn nheo, đốt ngón tay sưng vì thấp khớp — từng chậm rãi lặt từng ngọn rau.
+
+Cảnh một bà lão bảy mươi tuổi vẫn phải lom khom hái rau ở cái tuổi đáng được nghỉ ngơi. Một bà lão có đứa cháu trai chưa từng làm gì để đỡ đần.
+
+Hùng đứng bên bờ rào. Hắng giọng.
+
+"Bà ơi."
+
+Bà Hà quay lại. Đôi mắt trắng đục vì bệnh mộng thịt — bà nhìn hơi nghiêng đầu để bắt đúng tầm nhìn. Khi thấy cháu đứng ở đó, mắt bà sáng lên. Cái sáng của một ngọn đèn dầu chỉ còn chuẩn bị tắt, bỗng cháy bùng lên lần cuối.
+
+Bà buông rau. Bước về phía cháu. Nhanh hết sức bà có thể — những bước chân loạng choạng, bước cao bước thấp trên mặt đất không bằng phẳng.
+
+"Cậu tỉnh rồi! Bà lo quá... bà tưởng..."
+
+Giọng bà run. Bà không nói tiếp.
+
+Hùng bước tới. Không nói gì. Ông đưa hai tay ra và ôm bà.
+
+Bà nhỏ. Nhẹ. Nhẹ đến mức ôm bà trong tay, Hùng thấy lạnh — thấy xương bà, thấy khung sườn từng thanh, thấy bà như một bó rơm khô trong vòng tay. Bà cứng người. Hai mươi ba năm Trần Văn Hùng không ôm bà.
+
+Rồi bà buông mình vào vòng tay cháu.
+
+Hai cánh tay gầy guộc siết lấy lưng Hùng — siết không phải bằng sức, mà bằng tình. Bà khóc. Không thành tiếng. Nước mắt bà chảy ướt vai áo Hùng. Những tiếng nấc nhỏ, khe khẽ, như tiếng gà kêu trong cổ họng già nua.
+
+Bà nội sáu mươi bảy tuổi — một đời khổ, chồng mất sớm, con trai đi cải tạo không tin tức, con dâu chết, cháu trai hư hỏng — bây giờ chỉ biết ôm cháu và khóc.
+
+"Con xin lỗi bà. Con không ngoan. Con biết lỗi rồi."
+
+Hùng nói. Giọng ông nghẹn đặc. Nước mắt tự nhiên chảy, không mời. Trong vòng tay của bà nội xa lạ này, Lý Minh — kẻ đã sống 35 năm không gia đình — khóc như một đứa trẻ.
+
+Bà Hà không nói gì. Bà chỉ gật đầu vào ngực cháu. Một chữ "ừ" nhẹ đến mức Hùng không biết mình nghe thấy hay cảm nhận thấy.
+
+—
+
+Lan đứng ở cửa. Nhìn cảnh tượng đó, cô lấy mu bàn tay bịt miệng. Mắt cô đỏ. Mấy giọt nước mắt chảy ra từ kẽ tay. Cô khóc nhưng không để mình phát ra tiếng — thói quen bao năm, khóc không thành tiếng.
+
+Hùng buông bà. Lau mặt. Nắng chiều đã tắt hẳn — chỉ còn một vệt tím hồng ở chân trời phía tây. Bóng ba người trên sân đất nện: bà lão lưng còng, anh thanh niên gầy, cô gái đứng ở ngưỡng cửa.
+
+Không ai nói gì. Chỉ có bóng tối từ từ phủ xuống, và tiếng dế bắt đầu vang lên trong bụi cỏ.
+
+"Bà, con sẽ đi làm thêm ở huyện thành."
+
+Giọng Hùng còn hơi khàn vì khóc, nhưng có quyết đoán.
+
+"Phụ xây, khuân vác, chạy vặt gì đó. Kiếm tiền. Kiếm gạo."
+
+Bà Hà ngước mắt lên. Bà muốn nói "cậu vừa ốm dậy, nghỉ đi đã" — nhưng bà nhìn thấy đôi mắt cháu. Đôi mắt khác. Trong đó không còn sự thô lỗ, bực bội, ưu phiền của kẻ say rượu. Trong đó là sự điềm tĩnh của một người biết mình cần làm gì.
+
+"Ừ." Bà gật đầu. "Ừ, nhưng nghỉ nay mai đã. Yếu lắm, đi sớm cảm nắng lại ốm."
+
+"Vâng."
+
+Hùng mỉm cười. Một nụ cười không quá rộng, không quá hở — nhưng khác. Sáng hơn. Ấm hơn. Nụ cười của một con người mới.
+
+—
+
+Tối.
+
+Bà Hà nấu canh rau lang. Rau lang luộc, vớt ra chấm với muối vừng giã nhỏ — vài hạt mè, chút muối, chút gừng. Cơm — lần này có ít gạo hơn cháo, đặc hơn. Gạo lứt đồ lên, hạt to, cứng, cơm khô, không dẻo, nhưng ít nhất không phải cháo loãng.
+
+Cả ba ngồi quanh mâm — mâm gỗ tròn, đặt dưới bếp, bốn góc kê gạch cho khỏi lắc. Bữa ăn tối: rau lang luộc, muối vừng, cơm lứt, và một chén nước mắm chấm nhỏ.
+
+Hùng xới cơm cho bà trước. Bát bà không đầy — bà hay ăn ít. Rồi xới cho Lan. Cô giật mình khi thấy anh đưa bát. Anh trai cô chưa bao giờ xới cơm cho ai.
+
+"Cảm ơn anh." Lan nói nhỏ.
+
+Hùng gật đầu. Xới cho mình. Bắt đầu ăn.
+
+Cơm lứt cứng và khô, nhưng nhai lâu ngọt. Rau lang có vị bùi, chấm muối vừng mặn mà. Đơn giản. Nghèo. Nhưng đó là bữa ăn đầu tiên của gia đình này mà mọi người ngồi với nhau và ăn trong hòa thuận.
+
+Tiếng đũa gõ vào vành bát sành kêu cốc cốc trong gian bếp vắng. Đèn dầu cháy xèo xèo trên bàn, ngọn lửa vàng cam lay động, làm bóng ba người nhảy nhót trên vách đất. Hùng cảm thấy hơi ấm từ bát cơm lan ra lòng bàn tay, thấm vào từng kẽ ngón tay chai sạn — cái ấm của một bữa ăn gia đình thật sự, khác hẳn mọi bữa cơm một mình trước màn hình máy tính. Trong lồng ngực ông, một thứ tình cảm lạ lẫm nở ra, ấm và nặng: ông đang thuộc về một nơi nào đó.
+
+Không một ai nói về sự thay đổi. Bà Hà không hỏi tại sao. Lan không hỏi tại sao. Nhưng trong đầu họ, một điều đã được xác nhận: Trần Văn Hùng đã khác.
+
+—
+
+Sau bữa tối, Hùng ngồi trước hiên nhà.
+
+Trời tối hẳn. Sao đầy trời — nhiều hơn bất kỳ bức ảnh chụp từ vũ trụ nào trên internet. Không ánh đèn thành phố, không ô nhiễm không khí, không mây che. Chỉ trời, sao, và trăng khuyết. Trăng như một quả chuối cong, treo lơ lửng trên đầu.
+
+Gió mát. Mùi rơm khô. Mùi đất. Mùi của cuộc sống năm 1983.
+
+Trong đầu, hệ thống tái hiện:
+
+「Nhiệm vụ đầu tiên: Cải thiện cuộc sống gia đình trong 7 ngày.
+- Mục tiêu: Đảm bảo gia đình có đủ ăn trong 1 tháng.
+- Phần thưởng: 100 EXP, mở rộng không gian +200m².
+- Thời hạn: 7 ngày.」
+
+Bảy ngày. Đủ ăn một tháng. Trong kho không gian, hàng hóa sẵn sàng. Vấn đề là làm sao tự nhiên, làm sao không gây nghi ngờ.
+
+Hùng ngồi đó, trong bóng tối, nhìn sao, tính toán.
+
+Kế hoạch: mỗi tuần lấy ra 5kg gạo, 1kg thịt, 20 quả trứng. Nói là làm thêm ở huyện, được chủ trả lương bằng hiện vật. Để đủ tự nhiên, sẽ đi xuống huyện thật — làm quen dần với cảnh buôn bán, với hệ thống chợ búa. Có thể mua một ít đồ thật ở chợ. Pha trộn. Không gây chú ý.
+
+1983 không phải thời kỳ dễ dàng để buôn bán. Nhưng cũng là thời kỳ cuối của thời bao cấp. Năm 1986, Đổi Mới sẽ bắt đầu. Ba năm.
+
+Ba năm chuẩn bị. Ba năm tích lũy. Đến lúc cánh cửa mở ra, phải là người đứng sẵn trước cửa. Hùng hiểu điều đó. Lý Minh cũng hiểu điều đó. Cả hai, trong cùng một cơ thể, cùng nhìn về một hướng.
+
+—
+
+Hùng đứng dậy. Nhìn vào trong nhà — nơi bà Hà và Lan đang thu dọn mâm bát. Ánh đèn dầu thắp sáng một góc bếp, leo lét. Bóng hai người di động trên vách.
+
+Ông nhìn lên bức ảnh cha trên tường — người đàn ông nghiêm nghị mà ông không nhìn thấy mặt thật, không nhớ được giọng nói. Có lẽ còn sống. Có lẽ đã mất. Ông không biết. Nhưng một ngày nào đó, khi đã đủ mạnh, ông sẽ tìm.
+
+Một kiếp sống mới. Một cơ thể mới. Một gia đình mới.
+
+Lần này, ông sẽ không lãng phí.
+
+—
+
+Năm 1983. Thời bao cấp. Nhưng cũng là thời khắc trước bình minh.
+
+Lý Minh — hay Trần Văn Hùng — nhắm mắt, hít một hơi thật sâu. Kiếp trước ông chết lặng lẽ trước màn hình máy tính, không ai biết, không ai nhớ. Kiếp này, dù chỉ là một kẻ bán hàng rong ở chợ quê năm 1983, ông sẽ sống khác. Sẽ có người cần ông. Sẽ có người nhớ ông. Cảm giác được cần đến — thứ mà Lý Minh chưa từng có trong ba mươi lăm năm tồn tại đơn độc ở thế kỷ hai mươi mốt — giờ đây ngập tràn lồng ngực ông, ấm và nặng như một trách nhiệm vừa được giao.
+
+Và Trần Văn Hùng đã sẵn sàng.
+
+============================================================
+「Hệ thống — CỘT MỐC ch.1」
+Năm: 1983
+Tổng EXP: 0 (+0 nhịp này)
+Không gian kho: 1,000m² (+0m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
+Hùng tắt đèn dầu, nằm xuống chiếu. Trần nhà tối om, tiếng dế kêu rả rích ngoài vườn.
+Ông đưa tay sờ vào khoảng không trống — hệ thống vẫn ở đó, lặng lẽ như trang giấy trắng.
+Một cuộc đời mới bắt đầu không bằng hoa hồng, mà bằng bước chân đầu tiên ra khỏi cửa.
+
+Hùng đứng dậy khỏi chiếu, bước ra sân. Trăng non như lưỡi liềm.
+Ông hít một hơi sâu — không khí làng quê 1983, mùi rơm rạ và sương.
+Trong đầu, con số 0 hiện ra to và rõ: từ đây, đi lên.
+Không EXP, không kho đồ, không gì cả.
+Chỉ có đôi chân và một cái đầu biết tính.
+
+============================================================
+
+Teaser: 
+
+
+「Hệ thống — GHI NHẬN ch.1」
+Năm: 1983
+Tổng EXP: 0 (+0)
+Không gian kho: 1,000m² (+0m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
+Ghi chú:  system_ledger
+============================================================

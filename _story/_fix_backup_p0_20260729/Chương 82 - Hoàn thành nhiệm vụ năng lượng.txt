@@ -1,0 +1,333 @@
+============================================================
+Chương 82: Hoàn thành nhiệm vụ năng lượng
+============================================================
+
+"Hoàn thành nhiệm vụ năng lượng" — năm chữ trên sổ, ba tháng rưỡi hiện ra trước mắt Hùng trong một buổi sáng cuối thu 1986.
+
+Khu công nghiệp Đà Nẵng sáng hôm ấy khác hẳn. Không còn mùi dầu máy trộn mồ hôi và tiếng ốc vít loảng xoảng như những ngày mở rộng. Không còn những đống thép rải rác, những cuộn cáp chưa kéo, những hố móng chờ đổ bê tông. Thay vào đó là không khí im lặng trước giờ chạy — thứ im lặng của máy móc đang chờ tín hiệu, của con người đang nín thở, của một thứ gì đó lớn hơn từng cá nhân sắp diễn ra.
+
+Hùng đứng trước bảng điện chính từ năm giờ sáng. Tay phải ông chạm vào cần đóng tổng, tay trái cầm cuốn sổ đã theo ông từ ngày đầu đặt chân vào khu công nghiệp này. Trong sổ: thông số kỹ thuật của bốn turbine, nhiệt độ dầu bôi trơn của từng tổ máy, áp suất hơi ở các nấc, vòng quay phút danh định, ngưỡng rung cho phép, nhiệt độ cuộn dây stato — tất cả những con số ông đã thuộc lòng nhưng vẫn phải ghi, vì ghi là cách ông kiểm lại lần cuối.
+
+"Kiểm lần cuối," ông nói với đội kỹ thuật.
+
+Mười hai người dàn quanh tủ điện, mỗi người đứng ở một vị trí đã được phân công từ trước. Tiếng báo vọng lần lượt như dây chuyền — ngắn, rõ, không thừa một âm tiết:
+
+"Dầu bôi trơn tổ máy số một — đạt."
+"Tổ máy số hai — đạt."
+"Nước làm mát tuần hoàn — đạt áp suất."
+"Áp suất hơi đầu vào — đạt năm atmôtphe."
+"Van an toàn tổ máy số ba — hoạt động."
+"Hệ thống làm mát dầu — đạt."
+"Điện áp kích từ — ổn định."
+"Tần số đồng hồ chuẩn — năm mươi héc."
+
+Ông Tanaka — kỹ sư trưởng người Nhật theo dự án từ ngày đầu — đứng bên cạnh Hùng, tay cầm bảng số liệu riêng của ông ta. Ông Tanaka ít nói đến mức đội kỹ thuật đặt cược xem một tháng ông ta nói được bao nhiêu câu. Nhưng hôm nay, khi mọi thông số đã được báo xong, ông ta gật đầu.
+
+Cái gật ấy đáng giá nửa trang biên bản nghiệm thu.
+
+"Đóng," Hùng ra lệnh.
+
+Tiếng rơ-le nhả. Một tiếng ầm nhỏ vọng từ lõi turbine, như một hơi thở dài của máy móc sau ba tháng nằm chờ. Kim đồng hồ trên bảng điện rung nhẹ rồi đứng yên ở vạch 50 Hz. Đèn xanh trên tủ điều khiển bật sáng — một màu xanh lục nhạt, giản dị, nhưng ai trong phòng điều khiển cũng hiểu nó nói gì.
+
+Trần Thị Lan đứng bên cạnh Hùng, tay cầm bảng checklist đóng thành tập dày. Mỗi một hạng mục — cô đã tự tay kiểm, tự tay gạch, tự tay ký. Hôm nay không có chữ "ủy quyền" trong từ điển của cô.
+
+Cô gạch một dòng trên checklist, ngẩng lên: "Turbine một vận hành ở chế độ không tải. Vòng quay đạt định mức. Rung động trong ngưỡng."
+
+Chưa ai vỗ tay. Còn ba tổ máy nữa. Và còn thử tải.
+
+---
+
+Buổi trưa, Hùng ăn vội nắm cơm nguội trong căn tin tạm — bốn bức tường tôn, hai cái quạt trần chạy hết tốc lực vẫn không đuổi kịp cái nóng tháng Mười Đà Nẵng. Tai ông vẫn nghe tiếng máy chạy nền qua vách tôn. Một âm thanh rền đều, như tim của một sinh vật khổng lồ vừa thức dậy.
+
+Ông đã quen âm thanh này rồi — không phải từ tuần này, mà từ khi dự án còn trên giấy. Ông đã nghe nó trong đầu suốt những đêm mất ngủ, những lúc đứng nhìn bản vẽ, những khi đi qua khu đất hoang trước khi có nhà máy.
+
+Nhưng hôm nay, âm thanh ấy là thật.
+
+Hùng nhai cơm, nhìn ra ô cửa sổ nhỏ. Những đường ống dẫn hơi chạy dọc trần nhà máy, bọc bông cách nhiệt màu trắng xám. Những cột bê tông đỡ mái. Những van xả an toàn sơn đỏ. Từng chi tiết, từng đường hàn, từng mối nối — ông đã đi qua từng cái, sờ từng cái, hỏi từng người thợ về từng cái.
+
+Có một lần, hồi tháng Tám, một đường ống dầu bị rò rỉ ở mối hàn. Ông đứng đấy từ chín giờ tối đến ba giờ sáng, nhìn thợ hàn lại. Không phải vì ông không tin thợ, mà vì ông muốn nhìn thấy chỗ hỏng bằng mắt mình, để nếu có hỏi lại, ông biết đường mà truy.
+
+Người thợ hàn — anh Ba, ba mươi hai tuổi, quê Quảng Ngãi — sau khi hàn xong đã nói: "Chú Hùng, chú về ngủ đi. Tụi con hàn đường ống từ hồi mười tám tuổi, không hỏng đâu."
+
+Hùng cười: "Anh hàn thì tôi tin. Nhưng tôi đứng đây để mai này nếu có chuyện, tôi biết mà trả lời. Không đổ cho ai được."
+
+Anh Ba nhìn ông một lúc, rồi không nói gì thêm, chỉ gật đầu rồi quay lại mối hàn.
+
+Hôm nay, đường ống đó vận hành ổn định. Áp suất hơi đi qua nó đều đều, từ lò hơi qua turbine rồi ra bình ngưng.
+
+Hùng ăn xong nắm cơm, uống ngụm nước chè xanh do Lan pha sẵn, rồi quay lại phòng điều khiển.
+
+Buổi chiều sẽ thử tải.
+
+---
+
+Một giờ chiều. Từng nấc tải được đưa lên theo quy trình đã định sẵn: 25%, 50%, 75%, 100%.
+
+Ở nấc 25%, kim Volt trên bảng điện không dao động. Các kỹ sư ghi số liệu.
+
+Ở nấc 50%, tiếng máy phát nặng hơn một chút, nhưng đều. Ông Tanaka kiểm tra nhiệt độ cuộn dây, gật đầu.
+
+Ở nấc 75%, Hùng cảm thấy mồ hôi dưới nách. Không phải vì nóng — phòng điều khiển có máy lạnh. Là vì căng. Bảy mươi lăm phần trăm là nấc kiểm tra độ ổn định của cả hệ thống. Nếu có yếu điểm, nó sẽ lộ ra ở nấc này.
+
+"Giữ 75% trong ba mươi phút," ông nói.
+
+Đội kỹ thuật ghi số liệu mỗi năm phút. Áp suất hơi, nhiệt độ dầu, độ rung, dòng điện, điện áp — từng thông số được ghi vào biểu mẫu, từng chữ ký được đóng lên từng ô.
+
+Phút thứ mười lăm, một tiếng kêu nhỏ phát ra từ tủ điện phụ. Mọi người đều quay lại. Hùng giơ tay — dấu hiệu "bình tĩnh" — rồi bước đến.
+
+Một rơ-le nhiệt bảo vệ quá tải đã nhảy. Không phải hỏng hóc, chỉ là tác động của thiết bị bảo vệ khi nhiệt độ tăng nhanh hơn dự kiến.
+
+"Kiểm tra nguyên nhân," Hùng nói.
+
+Kỹ sư điện — một người trẻ tên Cường, mới tốt nghiệp — mở tủ, đo dòng, kiểm tra tiếp điểm. Mất mười phút.
+
+"Dòng khởi động của quạt làm mát cao hơn thiết kế," Cường báo cáo. "Có thể do điện áp lưới thấp hơn định mức. Nhưng không vượt ngưỡng."
+
+"Xử lý?"
+
+"Tăng thời gian trễ của rơ-le hoặc thay rơ-le dải cao hơn."
+
+"Làm cách nào nhanh nhất?"
+
+"Tăng thời gian trễ. Mất năm phút."
+
+"Làm đi."
+
+Mồ hôi lấm tấm trên trán Cường, lăn xuống má rồi nhỏ giọt lên sàn xi măng. Những ngón tay cậu hơi run khi cầm tuốc-nơ-vít—không phải run vì sợ, mà vì biết mười mấy cặp mắt đang chờ. Hùng đứng sau, không nói, chỉ nhìn. Cậu cảm nhận được cái nhìn ấy trên gáy, nặng nhưng không đè—giống như một bàn tay đặt lên vai để nói "cứ làm, tao ở đây". Khi dòng điện ổn định và đèn báo chuyển xanh, Cường thở ra một hơi mà không biết mình đã nín từ lúc nào.
+
+Cường chỉnh thông số, đặt lại rơ-le, kiểm tra dòng. Năm phút sau, tủ điện hoạt động trở lại. Không tiếng kêu.
+
+Hùng ghi vào sổ: *Rơ-le nhiệt quạt làm mát tổ máy 3 nhảy ở phút 15 thử tải 75%. Nguyên nhân: điện áp lưới thấp, dòng khởi động tăng. Xử lý: chỉnh thời gian trễ từ 5s lên 8s. OK.*
+
+Ông không trách ai. Ông cũng không khen ai. Sự cố là chuyện bình thường; cách xử lý mới là thước đo. Cường xử lý nhanh, đúng quy trình, báo cáo rõ — đó là điều ông cần.
+
+Phút thứ ba mươi, Lan báo: "75% — ổn định trong ba mươi phút. Nhiệt độ cuộn dây stato ổn ở 85 độ C. Độ rung 0.04 mm. Áp suất dầu ổn."
+
+"Chuyển sang nấc 100%," Hùng ra lệnh.
+
+Lần này ông tự tay đóng nấc cuối.
+
+Cần điều khiển nhích từng nấc nhỏ. Tiếng máy nổ thay đổi — trầm hơn, nặng hơn, như một người đàn ông đang gồng mình gánh một vật nặng nhưng vẫn đứng vững.
+
+Kim đồng hồ watt kế nhích dần: 2 MW, 4 MW, 6 MW, 8 MW.
+
+Đến 8.5 MW — tải định mức của bốn tổ máy.
+
+Hùng dừng tay.
+
+Phòng điều khiển im lặng. Mười giây. Hai mươi giây. Ba mươi giây.
+
+Kim tần số: 50 Hz, không dao động.
+
+Kim điện áp: 6.3 kV — ổn.
+
+Đèn báo trên tất cả các tủ: xanh.
+
+Ông Tanaka bước đến tủ điều khiển, đọc đồng hồ, mở cuốn sổ tay của riêng ông ta, ghi vài dòng bằng tiếng Nhật, rồi quay sang Hùng:
+
+"Nhiệt độ cuộn dây trong ngưỡng cho phép. Độ rung dưới 0.05 mm ở tất cả các ổ đỡ. Áp suất hơi ổn định. Tần số và điện áp trong tiêu chuẩn. Hoàn thành."
+
+Đó là câu dài nhất ông Tanaka nói từ đầu dự án.
+
+Cả phòng im lặng thêm một giây, rồi Lan nói, giọng hơi run: "Tổ máy một đến bốn — tải định mức 8.5 MW — đạt."
+
+Lần đầu tiên trong ngày, có người vỗ tay. Một tiếng. Rồi hai. Rồi cả phòng — kỹ sư, thợ điện, công nhân vận hành — tất cả vỗ tay. Cả ông Tanaka cũng vỗ, nhẹ, hai cái.
+
+Hùng không vỗ. Ông cúi xuống sổ và ghi:
+
+*16h30, 15/10/1986. Turbine 1-4 đạt tải định mức 8.5 MW. Nhiệt độ dầu bôi trơn ổn. Độ rung dưới 0.05 mm. Rơ-le nhiệt tủ phụ đã xử lý. Hệ thống ổn định.*
+
+Viết xong, ông nhìn lên. Ngoài cửa sổ phòng điều khiển, qua tấm kính mờ bụi công trình, những cột điện mới dẫn từ nhà máy chạy xa tít tắp về phía khu dân cư. Đường dây 35 kV — ba pha, ba sợi cáp nhôm lõi thép — nối nhà máy với trạm biến áp đầu tiên, rồi từ đó tỏa ra các nhánh ruộng đồng, phố xá, xóm làng.
+
+Hùng chợt nhớ năm 1975. Khi ấy ông còn là thanh niên đôi mươi chạy hàng dọc chiến trường, có một lần dừng chân ở một bản nhỏ trên đường Trường Sơn. Bản ấy không có điện. Đêm đến, trẻ con học dưới ánh đèn dầu — thứ ánh sáng vàng vọt, hắt lên những trang sách lem nhem. Người lớn ngồi quây quần bên bếp lửa, nói chuyện bằng giọng thều thào, như thể sợ bóng tối nghe thấy.
+
+Hùng ngồi bên bếp lửa tối hôm ấy, tự hỏi: bao giờ mình làm được cái gì đó lớn hơn một chuyến hàng? Bao giờ mình thấy bóng đèn điện thắp sáng một bản nhỏ trên dải đất này?
+
+Hôm nay, sau mười một năm, ông vừa trả lời câu hỏi đó.
+
+Không phải bằng lời. Bằng bốn tổ máy turbine, bằng 8.5 MW, bằng đường dây 35 kV và những cột điện mới cắm dọc đường.
+
+---
+
+Chiều tối, buổi bàn giao diễn ra trong hội trường nhỏ của khu công nghiệp — một căn phòng rộng chừng bốn mươi mét vuông, tường sơn vôi trắng đã ố vàng vì ẩm. Không phông bạt. Không hoa tươi. Không ban nhạc. Không ảnh Bác trên tường.
+
+Một cái bàn dài, mấy cái ghế nhựa, một tập biên bản dày, và hai cái bút mực.
+
+Bên nhận: đại diện Sở Điện lực Quảng Nam — Đà Nẵng, một người đàn ông trạc năm mươi tuổi tên Dũng, tay sần chai như tay thợ điện ba mươi năm. Ông Dũng đến không có đoàn xe, không có thư ký, chỉ một mình, đi xe máy cũ, mang theo cái cặp da đã bạc màu.
+
+Bên giao: Hùng, Trần Thị Lan, ông Tanaka, ba kỹ sư trưởng, và một người thợ già — anh Ba thợ hàn — được Hùng mời ngồi vào bàn vì "người hàn đường ống dầu phải có mặt lúc ký biên bản".
+
+Không ai đọc diễn văn.
+
+Họ đọc số.
+
+Lan đọc từng hạng mục trong biên bản nghiệm thu. Giọng cô rõ, không nhanh không chậm:
+
+— Tổ máy số một: công suất định mức 2 MW, điện áp 6.3 kV, suất tiêu hao nhiên liệu 320 g/kWh, nhiệt độ khói thải 350 độ C.
+— Tổ máy số hai: công suất định mức 2 MW, điện áp 6.3 kV...
+— Hệ thống dầu bôi trơn: áp suất 0.8 atm, nhiệt độ đầu vào 45 độ C...
+— Hệ thống nước làm mát tuần hoàn: lưu lượng 120 m³/h...
+— Hệ thống phân phối 35 kV: thông mạch, cách điện đạt tiêu chuẩn...
+
+Ông Dũng Sở Điện lực nghe, thỉnh thoảng gật, thỉnh thoảng hỏi lại một thông số. Mỗi lần hỏi, Lan hoặc Hùng trả lời ngay, không cần tra sổ.
+
+"Mấy anh chạy thử mấy ngày liên tục rồi?"
+
+"Năm ngày," Lan đáp. "Không tải hai ngày, tải thấp một ngày, tải định mức hai ngày."
+
+"Có sự cố gì không?"
+
+"Một lần rơ-le bảo vệ quá tải nhảy do nhiễu khi khởi động quạt làm mát. Đã xử lý bằng cách tăng thời gian trễ. Còn lại tất cả các thông số đều trong ngưỡng thiết kế."
+
+"Có biên bản xử lý không?"
+
+"Có. Trong phụ lục hai."
+
+Ông Dũng gật. Ông ta lật đến phụ lục hai, đọc, rồi ký vào ô xác nhận.
+
+Từng trang một. Tám trang biên bản chính, mười trang phụ lục.
+
+Trang cuối, ông Dũng dừng bút. Ông ta nhìn Hùng một lát rồi nói, giọng không to nhưng rõ:
+
+"Tôi làm điện ba mươi năm. Bắt đầu từ trạm biến áp hạ thế, lên trung thế, rồi làm vận hành nhà máy nhiệt điện Vinh. Tôi nghiệm thu không biết bao nhiêu công trình. Có những nhà máy mở cửa bằng rượu và phát biểu — hoa tươi, ban nhạc, xe cộ. Rồi vận hành hai tháng hỏng. Có những nhà máy mở cửa bằng sổ ghi chép — như nhà máy này. Tôi tin cái sau hơn."
+
+Hùng nhìn ông Dũng. Một người thợ điện già, áo bạc, tay chai sần. Nói thật. Làm thật.
+
+Hùng không nói gì. Ông chỉ đưa tay ra. Hai người đàn ông bắt tay nhau trên tập biên bản dày.
+
+---
+
+Ra khỏi hội trường, trời đã tối hẳn. Gió biển thổi vào từ phía Đà Nẵng, mang theo vị mặn và hơi ẩm. Nhưng tối nay, khu công nghiệp không tối. Đèn cao áp trước nhà máy — một hàng dài năm cột — lần đầu tiên được thắp sáng. Ánh sáng trắng của đèn thủy ngân cao áp trải dài trên mặt đường bê tông, làm lộ ra những vệt dầu nhớt còn sót lại từ những ngày lắp máy.
+
+Lan đứng cạnh Hùng. Cô nhìn lên bóng đèn, rồi nhìn xuống tập biên bản trên tay.
+
+"Xong rồi," cô nói.
+
+"Xong một việc."
+
+Cô nhìn ông: "Về nhà ăn chưa?"
+
+"Chưa. Nhưng sắp."
+
+"Tanaka rủ anh Ba đi uống bia. Tôi nói họ đợi."
+
+Hùng gật. Ông bước một vòng quanh sân trước nhà máy. Mỗi bước chân, mỗi góc nhìn — ông muốn ghi nhớ tất cả. Cái nhà máy này không phải của ông. Nó thuộc về khu công nghiệp, thuộc về Sở Điện lực, thuộc về những người dân sẽ có điện từ nó. Nhưng nó là đứa con tinh thần của ông. Ông đã đứng đây từ khi nó chỉ là một hố móng, qua những ngày mưa ngập nền, qua những lần turbine rung quá ngưỡng phải tháo ra lắp lại, qua những đêm thức trắng cùng đội kỹ thuật.
+
+Ông đặt tay lên cột bê tông trước nhà máy. Bê tông còn mới, còn mùi xi măng. Ông vỗ nhẹ, như vỗ vai một người bạn.
+
+Trên đường về, ngồi trong xe — chiếc xe tải nhỏ chở người, không phải xe con — Hùng nhìn qua ô kính. Những cột điện mới chạy dọc đường. Dây cáp võng nhẹ giữa các cột. Kéo dài về phía những ngôi nhà lác đác ánh đèn dầu.
+
+Ông thấy một căn nhà ở ven đường, cửa mở. Trong nhà, một đứa trẻ đang ngồi học dưới ánh đèn — không phải đèn dầu, mà là bóng đèn tròn, sáng trắng, mới. Chắc là một trong những hộ đã đấu điện tạm từ mấy hôm trước, khi nhà máy chạy thử.
+
+Hùng không nói với ai, nhưng trong lòng ông có một cái gì đó lặng xuống, êm. Giống như khi nhìn thấy một việc mình làm có nghĩa. Không cần ai biết. Không cần ai khen.
+
+---
+
+Về đến nhà, bà Hà đang ngồi đợi ngoài hiên. Mâm cơm để trên bàn trong nhà, đậy lồng bàn kín. Bà Hà không hỏi ngay. Bà nhìn ông cởi giày, nhìn ông treo áo ngoài, nhìn ông rửa tay.
+
+"Ăn chưa?" bà hỏi, khi ông đã ngồi vào mâm.
+
+"Chưa. Đói."
+
+Bà mở lồng bàn. Canh chua cá lóc đang còn ấm. Cá kho tộ. Rau muống luộc. Một đĩa cà pháo muối xẻ.
+
+Bà nhìn ông xới cơm: "Nghe nói hôm nay chạy máy thành công?"
+
+Hùng gắp một miếng cá: "Ai nói?"
+
+"Cả làng nói. Có người còn thấy đèn sáng hơn ở cuối xóm."
+
+Ông cười, nhai cơm: "Đèn vẫn thế. Tại họ mừng nên thấy sáng."
+
+Bà Hà không tin câu đùa ấy: "Anh có mừng không?"
+
+Hùng ngừng đũa. Ông nhìn bát cơm, nhìn mâm thức ăn đơn giản, nhìn người vợ đã ở với mình qua bao nhiêu ngày khó.
+
+"Mừng thật," ông nói. "Nhưng mệt hơn mừng."
+
+Bà không hỏi thêm. Bà biết khi ông nói ít là việc đã ổn. Khi ông nói nhiều mới là việc chưa xong.
+
+Lan bưng ấm trà ra. Cô rót cho Hùng một chén, rồi ngồi xuống bên mâm.
+
+"Ông Tanaka khen đội mình hôm nay," Lan nói. "Khen tay thợ hàn, khen kỹ sư trẻ Cường xử lý rơ-le nhanh."
+
+Hùng gật: "Cường được việc."
+
+"Anh có tính giữ Cường lại cho dự án tiếp theo không?"
+
+"Để xem. Còn cả đội."
+
+Họ ăn trong im lặng. Một sự im lặng thoải mái, không cần nói cho đủ đầy. Mâm cơm không linh đình — chỉ cần đủ để người đi làm còn muốn về. Và tối nay, Hùng muốn về.
+
+---
+
+Trước khi ngủ, Hùng mở sổ.
+
+Ông lật lại từ đầu. Trang đầu dự án — hồi cuối tháng Sáu năm 1986 — ghi:
+
+*Mở rộng năng lượng nhà máy điện. Hạn: 15/10/1986. Địa điểm: Khu công nghiệp Đà Nẵng. Công suất dự kiến: 8 MW (bốn tổ máy 2 MW). Đối tác kỹ thuật: Tanaka Engineering (Nhật). Rủi ro chính: turbine Nhật chậm giao do thủ tục nhập khẩu, mưa ngập nền móng mùa bão, thiếu kỹ sư vận hành có kinh nghiệm.*
+
+Trang thứ hai — một tuần sau: *Ngày 5/7: kiểm tra móng tổ máy 1, phát hiện độ lún không đều. Yêu cầu đơn vị thi công xử lý lại.*
+
+Trang thứ mười — tháng Tám: *Ngày 12/8: turbine Nhật về đến cảng Đà Nẵng. Hải quan chậm ba ngày vì thiếu giấy phép nhập khẩu thiết bị điện. Đã xử lý qua Sở Công nghiệp.*
+
+Trang thứ hai mươi — tháng Chín: *Ngày 20/9: thử không tải tổ máy 1. Rung động quá ngưỡng. Phát hiện căn chỉnh trục lệch 0.1 mm. Tháo ra làm lại. Mất ba ngày.*
+
+Giữa trang đầu và trang cuối là hơn tám mươi ngày ghi chép. Những ngày mưa ngập phải bơm nước suốt đêm, những ngày kỹ sư Nhật và kỹ thuật Việt bất đồng thông số, những ngày Lan đứng ra dàn xếp ca đêm vì thiếu người. Những ngày mà mỗi sáng thức dậy, Hùng tự hỏi: hôm nay có cái gì hỏng không? Và nếu có, mình xử lý được không?
+
+Tất cả những ngày ấy, không có dòng nào kêu ca. Chỉ có sổ, có số liệu, có tên người chịu trách nhiệm, và có hạn xử lý. Hùng không viết cảm xúc vào sổ. Cảm xúc là thứ riêng, không nên lẫn với số liệu.
+
+Ông lật đến trang cuối. Trang hôm nay:
+
+*16h30 ngày 15/10/1986: turbine 1-4 đạt tải định mức 8.5 MW. Áp suất hơi 5 atm. Nhiệt độ dầu bôi trơn 45°C. Độ rung 0.04-0.05 mm. Nhiệt độ cuộn dây stato 85°C. Tần số 50 Hz. Điện áp 6.3 kV. Tất cả các thông số đều trong tiêu chuẩn thiết kế. Đã bàn giao cho Sở Điện lực Quảng Nam — Đà Nẵng.*
+
+Ông gấp sổ.
+
+Hệ thống trong đầu ông nháy một dòng:
+
+ 「Hệ thống Thương Gia」
+ Năm: 1986
+ Thông báo: Hoàn thành nhiệm vụ năng lượng
+ Công suất lắp đặt: 8.5 MW
+ Địa điểm: Khu công nghiệp Đà Nẵng
+ Trạng thái: Đã bàn giao — vận hành thương mại
+
+Hùng nhận tín hiệu, gật với chính mình, rồi quay lại sổ tay — chỗ ông tin hơn bảng sáng.
+
+Ông viết thêm một dòng dưới cùng ghi chép hôm nay, bằng nét chữ nhỏ hơn, chậm hơn:
+
+*Hôm nay có ai bị bỏ lại không?*
+
+Và tự trả lời:
+
+*Không. Cả đội cùng ăn tối. Tanaka uống bia với thợ Việt ở quán đầu đường. Chưa ai mất ngày công vì tai nạn suốt ba tháng thi công. Không ai vào viện.*
+
+Dòng chữ ấy, với Hùng, còn quan trọng hơn mọi thông số kỹ thuật.
+
+---
+
+Đèn tắt. Hùng nằm trong bóng tối, hai tay đặt sau gáy.
+
+Tai ông vẫn nghe tiếng máy phát chạy đều trong đầu. Một tiếng rền trầm, nhịp nhàng, như một nhịp tim thứ hai vừa bắt đầu đập trong lồng ngực ông. Ông biết âm thanh ấy sẽ còn vọng lại dài dài trong những đêm sau này.
+
+Nhà máy đã chạy. 1986. Khu công nghiệp Đà Nẵng. 8.5 MW từ bốn tổ máy. Hơn ba tháng từ khi mở rộng đến khi hoàn thành bàn giao. Một dòng trong sổ đời ông đã được đánh dấu xanh.
+
+Nhưng ông biết — năng lượng không chỉ là điện. Năng lượng còn là sức người, là lòng tin, là cái ăn cái mặc của mấy chục gia đình công nhân đã sống cùng dự án ba tháng qua. Năng lượng là cái cách anh Ba Quảng Ngãi hàn đường ống lúc ba giờ sáng. Năng lượng là cái cách Cường trẻ không hoảng khi rơ-le nhảy. Năng lượng là cái cách ông Tanaka gật đầu.
+
+Hoàn thành nhiệm vụ năng lượng hôm nay chỉ là một cái mốc. Mai sẽ có việc khác. Nhưng tối nay, Hùng cho phép mình nằm một lúc, nhắm mắt, nghe tiếng turbine chạy ngoài kia — một âm thanh không tồn tại ba tháng trước, và bây giờ đã là một phần của nhịp thở thành phố.
+
+Ngoài kia, cột điện mới sáng. Trong những ngôi nhà nhỏ dọc đường dây, trẻ con đang ngồi dưới bóng đèn điện, học bài, không cúi mặt xuống trang vì thiếu ánh sáng.
+
+Hùng thở một hơi dài, rồi ngủ thiếp đi.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.82」
+Năm: 1986
+Tổng EXP: 12,750 (+250 nhịp này)
+Không gian kho: 4,600m² (+57m²)
+Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
+Nhà máy điện chạy ổn định, sản xuất tăng gấp đôi. Nhưng hóa đơn dầu diesel không nhỏ.
+Hùng ghi: "Cần tìm năng lượng khác." Hướng đi mới hình thành.
+
+Ánh sáng từ nhà máy điện thắp sáng cả một huyện — và cả niềm tin của dân.
+============================================================

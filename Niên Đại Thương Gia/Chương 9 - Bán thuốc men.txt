@@ -1,6 +1,5 @@
 ============================================================
 Chương 9: Bán thuốc men
-============================================================
 
 Trong bao cấp, thuốc men quý không kém gạo. Ai giữ chữ tín lúc người ốm, người ta nhớ lâu.
 
@@ -177,36 +176,21 @@ Sổ cuối ngày không chỉ có 292 đồng doanh thu. Nó có hai hộp lo�
 
 Trước lúc ngủ, Hùng gói hóa đơn, hộp lỗi và bản cam kết vào túi vải cho chuyến Hà Nội. Ông cần nguồn hàng thật, dấu thật, người bán chịu đổi hàng lỗi. Nếu không tìm được, mặt hàng thuốc sẽ dừng ở đây. Cửa hàng có thể thiếu một ngăn; gia đình và mạng lưới không thể gánh một viên thuốc mờ nguồn.
 
-============================================================
-
-
 Bà Mến ở xóm Gò quay lại vào chiều muộn, tay cầm một bó rau má tươi. Bà đặt lên bàn, ngại ngùng: "Cảm ơn cậu Hùng, hôm qua tôi gắt quá. Chị Hồng khám cho tôi rồi, uống thuốc đỡ lắm." Hùng ngồi xuống rót nước cho bà. "Bà uống thuốc đều, mai mốt khỏi. Có gì khó chịu thì quay lại, cháu không lấy tiền khám." Bà Mến nhìn Hùng hồi lâu, đôi mắt mờ đục của người già chợt long lanh. "Tao tưởng mày bán thuốc chỉ vì tiền. Ai ngờ mày có tâm."
-
-============================================================
-
-Teaser: 
-
-
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
 
-Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Lan nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
-
-
-Ngoài vườn, hoa hồng nở đỏ. Hùng cắt một bông, đưa cho bà Hà. "Tặng em." bà Hà nhận bông hoa, mắt long lanh. "Đẹp quá." Hùng nhìn bà Hà hít hà hương hoa, lòng ấm áp. Mùi hương hoa hòa mùi tóc thơm.
-
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
 Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
 
-Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Lan nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Lan cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.9」
 Năm: 1983
 Tổng EXP: 304 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================
+Ghi chú: system_ledger

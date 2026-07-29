@@ -1,6 +1,5 @@
 ============================================================
 Chương 110: M&A Bangkok Electronics
-============================================================
 
 Năm 1987. Bangkok. Mục tiêu: một xưởng linh kiện điện tử Thái Lan tên Bangkok Electronics — ba mươi bảy nhân công, một dây chuyền lắp ráp bo mạch đơn giản, và một giấy phép xuất khẩu còn hiệu lực. Một cơ sở nhỏ, nhưng với Thương Gia trẻ, đây là lần đầu tiên họ mua lại cả một pháp nhân.
 
@@ -68,25 +67,17 @@ Trên máy bay về, Hùng nhìn xuống vịnh Thái Lan qua ô cửa sổ. Lò
 
 Ông đóng sổ, gối đầu, ngủ một giấc trên máy bay nhưng không quên cài dây an toàn.
 
-============================================================
-
-
 Hùng gấp sổ tay lại, nhìn ra ô cửa kính. Bầu trời Bangkok đang nhạt dần vào hoàng hôn. "Mua xong rồi, nhưng mua mới là bắt đầu," ông nói, như nói với chính mình. Lan ngồi đối diện, không trả lời, chỉ gật đầu. Cả hai im lặng nhìn những tòa nhà cao tầng lùi dần phía sau khi xe chạy ra sân bay.
 
-Teaser: 
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 
 
-Một người khách đến, mắt đỏ hoe. {a} tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, {a} lắng nghe, không ngắt. Khi người khách kể xong, {a} gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
-
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. {a} gắp thịt cho {b}. “Em ăn đi.” {b} gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. {a} cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
-
-Một buổi sáng, {a} thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. {b} đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. {a} bước ra, tay ôm nhẹ {b}. “Cảm ơn em.” {b} quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
+Hùng nhíu mày, siết ngón tay sổ ch.110. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.110」
 Năm: 1987
 Tổng EXP: 17,750 (+125)
 Không gian kho: 5,833m² (+33m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================
+Ghi chú: system_ledger

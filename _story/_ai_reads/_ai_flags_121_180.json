@@ -1,0 +1,1616 @@
+[
+  {
+    "ch": 121,
+    "title": "Mở rộngsang Thái Lan",
+    "w": 3011,
+    "dlg": 40,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 5,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1988",
+    "ny": "1988",
+    "hf": [
+      "unaccent_tail×5"
+    ],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 122,
+    "title": "Myanmar và Campuchia",
+    "w": 3097,
+    "dlg": 51,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1988",
+    "ny": "1988",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 123,
+    "title": "Xây dựng đội ngũ xuất khẩu",
+    "w": 3140,
+    "dlg": 48,
+    "maxrep": 1,
+    "top": [],
+    "un": 0,
+    "wife": 0,
+    "exp0": true,
+    "dbl": false,
+    "py": "1988",
+    "ny": "1988",
+    "hf": [
+      "exp0_panel",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 2,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 124,
+    "title": "Cạnh tranh với Trung Quốc",
+    "w": 2961,
+    "dlg": 58,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 7,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "unaccent_tail×7",
+      "near_short2961"
+    ],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 125,
+    "title": "Lan trưởng thành",
+    "w": 2998,
+    "dlg": 66,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 3,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "unaccent_tail×3",
+      "near_short2998"
+    ],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 126,
+    "title": "Giá trị của sự buông",
+    "w": 3177,
+    "dlg": 100,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1988",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 127,
+    "title": "Lan nhận nhiệm vụ mới",
+    "w": 2856,
+    "dlg": 90,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 6,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "unaccent_tail×6",
+      "near_short2856"
+    ],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 128,
+    "title": "Khủng hoảng đầu tiên",
+    "w": 3560,
+    "dlg": 111,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1989",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 129,
+    "title": "Bước lùi để tiến xa hơn",
+    "w": 2969,
+    "dlg": 74,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "near_short2969"
+    ],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 130,
+    "title": "Thử thách kế thừa",
+    "w": 3089,
+    "dlg": 54,
+    "maxrep": 1,
+    "top": [],
+    "un": 4,
+    "wife": 0,
+    "exp0": false,
+    "dbl": false,
+    "py": "1988",
+    "ny": "1988",
+    "hf": [
+      "chot_muc_spam",
+      "unaccent_tail×4",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng chốt mục \\d+ ch\\.\\d+": 6,
+      "Mùi mực\\. Tiếng cửa\\. Mắt gật\\. Tay ký": 7,
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 2,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 131,
+    "title": "Mở rộngĐông Nam Á",
+    "w": 3271,
+    "dlg": 65,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 3,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "unaccent_tail×3"
+    ],
+    "spam": {
+      "Hùng gắp thịt cho Lan": 2,
+      "mùi canh cá nóng hổi": 1,
+      "Teaser:": 1
+    },
+    "clone_n": 1
+  },
+  {
+    "ch": 132,
+    "title": "Đối mặt hải quan Indonesia",
+    "w": 3080,
+    "dlg": 77,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 5,
+    "wife": 1,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "unaccent_tail×5"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Hùng gắp thịt cho Lan": 2,
+      "mùi canh cá nóng hổi": 2,
+      "Teaser:": 1
+    },
+    "clone_n": 3
+  },
+  {
+    "ch": 133,
+    "title": "Malaysia và Philippines",
+    "w": 3162,
+    "dlg": 54,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 2,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1989",
+    "hf": [
+      "wife_frame×2"
+    ],
+    "spam": {
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 2,
+      "Teaser:": 1
+    },
+    "clone_n": 3
+  },
+  {
+    "ch": 134,
+    "title": "Xây dựng chuỗi cung ứng châu Á",
+    "w": 3044,
+    "dlg": 72,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 135,
+    "title": "Đông Á — Nhật Bản và Hàn Quốc",
+    "w": 3122,
+    "dlg": 74,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "Teaser:": 1
+    },
+    "clone_n": 1
+  },
+  {
+    "ch": 136,
+    "title": "Nhật Bản — Thị trường khó tính nhất",
+    "w": 2928,
+    "dlg": 54,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 4,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1989",
+    "hf": [
+      "unaccent_tail×4",
+      "near_short2928"
+    ],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 137,
+    "title": "Cuộc gặp với ông Sato",
+    "w": 3265,
+    "dlg": 37,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 138,
+    "title": "Thử thách từ ông Sato",
+    "w": 3616,
+    "dlg": 88,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 4,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1990",
+    "hf": [
+      "wife_frame×4"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 2
+  },
+  {
+    "ch": 139,
+    "title": "Mở rộngsang Hàn Quốc",
+    "w": 3556,
+    "dlg": 110,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 1,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 2
+    },
+    "clone_n": 3
+  },
+  {
+    "ch": 140,
+    "title": "Chuẩn bị cho thị trường Mỹ",
+    "w": 3120,
+    "dlg": 62,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 3,
+    "wife": 3,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [
+      "unaccent_tail×3",
+      "wife_frame×3"
+    ],
+    "spam": {
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 2,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 2,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 5
+  },
+  {
+    "ch": 141,
+    "title": "Chuyến bay đầu tiên đến Mỹ",
+    "w": 3020,
+    "dlg": 24,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 5,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [
+      "unaccent_tail×5"
+    ],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 142,
+    "title": "Thử thách đầu tiên tại Mỹ",
+    "w": 3058,
+    "dlg": 79,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 143,
+    "title": "Xây dựng hệ thống chất lượng Mỹ",
+    "w": 3295,
+    "dlg": 79,
+    "maxrep": 2,
+    "top": [
+      [
+        "Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 2,
+    "exp0": false,
+    "dbl": false,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [
+      "wife_frame×2",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 2,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2,
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 2
+  },
+  {
+    "ch": 144,
+    "title": "Mở rộngđối tác Mỹ",
+    "w": 3101,
+    "dlg": 75,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 2,
+    "exp0": false,
+    "dbl": true,
+    "py": "1988",
+    "ny": "1990",
+    "hf": [
+      "wife_frame×2"
+    ],
+    "spam": {
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 1
+  },
+  {
+    "ch": 145,
+    "title": "Đối mặt đối thủ Trung Quốc tại Mỹ",
+    "w": 3656,
+    "dlg": 71,
+    "maxrep": 4,
+    "top": [
+      [
+        "============================================================",
+        4
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1980",
+    "ny": "1990",
+    "hf": [],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 146,
+    "title": "Lan học cách đàm phán với người Mỹ",
+    "w": 2855,
+    "dlg": 70,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1990",
+    "hf": [
+      "near_short2855"
+    ],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 147,
+    "title": "Lan đối mặt với áp lực Mỹ",
+    "w": 3074,
+    "dlg": 100,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 148,
+    "title": "Bữa tối 3 thế hệ",
+    "w": 3796,
+    "dlg": 71,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1990",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 149,
+    "title": "Trở lại Mỹ với tinh thần mới",
+    "w": 3122,
+    "dlg": 104,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 150,
+    "title": "Văn Hùng tập trung vào Việt Nam",
+    "w": 3505,
+    "dlg": 77,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 151,
+    "title": "Lan mở rộng sang Canada",
+    "w": 3171,
+    "dlg": 140,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ],
+      [
+        "Lan gấp sổ tay, ngước lên nhìn Hùng. \"Anh tin em không?\" cô hỏi. Hùng ",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 152,
+    "title": "Văn Hùng nhận huân chương",
+    "w": 3001,
+    "dlg": 109,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 153,
+    "title": "Lan mở rộng sang Australia",
+    "w": 3270,
+    "dlg": 100,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 154,
+    "title": "Văn Hùng mở rộng quỹ từ thiện",
+    "w": 3089,
+    "dlg": 52,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 155,
+    "title": "Ngân hàng Thương Gia mở cửa",
+    "w": 3421,
+    "dlg": 60,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 156,
+    "title": "Cho vay doanh nghiệp nhỏ",
+    "w": 3495,
+    "dlg": 40,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 157,
+    "title": "Đối mặt kiểm toán nhà nước",
+    "w": 3221,
+    "dlg": 37,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1989",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 158,
+    "title": "Lan về nước báo cáo",
+    "w": 3466,
+    "dlg": 60,
+    "maxrep": 1,
+    "top": [],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": false,
+    "py": null,
+    "ny": "1992",
+    "hf": [
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 2,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2,
+      "Bữa tối ấm cúng bắt đầu": 2
+    },
+    "clone_n": 2
+  },
+  {
+    "ch": 159,
+    "title": "Xây nhà máy ô tô đầu tiên",
+    "w": 3032,
+    "dlg": 43,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {
+      "Teaser:": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 160,
+    "title": "Thử nghiệm mẫu xe Thành Công",
+    "w": 3006,
+    "dlg": 44,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1991",
+    "ny": "1991",
+    "hf": [],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 161,
+    "title": "Hợp tác kỹ thuật Nhật Bản",
+    "w": 3023,
+    "dlg": 54,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 1,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 162,
+    "title": "Chuỗi cung ứng phụ tùng",
+    "w": 2978,
+    "dlg": 47,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [
+      "near_short2978"
+    ],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 163,
+    "title": "Khủng hoảng nguyên liệu thép",
+    "w": 3268,
+    "dlg": 48,
+    "maxrep": 2,
+    "top": [
+      [
+        "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép",
+        2
+      ]
+    ],
+    "un": 1,
+    "wife": 1,
+    "exp0": false,
+    "dbl": false,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 2,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2,
+      "Bữa tối ấm cúng bắt đầu": 1
+    },
+    "clone_n": 1
+  },
+  {
+    "ch": 164,
+    "title": "Hùng dàn xếp với nhà cung cấp",
+    "w": 3168,
+    "dlg": 58,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 1,
+    "exp0": false,
+    "dbl": true,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [],
+    "spam": {
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "Hùng gắp thịt cho Lan": 1,
+      "mùi canh cá nóng hổi": 1,
+      "tay ôm nhẹ Lan": 1,
+      "Lan quay lại cười": 1
+    },
+    "clone_n": 3
+  },
+  {
+    "ch": 165,
+    "title": "Ra mắt xe máy Thương Gia",
+    "w": 3021,
+    "dlg": 56,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 1,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 166,
+    "title": "Mở showroom toàn quốc",
+    "w": 4008,
+    "dlg": 159,
+    "maxrep": 2,
+    "top": [
+      [
+        "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+        2
+      ],
+      [
+        "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 7,
+    "exp0": false,
+    "dbl": false,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [
+      "wife_frame×7",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Đêm xuống, Hùng nằm trên giường": 2,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 2,
+      "Hùng gắp thịt cho Lan": 1,
+      "mùi canh cá nóng hổi": 1,
+      "Bữa tối ấm cúng bắt đầu": 1,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 4,
+      "nhìn vợ trong bóng tối": 2
+    },
+    "clone_n": 9
+  },
+  {
+    "ch": 167,
+    "title": "Điện thoại Thương Gia thế hệ 2",
+    "w": 3486,
+    "dlg": 68,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ],
+      [
+        "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+        2
+      ],
+      [
+        "Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ,",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 6,
+    "exp0": false,
+    "dbl": true,
+    "py": "1993",
+    "ny": "1993",
+    "hf": [
+      "wife_frame×6"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 2,
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 2,
+      "Bữa tối ấm cúng bắt đầu": 1,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 2,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 8
+  },
+  {
+    "ch": 168,
+    "title": "Nhà máy máy tính Hà Nội",
+    "w": 3310,
+    "dlg": 63,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 2,
+    "exp0": false,
+    "dbl": true,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [
+      "wife_frame×2"
+    ],
+    "spam": {
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 1
+  },
+  {
+    "ch": 169,
+    "title": "Xây dựng thương hiệu quốc tế",
+    "w": 3374,
+    "dlg": 103,
+    "maxrep": 2,
+    "top": [
+      [
+        "Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp",
+        2
+      ],
+      [
+        "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 6,
+    "exp0": false,
+    "dbl": false,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [
+      "wife_frame×6",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Đêm xuống, Hùng nằm trên giường": 2,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "Hùng gắp thịt cho Lan": 2,
+      "mùi canh cá nóng hổi": 2,
+      "tay ôm nhẹ Lan": 1,
+      "Lan quay lại cười": 1,
+      "nhìn vợ trong bóng tối": 2
+    },
+    "clone_n": 7
+  },
+  {
+    "ch": 170,
+    "title": "Ký kết hợp đồng đối tác Mỹ",
+    "w": 3096,
+    "dlg": 72,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 1,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 171,
+    "title": "Chuyển giao cho thế hệ sau",
+    "w": 3379,
+    "dlg": 92,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ],
+      [
+        "Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ,",
+        2
+      ],
+      [
+        "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+        2
+      ]
+    ],
+    "un": 1,
+    "wife": 7,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1992",
+    "hf": [
+      "wife_frame×7"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 2,
+      "Đêm xuống, Hùng nằm trên giường": 2,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "Hùng gắp thịt cho Lan": 1,
+      "mùi canh cá nóng hổi": 1,
+      "tay ôm nhẹ Lan": 1,
+      "Lan quay lại cười": 1,
+      "nhìn vợ trong bóng tối": 2,
+      "Teaser:": 1
+    },
+    "clone_n": 7
+  },
+  {
+    "ch": 172,
+    "title": "Gia đình sum họp. 1992. Hà Nội.",
+    "w": 3961,
+    "dlg": 90,
+    "maxrep": 2,
+    "top": [
+      [
+        "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải t",
+        2
+      ],
+      [
+        "Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ,",
+        2
+      ],
+      [
+        "Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi t",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 4,
+    "exp0": true,
+    "dbl": false,
+    "py": "1992",
+    "ny": "1992",
+    "hf": [
+      "wife_frame×4",
+      "exp0_panel",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 2,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 2,
+      "Hùng gắp thịt cho Lan": 1,
+      "mùi canh cá nóng hổi": 1,
+      "Bữa tối ấm cúng bắt đầu": 3,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 2
+    },
+    "clone_n": 10
+  },
+  {
+    "ch": 173,
+    "title": "Thỏa thuận đôi bên cùng có lợi",
+    "w": 3587,
+    "dlg": 61,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ],
+      [
+        "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+        2
+      ],
+      [
+        "Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 5,
+    "exp0": false,
+    "dbl": true,
+    "py": "1993",
+    "ny": "1993",
+    "hf": [
+      "wife_frame×5"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Đêm xuống, Hùng nằm trên giường": 2,
+      "Hùng gắp thịt cho Lan": 2,
+      "mùi canh cá nóng hổi": 2,
+      "nhìn vợ trong bóng tối": 2
+    },
+    "clone_n": 5
+  },
+  {
+    "ch": 174,
+    "title": "Logistics quốc tế Thương Gia",
+    "w": 3836,
+    "dlg": 74,
+    "maxrep": 2,
+    "top": [
+      [
+        "Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ,",
+        2
+      ],
+      [
+        "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, ",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 7,
+    "exp0": true,
+    "dbl": false,
+    "py": "1993",
+    "ny": "1993",
+    "hf": [
+      "wife_frame×7",
+      "exp0_panel",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 2,
+      "Đêm xuống, Hùng nằm trên giường": 2,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 1,
+      "Hùng gắp thịt cho Lan": 1,
+      "mùi canh cá nóng hổi": 1,
+      "Bữa tối ấm cúng bắt đầu": 1,
+      "tay ôm nhẹ Lan": 1,
+      "Lan quay lại cười": 3,
+      "nhìn vợ trong bóng tối": 2
+    },
+    "clone_n": 8
+  },
+  {
+    "ch": 175,
+    "title": "Cảng container Hải Phòng",
+    "w": 3459,
+    "dlg": 47,
+    "maxrep": 2,
+    "top": [
+      [
+        "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân ngườ",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 4,
+    "exp0": true,
+    "dbl": false,
+    "py": "1993",
+    "ny": "1993",
+    "hf": [
+      "wife_frame×4",
+      "exp0_panel",
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng mở tủ sách, lấy một cuốn sách cũ": 1,
+      "Đêm xuống, Hùng nằm trên giường": 1,
+      "Một buổi sáng, Hùng thức dậy, mắt nhìn r": 2,
+      "Hùng gắp thịt cho Lan": 1,
+      "mùi canh cá nóng hổi": 1,
+      "tay ôm nhẹ Lan": 2,
+      "Lan quay lại cười": 2,
+      "nhìn vợ trong bóng tối": 1
+    },
+    "clone_n": 7
+  },
+  {
+    "ch": 176,
+    "title": "Lan về nước",
+    "w": 3708,
+    "dlg": 80,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": "1990",
+    "ny": "1992",
+    "hf": [],
+    "spam": {},
+    "clone_n": 0
+  },
+  {
+    "ch": 177,
+    "title": "Mở rộngnhà máy ô tô",
+    "w": 4085,
+    "dlg": 87,
+    "maxrep": 1,
+    "top": [],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": false,
+    "py": "1991",
+    "ny": "1993",
+    "hf": [
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 1,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2,
+      "Bữa tối ấm cúng bắt đầu": 1
+    },
+    "clone_n": 1
+  },
+  {
+    "ch": 178,
+    "title": "Lan dẫn đoàn sang châu Âu khảo sát",
+    "w": 3084,
+    "dlg": 69,
+    "maxrep": 2,
+    "top": [
+      [
+        "============================================================",
+        2
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1993",
+    "hf": [],
+    "spam": {
+      "Teaser:": 1
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 179,
+    "title": "Chuẩn bị niêm yết công ty con",
+    "w": 3119,
+    "dlg": 60,
+    "maxrep": 1,
+    "top": [],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": false,
+    "py": "1994",
+    "ny": "1994",
+    "hf": [
+      "bad_header"
+    ],
+    "spam": {
+      "Hùng nhíu mày, siết ngón tay sổ ch\\.\\d+": 2,
+      "Lan liếc, cúi, gật\\. Ông thở, nuốt, ngẩn": 2
+    },
+    "clone_n": 0
+  },
+  {
+    "ch": 180,
+    "title": "Lan đàm phán với đối tác châu Âu",
+    "w": 3667,
+    "dlg": 91,
+    "maxrep": 3,
+    "top": [
+      [
+        "============================================================",
+        3
+      ]
+    ],
+    "un": 0,
+    "wife": 0,
+    "exp0": false,
+    "dbl": true,
+    "py": null,
+    "ny": "1993",
+    "hf": [],
+    "spam": {
+      "\\*\\*HẾT CHƯƠNG": 1
+    },
+    "clone_n": 0
+  }
+]

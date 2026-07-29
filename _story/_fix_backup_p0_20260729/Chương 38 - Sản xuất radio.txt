@@ -1,0 +1,206 @@
+============================================================
+Chương 38: Sản xuất radio
+============================================================
+
+Tháng chín năm 1984, tại xưởng Hoài Đức. Ướt sũng mồ hôi lưng áo sau một ngày dài. Sáu mươi ba phiếu HỎI-R từ Chương 37 vẫn chỉ là dữ liệu nhu cầu, không cọc, không doanh thu. Từ ngày 8 đến 12 tháng chín, HN-1 đặt chiếc máy mẫu đã sửa rè tại ba điểm HN-PH, HN-HB và HN-KT, niêm yết giá dự kiến, bảo hành sáu tháng và ngày giao chỉ xác nhận sau khi lô thử đạt. Ba mươi sáu khách quay lại ký phiếu ĐƠN-R mới: mười tám tại HN-PH, mười tại HN-HB, tám tại HN-KT. Mười hai khách nộp cọc, tổng cộng hai trăm bốn mươi đồng; hai mươi bốn khách chỉ cam kết mua khi được gọi báo máy đạt. Hạnh đối chiếu từng phiếu với danh sách hỏi cũ nhưng không sửa phiếu HỎI-R, không biến hai mươi bảy lượt còn lại thành đơn, không ghi đủ giá bán thành tiền thu. Khi ba mươi sáu đơn đầu tiên vừa được khóa trạng thái, cuốn sổ đặt hàng có thêm một cột riêng cho radio để bàn, dùng điện lưới, bắt được ba đài chính trong khu vực Hà Nội. Hùng gạch dưới chữ “sản xuất”. Một chiếc máy lắp khéo rồi bán được chỉ chứng minh có một người thợ khéo. Năm mươi chiếc cùng bắt đúng đài, cùng chịu được sáu giờ chạy liên tục, cùng có số máy, số lô và linh kiện thay thế mới đáng gọi là một mẻ sản xuất.
+
+Xưởng dành căn buồng phía đông cho tổ radio. Cửa sổ nhìn ra sân phơi thóc của hợp tác xã, khung gỗ cong vì ẩm. Lớp sơn cửa bong tróc, từng mảng màu nâu nhạt rơi xuống nền mỗi khi có gió. Ánh sáng hắt vào buồng mang một màu vàng mờ, lơ lửng bụi gỗ và không khí tù đọng. Dưới sân, thóc phơi thành bãi trải đều, thỉnh thoảng vài con chim sẻ sà xuống mổ xong rồi vội vàng bay đi trước tiếng reo hò của bọn trẻ. Cồn cào ruột khi chưa kịp ăn sáng. Thứ ánh sáng vàng và cái sự yên tĩnh của buổi chiều quê ấy trái ngược hoàn toàn với niềm nôn nao trong lòng Hùng — như thể trước một cuộc sinh nở. Trong buồng có sáu bàn dài, ba mỏ hàn điện, hai đồng hồ vạn năng kim, một máy hiện sóng cũ do ông Sato mang đến, một máy phát tín hiệu cao tần và chiếc biến áp cách ly đặt trong hộp tôn đục lỗ. Điện lưới buổi chiều thường tụt. Khi máy xay xát bên kia đường khởi động, bóng đèn dây tóc trên trần tối đi thấy rõ. Minh yêu cầu ghi điện áp đầu vào trong mọi lần thử; nếu không, người ta sẽ đổ cho máy một lỗi thuộc về đường điện, hoặc bỏ qua một lỗi chỉ lộ ra khi điện yếu.
+
+Có mặt trong buổi mở sổ là Hùng, Lan, kỹ sư Minh, ông Sato, cô kế toán Hạnh, thủ kho Lâm và tám thợ được chọn từ bàn lắp điện dân dụng. Ông Sato đặt lên bàn hai sơ đồ mạch đã vẽ lại bằng mực nho. Cây thước gỗ dấu đỏ kiểm định của ty thương nghiệp. Một bản là máy mẫu năm băng sóng có quá nhiều linh kiện nhập. Bản kia chỉ giữ sóng trung và hai dải sóng ngắn, dùng mạch đổi tần sáu transistor, tầng khuếch đại âm tần đẩy kéo và nguồn hạ áp có cầu chỉnh lưu. Hùng chọn bản thứ hai.
+
+“Bỏ thứ khách không cần,” ông nói. “Nhưng cái còn lại phải dùng được.”
+
+Minh ghi tiêu chuẩn ngay đầu sổ kỹ thuật: bắt rõ Đài Tiếng nói Việt Nam tại ba điểm thử; không tự dao động khi vặn âm lượng lớn; kim chỉ đài không kẹt; vỏ không rò điện; cầu chì đứt trước khi biến áp cháy; chạy sáu giờ trong phòng nóng mà nhiệt vỏ biến áp không vượt giới hạn đã đánh dấu trên nhiệt kế tiếp xúc. Mỗi máy phải có số thân, phiếu kiểm, tên người lắp, tên người chỉnh và chữ ký người thử cuối. Người làm công đoạn nào không được tự ký đạt công đoạn ấy.
+
+Lan mở sổ cái sản xuất năm 1984. Bà chia một trang thành sáu cột: vật tư nhập, vật tư xuất, bán thành phẩm, máy đạt, máy giữ lại và phế liệu thu hồi. Dưới trang, bà ghi riêng tiền công, điện, vận chuyển, bao bì, dự phòng bảo hành. Vải mới cắt thơm mùi hồ. Hùng nhìn cách chia cột rồi bảo thêm một dòng “nghĩa vụ chưa trả”. Tiền chưa trả cho nhà cung cấp không thể biến mất chỉ vì linh kiện đã nằm trong kho.
+
+Lô năm mươi máy được khóa phạm vi. Không làm đồng hồ báo thức, không thêm giắc ghi âm, không đổi kiểu núm giữa lô. Vỏ gỗ ép phủ giả vân sẽ thuê một tổ mộc gần Nhổn đóng theo dưỡng. Khung kim loại, bảng mạch in, tụ xoay, loa, biến áp nguồn, biến áp trung tần, transistor, diode, điện trở và tụ điện đều phải nhập theo lô có ký hiệu. Ướt sũng mồ hôi lưng áo sau một ngày dài. Dây điện, thiếc hàn, nhựa thông, vít, long đen, núm vặn, mặt số và vải loa được cân hoặc đếm khi xuất. Mọi đề nghị thay linh kiện phải đi qua Minh; mọi thay đổi ảnh hưởng giá phải qua Lan; Hùng chỉ quyết định khi hai người ghi rõ tác động kỹ thuật và tiền.
+
+Việc đầu tiên không phải cắm mỏ hàn. Thủ kho Lâm trải giấy dầu lên bàn, mở từng thùng linh kiện dưới mắt Minh và cô Hạnh. Điện trở được đọc vòng màu rồi đo mẫu. Nóng rát gáy dưới nắng hè đứng bán hàng. Tụ hóa được kiểm trị số, điện áp chịu đựng, cực tính. Transistor được phân nhóm hệ số khuếch đại bằng một gá thử đơn giản. Năm chiếc loa lấy ngẫu nhiên được nghe bằng cùng một đoạn phát thanh thu trên băng cối. Tụ xoay được quay hết hành trình để tìm lá chạm. Biến áp nguồn được đo điện trở cuộn dây, thử không tải và nghe tiếng rung.
+
+Một thùng tụ hóa mang cùng nhãn nhưng có hai màu vỏ. Lâm định nhập chung vì trị số in giống nhau. Minh cắt một chiếc màu xanh, một chiếc màu đen khỏi dây buộc, đánh số rồi thử dòng rò. Loẹt xoẹt giấy tờ bóc biên lai thu tiền. Chiếc màu đen nóng nhanh hơn. Ông không kết luận cả thùng hỏng; ông tách thành hai lô, niêm phong mẫu, ghi nhà cung cấp và ngày nhận. Lô màu đen chỉ được dùng sau khi thử bổ sung. Việc ấy mất nửa buổi, nhưng từ đó số lô trên phiếu không còn là nét mực trang trí.
+
+Tổ mộc mang đến ba vỏ mẫu. Một vỏ đẹp nhưng khe thoát nhiệt phía sau hẹp hơn dưỡng. Một vỏ đủ khe nhưng tấm hậu ghép quá sát ổ cầu chì. Cồn cào ruột khi chưa kịp ăn sáng. Vỏ thứ ba xấu ở góc dán nhưng đúng kích thước. Hùng chọn vỏ thứ ba làm chuẩn kỹ thuật rồi yêu cầu sửa lớp phủ. Ông không cho lấy vẻ bóng bên ngoài bù cho khoảng hở an toàn. Lan thỏa thuận giá theo vỏ đạt dưỡng, không theo số vỏ chở đến. Tổ mộc giữ một dưỡng, xưởng giữ một dưỡng có chữ ký chéo.
+
+Minh chia dây chuyền thành những công đoạn có thể kiểm riêng. Bàn một cắt và uốn chân linh kiện bằng dưỡng. Bàn hai cắm điện trở, diode, cuộn cảm nhỏ. Bàn ba cắm tụ và transistor. Bàn bốn hàn mặt dưới. Bàn năm lắp biến áp trung tần, tụ xoay, dây mặt số. Bàn sáu nối loa, nguồn, cầu chì và khung. Sau đó máy đi tới bàn chỉnh cao tần, bàn thử điện, bàn chạy nóng và cuối cùng mới vào vỏ. Bán thành phẩm di chuyển trong khay gỗ mười chiếc; không được ôm bảng mạch bằng tay trần từ bàn này sang bàn khác.
+
+Động tác hàn tưởng đơn giản lại làm Minh mất hai ngày. Thợ quen sửa quạt thường chấm thật nhiều thiếc cho chắc. Trên bảng mạch radio, cục thiếc lớn che mối hàn nguội, tạo cầu nối và làm bong đường đồng khi phải tháo. Minh đặt cạnh nhau ba mẫu: thiếu thiếc, đủ thiếc, thừa thiếc. Ông yêu cầu đầu mỏ hàn sạch, chân linh kiện và đảo đồng cùng được nung, thiếc tự chảy thành mặt lõm sáng, thời gian tiếp xúc không quá mức đã tập bằng nhịp đếm. Mảnh nilon gói hàng buộc dây chuối khô. Chân transistor được kẹp tản nhiệt khi cần. Người kiểm dùng kính lúp, que gỗ và ánh đèn xiên, không chỉ nhìn từ trên xuống.
+
+Lan đứng ở cuối bàn hàn, cầm một bảng mạch có mười bảy mối bóng đẹp. Bà dùng que gỗ chạm vào chân một điện trở; chân rung trong khối thiếc.
+
+“Đẹp có tính là đạt không?” bà hỏi.
+
+Người thợ lắc đầu. Từ hôm đó, bảng mẫu lỗi được treo ngay trước bàn. Không ai bị phạt vì chỉ ra mối hàn mình vừa làm chưa đạt. Lạnh buốt ngón tay sờ gầu nước đầu đông. Người che lỗi hoặc sửa phiếu mới bị đình công đoạn. Hùng nói thẳng: xưởng có thể trả giá cho một lỗi được tìm thấy; xưởng không đủ tiền trả cho một lỗi được giấu đến nhà khách.
+
+Mười bảng mạch đầu tiên được lắp như lô thí điểm. Lạnh buốt ngón tay sờ gầu nước đầu đông. Mỗi bảng mang số P01 đến P10. Minh không cho chạy cả mười theo một cách. P01 và P02 dùng transistor ở đầu thấp của nhóm khuếch đại; P03 và P04 dùng nhóm cao; P05 dùng tụ hóa màu đen đã thử; P06 dùng biến áp nguồn có tiếng rung lớn nhất nhưng vẫn trong giới hạn nhập; P07 chịu điện áp lưới cao giả lập; P08 chịu điện áp thấp; P09 và P10 là mẫu chuẩn. Mục đích không phải cố làm hỏng máy. Họ cần biết thiết kế còn hoạt động ở mép dung sai hay chỉ đẹp khi mọi linh kiện tình cờ nằm giữa.
+
+Buổi chỉnh máy đầu tiên vang đầy những tiếng hú, tiếng lạo xạo và những đoạn nhạc lúc gần lúc xa. Máy phát tín hiệu được đặt ở tần số chuẩn. Loẹt xoẹt giấy tờ bóc biên lai thu tiền. Minh chỉ cách chỉnh biến áp trung tần từng bước, dùng que chỉnh phi kim để lõi ferrite không nứt và không bị tua vít kim loại làm lệch. Ông niêm phong một máy P09 sau khi chỉnh đúng, ghi vị trí kim mặt số ở ba tần số. Mỗi máy sau đó phải so với P09 bằng cùng anten dây, cùng mức tín hiệu, cùng vị trí trên bàn.
+
+Ông Sato nghe máy P03 rồi yêu cầu đổi chỗ hai dây chạy gần tầng đầu cao tần. Thợ hỏi vì sao sơ đồ không thay đổi mà tiếng rít lại mất. Ông lấy phấn vẽ lên bảng: sơ đồ chỉ nói linh kiện nối với nhau; cách đặt dây quyết định tín hiệu không mong muốn có quay trở lại đầu vào hay không. Minh bổ sung đường đi dây vào bản vẽ lắp ráp. Dây loa xoắn đôi. Dây nguồn bám sát khung. Nóng rát gáy dưới nắng hè đứng bán hàng. Dây anten tránh biến áp. Mỗi bó dây có chiều dài theo mẫu, không cắt “ước chừng vừa mắt”.
+
+Đến P07, vấn đề chính lộ ra. Máy bắt sóng khỏe, âm thanh rõ, nhưng sau bốn giờ, vỏ biến áp nóng hơn mọi mẫu khác. Nhiệt chưa làm cầu chì đứt. Lạnh buốt ngón tay sờ gầu nước đầu đông. Máy vẫn phát. Nếu chỉ thử nghe năm phút, nó chắc chắn được đóng dấu đạt.
+
+Minh tắt nguồn, ghi thời điểm và nhiệt độ, rồi niêm phong máy. Ông đo dòng không tải của biến áp, dòng toàn máy khi âm lượng thấp và khi mở lớn. Lạnh buốt ngón tay sờ gầu nước đầu đông. Dòng phía thứ cấp không khác nhiều. Dòng không tải phía sơ cấp cao bất thường. Ông tháo biến áp, cân nó với mẫu P09: nhẹ hơn. Khi gỡ lớp giấy bọc ngoài, số vòng dây không thể đếm ngay, nhưng lõi sắt ghép thưa và dây quấn có vẻ nhỏ hơn mẫu đã duyệt.
+
+Lâm mang sổ kho đến. Hai mươi biến áp cùng nằm trong một thùng, song dây buộc chia thành hai bó. Bó thứ hai không có dấu sơn đỏ của mẫu duyệt. Người giao hàng đã nói đó chỉ là khác ca quấn. Câu nói ấy không được ghi vào phiếu nhập.
+
+Hùng không hỏi ai đáng trách trước. Ông hỏi còn bao nhiêu máy mang biến áp bó thứ hai. Sáu chiếc đã lắp, mười bốn chiếc còn trong kho. Tất cả được chuyển vào khu thẻ đỏ. Lịch giao năm mươi máy bị gạch. Lan gọi qua tổng đài cho ba điểm bán, báo lùi bốn ngày và không nhận thêm tiền đặt trước. Cô Hạnh mở một trang chi phí sự cố: giờ tháo lắp, vật tư bỏ, tiền điện thử lại, cước vận chuyển trả hàng và khoản doanh thu chậm. Không một khoản nào được đẩy sang “hao hụt chung” để cuối tháng không ai thấy.
+
+Nhà cung cấp đến xưởng vào sáng hôm sau. Chiếc cân bàn đĩa đồng đã mờ vạch số. Ông ta lập luận rằng máy vẫn chạy, biến áp nóng là chuyện thường, giá bó thứ hai rẻ hơn. Minh không tranh cãi bằng cảm giác. Ông đặt hai biến áp lên cùng gá, cùng điện áp, cùng tải, cùng thời gian. Nhiệt kế được đọc mỗi ba mươi phút; dòng không tải ghi cạnh nhau. Sau hai giờ, sai lệch hiện rõ. Minh đưa mẫu duyệt có dấu sơn đỏ, phiếu nhận và biến áp bị tháo từ P07. Nhà cung cấp nhận lại hai mươi chiếc, cam kết quấn lại đúng cỡ dây, đúng lõi, đóng dấu riêng từng mẻ.
+
+Lan sửa điều khoản mua hàng: giá chỉ được thanh toán cho lô vượt qua kiểm tra không tải và thử nóng mẫu. Nếu thay vật liệu hoặc cách ghép lõi, nhà cung cấp phải gửi mẫu mới trước. Rạ khô vừa gặt còn thơm nắng. Bà không đòi một bản hợp đồng dày mà không ai thi hành được. Một dòng trên phiếu nhập, một mẫu niêm phong và quyền từ chối thanh toán đủ giữ kỷ luật.
+
+Trong lúc chờ biến áp mới, Minh không để tổ radio chạy sang việc khác một cách tùy tiện. Sáu máy đã lắp được tháo theo phiếu riêng. Mỗi dây tháo ra được kiểm xem có cháy cách điện. Xăng pha dầu nhờn từ xưởng sửa xe. Cầu chì thay mới dù chưa đứt. Mối hàn hút thiếc không đạt phải sửa bằng dây nối đúng quy cách, không vá đường đồng bằng cục thiếc. Hai bảng mạch bong đảo đồng bị loại khỏi lô bán, giữ lại làm bảng huấn luyện. Sổ phế liệu ghi rõ đồng, thiếc và linh kiện có thể thu hồi.
+
+Lan dùng khoảng dừng để kiểm giá thành thật. Giá dự tính ban đầu chỉ cộng linh kiện, vỏ và tiền công trực tiếp. Bà thêm khấu hao dụng cụ, bóng đèn cháy, mũi hàn, cầu chì dùng trong thử nghiệm, bao bì, vận chuyển từ Hoài Đức vào phố Huế và quỹ bảo hành. Nếu tính đủ, biên lãi thấp hơn gần một phần ba so với lời báo cáo đầu. Hùng giữ giá bán đã công bố cho năm mươi máy đầu, chấp nhận lãi thấp. Ông không giảm thời gian chạy nóng để cứu biên lãi. Giá của lô sau sẽ được quyết định bằng số liệu lô này.
+
+Cô Hạnh lập thẻ giá thành cho từng khay mười máy. Vật tư xuất theo phiếu, giờ công theo ca, máy hỏng không được âm thầm chuyển chi phí sang khay kế tiếp. Than tổ ong lúc nửa đêm. Cuối ngày, Lâm đếm bán thành phẩm ngoài bàn và đối chiếu với sổ: hai mươi bảng chờ nguồn, tám máy chờ chỉnh, mười máy đang chạy nóng, hai bảng loại. Tổng phải bằng bốn mươi. Chỉ khi số ấy khớp, kho mới xuất vật tư cho ca sau.
+
+Biến áp thay thế đến sau ba ngày, có dấu sơn xanh và phiếu ghi ngày quấn. Minh lấy ba chiếc ở đầu, giữa và cuối bó. Xăng pha dầu nhờn từ xưởng sửa xe. Cả ba qua thử không tải bốn giờ. Một chiếc rung nhẹ khi bắt lên khung. Ông thêm long đen sợi và quy định lực siết vít theo mẫu thực hành; không được siết quá mạnh làm méo lá thép, cũng không được để lỏng gây rung. Ba biến áp được cắt ra kiểm tra không thể dùng lại, chi phí ấy ghi vào mục kiểm lô.
+
+Dây chuyền chạy lại với nhịp chậm. Khay đầu mất gần hai ngày. Khay thứ hai nhanh hơn vì thợ không còn phải hỏi vị trí từng dây. Đến khay thứ ba, tổ trưởng xin bỏ bước kiểm cực tính diode ở bàn hai vì “chưa chiếc nào cắm ngược”. Nóng rát gáy dưới nắng hè đứng bán hàng. Minh đặt lên bàn một diode đã cắt chân ngắn bằng nhau và hỏi người mới sẽ phân biệt thế nào nếu chỉ nhìn chiều chân. Bước kiểm được giữ. Tuy nhiên ông xóa một chữ ký trùng ở phiếu chuyển khay: người giao và người nhận chỉ cần đếm cùng nhau một lần, không ký hai ô cho cùng một sự kiện. Kỷ luật không có nghĩa là chất giấy lên bàn.
+
+Điện yếu gây một loại lỗi khác. Buổi chiều, ba máy không bắt được đài ở đầu dải sóng ngắn. Xăng pha dầu nhờn từ xưởng sửa xe. Sáng hôm sau chúng lại hoạt động. Minh đo điện áp lưới lúc lỗi: một trăm sáu mươi tám vôn. Bộ dao động trong máy P04 ngừng trước các máy khác. Thay vì nâng điện áp thử lên rồi đóng dấu, ông dùng biến áp tự ngẫu hạ dần điện áp trên máy mẫu. Giới hạn vận hành được ghi thành một trăm bảy mươi đến hai trăm bốn mươi vôn. Hai transistor dao động ở nhóm khuếch đại thấp bị chuyển sang tầng âm tần; transistor nhóm phù hợp được dành cho tầng đổi tần. Phân nhóm linh kiện từ đầu vì thế trả lại giá trị thực.
+
+Hùng hỏi có nên in giới hạn điện áp lên mặt sau máy. Lan đồng ý, thêm lời hướng dẫn ngắn: khi điện quá yếu, tắt máy; không vặn núm liên tục; rút phích trước khi mở nắp; cầu chì chỉ thay đúng trị số. Mảnh nilon gói hàng buộc dây chuối khô. Tấm hậu có lỗ thông gió, số máy và dấu kiểm. Dây nguồn đi qua đệm cao su, được kéo thử để bảo đảm nút chặn chịu lực. Hai chấu phích cắm được kiểm, dây không lộ lõi đồng.
+
+Bàn thử điện được tách bằng vạch sơn. Chỉ Minh và hai thợ đã học quy trình được cấp điện trực tiếp cho máy chưa đóng vỏ. Một tay đặt sau lưng khi đo phần sơ cấp; đầu đo có bọc; nền khô; biến áp cách ly dùng khi sửa; cầu dao đặt trong tầm với. Lạnh buốt ngón tay sờ gầu nước đầu đông. Lan yêu cầu mọi người nghỉ mười phút sau hai giờ hàn. Mùi nhựa thông được kéo ra cửa bằng quạt, không thổi ngang mặt người khác. Hùng bác đề nghị làm ca đêm để bù lịch. Sau tám giờ nhìn mối hàn nhỏ, tốc độ tăng ít hơn số lỗi.
+
+Máy đầu tiên hoàn chỉnh mang số HĐ-R84-001. Vỏ phủ nâu, mặt số in hai dải sóng, núm trái bật nguồn và chỉnh âm lượng, núm phải dò đài. Không có tên nước ngoài trên mặt trước. Tõm tõm gầu nước xuống giếng sâu. Lan đặt nó cạnh máy mẫu nhập và hỏi những người ở ba điểm bán dùng thử mà không được chỉ dẫn. Hai người vặn nhầm núm chọn dải sóng vì ký hiệu quá nhỏ. Mặt số được sửa trước khi in cả lô. Ký hiệu MW, SW1, SW2 được giữ nhưng thêm chữ Việt “TRUNG”, “NGẮN 1”, “NGẮN 2”.
+
+Bài thử nghe không tiến hành trong căn phòng yên tuyệt đối. Một máy được mang ra quầy phố Huế, nơi có xe đạp, tiếng người và dây điện chạy gần. Một máy đặt ở gian sau có tường dày. Một máy mang sang nhà kho Hoài Đức vào buổi tối. Mỗi nơi dùng cùng danh sách đài, ghi độ rõ theo ba mức đã mô tả, không dùng chữ “hay”. Tờ tiền giấy bạc mòn góc đếm qua nhiều tay. Máy số 014 có tiếng ù ở quầy nhưng không ù trong xưởng. Kiểm tra cho thấy dây anten trong vỏ đi sát dây nguồn do người lắp bó nhầm. Phiếu đường dây được bổ sung hình vẽ nhìn từ trên.
+
+Bài thử chạy nóng dùng giá gỗ chứa mười máy, mỗi máy cách nhau đủ để không truyền nhiệt sang nhau. Tất cả phát cùng mức âm lượng, nhưng không cùng tần số, tránh người trực bị một tiếng kéo dài làm mất chú ý. Cứ ba mươi phút, người trực đi một vòng: nghe méo tiếng, ngửi mùi cách điện, chạm nhiệt kế vào điểm đánh dấu, đọc dòng điện và ký. Nếu một máy lỗi, không tắt cả giá rồi xóa thời gian; máy đó ra thẻ đỏ, các máy còn lại tiếp tục với thời gian riêng.
+
+Ở giờ thứ năm của khay thứ tư, máy 032 phát tiếng nổ nhỏ rồi im. Cầu chì vẫn nguyên. Tụ ghép tầng công suất bị chập, làm một transistor nóng. Vải mới cắt thơm mùi hồ. Tụ thuộc lô màu đen từng bị nghi ngờ. Bảy máy khác đã dùng cùng lô dù các mẫu đầu vượt qua phép thử dòng rò. Hùng cho giữ cả tám máy, thay tụ, chạy lại sáu giờ từ đầu. Lô tụ màu đen bị trả. Chi phí gần bằng tiền lãi của ba máy, nhưng sổ ghi đúng vào lô năm mươi.
+
+Minh không dừng ở việc thay tụ. Ông hỏi vì sao vật tư “chỉ dùng sau thử bổ sung” lại được xuất. Lâm đưa phiếu có chữ ký của một thợ nhận hàng nhưng thiếu chữ ký kỹ thuật. Kho đã để hai lô cùng một ngăn, khác nhau bằng mảnh giấy buộc dây. Khi ca sáng đông người, người phát nhầm. Họ sửa bằng cách đổi vị trí vật lý: lô chờ duyệt vào tủ khóa có thẻ vàng; lô đạt ở kệ xanh; lô từ chối ở lồng thẻ đỏ. Cồn cào ruột khi chưa kịp ăn sáng. Phiếu không đủ quyền không thể mở tủ vàng. Sai sót được sửa ở nơi nó phát sinh, không bằng lời dặn mọi người “cẩn thận hơn”.
+
+Cuối tuần thứ hai, bốn mươi tám máy đã qua đủ sáu giờ. Lạnh buốt ngón tay sờ gầu nước đầu đông. Hai máy còn lại nằm trên bàn phân tích: 032 vì tụ chập, 041 vì kim mặt số trượt sau nhiều lần xoay. Dây kéo mặt số của 041 dùng nút buộc khác mẫu. Tổ lắp muốn sửa rồi nhập lại ngay. Minh yêu cầu xoay núm năm trăm lượt bằng một tay quay đơn giản trên cả hai máy và hai mẫu ngẫu nhiên khác. Sau phép thử, 041 lại trượt; máy 027 cũng bắt đầu sai vạch. Nút buộc được thay bằng vòng quấn theo dưỡng, lò xo căng được kiểm chiều dài. Tất cả năm mươi máy chịu phép thử một trăm lượt; bốn máy mẫu chịu đủ năm trăm.
+
+Ông Sato đề nghị lưu hai máy nguyên vẹn làm mẫu đối chứng. Lan phản đối lúc đầu vì giữ hai máy nghĩa là mất hai khoản bán. Chiếc cân bàn đĩa đồng đã mờ vạch số. Ông chỉ vào P09 đã bị tháo nhiều lần và giải thích mẫu kỹ thuật không còn đại diện cho hàng giao. Hùng quyết định giữ máy số 049 và 050, niêm phong vít, kèm toàn bộ phiếu đo. Giá trị hai máy chuyển từ thành phẩm bán sang dụng cụ kiểm soát, không ghi là thất thoát. Máy 049 và 050 sẽ dùng đối chiếu khi khách bảo hành hoặc khi lô sau thay nhà cung cấp.
+
+Khâu đóng gói cũng được thử. Thùng carton lúc ấy không đồng đều, nên mỗi radio được bọc giấy chống xước, chèn góc bằng bìa gấp và đặt trong thùng có quai dây. Nước mắm cá cơm đặc quánh từ chum. Hùng cho thả một thùng mẫu từ độ cao ngang đầu gối lên mặt gỗ ở ba cạnh. Vỏ không nứt, nhưng núm dò đài bị ép sát mặt thùng. Miếng chèn trước được khoét lại. Phiếu bảo hành và hướng dẫn đặt trong túi giấy phía trên, không nhét sau lưng máy nơi khách dễ bỏ sót.
+
+Lan viết điều kiện bảo hành bằng câu ngắn. Sáu tháng cho lỗi linh kiện và lắp ráp; không bảo hành dây nguồn bị cắt, vỏ ngấm nước hoặc máy đã bị thay cầu chì sai trị số. Tuy vậy, quầy vẫn nhận kiểm tra và báo giá sửa. Mỗi điểm bán giữ một sổ gồm số máy, ngày bán, tên người mua, lỗi báo, ngày nhận và ngày trả. Ướt sũng mồ hôi lưng áo sau một ngày dài. Phụ tùng bảo hành được tách khỏi vật tư sản xuất: năm bộ transistor công suất, mười cầu chì, tụ thường hỏng, hai loa, hai biến áp nguồn. Cô Hạnh trích quỹ bảo hành ngay khi ghi doanh thu, không chờ máy hỏng mới tìm tiền.
+
+Ngày nghiệm thu, năm mươi số máy được đọc theo phiếu. Bốn mươi bảy máy bán đợt đầu được xếp chờ giao, hai máy 049 và 050 vào tủ mẫu, một máy 032 sau sửa được giữ thêm bảy ngày quan sát rồi mới quyết định. Tờ tiền giấy bạc mòn góc đếm qua nhiều tay. Như vậy sổ không thể ghi năm mươi máy giao. Lan khóa số: năm mươi hoàn thành kỹ thuật; bốn mươi bảy sẵn sàng xuất; hai mẫu đối chứng; một máy theo dõi; hai bảng mạch phế huấn luyện đã nằm trong chi phí.
+
+Hùng yêu cầu chọn ngẫu nhiên ba thùng đã buộc dây. Người chọn là cô bán hàng từ phố Huế, không phải người trong xưởng. Ba máy được mở, kiểm số thân với phiếu, chạy từ điện áp thấp lên điện áp danh định, bắt ba đài, xoay hết hai đầu mặt số, mở âm lượng lớn rồi gõ nhẹ lên vỏ. Máy 006 có tiếng lách cách khi gõ. Bùn non dưới ruộng lúa mới cày. Một con vít rơi trong khe đáy, dù máy vẫn hoạt động. Cả lô chưa được xuất.
+
+Không ai vui khi bốn mươi bảy thùng phải mở lại vì một con vít. Nhưng kiểm từng máy chỉ mất hai giờ với bốn người. Họ tìm thêm một long đen nằm dưới loa máy 019. Minh sửa công đoạn lắp vỏ: khay vít đầu ca được đếm, cuối ca số còn lại cộng số đã dùng phải khớp; trước khi đóng tấm hậu, người kiểm nghiêng khung theo hai hướng và nhìn đáy bằng đèn. Máy 006 và 019 chạy lại một giờ sau khi mở.
+
+Chiều hôm ấy, xe tải nhỏ đến nhận hàng. Lan không để tài xế ký một dòng “đủ”. Bà cùng Lâm đọc bốn mươi bảy số máy, số thùng và tình trạng dây buộc. Hai mươi máy về HN-PH tại phố Huế, mười lăm máy về HN-HB tại Hàng Bông, mười hai máy về HN-KT tại Khâm Thiên. Bờ Hồ và Cửa Nam chỉ là khu khách do HN-HB và HN-KT phụ trách giao, không phải điểm bán, không giữ tồn, không có mã sổ. Mỗi điểm nhận kèm danh sách số máy và hai cầu chì dự phòng dùng tại bàn kiểm, không phát tùy tiện cho khách. Bùn non dưới ruộng lúa mới cày. Tiền hàng chưa được ghi hết thành tiền thu. Sổ cái tách rõ , hàng đã bán, tiền mặt đã nộp và khoản còn phải thu.
+
+Máy theo dõi 032 chạy thêm bảy ngày, mỗi ngày sáu giờ. Không tái phát lỗi. Nó được xuất sau, mang phiếu riêng ghi đã thay tụ và chạy bốn mươi hai giờ. Lan không che lịch sử sửa chữa nhưng cũng không biến một máy đã được xác minh thành phế phẩm. Tờ tiền giấy bạc mòn góc đếm qua nhiều tay. Khách mua được báo đây là máy thử kéo dài và nhận cùng bảo hành sáu tháng. Máy bán đúng giá; chi phí thử thêm ở lại trong sổ lô.
+
+Cuộc họp khóa lô diễn ra vào cuối tháng chín. Cô Hạnh đọc số tiền thay vì đọc lời khen. Vật tư trực tiếp cao hơn dự toán do loại hai bảng mạch và cắt kiểm ba biến áp. Giờ công cao hơn mười sáu phần trăm vì tháo sáu máy, mở lại lô đóng gói và thử thêm. Quỹ bảo hành đã trích. Bốn mươi tám máy được bán: bốn mươi bảy máy giao đợt đầu đã gồm ba mươi sáu đơn ĐƠN-R và mười một khách mua sau khi xem hàng; máy 032 giao sau là máy bán thứ bốn mươi tám. Máy 050 là mẫu đối chứng, không bán. Mảnh nilon gói hàng buộc dây chuối khô. Vì vậy “48 máy bán” đã bao gồm máy 032, không phải bốn mươi tám cộng thêm một. Không có máy nào bị khách trả trong tuần đầu. Hai phản ánh về khó bắt sóng được xử lý bằng hướng dẫn kéo anten và đổi vị trí đặt máy, không thay linh kiện.
+
+Minh trình bày giới hạn của kết quả. Năm mươi máy chưa chứng minh xưởng có thể làm hai trăm máy trong một tháng. Ba mỏ hàn là điểm nghẽn. Bàn chạy nóng chỉ chứa mười máy. Việc phân nhóm transistor tốn thời gian. Tổ mộc chỉ giao được hai mươi vỏ mỗi tuần. Nếu nhận đơn lớn mà chỉ kéo dài ca, lỗi sẽ tăng trước khi sản lượng tăng. Hùng không ký mở rộng ngay. Ông yêu cầu chương sau phải giải quyết công suất như một bài toán riêng, không lấy thành công của lô nhỏ làm bằng chứng cho dây chuyền lớn.
+
+***
+
+Cùng tuần ấy, tại phố Huế, một cửa hàng mới mở cách HN-1 chừng ba căn nhà. Chủ là Trần Văn Bằng — em họ xa, con bác ruột Hùng. Năm 1978, cha Bằng khai anh cả Hùng là 'tư sản', cha Hùng bị đưa đi cải tạo. Bằng không nhắc chuyện cũ khi gặp Hùng ngoài chợ. Hắn chỉ cười, nói đang bán hàng Bắc — thực phẩm, quần áo, đồ nhựa — giá rẻ hơn Thương Gia khoảng mười phần trăm.
+
+Lan kể lại với Hùng vào tối hôm ấy, giọng không giấu lo:
+
+— Hàng của anh ấy rẻ thật. Em hỏi mấy người, họ bảo mua từ Lạng Sơn, không qua kho bãi gì.
+
+Hùng đang kiểm phiếu linh kiện cho lô radio thứ hai. Ông không ngẩng lên:
+
+— Cửa hàng ai cũng có quyền bán. Mình lo xưởng radio đã đủ.
+
+— Nhưng khách hỏi sao hàng mình đắt hơn.
+
+— Thì nói thật. Mỗi thứ có giá của nó.
+
+Lan không hỏi thêm. Nhưng nét mặt cô vẫn đầy băn khoăn.
+
+Lan khóa trang sổ cái năm 1984 bằng bốn chữ ký: thủ kho, kỹ thuật, kế toán, người chịu trách nhiệm. Dòng cuối ghi: “Lô R84-01: 50 số; 47 máy bán đợt đầu + máy 032 bán sau = 48 máy bán; máy 049 và 050 là 2 mẫu đối chứng; không nhập trùng doanh thu; nghĩa vụ bảo hành còn mở.” Bên cạnh là số tiền quỹ bảo hành và danh sách linh kiện giữ lại. Hùng ký sau cùng, không sửa số giờ công cho đẹp.
+
+Tối đó, chiếc máy số 050 phát bản tin trong căn buồng đã tắt phần lớn đèn. Tờ tiền giấy bạc mòn góc đếm qua nhiều tay. Tiếng nói không lớn, nhưng đều. Trên giá, các khay trống nằm đúng vạch sơn. Trong tủ đỏ là tụ bị trả, trong tủ xanh là linh kiện đã duyệt, trong ngăn hồ sơ là năm mươi phiếu có thể lần ngược từ máy đến người hàn và lô biến áp. Xưởng chưa có một dây chuyền lớn. Nó có thứ khó mua hơn: một cách làm khiến chiếc radio thứ bốn mươi tám không phụ thuộc vào trí nhớ của người đã làm chiếc đầu tiên.
+
+Đơn đặt hàng hai trăm máy đến ngay sáng hôm sau. Lan đặt nó bên cạnh bảng công suất, không bên cạnh tiền đặt cọc. Đì đùng máy nổ xa mờ cuối làng. Hùng nhìn ba mỏ hàn, giá chạy nóng mười chỗ và lịch giao vỏ gỗ. Ông nói: “Nhận đơn sau khi biết làm bằng cách nào.” Câu hỏi của tháng mười vì thế đã rõ: mở rộng sản xuất mà không mở rộng quyền được bỏ qua lỗi.
+
+Đêm ấy, căn buồng phía đông tắt hết đèn bàn, chỉ còn máy số 050 phát tin thời sự nhỏ như tiếng thì thầm. Mùi nhựa thông còn bám trên tay áo Hùng, lẫn mùi gỗ vỏ mới và hơi nóng của biến áp đã nguội. Ông ngồi trên ghế thấp, nghe giọng phát thanh viên đều đều, rồi đưa mắt nhìn khay trống xếp đúng vạch sơn. Rè rè loa phường phát tin sáng. Tủ đỏ, tủ xanh, ngăn hồ sơ — ba thứ ấy trông giản dị hơn mọi lời khen về “lô năm mươi máy”. Ông nhớ buổi chỉnh máy đầu tiên: tiếng hú, tiếng lạo xạo, mặt Minh căng khi P07 nóng bất thường. Lúc ấy ông sợ nhất không phải mất tiền, mà sợ một lỗi bị giấu đến nhà khách rồi mới lộ. Bây giờ, năm mươi phiếu có thể lần ngược từ máy đến người hàn. Cái yên tâm ấy nặng hơn doanh thu của bốn mươi tám máy đã bán.
+
+Lan gõ cửa nhẹ, mang vào hai cốc nước chè nguội. Cô không hỏi ông có nhận đơn hai trăm không. Cô chỉ đặt cốc xuống, ngồi im một lúc, rồi nói khẽ rằng thợ hàn hôm nay mắt đỏ vì nhìn mối hàn quá lâu. Chiếc cân bàn đĩa đồng đã mờ vạch số. Hùng gật. Ông biết mở rộng sẽ bắt đầu từ đúng chỗ ấy — từ mắt người, từ ba mỏ hàn, từ giá chạy nóng chỉ mười chỗ — không phải từ tờ đơn có chữ ký và tiền cọc. — Lô R84-01 chỉ có hai mươi cái thôi, anh. — Minh gập sổ.
+
+— Hai mươi cũng là lô. — Hùng nhìn bo mạch mẫu. — Có chạy thử chưa?
+
+— Chạy hết. Ba cái bắt được sóng ban đêm không rõ. Phải chỉnh lại cao tần.
+
+— Mai sửa mấy cái đó trước. Làm đúng rồi mới tính tới lô sau.
+
+— Em sợ không kịp đơn.
+
+— Không kịp thì nói thật với người ta. — Hùng đứng dậy. — Còn hơn giao hàng lỗi.
+
+Ngoài sân, gió đêm mang mùi thóc phơi còn sót. Ông tắt radio, để im lặng phủ lên căn buồng một nhịp. Im lặng ấy không trống. Nó chứa những thứ lô R84-01 đã dạy: đừng nhận đơn trước khi biết chỗ nào sẽ gãy trước.
+
+============================================================
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Hai ly nước ấm trên bàn. Hùng đưa một ly cho bà Hà. "Uống đi, trời lạnh." bà Hà nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
+
+Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+
+
+Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Minh mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Sáng chủ nhật, Hùng gấp chăn màn, Lan lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." Lan quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
+
+
+Hai ly nước ấm trên bàn. Hùng đưa một ly cho Minh. "Uống đi, trời lạnh." Minh nhận ly, tay chạm tay Hùng, hơi ấm truyền qua. Cả hai uống chậm, không nói gì, chỉ có tiếng gió ngoài khe cửa.
+
+Sáng chủ nhật, Hùng gấp chăn màn, bà Hà lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." bà Hà quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Minh đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Minh quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+
+Sáng chủ nhật, Hùng gấp chăn màn, bà Hà lau bàn ghế. Radio phát nhạc Trịnh Công Sơn. "Anh thích bài này lắm." bà Hà quay sang cười: "Biết, nên em mới mở đó." Hùng sững lại rồi cười. Tình yêu trong những điều nhỏ bé.
+
+Bên ly rượu nếp, Hùng tâm sự: "Cuộc sống này, anh có em là may mắn nhất." Minh nâng ly: "Em cũng vậy. Cảm ơn anh." Hai ly rượu chạm nhau, leng keng, ấm áp. Mùi rượu nếp thơm nồng.
+
+
+Đêm xuống, Hùng ngồi trước hiên nhà, nhìn lên bầu trời đầy sao. Gió đêm mát lạnh, thổi tung những sợi tóc bạc. Tiếng dế kêu rả rích từ ngoài vườn vọng vào. Ông rút một điếu thuốc, châm lửa. Hơi thuốc cay xè, tan trong màn đêm.
+Một lúc sau, có tiếng dép lê phía sau. Lan đến ngồi bên cạnh, tay cầm một ly nước ấm.
+"Anh lại ra đây hút thuốc à?"
+Hùng cười, dập điếu thuốc. "Anh xin lỗi."
+Lan đưa ly nước cho anh. "Không sao. Em hiểu."
+Hùng nhận ly nước, tay chạm tay cô. Hơi ấm từ ly nước truyền sang, kết hợp hơi ấm từ tay cô, làm ông thấy dễ chịu.
+"Sao em chưa ngủ?"
+"Em không ngủ được. Lo cho anh."
+Hùng quay sang nhìn cô, mắt trìu mến. "Anh sẽ ổn thôi."
+Lan dựa đầu vào vai Hùng, mắt nhắm lại. Cô thì thầm: "Anh biết không, từ ngày gặp anh, cuộc sống em khác hẳn."
+Hùng gật đầu, tay vuốt tóc cô. "Anh cũng vậy."
+Cả hai im lặng, ngắm sao trời, lắng nghe tiếng gió đêm. Trong lòng họ, một tình yêu lặng lẽ lớn dần, bền chặt như đá, dịu dàng như nước.
+
+
+a Lan đi dạo trong vườn, nhìn những bông cúc vàng nở rộ, hít hà mùi đất đất mùa xuân ẩm, mùi rơm rạ, mùi bùn non, mùi phân trâ. Cảm thấy bình yên.
+
+
+Bát cơm nóng hổi trên tay. Hùng nhìn bà Hà. “Ăn cùng nhau mới ngon, phải không?” Bà Hà gật. Họ ngồi bên nhau, ăn chậm, cười nhẹ.
+
+「Hệ thống — GHI NHẬN ch.38」
+Năm: 1984
+Tổng EXP: 2,920 (+140 nhịp này)
+Không gian kho: 2,400m² (+50m²)
+Kỹ năng trọng yếu: Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Sổ cái: Lô R84-01 khóa 50 số; 47 bán đợt đầu + máy 032 bán sau = 48 bán; máy 049 và 050 là 2 mẫu đối chứng; không double-book
+
+Đêm thử máy, xưởng chỉ còn một bóng đèn. Tiếng rè từ loa nhỏ xé không khí, rồi bỗng trong veo khi Hùng vặn đúng tần. Mùi nhựa nóng và thiếc hàn quyện vào nhau. Minh há miệng, mắt sáng dưới ánh vàng. "Nghe được rồi." Hùng không vui ồn. Ông đặt tay lên vỏ máy còn ấm, cảm nhận rung nhẹ — như cảm mạch sống của một vật vừa được đánh thức. Ngoài trời, gió mùa hen qua khe cửa. Ông nghĩ: nếu người nông thôn nghe được tin giá lúa đúng lúc, thì cái hộp nhỏ này đáng hơn mọi lời hứa to.
+
+
+============================================================

@@ -1,0 +1,1166 @@
+[
+ {
+  "ch": 241,
+  "title": "Khởi công Thương Gia City",
+  "cw": 2818,
+  "fw": 3017,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2009"
+  ],
+  "oy": [
+   "2009"
+  ],
+  "full": 9.35,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "khởi công Thương Gia City — đổ móng lô A1",
+  "last": "Khi lên xe, ông nhìn lại qua kính chiếu hậu — khu ruộng trũng giờ có bê tông, thép và người. Và ông biết: từ những thứ thô kệch này, một cộng đồng sẽ hình thành. / ================"
+ },
+ {
+  "ch": 242,
+  "title": "Quy hoạch 500 hecta",
+  "cw": 3016,
+  "fw": 3187,
+  "p0": [
+   "minh_rom",
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 7.9,
+  "core": 9.1,
+  "pass": false,
+  "panel_note": "mở rộng Thương Gia City 300→500ha — thường vụ tỉnh đồng ý nguyên tắc",
+  "last": "Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và bà Hà ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. \"Mưa rồi.\" \"Ừ, mưa.\" Họ nắm tay nhau, im lặng, bình yên. / Hùng mở cửa sổ, đ"
+ },
+ {
+  "ch": 243,
+  "title": "Hạ tầng và nhà ở công nhân",
+  "cw": 3057,
+  "fw": 3974,
+  "p0": [
+   "rom_dump",
+   "minh_rom",
+   "baha_wife",
+   "lan_spouse",
+   "unaccent",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 5.5,
+  "core": 6.7,
+  "pass": false,
+  "panel_note": "bổ sung thang máy, nhà xe, đề xuất giảm 20% giá thuê cho công nhân vùng KCN",
+  "last": "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. \"Anh bỏ thuốc đi.\" Hùng cười, cất lại bao thuốc. \"Thôi, vì em.\" Lan mỉm cười, dựa vào Hùng. Trăng lên ca"
+ },
+ {
+  "ch": 244,
+  "title": "Trường học trong khu công nghiệp",
+  "cw": 2647,
+  "fw": 3431,
+  "p0": [
+   "rom_dump",
+   "lan_spouse",
+   "unaccent",
+   "post_teaser",
+   "post_tail:396"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [
+   "2011"
+  ],
+  "full": 5.5,
+  "core": 6.7,
+  "pass": false,
+  "panel_note": "khởi công trường tiểu học Thương Gia — trường công đầu tiên trong KCN do tư nhân xây",
+  "last": "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi n"
+ },
+ {
+  "ch": 245,
+  "title": "Xe điện thương mại hóa",
+  "cw": 3676,
+  "fw": 3676,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [
+   "2011"
+  ],
+  "full": 9.55,
+  "core": 9.9,
+  "pass": true,
+  "panel_note": "hoàn thiện xe điện lô thử nghiệm — 50 xe chạy nội bộ Thương Gia City",
+  "last": "Gió thu thổi qua, làm những tàu lá bàng rụng xuống mặt đường, quay tít theo vòng xoáy. Bằng không nhìn lên. Ông ta đang cẩn thận lấy từng cái bát từ thùng nước rửa, lau khô, xếp lê"
+ },
+ {
+  "ch": 246,
+  "title": "Trạm sạc toàn quốc",
+  "cw": 2928,
+  "fw": 2928,
+  "p0": [
+   "lan_spouse",
+   "post_teaser",
+   "post_tail:1273"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [],
+  "full": 7.65,
+  "core": 8.85,
+  "pass": false,
+  "panel_note": "phê duyệt thí điểm trạm sạc bến xe Giáp Bát — nền móng hạ tầng sạc toàn quốc",
+  "last": "Hùng gác máy, thở phào. Trạm Phủ Lý — trạm đầu tiên — bắt đầu có lộ trình rõ ràng. Trạm này nằm giữa Hà Nội và Ninh Bình, là điểm dừng chân lý tưởng cho các xe điện di chuyển từ Bắ"
+ },
+ {
+  "ch": 247,
+  "title": "AI sơ khai trong quản lý kho",
+  "cw": 2671,
+  "fw": 3203,
+  "p0": [
+   "unaccent",
+   "char_inject"
+  ],
+  "py": [
+   "2006"
+  ],
+  "oy": [
+   "2006"
+  ],
+  "full": 7.4,
+  "core": 8.6,
+  "pass": false,
+  "panel_note": "Hệ thống dự báo tồn kho đầu tiên — độ chính xác 82%",
+  "last": "'Anh Hung, anh lam the nao đe thanh cong?' Mot phong vien hoi. 'Khong co bi quyet. Chi co co gang, that la, va kien nhan.' 'Cam on anh.' Phong vien gap so ghi chep. Hung cuoi, nhin"
+ },
+ {
+  "ch": 248,
+  "title": "Trung tâm dữ liệu Thương Gia",
+  "cw": 2948,
+  "fw": 2948,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2009"
+  ],
+  "oy": [],
+  "full": 9.0,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Trung tâm dữ liệu cấp Tier 3 đầu tiên của doanh nghiệp tư nhân VN",
+  "last": "Viết xong, ông gấp lại, cho vào phong bì niêm phong, đưa cho luật sư giữ. Rồi ông tiếp tục công việc. Nhưng trong lòng, ông thấy thanh thản. Có thể mất tất cả, nhưng đã chuẩn bị ch"
+ },
+ {
+  "ch": 249,
+  "title": "Đối tác công nghệ Silicon Valley",
+  "cw": 2980,
+  "fw": 2980,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 9.0,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Đối tác Silicon Valley — CTV đầu tư 2 triệu USD vào Thương Gia Technology",
+  "last": "IPO thành công, Hùng có tiền. Nhưng có tiền rồi, ông mới thấy — điều khó nhất không phải là kiếm tiền, mà là giữ được cái đầu lạnh khi có tiền. Các ngân hàng gọi mời vay, các quỹ đ"
+ },
+ {
+  "ch": 250,
+  "title": "Lan dẫn quỹ R&D",
+  "cw": 3339,
+  "fw": 3352,
+  "p0": [
+   "cliff_boiler"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.0,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "khóa nhịp",
+  "last": "Bà Hà nắm tay Lan. \"Ngày xưa mẹ chỉ mong con biết đọc biết viết, lấy chồng tử tế, ở gần để mẹ nhờ. Ai ngờ con làm được lớn thế này.\" / Lan cười: \"Con còn làm lớn hơn nữa, mẹ ạ.\" / "
+ },
+ {
+  "ch": 251,
+  "title": "Con trai Hùng vào công ty",
+  "cw": 3981,
+  "fw": 3981,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.2,
+  "core": 9.2,
+  "pass": false,
+  "panel_note": "Con trai Hùng vào công ty — 6 tháng tập sự không lộ thân phận",
+  "last": "\"Cảm ơn em, Lan.\" / Cô gật đầu, mắt ánh lên niềm vui. Trong vườn, tiếng chim hót ríu rít. Mùi đất mới sau mưa, mùi lá cây xanh, mùi của sự sống. / Hùng ngồi uống cà phê sáng, Lan b"
+ },
+ {
+  "ch": 252,
+  "title": "Thế hệ thứ hai học việc",
+  "cw": 3663,
+  "fw": 3663,
+  "p0": [
+   "rom_dump",
+   "lan_spouse",
+   "unaccent",
+   "post_teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 5.9,
+  "core": 7.1,
+  "pass": false,
+  "panel_note": "Chương trình Thế hệ thứ hai — 5/6 học viên tốt nghiệp, tất cả lên quản lý",
+  "last": "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ L"
+ },
+ {
+  "ch": 253,
+  "title": "Huân chương Lao động",
+  "cw": 2920,
+  "fw": 2920,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2009"
+  ],
+  "oy": [
+   "2009"
+  ],
+  "full": 9.0,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Huân chương Lao động hạng Ba — Hùng mang xuống Hải Phòng gặp công nhân",
+  "last": "Ba tuần sau, ông nhận được thư trả lời — cũng là thư tay. Đối tác Mỹ — tên David, một ông già sáu mươi tuổi ở Texas — viết: \"I appreciate your letter. It reminds me of how business"
+ },
+ {
+  "ch": 254,
+  "title": "Gặp lãnh đạo ngành",
+  "cw": 3904,
+  "fw": 3904,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "2/3 đề xuất của Hùng được đưa vào Nghị định Chính phủ",
+  "last": "Một khoảng lặng dài. Rồi Thứ trưởng — người đàn ông năm mươi lăm tuổi với mái tóc muối tiêu — cúi đầu nhìn xuống những tờ giấy trước mặt, ngón tay kéo chậm dọc các con số trong bản"
+ },
+ {
+  "ch": 255,
+  "title": "Cam kết phát triển bền vững",
+  "cw": 3175,
+  "fw": 3175,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Cam kết bền vững 7 điểm — nhà máy đầu tiên lắp năng lượng mặt trời tại VN",
+  "last": "Ngoài sân, gió đêm thổi nhẹ. Một con đom đóm bay qua, xanh lập lòa trong đêm. Hùng ngước nhìn. Đom đóm sáng rồi tắt, nhưng nó vẫn bay. Cũng như ông bây giờ — còn sáng, còn bay, còn"
+ },
+ {
+  "ch": 256,
+  "title": "Top thương gia Việt Nam",
+  "cw": 3691,
+  "fw": 4035,
+  "p0": [
+   "minh_rom",
+   "baha_wife",
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2008"
+  ],
+  "oy": [
+   "2008"
+  ],
+  "full": 6.9,
+  "core": 8.1,
+  "pass": false,
+  "panel_note": "khóa nhịp",
+  "last": "Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. \"Em dậy sớm thế?\" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại c"
+ },
+ {
+  "ch": 257,
+  "title": "Lễ vinh danh toàn quốc",
+  "cw": 2470,
+  "fw": 2930,
+  "p0": [
+   "unaccent",
+   "post_teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 6.9,
+  "core": 8.1,
+  "pass": false,
+  "panel_note": "Lễ vinh danh doanh nhân tiêu biểu — Nhà hát Lớn Hà Nội",
+  "last": "Mot nguoi nguoi My đen Viet Nam cong tac. O ten Jack. Jack lam viec cho mot cong ty xuat khau. Jack gap Hung, ban ve co hoi hop tac. Hung tiep Jack than thien. 'Thuc an Viet Nam ra"
+ },
+ {
+  "ch": 258,
+  "title": "Mở rộngchâu Phi sâu",
+  "cw": 3664,
+  "fw": 3664,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 9.2,
+  "core": 9.2,
+  "pass": false,
+  "panel_note": "Mở rộng thành công vào Nigeria, Ghana, Cameroon qua hợp tác với Chief Okonkwo. Chi nhánh Tây Phi tăng trưởng 300% sau 6 tháng. Bài học đầu tiên về châu Phi: quan hệ và sự chân thành quan trọng hơn giấy tờ và luật lệ.",
+  "last": "============================================================ / Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn s"
+ },
+ {
+  "ch": 259,
+  "title": "Nam Mỹ – Brazil và Chile",
+  "cw": 2926,
+  "fw": 2926,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 9.0,
+  "core": 9.0,
+  "pass": false,
+  "panel_note": "Mở rộng sang Nam Mỹ — liên doanh chế biến nông sản tại Campinas, Brazil qua Carlos Mendez và Agrosul. Khảo sát Chile, đề xuất xây nhà máy xuất khẩu qua cảng Valparaíso. Bộ trưởng Kinh tế Chile đồng ý xem xét.",
+  "last": "============================================================ / Hùng ngồi ở bậc thềm nhà, tách trà trên tay đã nguội từ lúc nào. Trước mắt ông, cánh đồng làng quê trải rộng dưới ánh"
+ },
+ {
+  "ch": 260,
+  "title": "Chuỗi giá trị toàn cầu",
+  "cw": 3336,
+  "fw": 3366,
+  "p0": [
+   "char_inject"
+  ],
+  "py": [
+   "2008"
+  ],
+  "oy": [],
+  "full": 8.9,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "khóa nhịp",
+  "last": "Trước khi rời văn phòng, thư ký của Klaus gửi một email gấp: ba mẫu giày từ lô hàng Hải Phòng đã qua kiểm tra nhưng keo mũi — loại mới từ nhà cung cấp Hàn Quốc — cho thấy dấu hiệu "
+ },
+ {
+  "ch": 261,
+  "title": "Kiểm toán ESG đầu tiên",
+  "cw": 2204,
+  "fw": 2695,
+  "p0": [
+   "unaccent"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 6.9,
+  "core": 8.1,
+  "pass": false,
+  "panel_note": "Vượt qua kiểm toán ESG lần đầu từ Quỹ Đầu tư Bền vững châu Âu. Đạt 11/12 tiêu chí, nhận cam kết đầu tư 50 triệu USD cho năng lượng tái tạo.",
+  "last": "Mot buoi, Hung va Ba Ha ngoi ben nhau, ngam hoa hoang ngo vuon. Ba Ha nghieng đau dua vao vai chong: 'Anh co yeu em ko?' Hung cuoi, om vo: 'Anh yeu em bang ca trai tim. Sau 40 nam,"
+ },
+ {
+  "ch": 262,
+  "title": "Bà Hà và sách hồi ký gia đình",
+  "cw": 2585,
+  "fw": 2875,
+  "p0": [
+   "unaccent"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 7.7,
+  "core": 8.9,
+  "pass": false,
+  "panel_note": "Cuốn hồi ký gia đình của bà Hà hoàn thành — 247 trang ghi lại 76 năm cuộc đời từ nạn đói 1945 tới ngày Thương Gia thành công. Một di sản tinh thần cho thế hệ sau.",
+  "last": "Hùng thuong thuc mot ly tra nong giua buoi chieu. O nghi ve nhung net mat than quen: cua vo, cua con, cua chau. Ho la đong luc đe ong lam viec. 'Co the, tat ca nhung gi toi lam, to"
+ },
+ {
+  "ch": 263,
+  "title": "Flashback 25 năm",
+  "cw": 2444,
+  "fw": 2444,
+  "p0": [],
+  "py": [
+   "2011"
+  ],
+  "oy": [
+   "1985",
+   "1985"
+  ],
+  "full": 7.7,
+  "core": 7.7,
+  "pass": false,
+  "panel_note": "",
+  "last": "Hùng không nói gì. Ông nhìn xa xăm. Nắng đã tắt hẳn, hoàng hôn chuyển sang màu tím sẫm. Thành phố lên đèn. / \"Ba mươi năm. Tưởng dài mà hóa ngắn.\" / Đêm đó, Hùng nằm mơ. Ông mơ thấ"
+ },
+ {
+  "ch": 264,
+  "title": "Tái khẳng định sứ mệnh",
+  "cw": 3353,
+  "fw": 3394,
+  "p0": [
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2008"
+  ],
+  "oy": [],
+  "full": 8.7,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "khóa nhịp",
+  "last": "Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. \"Tối nay ăn gì thế?\" Hùng hỏi. bà Hà cười: \"Canh chua cá lóc, anh thích mà.\" Hùng gật đầu, tay thoăn thoắ"
+ },
+ {
+  "ch": 265,
+  "title": "Đối thủ mới từ Hàn Quốc",
+  "cw": 2466,
+  "fw": 2782,
+  "p0": [
+   "unaccent"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [],
+  "full": 6.9,
+  "core": 8.1,
+  "pass": false,
+  "panel_note": "Samsung thâm nhập thị trường Đông Nam Á, Thương Gia đáp trả không đánh trực diện mà chuyển hướng sang nông nghiệp thông minh. Trung tâm R&D Hòa Lạc thành lập. Doanh thu mảng nông nghiệp thông minh tăng 40%, bù đắp hoàn toàn tổn thất từ cạnh tranh điện tử gia dụng.",
+  "last": "Mot chieu, Hung va Ba Ha ngoi ben nhau, tay trong tay. Hai nguoi chang noi gi, chi lang lang. Nhung cam giac am ap lan toa, hai tam hon hoa vao lam mot. Đo la tinh yeu that su. / C"
+ },
+ {
+  "ch": 266,
+  "title": "Cạnh tranh lành mạnh",
+  "cw": 2711,
+  "fw": 3105,
+  "p0": [
+   "minh_rom",
+   "baha_wife",
+   "unaccent",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [],
+  "full": 5.7,
+  "core": 6.9,
+  "pass": false,
+  "panel_note": "Đối mặt tin đồn thất thiệt, Hùng chọn im lặng và hành động thay vì kiện tụng. Nhận đối thủ cũ vào làm giám đốc chi nhánh — minh chứng cho triết lý cạnh tranh lành mạnh và cơ hội thứ hai.",
+  "last": "Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. \"Tối nay ăn gì thế?\" Hùng hỏi. bà Hà cười: \"Canh chua cá lóc, anh thích mà.\" Hùng gật đầu, tay thoăn thoắ"
+ },
+ {
+  "ch": 267,
+  "title": "Liên minh chiến lược Đông Á",
+  "cw": 2282,
+  "fw": 2950,
+  "p0": [
+   "unaccent",
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [],
+  "full": 6.4,
+  "core": 7.6,
+  "pass": false,
+  "panel_note": "Tham gia sáng lập Liên minh Doanh nghiệp Đông Á với 12 thành viên. Được bầu làm Phó Chủ tịch đại diện Đông Nam Á.",
+  "last": "Mục phụ 267-2: chứng từ đủ. Mùi mực. Gật. / Mục phụ 267-3: chứng từ đủ. Mùi mực. Gật. / Mục phụ 267-4: chứng từ đủ. Mùi mực. Gật. / Hùng siết hàm ch.267t0. Lan liếc sổ. Ông gật, th"
+ },
+ {
+  "ch": 268,
+  "title": "Tổng kết toàn cầu hóa",
+  "cw": 3659,
+  "fw": 3659,
+  "p0": [
+   "lan_spouse",
+   "placeholder"
+  ],
+  "py": [
+   "2009"
+  ],
+  "oy": [
+   "2009"
+  ],
+  "full": 7.7,
+  "core": 8.9,
+  "pass": false,
+  "panel_note": "Kết thúc hội nghị toàn cầu. Kích hoạt Phần 5",
+  "last": "============================================================ / Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn s"
+ },
+ {
+  "ch": 269,
+  "title": "Phần thưởng Phần 4",
+  "cw": 3971,
+  "fw": 3984,
+  "p0": [
+   "cliff_boiler"
+  ],
+  "py": [
+   "2009"
+  ],
+  "oy": [],
+  "full": 9.0,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Kết thúc Phần 4. Mở khóa mục tiêu Phần 5",
+  "last": "Cả hai im lặng, ngắm sao trời, lắng nghe tiếng gió đêm. Trong lòng họ, một tình yêu lặng lẽ lớn dần, bền chặt như đá, dịu dàng như nước. / a Minh đi dạo trong vườn, nhìn những bông"
+ },
+ {
+  "ch": 270,
+  "title": "Hoàn thành Phần 4 – Siêu tập đoàn",
+  "cw": 3844,
+  "fw": 3847,
+  "p0": [
+   "lan_spouse",
+   "teaser"
+  ],
+  "py": [
+   "2008"
+  ],
+  "oy": [
+   "2008",
+   "1996"
+  ],
+  "full": 8.2,
+  "core": 9.4,
+  "pass": false,
+  "panel_note": "system_ledger",
+  "last": "Bốn mươi quốc gia, ba mươi nhà máy, một tập đoàn. / Hùng viết lên bìa sổ: \"Phần 4 — từ Đông Nam Á ra thế giới. 1987-1990.\" / ======================================================="
+ },
+ {
+  "ch": 271,
+  "title": "Bắt đầu Phần 5 – Ảnh hưởng xã hội",
+  "cw": 1890,
+  "fw": 1890,
+  "p0": [],
+  "py": [
+   "2006"
+  ],
+  "oy": [
+   "2006"
+  ],
+  "full": 7.7,
+  "core": 7.7,
+  "pass": false,
+  "panel_note": "Bắt đầu Phần 5 — Ảnh hưởng xã hội",
+  "last": "Sau buổi họp, Hùng ngồi lại trong phòng. Ông mở cuốn sổ đen, viết: \"15/3/2006 — Quyết định quan trọng nhất trong năm: giao mảng ảnh hưởng xã hội cho Lan. Lý do: một — nó hiểu người"
+ },
+ {
+  "ch": 272,
+  "title": "Đế chế truyền thông Thương Gia",
+  "cw": 3591,
+  "fw": 3932,
+  "p0": [
+   "rom_dump",
+   "lan_spouse"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 6.7,
+  "core": 7.9,
+  "pass": false,
+  "panel_note": "",
+  "last": "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ"
+ },
+ {
+  "ch": 273,
+  "title": "Báo và tạp chí kinh tế",
+  "cw": 3209,
+  "fw": 3209,
+  "p0": [],
+  "py": [
+   "2006"
+  ],
+  "oy": [
+   "2006"
+  ],
+  "full": 9.2,
+  "core": 9.2,
+  "pass": false,
+  "panel_note": "Mua lại Thời Báo Kinh Tế. Chuyên mục mới ra mắt.",
+  "last": "Ông gọi Lan vào bàn làm việc, yêu cầu cô mở file báo cáo phản hồi từ độc giả. Lan đưa máy tính xách tay, màn hình sáng lên ánh sáng xanh nhạt từ bàn phím. \"Em có một vài dòng lạ, a"
+ },
+ {
+  "ch": 274,
+  "title": "Kênh truyền hình thực tế",
+  "cw": 2530,
+  "fw": 2530,
+  "p0": [],
+  "py": [
+   "2007"
+  ],
+  "oy": [
+   "2007"
+  ],
+  "full": 8.5,
+  "core": 8.5,
+  "pass": false,
+  "panel_note": "Chương trình truyền hình thực tế TG Channel ra mắt - rating 4,5%",
+  "last": "Về Hà Đông đã gần nửa đêm. Bà Hà để phần cơm nguội, canh cua còn ấm trong nồi. Bà hỏi chương trình có được không. Hùng ngồi xuống bàn, kể về Xanh, về bà nội em, về ba phút bị tranh"
+ },
+ {
+  "ch": 275,
+  "title": "Nền tảng mạng xã hội nội địa",
+  "cw": 2938,
+  "fw": 2938,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.0,
+  "core": 9.0,
+  "pass": false,
+  "panel_note": "Đầu tư nền tảng mạng xã hội nội địa tại Singapore",
+  "last": "Trong suốt chuyến bay về Hà Nội, Hùng suy nghĩ. Ông nhìn qua cửa sổ máy bay, thấy những đám mây trắng xóa bên dưới. Ông nhớ lại những ngày đầu khởi nghiệp, khi ông phải quyết định "
+ },
+ {
+  "ch": 276,
+  "title": "Thương Gia FC ra đời",
+  "cw": 2693,
+  "fw": 2693,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 8.5,
+  "core": 8.5,
+  "pass": false,
+  "panel_note": "Thương Gia FC thành lập - mua lại CLB Hải Phòng - trận đầu thắng 2-1",
+  "last": "Sau trận đấu, ông xuống phòng thay đồ. Các cầu thủ đang ăn mừng, hát vang bài hát của đội. Hùng nói trước toàn đội: \"Các em đã chơi tốt. Nhưng đây mới chỉ là bắt đầu. Thương Gia FC"
+ },
+ {
+  "ch": 277,
+  "title": "Sân vận động cộng đồng",
+  "cw": 1451,
+  "fw": 3157,
+  "p0": [
+   "unaccent",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 6.7,
+  "core": 7.9,
+  "pass": false,
+  "panel_note": "khóa nhịp",
+  "last": "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. \"Anh làm việc nhiều quá.\" Hùng gác bút: \"Cũng sắp xong rồi.\" Minh xoa bó"
+ },
+ {
+  "ch": 278,
+  "title": "Tài trợ Olympic khu vực",
+  "cw": 3044,
+  "fw": 3124,
+  "p0": [
+   "minh_rom",
+   "baha_wife"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 7.4,
+  "core": 8.6,
+  "pass": false,
+  "panel_note": "Ký kết tài trợ Olympic khu vực — gói 50 tỷ SEA Games + 30 tỷ/năm quỹ đào tạo vận động viên trẻ. Lần đầu doanh nghiệp tư nhân tham gia ban cố vấn chiến lược Ủy ban Olympic.",
+  "last": "Đêm đó, Hùng ngồi lại một mình trong phòng làm việc, tay chống cằm, mắt nhìn ra ô cửa kính mờ hơi nước. Ông không tin vào may mắn — ông tin vào sự chuẩn bị. Một huy chương không si"
+ },
+ {
+  "ch": 279,
+  "title": "Học bổng 10.000 sinh viên",
+  "cw": 2934,
+  "fw": 2934,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.55,
+  "core": 9.65,
+  "pass": true,
+  "panel_note": "Thành lập quỹ học bổng Thương Gia — 10.000 suất, 600 tỷ. GS Nguyễn Đức Hiền chủ tịch hội đồng xét duyệt độc lập. Lần đầu doanh nghiệp tư nhân tài trợ học bổng quy mô quốc gia.",
+  "last": "Trước khi ra cổng, ông ghé phòng hành chính, để lại một phong bì cho thầy Hiền — bên trong không phải tiền, mà là một mẩu giấy: \"Thầy ơi, đứa Hà Giang tên Tú, mỗi tháng thêm cho nó"
+ },
+ {
+  "ch": 280,
+  "title": "Xây 100 trường vùng sâu",
+  "cw": 3394,
+  "fw": 3726,
+  "p0": [
+   "rom_dump",
+   "lan_spouse"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 6.7,
+  "core": 7.9,
+  "pass": false,
+  "panel_note": "",
+  "last": "Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai "
+ },
+ {
+  "ch": 281,
+  "title": "Quỹ 10.000 tỷ từ thiện",
+  "cw": 3052,
+  "fw": 3055,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2008"
+  ],
+  "oy": [],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "system_ledger",
+  "last": "Về đến nhà, bà Hà đã bày cơm. Canh chua, cá kho tộ, rau luộc. Ba người ăn: Hùng, Lan, bà Hà. Không ai nói gì nhiều. Nhưng giữa sự im lặng ấy, có một thứ mà bất kỳ tòa nhà nào cũng "
+ },
+ {
+  "ch": 282,
+  "title": "Minh bạch quỹ công khai",
+  "cw": 2838,
+  "fw": 2838,
+  "p0": [
+   "rom_dump"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 7.5,
+  "core": 8.7,
+  "pass": false,
+  "panel_note": "Công khai tài chính Quỹ Thiện Tâm — kiểm toán quốc tế hàng quý. Mọi khoản chi đăng tải trong 48 giờ. Chuẩn mực minh bạch mới cho từ thiện Việt Nam.",
+  "last": "...“Mai mình lại làm tiếp nhé.” / Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt."
+ },
+ {
+  "ch": 283,
+  "title": "Y tế lưu động miền núi",
+  "cw": 3506,
+  "fw": 3506,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [],
+  "full": 9.55,
+  "core": 9.9,
+  "pass": true,
+  "panel_note": "Khởi động dự án y tế lưu động miền núi — 10 xe cho 3 tỉnh Tây Bắc. Hợp tác với bệnh viện Mù Cang Chải.",
+  "last": "\"Anh biết không,\" bác sĩ Phương nói, mắt vẫn dõi theo đoàn người, \"đêm qua tôi không ngủ được. Tôi cứ nghĩ, nếu cái xe của anh có thật, thì cô gái sáng nay không phải đánh cược mạn"
+ },
+ {
+  "ch": 284,
+  "title": "Nước sạch cho 500 xã",
+  "cw": 3003,
+  "fw": 3003,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 9.55,
+  "core": 9.9,
+  "pass": true,
+  "panel_note": "Dự án Nước sạch cho 500 xã khởi động — công trình đầu tiên hoàn thành tại bản Sà Phìn A, Si Ma Cai, Lào Cai. Kế hoạch 2.500 tỷ trong 5 năm, 100 xã mỗi năm. Điều kiện bắt buộc: mỗi xã lập ban quản lý nước do dân bầu, thu phí nhỏ để tự vận hành và bảo trì.",
+  "last": "Hùng nghẹn. Ông cúi xuống ăn nốt cái bánh để bà không thấy mắt ông. \"Bà giữ cái ban quản lý cho tốt. Đấy là cách cảm ơn tôi. Giữ cho cái vòi nó chảy hai mươi năm. Để con Mỷ lớn lên"
+ },
+ {
+  "ch": 285,
+  "title": "Lan đứng đầu mảng xã hội",
+  "cw": 3010,
+  "fw": 3010,
+  "p0": [],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 9.2,
+  "core": 9.2,
+  "pass": false,
+  "panel_note": "Lan chính thức đứng đầu mảng xã hội Thương Gia. Ngân sách 7% lợi nhuận, hướng tới 10%. Ngay ngày đầu, Lan phát hiện và xử lý gian lận quỹ tại một dự án ở Hòa Bình.",
+  "last": "Hùng im lặng một nhịp. \"Em ổn không?\" / \"Em ổn. Em vừa ăn khoai với bọn trẻ.\" Cô cười, và ông nghe được cái mệt trong tiếng cười ấy. \"Anh chọn đúng người rồi. Em về đây.\" / Ông đặt"
+ },
+ {
+  "ch": 286,
+  "title": "Con trai phụ trách sản xuất",
+  "cw": 2820,
+  "fw": 2948,
+  "p0": [
+   "unaccent",
+   "teaser"
+  ],
+  "py": [
+   "2011"
+  ],
+  "oy": [],
+  "full": 8.2,
+  "core": 9.4,
+  "pass": false,
+  "panel_note": "Minh — con trai cả của Hùng, thế hệ thứ hai — chính thức phụ trách mảng sản xuất toàn tập đoàn. 47 nhà máy. Chuyến khảo sát một mình, phát hiện 37 vấn đề, phân thành ba nhóm ưu tiên.",
+  "last": "Hung tham gia mot hiep hoi doanh nghiep. Hang thang, ho hop nhau, chia se kinh nghiem, giup do nhau. Mot lan, mot doanh nghiep trong hiep hoi gap kho khan, sap pha san. Hung dung r"
+ },
+ {
+  "ch": 287,
+  "title": "Hùng lui về chiến lược",
+  "cw": 3484,
+  "fw": 3484,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Lui về chiến lược — giao sản xuất cho con trai. Bắt đầu chuyển giao thế hệ.",
+  "last": "Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Ngoài kia, thành phố vẫn sáng đèn, nhưng trong căn phòng nhỏ này, mọi thứ đã lặng. Một cơ"
+ },
+ {
+  "ch": 288,
+  "title": "Khủng hoảng truyền thông giả",
+  "cw": 3227,
+  "fw": 3311,
+  "p0": [
+   "minh_rom",
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [],
+  "full": 7.9,
+  "core": 9.1,
+  "pass": false,
+  "panel_note": "khóa nhịp",
+  "last": "Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. \"Tối nay ăn gì thế?\" Hùng hỏi. bà Hà cười: \"Canh chua cá lóc, anh thích mà.\" Hùng gật đầu, tay thoăn thoắ"
+ },
+ {
+  "ch": 289,
+  "title": "Phản ứng minh bạch",
+  "cw": 3378,
+  "fw": 3667,
+  "p0": [
+   "minh_rom",
+   "baha_wife",
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2009"
+  ],
+  "oy": [],
+  "full": 6.9,
+  "core": 8.1,
+  "pass": false,
+  "panel_note": "Khủng hoảng truyền thông — xử lý bằng minh bạch triệt để. Đối tác Nhật ghi nhận.",
+  "last": "[ch.289 CHARFIX] Hùng nhíu mày, siết tay. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ. Tay chai buông. / Hùng siết hàm ch.289t0. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. T"
+ },
+ {
+  "ch": 290,
+  "title": "Từ thiện Đông Timor",
+  "cw": 3392,
+  "fw": 3392,
+  "p0": [
+   "rom_dump"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 7.7,
+  "core": 8.9,
+  "pass": false,
+  "panel_note": "niềm tin hồi phục — cơ chế bảo vệ đối tác hình thành",
+  "last": "============================================================ / Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhì"
+ },
+ {
+  "ch": 291,
+  "title": "Hội nghị thượng đỉnh doanh nghiệp",
+  "cw": 3088,
+  "fw": 3088,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2012"
+  ],
+  "oy": [
+   "2012"
+  ],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Hội nghị thượng đỉnh doanh nghiệp — ba MOU chiến lược, mở đường chính sách xanh.",
+  "last": "Trong chuyến bay về Hà Nội, Hùng ngồi cạnh một người đàn ông trạc ba mươi lăm, đang đọc bản in về logistics. Họ bắt chuyện. Người đàn ông tên Minh, CEO một startup vừa gọi vốn thàn"
+ },
+ {
+  "ch": 292,
+  "title": "Đề xuất chính sách xanh",
+  "cw": 3671,
+  "fw": 3712,
+  "p0": [
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "2008"
+  ],
+  "oy": [],
+  "full": 8.7,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Đề xuất chính sách xanh trình Thủ tướng — ba kiến nghị quan trọng được ghi nhận.",
+  "last": "Sáng hôm sau, Hùng dậy sớm hơn thường lệ. Đồng hồ chỉ năm giờ mười lăm, ngoài trời còn tờ mờ, nhưng ông đã ngồi ở bàn với một tách trà nóng. Lan còn ngủ, bà Hà đã dậy từ trước, loa"
+ },
+ {
+  "ch": 293,
+  "title": "Thương hiệu quốc gia",
+  "cw": 3827,
+  "fw": 3911,
+  "p0": [
+   "minh_rom",
+   "char_inject",
+   "cliff_boiler"
+  ],
+  "py": [
+   "1996"
+  ],
+  "oy": [],
+  "full": 7.9,
+  "core": 9.1,
+  "pass": false,
+  "panel_note": "Thương Gia Group lọt vòng chung khảo Thương hiệu Quốc gia.",
+  "last": "Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. \"Tối nay ăn gì thế?\" Hùng hỏi. bà Hà cười: \"Canh chua cá lóc, anh thích mà.\" Hùng gật đầu, tay thoăn thoắ"
+ },
+ {
+  "ch": 294,
+  "title": "Bảo tàng Thương Gia",
+  "cw": 3042,
+  "fw": 3042,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Bảo tàng Thương Gia khánh thành — hành trình 30 năm.",
+  "last": "--- / Đêm đó, trước khi ngủ, Hùng lật cuốn sổ cái. Ông viết một dòng duy nhất: / \"Ba mươi năm — mình không xây một công ty. Mình xây một gia đình lớn.\" / Đêm khuya, bảo tàng đã đón"
+ },
+ {
+  "ch": 295,
+  "title": "Ngày hội công nhân",
+  "cw": 2997,
+  "fw": 2997,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2012"
+  ],
+  "oy": [],
+  "full": 9.0,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Ngày hội công nhân đầu tiên — ký thỏa ước lao động tập thể, đối thoại trực tiếp.",
+  "last": "Phiên chợ sáng, sương còn ướt mái tôn. Hùng đi dọc dãy sạp, nhìn từng món hàng: rá tre, nia, thúng, rổ, rế đan bằng mây. Một người đàn ông ngồi bên sạp vải, cầm kéo cắt từng tấm, t"
+ },
+ {
+  "ch": 296,
+  "title": "Mở quỹ học bổng",
+  "cw": 3431,
+  "fw": 3431,
+  "p0": [],
+  "py": [
+   "2012"
+  ],
+  "oy": [
+   "2012"
+  ],
+  "full": 9.2,
+  "core": 9.2,
+  "pass": false,
+  "panel_note": "Quỹ Khuyến Học Thương Gia ra mắt — 35 suất đầu tiên tại Mường Nhé, Điện Biên. Lan chính thức đứng tên quỹ. Ngân sách năm 2012: 30 tỷ. Mục tiêu: 500 suất toàn quốc.",
+  "last": "— Nhưng với mỗi đứa trẻ, nó là cả tương lai. / Hùng gật. Ông nghĩ đến câu nói của bà Hà: *Ngày mở cửa hàng, con bảo không biết nhưng làm rồi biết.*: *Ngày mở cửa hàng, con bảo khôn"
+ },
+ {
+  "ch": 297,
+  "title": "Công đoàn đối thoại",
+  "cw": 3148,
+  "fw": 3148,
+  "p0": [
+   "teaser"
+  ],
+  "py": [
+   "2012"
+  ],
+  "oy": [],
+  "full": 9.2,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Công đoàn đối thoại — quy chế kỷ luật toàn tập đoàn ban hành.",
+  "last": "Hùng không mắng. Ông đưa tờ giấy cho Lan, bảo ghi vào sổ. 'Có sai mới có sửa. Nhưng đừng sai quá một lần.' Lan gật, mắt đỏ. Cô lấy bút, ghi vào sổ bán hàng: ngày, số mét, tên khách"
+ },
+ {
+  "ch": 298,
+  "title": "Đào tạo lãnh đạo trẻ",
+  "cw": 3531,
+  "fw": 3531,
+  "p0": [],
+  "py": [
+   "2012"
+  ],
+  "oy": [
+   "2012"
+  ],
+  "full": 9.2,
+  "core": 9.2,
+  "pass": false,
+  "panel_note": "Khóa Lãnh đạo trẻ Thương Gia đầu tiên — mô hình đào tạo mở cho công nhân — Toàn từ bảo vệ thành phó quản đốc — 35HV, 12TV thăng chức sau 3 tháng",
+  "last": "Hùng gập báo cáo, gọi Lan. \"Mỗi năm ba khóa, mỗi khóa ba mươi lăm người. Ưu tiên người có hoàn cảnh khó khăn nhưng chịu học.\" / \"Tại sao lại ưu tiên người khó khăn?\" Lan hỏi. / \"Vì"
+ },
+ {
+  "ch": 299,
+  "title": "Hùng 50 tuổi – nhìn lại",
+  "cw": 2650,
+  "fw": 3311,
+  "p0": [
+   "rom_dump",
+   "lan_spouse",
+   "unaccent",
+   "post_tail:443"
+  ],
+  "py": [
+   "2010"
+  ],
+  "oy": [
+   "2010"
+  ],
+  "full": 5.5,
+  "core": 6.7,
+  "pass": false,
+  "panel_note": "",
+  "last": "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi n"
+ },
+ {
+  "ch": 300,
+  "title": "Mở rộngtừ thiện châu Á",
+  "cw": 3954,
+  "fw": 3954,
+  "p0": [
+   "sensory_spam"
+  ],
+  "py": [
+   "2012"
+  ],
+  "oy": [
+   "2012",
+   "2009"
+  ],
+  "full": 8.9,
+  "core": 9.9,
+  "pass": false,
+  "panel_note": "Mở rộng từ thiện châu Á — Philippines pilot + đối tác Tulay ng Pag-asa. Hai trung tâm mới 2013: Yangon và Phnom Penh. Hiệu ứng lan tỏa được xác nhận.",
+  "last": "Hùng nhìn qua cửa kính. Ba năm rồi. Bằng vẫn bán chè, vẫn sống trong căn nhà cũ, vẫn đạp xe ngang qua Thương Gia mỗi sáng. Nhưng tuần trước, Lan kể: \"Bằng mới giúp thằng Hiếu con b"
+ }
+]
