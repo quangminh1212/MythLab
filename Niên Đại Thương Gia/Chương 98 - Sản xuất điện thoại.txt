@@ -46,7 +46,7 @@ Bàn bốn: lắp dây tai nghe. Dây xoắn hai lõi đồng 0,3 mm, bọc nh�
 
 Bàn năm: lắp chuông điện thoại. Chuông là hai thanh thép non, một cuộn cảm lõi sắt, và một cần gõ bằng đồng thau. Khi tín hiệu xoay chiều 75-90V đến từ tổng đài — đúng, điện thoại thời đó dùng điện áp chuông cao — cuộn cảm tạo từ trường, hút cần gõ, đập vào thanh thép. "Boong... boong..." — Hùng thử. Tiếng nghe ấm, vang vừa phải.
 
-"Có thể điều chỉnh âm bằng cách vặn ốc trên cần gõ," Bình nói. "Nhưng đừng để lỏng quá, chuông kêu không rõ. Cũng đừng siết chặt quá, thanh thép không rung được."
+"Có thể điều chỉnh âm bằng cách vặn ốc trên cần gõ," Bình nói. "Nhưng đừng để lỏng quá, chuông kêu không rõ. Cũng đừng  quá, thanh thép không rung được."
 
 Hùng lắp thử vỏ trên vào, bắt bốn ốc M3. Xong. Cái máy đầu tiên trong ngày — linh kiện trong nước, tay thợ mới, mọi thứ còn ráp mùi nhựa mới. Ông đặt lên kệ. Số 1.
 
@@ -99,7 +99,7 @@ Mấy người thợ ngồi cạnh nghe thấy, nhìn nhau. Một người nói:
 
 "Tôi sẽ trừ dần vào lương," Hùng nói. "Mỗi tháng trừ một phần."
 
-Chiều dậy, Hùng bảo Lan và Bình chuẩn bị kiểm tra cuộc gọi thử. Họ ráp một máy hoàn chỉnh nhất trong ngày — chọn từ mười bộ đã qua bàn năm, kiểm tra kỹ mối hàn, khe vỏ, độ êm mâm quay, tiếng chuông. Nối dây, bắt ốc, siết chặt, kiểm tra từng đường đồng bằng đồng hồ vạn năng: thông mạch.
+Chiều dậy, Hùng bảo Lan và Bình chuẩn bị kiểm tra cuộc gọi thử. Họ ráp một máy hoàn chỉnh nhất trong ngày — chọn từ mười bộ đã qua bàn năm, kiểm tra kỹ mối hàn, khe vỏ, độ êm mâm quay, tiếng chuông. Nối dây, bắt ốc, kiểm tra từng đường đồng bằng đồng hồ vạn năng: thông mạch.
 
 Bộ số 7 — linh kiện đầy đủ, lắp ráp sạch, không lỗi gia công.
 

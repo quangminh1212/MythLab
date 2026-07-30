@@ -1,0 +1,146 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 3,
+  "pass": 3,
+  "below": 0,
+  "avg": 9.907,
+  "min_final": 9.78,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 9.94,
+      "weighted_raw": 9.94,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 9.59,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4365,
+        "chars": 20119,
+        "dialogue": 42,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.78,
+        "char_density": 3.53,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 1984,
+        "prose_year": 1984,
+        "top_rep": [
+          [
+            "Sáng hôm sau khi ba kiện da từ Thành phố Hồ Chí Minh được mở trước mặt mọi người, Hùng đặt ba chiếc túi mẫu lên bàn cắt.  Cả ba đều do nhóm bà Sáu Lành làm từ cùng loại da và cùng bộ phụ kiện, nhưng mỗi chiếc giữ một ý khác nhau. Chiếc thứ nhất vuông, nắp gập, rộng đủ đựng sổ và một bộ quần áo. Chiếc thứ hai nhỏ, miệng khóa kéo, dáng gọn nhưng quai hẹp. Chiếc thứ ba có thân bằng vải bạt dày, mặt nắp và chân quai bằng da, đáy bọc một dải da chống mòn. Bộ rập của bà Sáu đã sửa dấu giữa, đường cong miệng và phần lót; hai mẫu lỗi bà gửi kèm vẫn được treo cạnh bàn, nhíu mày.",
+            1
+          ],
+          [
+            "Lan đặt sổ chuyến đi bên cạnh. Ba mươi tấm da loại hai nằm thành ba bó, mỗi bó mười tấm, dây màu và giấy giáp lai còn đủ. Cô đã cân lại, ghi tấm nào loang, tấm nào có vùng bụng mềm, tấm nào lấy được quai dài. Hùng không gọi đó là kho da. Ba mươi tấm là giới hạn của bài thử.  Nếu họ làm toàn thân túi bằng da, số hàng đạt sẽ quá ít, giá cao, những vùng loang khó dùng hết. Mẫu phối vải bạt mới có thể biến một tấm thành nhiều sản phẩm mà vẫn dành da thật cho mặt nắp, đáy và chỗ chịu lực, nhíu mày.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sáng hôm sau khi ba kiện da từ Thành phố Hồ Chí",
+      "file": "Chương 23 - Sản xuất túi xách.txt",
+      "path": "Chương 23 - Sản xuất túi xách.txt",
+      "num": 23
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4069,
+        "chars": 18942,
+        "dialogue": 44,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.35,
+        "char_density": 4.54,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 1984,
+        "prose_year": 1984,
+        "top_rep": [
+          [
+            "Tháng sáu năm 1984, đơn đặt túi xách từ Hà Nội nằm kín hai trang sổ của Lan. Những con số đáng mừng ấy lại khiến Hùng mất ngủ. Xưởng nhỏ vốn chỉ đủ chỗ cho sáu máy may, hai bàn cắt và một góc chứa da giả. Nay cuộn vật liệu dựng sát bếp, khóa đồng nằm trong hòm gạo cũ, còn quai túi phơi trên dây chạy qua sân. Nếu nhận hết đơn mà vẫn làm như trước, một trận mưa hoặc một đốm lửa cũng đủ xóa sạch thành quả của cả nhà, nhíu mày.",
+            1
+          ],
+          [
+            "Hùng không gọi đó là thành công. Ông đặt lên bàn ba chiếc túi bị khách trả lại: một chiếc lệch miệng, một chiếc bung chỉ ở quai, chiếc cuối có khóa kéo mắc giữa chừng, nhíu mày.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng sáu năm 1984, đơn đặt túi xách từ Hà Nội nằm",
+      "file": "Chương 24 - Mở rộng làm túi.txt",
+      "path": "Chương 24 - Mở rộng làm túi.txt",
+      "num": 24
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3347,
+        "chars": 15647,
+        "dialogue": 48,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.39,
+        "char_density": 4.54,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 1984,
+        "prose_year": 1984,
+        "top_rep": [
+          [
+            "Đầu tháng bảy năm 1984, chiếc xe đạp của Hùng dừng trước một căn nhà hai gian gần chợ Hà Đông. Cánh cửa gỗ xệ xuống, vôi tường bong thành từng mảng, mái hiên thấp đến mức anh Khanh phải cúi đầu. Vị trí lại tốt: cách cổng chợ chưa đầy hai trăm bước, phía trước đủ chỗ dựng sáu chiếc xe đạp, phía sau có gian khô để giữ hàng. Người đi từ các xã vào chợ đều ngang qua con đường này.",
+            1
+          ],
+          [
+            "Tấm biển “Cho thuê” chỉ là mảnh bìa viết mực tím. Hùng nhìn dòng người hơn nhìn căn nhà. Buổi sớm có người mang rau, gà, chiếu cói vào chợ. Gần trưa là công nhân, cán bộ mua đồ dùng. Cuối chiều, những chuyến xe đạp chở hàng trở về làng. Nếu mở cửa hàng thứ hai, nơi này không thể chỉ là bản sao của quầy cũ. Nó phải phục vụ đúng nhịp của Hà Đông, nhíu mày.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đầu tháng bảy năm 1984, chiếc xe đạp của Hùng dừng trước",
+      "file": "Chương 25 - Mở cửa hàng thứ hai.txt",
+      "path": "Chương 25 - Mở cửa hàng thứ hai.txt",
+      "num": 25
+    }
+  ]
+}
