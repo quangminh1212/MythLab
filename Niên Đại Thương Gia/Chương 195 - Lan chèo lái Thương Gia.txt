@@ -29,7 +29,7 @@ Một người đàn ông đứng đợi ở cửa, tay cầm sổ. "Chị Lan p
 
 Lan lấy bút. "Gửi công văn: bảy ngày không nhận, hủy hợp đồng, bán cho đầu mối khác. Viết tên em người ký."
 
-Đạt nhíu mày. "Anh Hùng chưa bao giờ làm thế. Ở tỉnh, mất mối là mất đường."
+Đạt. "Anh Hùng chưa bao giờ làm thế. Ở tỉnh, mất mối là mất đường."
 
 "Anh Hùng ở đây mười hai năm và chưa bao giờ ôm hàng chờ người mua thất hẹn hai tháng," Lan đáp. "Làm."
 
@@ -283,7 +283,7 @@ Bà Phương đưa một đôi giày vải Thương Gia — loại bán chạy n
 
 "Xuống còn bốn."
 
-Bà Phương nhíu mày. "Công nhân may thủ công, có người mới học."
+Bà Phương. "Công nhân may thủ công, có người mới học."
 
 "Em biết. Bốn phần trăm, trong hai tháng. Nếu không, em thay quản đốc sản xuất."
 
