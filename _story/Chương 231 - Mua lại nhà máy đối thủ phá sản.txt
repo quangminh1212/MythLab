@@ -2,7 +2,7 @@
 Chương 231: Mua lại nhà máy đối thủ phá sản
 ============================================================
 
-Năm 2009 đến mang theo những tín hiệu trái chiều. Kinh tế thế giới vẫn chưa chạm đáy, nhưng những dấu hiệu phục hồi đầu tiên bắt đầu xuất hiện — như những chồi non sau một mùa đông dài. Tại Việt Nam, gói kích cầu của chính phủ bắt đầu có tác dụng. Lãi suất liên ngân hàng hạ nhiệt từ 18% xuống 14%. Thị trường chứng khoán ngừng rơi.
+Cuối năm 2008 mang theo những tín hiệu trái chiều. Kinh tế thế giới vẫn chưa chạm đáy, nhưng những dấu hiệu phục hồi đầu tiên bắt đầu xuất hiện — như những chồi non sau một mùa đông dài. Tại Việt Nam, gói kích cầu của chính phủ bắt đầu có tác dụng. Lãi suất liên ngân hàng hạ nhiệt từ 18% xuống 14%. Thị trường chứng khoán ngừng rơi.
 
 Hùng quyết định: đây là lúc tái khởi động.
 
@@ -224,8 +224,6 @@ Chiều tối, Hùng về Hà Nội. Trên xe, ông gọi cho Tanaka.
 
 Tanaka cúp máy. Hùng ngồi trong xe, nhìn hoàng hôn buông xuống cánh đồng hai bên đường. Một năm trước, ông ốm nặng, nằm viện, tưởng không qua khỏi. Một năm sau, Thương Gia vừa vượt qua cơn khủng hoảng tồi tệ nhất trong lịch sử, và ông vẫn còn đây, vẫn lái xe trên con đường này, vẫn nghĩ về ngày mai.
 
-============================================================
-
 Hùng dừng lại giữa công việc, nhìn ra ngoài cửa sổ. Những tàu lá chuối sau vườn xào xạc trong gió. Ông nhớ lại một câu nói của bà Hà: "Làm gì thì làm, nhớ đường về." Câu nói đơn giản, nhưng là la bàn của ông suốt ba mươi năm. Ông cúi xuống, viết tiếp vào sổ.
 
 Phòng họp nhỏ ở tầng hai. Hùng ngồi một mình, trước mặt là bảng trắng với những đường kẻ và con số. Ông đang vẽ lại chiến lược cho năm tới. Khủng hoảng 2008 đã qua, nhưng bài học vẫn còn. Ông không muốn lặp lại sai lầm.
@@ -233,7 +231,6 @@ Phòng họp nhỏ ở tầng hai. Hùng ngồi một mình, trước mặt là 
 "Tăng trưởng nhanh là tốt," ông viết lên bảng. "Nhưng tăng trưởng bền vững còn tốt hơn. Đừng chạy theo con số. Chạy theo hệ thống."
 
 Ông gạch dưới chữ "hệ thống" ba lần. Rồi ngồi xuống, nhìn những dòng chữ trên bảng, và gật đầu với chính mình.
-
 
 ---
 Cuối tuần, Hải mang đến cho Hùng một tập tài liệu mỏng. Mặt cậu tái nhợt. "Bố xem cái này."
@@ -248,9 +245,12 @@ Hải chờ. Ông không nói gì lúc đó. Một cựu nhân viên làm đối
 
 Tối đó, một mình trong phòng, Hùng viết vào sổ: "Đôi khi nguy hiểm nhất không phải là kẻ thù ngoài kia — mà là người cũ từng ngồi cùng bàn."
 
-«Hệ thống — GHI NHẬN ch.231»
-Năm: 2009
-Tổng EXP: 49,500
-Kỹ năng: Quản trị tài chính lv2, Lean management lv1
-Ghi chú: Tái khởi động sản xuất. Tuyển 30 công nhân mới. Đặt máy SMT 3,2 tỷ. Giữ lời hứa không sa thải. Tanaka cảnh báo dư chấn khủng hoảng.
+Chữ ký mua xưởng ướt mực. Máy còn phủ bụi. Tuần tới ông Tư phải thổi bay bụi ấy bằng ca làm thật.
+
+「Hệ thống — GHI NHẬN ch.231」
+Năm: 2008
+Tổng EXP: 47,737 (+474)
+Không gian kho: 17,632m² (+264m²)
+Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
+Ghi chú: Mua nhà máy phá sản — chốt giá đáy; giữ máy Fortuna.
 ============================================================

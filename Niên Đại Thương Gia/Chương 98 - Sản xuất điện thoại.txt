@@ -175,7 +175,6 @@ Dòng cuối: "Ngày 15/7/1987 — ra được một cuộc gọi thật từ đ
 
 ============================================================
 
-
 Hùng ngồi lặng người trong xưởng, sau tiếng chuông đầu tiên của chiếc điện thoại tự làm. Lan đứng bên cạnh, tay vẫn cầm điện thoại bộ số 7 — mẫu chuẩn. Cả xưởng im lặng, những con mắt đổ dồn vào chiếc máy điện thoại nhựa đen nằm trên bàn.
 
 — Bộ số 7 đạt — Hùng nói lại, như để tự khẳng định.
@@ -193,13 +192,15 @@ Hùng gật:
 — Không — Bình đáp ngay.
 
 Hùng nhìn Bình, thấy cậu thợ trẻ đã khác. Không còn sợ sệt, không còn hỏi "có làm nổi không". Chỉ biết việc và làm. Ông viết vào sổ: "Bộ số 7 — mẫu chuẩn. Người đã có. Mai bắt đầu loạt đầu tiên."
+
+Bình gật, tay nắm bảng quy trình. Hùng nhìn cậu thợ trẻ, cười khẽ rồi cúi ghi sổ.
+Bộ số 7 đã có mẫu chuẩn. Loạt đầu tiên chưa chạy — còn thiếu ốc vít nhập và lịch ca đêm.
+Sáng mai dây chuyền nổ máy. Việc còn mở, ông không giấu.
+
 「Hệ thống — GHI NHẬN ch.98」
 Năm: 1987
 Tổng EXP: 16,136 (+181 nhịp này)
 Không gian kho: 5,409m² (+45m²)
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Chiếc điện thoại Thương Gia đầu tiên. Đen, đơn giản, nặng tay.
-Hùng nhấc ống nghe, quay số. "A lô?" — Giọng Lan từ phòng bên. Hùng cười.
-
-Chiếc điện thoại đầu tiên mang thương hiệu Thương Gia.
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
+Ghi chú: Mẫu điện thoại số 7 — Bình nhận dây chuyền loạt đầu
 ============================================================

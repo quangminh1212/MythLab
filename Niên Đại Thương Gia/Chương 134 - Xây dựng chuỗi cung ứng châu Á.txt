@@ -30,7 +30,6 @@ Hùng bảo Lan thiết kế tờ giấy dọc: mỗi lô một giám sát viên
 
 Khuya về nhà, Lan mang tờ giấy vẽ ba tuyến, hỏi mình: nếu thêm sáu tuyến nữa, có đủ người không? Không. Nhưng biết thiếu là bước đầu.
 
-Teaser: Chuỗi vừa hình thành nhưng Hùng không chờ. Cuối 1990, hai vé Tokyo và Seoul được đặt.
 
 Tối đó, Hùng trải bản đồ Đông Á lên bàn. Lan mang hai cốc nước chè xanh, loại chè Thái Nguyên mua ở chợ — đắng nhưng hậu ngọt. Hùng lấy bút chì vẽ một vòng tròn quanh Tokyo, một vòng quanh Seoul.
 
@@ -86,8 +85,8 @@ Một người bạn cũ hỏi Hùng: "Mày có nghĩ mình may mắn không?" H
 Trong cuộc họp giao ban cuối năm, Hùng nói với toàn thể công nhân: "Năm nay, nhờ anh chị em, Thương Gia đã hoàn thành vượt kế hoạch. Tôi cảm ơn." Ông cúi đầu. Cả hội trường im lặng, rồi vỗ tay vang dội. Một giám đốc từng nói với Hùng: "Anh nên may mắn vì có những công nhân như thế." Hùng trả lời: "Không. Họ may mắn vì có tôi. Và tôi may mắn vì có họ." Đó là câu nói thể hiện sự khiêm tốn của Hùng, một người chưa bao giờ quên rằng thành công của Thương Gia không phải của riêng ông.
 
 「Hệ thống — GHI NHẬN ch.134」
-Năm: 1990
-Tổng EXP: 20,220 (+180 nhịp này)
+Năm: 1989
+Tổng EXP: 20,220 (+180)
 Không gian kho: 6,488m² (+72m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
 Ghi chú: Sơ đồ 4 màu — 3 tuyến. Giám sát độc lập mỗi lô. Quy định: hồ sơ trước nguyên liệu.

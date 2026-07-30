@@ -1,0 +1,1423 @@
+{
+  "dir": null,
+  "threshold": 8.5,
+  "min_words": 3000,
+  "total": 30,
+  "pass": 28,
+  "below": 2,
+  "avg": 9.627,
+  "min_final": 7.5,
+  "all_pass": false,
+  "below_list": [
+    {
+      "num": 347,
+      "file": "Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(2993)"
+      ],
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.98,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "metrics": {
+        "words": 2993,
+        "chars": 13945,
+        "dialogue": 57,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.68,
+        "char_density": 2.94,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "\"Anh biết.\"",
+            2
+          ],
+          [
+            "Buổi họp lịch sử diễn ra vào một ngày cuối thu năm 2023, tại phòng họp tầng hai mươi ba trụ sở Thương Gia trên đường Phạm Hùng, Hà Nội. Qua ô cửa kính cường lực cao từ sàn đến trần, toàn bộ thành phố Hà Nội trải rộng dưới một lớp sương mỏng — những tòa nhà cao tầng mọc lên như rừng bê tông sau ba thập kỷ đô thị hóa. Xa xa, sông Hồng uốn khúc, lười biếng chảy giữa những bãi bồi xanh mướt. Đã gần mười một giờ trưa, nhưng bầu trời Hà Nội vẫn xám xịt, ánh sáng ban ngày bị lớp mây dày che khuất.",
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "num": 351,
+      "file": "Chương 351 - Nhà đất cũ và ký ức.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(2998)"
+      ],
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.99,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "metrics": {
+        "words": 2998,
+        "chars": 13843,
+        "dialogue": 44,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 14.95,
+        "char_density": 2.31,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2022,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Chiều cuối tuần, Hùng bảo tài xế đưa ông về Quốc Oai. Không hẹn trước. Không báo cho ai trong gia đình. Ông chỉ nói với người lái xe: \"Anh đưa tôi về quê.\" Câu nói ấy, giản dị như một người nông dân bảo \"về thăm mạ.\"",
+            1
+          ],
+          [
+            "Quốc Oai của bây giờ đã thay đổi nhiều. Những dãy phố mới mọc lên như nấm sau mưa — khu đô thị cao tầng, những biệt thự liền kề sơn màu kem sữa, những con đường nhựa rộng thênh thang với dải phân cách trồng hoa. Nhưng càng vào sâu trong làng, đường càng hẹp, mặt đường càng xấu, và ngôi làng nhỏ bé năm nào vẫn nằm đó, co ro giữa những tòa nhà cao tầng đang vây quanh, như một cụ già ngồi co ro bên bếp lửa giữa mùa đông.",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "results": [
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3490,
+        "chars": 16303,
+        "dialogue": 102,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.19,
+        "char_density": 2.94,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2016,
+        "prose_year": 2016,
+        "top_rep": [
+          [
+            "Chương 331: Bắt đầu Phần 6 – Di sản",
+            1
+          ],
+          [
+            "Hà Nội, tháng Giêng năm 2016. Cái rét cuối đông vẫn chưa chịu buông — gió bấc thổi từng cơn mỏng và sắc như lưỡi lam, len qua khe cửa mang theo mùi khói rơm khô và mùi đất lạnh. Trong phòng khách căn nhà cũ trên phố Trần Phú, Trần Văn Hùng ngồi đối diện với một xấp tài liệu dày hơn ba trăm trang. Mùi giấy in mới và mùi mực của máy photocopy còn thoảng trong không khí, lẫn với mùi hương trầm từ tủ thờ. Những ngón tay ông lạnh buốt, những đầu ngón tay chai sạn vì đã cầm bút suốt ba mươi năm — va vào mép giấy không còn cảm giác sắc nữa.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chương 331: Bắt đầu Phần 6 – Di sản Hà Nội, tháng",
+      "file": "Chương 331 - Bắt đầu Phần 6 – Di sản.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 331 - Bắt đầu Phần 6 – Di sản.txt",
+      "num": 331
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3946,
+        "chars": 18536,
+        "dialogue": 117,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.74,
+        "char_density": 2.16,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2016,
+        "prose_year": 2016,
+        "top_rep": [
+          [
+            "Chương 332: Tập đoàn bóng tối trở lại",
+            1
+          ],
+          [
+            "Hà Nội, tháng Mười Một năm 2016. Trận mưa cuối mùa trút xuống thành phố như một cơn giận dữ cuối cùng trước khi đông về. Nước ngập đến nửa bánh xe máy trên phố Huế, những tán cây sấu già nghiêng ngả, tàu điện ngầm vẫn chưa xây xong — nhưng cái thành phố này đã quen sống chung với những thứ dang dở. Hàng rong vẫn đội mưa đẩy xe qua phố, những quán cà phê cóc vẫn bạt che vải xanh, những gương mặt lam lũ vẫn đều đều như những giọt nước mưa rơi mãi không ngừng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chương 332: Tập đoàn bóng tối trở lại Hà Nội, tháng Mười",
+      "file": "Chương 332 - Tập đoàn bóng tối trở lại.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 332 - Tập đoàn bóng tối trở lại.txt",
+      "num": 332
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4133,
+        "chars": 19388,
+        "dialogue": 109,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.51,
+        "char_density": 2.42,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2017,
+        "prose_year": 2017,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Ba năm 2017. Mùa xuân đến muộn năm nay — những cây sấu già cuối cùng ở phố Phan Đình Phùng cũng chịu trổ lá non, phố xanh mướt một màu dịu nhẹ sau những ngày mưa xuân lất phất. Hoa ban nở trắng góc vườn nhà ai, gió thổi cánh hoa bay lả tả trên mặt đường ẩm ướt.",
+            1
+          ],
+          [
+            "Nhưng trong căn phòng họp ở tầng ba Thương Gia, không khí không có chút mùa xuân nào. Nó nặng như một tảng bê tông đặt trên ngực mười hai người ngồi quanh bàn.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Ba năm 2017. Mùa xuân đến muộn năm nay",
+      "file": "Chương 333 - Âm mưu thôn tính cổ phiếu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 333 - Âm mưu thôn tính cổ phiếu.txt",
+      "num": 333
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3601,
+        "chars": 16930,
+        "dialogue": 107,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.99,
+        "char_density": 2.07,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2017,
+        "prose_year": 2017,
+        "top_rep": [
+          [
+            "Tháng Năm năm 2017. Hùng bước ra khỏi chuyến bay từ Cam Ranh về Hà Nội lúc chín giờ tối, người mệt rã rời — bả vai căng cứng, lưng nóng ran sau ba ngày ngồi xe khách. Mùi biển Cam Ranh vẫn còn phảng phất trên áo ông — mùi muối, mùi cá khô, mùi nắng biển nồng nặc. Ba ngày liên tiếp ở Khánh Hòa không phải để nghỉ dưỡng — ông đi tìm tung tích của Lương Thế Huy.",
+            1
+          ],
+          [
+            "Kết quả: không có gì. Huy đã rời Cam Ranh từ tháng Hai, năm tháng trước. Căn biệt thự ven biển cho thuê đã trả, cổng sắt khóa, cây si trước nhà mọc um tùm. Xe Lexus màu đen biển số 79A đã sang tên cho một người khác — một tiểu thương ở chợ Đầm — và giờ chạy dịch vụ. Công ty ma ở Cam Ranh — CTCP Đầu tư Phương Đông — đã đóng cửa từ tháng Ba, bàn ghế bụi phủ, giấy tờ vương vãi, không ai biết chủ đi đâu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Năm năm 2017. Hùng bước ra khỏi chuyến bay từ Cam",
+      "file": "Chương 334 - Phòng thủ cổ đông.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 334 - Phòng thủ cổ đông.txt",
+      "num": 334
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3636,
+        "chars": 16898,
+        "dialogue": 81,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.65,
+        "char_density": 2.78,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2017,
+        "prose_year": 2005,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Sáu năm 2017. Nắng nóng kỷ lục — nhiệt độ ngoài trời chạm 41 độ C, mặt đường Nguyễn Trãi bóng lên như một tấm gương lỏng, hơi nóng bốc lên từng đợt khiến không khí như run rẩy. Những chiếc xe máy dừng đèn đỏ co ro dưới bóng râm hiếm hoi, người đi đường mồ hôi nhễ nhại, quạt tay liên hồi. Cả thành phố như một cái lò nung khổng lồ.",
+            1
+          ],
+          [
+            "Trong căn phòng khách nhỏ của bà Hạnh — giáo viên đã nghỉ hưu — ở khu tập thể cũ trên phố Chùa Láng, một cây quạt cây chạy hết tốc lực, gió nóng luồn qua kẽ cửa, không làm dịu được chút oi bức nào. Bảy người ngồi trên ghế nhựa, ghế gỗ, và một chiếc sập gụ cũ kê giữa phòng. Trên tường, chiếc đồng hồ quả lắc tích tắc đều đặn — âm thanh duy nhất trong căn phòng im lặng đến nặng nề.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Sáu năm 2017. Nắng nóng kỷ lục — nhiệt",
+      "file": "Chương 335 - Liên minh cổ đông nhỏ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 335 - Liên minh cổ đông nhỏ.txt",
+      "num": 335
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3344,
+        "chars": 15836,
+        "dialogue": 58,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.55,
+        "char_density": 2.21,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2017,
+        "prose_year": 2017,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Mười năm 2017. Trời , mưa phùn suốt ba ngày liền — thứ mưa không đủ ướt áo nhưng đủ làm xương khớp người già kêu lục cục. Những cành bàng trụi lá trước nhà số 45 phố Lò Đúc nhỏ giọt nước đều đặn như đồng hồ. Trong căn nhà cũ kỹ — tường ẩm, nền gạch hoa bong tróc vài chỗ — Trần Văn Hùng ngồi trước bàn gỗ, một tách trà xanh đã nguội từ lâu.",
+            1
+          ],
+          [
+            "Ông không uống trà. Ông nhìn chăm chăm vào ba tờ giấy trải dài trên mặt bàn.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Mười năm 2017. Trời , mưa phùn suốt ba",
+      "file": "Chương 336 - Âm mưu tập đoàn bóng tối.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 336 - Âm mưu tập đoàn bóng tối.txt",
+      "num": 336
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3277,
+        "chars": 15356,
+        "dialogue": 93,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.48,
+        "char_density": 2.28,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2018,
+        "prose_year": 2018,
+        "top_rep": [
+          [
+            "\"Nói đi.\"",
+            2
+          ],
+          [
+            "Hà Nội, tháng Sáu năm 2018. Một năm kể từ khi bắt đầu cuộc chiến với tập đoàn bóng tối. Mùa hè năm nay không khắc nghiệt như năm ngoái — những cơn mưa rào đến sớm, gội sạch bụi bặm trên những tán cây sấu già phố Phan Đình Phùng, mang theo hương ẩm của đất và của cỏ dại mọc hoang dọc đường tàu. Hoa phượng nở đỏ rực một góc trời, báo hiệu mùa thi, mùa chia tay, mùa của những thay đổi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Sáu năm 2018. Một năm kể từ khi bắt",
+      "file": "Chương 337 - Trí tuệ và hệ thống.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 337 - Trí tuệ và hệ thống.txt",
+      "num": 337
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3754,
+        "chars": 17663,
+        "dialogue": 111,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.68,
+        "char_density": 3.17,
+        "cliche": 0,
+        "scene_breaks": 15,
+        "has_panel": true,
+        "panel_year": 2018,
+        "prose_year": 2018,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Chín năm 2018. Cái oi cuối hạ vẫn chưa buông, không khí nặng và ẩm như một tấm chăn ướt trùm lên thành phố. Phòng họp tầng bảy tòa nhà Thương Gia ở phố Trần Hưng Đạo — một biệt thự Pháp cũ cải tạo lại — điều hòa chạy rít, cánh quạt lạch xạch như sắp rời trục. Mồ hôi lấm tấm trên trán từng người, dù nhiệt độ đã để mười tám độ.",
+            1
+          ],
+          [
+            "Trên bàn họp, một xấp tài liệu dày gần trăm trang: danh sách cổ đông kèm tỷ lệ sở hữu, biểu quyết ủy quyền, bản kiến nghị thay đổi nhân sự HĐQT do một nhóm cổ đông mới gửi, và bản sao kê giao dịch cổ phiếu ba tháng gần nhất. Hùng ngồi đầu bàn, áo sơ mi trắng đã hơi nhăn ở cổ tay — ông không thích mặc vest trong phòng họp, nhất là khi biết cuộc họp sẽ kéo dài.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Chín năm 2018. Cái oi cuối hạ vẫn chưa",
+      "file": "Chương 338 - Chiến thắng đại hội cổ đông.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 338 - Chiến thắng đại hội cổ đông.txt",
+      "num": 338
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3372,
+        "chars": 15836,
+        "dialogue": 113,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 7.64,
+        "char_density": 2.78,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 2018,
+        "prose_year": 2018,
+        "top_rep": [
+          [
+            "TP.HCM, cuối tháng Chín năm 2018. Cơn mưa chiều bất chợt ập đến như trút nước, nước ngập nửa bánh xe trên đường Nguyễn Văn Linh, những tia chớp xé ngang bầu trời xám, gió cuốn lá cây bay mù mịt. Từ cửa sổ phòng làm việc tầng năm tòa nhà Thương Gia quận 7, Lan nhìn ra ngoài — những tia chớp xé ngang bầu trời xám, dòng người đội mưa chạy vội, những chiếc xe máy lách qua vũng nước tìm đường khô.",
+            1
+          ],
+          [
+            "Chị uống một ngụm cà phê đã nguội. Đồng hồ trên bàn chỉ 6 giờ 47 phút tối.",
+            1
+          ]
+        ]
+      },
+      "opening": "TP.HCM, cuối tháng Chín năm 2018. Cơn mưa chiều bất chợt ập",
+      "file": "Chương 339 - Thanh lọc nội bộ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 339 - Thanh lọc nội bộ.txt",
+      "num": 339
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3388,
+        "chars": 16063,
+        "dialogue": 165,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.72,
+        "char_density": 1.74,
+        "cliche": 0,
+        "scene_breaks": 20,
+        "has_panel": true,
+        "panel_year": 2018,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Chương 340: Vượt qua âm mưu",
+            1
+          ],
+          [
+            "TP.HCM, tháng Tư năm 2018. Mùa khô, nắng gắt. Nhiệt độ ngoài trời ba mươi sáu độ. Phố Nguyễn Huệ đông nghịt xe, khói bụi mù mịt. Lan ngồi trong phòng họp tầng mười tòa nhà Thương Gia — điều hòa chạy hết công suất, nhưng không khí vẫn nặng nề.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chương 340: Vượt qua âm mưu TP.HCM, tháng Tư năm 2018. Mùa",
+      "file": "Chương 340 - Vượt qua âm mưu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 340 - Vượt qua âm mưu.txt",
+      "num": 340
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3491,
+        "chars": 16558,
+        "dialogue": 93,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.08,
+        "char_density": 3.62,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2018,
+        "prose_year": 2018,
+        "top_rep": [
+          [
+            "\"Về rồi.\"",
+            2
+          ],
+          [
+            "Singapore, tháng Mười năm 2018. Tòa nhà UOB Plaza sừng sững bên bờ vịnh Marina, tầng hai mươi ba — văn phòng luật sư quốc tế Allen & Overy. Sàn lát gỗ óc chó nhập từ Ý, tường kính trong suốt nhìn ra vịnh, những con tàu container nằm lặng lẽ neo đậu dưới ánh nắng chiều. Trên bàn họp bằng kính cường lực, một bộ hồ sơ dày ba trăm trang được xếp ngay ngắn — hợp đồng chuyển nhượng cổ phần, văn bản từ nhiệm, giấy ủy quyền điều hành, cam kết tài chính, điều lệ sửa đổi. Từng tờ được đóng dấu đỏ, kẹp trong bìa nhựa trong, có chữ ký của ba luật sư khác nhau.",
+            1
+          ]
+        ]
+      },
+      "opening": "Singapore, tháng Mười năm 2018. Tòa nhà UOB Plaza sừng sững bên",
+      "file": "Chương 341 - Lễ bàn giao quyền lực chính thức.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 341 - Lễ bàn giao quyền lực chính thức.txt",
+      "num": 341
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3530,
+        "chars": 16650,
+        "dialogue": 148,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.37,
+        "char_density": 3.72,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2019,
+        "prose_year": 2019,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Mười Một năm 2019 — một tháng sau lễ bàn giao chính thức tại Singapore. Mùa đông đến sớm, những cơn gió mùa đông bắc tràn về, phố Trần Hưng Đạo đầy lá sấu rụng — vàng, khô, xào xạc dưới chân người đi. Văn phòng Thương Gia ở Hà Nội trong một biệt thự Pháp cũ cải tạo — mặt tiền vàng nhạt, cửa sắt rèn đen, trong sân có cây sấu già — nằm lặng lẽ giữa lòng phố cổ. Buổi sáng, tiếng loa phường vọng ra từ con ngõ gần đó, lẫn với tiếng bán hàng rong ngoài cổng.",
+            1
+          ],
+          [
+            "Lan ngồi trong phòng làm việc — căn phòng cũ của Hùng. Kể từ khi nhận chức, chị không thay bàn, không thay ghế, không thay kệ sách. Cả phòng vẫn giữ nguyên bố trí ngày Hùng còn ngồi. Cái bàn gỗ óc chó đặt sát cửa sổ nhìn ra vườn sau, nơi Hùng thường đứng uống cà phê mỗi sáng. Tủ hồ sơ đặt ở góc trái, bảng trắng treo tường phải, két sắt nhỏ dưới gầm bàn. Trên bàn làm việc, một chậu hoa giấy tím — quà của bà Hà từ Vũng Tàu gửi ra.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Mười Một năm 2019 — một tháng sau lễ",
+      "file": "Chương 342 - Lan CEO – con trai Phó.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 342 - Lan CEO – con trai Phó.txt",
+      "num": 342
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3290,
+        "chars": 15225,
+        "dialogue": 124,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.56,
+        "char_density": 4.27,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 2019,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Hà Đông, tháng Giêng năm 2019. Căn nhà cũ của bà Hà ở mặt đường Quang Trung — một căn nhà ống hai tầng xây từ năm 1990, tường đã ố vàng vì mưa nắng, cửa sắt đã rỉ ở vài chỗ. Trước cửa, một chậu hoa giấy tím — thứ duy nhất bà chịu thay mới hàng năm. Bà nói: hoa giấy rẻ, không cần tưới nhiều, nở quanh năm — giống người từng trải.",
+            1
+          ],
+          [
+            "Hôm nay, Hùng đến thăm mẹ. Một mình — không Lan, không tài xế, không điện thoại. Ông để điện thoại trong xe, xách theo một túi cam sành — loại cam Hà Giang, bà thích vì vị ngọt thanh và vỏ mỏng. Từ khi nghỉ hưu, ông đến thăm mẹ mỗi tuần một lần. Lần nào cũng tự lái xe, tự xách đồ, tự đậu xe ở đầu ngõ rồi đi bộ vào — như hồi còn nhỏ, đi học về, bước qua ngưỡng cửa.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Đông, tháng Giêng năm 2019. Căn nhà cũ của bà Hà",
+      "file": "Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt",
+      "num": 343
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3421,
+        "chars": 15938,
+        "dialogue": 87,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.16,
+        "char_density": 4.71,
+        "cliche": 0,
+        "scene_breaks": 23,
+        "has_panel": true,
+        "panel_year": 2018,
+        "prose_year": 2018,
+        "top_rep": [
+          [
+            "Sài Gòn, tháng Mười năm 2018. Trụ sở Thương Gia ở quận 7 — tòa nhà hai mươi tầng, mặt kính xanh, chữ “Thương Gia Group” màu bạc trên đỉnh — hôm nay khoác một vẻ khác. Cờ phướn đỏ dọc hành lang, hai dãy, ba mươi lá, phất nhẹ trong gió từ quạt thông giò. Bùn non dưới ruộng lúa mới cày. Nhân viên mặc đồng phục trắng tinh, dải lụa vàng trên ve áo in chữ “TG 35 năm”. Lễ tân xếp hoa loa kèn ở sảnh — hoa Lan thích, trắng tinh, mùi thơm nhẹ như thoảng qua — trên một bàn gỗ dài, cạnh bức ảnh đen trắng chụp năm 1983: Hùng đứng trước xưởng nhỏ, áo sơ mi tay ngắn, tóc còn dày, nụ cười còn non.",
+            1
+          ],
+          [
+            "Tám giờ sáng. Hùng đã có mặt từ sáu rưỡi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sài Gòn, tháng Mười năm 2018. Trụ sở Thương Gia ở quận",
+      "file": "Chương 344 - Lễ bàn giao quyền lực.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 344 - Lễ bàn giao quyền lực.txt",
+      "num": 344
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3474,
+        "chars": 16275,
+        "dialogue": 114,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.53,
+        "char_density": 2.4,
+        "cliche": 0,
+        "scene_breaks": 14,
+        "has_panel": true,
+        "panel_year": 2020,
+        "prose_year": 2020,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Ba năm 2020. Mùa xuân muộn năm nay kéo dài hơn mọi năm — hoa ban vẫn nở trắng dọc đường Phan Đình Phùng, những cơn mưa bụi lất phất suốt tuần không dứt. Hùng đi bộ trên vỉa hè, không ô, tay cầm một tập tài liệu mỏng. Mưa phùn làm ướt vai áo, nhưng ông không vội.",
+            1
+          ],
+          [
+            "Cuộc hẹn sáng nay là với ông Nguyễn Đình Bắc, một luật sư về hưu, năm nay tám mươi hai tuổi, nguyên chánh văn phòng Bộ Tư pháp. Ông Bắc từng giúp Hùng thành lập quỹ từ thiện đầu tiên năm 2005 — một quỹ nhỏ, tài trợ học bổng cho học sinh nghèo ở Hà Đông, chỉ vỏn vẹn hai trăm triệu mỗi năm. Mười lăm năm sau, Hùng lại đến gặp ông với một dự án lớn hơn nhiều.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Ba năm 2020. Mùa xuân muộn năm nay kéo",
+      "file": "Chương 345 - Quỹ Di sản Trần Văn Hùng.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 345 - Quỹ Di sản Trần Văn Hùng.txt",
+      "num": 345
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3072,
+        "chars": 14216,
+        "dialogue": 51,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.59,
+        "char_density": 3.59,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2022,
+        "prose_year": 1985,
+        "top_rep": [
+          [
+            "Tháng Ba năm 2022, Hùng ngồi trong phòng khách của một căn nhà nhỏ ở ngoại thành Hà Nội. Căn nhà nằm sâu trong một con ngõ hẹp, hai bên là những dãy nhà ống mọc san sát, những dây điện chằng chịt như mạng nhện giăng ngang giữa trời. Mùi hương từ bếp nhà ai đó thoảng ra — mùi hành phi thơm nức, mùi cá kho tộ, mùi của một bữa cơm gia đình bình dị.",
+            1
+          ],
+          [
+            "Căn nhà thuộc về người công nhân đầu tiên ông thuê, ba mươi chín năm trước. Một người đàn ông đã già, tóc bạc trắng, lưng hơi còng, đang ngồi đối diện ông trên chiếc ghế gỗ ọp ẹp. Trên bàn là hai cái chén sứ đã mẻ, một ấm trà xanh rẻ tiền, và một đĩa kẹo lạc tự làm.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Ba năm 2022, Hùng ngồi trong phòng khách của một căn",
+      "file": "Chương 346 - Người giàu có trách nhiệm.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 346 - Người giàu có trách nhiệm.txt",
+      "num": 346
+    },
+    {
+      "final": 7.5,
+      "weighted_raw": 9.71,
+      "cap": 7.5,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.98,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [
+        "short<3000(2993)"
+      ],
+      "metrics": {
+        "words": 2993,
+        "chars": 13945,
+        "dialogue": 57,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.68,
+        "char_density": 2.94,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "\"Anh biết.\"",
+            2
+          ],
+          [
+            "Buổi họp lịch sử diễn ra vào một ngày cuối thu năm 2023, tại phòng họp tầng hai mươi ba trụ sở Thương Gia trên đường Phạm Hùng, Hà Nội. Qua ô cửa kính cường lực cao từ sàn đến trần, toàn bộ thành phố Hà Nội trải rộng dưới một lớp sương mỏng — những tòa nhà cao tầng mọc lên như rừng bê tông sau ba thập kỷ đô thị hóa. Xa xa, sông Hồng uốn khúc, lười biếng chảy giữa những bãi bồi xanh mướt. Đã gần mười một giờ trưa, nhưng bầu trời Hà Nội vẫn xám xịt, ánh sáng ban ngày bị lớp mây dày che khuất.",
+            1
+          ]
+        ]
+      },
+      "opening": "Buổi họp lịch sử diễn ra vào một ngày cuối thu năm",
+      "file": "Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt",
+      "num": 347
+    },
+    {
+      "final": 9.84,
+      "weighted_raw": 9.84,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.2,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3198,
+        "chars": 15378,
+        "dialogue": 93,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.79,
+        "char_density": 4.23,
+        "cliche": 2,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "Chuyến bay SQ176 khởi hành từ Sân bay Quốc tế Nội Bài lúc mười một giờ đêm, ngày mười lăm tháng Mười năm 2023. Hùng ngồi ở ghế phổ thông — không phải khoang thương gia, không phải hạng nhất, dù vé đã được Lan đặt sẵn ở hạng thương gia cho ông. Ông tự đổi sang ghế thường trước giờ bay.",
+            1
+          ],
+          [
+            "\"Anh ngồi đâu cũng ngủ được,\" ông nói với Lan qua điện thoại trước khi tắt máy. \"Mà nếu không ngủ được, ngồi sang hơn cũng chẳng để làm gì.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Chuyến bay SQ176 khởi hành từ Sân bay Quốc tế Nội Bài",
+      "file": "Chương 348 - Du hành tri ân thế giới.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 348 - Du hành tri ân thế giới.txt",
+      "num": 348
+    },
+    {
+      "final": 9.51,
+      "weighted_raw": 9.51,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3295,
+        "chars": 15883,
+        "dialogue": 80,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 6.61,
+        "char_density": 2.08,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 2020,
+        "prose_year": 2020,
+        "top_rep": [
+          [
+            "Hà Nội, tháng Ba năm 2020. Tháng giao mùa ở miền Bắc — hết rét đậm, sang nồm ẩm, những cơn mưa phùn lất phất suốt ngày làm phố phường ướt sũng, tường nhà lên rêu. Nhưng hôm nay trời hửng nắng. Hùng ngồi ở phòng họp tầng hai mươi trụ sở Thương Gia, nhìn ra Hồ Tây gợn sóng lấp lánh. Ánh nắng sớm chiếu qua cửa kính cường lực, rọi những vệt dài trên mặt bàn gỗ óc chó nâu sẫm.",
+            1
+          ],
+          [
+            "Trên bàn là một tập hồ sơ dày. Bìa màu xanh. Tem mật. Phòng họp vắng lặng, chỉ có bốn người: Luật sư Nguyễn Quốc Bảo — người đã theo Hùng từ giữa thập niên 90, từng xử lý vụ kiện thương mại Singapore năm 2004, tóc bạc gần hết nhưng ánh mắt vẫn sắc sảo; Trần Thị Lan — em gái, Tổng giám đốc vận hành, người biết rõ từng con số trong tập hồ sơ; và một người đàn ông châu Âu — tóc muối tiêu, mặc vest xám đậm, đeo kính gọng vàng, ngồi bất động như một pho tượng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hà Nội, tháng Ba năm 2020. Tháng giao mùa ở miền Bắc",
+      "file": "Chương 349 - Hợp tác với đối tác quốc tế.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 349 - Hợp tác với đối tác quốc tế.txt",
+      "num": 349
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3226,
+        "chars": 15653,
+        "dialogue": 95,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.54,
+        "char_density": 3.64,
+        "cliche": 0,
+        "scene_breaks": 13,
+        "has_panel": true,
+        "panel_year": 2021,
+        "prose_year": 2021,
+        "top_rep": [
+          [
+            "Năm 2021, đầu tháng Năm. Hùng ngồi trong phòng khách trụ sở Thương Gia Hải Phòng, trước mặt là tấm bản đồ thế giới ghim đầy đinh găm đỏ. Mười bảy điểm. Mười bảy đối tác cũ — người đã từng ký hợp đồng đầu tiên, từng ứng tiền trước, từng chấp nhận rủi ro khi Thương Gia còn là cái tên xa lạ.",
+            1
+          ],
+          [
+            "Trên bàn, cuốn sổ tay bìa đen mở trang đầu. Hùng đọc lại danh sách, từng cái tên viết bằng bút bi xanh, nét chữ đều, không gạch xóa.",
+            1
+          ]
+        ]
+      },
+      "opening": "Năm 2021, đầu tháng Năm. Hùng ngồi trong phòng khách trụ sở",
+      "file": "Chương 350 - Du hành thế giới.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 350 - Du hành thế giới.txt",
+      "num": 350
+    },
+    {
+      "final": 7.5,
+      "weighted_raw": 9.71,
+      "cap": 7.5,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 9.99,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [
+        "short<3000(2998)"
+      ],
+      "metrics": {
+        "words": 2998,
+        "chars": 13843,
+        "dialogue": 44,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 14.95,
+        "char_density": 2.31,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2022,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Chiều cuối tuần, Hùng bảo tài xế đưa ông về Quốc Oai. Không hẹn trước. Không báo cho ai trong gia đình. Ông chỉ nói với người lái xe: \"Anh đưa tôi về quê.\" Câu nói ấy, giản dị như một người nông dân bảo \"về thăm mạ.\"",
+            1
+          ],
+          [
+            "Quốc Oai của bây giờ đã thay đổi nhiều. Những dãy phố mới mọc lên như nấm sau mưa — khu đô thị cao tầng, những biệt thự liền kề sơn màu kem sữa, những con đường nhựa rộng thênh thang với dải phân cách trồng hoa. Nhưng càng vào sâu trong làng, đường càng hẹp, mặt đường càng xấu, và ngôi làng nhỏ bé năm nào vẫn nằm đó, co ro giữa những tòa nhà cao tầng đang vây quanh, như một cụ già ngồi co ro bên bếp lửa giữa mùa đông.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chiều cuối tuần, Hùng bảo tài xế đưa ông về Quốc Oai.",
+      "file": "Chương 351 - Nhà đất cũ và ký ức.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 351 - Nhà đất cũ và ký ức.txt",
+      "num": 351
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3807,
+        "chars": 17866,
+        "dialogue": 63,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.24,
+        "char_density": 3.69,
+        "cliche": 0,
+        "scene_breaks": 8,
+        "has_panel": true,
+        "panel_year": 2022,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Tháng Chín năm 2022, Sài Gòn vào mùa mưa. Cơn mưa chiều ào ạt trút xuống trong mười lăm phút, đủ làm ngập nửa con đường Nguyễn Huệ, người đi đường túa vào các mái hiên, hàng rong vội vã kéo bạt che. Rồi tạnh nhanh như khi đến. Nắng lại ló sau mây, hơi nước bốc lên hầm hập từ mặt đường nhựa, những giọt nước còn đọng trên lá cơm nguội lấp lánh dưới ánh nắng xiên khoai.",
+            1
+          ],
+          [
+            "Hùng ngồi trong phòng khách của biệt thự trên đường Trần Quốc Toản, quận 3. Trước mặt ông là bản thảo cuối cùng của Quỹ Thương Gia Vì Cộng Đồng. Một trăm tờ giấy A4 đóng ghim, bìa cứng màu xanh rêu, in chữ bạc. Bản kê chi tiết từng hạng mục giải ngân, từng địa phương thụ hưởng, từng chỉ tiêu đo lường hiệu quả.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Chín năm 2022, Sài Gòn vào mùa mưa. Cơn mưa chiều",
+      "file": "Chương 352 - Từ thiện 100.000 tỷ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 352 - Từ thiện 100.000 tỷ.txt",
+      "num": 352
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3540,
+        "chars": 16304,
+        "dialogue": 55,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.51,
+        "char_density": 2.21,
+        "cliche": 0,
+        "scene_breaks": 14,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "Sáu giờ ba mươi sáng, ngày hai mươi tháng Mười một năm 2023. Hùng ngồi ở bàn làm việc trong căn phòng nhỏ tại tầng hai của ngôi nhà riêng — không phải văn phòng công ty, không phải phòng họp, mà là căn phòng ông dành riêng cho những việc thật sự quan trọng. Trên tường không có bằng khen, không có ảnh chụp với lãnh đạo. Chỉ có một khung ảnh đen trắng: bà Hà hồi còn trẻ, mặc áo nâu, địu con trên lưng, đứng trước căn nhà gỗ ở Quốc Oai. Nụ cười móm mém hiền hậu. Góc phải khung ảnh có một vết ố vàng — nước mưa từ mái dột nhỏ xuống năm nào, bà không cho thay khung, bảo \"cái gì cũ có hồn.\"",
+            1
+          ],
+          [
+            "Trước mặt ông là một tờ giấy trắng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sáu giờ ba mươi sáng, ngày hai mươi tháng Mười một năm",
+      "file": "Chương 353 - Thư gửi thế hệ sau.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 353 - Thư gửi thế hệ sau.txt",
+      "num": 353
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3008,
+        "chars": 14093,
+        "dialogue": 28,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.48,
+        "char_density": 2.48,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "Sáu giờ sáng, ngày mười lăm tháng Mười hai năm 2023. Hà Nội rét nhất trong năm — nhiệt độ xuống dưới ba độ C, hơi thở hóa thành khói trắng, sương mù dày đặc đến nỗi từ trong phòng khách không thể nhìn thấy cây bàng cổ thụ đầu ngõ. Những cành cây trơ trụi phủ đầy sương muối, lấp lánh ánh bạc dưới ánh đèn đường mờ ảo còn sót lại sau một đêm dài. Trong phòng làm việc của Hùng, máy sưởi chạy hết công suất, tiếng rì rầm đều đều, nhưng ông vẫn thấy lạnh.",
+            1
+          ],
+          [
+            "Không phải lạnh ngoài da. Lạnh bên trong — một thứ lạnh từ xương tủy lan ra, thứ lạnh của những cảm xúc không thể gọi tên.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sáu giờ sáng, ngày mười lăm tháng Mười hai năm 2023. Hà",
+      "file": "Chương 354 - Hệ thống nhiệm vụ cuối.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 354 - Hệ thống nhiệm vụ cuối.txt",
+      "num": 354
+    },
+    {
+      "final": 9.63,
+      "weighted_raw": 9.63,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.9,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3839,
+        "chars": 18138,
+        "dialogue": 59,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.85,
+        "char_density": 3.03,
+        "cliche": 1,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "Bốn mươi năm.",
+            2
+          ],
+          [
+            "Chín hào.",
+            2
+          ]
+        ]
+      },
+      "opening": "Tháng Mười Hai năm 2023. Hà Nội vào đông lạnh nhất thập",
+      "file": "Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt",
+      "num": 355
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4004,
+        "chars": 18588,
+        "dialogue": 59,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 15.55,
+        "char_density": 4.25,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "top_rep": [
+          [
+            "Hoàng hôn tháng Chạp. Hà Nội rét mười độ. Chim sẻ co ro trên dây điện, lông xù lên như cục bông. Hùng mở cửa bước vào nhà cũ — căn nhà bà Hà nhất quyết không rời, dù Hùng đã mua ba căn khác, dù Lan đã xây biệt thự Đà Lạt, dù con cháu đã chạy khắp thế giới. Bà bảo: \"Nhà Quốc Oai, gian bếp này. Có bàn thờ. Tao không đi.\"",
+            1
+          ],
+          [
+            "Hùng không ép. Mỗi tháng ông về một lần. Những ngày đầu tháng, giữa tháng, cuối tháng — tùy lịch, nhưng chưa bao giờ bỏ lỡ hai tháng liên tiếp. Trong bốn mươi năm, chỉ đúng một lần ông vắng mặt hai tháng: năm 2023, khi khủng hoảng tài chính toàn cầu suýt nuốt chửng Thương Gia, ông ở lại London ba tuần không về, rồi bay thẳng sang New York thêm ba tuần nữa. Khi về, bà Hà không nói gì. Bà chỉ nhìn ông, quay vào bếp, bưng ra bát cháo còn nóng — hành động không lời ghê gớm nhất mà bà dành cho ông từ trước đến nay.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hoàng hôn tháng Chạp. Hà Nội rét mười độ. Chim sẻ co",
+      "file": "Chương 356 - Bữa tối gia đình.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 356 - Bữa tối gia đình.txt",
+      "num": 356
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3272,
+        "chars": 15296,
+        "dialogue": 56,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 14.45,
+        "char_density": 3.73,
+        "cliche": 0,
+        "scene_breaks": 13,
+        "has_panel": true,
+        "panel_year": 2024,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Năm 2024. Tối cuối thu, Hà Nội .",
+            1
+          ],
+          [
+            "Hùng ngồi một mình trong căn phòng nhỏ ở tầng hai Thương Gia Tower — căn phòng ông chuyển đến sau khi bàn giao ghế tổng giám đốc. Bàn gỗ xoan cũ, ấm trà đã nguội, cuốn sổ da mở sẵn. Ông không bật đèn chính, chỉ ngọn đèn bàn vàng rọi xuống những trang giấy ố.",
+            1
+          ]
+        ]
+      },
+      "opening": "Năm 2024. Tối cuối thu, Hà Nội . Hùng ngồi một mình",
+      "file": "Chương 357 - Flashback toàn hành trình.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 357 - Flashback toàn hành trình.txt",
+      "num": 357
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3234,
+        "chars": 14912,
+        "dialogue": 58,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.94,
+        "char_density": 2.75,
+        "cliche": 0,
+        "scene_breaks": 13,
+        "has_panel": true,
+        "panel_year": 2024,
+        "prose_year": 2024,
+        "top_rep": [
+          [
+            "Năm 2024. Sáu giờ chiều. Nhà bà Hà — ngôi nhà nhỏ ở ngoại thành Hà Nội, nơi Hùng đã sống từ nhỏ, nơi bà đã nuôi hai anh em ông trong những năm đói nghèo.",
+            1
+          ],
+          [
+            "Bà không chịu dời đi. Dù Thương Gia có bao nhiêu tiền, dù cháu nội dựng cho bà căn nhà mới khang trang ở khu đô thị, bà vẫn ở căn nhà cũ. Bà bảo: \"Tao sống ở đây năm mươi năm rồi. Mỗi viên gạch là một kỷ niệm. Dời đi, kỷ niệm nó rơi mất.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Năm 2024. Sáu giờ chiều. Nhà bà Hà — ngôi nhà nhỏ",
+      "file": "Chương 358 - Bữa tối ba thế hệ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 358 - Bữa tối ba thế hệ.txt",
+      "num": 358
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3255,
+        "chars": 15244,
+        "dialogue": 42,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.32,
+        "char_density": 3.08,
+        "cliche": 0,
+        "scene_breaks": 11,
+        "has_panel": true,
+        "panel_year": 2024,
+        "prose_year": 2024,
+        "top_rep": [
+          [
+            "Năm 2024. Hai mươi hai giờ. Đêm trước lễ kỷ niệm bốn mươi năm thành lập Thương Gia.",
+            1
+          ],
+          [
+            "Căn hộ của Hùng ở tầng hai Thương Gia Tower im lìm. Không khí trang trọng của ngày mai chưa tới — chỉ có sự tĩnh lặng của một người đàn ông sắp khép lại một hành trình. Hùng không ngủ được. Ông mặc áo sơ-mi trắng — chiếc áo đã ủi tối qua — ngồi bên cửa sổ, nhìn xuống phố.",
+            1
+          ]
+        ]
+      },
+      "opening": "Năm 2024. Hai mươi hai giờ. Đêm trước lễ kỷ niệm bốn",
+      "file": "Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt",
+      "num": 359
+    },
+    {
+      "final": 9.48,
+      "weighted_raw": 9.48,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 8.5,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3461,
+        "chars": 16599,
+        "dialogue": 114,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.86,
+        "char_density": 3.13,
+        "cliche": 0,
+        "scene_breaks": 12,
+        "has_panel": true,
+        "panel_year": 2024,
+        "prose_year": 2024,
+        "top_rep": [
+          [
+            "Năm 2024. Hoàng hôn trên Thương Gia Tower, tầng một trăm.",
+            1
+          ],
+          [
+            "Hà Nội trải ra dưới chân ông — sông Hồng cuộn ánh chiều,",
+            1
+          ]
+        ]
+      },
+      "opening": "Năm 2024. Hoàng hôn trên Thương Gia Tower, tầng một trăm. Hà",
+      "file": "Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt",
+      "num": 360
+    }
+  ]
+}

@@ -334,7 +334,7 @@ Không máy nào dừng; một máy có nhiệt cao hơn nhóm nhưng vẫn dư�
 
 Nhịp giữa ngày không đứt.
 
-Việc trước đã chốt; việc sau chờ chữ ký đúng người.
+Việc trước đã đóng; việc sau chờ duyệt từ người có thẩm quyền.
 
 phận xếp hàng trên bàn.
 
@@ -448,13 +448,11 @@ Ai có tiền cũng muốn mua.
 
 Hùng gật, nhưng mắt vẫn dõi vòng bi: chỗ nào kêu là chỗ còn phải sửa.
 
-============================================================ Teaser: Trên bàn làm việc, sổ sách chất cao.
 
 Hùng lật sổ cái, bút chì ghi chép.
 
 Minh đến sau lưng, tay xoa vai anh.
 
-"Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào.
 
@@ -462,27 +460,34 @@ Hùng và bà Hà ngồi bên nhau trong nhà, nhìn mưa qua khung cửa.
 
 "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
 
-Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay.
+***
 
-bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng.
+Cuối ngày, mười chiếc quạt mẫu nằm trên giá chạy thử. Tiếng cánh quạt rít nhẹ khi Minh vặn tốc độ. Lan ghi dòng điện từng nấc; Lâm dán số thân. Hùng đứng cạnh, tay nắm mép sổ, không vỗ vai ai.
 
-"Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+"Bán được khi nào?" chị Thu hỏi từ cửa.
 
-Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu.
+"Khi sáu giờ chạy không nóng ổ và không rít vòng bi," Hùng đáp. "Chưa đủ thì chưa treo giá."
 
-Lan ngồi bên cạnh phe phẩy quạt.
+Về nhà, bà Hà hỏi ăn chưa. Lan trả lời hộ: "Ăn ở xưởng rồi, mẹ để cháo nguội cũng được." Không ai dựa vai ai. Chỉ có mùi dầu máy bám áo Hùng và tiếng ve ngoài vườn. Sáng mai còn phải chốt nhà cung cấp motor — nếu mẫu lệch trục, cả lô đứng.
 
-Gió mát từ quạt đưa lại, mùi nắng, mùi đất.
+============================================================
 
-"Có mệt không anh?" Lan hỏi.
+***
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Cánh quạt rít một vòng rồi ổn. Minh liếc ampe kế, gật. Lan ghi số, tay nắm thước, siết đầu bút.
+
+"Ổ nóng không?" Hùng hỏi.
+
+"Chưa," Minh thở. "Chạy đủ sáu giờ đã. Vòng bi êm." Ông cau khi thấy một tem số lệch, cúi dán lại, ngẩng báo: "Người dán tem không được ký đạt."
+
+Chị Thu đứng cửa, mắt hỏi. Hùng buông mép sổ: "Chưa treo giá. Chưa đủ tiêu chuẩn thì chưa bán."
+
+Mùi dầu máy và kim loại nóng lan trong xưởng. Nắng ngoài sân chói; trong buồng, gió từ quạt mẫu thổi mát mặt. Lan cười vì cột "giữ lại" còn trống. Việc motor lệch trục — nếu có — sẽ lộ ở ca sáng mai.
 
 「Hệ thống — GHI NHẬN ch.41」
 Năm: 1984
 Tổng EXP: 3,400 (+200)
 Không gian kho: 2,550m² (+50m²)
-Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
-============================================================
+Kỹ năng trọng yếu: Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Ghi chú: Thử sản xuất quạt điện: mẫu chạy nóng/ổ bi; chưa treo giá khi chưa đủ tiêu chuẩn.
 ============================================================

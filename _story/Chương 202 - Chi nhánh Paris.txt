@@ -2,7 +2,7 @@
 Chương 202: Chi nhánh Paris
 ============================================================
 
-Charles de Gaulle, sân bay Paris, tháng Tư năm 1998. Trời lạnh mười hai độ, mưa phùn lất phất từ sáng. Hùng mặc complet xám than, khoác thêm áo măng-tô mua vội ở ga Sài Gòn trước khi lên máy bay — loại áo rẻ nhất nhưng đủ ấm, vải dày dặn, màu nâu sẫm hợp với dáng người gầy của ông. Lan mặc áo dài xanh, khoác ngoài áo len mỏng màu kem — bộ áo dài duy nhất cô mang theo trong vali, gấp cẩn thận giữa hai lớp quần áo để khỏi nhăn.
+Charles de Gaulle, sân bay Paris, tháng Tư năm 1996. Trời lạnh mười hai độ, mưa phùn lất phất từ sáng. Hùng mặc complet xám than, khoác thêm áo măng-tô mua vội ở ga Sài Gòn trước khi lên máy bay — loại áo rẻ nhất nhưng đủ ấm, vải dày dặn, màu nâu sẫm hợp với dáng người gầy của ông. Lan mặc áo dài xanh, khoác ngoài áo len mỏng màu kem — bộ áo dài duy nhất cô mang theo trong vali, gấp cẩn thận giữa hai lớp quần áo để khỏi nhăn.
 
 Hai người đứng trước cửa kính sân bay, nhìn ra đường băng ướt nước. Những chiếc máy bay đậu san sát, thân trắng lấp lánh dưới mưa. Paris tháng Tư không như trong phim — trời xám xịt, mưa nhỏ dai dẳng, và lạnh hơn Hùng tưởng rất nhiều. Nhưng không có thời tiết nào ngăn được người đã quyết định.
 
@@ -211,16 +211,11 @@ Lan cầm chiếc bút máy lên, đánh dấu ba mục bằng mực xanh. Cô c
 
 Lan khẽ cười. Cô đưa Hùng chiếc khăn len mua vội ở sân bay. Ông nhận lấy, không nói cảm ơn, chỉ quàng lên cổ rồi cúi xuống đọc tiếp.
 
-
-Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
-
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
-
-Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.202」
-Năm: 1998
-Địa điểm: Paris
-Sự kiện: Gặp Moreau — cần CE; gặp Tùng — giới thiệu EuroTech; gặp Jacques — 100 mẫu thử
-Kỹ năng: Ngoại giao kinh tế lv2
+Năm: 1996
+Tổng EXP: 38,476 (+238)
+Không gian kho: 12,286m² (+143m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
+Ghi chú: Chi nhánh Paris — Moreau CE, Jacques 100 mẫu, Tùng EuroTech
 ============================================================

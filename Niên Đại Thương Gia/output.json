@@ -1,0 +1,103 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 1,
+  "pass": 0,
+  "below": 1,
+  "avg": 6.0,
+  "min_final": 6.0,
+  "all_pass": false,
+  "below_list": [
+    {
+      "num": 281,
+      "file": "Chương 281 - Quỹ 10.000 tỷ từ thiện.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2008 prose=1985"
+      ],
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 5.0,
+        "filler_pad": 10.0,
+        "he_thong": 7.0
+      },
+      "metrics": {
+        "words": 3013,
+        "chars": 13994,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.29,
+        "char_density": 3.22,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 1985,
+        "top_rep": [
+          [
+            "Căn phòng khách nhà ông Nguyễn Sỹ Dũng, nguyên Phó chủ nhiệm Văn phòng Quốc hội, nằm trên tầng ba của một căn nhà tập thể cũ kỹ trên phố Hoàng Văn Thụ. Bức tường sơn vôi vàng đã bạc màu, nền gạch men hoa đã mòn đến lộ cả phần gạch đỏ bên dưới. Tủ sách chất đầy sách chính trị, kinh tế, văn học từ sàn lên đến trần. Trên tường — nơi trang trọng nhất — là bức ảnh chụp ông Dũng với cố Thủ tướng Võ Văn Kiệt, ảnh đen trắng, đã hơi ngả màu.",
+            1
+          ],
+          [
+            "Hùng đến đây để nghe ý kiến của một trong những người hiểu về chính sách nhất Việt Nam. Ông Dũng đã về hưu, nhưng đầu óc vẫn tỉnh như ba mươi năm trước, khi ông còn là chuyên gia hàng đầu trong các cuộc cải cách kinh tế.",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "results": [
+    {
+      "final": 6.0,
+      "weighted_raw": 8.16,
+      "cap": 6.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 5.0,
+        "filler_pad": 10.0,
+        "he_thong": 7.0
+      },
+      "hard_fails": [
+        "year_mismatch panel=2008 prose=1985"
+      ],
+      "metrics": {
+        "words": 3013,
+        "chars": 13994,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.29,
+        "char_density": 3.22,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 1985,
+        "top_rep": [
+          [
+            "Căn phòng khách nhà ông Nguyễn Sỹ Dũng, nguyên Phó chủ nhiệm Văn phòng Quốc hội, nằm trên tầng ba của một căn nhà tập thể cũ kỹ trên phố Hoàng Văn Thụ. Bức tường sơn vôi vàng đã bạc màu, nền gạch men hoa đã mòn đến lộ cả phần gạch đỏ bên dưới. Tủ sách chất đầy sách chính trị, kinh tế, văn học từ sàn lên đến trần. Trên tường — nơi trang trọng nhất — là bức ảnh chụp ông Dũng với cố Thủ tướng Võ Văn Kiệt, ảnh đen trắng, đã hơi ngả màu.",
+            1
+          ],
+          [
+            "Hùng đến đây để nghe ý kiến của một trong những người hiểu về chính sách nhất Việt Nam. Ông Dũng đã về hưu, nhưng đầu óc vẫn tỉnh như ba mươi năm trước, khi ông còn là chuyên gia hàng đầu trong các cuộc cải cách kinh tế.",
+            1
+          ]
+        ]
+      },
+      "opening": "Căn phòng khách nhà ông Nguyễn Sỹ Dũng, nguyên Phó chủ nhiệm",
+      "file": "Chương 281 - Quỹ 10.000 tỷ từ thiện.txt",
+      "path": "Chương 281 - Quỹ 10.000 tỷ từ thiện.txt",
+      "num": 281
+    }
+  ]
+}

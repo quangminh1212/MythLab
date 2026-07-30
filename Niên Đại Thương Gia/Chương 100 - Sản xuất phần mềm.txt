@@ -145,16 +145,11 @@ Hải ngập ngừng: "Nhưng phần mềm thì ai cũng copy được. Mua mộ
 
 ---
 
---- PHẦN CUỐI: ĐIỀU HƯỚNG VÀ GHI SỔ ---
-
-Hệ thống Thương Gia hiện lên không cần Hùng mở. Nó ở đó — một bảng số liệu lơ lửng giữa màn hình DOS và đèn huỳnh quang:
-
+Cuối ngày, Hùng đối chiếu tiến độ trên màn hình DOS với cuốn sổ tay.
 
 Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1987 — được rồi.'
 
-
 Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1987 đã cho ông nhiều hơn ông tưởng. Ông gập sổ tay, đặt trên bàn, tắt đèn — ngày mai còn việc mới.
-「Hệ thống Thương Gia」
 Năm: 1987
 Thông báo: Cột mốc 10 chương — +EXP, mở rộng không gian
 HT-QL1 v1.0 — Bắt đầu chuỗi sản phẩm phần mềm
@@ -173,31 +168,14 @@ Trước khi ngủ, ông viết vào sổ tay:
 Phía dưới, ông vẽ thêm một đường gạch ngang — và viết thêm một câu:
 "Ngày hôm nay, có một xí nghiệp ở Hà Nội không cần gõ tay ba lần một số — vì cái phần mềm mình viết. Đó là lý do để mai dậy sớm."
 
-============================================================
-「Hệ thống — CỘT MỐC ch.100」
-Năm: 1987
-Tổng EXP: 16,500 (+182 nhịp này)
-Không gian kho: 5,500m² (+45m²)
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Phần mềm HT-QL1 chạy trên IBM PC XT 286. Màn hình xanh, dòng lệnh cuộn.
-"Nghiệp vụ kế toán — thành công." Hùng nhớ kiếp Lý Minh. "Giỏi. Nhưng còn bug. Sửa đi."
-
-Hùng ngồi lại trước màn hình xanh sau khi mọi người về.
-Dòng chữ "Nghiệp vụ kế toán — thành công" vẫn sáng trên màn hình.
-Ông nhấn F3, chương trình chạy mượt. Mồ hôi lấm tấm trên trán.
-Phần mềm đầu tiên của Thương Gia — ba tháng, ba con người, một ước mơ.
-Lý Minh có lẽ sẽ tự hào.
-
-============================================================
-<!-- END_MARKER_DO_NOT_REMOVE -->
-
-Teaser: 
-
+Hùng tắt màn hình monochrome, nghe quạt máy rè nhẹ. Mã nguồn còn lỗi biên dịch cuối trang.
+Lan ghi lịch giao module. Minh hẹn sáng kiểm lại vòng lặp tồn kho.
+Phần mềm chưa xong — mai còn compile. Phía trước là bản chạy thử nội bộ.
 
 「Hệ thống — GHI NHẬN ch.100」
 Năm: 1987
-Tổng EXP: 16,500 (+182)
+Tổng EXP: 16,500 (+182 nhịp này)
 Không gian kho: 5,500m² (+45m²)
-Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
+Ghi chú: Nhóm phần mềm nội bộ — chốt quy trình lập trình & giao việc
 ============================================================

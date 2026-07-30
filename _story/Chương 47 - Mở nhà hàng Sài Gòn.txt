@@ -1,5 +1,6 @@
 ============================================================
 Chương 47: Mở nhà hàng Sài Gòn
+============================================================
 
 Chuyến tàu rời Hà Nội ngày 21 tháng 7 năm 1985 không đưa Hùng tới Sài Gòn trong một đêm. Anh ghi giờ đi ngay trên trang đầu cuốn sổ khảo sát, bên dưới là tên những người ở lại. Lan và bà Thu chịu nhà hàng Quốc Oai; anh Khánh và ông Dũng chịu nhà hàng Hà Nội. Hai cơ sở giữ riêng tiền hàng ba tuần. Khoản chi nào vượt sáu mươi đồng phải có hai chữ ký. Sự cố an toàn phải báo bằng điện tín, không chờ thư.
 
@@ -103,17 +104,34 @@ Anh viết mục tiêu tiếp theo: không mua nhà hàng vì tự ái với ch�
 
 Ngày 27 tháng 8, Hùng lên chuyến bay dân dụng từ Tân Sơn Nhất ra Hà Nội. Trong khoang, mùi dầu máy và mùi da ghế ẩm quyện vào nhau, lẫn với mùi khói than tổ ong từ các mái nhà phía dưới khuất dần. Những ngón tay anh vẫn còn ướt mồ hôi sau một tháng ròng chạy bếp, da tay chai sạn hơn trước — va vào thành ghế thấy cứng, thấy đã chai đi như một thứ áo giáp. Vé cao hơn tàu được ghi riêng vào chi phí quản lý, không giấu trong nhà hàng.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+***
 
-Hùng nhíu mày, siết tay trên sổ ch.47. Lan liếc số, cúi ký. Ông thở, nuốt lời gắt, ngẩng, gật. Mắt cô không cười. Tay run rồi vững.
+Sài Gòn ồn và nóng khác Hà Nội. Nhà hàng Chợ Lớn hết ngày đầu không có đánh nhau bếp, nhưng có một lô cá lệch hóa đơn — Lan giữ lại, không cho vào sổ hao hụt chung.
 
+Hùng gọi về cho bà Hà từ tổng đài: "Con ăn rồi. Quán chưa xong." Không nói doanh thu. Tuấn hỏi có mua đất luôn không; Hùng lắc: "Chỉ mua nếu đỡ được một khoản thuê hoặc một rủi ro kho. Không mua vì đất nghe sẽ lên."
 
+Máy bay về Hà Nội trễ. Lan ngủ gật trên ghế chờ, sổ ôm trong tay. Phía trước là bảng bất động sản — và khoản nợ với bà Hà vẫn còn hạn cuối năm.
 
-Hùng nhíu mày, siết ngón tay sổ ch.47. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+============================================================
+
+***
+
+Chợ Lớn ồn. Lan giữ lô cá lệch hóa đơn, mắt lạnh, tay siết biên bản nhà cung cấp.
+
+"Cho vào hao hụt chung được không?" quản bếp hỏi.
+
+"Không," Lan gật chắc. "Giữ lại. Có tên người giao."
+
+Hùng gọi tổng đài về, thở khi nghe bà Hà. "Con ăn rồi. Quán chưa xong." Ông không nói doanh thu. Tuấn liếc, cười: "Mua đất luôn?" Hùng cau, nắm ống nghe: "Chỉ khi đỡ thuê hoặc đỡ rủi ro kho."
+
+Máy bay trễ. Lan ngủ gật, tay vẫn nắm sổ. Mùi cá và mùi xăng sân bay lẫn trong đầu Hùng. Nợ bà Hà còn hạn — đất nóng chưa được đụng.
+
+Lan siết biên bản cá, mắt lạnh, gật. "Không hao hụt chung." Quản bếp cúi, thở, liếc Hùng. Hùng nắm ống nghe, cau: "Con ăn rồi." Tuấn cười; Hùng buông cười, siết máy: "Đất chỉ khi đỡ thuê." Lan ngủ gật, tay vẫn nắm sổ. Mùi xăng sân bay. Nợ bà — còn hạn.
 
 「Hệ thống — GHI NHẬN ch.47」
 Năm: 1985
 Tổng EXP: 4,600 (+200 nhịp này)
 Không gian kho: 2,850m² (+50m²)
-Kỹ năng trọng yếu: Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
-Ghi chú: khóa nhịp
+Kỹ năng trọng yếu: Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Ghi chú: Nhà hàng Sài Gòn: lệch hóa đơn cá giữ lại; không mua đất nóng; nợ bà Hà còn hạn.
+============================================================

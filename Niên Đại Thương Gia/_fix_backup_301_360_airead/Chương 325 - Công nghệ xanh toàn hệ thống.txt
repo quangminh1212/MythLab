@@ -1,0 +1,208 @@
+============================================================
+Chương 325: Công nghệ xanh toàn hệ thống
+============================================================
+
+——
+
+Ba tháng sau khi hệ thống pin mặt trời vận hành tại Hà Đông, một đoàn chuyên gia từ World Bank đến thăm. Họ không báo trước, chỉ gọi điện một tuần trước. Họ muốn xem hệ thống năng lượng tái tạo của Thương Gia để đánh giá khả năng nhân rộng mô hình cho các doanh nghiệp vừa và nhỏ tại Việt Nam.
+
+Cường đón đoàn. Đoàn gồm ba người: hai chuyên gia năng lượng và một cán bộ dự án. Họ đi thăm xưởng Hà Đông, xem hệ thống pin, hệ thống nước thải, khu xử lý rác. Một chuyên gia người Pháp hỏi Cường: "Anh có bí quyết gì mà thuyết phục được chủ tịch đầu tư bốn mươi tám tỷ vào năng lượng xanh?" Cường cười, trả lời: "Bí quyết là có  số liệu. Tôi cho ông ấy thấy tiết kiệm được bao nhiêu mỗi tháng. Ông ấy tự tính, tự quyết."
+
+Đoàn World Bank ở lại ba giờ. Trước khi về, họ nói sẽ giới thiệu mô hình Thương Gia trong báo cáo thường niên của Ngân hàng về năng lượng tái tạo tại Đông Nam Á. Hùng không đoán trước được điều đó khi quyết định lắp pin mặt trời. Nhưng ông biết: nếu mình làm việc đúng, những điều tốt sẽ đến — không phải ngay lập tức, nhưng chắc chắn.
+
+Hà Đông, tháng Ba năm 2014.
+
+Tiếng máy chạy rền trong xưởng sản xuất số 3 của Thương Gia — một dây chuyền đóng gói thực phẩm công suất mười tấn mỗi ca. Hùng đứng ở lối vào, tay cầm chiếc mặt nạ chống bụi vừa được trợ lý đưa. Trong xưởng, hai trăm công nhân đang làm việc — người đứng máy, người kiểm hàng, người xếp thùng. Không khí nóng hầm hập, mùi dầu mỡ và bụi bột thoang thoảng.
+
+Bên cạnh Hùng là Cường — Cường giám đốc công nghệ, người từng là lập trình viên năm 2001 khi Thương Gia mới bắt đầu số hóa sổ sách. Cường nay đã bốn mươi hai tuổi, đầu hói một mảng, mắt cận nặng. Anh ta đang chỉ tay lên trần xưởng — nơi những bóng đèn huỳnh quang cháy sáng và ống gió điều hòa trung tâm chạy ồn ào.
+
+— Tháng này tiền điện xưởng số 3 là bảy trăm triệu, anh Hùng ạ. Bảy trăm triệu. Xưởng số 1 và số 2 cũng tương tự. Tổng tiền điện ba xưởng sản xuất khoảng hai tỷ một tháng. Một năm hai mươi lăm tỷ — gần bằng lợi nhuận một công ty con.
+
+Hùng không trả lời. Ông xoay người, đi dọc theo dây chuyền, quan sát. Những bóng đèn huỳnh quang — hơn một trăm bóng — sáng cả ngày lẫn đêm, bất kể khu vực có người hay không. Máy nén khí chạy liên tục, kể cả lúc không sản xuất. Hệ thống điều hòa làm mát toàn bộ nhà xưởng, trong khi chỉ có một góc nhỏ là khu vực đóng gói cần điều hòa.
+
+— Cường — Hùng nói — Em biết gì về năng lượng mặt trời?
+
+— Tấm pin quang điện? Biết chứ anh. Nhưng chi phí đầu tư ban đầu cao. Hồi 2009 em có nghiên cứu, giá pin còn rất đắt.
+
+— Bây giờ?
+
+— Rẻ hơn. Khoảng một nửa so với năm 2009. Nhưng để phủ ba xưởng này — nhiều lắm. Có khi hai mươi tỷ.
+
+Hùng gật đầu. Hai mươi tỷ. Một năm tiết kiệm được bao nhiêu từ tiền điện?
+
+— Nếu lắp, một tháng giảm được bao nhiêu?
+
+Cường lấy điện thoại ra, mở app ghi chú, tính nhẩm. — Nếu phủ kín mái ba xưởng bằng pin mặt trời, công suất khoảng một megawatt. Sản lượng trung bình bốn nghìn kWh mỗi ngày, tính ra một tháng giảm được năm đến sáu trăm triệu tiền điện. Thời gian hoàn vốn chừng ba năm. Sau đó lời.
+
+— Làm.
+
+Cường nhìn Hùng. — Nghiên cứu thêm chưa anh? Còn đấu thầu, lắp đặt, bảo trì…
+
+— Làm nghiên cứu. Gửi tôi đề xuất trong một tháng. Bao gồm số liệu tiết kiệm, thời gian hoàn vốn, rủi ro.
+
+— Rủi ro là thời tiết. Mùa đông và mùa mưa, sản lượng giảm ba mươi phần trăm.
+
+— Biết rồi. Thì tính luôn phương án dự phòng.
+
+—
+
+Ba tuần sau, Cường gửi bản đề xuất. Hùng đọc vào tối chủ nhật, ngồi ở bàn ăn, một tách trà và một cây bút đỏ. Đề xuất dày ba mươi trang, có bản vẽ, có sơ đồ, có tính toán tài chính chi tiết. Hùng gạch đỏ một chỗ: Cường dự tính lắp pin trên mái ba xưởng và một phần mái văn phòng. Tổng công suất 1.2 megawatt, tổng đầu tư mười tám tỷ, thời gian hoàn vốn ba năm hai tháng.
+
+Tờ thứ hai là về cắt giảm tiêu thụ điện. Cường đề xuất thay toàn bộ bóng đèn huỳnh quang bằng đèn LED, lắp cảm biến tự động tắt ở khu vực ít người, và tách hệ thống điều hòa thành các cụm nhỏ để chỉ làm mát khu vực cần thiết. Chi phí thấp hơn: ba tỷ, thời gian hoàn vốn một năm.
+
+Hùng ghi bên lề: "Làm trước. Pin mặt trời song song."
+
+—
+
+Tháng Tư năm 2014, dự án "Xưởng xanh" của Thương Gia bắt đầu. Mũi thứ nhất: thay bóng đèn và lắp cảm biến. Mất hai tuần, tốn ba tỷ, đến cuối tháng tư thì xong. Hóa đơn tiền điện tháng Năm giảm tám trăm triệu so với tháng Ba.
+
+Mũi thứ hai: lắp pin mặt trời trên mái ba xưởng. Cường đấu thầu, chọn được nhà thầu trong nước — công ty Năng lượng Xanh, một doanh nghiệp nhỏ do kỹ sư Hoàng Anh thành lập năm 2008. Hoàng Anh ba mươi bảy tuổi, từng học điện tử ở Đức về, mở công ty với số vốn ba trăm triệu. Sáu năm sau, công ty đã lắp đặt hơn hai mươi hệ thống pin mặt trời cho các nhà máy vừa và nhỏ tại miền Bắc.
+
+Hùng gặp Hoàng Anh một lần, tại quán cà phê nhỏ gần xưởng — không phải phòng họp. Hoàng Anh giải thích về tấm pin, về inverter, về hiệu suất, về mức độ hao hụt theo năm. Hùng nghe, hỏi năm câu, rồi bảo: "Làm đi. Anh Cường giám sát kỹ thuật. Tôi không muốn nghe chuyện thấm dột vì khoan mái sai."
+
+—
+
+Tháng Bảy, pin mặt trời bắt đầu phát điện. Buổi đầu tiên hòa lưới, Cường đứng ngoài sân xưởng, nhìn lên mái — những tấm pin xanh đen trải dài, hứng nắng trưa hè. Đồng hồ đo hai chiều quay chậm rãi — hướng dương: xưởng đang bán điện thừa lên lưới quốc gia. Tiền điện tháng Bảy giảm thêm một tỷ hai trăm triệu, gộp cả LED và pin mặt trời, tổng giảm hai tỷ so với cùng kỳ năm trước.
+
+Hùng không nói gì khi nhận báo cáo từ Cường. Ông chỉ gật đầu, rồi hỏi: — Cái này nhân rộng được không?
+
+— Nhân rộng ra toàn bộ hệ thống sản xuất của Thương Gia? Xưởng Hải Phòng, Đà Nẵng, Cần Thơ?
+
+— Ừ.
+
+Cường nhẩm tính. — Khoảng năm mươi tỷ cho toàn bộ. Tổng công suất bốn megawatt. Thời gian hoàn vốn ba năm rưỡi. Nhưng có một vấn đề.
+
+— Vấn đề gì?
+
+— Mái xưởng Đà Nẵng và Cần Thơ không đủ diện tích. Cần làm thêm mái che bãi đỗ xe để lắp pin.
+
+— Làm.
+
+—
+
+Cuối năm 2014, Thương Gia đã lắp pin mặt trời tại năm cơ sở sản xuất: Hà Đông (ba xưởng), Hải Phòng (hai xưởng), Đà Nẵng (một xưởng), Cần Thơ (một xưởng), và trụ sở Hà Nội. Tổng công suất 4.2 megawatt. Tổng đầu tư bốn mươi tám tỷ. Hóa đơn tiền điện giảm trung bình bốn mươi phần trăm mỗi tháng. Dự kiến hoàn vốn vào cuối năm 2017.
+
+Nhưng Hùng không dừng ở pin mặt trời.
+
+—
+
+Đầu năm 2015, ông gọi Cường và Hoàng Anh lên phòng làm việc. Lần này không có bản vẽ xưởng. Có sơ đồ hệ thống của toàn bộ Thương Gia.
+
+— Pin mặt trời xong rồi. Tiếp theo là gì? — Hùng hỏi.
+
+Cường mở laptop. — Rác thải sản xuất. Mỗi năm ba xưởng thải khoảng ba trăm tấn rác thải công nghiệp — bao bì nilon, thùng carton hỏng, phế phẩm nhựa. Phần lớn được bán cho đơn vị tái chế, nhưng giá thấp và không ổn định. Em nghĩ mình nên xây hệ thống xử lý tại chỗ.
+
+— Cụ thể?
+
+— Phân loại ngay tại xưởng. Rác hữu cơ — ủ phân hoặc biogas cho nhà bếp công nhân. Rác nhựa — nghiền, tái chế thành vật liệu đóng gói cấp thấp. Giấy vụn — bán trực tiếp cho nhà máy giấy, không qua trung gian.
+
+— Tốn bao nhiêu?
+
+— Một tỷ rưỡi đến hai tỷ cho ba xưởng.
+
+— Làm.
+
+Hoàng Anh lên tiếng: — Em có một đề xuất nữa. Nước thải. Xưởng thực phẩm sản xuất nhiều nước thải chứa dầu mỡ và chất hữu cơ. Nếu xử lý bằng hệ thống sinh học kết hợp với màng lọc MBR, nước đầu ra đạt tiêu chuẩn cấp B, có thể tái sử dụng cho tưới cây và làm mát.
+
+— Chi phí?
+
+— Khoảng bốn tỷ cho một hệ thống trung tâm tại Hà Đông. Nếu nhân rộng ra cả hệ thống, mười tỷ.
+
+Hùng không trả lời ngay. Ông nhìn ra cửa sổ, nơi những tấm pin mặt trời trên mái văn phòng đang hút nắng. Trên bàn ông, một cuốn sổ mở trang đầu — ông đã ghi lại toàn bộ các dự án từ đầu năm: thay đèn LED, pin mặt trời, phân loại rác, nước thải, và còn một dòng để trống.
+
+Ông viết vào dòng đó: "Hệ thống giám sát năng lượng thông minh."
+
+— Cường — Hùng nói — Em thiết kế cho tôi một hệ thống giám sát. Không chỉ pin mặt trời. Toàn bộ. Điện, nước, rác thải của từng xưởng. Hiển thị trên một màn hình. Tôi muốn biết xưởng nào tiêu thụ nhiều nhất, tiết kiệm nhất, và tại sao.
+
+Cường gật đầu. Cường đã quen với những yêu cầu lớn của Hùng. Hồi 2001, ông bảo: "Làm cho tôi một phần mềm quản lý kho." Cường làm. Năm 2005: "Làm hệ thống kết nối các điểm bán." Cường làm. Năm 2010: "Làm website cho Thương Gia." Cường làm. Bây giờ: "Hệ thống giám sát năng lượng thông minh." Cường sẽ làm.
+
+—
+
+Tháng Năm năm 2015, hệ thống giám sát năng lượng của Thương Gia đi vào vận hành. Màn hình lớn đặt tại phòng họp tầng hai — mười hai ô vuông, mỗi ô là một nhà máy, hiển thị điện năng tiêu thụ theo thời gian thực, sản lượng pin mặt trời, lượng nước thải đã xử lý, rác thải đã phân loại.
+
+Hùng đứng trước màn hình lần đầu tiên, im lặng khoảng một phút. Ông thấy xưởng Hà Đông đang sản xuất 78% năng lượng từ mặt trời. Thấy xưởng Hải Phòng xử lý 400 lít nước thải mỗi giờ. Thấy lượng rác thải nhựa đã tái chế đạt 62%.
+
+Ông quay sang Cường, hỏi câu duy nhất: — Cái này xem được từ xa không?
+
+— Được anh. Em cài app trên điện thoại cho anh. Anh xem được từ bất cứ đâu.
+
+— Tốt.
+
+—
+
+Một năm sau khi bắt đầu "Công nghệ xanh toàn hệ thống," Thương Gia không chỉ tiết kiệm tiền điện. Thương Gia có một hệ thống vận hành bền vững hơn. Và quan trọng hơn cả — khi đối tác nước ngoài đến thăm nhà máy, họ nhìn thấy những tấm pin trên mái, hệ thống nước thải khép kín, bảng giám sát năng lượng thông minh — và họ nói: "Đây là nhà máy của tương lai."
+
+Trong báo cáo thường niên 2015, Hùng viết một trang riêng về công nghệ xanh. Ông không dùng từ "trách nhiệm xã hội" hay "phát triển bền vững" — những từ ông cho là đã bị dùng nhiều quá. Ông viết: "Xưởng tiết kiệm điện hơn là xưởng có lợi nhuận cao hơn. Đơn giản vậy thôi."
+
+Dưới gốc, ông ghi: "Mái xưởng Hà Đông, 78% năng lượng từ mặt trời. Mục tiêu: 100%."
+
+————
+
+Một buổi chiều cuối tháng Mười hai, Hùng đứng trên sân thượng của tòa nhà trụ sở Hà Nội, nhìn xuống thành phố. Từ trên cao, Hà Nội trải ra trước mắt ông — những dãy phố cũ, mái ngói nâu sẫm, xen lẫn những tòa nhà cao tầng mới mọc. Xa xa, dòng sông Hồng uốn khúc, nước đục ngầu mùa lũ.
+
+Cường đứng bên cạnh. Tay anh ta cầm một máy tính bảng, trên màn hình hiển thị hệ thống giám sát năng lượng thời gian thực.
+
+"Anh Hùng, tổng sản lượng pin mặt trời hôm nay là mười bảy nghìn kWh," Cường nói. "Tiết kiệm được khoảng hai mươi triệu đồng so với mua điện lưới."
+
+Hùng không trả lời ngay. Ông nhìn những tấm pin xanh đen trên mái các tòa nhà đối diện — không chỉ của Thương Gia, mà của một số công ty khác cũng đã bắt đầu lắp đặt. Phong trào xanh đang lan ra, dù chậm.
+
+"Cường."
+
+"Dạ."
+
+"Nếu ngày nào cũng có nắng, bao lâu thì Thương Gia hoàn vốn?"
+
+"Với sản lượng trung bình hiện tại, thêm hai năm nữa là hòa vốn toàn bộ hệ thống pin mặt trời. Sau đó là lời."
+
+"Và nếu không có nắng?"
+
+Cường cười. "Em đã tính cả kịch bản đó. Mùa mưa kéo dài ba tháng, sản lượng giảm ba mươi lăm phần trăm. Nhưng bù lại, mùa hè nắng nhiều hơn dự kiến, nên trung bình năm vẫn đạt chín mươi hai phần trăm công suất thiết kế."
+
+Chín mươi hai phần trăm. Hùng nhẩm tính. Con số đó đủ để ông yên tâm. Ông không đòi hỏi một trăm phần trăm — ông đã học được từ ba mươi năm kinh doanh rằng không có gì đạt một trăm phần trăm. Tám mươi phần trăm là tốt. Chín mươi phần trăm là xuất sắc. Một trăm phần trăm là không tưởng.
+
+"Tháng sau, em qua Đà Nẵng xem xét lại hệ thống ở đó," Hùng nói. "Báo cáo tôi mỗi tuần."
+
+Cường gật đầu. Anh ta biết: khi Hùng nói "báo cáo tôi mỗi tuần," có nghĩa là dự án này quan trọng. Không phải vì tiền — mấy chục tỷ không phải là con số quá lớn với Thương Gia. Quan trọng vì nó là tuyên ngôn: Thương Gia không chỉ kiếm tiền, Thương Gia còn nghĩ đến ngày mai.
+
+Hùng quay người, bước xuống cầu thang. Trên đường vào văn phòng, ông gặp một nhóm công nhân đang tan ca — họ mặc đồng phục xanh, đội mũ bảo hộ, tay xách cặp lồng cơm. Một người trong số họ nhận ra Hùng, khẽ nghiêng đầu chào.
+
+Hùng gật đầu đáp lại. Ông không biết tên người công nhân đó, nhưng ông biết: nhà máy này, những tấm pin này, hệ thống nước thải này — tất cả đều để cho những người như anh ta có việc làm ổn định, có môi trường làm việc tốt hơn. Đó là cái đích cuối cùng của "công nghệ xanh toàn hệ thống."
+
+Tối đó, về nhà, Hùng ngồi lại với Lan ở bàn ăn, tách trà nguội dần giữa hai người. "Bốn point hai megawatt," Lan nói, đọc lại số trong đầu. "Bao nhiêu năm thì thu hồi vốn?" Hùng gõ tay lên bàn, tính nhanh. "Sáu năm nếu giá điện giữ nguyên. Bốn năm nếu giá điện tăng như dự báo." Lan gật đầu, không hỏi thêm — cô tin vào cách anh tính, vì cô đã kiểm tra công thức đó ba lần trong tuần trước.
+
+Bà Hà mang ra một đĩa chuối chiên, đặt xuống giữa bàn. "Ăn đi, nguội rồi," bà nói, giọng không đổi qua bao nhiêu năm. Hùng cầm một miếng, cắn, vị ngọt và giòn quen thuộc từ thời còn nghèo, khi chuối chiên là món ăn sang nhất trong nhà. Ông nhìn Lan, nhìn bà Hà, rồi nhìn ra khung cửa sổ nơi ánh đèn nhà máy xa xa vẫn sáng suốt đêm, tự vận hành mà không cần ai đứng canh.
+
+"Anh có sợ không?" Lan hỏi bất ngờ. "Sợ gì?" Hùng đáp. "Sợ một ngày hệ thống pin đó hỏng, mất điện cả dây chuyền, thiệt hại hàng tỷ." Hùng suy nghĩ một lúc rồi nói thật: "Có. Nhưng sợ không phải lý do để không làm. Sợ là lý do để làm cẩn thận hơn." Lan mỉm cười, không nói thêm, cô hiểu câu trả lời đó — nó giống với cách ba mươi năm trước ông từng nói về canh bạc đầu tiên của đời mình.
+
+Đêm đó, Hùng ra ngoài sân đứng một mình, nhìn lên bầu trời không sao vì ánh sáng đô thị. Ông nghĩ về những tấm pin đang nằm im dưới mái nhà máy, không tiếng động, không khói, chỉ hấp thụ nắng ban ngày và trả lại năng lượng vào ban đêm — như một lời hứa chậm nhưng chắc.
+
+Cường gọi điện lúc mười một giờ đêm, giọng còn hào hứng: "Anh Hùng, em vừa kiểm lại, hệ thống giám sát báo hiệu suất đạt chín mươi hai phần trăm công suất thiết kế ngay tuần đầu. Cao hơn dự tính." Hùng đứng ở sân, nghe tin, không reo lên như một người trẻ mới thắng hợp đồng đầu đời — ông chỉ gật đầu, dù không ai thấy trong đêm. "Tốt. Giữ vậy, đừng chủ quan." Cường cười qua điện thoại: "Vâng anh, em hiểu."
+
+Cúp máy, Hùng đứng thêm một lúc, nhìn về hướng khu công nghiệp, nơi những tấm pin mặt trời đang nằm im dưới lớp sương đêm, chờ một ngày nắng khác. Rồi ông quay vào nhà, khép cửa lại sau lưng.
+
+Cuốn sổ trong túi nặng hơn khi lấy ra. Hùng viết thêm một dòng cuối: 'Tháng 4/2015 — toàn bộ dự án xanh đạt sản lượng thiết kế. Ngân sách không vượt dự toán.'
+
+Mot chuyen bay cua Hung ve Sai Gon. O nhin may bay cat canh, long hoi hop nhu chuyen bay đau tien. O cam thay minh vẫn con tre. O tiep tuc song, tiep tuc uoc mo. 'Bay gio hay mai mai, toi van la toi.'
+
+Hung hoc đuoc cach song hanh phuc tu nhung đieu nho nhoi. O tan huong mot ly cafe, mot buoi sang đep, mot tieng chim hot. O cam on cuoc song. O song cho gia đinh.
+
+Một người khách gõ cửa, Hùng ra mở. Người khách là một cô gái trẻ, mắt đỏ hoe, tay cầm một túi quà nhỏ. “Cháo chú. Cháu đến cảm ơn chú.” Hùng nhìn cô, mắt ông trều mến. “Có chuyện gì mà cháu khóc thế?” Cô gái lau nước mắt, mở túi quà. Bên trong là một chiếc khăn thêu tay. “Cháu thêu tặng chú.” Hùng cầm chiếc khăn, tay run run. Mùi vải mới thơm, đường chỉ mềm mại. “Cảm ơn cháu.” Ông nói khẽ, mắt cay.
+
+Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+
+Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
+
+Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+
+Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
+
+
+
+============================================================
+「Hệ thống — GHI NHẬN ch.325」
+Năm: 2014–2015
+Tổng EXP: 80,000 (+400 nhiệm vụ: Hệ thống xanh)
+Không gian kho: 43,333m² (+333m²)
+Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2 (+), Di sản lv1
+Ghi chú: Lắp 4.2MW pin mặt trời, hệ thống giám sát năng lượng toàn hệ thống
+============================================================

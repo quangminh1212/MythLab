@@ -1,5 +1,6 @@
 ============================================================
 Chương 123: Xây dựng đội ngũ xuất khẩu
+============================================================
 
 Hùng kéo tấm bạt cũ che chiếc bàn gỗ dài trong góc kho — khoảng không gian chừng ba mươi mét vuông, tường gạch trần để mộc, trần thấp lợp fibrô xi-măng, ánh sáng từ một bóng đèn tròn duy nhất không đủ để đọc giấy tờ vào những ngày âm u. Bốn cái ghế nhựa màu đỏ đã mua từ tháng trước, một cái quạt bàn cánh nhôm quay kêu lạch cạch mỗi khi chạy, và chiếc bàn gỗ bạt cũ kê giữa nền xi-măng loang lổ. Trên bàn — một cái khay đựng hồ sơ bằng sắt tây đã hoen gỉ ở góc, một lọ mực Parker màu xanh còn phân nửa, và một chiếc đồng hồ báo thức cũ bằng nhựa đen nhặt được từ đống đồ thanh lý — kim giây chạy từng tích một cách đều đặn, đánh dấu nhịp thời gian của một đội ngũ đang hình thành.
 
@@ -99,18 +100,39 @@ Bên ngoài, mưa đã tạnh từ lúc nào không hay. Trời cuối năm tron
 
 Hùng ngồi lại bên bàn gỗ trong kho, ánh đèn trần hắt bóng ông dài trên nền xi-măng loang lổ. Mùi fibrô xi-măng sau mưa hòa cùng mùi giấy tờ cũ — thứ mùi của những quyết định đang chờ được ký. Ông kéo ngăn kéo, lấy ra một cuốn sổ bìa xanh mới — trang đầu chỉ mới viết tiêu đề: "Kế hoạch 1989." Ngoài kia, một chiếc tàu đêm rít còi xa xa, tiếng vọng xuyên qua màn đêm tĩnh mịt. Ông lật bút, viết dòng đầu tiên: "Tuyển thêm ba người — mở thêm một xưởng." Rồi dừng lại, nhìn vào khoảng tối trước mặt. Cả một năm mới đang chờ phía trước, và lần đầu tiên, Hùng cảm thấy mình không đơn độc.
 
-【Hệ thống — GHI NHẬN ch.123】
-Năm: 1988
-Tổng EXP: 18,918 (+84 nhịp này)
-Không gian kho: 6,083m² (+17m²)
+***
 
+Cuối tháng, Hùng gọi riêng Quang, Duyên và Vinh vào góc kho. Mùi fibrô ẩm sau mưa vẫn còn. Ông đặt ba phong bì mỏng:
 
+"Không phải thưởng. Là quyền ký trong hạn mức. Quang — L/C dưới năm mươi nghìn đô. Duyên — giấy tờ xuất. Vinh — lịch tàu. Sai một dòng, ba người cùng chịu."
 
-Hùng nhíu mày, siết ngón tay sổ ch.123. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Quang nuốt, mắt nhìn thẳng: "Em chưa từng ký L/C."
 
+"Thì học. Lan ngồi cạnh lần đầu. Lần hai em ngồi một mình. Lần ba em giải thích cho người mới." Hùng siết mép bàn. "Đội xuất khẩu không phải bảy người đứng nghe tôi nói. Là ba người dám ký khi tôi vắng."
+
+Duyên liếc sổ, cúi ghi. Vinh thở dài rồi gật. Lan đứng ngoài cửa, không xen — chỉ theo dõi tay ai run, mắt ai tránh.
+
+Tối, bà Hà gói bánh chưng sớm cho năm mới. "Con tuyển người giỏi không?" Hùng cười, buông khăn: "Giỏi chưa biết. Chịu trách nhiệm thì đã có dấu hiệu."
+
+Lan mang ấm trà ra hiên. "Anh ơi, telex Thái hỏi lịch giao mẫu. Em trả lời được không?"
+
+"Được. Em trả. Copy cho anh sau." Hùng ngẩng, nhìn em gái — không còn chỉ là người ghi chép. "Ngày mai họp xuất khẩu không cần tôi mở đầu. Em mở."
+
+Lan siết tách trà, hơi run nhưng mắt không liếc xuống. "Em mở."
+
+Ngoài ngõ, tiếng pháo sớm nổ xa. Mùi khói lưu huỳnh thoảng. Hùng viết vào sổ bìa xanh: "Quyền ký = đào tạo thật. Không phải chức danh."
+
+Sáng mai Quang sẽ cầm bút lần đầu trên L/C. Liệu chữ ký có vững — hay chỉ đẹp trên giấy phân quyền?
+
+Ba ngày vắng, hệ thống vẫn chạy — đó mới là đội ngũ. Quang nói không đúng lúc, Duyên giữ ba biên nhận, Vinh không chở hàng lậu. Phía trước là kế hoạch 1989 trên sổ, không phải sơ đồ đẹp trên tường.
+
+Quang cầm bút L/C lần đầu, tay hơi run, Lan ngồi cạnh. Hùng đứng cửa kho, không cầm tay thay — chỉ gật khi dòng cuối đúng.
+
+============================================================
 「Hệ thống — GHI NHẬN ch.123」
 Năm: 1988
-Tổng EXP: 0
-Không gian kho: 0
-Kỹ năng trọng yếu: (xem ledger)
-Ghi chú: khóa nhịp
+Tổng EXP: 18,917 (+84 nhịp này)
+Không gian kho: 6,083m² (+16m²)
+Kỹ năng trọng yếu: Logistics lv2, Tài chính lv1, Tài chính lv2, Giáo dục lv1
+Ghi chú: Đội XK quyền ký hạn mức Quang Duyên Vinh
+============================================================

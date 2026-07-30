@@ -1,0 +1,256 @@
+============================================================
+Chương 332: Tập đoàn bóng tối trở lại
+
+Hà Nội, tháng Mười Một năm 2016. Trận mưa cuối mùa trút xuống thành phố như một cơn giận dữ cuối cùng trước khi đông về. Nước ngập đến nửa bánh xe máy trên phố Huế, những tán cây sấu già nghiêng ngả, tàu điện ngầm vẫn chưa xây xong — nhưng cái thành phố này đã quen sống chung với những thứ dang dở. Hàng rong vẫn đội mưa đẩy xe qua phố, những quán cà phê cóc vẫn bạt che vải xanh, những gương mặt lam lũ vẫn đều đều như những giọt nước mưa rơi mãi không ngừng.
+
+Ở tầng hai tòa nhà Thương Gia trên phố Tràng Tiền, Sơn ngồi trước ba màn hình máy tính với vẻ mặt chưa bao giờ có trong suốt bốn năm làm IT cho tập đoàn. Bình thường, mặt cậu vô cảm như một lập trình viên chuyên nghiệp — chỉ nhìn code, không nhìn đời. Nhưng sáng nay, trán Sơn nhăn lại, mắt nheo, hai tay lướt trên bàn phím như gõ morse trong lúc khẩn cấp.
+
+Trên màn hình giữa: một bảng Excel với hàng trăm dòng giao dịch cổ phiếu, tô màu đỏ và xanh. Những con số nhảy múa trước mắt — mã chứng khoán TGW, sàn HNX, khối lượng giao dịch, giá trị. Trên màn hình bên trái: cửa sổ đăng nhập vào hệ thống sàn HNX — Sơn có tài khoản xem dữ liệu thời gian thực nhờ một người bạn làm ở công ty chứng khoán, cái tài khoản mà cậu chưa bao giờ dùng cho việc cá nhân, chỉ dùng cho công việc khi có linh cảm.
+
+Linh cảm — cậu không tin vào nó. Cậu tin vào dữ liệu.
+
+Sơn đã ngồi như thế từ bảy giờ sáng. Bây giờ là mười giờ. Trước mặt cậu là cốc cà phê đã uống hết từ lâu, chỉ còn lại một lớp bã đen khô dưới đáy, thành cốc ám một quầng nâu. Nhưng Sơn không để ý — khi đã vào việc, cậu quên cả đói, quên cả khát. Đó là lý do Hùng giữ cậu lại dù nhiều công ty săn đầu người đã gọi, dù lương cậu chưa bao giờ bằng một nửa thị trường.
+
+Cậu nhìn vào dòng giao dịch thứ bảy trong bảng lọc — một lệnh mua 210.000 cổ phiếu TGW, khớp lúc 9 giờ 47 phút. Bên dưới, mười hai lệnh nhỏ hơn, mỗi lệnh từ 5.000 đến 15.000, tất cả khớp trong vòng bốn mươi phút. Cùng một khoảng giá: 38.200 đến 38.500.
+
+Sơn uống cạn phần cà phê còn lại trong cốc — đắng ngắt. Cậu mở một cửa sổ khác: bảng tổng hợp giao dịch ba tuần. Những điểm chấm màu đỏ xuất hiện đều đặn trên biểu đồ — mỗi ngày một ít, không gây chú ý, giống như một người mua tích lũy đều đặn.
+
+Nhưng không phải một người. Là ba công ty. Ba pháp nhân khác nhau. Cùng mua một loại cổ phiếu — Thương Gia. Cùng một khoảng giá. Cùng một khuôn mẫu giao dịch: mua vào buổi sáng, khớp trong phiên, không gây sốc.
+
+"Mẹ kiếp," Sơn lẩm bẩm. Cậu bấm số nội bộ.
+
+"Phát hiện ra gì chưa?" — Hùng bước vào, tay cầm cốc cà phê nóng — cốc thứ hai trong sáng, hơi nước bốc lên trong không khí lạnh đầu đông. Ông đặt cốc xuống bàn Sơn, nhìn ba màn hình. Năm mươi lăm tuổi, tóc đã muối nhiều hơn tiêu, nhưng mắt vẫn tinh. Hùng không phải dân công nghệ — ông thuộc thế hệ cầm bút bi viết sổ, cầm máy tính bấm từng con số — nhưng ông biết đọc số. Ba mươi lăm năm đọc bảng cân đối kế toán, đọc báo cáo tài chính, đọc những con số biết nói.
+
+"Sếp ra đây xem cái này."
+
+Hùng kéo ghế ngồi xuống. Màn hình hiện một bảng giao dịch đã được lọc, tô màu theo từng tiêu chí:
+
+- **CTCP Đầu tư Phương Đông**: mua 180.000 CP Thương Gia, ngày 15/10. Mua thêm 210.000 CP, ngày 2/11.
+- **CTCP Thương mại Á Châu**: mua 95.000 CP, ngày 20/10. Mua thêm 150.000 CP, ngày 5/11.
+- **Công ty TNHH SX & DV Bắc Hà**: mua 140.000 CP, ngày 25/10.
+- Tổng cộng giao dịch nhỏ lẻ qua các tài khoản phụ: ước tính 80.000 CP phân tán.
+
+"Ba công ty, cùng mua trong vòng ba tuần. Cùng một loại cổ phiếu — Thương Gia. Cùng một sàn — HNX. Cùng một khoảng giá — từ 38 đến 42. Em lọc thêm: cùng một mô hình — mua sáng, giữ, không bán."
+
+Hùng nhìn những con số. Ông không trả lời ngay. Trong đầu, những số liệu bắt đầu ráp lại thành một đường cong. Ông từng đọc về mô hình này trong một báo cáo ở trường kinh tế, cách đây ba mươi năm, khi còn là sinh viên tại chức: thôn tính âm thầm.
+
+"Tổng cộng bao nhiêu?"
+
+"775.000 cổ phiếu trực tiếp. Cộng với các giao dịch phân tán — khoảng 860.000, tương đương ~34 tỷ đồng."
+
+"Chiếm bao nhiêu phần trăm?"
+
+"Khoảng 4,2%."
+
+Hùng uống một ngụm cà phê. Ông không nói gì. Trong đầu, những con số bắt đầu ráp lại: một năm trước, hồi tháng Ba năm 2015, có một lô 2% cổ phiếu Thương Gia được mua qua tài khoản của một cá nhân không rõ danh tính — giao dịch qua SSI, không công bố danh tính người sở hữu thực sự. Hùng không để ý — thị trường vẫn có những giao dịch lớn bình thường. Nhưng bây giờ, nhìn lại, ông thấy một đường thẳng kéo dài: 2% → 4,2% → nếu cộng thêm đợt này và các lô nhỏ lẻ khác... ông ước tính đã gần 6,5%.
+
+"Sơn, cậu có thể kiểm tra xem ba cái công ty này có liên quan gì với nhau không?"
+
+Sơn gõ bàn phím vài cái. Một trang web tra cứu doanh nghiệp hiện ra — thông tin từ Cổng thông tin đăng ký doanh nghiệp, kết hợp với dữ liệu cậu trích xuất từ nhiều nguồn.
+
+"CTCP Đầu tư Phương Đông — thành lập tháng 3/2016. Vốn điều lệ: 20 tỷ. Trụ sở: Cam Ranh, Khánh Hòa. Ngành nghề: đầu tư bất động sản." Sơn lướt xuống. "CTCP Thương mại Á Châu — thành lập tháng 5/2016. Vốn điều lệ: 15 tỷ. Trụ sở: Hải Phòng. Ngành nghề: thương mại tổng hợp. Công ty TNHH SX & DV Bắc Hà — thành lập tháng 7/2016 — trễ hơn hai tháng. Vốn điều lệ: 10 tỷ. Trụ sở: Bắc Giang."
+
+"Đều mới thành lập trong năm nay?"
+
+"Chính xác. Và đây —" Sơn phóng to một phần của bảng, nơi cậu đã dùng script tự viết để dò mối liên hệ — "cả ba đều có một điểm chung."
+
+"Điểm gì?"
+
+"Người đại diện theo pháp luật của Phương Đông là bà Nguyễn Thị Minh. Bà Minh này đồng thời là cổ đông sáng lập của Á Châu — tỷ lệ 30%. Còn Bắc Hà thì do một người tên Lương Văn Đức đứng tên — Đức này là em họ của Lương Thế Huy."
+
+Hùng đặt cốc cà phê xuống, rất từ từ, không gây tiếng động. Lương Thế Huy — cái tên này ông đã nghe từ một bức fax nặc danh gửi đến phòng hành chính, không đề tên người gửi, chỉ có ba dòng: "Coi chừng Lương Thế Huy. Casino Hạ Long. SHB Hải Phòng." Bức fax đã được chuyển lên bàn Hùng hai tháng trước, thư ký tưởng là thư rác. Nhưng Hùng không vứt. Ông giữ nó trong ngăn kéo, cùng với hàng chục tờ giấy khác — những thứ ông chưa hiểu nhưng biết sẽ cần.
+
+"Ai là Lương Thế Huy?" — Sơn hỏi, mắt vẫn nhìn màn hình.
+
+"Kẻ từng làm casino ở Hạ Long. Có tiền án tổ chức đánh bạc. Tôi nghe nói hắn có quan hệ với một số cán bộ ngân hàng thời kỳ đất vàng."
+
+Vẻ mặt Sơn thay đổi — không phải sợ, nhưng kiểu cảnh giác của một lập trình viên vừa phát hiện ra lỗ hổng bảo mật đã tồn tại từ lâu trong hệ thống mà mình tưởng là an toàn.
+
+"Họ đang gom dần. Mỗi lần một ít, dưới ngưỡng phải công bố."
+
+"Bao nhiêu là phải công bố?"
+
+"Nếu sở hữu từ 5% trở lên, phải đăng ký với Ủy ban Chứng khoán. Nếu vượt 10%, phải công bố thông tin chi tiết. Còn nếu mua lẻ qua nhiều tài khoản, họ có thể tránh được ngưỡng 5% một thời gian dài."
+
+"Vậy hiện tại họ đang ở dưới 5%?"
+
+"Đang ở 4,7% tính tới hôm qua. Nhưng nếu cộng thêm lô giao dịch sáng nay —" Sơn bấm phím làm mới bảng — "đã có thể lên 5,2%."
+
+Hùng đứng dậy, đi đến cửa sổ. Mưa đã ngớt, chỉ còn lất phất. Những mái nhà phố Tràng Tiền nhòe nước, đèn đường phản chiếu trên mặt đường ướt, xe cộ thưa thớt. Một người đàn bà đội nón lá đạp xe chở một thúng rau, lặng lẽ như một bóng ma trong màn mưa sáng.
+
+"5,2% là chưa đủ để nguy hiểm. Nhưng nếu họ tiếp tục mua trong âm thầm, đến lúc chúng ta phát hiện thì có thể đã quá muộn."
+
+"Sếp tính sao?"
+
+Hùng không trả lời ngay. Ông nhìn xuống đường — một người đàn ông đẩy xe bánh mì qua giao lộ phố Huế, tấm bạt che hàng rách một góc, gió thổi tung lên, để lộ những ổ bánh mì vàng ươm bên trong. Ba mươi lăm năm trước, ông cũng từng đẩy xe như thế. Không phải bánh mì, là vải — những cuộn vải may mặc — từ xưởng thuê ở Hà Đông ra chợ Đồng Xuân, mỗi chuyến hai tiếng đạp xe, mồ hôi ướt đẫm lưng áo. Lúc ấy, không có kẻ thù. Chỉ có đói và no.
+
+Bây giờ, kẻ thù xuất hiện. Không phải đói, không phải no. Là những con số trên sàn chứng khoán, những công ty ma, những dòng tiền không rõ nguồn gốc, những cái tên như Lương Thế Huy — những thứ ông không thể đạp xe tránh được.
+
+"Cậu tiếp tục theo dõi. Ghi lại tất cả giao dịch, dù là nhỏ nhất. Em có thể viết script tự động phát hiện giao dịch bất thường không?"
+
+"Có, em đã viết sẵn từ học kỳ đại học — dùng cho đồ án. Em sẽ sửa lại cho khớp dữ liệu HNX."
+
+"Tốt. Và tìm mối liên hệ — tôi muốn biết ai đang ngồi sau bàn phím của ba công ty này, ai đang chỉ đạo, ai đang cấp vốn."
+
+"Vâng. Còn chuyện báo cáo lên Ủy ban Chứng khoán?"
+
+"Chưa. Để họ lộ thêm một chút đã. Khi con mèo quá tập trung vào miếng mồi, nó không thấy cái bẫy phía sau."
+
+Hùng quay lưng, bước ra khỏi phòng IT. Trên hành lang lát gạch men cũ, ông gặp Lan — vợ ông, vừa từ cuộc họp với đối tác Nhật Bản về, tay cầm xấp tài liệu dày cộm, trên mặt vẫn còn son phấn nhưng đôi mắt đã thấm mệt. Ở tuổi năm mươi, Lan vẫn giữ dáng, vẫn mặc áo dài mỗi ngày đi làm — một thói quen mà chị giữ suốt hai mươi lăm năm, không thay đổi dù thời trang có ra sao.
+
+"Mặt anh lạ thế. Có chuyện?"
+
+"Vào phòng tôi."
+
+Trong phòng làm việc của Hùng — căn phòng nhỏ mười hai mét vuông với tủ gỗ xoan cũ, câu đối chữ Hán treo tường, một lịch treo tường do xưởng may tự in, hình ảnh năm mới là cánh đồng lúa chín — Hùng kể lại cho Lan tất cả. Bức fax nặc danh từ hai tháng trước. Ba công ty ma. Dòng tiền từ các tài khoản mới thành lập. Cái tên Lương Thế Huy, casino Hạ Long.
+
+Lan nghe, không ngắt. Chị mở ngăn tủ, lấy phích trà nóng, rót ra hai chén. Hành động đó — rót trà giữa lúc nghe tin xấu — là một thói quen chị học được từ Hùng: khi có tin dữ, hãy uống trà. Hành động nhỏ giúp đầu óc tỉnh.
+
+"Ai là Lương Thế Huy?" — cuối cùng Lan hỏi.
+
+"Năm 2005, hắn mở một casino trá hình ở Hạ Long. Tổ chức đánh bạc, cho vay nặng lãi. Năm 2009, bị bắt. án ba năm. Năm 2012 ra tù. Sau đó mất dấu — đến bây giờ."
+
+"Hắn có liên quan gì đến mình?"
+
+"Tôi không biết. Nhưng hắn có em họ đứng tên một trong ba công ty đang mua cổ phiếu của chúng ta."
+
+"Hai tháng trước anh nhận được fax cảnh báo. Sao anh không nói với em?"
+
+Hùng im lặng. Ông nhìn chén trà, nước trà màu hổ phách, hơi nóng bốc lên mờ mờ. "Vì tôi chưa biết đó là thật hay bẫy. Có thể ai đó muốn tôi nghi ngờ Lương Thế Huy để tôi nhìn sai hướng. Có thể cảnh báo thật. Tôi cần thời gian kiểm tra."
+
+"Và bây giờ anh biết?"
+
+"Bây giờ tôi biết nó là thật. Nhưng vẫn chưa biết ai đứng sau Lương Thế Huy. Hắn chỉ là tay sai. Người thật sự — chưa lộ mặt."
+
+Lan uống một ngụm trà. "Anh tin ai?"
+
+"Hả?"
+
+"Cái bức fax nặc danh đó. Anh không biết ai gửi. Anh không biết mục đích của họ. Họ có thể đang cảnh báo thật. Cũng có thể đang kéo anh vào một cuộc chơi mà họ đã dàn xếp từ trước để anh đưa ra quyết định sai."
+
+Hùng im lặng. Đó là câu hỏi ông chưa có lời giải. Cả đời ông làm kinh doanh bằng trực giác và số liệu — nhưng lần này, trực giác nói ông đang đứng trước một thứ lớn hơn một vụ thâu tóm thông thường.
+
+"Em nói đúng. Tôi không biết."
+
+"Vậy mình cần biết trước khi làm gì." — Lan nói. "Để em gọi một người."
+
+Chị lấy điện thoại, bấm một số không có trong danh bạ. Đầu dây bên kia đổ chuông ba hồi. Một giọng nam — già, khàn, như người vừa ngủ dậy dù đã gần trưa.
+
+"Bác Hà à? Cháu là Lan đây. Cháu có chuyện cần hỏi bác."
+
+Bà Hà — em gái của ông Phúc, cổ đông lớn thứ hai của Thương Gia thời kỳ đầu — từng làm thanh tra Ngân hàng Nhà nước, đã nghỉ hưu từ năm 2010. Bà sống ở Vũng Tàu, trong một căn nhà nhỏ cạnh chợ, không dùng điện thoại thông minh, không email, đọc báo giấy mỗi sáng uống cà phê. Bà là người duy nhất trong gia đình họ Phúc giữ liên lạc với giới ngân hàng cũ, những người đã nghỉ hưu hoặc đã chuyển ngành, nhưng vẫn biết chuyện — dân ngân hàng có cách của họ.
+
+Bà Hà nói chậm, từng từ, giọng khàn đặc nhưng rõ ràng: "Gì thế cháu?"
+
+"Có một nhóm đang gom cổ phiếu Thương Gia. Bác có nghe gì không?"
+
+Im lặng năm giây. Bà Hà thở dài. "Có. Nghe rồi."
+
+"Ai ạ?"
+
+"Không biết cụ thể. Nhưng dòng tiền là từ SHB — chi nhánh Hải Phòng. Có người cũ trong hệ thống đứng sau."
+
+"Người cũ nào ạ?"
+
+"Nguyễn Hữu Tuấn. Năm 2000, hắn làm phó tổng SHB Hải Phòng. Trẻ, nhanh, tham vọng. Sau bị điều chuyển vì mấy vụ cho vay không đảm bảo. Rồi nghỉ, sang Singapore. Làm cho một quỹ đầu tư. Tên gì ấy nhỉ — First Capital Partners, hình như thế. Hắn vẫn còn quan hệ với SHB Hải Phòng qua một giao dịch viên tên Nam — Hoàng Văn Nam, thư ký cũ của hắn."
+
+Lan ghi chép. "Cảm ơn bác."
+
+"Lan này — chú Hùng khỏe không?"
+
+"Dạ khỏe."
+
+"Nhắn với chú ấy: lũ này không phải loại vừa. Chúng có luật sư, có tiền, có quan hệ. Đừng đánh bằng tay không."
+
+"Dạ cháu biết."
+
+Lan gác máy. Vẻ mặt chị trầm hẳn. Chị kể lại cho Hùng tất cả.
+
+Hùng nhắm mắt. Mọi thứ bắt đầu nối lại. Năm 2000 — ông nhớ rõ cái ngày Nguyễn Hữu Tuấn đến gặp ông, đưa ra một gói tín dụng ưu đãi với lãi suất thấp hơn thị trường 2%. Điều kiện: toàn bộ tài khoản Thương Gia phải chuyển về SHB. Lúc ấy, Thương Gia đã lớn, Hùng đã có quan hệ với Ngân hàng Ngoại thương từ năm 1995. Ông từ chối. Tuấn cười — cái cười của người trẻ từng thắng mọi cuộc chơi — "Anh không cần tôi hôm nay, nhưng sau này tôi sẽ quay lại."
+
+Mười sáu năm sau, câu nói đó vọng về.
+
+Ngày hôm sau, Sơn mang đến cho Hùng một bản in dài bảy trang — sơ đồ dòng tiền, thông tin doanh nghiệp, lịch sử giao dịch mà cậu đã tổng hợp từ nhiều nguồn khác nhau. Trang nào cũng có ghi chú đỏ. Cậu làm việc cả đêm, mắt thâm quầng, cốc cà phê thứ tư trên bàn.
+
+"Sếp, em phát hiện thêm một chi tiết quan trọng. Cả ba công ty này đều mở tài khoản tại SHB Hải Phòng. Và người phụ trách quan hệ khách hàng của họ là một giao dịch viên tên Hoàng Văn Nam — Nam này từng là thư ký của Nguyễn Hữu Tuấn hồi Tuấn còn làm phó tổng."
+
+Hùng gật đầu. Ông mở ngăn bàn, lấy ra chiếc điện thoại cũ — loại cục gạch Nokia, không sim, không internet, chỉ dùng để nghe và gọi. Chiếc điện thoại chỉ có một số được lưu: số của Dũng — người bạn từ thời thanh niên, làm trong ngành an ninh, đã nghỉ hưu sớm. Ông bấm gọi.
+
+"Tôi cần gặp anh."
+
+"Chiều nay. Quán cà phê cũ. Giờ cũ."
+
+Hùng cúp máy, cất điện thoại vào túi trong áo vest. Ông nhìn ra cửa sổ. Một đàn chim sẻ rời khỏi mái nhà đối diện, bay vụt lên bầu trời xám, rồi biến mất sau những tòa nhà cao tầng.
+
+"Cảm ơn, Sơn. Cậu về nghỉ đi. Tối nay không phải thức."
+
+"Nhưng sếp — em muốn tiếp tục dò —"
+
+"Về nghỉ. Ngày mai bắt đầu tiếp. Không ai thắng cuộc chiến chỉ trong một ngày."
+
+Sơn gật đầu, tắt ba màn hình, thu dọn báo cáo. Trước khi ra cửa, cậu quay lại: "Sếp ơi — em có nên báo anh em trong team không? Để đề phòng?"
+
+"Chưa. Càng ít người biết càng tốt. Khi cần, tôi sẽ nói."
+
+Chiều hôm đó, tại quán cà phê cóc trên phố Huế — quán cóc vỉa hè, bàn nhựa, ghế thấp, quạt máy cũ treo tường chạy ro ro — Hùng gặp Dũng. Người đàn ông bước vào, trông như một người bán hàng rong — áo sơ mi cũ, quần vải, dép lào, mũ lưỡi trai kéo sụp. Hắn đặt lên bàn một phong bì nâu.
+
+"Có thông tin gì mới?" Hùng hỏi, không chào.
+
+"Lương Thế Huy." Dũng mở phong bì, lấy ra một tờ ảnh chụp từ xa — mờ, chụp qua cửa kính một nhà hàng sang trọng ở khu Trung Hòa Nhân Chính. Một người đàn ông trung niên, tóc húi cua, mặt vuông, ngồi đối diện với một người khác trong góc khuất, mặt không rõ. Ly rượu trên bàn, bộ vest xám, cà vạt hồng.
+
+Bức ảnh thứ hai: cùng địa điểm, góc khác — người đàn ông kia bước ra từ nhà hàng, lên một chiếc xe màu đen. Biển số: 80.
+
+"Người ngồi đối diện là ai?"
+
+"Không rõ mặt. Nhưng xe đó là xe ngoại giao. Biển số 80 — đầu số của Ngân hàng Nhà nước hoặc Bộ Tài chính. Tôi đang xác minh tiếp."
+
+Hùng cầm bức ảnh, nhìn vào bóng người mờ nhạt trong góc. Ông không hỏi thêm. Ông chỉ gật đầu, cất ảnh vào túi trong.
+
+"Cảm ơn."
+
+Dũng đứng dậy, không uống cà phê, không bắt tay, bỏ đi không nói thêm lời nào. Một phút sau, hắn đã biến mất trong dòng người cuối phố.
+
+Hùng ở lại quán cà phê thêm mười lăm phút. Ông uống hết cốc cà phê — đã nguội, đắng — nhưng ông không gọi thêm. Ông nhìn ra đường phố, nơi dòng người cuối giờ chiều tấp nập — những gương mặt lướt qua: vội vã, mệt mỏi, hoặc vô cảm. Không ai biết rằng trong cái quán cóc tồi tàn này, một người đàn ông đang cầm trong tay bằng chứng về một âm mưu có thể làm rung chuyển một tập đoàn ba mươi lăm năm tuổi.
+
+Ông lấy điện thoại, gọi Sơn.
+
+"Alo sếp?"
+
+"Sơn, cậu tra cho tôi cái biển số xe 80 đó. Tôi cần biết nó thuộc cơ quan nào."
+
+"80 — em không cần tra, sếp. 80 là đầu số của Ngân hàng Nhà nước và các cơ quan trực thuộc. Nếu là xe riêng, có thể là Thanh tra Ngân hàng Nhà nước hoặc Vụ Tín dụng."
+
+"Chắc không?"
+
+"Em học qua một vụ tương tự hồi đại học — một bài báo về xe biển 80 bị tai nạn ở Sài Gòn. Đầu số đó dành riêng. Em khẳng định được."
+
+Hùng cúp máy. Ông đứng dưới mái hiên một cửa hàng điện tử cũ, mặc cho mưa phùn bay vào mặt lạnh buốt. Thanh tra Ngân hàng Nhà nước — cơ quan giám sát toàn bộ hệ thống ngân hàng — có xe xuất hiện trong cuộc gặp với một kẻ đang âm mưu thâu tóm doanh nghiệp. Hoặc kẻ đó đang bị theo dõi. Hoặc kẻ đó có người trong cuộc.
+
+Hùng nghiêng về khả năng thứ hai.
+
+Nguyễn Hữu Tuấn, phó tổng SHB cũ. Lương Thế Huy, tay anh chị casino. Một bức fax nặc danh. Ba công ty ma. Và một chiếc xe biển số 80. Tất cả đang dần kết nối thành một bức tranh mà Hùng chưa nhìn thấy toàn cảnh — nhưng ông biết, nó sẽ hiện ra, nếu ông đủ kiên nhẫn và đủ tỉnh táo.
+
+Ông bước ra đường, hòa vào dòng người giờ tan tầm. Một ông già đội mũ lưỡi trai, áo mưa cũ, đeo kính lão — lẫn hoàn toàn vào phố phường — không ai nhận ra đó là chủ tịch của một tập đoàn đang bị săn lùng.
+
+Bọn họ đã chọn sai người.
+
+Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+
+Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+
+Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+
+Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
+
+Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+
+
+
+Hùng nhíu mày, siết ngón tay sổ ch.332. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+
+「Hệ thống — GHI NHẬN ch.332」
+Năm: 2016
+Tổng EXP: 82,200 (+600 nhịp này)
+Không gian kho: 46,040m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: Ba công ty ma bị phát hiện qua hệ thống theo dõi của Sơn. Đầu mối Nguyễn Hữu Tuấn — SHB cũ — kết nối với Lương Thế Huy, casino Hạ Long. Xe Thanh tra NHNN biển 80 xuất hiện tại cuộc gặp bí mật — dấu hiệu của một hệ thống bảo kê tinh vi.

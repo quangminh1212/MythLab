@@ -1,8 +1,8 @@
-============================================================
+﻿============================================================
 Chương 220: Triển lãm công nghệ châu Á
 ============================================================
 
-Sáu giờ sáng, Hùng đã có mặt ở Trung tâm Hội chợ Triển lãm Đà Nẵng. Công trình mới khánh thành cuối năm trước nằm trên đường Bạch Đằng, mặt tiền nhìn ra sông Hàn. Đây là lần đầu tiên Việt Nam đăng cai một hội chợ công nghệ cấp khu vực — Triển lãm công nghệ châu Á 1998. Năm nước tham gia: Nhật Bản, Hàn Quốc, Singapore, Malaysia và chủ nhà Việt Nam. Mỗi nước hai mươi gian hàng.
+Sáu giờ sáng, Hùng đã có mặt ở Trung tâm Hội chợ Triển lãm Đà Nẵng. Công trình mới khánh thành cuối năm trước nằm trên đường Bạch Đằng, mặt tiền nhìn ra sông Hàn. Đây là lần đầu tiên Việt Nam đăng cai một hội chợ công nghệ cấp khu vực — Triển lãm công nghệ châu Á 2007. Năm nước tham gia: Nhật Bản, Hàn Quốc, Singapore, Malaysia và chủ nhà Việt Nam. Mỗi nước hai mươi gian hàng.
 
 Nắng tháng sáu ở Đà Nẵng gay gắt từ sớm. Biển Đông thổi vào một luồng khí ẩm nặng, mồ hôi thấm áo trước bảy giờ. Hùng mặc áo sơ mi trắng xắn tay đến khuỷu, quần tây đen, giày da cũ đã đánh xi. Trông ông không giống doanh nhân — giống một kỹ thuật viên đi kiểm tra mặt bằng hơn. Nhưng ông không quan tâm vẻ ngoài.
 
@@ -193,22 +193,34 @@ Tối, về phòng trọ gần biển Mỹ Khê
 
 "Chủ nhật ạ."
 
-Ông cúp máy, mở sổ tay. Viết: "Tech Expo 1998, Đà Nẵng. 9 contacts. 3 tentative orders. Yamada Corp cooperation — cảm biến nhiệt ASEAN. 1 potential hire (Đạt, Bách khoa). Cần mở rộng xưởng Hải Phòng — tuyển thêm thợ, mua máy hàn tự động. Đầu tư cho công nghệ."
+Ngoài kia biển đêm vỗ rì rào. Năm 2007, Thương Gia vẫn còn nhỏ trên bản đồ công nghiệp Việt Nam. Nhưng hôm nay, họ đã đặt một chân vào thị trường quốc tế.
 
-Ngoài kia biển đêm vỗ rì rào. Năm 1998, Thương Gia vẫn còn nhỏ trên bản đồ công nghiệp Việt Nam. Nhưng hôm nay, họ đã đặt một chân vào thị trường quốc tế.
-
-============================================================
 Sáng hôm sau, Hùng viết vào sổ: 'Người Hàn không mất thời gian nếu không có ý định làm ăn.'
 
+Ba MOU chưa thành đơn. Yamada muốn mẫu trong 30 ngày — Đạt phải có bản vẽ sạch trước cuối tuần.
 
+Đạt mang bản vẽ cảm biến tới phòng trọ lúc gần khuya. Mùi mực in còn nồng. Hùng liếc từng nét, cau mày chỗ kích thước lệch, rồi gật khi thấy ghi chú nhiệt độ đã đủ. — Sáng mai in lại ba bản. Một cho Yamada, một cho kho, một giữ. Đạt thở ra, tay run vì vừa đạp xe dưới mưa phùn Đà Nẵng.
+
+Trưa hôm sau, Yamada tới gian hàng đúng giờ. Ông không ngồi lâu. Ông chỉ hỏi ba câu: mẫu khi nào, ai chịu trách nhiệm kỹ thuật, và nếu lỗi hàng loạt thì ai ký biên bản.
+
+Hùng chỉ Đạt. Đạt đứng dậy, tay hơi run nhưng giọng rõ. Anh giải thích dải nhiệt và cách hiệu chỉnh. Yamada gật, ghi tên Đạt vào sổ da mỏng.
+
+— Ba mươi ngày. Không trễ — Yamada nói.
+
+Lan đứng cạnh, liếc Hùng. Cô không chen. Khi khách đi, cô mới nói:
+
+— Anh vừa giao việc cho một người chưa đủ tuổi để sợ.
+
+— Người sợ quá cũng không làm được cảm biến — Hùng đáp.
+
+Chiều, Park từ phía Hàn Quốc gửi fax xác nhận muốn xem xưởng Hải Phòng. Hùng không hứa tham quan ngay. Ông hẹn sau khi mẫu Yamada xong. Không mở quá nhiều cửa cùng lúc.
+
+Đêm đó ở Mỹ Khê, ông viết sổ: "MOU là lời chào. Đơn mới là việc." Gió biển mặn trên tay. Sáng mai còn phải gọi Klaus hỏi quy trình đo — phía trước hẹp và cụ thể.
 
 「Hệ thống — GHI NHẬN ch.220」
-Năm: 1998
-Tổng EXP: 46,644 (+466 nhịp này)
-Không gian kho: 16,143m² (+161m²)
-Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv2
-Triển lãm công nghệ châu Á. Gian hàng Thương Gia nhỏ nhất hội trường.
-Nhưng sản phẩm của Minh — một cảm biến nông nghiệp — thu hút nhiều người xem nhất.
-
-Gian hàng nhỏ nhất — nhưng sản phẩm của Minh nói to nhất.
+Năm: 1999
+Tổng EXP: 42,762 (+238)
+Không gian kho: 14,857m² (+143m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv1
+Ghi chú: Triển lãm CN châu Á 2007 — gian hàng cảm biến; 3 MOU khu vực.
 ============================================================

@@ -1,5 +1,6 @@
 ============================================================
 Chương 250: Lan dẫn quỹ R&D
+============================================================
 
 Đầu năm 2010, Hùng ký quyết định thành lập Quỹ Đầu tư Nghiên cứu và Phát triển — gọi tắt là Quỹ R&D. Mùi mực ký trên tờ quyết định còn thơm, mùi giấy in nhiệt từ máy fax trong góc phòng, và mùi cà phê mới pha từ chiếc phích giữ nhiệt — tất cả như một nghi thức bắt đầu. Vốn điều lệ: 200 tỷ đồng. Người đứng đầu quỹ: Trần Thị Lan.
 
@@ -153,7 +154,6 @@ Kỹ sư trẻ phải mất thêm một tháng để xây dựng cơ chế đồ
 Lan xem bảng so sánh trước-sau và quyết định mở rộng dự án. Cô yêu cầu module tài chính hoàn thành trong sáu tháng, module sản xuất trong chín tháng. Dũng xin thêm hai lập trình viên. Lan duyệt trong vòng một ngày.
 
 Cuối năm 2010, TG-ERP đã chạy tại ba nhà máy, hai kho và văn phòng trung tâm. Dũng gọi đó là “con đường mòn đầu tiên trên sa mạc số”. Còn Hùng, khi nhìn bảng tổng hợp lợi nhuận của cả Quỹ R&D — thâm hụt 1,2 tỷ đồng sau quý đầu, nhưng số tiền tiết kiệm từ tự động hóa và cải tiến quy trình đã bù lại 800 triệu — ông nói với Lan:
-Xăng pha dầu nhờn từ xưởng sửa xe.
 
 Tối, Lan ăn cơm với bà Hà. Mâm cơm đơn giản như mọi ngày. Bà Hà hỏi: “Hôm nay con mệt không?”
 
@@ -163,17 +163,16 @@ Tối, Lan ăn cơm với bà Hà. Mâm cơm đơn giản như mọi ngày. Bà 
 
 "Ngày xưa con chỉ biết bán hàng, cân đo đong đếm, mua rẻ bán đắt. Bây giờ con được làm điều có ý nghĩa hơn — đầu tư cho công nghệ, cho tương lai."
 
-Bà Hà nắm tay Lan. "Ngày xưa mẹ chỉ mong con biết đọc biết viết, lấy chồng tử tế, ở gần để mẹ nhờ. Ai ngờ con làm được lớn thế này."
+Bà Hà nắm tay Lan, bàn tay chai sần vì hơn ba mươi năm rửa bát. "Ngày xưa mẹ chỉ mong con biết đọc biết viết, lấy chồng tử tế, ở gần để mẹ nhờ. Ai ngờ con làm được lớn thế này."
 
-Lan cười: "Con còn làm lớn hơn nữa, mẹ ạ."
+Lan cười, mắt sáng: "Con còn làm lớn hơn nữa, mẹ ạ."
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng ngẩng mặt lên, nghe. Ngày mai sẽ còn nhiều việc phải làm — Quỹ R&D đã mở, nhưng bài toán lợi nhuận chưa có lời giải. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." Hùng nói, tay chạm tay Minh. "Ừ, mưa." Minh đáp. Họ nắm tay nhau, im lặng, bình yên. Phía trước còn dài.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
 
 「Hệ thống — GHI NHẬN ch.250」
 Năm: 2010
-Tổng EXP: 57,667 (+576 nhịp này)
-Không gian kho: 22,834m² (+228m²)
+Tổng EXP: 55,333 (+333)
+Không gian kho: 21,667m² (+167m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Quản trị R&D lv1, Dự báo rủi ro lv2
 Ghi chú: khóa nhịp

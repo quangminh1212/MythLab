@@ -2,7 +2,7 @@
 Chương 232: Tái khởi động sản xuất
 ============================================================
 
-Tháng Ba năm 2009. Sáng ngày 15, Hùng nhận được báo cáo tài chính hợp nhất quý I từ phòng kế toán. Bản in trên giấy trắng A4, bìa hồ sơ màu xanh nhạt, dấu đỏ "TÀI LIỆU MẬT". Con số ở dòng cuối cùng: tổng tài sản 5.047 tỷ 832 triệu đồng.
+Cuối năm 2008. Sáng ngày 15, Hùng nhận được báo cáo tài chính hợp nhất quý I từ phòng kế toán. Bản in trên giấy trắng A4, bìa hồ sơ màu xanh nhạt, dấu đỏ "TÀI LIỆU MẬT". Con số ở dòng cuối cùng: tổng tài sản 5.047 tỷ 832 triệu đồng.
 
 Hùng đọc đi đọc lại ba lần. Kiểm tra từng khoản mục — tiền mặt, phải thu, tồn kho, tài sản cố định, đầu tư tài chính. Tay ông lật từng trang, mắt dò từng dòng. Khi kiểm tra đến trang cuối, ông gập báo cáo lại, đặt lên bàn, nhìn ra cửa sổ một lúc lâu.
 
@@ -214,8 +214,6 @@ Hùng tắt máy, nhìn quanh kho hàng lần cuối. Những dãy kệ cao, nh�
 
 Bên ngoài, Hà Nội tháng Ba mưa phùn. Những cánh cửa thép của một Thương Gia mới vừa mở ra.
 
-============================================================
-
 Hùng dừng lại giữa công việc, nhìn ra ngoài cửa sổ. Những tàu lá chuối sau vườn xào xạc trong gió. Ông nhớ lại một câu nói của bà Hà: "Làm gì thì làm, nhớ đường về." Câu nói đơn giản, nhưng là la bàn của ông suốt ba mươi năm. Ông cúi xuống, viết tiếp vào sổ.
 
 Từng cánh cửa thép nặng trịch đóng lại. Tiếng kim loại va vào kim loại - một âm thanh chắc nịch. Đây là kho hàng mới, được đầu tư hệ thống an ninh hiện đại nhất. Hùng đi giữa những kệ hàng, tay chạm vào từng thùng hàng, kiểm tra nhãn mác, ngày sản xuất.
@@ -224,10 +222,24 @@ Kho hàng này chứa không chỉ hàng hóa, mà còn chứa cả uy tín củ
 
 Ông dừng lại trước một kệ hàng chất đầy gạo. Những bao gạo trắng xếp thẳng hàng. Năm 1983, một bao gạo là tất cả. Bây giờ, một container gạo chỉ là một dòng trong báo cáo. Nhưng với Hùng, mỗi hạt gạo vẫn quý như ngày nào.
 
+Bảy xưởng có điện lại. Chưa đủ người. Nếu tuyển vội, phế phẩm sẽ ăn hết phần thắng giá mua đáy.
+
+Sáng hôm sau, ông Tư điểm danh từng máy Fortuna. Ai chưa biết chỉnh độ căng chỉ phải đứng cạnh người cũ hai ca. Hùng không cho tuyển ồ ạt. Ông siết tay vào mép bảng chấm công, nhìn tên người địa phương được gọi lại — mắt ông không cười, chỉ gật khi thấy đủ người cho một chuyền sạch.
+
+Buổi chiều, Hùng họp ngắn với tổ tuyển dụng. Không đăng tin ồ ạt. Chỉ gọi lại những người đã làm ở Tân Tạo trước khi đóng cửa, cộng thêm con em trong xã được ông Tư bảo lãnh tay nghề.
+
+— Ai chưa từng cầm máy thì không vào chuyền một — ông Tư nói. — Để họ học chuyền phụ hai tuần.
+
+Hùng gật. Ông siết tay lên thành ghế, nhìn danh sách. Mắt ông không tìm thành tích. Chỉ tìm ca làm đủ người mà không phá kỷ luật kim chỉ.
+
+Một cô gái trẻ tên Hạnh (trùng tên với người cũ ở Hà Đông, nhưng khác người) hỏi lương thử việc. Lan từ Mỹ gửi khung lương qua mail; Hải đọc lại cho rõ. Không hứa thưởng nóng. Có bảo hiểm và cơm ca.
+
+Khi tan họp, xưởng có đủ người cho một chuyền. Chưa đủ cho bảy. Hùng chấp nhận. Phía trước là từng chuyền một — không phải buổi lễ mở toàn khu.
 
 「Hệ thống — GHI NHẬN ch.232」
-Năm: 2009
-Tổng EXP: 54,500
-Kỹ năng: Ngoại giao kinh tế lv3, Công nghệ cao lv2, Dự báo rủi ro lv2, Quản trị tài chính lv2
-Ghi chú: Tổng tài sản kỷ lục 5.047 tỷ. Forbes vinh danh + mời dự hội nghị Singapore. Khủng hoảng 2008 chính thức kết thúc. Thương Gia lớn gấp 6 lần sau 4 năm. Mở ra giai đoạn phát triển mới.
+Năm: 2008
+Tổng EXP: 48,211 (+474)
+Không gian kho: 17,895m² (+263m²)
+Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
+Ghi chú: Tái khởi động sản xuất — 7 xưởng Tân Tạo; tuyển lại địa phương.
 ============================================================

@@ -241,7 +241,7 @@ Hùng gắp một miếng cá: "Ai nói?"
 
 Bà Hà không tin câu đùa ấy: "Anh có mừng không?"
 
-Hùng ngừng đũa. Ông nhìn bát cơm, nhìn mâm thức ăn đơn giản, nhìn người vợ đã ở với mình qua bao nhiêu ngày khó.
+Hùng ngừng đũa. Ông nhìn bát cơm, nhìn mâm thức ăn đơn giản, nhìn người mẹ đã ở với mình qua bao nhiêu ngày khó.
 
 "Mừng thật," ông nói. "Nhưng mệt hơn mừng."
 
@@ -283,14 +283,6 @@ Tất cả những ngày ấy, không có dòng nào kêu ca. Chỉ có sổ, c�
 
 Ông gấp sổ.
 
-Hệ thống trong đầu ông nháy một dòng:
-
- 「Hệ thống Thương Gia」
- Năm: 1986
- Thông báo: Hoàn thành nhiệm vụ năng lượng
- Công suất lắp đặt: 8.5 MW
- Địa điểm: Khu công nghiệp Đà Nẵng
- Trạng thái: Đã bàn giao — vận hành thương mại
 
 Hùng nhận tín hiệu, gật với chính mình, rồi quay lại sổ tay — chỗ ông tin hơn bảng sáng.
 
@@ -320,14 +312,13 @@ Ngoài kia, cột điện mới sáng. Trong những ngôi nhà nhỏ dọc đư
 
 Hùng thở một hơi dài, rồi ngủ thiếp đi.
 
+Sáng mai còn hóa đơn dầu diesel và hướng năng lượng khác — ông chưa xóa dòng đó trên bàn.
+
 ============================================================
 「Hệ thống — GHI NHẬN ch.82」
 Năm: 1986
 Tổng EXP: 12,750 (+250 nhịp này)
 Không gian kho: 4,600m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Nhà máy điện chạy ổn định, sản xuất tăng gấp đôi. Nhưng hóa đơn dầu diesel không nhỏ.
-Hùng ghi: "Cần tìm năng lượng khác." Hướng đi mới hình thành.
-
-Ánh sáng từ nhà máy điện thắp sáng cả một huyện — và cả niềm tin của dân.
+Ghi chú: Nhà máy Đà Nẵng 4 turbine thử tải đến 8.5 MW; rơ-le quạt trễ 5→8s; bàn giao Sở Điện lực không pháo hoa; đèn cột thắp bản.
 ============================================================

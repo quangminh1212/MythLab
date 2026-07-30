@@ -1,5 +1,6 @@
 ============================================================
-Chương 8: Mở rộnghàng hóa
+Chương 8: Mở rộng hàng hóa
+============================================================
 
 Hàng bán được thì phải có thêm. Thêm mà lộ nguồn là chết. Thêm mà ế cũng chết.
 
@@ -21,7 +22,6 @@ Loẹt xoẹt biên lai thu tiền.
 Hùng quyết định: hôm nay bán thêm thuốc men và đồ dùng sinh hoạt. Đi Hà Nội sẽ để ngày mai hoặc ngày kia — cần chuẩn bị kỹ, vì bốn mươi cây số xe đạp, mất cả ngày.
 
 Ông nhắm mắt, mở không gian, kiểm tra kho. Ngoài quần áo, gạo, thịt, trứng, mì, ông có gì? Ông nhìn kỹ — và phát hiện một góc kho hàng mới xuất hiện, góc mà trước đây ông không thấy. Trên kệ:
-Rạ khô thơm nắng.
 
 - 20 hộp vitamin B (loại thuốc bổ phổ thông)
 - 10 tuýp kem đánh răng
@@ -144,7 +144,6 @@ Nhưng trước hết, ông cần chinh phục huyện Quốc Oai. Từ nhỏ đ
 
 Mỗi bước một chân. Không vội, không chậm. Đều đặn, chắc chắn, như đạp xe trên đường đất đỏ.
 
-Hành trình tiếp tục.
 
 ---
 
@@ -172,23 +171,23 @@ Hùng chốt ba ngưỡng cho phiên sau: hàng thiết yếu nhập đủ hai p
 
 Khi gấp sổ, Lan đã có danh sách bốn đầu mối: Khanh giới thiệu thủ tục, Tâm giữ mặt bằng, Phượng thử bán lại, chị Hồng kiểm thuốc. Mỗi người nối một việc khác nhau; không ai được nắm cả nguồn hàng, tiền và giấy tờ. Hùng nhận ra mở rộng hàng hóa thực chất là mở rộng số lời hứa phải giữ cùng lúc.
 
+============================================================
+
 Hùng xếp từng bánh xà phòng lên kệ, những bánh trắng ngà thơm mùi dầu dừa. Lan đứng bên cạnh, đếm: "Mười bánh cho bà Phượng, năm tuýp kem đánh răng cho chị Hồng, ba chai dầu gội..." Cô dừng lại, ngửi thử chai dầu gội. Mùi hoa bưởi thoang thoảng, khác hẳn mùi bồ kết và nước vo gạo quen thuộc. "Em chưa dùng dầu gội bao giờ," Lan nói nhỏ. Hùng đưa em một chai: "Của em đấy. Tối nay tắm thử đi." Lan ôm chai dầu vào ngực, cười như một đứa trẻ.
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+============================================================
 
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, bà Hà nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." bà Hà mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+Khi gấp sổ Lan đã có bốn đầu mối: Khanh thủ tục, Tâm mặt bằng, Phượng bán lại, chị Hồng kiểm. Hùng chốt ngưỡng phiên sau: thiết yếu đủ hai phiên, hàng mới chỉ mười đơn vị, thuốc nguyên hộp. Ông siết then cửa. Phiên sau sẽ biết ngưỡng nào đúng.
 
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+============================================================
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Tối kiểm hàng, Lan liếc từng bánh xà phòng, cau khi thấy gói rách. Hùng nắm gói, siết, đưa em. "Ghi lỗi. Không bán." Lan gật, cúi viết. Bà Hà ngẩng từ bếp, mắt mờ, cười rất mỏng: "Hai đứa cẩn thận là được." Hùng thở, nuốt, nhíu mày nhìn cột số, rồi buông bút. Tay ông run nhẹ vì mệt — không vì sợ.
 
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.8. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.8」
 Năm: 1983
 Tổng EXP: 258 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
-Ghi chú: system_ledger
+Ghi chú: Mở rộng hàng thiết yếu; sổ với ông Tâm; ngưỡng nhập.
+============================================================

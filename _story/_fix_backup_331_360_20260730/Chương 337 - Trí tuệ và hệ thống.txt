@@ -1,0 +1,252 @@
+============================================================
+Chương 337: Trí tuệ và hệ thống
+============================================================
+
+Hà Nội, tháng Sáu năm 2018. Một năm kể từ khi bắt đầu cuộc chiến với tập đoàn bóng tối. Mùa hè năm nay không khắc nghiệt như năm ngoái — những cơn mưa rào đến sớm, gội sạch bụi bặm trên những tán cây sấu già phố Phan Đình Phùng, mang theo hương ẩm của đất và của cỏ dại mọc hoang dọc đường tàu. Hoa phượng nở đỏ rực một góc trời, báo hiệu mùa thi, mùa chia tay, mùa của những thay đổi.
+
+Hùng ngồi trong phòng làm việc, mở cuốn sổ ghi chép từng ngày. Ông lật lại từ đầu năm 2017 — mười tám tháng của những cuộc gặp, những lo âu, những quyết định căng thẳng.
+
+Lúc ấy, tháng Mười hai năm 2017.
+
+Sau chiến thắng tạm thời tại đại hội cổ đông bất thường tháng Tám — khi tờ trình phát hành thêm cổ phiếu được thông qua với tỷ lệ ủng hộ 67% — cuộc chiến không kết thúc. Nó chỉ chuyển từ mặt trận công khai sang mặt trận ngầm.
+
+First Capital Partners — qua các lớp trung gian — vẫn tiếp tục mua cổ phiếu trên sàn. Giá Thương Gia bị đẩy lên từ 42 lên 61 chỉ trong ba tháng. Những cổ đông nhỏ dao động bắt đầu bán ra. Bọn họ hấp thụ hết. Họ dùng margin, dùng vốn vay từ SHB Hải Phòng, dùng mọi kênh huy động có thể.
+
+Hùng hiểu: đây là cuộc chiến tiêu hao. Ai trụ được lâu hơn — người đó thắng.
+
+Nhưng có một điều khiến Hùng trăn trở: làm thế nào để chặn một cuộc thôn tính không chỉ bằng tiền, mà bằng một thứ bền vững hơn?
+
+Câu trả lời đến từ một người không ngờ nhất — Sơn, trưởng phòng IT.
+
+"Mười lăm phẩy một phần trăm — đó là tỷ lệ của First Capital Partners sau đợt pha loãng. Cộng với các đồng minh — các cổ đông nhỏ mà họ đã mua được — tổng cộng họ có khoảng 18%."
+
+Hùng ngồi xuống ghế. Con số đó đã tăng so với tháng Bảy năm ngoái.
+
+"Sao lại tăng? Lẽ ra pha loãng phải giảm tỷ lệ của họ xuống?"
+
+"Phải, nhưng họ vẫn mua thêm. Họ dùng margin — vay ký quỹ từ công ty chứng khoán — dùng vốn vay từ SHB qua các công ty ma, dùng mọi kênh có thể. Họ muốn đạt 25% trước đại hội cổ đông thường niên năm 2018. Với 25%, họ có thể phủ quyết mọi nghị quyết của hội đồng quản trị, bao gồm cả việc bầu lại ban lãnh đạo."
+
+Hùng nhìn Sơn. Thằng bé có một ánh mắt khác thường hôm nay — không chỉ là lo lắng, mà là một thứ gì đó sắp nói.
+
+"Sếp, em có một ý. Hơi liều."
+
+"Nói đi."
+
+Sơn mở laptop, chiếu lên màn hình lớn một sơ đồ dòng tiền mà cậu đã vẽ từ hai tuần trước — một mạng lưới phức tạp gồm các mũi tên, các ô vuông đại diện cho các công ty, các con số bên cạnh.
+
+"Bọn họ đang dùng vốn vay để mua cổ phiếu. Cụ thể, họ vay từ SHB Hải Phòng — với tài sản thế chấp là chính cổ phiếu Thương Gia mà họ mua. Đây là vòng lặp: vay để mua, mua xong thế chấp để vay tiếp, vay tiếp để mua thêm. Nếu giá cổ phiếu giảm mạnh — giả sử 30% — họ sẽ bị gọi ký quỹ, margin call, từ công ty chứng khoán và ngân hàng. Họ buộc phải bán ra để trả nợ."
+
+"Ý cậu là tôi phải làm giá cổ phiếu giảm?"
+
+"Không. Em nói 'nếu'." Sơn nhấn mạnh. "Nếu từ bây giờ, Thương Gia tung ra một loạt thông tin khiến thị trường lo lắng — không phải tin xấu thật, nhưng tin làm giá giảm tạm thời — thì bọn họ sẽ gặp áp lực margin. Họ vay margin. Họ sẽ không trụ được khi giá giảm 30%."
+
+"Tin gì, cho ví dụ?"
+
+"Chẳng hạn: dừng cổ tức năm nay, tái đầu tư toàn bộ lợi nhuận vào dây chuyền sản xuất mới. Hoặc chậm tiến độ dự án nhà máy ở Nghệ An. Hoặc thay đổi nhân sự cấp cao — thông báo phó tổng giám đốc tài chính từ nhiệm."
+
+"Từ nhiệm thật hay giả?"
+
+"Thật. Nếu chị Lan chấp nhận tạm thời mất một nhân sự. Nhưng đó là thông tin đủ để thị trường lo lắng."
+
+"Mấy cái đó đều có thật không?"
+
+"Có thật. Dừng cổ tức một năm để tái đầu tư là một quyết định kinh doanh hợp lý — nhiều công ty làm. Chậm tiến độ nhà máy cũng có thể giải thích được. Nhưng thị trường sẽ hoảng. Và khi thị trường hoảng, giá giảm. Bọn họ sẽ bị margin call."
+
+Hùng ngồi yên. Một trận mưa rào bất chợt đổ xuống bên ngoài — những hạt mưa to, nặng, đập vào cửa kính tách tách. Ông nhìn qua làn nước chảy, thấy phố Tràng Tiền nhòe đi, người đi đường vội vã tìm chỗ trú dưới mái hiên.
+
+"Làm vậy có sạch không?" Hùng hỏi.
+
+Sơn im lặng. Đó là câu hỏi khó hơn tất cả những tính toán kỹ thuật. Là câu hỏi về ranh giới giữa chiến thuật và đạo đức.
+
+"Không sạch," Sơn nói sau một lúc. "Nhưng sạch hơn việc để bọn họ tháo dỡ Thương Gia từng mảnh. Ít nhất, nếu chúng ta thắng, Thương Gia còn nguyên vẹn cho hai mươi nghìn người lao động."
+
+Hùng gật đầu. "Để tôi nghĩ."
+
+Buổi tối hôm đó, Hùng không ngủ được. Ông ra vườn sau, ngồi dưới gốc bưởi già — cây bưởi mẹ ông trồng từ những năm 1980, thân đã xù xì, rễ nổi trên mặt đất như những mạch máu già cỗi. Trăng thượng tuần, sáng vằng vặc, soi rõ từng chiếc lá, từng cái bóng.
+
+Ông ngồi một mình dưới trăng và suy nghĩ về một câu hỏi: một người có thể đánh bại kẻ xấu bằng cách sử dụng chính thủ đoạn của chúng không? Hay chiến thắng đó sẽ để lại một vết bẩn không bao giờ rửa sạch?
+
+Điện thoại reng. Sơn gọi.
+
+"Sếp, em xin lỗi vì gọi muộn. Nhưng em vừa phát hiện ra một chuyện."
+
+"Nói đi."
+
+"First Capital Partners vừa chuyển thêm 5 triệu đô la Mỹ vào tài khoản của CTCP Đầu tư Phương Đông ở SHB Hải Phòng. Nguồn tiền: một quỹ đầu tư có trụ sở tại Hong Kong, tên là Golden Bridge Capital."
+
+"Quỹ đó có vấn đề?"
+
+"Không hẳn — về mặt pháp lý thì sạch. Nhưng em check thêm — trên trang web của Cơ quan Quản lý Doanh nghiệp Hong Kong — thành viên hội đồng quản trị của Golden Bridge Capital có một người là cựu quan chức ngân hàng trung ương Việt Nam, đã nghỉ hưu năm 2015. Và người này là anh ruột của Nguyễn Hữu Tuấn."
+
+Hùng siết chặt điện thoại. Một mảnh ghép nữa vừa khớp — nhưng lần này, nó đụng đến một ranh giới khác.
+
+"Tuấn có anh ruột ở ngân hàng trung ương?"
+
+"Chính xác. Ông Nguyễn Hữu Thành — nguyên vụ trưởng Vụ Tín dụng, về hưu năm 2015. Khi còn đương chức, ông Thành là người tham gia soạn thảo nhiều thông tư về tín dụng ngân hàng, bao gồm các quy định về cho vay đầu tư chứng khoán."
+
+Hùng thở ra một hơi dài. Bức tranh bắt đầu rõ ràng hơn. Lương Thế Huy — kẻ tiền án, làm vỏ bọc. Nguyễn Hữu Tuấn — cựu phó tổng SHB, điều hành từ Singapore. Ông Nguyễn Hữu Thành — anh trai Tuấn, cựu vụ trưởng Vụ Tín dụng NHNN, người từng viết luật về cho vay đầu tư. Và chiếc xe biển 80 — Thanh tra NHNN — đã xuất hiện trong cuộc gặp với Lương Thế Huy.
+
+Đây không chỉ là một âm mưu thôn tính tập đoàn gia đình. Nó là cả một hệ thống — một mạng lưới quan hệ được xây dựng trong nhiều thập kỷ, kết nối giới ngân hàng, giới tội phạm, và giới đầu tư quốc tế.
+
+Cuộc chiến này, Hùng nhận ra, không chỉ là vì Thương Gia. Nó là vì một hệ thống cho phép những điều như thế này xảy ra.
+
+"Sơn."
+
+"Dạ?"
+
+"Chiến thuật của cậu — tôi sẽ dùng. Nhưng không phải để đánh họ. Để lộ họ ra ánh sáng."
+
+"Sao cơ?"
+
+"Thay vì làm giá giảm bằng tin xấu — mình sẽ làm ngược lại. Công bố tất cả thông tin về đợt tái đầu tư, kế hoạch kinh doanh, và chiến lược dài hạn của Thương Gia một cách minh bạch. Để thị trường thấy Thương Gia không có gì phải giấu, ban lãnh đạo vững vàng. Để những cổ đông nhỏ không hoảng loạn bán tháo. Để bọn họ không thể lợi dụng biến động giá để mua thêm với giá rẻ."
+
+"Nhưng nếu làm vậy, chúng ta không chặn được margin call của họ. Họ vẫn có thể tiếp tục vay và mua."
+
+"Chưa cần chặn margin call. Tôi muốn kéo dài thời gian. Cho đến khi chúng ta có đủ bằng chứng để đưa vụ việc ra cơ quan điều tra."
+
+"Mất bao lâu?"
+
+"Có thể sáu tháng. Có thể một năm."
+
+Sơn im lặng. "Một năm nữa họ có thể nắm 30%."
+
+"Thì để họ nắm 30%. Nhưng nếu họ nắm 30% bằng tiền vay — và khi giá cổ phiếu sụp vì một cuộc điều tra chính thức từ phía cơ quan công an — thì bọn họ sẽ mất tất cả. Margin call hàng loạt. Không chỉ mất cổ phiếu — họ mất luôn cả tài sản thế chấp."
+
+Đó là nước cờ cuối cùng. Hùng không đánh bằng tiền. Ông đánh bằng luật pháp, thời gian, và sự kiên nhẫn.
+
+Chín tháng sau, kế hoạch của Hùng bắt đầu đơm hoa kết trái.
+
+Tháng Ba năm 2018, một bài báo trên tờ Đầu Tư đặt câu hỏi về hoạt động của First Capital Partners tại Việt Nam — tập trung vào ba thương vụ thâu tóm doanh nghiệp gia đình ở Indonesia và Philippines. Bài báo được viết bởi một nhà báo tự do — người Hùng quen qua Dũng — và được đăng tải đúng vào thời điểm Ủy ban Chứng khoán Nhà nước đang rà soát các giao dịch bất thường trên thị trường.
+
+Tháng Tư, một số cổ đông nhỏ của Thương Gia — dẫn đầu là bà Hạnh và nhóm 32 người — gửi đơn kiến nghị lên Ủy ban Chứng khoán Nhà nước, yêu cầu làm rõ việc sở hữu cổ phần qua các công ty ma. Những lá đơn do chính tay bà Hạnh soạn, viết tay, nêu rõ tên ba công ty, địa chỉ, người đại diện. Mỗi lá đơn đều có chữ ký của hai, ba cổ đông.
+
+Tháng Năm, SHB Hải Phòng bị Thanh tra Ngân hàng Nhà nước kiểm tra đột xuất. Một giao dịch viên — Hoàng Văn Nam, người từng là thư ký của Nguyễn Hữu Tuấn — bị đình chỉ công tác để phục vụ điều tra.
+
+Đầu tháng Sáu, Nguyễn Hữu Tuấn bị tạm hoãn xuất cảnh.
+
+Hùng đọc tin đó trên báo điện tử Kinh tế & Đầu tư, trong phòng khách nhà mình, lúc sáu giờ sáng. Trời vừa hửng sáng, một tia nắng mỏng xuyên qua kẽ lá cây bưởi, chiếu lên mặt bàn gỗ nơi cuốn sổ ghi chép của ông nội năm 1945 đang mở.
+
+Hùng đọc lại câu cuối cùng của cuốn sổ — nét chữ của ông nội viết trước khi mất, năm 1945, năm đói kém, năm đất nước chuyển mình:
+
+*"Có chết đói mới biết hạt thóc không phải của riêng ai."*
+
+Hùng gấp tờ báo, đặt cạnh cuốn sổ. Hướng gió đã đổi.
+
+Chiều hôm đó, trời Hà Nội đổ mưa rào bất chợt — cơn mưa đầu hè, ồn ào, ào ạt, rửa trôi bụi bặm của những ngày nóng nực. Hùng ngồi trong phòng, gọi Lan lên. Hai người ngồi đối diện, giữa họ là tập tài liệu dày về First Capital Partners — những trang sao kê ngân hàng, báo cáo điều tra, bản fax nặc danh đã khởi đầu tất cả, và bức ảnh chụp chiếc xe biển 80.
+
+"Em có nhớ cái ngày mình gặp nhau ở xưởng Hà Đông không?" Hùng hỏi, giọng trầm. "Năm 1985."
+
+Lan ngạc nhiên. Lâu lắm Hùng mới nhắc lại chuyện cũ.
+
+"Nhớ. Hôm đó mưa — mưa như trút nước. Anh mặc áo mưa cũ, ướt hết lưng, đứng ở cửa xưởng, rút trong túi ra một cái bánh mì — 'Ăn đi, em chưa ăn sáng.'"
+
+Hùng cười. "Ừ. Lúc ấy mình không có gì. Chỉ có hai bàn tay, cái máy may hiệu Singer mua trả góp, và mấy cuộn vải thừa."
+
+"Anh muốn nói gì?"
+
+Hùng đẩy xấp tài liệu về phía Lan.
+
+"Cuộc chiến này không phải cuộc chiến của mình. Nó là cuộc chiến của cái hệ thống đã sinh ra bọn họ. Cái hệ thống cho phép một kẻ như Tuấn — từng làm ngân hàng, từng biết luật, từng có anh trai trong ngân hàng trung ương — lách luật để nuốt doanh nghiệp của người khác. Họ có tiền, có quan hệ, có luật sư, có cả người trong hệ thống thanh tra."
+
+"Nhưng họ không có ba mươi lăm năm." Lan nói. "Ba mươi lăm năm của Thương Gia — những mối quan hệ, lòng tin, uy tín — không thể mua bằng tiền."
+
+Hùng nhìn mẹ. Trong mưa chiều, dưới ánh đèn vàng, Lan vẫn là người đàn bà năm ấy — với cái nhìn không bao giờ lùi bước, dù đã năm mươi tuổi.
+
+"Phải. Ba mươi lăm năm không thể mua bằng tiền."
+
+"Có một chuyện em muốn nói với anh," Lan nói, giọng đột nhiên nghiêm túc hơn.
+
+"Chuyện gì?"
+
+"Huy xin em cho nó tham gia vụ này."
+
+Hùng nhướng mày. "Nó biết rồi?"
+
+"Em nói một phần. Nó biết có nhóm đang muốn thâu tóm Thương Gia. Nó hỏi em: 'Mẹ cần con giúp gì không?'"
+
+"Em nói sao?"
+
+Lan cười. "Em nói: học cho tốt đã."
+
+"Đúng. Nó còn non. Nhưng..." Hùng dừng lại, suy nghĩ. "Cho nó biết một góc cũng tốt. Để nó hiểu thương trường không phải lúc nào cũng sạch sẽ."
+
+"Em sẽ nghĩ cách. Có thể cho nó đi cùng vài cuộc họp với luật sư."
+
+"Được. Nhưng đừng để nó tham gia sâu. Nó còn thời gian để học — không cần phải vào vũng bùn ngay từ đầu."
+
+Ông cầm bút, mở sổ, viết nhanh mấy dòng:
+
+*"Tháng Sáu 2018. Cuộc đấu đã chuyển sang vòng cuối. Bọn họ đã lộ hết mặt nạ. Cổ đông nhỏ đã chọn phe. Luật pháp đã vào cuộc. Không còn gì để giấu. Chỉ còn chờ: ai xuống tay trước, và ai xuống tay trúng."*
+
+Sáng hôm sau, Hùng dậy từ năm giờ sáng. Ông không tập thể dục, không uống cà phê. Ông đi bộ ra chợ Đồng Xuân — khu chợ cũ nơi ông từng đạp xe chở vải bán từ năm 1985. Ngày ấy, mặt trời mọc lúc năm giờ rưỡi, ông có mặt ở chợ từ bốn giờ, xếp hàng chờ đến lượt bày hàng.
+
+Ngày nay, chợ Đồng Xuân đã khác. Hàng hóa Trung Quốc tràn ngập, người bán ít đi, nhưng mùi vải, mùi cá khô, mùi gia vị vẫn còn. Cái Hà Nội cũ vẫn còn — trong hơi thở của những người lao động dậy từ năm giờ sáng.
+
+Hùng đứng ở cổng chợ, nhìn những gương mặt người bán hàng — đàn bà đội nón lá, đàn ông cởi trần vác bao tải, trẻ con ngồi co ro bên sạp hàng. Họ không biết ông là ai. Họ không cần biết. Họ đến chợ như một nghi thức — giống như ba mươi lăm năm trước, ông cũng từng đến chợ như thế.
+
+Một bà lão ngồi ở sạp rau gần nhất — mặt khắc khổ, tay khô ráp, tóc bạc hết — ngước lên nhìn Hùng. Bà cười, nụ cười móm mém, để lộ hàm răng đen nhánh vì trầu:
+
+"Ông mua rau không?"
+
+"Không, tôi đi dạo."
+
+"Ờ. Đi dạo sớm thế. Chắc ông cũng từng bán hàng ở đây hả?"
+
+"Sao bà biết?"
+
+Bà lão cười. "Mắt ông nhìn sạp hàng. Chỉ người từng bán mới nhìn như thế. Người đi chợ mua đồ, họ nhìn vào rau. Người từng bán, họ nhìn vào cách xếp hàng."
+
+Hùng không trả lời. Ông móc túi, mua của bà một mớ rau muống — năm nghìn đồng, một mớ rau xanh mướt, còn đọng sương đêm. Trả tiền xong, ông cất rau vào túi ni lông, đi tiếp.
+
+Đến cuối con đường chợ, trước khi ra ngõ, ông ngoảnh lại nhìn một lần cuối. Bà lão bán rau đã quay sang khách khác — một người phụ nữ trẻ đang chọn rau.
+
+Chợ Đồng Xuân sáng nay như mọi ngày. Ồn ào, bụi bặm, mệt mỏi, nhưng sống động.
+
+Có những thứ không thể đánh cắp được. Một khu chợ là như thế. Một tập đoàn xây bằng ba mươi lăm năm mồ hôi cũng là như thế.
+
+Hùng ôm mớ rau, đứng thêm năm phút ở cổng chợ, nhìn một người đàn ông lom khom đẩy xe ba gác chở đầy vải — những cuộn vải xanh, đỏ, trắng — chầm chậm qua khu chợ đông đúc. Hình ảnh đó như một tấm gương phản chiếu ba mươi lăm năm trước. Cũng xe ba gác, cũng vải, cũng mồ hôi, cũng những bước chân nặng nhọc.
+
+Nhưng ngày ấy, ông chỉ có một xe vải. Một mình. Sáng bán, tối về đếm tiền.
+
+Bây giờ, ông có cả một tập đoàn. Nhưng những bước chân trở về — không biết có nhẹ hơn ngày xưa không.
+
+Ông xoay người, bước ra khỏi chợ, đi về phía bến xe buýt. Mớ rau muống còn đọng sương trong tay ông, lắc lư theo từng bước chân.
+
+Đến cuối con đường, ông gặp một thằng bé đang ngồi bán bánh mì — khoảng mười hai, mười ba — mặt lem luốc, tay lấm lem bột mì. Nó nhìn ông, cười.
+
+"Chú mua bánh mì không ạ? Nóng hổi, mới ra lò."
+
+Hùng nhìn thằng bé. Khuôn mặt đen nhẻm vì nắng, đôi mắt sáng, nụ cười vô tư của tuổi thơ mà ông đã không thấy từ lâu.
+
+Bao nhiêu năm rồi ông không thấy một nụ cười như thế?
+
+"Bao nhiêu một cái?"
+
+"Năm nghìn ạ."
+
+Hùng móc túi, đưa thằng bé mười nghìn, cầm một ổ bánh mì nóng hổi. Nó trả lại năm nghìn.
+
+"Cháu chỉ bán năm nghìn thôi ạ. Cảm ơn chú."
+
+Hùng nhìn nó một lúc. Rồi cười.
+
+"Chú cảm ơn cháu."
+
+Ông vừa đi vừa ăn bánh mì. Ổ bánh mì nóng, giòn, nhân đơn giản — chỉ có patê và một lát thịt nguội. Nhưng nó ngon hơn tất cả những bữa ăn ở nhà hàng năm sao.
+
+Có một sự thật mà Hùng nhận ra trong sáng nay: chiến thắng không làm nên con người. Chính những thứ giản dị, như một ổ bánh mì mua từ một thằng bé bán dạo, mới nhắc ông nhớ mình là ai.
+
+Ông về đến nhà lúc tám giờ sáng. Mở cửa, thấy Lan đang ngồi trong bếp, uống cà phê, đọc báo tài chính. Trên bàn, một bát phở nóng còn bốc khói.
+
+Hùng gập hồ sơ cuối ngày, siết gáy cặp rồi buông. Lan liếc trang ký, cúi ghi một dòng, ngẩng gật. Mùi giấy ẩm và nắng cửa sổ lẫn vào nhau. Ông thở chậm.
+
+"Chưa xong," ông nói khẽ. "Sáng mai còn một việc phải chốt trước khi cửa mở."
+
+============================================================
+「Hệ thống — GHI NHẬN ch.337」
+Năm: 2018
+Tổng EXP: 85,200 (+600)
+Không gian kho: 48,640m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: trí tuệ + hệ thống: lộ pháp lý + Tuấn anh Thành NHNN
+============================================================

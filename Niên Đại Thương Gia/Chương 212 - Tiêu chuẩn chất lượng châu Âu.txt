@@ -1,5 +1,6 @@
 ============================================================
 Chương 212: Tiêu chuẩn chất lượng châu Âu
+============================================================
 
 Tháng Sáu năm 1998, Hùng đón chuyên gia tư vấn chất lượng người Đức tại sân bay Nội Bài. Ông tên Klaus Weber, năm mươi hai tuổi, cựu kỹ sư của TÜV Rheinland — tổ chức chứng nhận chất lượng hàng đầu châu Âu. Klaus đã nghỉ hưu sớm theo chế độ đặc biệt ở Đức, nhưng vẫn nhận hợp đồng tư vấn ngắn hạn cho các công ty châu Á muốn đạt chuẩn xuất khẩu vào EU. Ông ta đã làm việc cho ba công ty Thái Lan, một công ty Philippines, và một công ty Ấn Độ. Thương Gia là công ty Việt Nam đầu tiên.
 
@@ -193,19 +194,14 @@ Ngồi trong văn phòng sau buổi họp, Hùng mở sổ, viết: *"Học đư
 
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+QC-095 mới chỉ là giấy. Ca đêm mai mới biết Hưng và Thủy có giữ nhịp khi không ai đứng sau lưng.
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và bà Hà ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
-
-Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Minh đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
-
-Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Việc còn mở phía trước. Sáng mai ông mở sổ từ dòng chưa gạch.
 
 「Hệ thống — GHI NHẬN ch.212」
 Năm: 1998
-Tổng EXP: 40,736 (+238 nhịp này)
-Không gian kho: 13,657m² (+143m²)
+Tổng EXP: 40,857 (+238 nhịp này)
+Không gian kho: 13,714m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
-Ghi chú: Bắt đầu dự án nâng cấp chất lượng theo chuẩn EU — tư vấn Klaus Weber, phát hiện bảy lỗ hổng quy trình. Lô hàng lỗi đầu tiên → sửa hệ thống ghi chép ca. Chín mươi lăm đầu việc hoàn thành trong tuần.
+Ghi chú: Klaus Weber — QC-095; lô mì mốc + nước mắm pha; kỷ luật ghi chép ca.
+============================================================

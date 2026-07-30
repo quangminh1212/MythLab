@@ -157,11 +157,10 @@ Hùng đứng một mình trên hiên rất lâu. Ông nghĩ đến con số: n�
 Ông rút sổ ra, dưới ánh đèn hiên, viết một dòng: "Bản đầu tiên xong. Ban quản lý nước năm người. Phí nước một nghìn đồng một khối. Nếu cái mô hình này chạy được ở đây, nó chạy được ở bốn trăm chín mươi chín nơi khác. Đừng làm hộ dân. Làm cùng dân."
 
 「Hệ thống — GHI NHẬN ch.284」
-Năm: 2010
-Tổng EXP: 66,667 (+334 nhịp này)
+Năm: 2008
+Tổng EXP: 66,667 (+334)
 Không gian kho: 29,667m² (+334m²)
 Kỹ năng trọng yếu: Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
 Ghi chú: Dự án Nước sạch cho 500 xã khởi động — công trình đầu tiên hoàn thành tại bản Sà Phìn A, Si Ma Cai, Lào Cai. Kế hoạch 2.500 tỷ trong 5 năm, 100 xã mỗi năm. Điều kiện bắt buộc: mỗi xã lập ban quản lý nước do dân bầu, thu phí nhỏ để tự vận hành và bảo trì.
 
-Teaser: Mô hình chạy tốt ở một bản — nhưng khi nhân lên trăm xã một năm, bài toán không còn là kỹ thuật, mà là lòng người ở những nơi ban quản lý bị chính quyền xã muốn nắm.
 ============================================================

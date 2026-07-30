@@ -1,4 +1,4 @@
-============================================================
+﻿============================================================
 Chương 218: Pin mặt trời thế hệ mới
 ============================================================
 
@@ -202,9 +202,9 @@ Và ở Hải Phòng, một nhà máy pin mặt trời nhỏ đang chờ ông v�
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.218」
-Năm: 2007
-Tổng EXP: 48,920 (+800 nhịp này)
-Không gian kho: 17,200m² (+400m²)
+Năm: 1999
+Tổng EXP: 42,286 (+238)
+Không gian kho: 14,571m² (+142m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv2
 Ghi chú: Đàm phán liên doanh với Sharp — công nghệ pin 22%. Yêu cầu ISO+ TÜV trước Q3/2007. Mục tiêu: dây chuyền tự động hóa. Khoảng cách công nghệ: 0,68 vs 0,82 USD/watt.
 ============================================================

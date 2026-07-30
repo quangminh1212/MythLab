@@ -1,5 +1,6 @@
 ============================================================
 Chương 34: Tuyển kỹ sư Minh
+============================================================
 
 Ngày 12 tháng tư năm 1984, đúng lịch đã dời từ đầu tháng Ba, Hùng xuống ga Đà Nẵng khi nắng mới trườn qua mái tôn. Trong va-li của ông không có bản hợp đồng nào chờ ký, chỉ có ba gói hàng từ lô thực phẩm vừa mở tuyến vào Nam, chiếc cân lệch, bản vẽ tủ hong Minh đã gửi, một chiếc radio hỏng và thư chuyển đầu mối của ông Tam.
 
@@ -201,15 +202,17 @@ Hùng không đi cùng chuyến tàu. Ông còn một cuộc gặp với đại 
 
 Khi đoàn tàu khuất sau dãy mái, hệ thống hiện lên trong tầm nhìn Hùng. Lần này ông hiểu trigger: không phải một cái bắt tay, mà là chuỗi quyết định đã biến một người giỏi thành năng lực có thể vận hành mà không phá đội cũ. Phần không gian mới mở ra được ông khóa cho bàn thử cơ điện: khu khô, cách kho thực phẩm, có giá linh kiện và tủ giữ mẫu. Năm mươi mét vuông ấy chưa phải nhà máy radio; nó chỉ là nơi một lời hứa phải chịu được đồng hồ đo, rung động và chữ ký.
 
-Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Minh ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Minh hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+Trên tàu ra Bắc, Minh ngồi im, tay giữ cặp bản vẽ tủ hong. Hạnh ngồi ghế đối diện, mắt nhắm nhưng không ngủ — cô rà lại ba cột lỗi không tên trong đầu. Hùng đứng nối toa, nhìn đồng lúa trôi, nhớ xung đột trong kho phấn: truy dấu của Minh và săn người của Hạnh đã ghép thành mã A/B/C.
 
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+Lan điện tín ngắn: "Duyệt 320. Trần dụng cụ 2000. Radio pilot = điều kiện lâu. Bù ông Tam 180."
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Hùng gấp điện tín. Tuyển xong chưa phải xong. Thùng rỉ mã B đã dừng xuất. Minh ra Bắc 27 tháng tư. Bàn thử cơ điện năm mươi mét vuông chờ người thật, không chờ danh hiệu kỹ sư trên giấy.
 
+============================================================
 「Hệ thống — GHI NHẬN ch.34」
 Năm: 1984
 Tổng EXP: 2,360 (+140 nhịp này)
 Không gian kho: 2,200m² (+50m²)
-Kỹ năng trọng yếu: Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
-Ghi chú: Tuyển Minh sau bốn bài thử; khu mới khóa làm bàn thử cơ điện, không tính vào kho thực phẩm.
+Kỹ năng trọng yếu: Thương mại lv1, Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Ghi chú: Tuyển Minh 4 bài thử — lương 320, trần dụng cụ 2000; 3 cột lỗi A/B/C; dừng xuất thùng rỉ mã B; +50m² bàn thử cơ điện.
+============================================================

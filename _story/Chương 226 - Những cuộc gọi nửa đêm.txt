@@ -1,5 +1,6 @@
 ============================================================
 Chương 226: Những cuộc gọi nửa đêm
+============================================================
 
 Tuần thứ hai sau khi Lehman sụp, không khí ở Thương Gia Tower đặc quánh như mùa hè Hà Nội trước cơn mưa lớn — ngột ngạt, ẩm ướt, và đầy những tín hiệu bất an. Báo chí trong và ngoài nước gọi điện liên tục, nhưng Hùng không trả lời bất kỳ cuộc phỏng vấn nào. Bạn hàng gọi — giọng họ run run, muốn gia hạn thanh toán, muốn giảm đơn hàng, muốn hủy hợp đồng. Ngân hàng cũng gọi — nhưng giọng họ khác hẳn so với một tháng trước. Tháng Tám, họ còn niềm nở mời vay thêm. Tháng Chín, họ gọi để đòi lại.
 
@@ -173,19 +174,10 @@ Hùng ngồi thẳng dậy. "Bao nhiêu?"
 
 Hùng cúp máy, thở ra một hơi nhẹ nhõm. Cuộc gọi nửa đêm không nào cũng mang tin xấu.
 
-Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
-
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
-
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-Hùng nhíu mày, siết tay trên sổ ch.226. Lan liếc số, cúi ký. Ông thở, nuốt lời gắt, ngẩng, gật. Mắt cô không cười. Tay run rồi vững.
-
 「Hệ thống — GHI NHẬN ch.226」
-Năm: 2000
-Tổng EXP: 45,750
-Không gian kho: 0
-Kỹ năng trọng yếu: (xem ledger)
-Ghi chú: Đàm phán Vietcombank — đồng ý 1 tài sản. Techcombank tăng lãi 19.5%. Phát hiện nợ ẩn Xi măng Hà Nam 70 tỷ nhờ Tanaka — loại khỏi danh sách. Bắt đầu thẩm định Thép Bắc Ninh.
+Năm: 2008
+Tổng EXP: 50,224 (+163 nhịp này)
+Không gian kho: 18,288m² (+136m²)
+Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
+Ghi chú: Gọi nửa đêm — VCB/TCB; Tanaka lộ nợ ẩn Xi măng HN.
+============================================================

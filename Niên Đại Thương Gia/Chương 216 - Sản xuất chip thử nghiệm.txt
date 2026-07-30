@@ -156,7 +156,7 @@ Hùng nhìn đèn led. Nó nhấp nháy đều đặn, mỗi lần sáng là m�
 
 Klaus gật đầu, ghi nhanh vào sổ.
 
-Cánh cửa phòng sạch lại mở — lần này là bà Nguyễn Thị Hà, vợ Hùng. Bà mặc áo khoác dày, đầu quấn khăn len, tay xách túi đựng đồ ăn sáng. Bà dừng lại trước cửa phòng sạch, không bước vào.
+Cánh cửa phòng sạch lại mở — lần này là bà Nguyễn Thị Hà, mẹ Hùng. Bà mặc áo khoác dày, đầu quấn khăn len, tay xách túi đựng đồ ăn sáng. Bà dừng lại trước cửa phòng sạch, không bước vào.
 
 "Ăn sáng chưa?" Bà hỏi, giọng vọng từ ngoài cửa.
 
@@ -214,14 +214,14 @@ Hùng nhắm mắt.
 
 Chiếc xe lăn bánh trên con đường đất ướt, chở một con chip và một người đàn ông đang học cách chấp nhận rằng — trong công nghệ — thất bại không phải là kết thúc. Nó chỉ là một bước trong quy trình.
 
-============================================================
-
 “Anh Hùng, em xin lỗi!” Lan chạy vào, mắt đầy nước mắt. Hùng ngẩng lên. “Có chuyện gì?” “Em làm mất sổ!” Hùng nhìn cô, mắt anh không nóng giận. Anh chỉ lặng lẽng đứng dậy, đi đến bên cô. “Mất rồi thì làm lại. Em đừng khóc.” Anh đưa tay lau nước mắt cho cô. Ngón tay anh chạm vào má cô, ấm. Lan nhìn anh, mắt cô lấp lánh. “Cảm ơn anh.”
+
+Yield 60% chưa bán được. Mask metal-1 về đến Hải Phòng — sáng mai Bảo chạy lô thử thứ hai.
 
 「Hệ thống — GHI NHẬN ch.216」
 Năm: 1999
 Tổng EXP: 41,810 (+239 nhịp này)
 Không gian kho: 14,286m² (+143m²)
-Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv2
-Ghi chú: TG-001 yield 60% lô thử. Chip chạy đúng thiết kế. Mask metal-one lỗi — chỉnh sửa 10K USD. Klaus chịu trách nhiệm lô hai (tháng 1/2000). Công nghệ cao lv1 → lv2.
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
+Ghi chú: Chip TG-001 yield 60%; mask metal-1; Bảo + Klaus rà quy trình sạch.
 ============================================================

@@ -1,5 +1,5 @@
 ============================================================
-Chương 81: Mở rộngnăng lượng nhà máy điện
+Chương 81: Mở rộng năng lượng nhà máy điện
 ============================================================
 
 4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở cửa phòng điều hành. Ông đứng nhìn bảng áp lực nước cấp, tay cầm tách trà nóng bốc khói giữa tiết trời  tháng Mười Một.
@@ -242,14 +242,25 @@ Trước khi ngủ, ông mở lại sổ. Đọc dòng cuối cùng ghi ở hiê
 
 Đèn tắt. "Mở rộng năng lượng nhà máy điện" chưa xong cả đời — chỉ xong một ngày, đủ để mai còn mở cửa.
 
+Trời tối hẳn khi Hùng ra cổng nhà máy. Gió than lạnh thổi qua hàng rào kẽm gai, mang mùi dầu máy và bụi than ẩm. Ông siết chặt tay vào sổ nhật trình — ngón tay còn dính mỡ bạc ổ đỡ.
+
+Lan đứng bên xe đạp, mắt liếc đồng hồ rồi nhìn ông.
+
+"Anh chọn Mitsubishi hay LMZ?"
+
+"Chưa chốt." Hùng thở dài, hơi trắng trong đêm. "Chốt khi có danh sách phụ tùng năm năm và lịch đào tạo. Không chốt bằng catalogue đẹp."
+
+Lan gật, cúi ghi một dòng vào sổ nhỏ. Bà Hà ở nhà đã để sẵn canh bí — bà không hỏi công suất, chỉ hỏi ông đã ăn gì từ sáng.
+
+Trước khi ngủ, Hùng viết cuối sổ: Unit 1 hòa lưới 15:28. Van LMZ OK. SF6 Trung Quốc — từ chối. Unit 3 — thép Thái Nguyên 12 tấn còn thiếu.
+
+Mai còn mở cửa máy. Còn khe hở nào chưa đo? Sẽ rõ khi tua-bin thứ hai dừng ca.
+
 ============================================================
 「Hệ thống — GHI NHẬN ch.81」
 Năm: 1986
 Tổng EXP: 12,500 (+250 nhịp này)
 Không gian kho: 4,543m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Máy phát diesel cấp điện cho xưởng. Bóng đèn dầu thay bằng đèn điện. Cả xưởng sáng trưng.
-Chị Sáu: "Từ giờ không phải nheo mắt may nữa nhỉ?"
-
-Điện — thứ mà cả làng cần hơn cả vàng. Hùng quyết định đầu tư đúng chỗ.
+Ghi chú: Unit 1 kiểm bạc ổ đỡ 0.28mm cho chạy; PA A dây 240mm²; Mitsubishi vs LMZ hoàn vốn ~4.8 năm; unit1 hòa lưới 15:28; từ chối sứ SF6 không type-test.
 ============================================================

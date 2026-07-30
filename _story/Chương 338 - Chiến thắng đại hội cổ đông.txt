@@ -196,7 +196,7 @@ Lan mở hộp cơm, đặt lên bàn, kéo ghế ngồi đối diện Hùng. Đ
 
 "Có. Tự mình bước xuống còn đường lui. Bị đẩy xuống — hết cả đường lui lẫn đường tiến."
 
-Hùng nhìn vợ một lúc dài. Trong bóng đèn vàng, khuôn mặt Lan không còn trẻ — những nếp nhăn ở khóe mắt, mái tóc đã điểm bạc ở hai bên thái dương. Nhưng mắt chị vẫn sáng. Cái sáng của người đã trải qua lửa đạn, đã mất ngủ hàng đêm vì những con số, đã khóc một mình trong nhà vệ sinh công ty trước khi bước ra phòng họp với nụ cười trên môi.
+Hùng nhìn mẹ một lúc dài. Trong bóng đèn vàng, khuôn mặt Lan không còn trẻ — những nếp nhăn ở khóe mắt, mái tóc đã điểm bạc ở hai bên thái dương. Nhưng mắt chị vẫn sáng. Cái sáng của người đã trải qua lửa đạn, đã mất ngủ hàng đêm vì những con số, đã khóc một mình trong nhà vệ sinh công ty trước khi bước ra phòng họp với nụ cười trên môi.
 
 "Bao lâu nữa?" Hùng hỏi.
 
@@ -253,8 +253,8 @@ Lan không nói gì. Mắt chị đỏ lên — nhưng chị không khóc. Chỉ
 ============================================================
 「Hệ thống — GHI NHẬN ch.338」
 Năm: 2018
-Tổng EXP: 86,400
-Không gian kho: 49,680m²
-Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
-Ghi chú: Chiến thắng đại hội cổ đông — Hùng chuyển nhượng toàn bộ 38.7% cổ phần cho Lan
+Tổng EXP: 85,800 (+600)
+Không gian kho: 49,160m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: ĐHĐCĐ thắng phiếu; chuyển cổ phần kiểm soát sang Lan
 ============================================================

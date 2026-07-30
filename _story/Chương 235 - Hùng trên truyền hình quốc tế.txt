@@ -1,7 +1,8 @@
 ============================================================
 Chương 235: Hùng trên truyền hình quốc tế
+============================================================
 
-Đầu tháng Năm năm 2009, Hùng nhận được báo cáo tài chính quý I từ phòng kế toán. Bản in trên giấy trắng A4, bìa hồ sơ màu xanh nhạt, góc phải đóng dấu đỏ "TÀI LIỆU MẬT". Số liệu khả quan hơn nhiều so với quý cuối năm ngoái. Doanh thu hợp nhất đạt bảy trăm hai mươi tỷ đồng, tăng mười hai phần trăm so với quý IV năm 2008. Lợi nhuận sau thuế đạt tám mươi bốn tỷ đồng, gấp ba lần quý trước. Dòng tiền từ hoạt động kinh doanh dương trở lại lần đầu tiên sau sáu tháng. Nợ vay giảm từ hai trăm tám mươi tỷ xuống hai trăm năm mươi tỷ. Hàng tồn kho giảm ba mươi phần trăm so với quý trước. Tất cả các chỉ số tài chính đều xanh, báo hiệu sự phục hồi rõ rệt sau cơn khủng hoảng tồi tệ nhất trong lịch sử toàn cầu.
+Cuối năm 2008, Hùng nhận được báo cáo tài chính quý I từ phòng kế toán. Bản in trên giấy trắng A4, bìa hồ sơ màu xanh nhạt, góc phải đóng dấu đỏ "TÀI LIỆU MẬT". Số liệu khả quan hơn nhiều so với quý cuối năm ngoái. Doanh thu hợp nhất đạt bảy trăm hai mươi tỷ đồng, tăng mười hai phần trăm so với quý IV năm 2008. Lợi nhuận sau thuế đạt tám mươi bốn tỷ đồng, gấp ba lần quý trước. Dòng tiền từ hoạt động kinh doanh dương trở lại lần đầu tiên sau sáu tháng. Nợ vay giảm từ hai trăm tám mươi tỷ xuống hai trăm năm mươi tỷ. Hàng tồn kho giảm ba mươi phần trăm so với quý trước. Tất cả các chỉ số tài chính đều xanh, báo hiệu sự phục hồi rõ rệt sau cơn khủng hoảng tồi tệ nhất trong lịch sử toàn cầu.
 
 Hùng đọc đi đọc lại báo cáo ba lần, kiểm tra từng khoản mục — tiền mặt, phải thu, tồn kho, tài sản cố định, đầu tư tài chính. Tay ông lật từng trang, mắt dò từng dòng. Khi xác nhận không có sai sót, ông gập báo cáo lại, đặt lên bàn, nhìn ra cửa sổ một lúc lâu. Nắng sớm tháng Năm chiếu qua cửa kính, rọi lên mặt bàn làm việc. Hà Nội đang vào hè, những tán cây xanh mướt trên đường phố, tiếng ve đã bắt đầu kêu râm ran.
 
@@ -180,17 +181,12 @@ Hùng bỏ danh thiếp vào túi áo trong. Một cánh cửa mới vừa mở 
 
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.235. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Clip sáu phút lên sóng. Điện thoại cháy. Ông tắt máy lúc nửa đêm — để sáng mai còn tỉnh mà ký lệnh sản xuất.
 
 「Hệ thống — GHI NHẬN ch.235」
-Năm: 2009
-Tổng EXP: 55,580 (+360)
-Không gian kho: 24,344m² (+72m²)
-Kỹ năng trọng yếu: (xem ledger)
-Ghi chú: khóa nhịp
+Năm: 2008
+Tổng EXP: 49,632 (+474)
+Không gian kho: 18,684m² (+263m²)
+Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
+Ghi chú: Hùng trên truyền hình quốc tế — BBC/CNBC clip 6 phút.
+============================================================

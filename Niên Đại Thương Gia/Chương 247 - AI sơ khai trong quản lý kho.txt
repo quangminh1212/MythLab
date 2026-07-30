@@ -1,5 +1,6 @@
-============================================================
+﻿============================================================
 Chương 247: AI sơ khai trong quản lý kho
+============================================================
 
 Năm 2006, Hải Phòng.
 
@@ -23,15 +24,15 @@ Dũng ghi vào sổ tay: "Tuyến tính không đủ. Dữ liệu có tính chu 
 
 Anh chuyển sang thử nghiệm với mạng nơ-ron nhân tạo — một chủ đề hết sức mới mẻ, đến mức trong nước hầu như không có tài liệu. Dũng phải đọc tài liệu tiếng Anh, tra từ điển từng chữ, mày mò hiểu từng công thức toán học. Mất hai tháng để viết xong phiên bản đầu tiên — một mạng nơ-ron ba lớp với mười hai nơ-ron ở lớp ẩn. Kết quả: độ chính xác 68,3 phần trăm. Vẫn chưa đủ tốt để áp dụng thực tế — sai ba lần trên mười dự đoán là quá nhiều. Nhưng Dũng thấy con đường phía trước đã có ánh sáng, dù còn xa.
 
-Tháng 8 năm 2006, Hùng ghé thăm phòng làm việc của Dũng. Ông thấy ba cuốn sách cũ kỹ trên bàn, thấy những tờ giấy nháp ghi chép chi chít công thức toán học, thấy màn hình máy tính đầy code. Ông hỏi: "Cậu đang làm gì thế?"
+Tháng 8 năm 2006, Hùng ghé thăm phòng làm việc của Dũng. Ông thấy ba cuốn sách cũ kỹ trên bàn, thấy những tờ giấy nháp ghi chép chi chít công thức toán học, thấy màn hình máy tính đầy code. Ông bước vào, mắt liếc qua ba cuốn sách cũ trên bàn, rồi dán vào màn hình. Mắt ông nheo lại vì ánh sáng xanh. "Cậu đang làm gì thế?"
 
-Dũng ngẩng lên, dụi mắt mỏi: "Em đang xây một hệ thống dự báo tồn kho tự động. Nếu thành công, nó sẽ giúp mình giảm sai lệch tồn kho xuống dưới năm phần trăm. Tiết kiệm cho công ty khoảng mười lăm triệu đồng mỗi tháng."
+Dũng ngẩng lên, dụi mắt mỏi, tay buông khỏi bàn phím: "Em đang xây một hệ thống dự báo tồn kho tự động. Nếu thành công, nó sẽ giúp mình giảm sai lệch tồn kho xuống dưới năm phần trăm. Tiết kiệm cho công ty khoảng mười lăm triệu đồng mỗi tháng."
 
 Hùng hỏi thêm: "Mất bao lâu nữa?"
 
 "Có thể sáu tháng. Có thể một năm. Em không biết chắc. Công nghệ này ở Việt Nam chưa ai làm, em phải tự mò mẫm."
 
-Hùng không nói gì thêm. Ông chỉ đứng nhìn màn hình một lúc lâu. Trên đó là những đồ thị và con số mà ông không hiểu hết. Nhưng ông hiểu được ý chí đằng sau chúng — ý chí của một người không chấp nhận thực tại, muốn cải tiến mọi thứ. Ông nói ngắn gọn: "Cần thêm gì thì bảo tôi. Không phải xin phép, chỉ cần báo."
+Hùng không nói gì thêm. Ông nhíu mày, đứng nhìn màn hình một lúc lâu. Tay ông siết nhẹ cạnh bàn. Trên đó là những đồ thị và con số mà ông không hiểu hết. Nhưng ông hiểu được ý chí đằng sau chúng — ý chí của một người không chấp nhận thực tại, muốn cải tiến mọi thứ. Ông gật đầu, nói ngắn gọn: "Cần thêm gì thì bảo tôi. Không phải xin phép, chỉ cần báo."
 
 "Dạ, em cần một máy tính mạnh hơn. Con máy hiện tại yếu quá, chạy một lần thử nghiệm mất nửa ngày."
 
@@ -59,51 +60,54 @@ Năm 2007, hệ thống quản lý kho thông minh của Dũng — thứ mà sau
 
 Nhưng giá trị thực sự không nằm ở 400 triệu đồng tiết kiệm được. Giá trị thực sự là nền móng. Bởi từ hệ thống dữ liệu ban đầu này, Thương Gia bắt đầu xây dựng những thứ lớn hơn nhiều. Trung tâm dữ liệu. Phân tích thị trường tiêu dùng. Dự báo xu hướng bán hàng theo mùa vụ. Và cuối cùng — bước ra thế giới, với công nghệ do chính người Việt Nam viết ra.
 
-Hung gap mot nguoi thay tuong noi tieng. Ong thay nhin ong mot luc roi noi: 'Ong la nguoi co niem tin rat lon. Nhung ong cung co nhieu lo au.' Hung gat: 'Toi lo cho cong ty, lo cho cong nhan.' Ong thay cuoi: 'Lo la tot. Nhung dung đe lo au lam ong quen mat nhung đieu tot đep xung quanh.' Tu đo, Hung tap nhin cuoc song nhe nhang hon. O van lo, nhung khong đe no ap che.
 
-Hung ngoi mot minh trong van phong vang, nhin ra pho phuong ben ngoai. Den pho bat đau vang len. O thay minh that nho be giua long thanh pho lon. Nhung chinh cam giac nho be đo lai cho ong suc manh: boi vi khi biet minh con nho be, ong moi tiep tuc co gang. 'Khong co gi la lon lao neu minh khong biet bo cong xay dung. Moi thu đeu tu nhung đieu nho nhat.' O nho lai nhung ngay đau chi co mot sap vai nho. Va bay gio, khi Thuong Gia đa lon, ong van song voi tinh than cu. O khong đe minh tro thanh mot 'ong chu' kieu cach.
+Tối hôm đó, Hùng gọi điện cho Dũng. Cuộc gọi kéo dài bốn mươi lăm phút — không phải để khen, mà để hỏi: "Mô hình này có thể áp dụng cho dự báo nhu cầu nguyên liệu không?" Dũng đáp: "Được. Nhưng cần dữ liệu dài hơn, ít nhất ba năm." Hùng ghi vào sổ tay. Ông biết câu trả lời ấy mở ra một cánh cửa khác — không chỉ quản lý kho, mà cả chuỗi cung ứng thông minh.
 
-Mot đêm mua đong, Hung cam thay noi nho đen nhung ngay xua, nhung ngay con kho khan nhung đay cam xuc. O nho buoi toi ngoi ben vo bep lua, lang nghe gio mua, an bat com dem. Khi đo, ong co it nhung hanh phuc. 'Hanh phuc khong phai khi co nhieu. Ma khi can đu, la hanh phuc nhat.' Bay gio, ong co nhieu, nhung ong van giu đuoc tinh than đo.
+Sáng hôm sau, Hùng đến phòng lab của Dũng. Màn hình máy tính mới Dell Precision sáng trưng, ánh đèn phản chiếu lên mặt kính. Dũng kéo ghế cho ông ngồi. Trên màn hình là đồ thị đường cong dự báo — đường thực tế và đường dự đoán nằm gần nhau đến kinh ngạc.
 
-Tien bac, đoi khi, lam con nguoi thay đoi. Nhung Hung khong đe tien lam hu ong. O vẫn ăn com binh dan, mặc ao gia re, đi xe cu. Khong phai vi tiet kiem. Ma vi ong thay, tien khong lam minh tot hon. 'Giau co khong xau. Nhung giau co ma mat nhan cach moi la xau.' Câu noi đo đa thanh cham ngon song cua ong.
+"Nhìn," Dũng chỉ vào chỗ hai đường giao nhau. "Độ chính xác cao nhất ở những mặt hàng bán chạy nhất. Hàng chậm — dự báo kém hơn. Nhưng hàng chậm cũng ít rủi ro hơn."
 
-O nhin lai cuoc đoi, Hung thay minh đa đat đuoc nhieu thu. Nhung ong khong kieu ngạo. O biet con đuong phia truoc con dai, con nhieu đieu phai hoc. 'Mot đoi nguoi, đu song đe hieu het moi đieu hay sao?' O tu nhu, roi tu cuoi. Chac la khong. Nhung cu đu co gang, cu đu song het long, la đu.
+Hùng gật đầu. Ông không hỏi thêm về thuật toán. Ông chỉ hỏi: "Bao giờ áp được cho toàn bộ hệ thống?"
 
-Hung gap lai mot nguoi ban cu o cho cu. Ho o nha huu, lon tuoi, nhung van ngoi ban rau. Hoi tham nhau, nguoi ban noi: 'Tao the nay, ma vui.' Hung cuoi: 'Tao cung vui.' Hai nguoi ban gia, khong con nhung uoc mo lon, chi con nhung cau chuyen nho ve con chau, ve thoi tiet. Nhung tinh ban van nguyen ven.
+"Sáu tháng nữa, nếu em có thêm hai người."
 
-Hung to chuc tet som cho cong nhan. 500 nguoi trong nha may, moi nguoi mot phong bi. Phong bi khong lon, nhung du đe mua thit, mua banh. Mot nguoi cong nhan gia cam đong noi: 'Sep oi, bao nhieu nam nay, chua nam nao sep quen tet.' Hung cuoi: 'Toi khong quen đuoc. Vi tet la cua anh chi em.' Nhung giay phut do, Hung thay minh nhu mot nguoi cha cua mot gia đinh lon. Va ong yeu gia đinh đo.
+"Tuyển ngay. Trả lương theo năng lực."
 
-Hung va ba Ha xem lai album cu. Nhin nhung buc anh cu, nhung nguoi ban cu, nhung ky niem xua. O cuoi: 'Cuoc song đa cho minh nhieu qua that.' O cam thay binh yen, hanh phuc, va song tiep cuoc song.
+Dũng cúi đầu cảm ơn. Hùng đứng dậy, bước ra cửa. Trời đã tối. Đèn phòng lab chiếu sáng hành lang dài — những ô cửa sổ khác đã tắt hết, chỉ còn màn hình máy tính của Dũng sáng trong đêm. Ông quay lại nhìn lần cuối: cậu kỹ sư trẻ ngồi trước bàn phím, mắt dán vào dòng code, tay gõ liên tục. Mùi cà phê nguội và giấy in mới thoảng trong không khí.
 
-Hung nho lai nhung ngay đau tien xay dung nha may. O cung ban be, anh em, thuc đem lam đem. 'Cuc, nhung vui.' O thay minh that co gang thanh cong va co y nghia. Tuong lai, ong se con lam nhieu đieu cho xa hoi.
+Buổi chiều hôm ấy, Hùng gặp Lan ở văn phòng tổng. Cô đang xem báo cáo tài chính quý, bút đỏ khoanh từng dòng. Ông ngồi xuống, kể cho cô nghe về hệ thống của Dũng.
 
-Hung di tham vung cao. O giup do bang cach mua san pham. Kinh doanh khong chi la ban hang, con la chia se.
+Lan đặt bút xuống, ngẩng lên, mắt sáng. "Anh nói độ chính xác tám mươi hai phần trăm?"
 
-Hung ngoi tren ban, nhin ra pho. O nho mot cau noi: 'Song la khong chi cho minh. Ma cho moi nguoi.' O hieu ra: cuoc song cua ong co y nghia nho nhung nguoi xung quanh. Cong nhan, ban be, đoi tac, gia đinh. O cam on ho.
+"Đúng. Và đang cải thiện."
 
-Hung đi dao tren pho, thay hai đua tre choi đua. O đung lai nhin. Chung cuoi vang, ngu ngheo. Hung cam thay nho lai tuoi tho. O hua se giup đua tre co tuong lai tot hon.
+"Thế thì mình có thể dùng nó cho logistics. Dự báo nhu cầu theo mùa vụ — nếu đúng, mình cắt được tồn kho chết ít nhất mười lăm phần trăm."
 
-Mot nguoi ban ngheo gap Hung keu khan. Hung liên he giup đo. 'Minh song phai biet giup đo nhau. Kho khan roi se qua. Tinh ban con đay.'
+Hùng nhìn cô, gật nhẹ. Ông luôn biết Lan nghĩ nhanh hơn ông về mặt số liệu. Nhưng lần này, cô còn đi xa hơn — cô nhìn thấy ứng dụng mà ông chưa kịp nghĩ tới.
 
-Mot hom, Hung doc sach ve cac nha sang lap. O thay minh trong ho. Cung gian kho, cung đam me. O cam thay minh khong đon đoc. O tiep tuc đoc, tiep tuc hoc.
+"Em thử đi," ông nói. "Nhưng đừng nói với Dũng rằng anh gợi ý. Để cậu ấy tự phát triển — cậu ấy sẽ tìm ra cách tốt hơn nếu không bị gò bó trong khuôn khổ của mình."
 
-Mot chuyen xe đi qua vung nui. Hung thay canh đep. O thay minh nho nhoi. O song co ich. O song cho moi nguoi. Chuyen xe đi tiep, mang ong đen nhung noi xa. O tiep tuc hanh trinh.
+Lan gật đầu,弯腰 lấy một tập hồ sơ từ ngăn kéo. Trong tập ấy có danh sách mười lỗ hổng tồn kho lớn nhất của hệ thống hiện tại. Cô đã chuẩn bị từ trước — chỉ chờ một tín hiệu.
 
-Mot cau chuyen nho: Hung thay mot em be nhat chiec banh roi xuong đat, em be nhat len an tiep. Hung mua cho em be mot o banh khac. 'Em an đi. Song phai biet huong thu.' Em be cuoi. Hung thay long am.
+Tối hôm đó, về đến nhà, Hùng ngồi ở hiên sau. Bà Hà đang rửa bát, tiếng nước chảy rì rào. Qua khung cửa sổ mở, ông thấy bóng đèn vàng trong bếp chiếu xuống tóc bà đã bạc trắng. Ông nghĩ đến Dũng — cậu kỹ sư trẻ ngồi trong căn phòng nóng hầm hập, ba cuốn sách cũ trên bàn, viết nên tương lai bằng những dòng code. Và ông nghĩ đến Lan — cô em gái đã lớn lên từ một cô gái bán hàng ở chợ thành người quản lý hàng tỷ đồng. Thương Gia không chỉ là một tập đoàn. Nó là nơi những giấc mơ nhỏ bé nhất — một hệ thống tồn kho, một bản báo cáo, một chuyến hàng đúng giờ — chất chồng lại thành điều lớn lao.
 
-'Anh Hung, anh lam the nao đe thanh cong?' Mot phong vien hoi. 'Khong co bi quyet. Chi co co gang, that la, va kien nhan.' 'Cam on anh.' Phong vien gap so ghi chep. Hung cuoi, nhin ra cua so, thay nang chieu vang.
+Ông đứng dậy, bước vào nhà. Bà Hà nhìn lên, mỉm cười: "Ăn trái cây không, con?" Ông ngồi xuống, gắp một miếng thanh long. Vị ngọt thanh, mát lưỡi. Ngoài trời, mưa đã tạnh, nhưng không khí vẫn còn ướt. Và trong đầu ông, bài toán tồn kho đã có lời giải — nhưng bài toán lớn hơn, bài toán về tương lai, vẫn chờ ông mỗi sáng mai.
 
-'Bác Hùng! Cháu chờ bác!' Một thanh niên chạy đến. 'Có chuyện gì thế cháu?' 'Cháu muốn cảm ơn bác. Cháu vừa tốt nghiệp đại học, đã có việc làm ổn định. Nhờ có bác cho cháu vay tiền học.' Thanh niên cúi gập người. Hùng đỡ cậu ta dậy: 'Tốt, tốt lắm. Cố gắng làm việc thật tốt nhé.' Cậu thanh niên gật đầu, mắt sáng lên, rồi chào tạm biệt. Hùng nhìn cậu ta khuất sau góc phố, thấy lòng mình reo vui.
+Hùng bước ra ngoài. Mưa rơi nhẹ trên mái hiên. Ông ngẩng mặt lên, cảm nhận những hạt mưa mát lạnh trên má. Trong đầu ông vẫn còn hình ảnh ấy — màn hình sáng trong đêm, bóng dáng một người viết nên tương lai cho cả tập đoàn. Và ông tự hỏi: tương lai ấy sẽ lớn đến mức nào?
 
-Người thanh niên cúi gập người, mắt đỏ hoe. "Bác ơi, cháu không biết nói gì hơn. Cảm ơn bác." Hùng đỡ cậu dậy, tay vỗ vai. "Không có gì đâu cháu. Cuộc sống là phải giúp đỡ nhau." Người thanh niên gật đầu, lau nước mắt. "Cháu sẽ cố gắng không phụ lòng bác." Hùng cười, mắt nheo lại. "Ừ, bác tin cháu."
+Đêm ấy, sau khi Hùng ra về, Dũng vẫn ngồi trong phòng lab. Màn hình máy tính phát ra ánh sáng trắng mát mắt trong bóng tối. Anh mở lại nhật ký — cuốn sổ nhỏ bìa xanh đã viết hơn hai trăm trang trong hai năm qua. Anh ghi lại kết quả hôm nay: "Độ chính xác 82%. Sai lệch tồn kho giảm 5.5%. Tiết kiệm 28 triệu/tháng. Cần thêm người. Cần thêm dữ liệu."
 
+Anh dừng bút, ngẩng lên, nhìn ra cửa sổ. Tay vẫn nắm chặt bút. Bên ngoài, nhà máy đã tắt đèn. Chỉ còn ánh đèn đường vàng vọt hắt vào qua tấm kính bẩn. Tiếng côn trùng kêu râm ran trong đêm hè. Mùi dầu máy và sắt nóng vẫn còn vương trong không khí.
 
+Dũng biết mình đã đi đúng hướng. Hai năm trước, anh chỉ là một kỹ sư trẻ với ba cuốn sách cũ và một ý tưởng mà không ai hiểu. Hôm nay, anh có một hệ thống thực sự — chưa hoàn hảo, nhưng đang học mỗi ngày. Và hơn hết, anh có một người lãnh đạo tin rằng công nghệ có thể thay đổi cách làm ăn tại Việt Nam.
 
-Hùng nhíu mày, siết ngón tay sổ ch.247. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Anh gấp sổ lại, thở dài, tắt đèn. Đi qua hành lang vắng, chân bước trên nền xi măng còn ấm. Cửa sắt kêu ken két khi anh kéo ra. Ngoài trời, saoấ trỏi. Anh nhìn lên một lúc, rồi đạp xe về phòng trọ trên con đường đất tối om. Phía sau, phòng lab tắt hẳn — nhưng ngày mai, màn hình sẽ sáng lại, và bài toán sẽ lớn hơn.
 
+============================================================
 「Hệ thống — GHI NHẬN ch.247」
-Năm: 2006
-Tổng EXP: 57,000 (+1,500 nhịp này)
-Không gian kho: 0
+Năm: 2009
+Tổng EXP: 54,333 (+333)
+Không gian kho: 21,167m² (+167m²)
 Kỹ năng trọng yếu: Công nghệ cao lv2, Quản trị dữ liệu lv2, Quản lý kho lv3
 Ghi chú: Hệ thống dự báo tồn kho đầu tiên — độ chính xác 82%
+============================================================
