@@ -1,5 +1,6 @@
 ============================================================
 Chương 4: Bán hàng đầu tiên
+============================================================
 
 Ngày thứ ba sau khi tỉnh lại, Hùng ra huyện với hàng trong tay và lý lịch trên lưng.
 
@@ -77,11 +78,11 @@ Mì gói: 2 thùng, mỗi thùng 30 gói. Hùng bán lẻ — 0.5 đồng/gói, 
 
 Người đàn ông ghé sát, hạ giọng dù quanh đó chẳng có ai để ý: "Cậu tuần nào cũng ra chứ? Vợ tôi ở cữ, tôi còn cần dài dài." Hùng không hứa chắc, chỉ nói mình đi huyện thường xuyên, hôm nào có thì có. Ông xé thử một góc bao ngoài cho khách xem gói mì còn nguyên tem, sợi vàng óng, thơm mùi bột chiên — thứ mùi mà mấy năm nay cả làng chỉ ngửi thấy vào dịp Tết. Người đàn ông kẹp thùng mì vào hông, bước đi nhanh, thỉnh thoảng ngoái lại như sợ ai giành mất.
 
- Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
+Còn 30 EXP nữa. Hùng tiếp tục bán quần áo — trong buổi sáng, ông bán thêm 3 bộ nam (50 đồng/bộ) và 1 bộ trẻ em (30 đồng). Tổng thu nhập buổi sáng: 50 + 10 + 15 + 150 + 30 = 255 đồng.
 
 Hùng nhẩm lại con số trong đầu, không ghi ra giấy. Người bán rong mà cầm sổ sách giữa chợ chỉ tổ chuốc lấy ánh mắt tò mò. Ông xếp lại mấy bộ quần áo còn thừa, phủi bụi bám mép vải, cuộn tấm vải trải đất cho gọn. Mồ hôi rịn ở gáy, lưng áo ẩm dính vào da; ông tìm bóng mái hiên, ngồi nghỉ, uống ngụm nước từ bi đông mang theo. Nước âm ấm, có vị kim loại, nhưng đủ làm dịu cổ họng khô.
 
- Còn 20 EXP nữa. Hùng có thể bán thêm chiều, nhưng ông quyết định dừng — không nên bán quá nhiều một ngày. 5 bộ quần áo + trứng + mì là đủ. Thêm nữa sẽ gây chú ý — ai cũng hỏi "hàng ở đâu ra", và câu trả lời "phụ việc ở Hà Nội" sẽ không thuyết phục nếu ông bán quá nhiều.
+Còn 20 EXP nữa. Hùng có thể bán thêm chiều, nhưng ông quyết định dừng — không nên bán quá nhiều một ngày. 5 bộ quần áo + trứng + mì là đủ. Thêm nữa sẽ gây chú ý — ai cũng hỏi "hàng ở đâu ra", và câu trả lời "phụ việc ở Hà Nội" sẽ không thuyết phục nếu ông bán quá nhiều.
 
 Buổi chiều, Hùng không về ngay. Ông đi dạo huyện, khảo sát kỹ hơn. Ông tìm hiểu:
 - Chợ huyện họp mỗi ngày, từ 5h sáng đến 12h trưa
@@ -95,6 +96,26 @@ Kết luận: thị trường ngách của ông — quần áo may sẵn, trứn
 Hùng cũng quan sát người dân: đa số nông dân, thu nhập thấp, mua hàng thiết yếu. Nhưng có một nhóm nhỏ — cán bộ huyện, giáo viên, y tá, người có người nhà ở thành phố — thu nhập cao hơn, cần hàng chất lượng, sẵn sàng trả tiền. Đây là khách hàng mục tiêu của ông.
 
 Một người đàn ông mặc áo sơ mi trắng (chính là người mua áo hôm qua) tiến đến, kéo Hùng sang một bên. "Cậu ơi, cậu có áo nào đẹp hơn không? Tôi cần bộ đi dự tiệc cưới. 100 đồng cũng được."
+
+Hùng nhìn ông ta — cán bộ huyện, thu nhập ổn, cần hàng cao cấp. Kỹ năng thương mại lv1 lập tức tính toán: bộ vest đơn giản (sơ mi trắng + quần tây đen + áo vest) — ông không có vest trong kho, nhưng có áo sơ mi cao cấp và quần tây. Giá trị thực: 120-150 đồng. Bán 100 đồng là giá tốt.
+
+"Em có sơ mi cao cấp và quần tây, nhưng không có áo vest. Bộ sơ mi + quần tây, vải xịn, may công nghiệp, 80 đồng. Bác mặc đi dự tiệc cũng đẹp."
+
+Người đàn ông do dự, rồi gật đầu. "Được. Nhưng mang đến nhà tôi, tôi thử. Không vừa thì trả lại."
+
+Hùng đồng ý. Ông lấy ra bộ sơ mi trắng cao cấp + quần tây đen, bọc trong bao vải. "Chiều nay em mang đến. Bác ở đâu?"
+
+"Nhà cạnh ủy ban huyện. Cổng xanh, sân có cây bàng."
+
+Hùng ghi nhớ. Buổi chiều, ông mang bộ quần áo đến nhà người đàn ông — ông ta tên Khanh, cán bộ phòng tài chính huyện. Anh thử áo, vừa vặn, hài lòng, trả 80 đồng.
+
+Khanh vuốt lại ve áo trước gương, nghiêng người ngắm đường xẻ tà, gật gù ra chiều ưng ý. "May khéo thật. Ở huyện chẳng ai cắt được đường này." Ông rót cho Hùng chén nước vối, mời ngồi, hỏi han bâng quơ về quê quán, về chuyện làm ăn ngoài Hà Nội. Hùng trả lời chừng mực, đủ để thân thiện, không để lộ sơ hở. Trong nhà thoảng mùi nước vối chát nhẹ, ngoài sân cây bàng đổ bóng loang trên nền gạch. Ông biết chén nước này không chỉ là nước — nó là cánh cửa đầu tiên của một quan hệ.
+
+Phần việc còn lại đã rõ. Hùng mỉm cười — ngày mai ông sẽ hoàn thành nhiệm vụ nếu vẫn giữ được nhịp bán thận trọng.
+
+Anh Khanh mặc bộ áo mới, đứng trước gương, vuốt áo. "Cậu ơi, cậu có hàng đều đều không? Tôi muốn mua thêm cho con trai. Và tôi có mấy đồng nghiệp cũng cần."
+
+Hùng mắt sáng. "Em có, anh. Nhưng em bán rong, không có địa điểm cố định. Nếu anh biết ai cần, giới thiệu em. Em đến huyện mỗi ngày."
 
 Khanh gật đầu. "Được. Cậu đến nhà tôi mỗi sáng, tôi sẽ giới thiệu khách."
 
@@ -154,8 +175,6 @@ Năm bước kế hoạch dài hạn vẫn nguyên — nhưng bước 1 (bán h�
 
 Hùng thoát không gian, nhắc Lan chuẩn bị túi hàng. Ngày mai sẽ là ngày thứ tư: hoàn thành nhiệm vụ, công khai chiếc xe đã dự tính mua, rồi bắt đầu bước tiếp theo.
 
-### Đồng tiền đầu tiên phải có đường về
-
 Sáng kế tiếp, Lan đi cùng. Hai anh em thay nhau xách chiếc túi vải chứa hàng, đi bộ từ lúc trời còn tối. Đến chợ, Hùng không chọn góc khuất hôm trước. Ông trải tấm bạt đúng ô ghi trên vé, chừa lối cho gánh rau đi qua.
 
 Lan xếp áo theo cỡ, gấp tay áo vào trong để bụi khỏi bám cổ tay trắng. Cô đề nghị treo một bộ đẹp nhất lên dây. Hùng lắc đầu: dây cao dễ gọi cả chợ nhìn sang. Họ chỉ mở hai bộ mẫu; khách muốn cỡ khác mới lấy từ túi. Sự kín đáo làm tốc độ bán chậm, đổi lại không tạo một đám đông.
@@ -178,31 +197,16 @@ Tới nhà, bà Hà không cầm xấp tiền. Bà nhận chai dầu và gói th
 
 Hùng phủi bùn ở ống quần. Lan hong chiếc áo đã sửa. Ngày bán đầu tiên kết thúc bằng hai việc không ai ngoài nhà nhìn thấy: một món lỗi được giữ lại, một khoản nợ mơ hồ bị từ chối. Chính hai việc ấy khiến họ còn hàng để bán ngày mai.
 
-Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+============================================================
 
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
+Hùng phủi bùn ống quần. Lan hong áo đã sửa. Ngày bán khép bằng hai việc không ai ngoài nhà thấy: một món lỗi được nhận; một tờ mười không mất vào ước lượng. Sáng mai còn hẹn Khanh — ông sẽ bước vào nhà cấp bốn mà không để lý lịch hộ nuốt mất cái gật đầu.
 
-Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
 
-Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
-
-Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
-
-Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
-
-Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
-
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
-
-Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Minh cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.4」
 Năm: 1983
 Tổng EXP: 90 (+30 nhịp này)
 Không gian kho: 1,150m² (+50m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1
-Ghi chú: khóa nhịp
+Ghi chú: Bán hàng có cam kết sửa lỗi; đếm tiền hai lần; hẹn nhà Khanh.
+============================================================

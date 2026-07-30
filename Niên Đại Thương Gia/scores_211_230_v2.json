@@ -1,0 +1,939 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 20,
+  "pass": 19,
+  "below": 1,
+  "avg": 9.456,
+  "min_final": 7.5,
+  "all_pass": false,
+  "below_list": [
+    {
+      "num": 211,
+      "file": "Chương 211 - Chuỗi cửa hàng West Coast.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(2887)"
+      ],
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 9.62,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "metrics": {
+        "words": 2887,
+        "chars": 13966,
+        "dialogue": 84,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.6,
+        "char_density": 1.65,
+        "cliche": 0,
+        "scene_breaks": 13,
+        "has_panel": true,
+        "panel_year": 1998,
+        "prose_year": 1998,
+        "top_rep": [
+          [
+            "Los Angeles, tháng Năm 1998. Hùng đến sau chuyến bay mười bốn tiếng từ Hồng Kông, nối chuyến từ Hà Nội. Sân bay LAX rộng, thảm đỏ sờn cũ, biển chỉ dẫn song ngữ Anh-Tây Ban Nha. Một người tài xế Mexico cầm bảng giấy ghi tên ông — chữ viết tay bằng bút dạ xanh — đợi ở khu vực đón khách quốc tế.",
+            1
+          ],
+          [
+            "Hùng bước ra, cảm nhận cái nóng khô của California. Khác với độ ẩm Sài Gòn, không khí ở đây nhẹ hơn, khô hơn, ánh nắng chói chang nhưng dễ chịu.",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "results": [
+    {
+      "final": 7.5,
+      "weighted_raw": 9.34,
+      "cap": 7.5,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 9.62,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [
+        "short<3000(2887)"
+      ],
+      "metrics": {
+        "words": 2887,
+        "chars": 13966,
+        "dialogue": 84,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.6,
+        "char_density": 1.65,
+        "cliche": 0,
+        "scene_breaks": 13,
+        "has_panel": true,
+        "panel_year": 1998,
+        "prose_year": 1998,
+        "top_rep": [
+          [
+            "Los Angeles, tháng Năm 1998. Hùng đến sau chuyến bay mười bốn tiếng từ Hồng Kông, nối chuyến từ Hà Nội. Sân bay LAX rộng, thảm đỏ sờn cũ, biển chỉ dẫn song ngữ Anh-Tây Ban Nha. Một người tài xế Mexico cầm bảng giấy ghi tên ông — chữ viết tay bằng bút dạ xanh — đợi ở khu vực đón khách quốc tế.",
+            1
+          ],
+          [
+            "Hùng bước ra, cảm nhận cái nóng khô của California. Khác với độ ẩm Sài Gòn, không khí ở đây nhẹ hơn, khô hơn, ánh nắng chói chang nhưng dễ chịu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Los Angeles, tháng Năm 1998. Hùng đến sau chuyến bay mười bốn",
+      "file": "Chương 211 - Chuỗi cửa hàng West Coast.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 211 - Chuỗi cửa hàng West Coast.txt",
+      "num": 211
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3869,
+        "chars": 18190,
+        "dialogue": 103,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.27,
+        "char_density": 2.09,
+        "cliche": 0,
+        "scene_breaks": 12,
+        "has_panel": true,
+        "panel_year": 1998,
+        "prose_year": 1998,
+        "top_rep": [
+          [
+            "Tháng Sáu năm 1998, Hùng đón chuyên gia tư vấn chất lượng người Đức tại sân bay Nội Bài. Ông tên Klaus Weber, năm mươi hai tuổi, cựu kỹ sư của TÜV Rheinland — tổ chức chứng nhận chất lượng hàng đầu châu Âu. Klaus đã nghỉ hưu sớm theo chế độ đặc biệt ở Đức, nhưng vẫn nhận hợp đồng tư vấn ngắn hạn cho các công ty châu Á muốn đạt chuẩn xuất khẩu vào EU. Ông ta đã làm việc cho ba công ty Thái Lan, một công ty Philippines, và một công ty Ấn Độ. Thương Gia là công ty Việt Nam đầu tiên.",
+            1
+          ],
+          [
+            "Hùng gặp Klaus qua mối giới thiệu của đối tác Đức ở München. Ba tháng trước, khi Hùng ghé thăm nhà máy linh kiện ở München, người quản lý nhà máy — một người Đức tên Schmidt — đã khuyên: \"Nếu ông muốn hàng Thương Gia vào được thị trường Đức và Pháp, ông cần chứng nhận ISO 9001 và HACCP. Làm từ bây giờ, vì mất một năm để chuẩn bị — và hai năm để lấy lại niềm tin nếu có lỗi.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Sáu năm 1998, Hùng đón chuyên gia tư vấn chất lượng",
+      "file": "Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt",
+      "num": 212
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3598,
+        "chars": 17033,
+        "dialogue": 80,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.03,
+        "char_density": 2.7,
+        "cliche": 0,
+        "scene_breaks": 11,
+        "has_panel": true,
+        "panel_year": 1998,
+        "prose_year": 1998,
+        "top_rep": [
+          [
+            "Tháng Bảy năm 1998, Hùng thuê một công ty tư vấn ISO từ Singapore — BST Quality Solutions — để chuẩn bị cho đợt đánh giá chính thức vào tháng Mười. Chi phí: mười tám nghìn đô la Singapore cho hai tuần làm việc, bao gồm vé máy bay, khách sạn, và phí tư vấn. Ba chuyên gia Singapore đến Việt Nam làm việc trong hai tuần, trực tiếp đến từng nhà máy, kiểm tra đối chiếu giữa quy trình trên giấy và thực tế.",
+            1
+          ],
+          [
+            "Người dẫn đầu là ông Lý Chính Huy, năm mươi lăm tuổi, từng làm quản lý chất lượng cho nhà máy thực phẩm ở Johor Bahru hai mươi năm. Lý nói tiếng Anh trôi chảy, thỉnh thoảng xen tiếng Quảng Đông, tiếng Mân Nam khi nói chuyện điện thoại với gia đình. Ông ta mặc áo sơ mi trắng, quần tây đen, luôn mang theo một chiếc clipboard và bút đỏ. Clipboard của ông ta có một tờ giấy trắng — mỗi khi phát hiện lỗi, ông ta ghi bằng bút đỏ, đánh số, và cuối ngày tổng kết.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Bảy năm 1998, Hùng thuê một công ty tư vấn ISO",
+      "file": "Chương 213 - Chứng nhận ISO toàn hệ thống.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 213 - Chứng nhận ISO toàn hệ thống.txt",
+      "num": 213
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3425,
+        "chars": 16718,
+        "dialogue": 99,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.77,
+        "char_density": 2.39,
+        "cliche": 0,
+        "scene_breaks": 11,
+        "has_panel": true,
+        "panel_year": 1998,
+        "prose_year": 1998,
+        "top_rep": [
+          [
+            "Tháng Mười một năm 1998, Hùng bay đến Lyon, Pháp. Chuyến bay Hà Nội — Paris — Lyon mất gần một ngày. Ông đến sân bay Saint-Exupéry lúc tám giờ tối giờ địa phương, mệt nhưng không buồn ngủ. Một người đàn ông Pháp tên Bertrand chờ ông ở sảnh đến — Bertrand Moreau, bốn mươi hai tuổi, luật sư mua bán và sáp nhập của công ty luật DBK Conseil, người đã giới thiệu thương vụ này với Hùng từ tháng Chín.",
+            1
+          ],
+          [
+            "Bertrand ngoài bốn mươi, mặc áo sơ mi xanh nhạt không cà vạt, tóc hơi dài, đeo kính gọng bạc kiểu trí thức. Ông ta nói tiếng Anh chuẩn Anh, thỉnh thoảng xen từ tiếng Pháp khi không tìm được từ tiếng Anh chính xác. Bắt tay Hùng, ông ta nói ngay vào việc:",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Mười một năm 1998, Hùng bay đến Lyon, Pháp. Chuyến bay",
+      "file": "Chương 214 - M&A đối thủ vừa tại Pháp.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 214 - M&A đối thủ vừa tại Pháp.txt",
+      "num": 214
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3854,
+        "chars": 18520,
+        "dialogue": 90,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.93,
+        "char_density": 1.94,
+        "cliche": 0,
+        "scene_breaks": 8,
+        "has_panel": true,
+        "panel_year": 1998,
+        "prose_year": 1998,
+        "top_rep": [
+          [
+            "Cuối tháng Mười một, Hùng bay từ Paris về Singapore sau khi giải quyết xong thủ tục mua Savourer. Nhưng ông không về Hà Nội ngay — ông dừng lại Singapore hai ngày để giải quyết một việc đã trì hoãn từ tháng Chín: gặp Paul Chen, Asia Pacific Capital.",
+            1
+          ],
+          [
+            "Paul Chen hẹn Hùng ở khách sạn Raffles — một khách sạn cổ từ thời thuộc địa Anh, trần cao, quạt trần, ghế bành da, không khí của một thế giới đã qua. Hùng đến sớm mười lăm phút. Ông không thích đến trễ, nhưng cũng không thích đến quá sớm — tạo cảm giác đang chờ đợi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Cuối tháng Mười một, Hùng bay từ Paris về Singapore sau khi",
+      "file": "Chương 215 - Tích hợp văn hóa doanh nghiệp.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 215 - Tích hợp văn hóa doanh nghiệp.txt",
+      "num": 215
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3660,
+        "chars": 17459,
+        "dialogue": 110,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.42,
+        "char_density": 2.12,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 1999,
+        "prose_year": 1999,
+        "top_rep": [
+          [
+            "Sáu giờ sáng, Khu công nghiệp còn chìm trong lớp sương muối mỏng. Ánh đèn vàng từ dãy nhà xưởng mới hắt ra lối đi, soi bóng những chiếc xe tải đỗ dọc bờ tường. Tháng Mười một năm 1999 — cái lạnh đầu mùa len qua khe cửa sắt, mang theo mùi dầu nhớt và cao su cháy từ lò luyện.",
+            1
+          ],
+          [
+            "Hùng đứng trước cánh cửa phòng sạch. Phòng này mất ba tháng để dựng — tường lót nhôm, sàn vinil chống tĩnh, hệ thống lọc HEPA nhập từ Nhật qua trung gian Klaus. Chi phí: hai trăm bảy mươi triệu đồng, chưa kể thuế nhập khẩu thiết bị. Ông tự hỏi liệu mình có điên không khi đổ tiền vào một thứ mà cả nước chưa ai làm chủ được. Nhưng câu hỏi đó đã được trả lời từ tháng Tám, khi lô wafer đầu tiên từ TSMC Đài Loan đặt chân đến cảng Sài Gòn — ba trăm con chip, khắc dòng \"TG-001/1999\" trên bề mặt silicon.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sáu giờ sáng, Khu công nghiệp còn chìm trong lớp sương muối",
+      "file": "Chương 216 - Sản xuất chip thử nghiệm.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 216 - Sản xuất chip thử nghiệm.txt",
+      "num": 216
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3391,
+        "chars": 16161,
+        "dialogue": 74,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.71,
+        "char_density": 1.61,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 1999,
+        "prose_year": 2006,
+        "top_rep": [
+          [
+            "Tháng Ba năm 2006, nắng đã gay gắt từ chín giờ sáng.",
+            1
+          ],
+          [
+            "Hùng đứng trên nền đất đỏ mới san lấp, tay cầm bản vẽ thiết kế nhà xưởng — một dãy nhà dài ba trăm mét, mái tôn cao, tường thoáng để gió biển lùa qua.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Ba năm 2006, nắng đã gay gắt từ chín giờ sáng.",
+      "file": "Chương 217 - Nhà máy năng lượng tái tạo.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 217 - Nhà máy năng lượng tái tạo.txt",
+      "num": 217
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3362,
+        "chars": 16306,
+        "dialogue": 77,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.75,
+        "char_density": 2.27,
+        "cliche": 0,
+        "scene_breaks": 8,
+        "has_panel": true,
+        "panel_year": 1999,
+        "prose_year": 2007,
+        "top_rep": [
+          [
+            "Tháng Hai năm 2007, từ sân bay Narita, Hùng đi tàu express vào trung tâm Tokyo, rồi chuyển sang tàu địa phương đến tỉnh Osaka. Chuyến đi được Yamashita sắp xếp từ tháng Mười hai — một chuyến tham quan nhà máy pin mặt trời của Sharp tại Sakai, khu công nghiệp ven biển phía nam Osaka.",
+            1
+          ],
+          [
+            "Hùng không đi một mình. Đi cùng ông là Nguyễn Hữu Cường — kỹ sư trưởng dự án năng lượng — và Trần Thị Lan, người phụ trách đàm phán hợp đồng. Ba người ngồi trên tàu cao tốc, nhìn qua cửa kính những cánh đồng lúa mùa đông trơ gốc rạ, những khu nhà máy san sát mái tôn xám.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Hai năm 2007, từ sân bay Narita, Hùng đi tàu express",
+      "file": "Chương 218 - Pin mặt trời thế hệ mới.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 218 - Pin mặt trời thế hệ mới.txt",
+      "num": 218
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3425,
+        "chars": 16316,
+        "dialogue": 71,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.68,
+        "char_density": 1.78,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 1999,
+        "prose_year": 2007,
+        "top_rep": [
+          [
+            "Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương Gia mở rộng — một khu vực riêng biệt nằm sâu trong đất liền, cách cảng Hải Phòng bốn mươi cây số. Hùng chọn chỗ này vì đất rẻ, mặt bằng rộng, và quan trọng hơn — kín đáo. Không có tòa nhà cao tầng nào nhìn vào được, không có đường lớn chạy qua, và khu vực này không nằm trong quy hoạch du lịch hay khu đô thị. Những gì xảy ra trong đó, chỉ người trong đó biết.",
+            1
+          ],
+          [
+            "Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy tính工作站 Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương",
+      "file": "Chương 219 - Xe điện nguyên mẫu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 219 - Xe điện nguyên mẫu.txt",
+      "num": 219
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3273,
+        "chars": 15554,
+        "dialogue": 96,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.19,
+        "char_density": 3.02,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 1999,
+        "prose_year": 2007,
+        "top_rep": [
+          [
+            "Sáu giờ sáng, Hùng đã có mặt ở Trung tâm Hội chợ Triển lãm Đà Nẵng. Công trình mới khánh thành cuối năm trước nằm trên đường Bạch Đằng, mặt tiền nhìn ra sông Hàn. Đây là lần đầu tiên Việt Nam đăng cai một hội chợ công nghệ cấp khu vực — Triển lãm công nghệ châu Á 2007. Năm nước tham gia: Nhật Bản, Hàn Quốc, Singapore, Malaysia và chủ nhà Việt Nam. Mỗi nước hai mươi gian hàng.",
+            1
+          ],
+          [
+            "Nắng tháng sáu ở Đà Nẵng gay gắt từ sớm. Biển Đông thổi vào một luồng khí ẩm nặng, mồ hôi thấm áo trước bảy giờ. Hùng mặc áo sơ mi trắng xắn tay đến khuỷu, quần tây đen, giày da cũ đã đánh xi. Trông ông không giống doanh nhân — giống một kỹ thuật viên đi kiểm tra mặt bằng hơn. Nhưng ông không quan tâm vẻ ngoài.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sáu giờ sáng, Hùng đã có mặt ở Trung tâm Hội chợ",
+      "file": "Chương 220 - Triển lãm công nghệ châu Á.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 220 - Triển lãm công nghệ châu Á.txt",
+      "num": 220
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3337,
+        "chars": 15872,
+        "dialogue": 81,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.38,
+        "char_density": 1.13,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 1997,
+        "top_rep": [
+          [
+            "Tháng Hai năm 2008, một bản tin Bloomberg đập vào mắt Hùng lúc sáu giờ sáng. Ông ngồi trong phòng làm việc tại nhà — một căn phòng nhỏ ở tầng hai, bàn gỗ, tủ sắt, quạt trần, màn hình CRT cũ kết nối Internet qua đường dây điện thoại. Tốc độ tải trang chậm đến mức ông có thể đi pha cà phê — phin, bột cà phê Trung Nguyên, nước sôi — rồi quay lại xem.",
+            1
+          ],
+          [
+            "Dòng chữ hiện ra trên màn hình, từng chữ một, như một bức điện tín: *\"New Century Financial — lender to borrowers with poor credit — reports 25% drop in earnings. Shares fall 36%.\"*",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Hai năm 2008, một bản tin Bloomberg đập vào mắt Hùng",
+      "file": "Chương 221 - Dấu hiệu khủng hoảng 2008.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 221 - Dấu hiệu khủng hoảng 2008.txt",
+      "num": 221
+    },
+    {
+      "final": 9.32,
+      "weighted_raw": 9.32,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.1,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3722,
+        "chars": 17524,
+        "dialogue": 98,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.61,
+        "char_density": 1.88,
+        "cliche": 1,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Tháng Tám năm 2008, Hùng gọi Hoàng lên phòng làm việc. Hoàng vừa về từ một khóa đào tạo ngắn hạn ở Singapore về quản trị rủi ro tài chính — thứ mà anh tự bỏ tiền túi đi học, không xin công ty. Hùng thích những người tự đầu tư vào bản thân. Khi Hoàng gõ cửa — tiếng gõ nhẹ, đều ba nhịp — Hùng đang đọc một báo cáo dài mười hai trang về tình hình xuất khẩu quý II, trên bàn cạnh tách cà phê đã nguội từ lâu, mặt nước phẳng lặng với một lớp váng mỏng. Mùi giấy mới in, mùi mực từ máy photocopy vẫn còn phảng phất trong phòng.",
+            1
+          ],
+          [
+            "\"Ngồi xuống,\" Hùng nói, không rời mắt khỏi tập báo cáo. \"Anh nghe nói em học về rủi ro tài chính. Dạy lại anh.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Tám năm 2008, Hùng gọi Hoàng lên phòng làm việc. Hoàng",
+      "file": "Chương 222 - Hệ thống cảnh báo sớm.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 222 - Hệ thống cảnh báo sớm.txt",
+      "num": 222
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3292,
+        "chars": 15345,
+        "dialogue": 68,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.32,
+        "char_density": 1.89,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Một năm trôi qua kể từ khi Hùng kích hoạt kế hoạch phòng thủ. Mười hai tháng. Đủ để một người đàn ông già thêm mười tuổi, đủ để một doanh nghiệp chuẩn bị cho điều tồi tệ nhất — và đủ để cơn bão cuối cùng cũng đổ bộ.",
+            1
+          ],
+          [
+            "Sáng ngày 16 tháng 9 năm 2008, Hùng đón tin Lehman Brothers sụp đổ lúc năm giờ sáng giờ Hà Nội. Ông đang nằm trong phòng ngủ, nửa tỉnh nửa mê, thì điện thoại rung trên bàn đầu giường. Màn hình hiện tên Hoàng. Hùng nhấc máy ngay — Hoàng không bao giờ gọi lúc năm giờ sáng trừ phi có chuyện cực kỳ quan trọng. Trong đầu Hùng, một nỗi lo mơ hồ bắt đầu hình thành từ giây đầu tiên.",
+            1
+          ]
+        ]
+      },
+      "opening": "Một năm trôi qua kể từ khi Hùng kích hoạt kế hoạch",
+      "file": "Chương 223 - Họp khẩn ban lãnh đạo.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 223 - Họp khẩn ban lãnh đạo.txt",
+      "num": 223
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3616,
+        "chars": 17528,
+        "dialogue": 94,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.81,
+        "char_density": 2.11,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "— Vâng.",
+            2
+          ],
+          [
+            "Tiếng quạt trần quay từng vòng nặng nhọc trên đầu, gió hắt xuống không đủ mát. Trời cuối tháng Mười, Hà Nội vào thu nhưng cái nóng oi vẫn đọng lại trong căn phòng nhỏ. Hùng không bật điều hòa — mỗi tháng tiết kiệm được vài trăm nghìn, lúc này cũng đáng kể.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tiếng quạt trần quay từng vòng nặng nhọc trên đầu, gió hắt",
+      "file": "Chương 224 - Bảo vệ dòng tiền.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 224 - Bảo vệ dòng tiền.txt",
+      "num": 224
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3319,
+        "chars": 15502,
+        "dialogue": 95,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.61,
+        "char_density": 1.48,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Đầu tháng Chín năm 2008, Hùng đang ngồi trong phòng làm việc tại Thương Gia Tower. Trên bàn là một tập báo cáo tài chính quý II dày ba mươi trang, góc trái có chữ ký của ông Phúc — người đã kiểm tra từng con số trước khi trình lên. Ngoài cửa sổ, phố Nguyễn Huệ vẫn đông đúc xe cộ, người mua người bán tấp nập. Không ai biết rằng cách nửa vòng trái đất, một con tàu khổng lồ vừa chìm.",
+            1
+          ],
+          [
+            "Điện thoại đổ chuông. Đầu dây bên kia là Đỗ Văn Hải — giám đốc tài chính mà Hùng mới cướp về từ KPMG Hà Nội sáu tháng trước. Hải ba mươi lăm tuổi, gầy, đeo kính gọng đen, áo sơ mi trắng luôn xắn tay đến khuỷu. Anh ta từng làm năm năm ở Big Four, chứng kiến một công ty Thụy Điển phá sản vì khủng hoảng dot-com, và một công ty Nhật Bản mất ba trăm tỷ vì đầu tư sai vào thị trường Mỹ. Giọng Hải hôm nay khác thường — không phải giọng của một người luôn có bảng tính trong đầu, mà là giọng của một người vừa thấy thứ mình chưa từng thấy.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đầu tháng Chín năm 2008, Hùng đang ngồi trong phòng làm việc",
+      "file": "Chương 225 - Cơn bão Lehman.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 225 - Cơn bão Lehman.txt",
+      "num": 225
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3470,
+        "chars": 16122,
+        "dialogue": 87,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.61,
+        "char_density": 1.67,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2000,
+        "top_rep": [
+          [
+            "Tuần thứ hai sau khi Lehman sụp, không khí ở Thương Gia Tower đặc quánh như mùa hè Hà Nội trước cơn mưa lớn — ngột ngạt, ẩm ướt, và đầy những tín hiệu bất an. Báo chí trong và ngoài nước gọi điện liên tục, nhưng Hùng không trả lời bất kỳ cuộc phỏng vấn nào. Bạn hàng gọi — giọng họ run run, muốn gia hạn thanh toán, muốn giảm đơn hàng, muốn hủy hợp đồng. Ngân hàng cũng gọi — nhưng giọng họ khác hẳn so với một tháng trước. Tháng Tám, họ còn niềm nở mời vay thêm. Tháng Chín, họ gọi để đòi lại.",
+            1
+          ],
+          [
+            "Sáng thứ Ba, giám đốc quan hệ khách hàng của Vietcombank gọi. Ông ta tên Lâm, bốn mươi tuổi, comple sẫm màu, giọng nói từ tốn lịch sự — thứ lịch sự của một người sắp phải làm việc khó xử. \"Anh Hùng, chúng tôi đang rà soát danh mục tín dụng trên toàn hệ thống. Thương Gia có hai khoản vay ngắn hạn tổng cộng 47 tỷ. Ngân hàng cần anh ký phụ lục bổ sung tài sản đảm bảo.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Tuần thứ hai sau khi Lehman sụp, không khí ở Thương Gia",
+      "file": "Chương 226 - Những cuộc gọi nửa đêm.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 226 - Những cuộc gọi nửa đêm.txt",
+      "num": 226
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3596,
+        "chars": 16680,
+        "dialogue": 73,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.73,
+        "char_density": 2.28,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Đầu tháng Mười năm 2008, thị trường chứng khoán Việt Nam xuống đến mức không ai dám nhìn vào bảng điện. Nhiều cổ phiếu mất sáu mươi đến bảy mươi phần trăm giá trị so với đỉnh đầu năm. Các công ty niêm yết kêu cứu. Ngân hàng siết nợ hàng loạt. Doanh nghiệp phá sản từng ngày — mỗi buổi sáng mở báo lại thấy một cái tên quen thuộc gửi đơn xin phá sản. Giữa khung cảnh hoảng loạn đó, Hùng làm điều ngược lại với tất cả mọi người — ông mở két, đếm tiền, và đi săn.",
+            1
+          ],
+          [
+            "Sáng ngày 5 tháng 10, Hùng và Hải đến Thép Bắc Ninh. Kết quả kiểm toán độc lập đã có từ ba ngày trước — sạch, không tìm thấy nợ ẩn đáng kể nào. Tài sản thực tế của nhà máy cao hơn sổ sách 6% nhờ giá bất động sản tăng trước khủng hoảng — một con số may mắn cho Hùng. Ông đã quyết định ký.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đầu tháng Mười năm 2008, thị trường chứng khoán Việt Nam xuống",
+      "file": "Chương 227 - Đi săn khi ai cũng sợ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 227 - Đi săn khi ai cũng sợ.txt",
+      "num": 227
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3136,
+        "chars": 14834,
+        "dialogue": 82,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.43,
+        "char_density": 2.43,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "New York, tháng Mười năm 2008. Trần Thị Lan đứng trước cửa sổ văn phòng thuê tạm ở Manhattan, nhìn xuống phố Wall. Trên màn hình TV ở góc phòng, Dow Jones lại đỏ sẫm. Một biểu tượng nước Mỹ khác vừa sụp: Washington Mutual, ngân hàng tiết kiệm lớn nhất nước Mỹ với hơn 300 tỷ USD tài sản, bị chính phủ liên bang đóng cửa chỉ hai tuần sau Lehman Brothers. Đây là vụ phá sản ngân hàng lớn nhất lịch sử Mỹ, và nó cho thấy không một tổ chức tài chính nào là an toàn.",
+            1
+          ],
+          [
+            "Đây là chuyến công tác thứ ba của Lan đến Mỹ trong chưa đầy hai tháng. Mỗi lần đến, bầu không khí lại nặng nề hơn. Manhattan vốn nhộn nhịp suốt ngày đêm, bây giờ như một thành phố ma — cửa hàng đóng cửa sớm, nhà hàng vắng khách, người đi bộ trên phố cúi gằm mặt, không ai cười. Những tòa nhà văn phòng treo biển \"For Lease\" mọc lên như nấm sau mưa. Mùi khói xe lạnh pha mùi nước mưa bay hơi trên mặt đường ướt. Tiếng còi xe vắng lẽ bên dưới, tiếng gió từ East River thổi mang hơi lạnh đầu thu. Những cuộc gọi từ khách hàng ngày càng ngắn, giọng ngày càng căng thẳng. Nỗi sợ lan tỏa như một màn sương dày đặc — không nhìn thấy nhưng ai cũng cảm nhận được.",
+            1
+          ]
+        ]
+      },
+      "opening": "New York, tháng Mười năm 2008. Trần Thị Lan đứng trước cửa",
+      "file": "Chương 228 - Lan giữ pháo đài Mỹ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 228 - Lan giữ pháo đài Mỹ.txt",
+      "num": 228
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3337,
+        "chars": 15488,
+        "dialogue": 79,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.4,
+        "char_density": 2.45,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Giữa tháng Mười một năm 2008, những tín hiệu đầu tiên của sự tan vỡ bắt đầu xuất hiện trong nội bộ Thương Gia. Một tổ trưởng sản xuất ở nhà máy Hải Phòng gửi đơn xin nghỉ việc — không phải vì tìm được chỗ tốt hơn, mà vì sợ công ty phá sản. Ba công nhân khác hỏi dò về khả năng bị sa thải qua tổ trưởng. Trên báo chí hàng ngày, tin tức về các công ty cắt giảm ba mươi đến năm mươi phần trăm nhân sự tràn ngập trang nhất. Nỗi lo sợ đang lây lan trong từng phân xưởng, từng bàn làm việc.",
+            1
+          ],
+          [
+            "Hùng họp ban lãnh đạo. Trên bàn là một tập báo cáo nhân sự từ Hòa — trưởng phòng nhân sự — với các con số đáng lo ngại. Tỷ lệ nghỉ việc của công nhân đã tăng từ 1.2% lên 4.7% chỉ trong hai tháng. Các cuộc phỏng vấn xin việc giảm sáu mươi phần trăm. Những người giỏi nhất đang rục rịch tìm đường ra.",
+            1
+          ]
+        ]
+      },
+      "opening": "Giữa tháng Mười một năm 2008, những tín hiệu đầu tiên của",
+      "file": "Chương 229 - Không ai bị bỏ lại.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 229 - Không ai bị bỏ lại.txt",
+      "num": 229
+    },
+    {
+      "final": 9.4,
+      "weighted_raw": 9.4,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.5,
+        "cau_truc": 10.0,
+        "nhan_vat": 8.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3274,
+        "chars": 15289,
+        "dialogue": 69,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.41,
+        "char_density": 1.37,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Cuối tháng Mười một năm 2008, một biên tập viên của Bloomberg News gọi đến văn phòng Thương Gia. Họ muốn phỏng vấn Hùng về chiến lược của Thương Gia trong khủng hoảng tài chính toàn cầu. Câu chuyện về một doanh nghiệp Việt Nam mua tài sản khi cả thế giới bán tháo đang bắt đầu gây chú ý trên các thị trường mới nổi.",
+            1
+          ],
+          [
+            "Hùng đặt máy xuống, nhìn Lan. \"Bloomberg. Họ muốn phỏng vấn anh. Một biên tập viên tên là Thomas Walsh.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Cuối tháng Mười một năm 2008, một biên tập viên của Bloomberg",
+      "file": "Chương 230 - Truyền thông và niềm tin.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 230 - Truyền thông và niềm tin.txt",
+      "num": 230
+    }
+  ]
+}

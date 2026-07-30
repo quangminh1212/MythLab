@@ -6,7 +6,6 @@ Sáng sớm tháng ba năm 1987. Khu công nghiệp mới nhú lên ở rìa th�
 
 Hai năm trước ông còn buôn linh kiện từ quận Chợ Lớn về bán lẻ. Năm nay ông bước qua bên kia: tự lắp ráp.
 
-
 Ca đầu có mười bảy người. Sáu người từ làng điện tử Nhật Tảo — quen tay với tụ, trở, diod. Bảy người từ xưởng cơ khí chuyển sang — biết hàn nhưng chưa quen bo mạch. Bốn người mới toanh, được dạy từ cách cầm mỏ hàn, lấy que thiếc từ ngày thứ hai.
 
 Hùng đi dọc băng tải. Tay ông chạm vào mỏ hàn của chị Lan — chị ngồi trạm cuối, mổ hàn lại những mối nguội mà trạm test đánh dấu bằng bút đỏ. "Chị thấy không, cái này thiếc chảy chưa tới," ông chỉ. "Đầu tip hàn dính flux cũ. Thay cái mới, nhẹ tay, hai giây — không hơn."
@@ -35,8 +34,6 @@ Hùng quyết định: ca tối nay kéo dài thêm một tiếng, không hàn m
 
 Chuyện tiền thưởng không ghi trong hợp đồng — toàn bộ thỏa thuận miệng. Nhưng không ai hỏi lại. Hùng chưa từng lỡ.
 
-Năm giờ, bà Nguyễn Thị Hà — vợ Hùng — mang cơm từ nhà ra xưởng. Một thúng nhỏ: cơm trắng, cá kho, rau muống luộc, mắm tôm chưng. Bà đặt ở góc xưởng, gọi mọi người ăn vã. Hùng ăn vội, tay vẫn cầm cái bo mạch, mắt nhìn mối hàn dưới kính lúp. Bà Hà nhắc: "Ăn xong hãy làm." Ông cười, đặt bo xuống.
-
 Một câu chuyện năm 1987: tỉ giá giữa đồng Việt Nam và đô la Mỹ không ổn định. Giá linh kiện nhập thay đổi từng tuần. Một lô transistor mua đầu tháng giá 180 đồng một con, cuối tháng đã 250 đồng — nếu nhập qua đường trung chuyển, mỗi lần qua tay đội thêm 15%. Hùng phải tính trước lượng hàng hai tháng, nhưng vốn mỏng, không dám ôm nhiều. Ông chơi kiểu mua theo đơn hàng — khách đặt bao nhiêu, nhập linh kiện đúng bấy nhiêu, dư tối đa 10% dự phòng. Cách này giảm rủi ro tỉ giá nhưng tạo áp lực lên dây chuyền: nếu hỏng nhiều quá, không có linh kiện để hàn lại.
 
 Sáu giờ. Ca chính tan. Mười bảy người rời xưởng, mười người ở lại làm thêm. Tiếng quạt trần quay ù, tiếng mỏ hàn chạm thiếc xèo xèo, tiếng đồng hồ VOM kêu tích tích khi đo thông mạch. Hùng đi vòng quanh, xem từng người hàn. Thỉnh thoảng ông dừng lại, chỉ: "Chỗ này thiếc hơi nhiều — chân số 4 và số 5 dễ chập. Lấy que đồng hút bớt." Người thợ làm theo, không nói gì. Xưởng sản xuất điện tử không cần người nói nhiều.
@@ -47,7 +44,7 @@ Bảy giờ tối. Trời mưa nhẹ. Mái tôn kêu lộp bộp. Trong xưởng
 
 Ông đóng sổ, nhìn dây chuyền đã ngừng, im lìm dưới ánh đèn. Một cái quạt trần vẫn quay. Đám công nhân ra về, tiếng xe đạp lạch cạch ngoài cổng. Hùng ở lại cuối cùng, kiểm tra lại ổ cắm điện, ngắt cầu dao, khóa kho linh kiện. Chìa khóa ông giữ, một dây buộc vào thắt lưng.
 
-Chín giờ, ông về nhà trên chiếc xe đạp cũ. Bà Hà để phần cơm nóng trong nồi, một đĩa cá kho riêng. Trần Thị Lan — con gái ông — đang ngồi học bài dưới đèn dầu vì mất điện. Lan hỏi: "Hôm nay nhiều bo không ba?" Hùng cười: "Một trăm bốn mươi ba cái. Hai mươi hai cái phải làm lại. Mai con tính giúp ba xem yield phải bao nhiêu mới có lời."
+Chín giờ, ông về nhà trên chiếc xe đạp cũ. Bà Hà để phần cơm nóng trong nồi, một đĩa cá kho riêng. Trần Thị Lan — em gái ông — đang ngồi rà sổ dưới đèn dầu vì mất điện. Lan hỏi: "Hôm nay nhiều bo không ba?" Hùng cười: "Một trăm bốn mươi ba cái. Hai mươi hai cái phải làm lại. Mai con tính giúp ba xem yield phải bao nhiêu mới có lời."
 
 Lan lấy giấy nháp, viết: giá bán một bo = 3.200 đồng. Chi phí linh kiện = 1.800 đồng. Nhân công + điện + khấu hao = 600 đồng. Lợi nhuận gộp = 800 đồng/bo. Nếu yield 80%, mỗi 100 bo nhận 80 bo tốt, bù linh kiện cho 20 bo hỏng, lời thực tế... Lan tính ra con số 38.000 đồng lời cho 100 bo đầu vào. Nếu yield xuống 60%, lỗ.
 
@@ -59,12 +56,11 @@ Sáng hôm sau, Hùng đến xưởng lúc sáu giờ. Mưa đã ngớt. Mái t�
 
 Người đầu tiên đến là chú Bảy. Ông già ngồi xuống trạm hàn của mình, lau kính lúp, sắp xếp lại khay linh kiện theo màu sắc — tụ xanh lá, tụ xanh dương, diod đen, trở nâu. Không ai bảo, nhưng ông làm vì ngày hôm sau làm việc nhanh hơn.
 
-Người thứ hai là chị Lan — con gái Hùng xin nghỉ học buổi sáng để ra xưởng phụ. Chị ngồi trạm kiểm cuối, cầm kính lúp soi từng mối hàn. Có cái thiếc đẹp, bóng, phủ đều — đạt. Có cái thiếc đục, không bám đều — đánh dấu đỏ.
+Người thứ hai là chị Lan — em gái Hùng ra xưởng phụ buổi sáng. Chị ngồi trạm kiểm cuối, cầm kính lúp soi từng mối hàn. Có cái thiếc đẹp, bóng, phủ đều — đạt. Có cái thiếc đục, không bám đều — đánh dấu đỏ.
 
 Đến bảy giờ, mọi người đã ngồi vào vị trí. Hùng đứng đầu dây chuyền, tay cầm một cái loa tự chế — micro nối với ampli cũ — nói với cả xưởng: "Hôm nay chúng ta làm 200 bo. Không hơn, không kém. Mỗi người chỉ cần làm đúng. Không cần nhanh. Mối hàn nào chưa chắc thì hỏi chú Bảy, hỏi tao. Lỗi hôm qua giảm được 6%. Hôm nay giảm thêm 4% nữa. Được không?"
 
 Cả xưởng trả lời bằng tiếng "được" lẻ tẻ — không đồng thanh, không khí thế. Hùng không cần khí thế. Ông cần những mối hàn chắc.
-
 
 Một giờ sau, chị Lan phát hiện một lỗi mới: chân IC cắm không hết, nhô lên khỏi bo mạch, hàn chỉ bám mặt trên. Hùng xem — lỗi do lỗ khoan bo mạch nhỏ hơn chân IC, do nhà cung cấp bo mạch dùng mũi khoan sai cỡ. Ông gọi điện thoại — một cái điện thoại quay tay, mượn của xưởng kế bên — gọi sang Nhà Tảo, đặt lại bo mới, yêu cầu khoan lỗ 0.8mm thay vì 0.7mm.
 
@@ -77,7 +73,6 @@ Chiều, một tin vui: một lô linh kiện do tàu từ Nhật về sớm, đ
 Khách là một công ty tư nhân ở quận Tân Bình, đặt bo mạch cho máy đo áp suất cơ khí chuyển đổi điện tử — một sản phẩm cho thị trường nội địa, dùng trong các nhà máy nước. Họ cần 500 bo, giao trong ba tuần. Đơn hàng đầu tiên có giá trị lớn nhất từ trước đến nay của xưởng.
 
 Hùng tính: năng suất hiện tại ~150 bo/ngày, yield 80%. Cần 500 bo giao, vậy phải sản xuất ~625 bo. Mỗi ngày 150 → mất 4-5 ngày. Có dư. Nhưng nếu yield không cải thiện, thời gian sẽ đội lên. Ông quyết định đầu tư thêm một máy test tự chế — anh Lộc thiết kế, dùng IC 555 làm mạch tạo xung, kết hợp đồng hồ đo, giúp kiểm tra bo nhanh hơn mà không cần cắm vào nguồn từng cái.
-
 
 Một chuyện nhỏ xảy ra giữa giờ: hai công nhân cãi nhau vì một cái mỏ hàn. Một người cho rằng người kia lấy nhầm mỏ hàn của mình — mỗi người có một cây quen tay, đầu mỏ đã mài theo kiểu riêng, nhiệt độ chuẩn riêng. Hùng không phân xử đúng sai. Ông bảo: "Từ mai, mỗi người sơn màu lên cán mỏ. Chị Lan mua sơn dầu, mỗi người một màu. Ai mượn thì hỏi, không tự ý lấy." Cái giải pháp tốn 5.000 đồng và mười phút — không ai mất mặt, không ai mất mỏ hàn.
 
@@ -94,9 +89,6 @@ Sản xuất điện tử, năm 1987, tại một xưởng nhỏ ven thành ph�
 
 ============================================================
 
-
-
-
 Hùng ngồi ăn vội bát cơm trong xưởng, tay vẫn cầm cái bo mạch lỗi. Chú Bảy ngồi đối diện, không nói, chỉ nhai cơm chậm rãi.
 
 — Chú thấy sao? — Hùng hỏi.
@@ -111,13 +103,15 @@ Hùng nhìn chú Bảy. Người thợ già với đôi mắt tinh, tay run nh�
 Chú Bảy gật. Ăn xong, ông lấy kính lúp ra, đi từng trạm hàn. Hùng đứng nhìn. Một già một trẻ — không cần nói nhiều. Trong xưởng sản xuất điện tử, tay nghề là thứ tiếng duy nhất không cần phiên dịch.
 
 Hùng ngồi vào bàn, viết tiếp sổ. Một trăm bảy mươi hai bo hôm nay. Mai phải hai trăm. Ông viết xong, ngước lên nhìn dây chuyền đang chạy. Mỏ hàn chạm thiếc, xèo xèo, khói nhựa thông bay lên mờ mờ. Trong mùi hàn thiếc và nhựa thông ấy, Hùng thấy một thứ gì đó rất giống tương lai.
+
+Hùng gấp sổ, mắt liếc dây chuyền lần cuối. Mỏ hàn còn xèo, khói nhựa thông bay mỏng.
+Mai phải hai trăm bo. Yield chưa đủ chín mươi — chú Bảy sẽ chỉ từng tay hàn sai.
+Ông thở dài, viết một dòng: "sáng mai kiểm lại trạm 3." Phía trước là ca sớm.
+
 「Hệ thống — GHI NHẬN ch.97」
 Năm: 1987
 Tổng EXP: 15,955 (+182 nhịp này)
 Không gian kho: 5,364m² (+46m²)
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Dây chuyền điện tử chạy thử. Minh soi bo mạch dưới đèn: "Tỉ lệ đạt 92%."
-Hùng nhìn đường mạch đồng mảnh như sợi tóc. "Tốt. Tháng sau nâng lên 95%."
-
-Linh kiện điện tử đầu tiên ra lò — không lung linh, nhưng chạy được.
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
+Ghi chú: Xưởng điện tử — yield hàn bo mạch — chú Bảy kiểm từng trạm
 ============================================================

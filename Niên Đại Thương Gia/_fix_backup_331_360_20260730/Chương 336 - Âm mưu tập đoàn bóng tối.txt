@@ -1,0 +1,236 @@
+============================================================
+Chương 336: Âm mưu tập đoàn bóng tối
+============================================================
+
+Hà Nội, tháng Mười năm 2017. Trời , mưa phùn suốt ba ngày liền — thứ mưa không đủ ướt áo nhưng đủ làm xương khớp người già kêu lục cục. Những cành bàng trụi lá trước nhà số 45 phố Lò Đúc nhỏ giọt nước đều đặn như đồng hồ. Trong căn nhà cũ kỹ — tường ẩm, nền gạch hoa bong tróc vài chỗ — Trần Văn Hùng ngồi trước bàn gỗ, một tách trà xanh đã nguội từ lâu.
+
+Ông không uống trà. Ông nhìn chăm chăm vào ba tờ giấy trải dài trên mặt bàn.
+
+Tờ thứ nhất: bản sao kê giao dịch cổ phiếu Thương Gia trên sàn HNX, giai đoạn tháng Tám đến tháng Chín. Có một điểm đáng ngờ — ba lô cổ phiếu lớn, mỗi lô trên ba trăm nghìn đơn vị, được mua qua ba công ty chứng khoán khác nhau nhưng có chung một đặc điểm: thời điểm đặt lệnh cách nhau không quá mười lăm phút.
+
+Tờ thứ hai: danh sách cổ đông tổ chức mới xuất hiện trong quý 3/2017 — CTCP Đầu tư Phương Đông, CTCP Thương mại Á Châu, Công ty TNHH Sản xuất và Dịch vụ Bắc Hà. Ba cái tên sạch sẽ trên giấy tờ, vốn điều lệ khiêm tốn, trụ sở đều ở các tỉnh lẻ. Nhưng tổng lượng cổ phiếu họ nắm giữ đã lên tới 8,4%.
+
+Tờ thứ ba: bức fax từ một số máy không đăng ký, gửi đến văn phòng của ông lúc năm giờ sáng. Nội dung vỏn vẹn ba dòng:
+
+*"Rửa tiền qua ba lớp. Lớp 1: casino Hạ Long. Lớp 2: công ty ma Cam Ranh. Lớp 3: sàn HNX. Đầu mối: L.T.H — đã vào Hà Nội từ tháng 9. Cẩn thận bông tuyết."*
+
+Bức fax không có chữ ký. Số máy gửi là số công cộng ở ga Hà Nội.
+
+Hùng gấp ba tờ giấy lại, bỏ vào phong bì, rồi lấy từ ngăn bàn ra một cuốn sổ bìa đen — cuốn sổ ghi chép mười năm nay, chỉ có những điều ông không muốn ai thấy. Ông đọc lại dòng ghi chép từ tháng Tám:
+
+*"Ngày 12/8, cuộc họp cổ đông bất thường. Ông Nguyễn Văn Lộc — đại diện 2,1% cổ phần — chất vấn về cổ tức. Câu hỏi sắc, số liệu thuộc lòng, không phải cổ đông nhỏ bình thường. Kiểm tra: Lộc từng làm giám đốc chi nhánh ngân hàng SHB Hải Phòng 1999-2003. Nghỉ việc đột ngột. Không rõ lý do."*
+
+*"Ngày 25/8, phát hiện giao dịch bất thường trên tài khoản của CTCP Đầu tư Phương Đông. 2,1 triệu cổ phiếu mua qua SSI. Số tiền ~87 tỷ. Nguồn vốn: vay thế chấp bất động sản tại Cam Ranh. Bất động sản đó đứng tên một công ty TNHH không có hoạt động sản xuất nào trong ba năm."*
+
+*"Ngày 5/9, thông qua Sơn (trưởng phòng IT), kiểm tra IP giao dịch của ba tài khoản tổ chức kia. Hai trong số đó có chung dải IP — dùng VPN nhưng lộ gateway. Một proxy ở Hồng Kông, một ở Singapore. Lỗi cơ bản của người thuê dịch vụ giá rẻ."*
+
+*"Ngày 18/9, fax nặc danh đến nhà riêng. 'L.T.H' — viết tắt của ai? Tra trùng: Lương Thế Huy — đại gia casino Hạ Long, có tiền án tổ chức đánh bạc 2008, ra tù 2014. Hiện tại không có tên trong bất kỳ doanh nghiệp nào. Nhưng có người thấy hắn ở Hà Nội, đi xe Lexus đen, biển số 29A-567.89."*
+
+Hùng gấp sổ, nhìn ra màn mưa ngoài cửa sổ. Ông nhớ lại một buổi chiều đầu tháng Mười — năm 2010 — khi một người đàn ông lạ tìm đến tận nhà, đề nghị mua lại 15% cổ phần Thương Gia với giá gấp rưỡi thị trường. Hùng từ chối. Người đó cười, nói: "Sau này ông sẽ cần tôi." Rồi biến mất. Không danh thiếp, không hợp đồng. Chỉ một câu nói — và bây giờ, bảy năm sau, câu nói ấy có vẻ không còn là hư từ.
+
+Ông cầm điện thoại, gọi cho Sơn.
+
+— Sơn à, tôi cần anh kiểm tra thêm một việc. Mấy cái công ty kia — CTCP Đầu tư Phương Đông, CTCP Thương mại Á Châu, Bắc Hà — kiểm tra xem có ai trong hội đồng quản trị từng làm việc ở SHB Hải Phòng giai đoạn 1998-2003 không.
+
+— Sếp muốn biết bao giờ?
+
+— Tối nay. Tôi không muốn đợi đến mai.
+
+Sơn im lặng một lúc. Anh ta biết giọng Hùng — cái giọng khàn khàn, không vội nhưng không cho phép trì hoãn. Hồi 2011, khi một lô hàng xuất khẩu sang Đức bị hải quan giữ, chính cái giọng ấy đã giải quyết mọi chuyện trong bốn mươi tám giờ.
+
+— Tôi lo ngay, sếp.
+
+Hùng cúp máy. Ông với tay lấy cốc trà, uống một ngụm — đã nguội, chát, đắng. Ông không bận tâm.
+
+Mười một giờ trưa. Hùng đến một quán cà phê nhỏ trên phố Huế — quán cóc, bàn nhựa, ghế nhựa, không wifi, khách toàn người già đánh cờ tướng. Ông gọi một cốc cà phê đen, không đường, mang ra bàn cuối cùng, chỗ có thể nhìn thấy cả cửa ra vào và cửa sổ.
+
+Ông chờ một người.
+
+Mười lăm phút sau, một người đàn ông bước vào — gần năm mươi, mặc áo sơ mi trắng cũ, quần tây đen, đi giày da bạc mũi. Tóc hớt cao, mặt gầy, mắt sắc. Ông ta nhìn quanh một lượt rồi đi thẳng đến bàn Hùng.
+
+— Anh Hùng. Lâu quá không gặp.
+
+— Ngồi đi. Tôi không có nhiều thời gian.
+
+Người đàn ông ngồi xuống, đặt lên bàn một phong bì màu nâu. Anh ta là cựu điều tra viên Bộ Công an — tên Dũng — đã nghỉ hưu năm 2014, chuyên làm dịch vụ tư nhân thu thập thông tin cho doanh nghiệp. Hùng quen Dũng từ năm 2005, qua một vụ kiện tranh chấp nhãn hiệu.
+
+— Tôi làm theo yêu cầu của anh. Cái tên L.T.H — Lương Thế Huy — hắn có mặt ở Hà Nội từ ngày 10/9. Thuê nhà ở khu Trung Hòa Nhân Chính, biệt thự ba tầng, hợp đồng sáu tháng. Đứng tên thuê là một phụ nữ tên Nguyễn Thị Minh — theo giấy tờ là chủ một tiệm vàng ở Hạ Long. Nhưng thực chất, Minh là vợ hờ của Huy, đã sống với hắn từ 2012.
+
+Hùng gật đầu, không nói gì.
+
+— Nhưng cái chính đây — Dũng đẩy phong bì về phía Hùng — Tôi phát hiện một chi tiết thú vị. Huy không trực tiếp giao dịch cổ phiếu. Hắn đứng sau, qua một lớp trung gian. Trung gian đó là ai thì tôi không chắc, nhưng có một cái tên xuất hiện trong sổ tay của Huy mà tôi chụp lại được.
+
+Dũng rút trong túi áo ra một tờ ảnh — chụp vội, mờ, nhưng thấy rõ một trang sổ tay với những dòng chữ viết tay:
+
+*"Hùng. Điểm yếu: gia đình. Tiếp cận qua Lan? Qua con trai? Không — bà già. Bà Nguyễn Thị Hà, 92 tuổi, ở Trần Phú. Sáng nào cũng ra chợ — không người đi kèm sau 8h. Khoảng trống 20 phút từ nhà ra chợ."*
+
+Máu trong người Hùng đông cứng. Tay cầm tờ ảnh bất giác siết chặt — móng tay bấm sâu vào lòng bàn tay. Nhưng mặt ông không biểu lộ gì. Một người đàn ông từng đàm phán với đối tác Nhật bảy tiếng liền mà không lộ cảm xúc — sao lại lộ bây giờ?
+
+— Ai chụp cái này?
+
+— Người của tôi. Chuồn vào phòng làm việc của hắn lúc hắn đi vắng. Chỉ có ba giây để chụp.
+
+— Hắn còn ghi gì nữa không?
+
+— Trang sau có vẻ bị xé mất. Nhưng tôi tìm được một thông tin khác — Dũng hạ giọng — Huy gặp một người ở khách sạn JW Marriott, ngày 22/9. Người đó không phải dân thường. Xe ngoại giao, biển số 80... Tôi không dám theo. Hợp đồng của tôi không bao gồm chụp xe ngoại giao.
+
+Hùng nhìn Dũng — thẳng vào mắt. Dũng không lảng tránh, nhưng dưới bàn, tay anh ta hơi run.
+
+— Bao nhiêu? Hùng hỏi.
+
+— Chi phí tôi tự bỏ. Đây là ngoài hợp đồng. Tôi không lấy tiền của anh — Dũng nói, giọng trầm — Vì tôi không muốn thấy cái công ty anh xây dựng ba mươi năm bị xâu xé bởi một thằng từng ngồi tù và một kẻ đội lốt doanh nhân. Tôi làm vì… cái đúng.
+
+Hùng nhìn Dũng một lúc lâu. Sau đó ông nói:
+
+— Cảm ơn.
+
+Dũng đứng dậy, bỏ đi không nói thêm lời nào. Chiếc áo sơ mi trắng của anh ta lẫn vào dòng người trên phố Huế, nhanh chóng biến mất.
+
+Hùng ngồi lại, nhìn tách cà phê đã nguội. Ông không uống. Ông đang tính toán.
+
+*Huy chỉ là mũi nhọn. Người đứng sau hắn — kẻ có xe ngoại giao — mới là chủ mưu. Mục tiêu: thâu tóm Thương Gia qua đường cổ phiếu. Cách thức: rửa tiền qua casino, bơm vào công ty ma, mua cổ phiếu qua sàn. Điểm yếu: Huy ghi chép tay — tài liệu vẫn còn.*
+
+Nhưng có một điểm khiến Hùng băn khoăn. *Sao lại ghi chép tay?* Một người từng ngồi tù, từng tổ chức đường dây đánh bạc xuyên tỉnh — sao lại để lại bằng chứng dễ dàng như vậy? *Có thể hắn không biết ai là người thực sự đứng sau?* Hoặc *hắn cố tình để lộ, để kéo mình vào một cái bẫy khác?*
+
+Ông rút điện thoại, gọi Lan.
+
+— Em à, mẹ sáng nay có đi chợ không?
+
+— Có. Sao thế? — Giọng Lan có chút ngạc nhiên.
+
+— Từ mai, em cho người đưa mẹ đi chợ. Hoặc không — đừng cho mẹ ra ngoài một mình. Sáng nào cũng phải có người đi cùng.
+
+— Có chuyện gì?
+
+— Có người để ý mẹ. Tôi giải thích sau.
+
+Một khoảng lặng kéo dài. Lan không hỏi thêm.
+
+— Em hiểu.
+
+Hùng cúp máy. Ông uống cạn tách cà phê nguội, đặt tờ hai mươi nghìn lên bàn, ra về.
+
+Trên xe taxi về văn phòng, Hùng mở điện thoại, gọi cho một số máy lạ — số máy của ông Phúc, người đã ủy thác cho ông từ những ngày đầu thành lập, cổ đông lớn thứ hai của Thương Gia. Ông Phúc năm nay đã gần tám mươi, sống ở Đà Nẵng, nhưng vẫn còn minh mẫn.
+
+— Chú Phúc, con có chuyện cần hỏi.
+
+— Hử? Mày ít khi gọi. Có gì?
+
+— Công ty Phương Đông, Á Châu, Bắc Hà — chú có biết ai đứng sau không?
+
+Ông Phúc im lặng. Tiếng thở dài vọng qua điện thoại.
+
+— Mày tra đến đó rồi à? Tao tưởng mày sẽ tra muộn hơn.
+
+— Chú biết à?
+
+— Không biết hết. Nhưng tao nghe nói từ một người bạn — một lão tướng ở ngân hàng nhà nước — rằng có một nhóm đang gom hàng của mày. Nhóm đó không phải trong nước không. Có vốn ngoại, nhưng đi qua kênh không chính thức.
+
+— Đầu tư nước ngoài?
+
+— Không hẳn. Tiền từ một quỹ đầu tư mạo hiểm có trụ sở ở quần đảo Cayman. Nhưng người vận hành là người Việt. Từng làm ở SHB — người cũ. Tên Tuấn — Nguyễn Hữu Tuấn. Mày có nhớ không?
+
+Hùng nhắm mắt. *Nguyễn Hữu Tuấn.* Cái tên vang lên như một tiếng chuông xa. Tuấn — phó tổng giám đốc SHB Hải Phòng, năm 2002 từng đến gặp Hùng, đề nghị một gói tín dụng ưu đãi với điều kiện: Thương Gia phải chuyển toàn bộ tài khoản về SHB. Hùng từ chối. Tuấn cười, nói: *"Anh không cần tôi hôm nay, nhưng sau này tôi sẽ quay lại."*
+
+Mười lăm năm. Câu nói đó cuối cùng cũng thành hiện thực.
+
+— Con nhớ rồi, chú.
+
+— Mày cẩn thận. Tuấn không đơn giản. Hắn có quan hệ với một vài người trong bộ, và hắn biết luật chơi tài chính hơn mày. Tao không nói mày yếu — nhưng mày là người làm sản xuất, không phải người chơi tài chính. Bọn nó sẽ đánh vào chỗ mày không quen.
+
+— Con biết. Cảm ơn chú.
+
+— Mà này — giọng ông Phúc chùng xuống — mày tính làm gì?
+
+Hùng nhìn qua cửa kính taxi, thấy hàng cây sấu ven đường đang trút lá — lá vàng rụng đầy lòng đường, người phụ nữ quét rác chậm rãi gom từng đống nhỏ.
+
+— Thưa chú, con không rõ. Nhưng con sẽ không để ai lấy Thương Gia qua cửa sau.
+
+Cúp máy. Xe taxi dừng trước cửa tòa nhà Thương Gia trên phố Tràng Tiền. Hùng bước xuống, trả tiền, đi vào sảnh. Gã bảo vệ già chào ông — Hùng gật đầu, bước thẳng lên tầng ba.
+
+Phòng làm việc của Hùng nhỏ, bàn làm việc bằng gỗ xoan cũ — ba mươi năm chưa thay. Trên tường treo một câu đối do chính tay cụ Nguyễn Khắc Nhu viết tặng: *"Muốn nên nghiệp lớn — Chớ sợ đường dài."*
+
+Ông ngồi xuống, mở máy tính. Nhìn vào danh sách cổ đông — vài cái tên mới nữa: CTCP Liên doanh Hoàng Anh, nắm 1,2%. Công ty TNHH Một thành viên Phú Gia, 0,9%. Tổng cộng bọn họ đã có 10,5%.
+
+*Đủ để gây khó dễ tại đại hội cổ đông. Nhưng chưa đủ để thâu tóm.*
+
+Vấn đề: 10,5% này có thể kết hợp với nhóm cổ đông nhỏ bất mãn. Có khoảng 12% cổ phần rải rác trong tay các cổ đông nhỏ — nhiều người trong số họ đã đầu tư từ thời đầu, đang lo lắng về tương lai. Nếu mua chuộc được họ — hoặc dùng áp lực dư luận — con số có thể lên tới 22%. Và nếu có thêm sự ủng hộ của một vài quỹ đầu tư nước ngoài…
+
+Hùng lắc đầu. *Không. Suy nghĩ như vậy là đã rơi vào bẫy của bọn nó rồi — chơi trò chơi tài chính trên sàn, nơi chúng giỏi hơn mình.*
+
+Ông lấy cuốn sổ đen ra, viết:
+
+*"Bài toán: Kẻ thù không phải là cái tên trên giấy. Kẻ thù là hệ thống — một mạng lưới gồm casino Hạ Long → công ty ma Cam Ranh → tài khoản chứng khoán → sàn HNX. Đầu mối: Tuấn + Huy. Lớp ngoại giao: ẩn danh.*
+
+*Vũ khí của mình: không phải tiền — đối thủ có thể có nhiều tiền hơn. Vũ khí của mình: thời gian + thông tin + lòng tin của cổ đông nhỏ.*
+
+*Nhưng thông tin là con dao hai lưỡi — một bức fax nặc danh có thể là thật, cũng có thể là đòn tâm lý để đẩy mình vào một cuộc chiến tranh tiêu hao."*
+
+Hùng đóng sổ, đặt lên bàn. Ông nhìn ra cửa sổ — bầu trời Hà Nội xám xịt, mưa đã bắt đầu lại. Những hạt mưa nhỏ, rả rích, rơi lên mái tôn, âm thanh đều đều như tiếng guồng quay. Ông thấy mệt. Nhưng mệt không phải là lý do để dừng.
+
+Điện thoại rung lên — Sơn gọi.
+
+— Sếp, tôi kiểm tra xong rồi.
+
+— Nói đi.
+
+— Ở CTCP Đầu tư Phương Đông có một thành viên hội đồng quản trị tên Nguyễn Văn Lộc — chính là cái ông đã chất vấn sếp trong cuộc họp tháng Tám. Lộc có thời gian làm kế toán trưởng SHB Hải Phòng từ 1999 đến 2003. Cùng thời kỳ với Nguyễn Hữu Tuấn.
+
+Hùng không nói gì. Mọi thứ bắt đầu khớp.
+
+— CTCP Thương mại Á Châu có một cổ đông sáng lập tên Phạm Thị Hồng — là em vợ của Lương Thế Huy. Còn Bắc Hà — công ty TNHH Sản xuất và Dịch vụ Bắc Hà — mới thành lập tháng 6/2017, vốn điều lệ 5 tỷ, nhưng ngay lập tức vay 50 tỷ từ một ngân hàng thương mại cổ phần ở Cam Ranh để mua cổ phiếu. Tài sản thế chấp là một khu đất… cũng ở Cam Ranh. Khu đất đó đã sang tay ba lần trong sáu tháng, mỗi lần tăng giá gấp đôi.
+
+— Bơm giá tài sản, thế chấp, rút tiền mua cổ phiếu. Mô hình đòn bẩy chuẩn. — Hùng nói, giọng lạnh — Bọn nó dùng chính tài sản ảo để tạo ra tiền thật.
+
+— Chính xác. Và còn một chi tiết nữa — Sơn ngập ngừng — Tôi không chắc, nhưng… ông Lộc có thuê một luật sư tên Trần Quốc Bình. Luật sư Bình này từng đại diện cho SHB trong vụ kiện năm 2005 với một doanh nghiệp ở Hải Phòng.
+
+Im lặng.
+
+— Sơn, cậu có biết doanh nghiệp đó là gì không?
+
+— Là… Thương Gia mình, sếp.
+
+Hùng khẽ cười — nụ cười không có niềm vui. *Từ năm 2005 đã có dấu hiệu. Mười hai năm sau, cuối cùng mặt nạ cũng bắt đầu rơi.*
+
+— Cảm ơn Sơn. Cậu về nghỉ đi. Mai tôi cần cậu soạn một bản danh sách tất cả cổ đông sở hữu từ 0,1% trở lên, kèm thông tin cá nhân — nghề nghiệp, năm đầu tư, số lần tham dự đại hội cổ đông. Làm kín. Chỉ cậu và tôi biết.
+
+— Rõ, sếp.
+
+Hùng đặt điện thoại xuống. Ông đứng dậy, đi đến cửa sổ, mở ra — gió lùa vào mang theo hơi nước và mùi bụi đường. Ông hít một hơi thật sâu.
+
+Cuộc chiến này không phải ở tòa án, không phải trên sàn chứng khoán, cũng không phải trong phòng họp cổ đông. Cuộc chiến này đang diễn ra trong bóng tối — nơi những kẻ không tên tuổi chuyền tay nhau tờ giấy ghi thông tin cá nhân của mẹ già nhà ông.
+
+Hùng trở lại bàn, cầm bút, viết vào cuốn sổ đen dòng cuối cùng của ngày hôm đó:
+
+*"Ngày 11/10/2017. Đã xác định: mạng lưới đánh vào Thương Gia qua đường cổ phiếu + rửa tiền + bơm giá. Người đứng sau: Nguyễn Hữu Tuấn (SHB cũ). Chân rết: Lương Thế Huy (casino Hạ Long), Nguyễn Văn Lộc (cài vào HĐQT), và một nhân vật — qua xe ngoại giao — chưa rõ tung tích.*
+
+*Chiến thuật: không đánh trực diện. Không ra sàn. Không đấu tố tài chính với kẻ mạnh hơn mình. Chơi chậm. Theo dõi. Xác định kẻ cầm đầu. Gom bằng chứng đủ nặng để một đòn.*
+
+*Mẹo: nếu chúng dùng công ty ma — mình có thể dùng người thật. Các cổ đông nhỏ trung thành — khoảng 6-7% — sẽ là bức tường đầu tiên.*
+
+*Điểm yếu của mình: gia đình. Điểm yếu của chúng: thông tin chúng đã để lộ — bức fax nặc danh, ảnh sổ tay của Huy, mối liên hệ với SHB cũ. Ai gửi fax? Có thể là người trong cuộc — hoặc một đối thủ khác muốn mình làm công việc dọn dẹp thay họ."*
+
+Hùng gấp sổ. Ông nhìn đồng hồ — sáu giờ chiều. Ngoài trời tối dần. Mưa vẫn rơi, nhẹ, dai dẳng.
+
+Ông với tay tắt máy tính, thu dọn ba tờ giấy — bản fax, danh sách cổ đông, bản sao kê — bỏ vào két sắt, khóa lại. Bước ra khỏi phòng, khóa cửa, chào gã bảo vệ già.
+
+Ra đến cửa, ông thấy một chiếc Lexus đen đỗ bên kia đường. Kính lái hạ xuống một chút — đủ để nhìn thấy người lái: tóc húi cua, kính râm, mồm ngậm điếu thuốc — rồi lại kéo lên. Xe nổ máy, chạy từ từ ra xa.
+
+Hùng đứng yên, nhìn theo chiếc xe khuất dần vào dòng xe cộ cuối giờ. Ông không vội bước — không cho chúng thấy mình vội.
+
+*Bông tuyết. Mỗi mảnh ghép chỉ là một chấm trắng nhỏ. Nhưng khi đủ nhiều, chúng che cả bầu trời.*
+
+Ông bước về phía bến xe buýt, giữa dòng người tấp nập, giữa màn mưa phùn lất phất. Một ông già đội mũ lưỡi trai, áo mưa cũ, đeo kính lão — lẫn hoàn toàn vào phố phường — không ai nhận ra đó là người mà cả bọn họ đang săn lùng.
+
+Hùng gập hồ sơ cuối ngày, siết gáy cặp rồi buông. Lan liếc trang ký, cúi ghi một dòng, ngẩng gật. Mùi giấy ẩm và nắng cửa sổ lẫn vào nhau. Ông thở chậm.
+
+"Chưa xong," ông nói khẽ. "Sáng mai còn một việc phải chốt trước khi cửa mở."
+
+============================================================
+「Hệ thống — GHI NHẬN ch.336」
+Năm: 2017
+Tổng EXP: 84,600 (+600 nhịp này)
+Không gian kho: 48,120m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: Hùng ra mặt lần cuối trước ĐHĐCĐ — chốt chiến thuật chậm
+============================================================

@@ -1,5 +1,6 @@
 ============================================================
 Chương 110: M&A Bangkok Electronics
+============================================================
 
 Năm 1987. Bangkok. Mục tiêu: một xưởng linh kiện điện tử Thái Lan tên Bangkok Electronics — ba mươi bảy nhân công, một dây chuyền lắp ráp bo mạch đơn giản, và một giấy phép xuất khẩu còn hiệu lực. Một cơ sở nhỏ, nhưng với Thương Gia trẻ, đây là lần đầu tiên họ mua lại cả một pháp nhân.
 
@@ -69,15 +70,23 @@ Trên máy bay về, Hùng nhìn xuống vịnh Thái Lan qua ô cửa sổ. Lò
 
 Hùng gấp sổ tay lại, nhìn ra ô cửa kính. Bầu trời Bangkok đang nhạt dần vào hoàng hôn. "Mua xong rồi, nhưng mua mới là bắt đầu," ông nói, như nói với chính mình. Lan ngồi đối diện, không trả lời, chỉ gật đầu. Cả hai im lặng nhìn những tòa nhà cao tầng lùi dần phía sau khi xe chạy ra sân bay.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Hợp đồng M&A đã ký. Hùng gấp sổ, nhìn hoàng hôn Bangkok sau kính xe.
+Lan gật — mua xong mới là bắt đầu. Danh sách nhân sự giữ/cho nghỉ còn trắng một nửa.
+Sáng mai họp sáp nhập. Phía trước chưa yên.
 
+============================================================
 
-
-Hùng nhíu mày, siết ngón tay sổ ch.110. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Trong xe ra sân bay, Lan mở danh sách nhân sự Bangkok Electronics. Hùng liếc, nhíu, tay siết bìa hồ sơ.
+"Bao nhiêu người giữ lại vòng một?"
+"Chưa chốt. Em để trống một nửa." Lan cúi ghi, ngẩng nhìn anh. "Anh muốn cắt nhanh hay giữ ổn định quý đầu?"
+Hùng thở, buông bìa xuống đùi. "Giữ ổn định. Cắt sau khi xem sổ thật."
+Lan gật, cười mỏng. Ngoài kính, đèn Bangkok trôi ngược. Mùi da ghế xe và khói đường phố nóng ẩm.
+Hùng nắm tay vịn cửa một lúc rồi thả. Mắt anh đỏ vì mệt — không phải vì khóc. Việc còn mở phía trước.
 
 「Hệ thống — GHI NHẬN ch.110」
 Năm: 1987
-Tổng EXP: 17,750 (+125)
+Tổng EXP: 17,750 (+125 nhịp này)
 Không gian kho: 5,833m² (+33m²)
-Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú: system_ledger
+Kỹ năng trọng yếu: Chiến lược lv1, Logistics lv2, Tài chính lv2, Giáo dục lv1
+Ghi chú: M&A Bangkok Electronics — ký mua — bắt đầu sáp nhập
+============================================================

@@ -2,7 +2,7 @@
 Chương 87: Sản xuất máy cày ra mắt
 ============================================================
 
-    Trời chưa sáng hẳn, Khu công nghiệp đã có người.
+Trời chưa sáng hẳn, Khu công nghiệp đã có người.
 
     Hùng đến từ lúc năm giờ kém, cốc cà phê đặc trên tay, áo sơ-mi cài đến cổ dù trời đã hơi nóng. Dây chuyền lắp ráp cuối cùng chạy thử từ ba hôm nay — lần nào cũng có thứ phải dừng: ốc lỏng, dây cu-roa chệch, van dầu rò. Công nhân đã quen với cảnh ông đứng sau lưng, không nói gì, chỉ nhìn. Có người bảo ông nhìn như thợ chứ không như chủ.
 
@@ -204,11 +204,11 @@ Hùng không trả lời ngay. Ông nhìn người đàn ông — dáng người
 
     Bà Hà cười nhẹ. "Mấy người đó chắc không mua — vì vợ sẽ hỏi 'ai mua rồi?' — nếu chưa ai mua thì họ không dám. Anh nên tìm một người ở mỗi xã mua trước, cho họ thấy có người tiên phong."
 
-    Hùng nhìn vợ. Bà Hà — người chưa bao giờ học kinh tế, nhưng hiểu bản làng hơn bất kỳ giáo sư nào.
+    Hùng nhìn bà Hà. Bà Hà — người chưa bao giờ học kinh tế, nhưng hiểu bản làng hơn bất kỳ giáo sư nào.
 
     "Để mai em nói với chị Hai ở xã bên — con chị ấy đang học lái máy cày trong xưởng mình," bà nói tiếp. "Cho chị ấy mua trước, trả góp, giảm giá chút. Người cùng xã thấy chị ấy mua — họ sẽ theo."
 
-    Hùng gật. Cái logic của vợ ông — giống như cách nông dân làm ruộng: không cần phân tích thị trường, chỉ cần nhìn người hàng xóm.
+    Hùng gật. Cái logic của mẹ ông — giống như cách nông dân làm ruộng: không cần phân tích thị trường, chỉ cần nhìn người hàng xóm.
 
     Cơm xong, ông ra sân, ngồi ghế đá, nhìn trời. Đêm mùa hạ — nóng, ẩm, tiếng ve kêu rả rích. Ông đưa tay xoa thái dương.
 
@@ -236,7 +236,6 @@ Hùng không trả lời ngay. Ông nhìn người đàn ông — dáng người
 
 ============================================================
 
-
 Hùng ngồi cạnh bà Hà, kể về buổi ra mắt máy cày. Ông kể từ đầu: tiếng động cơ nổ, mùi dầu diesel, đám đông nông dân đứng xem, đứa trẻ chạy theo máy. Bà Hà cười:
 — Nghe như đám rước.
 
@@ -247,13 +246,24 @@ Hùng ngồi cạnh bà Hà, kể về buổi ra mắt máy cày. Ông kể từ
 — Ổng đặt hai cái. Một cho nhà, một cho thằng con rể.
 
 Hùng ăn xong, mở sổ. Bảy đơn hàng đầu tiên. Ông ghi bằng bút đỏ: "Đã bán — 2 máy. Đã đặt cọc — 5 máy. Cần sản xuất gấp 10 máy cho tuần sau." Những con số nằm trên giấy không khác gì những con số cũ, nhưng lần này chúng nằm dưới dòng chữ: "Người nông dân đã tin." Ông ngồi nhìn dòng chữ ấy lâu hơn những dòng khác.
+
+Bà Hà bẻ miếng cơm cháy, mắt cười khi nghe ông già sờ lưỡi cày.
+
+"Người tiên phong mỗi xã," bà nói. "Chị Hai đầu thôn — cho xem máy chạy thật, đừng khoe catalogue."
+
+Hùng gật. Lan đọc lại bảy phiếu cọc, ngón tay siết mép giấy.
+
+"Tay lái rung — sửa trước giao. Không giao máy biết lỗi."
+
+Ông thở, nhìn ra sân còn mùi diesel. Bảy đơn là cửa mở, chưa phải mùa màng.
+
+Tuần sau Cầu Diễn báo giá piston — nếu đắt hơn Minsk quá xa, có giữ được thợ làng không?
+
+============================================================
 「Hệ thống — GHI NHẬN ch.87」
 Năm: 1986
 Tổng EXP: 14,000 (+250 nhịp này)
 Không gian kho: 4,886m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Máy cày ra mắt giữa đồng, hàng trăm nông dân kéo đến xem. Minh lái ba vòng, đất cày sâu, đều.
-Ông già sờ lưỡi cày: "Bao nhiêu một cái?" — "Tiết kiệm được hai con trâu."
-
-Máy cày Thương Gia ra đồng — nông dân đỡ một nửa cái lưng.
+Ghi chú: MC-01 demo ~40 khách; 7 phiếu cọc 500k; trả góp theo vụ + XN xã; Nghĩa Cầu Diễn hỏi phụ tùng; sửa tay lái rung trước giao.
 ============================================================

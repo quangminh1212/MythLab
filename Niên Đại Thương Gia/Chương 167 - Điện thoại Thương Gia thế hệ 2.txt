@@ -208,35 +208,16 @@ Hùng gật đầu. Người kia ngắm board một lúc: "Not bad. But your gro
 
 Hùng cầm tấm danh thiếp, thấy nó nặng, in chữ nổi trên giấy trắng dày. Ông không nói gì, chỉ cất vào túi trong cùng của áo. Cái tên Motorola vang trong đầu như một lời hứa và một lời cảnh cáo.
 
-
 'Chu Hung oi!' Tieng goi tut phia sau. Hung quay lai. Mot nguoi dan onng trung nien chay len, mat mo hoi: 'Chu oi, chau la em cua ong Chin. Ong Chin bao chau den gap chu.' Hung gat: 'Anh Chin khoe khong?' 'Day a, ong yeu.' Hai nguoi bat chuyen, trao doi vai cau ve cong an thanh pho. Nhung cau chuyen gian di, doi khi la so day ket noi nhung nguoi xa la.
 
 
-Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
+Phiếu thử nghiệm bổ sung nhiệt độ máy, thời lượng pin và người xác nhận; lỗi nào chưa đóng thì chưa được phép xuất xưởng.
 
-Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
-
-Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
-
-
-Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
-
-Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
-
-Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
-
-Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi giấy cũ, mùi mực thời gian. Ông lật từng trang, mắt nhìn những dòng chữ đã phai mờ. Lan đến ngồi bên cạnh, nhìn vào cuốn sách. “Sách gì thế anh?” “Sách cũ. Đọc hay lắm.” Lan dựa đầu vào vai anh, cũng nhìn vào cuốn sách. Hai người đọc cùng nhau.
-
-
-Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
-
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.167」
-Năm: 1993
-TG-200: lô 100, lỗi board 2% + lỗi khắc THIEU→THUONG
-Đào tạo RF: Tan Ah Leck — Woodlands, 3 ngày, Minh + Tuấn
-Kỹ năng: Công nghệ cao lv2, Kiểm soát chất lượng lv1
-Tổng EXP: 28,200 (+300)
-Giá bán TG-200: 350 USD (1/6 Motorola)
+Năm: 1992
+Tổng EXP: 27,600 (+300)
+Không gian kho: 9,200m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: khóa nhịp ch.167
 ============================================================

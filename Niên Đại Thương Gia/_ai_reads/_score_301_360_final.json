@@ -1,0 +1,466 @@
+[
+  {
+    "n": 301,
+    "final": 6.0,
+    "words": 3128,
+    "hf": [
+      "year_mismatch panel=2011 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 302,
+    "final": 9.71,
+    "words": 3049,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 303,
+    "final": 6.0,
+    "words": 3075,
+    "hf": [
+      "year_mismatch panel=2011 prose=2016"
+    ],
+    "pass": false
+  },
+  {
+    "n": 304,
+    "final": 6.0,
+    "words": 3969,
+    "hf": [
+      "year_mismatch panel=2011 prose=2012"
+    ],
+    "pass": false
+  },
+  {
+    "n": 305,
+    "final": 6.0,
+    "words": 3293,
+    "hf": [
+      "year_mismatch panel=2011 prose=2016"
+    ],
+    "pass": false
+  },
+  {
+    "n": 306,
+    "final": 9.71,
+    "words": 3306,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 307,
+    "final": 6.0,
+    "words": 3077,
+    "hf": [
+      "year_mismatch panel=2011 prose=2017"
+    ],
+    "pass": false
+  },
+  {
+    "n": 308,
+    "final": 9.71,
+    "words": 3337,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 309,
+    "final": 9.71,
+    "words": 3371,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 310,
+    "final": 10.0,
+    "words": 3519,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 311,
+    "final": 9.71,
+    "words": 3333,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 312,
+    "final": 6.0,
+    "words": 3804,
+    "hf": [
+      "year_mismatch panel=2012 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 313,
+    "final": 9.78,
+    "words": 3039,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 314,
+    "final": 6.0,
+    "words": 3102,
+    "hf": [
+      "year_mismatch panel=2013 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 315,
+    "final": 10.0,
+    "words": 3742,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 316,
+    "final": 10.0,
+    "words": 3497,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 317,
+    "final": 9.71,
+    "words": 3442,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 318,
+    "final": 9.71,
+    "words": 3201,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 319,
+    "final": 9.71,
+    "words": 3326,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 320,
+    "final": 6.0,
+    "words": 3558,
+    "hf": [
+      "year_mismatch panel=2013 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 321,
+    "final": 9.63,
+    "words": 3355,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 322,
+    "final": 6.0,
+    "words": 3264,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 323,
+    "final": 6.0,
+    "words": 3060,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 324,
+    "final": 6.0,
+    "words": 3068,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 325,
+    "final": 9.71,
+    "words": 3444,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 326,
+    "final": 6.0,
+    "words": 3109,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "pass": false
+  },
+  {
+    "n": 327,
+    "final": 10.0,
+    "words": 3152,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 328,
+    "final": 9.71,
+    "words": 3323,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 329,
+    "final": 9.71,
+    "words": 3124,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 330,
+    "final": 9.71,
+    "words": 3307,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 331,
+    "final": 9.71,
+    "words": 3490,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 332,
+    "final": 9.71,
+    "words": 3946,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 333,
+    "final": 9.71,
+    "words": 4183,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 334,
+    "final": 9.71,
+    "words": 3601,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 335,
+    "final": 9.71,
+    "words": 3686,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 336,
+    "final": 9.71,
+    "words": 3394,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 337,
+    "final": 9.71,
+    "words": 3327,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 338,
+    "final": 10.0,
+    "words": 3804,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 339,
+    "final": 9.71,
+    "words": 3422,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 340,
+    "final": 9.71,
+    "words": 3437,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 341,
+    "final": 6.0,
+    "words": 3540,
+    "hf": [
+      "year_mismatch panel=2019 prose=2018"
+    ],
+    "pass": false
+  },
+  {
+    "n": 342,
+    "final": 10.0,
+    "words": 3579,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 343,
+    "final": 10.0,
+    "words": 3340,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 344,
+    "final": 6.0,
+    "words": 3471,
+    "hf": [
+      "year_mismatch panel=2020 prose=2018"
+    ],
+    "pass": false
+  },
+  {
+    "n": 345,
+    "final": 9.71,
+    "words": 3524,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 346,
+    "final": 6.0,
+    "words": 3403,
+    "hf": [
+      "year_mismatch panel=2020 prose=2022"
+    ],
+    "pass": false
+  },
+  {
+    "n": 347,
+    "final": 6.0,
+    "words": 3324,
+    "hf": [
+      "year_mismatch panel=2020 prose=2023"
+    ],
+    "pass": false
+  },
+  {
+    "n": 348,
+    "final": 6.0,
+    "words": 3529,
+    "hf": [
+      "year_mismatch panel=2021 prose=2023"
+    ],
+    "pass": false
+  },
+  {
+    "n": 349,
+    "final": 6.0,
+    "words": 3295,
+    "hf": [
+      "year_mismatch panel=2021 prose=2020"
+    ],
+    "pass": false
+  },
+  {
+    "n": 350,
+    "final": 10.0,
+    "words": 3276,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 351,
+    "final": 9.71,
+    "words": 3331,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 352,
+    "final": 10.0,
+    "words": 3857,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 353,
+    "final": 6.0,
+    "words": 3590,
+    "hf": [
+      "year_mismatch panel=2022 prose=2023"
+    ],
+    "pass": false
+  },
+  {
+    "n": 354,
+    "final": 6.0,
+    "words": 3339,
+    "hf": [
+      "year_mismatch panel=2022 prose=2023"
+    ],
+    "pass": false
+  },
+  {
+    "n": 355,
+    "final": 9.63,
+    "words": 3839,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 356,
+    "final": 10.0,
+    "words": 4054,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 357,
+    "final": 6.0,
+    "words": 3264,
+    "hf": [
+      "year_mismatch panel=2023 prose=2024"
+    ],
+    "pass": false
+  },
+  {
+    "n": 358,
+    "final": 6.0,
+    "words": 3284,
+    "hf": [
+      "year_mismatch panel=2023 prose=2024"
+    ],
+    "pass": false
+  },
+  {
+    "n": 359,
+    "final": 9.71,
+    "words": 3301,
+    "hf": [],
+    "pass": true
+  },
+  {
+    "n": 360,
+    "final": 10.0,
+    "words": 3511,
+    "hf": [],
+    "pass": true
+  }
+]

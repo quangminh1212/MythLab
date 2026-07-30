@@ -1,7 +1,8 @@
 ============================================================
 Chương 208: New York – Wall Street lần đầu
+============================================================
 
-New York, tháng Mười một năm 1998. Hùng bước ra khỏi tòa nhà số 40 Wall Street khi trời đã tối hẳn. Đèn đường vàng, gió từ sông Hudson thổi vào lạnh đến thấu xương — ông mặc bộ complet xám may ở Hà Nội nhưng không đủ ấm cho đầu đông nước Mỹ.
+New York, tháng Mười một năm 1997. Hùng bước ra khỏi tòa nhà số 40 Wall Street khi trời đã tối hẳn. Đèn đường vàng, gió từ sông Hudson thổi vào lạnh đến thấu xương — ông mặc bộ complet xám may ở Hà Nội nhưng không đủ ấm cho đầu đông nước Mỹ.
 
 Một ngày dài. Mười hai tiếng, ba cuộc họp, một bữa trưa không kịp ăn.
 
@@ -145,7 +146,7 @@ Hôm nay ông đang ở New York. Khách sạn có nước nóng, giường có 
 
 Hùng không ngủ ngay. Về phòng, ông mở sổ tay, viết trang mới.
 
-"Thứ ba, 10/11/1998, New York.
+"Thứ ba, 10/11/1997, New York.
 Buổi sáng: gặp Sullivan & Cromwell (Walsh) — ADR mức 1, OTC, 12 tháng, Ernst & Young/PwC kiểm toán.
 Buổi chiều: gặp Merrill Lynch (Torres, Koh) — họ hỏi vì sao ra nước ngoài, tôi trả lời thương hiệu. Họ im lặng. Chưa tin hẳn.
 Tự đánh giá: 2/3. Còn thiếu cuộc với JP Morgan vào thứ năm. Cần chuẩn bị thêm số liệu tỉ lệ nợ.
@@ -203,21 +204,28 @@ Hôm sau, ông ghé thăm khu phố tài chính lần cuối. Trên đường v�
 Ông gập sổ tay, nhìn ra cửa sổ. New York vẫn sáng đèn. Bốn mươi hạng mục E&Y — mỗi mục một bước. Ông viết dòng cuối: 'Tuần một: hồ sơ. Tuần hai: đối chiếu. Tuần ba: E&Y. Tuần bốn: soát.' Rồi tắt đèn.
 Trời bắt đầu có tuyết. Ông kéo cửa sổ, nhìn những bông trắng rơi trên phố Wall. 
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+Rời E&Y, Hùng đứng dưới mái hiên nhìn mưa quất ngang phố. Ông nắm danh sách bốn mươi hạng mục; giấy ướt ở mép. Thành đưa tay che tập hồ sơ, còn Sarah cau mày nhìn chiếc taxi vừa chạy mất.
 
-Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+“Ông có thể lùi ADR,” Sarah nói.
 
-Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
+Hùng lắc đầu. “Lùi ngày nộp được. Không lùi việc làm sạch sổ.”
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Ông cúi khoanh ba mục: công nợ liên kết, tồn kho chậm, quyền sử dụng đất. Thành nuốt khan khi thấy mục thứ ba.
+
+“Có chuyện?” Hùng hỏi.
+
+Thành gật. “Một hồ sơ Hải Phòng thiếu bản gốc.”
+
+“Vậy sáng mai tìm. Không tìm thấy thì công bố thiếu.”
+
+Sarah nhìn ông, rồi cười rất nhẹ. Tiếng còi xe dội giữa hai dãy nhà. Hùng buông tay khỏi mép giấy, thở ra; cơn lạnh vẫn còn, nhưng rủi ro đã có tên.
 
 
-
-Hùng nhíu mày, siết ngón tay sổ ch.208. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.208」
-Năm: 1998
-Tổng EXP: 41,200 (+412 nhịp này)
-Không gian kho: 14,500m² (+145m²)
+Năm: 1997
+Tổng EXP: 39,905 (+238)
+Không gian kho: 13,143m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
-Ghi chú: khóa nhịp
+Ghi chú: Wall Street lần đầu — ADR L1 roadmap, E&Y 320k$
+============================================================

@@ -1,0 +1,242 @@
+[
+  {
+    "ch": 301,
+    "final": 9.71,
+    "words": 3130,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 302,
+    "final": 9.71,
+    "words": 3051,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 303,
+    "final": 10.0,
+    "words": 3077,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 304,
+    "final": 10.0,
+    "words": 3971,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 305,
+    "final": 10.0,
+    "words": 3295,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 306,
+    "final": 9.71,
+    "words": 3306,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 307,
+    "final": 9.78,
+    "words": 3079,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 308,
+    "final": 9.71,
+    "words": 3337,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 309,
+    "final": 9.48,
+    "words": 3350,
+    "hard_fails": [],
+    "hits": [],
+    "pass": false
+  },
+  {
+    "ch": 310,
+    "final": 10.0,
+    "words": 3519,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 311,
+    "final": 9.71,
+    "words": 3333,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 312,
+    "final": 9.78,
+    "words": 3806,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 313,
+    "final": 9.78,
+    "words": 3039,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 314,
+    "final": 10.0,
+    "words": 3104,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 315,
+    "final": 10.0,
+    "words": 3744,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 316,
+    "final": 10.0,
+    "words": 3497,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 317,
+    "final": 9.71,
+    "words": 3442,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 318,
+    "final": 9.71,
+    "words": 3201,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 319,
+    "final": 9.71,
+    "words": 3326,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 320,
+    "final": 10.0,
+    "words": 3560,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 321,
+    "final": 9.63,
+    "words": 3355,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 322,
+    "final": 9.71,
+    "words": 3396,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 323,
+    "final": 10.0,
+    "words": 3062,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 324,
+    "final": 9.71,
+    "words": 3070,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 325,
+    "final": 9.71,
+    "words": 3655,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 326,
+    "final": 9.71,
+    "words": 3111,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 327,
+    "final": 10.0,
+    "words": 3152,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 328,
+    "final": 9.71,
+    "words": 3323,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 329,
+    "final": 9.71,
+    "words": 3124,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  },
+  {
+    "ch": 330,
+    "final": 9.71,
+    "words": 3307,
+    "hard_fails": [],
+    "hits": [],
+    "pass": true
+  }
+]

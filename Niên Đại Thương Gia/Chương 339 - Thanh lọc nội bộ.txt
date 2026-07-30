@@ -124,7 +124,7 @@ Buổi chiều, Lan ngồi với Hùng trong phòng riêng ở tầng năm. Ch�
 
 Trong số mười hai người có liên quan, hai người đã bắt đầu lấy dữ liệu: Trúc gửi báo cáo công nợ ra ngoài, Lâm truy cập server HR. Còn ba người nữa — Lan đang xác minh.
 
-Hùng ngồi trên ghế bành, hai tay đan vào nhau, mắt nhìn vợ. Ông không ngắt lời, không hỏi lại, không tỏ vẻ lo lắng. Ông chỉ lắng nghe — một kỹ năng ông đã rèn luyện ba mươi lăm năm: nghe người khác nói hết, rồi mới đưa ra nhận xét.
+Hùng ngồi trên ghế bành, hai tay đan vào nhau, mắt nhìn mẹ. Ông không ngắt lời, không hỏi lại, không tỏ vẻ lo lắng. Ông chỉ lắng nghe — một kỹ năng ông đã rèn luyện ba mươi lăm năm: nghe người khác nói hết, rồi mới đưa ra nhận xét.
 
 "Em xử lý thế nào?" Ông hỏi khi Lan dừng lại.
 
@@ -197,7 +197,7 @@ Lan biết — một số người trong số họ sẽ đi làm cho đối th�
 "Mình làm đúng," chị tự nhủ, khi đứng một mình bên cửa kính. "Có đau — nhưng đúng."
 
 **
-Tối hôm đó, Lan về nhà lúc mười giờ. Căn nhà ở Thảo Điền vắng lặng — Hùng đã về Hà Nội từ sáng, con trai Huy còn ở Campuchia. Chị mở tủ lạnh, thấy bữa tối Hùng nấu sẵn để lại: canh rau, cá kho tộ, cơm trắng. Bên cạnh là mẩu giấy nhỏ: "Em ăn đi. Mệt thì ngủ sớm."
+Tối hôm đó, Lan về nhà lúc mười giờ. Căn nhà ở Mai Điền vắng lặng — Hùng đã về Hà Nội từ sáng, con trai Minh còn ở Campuchia. Chị mở tủ lạnh, thấy bữa tối Hùng nấu sẵn để lại: canh rau, cá kho tộ, cơm trắng. Bên cạnh là mẩu giấy nhỏ: "Em ăn đi. Mệt thì ngủ sớm."
 
 Lan ngồi ăn một mình, bên cửa sổ nhìn ra khu vườn nhỏ. Căn bếp rộng, im ắng, chỉ có tiếng thìa chạm bát. Bóng chị phản chiếu trên kính — một người phụ nữ tuổi năm mươi, mái tóc đã điểm bạc ở hai bên thái dương.
 
@@ -230,8 +230,8 @@ Nhưng không có giá như. Trong thương trường, chỉ có quyết định
 ============================================================
 「Hệ thống — GHI NHẬN ch.339」
 Năm: 2018
-Tổng EXP: 87,000
-Không gian kho: 50,200m²
-Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3, Xử lý khủng hoảng lv1
-Ghi chú: Thanh lọc nội bộ — phát hiện 32 gián điệp qua HR Solutions, sa thải 12, giữ 20, cài 2 gián điệp hai mang. Cuộc chiến từ bên ngoài đã lan vào bên trong.
+Tổng EXP: 86,400 (+600)
+Không gian kho: 49,680m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: thanh lọc 32 spy HR Solutions — sa thải/giữ/double-agent
 ============================================================

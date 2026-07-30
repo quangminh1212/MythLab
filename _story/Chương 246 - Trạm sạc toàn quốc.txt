@@ -110,7 +110,6 @@ Hùng ngồi lại một lúc, nhìn tấm bản đồ trên tường. Những c
 "Về thôi," ông nói với Lan. "Mẹ con đang đợi cơm tối. Hôm nay có cá kho — món ba thích."
 
 
-
 Hùng còn một việc nữa: gọi cho ông Sơn, trưởng phòng Kỹ thuật của Sở Giao thông Hà Nội. Ông Sơn là người duy nhất trong Sở từng ủng hộ ý tưởng xe điện từ những ngày đầu.
 
 "Alo, anh Sơn, tôi Hùng đây."
@@ -134,7 +133,6 @@ Sáng hôm sau, tập tài liệu được chuyển đến tay ông Sơn.
 Trên đường về, Hùng nhìn thấy một chiếc xe máy điện — loại đồ chơi trẻ em — đang chạy trên vỉa hè. Một đứa bé cầm lái, mặt tươi rói.
 
 Ông mỉm cười.
-
 
 
 Hai ngày sau cuộc gọi với ông Sơn, Hùng nhận được một phong bì dày từ Bộ Giao thông Vận tải — dự thảo Thông tư về xe bốn bánh chạy điện, phiên bản sơ thảo lần thứ nhất.
@@ -169,17 +167,15 @@ Chỉ một mình trong phòng khách vắng lặng, ông nâng ly lên trước
 Rồi uống cạn.
 
 ============================================================Hệ thống — GHI NHẬN ch.246」
-Năm: 2011
-Tổng EXP: 54,333 (+333 nhịp này)
-Không gian kho: 21,167m² (+167m²)
+Năm: 2009
+Tổng EXP: 54,000 (+333)
+Không gian kho: 21,000m² (+167m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Dự báo rủi ro lv1
 Ghi chú: phê duyệt thí điểm trạm sạc bến xe Giáp Bát — nền móng hạ tầng sạc toàn quốc
 ============================================================
 
-Teaser: 
 
 Buổi chiều, Hùng vào kho kiểm hàng. Bụi bám trắng xóa trên bao tải, mùi vải mới lẫn mùi đất ẩm. Ông cầm từng mét vải lên, sờ mặt vải, vuốt dọc thớ. Từng cuộn đều có phiếu ghi tay: ngày nhập, số mét, giá vốn. Lan đứng sau, tay cầm sổ, đọc số: 'Còn bảy mươi mét vải hoa, chín mươi mét vải trắng, sáu mươi mét kaki.' Hùng gật: 'Đủ cho tuần sau.' Ông gấp cuộn cuối, buộc dây gai lại, xếp ngay ngắn lên kệ. Ngoài kho, một con mèo hoang kêu meo meo bên thùng gạo.
-
 
 
 Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
@@ -187,3 +183,12 @@ Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn 
 Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
 
 Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.246」
+Năm: 2009
+Tổng EXP: 54,000 (+333)
+Không gian kho: 21,000m² (+167m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Trạm sạc toàn quốc — ghi nhận tiến độ hạ tầng.
+============================================================

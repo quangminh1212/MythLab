@@ -7,7 +7,7 @@ Khi đối thủ giảm giá mười lăm phần trăm, một doanh nghiệp có
 
 ***
 
-Đà Nẵng, cuối tháng 10 năm 2015. Biển Mỹ Khê lặng sóng, mặt nước xanh biếc trải dài dưới bầu trời trong vắt. Hùng đang đi chân trần trên bãi cát, tận hưởng những phút cuối cùng của kỳ nghỉ ngắn ngủi trước khi trở về Hà Nội. Nhưng rồi điện thoại reo — tiếng chuông iPhone khô khốc, vang lên giữa tiếng sóng vỗ.
+Đà Nẵng, cuối tháng 10 năm 2014. Biển Mỹ Khê lặng sóng, mặt nước xanh biếc trải dài dưới bầu trời trong vắt. Hùng đang đi chân trần trên bãi cát, tận hưởng những phút cuối cùng của kỳ nghỉ ngắn ngủi trước khi trở về Hà Nội. Nhưng rồi điện thoại reo — tiếng chuông iPhone khô khốc, vang lên giữa tiếng sóng vỗ.
 
 — Anh Hùng, em xin lỗi vì làm phiền. — Giọng Lan ở đầu dây, căng thẳng hơn thường lệ. — Em vừa nhận được thông tin từ phòng kinh doanh. Có một công ty đối thủ, họ đang bắt đầu chiến dịch giảm giá mạnh ở thị trường Đông Nam Bộ.
 
@@ -245,30 +245,35 @@ Lan cười. Một tiếng cười trong trẻo qua điện thoại.
 
 Hùng tắt máy, tắt đèn. Nằm trong bóng tối, ông nghe tiếng mưa nhẹ trên mái hiên. Một ngày mới sắp bắt đầu.
 
-
-
 Hùng dừng bút, nhìn ra cửa sổ một lúc rồi viết tiếp, chữ nét đậm hơn dòng trước. Lan gấp trang sổ, đặt bút xuống bàn, nhìn Hùng chờ câu trả lời cuối. Ngoài sân, gió thổi qua mái tôn, tiếng động nhẹ như một câu hỏi chưa ai trả lời. Bà Hà bước qua, đặt tay lên vai Hùng một giây rồi đi tiếp, không nói gì. Hùng xoa hai tay, cảm giác lạnh của đêm còn bám trên da, rồi quay lại bàn làm việc. Lan viết thêm một dòng vào sổ, gạch dưới bằng bút đỏ, không giải thích thêm. Cả phòng im một lúc, chỉ còn tiếng đồng hồ treo tường gõ đều. Hùng nhìn lại con số một lần nữa, rồi gấp sổ, để nó ở góc bàn quen thuộc. Cửa gỗ khép nhẹ. Bên ngoài, tiếng xe máy chạy qua đường lớn, xa dần. Ánh đèn bàn hắt lên tường một quầng sáng nhỏ, đủ để đọc, không đủ để chói mắt. Trà đã nguội từ lúc nào. Hùng uống một ngụm, không thấy vị, chỉ thấy quen. Lan nhìn đồng hồ, rồi nhìn Hùng, không nói gì thêm — cả hai đều hiểu buổi tối đã hết việc. Bên ngoài trời sập tối nhanh hơn mọi khi, mây kéo về phía núi, báo một cơn mưa khác. Hùng gấp lại tờ báo cáo, đặt nó vào cặp da, khóa lại như một nghi thức quen thuộc mỗi tối. Một tiếng chuông xa vọng lại từ ngôi chùa cuối phố, đếm đủ chín tiếng rồi im. Hùng nhấc điện thoại lên, định gọi, rồi lại đặt xuống — có việc để sáng mai nói cũng không muộn. Lan tắt đèn bàn làm việc, chỉ để lại chiếc đèn ngủ nhỏ góc phòng, ánh sáng vừa đủ dịu.
 
-
-
-「PANEL」
-
-ĐỐI THỦ: Công ty TNHH Sản xuất và Thương mại Hoàng Phát
-Chiến dịch: Giảm giá 15% toàn hệ thống (tháng 10/2015)
-Kết quả: Thương Gia mất 12% thị phần trong tháng đầu,
-thu hồi và tăng 5% sau 3 tháng nhờ chiến lược bảo hành dài hạn
-Bài học: "Cạnh tranh bằng giá trị, không bằng giá rẻ"
-
-「HẾT CHƯƠNG 321」
-
-
-
-Mùi thơm của thịt kho từ bếp bay ra, quyện với mùi cơm mới. Hùng ngồi ở bàn, mắt nhìn theo Lan khi cô bưng mâm cơm ra. "Anh ăn đi, kẻo nguội." Lan đặt bát cơm trước mặt anh, mắt cười. Hùng cầm đũa, mùi thức ăn xộc vào mũi, cay và ngọt. "Em nấu ngon quá." "Nịnh." Lan ngồi xuống, tay cô chạm nhẹ tay anh trên bàn, rồi rụt lại. Hùng nắm lấy tay cô, không buông. "Anh nói thật mà." Lan mặt đỏ bừng, mắt cô nhìn xuống bát cơm, nhưng khóe môi cô mỉm cười. Ngoài cửa sổ, hoàng hôn đỏ rực, ánh chiều tà hắt vào gian bếp nhỏ, ấm áp.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.321」
 Năm: 2014
 Tổng EXP: 78,300 (+300)
 Không gian kho: 42,000m² (+333m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
-Ghi chú:  system_ledger
+Ghi chú: Mốc chương 321 được chốt bằng trách nhiệm, người thực hiện và hạn kiểm cụ thể
+Lan đặt hai mẫu hàng lên bàn: một của Thương Gia, một của Hoàng Phát. Vỏ ngoài gần như giống nhau; giá đối thủ thấp hơn mười tám phần trăm. Hùng không nhìn bảng giá trước. Ông tháo nắp, dùng tay nắm cuộn dây đồng, rồi liếc sang Dũng kỹ thuật.
+
+— Chạy nóng bao lâu?
+
+— Mẫu họ chịu được bốn mươi phút trước khi nhiệt tăng quá ngưỡng. Mẫu mình hai giờ.
+
+Minh cau mày:
+
+— Khách ở quầy không nhìn thấy hai giờ ấy.
+
+— Vậy cho họ nhìn — Lan đáp.
+
+Cô chốt một tuần thử công khai tại mười cửa hàng: hai máy chạy cạnh nhau, cùng tải, cùng đồng hồ nhiệt. Không bôi xấu đối thủ; chỉ cho khách sờ vỏ máy, nghe tiếng rung, xem điện tiêu thụ. Nếu sản phẩm Thương Gia không chứng minh được chênh lệch, bộ phận giá phải giảm chi phí thật thay vì kể chuyện thương hiệu.
+
+Ngày thử đầu tiên, một khách hàng hỏi tại sao phải trả thêm tiền cho thứ trông giống nhau. Minh tự tay bật hai máy. Sau ba mươi phút, tiếng rung của mẫu rẻ bắt đầu gằn. Cậu không cười. Cậu ghi nhiệt độ, đưa khách xem phiếu bảo hành và giá điện ước tính một năm.
+
+— Chú không cần tin cháu — Minh nói. — Chú nhìn đồng hồ rồi tự chọn.
+
+Người khách chưa mua. Ông xin quay lại hôm sau. Minh thở ra, mắt vẫn nhìn cánh quạt đang quay.
+
+Hùng đứng cuối cửa hàng, gật rất nhẹ. Cạnh tranh giá đã được kéo khỏi khẩu hiệu về đúng chỗ: một phép thử có thể lặp lại. Sáng mai, nếu khách vẫn chọn hàng rẻ, họ sẽ phải tìm thêm giá trị thật — không được sửa con số.
+
 ============================================================

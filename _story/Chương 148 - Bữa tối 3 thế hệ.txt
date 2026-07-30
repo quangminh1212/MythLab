@@ -195,7 +195,7 @@ Bữa tối ba thế hệ không giải quyết được gì. Không ký đượ
 ============================================================
 「Hệ thống — GHI NHẬN ch.148」
 Năm: 1990
-Tổng EXP: 22,740 (+180 nhịp này)
+Tổng EXP: 22,740 (+180)
 Không gian kho: 7,496m² (+72m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
 Bữa tối ba thế hệ: bà Hà, Hùng, Lan. Bà gắp thức ăn cho cả hai, như ngày xưa.
@@ -203,4 +203,3 @@ Hùng nhìn bà lúc chín mươi, thấy thời gian đã lấy đi sức khỏ
 
 ============================================================
 
-Teaser: 

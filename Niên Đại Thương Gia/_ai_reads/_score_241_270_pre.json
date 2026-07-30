@@ -1,0 +1,1334 @@
+{
+  "dir": null,
+  "threshold": 9.5,
+  "min_words": 3000,
+  "total": 30,
+  "pass": 30,
+  "below": 0,
+  "avg": 9.735,
+  "min_final": 9.51,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3064,
+        "chars": 14202,
+        "dialogue": 60,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.96,
+        "char_density": 3.8,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 2009,
+        "top_rep": [
+          [
+            "Tháng 3 năm 2009.",
+            1
+          ],
+          [
+            "Cơn mưa đầu mùa ở Hưng Yên tới bất ngờ. Mưa kéo dài từ năm giờ sáng, nặng hạt, xối xả, hòa vào gió từ sông Hồng thổi vào mát lạnh. Trần Văn Hùng đứng dưới tán ô của một cán bộ địa chính tỉnh, nhìn ra khu ruộng trũng trước mặt. Đây là năm thứ ba dự án khu đô thị Thương Gia City được phê duyệt, hôm nay là ngày khởi công — một ngày trời đổ mưa như trút nước từ lúc tinh mơ. Ông không mặc áo mưa, chỉ khoác một chiếc áo khoác dạ mỏng, hai tay đút túi, đầu đội ô. Cơn mưa lớn khiến ruộng ngập trắng nước, những luống lúa gặt dở chìm trong biển nước đục ngầu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng 3 năm 2009. Cơn mưa đầu mùa ở Hưng Yên tới",
+      "file": "Chương 241 - Khởi công Thương Gia City.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 241 - Khởi công Thương Gia City.txt",
+      "num": 241
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3235,
+        "chars": 14963,
+        "dialogue": 65,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.96,
+        "char_density": 2.81,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Chương 242: Quy hoạch 500 hecta",
+            1
+          ],
+          [
+            "Tháng 6 năm 2010.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 242: Quy hoạch 500 hecta Tháng 6 năm 2010. Buổi",
+      "file": "Chương 242 - Quy hoạch 500 hecta.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 242 - Quy hoạch 500 hecta.txt",
+      "num": 242
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4027,
+        "chars": 18798,
+        "dialogue": 126,
+        "maxrep": 2,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.82,
+        "char_density": 3.4,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "\"Vâng, thưa ông.\"",
+            2
+          ],
+          [
+            "\"Dạ.\"",
+            2
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 243: Hạ tầng và nhà ở công nhân Buổi tối,",
+      "file": "Chương 243 - Hạ tầng và nhà ở công nhân.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 243 - Hạ tầng và nhà ở công nhân.txt",
+      "num": 243
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3569,
+        "chars": 16756,
+        "dialogue": 87,
+        "maxrep": 2,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.64,
+        "char_density": 3.7,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 2011,
+        "top_rep": [
+          [
+            "\"Vâng, thưa ba.\"",
+            2
+          ],
+          [
+            "Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.",
+            2
+          ]
+        ]
+      },
+      "opening": "Tháng 1 năm 2011, rét đậm nhất trong năm. Nhiệt độ ngoài",
+      "file": "Chương 244 - Trường học trong khu công nghiệp.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 244 - Trường học trong khu công nghiệp.txt",
+      "num": 244
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3729,
+        "chars": 17396,
+        "dialogue": 88,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.67,
+        "char_density": 2.99,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 2011,
+        "top_rep": [
+          [
+            "Tháng 4 năm 2011.",
+            1
+          ],
+          [
+            "Tầng hầm của tòa nhà R&D Thương Gia Group tọa lạc tại Gia Lâm, Hà Nội. Đây vốn là một nhà xưởng cũ — nơi từng sửa chữa xe tải và máy nông nghiệp của hợp tác xã thời bao cấp. Tường gạch trát vữa, sơn vôi trắng đã ngả màu vàng úa theo năm tháng. Mái tôn cao, trên xà ngang còn nguyên những vệt dầu mỡ của thời kỳ sửa xe. Nền xi măng láng mịn, được quét dọn sạch sẽ, có các ô lắp ráp được kẻ bằng băng keo màu vàng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng 4 năm 2011. Tầng hầm của tòa nhà R&D Thương Gia",
+      "file": "Chương 245 - Xe điện thương mại hóa.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 245 - Xe điện thương mại hóa.txt",
+      "num": 245
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3258,
+        "chars": 15252,
+        "dialogue": 66,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.72,
+        "char_density": 3.02,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 2011,
+        "top_rep": [
+          [
+            "Chiều muộn, sau cuộc họp với ông Tuấn, Hùng đứng một mình bên cửa sổ tầng ba nhìn xuống phố. Xe cộ đông đúc, người đi lại tấp nập. Nắng xiên qua ô kính, rọi lên sàn nhà một vệt sáng vàng dài, bụi bay lơ lửng trong luồng sáng như những hạt phấn nhỏ.",
+            1
+          ],
+          [
+            "Trong túi áo ông là bản vẽ phác thảo sơ bộ trạm sạc Giáp Bát được Quân gửi qua email. Ông mở ra xem — bản vẽ tay, chưa hoàn chỉnh, nhưng đã hình dung rõ ràng: một mái che bằng tấm lợp polycarbonate, ba trụ sạc, hai chỗ đậu xe, một tủ điện và một camera an ninh. Một trạm xăng mini — nhưng cho điện, không cho xăng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chiều muộn, sau cuộc họp với ông Tuấn, Hùng đứng một mình",
+      "file": "Chương 246 - Trạm sạc toàn quốc.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 246 - Trạm sạc toàn quốc.txt",
+      "num": 246
+    },
+    {
+      "final": 9.51,
+      "weighted_raw": 9.51,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3248,
+        "chars": 15145,
+        "dialogue": 30,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 6.07,
+        "char_density": 2.71,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2006,
+        "prose_year": 2006,
+        "top_rep": [
+          [
+            "Chương 247: AI sơ khai trong quản lý kho",
+            1
+          ],
+          [
+            "Năm 2006, Hải Phòng.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 247: AI sơ khai trong quản lý kho Năm 2006,",
+      "file": "Chương 247 - AI sơ khai trong quản lý kho.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 247 - AI sơ khai trong quản lý kho.txt",
+      "num": 247
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3013,
+        "chars": 14136,
+        "dialogue": 62,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 15.35,
+        "char_density": 2.69,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Gió quật qua khu nhà máy Hải Phòng như một bàn tay vô hình ném những hạt mưa vào tường gạch đã cũ. Cơn bão số bảy đổ bộ vào đất liền lúc hai giờ sáng, mang theo sức gió cấp mười hai. Những cơn gió đầu tiên xé toạc mái tôn của khu nhà xe, cuốn bay những tấm tôn mỏng như những mảnh giấy vụn lên không trung. Tiếng va đập của kim loại vào kim loại, tiếng kính vỡ, tiếng cây đổ — tất cả hòa vào nhau thành một bản giao hưởng hỗn loạn của thiên nhiên nổi giận.",
+            1
+          ],
+          [
+            "Căn phòng máy đặt ở cuối dãy nhà xưởng, một căn phòng nhỏ mười lăm mét vuông được cải tạo thành nơi ở của mười một máy chủ. Căn phòng không có cửa sổ lớn, chỉ một ô kính nhỏ bốn mươi phân vuông, nhưng điều hòa Mitsubishi đời cũ thì có. Máy lạnh đã rè rè suốt ba năm, thỉnh thoảng nhả hơi lạnh yếu ớt, bây giờ nó rên lên một tiếng dài, rồi im bặt. Đèn tắt. Màn hình tắt. Mười một đèn xanh trên mười một tủ máy chủ — đồng loạt tắt.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió quật qua khu nhà máy Hải Phòng như một bàn tay",
+      "file": "Chương 248 - Trung tâm dữ liệu Thương Gia.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 248 - Trung tâm dữ liệu Thương Gia.txt",
+      "num": 248
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3019,
+        "chars": 14404,
+        "dialogue": 98,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.4,
+        "char_density": 2.29,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2007,
+        "top_rep": [
+          [
+            "Hùng mở hộp thư điện tử lúc sáu giờ sáng. Màn hình CRT mười chín inch chiếu thứ ánh sáng trắng xanh lên mặt ông trong căn phòng khách còn chìm trong bóng tối mờ mờ của buổi sớm mùa xuân. Cốc cà phê đen đặt bên tay trái, bốc hơi nghi ngút. Giữa những email báo cáo từ các nhà máy — sản lượng, số lượng đơn hàng, tồn kho — một dòng tiêu đề lạ: \"Interesting article about your supply chain software.\" Người gửi: david.morrison@californiatechventures.com.",
+            1
+          ],
+          [
+            "Hùng nhướng mày. Mở email. Đọc. Ông đọc nguyên văn hai lần, từng câu một. Không lỗi chính tả. Không link nghi vấn. Không giọng điệu \"bạn thân mến.\" Một email ngắn gọn, chuyên nghiệp, viết bằng thứ tiếng Anh chính xác của người làm việc với email hàng ngày.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hùng mở hộp thư điện tử lúc sáu giờ sáng. Màn hình",
+      "file": "Chương 249 - Đối tác công nghệ Silicon Valley.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 249 - Đối tác công nghệ Silicon Valley.txt",
+      "num": 249
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3394,
+        "chars": 15833,
+        "dialogue": 73,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.6,
+        "char_density": 2.02,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Chương 250: Lan dẫn quỹ R&D",
+            1
+          ],
+          [
+            "Đầu năm 2010, Hùng ký quyết định thành lập Quỹ Đầu tư Nghiên cứu và Phát triển — gọi tắt là Quỹ R&D. Mùi mực ký trên tờ quyết định còn thơm, mùi giấy in nhiệt từ máy fax trong góc phòng, và mùi cà phê mới pha từ chiếc phích giữ nhiệt — tất cả như một nghi thức bắt đầu. Vốn điều lệ: 200 tỷ đồng. Người đứng đầu quỹ: Trần Thị Lan.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 250: Lan dẫn quỹ R&D Đầu năm 2010, Hùng ký",
+      "file": "Chương 250 - Lan dẫn quỹ R&D.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 250 - Lan dẫn quỹ R&D.txt",
+      "num": 250
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4014,
+        "chars": 18565,
+        "dialogue": 77,
+        "maxrep": 2,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 15.41,
+        "char_density": 3.02,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "\"Nói.\"",
+            2
+          ],
+          [
+            "Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. \"Anh bỏ thuốc đi.\" Hùng cười, cất lại bao thuốc. \"Thôi, vì em.\" Minh mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.",
+            2
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 251: Con trai Hùng vào công ty Tháng Sáu năm",
+      "file": "Chương 251 - Con trai Hùng vào công ty.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 251 - Con trai Hùng vào công ty.txt",
+      "num": 251
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3917,
+        "chars": 18541,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.17,
+        "char_density": 4.1,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.",
+            2
+          ],
+          [
+            "Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.",
+            2
+          ]
+        ]
+      },
+      "opening": "Cuối năm 2010, Hùng nhìn vào đội ngũ lãnh đạo của Thương",
+      "file": "Chương 252 - Thế hệ thứ hai học việc.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 252 - Thế hệ thứ hai học việc.txt",
+      "num": 252
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3089,
+        "chars": 14438,
+        "dialogue": 76,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.44,
+        "char_density": 3.39,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 2009,
+        "top_rep": [
+          [
+            "Phòng họp lớn của Ủy ban Nhân dân thành phố Hà Nội chật cứng người. Mùi hoa tươi hòa lẫn mùi bia và thức ăn từ bữa tiệc đã chuẩn bị sẵn. Băng rôn đỏ treo dọc tường chính: \"Lễ trao Huân chương Lao động hạng Ba cho các doanh nhân tiêu biểu năm 2009.\" Những dãy ghế xếp thẳng tắp, những bộ vest tối màu, những nụ cười xã giao.",
+            1
+          ],
+          [
+            "Hùng ngồi hàng ghế thứ hai, giữa Lan và bà Hà. Ông mặc sơ mi trắng, vest xám, cà vạt đỏ — bộ đồ thư ký đã chuẩn bị từ tối hôm trước, là phẳng từng nếp gấp. Ông không thích vest — suốt hai mươi năm làm kinh doanh, ông chưa bao giờ thoải mái với những bộ đồ lịch sự. Nhưng hôm nay là ngày của lễ nghi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Phòng họp lớn của Ủy ban Nhân dân thành phố Hà Nội",
+      "file": "Chương 253 - Huân chương Lao động.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 253 - Huân chương Lao động.txt",
+      "num": 253
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3962,
+        "chars": 18439,
+        "dialogue": 87,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.52,
+        "char_density": 2.12,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Tháng Ba năm 2010, Hà Nội.",
+            1
+          ],
+          [
+            "Bộ Công Thương tổ chức đối thoại đặc biệt: lãnh đạo ngành công nghiệp gặp đại diện mười doanh nghiệp tư nhân lớn nhất Việt Nam. Chủ đề: \"Định hướng phát triển công nghiệp hỗ trợ giai đoạn 2010-2020.\" Phòng họp tầng ba trụ sở Bộ — bàn hội nghị dài hai mươi mét phủ khăn xanh. Mỗi vị trí một cốc nước lọc, một tập tài liệu dày, một cây bút ký tên. Bầu không khí trang trọng, hơi ngột ngạt vì điều hòa yếu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Ba năm 2010, Hà Nội. Bộ Công Thương tổ chức đối",
+      "file": "Chương 254 - Gặp lãnh đạo ngành.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 254 - Gặp lãnh đạo ngành.txt",
+      "num": 254
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3222,
+        "chars": 15056,
+        "dialogue": 45,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 14.15,
+        "char_density": 2.19,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Tháng Chín năm 2010, Hải Phòng.",
+            1
+          ],
+          [
+            "Đoàn kiểm tra của Sở Tài nguyên và Môi trường đến trung tâm dữ liệu Thương Gia không báo trước. Không hẹn, không điện thoại trước. Ba người mặc áo khoác xanh, máy đo điện trong cặp, thiết bị lấy mẫu nước trên tay. Họ đưa cho Dũng một thông báo chính thức: chỉ số điện năng tiêu thụ của trung tâm trong quý II cao hơn bốn mươi phần trăm so với mức cho phép.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tháng Chín năm 2010, Hải Phòng. Đoàn kiểm tra của Sở Tài",
+      "file": "Chương 255 - Cam kết phát triển bền vững.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 255 - Cam kết phát triển bền vững.txt",
+      "num": 255
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4083,
+        "chars": 19180,
+        "dialogue": 126,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.8,
+        "char_density": 2.55,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Chương 256: Top thương gia Việt Nam",
+            1
+          ],
+          [
+            "Tháng 12 năm 2008, giữa lúc khủng hoảng tài chính toàn cầu đang hoành hành dữ dội, tạp chí Forbes Việt Nam ra số đầu tiên. Danh sách \"Top thương gia Việt Nam\" được công bố gây chấn động dư luận trong nước. Trần Văn Hùng đứng thứ ba trong danh sách này. Tổng tài sản ước tính theo công bố: 4.200 tỷ đồng.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 256: Top thương gia Việt Nam Tháng 12 năm 2008,",
+      "file": "Chương 256 - Top thương gia Việt Nam.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 256 - Top thương gia Việt Nam.txt",
+      "num": 256
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3001,
+        "chars": 13739,
+        "dialogue": 46,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.04,
+        "char_density": 4.88,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 1983,
+        "top_rep": [
+          [
+            "Hùng đứng trong hành lang Nhà hát Lớn Hà Nội, tay vuốt ve cổ áo sơ mi. Bộ complet mới may — lần đầu mặc. Vải may từ xưởng Thương Gia, do chính tay công nhân của ông cắt từng đường kim mũi chỉ. Ông chọn bộ này có chủ đích rõ ràng: mặc hàng của mình, đứng trên sân khấu lớn nhất đất nước, nói với hàng triệu người rằng sản phẩm Việt Nam đủ sức vươn ra thế giới. Chiếc áo vừa vặn đến từng centimet — thợ may đã lấy số đo ba lần trước khi cắt. Cổ tay áo, ve áo, từng đường chỉ đều hoàn hảo. Nhưng Hùng vẫn thấy hơi gò bó sau lớp vải, vì đó là bộ complet chứ không phải áo sơ mi xắn tay quen thuộc của ông.",
+            1
+          ],
+          [
+            "Qua ô cửa kính lớn, phố xá bên ngoài hiện ra trong nắng tháng Mười vàng nhạt. Xe cộ đông đúc chạy dọc Tràng Tiền. Những hàng cây sấu già xòe bóng mát xuống vỉa hè, nơi các gánh hàng rong vẫn bày bán những món quà vặt quen thuộc — bánh mì, bánh rán, trà đá. Tất cả đều ở đó từ thuở ông còn là thằng bé nhà quê lần đầu lên phố tỉnh — cái thuở hai bàn tay không, hai chỉ vàng trong túi, và một giấc mơ điên rồ.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hùng đứng trong hành lang Nhà hát Lớn Hà Nội, tay vuốt",
+      "file": "Chương 257 - Lễ vinh danh toàn quốc.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 257 - Lễ vinh danh toàn quốc.txt",
+      "num": 257
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3753,
+        "chars": 18058,
+        "dialogue": 69,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.97,
+        "char_density": 2.55,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Cuộc gọi từ Lagos lúc 2 giờ sáng giờ Hà Nội. Đầu dây bên kia, Quân — trưởng chi nhánh Tây Phi — giọng khàn đặc vì mệt và vì lo. Không phải lần đầu tiên Quân gọi khẩn, nhưng giọng lần này khác: có cái gì đó như sợ hãi, như tuyệt vọng.",
+            1
+          ],
+          [
+            "\"Anh Hùng, bọn em bị kẹt rồi. Lô hàng đầu tiên bị hải quan Nigeria giữ lại. Họ nói thiếu giấy tờ. Em có đủ giấy tờ, nhưng… anh biết đấy, ở đây nó không đơn giản. Bọn họ đòi hai nghìn đô để 'xử lý nhanh.' Em từ chối. Giờ container bị niêm phong chờ xử lý, mỗi ngày mất năm nghìn đô tiền kho bãi.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Cuộc gọi từ Lagos lúc 2 giờ sáng giờ Hà Nội. Đầu",
+      "file": "Chương 258 - Mở rộng châu Phi sâu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 258 - Mở rộng châu Phi sâu.txt",
+      "num": 258
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3008,
+        "chars": 14362,
+        "dialogue": 45,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.28,
+        "char_density": 2.37,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "top_rep": [
+          [
+            "Ông Tanaka giới thiệu Hùng với Carlos Mendez, một doanh nhân người Brazil gốc Nhật, qua một cuộc điện thoại từ Tokyo. Carlos nói tiếng Nhật lưu loát như người bản xứ, tiếng Bồ Đào Nha là mẹ đẻ, và tiếng Anh đủ để đàm phán những hợp đồng triệu đô. Cuộc gặp đầu tiên diễn ra tại São Paulo — một thành phố được ví như New York của Nam Mỹ với những tòa nhà chọc trời mọc lên như nấm giữa rừng bê tông, khói bụi và tiếng còi xe không ngớt. Từ cửa sổ phòng họp tầng 30 của tòa nhà Ópera, Hùng nhìn thấy những khu ổ chuột (favela) nằm cheo leo trên đồi ngay cạnh những tòa tháp văn phòng bằng kính sáng loáng — một sự tương phản sắc nét khiến ông nhớ tới Sài Gòn, nơi khu lao động nghèo nằm san sát bên tòa nhà cao tầng.",
+            1
+          ],
+          [
+            "Không khí São Paulo nóng ẩm như một chiếc chăn ướt trùm lên người ngay khi Hùng bước ra khỏi sân bay Guarulhos. Cái nóng nhiệt đới Nam bán cầu quyện với mùi nhiên liệu máy bay, mùi khói thải xe cộ, mùi đất ẩm và hoa lạ — một thứ mùi không thể trộn lẫn, mùi của một châu lục mới. Trên đường cao tốc vào trung tâm, những hàng cây xanh mướt hai bên đường lao vun vút, những tấm biển quảng cáo khổng lồ bằng tiếng Bồ Đào Nha nhấp nháy. Carlos bật nhạc samba, giai điệu sôi động lan tỏa khắp xe. Những dòng xe hơi nối đuôi nhau, từ xe sang Lexus, BMW đến những chiếc xe buýt cũ kỹ xả khói đen mù mịt. São Paulo, 20 triệu dân, không ngủ, không nghỉ, luôn chuyển động. Nhìn qua cửa kính, Hùng thấy một người bán hàng rong đội nắng đẩy xe hàng qua ngã tư — hình ảnh quen thuộc khiến ông chạnh lòng nhớ về Hà Nội, nhớ những ngày đầu tiên đi bán hàng rong ở chợ Đồng Xuân. Bốn mươi năm qua, ông đi từ chợ Đồng Xuân đến São Paulo — một chặng đường mà chính ông cũng không dám tin. Ông tự hỏi: nếu ngày ấy ông không dám rời làng, không dám lên Hà Nội, không dám gõ cửa từng nhà máy xin việc — thì bây giờ ông đang ở đâu? Có lẽ vẫn ngồi nơi góc chợ, bán từng mớ rau, mong đủ tiền mua gạo. Nghĩ vậy, Hùng thấy lòng nhẹ hơn. Ông đã chọn đúng. Và ông sẽ tiếp tục chọn như thế.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ông Tanaka giới thiệu Hùng với Carlos Mendez, một doanh nhân người",
+      "file": "Chương 259 - Nam Mỹ – Brazil và Chile.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 259 - Nam Mỹ – Brazil và Chile.txt",
+      "num": 259
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3404,
+        "chars": 16236,
+        "dialogue": 96,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.36,
+        "char_density": 2.77,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Chương 260: Chuỗi giá trị toàn cầu",
+            1
+          ],
+          [
+            "2008. Hải Phòng.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 260: Chuỗi giá trị toàn cầu 2008. Hải Phòng. Trời",
+      "file": "Chương 260 - Chuỗi giá trị toàn cầu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 260 - Chuỗi giá trị toàn cầu.txt",
+      "num": 260
+    },
+    {
+      "final": 9.51,
+      "weighted_raw": 9.51,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 8.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3005,
+        "chars": 14143,
+        "dialogue": 51,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 6.93,
+        "char_density": 2.47,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 1985,
+        "top_rep": [
+          [
+            "Người phụ nữ ngồi đối diện Hùng trong phòng họp kính suốt nhìn ra hồ Hoàn Kiếm. Bà Anna Bergström, 48 tuổi, từ Stockholm, Thụy Điển, đại diện Quỹ Đầu tư Bền vững châu Âu (Sustainable Investment Fund). Tóc vàng hoe, mắt xanh nhạt, vest xám thanh lịch, phong thái của một người đã kiểm toán hàng trăm doanh nghiệp trên khắp thế giới. Trước mặt bà là một tập tài liệu dày 60 trang, trên bìa in logo Thương Gia màu xanh và dòng chữ: \"ESG Audit — First Assessment.\" Bên cạnh là một chiếc iPad Pro, một cây bút máy Montblanc màu xanh navy, và một cuốn sổ tay da đen đóng bìa cứng. Phòng họp im lặng. Ngoài kia, mặt hồ Hoàn Kiếm lấp lánh dưới ánh nắng cuối thu, những hàng liễu rủ bên hồ, tiếng chim hót líu lo.",
+            1
+          ],
+          [
+            "\"Thưa ông Hùng,\" Anna mở đầu, tiếng Anh chuẩn Thụy Điển pha chút Anh-Anh, \"chúng tôi đã nghiên cứu Thương Gia trong sáu tháng. Potentials rất lớn. Quyết định đầu tư gần như đã được ký. Nhưng trước khi ký séc, chúng tôi cần kiểm tra một lần cuối.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Người phụ nữ ngồi đối diện Hùng trong phòng họp kính suốt",
+      "file": "Chương 261 - Kiểm toán ESG đầu tiên.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 261 - Kiểm toán ESG đầu tiên.txt",
+      "num": 261
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3001,
+        "chars": 13865,
+        "dialogue": 57,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.08,
+        "char_density": 3.82,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 1985,
+        "top_rep": [
+          [
+            "Hùng bay về Hà Nội đêm đó, bỏ lại cuộc họp hội đồng quản trị đang dang dở ở Jakarta. Vé máy bay cuối cùng của chuyến bay đêm — hạng phổ thông, ghế sát cửa sổ, suốt ba tiếng bay không ngủ, mắt nhìn ra màn đêm mịt mùng, lòng quặn thắt. Ông không kịp book thương gia, cũng chẳng buồn gọi điện nhờ trợ lý sắp xếp. Trong đầu chỉ có một câu: mẹ ốm nặng.",
+            1
+          ],
+          [
+            "Lan đón ông ở sân bay Nội Bài lúc một giờ sáng. Mặt cô tái nhợt, mắt thâm quầng vì mấy đêm thức trắng. Cô đã thức từ tối qua, lo cho mẹ chồng. \"Bác sĩ nói sao?\" Hùng hỏi gấp, tay xách túi, bước nhanh ra bãi đỗ xe.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hùng bay về Hà Nội đêm đó, bỏ lại cuộc họp hội",
+      "file": "Chương 262 - Bà Hà và sách hồi ký gia đình.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 262 - Bà Hà và sách hồi ký gia đình.txt",
+      "num": 262
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3000,
+        "chars": 13858,
+        "dialogue": 64,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 13.78,
+        "char_density": 3.25,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 1985,
+        "top_rep": [
+          [
+            "\"Dạ.\"",
+            2
+          ],
+          [
+            "Hùng mở ngăn kéo bàn, lấy ra một hộp gỗ cũ kỹ — chiếc hộp do chính tay ông đóng từ thời còn dạy học, gỗ mít, đục bằng tay, nắp hộp mòn vẹt vì mở ra đóng vào hàng nghìn lần. Bên trong là những kỷ vật suốt 25 năm qua: tấm giấy phép kinh doanh đầu tiên năm 1985, tờ hóa đơn bán hàng đầu tiên ghi: \"3 cái radio — tổng tiền 45.000đ — đã thu đủ,\" một cuốn sổ tay cũ nát, bìa rách, những trang giấy đã ố vàng vì thời gian và mồ hôi, một chiếc đồng hồ Seiko đã hỏng từ lâu — quà cưới của Tanaka, một tấm ảnh đen trắng chụp gia đình năm 1985, và một tập thư từ cột bằng dây thun.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hùng mở ngăn kéo bàn, lấy ra một hộp gỗ cũ kỹ",
+      "file": "Chương 263 - Flashback 25 năm.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 263 - Flashback 25 năm.txt",
+      "num": 263
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3432,
+        "chars": 16194,
+        "dialogue": 91,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 12.16,
+        "char_density": 2.66,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Chương 264: Tái khẳng định sứ mệnh",
+            1
+          ],
+          [
+            "2008. Hà Nội.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 264: Tái khẳng định sứ mệnh 2008. Hà Nội. Buổi",
+      "file": "Chương 264 - Tái khẳng định sứ mệnh.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 264 - Tái khẳng định sứ mệnh.txt",
+      "num": 264
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3020,
+        "chars": 14318,
+        "dialogue": 56,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 9.71,
+        "char_density": 3.0,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 2011,
+        "top_rep": [
+          [
+            "Cuộc họp ban lãnh đạo Thương Gia sáng nay căng thẳng chưa từng có. Trên bàn họp gỗ lim đánh bóng là bản báo cáo tình báo thị trường dày 30 trang, in màu, bìa cứng, với dòng tiêu đề đỏ chói: \"Samsung Electronics chính thức thâm nhập thị trường Đông Nam Á — phân khúc giá tầm trung.\" Tin này gây xôn xao khắp giới điện tử Việt Nam. Samsung không phải đối thủ bình thường — họ là tập đoàn toàn cầu với doanh thu gấp trăm lần Thương Gia, R&D hàng tỷ USD mỗi năm, thương hiệu nằm trong top 20 toàn cầu.",
+            1
+          ],
+          [
+            "Giám đốc chiến lược Dũng — 35 tuổi, từng du học Mỹ — đứng lên trình bày. Anh ta nhấn remote, những slide hiện ra trên màn hình lớn: biểu đồ thị phần, so sánh sản phẩm, dự báo doanh thu. \"Samsung đầu tư 200 triệu USD vào nhà máy sản xuất thiết bị điện tử tại Thái Lan. Họ nhắm thẳng vào phân khúc của chúng ta: thiết bị điện tử gia dụng tầm trung — tivi, tủ lạnh, máy giặt. Công nghệ của họ tiên tiến hơn hai thế hệ. Marketing mạnh gấp mười lần. Kênh phân phối đã có sẵn qua hệ thống đại lý Samsung toàn cầu. Chúng ta đang đối mặt với thách thức chưa từng có.\"",
+            1
+          ]
+        ]
+      },
+      "opening": "Cuộc họp ban lãnh đạo Thương Gia sáng nay căng thẳng chưa",
+      "file": "Chương 265 - Đối thủ mới từ Hàn Quốc.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 265 - Đối thủ mới từ Hàn Quốc.txt",
+      "num": 265
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3187,
+        "chars": 14939,
+        "dialogue": 76,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.58,
+        "char_density": 2.01,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 2011,
+        "top_rep": [
+          [
+            "Chương 266: Cạnh tranh lành mạnh",
+            1
+          ],
+          [
+            "Báo chí đưa tin ồn ào: \"Một đối thủ của Thương Gia phá sản — có sự can thiệp của truyền thông?\" Bài báo không nêu tên cụ thể, nhưng ám chỉ Thương Gia đã dùng thủ đoạn để hạ bệ đối thủ. Dòng tít phụ còn gay gắt hơn: \"Doanh nghiệp lớn chèn ép doanh nghiệp nhỏ — thực trạng đáng báo động.\" Trong vòng 24 giờ, bài báo lan truyền trên khắp các diễn đàn, mạng xã hội với hơn 50.000 lượt chia sẻ.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 266: Cạnh tranh lành mạnh Báo chí đưa tin ồn",
+      "file": "Chương 266 - Cạnh tranh lành mạnh.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 266 - Cạnh tranh lành mạnh.txt",
+      "num": 266
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3015,
+        "chars": 14506,
+        "dialogue": 69,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 10.13,
+        "char_density": 6.89,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2011,
+        "prose_year": 1995,
+        "top_rep": [
+          [
+            "Chương 267: Liên minh chiến lược Đông Á",
+            1
+          ],
+          [
+            "Đại sứ Nhật Bản tại Việt Nam, ngài Sugiyama, mời Hùng tham dự một bữa tối riêng tại tư dinh — một biệt thự Pháp cổ trên phố Trần Hưng Đạo, xây từ thời thuộc địa, với những bức tường vàng ố, mái ngói đỏ, và khu vườn rộng rợp bóng cây cổ thụ. Cùng tham dự có đại diện các tập đoàn lớn của Nhật Bản và Hàn Quốc: Mitsubishi, Samsung, Hyundai, Mitsui, Sumitomo. Không gian trang trọng, đèn chùm pha lê, bàn ăn dài với khăn trắng tinh, bát đĩa sứ Nhật Bản tinh xảo.",
+            1
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 267: Liên minh chiến lược Đông Á Đại sứ Nhật",
+      "file": "Chương 267 - Liên minh chiến lược Đông Á.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 267 - Liên minh chiến lược Đông Á.txt",
+      "num": 267
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3740,
+        "chars": 17178,
+        "dialogue": 45,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 11.06,
+        "char_density": 3.2,
+        "cliche": 0,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 2009,
+        "top_rep": [
+          [
+            "Đầu năm 2009. Hùng ngồi trong căn phòng nhỏ trên phố Cổ — căn phòng đầu tiên của Thương Gia, nơi ông từng ngồi viết hóa đơn tay dưới ánh đèn dầu lúc hai giờ sáng, nơi những kế hoạch đầu tiên được vạch ra trên giấy kẻ ô ly khi đồng vốn còn chưa đầy một triệu đồng và bà Hà còn phải đi vay thêm ba trăm đồng ở hàng xóm để mua nguyên liệu. Căn phòng chưa đầy hai mươi mét vuông, trần thấp đến nỗi một người cao mét bảy đã có thể chạm tay vào xà nhà bằng gỗ mít đã ngả màu nâu sẫm theo năm tháng. Cửa sổ nhỏ, chỉ rộng độ hai gang tay người lớn, nhìn ra con ngõ nhỏ lát gạch nghiêng, nơi những đứa trẻ trong phố thường chơi đá cầu và những bà cụ ngồi bán nước vối mỗi buổi chiều.",
+            1
+          ],
+          [
+            "Bây giờ, căn phòng được giữ nguyên như một bảo tàng — một chứng nhân lịch sử cho hành trình hai mươi lăm năm của Thương Gia. Chiếc bàn gỗ cũ kỹ đã tróc sơn từng mảng lớn, lộ ra thớ gỗ màu nâu sẫm đã bắt đầu mục ở một vài chỗ. Góc bàn phía tay phải bị lõm xuống thành một vết lõm nhẹ nhưng sâu — dấu ấn của khuỷu tay phải sau bao nhiêu năm tháng làm việc miệt mài. Chiếc máy chữ cơ hiệu Moskva màu xám đã rỉ một số ốc vít nhỏ, thiếu mất hai chữ cái C và D trên bàn phím, nhưng vẫn còn nguyên trên bàn như một tác phẩm điêu khắc của thời gian và ký ức. Bên cạnh là lọ mực tím hiệu Thủy Tinh đã khô từ lâu, đáy lọ còn một lớp mực đã kết tinh, và cây bút máy Kim Tinh với ngòi vàng đã mòn lệch về bên phải. Tủ sắt ba ngăn đã han gỉ màu nâu đỏ, cánh tủ không còn đóng khít nữa nhưng vẫn còn nguyên chiếc ổ khóa số cũ kỹ — mã số vẫn là ngày sinh của bà Hà.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đầu năm 2009. Hùng ngồi trong căn phòng nhỏ trên phố Cổ",
+      "file": "Chương 268 - Tổng kết toàn cầu hóa.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 268 - Tổng kết toàn cầu hóa.txt",
+      "num": 268
+    },
+    {
+      "final": 9.92,
+      "weighted_raw": 9.92,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.6,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 4029,
+        "chars": 18649,
+        "dialogue": 86,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 14.05,
+        "char_density": 3.7,
+        "cliche": 1,
+        "scene_breaks": 1,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Lan đến sau lưng, tay xoa vai anh. \"Anh làm việc nhiều quá.\" Hùng gác bút: \"Cũng sắp xong rồi.\" Lan xoa bóp vai anh, nhẹ nhàng, đều đặn.",
+            2
+          ],
+          [
+            "Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. \"Tối nay ăn gì thế?\" Hùng hỏi. Minh cười: \"Canh chua cá lóc, anh thích mà.\" Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.",
+            2
+          ]
+        ]
+      },
+      "opening": "============================================================ Chương 269: Phần thưởng Phần 4 Hệ thống hiện ra trước",
+      "file": "Chương 269 - Phần thưởng Phần 4.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 269 - Phần thưởng Phần 4.txt",
+      "num": 269
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3880,
+        "chars": 18262,
+        "dialogue": 86,
+        "maxrep": 2,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 14.62,
+        "char_density": 3.83,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2008,
+        "top_rep": [
+          [
+            "Năm: 2008",
+            2
+          ],
+          [
+            "Không gian kho: 25,000m² (+167m²)",
+            2
+          ]
+        ]
+      },
+      "opening": "2008. Hà Nội. Ngày 31 tháng 12 năm 2008. Năm cuối cùng",
+      "file": "Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Niên Đại Thương Gia\\Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt",
+      "num": 270
+    }
+  ]
+}

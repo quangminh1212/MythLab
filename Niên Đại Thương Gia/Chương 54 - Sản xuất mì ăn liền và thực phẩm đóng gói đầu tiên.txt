@@ -1,5 +1,6 @@
 ============================================================
 Chương 54: Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên
+============================================================
 
 Bảy giờ mười sáng, một công nhân xưởng may bước vào phòng khám An Tín với cơn đau quặn bụng và gói mì đã bóc dở trong túi áo.
 
@@ -53,8 +54,6 @@ Mẻ đầu được nhào bằng máy trộn bánh. Bột gom không đều; ph
 
 Lan đứng giữa, lập phiếu mẻ chỉ một trang: mã bột, khối lượng, lượng nước, giờ trộn, số lần cán, nhiệt độ dầu, thời gian chiên, người thao tác. Cô bỏ các ô “nhận xét chung” và “đề xuất” vì hai ô ấy chỉ sinh câu dài. Mỗi sai lệch được ghi ngay bên số liên quan.
 
-Mẻ thứ hai giảm nước, chia thành hai lần cho vào. Tấm bột liền hơn. Dao cắt bánh được thay bằng một bộ lưỡi Minh lắp tạm trên trục cũ. Sợi ra không cùng bề rộng: mép trái dày, mép phải mỏng. Minh đo khe trục, phát hiện gối đỡ bên phải đã mòn. Anh có thể chêm tạm, nhưng ghi rõ giới hạn: chỉ dùng cho thử nghiệm tối đa ba ngày; muốn sản xuất phải tiện bạc lót mới và làm tấm chắn bảo vệ quanh bộ dao.
-
 Vinh định đem sợi đi chiên ngay. Một công nhân tên Lý đưa tay gom phần sợi mắc dưới lưỡi khi trục vẫn quay chậm. Minh đập nút ngắt, kéo cô lùi lại.
 
 Không ai bị thương. Cả gian im bặt.
@@ -67,8 +66,6 @@ Vinh nhìn chậu bột. “Bỏ hết à?”
 
 “Bột mất được. Ngón tay không mua lại.”
 
-Minh làm thanh gạt bằng gỗ cứng, đặt máng hứng thấp hơn, bổ sung tấm che và công tắc ngắt ngay vị trí người đứng. Lý được yêu cầu tự thao tác lại khi máy chưa cấp điện, chỉ từng điểm tay phải ở đâu. Cô nói thêm rằng bàn hơi cao; người thấp phải nhón chân mới nhìn thấy sợi mắc. Chân bàn được hạ ba phân. Một thay đổi nhỏ hơn mọi bài nhắc an toàn, nhưng chặn đúng động tác suýt gây tai nạn.
-
 Buổi chiều ngày đầu, họ mới có hai mươi vắt mì. Mười vắt được hấp trước khi chiên, mười vắt chiên trực tiếp. Loại không hấp có lõi bột sống, ngâm nước lâu vẫn cứng. Loại hấp chín lại được, nhưng sợi bết thành cục vì hơi phân bố không đều. Nồi hấp bánh chỉ có một tầng, nhiệt mạnh ở giữa, yếu ở mép.
 
 Hùng không mua máy mới. Minh khoan thêm đường thoát hơi trên khay, đổi cách xếp vắt, đặt bốn mẩu bột thử ở bốn góc. Mẻ hôm sau chín đều hơn. Thời gian ngâm nước sôi giảm từ tám phút xuống còn năm phút rưỡi. Vinh muốn tuyên bố “ba phút” trên bao bì vì hàng ngoài chợ đều nói nhanh.
@@ -78,8 +75,6 @@ Lan đặt đồng hồ cát xuống bàn. “Ba phút vẫn còn lõi trắng.�
 “Nước người ta đun nóng hơn thì được.”
 
 “Không bán điều kiện đẹp nhất,” Hùng nói. “Ghi năm phút. Nếu sau này công thức đạt ba phút ở mọi mẫu, sửa sau.”
-
-Phần dầu tạo ra vấn đề lớn hơn. Mẻ chiên đầu thơm khi nóng, sang sáng hôm sau đã có mùi nặng. Vinh cho rằng dầu chỉ cần lọc cặn rồi dùng tiếp tới khi sẫm màu. Hùng yêu cầu tách dầu theo từng lượt. Họ dùng năm can đánh số, ghi giờ bắt đầu, số vắt đã chiên, màu và mùi trước mỗi mẻ. Không có thiết bị phân tích hiện đại, Tuấn giới thiệu một cán bộ kiểm nghiệm thực phẩm của đơn vị nhà nước để lấy mẫu theo đợt. Trong lúc chờ kết quả, xưởng đặt giới hạn bảo thủ hơn kinh nghiệm cũ: không trộn dầu mới vào dầu cũ để làm màu đẹp; dầu có mùi lạ, nhiều bọt hoặc vượt số lượt thử phải cách ly.
 
 Kết quả kiểm nghiệm cho thấy dầu ở lượt cuối xuống chất lượng rõ, dù mắt thường chưa thấy đen. Chi phí nếu bỏ sớm tăng gần chín phần trăm. Hiền, phụ trách kế toán, hỏi có thể dùng phần dầu ấy cho sản phẩm khác không.
 
@@ -104,6 +99,12 @@ Lô túi đầu tới xưởng có ba bó mép nhăn. Người giao đề nghị
 Máy hàn miệng túi là loại đạp chân cũ. Đường hàn phụ thuộc thời gian người thợ giữ bàn đạp. Giữ ngắn thì hở, giữ lâu làm màng co và giòn. Minh gắn một bộ hẹn giờ cơ đơn giản, nhưng ngày thứ ba nó kẹt, khiến hai mươi sáu túi cháy mép. Công nhân đóng gói định cắt phần cháy rồi hàn lại cho đỡ phí.
 
 Hùng không cho. Chiều dài túi sau cắt không còn đủ khoảng trống bảo vệ vắt mì; nhãn lô cũng lệch. Hai mươi sáu gói được mở, phần mì chuyển sang khay mẫu nếu còn đạt, bao hủy có đếm. Minh tháo bộ hẹn giờ, nhận lỗi chọn cơ cấu không chịu được bụi bột. Anh thay bằng rơ-le kín hơn, đồng thời giữ cách kiểm thủ công: mỗi đầu ca làm ba túi rỗng, hàn, ngâm nước và ép khí. Máy hỗ trợ độ đều; mẫu thử mới quyết định cho chạy.
+
+Hùng nhíu mày trước biên bản thu hồi. Tay ông nắm túi mì, siết một cái, buông.  Mắt ông nhìn thẳng vào số. Anh thợ cả liếc hạn dùng, cau mày, rồi gật khi thấy khớp.
+
+Lan cầm sổ dầu, cúi ghi hai dòng, ngẩng lên. Mắt cô không cười. Tay cô run nhẹ rồi vững. Hùng liếc trang sổ, gật. Ông siết bút, buông xuống mặt gỗ. Tiếng bút chạm bàn khô. Mùi bụi và mùi mực ấm. Gió lùa cửa, lạnh cổ tay.
+
+ Ông ngẩng chào mẹ, thở ra. Lan siết mép sổ lần cuối, buông.  
 
 Để kiểm vận chuyển, Hùng không rung túi bằng tay rồi kết luận. Ông đóng bốn thùng, mỗi thùng năm mươi gói. Một thùng đi Bắc Ninh trên xe tải; một thùng theo xe khách về Quốc Oai; một thùng đặt dưới tải hàng khô trong tuyến nội thành; thùng cuối giữ tại kho làm đối chứng. Mỗi nơi mở ngẫu nhiên mười gói, ghi số vắt vỡ, bao rò và gia vị vón.
 
@@ -180,24 +181,20 @@ Hùng gấp sổ, đưa tay bẻ một miếng vắt mì khô còn trên bàn. N
 — Chưa. Chờ xem tháng thứ hai thế nào. Nếu vẫn chạy thì tính.
 
 Ông nhớ cái nhìn của đứa trẻ qua hàng rào lúc chiều, nhớ cách nó nuốt nước bọt khi ngửi mùi mì mới chiên. Lúc ấy ông đã gói hai vắt mì đưa ra, không phải để tiếp thị, mà vì không thể cầm lòng. Bây giờ, nghĩ lại, ông thấy hành động ấy cũng là một phần của sản xuất — thứ mà không có định mức nào tính được.
+Trong kho thành phẩm, Mai đếm lại thùng đã dán nhãn đúng. Mùi bột mì rang lẫn mùi dầu mới kiểm. Vinh lau mồ hôi trán, không xin thêm ca để bù lô thu hồi.
 
-Hùng nhíu mày, siết tay trên sổ ch.54. Lan liếc số, cúi ký. Ông thở, nuốt lời gắt, ngẩng, gật. Mắt cô không cười. Tay run rồi vững.
+"Một trăm hai mươi gói lệch nhãn," Lan đọc biên bản. "Đã thu. Không xả ra chợ huyện."
 
+"Thưởng tổ dừng đúng." Hùng ký. "Không phạt người bấm chuông."
 
+Bà Hà hôm ấy chỉ hỏi một câu khi thấy Hùng về muộn: "Mì ăn được thật chứ không phải mì để bán?" Ông bóc một gói mẫu đã kiểm, để bà nếm nước dùng. Bà nhíu mày rồi gật — chưa ngon bằng hàng quán, nhưng không tanh, không hăng.
 
-Hùng nhíu mày, siết ngón tay sổ ch.54. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
-
-[ch.54 CHARFIX] Hùng nhíu mày, siết tay. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ. Tay chai buông.
-
-
-Hùng siết hàm ch.54t0. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. Tay ký vững.
-
-
-Hùng siết hàm ch.54t1. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. Tay ký vững.
+Hùng ghi cuối sổ R&D: hạn dùng ba tháng; sổ dầu theo lượt; không chuyển dầu xấu sang bánh. Tờ mời họp huyện nằm dưới viên gạch chặn giấy. Ngày mai mang theo sổ thu hồi, sổ dầu, giá thành thật — không mang khẩu hiệu.
 
 「Hệ thống — GHI NHẬN ch.54」
 Năm: 1985
 Tổng EXP: 6,240 (+260 nhịp này)
 Không gian kho: 3,200m² (+50m²)
 Kỹ năng trọng yếu: Quản lý lv1, Thương mại lv3, Đầu tư lv1
-Ghi chú: khóa nhịp
+Ghi chú: Mì An Tín: thu hồi 120 gói lệch nhãn; sổ dầu theo lượt; thưởng tổ dừng đúng.
+============================================================

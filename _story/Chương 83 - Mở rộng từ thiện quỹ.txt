@@ -1,5 +1,6 @@
 ============================================================
-Chương 83: Mở rộngtừ thiện quỹ
+Chương 83: Mở rộng từ thiện quỹ
+============================================================
 
 Giữa năm 1986, quỹ từ thiện của Hùng đã chạy được ba quý. Số tiền bỏ ra không nhỏ — gần mười ba nghìn EXP theo sổ hệ thống — nhưng ông chưa hài lòng. Tiền bỏ ra là một chuyện; tiền tới đúng người, đúng việc là chuyện khác. Cái Hùng muốn không phải mở rộng số chi, mà mở rộng cách thức: từ cho theo cảm tính sang cho có hệ thống.
 
@@ -182,27 +183,23 @@ Hùng mở cuốn sổ tay bìa đen, ghi thêm một dòng vào danh sách vi�
 
 Mọi chuyện đang đi đúng hướng. Quỹ từ thiện mở rộng không phải bằng cách chi thêm, mà bằng cách tạo ra một hệ thống đáng tin cậy — để mỗi đồng thiện nguyện tới đúng nơi, đúng người, đúng lúc — và để những người thực sự cần không bao giờ bị bỏ lại trong danh sách quên lãng.
 
----
+Tối, Hùng trải bốn sổ quỹ trên bàn. Lan cầm bút đỏ, gạch những đơn thiếu xác nhận xã.
 
-"Hệ thống — GHI NHẬN ch.83」
+"Anh không ký một mình," cô nói. "Em cũng không. Ông Phúc cũng không. Ba chữ mới chi."
+
+Bà Hà bê ấm nước, ngồi xuống ghế thấp. Mắt bà nhìn mái tôn mới trong ảnh Hòa Mỹ.
+
+"Làm quỹ như làm cửa hàng," bà nói. "Sổ lệch là mất lòng tin trước khi mất tiền."
+
+Hùng cười, siết nhẹ bút. Ông thở, nuốt chát vị chè đặc.
+
+Mai còn hai đơn chưa thẩm định. Nếu thôn xác nhận giả, có dừng đúng hạn không?
+
+============================================================
+「Hệ thống — GHI NHẬN ch.83」
 Năm: 1986
 Tổng EXP: 13,000 (+250 nhịp này)
 Không gian kho: 4,657m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1, Từ thiện lv1
-Quỹ từ thiện thành lập. Hùng chọn người đứng quỹ — cô giáo về hưu.
-"Em không biết làm từ thiện kiểu công ty." — "Thì làm kiểu nhà. Thấy ai khó thì giúp. Ghi sổ rõ ràng."
-
-Cho đi không làm túi tiền vơi — nó làm cho vòng đời của đồng tiền dài hơn.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.83. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
-
-「Hệ thống — GHI NHẬN ch.83」
-Năm: 1986
-Tổng EXP: 0
-Không gian kho: 0
-Kỹ năng trọng yếu: (xem ledger)
-Ghi chú: khóa nhịp
+Ghi chú: Siết quỹ: đơn+xác nhận+thẩm định+hậu kiểm; 60/20/20; Hòa Mỹ ông Mão lợp mái 72 giờ; tách xét/nhận 5% OPEX.
+============================================================

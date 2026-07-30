@@ -1,5 +1,6 @@
 ============================================================
 Chương 79: Hoàn thành nhiệm vụ phòng khám
+============================================================
 
 Bảy giờ sáng, Hùng đứng ở cửa phòng khám An Tín cùng bác sĩ Tuấn và Trần Thị Lan. Hôm nay là ngày nghiệm thu. Không phải nghiệm thu cho chủ nhà — nghiệm thu cho chính họ, vì nếu họ không tự kiểm được thì chẳng ai kiểm giúp.
 
@@ -151,23 +152,41 @@ Hùng chạy ra đầu phố, vẫy một chiếc xích lô. Ông trả tiền t
 
 Hùng quay vào, ký vào biên bản cuối ngày. Những giọt mồ hôi lấm tấm trên trán. Ông không lau.
 
-Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. Lan đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+***
 
-Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" bà Hà hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
+Biên bản khóa nhiệm vụ phòng khám chỉ có số: lượt, chờ trung vị, chuyển viện, sự cố suýt. Hùng ký, đưa Tuấn và Hòa cùng ký. Không có băng rôn.
 
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Lan nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Lan mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+— Ai muốn mở cơ sở hai, đem đủ người và quy trình sạch đã chạy ở đây trước. — Ông nói.
 
-Chiều tà, Hùng ngồi bậc thềm, nhìn mây bay. bà Hà đến ngồi bên cạnh dựa đầu vào vai Hùng. "Hôm nay em thấy anh cười nhiều hơn." Hùng gật: "Vì có em." Hoàng hôn đỏ rực, gió chiều mát, chim bay về tổ.
+Lan gập hồ sơ. Ngoài phố mưa bụi. Hùng đứng hiên, tay nắm thành cửa rồi buông. Việc y tế không kết bằng lời cảm ơn — kết bằng sáng mai còn đúng ghế và đúng cửa.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+***
 
+Tuấn chỉ vào cột chờ trung vị tháng khóa: hai mươi mốt phút. Hùng gật, không vỗ tay. Ông nhìn Hòa:
 
+— Chỗ nào còn trên bốn mươi?
 
-Hùng nhíu mày, siết ngón tay sổ ch.79. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+— Buổi công nhân thứ Sáu. — Hòa đáp, cau. — Xưởng gửi dồn.
 
+— Tách lịch xưởng. Không kê ghế sân. — Hùng nói.
+
+Lan ghi. Vân siết cuốn sổ vào ngực, cười rất nhẹ rồi nghiêm. Hùng ngẩng nhìn trần nhà mới sơn, thở:
+
+— Khóa nhiệm vụ xong trên giấy. Sáng mai vẫn phải mở cửa đúng giờ.
+
+Hùng ký nét cuối, buông bút. Tuấn gật. Hòa liếc số, cau rồi nới:
+
+— Sáng mai vẫn đếm ghế trước khi đón người. Phía trước không có cơ sở hai cho đến khi cột chờ giữ được thế này.
+
+Lan siết hồ sơ vào ngực, thở, cười mỏi:
+
+— Em khóa tủ. Anh về ăn. Mẹ hỏi thì nói phòng khám ổn.
+
+============================================================
 「Hệ thống — GHI NHẬN ch.79」
 Năm: 1986
 Tổng EXP: 12,000 (+250 nhịp này)
 Không gian kho: 4,429m² (+58m²)
-Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Ghi chú: khóa nhịp
+Kỹ năng trọng yếu: Y tế lv1, Đầu tư lv2, Quản lý lv1, Chiến lược lv1
+Ghi chú: Khóa nhiệm vụ phòng khám: chỉ số chờ/chuyển viện, quy trình sạch bẩn ổn định
+============================================================

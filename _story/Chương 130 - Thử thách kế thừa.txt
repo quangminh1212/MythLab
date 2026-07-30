@@ -1,126 +1,354 @@
 ============================================================
 Chương 130: Thử thách kế thừa
+============================================================
 
-Cuối năm 1988, Đà Nẵng. Hùng gọi Lan vào căn phòng kho cũ — căn phòng nơi mọi quyết định quan trọng suốt bốn năm qua đều được đưa ra. Căn phòng này có mùi gỗ mục và dầu máy trộn lẫn, mùi của những năm tháng làm việc quần quật không ngừng nghỉ. Cái bàn gỗ đã theo Hùng từ năm 1984, mặt bàn lõm sâu chỗ khuỷu tay phải, có một vệt mực tím loang từ năm 1985 khi một cây bút bị vỡ giữa lúc đang cặm cụi tính toán. Góc bàn dán một mảnh băng dính cũ ghi số điện thoại của một đối tác, chữ đã mờ đến mức chỉ còn là những nét bút mơ hồ. Lan nhiều lần nói thay bàn mới đi — cũ quá, xấu quá, làm giấy tờ hay bị xước. Hùng không đồng ý. Bây giờ ngồi vào ghế của ông, tay đặt lên mặt bàn lõm, Lan hiểu: cái bàn cũ giúp ông nhớ mình bắt đầu từ đâu. Nếu một ngày ngồi vào bàn mới mà quên mất những vết mực, vết mòn, những con số cào lên mặt gỗ, ngày đó người ta đã quên gốc.
+Cuối năm 1988, Đà Nẵng. Hùng gọi Lan vào phòng kho cũ — nơi mọi quyết định quan trọng bốn năm qua được đưa ra. Mùi gỗ mục và dầu máy. Bàn gỗ theo ông từ 1984, mặt lõm chỗ khuỷu tay phải, vệt mực tím 1985 khi bút vỡ lúc tính toán. Góc dán băng ghi số đối tác, chữ mờ. Lan nhiều lần bảo thay bàn. Hùng không. Ngồi ghế ông, tay đặt mặt lõm, cô hiểu: bàn cũ giúp nhớ bắt đầu từ đâu.
 
-Trên mặt bàn gỗ, ba chùm chìa khóa được đặt thành hàng: chìa xưởng to nhất bằng sắt đen, chìa vận tải nhỏ hơn bằng đồng thau, chìa cửa hàng là chìa mới nhất còn sáng bóng. Bên cạnh, một xấp sổ công nợ dày gần trăm trang và một phong bì niêm kín. Ánh đèn dầu hắt lên mặt bàn, in bóng ba chùm chìa dài ngoằng trên mặt gỗ xước xát.
+Trên bàn ba chùm chìa: xưởng sắt đen, vận tải đồng thau, cửa hàng sáng bóng. Xấp sổ công nợ. Phong bì niêm. Đèn dầu hắt bóng chìa dài trên gỗ xước.
 
-Hùng nhìn Lan, nói giọng không cao không thấp, không gợn một cảm xúc nào: "Ba ngày. Em giữ việc thay anh. Không hỏi anh trừ khi có người bị thương, tiền lương bị đụng vào, hoặc hợp đồng vượt quyền." Ông không đưa thêm chỉ thị nào, không giải thích bất kỳ điều khoản nào trong phong bì. Ông chỉ ngồi xuống ghế, mở sổ tay, bắt đầu viết, như thể ba ngày tới là chuyện nhỏ.
+Hùng nhìn Lan, giọng không cao không thấp:
 
-Lan không hỏi "tại sao." Cô đã làm việc cho Hùng từ năm mười bảy tuổi — bốn năm và ba tháng, đủ lâu để biết rằng khi anh trai nói thế thì hỏi cũng vô ích. Cô nhặt chùm chìa nặng nhất — chìa xưởng — luồng vào thắt lưng da cũ. Chìa sắt đè xuống hông, nặng và lạnh. Hai chùm còn lại cô cất vào túi áo khoác, cài khuy cẩn thận. Ngoài cửa sổ, một chiếc xe tải Thương Gia đang lùi vào bãi, tiếng còi lùi bíp từng hồi đều đặn trong màn đêm.
+— Ba ngày. Em giữ việc thay anh. Không hỏi anh trừ khi có người bị thương, lương bị đụng, hoặc hợp đồng vượt quyền.
 
-Cô bước ra khỏi phòng, đứng lại một giây nơi ngưỡng cửa. Căn phòng quen thuộc bỗng trở nên xa lạ. Cô chưa bao giờ ngồi vào ghế đó. Cô chưa bao giờ phải quyết định bất cứ điều gì mà không có Hùng ở bên. Bây giờ là lần đầu tiên.
+Ông không giải thích phong bì. Ngồi mở sổ tay viết như ba ngày là chuyện nhỏ.
 
-Ngày đầu tiên bắt đầu bằng một tờ giấy đề xuất đặt trên bàn từ sáng sớm. Đại lý Hải, người Quảng Nam, mua hàng từ cuối năm 1986, chưa từng trả chậm quá hạn. Lần này ông ta muốn lấy một lô hàng rất lớn — gấp ba đơn thường — và xin trả chậm bốn mươi lăm ngày. Lý do: Tết sắp đến, kho vùng đang trống.
+Lan không hỏi tại sao. Làm việc từ mười bảy tuổi — bốn năm ba tháng đủ biết hỏi vô ích. Nhặt chùm chìa xưởng luồn thắt lưng. Sắt đè hông, nặng lạnh. Hai chùm còn lại túi áo, cài khuy. Ngoài cửa xe tải Thương Gia lùi bãi, còi lùi bíp trong đêm.
 
-Đám quản lý vây quanh bàn Lan. Anh Sơn vận tải nói: "Ký đi cô. Hải là mối quen, trước giờ có bao giờ quỵt đâu." Chú Nhân thủ kho tiếp lời: "Đơn lớn thế này, bỏ qua uổng lắm. Ai cũng có lúc cần giúp." Chị Hà kế toán nói nhỏ: "Ông Hùng trước giờ vẫn xuất cho người quen trả chậm. Cô mới vô mà cứng quá mất khách."
+Cô bước ra, đứng ngưỡng cửa một giây. Phòng quen bỗng xa. Chưa ngồi ghế đó. Chưa quyết mà không có Hùng. Lần đầu.
 
-Lan cầm tờ giấy, đọc lại hai lần. Cô ngồi im, nhìn ra ngoài cửa sổ, nơi mấy đứa trẻ thả diều trên cánh đồng. Cô nhớ tuần trước, cô tự tay kiểm kho và thấy ba kiện hàng đã ghi tên sẵn — Quảng Ngãi, Bình Định, Phú Yên — mỗi kiện có tờ giấy đặt cọc.
+***
 
-Cô không ký. Cô đứng dậy, đi thẳng xuống kho.
+Ngày một: tờ đề xuất từ sáng. Đại lý Hải, Quảng Nam, mua từ cuối 1986, chưa trả chậm quá hạn. Lần này lô gấp ba đơn thường, xin trả chậm bốn mươi lăm ngày. Lý do: Tết, kho vùng trống.
 
-Trong kho tối, lách qua những chồng bao vải bạt, Lan tìm thấy ba kiện hàng ở góc khuất. Cô quỳ xuống, đọc từng tờ giấy nhỏ. Một người ở Quảng Ngãi mở cửa hàng tạp hóa nhỏ, ký tháng tám, đặt sáu triệu tiền cọc. Một người ở Bình Định bán lẻ, đặt mười hai triệu. Một người ở Phú Yên — trẻ nhất, cỡ tuổi Lan — ký tháng mười, đặt cọc mười lăm triệu, gần hết tiền mượn từ họ hàng.
+Quản lý vây bàn. Sơn vận tải:
 
-Cô gấp tờ giấy, đứng dậy. Cô trở lên phòng họp, nhìn thẳng vào mấy quản lý: "Giao nửa lô cho anh Hải. Một nửa giữ cho ba điểm đã đặt cọc."
+— Ký đi cô. Hải quen, chưa quỵt.
 
-Hải đứng phắt dậy. Mặt ông ta đỏ bừng: "Cô biết tôi lấy hàng của Thương Gia từ năm nào không? Hùng còn chưa bao giờ làm thế với tôi."
+Nhân thủ kho:
 
-Lan đứng yên: "Nếu anh tôi muốn phá lời đã hứa với ba nơi khác, ông ấy sẽ tự nói. Tôi không thay ông ấy làm việc đó."
+— Đơn lớn bỏ uổng. Ai cũng lúc cần giúp.
 
-Hải hất ghế, bỏ ra ngoài. Cửa phòng đóng sầm.
+Hà kế toán nhỏ:
 
-Ngày thứ hai, hai giờ chiều. Điện thoại từ đèo Hải Vân. Sơn vận tải báo: chiếc xe tải 31K-4567 chở phụ tùng cho lô Malaysia vừa hỏng hộp số giữa đèo. Hàng nằm trên thùng, nếu không về xưởng kịp, ngày mai lô hàng sẽ trễ tàu. Sơn xin mượn quỹ lương hai ngày sửa xe.
+— Ông Hùng vẫn xuất người quen trả chậm. Cô mới vào cứng mất khách.
 
-Lan ngồi xuống nền xi măng cạnh cửa kho, gọi. Cuộc gọi đầu: thợ máy Tám ở chân đèo — "Hộp số C2, bánh răng trượt rãnh, phải đặt từ Huế, không sửa trong ngày." Cuộc gọi thứ hai: tài xế — hàng nguyên vẹn. Cuộc gọi thứ ba: kế toán chị Hà — quỹ lương còn, nhưng rút ra thì ba mươi lăm công nhân thiếu tiền ăn Tết.
+Lan cầm giấy đọc hai lần. Nhìn cửa sổ — trẻ thả diều đồng. Nhớ tuần trước tự kiểm kho: ba kiện ghi sẵn Quảng Ngãi, Bình Định, Phú Yên — mỗi kiện giấy đặt cọc.
 
-Lan không mượn quỹ lương. Cô lật danh bạ, tìm số ông Tư — chủ xe tải cũ, năm 1987 từng là đối thủ. Hai bên suýt đánh nhau. Gần hai năm không liên lạc.
+Cô không ký. Xuống kho.
 
-"Chú Tư, con Lan." Im lặng. "Xe con hỏng ở đèo Hải Vân. Chú có xe không?" Ông Tư cười: "Con gái Hùng dám gọi cho đối thủ cũ?" "Hùng để con giữ việc ba ngày. Chú bao giá." "Bốn trăm rưỡi." "Con nhận."
+Trong kho tối, lách bao bạt, tìm ba kiện góc khuất. Quỳ đọc từng giấy. Quảng Ngãi tạp hóa nhỏ, ký tháng tám, cọc sáu triệu. Bình Định bán lẻ, mười hai triệu. Phú Yên — trẻ cỡ Lan — ký tháng mười, cọc mười lăm triệu, gần hết tiền mượn họ hàng.
 
-Chiều hôm đó, xe ông Tư có mặt tại đèo, chuyển hàng vào xưởng lúc sáu giờ kém mười lăm. Khoản chênh lệch Lan ghi rõ vào sổ: mực đỏ, chữ ký. Hùng đứng góc kho nhìn, không nói gì.
+Gấp giấy, lên phòng họp, nhìn thẳng:
 
-Chiều ngày thứ hai, bà Hà mang cơm tới kho. Bát sứ trắng, canh chua trong ca nhôm, cá kho tộ. Bà đặt lên thùng gỗ: "Con có dám để người ta giận không?" "Dạ sợ lắm." "Sợ mà vẫn chọn điều đúng mới giữ được người."
+— Nửa lô cho anh Hải. Một nửa giữ ba điểm đã đặt cọc.
 
-Đêm thứ hai, Lan ở lại kho đến mười một giờ. Mưa lâm thâm. Lan bật đèn dầu, mở từng phiếu giao nhận. Đến phiếu thứ hai mươi ba, cô dừng lại. Một phiếu ghi ba bao vải, đã xuất, có chữ ký — nhưng sổ tồn vẫn ghi còn trong kho. Cô lấy bút đỏ: "CHƯA GẠCH SỔ — Lan kiểm 23h ngày 2/12/1988."
+Hải đứng phắt, mặt đỏ:
 
-Sáng hôm sau, ông Nhân thấy tờ phiếu, mặt tái. Ông lục kho, tìm thấy ba bao vải đẩy vào góc khuất. "Con gái mà làm thế này, Hùng để được lâu rồi."
+— Cô biết tôi lấy hàng Thương Gia từ năm nào không? Hùng chưa bao giờ làm thế với tôi.
 
-Ngày thứ ba. Hùng đưa phong bì cuối. Bên trong là dự thảo hợp đồng với điều khoản: "Hoa hồng cho người đàm phán: ba phần trăm giá trị hợp đồng." Lan đọc, rút bút gạch ngang: "Cái này là bẫy. Thưởng lớn hơn lương cả đội. Nếu em nhận, tháng sau cả xưởng hỏi tại sao người ngồi bàn được nhiều hơn người đứng máy."
+Lan đứng yên, tay siết mép bàn, mắt không liếc:
 
-Hùng mở ngăn bàn, lấy bản gốc — không có điều khoản thưởng. "Bẫy thật. Anh gài để xem em đứng về phía nào."
+— Nếu anh tôi muốn phá lời ba nơi khác, ông ấy tự nói. Tôi không thay ông ấy làm việc đó.
 
-"Em biết."
+Hải hất ghế, ra. Cửa sầm.
 
-Buổi họp tổng kết. Lan tự nhận: "Em quá cứng với ông Hải." Hùng nhận: "Anh phải dọn đường trước." Một giờ sau, ba điểm bán gọi về báo hàng đã nhận. Người Phú Yên: "Cả làng em đang đợi. May có cô giữ lời."
+***
 
-Hùng lấy chùm chìa từ tay Lan, cầm một giây rồi đặt lại: "Cái này là trách nhiệm có tên."
+Ngày hai, hai giờ chiều. Điện thoại đèo Hải Vân. Sơn báo: xe 31K-4567 chở phụ tùng lô Malaysia hỏng hộp số giữa đèo. Hàng trên thùng; không về kịp mai trễ tàu. Xin mượn quỹ lương hai ngày sửa.
 
-Tối đó, Lan về nhà trọ. Cô mở cuốn sổ năm 1982. Trang đầu: "15/3/1982 — học ghi sổ." Trang cuối: "Ba ngày thử thách." Cô hiểu: thử thách kế thừa không phải ký được hợp đồng lớn. Là tối về có dám mở sổ hỏi mình: hôm nay ta đã để ai chịu thay điều ta đáng ra phải làm?
+Lan ngồi nền xi măng cạnh cửa kho, gọi. Thợ máy Tám chân đèo: hộp số C2, bánh răng trượt, đặt từ Huế, không sửa trong ngày. Tài xế: hàng nguyên. Kế toán Hà: quỹ lương còn — rút thì ba mươi lăm công nhân thiếu tiền ăn Tết.
 
-Sáng hôm sau, Lan trả Hùng sổ. Trang bìa ghi thêm: "Từ hôm nay em mới biết một tờ giấy nặng thế nào." Chiều hôm ấy, chùm chìa nằm trên bàn Lan, cạnh tờ giấy chữ Hùng: "Kho từ hôm nay. Người từ ngày mai."
+Không mượn quỹ lương. Lật danh bạ ông Tư — chủ xe tải cũ, 1987 từng đối thủ, suýt đánh nhau, gần hai năm không liên lạc.
 
-Ngoài hiên, bà Hà đặt tay lên tay Hùng: "Chịu khó chưa?" "Chịu được." Bà gật, quay vào bếp.
+— Chú Tư, con Lan. Xe con hỏng Hải Vân. Chú có xe không?
 
-Trước khi ngủ, Hùng viết sổ: "1988 — chìa khóa có chủ."
+Im. Rồi cười:
 
-Cuối ngày thứ hai, Lan nhận tin: hết bao bì xuất khẩu. Nhãn in đã dùng hết, xưởng in bên ngoài báo ba ngày nữa mới có. Lan đứng trước cửa kho, nhìn những kiện hàng đã đóng gói nhưng thiếu nhãn chồng lên nhau.
+— Con gái Hùng dám gọi đối thủ cũ?
 
-Cô gọi ba xưởng in trong vùng. Xưởng thứ nhất — quen — đã nhận đơn người khác. Xưởng thứ hai — giá gấp đôi. Xưởng thứ ba — tận Hải Dương. Lan chọn phương án bốn: nhờ bà Hà may nhãn vải tay. Vải thừa trong kho, mực in tự pha. Một buổi tối, bà Hà và hai người phụ nữ may hai trăm nhãn bằng tay, đường kim đều tăm tắp. Lan thức cùng họ đến mười một giờ.
+— Hùng để con giữ việc ba ngày. Chú bao giá.
 
-Sáng hôm sau, hàng dán nhãn kịp giờ xuất. Hùng đứng nhìn. Lan kể: "Tốn công hơn in, nhưng không mất đơn." Hùng hỏi: "Nếu tuần sau lại hết?" Lan đáp ngay: "Tính trước. Đặt in hai lần một tháng. Lỡ thừa còn dùng sau." Hùng gật — câu trả lời ông muốn nghe. Không chỉ biết chữa cháy, mà biết chặn trước khi lửa kịp bén.
+— Bốn trăm rưỡi.
 
-Hùng ngồi với người thợ cả già — ông Tám, bảy mươi tuổi, đã gắn bó với Thương Gia từ những ngày đầu. Ông Tám là thợ mộc, chuyên làm khuôn mẫu cho nhà máy. Những ngày đầu, máy móc thiếu thốn, ông Tám là người đã đục đẽo bằng tay từng bộ khuôn gỗ để Hùng đúc những chi tiết nhựa đầu tiên. "Sếp nhớ không," ông Tám nói, "cái khuôn đầu tiên làm ba ngày mới xong, mà vẫn không chuẩn." Hùng cười: "Nhớ. Hôm đó tôi với bác uống rượu đến khuya, nói là nếu không được thì bỏ nghề." Ông Tám cười, những nếp nhăn trên mặt hằn sâu: "Nhưng mà không bỏ. Vì lúc đó chỉ có mỗi nghề này." Hai người đàn ông ngồi với nhau, mỗi người một kỷ niệm.
+— Con nhận.
 
-Bây giờ Thương Gia có cả một đội ngũ kỹ thuật với máy móc hiện đại. Nhưng Hùng vẫn giữ chiếc khuôn gỗ đầu tiên trong phòng làm việc, như một biểu tượng của sự khởi đầu. Và mỗi lần có ai đó hỏi về Thương Gia, Hùng thường chỉ vào chiếc khuôn gỗ cũ kỹ đó và nói: "Bắt đầu từ đây. Từ một khúc gỗ và hai bàn tay." Chiếc khuôn đó, với những vết đục không đều, những đường vân gỗ đã ngả màu thời gian, là minh chứng cho một hành trình — từ bàn tay đến máy móc, từ thủ công đến công nghiệp. Và Hùng, mỗi khi nhìn nó, lại nhớ về ông Tám, nhớ về những ngày đầu gian khó nhưng đầy nhiệt huyết.
+Chiều xe ông Tư tại đèo, hàng vào xưởng sáu giờ kém mười lăm. Chênh lệch Lan ghi sổ mực đỏ, chữ ký. Hùng đứng góc kho nhìn, không nói. Mắt ông nhíu một cái rồi bình.
 
-Hùng ghé thăm một người bạn cũ đang mở tiệm sửa xe đạp. Người bạn đó tên Hiệp, bốn mươi lăm tuổi, thợ sửa xe giỏi nhất phố. Hùng ngồi xem Hiệp làm việc — tỉ mỉ, chậm rãi, chính xác. Mỗi con ốc được vặn đúng lực, mỗi dây phanh được chỉnh đúng độ căng. Hùng hỏi: 'Mày làm nghề này được bao lâu rồi?' Hiệp lau tay: 'Ba mươi năm.' Hùng gật: 'Tao thấy mày hạnh phúc.' Hiệp cười: 'Ừ. Nghề của tao là sửa xe. Mỗi ngày tao làm cho một cái xe chạy tốt hơn. Vậy là đủ.' Hùng ngồi thêm một lúc. Trong thế giới của những hợp đồng triệu đô, cái tiệm sửa xe nhỏ bé này nhắc ông nhớ rằng hạnh phúc không phải là có thật nhiều, mà là hài lòng với những gì mình đang làm. Một bài học giản dị từ một người thợ sửa xe.
+***
 
-Khi Thuong Gia mo rong, Hung can mot nguoi quan ly tin cay. O nho đen mot nguoi ban cu: Hiep, đang chay tien sua xe. Hung đen tham Hiep: 'May ve lam voi tao đi. Tao can may.' Hiep ngac nhien: 'Tao chi biet sua xe.' 'Theo may, tao co biet gi? Cung hoc. Ve day, tao se day. Quan trong la may that tha va cham chi.' Hiep ve Thuong Gia lam. Va tro thanh mot trong nhung nguoi quan ly gioi nhat.
+Chiều ngày hai bà Hà mang cơm kho. Bát sứ, canh chua ca nhôm, cá kho tộ. Đặt thùng gỗ:
 
-Mot lan, Hung đoc thay mot bai bao noi ve khai niem 'nguoi hanh phuc'. Ba bao đinh nghia: 'Nguoi hanh phuc la nguoi biet đu, biet cho, va biet yeu thuong.' O thay minh hoan toan nhu the. O đu vi co gia đinh, cho di vi co cong viec, va yeu thuong boi nhung nguoi xung quanh. Co le, đo moi la thanh cong that su.
+— Con có dám để người ta giận không?
 
-Khi nhin lai, Hung thay cuoc đoi ong giong nhu mot cuon sach vai chuong. Chuong đau la nhung kho khan, chuong tiep la nhung no luc, va chuong cuoi cung la thu hoach. O đa viet xong cuon sach cua đoi minh bang nhung net chu chan that va game gui nhat. Va cuon sach đo, ong tin, se con đuoc nhieu the he doc va yeu thương.
+— Dạ sợ lắm.
 
-O cam oi đoi. Cam oi nhung nguoi ban. Cam oi gia đinh. Va cam oi Thuong Gia - nguoi con thu hai cua ong.
+— Sợ mà vẫn chọn đúng mới giữ được người.
 
-Mot mua xuan nua lai ve. Hùng nhin nhung choi non tren canh cay truoc san. Cay cối cung biet dap, biet thay đoi theo thoi gian. Nhung co mot đieu khong doi niem tin, tinh yeu va uoc mo. Va Hom cung the. O chang thay đoi. O van con nguyen la Hung cua nam xua. Van con nhung uoc mo, nhung khong con bat chap. Chien khon ngoan.
+Bà xoa tóc Lan một cái, buông, vào việc không hỏi thêm số liệu.
 
-Bay gio, cuoc song đa khac. Hung la mot nguoi gia, co gia đinh, co tai san. Nhung ong van nho ngay đau tien đuoc lam chu. Cam giac hoi hop, vua so vua mung. Ngay hom nay, khi nhin lai, ong thay minh đa trai qua mot cuoc đoi đep. Đep khong phai vi giau, ma đep vi ong song co y nghia. Va đo la đieu đang quy nhat.
+Đêm hai Lan ở kho đến mười một. Mưa lâm thâm. Đèn dầu. Từng phiếu giao nhận. Phiếu hai mươi ba: ba bao vải đã xuất có chữ ký — sổ tồn vẫn còn kho. Bút đỏ: «CHƯA GẠCH SỔ — Lan kiểm 23h 2/12/1988.»
 
-Mot hom, Hung va ban di cau ca. Ho cau đuoc mot con ca chep to. Hung cuoi, tha ca đi: 'Bay ve nhe.' Ban hoi: 'Sao may lai tha?' Hung: 'Vi no cung co quyen đuoc song.' Bai hoc: su song, nho hay lon, đeu dang quy. Va con nguoi co the hoc đuoc long nhan tu nhung đieu nho nhoi. Tu hom đo, Thuong Gia co them mot quy tac: kinh trong moi su song. Do la quy tac ma Hung đat ra va moi nguoi đeu lam theo.
+Sáng ông Nhân thấy phiếu, mặt tái. Lục kho — ba bao góc khuất.
 
-Hung nho mai mot ky niem: lan đau tien ong di may bay. May bay cat canh, ong cam thay hoi hop. 'The gioi rong lon qua.' O tu nho minh that nho be. Nhung cung tu do, ong cang quyet tam mo rong. Tu mot chuyen may bay đau tien, ong đa bay đen nhieu nuoc, ky nhieu hop đong, mang Thuong Gia vuon ra the gioi. O nho cam giac binh yen khi ngoi tren may bay, nhin xuong may bay, long tran đay hy vong. 'Bay gio, toi van nho cam giac đo. No cho toi biet: toi đa đi đuoc bao xa.' O cam on cuoc song vi cho ong nhung co hoi đo.
+— Con gái mà làm thế, Hùng để được lâu rồi.
 
-Mot lan, Hung tham gia khoa hoc quan ly. O hoc đuoc nhieu đieu. Kien thuc la suc manh. O tiep tuc hoc. Bay gio nhin lai, o cam thay minh co gang het minh.
+***
 
-Mot chieu cuoi tuan, Hung rong Minh đi cau ca. Hai bo con ngoi ven ho, can cau cam tay, lang nghe tieng chim. Minh hoi: 'Bo oi, sao bo lai chon nghe kinh doanh?' Hung cuoi: 'Khong phai bo chon. No chon bo. Luc đo đat nuoc mo cua, co nhieu co hoi. Bo nam bat.' O ke ve nhung ngay đau, ve quyet đinh đau tien, ve nhung lan thua lo. Minh nghe, nhu dang đoc mot cuon sach. 'Bo la nguoi hung cua con.' Hung xoa đau con, cam đong. O khong muon minh la anh hung. O chi muon la mot nguoi cha tot.
+Ngày ba. Hùng đưa phong bì cuối. Dự thảo hợp đồng điều khoản: «Hoa hồng người đàm phán ba phần trăm giá trị.» Lan đọc, rút bút gạch:
 
-Mot lan, Hung cung ba Ha đi an toi tai nha hang. Nha hang nho, am cung. Hai nguoi goi mon an nhe. Ba Ha cuoi: 'Anh nho ngay minh moi quen nhau khong? Cung tai nha hang nho.' Hung cuoi: 'Nho. Ngay đo, anh chang co tien. Nhung em van chon anh.' O cam on vo vi su lua chon đo. Va bay gio, ngoi ben nhau, hai nguoi hanh phuc.
+— Bẫy. Thưởng lớn hơn lương cả đội. Em nhận, tháng sau xưởng hỏi sao người bàn nhiều hơn người máy.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Hùng mở ngăn, bản gốc — không điều khoản thưởng.
+
+— Bẫy thật. Anh gài xem em đứng về phía nào.
+
+— Em biết.
+
+***
+
+Họp tổng kết. Lan tự nhận:
+
+— Em cứng với ông Hải.
+
+Hùng:
+
+— Anh phải dọn đường trước. Không dọn, em gãy.
+
+Một giờ sau ba điểm bán gọi: hàng nhận. Người Phú Yên:
+
+— Cả làng đợi. May cô giữ lời.
+
+Hùng lấy chùm chìa từ tay Lan, cầm một giây đặt lại:
+
+— Cái này trách nhiệm có tên.
+
+***
+
+Tối Lan về nhà trọ. Mở sổ 1982. Trang đầu: «15/3/1982 — học ghi sổ.» Trang cuối: «Ba ngày thử thách.» Hiểu: kế thừa không phải ký hợp đồng lớn. Là tối về dám mở sổ hỏi: hôm nay để ai chịu thay điều mình đáng làm?
+
+Sáng trả Hùng sổ. Bìa ghi thêm: «Từ hôm nay em mới biết một tờ giấy nặng thế nào.» Chiều chùm chìa nằm bàn Lan cạnh giấy Hùng: «Kho từ hôm nay. Người từ ngày mai.»
+
+Ngoài hiên bà Hà đặt tay lên tay Hùng:
+
+— Chịu khó chưa?
+
+— Chịu được.
+
+Bà gật, vào bếp. Không khen dài.
+
+***
+
+Cuối ngày hai — xen vào dòng thời gian đã xảy ra, Lan còn nhận tin hết bao bì xuất khẩu. Nhãn in hết; xưởng in ba ngày nữa. Kiện đóng thiếu nhãn chồng đống.
+
+Gọi ba xưởng: quen đã nhận đơn khác; hai giá gấp đôi; ba tận Hải Dương. Phương án bốn: nhờ bà Hà may nhãn vải tay. Vải thừa kho, mực tự pha. Một buổi tối bà Hà và hai phụ nữ may hai trăm nhãn, đường kim đều. Lan thức cùng đến mười một, mắt đỏ, tay run vì kim.
+
+Sáng hàng dán nhãn kịp xuất. Hùng đứng nhìn. Lan:
+
+— Tốn công hơn in, không mất đơn.
+
+— Tuần sau lại hết?
+
+— Tính trước. Đặt in hai lần/tháng. Thừa dùng sau.
+
+Hùng gật — câu muốn nghe. Chữa cháy và chặn lửa.
+
+***
+
+Hùng ngồi với thợ cả Tám, bảy mươi, gắn bó từ ngày đầu, làm khuôn gỗ khi máy thiếu. Ông Tám cười, nếp nhăn sâu:
+
+— Sếp nhớ khuôn đầu ba ngày vẫn không chuẩn?
+
+— Nhớ. Hôm đó uống rượu khuya, nói không được bỏ nghề.
+
+— Không bỏ. Lúc đó chỉ có nghề này.
+
+Hùng giữ khuôn gỗ đầu trong phòng — vết đục không đều, vân ngả màu. Mỗi lần ai hỏi Thương Gia, ông chỉ khuôn: bắt đầu từ khúc gỗ và hai bàn tay. Không phải để khóc quá khứ — để người mới thấy ghế hôm nay không rơi từ trời.
+
+***
+
+Sau ba ngày, Lan nhận lịch trực kho tuần. Không tiệc. Hùng chỉ đưa thêm một trang quy tắc: vượt quyền nào phải gọi; việc nào tự quyết rồi báo cuối ngày. Cô đọc, nhíu, hỏi:
+
+— Nếu Hải quay lại xin đủ lô?
+
+— Em giữ nguyên logic cọc. Muốn đủ lô — xếp hàng sau ba điểm hoặc tăng cọc đúng tỷ lệ. Đừng mềm vì ông ta lớn tiếng.
+
+Lan gật, siết trang quy tắc vào sổ. Tối bà Hà gọi cả hai ăn cháo. Mùi hành. Bà không hỏi «thắng thua». Bà hỏi:
+
+— Ngủ được không?
+
+— Được — Lan nói, cười mệt. — Sợ vẫn còn, nhưng sợ có tên.
+
+Hùng liếc em, thở:
+
+— Sợ có tên thì giữ được chìa. Sợ không tên thì chỉ giữ được miệng.
+
+Ngoài trời Đà Nẵng cuối năm se lạnh. Trong kho đèn tắt dần. Chùm chìa trên bàn Lan lóe một ánh đồng thau rồi chìm vào bóng. Thử thách kế thừa khép lại không bằng chức danh mới — bằng nửa lô giữ lời, một cuộc gọi đối thủ cũ, một dòng đỏ chưa gạch sổ, và một bẫy hoa hồng bị gạch trước khi biến thành tiền. Phía trước còn người sẽ thử Lan lần nữa — và lần này cô đã có chỗ để trả lời mà không cần nhìn sang ghế anh trai trước mỗi chữ ký.
+
+============================================================
 
 
-Hùng chốt mục 1 ch.130 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+***
+
+Ngày làm việc đầu sau thử thách, Hải gọi lại — giọng bớt lớn. Xin thêm một phần lô nếu ba điểm cọc nhận xong sớm. Lan không vội vui. Cô mở sổ cọc, mắt dõi cột ngày:
+
+— Khi ba điểm ký nhận đủ, anh được xếp tiếp theo số tồn thật. Không xếp trên lời hứa miệng.
+
+Hải im, rồi cười gượng:
+
+— Cô cứng như anh trai.
+
+— Cứng với sổ. Với người giữ đúng cọc thì không cứng vô cớ.
+
+Gác máy. Sơn vận tải đứng cửa, tay nắm mũ:
+
+— Cô giữ được ông ấy là em phục. Em sợ nhất hôm hất ghế.
+
+Lan thở, cười mệt:
+
+— Em cũng sợ. Sợ mà vẫn phải chọn.
+
+***
+
+Hùng giao Lan thêm quyền ký xuất trong hạn mức đã in sẵn. Ngoài hạn mức — hai chữ ký. Cô đọc bảng, nhíu chỗ «hàng mẫu không thu tiền»:
+
+— Ai duyệt mẫu?
+
+— Em duyệt dưới định mức phế liệu tuần. Trên — hỏi anh. Đừng lấy mẫu làm cách xuất lách.
+
+Lan gật, siết bảng vào bìa. Chiều bà Hà ghé kho đưa bánh tét:
+
+— Ăn. Đừng chỉ ăn sợ.
+
+Hai chị em (Hùng gọi Lan là em; bà coi cả hai là con) ngồi thùng gỗ. Mùi lá dong. Hùng cắn bánh, nói nhẹ:
+
+— Ba ngày chỉ là cửa. Sau cửa còn cả năm. Em không phải chứng minh với anh mỗi giờ. Chứng minh với sổ và với người đã đặt cọc.
+
+Lan liếc anh, mắt ẩm rồi cười:
+
+— Em hiểu. Em sẽ không gọi anh vì mỗi cái ghế hất. Chỉ gọi khi lương và máu.
+
+— Đúng danh sách.
+
+Ngoài kho tiếng xe lùi. Trong sổ chùm chìa có tên. Kế thừa không kết thúc bằng buổi họp — nó bắt đầu bằng cuộc gọi sáng thứ Hai mà không ai phải chạy tìm chủ cũ trước khi trả lời khách.
 
 
-Hùng chốt mục 2 ch.130 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+***
+
+Giữa tuần, lô Malaysia kịp tàu nhờ xe ông Tư. Sơn mang biên lai đặt trước mặt Lan, mắt chờ khen. Lan đọc số, gật:
+
+— Khớp. Cảm ơn anh. Cảm ơn cả chú Tư — em sẽ gọi cảm ơn riêng.
+
+Cô gọi. Ông Tư cười khàn:
+
+— Lần sau hỏng nhớ gọi sớm hơn. Giá cao hơn một chút cũng được — đừng để hàng nằm đèo.
+
+— Con nhớ.
+
+Hùng nghe cuối cuộc gọi, không nhận công đã «dạy». Ông chỉ để một tờ giấy trên bàn Lan: danh sách nhà xe dự phòng ba miền, có số, có giá tham chiếu, có người từng va chạm. Cô cầm tờ giấy, tay run nhẹ vì xúc động rồi siết lại:
+
+— Anh chuẩn bị từ trước?
+
+— Anh chuẩn bị vì anh cũng từng không có ai gọi. Em có thì dùng, đừng tự ái.
+
+Lan nuốt, cười:
+
+— Em dùng.
+
+***
+
+Chiều kiểm kho cùng Nhân. Ba bao vải góc khuất đã gạch sổ đúng. Nhân cúi:
+
+— Ông già này chủ quan. Cô dạy được.
+
+— Không phải dạy ông — Lan nói, mắt nhìn thẳng. — Là giữ hàng người ta đã đặt cọc. Ông và em cùng giữ.
+
+Nhân gật, mặt đỏ. Ngoài kho nắng chiều. Hùng đứng xa, liếc một cái rồi đi — để em gái kết thúc việc không cần anh đứng đè. Tối sổ tay ông viết: «1988 — chìa có chủ. Chủ biết sợ và biết gọi đúng số.» Gập sổ. Đủ cho một năm phía trước bắt đầu bằng trách nhiệm có tên, không bằng ghế mới sơn.
 
 
-Hùng chốt mục 3 ch.130 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+***
+
+Cuối tháng, Hải nhận đủ phần còn lại sau khi ba điểm cọc ký nhận. Ông ta đến kho, không hất ghế. Đưa bao thuốc, Hùng không nhận; Lan cũng không. Hải cười gượng:
+
+— Tôi nóng tính. Cô đúng về cọc. Hàng Phú Yên bán chạy — tôi vừa nghe.
+
+Lan gật, mắt nhìn sổ xuất:
+
+— Anh lấy hàng đúng hạn lần này. Lần sau muốn tăng — báo sớm mười ngày, không báo trước Tết hai hôm.
+
+Hải gật, nắm biên nhận, ra. Sơn thở phào, liếc Lan:
+
+— Em tưởng mất khách.
+
+— Mất khách xấu còn hơn mất ba điểm đã đặt cọc — Lan đáp, buông bút. — Em ngủ được.
+
+***
+
+Hùng cho Lan chủ trì họp giao ban sáng thứ Hai — ông ngồi cuối phòng im. Cô điều mười lăm phút: tồn kho, xe, công nợ, việc trễ. Khi Sơn nói vòng vo, cô giơ tay:
+
+— Số. Giờ. Tên. Không chuyện.
+
+Sơn nuốt, nói lại bằng số. Cuối họp Hùng chỉ thêm một câu:
+
+— Ai không đồng ý quyết của Lan trong hạn mức, nói ngay trong phòng. Ra ngoài nói là phá.
+
+Im. Rồi gật. Bà Hà hôm sau nghe kể, cười:
+
+— Nói được trong phòng thì nhà này còn. Nói sau lưng thì hỏng từ trong.
+
+Lan ngồi bếp ăn cháo, mắt mệt nhưng sáng, tay ấm bát:
+
+— Em sợ nhất mình đúng mà thành kênh. Anh kéo em lại nếu em kênh nhé.
+
+Hùng gật:
+
+— Kéo. Em cũng kéo anh nếu anh phá lời cọc vì quen biết.
+
+Hai chị em (anh em) siết lời hứa không bắt tay phô trương — chỉ bằng bát cháo và mắt nhìn nhau. Đủ cho chìa khóa tiếp tục nằm đúng bàn.
 
 
-Hùng chốt mục 4 ch.130 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+Sang tháng, Lan phát hiện một phiếu xuất cửa hàng bị ký nhầm tên thủ kho. Cô không la. Cô gọi người ký và người lẽ ra phải ký ngồi đối mặt, đặt hai tờ giấy xuống bàn, mắt nhìn cả hai. Các anh cúi. Cô yêu cầu viết lại quy trình ký trong một trang, treo cạnh cửa kho. Hùng biết chuyện sau hai giờ, gật khi đọc trang quy trình — không viết thêm chữ của mình lên. Ông muốn chữ của Lan đủ nặng. Tối đó bà Hà nghe Lan kể, gắp thêm rau vào bát con gái (bà vẫn gọi Lan là con): «Giận vừa phải. Giữ người. Nhưng đừng xóa lỗi bằng im lặng.» Lan thở, gật, mắt đỏ vì cả ngày đứng kho. Hùng rửa bát giúp, tay ngâm nước lạnh, cười: «Ba ngày thử chỉ là cửa. Cả năm mới là đường.» Lan liếc anh, buông lời: «Em sẽ không gọi anh vì mỗi phiếu. Em gọi khi máu và lương — như đã hứa.» Ngoài trời có tiếng pháo sớm ai đó đốt thử. Trong bếp mùi nước rửa và chanh. Chìa khóa vẫn trên bàn Lan. Không ai giật lại. Việc kế thừa tiếp tục bằng phiếu sửa và người chịu ký đúng tên — không bằng bài phát biểu cuối năm.
 
 
-Hùng chốt mục 5 ch.130 với Lan — hạn, tên, cách kiểm. Mùi mực. Tiếng cửa. Mắt gật. Tay ký.
+Cuối quý, Hùng viết đánh giá một trang về ba ngày thử và ba tháng sau: Lan giữ lời cọc, không đụng lương, gọi đúng người khi đường gãy, gạch đúng bẫy thưởng. Ông không ghi «sẵn sàng kế nhiệm toàn bộ» — ông ghi «đủ tư cách giữ chìa kho và người trong hạn mức đã giao». Lan đọc, nuốt, ký xác nhận đã đọc. Bà Hà đóng dấu ấn ngón tay vào góc trang như người chứng trong nhà. Mưa ngoài hiên. Trong nhà mùi giấy ẩm. Ba người không ôm. Họ chỉ biết chìa khóa đã có chủ và chủ ấy biết sợ đúng chỗ.
 
 
+Hải Vân tháng sau lại có sương mù. Sơn gọi báo xe chậm, không hỏng. Lan ghi giờ, điều xe dự phòng theo danh sách Hùng để lại, không cần hỏi. Khi hàng vào kho đúng hạn đóng container, cô chỉ gạch một dấu trên sổ và thở. Hùng đi ngang, liếc dấu, không hỏi thêm. Sự tin cậy mới bắt đầu từ những lần không cần hỏi. Bà Hà tối đó nghe hai con kể chuyện xe chậm, gật: «Gọi đúng người là được. Gọi ầm ĩ là hỏng.» Lan nắm tay bà một lúc, buông, đi rửa bát. Chìa xưởng đụng hông kêu lách cách — tiếng nhỏ, quen, như nhắc trách nhiệm vẫn còn đó khi trời đã tối.
 
-Hùng nhíu mày, siết ngón tay sổ ch.130. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
+Sáng mùng một tháng mới, Lan mở cửa kho trước cả thợ. Mùi gỗ và dầu. Cô đếm chìa một lần, ghi sổ «mở cửa — Lan», rồi mở đèn dãy giữa. Hùng đến sau, đứng nhìn em làm việc quen tay, không nhận lại chùm chìa. Ông chỉ hỏi: «Ngủ được không?» Lan ngẩng, cười: «Được. Sợ vẫn có — sợ có tên.» Ông gật, vào bàn cuối, để cô chủ trì năm phút giao ban. Ngoài sân nắng nhạt. Trong kho tiếng bao kéo. Thử thách kế thừa đã thành thói quen mở cửa — và thói quen ấy nặng hơn mọi lời bổ nhiệm.
+
+
+Trước khi tan ca, Lan kiểm lại ba chùm chìa một lần nữa — xưởng, vận tải, cửa hàng — mắt dõi từng răng chìa, tay siết rồi buông vào ngăn khóa. Ngoài cửa trời đã tối. Việc kế thừa không ồn. Nó chỉ cần đúng chìa, đúng người, đúng giờ mở sáng mai.
+
+***
+
+Ba ngày thử kết thúc bằng bát cháo sáng. Hùng không vỗ tay. Ông chỉ đưa lại chùm chìa — đủ ba — và nhìn Lan:
+
+"Em giữ. Anh không lấy lại trừ khi em xin."
+
+Lan siết chìa, mắt đỏ vì thức khuya chứ không vì khóc. "Em xin khi nào?"
+
+"Khi em biết mình kênh." Hùng gật. "Hoặc khi em giấu lỗi."
+
+Cô thở, cúi: "Em không giấu."
+
+Tuần sau, phiếu xuất nhầm tên thủ kho. Lan gọi cả hai người lên, không la. "Ai ký nhầm — sửa. Ai lẽ ra ký — học. Không đổ." Hải vận tải đứng ngoài cửa, nuốt lời định chế giễu.
+
+Hùng chỉ nhận báo cáo một trang. Ông viết góc: "Giữ lời cọc. Không đụng lương. Gọi đúng người. Gạch bẫy hoa hồng." Rồi đóng sổ.
+
+Đêm, bà Hà hỏi nhỏ: "Con trao chìa sớm không?" Hùng nắm tay mẹ: "Đúng lúc thì không sớm."
+
+Sáng mùng một tháng mới, Lan mở cửa kho trước thợ. Mùi gỗ và dầu. Cô đếm chìa, ghi "mở cửa — Lan", rồi mở đèn. Phía trước còn quý dài — và những phiếu sẽ thử em lần nữa.
+
+Ba chùm chìa nằm túi Lan. Hùng không lấy lại. Sáng mùng một cô mở cửa kho, ghi mở cửa — Lan, mùi gỗ dầu.
+
+Quý mới bắt đầu. Liệu phiếu xuất có thử em lần nữa?
+
+============================================================
 「Hệ thống — GHI NHẬN ch.130」
 Năm: 1988
 Tổng EXP: 19,500 (+83 nhịp này)
 Không gian kho: 6,200m² (+17m²)
-Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
-Ghi chú: Lan qua thử thách 3 ngày — chìa khóa chuyển giao
+Kỹ năng trọng yếu: Giáo dục lv1, Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
+Ghi chú: Lan 3 ngày chìa cọc lương hoa hồng giữ chìa
+============================================================

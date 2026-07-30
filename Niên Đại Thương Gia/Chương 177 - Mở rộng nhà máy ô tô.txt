@@ -1,5 +1,6 @@
 ============================================================
-Chương 177: Mở rộngnhà máy ô tô
+Chương 177: Mở rộng nhà máy ô tô
+============================================================
 
 Khu công nghiệp phía Nam Hà Nội, tháng ba năm 1993. Mùa khô, nắng gắt từ sáu giờ sáng, bụi đỏ bám vành xe tải, bám vào từng tàu lá keo hai bên đường dẫn vào nhà máy. Cổng chính đã thay — không còn là cánh cổng sắt hàn tay với tấm biển sơn trắng viết "Nhà máy Lắp ráp Thương Gia" bằng mực đen. Thay vào đó là một dải bê tông rộng năm mét, hai trụ cao, phía trên vòm thép gắn chữ nổi: "TỔ HỢP SẢN XUẤT Ô TÔ THƯƠNG GIA".
 
@@ -184,34 +185,19 @@ Hùng bật đèn, mở sổ, ghi lại cuối ngày:
 - Công nhân: 3.200 đang làm, 40 nghỉ (ốm/thai sản)
 - Tuần này: 30 xe xuất xưởng; tuần trước: 25
 
-Ông gấp sổ. Ngày mai sẽ có những vấn đề mới — một lô hàng trễ, một máy hỏng, một cuộc gọi khó xử. Nhưng hôm nay, nhà máy chạy, công nhân có việc, xe ra lò. Những thứ đó đủ để ông ngủ được.
+Đêm nay, ông để sổ mở trên bàn, gạch chân dòng “Tuần này: 30 xe.” Đèn ngủ chỉ vừa đủ để thấy vệt phấn trắng trên mép giấy. Tiếng gió lùa qua khe cửa mang theo mùi đất đỏ còn bám trên giày. Ngày mai ông sẽ dậy trước gà, ra xưởng khi nắng chưa gắt, uống cốc trà đặc rồi bắt đầu bằng cuộc họp giao ca.
 
-Đèn tắt. Tiếng quạt trần quay lộp bộp, tiếng xe tải chạy ngoài đường quốc lộ vọng vào xa xa. Ở khu công nghiệp, ca đêm vẫn đang chạy.
+Minh gõ cửa, đứng ngoài hiên, tay cầm bản fax từ Lan: “Mitsui yêu cầu bổ sung bản kiểm tra nhiệt độ sơn — em sẽ fax cho Yamada sáng mai.”
 
-Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+— Anh nhận rồi, — Hùng đáp. — Em về ngủ đi. Mai còn ra Nội Bài.
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+Minh gật, bước ra, bóng anh khuất sau cánh cửa gỗ cũ. Ông gấp sổ, tắt đèn. Tiếng quạt trần quay lộp bộp, tiếng xe tải chạy ngoài đường quốc lộ vọng vào xa xa. Ở khu công nghiệp, ca đêm vẫn đang chạy.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.177. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
-
-[ch.177 CHARFIX] Hùng nhíu mày, siết tay. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ. Tay chai buông.
-
-
-Hùng siết hàm ch.177t0. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. Tay ký vững.
-
-
-Hùng siết hàm ch.177t1. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. Tay ký vững.
-
-
-Hùng siết hàm ch.177t2. Lan liếc sổ. Ông gật, thở, nuốt. Mắt cô cúi. Tay ký vững.
-
+============================================================
 「Hệ thống — GHI NHẬN ch.177」
 Năm: 1993
-Tổng EXP: 30,640 (+320 nhịp này)
+Tổng EXP: 30,640 (+320)
 Không gian kho: 10,160m² (+80m²)
-Kỹ năng trọng yếu: Sản xuất lv3, Lãnh đạo lv2, Quản lý lv3
-Ghi chú: mở rộng nhà máy ô tô giai đoạn 2 — công suất 100 xe/tháng, 3.200 lao động
+Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: Mở rộng nhà máy ô tô — công suất tăng — ca đêm vận hành — đào tạo đội kế cận
+============================================================

@@ -168,7 +168,6 @@ _Mở trung tâm dạy nghề. Tốn gần hai trăm đồng chi phí ban đầu
 
 ============================================================
 
-
 Hùng ngồi ở bậc thềm xưởng của ông Năm, nhìn bốn mươi bảy học viên đang thực hành. Tiếng cưa, tiếng bào, tiếng máy may — một thứ âm thanh lộn xộn nhưng có nhịp. Ông không can thiệp. Ông để họ sai, để họ sửa, để họ tự biết tay mình làm được gì.
 
 Một học viên mang tới một cái ghế nhỏ, tự tay đóng. Mộng khít, mặt phẳng, không vết xước. Hùng cầm lên, lật qua lật lại, rồi đặt xuống:
@@ -187,13 +186,20 @@ Hùng lắc đầu. Ông lấy năm trăm đồng, đặt vào tay người kia:
 — Tốt. Mấy nghề đó không bao giờ lỗi thời.
 
 Người học viên cầm tiền, nhìn xuống cái ghế, rồi nhìn lên Hùng. Mắt nó đỏ, nhưng nó gật. Hùng đứng dậy, bước ra cửa. Tiếng cưa lại vang lên sau lưng ông, đều đều, dai dẳng, như một nhịp sống mới đang hình thành.
+
+***
+
+Trước khi lên đường về Hà Nội, Hùng ghé lại xưởng ông Năm một lần nữa. Tiếng cưa, tiếng máy may, tiếng ai đó cười vì đóng lệch mộng rồi sửa lại. Lan đưa tờ điểm danh tháng đầu — hai mươi tên, đủ nghề. Hùng liếc, cau nhẹ ở dòng vắng hai buổi:
+
+— Gọi lại. Vắng không báo là cắt suất thực hành, không cắt người vội.
+
+Ông Năm đứng bên, tay nắm bào, gật. Hùng bước ra ngõ, bụi mịn bám gót. Phía trước là lịch dạy phải giữ đều — không phải bài phát biểu về nghề.
+
+============================================================
 「Hệ thống — GHI NHẬN ch.68」
 Năm: 1985
 Tổng EXP: 9,507 (+214 nhịp này)
 Không gian kho: 3,873m² (+46m²)
-Kỹ năng trọng yếu: Đầu tư lv1, Chiến lược lv1, Đầu tư lv2
-Trung tâm đào tạo mở lớp đầu tiên: năm nữ công nhân, ba thợ may, một kế toán.
-Chị Sáu dạy cắt may, Minh dạy bảo trì, Hùng dạy sổ sách. Không giáo trình. Không ai hỏi mấy giờ tan.
-
-Đào tạo là món đầu tư không sợ lỗ — vì nó nhân bản chính mình.
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Quản lý lv1
+Ghi chú: Trung tâm nghề với thợ Năm Quảng Ngãi: mộc-may-sửa xe; sản phẩm đầu bán không tặng
 ============================================================

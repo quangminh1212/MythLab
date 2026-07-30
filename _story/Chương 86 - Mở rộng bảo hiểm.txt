@@ -1,5 +1,6 @@
 ============================================================
-Chương 86: Mở rộngbảo hiểm
+Chương 86: Mở rộng bảo hiểm
+============================================================
 
 Phòng họp nhà sau vẫn cái không khí quen thuộc: ba cái bàn gỗ ghép lại, mặt bàn lõm chỗ khuỷu tay, sổ sách chất cao một góc làm căn phòng càng thêm chật. Ngoài trời nắng gắt, nhưng trong phòng mát nhờ bức tường dày hướng Bắc — mát đến mức hơi lạnh phả ra từ nền gạch mỗi lần gió lùa qua khe cửa, lạnh buốt đầu ngón tay nếu đặt lâu trên mặt bàn. Trên bàn, tập công văn của Bộ Tài chính năm 1983 nằm cạnh bảng giá bảo hiểm hàng hóa. Mùi giấy ố vàng của ba năm trước quyện với mùi mực đánh máy và mùi cà phê đặc quánh trong chiếc phích nhỏ để góc bàn. Kế bên là tờ hướng dẫn nghiệp vụ mới ra lò từ Cục Quản lý Bảo hiểm, bản đánh máy còn thơm mực — mùi mực in mới hòa với mùi giấy than, mùi keo dán từ những tập hồ sơ mới đóng. Hùng ngồi xuống, chiếc ghế gỗ kêu cót két dưới sức nặng. Ông hít một hơi, cảm nhận mùi mực, mùi giấy, mùi của những con số — một thứ mùi không ai thấy nhưng với ông nó rõ đến lạ. Chín giờ sáng. Cuộc họp về bảo hiểm bắt đầu.
 
@@ -22,10 +23,6 @@ Lan ghi vào sổ tay. Cô học kế toán từ trường trung cấp Hải Ph�
 Ông rút một xấp giấy từ cặp — tờ giấy can mỏng có viết tay bảng hệ số rủi ro do chính ông tổng hợp từ những chuyến đi khảo sát cảng và hỏi các thuyền trưởng già. "Đây là bảng rủi ro sơ bộ. Tôi phỏng vấn bảy thuyền trưởng đường dài ở cảng Hải Phòng và hai người làm kho bãi hai mươi năm. Họ biết loại hàng gì hay hỏng, tuyến nào hay gặp chuyện. Cộng thêm một lần tham khảo Công ty Bảo hiểm Hà Nội qua một người quen ở Bộ Tài chính."
 
 "Chúng ta cần giấy phép?" Lan hỏi.
-
-"Chúng ta không đăng ký làm công ty bảo hiểm. Chúng ta làm đại lý bảo hiểm cho Bảo Việt — bán hợp đồng bảo hiểm và nhận chiết khấu hoa hồng từ 12 đến 18% tùy loại sản phẩm. Điều này nằm trong khuôn khổ pháp lý của Pháp lệnh Hợp đồng Kinh tế 1981 và các văn bản hướng dẫn kinh doanh bảo hiểm đã được Bộ Tài chính phê duyệt từ 1983. Họ cần đại lý ở địa phương, chúng ta có mạng lưới, tiền và uy tín."
-
-"Vậy mình hưởng hoa hồng bán hàng?"
 
 "Đúng. Nhưng mục tiêu không chỉ là bán bảo hiểm — mục tiêu là bảo vệ chuỗi cung ứng của chính chúng ta. Mỗi lô hàng xuất khẩu của mình có bảo hiểm đi kèm. Mỗi container hàng nhập về cho các xưởng gia công cũng có bảo hiểm. Đội vận tải, kho bãi — tất cả tài sản cố định đều được bảo hiểm. Nếu không, một tai nạn là mất hết. Tôi đã thấy điều đó xảy ra với ba doanh nghiệp tư nhân ở Hải Phòng trong hai năm qua — họ không mua bảo hiểm, một vụ cháy là sạch."
 
@@ -64,8 +61,6 @@ Lan ghi chép, gật dần. Cô hỏi: "Như vậy mình cần một quỹ dự 
 Hùng cười: "Đúng bài toán đó. Quỹ sẽ lấy từ lợi nhuận xuất khẩu, trích 15% mỗi tháng, tích lũy ba tháng là đủ."
 
 Lan viết thêm vào sổ. "Khách hàng đầu tiên là ai?"
-
-Hùng trả lời ngay, như đã chuẩn bị trước: "Năm nhóm. Một: chủ hàng tư nhân đang làm ăn với mình — họ đã quen, họ tin mình. Hai: các xưởng sản xuất nhỏ trong khu công nghiệp — họ có tài sản nhưng chưa ai chào bảo hiểm cho họ. Ba: đội tàu vận tải nhỏ chạy tuyến Hải Phòng — Quảng Ninh — Sài Gòn — tàu gỗ, tàu sắt nhỏ, một số tự đóng, giấy tờ thiếu, Bảo Việt từ chối bảo hiểm toàn bộ số này. Bốn: hộ kinh doanh cá thể có kho hàng trong phố. Năm: người mua bảo hiểm nhân thọ loại nhỏ — Bảo Việt có sản phẩm bảo hiểm nhân thọ ngắn hạn từ 1984, phí 50.000 đồng một năm cho mệnh giá hai triệu, nhưng tỷ lệ hoa hồng chỉ 8%. Mình sẽ làm cái đó sau, khi mạng lưới vững."
 
 "Nhóm ba — chủ tàu nhỏ," Lan ngưng bút. "Bảo Việt từ chối họ vì tàu không đạt tiêu chuẩn. Chúng ta làm sao?"
 
@@ -117,8 +112,6 @@ Hùng cầm bút, viết nhanh ra giấy:
 
 "Vậy chi phí vận hành?"
 
-"Hai nhân viên mới: lương mỗi người 400.000/tháng = 9,6 triệu/năm. Ông Chiểu: tạm ứng tháng đầu 800.000, sau đó chia hoa hồng 5% trên doanh số bảo hiểm do ông ấy giám định — không lương cứng. Văn phòng phẩm, in ấn, đi lại: 2-3 triệu/năm. Tổng chi phí vận hành: 12-13 triệu/năm. Đầu tư quỹ dự phòng ban đầu: 20 triệu. Tổng chi: 32-33 triệu. Như vậy sau một năm, mảng bảo hiểm có lãi dự kiến 12-18 triệu và một quỹ dự phòng đã tích lũy thêm."
-
 Lan gật. "Dễ giải trình với anh em."
 
 Hùng đứng dậy, vươn vai—xương sống kêu lục cục sau hơn hai giờ ngồi. Bả vai ông căng cứng, một cơn đau âm ỉ lan từ gáy xuống giữa hai xương bả vai. Ông nhìn ra ngoài trời, thấy mấy đám mây trắng trôi chậm trên nền xanh, thứ màu xanh trong veo của một ngày cuối thu. Cái mệt bắt đầu rõ—một sự nặng nề ở bả vai và sau gáy, như thể những con số và tính toán ban sáng giờ đã kết tủa thành khối trong cơ thể ông. Nhưng ông không dừng. Người làm ăn mà dừng khi mệt là dừng khi đối thủ vừa kịp thấy mình.
@@ -165,19 +158,23 @@ Chị nhìn Hùng, thấy mắt ông tối lại một thoáng — một cái t�
 
 Bên ngoài, nắng chiều đã tắt, bóng tối dần buông xuống phố. Tiếng dép lê trên nền gạch hoa ngoài hành lang, tiếng máy chữ lách cách từ phòng bên đã ngừng. Hùng ngồi lại một mình, lắng nghe sự im lặng của doanh nghiệp mình sau một ngày dài.
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Lan ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+Đêm, Hùng xoa vết sẹo cũ trên mu bàn tay — vết bỏng năm xưa không liên quan Bằng, nhưng đêm nay nó rát hơn.
 
-Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+Lan hỏi có báo công an không. Ông lắc, mắt cau lại.
 
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, Minh nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." Minh mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
+"Chưa đủ giấy. Đổi nguồn trước. Giữ lịch giao không thủng."
 
-Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Minh cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+Ông không kể tên. Lan biết ông giấu. Chị gật, cúi sổ, không đẩy thêm.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Ngoài phố mùi mưa bụi. Trong két, hợp đồng đại lý Bảo Việt còn mới. Lô gỗ Tuân đi Nhật cần bảo hiểm trước khi SĐT giả kịp lặp lại.
 
+Sáng mai — hai nguồn dự phòng có giao cọc đúng giờ không?
+
+============================================================
 「Hệ thống — GHI NHẬN ch.86」
-Năm: 1983
+Năm: 1986
 Tổng EXP: 13,750 (+250 nhịp này)
 Không gian kho: 4,829m² (+58m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
-Ghi chú: khóa nhịp
+Ghi chú: Đại lý Bảo Việt HH/TS/TB; gói tàu nhỏ cap 150%; Chiểu target hire; lô NL JP mất SĐT giả — Hùng đổi logistics một mình, giấu Bằng.
+============================================================

@@ -1,5 +1,6 @@
 ============================================================
-Chương 99: Mở rộngviễn thông
+Chương 99: Mở rộng viễn thông
+============================================================
 
 Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi giấy tờ cũ, mùi đồng, mùi mồ hôi và thuốc lá. Năm 1987.
 
@@ -243,11 +244,14 @@ Hùng ghi vào sổ ngày: "Tháng 9/1987 — mạng viễn thông khu vực Hà
 
 Cáp đồng. Tổng đài cũ. Nhưng kết nối — thật.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Hùng gấp sổ cáp. Tiếng mưa gõ mái tôn đều đều. Mỗi dòng thuê bao là một mét dây đã kéo.
+Tổng đài cũ còn kêu lạch cạch — sáng mai phải thay rơ-le pha hai trước khi mở thêm thuê bao.
+Kết nối đã thật. Lỗ hổng kỹ thuật vẫn còn phía trước.
 
 「Hệ thống — GHI NHẬN ch.99」
 Năm: 1987
 Tổng EXP: 16,318 (+182 nhịp này)
 Không gian kho: 5,455m² (+46m²)
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Ghi chú: khóa nhịp
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
+Ghi chú: Mở rộng viễn thông — cáp đồng + tổng đài — thuê bao thật
+============================================================

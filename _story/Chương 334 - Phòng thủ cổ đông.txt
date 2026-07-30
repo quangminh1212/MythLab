@@ -123,7 +123,6 @@ Hùng đứng dậy, đi đến bảng trắng. Ông vẽ một đường thẳn
 
 Lan nhìn Hùng. Chị hiểu cái giá của quyết định này. Phát hành thêm cổ phiếu trong thời điểm căng thẳng có thể bị thị trường hiểu là dấu hiệu yếu kém — giá cổ phiếu có thể giảm ngay sau công bố. Các ngân hàng có thể thắt chặt tín dụng. Các đối tác có thể lo lắng.
 
-
 Nhưng nếu không làm, họ sẽ bị động trong cuộc chơi do kẻ khác đặt ra.
 
 "Em sẽ làm việc với luật sư Cường để soạn thảo tờ trình."
@@ -219,6 +218,6 @@ Hùng nhận được tin nhắn khi đang uống cà phê sáng ở quán cóc 
 Năm: 2017
 Tổng EXP: 83,400 (+600 nhịp này)
 Không gian kho: 47,080m² (+520m²)
-Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
-Ghi chú: Mạng lưới tập đoàn bóng tối mở rộng — phát hiện 17,3% cổ phần. Hùng quyết định đòn pha loãng qua phát hành thêm 10% cổ phiếu cho cổ đông hiện hữu. First Capital Partners bắt đầu gặp cổ đông lớn.
+Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: pha loãng + phòng thủ; đối phương 17,3%; Swiss dead-end
 ============================================================

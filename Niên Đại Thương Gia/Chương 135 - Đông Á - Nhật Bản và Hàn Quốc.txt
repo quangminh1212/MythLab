@@ -1,7 +1,6 @@
 ============================================================
-Chương 135: Đông Á — Nhật Bản và Hàn Quốc
+Chương 135: Đông Á - Nhật Bản và Hàn Quốc
 ============================================================
-
 Cuối năm 1990. Hùng và Lan đáp chuyến bay từ Hà Nội đi Tokyo, quá cảnh Bangkok. Tuyết chưa rơi ở Tokyo, nhưng cái lạnh thấm qua cửa kính từ lúc còn trên không — lạnh khô và sắc, khác cái lạnh ẩm Hà Nội. Hùng mặc áo khoác mới — xám than, bà Hà mua vải đưa thợ may làng làm. Trong cặp: ba mẫu hàng đạt kiểm định PSB, hợp đồng song ngữ chưa ký, thư giới thiệu từ ông Tan. Trong thư: "Mr Tanaka is a serious man. Do not waste his time."
 
 "Nhật và Hàn không cho phép mình học chậm. Nhưng cũng không cho phép học vội," Hùng nói trước khi lên máy bay.
@@ -48,7 +47,6 @@ Sáng hôm sau, Lan gửi hai phong bì. Một Tokyo, một Seoul. Trên bàn c�
 
 Cửa đã hé. Còn lại chuyện của những lô hàng thử.
 
-Teaser: Lô thử Nhật và Hàn đã đi. Nhưng người khó tính nhất — ông Sato — vẫn chờ. Một cuộc gặp sẽ đặt Hùng trước câu hỏi lớn nhất: bán hàng hay học làm người?
 
 Buổi sáng, Hùng nhận được telex từ đối tác Singapore. Mẫu hàng mới vừa được kiểm định. Ông gọi Lan vào cùng xem. Cả hai đọc đi đọc lại bản tin. Dòng chữ in trên giấy than mờ nhòe ở chỗ gấp. Lan bảo: 'Cần kiểm lại mã số.' Hùng gật. Họ ngồi với nhau đến trưa, rà từng con số, từng quy trình sản xuất, từng tiêu chuẩn kỹ thuật. Một lô hàng xuất khẩu — nếu sai một chi tiết là cả chuyến hàng đổ xuống biển.
 
@@ -85,8 +83,8 @@ Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn 
 Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Minh đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Minh. “Cảm ơn em.” Minh quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
 
 「Hệ thống — GHI NHẬN ch.135」
-Năm: 1990
-Tổng EXP: 20,400 (+180 nhịp này)
+Năm: 1989
+Tổng EXP: 20,400 (+180)
 Không gian kho: 6,560m² (+72m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
 Ghi chú: Tokyo — Tanaka, sửa điều khoản phạt. Seoul — Park, phát hiện sai bản dịch bảo hiểm. Busan — trung chuyển hàng giá thấp.

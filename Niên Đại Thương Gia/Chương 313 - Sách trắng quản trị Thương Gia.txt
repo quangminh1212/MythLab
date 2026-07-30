@@ -1,5 +1,7 @@
 ============================================================
 Chương 313: Sách trắng quản trị Thương Gia
+============================================================
+
 =======================================================Ba tháng sau, cuốn Sách trắng đã in xong, bìa xám giản dị, phát cho từng trưởng bộ phận. Một buổi sáng, khủng hoảng thật ập đến: một lô hàng xuất sang Hàn Quốc bị trả về vì sai quy cách, thiệt hại gần hai tỷ đồng. Phòng họp căng như dây đàn. Người trẻ đổ cho khâu kiểm định; khâu kiểm định đổ cho nhà cung ứng; nhà cung ứng đổ cho bản vẽ.
 
 Hùng ngồi cuối phòng, không nói. Ông để mọi người cãi mười lăm phút. Rồi cậu quản lý trẻ Dũng — người từng muốn gõ Excel thay sổ tay — đứng dậy, tay cầm cuốn Sách trắng. "Xin lỗi mọi người," cậu nói, giọng run nhưng rõ. "Theo chương ba, mục kiểm soát chất lượng, người ký duyệt lô hàng chịu trách nhiệm cuối. Tôi ký. Là lỗi của tôi. Tôi không đọc kỹ phụ lục quy cách vì thấy khách quen, tin là giống lần trước."
@@ -72,44 +74,71 @@ Dũng không nói, nhưng lần này mắt cậu khác — không còn tia phả
 
 Tuân ngẩng lên, mắt đỏ. "Vâng. Cháu làm ngay." Buổi trưa, tờ quy trình viết tay đã dán ở cửa kho, chữ Tuân nắn nót hơn thường ngày. Hùng đứng nhìn nó một lúc, rồi rút sổ ghi: "Sách trắng có điều khoản đầu tiên được viết bằng lỗi thật của một người thật. Đó mới là sách sống."
 
+============================================================
 「Hệ thống — GHI NHẬN ch.313」
 Năm: 2012
 Tổng EXP: 75,900 (+300 nhịp này)
 Không gian kho: 39,333m² (+333m²)
 Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1
-Sách trắng quản trị Thương Gia. Hùng ngồi với luật sư, viết từng điều khoản.
-Bản sách trắng dày 50 trang, nhưng nguyên tắc cốt lõi chỉ một dòng: "Làm đúng, ghi rõ, chịu trách nhiệm."
+Ghi chú: Hoàn tất mốc chính chương 313; trách nhiệm được chuyển thành việc có người chịu và hạn kiểm rõ
 
-Sách trắng — kinh nghiệm của một đời viết ra để người sau bớt lạc đường.
+Sách trắng không thể chỉ nằm trên kệ. Hùng yêu cầu Lan chọn ba đơn vị áp dụng thử trong sáu tháng: một nhà máy lớn, một chi nhánh đang lỗ và một văn phòng nhỏ ở tỉnh. Nếu quy tắc chỉ chạy được ở nơi có đủ người giỏi, nó chưa phải quy tắc của Thương Gia.
 
----
+Lan chia nhóm kiểm tra. Cô không giao cho giám đốc lâu năm, mà chọn một kế toán trẻ, một quản đốc từng bị kỷ luật vì che lỗi và một nhân viên kho mới vào nghề. Người quản đốc phản đối ngay trong cuộc họp.
 
-Đêm đó, điện thoại reo lúc nửa đêm. Mai gọi từ nước ngoài — căn hộ nhỏ ngoại ô Berlin, nền sau tiếng tàu điện ngầm. Giọng khàn vì thiếu ngủ.
+— Tôi đã quản xưởng mười năm. Sách trắng này bắt tôi xin xác nhận cả những việc trước đây tự quyết trong một giờ.
 
-"Bố ơi, con vừa chốt vòng gọi vốn. Họ ép con nhượng thêm 15% cổ phần. Con không nhượng."
+— Vì mười năm qua không ai nhìn thấy phần sai — Lan đáp. — Quy trình không nhằm làm anh chậm. Nó nhằm để người sau biết vì sao anh đã quyết.
 
-Hùng ngồi dậy, bật đèn bàn. Ánh sáng vàng hắt lên trang sổ đang mở — đoạn viết dở về thừa nhận sai lầm. "Con nói với họ thế nào?"
+Ngày thử nghiệm thứ tám, hệ thống dừng ở bước phê duyệt nhà cung cấp. Một biểu mẫu yêu cầu hai chữ ký nhưng phần mềm cũ chỉ cho nhập một. Nhân viên kho gọi lên, chờ một câu chỉ đạo tắt.
 
-"Con bảo: nếu họ không tin con giữ quyền kiểm soát, thì họ không tin con." Mai thở dài. "Bọn VC bên này khác. Họ muốn slide đẹp, founder 'scalable' — sẵn sàng nhường ghế khi số liệu xấu. Họ cười khi con kể từng đứng kho Thương Gia đếm thùng bằng tay. Họ bảo: 'That is not how Europe works.' Con đáp: 'I know how Europe works. I also know how broken things get fixed — by people who stay.' Họ gọi lại sau hai giờ. Chấp nhận điều khoản của con."
+Hùng đang ở Hà Nội, nghe điện thoại qua loa. Ông không bảo bỏ qua. Ông hỏi ai chịu trách nhiệm nếu lô hàng sai, ai kiểm tra hàng mẫu, ai giữ bản giấy trong lúc phần mềm sửa.
 
-Mai im một nhịp. "Bố ơi, suốt buổi đàm phán con nhớ bố ngồi với luật sư viết Sách trắng. Con giống bố — không chịu thua. Nhưng con không muốn sống như bố."
+Lan trả lời từng câu, rồi yêu cầu lập phiếu ngoại lệ có thời hạn. Không ai được dùng lỗi kỹ thuật làm lý do quay về cách làm miệng.
 
-Hùng im. Ngoài cửa sổ Hà Nội đã tạnh mưa. "Con không muốn thế nào?"
+Ba ngày sau, bản sửa phần mềm chạy. Nhưng Lan giữ lại hai phiếu ngoại lệ trong phụ lục sách trắng. Cô ghi rõ: quy tắc đã thất bại ở đâu, ai phát hiện, mất bao lâu để sửa.
 
-"Con không muốn mỗi bữa cơm đều nghĩ đến hợp đồng. Con muốn thắng — rồi còn thời gian ôm con gái ngủ, còn biết nó thích màu gì, còn nghe nó kể chuyện trường mà không phải xin lịch. Bên này gọi work-life balance. Con gọi là không để chiến thắng nuốt mất người mình thương."
+Hùng đọc đến cuối, đặt bút xuống.
 
-Hùng nhìn sang phòng Lan — cửa khép hờ, vệt đèn ngủ mỏng. Ông nhớ những bữa cơm nguội, những đêm về khi cả nhà đã ngủ. "Vậy là con đã hơn bố. Bố học được muộn. Con học từ bây giờ."
+— Đây mới là phần quan trọng.
 
-Mai cười khẽ: "Bố đừng lo. Con không bỏ. Con chỉ không muốn thắng mà mất người. Start-up nông nghiệp công nghệ cao của con — nguyên tắc mang từ nhà: làm đúng, ghi rõ, chịu trách nhiệm. Bố viết vào Sách trắng rồi."
+— Phần xấu nhất?
 
-Cúp máy với Mai xong, Hùng không ngủ lại được. Ông pha một ấm trà, ngồi vào bàn, kéo bản thảo Sách trắng ra. Chương cuối — "Truyền lại" — vẫn để trắng. Ông đã viết bốn mươi chín trang về quy trình, kiểm soát, rủi ro, đạo đức kinh doanh. Nhưng trang cuối, trang khó nhất, ông chưa đặt nổi một chữ.
+— Phần chứng minh mình không viết sách để tự khen.
 
-Cuộc gọi của Mai vừa mở cho ông cái ông thiếu. Suốt đời ông viết sách trắng cho công ty — làm sao để một tổ chức không sụp. Nhưng ông chưa viết dòng nào cho câu hỏi Mai vừa đặt: làm sao để người xây tổ chức không bị chính nó nuốt mất.
+Đêm ấy, Hùng đi qua phòng lưu trữ. Mùi giấy, mực in và bụi máy lạnh trộn vào nhau. Trên kệ, hàng trăm quyển sách trắng chờ phát hành. Ông nắm gáy một quyển, rồi buông ra. Sáng mai, Lan sẽ đưa phụ lục lỗi vào bản chính thức. Không che. Không làm đẹp. Để người kế nhiệm có thứ thật mà sửa.
 
-Ông cầm bút máy, chấm mực tím, viết chậm: "Chương cuối không nói về công ty. Nói về người đứng đầu. Một doanh nghiệp có thể hoàn hảo trên giấy mà vẫn giết chết người điều hành nó — bằng những bữa cơm nguội, những đêm không về, những đứa con lớn lên qua ảnh. Sách trắng này thiếu một nguyên tắc, và tôi viết nó muộn: đừng để việc đúng ăn mất đời mình."
 
-Ông dừng bút, đọc lại. Rồi gạch đi chữ "tôi", thay bằng "chúng ta". Đây không phải lời thú tội riêng — đây là điều khoản cho mọi người sau. Ông viết tiếp một danh sách ngắn, đánh số: một, mỗi tuần một bữa cơm không nói chuyện công việc; hai, mỗi năm bảy ngày tắt điện thoại hoàn toàn; ba, người kế nhiệm phải được đào tạo từ khi công ty còn khỏe, không phải khi người đứng đầu đã kiệt sức.
+Một tháng sau, nhóm kiểm tra trở lại chi nhánh đang lỗ. Trời mưa, nền kho ẩm, mùi carton ngấm nước bốc lên nồng. Bảng quy trình mới treo ngay cửa nhưng góc dưới đã quăn. Lan không hỏi giám đốc trước. Cô gọi người thủ kho trẻ ra, đặt ba phiếu nhập cạnh nhau.
 
-Ngoài trời, mưa Hà Đông đã tạnh hẳn. Vệt sáng đầu tiên của ngày hắt qua khe cửa, rơi lên trang giấy đang khô mực. Hùng gấp bản thảo, lần đầu tiên trong nhiều tháng thấy cuốn sách đã đủ. Không phải vì nó dày thêm một chương — mà vì nó vừa thành thật với chính người viết ra nó.
+— Em chỉ cho tôi chỗ nào khó làm nhất.
 
-Sau khi cúp máy, Hùng viết vào sổ, nét chậm: "Mai thắng vòng gọi vốn. Giống ta — và hơn ta. Không chịu thua, nhưng không muốn sống như ta. Sách trắng thiếu một chương: truyền lại cho con — không phải đế chế, mà cách không để đế chế nuốt mất mình."
+Cậu thủ kho nuốt khan, mắt liếc giám đốc rồi cúi xuống tờ giấy.
+
+— Dòng này bắt xác nhận giá trước khi hàng đến. Nhưng nhà cung cấp chỉ gửi giá cuối sau cân thực tế. Bọn em thường để trống rồi bổ sung.
+
+— Ai cho phép?
+
+— Không ai. Nếu không làm vậy thì xe chờ ngoài cổng.
+
+Hùng nắm một góc phiếu, nhìn vết mực khác màu. Đây là kiểu sai không bắt đầu từ tham lam; nó bắt đầu từ một quy tắc không hiểu việc thật. Nhưng để lâu, khoảng trống ấy đủ rộng cho gian lận chui vào.
+
+Lan gọi pháp chế và bộ phận mua hàng. Thay vì xóa bước xác nhận, cô tách thành giá tạm và giá quyết toán; mọi chênh lệch quá hai phần trăm phải có ảnh cân, hóa đơn và chữ ký thứ hai. Cậu thủ kho được giao thử trên ba chuyến xe ngay trong ngày.
+
+Chuyến thứ nhất khớp. Chuyến thứ hai lệch một phẩy tám phần trăm vì độ ẩm. Chuyến thứ ba lệch bốn phần trăm; ảnh cân cho thấy nhà cung cấp đã đổi loại bao bì nặng hơn. Lần đầu tiên, một lỗi tưởng nhỏ bị chặn trước khi thành tiền thất thoát.
+
+Giám đốc chi nhánh im lặng hồi lâu rồi nói:
+
+— Tôi đã định phạt cậu ấy vì điền thiếu.
+
+— Phạt người trước khi sửa quy tắc là cách nhanh nhất để không ai báo lỗi nữa — Hùng đáp.
+
+Lan ghi sự việc vào phụ lục công khai. Cô không xóa tên chi nhánh, cũng không nêu tên cá nhân. Sách trắng phải chỉ ra chỗ hệ thống đã ép người tốt làm sai, rồi ghi cách khóa đường cho người xấu lợi dụng.
+
+Khi xe cuối rời cổng, bánh lăn qua vũng nước bắn lên ống quần, Lan ngẩng nhìn bảng quy trình. Cô tháo nó xuống, cuộn lại.
+
+— Mai in bản mới. Bản này giữ trong hồ sơ sửa đổi.
+
+Hùng gật. Một cuốn sách quản trị chỉ sống nếu có người dám viết lại trang của chính mình.
+
+============================================================

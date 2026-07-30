@@ -1,0 +1,201 @@
+============================================================
+Chương 222: Hệ thống cảnh báo sớm
+============================================================
+
+Tháng Tám năm 2008, Hùng gọi Hoàng lên phòng làm việc. Hoàng vừa về từ một khóa đào tạo ngắn hạn ở Singapore về quản trị rủi ro tài chính — thứ mà anh tự bỏ tiền túi đi học, không xin công ty. Hùng thích những người tự đầu tư vào bản thân. Khi Hoàng gõ cửa — tiếng gõ nhẹ, đều ba nhịp — Hùng đang đọc một báo cáo dài mười hai trang về tình hình xuất khẩu quý II, trên bàn cạnh tách cà phê đã nguội từ lâu, mặt nước phẳng lặng với một lớp váng mỏng. Mùi giấy mới in, mùi mực từ máy photocopy vẫn còn phảng phất trong phòng.
+
+"Ngồi xuống," Hùng nói, không rời mắt khỏi tập báo cáo. "Anh nghe nói em học về rủi ro tài chính. Dạy lại anh."
+
+Hoàng mất ba giây để xử lý câu nói. Anh hai mươi bảy tuổi, tốt nghiệp Đại học Ngoại thương, làm cho Thương Gia ba năm — đầu tiên ở phòng xuất nhập khẩu, sau được Hùng kéo lên làm trợ lý đặc biệt. Anh là người trẻ nhất trong ban tham mưu của Hùng, và thường xuyên được giao những việc không tên — những việc mà người khác không nghĩ ra hoặc không dám làm. Lần trước, Hùng bảo Hoàng đi khảo sát giá thép Trung Quốc ở cửa khẩu Lạng Sơn. Lần trước nữa, Hoàng lặn lội xuống Cần Thơ để kiểm tra lô hàng gạo xuất khẩu trước khi tàu rời cảng. Hoàng chưa bao giờ từ chối, chưa bao giờ phàn nàn.
+
+— Em nghĩ mình cần xây một hệ thống cảnh báo sớm, — Hoàng nói, mở laptop. Mùi mực in từ máy in laser góc phòng tỏa ra, lẫn với mùi cà phê đã nguội từ chiều trong cốc gốm trên bàn. — Không phải phần mềm lớn — chỉ là một bảng tính Excel kết nối với nguồn dữ liệu Bloomberg, cập nhật hàng ngày. Nhưng nguyên tắc vận hành thì em phải mất ba tháng nghiên cứu mới hoàn thành.
+
+"Nói đi."
+
+Hoàng xoay laptop về phía Hùng. Trên màn hình là một bảng tính với năm hàng, mỗi hàng có màu sắc khác nhau — một bảng màu đã được thiết kế cẩn thận để mắt có thể đọc được ngay cả trong trạng thái mệt mỏi nhất. Mỗi ô có một đường biểu đồ nhỏ bên cạnh, hiển thị xu hướng ba tháng gần nhất.
+
+"Hệ thống của em dựa trên năm chỉ số," Hoàng bắt đầu, giọng chậm và rõ — cái giọng của người đã trình bày đi trình bày lại trong đầu suốt chuyến bay từ Singapore về. "Một — tỷ lệ vỡ nợ thế chấp Mỹ, theo dõi từng tháng. Hai — chênh lệch lãi suất giữa trái phiếu kho bạc và trái phiếu doanh nghiệp, gọi là credit spread. Ba — chỉ số sản xuất công nghiệp Trung Quốc. Bốn — giá dầu thế giới. Năm — khối lượng giao dịch ngoại tệ tại Việt Nam."
+
+Hùng gật, nhưng không tỏ ra quá ấn tượng. "Trong năm chỉ số đó, cái nào thực sự quan trọng? Cái nào chỉ là tạp âm?"
+
+"Credit spread." Hoàng không do dự. "Bốn chỉ số kia là tín hiệu bổ trợ. Chúng cho em biết bức tranh tổng thể — Trung Quốc có đang sản xuất không, dầu có đắt không, dòng vốn vào Việt Nam có mạnh không. Nhưng credit spread là thứ báo trước cú sốc. Khi spread tăng — nghĩa là thị trường đang lo lắng. Người cho vay đòi lãi cao hơn để bù rủi ro. Spread tăng trước khi mọi chuyện vỡ lở. Năm 1997, spread bắt đầu tăng ở châu Á từ tháng Ba, nhưng Thái Lan phá sản tháng Bảy. Sáu tháng — đủ để chuẩn bị nếu biết nhìn."
+
+Hùng nhìn Hoàng một lúc. Cách nói của Hoàng có một sự chín chắn lạ thường so với tuổi hai mươi bảy. "Tình trạng hiện tại?"
+
+"Spread đã tăng gấp ba kể từ tháng Một." Hoàng gõ bàn phím, một biểu đồ hiện ra. "Năm 2006, nó ở mức 1.2%. Mức đó là bình thường — thị trường đang tin tưởng. Bây giờ — 3.8%. Chưa phải đỏ, nhưng đã ở mức báo động cam đậm. Và nó đang có xu hướng tăng theo cấp số nhân, không tuyến tính."
+
+"Cảnh báo phân loại thế nào?"
+
+"Ba cấp." Hoàng chỉ vào ba ô màu ở góc bảng tính. "Cấp một — màu vàng: theo dõi, chưa cần hành động. Cấp hai — màu cam: chuẩn bị phương án giảm thiểu rủi ro. Cấp ba — màu đỏ: kích hoạt kế hoạch khẩn cấp."
+
+"Bây giờ — cấp mấy?"
+
+"Cam." Hoàng ngừng lại, rồi nói thêm: "Gần đỏ. Nếu credit spread vượt 5%, em sẽ đánh giá lại."
+
+Hùng gật đầu, nhưng không hỏi thêm về kỹ thuật. Ông tin Hoàng — không phải vì Hoàng giỏi nhất, mà vì Hoàng là người duy nhất trong công ty chủ động đi học về rủi ro tài chính. Những người khác đang bận mở rộng, ký hợp đồng, xây nhà máy. Ông Phúc bận tính dòng tiền cho dự án bất động sản mới. Trưởng phòng kinh doanh bận đàm phán với đối tác Hàn Quốc. Kỹ sư Minh bận chạy công nghệ mới cho dây chuyền sản xuất. Chỉ có Hoàng là nhìn về hướng ngược lại.
+
+"Anh muốn em xây hệ thống này," Hùng nói. "Nhưng không chỉ cho anh. Cho tất cả các giám đốc công ty thành viên. Mỗi tuần, họ nhận một báo cáo một trang — không quá một trang — với năm chỉ số, xu hướng, và khuyến nghị hành động. Nếu báo cáo dài quá, họ sẽ không đọc."
+
+Hoàng mở một file Excel mới và bắt đầu phác thảo layout. "Em sẽ thiết kế giao diện tối giản. Màu sắc làm nền — không cần chữ to. Mắt người nhận diện màu nhanh hơn chữ. Xanh lá — an toàn. Vàng — chú ý. Cam — cảnh báo. Đỏ — nguy hiểm. Ai cũng hiểu."
+
+"Chi phí bao nhiêu?"
+
+"Bloomberg terminal — 1,500 USD một tháng. Còn lại là công sức của em. Em không tính lương overtime đâu."
+
+Hùng cười khẽ — một nụ cười hiếm hoi. "Làm đi. Em có hai tuần."
+
+Hoàng gập laptop, đứng dậy. Trước khi ra cửa, anh quay lại: "Anh Hùng, em có thể hỏi một câu?"
+
+"Em cứ hỏi."
+
+"Sao anh biết sắp có khủng hoảng? Mọi người đang phấn khởi lắm. GDP tăng trưởng 8.5% — cao nhất trong mười năm. Vốn FDI đạt kỷ lục 20 tỷ USD. Chứng khoán VN-Index lên 1,100 điểm. Chưa bao giờ Việt Nam tốt như bây giờ. Chỉ có em và anh là thấy vấn đề."
+
+Hùng không trả lời ngay. Ông mở ngăn kéo, lấy ra một cuốn sổ cũ — bìa đen, góc đã mòn, gáy đã bung chỉ. Ông lật đến một trang ghi năm 1997.
+
+"Ngày 2 tháng 7 năm 1997," Hùng đọc. "Thái Lan thả nổi baht. Một ngày trước đó, tôi đang ăn cơm với một đối tác Thái Lan ở Bangkok. Ông ta cười nói: 'Việt Nam sắp thành con hổ mới của châu Á. Các cậu may mắn quá.' Sáng hôm sau, đồng baht mất 50% giá trị. Ba tháng sau, ông ta mất tất cả — công ty, nhà máy, căn biệt thự ở Pattaya."
+
+Hùng gấp sổ, đặt xuống bàn. "Cái gì quá tốt đều có vấn đề. Khi ai cũng nói 'lần này khác' — thì lần này không khác. Chỉ là chưa ai thấy cái xấu. Và khi cái xấu xuất hiện, nó đến rất nhanh."
+
+Hoàng gật đầu, không hỏi thêm. Anh đã có câu trả lời của mình.
+
+Một tuần sau, Hoàng hoàn thành bảng tính. Hùng ngồi kiểm tra từng ô, từng công thức, từng nguồn dữ liệu. Ông không giỏi Excel bằng Hoàng, nhưng ông đủ giỏi để hiểu logic đằng sau những con số.
+
+"Cột này là gì?" Hùng chỉ vào một cột màu xám ở cuối bảng.
+
+"Đó là phần dự báo. Em dùng mô hình hồi quy đơn giản — dựa trên dữ liệu ba tháng trước để dự đoán ba tháng tiếp theo. Nó không chính xác lắm, nhưng cho em biết xu hướng trước khi xu hướng hiện ra rõ ràng."
+
+"Tin được không?"
+
+"Khoảng sáu mươi lăm phần trăm. Phần còn lại, em phải dùng phán đoán."
+
+"Như vậy là tốt rồi." Hùng gật. "Trong kinh doanh, có năm mươi mốt phần trăm là đã đủ để ra quyết định. Sáu mươi lăm là lợi thế lớn."
+
+Cuối tuần đó, Hùng ra quyết định: tất cả các công ty thành viên phải gửi báo cáo hàng tuần về ba chỉ số nội bộ — dòng tiền thực tế so với kế hoạch, tỷ lệ đơn hàng xuất khẩu bị hủy hoặc hoãn, và công suất sử dụng nhà máy. Những báo cáo này, Hùng tự đọc. Không qua thư ký, không qua trợ lý.
+
+Mỗi tối thứ Bảy, ông ngồi ở bàn làm việc trong căn hộ nhỏ trên phố Huế, với một ấm trà xanh và một cây bút đỏ. Trên bàn là một chồng báo cáo dày — mười hai công ty thành viên, mỗi công ty ba trang, tổng cộng ba mươi sáu trang. Ông đọc từng trang, ghi chú lề, đánh dấu những điểm bất thường.
+
+Bà Hà thường mang lên cho ông một dĩa trái cây — mùi bưởi thơm thoảng trong không khí ấm áp của phòng làm việc — đặt nhẹ xuống góc bàn, nhìn ông một lúc, rồi lặng lẽ đi xuống. Bà không hỏi. Bà biết khi nào chồng cần được hỏi và khi nào chỉ cần để yên.
+
+Thứ Bảy đầu tiên sau khi hệ thống đi vào vận hành, một báo cáo từ nhà máy dệt ở Nam Định khiến Hùng chú ý. Công suất sử dụng nhà máy tháng Tám chỉ đạt 68% — giảm từ 94% của tháng Sáu. Đơn hàng từ Mỹ giảm ba mươi phần trăm trong hai tháng. Dòng tiền vẫn dương, nhưng biên lợi nhuận đã giảm từ 12% xuống 7%.
+
+Hùng cầm máy gọi Đức Anh — giám đốc nhà máy. Đầu dây bên kia đổ chuông sáu lần mới có người nhấc máy.
+
+"Anh Hùng, em xin lỗi. Em đang ở xưởng, máy ồn quá không nghe thấy điện thoại. Em để trong túi, lúc nào xong việc mới lấy ra."
+
+"Không sao. Chuyện gì với số đơn hàng?"
+
+Đức Anh im lặng vài giây. "Bên mua — một nhà phân phối ở Los Angeles — nói họ đang gặp khó khăn tín dụng. Ngân hàng của họ siết hạn mức vay, họ không thể mua hàng với số lượng như trước. Đây là khách hàng lớn nhất của em, chiếm khoảng ba mươi lăm phần trăm doanh thu."
+
+"Bao nhiêu phần trăm lợi nhuận?"
+
+"Khoảng bốn mươi hai phần trăm. Vì họ mua ổn định, không trả giá nhiều, thanh toán đúng hạn. Nhưng bây giờ thì họ đang trả chậm. Tháng Bảy họ trả chậm mười lăm ngày. Tháng Tám chưa thấy tiền đâu."
+
+Hùng ghi vào sổ. "Có thông báo trước không?"
+
+"Không. Họ gọi điện một ngày trước khi lô hàng tháng Chín phải được xác nhận. Em đang chạy khắp nơi tìm khách thay thế. Sáng nay em ghé ba công ty may mặc ở Cầu Giấy, chiều nay lên Thái Nguyên gặp một đối tác quen cũ. Nhưng giờ ai cũng thận trọng, khó thuyết phục lắm."
+
+"Giảm ca sản xuất. Tránh tồn kho. Tìm khách nội địa. Anh có vài mối có thể giới thiệu."
+
+"Vậy thì tốt quá. Cảm ơn anh Hùng."
+
+"Đức Anh, em có lo về tình hình không?"
+
+Một khoảng lặng dài hơn — Hùng có thể nghe thấy tiếng máy dệt nền qua điện thoại. "Có, anh. Nếu đơn hàng tiếp tục giảm, em sẽ phải giảm ca. Giảm ca là giảm lương công nhân. Họ gắn bó với mình lâu rồi. Nhiều gia đình sống bằng đồng lương từ nhà máy. Có chị công nhân lớn tuổi, con đi học đại học, chồng bệnh nằm nhà. Giảm lương là giảm hy vọng của họ."
+
+Hùng cúp máy, đặt bút đỏ xuống — đầu ngón tay còn lạnh vì cầm máy quá lâu. Ông nhìn ra cửa sổ — mùa thu Hà Nội, trời xanh, lá bàng bắt đầu vàng, tiếng trẻ con đá bóng ngoài ngõ, mùi hoa sữa theo gió thoảng vào. Nhưng trong lòng ông một cơn bão đang hình thành.
+
+Giữa tháng Chín, Hoàng gõ cửa phòng Hùng lúc chín giờ tối. Mặt anh tái nhợt, một tay cầm tờ giấy in từ Bloomberg, tay kia cầm một cốc cà phê đã nguội từ chiều.
+
+"Anh Hùng, Lehman Brothers vừa công bố lỗ 3,9 tỷ USD trong quý III."
+
+Hùng đọc tờ giấy, rồi đặt xuống. "Lehman Brothers là ai?"
+
+"Ngân hàng đầu tư lớn thứ tư nước Mỹ. Thành lập năm 1850 — trước khi Việt Nam có Phong trào Cần Vương. Tồn tại 157 năm. Họ có 25,000 nhân viên trên toàn thế giới. Và họ vừa lỗ 3,9 tỷ USD trong một quý vì đầu tư quá nhiều vào thị trường thế chấp dưới chuẩn. Nếu họ sụp, đó là sự kiện chưa từng có kể từ Đại suy thoái 1929."
+
+Hùng gật. Ông mở ngăn kéo, lấy ra một tập hồ sơ dày — kế hoạch khẩn cấp ông viết từ tháng Tư. Mười sáu trang, nay đã thêm tám trang bổ sung — những trang ghi chú sau mỗi lần họp với Hoàng. Ông lật nhanh, kiểm tra từng mục. Từng dòng từng chữ vẫn còn phù hợp. Không cần sửa gì.
+
+"Ngày mai, họp toàn bộ lãnh đạo," Hùng nói. "Mười bảy người. Tám giờ sáng. Gọi điện cho từng người, không gửi email."
+
+Hoàng gật.
+
+Rạng sáng hôm sau, Hoàng gửi một email ngắn cho Hùng, kèm file Excel cập nhật: bốn trong năm chỉ số đã chuyển sang màu cam. Credit spread — ba tháng trước là 3.8% — nay là 5.2% và đã chạm mức đỏ lần đầu tiên kể từ khi hệ thống được thiết lập.
+
+Hùng đọc email trên điện thoại lúc năm giờ sáng, khi trời còn tối. Một cơn lạnh chạy dọc sống lưng, không phải vì trời rét — giữa tháng Chín mà ông thấy người lạnh toát. Ông nằm im, không cựa quậy để khỏi đánh thức bà Hà. Ông nhìn trần nhà mờ mờ, lắng nghe tiếng mưa nhẹ bên ngoài, và nghĩ về những con số. 5.2% — một con số vô tri vô giác, nhưng nó đang kể một câu chuyện.
+
+Sáng hôm đó, tám giờ đúng, mười bảy người ngồi quanh bàn họp. Không khí trong phòng bình thường — bình thường một cách kỳ lạ. Họ uống trà — mùi trà xanh nghi ngút từ những cái phích mới rót — trêu đùa, bàn về kế hoạch cuối tuần. Tiếng cười nói râm ran, ghế gỗ kêu cót két mỗi lần có người ngả người. Họ chưa biết nội dung cuộc họp. Hùng nhìn họ, tay đặt trên bàn, lòng bàn tay hơi ẩm.
+
+Hùng đợi cho mọi người ổn định, rồi đứng lên.
+
+"Tôi sẽ nói thẳng," Hùng mở đầu, giọng đều, không nhanh không chậm. "Nền kinh tế toàn cầu đang đi vào khủng hoảng. Tôi không biết nó sẽ tồi tệ đến mức nào. Nhưng tôi biết Thương Gia cần chuẩn bị cho kịch bản xấu nhất."
+
+Ông mở bảng tính của Hoàng trên máy chiếu. Bốn ô màu cam, một ô màu đỏ — trông như một bảng điều khiển của máy bay sắp gặp bão.
+Vải mới cắt thơm mùi hồ.
+
+"Năm chỉ số. Bốn trong số đó đã chuyển sang cam. Một — credit spread — đã chạm ngưỡng đỏ. Nếu các anh chị không hiểu credit spread là gì, nó là thước đo nỗi sợ của thị trường. Nỗi sợ đó đang ở mức cao nhất trong mười năm."
+
+Ông chuyển slide — kế hoạch hành động năm điểm. Những dòng chữ đen trên nền trắng, không màu mè, không biểu đồ.
+
+"Một — tất cả các dự án đầu tư đang triển khai: rà soát lại, chỉ giữ lại dự án có tỷ suất hoàn vốn nội bộ trên hai mươi phần trăm hoặc liên quan trực tiếp đến hoạt động cốt lõi. Hai — tăng tốc thu hồi công nợ: yêu cầu khách hàng thanh toán trong ba mươi ngày thay vì sáu mươi. Ba — đàm phán với nhà cung cấp: kéo dài thời hạn thanh toán lên chín mươi ngày. Bốn — dừng tuyển dụng mới, trừ vị trí không thể thay thế. Năm — xây dựng phương án cho tình huống doanh thu giảm ba mươi phần trăm."
+
+Ông Phúc giơ tay. "Anh Hùng, em muốn nói vài điều với tư cách giám đốc tài chính. Nếu làm tất cả những điều này, tốc độ tăng trưởng của Thương Gia năm 2008 sẽ giảm mạnh. Chỉ khoảng mười lăm phần trăm thay vì ba mươi như kế hoạch. Các chỉ số hiệu quả sẽ xấu đi, và nếu chúng ta cần huy động vốn, điều đó sẽ bất lợi."
+
+"Tôi chấp nhận," Hùng nói, không do dự. "Tăng trưởng mười lăm phần trăm còn hơn phá sản ba mươi phần trăm. Chúng ta đang sống trong thời kỳ mà sự tồn tại quan trọng hơn tăng trưởng."
+
+Không ai nói thêm. Mười bảy người rời cuộc họp với một cái nhìn mới về thế giới — một cái nhìn u ám hơn, cảnh giác hơn. Hùng biết họ chưa hoàn toàn tin. Một số người nghĩ ông đang quá lo lắng. Một số nghĩ ông nói quá. Nhưng Hùng không cần họ tin. Ông chỉ cần họ làm theo.
+
+Buổi tối, Hùng ngồi một mình trong vườn nhỏ sau nhà. Trăng mồng một, trời tối đen, không một vì sao. Ông ngồi trên chiếc ghế đá, nhìn lên bầu trời, nghĩ về những gì đang xảy ra ở bên kia đại dương. Ở New York, London, Tokyo, những con người trong bộ comple đắt tiền đang làm những việc mà họ cho là đúng, nhưng hậu quả sẽ ảnh hưởng đến một người bán hàng rong ở Sài Gòn, một công nhân dệt ở Nam Định, một người nông dân ở đồng bằng sông Cửu Long.
+
+Thương Gia là một chấm nhỏ trên bản đồ thế giới. Một chấm nhỏ trong cơn bão lớn. Nhưng ít nhất — Hùng tự nhủ — mình đã thấy cơn bão đến. Và mình đã chuẩn bị.
+
+Ông đứng dậy, vào nhà, lấy cuốn sổ tay đã cũ từ ngăn tủ. Viết thêm một dòng trên trang mới:
+
+*Ngày 15/9/2008 — kích hoạt kế hoạch khẩn cấp — phòng thủ toàn diện. Hệ thống cảnh báo sớm đã hoạt động ổn định. Năm chỉ số cho thấy tín hiệu không tốt. Tin vào hệ thống — nhưng đừng tin mù quáng. Phải tự kiểm tra, tự đánh giá.*
+
+Ông gấp sổ, cất vào ngăn kéo, khóa lại. Ngoài kia, Hà Nội đã vào đêm. Phố phường vắng lặng. Nhưng trong lồng ngực của một người đàn ông năm mươi tuổi, một trái tim vẫn đập đều, vẫn chuẩn bị cho những ngày sắp tới.
+
+Bà Hà vẫn còn thức, ngồi ở bàn uống nước, tay cầm một cốc nước ấm. Bà nhìn Hùng bước vào, thấy cuốn sổ tay trên tay ông.
+
+"Xong việc rồi à?"
+
+"Xong rồi ạ. Mẹ chưa ngủ?"
+
+"Già rồi ngủ ít. Mẹ pha cho con ấm trà."
+
+Hùng ngồi xuống bên mẹ, đặt cuốn sổ xuống bàn. Bà Hà nhìn cuốn sổ — cái bìa đen đã bạc màu theo thời gian. Bà biết cuốn sổ đó từ năm 1985, khi Hùng mua nó ở chợ Đồng Xuân với giá năm trăm đồng. Hai mươi hai năm. Nó đã theo ông qua bao nhiêu lần khó khăn.
+
+"Mẹ thấy con hay thức khuya. Có chuyện gì lớn lắm hả?"
+
+"Con nghĩ sắp có khủng hoảng. Kiểu như năm 1997, nhưng lần này có thể lớn hơn."
+
+"Ở đâu?"
+
+"Ở Mỹ. Nhưng nó sẽ ảnh hưởng đến cả thế giới, kể cả mình."
+
+Bà Hà gật đầu, không hỏi thêm. Bà không hiểu về credit spread hay ngân hàng đầu tư Mỹ. Nhưng bà hiểu về khủng hoảng. Bà đã sống qua nạn đói 1945 — năm đó bà mười tuổi, mất hai người em vì chết đói. Bà đã sống qua chiến tranh, qua bao cấp, qua những ngày tem phiếu từng gram gạo. Đối với bà, khủng hoảng không phải là điều gì đó đáng sợ — nó chỉ là một phần của cuộc sống.
+
+"Nếu khủng hoảng tới, mình có qua được không?"
+
+Hùng không trả lời ngay. Ông nhìn tách trà, nhìn hơi nước bốc lên. "Con nghĩ là có. Nhưng sẽ mất nhiều thứ."
+
+"Mất gì?"
+
+"Tiền. Cơ hội. Có thể vài người."
+
+Bà Hà nhìn con trai, một lúc lâu. "Tiền thì kiếm lại được. Cơ hội thì sau này sẽ có. Người — nếu mất, khó tìm lại. Con nhớ điều đó."
+
+Hùng gật. Ông không nói gì thêm. Nhưng trong lòng, ông biết mẹ mình nói đúng. Một lần nữa, bà không cần học về tài chính để hiểu những điều quan trọng nhất.
+Bùn non dưới ruộng lúa mới cày.
+
+Hùng uống hết tách trà, đứng dậy. "Mẹ đi ngủ đi. Con lên phòng."
+
+Bà Hà gật, nhưng không đứng dậy. Bà ngồi thêm một lúc, nhìn theo bóng con trai lên cầu thang. Căn nhà im lặng. Ngoài kia, Hà Nội đã vào khuya, tiếng ếch nhái vọng lên từ những ao sau vườn — âm thanh của một thành phố đang chuyển mình, của một đất nước đang phát triển, và của một người đàn ông đang thức vì tương lai của hàng nghìn người khác. Hùng lên đến đầu cầu thang thì dừng lại. Mùi khói rơm từ một bếp than cuối phố bay vào, thoảng, xa, như một mùi ký ức từ thuở nào. Ông đưa tay bám vào thành cầu thang, cảm nhận những ngón tay chai sạn trượt trên gỗ, và thấy lòng mình yên hơn một chút.
+
+Dashboard sáng đỏ hai ô. Hải chưa ngủ. Sáng mai cả bàn lãnh đạo phải chọn: cắt hay giữ.
+
+「Hệ thống — GHI NHẬN ch.222」
+Năm: 2008
+Tổng EXP: 49,572 (+163 nhịp này)
+Không gian kho: 17,744m² (+136m²)
+Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
+Ghi chú: Hệ thống cảnh báo sớm — 12 chỉ số; Hải vận hành dashboard.
+============================================================

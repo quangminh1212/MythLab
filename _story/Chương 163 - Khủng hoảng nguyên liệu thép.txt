@@ -1,5 +1,6 @@
-============================================================
+﻿============================================================
 Chương 163: Khủng hoảng nguyên liệu thép
+============================================================
 
 Đầu tháng Giêng năm 1992. Xưởng Gia Lâm đã lắp ráp được bảy chiếc xe mẫu. Năm chiếc đứng hoàn chỉnh trong góc xưởng — vỏ nhựa đen bóng, logo Thương Gia mạ kền sáng lấp lánh trên đầu xe, yên da màu nâu sẫm. Hai chiếc được Đức giữ lại để chạy thử nghiệm đường dài. Mỗi sáng, Đức nổ máy từng chiếc, để chạy không tải mười lăm phút, kiểm tra độ ổn định.
 
@@ -33,13 +34,17 @@ Tâm đưa máy cho Hùng. Hùng đang cầm bugi kiểm tra, tay còn dính d�
 
 — Năm mươi phần trăm, anh ạ. Nhưng không chỉ giá — mà còn thiếu hàng. Họ bảo phải ưu tiên cho các công trình nhà nước trước. Các công trình giao thông, thủy lợi — họ ký hợp đồng từ năm ngoái. Dân sự như mình phải xếp sau.
 
-Hùng cúp máy, mặt không đổi sắc. Ông gọi ngay cho Lan.
+Hùng cúp máy, mặt không đổi sắc.
+
+Ông nhìn ra cửa sổ, mắt nhíu lại. Ngón tay gõ đều lên mặt bàn gỗ. Ông gọi ngay cho Lan.
 
 — Lấy danh sách tất cả nhà cung cấp thép ở miền Bắc. Gọi từng người, hỏi giá thép hôm nay.
 
 Lan làm trong hai giờ. Cô gọi sáu cuộc điện thoại — hai cuộc không ai bắt máy, ba cuộc báo giá mới, một cuộc nói chờ. Kết quả: cả sáu nhà cung cấp đều báo giá tăng từ bốn mươi đến sáu mươi phần trăm so với tháng Mười hai. Hai nơi nói không có hàng — phải chờ đến cuối tháng, không biết có kịp không. Ba nơi có hàng nhưng giá theo ngày, thay đổi từng tuần. Một nơi không bắt máy.
 
 Lan đặt tờ danh sách trước mặt Hùng. Mặt cô tái đi.
+
+Lan cúi mặt, ngón tay siết chặt cây bút. Cô liếc lên nhìn Hùng — khuôn mặt anh trai bình thản, nhưng cô thấy rõ những nếp nhăn ở đuôi mắt đang hằn sâu hơn. Tay ông gõ đều lên mặt bàn gỗ.
 
 — Ai cũng tăng. Có chỗ tăng hai lần trong một tuần. Một chỗ không dám báo giá — họ nói giá thép thay đổi theo ngày, sáng nay một giá, chiều mai đã khác.
 
@@ -167,7 +172,7 @@ Mắt ông Lợi sáng lên, nhưng ông già vẫn giữ được bình tĩnh:
 
 — Tôi không đến tận nhà để nói đùa.
 
-Ông Lợi nhìn vợ. Bà vợ gật đầu nhẹ. Ông quay sang Hùng:
+Ông Lợi nhìn mẹ. Bà vợ gật đầu nhẹ. Ông quay sang Hùng:
 
 — Được. Tôi chờ thép Thái của anh. Khi nào về, tôi bỏ hết đơn hàng khác để làm cho anh trước.
 
@@ -183,27 +188,31 @@ Khủng hoảng nguyên liệu đã qua — tạm thời. Nhưng ông biết, n�
 
 Gió đêm thổi qua khe cửa, mang theo mùi đất ẩm sau mưa. Hùng gấp sổ, tắt đèn. Ngoài kia, Hà Nội đêm đông im vắng, thỉnh thoảng tiếng còi tàu từ ga Hàng Cỏ vọng về, xa xa, đều đặn. Ông nhắm mắt. Ngày mai sẽ có những việc mới. Nhưng tối nay, ông cho phép mình nghỉ — một giấc ngủ ngắn, trước khi bắt đầu một ngày dài.
 
+============================================================
+
+
 Sau buoi hop, Hung buoc ra hangnhang, thay mot nguoi dan ong ngoi hut thuoc mot minh. Do la ong Tu, nha cung cap thep lau nam. Ong Tu nhin Hung: 'Nghe noi cau dang can thep?' Hung gat: 'Dang. Bac giup duoc khong?' Ong Tu khong tra loi ngay, rut mot dieu thuoc khac: 'Giu cho cau mot chuyen. Thep Nga, gia tot, giao trong tuan.' Hung bat tay ong Tu: 'Cam on bac.'
+
+
+Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho Minh nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." Minh cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
 
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
 Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. Lan ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" Lan hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
 
+
 Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, bà Hà nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." bà Hà mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
 
 Trong nhà bếp, Hùng nhặt rau, Minh thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Minh cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
 
+Đêm khuya, hai người nằm trên giường. Hùng kể chuyện cho bà Hà nghe: "Hồi nhỏ anh thường trộm ổi nhà hàng xóm." bà Hà cười khúc khích. "Em thì trộm xoài." Họ cười vui, tiếng cười vọng trong đêm tối.
+
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.163. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.163」
 Năm: 1992
-Tổng EXP: 26,220 (+480 nhịp này)
-Không gian kho: 9,320m² (+360m²)
-Kỹ năng trọng yếu: Quản lý chuỗi cung ứng lv2 (thăng cấp)
-Ghi chú: Khủng hoảng thép tháng 1/1992 — giá trong nước tăng 50%. Giải pháp: nhập thép Thái qua SG + mua nội địa cầm chừng. Kế hoạch 2 giá bán.
+Tổng EXP: 26,400 (+300)
+Không gian kho: 8,800m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: khóa nhịp ch.163
+============================================================

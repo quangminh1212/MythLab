@@ -1,0 +1,18 @@
+{
+  "missing": [],
+  "duplicate": {},
+  "year": [],
+  "bad": [],
+  "short": [],
+  "hdr": [],
+  "stats": {
+    "files": 360,
+    "chapters": 360,
+    "year": 0,
+    "bad": 0,
+    "short": 0,
+    "hdr": 0,
+    "missing": 0,
+    "duplicate": 0
+  }
+}

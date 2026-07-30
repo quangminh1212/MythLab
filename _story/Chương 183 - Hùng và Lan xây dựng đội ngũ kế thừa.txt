@@ -110,7 +110,7 @@ Mỗi người có một tuần để làm xong. Không ai được hỏi Hùng 
 
 “Thì tuần này sẽ biết.”
 
-Gió chiều lạnh. Mấy cây bàng ven sông rụng gần trơ cành. Bờ sông Nhuệ lúc chiều tối có mấy đứa trẻ buông câu, mặc áo bông rách. Một con đò ngang chở vài người qua sông, mái chèo khua nước chậm rãi. Cảnh vật yên ả, nhưng Hùng biết: yên ả của vùng sắp đổi. Làng dệt Hà Đông đã tự sản xuất hàng trăm năm, nhưng hàng lụa của họ đang bị hàng công nghiệp Trung Quốc rẻ hơn đánh bật dần. Người làng đang mất việc. Mấy chục người th�ệt đã bỏ khung cửi đi làm thuê. Hùng nhìn cảnh đó và thấy một nỗi lo: nếu không xây dựng được đội ngũ biết tự xoay, chính ông cũng sẽ như họ, bị thời cuộc bỏ lại.
+Gió chiều lạnh. Mấy cây bàng ven sông rụng gần trơ cành. Bờ sông Nhuệ lúc chiều tối có mấy đứa trẻ buông câu, mặc áo bông rách. Một con đò ngang chở vài người qua sông, mái chèo khua nước chậm rãi. Cảnh vật yên ả, nhưng Hùng biết: yên ả của vùng sắp đổi. Làng dệt Hà Đông đã tự sản xuất hàng trăm năm, nhưng hàng lụa của họ đang bị hàng công nghiệp Trung Quốc rẻ hơn đánh bật dần. Người làng đang mất việc. Mấy chục người thợ dệt đã bỏ khung cửi đi làm thuê. Hùng nhìn cảnh đó và thấy một nỗi lo: nếu không xây dựng được đội ngũ biết tự xoay, chính ông cũng sẽ như họ, bị thời cuộc bỏ lại.
 
 “Anh nhớ Quốc Oai không?” Lan hỏi.
 
@@ -246,8 +246,8 @@ Trăng non, mờ sau mây. Hùng uống trà, nhìn ra phố vắng. 1993. Hà �
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.183」
-Năm: 1993
-Tổng EXP: 32,560 (+320 nhịp này)
+Năm: 1994
+Tổng EXP: 32,560 (+320)
 Không gian kho: 10,640m² (+80m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: khởi động đội ngũ kế thừa tại Hà Đông — bảy người, một xưởng cũ, không có sách hướng dẫn.

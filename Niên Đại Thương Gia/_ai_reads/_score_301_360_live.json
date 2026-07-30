@@ -1,0 +1,1186 @@
+[
+  {
+    "n": 301,
+    "title": "Chương 301 - Lan CEO tập đoàn.txt",
+    "final": 6.0,
+    "words": 3128,
+    "cd": 3.48,
+    "sd": 12.02,
+    "dlg": 22,
+    "hf": [
+      "year_mismatch panel=2011 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 302,
+    "title": "Chương 302 - Hùng Chủ tịch Hội đồng.txt",
+    "final": 9.71,
+    "words": 3049,
+    "cd": 3.05,
+    "sd": 11.77,
+    "dlg": 32,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 303,
+    "title": "Chương 303 - Thế hệ ba bắt đầu.txt",
+    "final": 6.0,
+    "words": 3075,
+    "cd": 4.1,
+    "sd": 12.43,
+    "dlg": 23,
+    "hf": [
+      "year_mismatch panel=2011 prose=2016"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 304,
+    "title": "Chương 304 - Học bổng 10.000 SV.txt",
+    "final": 6.0,
+    "words": 3969,
+    "cd": 4.11,
+    "sd": 12.71,
+    "dlg": 147,
+    "hf": [
+      "year_mismatch panel=2011 prose=2012"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 305,
+    "title": "Chương 305 - Gặp lại ông Tanaka.txt",
+    "final": 6.0,
+    "words": 3293,
+    "cd": 4.36,
+    "sd": 13.33,
+    "dlg": 23,
+    "hf": [
+      "year_mismatch panel=2011 prose=2016"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 306,
+    "title": "Chương 306 - Gặp lại ông Sato.txt",
+    "final": 9.71,
+    "words": 3306,
+    "cd": 3.15,
+    "sd": 11.76,
+    "dlg": 60,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 307,
+    "title": "Chương 307 - Gặp lại Klaus.txt",
+    "final": 6.0,
+    "words": 3077,
+    "cd": 5.04,
+    "sd": 11.04,
+    "dlg": 29,
+    "hf": [
+      "year_mismatch panel=2011 prose=2017"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 8.5,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 308,
+    "title": "Chương 308 - Gặp lại đối tác Mỹ.txt",
+    "final": 9.71,
+    "words": 3337,
+    "cd": 3.48,
+    "sd": 12.54,
+    "dlg": 80,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 309,
+    "title": "Chương 309 - Quỹ học bổng mang tên bà Hà.txt",
+    "final": 9.71,
+    "words": 3371,
+    "cd": 3.01,
+    "sd": 10.05,
+    "dlg": 60,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 310,
+    "title": "Chương 310 - Thương gia huyền thoại.txt",
+    "final": 10.0,
+    "words": 3519,
+    "cd": 5.94,
+    "sd": 13.1,
+    "dlg": 76,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 311,
+    "title": "Chương 311 - Giải Thương gia huyền thoại.txt",
+    "final": 9.71,
+    "words": 3333,
+    "cd": 3.18,
+    "sd": 15.54,
+    "dlg": 61,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 312,
+    "title": "Chương 312 - Giao quyền cho Lan.txt",
+    "final": 6.0,
+    "words": 3804,
+    "cd": 4.83,
+    "sd": 12.8,
+    "dlg": 90,
+    "hf": [
+      "year_mismatch panel=2012 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 8.5,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 313,
+    "title": "Chương 313 - Sách trắng quản trị Thương Gia.txt",
+    "final": 9.78,
+    "words": 3039,
+    "cd": 3.57,
+    "sd": 11.69,
+    "dlg": 55,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 8.5,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 314,
+    "title": "Chương 314 - Đối mặt tin đồn sức khỏe.txt",
+    "final": 6.0,
+    "words": 3102,
+    "cd": 4.46,
+    "sd": 12.05,
+    "dlg": 69,
+    "hf": [
+      "year_mismatch panel=2013 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 315,
+    "title": "Chương 315 - Hùng chăm sóc sức khỏe.txt",
+    "final": 10.0,
+    "words": 3742,
+    "cd": 3.95,
+    "sd": 14.93,
+    "dlg": 81,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 316,
+    "title": "Chương 316 - Gia đình ba thế hệ sum họp.txt",
+    "final": 10.0,
+    "words": 3497,
+    "cd": 6.48,
+    "sd": 13.57,
+    "dlg": 49,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 317,
+    "title": "Chương 317 - Kế hoạch di sản pháp lý.txt",
+    "final": 9.71,
+    "words": 3442,
+    "cd": 2.38,
+    "sd": 10.89,
+    "dlg": 57,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 318,
+    "title": "Chương 318 - Ủy thác tài sản minh bạch.txt",
+    "final": 9.71,
+    "words": 3201,
+    "cd": 2.89,
+    "sd": 11.29,
+    "dlg": 52,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 319,
+    "title": "Chương 319 - Cam kết không chia cắt tập đoàn.txt",
+    "final": 9.71,
+    "words": 3326,
+    "cd": 3.04,
+    "sd": 12.28,
+    "dlg": 31,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 320,
+    "title": "Chương 320 - Truyền thông Thương Gia.txt",
+    "final": 6.0,
+    "words": 3558,
+    "cd": 3.62,
+    "sd": 12.53,
+    "dlg": 76,
+    "hf": [
+      "year_mismatch panel=2013 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 321,
+    "title": "Chương 321 - Khủng hoảng cạnh tranh giá.txt",
+    "final": 9.63,
+    "words": 3355,
+    "cd": 2.5,
+    "sd": 11.38,
+    "dlg": 47,
+    "hf": [],
+    "axes": {
+      "van_chuong": 8.9,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 322,
+    "title": "Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt",
+    "final": 6.0,
+    "words": 3264,
+    "cd": 3.12,
+    "sd": 13.09,
+    "dlg": 87,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 323,
+    "title": "Chương 323 - Khách hàng trung thành.txt",
+    "final": 6.0,
+    "words": 3060,
+    "cd": 4.41,
+    "sd": 13.51,
+    "dlg": 52,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 324,
+    "title": "Chương 324 - Tái định vị thương hiệu.txt",
+    "final": 6.0,
+    "words": 3068,
+    "cd": 3.41,
+    "sd": 10.5,
+    "dlg": 66,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 325,
+    "title": "Chương 325 - Công nghệ xanh toàn hệ thống.txt",
+    "final": 9.71,
+    "words": 3444,
+    "cd": 3.11,
+    "sd": 11.11,
+    "dlg": 79,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 326,
+    "title": "Chương 326 - Net zero cam kết.txt",
+    "final": 6.0,
+    "words": 3109,
+    "cd": 2.59,
+    "sd": 10.27,
+    "dlg": 54,
+    "hf": [
+      "year_mismatch panel=2014 prose=2015"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 327,
+    "title": "Chương 327 - Lễ 30 năm Thương Gia.txt",
+    "final": 10.0,
+    "words": 3152,
+    "cd": 4.14,
+    "sd": 12.22,
+    "dlg": 41,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 328,
+    "title": "Chương 328 - Quỹ 10.000 tỷ.txt",
+    "final": 9.71,
+    "words": 3323,
+    "cd": 2.69,
+    "sd": 9.49,
+    "dlg": 101,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 329,
+    "title": "Chương 329 - Tổng kết Phần 5.txt",
+    "final": 9.71,
+    "words": 3124,
+    "cd": 3.2,
+    "sd": 13.14,
+    "dlg": 83,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 330,
+    "title": "Chương 330 - Đội bóng Thương Gia FC.txt",
+    "final": 9.71,
+    "words": 3307,
+    "cd": 2.96,
+    "sd": 13.14,
+    "dlg": 64,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 331,
+    "title": "Chương 331 - Bắt đầu Phần 6 – Di sản.txt",
+    "final": 9.71,
+    "words": 3490,
+    "cd": 2.94,
+    "sd": 13.19,
+    "dlg": 102,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 332,
+    "title": "Chương 332 - Tập đoàn bóng tối trở lại.txt",
+    "final": 9.71,
+    "words": 3946,
+    "cd": 2.16,
+    "sd": 10.74,
+    "dlg": 117,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 333,
+    "title": "Chương 333 - Âm mưu thôn tính cổ phiếu.txt",
+    "final": 9.71,
+    "words": 4183,
+    "cd": 2.75,
+    "sd": 8.72,
+    "dlg": 111,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 334,
+    "title": "Chương 334 - Phòng thủ cổ đông.txt",
+    "final": 9.71,
+    "words": 3601,
+    "cd": 2.07,
+    "sd": 10.99,
+    "dlg": 107,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 335,
+    "title": "Chương 335 - Liên minh cổ đông nhỏ.txt",
+    "final": 9.71,
+    "words": 3686,
+    "cd": 3.15,
+    "sd": 10.86,
+    "dlg": 83,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 336,
+    "title": "Chương 336 - Âm mưu tập đoàn bóng tối.txt",
+    "final": 9.71,
+    "words": 3394,
+    "cd": 2.61,
+    "sd": 10.77,
+    "dlg": 60,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 337,
+    "title": "Chương 337 - Trí tuệ và hệ thống.txt",
+    "final": 9.71,
+    "words": 3327,
+    "cd": 2.69,
+    "sd": 10.71,
+    "dlg": 95,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 338,
+    "title": "Chương 338 - Chiến thắng đại hội cổ đông.txt",
+    "final": 10.0,
+    "words": 3804,
+    "cd": 3.52,
+    "sd": 9.89,
+    "dlg": 113,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 339,
+    "title": "Chương 339 - Thanh lọc nội bộ.txt",
+    "final": 9.71,
+    "words": 3422,
+    "cd": 3.17,
+    "sd": 7.9,
+    "dlg": 115,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 340,
+    "title": "Chương 340 - Vượt qua âm mưu.txt",
+    "final": 9.71,
+    "words": 3437,
+    "cd": 2.15,
+    "sd": 8.96,
+    "dlg": 167,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 341,
+    "title": "Chương 341 - Lễ bàn giao quyền lực chính thức.txt",
+    "final": 6.0,
+    "words": 3540,
+    "cd": 3.99,
+    "sd": 12.27,
+    "dlg": 95,
+    "hf": [
+      "year_mismatch panel=2019 prose=2018"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 342,
+    "title": "Chương 342 - Lan CEO – con trai Phó.txt",
+    "final": 10.0,
+    "words": 3579,
+    "cd": 4.09,
+    "sd": 9.6,
+    "dlg": 150,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 343,
+    "title": "Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt",
+    "final": 10.0,
+    "words": 3340,
+    "cd": 4.66,
+    "sd": 11.77,
+    "dlg": 126,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 344,
+    "title": "Chương 344 - Lễ bàn giao quyền lực.txt",
+    "final": 6.0,
+    "words": 3471,
+    "cd": 5.07,
+    "sd": 10.39,
+    "dlg": 89,
+    "hf": [
+      "year_mismatch panel=2020 prose=2018"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 345,
+    "title": "Chương 345 - Quỹ Di sản Trần Văn Hùng.txt",
+    "final": 9.71,
+    "words": 3524,
+    "cd": 2.79,
+    "sd": 12.72,
+    "dlg": 116,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 346,
+    "title": "Chương 346 - Người giàu có trách nhiệm.txt",
+    "final": 6.0,
+    "words": 3403,
+    "cd": 3.87,
+    "sd": 13.01,
+    "dlg": 60,
+    "hf": [
+      "year_mismatch panel=2020 prose=2022"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 347,
+    "title": "Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt",
+    "final": 6.0,
+    "words": 3324,
+    "cd": 3.29,
+    "sd": 11.3,
+    "dlg": 66,
+    "hf": [
+      "year_mismatch panel=2020 prose=2023"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 348,
+    "title": "Chương 348 - Du hành tri ân thế giới.txt",
+    "final": 6.0,
+    "words": 3529,
+    "cd": 4.43,
+    "sd": 11.35,
+    "dlg": 102,
+    "hf": [
+      "year_mismatch panel=2021 prose=2023"
+    ],
+    "axes": {
+      "van_chuong": 9.2,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 349,
+    "title": "Chương 349 - Hợp tác với đối tác quốc tế.txt",
+    "final": 6.0,
+    "words": 3295,
+    "cd": 2.08,
+    "sd": 6.61,
+    "dlg": 80,
+    "hf": [
+      "year_mismatch panel=2021 prose=2020"
+    ],
+    "axes": {
+      "van_chuong": 8.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 350,
+    "title": "Chương 350 - Du hành thế giới.txt",
+    "final": 10.0,
+    "words": 3276,
+    "cd": 4.03,
+    "sd": 10.76,
+    "dlg": 97,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 351,
+    "title": "Chương 351 - Nhà đất cũ và ký ức.txt",
+    "final": 9.71,
+    "words": 3331,
+    "cd": 2.73,
+    "sd": 15.14,
+    "dlg": 53,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 352,
+    "title": "Chương 352 - Từ thiện 100.000 tỷ.txt",
+    "final": 10.0,
+    "words": 3857,
+    "cd": 4.03,
+    "sd": 9.45,
+    "dlg": 65,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 353,
+    "title": "Chương 353 - Thư gửi thế hệ sau.txt",
+    "final": 6.0,
+    "words": 3590,
+    "cd": 2.6,
+    "sd": 9.74,
+    "dlg": 57,
+    "hf": [
+      "year_mismatch panel=2022 prose=2023"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 354,
+    "title": "Chương 354 - Hệ thống nhiệm vụ cuối.txt",
+    "final": 6.0,
+    "words": 3339,
+    "cd": 2.88,
+    "sd": 13.82,
+    "dlg": 37,
+    "hf": [
+      "year_mismatch panel=2022 prose=2023"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 355,
+    "title": "Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt",
+    "final": 9.63,
+    "words": 3839,
+    "cd": 3.03,
+    "sd": 12.85,
+    "dlg": 59,
+    "hf": [],
+    "axes": {
+      "van_chuong": 8.9,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 356,
+    "title": "Chương 356 - Bữa tối gia đình.txt",
+    "final": 10.0,
+    "words": 4054,
+    "cd": 4.57,
+    "sd": 15.67,
+    "dlg": 61,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 357,
+    "title": "Chương 357 - Flashback toàn hành trình.txt",
+    "final": 6.0,
+    "words": 3264,
+    "cd": 3.74,
+    "sd": 14.42,
+    "dlg": 56,
+    "hf": [
+      "year_mismatch panel=2023 prose=2024"
+    ],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 358,
+    "title": "Chương 358 - Bữa tối ba thế hệ.txt",
+    "final": 6.0,
+    "words": 3284,
+    "cd": 3.17,
+    "sd": 12.15,
+    "dlg": 60,
+    "hf": [
+      "year_mismatch panel=2023 prose=2024"
+    ],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 5.0,
+      "filler_pad": 10.0,
+      "he_thong": 7.0
+    },
+    "pass": false
+  },
+  {
+    "n": 359,
+    "title": "Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt",
+    "final": 9.71,
+    "words": 3301,
+    "cd": 3.49,
+    "sd": 13.52,
+    "dlg": 44,
+    "hf": [],
+    "axes": {
+      "van_chuong": 9.3,
+      "cau_truc": 10.0,
+      "nhan_vat": 9.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  },
+  {
+    "n": 360,
+    "title": "Chương 360 - Tinh thần Thương Gia mãi trường tồn.t",
+    "final": 10.0,
+    "words": 3511,
+    "cd": 3.51,
+    "sd": 14.02,
+    "dlg": 116,
+    "hf": [],
+    "axes": {
+      "van_chuong": 10.0,
+      "cau_truc": 10.0,
+      "nhan_vat": 10.0,
+      "continuity": 10.0,
+      "filler_pad": 10.0,
+      "he_thong": 10.0
+    },
+    "pass": true
+  }
+]

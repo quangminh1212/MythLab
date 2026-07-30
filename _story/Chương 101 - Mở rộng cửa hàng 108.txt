@@ -1,5 +1,6 @@
 ============================================================
-Chương 101: Mở rộngcửa hàng 108
+Chương 101: Mở rộng cửa hàng 108
+============================================================
 
 Năm 1987. Hùng đặt mục tiêu: 108 cửa hàng trên cả nước trước khi tờ lịch cuối rơi. Không phải vì số đẹp — 108 là con số ông tính ra từ sổ: 36 tỉnh thành, trung bình ba điểm bán mỗi tỉnh, một kho trung chuyển cho mỗi cụm ba tỉnh.
 
@@ -80,8 +81,6 @@ Bà Hà nhìn chồng. Bà không nói gì thêm. Bà biết ông ít khi tính 
 ——
 
 Danh sách hàng hóa được Hùng soạn lại.
-
-108 cửa hàng không thể bán một thứ. Bắc cần: vải mặc, dầu ăn, xà phòng, muối i-ốt, nước mắm, bút bi, vở học sinh, đồ nhựa gia dụng. Trung cần thêm: cá khô, nệm, võng, nồi nhôm, dây thừng, phụ tùng xe đạp. Nam cần thêm: quần áo may sẵn, phấn son, dép nhựa, đồ nhựa cao cấp (thau, chậu, rổ), bột ngọt, thuốc lá (phải có giấy phép riêng).
 
 Mỗi cửa hàng một danh mục đầu tiên: ba mươi mặt hàng cốt lõi, năm mươi mặt hàng phụ. Hùng yêu cầu tồn kho tối thiểu của mỗi mặt hàng không dưới hai mươi đơn vị — nếu hết hàng, người bán phải báo trong vòng hai tiếng.
 
@@ -255,21 +254,19 @@ Bà Hà ngồi xuống cạnh ông:
 — Bao nhiêu trang?
 — Hai trăm. Chắc đủ cho năm sau.
 
-Bà không nói gì, nhưng ngồi lại, nhìn ông viết dòng đầu tiên trên trang trắng. Nét chữ của Hùng — đều, không đẹp, nhưng rạch ròi: "1988. Mục tiêu: 200 cửa hàng." Ông đặt bút, nhìn vợ:
 — Nhiều quá không?
 — Năm ngoái anh nói mười là nhiều. Giờ anh có một trăm lẻ tám. Tôi không dám đoán.
 
 Hùng cười, viết tiếp. Bà Hà đứng dậy, pha ấm trà mới. Ngoài hiên, mưa bụi bay lất phất. Hà Nội vào đông, nhưng tờ giấy trắng trên bàn vừa được lấp đầy những con số đầu tiên của một năm mới.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.101. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Hùng khép sổ 108 điểm. Lan liếc cột "trễ giao" còn ba dòng đỏ, cau mày rồi gật.
+Bà Hà pha trà, không hỏi số — chỉ hỏi ông đã ăn chưa. Ông cười, tay buông bút.
+Sáng mai mở điểm 109 thử. Việc còn mở trên giấy, chưa trên lời hứa.
 
 「Hệ thống — GHI NHẬN ch.101」
 Năm: 1987
 Tổng EXP: 16,625 (+125 nhịp này)
-Không gian kho: 7,920m² (+2,387m² so với sổ cũ)
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1, Quản lý chuỗi bán lẻ (lv mới)
-Ghi chú: khóa nhịp
+Không gian kho: 5,533m² (+33m²)
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
+Ghi chú: Mở rộng 108 cửa hàng — sổ điểm bán + lịch giao ca
+============================================================

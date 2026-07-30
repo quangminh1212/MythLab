@@ -1,7 +1,848 @@
 {
-  "round": 4,
-  "threshold": 9.5,
-  "count": 0,
-  "total_below": 0,
-  "worklist": []
+  "round": 9,
+  "threshold": 8.5,
+  "count": 24,
+  "total_below": 63,
+  "worklist": [
+    {
+      "num": 31,
+      "file": "Chương 31 - Tổng kết năm 1983.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1984 prose=1985"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3398,
+        "dialogue": 16,
+        "sensory_density": 9.75,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1984,
+        "prose_year": 1985
+      }
+    },
+    {
+      "num": 134,
+      "file": "Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1989 prose=1990"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3064,
+        "dialogue": 73,
+        "sensory_density": 12.78,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1989,
+        "prose_year": 1990
+      }
+    },
+    {
+      "num": 135,
+      "file": "Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1989 prose=1990"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3130,
+        "dialogue": 78,
+        "sensory_density": 12.27,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1989,
+        "prose_year": 1990
+      }
+    },
+    {
+      "num": 160,
+      "file": "Chương 160 - Thử nghiệm mẫu xe Thành Công.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1992 prose=1991"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "van_chuong",
+          10.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3058,
+        "dialogue": 45,
+        "sensory_density": 13.94,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1992,
+        "prose_year": 1991
+      }
+    },
+    {
+      "num": 167,
+      "file": "Chương 167 - Điện thoại Thương Gia thế hệ 2.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1992 prose=1993"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3017,
+        "dialogue": 64,
+        "sensory_density": 9.54,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1992,
+        "prose_year": 1993
+      }
+    },
+    {
+      "num": 179,
+      "file": "Chương 179 - Chuẩn bị niêm yết công ty con.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1993 prose=1994"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3218,
+        "dialogue": 66,
+        "sensory_density": 10.25,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1993,
+        "prose_year": 1994
+      }
+    },
+    {
+      "num": 183,
+      "file": "Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1994 prose=1993"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3606,
+        "dialogue": 95,
+        "sensory_density": 11.67,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1994,
+        "prose_year": 1993
+      }
+    },
+    {
+      "num": 189,
+      "file": "Chương 189 - Đối chất công khai.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1994 prose=1995"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3048,
+        "dialogue": 78,
+        "sensory_density": 11.54,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1994,
+        "prose_year": 1995
+      }
+    },
+    {
+      "num": 192,
+      "file": "Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1994 prose=1995"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "van_chuong",
+          8.3
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3639,
+        "dialogue": 99,
+        "sensory_density": 6.78,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1994,
+        "prose_year": 1995
+      }
+    },
+    {
+      "num": 193,
+      "file": "Chương 193 - Xây dựng thương hiệu toàn cầu.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1994 prose=1995"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 4060,
+        "dialogue": 166,
+        "sensory_density": 11.31,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1994,
+        "prose_year": 1995
+      }
+    },
+    {
+      "num": 201,
+      "file": "Chương 201 - Mở rộng châu Âu.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1996 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3062,
+        "dialogue": 90,
+        "sensory_density": 11.31,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1996,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 202,
+      "file": "Chương 202 - Chi nhánh Paris.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1996 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3124,
+        "dialogue": 87,
+        "sensory_density": 14.04,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1996,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 203,
+      "file": "Chương 203 - Nhà hàng Thương Gia tại Lyon.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1996 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3417,
+        "dialogue": 107,
+        "sensory_density": 14.85,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1996,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 204,
+      "file": "Chương 204 - Berlin và kỹ thuật Đức.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1997 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3357,
+        "dialogue": 101,
+        "sensory_density": 11.1,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1997,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 205,
+      "file": "Chương 205 - Nhà máy linh kiện München.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1997 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3571,
+        "dialogue": 74,
+        "sensory_density": 10.39,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1997,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 206,
+      "file": "Chương 206 - London – trung tâm tài chính.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1997 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "cau_truc",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3258,
+        "dialogue": 92,
+        "sensory_density": 10.84,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1997,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 207,
+      "file": "Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1997 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "van_chuong",
+          8.9
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3368,
+        "dialogue": 101,
+        "sensory_density": 10.77,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1997,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 208,
+      "file": "Chương 208 - New York – Wall Street lần đầu.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=1997 prose=1998"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3265,
+        "dialogue": 81,
+        "sensory_density": 11.82,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 1997,
+        "prose_year": 1998
+      }
+    },
+    {
+      "num": 231,
+      "file": "Chương 231 - Mua lại nhà máy đối thủ phá sản.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2008 prose=2009"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "cau_truc",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3669,
+        "dialogue": 120,
+        "sensory_density": 10.52,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2009
+      }
+    },
+    {
+      "num": 232,
+      "file": "Chương 232 - Tái khởi động sản xuất.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2008 prose=2009"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3243,
+        "dialogue": 95,
+        "sensory_density": 11.8,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2009
+      }
+    },
+    {
+      "num": 235,
+      "file": "Chương 235 - Hùng trên truyền hình quốc tế.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2008 prose=2009"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3262,
+        "dialogue": 86,
+        "sensory_density": 8.12,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2009
+      }
+    },
+    {
+      "num": 237,
+      "file": "Chương 237 - Vượt qua đáy khủng hoảng.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2008 prose=2009"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3156,
+        "dialogue": 86,
+        "sensory_density": 10.77,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 2008,
+        "prose_year": 2009
+      }
+    },
+    {
+      "num": 245,
+      "file": "Chương 245 - Xe điện thương mại hóa.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2009 prose=2011"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3726,
+        "dialogue": 88,
+        "sensory_density": 11.68,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 2011
+      }
+    },
+    {
+      "num": 247,
+      "file": "Chương 247 - AI sơ khai trong quản lý kho.txt",
+      "final": 6.0,
+      "hard_fails": [
+        "year_mismatch panel=2009 prose=2006"
+      ],
+      "weakest_axes": [
+        [
+          "continuity",
+          5.0
+        ],
+        [
+          "he_thong",
+          7.0
+        ],
+        [
+          "nhan_vat",
+          9.0
+        ]
+      ],
+      "fix_hints": [
+        "Năm trong panel != năm prose — đồng bộ theo system_ledger (ledger thắng)."
+      ],
+      "metrics": {
+        "words": 3193,
+        "dialogue": 46,
+        "sensory_density": 9.44,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 2009,
+        "prose_year": 2006
+      }
+    }
+  ]
 }

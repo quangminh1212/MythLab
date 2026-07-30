@@ -1,7 +1,8 @@
 ============================================================
 Chương 260: Chuỗi giá trị toàn cầu
+============================================================
 
-2008. Hải Phòng.
+2010. Hải Phòng.
 
 Trời chưa sáng hẳn, Hùng đã đứng ở cảng Tân Vũ. Gió biển mặn thổi vào mặt, trộn với mùi dầu diesel và mùi cá khô từ những tàu đánh cá neo đậu gần đó. Ánh đèn cao áp trên cần cẩu vẫn còn sáng, chiếu xuống những dãy container xếp thẳng tắp như những khối Lego khổng lồ.
 
@@ -69,7 +70,7 @@ Klaus nhướng mày. “Anh vừa tự đề xuất tăng trách nhiệm cho m�
 
 “Vì tôi biết mình làm được.”
 
-Họ bắt tay. Klaus hẹn tháng sau gửi thỏa thuận hợp tác kiểm định qua email. Hùng ghi chú vào sổ: “Quý 2/2009 — triển khai kiểm định tại nguồn cho tất cả lô hàng đi châu Âu.”
+Họ bắt tay. Klaus hẹn tháng sau gửi thỏa thuận hợp tác kiểm định qua email. Hùng ghi chú vào sổ: “Quý 2/2011 — triển khai kiểm định tại nguồn cho tất cả lô hàng đi châu Âu.”
 
 Ngoài bến cảng, một chiếc tàu container bắt đầu rời neo. Tiếng còi tàu vang lên từng hồi dài.
 
@@ -199,7 +200,7 @@ Chuỗi giá trị toàn cầu. Ông mỉm cười. Nó bắt đầu từ một 
 
 Ông dụi điếu thuốc, quay vào phòng. Trên bàn, tài liệu ESG vẫn còn mở. Ông ngồi xuống, đọc tiếp. Một đoạn nói về "social compliance" — tuân thủ xã hội. Yêu cầu rất đơn giản: không lao động trẻ em, không làm thêm quá giờ quy định, trả lương tối thiểu. Hùng gạch chân ba điều đó. Ông đã làm được cả ba từ nhiều năm trước. Bây giờ chỉ cần ghi lại thành văn bản.
 
-Ông mở sổ tay, viết thêm dòng cuối: "2008 — kết thúc năm đầu tiên trong chuỗi giá trị toàn cầu. Còn rất xa mới đến đích. Nhưng ít nhất đã bắt đầu."
+Ông mở sổ tay, viết thêm dòng cuối: "2010 — kết thúc năm đầu tiên trong chuỗi giá trị toàn cầu. Còn rất xa mới đến đích. Nhưng ít nhất đã bắt đầu."
 
 Trước khi rời văn phòng, thư ký của Klaus gửi một email gấp: ba mẫu giày từ lô hàng Hải Phòng đã qua kiểm tra nhưng keo mũi — loại mới từ nhà cung cấp Hàn Quốc — cho thấy dấu hiệu phân hủy sớm dưới tia UV. Thời gian chịu nhiệt giảm từ 72h xuống 31h. Hùng lập tức gọi cho nhà cung cấp keo. Người Hàn Quốc ở đầu dây bình thản: "Đó là keo công nghiệp thường, không phải keo chịu nhiệt. Quý vị đặt loại thường." Hùng im lặng. Hợp đồng trước mắt ông ghi rõ: "Keo chịu nhiệt, tiêu chuẩn ISO 11339." Nhà cung cấp không sai nhầm — họ cố tình giao sai chủng loại để thử phản ứng của Thương Gia. Nếu ông không phát hiện, đối tác Đức sẽ mất niềm tin. Và nhà cung cấp Hàn Quốc kia — họ đang chờ sẵn để nhảy vào thế chỗ.
 
@@ -208,12 +209,11 @@ Trước khi rời văn phòng, thư ký của Klaus gửi một email gấp: ba
 Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. Minh đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." Minh xoa bóp vai anh, nhẹ nhàng, đều đặn.
 
 
-
 Hùng nhíu mày, siết ngón tay sổ ch.260. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
 
 「Hệ thống — GHI NHẬN ch.260」
-Năm: 2008
-Tổng EXP: 58,667 (+334 nhịp này)
+Năm: 2010
+Tổng EXP: 58,667 (+334)
 Không gian kho: 23,333m² (+166m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
 Ghi chú: khóa nhịp

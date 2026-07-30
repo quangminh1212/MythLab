@@ -217,7 +217,7 @@ Máy bay hạ cánh. Hà Nội đón cô bằng mưa xuân và cái lạnh thán
 
 Lan đọc, không nói gì. Cô gọi xe ôm về Hà Đông. Trên đường, cô nhìn hai bên đường — những cánh đồng lúa xanh mơn mởn, những làng mạc đang dần thay mái ngói, những biển hiệu công ty mới treo trên những ngôi nhà ống thô sơ — và nghĩ: đất nước đang đổi, và Thương Gia đổi nhanh hơn. Cô vừa đặt một mắt xích đầu tiên cho chuỗi cung ứng toàn cầu. Những mắt xích còn lại — cô sẽ tiếp tục nối, dù bằng đường bay, đường biển, hay bằng những bước chân trên đất lạ.
 
-Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
+Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn Lan trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
 
 Hai người ăn cơm tối. Mùi cơm mới thơm, mùi canh cá nóng hổi. Hùng gắp thịt cho Lan. “Em ăn đi.” Lan gắp lại. “Anh ăn đi.” Họ cười, mắt nhìn nhau. Hùng cảm thấy bình yên. Ông nhai chậm, cảm nhận từng hạt cơm, từng ngụm canh chua ngọt.
 
@@ -227,17 +227,15 @@ Trong phòng khách, Hùng mở tủ sách, lấy một cuốn sách cũ. Mùi g
 
 Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
 
-Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn vợ trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
+Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà. Bên cạnh, Lan đã ngủ say, hơi thở đều đặn. Hùng quay sang, nhìn Lan trong bóng tối. Ông khẽ vươn tay, vuốt tóc cô. Cô khẽ cựa, nhưng vẫn ngủ. Hùng mỉm cười, xoay người, nhắm mắt. Lần này, ông ngủ thiếp đi.
 
 Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
 
-Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
+Chuỗi cung ứng vừa có mắt xích đầu tiên; cuộc phản công của David Lưu vẫn còn phía trước.
 
 「Hệ thống — GHI NHẬN ch.192」
-Năm: 1995
-Tổng EXP: 0
-Không gian kho: 0
+Năm: 1994
+Tổng EXP: 35,440 (+320)
+Không gian kho: 11,360m² (+80m²)
 Kỹ năng trọng yếu: (xem ledger)
 Ghi chú: supply chain direct procurement — cắt 40% chi phí nguyên liệu đầu vào

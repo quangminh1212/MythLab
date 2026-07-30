@@ -144,7 +144,7 @@ Tanaka về nước sau khi ký hợp đồng. Nhưng những ngày sau đó, H�
 
 Tin đặt khuôn mới lan ra trong xưởng. Một số người nói: "Sếp chi mạnh tay quá." Một số khác: "Không chi thì chết." Nhưng Hải, tổ trưởng, im lặng. Tối hôm đó, Hải đến gặp Hùng ở nhà riêng, mang theo một cái bánh mì và một chai nước. "Sếp, em xin lỗi. Máy cũ em biết rồi nhưng em vẫn cố chạy. Em sợ báo sửa thì sếp bảo em yếu tay nghề." Hùng lắc đầu: "Không. Yếu không phải là không biết sửa. Yếu là biết hỏng mà vẫn để nó hỏng." Hải cúi đầu. "Từ nay, hỏng gì báo ngay. Không giấu." Hải gật. Ra về, bước chân nhẹ hơn.
 
-Khuôn mới về sau ba tuần. Ngày đầu tiên chạy thử, Hùng đứng nhìn từng chi tiết ra lò. Kỹ thuật viên đo — sai số 0.05mm, thấp hơn yêu cầu. Mọi người vỗ tay. Hùng không vỗ tay — ông chỉ thở phào. Lô hàng thứ hai gửi đi, và lần này, đối tác Nhật trả lời sau một tuần: "Good quality. Continue." Hùng gấp tờ fax, cất vào túi. Tối hôm đó, ông đến nhà Hải, mang theo một chai rượu, uống với nhau ngoài hiên. Họ không nói về chuyện nhà máy. Họ nói về vợ con, về cuộc sống, về những cái bẫy mà ai cũng gặp trên đường đời. Giữa chừng, Hải nói: "Sếp ơi, hồi sếp mới ra làm, sếp có sợ không?" Hùng cười: "Sợ chứ. Nhưng mà sợ thì mới cẩn thận. Không sợ mới là chết." Họ uống đến khuya.
+Khuôn mới về sau ba tuần. Ngày đầu tiên chạy thử, Hùng đứng nhìn từng chi tiết ra lò. Kỹ thuật viên đo — sai số 0.05mm, thấp hơn yêu cầu. Mọi người vỗ tay. Hùng không vỗ tay — ông chỉ thở phào. Lô hàng thứ hai gửi đi, và lần này, đối tác Nhật trả lời sau một tuần: "Good quality. Continue." Hùng gấp tờ fax, cất vào túi. Tối hôm đó, ông đến nhà Hải, mang theo một chai rượu, uống với nhau ngoài hiên. Họ không nói về chuyện nhà máy. Họ nói về người nhà con, về cuộc sống, về những cái bẫy mà ai cũng gặp trên đường đời. Giữa chừng, Hải nói: "Sếp ơi, hồi sếp mới ra làm, sếp có sợ không?" Hùng cười: "Sợ chứ. Nhưng mà sợ thì mới cẩn thận. Không sợ mới là chết." Họ uống đến khuya.
 
 
 Một tháng sau khi khuôn mới về, sản lượng của Thương Gia tăng vọt. Nhưng Hùng không hài lòng. Ông nhận ra — để cạnh tranh với Nhật, chỉ có khuôn tốt là chưa đủ. Cần hệ thống. Ông thuê một chuyên gia người Nhật tên Sato, sáu mươi hai tuổi, đã nghỉ hưu sau ba mươi năm làm quản lý sản xuất cho Toyota. Sato là người khó tính nhất mà Hùng từng gặp.
@@ -167,12 +167,27 @@ Chuyện kể rằng, sau buổi lễ, một công nhân tên Hạnh, bốn mư�
 
 ch146 đã ~3000w — thêm 30w margin tránh underflow
 
+***
+
+Phòng họp tầng mười im sau câu "cô có một giờ". Lan đặt hồ sơ xuống, không mở hết. "Ba số trước. Rồi câu hỏi của ông."
+
+Thompson nhíu. Rodriguez ghi. Lan nói dung sai, lead time, phạt chậm — không giải thích thừa. Khi họ hỏi "có thể giảm giá không?", cô im đếm ba, rồi: "Không. Có thể tăng bảo hành."
+
+Hùng không vào phòng. Ông ngồi sảnh, nắm tách cà phê nguội, nhìn đồng hồ. Một giờ đúng, cửa mở. Lan bước ra, mặt không cười lớn. "Họ muốn mẫu thêm. Không giảm giá. Họ gật bảo hành."
+
+Hùng thở, gật: "Đủ. Về khách sạn em ngủ. Mai viết biên bản."
+
+Tối, Lan gọi bà Hà một phút: "Mẹ, con xong họp. Ăn rồi." Mẹ chỉ dặn ngủ sớm. Cô gác máy, siết sổ bìa đen — trang đàm phán đầy chữ.
+
+Sáng mai Thompson sẽ fax điều khoản chính thức. Liệu chữ "bảo hành" có bị họ đổi thành chiết khấu — hay giữ nguyên như đã nói trong phòng?
+
+Thompson fax điều khoản — bảo hành giữ, giá không giảm. Lan ngủ được lúc hai giờ sáng; sổ bìa đen đầy chữ.
+
+============================================================
 「Hệ thống — GHI NHẬN ch.146」
 Năm: 1990
 Tổng EXP: 22,380 (+180 nhịp này)
 Không gian kho: 7,352m² (+72m²)
-Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
-Ghi chú: Lan đàm phán với Thompson — McCormick đồng ý hợp đồng; gặp Rodriguez — ký lô thử 200 thùng
-
-Sau cuộc họp, Lan ra hành lang, dựa vào tường lạnh. Cô mở ví lấy cuốn sổ tay cũ. Trang đầu: nét chữ của Hùng — "tin mình trước khi tin số." Cô cười khẽ. Người Mỹ vừa ép cô ký điều khoản loại trừ trách nhiệm. Cô không ký. Không phải vì không hiểu — mà vì cô hiểu rõ cái giá của việc gật đầu không đúng lúc. Một nhân viên lễ tân mang cà phê. Lan nhận, tay vẫn lạnh. Cô uống một ngụm, đắng, nhưng cần thiết. Trong đầu cô hình dung bà Hà — người không biết tiếng Anh nhưng biết khi nào đàn bà phải cứng.
+Kỹ năng trọng yếu: Giáo dục lv1, Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
+Ghi chú: Lan Thompson không giảm giá tăng bảo hành
 ============================================================

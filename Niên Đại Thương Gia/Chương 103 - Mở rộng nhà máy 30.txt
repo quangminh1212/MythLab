@@ -1,5 +1,6 @@
 ============================================================
-Chương 103: Mở rộngnhà máy 30
+Chương 103: Mở rộng nhà máy 30
+============================================================
 
 Con số 30 treo trước mặt Hùng từ đầu năm 1987. Ba mươi nhà máy — không phải ba mươi xưởng nhỏ, không phải ba mươi điểm thuê mặt bằng. Nhà máy. Mỗi cái có tường, có mái, có giấy phép, có người đứng ra chịu trách nhiệm. Một con số mà năm năm trước ông còn ngại viết vào sổ.
 
@@ -137,23 +138,19 @@ Hùng uống một ngụm trà gừng. Vị cay ấm từ từ chảy xuống c�
 — Vậy làm năm mươi. Coi như thử.
 
 Hùng nhìn bà Hà. Người đàn bà chưa bao giờ học qua trường lớp nào, nhưng lúc nào cũng chỉ ông con đường không quá căng, không quá trễ. Ông cười trong bụng. Năm mươi nhà máy. Sao không? Ông cầm tách trà lên, uống cạn. Đêm ấy ông ngủ ngon hơn những đêm trước.
-«Hệ thống — GHI NHẬN ch.103»
-Năm: 1987
-Tổng EXP: 16,875 (+125 nhịp này)
-Không gian kho: 5,600m² (+33m²)
-Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
-Nhà máy thứ 30 đi vào hoạt động. Hùng đứng trước cổng, nhìn dây chuyền chạy.
-Từ một xưởng may sau nhà đến ba mươi nhà máy. Ông không nói gì, chỉ gật đầu với Minh.
 
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.103. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Minh đưa bảng công suất lần nữa. Hùng liếc cột đỏ, nhíu mày, tay siết mép giấy rồi buông.
+"Trạm bảy trễ thép mấy ngày?"
+"Ba ngày. Em đã gọi lại sáng nay." Minh cúi, ngẩng, thở một hơi.
+Lan gật, mắt không rời sổ. Hùng cười khẽ — không phải vui, là chấp nhận việc còn phải đẩy.
+"Mai họp điều phối. Ai trễ, ghi rõ tên nhà cung." Ông nắm bút, viết, siết đầu bút một cái rồi thả.
+Ngoài sân xưởng, mùi dầu nóng và tiếng máy dập đều đều. Gió lùa bụi vào mép cửa. Lan nuốt câu hỏi dở, chỉ gật.
+Sáng mai còn họp chuỗi cung. Việc chưa chốt hết — phía trước vẫn còn mắt xích đỏ trên sổ.
 
 「Hệ thống — GHI NHẬN ch.103」
 Năm: 1987
-Tổng EXP: 0
-Không gian kho: 0
-Kỹ năng trọng yếu: (xem ledger)
-Ghi chú: khóa nhịp
+Tổng EXP: 16,875 (+125 nhịp này)
+Không gian kho: 5,600m² (+33m²)
+Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
+Ghi chú: Mở rộng 30 nhà máy — kiểm công suất & chuỗi cung
+============================================================

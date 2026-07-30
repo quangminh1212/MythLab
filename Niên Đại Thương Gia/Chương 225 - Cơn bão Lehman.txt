@@ -1,5 +1,6 @@
 ============================================================
 Chương 225: Cơn bão Lehman
+============================================================
 
 Đầu tháng Chín năm 2008, Hùng đang ngồi trong phòng làm việc tại Thương Gia Tower. Trên bàn là một tập báo cáo tài chính quý II dày ba mươi trang, góc trái có chữ ký của ông Phúc — người đã kiểm tra từng con số trước khi trình lên. Ngoài cửa sổ, phố Nguyễn Huệ vẫn đông đúc xe cộ, người mua người bán tấp nập. Không ai biết rằng cách nửa vòng trái đất, một con tàu khổng lồ vừa chìm.
 
@@ -171,25 +172,12 @@ Hải nhìn tờ giấy, gật đầu. "Em sẽ mở một tài khoản riêng c
 
 Hải ra về. Hùng ngồi lại một mình trong phòng, nhìn những con số trên màn hình. 420 tỷ. 250 tỷ. 170 tỷ. Những con số vô tri, nhưng nó quyết định số phận của hàng nghìn con người.
 
-Trong nhà bếp, Hùng nhặt rau, bà Hà thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. bà Hà cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
-
-Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Sau bữa ăn, hai người ngồi trước hiên nhà. Hùng rút thuốc ra, bà Hà nhìn anh. "Anh bỏ thuốc đi." Hùng cười, cất lại bao thuốc. "Thôi, vì em." bà Hà mỉm cười, dựa vào Hùng. Trăng lên cao, sao lấp lánh.
-
-Buổi trưa, Hùng nằm võng, mắt nhắm, lắng nghe tiếng ve kêu. bà Hà ngồi bên cạnh phe phẩy quạt. Gió mát từ quạt đưa lại, mùi nắng, mùi đất. "Có mệt không anh?" bà Hà hỏi. Hùng lắc đầu: "Có em ở đây, không mệt."
-
-Trên bàn làm việc, sổ sách chất cao. Hùng lật sổ cái, bút chì ghi chép. bà Hà đến sau lưng, tay xoa vai anh. "Anh làm việc nhiều quá." Hùng gác bút: "Cũng sắp xong rồi." bà Hà xoa bóp vai anh, nhẹ nhàng, đều đặn.
-
-Liệu ngày mai còn lỗ hổng? Sẽ rõ lúc giao ca.
-
-
-
-Hùng nhíu mày, siết ngón tay sổ ch.225. Lan liếc, cúi, gật. Ông thở, nuốt, ngẩng. Mắt đỏ vì bụi. Tay chai buông rồi nắm. Cô cười gượng.
+Lehman đã sụp. Thị trường chưa chạm đáy. Đêm nay ông không trả lời báo chí — chỉ giữ cửa xưởng mở sáng mai.
 
 「Hệ thống — GHI NHẬN ch.225」
 Năm: 2008
-Tổng EXP: 45,000
-Không gian kho: 0
-Kỹ năng trọng yếu: (xem ledger)
-Ghi chú: Lehman Brothers phá sản. Hùng vạch chiến lược ba giai đoạn — bảo vệ, chờ đợi, tấn công. Lan về Mỹ. Ngân sách mua sắm tối đa 250 tỷ. Hải phát hiện rủi ro Thiên Nam — gác lại.
+Tổng EXP: 50,061 (+163 nhịp này)
+Không gian kho: 18,152m² (+136m²)
+Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
+Ghi chú: Lehman sụp — đóng vị thế ngoại tệ; họp 3h sáng.
+============================================================
