@@ -4,9 +4,11 @@ Chương 239: Đường dài
 
 Cuối tháng Ba, 2009. Long An.
 
-Nắng gắt trên công trường. Đã hai tháng kể từ lễ khởi công, những con đường đất đã biến thành đường cấp phối, các móng nhà xưởng đã đổ bê tông, và những khung thép đang dần dựng lên như bộ xương của một loài thú khổng lồ. Trong số sáu nhà xưởng giai đoạn một, nhà xưởng số 1 đã hoàn thiện phần mái — một khối thép màu xám cao mười hai mét, nhìn từ xa như một boongke công nghiệp giữa cánh đồng.
+Mùi đất đỏ trộn với mùi dầu diesel quẩn dưới cái nắng sớm. Gió từ cánh đồng thổi qua, mang theo vị mặn lờ lợ của con kênh gần đó, nhưng không đủ mạnh để xua lớp bụi mịn đang bám lên tóc, lên cổ áo, lên những tấm biển tôn mới dựng. Mỗi lần xe ben chạy ngang, mặt đất rung nhẹ; tiếng đá cấp phối đổ xuống thùng xe nghe như một trận mưa sỏi.
 
-Hùng đứng dưới bóng râm của mái nhà xưởng mới dựng. Mồ hôi ướt cổ áo dù ông vừa cởi áo vest và cà vạt từ lúc bước vào khu vực thi công. Trước mặt ông là dây chuyền SMT từ Ohio — những cỗ máy dài sáu mét, nằm trên bệ bê tông đã được căn chỉnh độ phẳng từng milimét. Kỹ sư Minh đang cúi xuống kiểm tra một bảng mạch mẫu dưới kính lúp gắn trên giá ba chân. Tay anh ta cầm nhíp nhỏ, chỉ vào một điểm trên bảng mạch, nói chuyện với ba kỹ sư trẻ người Việt vừa được cử sang Singapore đào tạo hai tháng.
+Nắng gắt trên công trường.
+
+Hùng đứng dưới bóng râm của mái nhà xưởng mới dựng. Mồ hôi ướt cổ áo dù ông vừa cởi áo vest và cà vạt từ lúc bước vào khu vực thi công. Tiếng máy khoan rền lên ở góc xa, rồi ngừng — rồi lại rền. Bụi bê tông bay lấp lánh trong tia nắng xiên qua khe hở mái tôn. Trước mặt ông là dây chuyền SMT từ Ohio — những cỗ máy dài sáu mét, nằm trên bệ bê tông đã được căn chỉnh độ phẳng từng milimét. Kỹ sư Minh đang cúi xuống kiểm tra một bảng mạch mẫu dưới kính lúp gắn trên giá ba chân. Tay anh ta cầm nhíp nhỏ, chỉ vào một điểm trên bảng mạch, nói chuyện với ba kỹ sư trẻ người Việt vừa được cử sang Singapore đào tạo hai tháng.
 
 — Anh Hùng, ra đây xem cái này. — Minh không ngẩng lên. — Lô thử đầu tiên. Tám bảng. Kiểm tra tự động, sáu bảng OK, hai bảng lỗi hàn — do nhiệt độ hồi lưu chưa chuẩn. Bọn em đang chỉnh lại profile nhiệt.
 
@@ -148,7 +150,7 @@ Hùng  điện thoại.
 
 — Giữ đơn lại. Tôi sẽ ghé xem nhà máy.
 
-Hai ngày sau, Hùng có mặt tại Dệt may Hưng Thịnh — năm hécta ở ngoại thành Hà Nội, dọc quốc lộ 1A. Khi ông bước vào cổng, cảnh tượng trước mắt không lấy gì làm khả quan — tường nhà máy bong tróc từng mảng lớn, mái tôn thủng lỗ chỗ, sân đầy vũng nước từ trận mưa đêm qua. Nhưng khi bước vào xưởng may, ông thấy một điều trái ngược hoàn toàn: máy móc sạch bóng. Dây chuyền được lau chùi, bảo dưỡng kỹ lưỡng. Sàn xưởng không một mảnh vải vụn. Công nhân — gần năm trăm người — đang làm việc tập trung.
+Hai ngày sau, Hùng có mặt tại Dệt may Hưng Thịnh — năm hécta ở ngoại thành Hà Nội, dọc quốc lộ 1A. Khi ông bước vào cổng, cảnh tượng trước mắt không lấy gì làm khả quan — tường nhà máy bong tróc từng mảng lớn, mái tôn thủng lỗ chỗ, sân đầy vũng nước từ trận mưa đêm qua. Nhưng khi bước vào xưởng may, ông thấy một điều trái ngược hoàn toàn: máy móc sạch bóng. Dây chuyền được lau chùi, bảo dưỡng kỹ lưỡng. Sàn xưởng không một mảnh vải vụn. Mùi dầu máy mới trộn với mùi vải cotton sạch, thoang thoảng. Tiếng kim đâm vải tành tạch đều đặn như nhịp thở của một cơ thể khổng lồ đang phục hồi. Công nhân — gần năm trăm người — đang làm việc tập trung.
 
 — Máy mua từ Nhật 2005, còn chạy tốt. — Tài nói. — Công nhân tôi được dạy: giữ máy sạch. Máy hư mua máy mới. Tay nghề hư thì không gì mua được.
 
@@ -194,7 +196,7 @@ Hùng bắt tay Tài. Cái bắt tay của một người thợ.
 
 Hùng dậy từ bốn giờ. Ông mặc bộ đồ lao động xanh, ra khu nhà xưởng từ lúc mặt trời chưa mọc. Công trường vắng vẻ. Ông đi dọc theo dãy nhà xưởng, tay sờ vào phiến thép lạnh, kiểm tra mối hàn.
 
-Đến năm giờ, kỹ sư Minh và ba kỹ sư điện tử có mặt. Sáu giờ, dây chuyền bắt đầu chạy. Những con chip nhỏ xíu được robot đặt lên bảng mạch. Mười hai giây mỗi bảng.
+Đến năm giờ, kỹ sư Minh và ba kỹ sư điện tử có mặt. Sáu giờ, dây chuyền bắt đầu chạy. Những con chip nhỏ xíu được robot đặt lên bảng mạch. Mười hai giây mỗi bảng. Tiếng servo kêu xì xì, từng cánh tay robot đưa lên hạ xuống đều đặn, chính xác đến mức phi lý. Mùi hàn thiếc thoảng lên — vị kim loại ngọt lịm, hơi khét nhẹ. Hùng đứng bên ngoài rào chắn, hai tay khoanh trước ngực, quan sát từng giây.
 
 Đến trưa, mười bảng mạch đầu tiên hoàn thành. Minh đem từng bảng vào phòng kiểm tra.
 
@@ -206,7 +208,7 @@ Hùng bước tới bàn, nhặt một bảng mạch hoàn thiện, giơ lên tr
 
 ***
 
-Tối, Hùng ngồi ở quán cà phê quen trên đường Nguyễn Văn Trỗi. Ông gọi ly cà phê đen, không đường, mở cuốn sổ tay.
+Tối, Hùng ngồi ở quán cà phê quen trên đường Nguyễn Văn Trỗi. Ông gọi ly cà phê đen, không đường, mở cuốn sổ tay. Quán nhỏ, chỉ bốn cái bàn nhựa dưới mái hiên. Đèn neon vàng nhạt; muỗi vo ve quanh bóng đèn. Bên kia đường, một đám đông dừng đèn đỏ, tiếng còi xe máy inh ỏi rồi ùa đi. Vị cà phê đắng đậm, chảy chậm xuống cổ họng, nóng bỏng.
 
 Kể từ đầu năm:
 - Nhà xưởng mới: 4
@@ -220,6 +222,8 @@ Kể từ đầu năm:
 Điện thoại rung — Lan gọi từ Hà Nội.
 
 — Anh, em nghe nói hôm nay ra lô hàng đầu tiên?
+
+Giọng Lan vui nhưng hơi khàn — có lẽ đã nói nhiều từ chiều. Hùng nghe thấy cả tiếng gió lùa qua phone, tiếng xe cộ đường xa.
 
 — Ừ, vừa giao xong. — Hùng nói. — Dây chuyền chạy ngon. Tỷ lệ lỗi 2%.
 
@@ -235,7 +239,7 @@ Hùng cười. Lan ngày càng hiểu ông.
 
 — Dạ.
 
-Một chiếc xe tải trắng đỗ xịch trước quán. Minh bước xuống, tay cầm túi nhựa trong suốt, bên trong là một bảng mạch màu xanh còn nóng hổi.
+Một chiếc xe tải trắng đỗ xịch trước quán. Hơi phanh nóng bốc lên cùng mùi cao su cháy nhẹ. Minh bước xuống, tay cầm túi nhựa trong suốt, bên trong là một bảng mạch màu xanh còn nóng hổi.
 
 — Em đi giao hàng, ghé cho anh cái này. Lô đầu tiên, bảng mạch số 1. Anh giữ làm kỷ niệm.
 
@@ -255,17 +259,17 @@ Con đường phía trước còn dài. Thương Gia City vừa mới lên móng
 
 — Về. Sáng mai dậy sớm. — Hùng cười. — Đường còn dài lắm.
 
-Hùng kéo ghế ra ngoài hiên, ngồi xuống bậc thềm gạch đã mòn theo năm tháng. Bà Hà từ trong nhà bước ra, tay cầm một chén trà nóng, đặt xuống cạnh ông. Hai mẹ con không nói gì, chỉ ngồi nhìn ra đường. Một đám trẻ con đá bóng ngoài ngõ, tiếng cười giòn tan. Một người đàn ông đạp xích lô chậm rãi đi qua, chiếc chuông kêu leng keng. Hùng đưa tay kéo vạt áo bà Hà đang bị gió thổi bay: "Mẹ vào trong đi, gió lạnh rồi." Bà Hà gật đầu nhưng không đứng dậy: "Ngồi với con một lát. Dạo này con ít về nhà ăn cơm."
+Hùng kéo ghế ra ngoài hiên, ngồi xuống bậc thềm gạch đã mòn theo năm tháng. Gió chiều thổi nhẹ, mang theo mùi cơm sôi từ nhà bên cạnh, mùi lá sả tươi ai đó đang vò. MẾ từ trong nhà bước ra, tay cầm một chén trà nóng, đặt xuống cạnh ông. Hơi trà bốc lên — mùi trà xanh quen thuộc, vị đất sét ấm áp. Hai mẹ con không nói gì, chỉ ngồi nhìn ra đường. Một đám trẻ con đá bóng ngoài ngõ, tiếng cười giòn tan. Một người đàn ông đạp xích lô chậm rãi đi qua, chiếc chuông kêu leng keng. Hùng đưa tay kéo vạt áo mế đang bị gió thổi bay: "Mẹ vào trong đi, gió lạnh rồi." MẾ gật đầu nhưng không đứng dậy: "Ngồi với con một lát. Dạo này con ít về nhà ăn cơm."
 
 Đường dài không cần hô khẩu hiệu. Sổ 36 tháng mở trang đầu — việc thứ nhất là giữ nhịp trả lương đúng ngày.
 
 Việc còn mở phía trước. Sáng mai ông mở sổ từ dòng chưa gạch.
 
-Minh hỏi bao giờ được mở thêm một chuyền. Hùng lắc. — Đường dài. Giữ nhịp trả lương trước đã. Ông nắm tờ kế hoạch 36 tháng, đưa em xem dòng việc thứ nhất được khoanh đỏ.
+Minh hỏi bao giờ được mở thêm một chuyền. Hùng lắc. — Đường dài. Giữ nhịp trả lương trước đã. Ông nắm tờ kế hoạch 36 tháng, đưa Minh xem dòng việc thứ nhất được khoanh đỏ. Minh đọc, mắt di chuyển từng dòng. Anh hiểu — không phải không có khả năng, mà là chưa đến lúc. Hùng thấy trong mắt Minh sự kiên nhẫn mới — một tháng trước, Minh đã sốt ruột muốn mở gấp đôi công suất. Bây giờ anh đã hiểu: nhịp điệu quan trọng hơn tốc độ.
 
 Đêm ấy Hùng không viết khẩu hiệu vào sổ. Ông viết lịch kiểm tra lương từng kỳ, lịch bảo trì máy, và dòng chữ nhỏ: "Không mở thêm mũi khi mũi cũ chưa chạy đủ công suất."
 
-Bà Hà ngồi cạnh, khâu áo. Bà không đọc sổ. Bà chỉ nói:
+MẾ ngồi cạnh, khâu áo. Đôi tay bà thoăn thoắt, kim chạy qua vải đều đặn. Bà không đọc sổ. Bà chỉ nói:
 
 — Con bận thì bảo. Đừng im rồi gục.
 
@@ -273,7 +277,15 @@ Hùng nắm tay mẹ một cái, buông. — Con không gục. Con chỉ đi ch�
 
 Ngoài ngõ, tiếng xe máy thưa. Ông biết Thương Gia City sẽ cần nhiều năm. Đường dài bắt đầu bằng việc không tự dối về tốc độ.
 
-Lan chốt thêm một dòng: đường dài cần mốc kiểm, người chịu trách nhiệm và ngày quay lại đo kết quả thực tế.
+Lan gọi thêm một cuộc, lúc mười giờ đêm. Giọng cô đã mệt nhưng vẫn rõ ràng:
+
+— Anh, em vừa lập xong danh sách việc cần làm trong 36 tháng. Gửi anh sáng mai. Có ba cột: việc, người chịu trách nhiệm, ngày quay lại đo kết quả thực tế. Em không muốn đường dài thành đường mù.
+
+Hùng mỉm cười. Lan — em gái ông, người duy nhất ngoài ông dám nói thẳng "đường mù" mà không sợ ông phản ứng. Ông định tắt điện thoại thì Lan nói thêm:
+
+— Mà anh, bên dệt may Hưng Thịnh — Trần Quốc Bảo vừa báo. Khách hàng lớn nhất của họ, một đơn vị quân đội, hủy hợp đồng đột ngột. Lý do: "thay đổi chính sách mua sắm". Lô hàng trị giá bốn tỷ. Anh tính sao?
+
+Hùng nắm chặt ly cà phê đã lạnh. Bốn tỷ — bằng cả tháng lương công nhân. Ông cúi xuống nhìn cuốn sổ tay, dòng chữ "đường dài" vừa viết xong. Đường dài không có nghĩa là không có vết lở.
 
 「Hệ thống — GHI NHẬN ch.239」
 Năm: 2009

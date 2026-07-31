@@ -2,15 +2,15 @@
 Chương 209: Đàm phán niêm yết ADR
 ============================================================
 
-Căn phòng họp ở tầng chín khách sạn Metropole có trần cao kiểu Pháp, những đường phào chỉ trắng chạy dọc theo tường, và một chiếc đèn chùm pha lê treo giữa trần — thứ ánh sáng vàng nhạt không giống bất kỳ phòng họp nào Hùng từng ngồi. Phía cuối bàn là ba người Mỹ: hai luật sư từ công ty Sullivan & Cromwell ở New York, một chuyên viên ngân hàng đầu tư từ Goldman Sachs. Họ mặc vest xanh than, cà vạt lụa, trước mặt mỗi người một tập tài liệu dày bằng hai ngón tay. Nước hoa của một trong số họ thoảng mùi gỗ đàn hương, thứ mùi xa lạ với phòng họp ông thuộc.
+Căn phòng họp ở tầng chín khách sạn Metropole có trần cao kiểu Pháp, những đường phào chỉ trắng chạy dọc theo tường, và một chiếc đèn chùm pha lê treo giữa trần — thứ ánh sáng vàng nhạt không giống bất kỳ phòng họp nào Hùng từng ngồi. Bàn gỗ óc chó bóng loáng, sờ vào lạnh và mịn. Phía cuối bàn là ba người Mỹ: hai luật sư từ công ty Sullivan & Cromwell ở New York, một chuyên viên ngân hàng đầu tư từ Goldman Sachs. Họ mặc vest xanh than, cà vạt lụa, trước mặt mỗi người một tập tài liệu dày bằng hai ngón tay. Nước hoa của một trong số họ thoảng mùi gỗ đàn hương, thứ mùi xa lạ với phòng họp ông thuộc.
 
-Buổi sáng tháng Ba năm 1997. Ngoài kia phố Phan Đình Phùng còn ẩm hơi sương, những tán sấu già chưa kịp thay lá. Qua khung cửa sổ cao, Hùng thấy một người đàn ông đạp xích lô chở hai đứa trẻ đi học — áo mưa phủ lên đầu, bánh xe lăn trên mặt đường ướt. Ông nhìn họ lâu hơn cần thiết.
+Buổi sáng tháng Ba năm 1998. Ngoài kia phố Phan Đình Phùng còn ẩm hơi sương, những tán sấu già chưa kịp thay lá. Qua khung cửa sổ cao, Hùng thấy một người đàn ông đạp xích lô chở hai đứa trẻ đi học — áo mưa phủ lên đầu, bánh xe lăn trên mặt đường ướt. Ông nhìn họ lâu hơn cần thiết.
 
 Ông James Whittaker, luật sư chính, hắng giọng và mở đầu bằng một câu tiếng Anh rất chậm: "Mr. Tran, công ty của ông đã vượt qua sàn lọc của chúng tôi. Nhưng để niêm yết dưới dạng ADR, chúng tôi cần ba thứ: kiểm toán theo chuẩn GAAP, báo cáo tài chính ba năm liên tiếp, và một cơ chế quản trị minh bạch."
 
 Whittaker nói từng chữ một, kiểu người đã quen với việc khách hàng không hiểu. Hùng không để tâm đến giọng điệu đó. Ông tập trung vào nội dung.
 
-Lan ngồi bên trái Hùng, ghi chép nhanh vào cuốn sổ bìa xanh. Chị không ngước lên, chỉ viết — từng dòng một, rạch ròi. Ngòi bút bi lướt trên giấy, âm thanh đều đều như nhịp thở. Trên bàn, một ấm trà sen đã nguội từ lúc nào.
+Lan, em gái của Hùng, ngồi bên trái anh, ghi chép nhanh vào cuốn sổ bìa xanh. Cô không ngước lên, chỉ viết — từng dòng một, rạch ròi. Mùi mực bi ngai ngái bám trên đầu ngón tay, còn mép giấy sần lên dưới cổ tay. Ngòi bút bi lướt trên giấy, âm thanh đều đều như nhịp thở. Trên bàn, một ấm trà sen đã nguội từ lúc nào.
 
 "GAAP khác với chuẩn kế toán Việt Nam chỗ nào?" Hùng hỏi.
 
@@ -46,7 +46,7 @@ Hùng gật đầu, ghi tiếp vào sổ. 15% là con số chấp nhận đượ
 
 Lần này Michael Torres — người ngân hàng từ Goldman Sachs — lên tiếng. Anh ta gốc Puerto Rico, da nâu, nụ cười thường trực trên môi, ngón tay trỏ gõ nhẹ vào tập tài liệu. "Phí ngân hàng đầu tư cho ADR cấp 1 thường là bảy phần trăm tổng giá trị niêm yết."
 
-Lan quay sang Torres. "Anh Torres, phí dưới 5% thì Goldman có làm không?"
+Lan quay sang Torres. Cô hỏi mà không ngước lên khỏi sổ — giọng bình thản như đang hỏi giá bún ngoài chợ, nhưng ngón tay trỏ gõ nhẹ lên mép giấy, dấu vết của người đang giấu sự căng thẳng. "Anh Torres, phí dưới 5% thì Goldman có làm không?"
 
 Torres cười thành tiếng. "Cô Tran, phí thị trường là bảy phần trăm. Nhưng —" anh ta nhìn Hùng, nhìn cuốn sổ bìa đen, "— nếu công ty ông commit tổng giá trị niêm yết trên 50 triệu, tôi nghĩ chúng tôi có thể thương lượng."
 
@@ -80,7 +80,7 @@ Hai giờ sau, buổi họp kết thúc. Whittaker đưa cho Hùng một tập t
 
 "Dạ có. Nhưng ăn nhanh thôi. Em muốn về tra cứu mấy cái điều khoản đó trước khi chiều họ gửi draft."
 
-Hai người xuống sảnh Metropole, đi bộ qua phố Tràng Tiền vào một quán bún riêu trên phố Bà Triệu. Quán nhỏ, bàn nhựa, ghế nhựa, nước dùng nóng hổi. Hùng và Lan ăn trong im lặng — kiểu im lặng của hai người quá hiểu nhau để cần nói chuyện xã giao. Chỉ có tiếng húp bún và tiếng xe máy ngoài phố.
+Hai người xuống sảnh Metropole, đi bộ qua phố Tràng Tiền vào một quán bún riêu trên phố Bà Triệu. Quán nhỏ, bàn nhựa xanh đã sờn, ghế nhựa đỏ quen thuộc, nước dùng nóng hổi bốc khói. Mùi riêu cua chua ngọt lẫn nước mắm Phú Quốc dậy mũi, quyện với mùi hành phi thơm nồng. Trên tường treo tờ lịch in hình hoa sen — lịch nhà nước phát hành từ năm ngoái. Hùng và Lan ăn trong im lặng — kiểu im lặng của hai người quá hiểu nhau để cần nói chuyện xã giao. Chỉ có tiếng húp bún, tiếng xe Dream và Cupido lướt trên mặt đường, và tiếng cô chủ quán oang oang gọi khách.
 
 "Anh thấy thế nào?" Lan hỏi khi gần hết bát.
 
@@ -88,7 +88,7 @@ Hai người xuống sảnh Metropole, đi bộ qua phố Tràng Tiền vào m�
 
 "Em cũng nghĩ vậy. Tuần sau em sẽ bay sang Singapore gặp Deloitte. Ngoài ra em đã hỏi một người bạn học cũ ở Mỹ — chị ta làm cho một quỹ đầu tư — để hỏi về luật chứng khoán Mỹ."
 
-Hùng nhìn Lan, không nói gì. Mười bốn năm trước, Lan là cô sinh viên mới ra trường, cầm bảng tính ghi chép từng đồng chi tiêu cho quán phở tạm của bà Hà. Bây giờ chị ngồi đàm phán với Goldman Sachs, rồi nói chuyện về chứng khoán Mỹ như một lẽ đương nhiên.
+Hùng nhìn Lan, không nói gì. Mười bốn năm trước, Lan là cô sinh viên mới ra trường, cầm bảng tính ghi chép từng đồng chi tiêu cho quán phở tạm của mế. Bây giờ em gái ông ngồi đàm phán với Goldman Sachs, rồi nói chuyện về chứng khoán Mỹ như một lẽ đương nhiên.
 
 ——
 
@@ -112,13 +112,13 @@ Trên đường về, Hùng đi qua phố Hàng Mã. Những cửa hàng bán đ
 
 ——
 
-Mười lăm phút trước khi tan ca, Hùng ngồi lại một mình trong phòng. Trên bàn là tập tài liệu dày từ Whittaker — điều khoản dịch vụ, phí, cam kết bảo mật, và một phần phụ lục nói về "risk factor disclosure": những rủi ro mà công ty phải công bố với nhà đầu tư Mỹ. Hùng đọc kỹ từng dòng. Chiến tranh thương mại. Rủi ro tỷ giá. Hệ thống pháp lý chưa hoàn thiện. Tham nhũng. Thiếu hụt lao động kỹ thuật cao. Rủi ro địa chính trị.
+Mười lăm phút trước khi tan ca, Hùng ngồi lại một mình trong phòng. Trên bàn là tập tài liệu dày từ Whittaker — điều khoản dịch vụ, phí, cam kết bảo mật, và một phần phụ lục nói về "risk factor disclosure": những rủi ro mà công ty phải công bố với nhà đầu tư Mỹ. Hùng đọc kỹ từng dòng. Chiến tranh thương mại. Rủi ro tỷ giá. Hệ thống pháp lý chưa hoàn thiện. Tham nhũng. Thiếu hụt lao động kỹ thuật cao. Rủi ro địa chính trị. Mỗi mục viết bằng thứ tiếng Anh lạnh lùng, không cảm xúc, như bác sĩ đọc kết quả X-quang cho bệnh nhân ung thư giai đoạn cuối.
 
 Họ muốn Hùng viết vào bản cáo bạch rằng đầu tư vào Thương Gia là một canh bạc.
 
-Hùng đặt tờ giấy xuống, ngồi lặng mất mười phút. Bên ngoài, tiếng còi xe lẫn với tiếng rao hàng rong. Ông mở cửa sổ, gió chiều lùa vào mang theo mùi bụi và hoa sữa cuối mùa. Hà Nội đang vào cuối xuân, cái nóng chưa kịp đến, những quán trà đá ven đường bắt đầu đông khách. Năm 1997, thành phố còn thấp, chưa có những tòa nhà cao tầng chắn tầm nhìn — từ tầng ba nhìn ra chỉ thấy mái ngói đỏ nâu lô xô, những ống khói nhà máy xa xa, và vài cái tháp viễn thông mọc lên như dấu hỏi về tương lai.
+Hùng đặt tờ giấy xuống, ngồi lặng mất mười phút. Bên ngoài, tiếng còi xe lẫn với tiếng rao hàng rong. Ông mở cửa sổ, gió chiều lùa vào mang theo mùi bụi và hoa sữa cuối mùa. Hà Nội đang vào cuối xuân, cái nóng chưa kịp đến, những quán trà đá ven đường bắt đầu đông khách. Năm 1998, thành phố còn thấp, chưa có những tòa nhà cao tầng chắn tầm nhìn — từ tầng ba nhìn ra chỉ thấy mái ngói đỏ nâu lô xô, những ống khói nhà máy xa xa, và vài cái tháp viễn thông mọc lên như dấu hỏi về tương lai.
 
-Hùng nhớ lại năm 1983, khi ông tỉnh dậy trong căn nhà cấp bốn ở Quốc Oai, trong túi không một đồng. Mười bốn năm. Từ gánh hàng rong đến chỗ ngồi đàm phán với Goldman Sachs — con đường dài hơn bất kỳ ai trong phòng họp sáng nay có thể tưởng tượng. Những đêm thức trắng vì sợ không có hàng để bán. Những chuyến xe đò lên tận Lạng Sơn để lấy một mối vải tốt hơn. Những lần bị chủ nợ dí tận nhà, bà Hà phải bán cả cái nồi gang trả nợ.
+Hùng nhớ lại năm 1983, khi ông tỉnh dậy trong căn nhà cấp bốn ở Quốc Oai, trong túi không một đồng. Mười lăm năm. Từ gánh hàng rong đến chỗ ngồi đàm phán với Goldman Sachs — con đường dài hơn bất kỳ ai trong phòng họp sáng nay có thể tưởng tượng. Những đêm thức trắng vì sợ không có hàng để bán. Những chuyến xe đò lên tận Lạng Sơn để lấy một mối vải tốt hơn. Những lần bị chủ nợ dí tận nhà, mế phải bán cả cái nồi gang trả nợ.
 
 Ông gọi điện cho Lan. "Phiền em gọi lại cho Whittaker. Hỏi họ việc công bố risk factor — mình muốn giới hạn phần đó trong khuôn khổ không gây hiểu lầm cho nhà đầu tư. Nếu họ cứng quá thì mình thương lượng thêm."
 
@@ -126,13 +126,13 @@ Hùng nhớ lại năm 1983, khi ông tỉnh dậy trong căn nhà cấp bốn �
 
 ——
 
-Bà Hà năm nay bảy mươi, tóc đã bạc gần hết nhưng mắt còn tinh. Bà ngồi ở bậc cửa, tay vo từng viên chả cá rô, chả đều và chắc, không bở. Trong bếp, nồi canh chua đang sôi, mùi lá me và cà chua tỏa ra thơm lừng cả góc sân. Một mẻ rau muống luộc để trên rổ, bốc hơi nghi ngút.
+MẾ năm nay bảy mươi, tóc đã bạc gần hết nhưng mắt còn tinh — đôi mắt đã quen nhìn từng đồng tiền trên bàn cân, đã quen đếm toán tính bằng ngón tay hơn bằng mắt. Ngón tay bà chai sạn, gân xanh nổi lên như mốc đồng cũ, móng tay cắt ngắn, sạch sẽ. Bà ngồi ở bậc cửa, tay vo từng viên chả cá rô, chả đều và chắc, không bở. Trong bếp, nồi canh chua đang sôi, mùi lá me non và cà chua dầm nát tỏa ra thơm lừng cả góc sân. Một mẻ rau muống luộc để trên rổ tre, bốc hơi nghi ngút. Gió chiều mang theo mùi khói rơm cháy từ nhà hàng xóm — ai đó đang đun bếp củi để pha trà.
 
 "Mẹ mua cá ở chợ nào ngon thế?" Hùng hỏi.
 
 "Cá rô Đầm Đột, con Hương ngoài làng đem ra. Nó biết mẹ thích canh chua. Cá tươi, mẹ tự làm sạch, không để ngoài chợ làm."
 
-Hùng ngồi xuống cạnh bậc cửa, nhặt một cọng hành, bắt đầu nhặt lá úa. Bà Hà liếc nhìn con trai, tay vẫn vo chả. Gió chiều lùa qua sân, lay động mấy cái lá mít già sắp rụng.
+Hùng ngồi xuống cạnh bậc cửa, nhặt một cọng hành, bắt đầu nhặt lá úa. MẾ liếc nhìn con trai, tay vẫn vo chả. Gió chiều lùa qua sân, lay động mấy cái lá mít già sắp rụng.
 
 "Hôm nay có chuyện gì đúng không?"
 
@@ -142,7 +142,7 @@ Hùng ngồi xuống cạnh bậc cửa, nhặt một cọng hành, bắt đầu
 
 Hùng cười khẽ. "Hôm nay con đàm phán với người Mỹ. Họ muốn con viết vào giấy tờ rằng công ty mình là rủi ro."
 
-Bà Hà không ngừng tay. "Thì đó là sự thật mà. Cái gì chả có rủi ro."
+MẾ không ngừng tay. "Thì đó là sự thật mà. Cái gì chả có rủi ro."
 
 "Đúng. Nhưng viết ra khác với nghĩ trong đầu."
 
@@ -162,15 +162,15 @@ Hùng đứng dậy, phủi đất trên quần. "Con ăn cơm hơi muộn, mẹ
 
 Mười giờ tối. Hùng ngồi trong phòng làm việc, mở cuốn sổ bìa đen. Ông viết, nét chữ đều và nhỏ, kiểu chữ của người quen tiết kiệm từng khoảng giấy.
 
-*Ngày 12 tháng 3 năm 1997.*
+*Ngày 12 tháng 3 năm 1998.*
 
 *ADR: GAAP audit, luật Delaware, SEC filing. Whittaker (S&C) ok, Torres (GS) ok về phí, nhưng risk factor disclosure chưa xong. Mình hiểu luật Mỹ họ muốn minh bạch. Nhưng nếu mình viết "đầu tư vào Thương Gia là rủi ro cao" — người đọc hồ sơ sẽ nghĩ gì? Họ mua cổ phiếu hay mua rủi ro? Cần một công ty quan hệ nhà đầu tư ở Mỹ.*
 
 *Lan đã có draft ADR checklist. Chị ấy nhanh hơn mình tưởng. Em viết từng việc ra, hạn chót từng việc, người làm từng việc. Nếu mười năm trước có ai bảo mình rằng một ngày Lan sẽ đánh máy checklist niêm yết Mỹ, mình sẽ bảo người đó bị điên. Và người đó đã đúng.*
 
-Hùng ngừng viết. Bên ngoài, Hà Nội đã ngủ, chỉ còn tiếng ễnh ương từ mấy hồ nước trong phố và tiếng rao đêm xa xa không rõ mặt hàng. Ông nghe tiếng rao đêm, tự hỏi họ bán gì, còn ai thức để mua. Tiếng rao là thứ xa xưa nhất ở Hà Nội, và nó vẫn còn, dù thành phố đã thay đổi nhiều.
+Hùng ngừng viết. Bên ngoài, Hà Nội đã ngủ, chỉ còn tiếng ễnh ương từ mấy hồ nước trong phố và tiếng rao đêm xa xa không rõ mặt hàng. Ông nghe tiếng rao đêm, tự hỏi họ bán gì, còn ai thức để mua. Tiếng rao là thứ xa xưa nhất ở Hà Nội, và nó vẫn còn, dù thành phố đã thay đổi nhiều. Bụi mực in trên ngón tay ông, lẫn mùi gỗ bàn sáp ong ngọt lịm.
 
-Ông mở ngăn kéo, lấy ra một tấm ảnh cũ — ảnh chụp căn nhà gỗ ở Quốc Oai, trước hiên là bà Hà và Hùng, lúc đó mới hai mươi mốt tuổi, gầy, rám nắng, đang cầm một cái cân đĩa. Tấm ảnh đã ố vàng, nhưng nụ cười của hai mẹ con vẫn rõ.
+Ông mở ngăn kéo, lấy ra một tấm ảnh cũ — ảnh chụp căn nhà gỗ ở Quốc Oai, trước hiên là mế và Hùng, lúc đó mới hai mươi mốt tuổi, gầy, rám nắng, đang cầm một cái cân đĩa. Tấm ảnh đã ố vàng, nhưng nụ cười của hai mẹ con vẫn rõ.
 
 Ông viết thêm một dòng dưới cùng:
 
@@ -242,17 +242,27 @@ Rạng sáng hôm sau, Hùng ngồi dậy từ rất sớm. Thành phố còn ch
 
 *Nếu họ hỏi rủi ro lớn nhất của Thương Gia là gì — câu trả lời là: rủi ro duy nhất là người đứng đầu quên mất mình bắt đầu từ đâu, và quên mất mẹ mình vo chả cá rô ở bậc cửa.*
 
-Ông gấp sổ, nhìn ra ngoài. Mặt trời vừa lên khỏi mái nhà, nhuộm cả góc phố màu cam nhạt. Một ngày mới, và ADR vẫn còn dài.
+Ông gấp sổ, nhìn ra ngoài. Mặt trời vừa lên khỏi mái nhà, nhuộm cả góc phố màu cam nhạt. Một ngày mới, và ADR vẫn còn dài. Nhưng trong lòng ông có một nỗi bất an khó tả — không phải sợ thất bại, mà là sợ một điều khác: khi Thương Gia trở nên quá lớn, ông còn nhận ra mình là ai không?
 
-Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây. Tiếng nước rơi lộp bộp. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy!" Hai người nhìn nhau cười vui vẻ.
+Hùng mở cửa sổ, đón ánh nắng sớm. Mùi hoa sữa thoang thoảng từ ngoài vườn, Lan đang tưới cây bằng cái vòi đồng cũ, nước chảy lộp bộp xuống luống rau mồng tơi xanh rì. "Em dậy sớm thế?" Hùng hỏi, giọng còn ngái ngủ. Lan quay lại cười: "Anh dậy muộn đấy! Mế mới chuyển cơm sáng lên cho anh — cơm nắm với muối vừng." Hùng thấy trên bàn gỗ gụ một cái mẹt nhỏ, bên trong hai nắm cơm trắng bọc lá chuối, một đĩa muối vừng đen, và bát nước chè xanh còn nóng hổi. Mế ông đã dậy từ tờ mờ, vo cơm cho con trai như hồi còn ở Quốc Oai.
 
-Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." "Ừ, mưa." Họ nắm tay nhau, im lặng, bình yên.
+Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng và Minh — con trai ông, mới mười hai tuổi, đang độ tuổi hỏi nhiều hơn trả lời — ngồi bên nhau trong nhà, nhìn mưa qua khung cửa gỗ quét vôi vàng. Cậu bé khoác chiếc áo len cũ của bố, tay ôm quyển truyện tranh Đôrêmon đã nhàu cả bìa. "Bố ơi, người Mỹ họ giàu lắm à?" Minh hỏi, mắt vẫn nhìn mưa. Hùng gật đầu: "Giàu hơn bố." "Thế bố có sợ họ không?" Hùng im lặng một lúc, rồi đặt tay lên đầu con trai. "Không sợ. Bố sợ mỗi việc mế con bị ngã ở cầu thang." Minh cười, rồi lại nhìn mưa, và trong cái cười ấy Hùng thấy cả mẹ mình — nụ cười giống hệt, không lý do, chỉ là vui.
 
-Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng, mùi tỏi phi thơm. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Bữa tối ấm cúng bắt đầu.
+Trong nhà bếp, Hùng nhặt rau, Lan thái thịt. Mùi gừng giã nhỏ thoảng lên, mùi tỏi phi thơm lừng, tiếng thớt gỗ bồ hòn kêu đều đặn. Đèn tuýp trắng vàng soi sáng góc bếp nhỏ, bóng hai người đổ lên tường gạch. Mế Hà ngồi ở góc, tay thoăn thoắt gói chả cá, miệng hum một câu hát quan họ cũ — chẳng ai nhớ tên bài, chỉ thấy nó quen như hơi thở. "Tối nay ăn gì thế?" Hùng hỏi. Lan cười: "Canh chua cá lóc, anh thích mà." Hùng gật đầu, tay thoăn thoắt. Nhưng trong lòng ông biết bữa cơm này không chỉ là canh chua — nó là sợi dây giữ mọi thứ lại với nhau, dù ngày mai ông có phải ngồi đàm phán với cả thế giới.
+
+Đêm khuya, khi cả nhà đã ngủ, Hùng vẫn thức. Ông ngồi ở bàn viết, đèn dầu leo lét, ánh sáng vàng nhạt soi rõ gương mặt mỏi mệt. Bên ngoài, tiếng ếch nhái từ ao sau nhà vọng vào, xen lẫn tiếng chó sủa xa xa. Ông mở cuốn sổ bìa đen, viết thêm một dòng:
+
+*Ngày 14 tháng 3 năm 1998. Ba hợp đồng đã ký. Goldman Sachs, Sullivan & Cromwell, Đức Anh. Nhưng còn một việc chưa nói với ai — ngân hàng nhà nước vừa ban hành thông tư mới kiểm soát tiền tệ nước ngoài vào quỹ đầu tư. Nếu thông tư đó áp dụng, toàn bộ kế hoạch ADR có thể đổ sông đổ bể.*
+
+*Không ai biết chuyện này ngoài mình. Và mình chưa muốn nói — vì chưa chắc chắn. Nhưng nếu đúng, thì chuyến đi của Lan sang Singapore tuần tới sẽ vô ích. Và 680.000 đô la có thể biến thành giấy lộn.*
+
+Hùng gấp sổ, tắt đèn dầu. Ông ngồi trong bóng tối, lắng nghe. Bên ngoài, tiếng bước chân nhẹ ngoài hiên — có thể là mế, thức dậy uống nước. Tiếng bước chân ấy, chậm và chắc, là tiếng ông nghe suốt mười bốn năm qua.
+
+Ông đứng dậy, mở ngăn kéo lấy tờ thông tư photocopy ra. Chữ in còn mờ, giấy A4 nhăn góc. Đọc lại lần nữa — đoạn nào kiểm soát tiền tệ nước ngoài vào quỹ đầu tư? Ông gạch dưới ba dòng, gấp tờ giấy nhét vào túi quần. Sáng mai, trước khi Lan ra sân bay, ông phải nói. Không phải vì ông muốn dừng lại — mà vì ông muốn em gái ông biết rõ thứ mà ông đang dẫn cả gia đình vào.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.209」
-Năm: 1997
+Năm: 1998
 Tổng EXP: 40,143 (+238 nhịp này)
 Không gian kho: 13,286m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1

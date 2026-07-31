@@ -2,13 +2,13 @@
 Chương 222: Hệ thống cảnh báo sớm
 ============================================================
 
-Tháng Tám năm 2008, Hùng gọi Hoàng lên phòng làm việc. Hoàng vừa về từ một khóa đào tạo ngắn hạn ở Singapore về quản trị rủi ro tài chính — thứ mà anh tự bỏ tiền túi đi học, không xin công ty. Hùng thích những người tự đầu tư vào . Khi Hoàng gõ cửa — tiếng gõ nhẹ, đều ba nhịp — Hùng đang đọc một báo cáo dài mười hai trang về tình hình xuất khẩu quý II, trên bàn cạnh tách cà phê đã nguội từ lâu, mặt nước phẳng lặng với một lớp váng mỏng. Mùi giấy mới in, mùi mực từ máy photocopy vẫn còn phảng phất trong phòng.
+Tháng Tám năm 2008, nắng Hà Nội dội xuống những mái tôn đến nhức mắt. Hùng gọi Hoàng lên phòng làm việc. Hoàng vừa trở về từ một khóa đào tạo ngắn hạn ở Singapore về quản trị rủi ro tài chính — khóa học anh tự bỏ tiền túi, không xin công ty một đồng. Hùng thích những người biết tự đặt cược vào năng lực của mình. Khi Hoàng gõ cửa, ba tiếng nhẹ và đều, Hùng đang đọc báo cáo mười hai trang về xuất khẩu quý II. Tách cà phê bên tay phải đã nguội, trên mặt nổi một vòng váng nâu mỏng; mùi giấy mới, mùi mực photocopy và hơi nóng từ chiếc điều hòa cũ quện thành thứ không khí khô khốc. Ngoài cửa sổ, tiếng còi xe dội lên rồi tắt, như một tín hiệu bị nuốt mất giữa thành phố đang quá tự tin.
 
 "Ngồi xuống," Hùng nói, không rời mắt khỏi tập báo cáo. "Anh nghe nói em học về rủi ro tài chính. Dạy lại anh."
 
 Hoàng mất ba giây để xử lý câu nói. Anh hai mươi bảy tuổi, tốt nghiệp Đại học Ngoại thương, làm cho Thương Gia ba năm — đầu tiên ở phòng xuất nhập khẩu, sau được Hùng kéo lên làm trợ lý đặc biệt. Anh là người trẻ nhất trong ban tham mưu của Hùng, và thường xuyên được giao những việc không tên — những việc mà người khác không nghĩ ra hoặc không dám làm. Lần trước, Hùng bảo Hoàng đi khảo sát giá thép Trung Quốc ở cửa khẩu Lạng Sơn. Lần trước nữa, Hoàng lặn lội xuống Cần Thơ để kiểm tra lô hàng gạo xuất khẩu trước khi tàu rời cảng. Hoàng chưa bao giờ từ chối, chưa bao giờ phàn nàn.
 
-— Em nghĩ mình cần xây một hệ thống cảnh báo sớm, — Hoàng nói, mở laptop. Mùi mực in từ máy in laser góc phòng tỏa ra, lẫn với mùi cà phê đã nguội từ chiều trong cốc gốm trên bàn. — Không phải phần mềm lớn — chỉ là một bảng tính Excel kết nối với nguồn dữ liệu Bloomberg, cập nhật hàng ngày. Nhưng nguyên tắc vận hành thì em phải mất ba tháng nghiên cứu mới hoàn thành.
+— Em nghĩ mình cần xây một hệ thống cảnh báo sớm, — Hoàng nói, mở laptop. Mùi mực in từ máy in laser góc phòng tỏa ra, lẫn với mùi cà phê đã nguội từ chiều trong cốc gốm trên bàn. Quạt tản nhiệt rít khô, từng vòng quay như cào lên thái dương. — Không phải phần mềm lớn — chỉ là một bảng tính Excel kết nối với nguồn dữ liệu Bloomberg, cập nhật hàng ngày. Nhưng nguyên tắc vận hành thì em phải mất ba tháng nghiên cứu mới hoàn thành.
 
 "Nói đi."
 
@@ -20,7 +20,7 @@ Hùng gật, nhưng không tỏ ra quá ấn tượng. "Trong năm chỉ số đ
 
 "Credit spread." Hoàng không do dự. "Bốn chỉ số kia là tín hiệu bổ trợ. Chúng cho em biết bức tranh tổng thể — Trung Quốc có đang sản xuất không, dầu có đắt không, dòng vốn vào Việt Nam có mạnh không. Nhưng credit spread là thứ báo trước cú sốc. Khi spread tăng — nghĩa là thị trường đang lo lắng. Người cho vay đòi lãi cao hơn để bù rủi ro. Spread tăng trước khi mọi chuyện vỡ lở. Năm 1997, spread bắt đầu tăng ở châu Á từ tháng Ba, nhưng Thái Lan phá sản tháng Bảy. Sáu tháng — đủ để chuẩn bị nếu biết nhìn."
 
-Hùng nhìn Hoàng một lúc. Cách nói của Hoàng có một sự chín chắn lạ thường so với tuổi hai mươi bảy. "Tình trạng hiện tại?"
+Hùng nhìn Hoàng một lúc. Cách nói của Hoàng có một sự chín chắn lạ thường so với tuổi hai mươi bảy — đôi mắt đen thẫm, không chớp, như thể mỗi con số đang chạy qua đầu anh bằng thứ ánh sáng riêng. "Tình trạng hiện tại?"
 
 "Spread đã tăng gấp ba kể từ tháng Một." Hoàng gõ bàn phím, một biểu đồ hiện ra. "Năm 2006, nó ở mức 1.2%. Mức đó là bình thường — thị trường đang tin tưởng. Bây giờ — 3.8%. Chưa phải đỏ, nhưng đã ở mức báo động cam đậm. Và nó đang có xu hướng tăng theo cấp số nhân, không tuyến tính."
 
@@ -74,7 +74,7 @@ Cuối tuần đó, Hùng ra quyết định: tất cả các công ty thành vi
 
 Mỗi tối thứ Bảy, ông ngồi ở bàn làm việc trong căn hộ nhỏ trên phố Huế, với một ấm trà xanh và một cây bút đỏ. Trên bàn là một chồng báo cáo dày — mười hai công ty thành viên, mỗi công ty ba trang, tổng cộng ba mươi sáu trang. Ông đọc từng trang, ghi chú lề, đánh dấu những điểm bất thường.
 
-Bà Hà thường mang lên cho ông một dĩa trái cây — mùi bưởi thơm thoảng trong không khí ấm áp của phòng làm việc — đặt nhẹ xuống góc bàn, nhìn ông một lúc, rồi lặng lẽ đi xuống. Bà không hỏi. Bà biết khi nào chồng cần được hỏi và khi nào chỉ cần để yên.
+MẾ — MẾ của Hùng — thường mang lên cho ông một đĩa trái cây. Mùi bưởi the nhẹ, vỏ xanh vừa tách bật ra những tia tinh dầu cay nơi đầu mũi; bà đặt đĩa xuống góc bàn, đầu ngón tay khô ráp chạm vào thành sứ, nhìn ông một lúc rồi lặng lẽ đi xuống. Bà không hỏi. Bà biết khi nào con cần một câu hỏi, khi nào chỉ cần một căn phòng yên.
 
 Thứ Bảy đầu tiên sau khi hệ thống đi vào vận hành, một báo cáo từ nhà máy dệt ở Nam Định khiến Hùng chú ý. Công suất sử dụng nhà máy tháng Tám chỉ đạt 68% — giảm từ 94% của tháng Sáu. Đơn hàng từ Mỹ giảm ba mươi phần trăm trong hai tháng. Dòng tiền vẫn dương, nhưng biên lợi nhuận đã giảm từ 12% xuống 7%.
 
@@ -102,7 +102,7 @@ Hùng ghi vào sổ. "Có thông báo trước không?"
 
 Một khoảng lặng dài hơn — Hùng có thể nghe thấy tiếng máy dệt nền qua điện thoại. "Có, anh. Nếu đơn hàng tiếp tục giảm, em sẽ phải giảm ca. Giảm ca là giảm lương công nhân. Họ gắn bó với mình lâu rồi. Nhiều gia đình sống bằng đồng lương từ nhà máy. Có chị công nhân lớn tuổi, con đi học đại học, chồng bệnh nằm nhà. Giảm lương là giảm hy vọng của họ."
 
-Hùng cúp máy, đặt bút đỏ xuống — đầu ngón tay còn lạnh vì cầm máy quá lâu. Ông nhìn ra cửa sổ — mùa thu Hà Nội, trời xanh, lá bàng bắt đầu vàng, tiếng trẻ con đá bóng ngoài ngõ, mùi hoa sữa theo gió thoảng vào. Nhưng trong lòng ông một cơn bão đang hình thành.
+Hùng cúp máy, đặt bút đỏ xuống — đầu ngón tay còn lạnh vì cầm máy quá lâu. Ở đầu dây đã tắt, ông vẫn tưởng tượng được tiếng máy dệt quay hụt một nhịp, tiếng kim loại va nhau khô khốc, tiếng một công nhân hỏi nhỏ ca tối còn đủ giờ hay không. Những con số trong báo cáo bỗng có da thịt, có tiền thuê nhà, có học phí và những bữa cơm bị gắp bớt. Ông nhìn ra cửa sổ — mùa thu Hà Nội, trời xanh, lá bàng bắt đầu vàng, tiếng trẻ con đá bóng ngoài ngõ, mùi hoa sữa theo gió thoảng vào. Nhưng trong lòng ông một cơn bão đang hình thành.
 
 Giữa tháng Chín, Hoàng gõ cửa phòng Hùng lúc chín giờ tối. Mặt anh tái nhợt, một tay cầm tờ giấy in từ Bloomberg, tay kia cầm một cốc cà phê đã nguội từ chiều.
 
@@ -120,9 +120,9 @@ Hoàng gật.
 
 Rạng sáng hôm sau, Hoàng gửi một email ngắn cho Hùng, kèm file Excel cập nhật: bốn trong năm chỉ số đã chuyển sang màu cam. Credit spread — ba tháng trước là 3.8% — nay là 5.2% và đã chạm mức đỏ lần đầu tiên kể từ khi hệ thống được thiết lập.
 
-Hùng đọc email trên điện thoại lúc năm giờ sáng, khi trời còn tối. Một cơn lạnh chạy dọc sống lưng, không phải vì trời rét — giữa tháng Chín mà ông thấy người lạnh toát. Ông nằm im, không cựa quậy để khỏi đánh thức bà Hà. Ông nhìn trần nhà mờ mờ, lắng nghe tiếng mưa nhẹ bên ngoài, và nghĩ về những con số. 5.2% — một con số vô tri vô giác, nhưng nó đang kể một câu chuyện.
+Hùng đọc email trên điện thoại lúc năm giờ sáng, khi trời còn tối. Một cơn lạnh chạy dọc sống lưng, không phải vì trời rét — giữa tháng Chín mà ông thấy người lạnh toát. Mép chăn cọ vào cổ tay, khô ráp; từ bếp vọng lên mùi gừng mế đập dở, cay và ấm, đối nghịch với con số đỏ đang sáng trên màn hình. Ông nằm im, không cựa quậy để khỏi đánh thức mế. Ông nhìn trần nhà mờ mờ, lắng nghe tiếng mưa nhẹ bên ngoài, và nghĩ về những con số. 5.2% — một con số vô tri vô giác, nhưng nó đang kể một câu chuyện.
 
-Sáng hôm đó, tám giờ đúng, mười bảy người ngồi quanh bàn họp. Không khí trong phòng bình thường — bình thường một cách kỳ lạ. Họ uống trà — mùi trà xanh nghi ngút từ những cái phích mới rót — trêu đùa, bàn về kế hoạch cuối tuần. Tiếng cười nói râm ran, ghế gỗ kêu cót két mỗi lần có người ngả người. Họ chưa biết nội dung cuộc họp. Hùng nhìn họ, tay đặt trên bàn, lòng bàn tay hơi ẩm.
+Sáng hôm đó, tám giờ đúng, mười bảy người ngồi quanh bàn họp. Không khí trong phòng bình thường — bình thường một cách kỳ lạ. Họ uống trà — mùi trà xanh nghi ngút từ những cái phích mới rót — trêu đùa, bàn về kế hoạch cuối tuần. Lan, em gái Hùng, tham dự với tư cách phó giám đốc một công ty thành viên; cô ngồi cuối bàn, móng tay cào nhẹ lên mặt gỗ, mắt liếc Hùng như muốn đọc trước nội dung. Kỹ sư Minh — con trai Hùng, kỹ sư trẻ nhất phòng công nghệ — ngồi cạnh Hoàng, chân rung dưới bàn, đồng hồ trên cổ tay đập nhịp vô hình lên mặt gỗ. Tiếng cười nói râm ran, ghế gỗ kêu cót két mỗi lần có người ngả người. Họ chưa biết nội dung cuộc họp. Hùng nhìn họ, tay đặt trên bàn, lòng bàn tay hơi ẩm.
 
 Hùng đợi cho mọi người ổn định, rồi đứng lên.
 
@@ -141,9 +141,9 @@ Vải mới cắt thơm thoang thoảng.
 
 "Tôi chấp nhận," Hùng nói, không do dự. "Tăng trưởng mười lăm phần trăm còn hơn phá sản ba mươi phần trăm. Chúng ta đang sống trong thời kỳ mà sự tồn tại quan trọng hơn tăng trưởng."
 
-Không ai nói thêm. Mười bảy người rời cuộc họp với một cái nhìn mới về thế giới — một cái nhìn u ám hơn, cảnh giác hơn. Hùng biết họ chưa hoàn toàn tin. Một số người nghĩ ông đang quá lo lắng. Một số nghĩ ông nói quá. Nhưng Hùng không cần họ tin. Ông chỉ cần họ làm theo.
+Không ai nói thêm. Lan cúi đầu, viết gì đó vào sổ tay — viết nhanh, viết gấp, như sợ ý nghĩ sẽ bay mất nếu không giữ lại bằng mực. Minh mở miệng định nói gì đó, nhưng cắn môi rồi im — lần đầu trong đời cậu nghe cha mình dùng từ "phá sản". Mười bảy người rời cuộc họp với một cái nhìn mới về thế giới — một cái nhìn u ám hơn, cảnh giác hơn. Hùng biết họ chưa hoàn toàn tin. Một số người nghĩ ông đang quá lo lắng. Một số nghĩ ông nói quá. Nhưng Hùng không cần họ tin. Ông chỉ cần họ làm theo.
 
-Buổi tối, Hùng ngồi một mình trong vườn nhỏ sau nhà. Trăng mồng một, trời tối đen, không một vì sao. Ông ngồi trên chiếc ghế đá, nhìn lên bầu trời, nghĩ về những gì đang xảy ra ở bên kia đại dương. Ở New York, London, Tokyo, những con người trong bộ comple đắt tiền đang làm những việc mà họ cho là đúng, nhưng hậu quả sẽ ảnh hưởng đến một người bán hàng rong ở Sài Gòn, một công nhân dệt ở Nam Định, một người nông dân ở đồng bằng sông Cửu Long.
+Buổi tối, Hùng ngồi một mình trong vườn nhỏ sau nhà. Trăng mồng một, trời tối đen, không một vì sao. Ông ngồi trên chiếc ghế đá, lạnh và thô ráp dưới mông, nhìn lên bầu trời, nghĩ về những gì đang xảy ra ở bên kia đại dương. Ở New York, London, Tokyo, những con người trong bộ comple đắt tiền đang làm những việc mà họ cho là đúng, nhưng hậu quả sẽ ảnh hưởng đến một người bán hàng rong ở Sài Gòn, một công nhân dệt ở Nam Định, một người nông dân ở đồng bằng sông Cửu Long. Mùi cỏ ẩm bốc lên từ đất sau cơn mưa chiều, lẫn với mùi khói bếp thoảng từ hàng xóm — thứ mùi bình yên giả mà Hùng thấy ngày càng mỏng.
 
 Thương Gia là một chấm nhỏ trên bản đồ thế giới. Một chấm nhỏ trong cơn bão lớn. Nhưng ít nhất — Hùng tự nhủ — mình đã thấy cơn bão đến. Và mình đã chuẩn bị.
 
@@ -153,7 +153,7 @@ Thương Gia là một chấm nhỏ trên bản đồ thế giới. Một chấm
 
 Ông gấp sổ, cất vào ngăn kéo, khóa lại. Ngoài kia, Hà Nội đã vào đêm. Phố phường vắng lặng. Nhưng trong lồng ngực của một người đàn ông năm mươi tuổi, một trái tim vẫn đập đều, vẫn chuẩn bị cho những ngày sắp tới.
 
-Bà Hà vẫn còn thức, ngồi ở bàn uống nước, tay cầm một cốc nước ấm. Bà nhìn Hùng bước vào, thấy cuốn sổ tay trên tay ông.
+MẾ vẫn còn thức, ngồi ở bàn uống nước, tay cầm một cốc nước ấm. Bà nhìn Hùng bước vào, thấy cuốn sổ tay trên tay ông.
 
 "Xong việc rồi à?"
 
@@ -161,7 +161,7 @@ Bà Hà vẫn còn thức, ngồi ở bàn uống nước, tay cầm một cốc
 
 "Già rồi ngủ ít. Mẹ pha cho con ấm trà."
 
-Hùng ngồi xuống bên mẹ, đặt cuốn sổ xuống bàn. Bà Hà nhìn cuốn sổ — cái bìa đen đã bạc màu theo thời gian. Bà biết cuốn sổ đó từ năm 1985, khi Hùng mua nó ở chợ Đồng Xuân với giá năm trăm đồng. Hai mươi hai năm. Nó đã theo ông qua bao nhiêu lần khó khăn.
+Hùng ngồi xuống bên mẹ, đặt cuốn sổ xuống bàn. MẾ nhìn cuốn sổ — cái bìa đen đã bạc màu theo thời gian. Bà biết cuốn sổ đó từ năm 1985, khi Hùng mua nó ở chợ Đồng Xuân với giá năm trăm đồng. Hai mươi hai năm. Nó đã theo ông qua bao nhiêu lần khó khăn.
 
 "Mẹ thấy con hay thức khuya. Có chuyện gì lớn lắm hả?"
 
@@ -171,7 +171,7 @@ Hùng ngồi xuống bên mẹ, đặt cuốn sổ xuống bàn. Bà Hà nhìn c
 
 "Ở Mỹ. Nhưng nó sẽ ảnh hưởng đến cả thế giới, kể cả mình."
 
-Bà Hà gật đầu, không hỏi thêm. Bà không hiểu về credit spread hay ngân hàng đầu tư Mỹ. Nhưng bà hiểu về khủng hoảng. Bà đã sống qua nạn đói 1945 — năm đó bà mười tuổi, mất hai người em vì chết đói. Bà đã sống qua chiến tranh, qua bao cấp, qua những ngày tem phiếu từng gram gạo. Đối với bà, khủng hoảng không phải là điều gì đó đáng sợ — nó chỉ là một phần của cuộc sống.
+MẾ gật đầu, không hỏi thêm. Bà không hiểu về credit spread hay ngân hàng đầu tư Mỹ. Nhưng bà hiểu về khủng hoảng. Bà đã sống qua nạn đói 1945 — năm đó bà mười tuổi, mất hai người em vì chết đói. Bà đã sống qua chiến tranh, qua bao cấp, qua những ngày tem phiếu từng gram gạo. Đối với bà, khủng hoảng không phải là điều gì đó đáng sợ — nó chỉ là một phần của cuộc sống.
 
 "Nếu khủng hoảng tới, mình có qua được không?"
 
@@ -181,17 +181,23 @@ Hùng không trả lời ngay. Ông nhìn tách trà, nhìn hơi nước bốc l
 
 "Tiền. Cơ hội. Có thể vài người."
 
-Bà Hà nhìn con trai, một lúc lâu. "Tiền thì kiếm lại được. Cơ hội thì sau này sẽ có. Người — nếu mất, khó tìm lại. Con nhớ điều đó."
+MẾ nhìn con trai, một lúc lâu. "Tiền thì kiếm lại được. Cơ hội thì sau này sẽ có. Người — nếu mất, khó tìm lại. Con nhớ điều đó." MẾ — MẾ của Hùng — đưa bàn tay lên, chạm rất nhẹ vào mu bàn tay con. Da bà mỏng, lạnh, mùi dầu gió và trà gừng bám ở các kẽ ngón. "Con đừng biến những người dưới quyền thành những ô màu. Màu đỏ không biết đau, người biết."
 
 Hùng gật. Ông không nói gì thêm. Nhưng trong lòng, ông biết mẹ mình nói đúng. Một lần nữa, bà không cần học về tài chính để hiểu những điều quan trọng nhất.
 
 Hùng uống hết tách trà, đứng dậy. "Mẹ đi ngủ đi. Con lên phòng."
 
-Bà Hà gật, nhưng không đứng dậy. Bà ngồi thêm một lúc, nhìn theo bóng con trai lên cầu thang. Căn nhà im lặng. Ngoài kia, Hà Nội đã vào khuya, tiếng ếch nhái vọng lên từ những ao sau vườn — âm thanh của một thành phố đang chuyển mình, của một đất nước đang phát triển, và của một người đàn ông đang thức vì tương lai của hàng nghìn người khác. Hùng lên đến đầu cầu thang thì dừng lại. Mùi khói rơm từ một bếp than cuối phố bay vào, thoảng, xa, như một mùi ký ức từ thuở nào. Ông đưa tay bám vào thành cầu thang, cảm nhận những ngón tay chai sạn trượt trên gỗ, và thấy lòng mình yên hơn một chút.
+MẾ gật, nhưng không đứng dậy. Bà ngồi thêm một lúc, nhìn theo bóng con trai lên cầu thang. Căn nhà im lặng. Ngoài kia, Hà Nội đã vào khuya, tiếng ếch nhái vọng lên từ những ao sau vườn — âm thanh của một thành phố đang chuyển mình, của một đất nước đang phát triển, và của một người đàn ông đang thức vì tương lai của hàng nghìn người khác. Hùng lên đến đầu cầu thang thì dừng lại. Mùi khói rơm từ một bếp than cuối phố bay vào, thoảng, xa, như một mùi ký ức từ thuở nào. Ông đưa tay bám vào thành cầu thang, cảm nhận những ngón tay chai sạn trượt trên gỗ, và thấy lòng mình yên hơn một chút.
 
 Hoàng đem bản in thử đến lúc gần nửa đêm. Anh cúi đặt tờ giấy dưới đèn, mắt đỏ vì nhìn màn hình; tay nắm mép bàn khi ô cảnh báo nhảy từ cam sang đỏ. Hùng không hỏi cảm giác. Ông chỉ chỉ vào dòng nguồn dữ liệu: “Ai kiểm tra số này?” Hoàng . “Em kiểm tra chéo với Reuters. Hải kiểm tra bản gửi các đơn vị.” Hùng gật, rồi: “Nếu Bloomberg sai?” Hoàng thở ra, buông vai: “Không kích hoạt bằng một nguồn. Hai nguồn cùng báo, một người ký.” Ngoài cửa kính, mưa lạnh quệt thành vệt; tiếng máy in nóng kêu lách cách, mùi mực mới cay nhẹ. Hùng cầm bút, siết một nét dưới quy tắc ấy. Hệ thống chỉ đáng tin khi bên cạnh con số vẫn có một con người chịu tên.
 
 Dashboard sáng đỏ hai ô. Hải chưa ngủ. Sáng mai cả bàn lãnh đạo phải chọn: cắt hay giữ.
+
+Rạng sáng, điện thoại Hùng rung. số lạ — Singapore. Ông nhấc máy, không kịp nói gì. Giọng bên kia — lạ, vội, mất bình tĩnh: "Thưa ông, Lehman vừa nộp đơn phá sản ở New York. Đúng rồi — phá sản. Đệ nhất thế giới." Ông buông máy, bàn tay rung. Ngoài cửa sổ, Hà Nội trời vừa sáng, sương mù còn trắng, tiếng xe buýt đầu tiên lăn bánh, một ngày mới bắt đầu như thể chưa có gì thay đổi — nhưng bản đồ tài chính thế giới vừa bị xé làm đôi.
+
+Minh gọi lại lúc sáu rưỡi: "Ba, Lehman sập rồi. Tấm lưới cuối cùng — Goldman, Morgan Stanley — đang giật giật. Ba ơi — Thương Gia sẽ ra sao?"
+
+Hùng không trả lời. Ông nhìn bàn tay mình — hai mươi hai năm kinh doanh, và đây là lần đầu tiên ông không biết câu trả lời.
 
 「Hệ thống — GHI NHẬN ch.222」
 Năm: 2008

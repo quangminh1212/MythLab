@@ -4,13 +4,15 @@ Chương 1: Tỉnh lại
 
 Lý Minh chết lúc hai giờ bốn mươi bảy phút sáng, ngày mười lăm tháng ba năm hai nghìn không trăm hai mươi tư.
 
-Không tai nạn. Không anh hùng. Chỉ một cơn nhồi máu trước màn hình máy tính, sau mười hai giờ code thẳng cho dự án startup Nhật. Màn hình còn sáng. Con trỏ nhấp nháy ở dòng cuối của pull request chưa gửi. Dòng chữ "fix: update transaction logic" là thứ cuối cùng ông gõ.
+Không tai nạn. Không anh hùng. Chỉ một cơn nhồi máu trước màn hình máy tính, sau mười hai giờ code thẳng cho dự án startup Nhật. Màn hình còn sáng. Con trỏ nhấp nháy ở dòng cuối của pull request chưa gửi. Dòng chữ "fix: update transaction logic" là thứ cuối cùng ông gõ — hai mươi ba ký tự, không dấu câu, không tâm hồn.
 
-Trong khoảnh khắc ấy ông nghĩ đến deadline tám giờ sáng. Hai chiếc điện thoại hết pin trên bàn. Ly cà phê tan hết đá, chỉ còn nước nâu loãng. Căn hộ hai phòng ở Quận 7 chỉ dùng một phòng làm việc, phòng kia chứa thùng carton chưa mở. Mẹ mất năm ông hai mươi. Cha ông không biết mặt. Đồng nghiệp gọi senpai, Tết không biết về đâu. Một cuộc đời an toàn, đều đặn, và trống.
+Trong khoảnh khắc ấy — khoảnh khắc ngắn nhất và dài nhất đời ông — ông nghĩ đến deadline tám giờ sáng. Hai chiếc điện thoại hết pin trên bàn, sạc mắc vào nhau như sợi dây thòng lòng. Ly cà phê tan hết đá, chỉ còn nước nâu loãng, mùi nhựa nhựa của cốc dùng lại lần thứ tư. Căn hộ hai phòng ở Quận 7 chỉ dùng một phòng làm việc, phòng kia chứa thùng carton chưa mở từ ngày dọn vào ba năm trước — quần áo, sách, một đời chưa sắp xếp. Mẹ mất năm ông hai mươi. Cha ông không biết mặt. Đồng nghiệp gọi senpai, Tết không biết về đâu. Một cuộc đời an toàn, đều đặn, và trống rỗng đến mức ngay cả cái chết cũng chẳng ai phát hiện cho đến sáng hôm sau, khi đồng nghiệp vào lấy laptop.
 
-Rồi bóng tối.
+Rồi bóng tối. Không đau. Không sáng. Chỉ một khoảng trống — như ổ cắm rút dây, television tắt cái phụt.
 
-Ông mở mắt vì cơn đau không có trong bất kỳ bảng phân loại nào ông từng đọc. Đau xương. Đau cơ. Đau từng đốt sống như ai tháo cột sống ra rồi lắp sai thứ tự. Ngực nặng. Hơi thở nông. Không khí không phải điều hòa lạnh teo lọc qua máy — mùi đất, mùi rơm, mùi mốc nhẹ của nhà vách đất sau mưa.
+Ông mở mắt vì cơn đau không có trong bất kỳ bảng phân loại nào ông từng đọc. Đau xương. Đau cơ. Đau từng đốt sống như ai tháo cột sống ra rồi lắp sai thứ tự. Ngực nặng. Hơi thở nông. Mỗi hơi kéo lên là ngực kêu nhẹ, sườn nhói như bị ai bẻ ngang.
+
+Không khí không phải điều hòa lạnh teo lọc qua máy. Mùi đất — đất ẩm, đất tươi, đất sau mưa đêm còn đọng nước trong khe. Mùi rơm — rơm khô pha lẫn rơm mục, thứ mùi mà thành phố không bao giờ biết. Mùi mốc nhẹ của nhà vách đất sau mưa — lớp vôi hút ẩm, nở ra, nứt nẻ, và tỏa hương vật liệu trăm năm không đổi. Phía xa, tiếng gà gáy le ve, giọng khàn khàn, chưa rõ ngày mới — gà nhà ai dậy sớm tập thể dục trên đê. Tiếng nước giếng giật ro ro, rồi tắt — ai đó múc nước buổi sáng. Xa hơn, tiếng kẻng cơm vang lên từ loa phát thanh xã, giọng nam ồm ồm đọc tin nông vụ, lẫn tiếng xì xì của loa rè.
 
 Trần Văn Hùng mở mắt.
 
@@ -18,15 +20,15 @@ Không. Sai ngay.
 
 Người mở mắt không phải chỉ là Trần Văn Hùng. Trần Văn Hùng là thanh niên hai mươi ba tuổi, làng Thanh Xuân, huyện Quốc Oai, tỉnh Hà Tây, năm một nghìn chín trăm tám mươi ba. Người mở mắt còn mang ký ức Lý Minh — sinh một nghìn chín trăm tám mươi chín, tốt nghiệp Bách Khoa, mười năm full-stack ở Sài Gòn, chết lúc hai giờ bốn mươi bảy.
 
-Hai dòng ký ức xô vào nhau như hai dòng sông gặp ghềnh. Không hòa. Không trộn. Nghiền.
+Hai dòng ký ức xô vào nhau như hai dòng sông gặp ghềnh. Không hòa. Không trộn. Nghiền. Lý Minh nhớ bàn phím cơ — tiếng gõ click click trong đêm khuya, phòng kín, điều hòa 26 độ. Trần Văn Hùng nhớ bàn tay chai sạn của mẹ ôm đầu gối bệnh, mùi thảo dược đun sôi — thứ thảo dược cuối cùng mẹ được uống. Hai mùi. Hai nhiệt độ. Hai thời đại. Đụng nhau ở xương sọ.
 
 Ông nhắm mắt. Ánh sáng vàng cam từ khe cửa hắt vào võng mạc — nắng nông thôn Bắc Bộ lành và ấm, không phải đèn LED sáu nghìn năm trăm Kelvin. Dưới mí, máu chảy qua mao mạch đỏ ấm. Trong đầu, hai câu chuyện song song chạy.
 
-Một: Hùng. Cha Trần Văn Bình buôn vải buôn chè ở huyện, bị gán nhãn tư sản, đưa đi cải tạo năm bảy tám. Sáu năm không tin tức. Mẹ Nguyễn Thị Mai mất vì viêm phổi khi anh mười lăm — trận bệnh chỉ cần kháng sinh là qua, nhưng thuốc không đến tay nhà nghèo. Anh sống với bà Hà và em gái Lan trong nhà ba gian vách đất lợp lá cọ. Anh trôi mỗi ngày bằng oán hận và rượu, cãi vã không đâu.
+Một: Hùng. Cha Trần Văn Bình buôn vải buôn chè ở huyện, bị gán nhãn tư sản, đưa đi cải tạo năm bảy tám. Sáu năm không tin tức. Mẹ Nguyễn Thị Mai mất vì viêm phổi khi anh mười lăm — trận bệnh chỉ cần kháng sinh là qua, nhưng thuốc không đến tay nhà nghèo. Anh sống với mế và em gái Lan trong nhà ba gian vách đất lợp lá cọ. Anh trôi mỗi ngày bằng oán hận và rượu, cãi vã không đâu.
 
 Hai: Minh. Lớn lên khi đất nước đã mở cửa. Kiếm tiền bằng mã nguồn — chữ trắng trên nền đen — giá trị có thể mua hàng nghìn căn nhà đất như thế. Nhưng cô đơn. Không vợ. Không con. Không người thân chờ cửa.
 
-Ông ngồi dậy. Cơ thể yếu. Mỗi cơ kêu rền như bản lề cửa sắt mười năm không tra dầu. Trên tường vôi bong, hai bức ảnh đen trắng đóng khung gỗ mộc. Người đàn ông mặt nghiêm, xương gò má cao, mắt sáng — cha, Trần Văn Bình. Người phụ nữ trẻ khuôn thanh, môi cười nhẹ, mắt buồn — mẹ, Nguyễn Thị Mai. Mùi tóc mẹ còn nằm trong ký ức Hùng như thứ không phai.
+Ông ngồi dậy. Cơ thể yếu. Mỗi cơ kêu rền như bản lề cửa sắt mười năm không tra dầu. Chiếu cói dưới mông thô ráp, cọng chiếu khô cọ vào da lưng trần. Trên tường vôi bong, hai bức ảnh đen trắng đóng khung gỗ mộc — gỗ xoan, vân nổi, đã phai màu. Người đàn ông mặt nghiêm, xương gò má cao, mắt sáng — cha, Trần Văn Bình. Người phụ nữ trẻ khuôn thanh, môi cười nhẹ, mắt buồn — mẹ, Nguyễn Thị Mai. Ủng đen trắng, nụ cười chỉ đủ chạm môi, nhưng mắt — mắt mẹ như có nước trong đó, vừa yêu vừa lo, cái nhìn của người biết mình sắp đi mà chưa kịp để lại gì. Mùi tóc mẹ còn nằm trong ký ức Hùng như thứ không phai — mùi rơm và xà bông cục, thứ mà bất kỳ ai lớn lên nông thôn tám mươi cũng biết.
 
 Lý Minh nhìn ảnh mẹ của Hùng. Không phải mẹ ông. Nhưng ký ức Hùng rơi vào tim như giọt mặn. Ông khóc. Không chỉ thương nhớ — khóc vì ba mươi lăm năm không ai đợi, bỗng có một gia đình. Nghèo. Khổ. Nhưng là gia đình.
 
@@ -103,17 +105,17 @@ Xe đạp một chiếc. Mới tinh. Sơn đen bóng, vành thép sáng, tăm đ
 
 Ông không vội lấy hết. Ông nhẩm kế hoạch rồi thoát không gian, mở mắt trên giường thật. Chiếu cói cứng dưới lưng. Trần nhà có mạng nhện góc. Mùi lá cọ khô trên mái.
 
-Ngoài bếp, tiếng bà Hà ho khẽ khi thổi lửa. Lan gọi nhỏ: "Bà, rơm ướt quá." Giọng em gái còn non, nhưng đã quen gánh việc nhà từ năm mất mẹ.
+Ngoài bếp, tiếng mế ho khẽ khi thổi lửa. Lan gọi nhỏ: "Bà, rơm ướt quá." Giọng em gái còn non, nhưng đã quen gánh việc nhà từ năm mất mẹ.
 
-Hùng bước ra hiên. Nắng đã cao hơn một tấc. Bà Hà ngẩng từ bếp lò đất. Bà sáu mươi, lưng hơi còng, mắt đỏ vì khói, tay đen tro. Lan mười tám, gầy, tóc buộc lỏng bằng sợi vải cũ, tay dính tro rơm.
+Hùng bước ra hiên. Nắng đã cao hơn một tấc. MẾ ngẩng từ bếp lò đất. Bà sáu mươi, lưng hơi còng, mắt đỏ vì khói, tay đen tro. Lan mười tám, gầy, tóc buộc lỏng bằng sợi vải cũ, tay dính tro rơm.
 
-"Hùng?" Bà nhìn cháu lâu. Đôi mắt mờ đục vì tuổi và khói. "Cậu tỉnh thật rồi. Ba hôm bà tưởng không qua. Cậu sốt, nói sảng toàn chuyện lạ."
+"Hùng?" Bà nhìn cháu lâu. Đôi mắt mờ đục vì tuổi và khói, nhưng khi nhìn Hùng, cái mờ ấy như tan ra, lộ ra sự trong — cái trong của người đã sợ mất đến lần thứ hai. "Cậu tỉnh thật rồi. Ba hôm bà tưởng không qua. Cậu sốt, nói sảng toàn chuyện lạ. Bà thức ba đêm, lấy khăn lau trán, cháo cũng không chịu nuốt. Bà sợ — sợ giống mẹ cậu, hôm trước còn mạnh, hôm sau đã đi."
 
 "Con tỉnh rồi, bà." Giọng ông trầm, rõ, không khàn rượu của Hùng cũ. Ông cúi đầu nhẹ. "Con làm bà lo."
 
-Lan siết cái rá tre trên tay. Mắt cô dò, cau nhẹ ở đuôi mày. "Anh... anh nhớ em không? Nhớ bà không?"
+Lan siết cái rá tre trên tay. Mắt cô dò, cau nhẹ ở đuôi mày — cái đuôi mày cau giống hệt cha trong ảnh trên tường, mà cô không hề biết. Mười tám tuổi, nhưng tay cô đã có vết chai chỗ cầm cuốc, vết bỏng nhỏ chỗ cầm que chiên — vết sẹo mà con gái thành phố không bao giờ có. Cô học hết lớp bảy, nghỉ, về làm ruộng giúp bà, hái rau bán chợ sáng, giặt quần áo cho cả nhà ngoài giếng — nước lạnh tay rã nứt, mùa đông máu rỉ trên kẽ móng. "Anh... anh nhớ em không? Nhớ bà không?"
 
-"Nhớ. Em là Lan. Bà là bà Hà." Ông bước tới, nhận gầu nước từ tay bà. "Để con múc. Bà ngồi nghỉ."
+"Nhớ. Em là Lan. Bà là mế." Ông bước tới, nhận gầu nước từ tay bà. "Để con múc. Bà ngồi nghỉ."
 
 Bà há miệng. Hùng cũ không bao giờ giành việc nặng, càng không bảo bà ngồi. Lan liếc anh, nuốt nước bọt, không nói. Cô chỉ lùi nửa bước cho anh đi ra giếng.
 
@@ -125,7 +127,7 @@ Bà há miệng. Hùng cũ không bao giờ giành việc nặng, càng không b
 
 "Anh biết." Ông nhìn em thẳng. Mắt không lảng. "Anh sẽ không đập bát nữa. Cũng không uống nữa."
 
-Lan không tin hết. Cô gật cho có lệ, cúi rửa mặt. Nước bắn lên má cô, lạnh làm cô nheo mắt. Bà Hà đứng nhìn hai cháu, tay nắm vạt áo nâu sờn, không hỏi thêm. Bà chỉ thở dài một cái — thở của người đã sợ quá nhiều lần, giờ dám hy vọng một tia.
+Lan không tin hết. Cô gật cho có lệ, cúi rửa mặt. Nước bắn lên má cô, lạnh làm cô nheo mắt. MẾ đứng nhìn hai cháu, tay nắm vạt áo nâu sờn, không hỏi thêm. Bà chỉ thở dài một cái — thở của người đã sợ quá nhiều lần, giờ dám hy vọng một tia.
 
 Chiều ấy ông không giải thích hệ thống, không kể kiếp trước. Ông quét sân. Ông kê lại chum gạo cạn sát tường ẩm. Ông kiểm mái dột góc bếp, đánh dấu bằng mẩu than. Ông nhìn nồi cháo loãng trên bếp và quyết định một việc nhỏ có thể kiểm ngay: tối nay cả nhà phải no thật — no bằng cơm, không bằng lời hứa.
 
@@ -133,7 +135,7 @@ Chiều ấy ông không giải thích hệ thống, không kể kiếp trước
 
 "Con phụ việc ở huyện chiều nay. Người ta trả bằng hiện vật." Giọng bình thản, như nói chuyện trời mưa.
 
-Bà Hà mở bao. Gạo trắng hạt dài, đều, trắng ngần. Bà sờ, đầu ngón run nhẹ. "Gạo này... nhà cán bộ xã, bữa tiệc hiếm hoi bà mới thấy."
+MẾ mở bao. Gạo trắng hạt dài, đều, trắng ngần. Bà sờ, đầu ngón run nhẹ. "Gạo này... nhà cán bộ xã, bữa tiệc hiếm hoi bà mới thấy."
 
 "Ông bác xây nhà, cần người khuân vác. Con phụ một buổi, ông trả gạo và thịt." Ông đã chuẩn bị câu. Không hoàn hảo. Đủ tạm cho ngày đầu.
 
@@ -143,7 +145,7 @@ Lan nhìn anh, mắt đen láy. "Chiều nay em ở nhà cả buổi. Không th�
 
 Lan không tin hết. Cô cũng không ép. Cô đong gạo vào nồi, vo bằng nước giếng. Nước vo đục trắng. Bà giữ nước vo đổ nồi canh rau lang — thói quen cả đời không bỏ gì, không phí gì. Hùng không cản. Ông tôn trọng cái nghèo đã nuôi ba người sống sót.
 
-Ông cắt thịt, ướp muối, kho lửa nhỏ. Mùi thịt lan trong gian bếp tôn rỉ. Lan đập trứng vào chảo. Dầu ít — dầu cũng khan — nhưng trứng tươi, lòng đỏ cam, chiên vàng. Cơm chín. Nắp nồi mở, hơi nước bốc trắng, mang mùi gạo mới. Không phải gạo lứt khô khốc họ ăn cả tháng.
+Ông cắt thịt, ướp muối, kho lửa nhỏ. Thịt heo ba chỉ cắt miếng dày, nạc đỏ, mỡ trắng đục, thớ thịt còn mềm. Ông thả vào nồi đất, nắp đậy kêu nhẹ khi hơi nước bắt đầu bốc. Mùi thịt kho — thịt heo kho muối — lan trong gian bếp tôn rỉ, ngấm vào vách đất, len vào tóc Lan, len vào mũi mế đang rửa rau. Thứ mùi mà tám mươi ba chỉ Tết mới được nghe — Tết nhà nào khá, chứ nhà nghèo kho thịt bằng thịt nạc khô xé sợi, không phải thịt tươi cắt khúc. Lan đập trứng vào chảo gang cũ — chảo đen bóng, cán gỗ mòn vẹt. Dầu ít — dầu thực vật cũng khan, chỉ nửa muỗng — nhưng trứng tươi, vỏ nâu còn dính lông tơ, lòng đỏ cam rực, đổ vào chảo kêu xèo, dậy mùi béo nồng. Cơm chín. Nắp nồi mở, hơi nước bốc trắng tưng, mang mùi gạo mới — mùi mà hơn một năm nay gia đình chưa được nghe — ngọt, dẻo, ấm.
 
 Ba người ngồi quanh mâm gỗ tròn kê gạch cho khỏi lắc. Đèn dầu cháy xèo trên bàn. Ngọn lửa vàng cam lay động, bóng ba người nhảy trên vách đất. Bà xới ít cho mình, nhiều cho hai cháu. Hùng lén múc thêm một thìa vào bát bà khi bà quay đi lấy nước mắm. Lan gắp miếng thịt, nhai, mắt ươn ướt.
 
@@ -151,7 +153,7 @@ Ba người ngồi quanh mâm gỗ tròn kê gạch cho khỏi lắc. Đèn dầ
 
 "Không có gì." Cô lau nhanh bằng mu bàn tay. "Em chỉ... nhớ mẹ. Mẹ kho thịt ngon lắm. Ngày Tết kho một nồi, cả nhà ăn ba ngày."
 
-Bà Hà gật, không nói nhiều. Bà ăn chậm, nhắm mắt khi hạt gạo dẻo tan trên lưỡi. Bà đã lâu không ăn gạo trắng — lâu đến quên vị. Tiếng đũa gõ vành bát sành cốc cốc trong bếp vắng. Hùng cảm hơi ấm bát cơm thấm kẽ tay chai sạn — cái ấm của bữa gia đình thật, khác mọi bữa một mình trước màn hình máy tính kiếp trước.
+MẾ gật, không nói nhiều. Bà ăn chậm, nhắm mắt khi hạt gạo dẻo tan trên lưỡi — miệng bà mấp máy như cầu nguyện, hoặc như đang cố nhớ thứ vị này, thứ vị mà cả đời nghèo bà tưởng đã vĩnh viễn mất. Bà đã hai mươi năm không ăn gạo trắng — hai mươi năm, từ khi chồng bị đưa đi, từ khi bà một mình giữ cháu, từ khi tem phiếu chỉ đủ cho rau sắn. Tiếng đũa gõ vành bát sành cốc cốc trong bếp vắng. Bên ngoài, con mèo nhà ai ngoe nguẩy đi ngang hiên, tiếng chân khẽ trên lá dừa. Hùng cảm hơi ấm bát cơm thấm kẽ tay chai sạn — cái ấm của bữa gia đình thật, khác mọi bữa một mình trước màn hình máy tính kiếp trước.
 
 Trong lồng ngực ông, một thứ tình cảm lạ nở ra, ấm và nặng: ông đang thuộc về một nơi.
 
@@ -161,7 +163,7 @@ Sau bữa, ông rửa bát. Lan muốn giành, ông lắc đầu. "Em gầy quá
 
 Lan nhìn anh — nhìn kỹ, như cố hiểu ai đang đứng trước mặt. Anh trai cô không rửa bát. Chưa bao giờ. Cô không hỏi, chỉ gật, lui vào chõng.
 
-Bà Hà ngồi bậu cửa, nhìn ra sân. Trăng đầu tháng, lưỡi liềm mảnh treo trên ngọn tre. Gió đêm thổi nhẹ, mang mùi lúa chín xa. Dế kêu. Đâu đó tiếng chó sủa một tiếng rồi im.
+MẾ ngồi bậu cửa, nhìn ra sân. Trăng đầu tháng, lưỡi liềm mảnh treo trên ngọn tre, sáng bạc. Gió đêm thổi nhẹ, mang mùi lúa chín xa — mùi lúa mới gặt phơi trên đê, ngọt ngào, nồng ấm. Dế kêu râm ran — tiếng dế cơm lẫn tiếng dế trống, hợp xướng đêm hè bất tận. Đâu đó tiếng chó sủa một tiếng rồi im — chó nhà nào nghe tiếng động, sủa cho có lệ, rồi ngủ tiếp. Xa xa, ánh đèn dầu le lói sau song cửa nhà khác — cả xóm đã chìm vào giấc ngủ, chỉ nhà này còn thức, ba người ngồi trong bóng tối ấm áp.
 
 Hùng rửa xong, ra ngồi cạnh bà. Hai người im. Nhìn trăng.
 
@@ -169,7 +171,7 @@ Hùng rửa xong, ra ngồi cạnh bà. Hai người im. Nhìn trăng.
 
 Bà mở mắt, nhìn cháu. Câu hỏi ấy bà chờ hai mươi ba năm. Hùng cũ không bao giờ hỏi — không quan tâm, hoặc không dám. Hùng mới hỏi, và hỏi bằng giọng người đã quyết sẽ làm gì đó.
 
-"Bà không biết." Giọng bà trầm. "Hồi đó họ nói cải tạo vài năm. Rồi không tin. Bà hỏi cán bộ xã, họ nói đang học tập. Rồi bảo chờ. Chờ mãi."
+"Bà không biết." Giọng bà trầm, khàn lại. Tay bà siết chặt vải quần. "Hồi đó họ nói cải tạo vài năm. Rồi không tin. Bà hỏi cán bộ xã, họ nói đang học tập. Rồi bảo chờ. Chờ mãi. Mỗi tháng bà lên xã một lần, hỏi ông phó chủ tịch — ông ấy tránh mặt, lần sau lại đổi người. Bà viết đơn, gửi lên huyện, không hồi âm. Bà viết lại, lần nữa. Năm đầu bà khóc, năm sau bà hết nước mắt, năm thứ ba bà chỉ còn biết cầu Phật. Bà giữ ảnh cha cậu trên tường, hàng tháng thay nhang — không phải vì tin cha còn sống, mà vì sợ cậu lớn lên quên mặt cha."
 
 Hùng nắm tay bà. Tay bà lạnh, gầy, xương nổi, nhưng siết lại rất chặt. "Con sẽ tìm cách. Con sẽ hỏi han. Con sẽ đưa cha về."
 
@@ -190,7 +192,7 @@ Một nghìn chín trăm tám mươi ba không phải thời dễ buôn. Nhưng 
 
 Hùng hiểu. Lý Minh cũng hiểu. Cả hai, trong cùng một cơ thể, cùng nhìn một hướng.
 
-Ông đứng dậy. Nhìn vào nhà — bà Hà và Lan thu dọn xong, đèn leo lét một góc. Bóng hai người trên vách. Ông nhìn ảnh cha trên tường — người đàn ông nghiêm nghị ông chưa thấy mặt thật, chưa nhớ giọng. Có lẽ còn sống. Có lẽ đã mất. Ông không biết. Nhưng một ngày đủ mạnh, ông sẽ tìm.
+Ông đứng dậy. Nhìn vào nhà — mế và Lan thu dọn xong, đèn leo lét một góc. Bóng hai người trên vách. Ông nhìn ảnh cha trên tường — người đàn ông nghiêm nghị ông chưa thấy mặt thật, chưa nhớ giọng. Có lẽ còn sống. Có lẽ đã mất. Ông không biết. Nhưng một ngày đủ mạnh, ông sẽ tìm.
 
 Một kiếp mới. Một cơ thể mới. Một gia đình đang thở cùng mái nhà này. Lần này ông sẽ không lãng phí.
 
@@ -204,13 +206,35 @@ Sáng mai ông sẽ bước ra khỏi cổng. Không phô EXP. Không khoe kho. 
 
 Trước khi ngủ hẳn, ông nhẩm ba việc: kiểm chum gạo còn bao nhiêu; giấu kỹ phần hàng chưa đưa ra; nói rõ với Lan là anh đi huyện thật chứ không biến mất trong lời dối. Việc thứ ba quan trọng hơn tiền — vì em đã nghi, và lòng tin trong nhà này mỏng hơn lớp vôi bong trên tường.
 
-Ngoài ngõ, gió lùa qua khe lá cọ, mang hơi lạnh đầu mùa. Lan trở mình bên kia vách, thở đều. Bà Hà ho khẽ rồi im. Nhà ba gian chìm theo nhịp làng ngủ.
+Ngoài ngõ, gió lùa qua khe lá cọ, mang hơi lạnh đầu mùa. Lan trở mình bên kia vách, thở đều. MẾ ho khẽ rồi im. Nhà ba gian chìm theo nhịp làng ngủ.
 
 Hùng thì thầm trong đầu, không phải với hệ thống, mà với chính mình: "Đủ ăn trước. Rồi mới nói lớn."
 
 Tay ông nắm mép chiếu, buông, nắm lại. Mắt mở trong bóng tối một lúc. Quyết định đã chốt: ngày mai đi huyện. Không để bữa no thành lời hứa một lần rồi tắt.
 
 Ông gật một cái. Rồi ngủ — giấc ngủ đầu tiên của kiếp người vừa chết vừa sống, trên chiếu cói cứng, dưới mái lá cọ, trong năm một nghìn chín trăm tám mươi ba.
+
+Ngoài cổng, tiếng dép kéo lê trên nền đất đánh thức ông lúc gần sáng. Không phải tiếng bước chân quen của hàng xóm. Một lần. Hai lần. Dừng ngay trước hàng rào tre. Có tiếng giấy bị nhét qua khe cổng, sột soạt như chuột cắn. Rồi tiếng người đàn ông nói rất khẽ, đủ để gió mang vào hiên:
+
+"Nhà Trần Văn Bình phải không? Hùng tỉnh rồi thì bảo nó lên huyện. Đừng hỏi vì sao. Đừng mang bà già theo."
+
+Tiếng chân rút đi, nhanh hơn lúc đến.
+
+Hùng mở mắt. Bóng tối còn dày, mùi chiếu cói và mùi khói bếp nguội quấn quanh cổ họng. Bên kia vách, Lan thở đều. MẾ ho một tiếng, trở mình. Ông không đánh thức họ. Ông ngồi dậy, chân trần chạm nền đất lạnh, nhặt tờ giấy ngoài cổng.
+
+Giấy màu vàng xám, dấu đỏ nhòe ở góc. Dòng đầu tiên viết tên ông. Dòng thứ hai chỉ có sáu chữ:
+
+"Đến nhận tin về cha. Một mình."
+
+Dòng cuối không có chữ, chỉ có một vệt mực đen kéo dài như ngón tay ai vừa run vừa dừng lại giữa câu.
+
+Hùng đọc lần nữa. Trong đầu, hệ thống bật sáng không báo trước:
+
+「Phát hiện nhiệm vụ ẩn: Truy tìm Trần Văn Bình.
+Mức nguy hiểm: Chưa xác định.
+Điều kiện thất bại: Gia đình bị liên lụy.」
+
+Ngoài sân, con gà trống cất tiếng gáy đầu tiên. Hùng gấp tờ giấy, giấu vào ngực áo. Ngày mới của năm 1983 chưa bắt đầu, nhưng có người đã biết ông tỉnh lại.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.1」

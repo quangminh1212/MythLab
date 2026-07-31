@@ -2,7 +2,7 @@
 Chương 81: Mở rộng năng lượng nhà máy điện
 ============================================================
 
-4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở cửa phòng điều hành. Ông đứng nhìn bảng áp lực nước cấp, tay cầm tách trà nóng bốc khói giữa tiết trời  tháng Mười Một.
+4:30 sáng. Khu công nghiệp chưa tỉnh hẳn — chỉ có ánh đèn cao áp vàng vọt và hơi nước bốc từ tháp giải nhiệt. Sương mù dày đặc bao quanh hàng rào, mùi kim loại ẩm lẫn với mùi đất sét đỏ của vùng ven ngoại ô. Đèn đường nhấp nháy — một bóng đã cháy hỏng từ tuần trước, chưa ai thay. Hùng đã có mặt trước khi tổ trưởng cơ khí kịp mở cửa phòng điều hành. Ông đứng nhìn bảng áp lực nước cấp, tay cầm tách trà nóng bốc khói giữa tiết trời se lạnh tháng Mười Một — hơi trà tỏa lên mặt, ông hít một hơi, vị chát của trà mạn Thái Nguyên thấm vào cuống họng.
 
 Lịch: unit 1 dừng chủ động lúc 22:00 hôm qua. Sáng nay 6:00 — mở nắp ổ đỡ số 3, kiểm tra bạc, do lại khe hở dầu. Nếu bạc mòn quá 0.15 mm thì thay. Cả ca cơ khí đã được báo.
 
@@ -20,7 +20,7 @@ Hùng gật. Ký nhận bàn giao. Bút bi. Mực đỏ. Thời gian: 5:18 sáng
 
 6:00. Tổ cơ khí gồm bốn người — thợ bậc 5/7 và ba thợ phụ — bắt đầu tháo nắp turbine. Nắp ổ đỡ số 3 nặng 120 kg, bắt bằng 16 bulông M24, siết mô-men 35 kgm. Thợ cả dùng súng vặn thủy lực — từng bulông, đúng thứ tự, không vội.
 
-Hùng đứng cách đó sáu mét, tay cầm calíp đo khe hở. Họ làm việc dưới ánh đèn pha — khu vực turbine tầng một không có cửa sổ, mùi dầu máy và mồ hôi hòa vào nhau. Nhiệt độ trong nhà turbine đã nguội còn 32°C — so với 48°C lúc vận hành.
+Hùng đứng cách đó sáu mét, tay cầm calíp đo khe hở. Họ làm việc dưới ánh đèn pha — khu vực turbine tầng một không có cửa sổ, mùi dầu máy và mồ hôi hòa vào nhau. Bụi mờ mịt trong ánh đèn, thỉnh thoảng một tia dầu bắn lên tay áo thợ — không ai lau, cứ để khô. Nhiệt độ trong nhà turbine đã nguội còn 32°C — so với 48°C lúc vận hành — nhưng mùi dầu DO vẫn nồng nặc, bám vào tóc, vào quần áo, vào da thịt người thợ. Tiếng cờ-lê va vào bulông kim loại leng keng — một thứ âm thanh đã trở nên quen thuộc đến mức Hùng không còn nghe thấy nữa.
 
 45 phút sau — nắp ổ đỡ mở. Thợ cả chiếu đèn pin vào lòng ổ: bạc trắng, hợp kim babít, mặt tiếp xúc bóng đều. Hùng đưa calíp vào đo — khe hở hướng kính 0.28 mm. Tiêu chuẩn cho phép 0.15-0.35 mm. Chưa tới hạn, nhưng so với biên bản lắp đặt năm 1984 là 0.18 mm — đã mòn thêm 0.1 mm sau hai năm.
 
@@ -30,7 +30,7 @@ Thợ cả gật. Họ bôi dầu mới, đậy nắp, xiết bulông. Hùng t�
 
 Đã 7:45.
 
-Hùng lên phòng điều hành uống vội tách trà. Lan đã đến từ lúc 7:00, đặt trên bàn ông xấp tài liệu dày 4 cm: báo giá tua-bin Mitsubishi, bản dịch catalogue kỹ thuật tiếng Nga của LMZ, và công văn từ Cục Điện lực về chuẩn mực đấu nối lưới 110 kV.
+Hùng lên phòng điều hành uống vội tách trà. Lan đã đến từ lúc 7:00, ngồi dưới ngọn đèn huỳnh quang mờ — mắt vẫn chưa hết quầng thâm vì thức khuya dịch catalogue. Cô đặt trên bàn ông xấp tài liệu dày 4 cm: báo giá tua-bin Mitsubishi, bản dịch catalogue kỹ thuật tiếng Nga của LMZ, và công văn từ Cục Điện lực về chuẩn mực đấu nối lưới 110 kV. Cô đã gấp góc trang bìa mỗi tập để đánh dấu — thói quen cũ từ hồi còn đi học, bây giờ trở thành cách cô tổ chức tài liệu cho Hùng.
 
 "Công văn nói gì?" Hùng hỏi, tay lật nhanh.
 
@@ -84,7 +84,7 @@ Hùng hỏi một câu bằng tiếng Việt, Lan dịch: "Rotor LMZ dùng thép
 
 Hùng nhẩm nhanh trong đầu. 16.580 tấn than, giá than lúc này 450 đồng/tấn — tiết kiệm 7,46 triệu đồng/năm. Giá tua-bin Mitsubishi cao hơn LMZ khoảng 60% — ước tính 96 triệu so với 60 triệu. Thời gian hoàn vốn chênh lệch đầu tư: (96-60)/7,46 ≈ 4,8 năm.
 
-Đầu tư dài hạn. Nhưng bốn năm rưỡi là thời gian đủ để Đổi Mới thay đổi mọi quy tắc.
+Đầu tư dài hạn. Nhưng bốn năm rưỡi là thời gian đủ để Đổi Mới thay đổi mọi quy tắc. Tháng Mười Một này, Quốc hội đang thảo luận luật mới về doanh nghiệp tư nhân — lần đầu tiên kể từ ngày đất nước thống nhất. Hùng biết rằng nếu luật thông qua, giá thiết bị sẽ thay đổi — tư nhân được phép nhập khẩu trực tiếp, không qua Tổng công ty Nhà nước nữa. Giá có thể rẻ hơn, nhưng cũng có thể đắt hơn — không ai nói trước được gì trong thời buổi đất nước đang chuyển mình.
 
 "Tôi muốn hai thứ," Hùng nói. "Một: danh sách phụ tùng dự phòng cho 5 năm — kèm đơn giá. Hai: lịch đào tạo vận hành — tối thiểu 6 kỹ sư của tôi được huấn luyện tại Nhật 8 tuần."
 
@@ -94,7 +94,7 @@ Yamada nhìn Tanaka. Tanaka gật.
 
 Tanaka và Yamada ra về. Hùng nhìn đồng hồ — 10:10.
 
-10:30. Chuyến đi hiện trường — khu vực lắp máy nghiền than unit 3. Hùng đi bộ dọc tuyến băng tải cũ — 650 mét từ kho đến lò. Bụi than đen dày đặc dưới chân, nước mưa đọng thành vũng bùn đen. Một phần mái che băng tải đã hỏng — nước rỉ xuống làm trượt băng tải khi than ướt.
+10:30. Chuyến đi hiện trường — khu vực lắp máy nghiền than unit 3. Hùng đi bộ dọc tuyến băng tải cũ — 650 mét từ kho đến lò. Bụi than đen dày đặc dưới chân, nước mưa đọng thành vũng bùn đen — giày ống của ông bám đầy bùn, mỗi bước chân đều phát ra tiếng nhóp nhép. Một phần mái che băng tải đã hỏng — nước rỉ xuống làm trượt băng tải khi than ướt. Phía xa, tiếng xe tải chở than rền vang trên đường đất đỏ — bụi laterit bay mù mịt, bám vào hàng rào sắt gỉ sét.
 
 "Anh Hai," Hùng gọi tổ trưởng cơ khí. "Phần mái che này — sửa trong tuần này. Tiền lấy từ quỹ bảo trì."
 
@@ -114,19 +114,19 @@ Tổ trưởng gật. Họ đi tiếp đến máy nghiền than — máy nghiề
 
 Hùng gật. Kiểm tra đồng hồ báo nhiệt — 65°C thật. Dưới ngưỡng 75°C. Ông ký vào phiếu kiểm tra.
 
-11:30. Văn phòng điều hành. Hùng gọi điện cho nhà máy thép Thái Nguyên — đầu dây bên kia là trưởng phòng kinh doanh tên Minh.
+11:30. Văn phòng điều hành. Hùng gọi điện cho nhà máy thép Thái Nguyên — đầu dây bên kia là trưởng phòng kinh doanh tên Vinh.
 
-"Anh Minh, tôi Hùng — Khu công nghiệp. 12 tấn thép Ø22 và Ø28 — lô của tôi đâu?"
+"Anh Vinh, tôi Hùng — Khu công nghiệp. 12 tấn thép Ø22 và Ø28 — lô của tôi đâu?"
 
 "Anh Hùng, xin lỗi — nhà máy đang ưu tiên đơn hàng của Tổng công ty Xây dựng. Lô của anh dồn lại cuối tháng."
 
 "Cuối tháng tôi âm tiến độ. Anh cho tôi 12 tấn trước — tôi chấp nhận lấy Ø25 thay cho Ø22, nếu anh có hàng. Tôi sẽ ký biên bản thay đổi chủng loại — trách nhiệm thiết kế tôi tự lo."
 
-Minh im vài giây. "Để tôi xem kho — gọi lại anh trong 30 phút."
+Vinh im vài giây. "Để tôi xem kho — gọi lại anh trong 30 phút."
 
 Hùng gác máy. Xoay người nhìn ra cửa sổ — công trường đang đổ bê tông móng máy nghiền. 180 m³ bê tông M300. Ba xe trộn đang đổ liên tục. Thợ hồ dùng đầm dùi — từng nhát, đều, đúng khoảng cách.
 
-11:45. Minh gọi lại: "Có 12 tấn Ø25 và Ø28 — anh qua lấy hóa đơn chiều nay. Nhưng giá Ø25 cao hơn Ø22 — 12 đồng/kg."
+11:45. Vinh gọi lại: "Có 12 tấn Ø25 và Ø28 — anh qua lấy hóa đơn chiều nay. Nhưng giá Ø25 cao hơn Ø22 — 12 đồng/kg."
 
 "Bao nhiêu chênh lệch?"
 
@@ -144,7 +144,7 @@ Gần bằng tiền mua một máy kéo MTZ-50.
 
 Ông hít một hơi. Đó là lý do Mitsubishi hấp dẫn — phụ tùng tuy đắt hơn nhưng chu kỳ thay dài hơn. Nhưng LMZ có lợi thế: kỹ thuật viên ở đây biết tua-bin Liên Xô như lòng bàn tay. Họ đã vận hành chúng 10 năm. Còn Mitsubishi — mọi thứ phải học lại từ đầu.
 
-Hùng đưa tay xoa thái dương, cảm nhận mạch máu đập dưới đầu ngón tay. Ngoài kia, qua ô cửa sổ nhỏ, tiếng turbine unit 2 rền đều, một thứ âm thanh đã trở thành nhịp thở của ông suốt mấy tháng nay. Ông nhắm mắt một giây—đủ để thấy giữa lằn ranh Liên Xô và Nhật Bản không chỉ là con số trên catalogue, mà là những đêm mất ngủ khi tua-bin Nhật chạy được năm năm rồi bất ngờ hỏng một cánh, đám kỹ sư không biết nguồn phụ tùng ở đâu. Cả mớ dây chuyền đứng bốn tháng, lãi của cả năm đội vào nợ đầu tư. Ông thấy trước cái cảnh đó, và cái thấy ấy nặng hơn bất kỳ con số tiết kiệm nhiên liệu nào.
+Hùng đưa tay xoa thái dương, cảm nhận mạch máu đập dưới đầu ngón tay. Ngoài kia, qua ô cửa sổ nhỏ, tiếng turbine unit 2 rền đều, một thứ âm thanh đã trở thành nhịp thở của ông suốt mấy tháng nay. Ông nhắm mắt một giây — đủ để thấy giữa lằn ranh Liên Xô và Nhật Bản không chỉ là con số trên catalogue, mà là những đêm mất ngủ khi tua-bin Nhật chạy được năm năm rồi bất ngờ hỏng một cánh, đám kỹ sư không biết nguồn phụ tùng ở đâu. Cả mớ dây chuyền đứng bốn tháng, lãi của cả năm đội vào nợ đầu tư. Ông thấy trước cái cảnh đó, và cái thấy ấy nặng hơn bất kỳ con số tiết kiệm nhiên liệu nào. Ông nhớ đến bàn tay mế buổi sáng — khi ông bước ra cửa, bà nắm lấy cổ tay ông một giây, không nói gì, chỉ để ông biết rằng có người đợi ông về.
 
 "Đấy mới là cái giá thực sự," Hùng lầm bầm.
 
@@ -222,9 +222,9 @@ Lan không nói gì. Chỉ đứng cùng ông năm phút, rồi quay vào.
 
 Ông đọc lại một lần. Gấp sổ.
 
-19:00. Về nhà. Bà Hà hỏi: "Ăn chưa?" Hùng gật — dù chưa ăn, nhưng ông không muốn bà phải dọn thêm. Bà nhìn ông một lát, không tin — nhưng không hỏi thêm. Chỉ bưng ra bát cơm nóng và đĩa cá kho tiêu.
+19:00. Về nhà. MẾ hỏi: "Ăn chưa?" Hùng gật — dù chưa ăn, nhưng ông không muốn MẾ phải dọn thêm. MẾ nhìn ông một lát, không tin — nhưng không hỏi thêm. Chỉ bưng ra bát cơm nóng và đĩa cá kho tiêu. Mùi cơm gạo mới thơm lừng, lẫn với mùi cá kho tiêu cay nồng — bếp gas nhỏ cháy ngọn lửa xanh, chảo dầu vẫn còn âm ấm. MẾ mặc áo bà ba nâu, tóc vấn gọn, đôi tay gầy bám đầy vết dầu — bà vừa giặt xong đồ cho cả nhà.
 
-Lan ăn cùng. Mâm cơm không linh đình — ba món: canh chua, cá kho, rau luộc. Đủ.
+Lan ăn cùng. Mâm cơm không linh đình — ba món: canh chua, cá kho, rau luộc. Đủ. Minh — con trai Hùng, mới học xong lớp bốn — ngồi một góc bàn, mặt lấm lem mực tím, đang loay hoay viết bài tập về giấy vở ô ly. Đôi tay nhỏ cầm bút chì, miệng lẩm nhẩm đọc to — tiếng đọc chưa rõ, nhưng kiên nhẫn.
 
 "Tua-bin họ thế nào?" Lan hỏi — nhưng hỏi nhẹ, kiểu hỏi để chia sẻ chứ không phải hỏi để báo cáo.
 
@@ -234,7 +234,7 @@ Lan ăn cùng. Mâm cơm không linh đình — ba món: canh chua, cá kho, rau
 
 "Sáu kỹ sư, tám tuần — nếu mình chọn Mitsubishi."
 
-"Anh chọn cái gì giữ được người và thiết bị chạy bền," bà Hà nói từ bếp. "Chọn xong thì về ăn đúng giờ."
+"Anh chọn cái gì giữ được người và thiết bị chạy bền," MẾ nói từ bếp. "Chọn xong thì về ăn đúng giờ."
 
 Hùng cười — lần đầu trong ngày.
 
@@ -250,11 +250,13 @@ Lan đứng bên xe đạp, mắt liếc đồng hồ rồi nhìn ông.
 
 "Chưa chốt." Hùng thở dài, hơi trắng trong đêm. "Chốt khi có danh sách phụ tùng năm năm và lịch đào tạo. Không chốt bằng catalogue đẹp."
 
-Lan gật, cúi ghi một dòng vào sổ nhỏ. Bà Hà ở nhà đã để sẵn canh bí — bà không hỏi công suất, chỉ hỏi ông đã ăn gì từ sáng.
+Lan gật, cúi ghi một dòng vào sổ nhỏ. MẾ ở nhà đã để sẵn canh bí — MẾ không hỏi công suất, chỉ hỏi ông đã ăn gì từ sáng.
 
-Trước khi ngủ, Hùng viết cuối sổ: Unit 1 hòa lưới 15:28. Van LMZ OK. SF6 Trung Quốc — từ chối. Unit 3 — thép Thái Nguyên 12 tấn còn thiếu.
+Trước khi ngủ, Hùng viết cuối sổ: Unit 1 hòa lưới 15:28. Van LMZ OK. SF6 Trung Quốc — từ chối. Unit 3 — thép Thái Nguyên 12 tấn còn thiếu. Ông gấp sổ, tắt đèn.
 
-Mai còn mở cửa máy. Còn khe hở nào chưa đo? Sẽ rõ khi tua-bin thứ hai dừng ca.
+Đêm khuya. Tiếng dế râm ran ngoài hàng rào. Hùng nằm trên giường, mắt mở — ông nghe thấy một âm thanh lạ từ hướng nhà máy: tiếng động cơ nổ chậm, không đều, rồi im bặt. Ông ngồi dậy, nhìn ra cửa sổ — đèn pha nhà máy vẫn sáng, nhưng có một bóng đèn nhấp nháy — cùng một kiểu nhấp nháy mà ông đã thấy trước khi ổ đỡ unit 2 bị quá nhiệt hai tháng trước. Ông nhấc điện thoại bàn — đường line chết. Ông khoác áo, chạy ra cổng — xe đạp dựng ngoài hiên, ánh trăng mờ phản chiếu trên khung sắt.
+
+"Đêm nay không ngủ được," ông lẩm bẩm, đạp xe về hướng nhà máy. Phía xa, một bóng đèn cao áp bỗng tắt hẳn — rồi bật lại — rồi tắt lần nữa.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.81」

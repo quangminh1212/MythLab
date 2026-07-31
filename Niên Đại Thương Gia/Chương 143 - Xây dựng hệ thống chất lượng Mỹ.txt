@@ -2,41 +2,43 @@
 Chương 143: Xây dựng hệ thống chất lượng Mỹ
 ============================================================
 
-Los Angeles, cuối tháng năm 1990. Trời nóng ba mươi lăm độ, nhưng cái nóng California khô khốc, khác hẳn oi bức Sài Gòn. Hùng ngồi trong văn phòng nhỏ Linda cho mượn — một góc kho sửa thành phòng, máy lạnh cũ kêu đều, bàn gỗ công nghiệp mặt bị trầy, tủ sắt màu xám. Trên bàn là xấp tài liệu dày gần hai trăm trang — tiêu chuẩn kỹ thuật Mỹ cho hàng may mặc nhập khẩu.
+Los Angeles, cuối tháng năm 1990. Nhiệt kế treo ngoài cửa kho chỉ ba mươi lăm độ; cái nóng California khô, rát da, không dính nhớp như buổi trưa Sài Gòn. Mặt đường nhựa rung lên dưới nắng, mùi cao su nóng quyện với xăng xe tải. Hùng ngồi trong góc kho Linda cho mượn, chiếc máy lạnh cũ rung lạch cạch, thỉnh thoảng phả ra hơi có mùi bụi. Bàn gỗ công nghiệp trầy mặt, tủ sắt xám móp một góc. Trên bàn là xấp tài liệu gần hai trăm trang về tiêu chuẩn hàng may mặc nhập khẩu; sau lưng ông, tờ lịch Malibu tháng 5 năm 1990 cong mép vì hơi nóng. Ngoài cửa, xe nâng lùi từng nhịp, tiếng còi ngắn đập vào vách tôn.
 
 Người phiên dịch — một sinh viên Việt Nam học tại UCLA — đã giúp ông dịch tiêu đề các mục. Nhưng nội dung bên trong Hùng phải tự đọc. Ông đánh dấu chỗ chưa rõ, dùng từ điển Anh-Việt mỏng tra từng chữ, ghi chú bằng bút chì bên lề. Có tiêu chuẩn dài mười trang chỉ để nói về cách đo kích thước cổ áo — từ vòng cổ đến bản cổ, từ độ cao cổ sau đến độ chồng mí. Mỗi thuật ngữ đều có số, có hình vẽ kèm theo.
 
-Đến trang thứ năm mươi, Hùng dừng lại. Ông không phải kỹ sư, không phải luật sư. Ông là thương nhân. Nhưng để hàng Việt Nam đứng trên kệ Mỹ, ông phải hiểu — hoặc ít nhất biết đủ để hỏi đúng người.
+Đến trang thứ năm mươi, Hùng dừng lại. Ông không phải kỹ sư, không phải luật sư. Ông là thương nhân, lớn lên trong cái nôi chợ Bến Thành, học cách mặc cả từ thuở mười hai. Nhưng để hàng Việt Nam đứng trên kệ Mỹ, ông phải hiểu — hoặc ít nhất biết đủ để hỏi đúng người. Mồ hôi chảy xuống trán, ông lau bằng tay áo sơ-mi ướt đẫm. Từ điển Anh-Việt mỏng đã quăn góc, trang bìa tách rời; bút chì gãy hai lần, mỗi lần ông lại ngậm vỏ bút suy nghĩ. Trong đầu ông thoáng qua gương mặt mế — vợ ông — lần chia tay ở sân bay Tân Sơn Nhất, bà nắm chặt tay ông, miệng nói cứng: "Đi đi. Đừng quay về tay trắng." Câu ấy nặng hơn mọi trang tiêu chuẩn. Ông mở trang tiếp theo. Mỗi chữ tra được là một bước tiến — không phải cho riêng ông, mà cho cái cửa hàng nhỏ ở đường Nguyễn Đình Chiểu, cho Lan đang chạy sổ sách ở nhà, cho Minh chưa biết cha mình đang làm gì ở xứ người. Ông gấp catalogue, hít một hơi. Thứ cần nhất lúc này không phải bằng cấp — là kiên nhẫn.
 
 ---
 
 Hùng không vẽ sơ đồ tổ chức. Vẽ để làm gì khi chưa biết ai làm được việc. Bước một: ông thuê hai người.
 
-Người thứ nhất — Phạm — bốn mươi lăm tuổi, từng làm quản đốc xưởng may cho một hãng Đài Loan. Tóc hoa râm, tay thường xuyên cầm thước dây. Phạm bắt đầu bằng cách đi từng lô hàng trong kho, từng kiện, từng cái áo. Ông lấy thước dây, đo cổ áo, ngực, tay, so với spec. Sai lệch cho phép: 0,5 inch. Ngoài 0,5 inch — trả. Phạm không hỏi ý kiến Hùng mỗi lần phát hiện lỗi — nhưng ông ghi vào phiếu kiểm, dán lên kiện hàng, chụp ảnh, đánh dấu bằng bút đỏ.
+Phạm — bốn mươi lăm tuổi, tóc hoa râm cắt cụt, tay thô ráp vì hai mươi năm cầm thước dây trong các xưởng may Đài Loan, Singapore, rồi Campuchia. Mắt ông nhỏ nhưng tinh, như mắt thợ kim hoàn. Phạm bắt đầu bằng cách đi từng lô hàng trong kho — từng kiện, từng cái áo. Ông lấy thước dây đo cổ áo, ngực, tay, so với spec. Sai lệch cho phép: 0,5 inch. Ngoài 0,5 inch — trả. Phạm không hỏi ý kiến Hùng mỗi lần phát hiện lỗi. Ông ghi vào phiếu kiểm, dán lên kiện hàng, chụp ảnh, đánh dấu bút đỏ. Có lần ông phát hiện một lỗi chỉ 0,3 inch — đúng ngưỡng — nhưng vẫn ghi. Hùng hỏi tại sao. Phạm đáp: "Ghi để lần sau biết nó nhích lên hay xuống. Con số không nói dối."
 
-Người thứ hai — Hạnh — ba mươi tuổi, MBA từ trường tiểu bang California. Hạnh ngồi trong văn phòng, tạo bộ hồ sơ mẫu cho mỗi lô: packing list, invoice, C/O, báo cáo kiểm hàng, ảnh chụp. Mỗi thứ ba bản — hải quan, người mua, lưu.
+Người thứ hai — Hạnh — ba mươi tuổi, MBA từ trường tiểu bang California, con một sĩ quan miền Nam trước 1975, lớn lên trong khu chung cư nhỏ ở Orange County, vừa học vừa làm bồi bàn. Hạnh ngồi trong văn phòng, tạo bộ hồ sơ mẫu cho mỗi lô: packing list, invoice, C/O, báo cáo kiểm hàng, ảnh chụp. Mỗi thứ ba bản — hải quan, người mua, lưu. Phong cách của Hạnh là im lặng — không hỏi nhiều, nhưng mỗi tờ giấy cô gấp đều phẳng lì, góc vuông, không một nếp thừa.
 
-Hùng hỏi Hạnh ai dạy cách đó. Hạnh nói: "Người Mỹ dạy em. Trường em dạy xong là phải xếp gọn, ai hỏi lấy ra được ngay."
+Hùng hỏi Hạnh ai dạy cách đó. Hạnh ngẩng lên, đôi mắt sau cặp kính cận phản chiếu ánh đèn neon: "Người Mỹ dạy em. Trường em dạy xong là phải xếp gọn, ai hỏi lấy ra được ngay. Không xếp được — ông thầy đóng cặp lại, bảo: 'Đừng đi làm nếu không tổ chức nổi thứ mình viết ra.'"
 
-Hùng ghi vào sổ: "Hai người — hai việc — một hệ thống."
+Hùng ghi vào sổ tay, viết chậm từng chữ: "Hai người — hai việc — một hệ thống."
 
 ---
 
-Mark từ Chicago gọi. Lô đầu đã tới, đã kiểm, đã nhập kho. Ông không khen: "Lần này sạch. Lần sau tôi muốn gấp đôi. Anh làm được không?"
+Mark từ Chicago gọi. Lô đầu đã tới, đã kiểm, đã nhập kho. Ông không khen. Giọng trầm, đều đều, đọc số như đọc hợp đồng: "Lần này sạch. Tỷ lệ lỗi ba phần trăm — chấp nhận được cho lần đầu. Lần sau tôi muốn gấp đôi. Anh làm được không?" Không nóng không lạnh — giọng người kinh doanh quen thương lượng bằng số, không bằng lời khen hay lời mắng.
 
-Hùng không nói "có" ngay. "Tôi cần xem lại năng lực xưởng. Cuối tuần tôi trả lời."
+Hùng không nói "có" ngay. Ông nhìn ra cửa sổ — bãi xe truck xếp hàng, mặt trời California đỏ rực sau bụi đường. "Tôi cần xem lại năng lực xưởng. Cuối tuần tôi trả lời."
 
-Mark không tỏ ra khó chịu. "OK. Cuối tuần."
+Mark không tỏ ra khó chịu. "OK. Cuối tuần." Im hai giây rồi nói thêm: "Tôi cần người tôi tin được. Không phải người giỏi nhất — người tôi tin được."
 
-Hùng thấy rõ: ở Mỹ không ai bắt ép. Họ hỏi, anh trả lời. Nói "không" — họ tìm người khác. Nói "có" mà không làm được — họ nhớ tên anh mãi.
+Cúp máy. Hùng thấy rõ: ở Mỹ không ai bắt ép. Họ hỏi, anh trả lời. Nói "không" — họ tìm người khác. Nói "có" mà không làm được — họ nhớ tên anh mãi. Ông nhắm mắt, ngón tay gõ lên bàn ba lần. Rồi viết vào sổ: "Tin được > Giỏi."
 
-Tối, Hùng gọi về Việt Nam. Lan ở đầu dây bên kia, giọng tỉnh táo dù muộn. "Mình cần mở rộng năng suất gấp đôi trong hai tháng. Tính cho anh xem cần thêm bao nhiêu máy, người, vốn."
+Tối, Hùng gọi về Việt Nam. Đồng hồ chỉ mười một giờ tối California — mười ba giờ chiều hôm sau ở Sài Gòn. Đường dây quốc tế nổ lách tách rồi im, tiếng xì nhỏ của đường dây analogue. Lan ở đầu dây bên kia, giọng tỉnh táo dù đang giữa giờ làm việc. Ở nhà máy, tiếng máy may rì rầm nền; Lan đang đứng bên cửa sổ buồng kế toán, tay kẹp bút, tai nghe điện.
 
-Lan im, tiếng giấy sột soạt. "Em tính. Sáng mai em gửi fax."
+"Mình cần mở rộng năng suất gấp đôi trong hai tháng. Tính cho anh xem cần thêm bao nhiêu máy, người, vốn."
 
-"Không fax. Gọi."
+Lan im. Tiếng giấy sột soạt. "Em tính. Sáng mai em gửi fax."
 
-Lan hiểu. Rồi cô nói thêm: "Anh Hai, ở nhà có tin đồn anh ở Mỹ thua lỗ nên không dám về."
+"Không fax. Gọi." Hùng nói. "Fax chỉ cho người mình không tin. Anh tin em."
+
+Lan hiểu. Rồi cô nói thêm, giọng trầm hơn: "Anh Hai, ở nhà có tin đồn anh ở Mỹ thua lỗ nên không dám về. Chú Út nói trên bàn nhậu, mấy người trong xóm nghe được. Mẹ nghe được. Mẹ không nói gì, nhưng tối qua mẹ nấu chè đậu xanh — chỉ nấu khi mẹ buồn."
 
 "Anh biết."
 
@@ -62,9 +64,9 @@ Hạnh nhìn ông: "Nhiều người sẽ bảo tôi nói phét."
 
 ---
 
-Hùng thuê Linda làm cố vấn thủ tục Mỹ. Một trăm năm mươi đô một giờ, tối thiểu ba giờ một tháng.
+Hùng thuê Linda làm cố vấn thủ tục Mỹ. Một trăm năm mươi đô một giờ, tối thiểu ba giờ một tháng — bằng tiền hai tháng lương thợ may ở Sài Gòn. Mỗi lần Linda viết hóa đơn, Hùng nhìn con số, uống một ngụm cà phê, rồi ký.
 
-Buổi đầu, Linda đến văn phòng với một laptop — thứ mà Hùng mới thấy lần thứ hai trong đời. Bà chiếu lên màn hình một bảng tính với năm mục:
+Buổi đầu, Linda đến văn phòng với một laptop — IBM ThinkPad, nặng hai ký, màn hình nhỏ xíu. Hùng mới thấy laptop lần thứ hai trong đời; lần đầu là ở nhà Linda, trên bàn ăn. Bà khởi động máy, tiếng quạt tản nhiệt rít nhỏ. Bà chiếu lên màn hình một bảng tính với năm mục:
 
 1. Nhãn mác sai luật (thiếu nước xuất xứ, sai cỡ chữ, không hướng dẫn giặt)
 2. Sai kích thước so với spec (dung sai ±0,5 inch)
@@ -80,9 +82,9 @@ Linda nhìn ông: "Một người chịu trách nhiệm kiểm cuối cùng trư
 
 "Ba năm?"
 
-"Ở Mỹ anh có thể bị kiện sau hai năm. Không có giấy, tòa coi như anh cố tình."
+"Ở Mỹ anh có thể bị kiện sau hai năm. Không có giấy, tòa coi như anh cố tình. Và một khi kiện, luật sư Mỹ tính tiền theo giờ — sáu trăm, tám trăm đô một giờ. Anh không muốn gặp chuyện đó."
 
-Hùng ghi: "Lưu ba năm. Tiêu hủy phải có biên bản."
+Hùng nhìn Linda. Bà nói bằng giọng nhẹ nhàng, nhưng mắt nghiêm. Ông ghi: "Lưu ba năm. Tiêu hủy phải có biên bản. Có chữ ký chứng kiến." Ông viết chậm, từng chữ, vì biết mỗi dòng này có thể cứu ông khỏi một trận chiến pháp lý chưa hình dung nổi.
 
 ---
 
@@ -114,15 +116,15 @@ Jorge gật. Từ đó mỗi sáng ông chào Hùng bằng tiếng Việt: "Chà
 
 Đầu tháng sáu, Hùng về Việt Nam. Trong đầu ông mang năm trang: lắp thêm máy, tuyển thợ kiểm, làm nhãn mác đúng luật Mỹ, tổ chức kho, tập huấn quản đốc.
 
-Về tới nhà, bà Hà đã chuẩn bị mâm cơm. Cá kho, canh chua, rau muống luộc. Hùng ăn hết hai bát mới thấy mình đói thật. Suốt mười ngày Mỹ — bánh mì, mì gói, pizza.
+Về tới nhà, mế (MẾ) đã chuẩn bị mâm cơm. Cá kho sẫm màu trong niêu đất, nước kho sệt sệt sôi lục bục; canh chua bốc hơi mùi me chua lẫn nước mắm, rau muống luộc còn xanh bóng xếp ngay ngắn trên đĩa sứ cũ. Hùng ăn hết hai bát mới thấy mình đói thật. Suốt mười ngày Mỹ — bánh mì giấy khô, mì gói mặn chát, pizza nguội dai. Ông ăn như người cạn kiệt vừa tìm lại dòng sông. Minh, con trai ông, ngồi nép bên chân bàn, chờ cha đặt đũa xuống mới dám hỏi chuyện. Mắt cậu bé sáng lên khi thấy bố — cậu chưa hiểu bố đi đâu, làm gì, chỉ biết bố đã về và bữa cơm đầy đủ lại có bố ngồi.
 
-Bà Hà nhìn chồng: "Anh gầy."
-
+MẾ nhìn chồng: "Anh gầy. Nước da đen lại, mắt trũng xuống."
+Minh kéo ghế lại gần, mắt nhìn bố không dời.
 "Đi Mỹ toàn đồ ăn nhanh."
 
 "Bên ấy làm gì mà nhiều thế?"
 
-Hùng kể. Nghe như một tháng chứ không phải mười ngày.
+Hùng kể. Nghe như một tháng chứ không phải mười ngày. Lan gắp thêm rau, im lặng nghe, thỉnh thoảng gật đầu. Minh kéo ghế lại, mắt mở to nghe bố kể chuyện kho Mỹ.
 
 "Có mệt không?"
 
@@ -130,13 +132,14 @@ Hùng kể. Nghe như một tháng chứ không phải mười ngày.
 
 "Có muốn dừng không?"
 
-Hùng nhìn mâm cơm, bà Hà và Lan đang lén gắp rau trong bếp. "Chưa."
+Hùng nhìn mâm cơm, mế và Lan đang lén gắp rau trong bếp. Bếp nhỏ tỏa mùi dầu mỡ pha nước mắm — mùi nhà, mùi Sài Gòn. Minh ngồi im, tay gãi tai, chờ bố trả lời.
+"Chưa."
 
-Bà Hà gắp thêm cá. Hành động ấy thay mọi câu trả lời.
+MẾ gắp thêm cá. Hành động ấy thay mọi câu trả lời.
 
 ---
 
-Sáng hôm sau, Hùng lên xưởng, tập trung quản đốc, tổ trưởng, Lan và chị Ba. Ông mở tấm ảnh kho Vernon đặt lên bàn.
+Sáng hôm sau, Hùng lên xưởng, tập trung quản đốc, tổ trưởng, Lan và chị Ba. Quạt trần quay đều, mùi vải mới và dầu máy trộn lẫn. Ông mở tấm ảnh kho Vernon đặt lên bàn.
 
 "Đây là kho bên Mỹ. Hàng mình vào đó. Nếu lỗi, mỗi ngày nằm kho mất trăm đô."
 
@@ -176,7 +179,7 @@ Tối hôm đó, Hùng ngồi một mình ở hiên nhà, mở lại catalogue M
 
 Một buổi tối, Hùng nhận được điện thoại từ một đối tác cũ ở Quảng Ninh, nói rằng lô hàng vừa giao bị trả lại vì chất lượng không đạt. Hùng không nổi nóng. Ông bảo tài xế lấy xe, đi ngay trong đêm. Đường từ Hà Nội lên Quảng Ninh tối om, mưa lâm thâm. Xe chạy chậm, Hùng ngồi nhìn ra màn mưa, suy nghĩ. Lỗi ở đâu? Máy móc? Nguyên liệu? Đến nơi, đã mười một giờ đêm. Ông gọi quản đốc nhà máy ra, cùng kiểm tra từng sản phẩm trong lô hàng bị trả. Hóa ra lỗi ở khâu đóng gói — bao bì không đúng quy cách, bị ướt trong quá trình vận chuyển. Hùng thở phào — không phải lỗi sản xuất. Nhưng ông cũng nhận ra trách nhiệm của mình: không kiểm tra kỹ khâu đóng gói. "Từ nay, mỗi lô hàng trước khi xuất đi, tôi sẽ ký vào phiếu kiểm tra. Nếu có lỗi, tôi chịu." Cả nhà máy im lặng. Một ông chủ nhận lỗi về mình — điều hiếm thấy. Nhưng chính vì thế, từ hôm đó, không ai dám làm ẩu. Vì nếu sếp còn chịu trách nhiệm đến vậy, mình làm ẩu thì không phải với ai, mà với lương tâm mình.
 
-Một lần, Hùng mời hai đối tác nước ngoài về nhà ăn cơm — một người Nhật, một người Mỹ. Bà Hà nấu một mâm cơm Việt Nam: nem cuốn, bò xào, canh chua, cá kho. Người Nhật ăn nem cuốn lần đầu, khen: "Fresh and delicious!" Người Mỹ ăn cá kho, tấm tắc: "This is better than any restaurant I've been to in Hanoi." Hùng ngồi nhìn họ ăn, lòng tự hào. Không phải tự hào vì nhà mình nấu ngon, mà vì ẩm thực Việt Nam — mộc mạc, giản dị nhưng đậm đà — đã chinh phục được những vị khách khó tính. Sau bữa ăn, người Mỹ nói: "You know what, Mr. Hung? Doing business with you feels like eating at your home — warm, honest, and real." Hùng gật: "That's what I want my business to be." Hai vị khách ra về, mỗi người được tặng một hộp nem cuốn để ăn sáng hôm sau. Họ cười, cảm ơn. Và những hợp đồng sau đó, được ký không chỉ vì giá cả, mà vì tình cảm.
+Một lần, Hùng mời hai đối tác nước ngoài về nhà ăn cơm — một người Nhật, một người Mỹ. MẾ nấu một mâm cơm Việt Nam: nem cuốn, bò xào, canh chua, cá kho. Người Nhật ăn nem cuốn lần đầu, khen: "Fresh and delicious!" Người Mỹ ăn cá kho, tấm tắc: "This is better than any restaurant I've been to in Hanoi." Hùng ngồi nhìn họ ăn, lòng tự hào. Không phải tự hào vì nhà mình nấu ngon, mà vì ẩm thực Việt Nam — mộc mạc, giản dị nhưng đậm đà — đã chinh phục được những vị khách khó tính. Sau bữa ăn, người Mỹ nói: "You know what, Mr. Hung? Doing business with you feels like eating at your home — warm, honest, and real." Hùng gật: "That's what I want my business to be." Hai vị khách ra về, mỗi người được tặng một hộp nem cuốn để ăn sáng hôm sau. Họ cười, cảm ơn. Và những hợp đồng sau đó, được ký không chỉ vì giá cả, mà vì tình cảm.
 
 Hùng đi tham quan một bảo tàng. Trong bảo tàng có triển lãm về lịch sử công nghiệp Việt Nam. Một góc nhỏ trưng bày chiếc quạt Thương Gia đầu tiên. Hùng đứng ngắm nó thật lâu. Nó không phải là một hiện vật giá trị, nhưng nó là một phần của lịch sử. Ông chụp một tấm ảnh. Rồi ông mua vé vào cửa cho một nhóm sinh viên đang đi tham quan, chỉ để họ có dịp xem chiếc quạt đó. 'Một chút đóng góp nhỏ cho lịch sử,' ông nói.
 
@@ -208,18 +211,14 @@ Jorge nhíu: "Chậm giao thì sao?"
 
 Chiều, một thùng lệch nhãn. Phạm giơ tay. Hạnh ghi. Jorge giữ cửa. Không ai gọi Hùng trước — đúng quy trình. Ông chỉ nhận phiếu cuối ngày, gật: "Giữ nhịp này."
 
-Tối gọi về nhà. Bà Hà nghe loa: "Con ăn chưa?" "Ăn. Cơm hộp." Mẹ cười trong máy: "Về nhớ mang quà rẻ — đừng mang bệnh."
+Tối gọi về nhà. MẾ nghe loa: "Con ăn chưa?" "Ăn. Cơm hộp." Mẹ cười trong máy: "Về nhớ mang quà rẻ — đừng mang bệnh."
 
 Hùng viết: "QC Mỹ = ba chữ ký. Không anh hùng một người."
 
 Sáng mai lô hai vào. Liệu ba trạm còn đủ người — hay ai đó muốn ký hộ cho nhanh?
 
 Phiếu lỗi tường kho Mỹ đỏ thêm hai dòng lô hai. Phạm–Hạnh–Jorge không ký hộ. Lan nói lead time qua điện thoại, giọng đều. Hùng ngoài khung — hệ thống chạy khi anh im.
- Jorge học viết phiếu bằng tiếng Việt lai. Phạm sửa chính tả. Hạnh đóng dấu giờ. Ba trạm thành thói quen ca. Đồng hồ tường kho chỉ 7 giờ kém 3.
- Jorge học viết phiếu bằng tiếng Việt lai. Phạm sửa chính tả. Hạnh đóng dấu giờ. Ba trạm thành thói quen ca. Đồng hồ tường kho chỉ 8 giờ kém 3.
- Jorge học viết phiếu bằng tiếng Việt lai. Phạm sửa chính tả. Hạnh đóng dấu giờ. Ba trạm thành thói quen ca. Đồng hồ tường kho chỉ 9 giờ kém 3.
- Jorge học viết phiếu bằng tiếng Việt lai. Phạm sửa chính tả. Hạnh đóng dấu giờ. Ba trạm thành thói quen ca. Đồng hồ tường kho chỉ 10 giờ kém 3.
- Jorge học viết phiếu bằng tiếng Việt lai. Phạm sửa chính tả. Hạnh đóng dấu giờ. Ba trạm thành thói quen ca. Đồng hồ tường kho chỉ 11 giờ kém 3.
+Jorge học viết phiếu bằng tiếng Việt lai. Phạm sửa chính tả. Hạnh đóng dấu giờ. Ba trạm thành thói quen ca. Đồng hồ tường kho chỉ 7 giờ kém 3.
 
 ============================================================
 
@@ -243,8 +242,28 @@ Sáng mai lô hai. Liệu ba trạm còn đủ người không ký hộ?
 
 Hùng gật với Lan, siết mép sổ ch.143, mắt không tránh việc còn mở.
 
-============================================================
-Tiếng xe cộ xa xa vọng lại, đều đặn như nhịp thở của thành phố. Mùi cà phê thơm lừng bốc lên từ tách, khói mỏng bay xoáy trong không khí.
+Tối đó, Hùng ngồi một mình trong kho. Đèn neon nhấp nháy. Tiếng gió thổi qua khe cửa kho. Ông mở sổ tay, viết: "Mỹ 1990 — giá đô 6.500đ. Một lô hàng mất bao nhiêu ngày lương thợ. Mỗi sai lầm là mồ hôi ai đó."
+
+Điện thoại đổ chuông. Số lạ. Hùng nghe.
+
+Giọng Mark từ Chicago, lần đầu nghe có vẻ gấp: "Hung, we have a problem. FDA vừa kiểm tra lô hàng trước. Có vấn đề về nhãn — thiếu nước xuất xứ trên tem giặt, cỡ chữ nhỏ hơn quy định. Họ giữ lại cả container. Chi phí kho bãi mỗi ngày một nghìn rưỡi."
+
+Hùng im. Tim đập chậm lại, nhưng đầu óc lại chạy nhanh. Ông nghĩ đến bốn mươi lăm nghìn đô đầu tư máy, nghĩ đến ba trạm QC, nghĩ đến phiếu kiểm ba chữ ký. Tất cả có thể sụp nếu lô này không được giải phóng.
+
+"Anh xử lý trong bao lâu?" Mark hỏi.
+
+Hùng nhìn đồng hồ — nửa đêm California, bốn giờ chiều mai ở Sài Gòn. "Cho tôi bốn mươi tám giờ."
+
+"Forty-eight." Mark lặp lại. "Tôi giữ container bốn mươi tám giờ. Sau đó tôi phải báo cáo lên sếp tôi."
+
+Cúp máy. Ông đứng dậy, gọi Lan. Giọng cô tỉnh táo dù trời đã khuya — cô chưa ngủ, đang ngồi trước bàn máy may mẫu.
+
+"Em chuẩn bị hồ sơ lô hai. Anh sẽ gọi Linda. Bốn mươi tám giờ."
+
+Lan im một nhịp. "Được."
+
+Hùng gập sổ. Ngoài kho, xe cộ chạy qua, đèn đỏ đèn xanh nhấp nháy. Con đường từ Vernon đến cảng Los Angeles dài hai mươi dặm. Nhưng con đường từ sai lầm đến sửa sai — dài hơn nhiều. Ông bước ra ngoài, gió đêm Los Angeles thổi nóng hầm hập, mùi xăng xe và bụi đường. Ông đứng nhìn bầu trời — không sao, không trăng, chỉ ánh đèn thành phố nhuộm đỏ bầu trời.
+
 「Hệ thống — GHI NHẬN ch.143」
 Năm: 1990
 Tổng EXP: 21,840 (+180 nhịp này)

@@ -2,7 +2,7 @@
 Chương 216: Sản xuất chip thử nghiệm
 ============================================================
 
-Sáu giờ sáng, Khu công nghiệp còn chìm trong lớp sương muối mỏng. Ánh đèn vàng từ dãy nhà xưởng mới hắt ra lối đi, soi bóng những chiếc xe tải đỗ dọc bờ tường. Tháng Mười một năm 1999 — cái lạnh đầu mùa len qua khe cửa sắt, mang theo mùi dầu nhớt và cao su cháy từ lò luyện.
+Sáu giờ sáng, Khu công nghiệp còn chìm trong lớp sương muối mỏng. Ánh đèn vàng từ dãy nhà xưởng mới hắt ra lối đi, soi bóng những chiếc xe tải đỗ dọc bờ tường. Tháng Mười một năm 1999 — cái lạnh đầu mùa len qua khe cửa sắt, mang theo mùi dầu nhớt và cao su cháy từ lò luyện. Năm ấy, điện thoại di động còn là món đồ cồng kềnh của giám đốc, máy tính cá nhân vẫn chạy Windows 98, còn những người nói về Internet thường bị nhìn như đang kể chuyện khoa học viễn tưởng. Trong cuốn lịch bloc treo ở phòng bảo vệ, ngày 15 tháng 11 được khoanh bằng mực xanh: ngày thử lô chip đầu tiên của Thương Gia. Minh đã khoanh ngày ấy từ ba tháng trước, rồi mỗi lần nhìn lại đều thấy nét mực như một vết cứa nhỏ vào lòng bàn tay.
 
 Hùng đứng trước cánh cửa phòng sạch. Phòng này mất ba tháng để dựng — tường lót nhôm, sàn vinil chống tĩnh, hệ thống lọc HEPA nhập từ Nhật qua trung gian Klaus. Chi phí: hai trăm bảy mươi triệu đồng, chưa kể thuế nhập khẩu thiết bị. Ông tự hỏi liệu mình có điên không khi đổ tiền vào một thứ mà cả nước chưa ai làm chủ được. Nhưng câu hỏi đó đã được trả lời từ tháng Tám, khi lô wafer đầu tiên từ TSMC Đài Loan đặt chân đến cảng Sài Gòn — ba trăm con chip, khắc dòng "TG-001/1999" trên bề mặt silicon.
 
@@ -10,7 +10,7 @@ Klaus đã ở trong phòng sạch từ năm giờ. Qua ô kính, Hùng thấy c
 
 "Đứng đó làm gì? Vào đi!" Klaus nói, giọng méo mó qua loa liên lạc gắn trên tường.
 
-Hùng đẩy cửa. Cảm giác áp suất thay đổi khi cánh cửa khép lại sau lưng — một cái ù nhẹ trong tai, như đi máy bay. Phòng sạch rộng chừng bốn mươi mét vuông, đủ chỗ cho một bàn thí nghiệm, tủ hút, máy hiện sóng Tektronix 2465B — bốn kênh, bốn trăm megahertz — và hai giá để wafer. Toàn bộ thiết bị được Klaus đặt hàng từ Đức qua đường ngoại giao, tránh thuế nhập khẩu thiết bị công nghệ cao vốn bị đánh thuế tới ba mươi phần trăm.
+Hùng đẩy cửa. Cảm giác áp suất thay đổi khi cánh cửa khép lại sau lưng — một cái ù nhẹ trong tai, như đi máy bay. Không khí trong phòng sạch khác hẳn: khô, lạnh hơn vài độ so với ngoài hành lang, mùi hóa chất khử trùng thoang thoảng, thoảng mùi cồn y tế lẫn với kim loại sạch. Phòng sạch rộng chừng bốn mươi mét vuông, đủ chỗ cho một bàn thí nghiệm, tủ hút, máy hiện sóng Tektronix 2465B — bốn kênh, bốn trăm megahertz — và hai giá để wafer. Bóng đèn huỳnh quang rực trắng, không chớp, không nhấp nháy — thứ ánh sáng vô hồn chiếu lên khuôn mặt Klaus và làm mấy sợi tóc bạc trên đầu ông ta sáng lấp lánh. Toàn bộ thiết bị được Klaus đặt hàng từ Đức qua đường ngoại giao, tránh thuế nhập khẩu thiết bị công nghệ cao vốn bị đánh thuế tới ba mươi phần trăm.
 
 Bên ngoài, tiếng máy nén khí của xưởng nhựa kế bên rền lên từng hồi. Trong phòng, chỉ có tiếng quạt gió và tiếng lách tách của máy dò.
 
@@ -18,7 +18,7 @@ Bên ngoài, tiếng máy nén khí của xưởng nhựa kế bên rền lên t
 
 "Về lúc mười hai giờ. Ngủ ba tiếng, vào lại." Klaus không rời mắt khỏi kính hiển vi. "Em không ngủ được, sếp ạ."
 
-Hùng kéo ghế ngồi xuống bên cạnh. Mặt bàn bày mười con chip — TG-001 — mỗi con nằm trong khay nhựa chống tĩnh, chân vàng óng ánh dưới đèn huỳnh quang. Hùng cầm một con lên, xoay nhẹ giữa ngón tay cái và ngón trỏ. Silicon lạnh, bề mặt phản chiếu như gương, dòng chữ khắc laser "TG-001/1999-012" ở góc.
+Hùng kéo ghế ngồi xuống bên cạnh. Mặt bàn bày mười con chip — TG-001 — mỗi con nằm trong khay nhựa chống tĩnh, chân vàng óng ánh dưới đèn huỳnh quang. Hùng cầm một con lên, xoay nhẹ giữa ngón tay cái và ngón trỏ. Silicon lạnh, bề mặt phản chiếu như gương, dòng chữ khắc laser "TG-001/1999-012" ở góc. Cái lạnh của chip lan vào đầu ngón tay ông, mịn màng như mặt kính. Ông cảm nhận được trọng lượng gần như không có — một miếng nhỏ hơn móng tay, nhưng mang trên mình hàng trăm nghìn đường dẫn điện mà con người đã kỳ công khắc vào đá. Ông đưa lên ngang mắt, soi dưới đèn. Những đường mạch nhôm lấp lánh như mạng nhện bạc dưới tia sáng.
 
 "Con số mười hai có nghĩa gì?"
 
@@ -102,7 +102,7 @@ Klaus tính nhẩm. "Nếu sản xuất mười ngàn con — chi phí cố đ�
 
 Hùng gật đầu. Đây là điều ông đã biết trước khi bắt đầu — ngành chip không phải để kiếm lời ngay, mà là để có chỗ đứng. Một chỗ đứng trong chuỗi cung ứng đang hình thành ở Đông Nam Á. Nếu Thương Gia không vào từ bây giờ, năm năm sau sẽ không còn cửa.
 
-Cánh cửa phòng sạch mở ra, Lan bước vào — cũng trong bộ đồ trắng, tay cầm một cặp tài liệu. Mặt cô hồng hào vì lạnh. Cô đặt cặp xuống bàn, nhìn dãy chip trong khay.
+Cánh cửa phòng sạch mở ra, Lan bước vào — cũng trong bộ đồ trắng, tay cầm một cặp tài liệu. Mặt cô hồng hào vì lạnh, tóc được nhét gọn sau vành mũ bảo hộ nhưng vài sợi vẫn rơi ra, khẽ lay động khi cô bước. Mắt cô tròn, đen, sáng — đôi mắt giống mẹ, giống mế, nhưng dưới ánh đèn phòng sạch chúng trở nên sắc sảo hơn, mang dáng dấp của người quen đọc số liệu. Lan là em gái Hùng, bốn tuổi kém anh, nhưng đã quản lý sổ sách cho Thương Gia từ năm hai mươi mốt. Cô tốt nghiệp kế toán, nhưng thứ cô giỏi nhất không phải là cộng trừ — mà là nhìn ra những chi phí nhỏ đang âm thầm lớn dần trước khi chúng kịp nuốt chửng công ty. Cô đặt cặp xuống bàn, nhìn dãy chip trong khay. Vài con sáng bóng, vài con xám ngắt — tốt và xấu nằm cạnh nhau, không phân biệt.
 
 "Nghe nói test được sáu con tốt?"
 
@@ -120,7 +120,7 @@ Hùng liếc qua. Một dòng được Lan đánh dấu đỏ: *Số lượng qu
 
 "Mỗi que dò hỏng là hai mươi bốn đô la," Lan nói, giọng vẫn đều. "Nhân với số lần test — anh em phải cẩn thận hơn, nếu không chi phí test sẽ đội lên gấp ba."
 
-Lời Lan nói ra bằng giọng kế toán, nhưng Hùng hiểu ẩn ý bên dưới — nếu Klaus không huấn luyện kỹ, một nguồn chi phí nhỏ sẽ lớn dần. Ông thấy Klaus hơi , nhưng không phản đối. Ở Thương Gia, cả hai đã quen với nguyên tắc: ai nói đúng thì người đó có quyền, không cần xem chức vụ.
+Lời Lan nói ra bằng giọng kế toán, nhưng Hùng hiểu ẩn ý bên dưới — nếu Klaus không huấn luyện kỹ, một nguồn chi phí nhỏ sẽ lớn dần. Ông thấy Klaus hơi đỏ mặt, nhưng không phản đối. Ở Thương Gia, cả hai đã quen với nguyên tắc: ai nói đúng thì người đó có quyền, không cần xem chức vụ. Lan quay sang Hùng, mắt cô hơi nhíu — ánh mắt mà Hùng quen lắm, từ hồi cả hai còn nhỏ, khi cô phát hiện ra anh trai mình đang cố giấu một sai lầm. Cô không nói thêm, nhưng cái nhíu mày ấy đã đủ để nói rằng: "Anh ơi, em biết anh đang lo."
 
 "Đặt thêm que dò," Hùng quyết định. "Nhưng Klaus — em phải có biên bản huấn luyện từng người. Tuần sau em đưa cho Lan lịch kiểm tra kỹ năng thao tác."
 
@@ -138,7 +138,7 @@ Klaus đứng dậy, bước đến một bàn thí nghiệm khác. Trên bàn l
 
 Hùng nhướng mày — ông biết AT89C51. Năm 1998, Thương Gia nhập khẩu ba ngàn con chip đó để lắp trong thiết bị đo lường cho nhà máy thủy điện Hòa Bình. Giá mỗi con gần hai đô la, cộng vận chuyển, cộng thuế. Nếu TG-001 chạy được, Thương Gia sẽ tiết kiệm ba mươi phần trăm chi phí linh kiện cho tất cả sản phẩm điện tử trong tương lai.
 
-Klaus cắm chip vào ổ. Những chân vàng khít vào đế cắm với một tiếng "tách" nhẹ. Ông ta bật nguồn — đèn led xanh trên bo mạch sáng lên, nhấp nháy theo chu kỳ một giây.
+Klaus cắm chip vào ổ. Những chân vàng khít vào đế cắm với một tiếng "tách" nhẹ. Ông ta bật nguồn — đèn led xanh trên bo mạch sáng lên, nhấp nháy theo chu kỳ một giây. Trong cái im lặng của phòng sạch, tiếng "tách" của chip cắm vào ổ nghe rõ như tiếng chốt cửa. Đèn led xanh — một màu xanh non, non mơn mởn như màu lá mới — nhấp nháy đều đặn, và Hùng thấy lòng mình như đèn led ấy: sáng, tắt, sáng, tắt, từng nhịp, từng nhịp. Ba năm. Ba năm từ cái đêm ông ngồi trong khách sạn Hữu Nghị, uống bia với Klaus, nghe ông ta nói về "fabless" và nghĩ rằng đó là giấc mơ xa vời. Giờ giấc mơ đang nằm trong ổ cắm DIP40, phát sáng.
 
 "Chạy rồi," Klaus nói. Giọng ông ta có chút gì đó như nhẹ nhõm.
 
@@ -156,7 +156,7 @@ Hùng nhìn đèn led. Nó nhấp nháy đều đặn, mỗi lần sáng là m�
 
 Klaus gật đầu, ghi nhanh vào sổ.
 
-Cánh cửa phòng sạch lại mở — lần này là bà Nguyễn Thị Hà, mẹ Hùng. Bà mặc áo khoác dày, đầu quấn khăn len, tay xách túi đựng đồ ăn sáng. Bà dừng lại trước cửa phòng sạch, không bước vào.
+Cánh cửa phòng sạch lại mở — lần này là bà Nguyễn Thị Hà, mẹ Hùng. Bà mặc áo khoác dày, đầu quấn khăn len, tay xách túi đựng đồ ăn sáng. Tay bà còn đỏ ướt vì rửa chén bát trong bếp xưởng, những vết nước vẫn đọng ở kẽ móng tay. Bà dừng lại trước cửa phòng sạch, không bước vào — bà sợ mình sẽ làm nhiễm bẩn cái phòng mà con trai bà đã bỏ bao nhiêu tiền bạc và công sức để xây. Bà nhìn qua ô kính, thấy Hùng ngồi bên Klaus, đầu cúi xuống, vai gầy đi trong bộ đồ bảo hộ trắng. Bà thấy mắt mình cay. Con trai bà — thằng bé từng chạy chân đất trên con đường đất đỏ ở Nghệ An — giờ đang ngồi trong phòng kín, nhìn những miếng silicon nhỏ xíu mà nói về tương lai của cả một công ty. Bà không hiểu chip là gì, không hiểu wafer hay mask hay yield, nhưng bà hiểu nỗi lo trong mắt con trai. Đó là nỗi lo mà chồng bà cũng từng có — ngày xưa, lúc ông bắt đầu mở xưởng may, bàn tay ông cũng run khi ký hợp đồng đầu tiên.
 
 "Ăn sáng chưa?" Bà hỏi, giọng vọng từ ngoài cửa.
 
@@ -164,9 +164,9 @@ Hùng nhìn đồng hồ — bảy rưỡi, ông chưa ăn gì từ tối hôm q
 
 "Chưa."
 
-Bà Hà đặt túi xuống ghế ngoài hành lang. "Cháo gà, còn nóng. Có cả quẩy." Bà chỉ vào túi, rồi quay người đi về phía cuối hành lang — bà xuống xưởng may để kiểm tra hàng, công việc bà vẫn làm dù Hùng đã bảo nhiều lần rằng bà có thể nghỉ.
+MẾ đặt túi xuống ghế ngoài hành lang. "Cháo gà, còn nóng. Có cả quẩy." Bà chỉ vào túi, rồi quay người đi về phía cuối hành lang — bà xuống xưởng may để kiểm tra hàng, công việc bà vẫn làm dù Hùng đã bảo nhiều lần rằng bà có thể nghỉ.
 
-Hùng ra ngoài, ngồi xuống ghế, mở túi cháo. Hơi nóng bốc lên trong cái lạnh buổi sáng, mang theo mùi hành phi và thịt gà xé. Ông ăn từng thìa, chậm rãi.
+Hùng ra ngoài, ngồi xuống ghế, mở túi cháo. Hơi nóng bốc lên trong cái lạnh buổi sáng, mang theo mùi hành phi và thịt gà xé. Ông ăn từng thìa, chậm rãi. Cháo còn nóng bỏng đầu lưỡi, vị ngọt của nước hầm gà thấm vào cổ họng khô khốc, xoa dịu cơn đói đã âm ỉ từ tối qua. Ông ăn mà mắt vẫn nhìn về phía phòng sạch — qua ô kính, Klaus đang thu dọn bàn, cất từng con chip vào khay cẩn thận như cất vàng. Trong cái lạnh của buổi sáng sớm, hơi cháo bốc lên trắng mờ, tan dần giữa không khí. Ông nghĩ đến mẹ ông — mế — người dậy từ năm giờ để ninh nước dùng cho nồi cháo này. Năm giờ sáng, trời còn tối, tay bà nhúng vào nước lạnh để rửa gạo, rồi đứng bên bếp ga chờ nước sôi. Bà không bao giờ kể về những việc ấy. Bà chỉ lặng lẽ đặt túi đồ ăn trước cửa rồi đi, như thể việc đó nhỏ bé đến mức không đáng nhắc đến.
 
 Klaus cũng ra ngoài, ngồi xuống chiếc ghế cạnh Hùng. Ông ta lấy một cái quẩy, bẻ làm đôi: "Vợ sếp vẫn làm ở xưởng?"
 
@@ -190,13 +190,9 @@ Klaus gật đầu. "Rút kinh nghiệm."
 
 Hùng vào lại phòng sạch, lấy con chip TG-001/1999-012 — con đã test tốt — cho vào khay nhựa chống tĩnh, bỏ vào túi áo. Con chip còn lại trên bàn, lấp lánh dưới đèn. Sáu con tốt, bốn con hỏng, một lô mask cần sửa, và một lịch trình kéo dài sang năm sau — đó là tình hình sáng nay.
 
-Trên đường ra cửa, Hùng dừng lại trước bảng tin của phòng sạch. Tờ giấy A4 ghim trên tường, viết tay bằng mực đỏ: *"Ngày 15/11/1999 — Lô TG-001 kết thúc test sơ bộ. Yield 60%. Tiếp tục với lô hai sau khi chỉnh mask."* Chữ của Klaus. Đơn giản, không tô vẽ.
+Trên đường ra cửa, Hùng dừng lại trước bảng tin của phòng sạch. Tờ giấy A4 ghim trên tường, viết tay bằng mực đỏ: *"Ngày 15/11/1999 — Lô TG-001 kết thúc test sơ bộ. Yield 60%. Tiếp tục với lô hai sau khi chỉnh mask."* Chữ của Klaus. Đơn giản, không tô vẽ. Hùng nhìn mực đỏ — chữ Klaus viết hơi nghiêng về phía trước, như người đang hấp tấp muốn ghi lại điều gì đó trước khi quên. Ông rút bút, viết thêm một dòng cuối tờ giấy: *"Kế hoạch: sản xuất thử lô hai — tháng 1/2000. Mục tiêu yield: 80%. Chịu trách nhiệm: Klaus."* Ngòi bút cọ lên giấy, tạo ra tiếng xì xẹp nhỏ trong cái im lặng của phòng sạch. Ông ký tên. Xong. Chữ "Minh" viết xiên, mạnh tay, dấu chấm cuối cùng in thành một lỗ nhỏ trên giấy. Ông nhìn chữ ký mình — sáu chữ, nhưng mang trên mình một quyết định mà hai tỷ hai đồng đã đặt cọc.
 
-Hùng rút bút, viết thêm một dòng cuối tờ giấy: *"Kế hoạch: sản xuất thử lô hai — tháng 1/2000. Mục tiêu yield: 80%. Chịu trách nhiệm: Klaus."*
-
-Ông ký tên. Xong.
-
-Ra khỏi phòng sạch, Hùng đi dọc dãy hành lang, qua xưởng cơ khí, qua kho nguyên liệu, ra bãi xe. Trời bắt đầu mưa — những hạt mưa nhỏ, lạnh, rơi xiên vì gió.
+Ra khỏi phòng sạch, Hùng đi dọc dãy hành lang, qua xưởng cơ khí, qua kho nguyên liệu, ra bãi xe. Trời bắt đầu mưa — những hạt mưa nhỏ, lạnh, rơi xiên vì gió. Mưa tạt lên mặt ông, mát lạnh, mang theo mùi đất đỏ và kim loại gỉ. Trên mái tôn, tiếng mưa gõ nhịp — lạch cạch, lạch cạch — như một bản nhạc không chủ đích. Hùng dừng lại dưới mái hiên, đứng đó vài giây, nhìn những hạt mưa rơi thành hàng trên bãi cỏ xám. Ông nghĩ đến mế — giờ này bà đang ở xưởng may, tay cầm kéo, cắt vải. Ông nghĩ đến Lan — cô đang ở văn phòng, mở sổ sách, tính toán. Ông nghĩ đến hai tỷ hai đã đổ vào dự án, đến yield sáu mươi phần trăm, đến mask cần sửa, đến mười ngàn đô la cần chi thêm. Tất cả những thứ ấy — tiền bạc, thời gian, công sức — giờ nằm trong túi áo ông, dưới dạng một con chip nhỏ hơn móng tay út.
 
 Chiếc xe Toyota Crown 1997 — tài sản công ty — mở cửa cho ông từ bên trong. Tài xế tên Tuấn, một người lính cũ, không nói nhiều. Hùng ngồi vào ghế sau, lấy con chip ra khỏi túi, đặt dưới ánh sáng ban ngày vừa đủ để thấy dòng chữ khắc trên nền silicon xám.
 
@@ -214,7 +210,45 @@ Hùng nhắm mắt.
 
 Chiếc xe lăn bánh trên con đường đất ướt, chở một con chip và một người đàn ông đang học cách chấp nhận rằng — trong công nghệ — thất bại không phải là kết thúc. Nó chỉ là một bước trong quy trình.
 
-“Anh Hùng, em xin lỗi!” Lan chạy vào, mắt đầy nước mắt. Hùng ngẩng lên. “Có chuyện gì?” “Em làm mất sổ!” Hùng nhìn cô, mắt anh không nóng giận. Anh chỉ lặng lẽng đứng dậy, đi đến bên cô. “Mất rồi thì làm lại. Em đừng khóc.” Anh đưa tay lau nước mắt cho cô. Ngón tay anh chạm vào má cô, ấm. Lan nhìn anh, mắt cô lấp lánh. “Cảm ơn anh.”
+Điện thoại bàn trong xe đột ngột reo. Tuấn giật mình, đạp phanh. Tiếng lốp trượt trên bùn nghe két một tiếng. Hùng mở mắt, nhìn chiếc máy điện thoại di động Motorola trên tay tài xế — món đồ nặng gần nửa ký, anten kéo dài, màn hình xanh bé bằng hai đốt ngón tay. Tuấn nghe máy, sắc mặt đổi khác.
+
+“Anh Hùng… là Lan.”
+
+Hùng giật ống nghe. Đầu bên kia có tiếng thở gấp, tiếng mưa đập lên mái tôn văn phòng.
+
+“Anh, em xin lỗi!” Lan nói. Giọng cô run. “Em làm mất sổ giao nhận.”
+
+“Cuốn sổ nào?”
+
+“Cuốn sổ mask. Có chữ ký của Klaus, số vận đơn, cả địa chỉ kho Hải Phòng. Em vừa tìm thấy ngăn kéo bị cạy.”
+
+Hùng siết con chip trong lòng bàn tay, cạnh silicon cứa vào da. “Em báo bảo vệ chưa?”
+
+“Rồi. Nhưng… anh nghe này.” Lan hạ giọng. “Sáng nay có người gọi từ Hải Phòng. Họ nói mask metal-1 đã về đến cảng sớm hơn lịch. Họ hỏi đích danh anh.”
+
+Bên ngoài kính xe, mưa quất xiên thành những vệt bạc. Hùng nhìn con chip TG-001/1999-012. Sáu con tốt, bốn con hỏng. Một lỗi mask đã xác định. Nhưng nếu cuốn sổ bị lấy đi, kẻ đó biết chính xác lô hàng nào sắp cập bến — biết cả địa chỉ kho, người nhận, giờ giao.
+
+“Lan, em khóa toàn bộ kho. Không ai được vào. Gọi Minh…” Hùng dừng lại. Minh là con trai ông, đang ở nhà với mế, không liên quan đến phòng chip. Một ý nghĩ lạnh buốt chạy dọc sống lưng: mế vừa xuống xưởng may; Minh có thể đang một mình.
+
+Điện thoại lại vang lên. Không phải từ Lan.
+
+Một giọng đàn ông xa lạ chen vào đường dây, khàn và thấp: “Ông Hùng. Con chip tốt đang ở trong tay ông, đúng không?”
+
+Hùng không trả lời.
+
+“Đừng chạy ra Hải Phòng,” giọng kia nói. “Nếu ông muốn gặp lại con trai mình trước nửa đêm, hãy mang TG-001/1999-012 đến kho số 7.”
+
+Đường dây tắt.
+
+Hùng nhìn Tuấn. Người lính cũ đã quay xe, bánh xe nghiến xuống bùn. Hùng nhìn đồng hồ: 8 giờ 02 phút sáng, ngày 15 tháng 11 năm 1999. Trong túi áo, con chip nhỏ vẫn lạnh ngắt. Trên màn hình Motorola, một tin nhắn số lạ vừa hiện lên:
+
+**KHO SỐ 7. MỘT MÌNH. 30 PHÚT.**
+
+Ở cuối dòng, có thêm một tấm ảnh đen trắng mờ nhòe — mế đứng trước cổng xưởng, Minh bên cạnh, phía sau họ là một chiếc xe tải không biển số.
+
+Hùng đưa tay mở cửa xe.
+
+Bánh xe vừa quay về hướng khu công nghiệp thì từ chiếc Toyota Crown phía sau vang lên tiếng nổ khô khốc.
 
 Yield 60% chưa bán được. Mask metal-1 về đến Hải Phòng — sáng mai Bảo chạy lô thử thứ hai.
 

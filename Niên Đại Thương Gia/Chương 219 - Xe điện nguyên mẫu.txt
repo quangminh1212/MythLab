@@ -4,7 +4,7 @@ Chương 219: Xe điện nguyên mẫu
 
 Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương Gia mở rộng — một khu vực riêng biệt nằm sâu trong đất liền, cách cảng Hải Phòng bốn mươi cây số. Hùng chọn chỗ này vì đất rẻ, mặt bằng rộng, và quan trọng hơn — kín đáo. Không có tòa nhà cao tầng nào nhìn vào được, không có đường lớn chạy qua, và khu vực này không nằm trong quy hoạch du lịch hay khu đô thị. Những gì xảy ra trong đó, chỉ người trong đó biết.
 
-Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy tínhmáy trạm Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.
+Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy trạm Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.
 
 Dự án bắt đầu từ một câu hỏi của đứa con trai lớn — Trần Văn Minh — vào một buổi tối cuối năm 2006. Minh khi ấy hai mươi lăm tuổi, vừa tốt nghiệp thạc sĩ kỹ thuật điện tử ở Đại học Bách khoa Paris — trường mà Hùng đã lo liệu cho con vào từ năm 2001. Minh là kỹ sư trưởng mảng điện tử của Thương Gia, tóc dài, hay mặc áo phông và quần jean ngay cả khi họp với đối tác Nhật. Cậu thông minh, nhưng cái thông minh đó không đến từ trường lớp — nó đến từ những buổi chiều ngồi dưới gầm bàn xem ba sửa radio, từ những cuốn sách điện tử tiếng Anh Hùng mang về từ các chuyến công tác, từ những lần hai cha con tháo tung cái tivi để xem bên trong có gì.
 
@@ -30,7 +30,7 @@ Minh kéo ghế, ngồi đối diện. Cậu không mở sách — cậu nói t�
 
 Hùng không nói gì. Ông nhìn mô hình xe bằng giấy. Nhìn con trai. Rồi nhìn ra cửa sổ, nơi Hà Nội đang chìm trong mưa phùn tháng Mười hai, màn mưa mỏng trắng xóa, những mái ngói đen ướt đẫm.
 
-"Ba suy nghĩ thêm," Hùng nói.
+"Ba suy nghĩ thêm," Hùng nói. Nhưng trong đầu ông đã bắt đầu tính: nếu làm, cần bao nhiêu người, bao nhiêu tiền, mất bao lâu. Ông vẫn chưa quyết định — nhưng ông đã bắt đầu nghĩ, và đó là bước đầu tiên.
 
 Minh không thất vọng. Cậu biết ba mình không bao giờ trả lời ngay. "Tối mai em mang bản vẽ sơ bộ," cậu nói, và đi ra, cuốn sách vẫn trên tay.
 
@@ -56,9 +56,9 @@ Buổi chiều đầu tháng Mười một, Minh gọi Hùng: "Ba qua xưởng 2
 
 ---
 
-Khi Hùng đến, trời đã tối. Con đường từ quốc lộ vào xưởng không có đèn, chỉ có hai dải phản quang trên cọc tiêu. Tài xế lái chậm, đèn pha rọi vào những bụi cây hai bên đường, thỉnh thoảng một con ếch nhảy ngang. Xe dừng trước cổng thép, Hùng xuống, dùng thẻ từ mở cửa.
+Khi Hùng đến, trời đã tối. Con đường từ quốc lộ vào xưởng không có đèn, chỉ có hai dải phản quang trên cọc tiêu — ánh sáng trắng xanh nhấp nháy trong sương mù mỏng, như hai con mắt của thứ gì đang chờ đợi. Tài xế lái chậm, đèn pha rọi vào những bụi cây hai bên đường, thỉnh thoảng một con ếch nhảy ngang — tiếng ếch kêu vang lên trong sương ẩm, rồi tắt ngấm. Mùi đất ướt và lá mục tràn vào khi Hùng hạ kính xe. Xe dừng trước cổng thép, Hùng xuống, thẻ từ quẹt qua reader — tiếng beep điện tử vang lên trong đêm vắng, cánh cửa nặng nề trượt sang, để lộ khoảng sân bê tông sáng đèn mercury trắng lạnh.
 
-Đèn trong xưởng sáng trưng, mùi dầu mỡ và kim loại nóng hòa vào nhau, thoảng qua mùi keo epoxy từ khu vực đóng gói pin. Giữa xưởng là một khung xe — trần, chưa có vỏ — nằm trên giá đỡ. Bốn bánh, motor gắn trên trục sau qua một bộ giảm tốc bằng dây curoa, một dãy pin lithium-ion được bó thành khối dưới sàn, nằm giữa hai trục bánh xe để giữ trọng tâm thấp. Các dây dẫn màu đen và đỏ chạy dọc khung xe, buộc gọn bằng dây nhựa. Trên bảng điều khiển tạm — một miếng gỗ dán — là một công tắc, một núm ga bằng tay, và một đèn led xanh nhỏ.
+Đèn trong xưởng sáng trưng — ánh đèn tuýp trắng rọi xuống nền bê tông, tạo ra những vũng sáng hình chữ nhật xen kẽ bóng tối dưới gầm bàn. Mùi dầu mỡ và kim loại nóng hòa vào nhau, nồng nàn đến mức Hùng phải nhíu mũi — thoảng qua mùi keo epoxy từ khu vực đóng gói pin, ngọt ngọt, hắc hắc, khiến mũi rát nhẹ. Giữa xưởng là một khung xe — trần, chưa có vỏ — nằm trên giá đỡ. Bốn bánh, motor gắn trên trục sau qua một bộ giảm tốc bằng dây curoa, một dãy pin lithium-ion được bó thành khối dưới sàn, nằm giữa hai trục bánh xe để giữ trọng tâm thấp. Các dây dẫn màu đen và đỏ chạy dọc khung xe, buộc gọn bằng dây nhựa. Trên bảng điều khiển tạm — một miếng gỗ dán — là một công tắc, một núm ga bằng tay, và một đèn led xanh nhỏ.
 
 Minh mặc áo bảo hộ trắng, tay cầm bảng mạch điều khiển — controller do cậu và Vũ thiết kế. Hai kỹ sư khác đang cúi xuống dưới gầm xe, kiểm tra kết nối. Một người dùng đèn pin chiếu vào hộp nối motor, người kia siết lại một con ốc bằng cờ-lê lực, vặn đúng mười lăm Newton-mét.
 
@@ -66,7 +66,7 @@ Minh mặc áo bảo hộ trắng, tay cầm bảng mạch điều khiển — c
 
 Minh ngồi vào ghế lái — một ghế nhựa tạm thời, mua từ chợ xe đạp điện, chưa có đệm. Cậu vặn chìa khóa — thực ra chỉ là một công tắc gạt. Một tiếng rền nhẹ vọng lên từ motor. Không ồn ào như động cơ đốt trong, không rung, không khói. Chỉ một âm thanh đều đều, the thé nhẹ ở tần số cao. Trong không gian kín của xưởng, âm thanh đó vọng lại, nghe như một chiếc máy may công nghiệp.
 
-Minh đạp ga — một bàn đạp bằng nhôm, tự chế bằng cách cưa từ một thanh nhôm góc L, có lò xo hồi vị. Khung xe chuyển động — từ từ, rồi nhích nhanh hơn. Bánh xe lăn trên sàn bê tông với tiếng rít nhẹ của cao su. Minh điều khiển xe chạy một vòng quanh xưởng, dài chừng ba mươi mét — rẽ trái, rẽ phải, tăng ga, giảm ga. Khi tăng ga đột ngột, motor rít lên, bánh sau hơi trượt trên nền bê tông vì moment xoắn quá lớn ở dải thấp. Minh giảm ga ngay lập tức, xe chậm lại, dừng.
+Minh đạp ga — một bàn đạp bằng nhôm, tự chế bằng cách cưa từ một thanh nhôm góc L, có lò xo hồi vị. Khung xe chuyển động — từ từ, rồi nhích nhanh hơn. Bánh xe lăn trên sàn bê tông với tiếng rít nhẹ của cao su — âm thanh sắc, ma sát giữa cao su mới và bê tông nhám. Không gian xưởng phóng đại mọi âm thanh: tiếng cọt kẹt của khung xe chưa được gia công hoàn thiện, tiếng buzz đều đều của motor, tiếng gió lùa qua các khe cửa sắt. Minh điều khiển xe chạy một vòng quanh xưởng, dài chừng ba mươi mét — rẽ trái, rẽ phải, tăng ga, giảm ga. Khi tăng ga đột ngột, motor rít lên, bánh sau hơi trượt trên nền bê tông vì moment xoắn quá lớn ở dải thấp — mùi cao-su cháy khét bay lên. Minh giảm ga ngay lập tức, xe chậm lại, dừng.
 
 Tiếng motor tắt, im lặng trở lại. Chỉ còn tiếng quạt thông gió trên tường và tiếng tim Hùng đập trong lồng ngực.
 
@@ -106,21 +106,21 @@ Hùng không nói những tính toán đó với Minh. Không phải vì giấu 
 
 "Em có ngân sách bao nhiêu?"
 
-"Tám tỷ cho năm nay. Em đã tính chi tiết — gửi Lan duyệt." Minh lấy từ túi áo một USB — một chiếc Kingston 256MB, vỏ nhựa đỏ, nắp đã mất. Đưa cho Hùng. "File Excel, hai mươi tab, chi phí đến từng con ốc."
+"Tám tỷ cho năm nay. Em đã tính chi tiết — gửi Lan duyệt." Minh lấy từ túi áo một USB — một Kingston 256MB, vỏ nhựa đỏ, nắp đã mất. Đưa cho Hùng. "File Excel, hai mươi tab, chi phí đến từng con ốc. Lan duyệt rồi — em ấy kiểm tra số liệu tuần trước, viết thêm một tab phân tích rủi ro tài chính ở cuối."
 
 Hùng cầm USB. Nhẹ, nhỏ, nhưng bên trong là tám tỷ đồng và niềm tin của mười lăm kỹ sư trẻ.
 
 ---
 
-Một giờ sáng, Hùng về nhà. Bà Hà vẫn thức, ngồi may áo trong phòng khách. Bà không hỏi ông đi đâu, chỉ nói: "Còn cháo trong nồi. Mở lửa nhỏ cho nóng."
+Một giờ sáng, Hùng về nhà. MẾ — MẾ của Minh, người vẫn giữ thói quen chờ cửa dù các con đã lớn — vẫn thức, ngồi may áo trong phòng khách. Bà không hỏi ông đi đâu, chỉ nói: "Còn cháo trong nồi. Mở lửa nhỏ cho nóng."
 
-Hùng vào bếp, hâm nóng cháo. Ngồi một mình trong bếp — căn bếp nhỏ, gạch men trắng, tủ gỗ cũ — mở USB của Minh ra xem trên laptop. Máy tính khởi động chậm, quạt kêu ầm ầm. File Excel mở ra — hai mươi tab, mỗi tab là một hạng mục: khung gầm, motor, pin, controller, vỏ xe, hệ thống điện, nội thất, thử nghiệm, nhân công, chi phí dự phòng...
+Hùng vào bếp, hâm nóng cháo. MẾ ngẩng lên từ bộ đồ nghề may — kim chỉ, thước dây, một chiếc kéo nhỏ — liếc nhìn ông một cái rồi cúi xuống. Không hỏi, không hỏi lại. Đây là thói quen của bà từ những năm 1999, khi Hùng còn đi lại Hà Nội — Hải Phòng trên chiếc Dream 70 cũ, mỗi chuyến đi là một tuần, mỗi lần về là bà nấu cháo gà. Ba mươi năm thói quen không đổi. Ngồi một mình trong bếp — căn bếp nhỏ, gạch men trắng ốm vàng ở góc, tủ gỗ cũ có mùi dầu thông — mở USB của Minh ra xem trên laptop. Máy tính khởi động chậm, quạt kêu ầm ầm. File Excel mở ra — hai mươi tab, mỗi tab là một hạng mục: khung gầm, motor, pin, controller, vỏ xe, hệ thống điện, nội thất, thử nghiệm, nhân công, chi phí dự phòng...
 
 Mỗi con số đều có ghi chú — nguồn gốc, cơ sở tính toán, sai số dự phòng. Tab cuối cùng — Risk Assessment — có một bảng đỏ: *Rủi ro 1: Cháy pin trong quá trình thử nghiệm — chi phí dự phòng 500 triệu. Rủi ro 2: Motor không đạt công suất danh định — phương án thay thế motor Baumüller 20kW, tăng chi phí 15%. Rủi ro 3: Không bán được — thị trường chưa sẵn sàng — lỗ tối đa 12 tỷ.*
 
 Hùng đọc một lần, rồi đọc lại. Không tìm thấy lỗi nào rõ ràng. Cậu con trai ông đã trưởng thành.
 
-Ông đóng laptop, ăn cháo. Cháo gà, bà Hà nấu từ chiều, thịt gà xé nhỏ, hành phi thơm. Bên ngoài, gà đã gáy sáng — tiếng gà từ chuồng sau nhà, xa xa thêm tiếng gà từ nhà hàng xóm, như một dàn hợp xướng đồng quê.
+Ông đóng laptop, ăn cháo. Cháo gà, mế nấu từ chiều, thịt gà xé nhỏ, hành phi thơm. Bên ngoài, gà đã gáy sáng — tiếng gà từ chuồng sau nhà, xa xa thêm tiếng gà từ nhà hàng xóm, như một dàn hợp xướng đồng quê.
 
 ---
 
@@ -145,11 +145,21 @@ Minh chưa cho xe chạy vòng thứ hai ngay. Cậu cúi dưới sàn, tay đ�
 
 Nguyên mẫu chạy được vòng sân. Chưa có đăng kiểm, chưa có giá — Minh hỏi bao giờ được lái ra đường.
 
+"Khi nào xe được ra đường?" Minh hỏi. Cậu đã tháo găng, nhưng lòng bàn tay vẫn ám mùi cao-su cháy. Lan — em gái cậu — gọi tới đúng lúc ấy. Giọng Lan gấp, khác hẳn vẻ tỉnh táo thường ngày: "Anh Minh, đừng bật bộ pin lần nữa. Em vừa đối chiếu lô cell Samsung với phiếu nhập. Có mười hai cell không trùng số serial."
+
+Minh đứng khựng bên thân xe. Hùng nhìn cậu. MẾ ở đầu dây bên kia — Minh đã gọi cho MẾ sau khi về nhà — nghe thấy tiếng im lặng kéo dài. "Minh?" bà hỏi. "Con còn ở xưởng à?"
+
+Một kỹ sư phía dưới gầm xe bỗng hét lên. Đèn LED xanh trên bảng gỗ tắt phụt, rồi sáng lại màu đỏ. Mùi nhựa nóng lập tức đặc quánh trong không khí. Đồng hồ dòng điện nhảy vọt, kim rung bần bật ở vạch cảnh báo. Minh lao tới công tắc ngắt khẩn cấp, nhưng công tắc không nhúc nhích.
+
+Ngoài cổng, camera số 3 xoay chậm về phía con đường tối. Trên màn hình an ninh, một chiếc xe tải không biển hiệu vừa dừng cách xưởng chưa đầy hai trăm mét.
+
+Minh quay sang Hùng, lần đầu tiên trong đêm không còn vẻ nhẹ nhõm trong mắt. "Ba. Có người đã tráo pin."
+
 「Hệ thống — GHI NHẬN ch.219」
 Năm: 1999
 Tổng EXP: 42,524 (+238)
 Không gian kho: 14,714m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv1
-Ghi chú: Xe điện nguyên mẫu xưởng 219; Minh thử lái; ngân sách 12 tỷ.
+Ghi chú: Xe điện nguyên mẫu xưởng 219; Minh thử lái; ngân sách 12 tỷ. Đánh giá: tiềm năng chuyển đổi thị trường Đông Nam Á — nhưng rủi ro cháy pin nghiêm trọng. Lan (em gái Minh) tham gia phân tích tài chính. MẾ vẫn giữ vai trò mến — nền tảng gia đình ổn định.
 
 ============================================================
