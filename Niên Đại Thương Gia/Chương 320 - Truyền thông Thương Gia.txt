@@ -2,7 +2,7 @@
 Chương 320: Truyền thông Thương Gia
 ============================================================
 
-Hà Nội, bảy giờ sáng tháng Sáu năm 2015. Trụ sở Bộ Thông tin và Truyền thông trên phố Nguyễn Du — cổng sắt cũ kỹ, sơn xanh đã bong tróc, cây sấu già rợp bóng xuống vỉa hè nứt nẻ. Mùi giấy tờ cũ, mùi mực in, mùi cà phê phin từ quán cóc dưới tán cây — thứ mùi đặc trưng của hành lang công quyền. Hàng người xếp hàng từ sáng sớm: luật sư vest đen cặp da, doanh nhân mồ hôi lấm tấm trên trán, kỹ thuật viên trẻ tay cầm USB, mặt căng thẳng — ai cũng có một tờ giấy cần ký, một con dấu cần đóng, một cánh cửa cần mở.
+Hà Nội, bảy giờ sáng tháng Sáu năm 2013. Trụ sở Bộ Thông tin và Truyền thông trên phố Nguyễn Du — cổng sắt cũ kỹ, sơn xanh đã bong tróc, cây sấu già rợp bóng xuống vỉa hè nứt nẻ. Mùi giấy tờ cũ, mùi mực in, mùi cà phê phin từ quán cóc dưới tán cây — thứ mùi đặc trưng của hành lang công quyền. Hàng người xếp hàng từ sáng sớm: luật sư vest đen cặp da, doanh nhân mồ hôi lấm tấm trên trán, kỹ thuật viên trẻ tay cầm USB, mặt căng thẳng — ai cũng có một tờ giấy cần ký, một con dấu cần đóng, một cánh cửa cần mở.
 
 Trần Văn Hùng ngồi trên ghế đá dưới gốc sấu. Ông đến từ sáu giờ ba mươi — sớm hơn giờ hẹn một tiếng. Bên cạnh là tập hồ sơ dày hai trăm trang đặt trong bìa nhựa trong suốt: xin cấp giấy phép phát sóng truyền hình cho Thương Gia Media. Từng trang được đóng dấu giáp lai, từng chữ ký được soát kỹ, từng phụ lục được dịch thuật công chứng. Mồ hôi lấm tấm trên trán dù trời chưa nóng. Hùng không sợ bị từ chối — ông sợ bị trì hoãn. Trong kinh doanh, trì hoãn giết chết cơ hội nhanh hơn từ chối.
 
@@ -188,9 +188,10 @@ Hai người dừng lại bên lan can hồ, nhìn ánh pháo hoa cuối cùng v
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.320」
-Năm: 2015
+Năm: 2013
 Tổng EXP: 78,000 (+300)
 Không gian kho: 41,667m² (+334m²)
 Kỹ năng trọng yếu: Ảnh hưởng xã hội lv3 (+1), Công nghệ cao lv2, Di sản lv1, Truyền thông lv1 (+1)
 Ghi chú: Thương Gia Media ra mắt — kênh truyền hình + báo điện tử — lỗ năm đầu, giữ nguyên tắc
+
 ============================================================

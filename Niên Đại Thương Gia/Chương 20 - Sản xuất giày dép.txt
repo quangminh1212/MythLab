@@ -66,7 +66,7 @@ Ngày đầu, cả tổ chỉ hoàn thành ba đôi. Cô Tý may hỏng hai thâ
 
 Ngày thứ hai, họ đạt năm đôi. Ngày thứ ba được sáu. Chị Sáu vẫn giữ ca may áo buổi sáng, chỉ sang bàn thân giày vào đầu giờ chiều để duyệt đường mẫu và giao phần việc. Nước mắm cá cơm đặc quánh từ chum. Hùng không lấy đơn áo làm vốn cho giày rồi để khách cũ chờ. Hai sổ vật liệu, hai lịch giao, hai góc hàng được giữ tách biệt.
 
-“Người mới vào lúc này sẽ dùng nửa ngày của người cũ để học,” thợ Tư nói. “Nếu cậu muốn giữ năm mươi đôi thì đừng biến bàn này thành chợ.” Trong ánh nắng nhạt, tiếng gió lùa mang theo mùi đất ẩm; Hùng , bàn tay khẽ siết lại, đôi mắt vẫn bám sát từng chi tiết trước khi ông thở chậm.
+“Người mới vào lúc này sẽ dùng nửa ngày của người cũ để học,” thợ Tư nói. “Nếu cậu muốn giữ năm mươi đôi thì đừng biến bàn này thành chợ.” Trong ánh nắng nhạt, tiếng gió lùa mang theo ; Hùng , bàn tay khẽ siết lại, đôi mắt vẫn bám sát từng chi tiết trước khi ông thở chậm.
 
 Quá trưa, thợ Tư ký dưới dòng thứ năm mươi. Lan đếm lại ba cỡ, đối chiếu lượng vật liệu, thẻ lỗi và hai số bị loại. Cu đóng các đôi vào hòm, lót giấy giữa hai đế để rãnh không cọ bẩn thân vải. Ngoài nắp hòm, Hùng chỉ ghi mẫu G-1, số lượng và ba cỡ. Ông không ghi “hàng tốt nhất” hay bất kỳ lời nào chưa được người mua chứng thực.
 
@@ -74,7 +74,7 @@ Chiều ấy, thợ Tư không về ngay. Nước mắm cá cơm đặc quánh t
 
 “Có cần gọi thêm người không?” Hùng hỏi.
 
-Đến chiều ngày thứ tư, Lan đặt hai chiếc cỡ giữa cạnh nhau và thấy một chiếc dài hơn. Ký hiệu ở gót đều là số hai. Cô lần ngược bó thân đã may, phát hiện cô Tý lấy nhầm một dưỡng cỡ ba nằm úp dưới bàn. Mười một thân đã cắt cùng một dấu phấn. Ngoài hiên, tiếng mưa rơi lẫn mùi khói cay và luồng gió lạnh; Cu  hai tay xoa vào nhau, đôi chân dịch nửa bước trong khi mắt không rời công việc.
+Đến chiều ngày thứ tư, Lan đặt hai chiếc cỡ giữa cạnh nhau và thấy một chiếc dài hơn. Ký hiệu ở gót đều là số hai. Cô lần ngược bó thân đã may, phát hiện cô Tý lấy nhầm một dưỡng cỡ ba nằm úp dưới bàn. Mười một thân đã cắt cùng một dấu phấn. Ngoài hiên, tiếng mưa rơi lẫn mùi khói cay và luồng gió lạnh; Cu hai tay xoa vào nhau, đôi chân dịch nửa bước trong khi mắt không rời công việc.
 
 Cu nhìn bảng tiến độ rồi đề nghị sửa số trên thẻ, ghép chúng thành cỡ lớn. Thợ Tư lắc đầu. Mũ giày cắt theo cỡ ba nhưng đường ôm gót đã may theo dấu cỡ hai; đổi tên không đổi được hình. Ông tách từng thân, giữ lại sáu chiếc chưa may để làm đúng cỡ ba, tháo năm chiếc đã may. Lan khoan một lỗ khác nhau trên đầu mỗi dưỡng: một lỗ cho cỡ nhỏ, hai lỗ cho cỡ giữa, ba lỗ cho cỡ lớn. Từ đó người nhận dưỡng phải luồn ngón tay kiểm số lỗ, không chỉ nhìn nét phấn.
 
@@ -116,4 +116,5 @@ Tổng EXP: 900 (+55 nhịp này)
 Không gian kho: 1,600m² (+40m²)
 Kỹ năng trọng yếu: Thương mại lv2, Y tế lv1, Sản xuất lv1
 Ghi chú: G-1 = 50 đôi/10 ngày với thợ Tư; 3 cỡ lao động; tách sổ áo/giày; tin Bằng ra tù; lời mời khảo sát TP.HCM — chưa nhận mở rộng.
+
 ============================================================

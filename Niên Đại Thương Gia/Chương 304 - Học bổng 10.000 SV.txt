@@ -2,7 +2,7 @@
 Chương 304: Học bổng 10.000 SV
 ============================================================
 
-Hà Nội, tháng Chín năm 2012. Nắng thu vàng óng trên mái ngói Trung tâm Hội nghị Quốc gia đường Me Tri. Khuôn viên rộng năm hécta — từ năm giờ sáng đã kín người. Hàng ngàn sinh viên mặc áo trắng tinh, khăn quàng đỏ thắm, xếp hàng dài từ cổng vào tận sảnh chính. Những tấm biển căng ngang mặt tiền: "Học bổng 10.000 Sinh viên Thương Gia" — chữ đỏ trên nền trắng, gọn, không rườm rà. Bên dưới là dòng phụ: "63 tỉnh thành — 63 niềm tin".
+Hà Nội, tháng Chín năm 2011. Nắng thu vàng óng trên mái ngói Trung tâm Hội nghị Quốc gia đường Me Tri. Khuôn viên rộng năm hécta — từ năm giờ sáng đã kín người. Hàng ngàn sinh viên mặc áo trắng tinh, khăn quàng đỏ thắm, xếp hàng dài từ cổng vào tận sảnh chính. Những tấm biển căng ngang mặt tiền: "Học bổng 10.000 Sinh viên Thương Gia" — chữ đỏ trên nền trắng, gọn, không rườm rà. Bên dưới là dòng phụ: "63 tỉnh thành — 63 niềm tin".
 
 Hùng đến từ sáu giờ kém. Ông mặc áo sơ mi trắng, quần tây tối màu, không cà vạt — cổ áo bỏ một nút, tay áo xắn nhẹ. Lan đi cạnh, tay ôm tập hồ sơ giấy dó nặng gần ba ký — danh sách mười ngàn cái tên, mười ngàn câu chuyện, được đóng thành hai trăm trang, từng trang có chữ ký xác nhận của địa phương. Trời , sương mỏng phủ trên thảm cỏ trước trung tâm, nhuộm xanh cỏ thành bạc.
 
@@ -14,7 +14,7 @@ Hùng nhìn ra cổng. Sinh viên đã đến từ bốn giờ sáng. Họ ngồ
 
 "Em đó," Lan chỉ. "Nguyễn Thị Dung, Hà Giang. Thủ khoa đầu vào Đại học Sư phạm. Bố mất vì tai nạn lao động năm em mười sáu. Mẹ làm ruộng nuôi ba chị em — gay cấy một mình ba sào ruộng bậc thang."
 
-Hùng nhìn lướt hồ sơ. Mục "Kỳ vọng sau khi nhận học bổng": "Em sẽ mua sách giáo khoa tham khảo cho các em trong thôn — thôn em chỉ có ba bộ sách cho hai mươi mốt học sinh. Số còn lại gửi mẹ để mẹ chữa đau lưng." Không có một dòng nào viết cho bản thân.
+Hùng nhìn lướt hồ sơ. Mục "Kỳ vọng sau khi nhận học bổng": "Em sẽ mua sách giáo khoa tham khảo cho các em trong thôn — thôn em chỉ có ba bộ sách cho hai mươi mốt học sinh. Số còn lại gửi mẹ để mẹ chữa đau lưng." Không có một dòng nào viết cho .
 
 "Cả nhà em nuôi một con trâu," Lan nói thêm. "Tháng trước trâu chết. Mẹ em phải vay nặng lãi mua trâu mới. Nếu không có học bổng này — cuối năm em phải bỏ học."
 
@@ -244,9 +244,10 @@ Hùng không trả lời. Ông nhìn ra cửa sổ, nơi Việt Nam đang dần 
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.304」
-Năm: 2012
+Năm: 2011
 Tổng EXP: 73,200 (+300)
 Không gian kho: 36,333m² (+333m²)
 Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1
 Ghi chú: trao 10.000 suất học bổng — 63 tỉnh thành — duy trì hằng năm
+
 ============================================================

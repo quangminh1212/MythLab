@@ -189,4 +189,5 @@ Tổng EXP: 12,000 (+250 nhịp này)
 Không gian kho: 4,429m² (+58m²)
 Kỹ năng trọng yếu: Y tế lv1, Đầu tư lv2, Quản lý lv1, Chiến lược lv1
 Ghi chú: Khóa nhiệm vụ phòng khám: chỉ số chờ/chuyển viện, quy trình sạch bẩn ổn định
+
 ============================================================

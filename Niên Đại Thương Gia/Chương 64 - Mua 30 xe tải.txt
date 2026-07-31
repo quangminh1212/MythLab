@@ -360,7 +360,6 @@ Tối ấy trong sổ, ông viết: mười xe đã có người và tuyến; ha
 
 Sang tuần, khi đợt hai qua chạy thử, ông sẽ mở tiếp then. Hôm nay chỉ cần không nhận lốp «gần đúng» và không giao tay lái dài cho người chưa từng đi đêm.
 
-
 ============================================================
 「Hệ thống — GHI NHẬN ch.64」
 Năm: 1985
@@ -368,4 +367,5 @@ Tổng EXP: 8,653 (+213 nhịp này)
 Không gian kho: 3,687m² (+47m²)
 Kỹ năng trọng yếu: Quản lý lv1, Thương mại lv3, Đầu tư lv2, Chiến lược lv1, Logistics lv1
 Ghi chú: Chốt mua 30 xe tải (24 Hà Nội + 6 Hải Phòng) — kiểm từng chiếc, hợp đồng theo số khung/máy, thanh toán theo tiến độ chạy thử; hai khách cam kết sản lượng mở khóa xe mùa vụ
+
 ============================================================

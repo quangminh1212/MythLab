@@ -80,7 +80,7 @@ Sullivan gọi một chai Bordeaux — loại ông ta bảo "đã để dành t�
 
 "Ông có gia đình không, Mr. Tran?" Sullivan hỏi, tay cầm dao dĩa cắt miếng thịt bò to bản.
 
-"Có. Vợ mất sớm — năm 1995, bệnh. Một con trai — nó hai mươi hai, học Đại học Ngoại thương, sắp ra trường. Một em gái — người cùng tôi làm việc từ ngày đầu, chưa bao giờ rời. Và bà nội — tám mươi ba tuổi, ở với tôi từ nhỏ, nuôi tôi từ khi tôi mồ côi cha mẹ."
+"Có. Vợ mất sớm — năm 1995, bệnh. Một con trai — nó hai mươi hai, học Đại học Ngoại thương, sắp ra trường. Một em gái — người cùng tôi làm việc từ ngày đầu, chưa bao giờ rời. Và bà Hà — tám mươi ba tuổi, ở với tôi từ nhỏ, nuôi tôi từ khi tôi mồ côi cha mẹ."
 
 "Ba thế hệ. Như một triều đại thu nhỏ."
 
@@ -161,4 +161,5 @@ Tổng EXP: 74,400 (+300 nhịp này)
 Không gian kho: 37,667m² (+334m²)
 Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1
 Ghi chú: Hùng gặp lại đối tác Mỹ — thương vụ logistics vượt Thái Bình Dương — bắt tay trên chữ tín
+
 ============================================================

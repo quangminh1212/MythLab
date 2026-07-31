@@ -178,4 +178,5 @@ Tổng EXP: 16,500 (+182 nhịp này)
 Không gian kho: 5,500m² (+45m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
 Ghi chú: Nhóm phần mềm nội bộ — chốt quy trình lập trình & giao việc
+
 ============================================================

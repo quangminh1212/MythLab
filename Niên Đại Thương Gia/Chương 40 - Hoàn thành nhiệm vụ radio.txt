@@ -96,7 +96,7 @@ Khi mọi người ra về, Minh chưa cất dụng cụ. Ông lấy từ cặp 
 
 Ông không cho mở việc mới trong đêm. Radio đã xong về giao hàng và thanh toán, nhưng quỹ bảo hành còn chạy đến cuối năm sau. Quạt điện phải có sổ riêng, vốn riêng, mẫu thử riêng; không được mượn một thành tích cũ để giả làm tiến độ mới. Minh gấp bản vẽ lại. Ngày đầu năm 1985, họ sẽ bắt đầu từ chỗ dễ hỏng nhất: cuộn dây nóng, cánh mất cân bằng, đối thủ phá giá bằng cách cắt chất lượng.
 
-Chiếc radio cuối cùng trên bàn vẫn phát rõ khi Hùng tắt đèn xưởng. Không ai vỗ tay. Lan khóa tủ sổ. Hăng hắc khói than làm cay mè mắt. Ông Tam khóa kho. Nhiệm vụ radio kết thúc bằng ba thứ có thể kiểm: hàng đã nhận, tiền đã về, trách nhiệm còn lại đã có người giữ.
+Chiếc radio cuối cùng trên bàn vẫn phát rõ khi Hùng tắt đèn xưởng. Không ai vỗ tay. Lan khóa tủ sổ. làm cay mè mắt. Ông Tam khóa kho. Nhiệm vụ radio kết thúc bằng ba thứ có thể kiểm: hàng đã nhận, tiền đã về, trách nhiệm còn lại đã có người giữ.
 
 ***
 
@@ -154,7 +154,7 @@ Minh cúi kiểm lại hai máy đối chứng, ngẩng lên: "Tem còn. Không 
 
 Về xưởng, Lan nắm tay Hạnh: "HN-1 không nhận sửa hộ. Máy lỗi về đúng phiếu." Hạnh gật, mắt đỏ vì bụi giấy.
 
-Ngoài trời bắt đầu mưa bụi, mùi đất ẩm bốc lên. Hùng buông chùm chìa, nhìn bảng R84 đã gạch ngang chữ mở. Nhiệm vụ khép trên sổ. Quạt điện vẫn chưa mở — việc ấy để ngày mai, khi radio không còn dòng đỏ.
+Ngoài trời bắt đầu mưa bụi, bốc lên. Hùng buông chùm chìa, nhìn bảng R84 đã gạch ngang chữ mở. Nhiệm vụ khép trên sổ. Quạt điện vẫn chưa mở — việc ấy để ngày mai, khi radio không còn dòng đỏ.
 
 「Hệ thống — GHI NHẬN ch.40」
 Năm: 1984
@@ -162,4 +162,5 @@ Tổng EXP: 3,200 (+140 nhịp này)
 Không gian kho: 2,500m² (+50m²)
 Kỹ năng trọng yếu: Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
 Ghi chú: Hoàn thành NV radio: nghiệm thu + 30% cuối; bảo hành tách HN-1; sổ khớp tiền-máy-phiếu.
+
 ============================================================

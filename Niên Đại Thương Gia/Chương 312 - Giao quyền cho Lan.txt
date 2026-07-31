@@ -2,7 +2,7 @@
 Chương 312: Giao quyền cho Lan
 ============================================================
 
-Hà Nội, tháng Ba năm 2015. Sáu giờ sáng, sương mỏng phủ mặt hồ Gươm như một tấm lụa bạc. Tháp Rùa hiện ra mờ mờ, cầu Thê Húc đỏ thẫm ẩn hiện trong lớp sương trắng đục. Mặt hồ phẳng lặng đến mức có thể thấy rõ từng tán cây cổ thụ soi bóng xuống nước. Trên phố Hàng Khay, quán phở Hùng mở cửa từ ba giờ, hơi nóng bốc lên nghi ngút, thơm mùi xương hầm, thịt bò, rau thơm. Tiếng nồi niêu xoong chảo, tiếng người gọi nhau í ới — Hà Nội thức giấc bằng những âm thanh ấy, bình dị và không thể nhầm lẫn.
+Hà Nội, tháng Ba năm 2012. Sáu giờ sáng, sương mỏng phủ mặt hồ Gươm như một tấm lụa bạc. Tháp Rùa hiện ra mờ mờ, cầu Thê Húc đỏ thẫm ẩn hiện trong lớp sương trắng đục. Mặt hồ phẳng lặng đến mức có thể thấy rõ từng tán cây cổ thụ soi bóng xuống nước. Trên phố Hàng Khay, quán phở Hùng mở cửa từ ba giờ, hơi nóng bốc lên nghi ngút, thơm mùi xương hầm, thịt bò, rau thơm. Tiếng nồi niêu xoong chảo, tiếng người gọi nhau í ới — Hà Nội thức giấc bằng những âm thanh ấy, bình dị và không thể nhầm lẫn.
 
 Trần Văn Hùng đứng trên sân thượng tòa nhà Thương Gia — hai mươi tầng nhìn ra thành phố. Gió đầu xuân còn lạnh, thổi từ hướng sông Hồng vào, mang theo mùi phù sa, mùi bờ bãi ẩm ướt, mùi của những mùa màng đang chờ đất. Phố xá bên dưới nhộn nhịp dần — xe máy, ô tô, người đi bộ, những gánh hàng rong với quang gánh tre trên vai — tất cả bắt đầu một ngày mới như đã bắt đầu hàng nghìn ngày trước đó. Hồ Gươm xanh thẫm, điểm xuyết màu đỏ của cầu Thê Húc, màu nâu của những mái chùa cổ khuất sau tán cây. Nhìn từ đây, Hùng thấy cả một góc Hà Nội thu nhỏ — mái ngói rêu phong đan xen cao ốc kính mới, cây sấu già đứng sừng sững cạnh tòa nhà thương mại, quán cà phê vỉa hè cạnh cửa hàng thời trang. Một thành phố già và mới, chậm và nhanh. Giống Thương Gia.
 
@@ -206,9 +206,10 @@ Trong lòng ông — không mất mát, không hân hoan — chỉ có bình yê
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.312」
-Năm: 2015
+Năm: 2012
 Tổng EXP: 75,600 (+300)
 Không gian kho: 39,000m² (+333m²)
 Kỹ năng trọng yếu: Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1
 Ghi chú: bàn giao cho Lan — kết thúc Phần 5
+
 ============================================================

@@ -402,4 +402,5 @@ Tổng EXP: 42,048 (+238)
 Không gian kho: 14,429m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv1
 Ghi chú: Nhà máy NL tái tạo Hải Phòng — móng #7; SG-220; từ chối CDO.
+
 ============================================================

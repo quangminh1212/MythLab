@@ -44,7 +44,7 @@ Hướng thứ ba — công nghệ thông tin. Xây dựng hệ thống quản l
 Buổi sáng hôm sau, Lan bay vào Đà Nẵng gặp kỹ sư người Việt vừa về nước từ Nhật — Nguyễn Hoàng Anh, ba mươi lăm tuổi, từng làm sáu năm cho Renesas Technology tại Tokyo. Hoàng Anh chuyên về vi điều khiển và thiết kế mạch tích hợp. Anh về Việt Nam vì muốn mở một lab thiết kế chip, nhưng chưa tìm được doanh nghiệp nào sẵn sàng đầu tư.
 
 Cuộc gặp diễn ra tại một quán cà phê gần sân bay — tiếng máy bay gầm rít từ xa, mùi cà phê phin thoảng trong không khí nóng ẩm. Hoàng Anh mang theo một bảng mạch thử nghiệm tự tay hàn — một bộ điều khiển nhiệt độ cho lò sấy công nghiệp, mùi nhựa thông và chì nóng còn thoảng trên bảng mạch.
-Than tổ ong lúc nửa đêm.
+ lúc nửa đêm.
 
 “Tôi tự thiết kế mạch, tự đặt sản xuất tại một xưởng nhỏ ở Thượng Hải, tự lập trình vi điều khiển,” Hoàng Anh nói. “Chi phí một lô thử nghiệm đầu tiên khoảng 8.000 USD — bao gồm mask, linh kiện, gia công. Nếu tôi ở Nhật, tôi không bao giờ được phép làm linh kiện nào dưới một trăm nghìn đơn vị. Ở đây tôi có thể làm năm mươi cái và sửa lỗi ngay.”
 
@@ -91,7 +91,7 @@ Cô vẽ sơ đồ tổ chức trên giấy A0: hướng tự động hóa do Tu
 “Nếu ba nhóm không nói chuyện với nhau, em tốn tiền gấp ba mà kết quả chỉ bằng một cộng với nhau,” Hùng nói khi xem sơ đồ.
 
 “Em biết. Em sẽ yêu cầu họ báo cáo chéo hàng tháng — nhóm tự động hóa phải hiểu nhóm IT cần dữ liệu gì, nhóm vật liệu phải biết nhóm tự động hóa cần composite nhiệt độ bao nhiêu.”
-Ướt sũng mồ hôi lưng áo sau một ngày dài.
+ lưng áo sau một ngày dài.
 
 Hùng gật. Ông không hỏi thêm.
 
@@ -168,7 +168,6 @@ Bà Hà nắm tay Lan, bàn tay chai sần vì hơn ba mươi năm rửa bát. "
 Lan cười, mắt sáng: "Con còn làm lớn hơn nữa, mẹ ạ."
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào. Hùng ngẩng mặt lên, nghe. Ngày mai sẽ còn nhiều việc phải làm — Quỹ R&D đã mở, nhưng bài toán lợi nhuận chưa có lời giải. Hùng và Minh ngồi bên nhau trong nhà, nhìn mưa qua khung cửa. "Mưa rồi." Hùng nói, tay chạm tay Minh. "Ừ, mưa." Minh đáp. Họ nắm tay nhau, im lặng, bình yên. Phía trước còn dài.
-
 
 「Hệ thống — GHI NHẬN ch.250」
 Năm: 2010

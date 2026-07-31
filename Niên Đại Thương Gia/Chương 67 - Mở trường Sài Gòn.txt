@@ -234,7 +234,6 @@ Lan ghi tên vào sổ riêng màu khác — tránh lẫn sĩ số chính. Hùng
 
 ***
 
-Đêm trước ngày về, Hùng đi bộ một vòng hẻm. Tiếng radio nhà ai đó. Mùi cơm cháy nhẹ. Một ông già ngồi ghế mây hỏi:
 
 — Trường tư hả?
 
@@ -285,4 +284,5 @@ Tổng EXP: 9,293 (+213 nhịp này)
 Không gian kho: 3,827m² (+47m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Quản lý lv1
 Ghi chú: Trường Bình An Bình Thạnh — thuê sửa, cô Hạnh, học thử một tuần không thu trước; mưa thử mái đạt
+
 ============================================================

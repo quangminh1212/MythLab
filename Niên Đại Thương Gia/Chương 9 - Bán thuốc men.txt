@@ -22,7 +22,6 @@ Hùng viết thêm:
 Hùng đọc lại, gật đầu. Rõ ràng, minh bạch. Ông Tâm là bác sĩ — ông sẽ hiểu và đánh giá được tính hợp pháp.
 
 Buổi sáng, Hùng đạp xe ra huyện. Hôm nay ông đi một mình — Lan ở nhà chăm bà. Ông mang theo: 4 bộ quần áo, 10 quả trứng, 5 gói mì, 5 hộp vitamin, 5 bánh xà phòng, 3 tuýp kem đánh răng, 3 chai dầu gội. Đa dạng mặt hàng, đủ cho một buổi sáng.
-Loẹt xoẹt biên lai thu tiền.
 
 Đến huyện, Hùng bày hàng ở hẻm quen. Nhưng hôm nay, ông thử một cách mới — thay vì ngồi chờ khách, ông đi đến phòng khám y tế huyện, gặp chị Hồng — bác sĩ đã khám cho bà Hà.
 
@@ -70,7 +69,6 @@ Tổng: 292 đồng.
 Hệ thống báo giao dịch thành công, cộng 35 EXP, khiến số dư EXP lúc ấy đạt 230.
 
 230 EXP. Ông đang tiến nhanh — nếu tiếp tục tốc độ này, ông sẽ đạt 300 EXP trong vài ngày. Nhưng ông không biết cấp tiếp theo của thương mại cần bao nhiêu EXP — hệ thống chưa thông báo.
-Bùn non dưới ruộng.
 
 Buổi trưa, Hùng đến nhà ông Tâm. Ông Tâm đang ở nhà, đọc báo Nhân Dân. Hùng gõ cửa, ông mở, nhìn Hùng, rồi nói: "Vào đi. Anh Khanh nói cậu muốn gặp."
 
@@ -146,7 +144,6 @@ Hùng nhắm mắt. Ngày mai sẽ dài. Nhưng hôm nay, ông đã làm đượ
 
 Từ bán rong đến cửa hàng. Từ cửa hàng đến xưởng. Từ xưởng đến đế chế.
 
-
 ---
 
 Chị Hồng không cho Hùng đặt thuốc ngay trước cửa phòng khám. Cô dẫn ông đến chiếc bàn gỗ trong phòng trực, yêu cầu mở từng hộp. Hai hộp vitamin có mép nhãn bong vì ẩm. Hùng tách chúng khỏi lô bán, dù viên bên trong chưa hỏng. Với thuốc, vẻ ngoài không chứng minh chất lượng, nhưng bao bì hư đủ để từ chối đưa cho người bệnh.
@@ -196,4 +193,5 @@ Tổng EXP: 304 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
 Ghi chú: Bán thuốc có ranh giới; hoàn tiền; Y tế lv1.
+
 ============================================================

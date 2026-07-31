@@ -2,7 +2,7 @@
 Chương 199: Tổng kết Phần 3
 ============================================================
 
-Hà Nội, cuối tháng Tám năm 1995. Cơn mưa rào buổi chiều vừa dứt, hơi nước bốc lên từ mặt đường Phố Huế, nghe mùi đất ẩm trộn với khói xe. Trụ sở mới của Thương Gia — một tòa nhà ba tầng nằm giữa đoạn phố đang lên — sáng đèn từ sớm.
+Hà Nội, cuối tháng Tám năm 1995. Cơn mưa rào buổi chiều vừa dứt, hơi nước bốc lên từ mặt đường Phố Huế, nghe trộn với khói xe. Trụ sở mới của Thương Gia — một tòa nhà ba tầng nằm giữa đoạn phố đang lên — sáng đèn từ sớm.
 
 Phòng họp tầng hai chỉ rộng ba mươi mét vuông. Bàn gỗ dài phủ khăn trắng, trên bàn là mười hai cốc nước, một bình trà nóng, và một tập tài liệu mỏng để trước mỗi ghế. Quạt trần quay chậm, gió hất những tờ giấy trên bàn phồng lên rồi xẹp xuống theo từng nhịp.
 
@@ -259,7 +259,6 @@ Bây giờ, ông sẽ đặt chân lên đó.
 
 Và ông sẽ trở về.
 
-============================================================
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.199」
@@ -268,4 +267,5 @@ Tổng EXP: 37,680 (+320 nhịp này)
 Không gian kho: 11,920m² (+80m²)
 Kỹ năng trọng yếu: Lãnh đạo lv2, Tài chính lv3, Quản trị đế chế lv1
 Ghi chú: Tổng kết Phần 3 — số liệu + bài học ủy thác
+
 ============================================================

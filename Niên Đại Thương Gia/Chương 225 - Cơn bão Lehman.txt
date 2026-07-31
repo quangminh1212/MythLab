@@ -2,13 +2,13 @@
 Chương 225: Cơn bão Lehman
 ============================================================
 
-Đầu tháng Chín năm 2008, tiếng gió thổi nhẹ, Hùng đang ngồi trong phòng làm việc tại Thương Gia Tower. Trên bàn là một tập báo cáo tài chính quý II dày ba mươi trang, góc trái có chữ ký của ông Phúc — người đã kiểm tra từng con số trước khi trình lên. Ngoài cửa sổ, phố Nguyễn Huệ vẫn đông đúc xe cộ, người mua người bán tấp nập. Không ai biết rằng cách nửa vòng trái đất, một con tàu khổng lồ vừa chìm.
+Đầu tháng Chín năm 2008, , Hùng đang ngồi trong phòng làm việc tại Thương Gia Tower. Trên bàn là một tập báo cáo tài chính quý II dày ba mươi trang, góc trái có chữ ký của ông Phúc — người đã kiểm tra từng con số trước khi trình lên. Ngoài cửa sổ, phố Nguyễn Huệ vẫn đông đúc xe cộ, người mua người bán tấp nập. Không ai biết rằng cách nửa vòng trái đất, một con tàu khổng lồ vừa chìm.
 
-Điện thoại đổ chuông. Đầu dây bên kia là Đỗ Văn Hải — giám đốc tài chính mà Hùng mới cướp về từ KPMG Hà Nội sáu tháng trước. Hải ba mươi lăm tuổi, ánh nắng xuyên qua, gầy, đeo kính gọng đen, áo sơ mi trắng luôn xắn tay đến khuỷu. Anh ta từng làm năm năm ở Big Four, chứng kiến một công ty Thụy Điển phá sản vì khủng hoảng dot-com, và một công ty Nhật Bản mất ba trăm tỷ vì đầu tư sai vào thị trường Mỹ. Giọng Hải hôm nay khác thường — không phải giọng của một người luôn có bảng tính trong đầu, mà là giọng của một người vừa thấy thứ mình chưa từng thấy.
+Điện thoại đổ chuông. Đầu dây bên kia là Đỗ Văn Hải — giám đốc tài chính mà Hùng mới cướp về từ KPMG Hà Nội sáu tháng trước. Hải ba mươi lăm tuổi, ánh , gầy, đeo kính gọng đen, áo sơ mi trắng luôn xắn tay đến khuỷu. Anh ta từng làm năm năm ở Big Four, chứng kiến một công ty Thụy Điển phá sản vì khủng hoảng dot-com, và một công ty Nhật Bản mất ba trăm tỷ vì đầu tư sai vào thị trường Mỹ. Giọng Hải hôm nay khác thường — không phải giọng của một người luôn có bảng tính trong đầu, mà là giọng của một người vừa thấy thứ mình chưa từng thấy.
 
 "Anh Hùng, Lehman Brothers vừa nộp đơn phá sản."
 
-Hùng đặt bút xuống. Cây bút máy màu đen — quà của một đối tác Nhật — lăn nhẹ trên mặt bàn rồi dừng lại, mùi đất ẩm, cúi mặt. "Sao cơ?"
+Hùng đặt bút xuống. Cây bút máy màu đen — quà của một đối tác Nhật — lăn nhẹ trên mặt bàn rồi dừng lại, , cúi mặt. "Sao cơ?"
 
 "Lehman. Ngân hàng đầu tư lớn thứ tư nước Mỹ. Được thành lập năm 1850, tồn tại 158 năm, vượt qua Nội chiến Mỹ, Đại suy thoái, hai cuộc Thế chiến. Và bây giờ — sụp đổ trong một cuối tuần. Tôi vừa xem trên Bloomberg. Dow Jones mất hơn bốn trăm điểm. Các ngân hàng châu Âu đóng băng tín dụng liên ngân hàng. Tôi chưa bao giờ thấy thị trường sợ như thế này."
 
@@ -30,7 +30,7 @@ Hùng nhìn đồ thị, không nói gì.
 
 "Nợ của mình?" Hùng hỏi.
 
-Hải mở bảng tính. Những con số hiện ra nhanh gọn. "Nợ ngắn hạn: 87 tỷ, không khí mát lành, thở dài, chủ yếu là vay lưu động phục vụ sản xuất. Nợ dài hạn: 193 tỷ, phần lớn là vay xây dựng Thương Gia Tower và mua thiết bị cho nhà máy Hải Phòng. Lãi suất thả nổi, hiện đang ở mức 17%/năm — nhưng tôi dự đoán sẽ lên 20% trong quý tới."
+Hải mở bảng tính. Những con số hiện ra nhanh gọn. "Nợ ngắn hạn: 87 tỷ, , thở dài, chủ yếu là vay lưu động phục vụ sản xuất. Nợ dài hạn: 193 tỷ, phần lớn là vay xây dựng Thương Gia Tower và mua thiết bị cho nhà máy Hải Phòng. Lãi suất thả nổi, hiện đang ở mức 17%/năm — nhưng tôi dự đoán sẽ lên 20% trong quý tới."
 
 "Tiền mặt?"
 
@@ -38,7 +38,7 @@ Hải mở bảng tính. Những con số hiện ra nhanh gọn. "Nợ ngắn h�
 
 Hùng cầm bút, gõ nhẹ lên bàn. Một nhịp. Hai nhịp. "Nếu khủng hoảng kéo dài hai năm, mình trụ được không?"
 
-Hải mở một bảng tính khác — các con số hiện ra trong vài giây, tiếng gió thổi nhẹ, mắt hơi hướng về phía trước, được tính toán sẵn từ nhiều tuần trước. Hùng biết Hải là người làm việc cẩn thận: anh ta đã chuẩn bị sẵn các kịch bản từ trước, không đợi đến khi khủng hoảng xảy ra mới bắt đầu tính.
+Hải mở một bảng tính khác — các con số hiện ra trong vài giây, , mắt , được tính toán sẵn từ nhiều tuần trước. Hùng biết Hải là người làm việc cẩn thận: anh ta đã chuẩn bị sẵn các kịch bản từ trước, không đợi đến khi khủng hoảng xảy ra mới bắt đầu tính.
 
 "Kịch bản tệ nhất," Hải , nói, giọng đều. "Mất toàn bộ khoản phải thu — khách hàng phá sản hàng loạt, không trả được nợ. Hàng tồn kho mất giá ba mươi phần trăm. Xuất khẩu giảm năm mươi phần trăm. Trong kịch bản đó, tiền mặt của chúng ta còn khoảng 260 tỷ. Đủ trả lương hai mươi hai tháng mà không cần vay thêm một đồng."
 
@@ -50,7 +50,7 @@ Hải mở một bảng tính khác — các con số hiện ra trong vài giây
 
 "Ba mươi lăm. Chủ yếu qua Mỹ và EU."
 
-Hùng gật. "Gọi Lan về. Kêu cô ấy bay từ Sài Gòn ra Hà Nội tối nay, ánh nắng xuyên qua, buông thả vai."
+Hùng gật. "Gọi Lan về. Kêu cô ấy bay từ Sài Gòn ra Hà Nội tối nay, ánh , buông thả vai."
 
 Lan đến Thương Gia Tower lúc mười giờ đêm. Cô vừa hạ cánh từ Sài Gòn, mặt tái nhợt dù đã trang điểm lại ở sân bay. Cô mặc comple xám, tay xách vali chưa kịp về nhà, mái tóc vẫn còn hơi rối sau chuyến bay. Nhìn thấy Hùng và Hải ngồi trước ba màn hình máy tính với đầy biểu đồ đỏ, cô biết đêm nay sẽ dài.
 
@@ -62,7 +62,7 @@ Lan đến Thương Gia Tower lúc mười giờ đêm. Cô vừa hạ cánh t�
 
 "Chính xác," Hải , nói. "Tôi dự đoán VN-Index mất thêm 15-20% trong tuần này. Nhiều cổ phiếu tốt sẽ xuống giá bằng một nửa so với đỉnh. Đây vừa là thảm họa, vừa là cơ hội."
 
-Ba người im lặng. Tiếng máy lạnh ù đều trong phòng họp. Bên ngoài, tay hơi hướng về phía trước, ngảng đầu, Hà Nội đã vào đêm, đèn đường vàng vọt, phố vắng tanh. Một chiếc xe máy lẻ loi chạy qua, tiếng động cơ xa dần.
+Ba người im lặng. Tiếng máy lạnh ù đều trong phòng họp. Bên ngoài, tay , ngảng đầu, Hà Nội đã vào đêm, đèn đường vàng vọt, phố vắng tanh. Một chiếc xe máy lẻ loi chạy qua, tiếng động cơ xa dần.
 
 "Vậy mình làm gì?" Lan hỏi.
 
@@ -70,11 +70,11 @@ Hùng đứng dậy, đi đến bảng trắng. Ông vẽ một đường thẳn
 
 "Ba giai đoạn. Giai đoạn một — bảo vệ. Tuần này. Cắt mọi chi phí không cần thiết. Đóng băng tuyển dụng. Thu hồi công nợ bằng mọi cách. Không ký hợp đồng mua nguyên liệu mới nếu không có cam kết đầu ra từ khách hàng."
 
-Hùng vẽ thêm một dấu chấm ở đáy đường cong. "Giai đoạn hai — chờ. Khi thị trường chạm đáy, cười hơi hướng về phía trước, ai cũng sợ, ai cũng bán. Đó là lúc mình mua. Mua nhà máy, mua cổ phần, mua nợ của các công ty tốt đang gặp khó khăn thanh khoản. Mua tài sản từ người sợ hãi."
+Hùng vẽ thêm một dấu chấm ở đáy đường cong. "Giai đoạn hai — chờ. Khi thị trường chạm đáy, cười , ai cũng sợ, ai cũng bán. Đó là lúc mình mua. Mua nhà máy, mua cổ phần, mua nợ của các công ty tốt đang gặp khó khăn thanh khoản. Mua tài sản từ người sợ hãi."
 
 "Và giai đoạn ba?"
 
-Hùng vẽ đường cong lên trên. "Phục hồi. Thị trường sẽ hồi phục. Không ai biết chính xác khi nào — có thể sáu tháng, mùi đất ẩm, gật hơi hướng về phía trước, có thể hai năm, có thể lâu hơn. Nhưng nó sẽ hồi phục. Và khi nó hồi phục, ai còn tiền sẽ mua được nhiều thứ."
+Hùng vẽ đường cong lên trên. "Phục hồi. Thị trường sẽ hồi phục. Không ai biết chính xác khi nào — có thể sáu tháng, , gật , có thể hai năm, có thể lâu hơn. Nhưng nó sẽ hồi phục. Và khi nó hồi phục, ai còn tiền sẽ mua được nhiều thứ."
 
 Hải nhìn đồ thị, gật gù. "Giai đoạn một và hai nghe có vẻ mâu thuẫn. Vừa bảo vệ tiền mặt, vừa mua? Làm sao vừa tiết kiệm vừa chi tiêu?"
 
@@ -96,11 +96,11 @@ Sáng hôm sau, Hùng họp toàn bộ ban lãnh đạo mở rộng. Mười hai
 
 Ông giơ ba ngón tay. "Một — rà soát toàn bộ chi phí. Cắt những khoản không cần thiết: tiệc tùng, quảng cáo không hiệu quả, hợp đồng tư vấn, chi phí văn phòng phẩm. Hai — liên hệ tất cả khách hàng đang nợ, yêu cầu thanh toán trong vòng bảy ngày. Ba — không ký hợp đồng mua nguyên liệu mới nếu không có cam kết đầu ra."
 
-Một trưởng phòng giơ tay — Nguyễn Văn Thành, không khí mát lành, trưởng phòng sản xuất, đã làm cho Thương Gia mười năm. "Nhưng nếu mình cắt chi phí, nhà máy có thể phải giảm công suất. Công nhân sẽ lo mất việc. Em đã nhận được vài câu , hỏi từ tổ trưởng sản xuất."
+Một trưởng phòng giơ tay — Nguyễn Văn Thành, , trưởng phòng sản xuất, đã làm cho Thương Gia mười năm. "Nhưng nếu mình cắt chi phí, nhà máy có thể phải giảm công suất. Công nhân sẽ lo mất việc. Em đã nhận được vài câu , hỏi từ tổ trưởng sản xuất."
 
 "Tôi không sa thải ai trong năm nay," Hùng , nói, giọng chắc nịch. "Cắt chi phí không có nghĩa là cắt người. Cắt chi phí là cắt những thứ không nuôi sống ai cả. Lương và bảo hiểm giữ nguyên. Các anh chị hãy nói với công nhân điều đó."
 
-Căn phòng bớt căng thẳng. Hùng biết rằng trong khủng hoảng, tiếng gió thổi nhẹ, nhíu mày, nỗi sợ lớn nhất của người lao động là mất việc. Nếu ông trấn an được nỗi sợ đó, họ sẽ làm việc với hai trăm phần trăm sức lực. Còn nếu ông không trấn an, họ sẽ bỏ đi — và ông mất những người thợ đã mất nhiều năm để đào tạo.
+Căn phòng bớt căng thẳng. Hùng biết rằng trong khủng hoảng, , nhíu mày, nỗi sợ lớn nhất của người lao động là mất việc. Nếu ông trấn an được nỗi sợ đó, họ sẽ làm việc với hai trăm phần trăm sức lực. Còn nếu ông không trấn an, họ sẽ bỏ đi — và ông mất những người thợ đã mất nhiều năm để đào tạo.
 
 Cuộc họp kéo dài hai tiếng. Kết thúc, thở dài, mỗi người ra về với một danh sách việc cụ thể. Hùng ngồi lại một mình, nhìn tờ giấy trước mặt — bốn dòng ngắn ngủi: bảo vệ dòng tiền, thu hồi công nợ, giữ người, chuẩn bị mua.
 
@@ -126,9 +126,9 @@ Buổi tối, Hùng về nhà muộn. Bà Hà vẫn thức, ngồi ở bàn uố
 
 "Có sợ, mẹ ạ. Nhưng sợ khác. Năm 1997 mình sợ vì không biết có qua được không. Giờ mình sợ vì biết mình qua được, nhưng không biết bao nhiêu người đi cùng mình sẽ ngã."
 
-Bà Hà gật — cái gật của một người đã sống qua ba thời chiến tranh, ánh nắng xuyên qua, hai thời bao cấp, vô số lần thiếu gạo. "Ngã thì đỡ dậy. Miễn là đừng ngã vào người khác."
+Bà Hà gật — cái gật của một người đã sống qua ba thời chiến tranh, ánh , hai thời bao cấp, vô số lần thiếu gạo. "Ngã thì đỡ dậy. Miễn là đừng ngã vào người khác."
 
-Hùng ngồi xuống cạnh mẹ, mùi đất ẩm, im lặng. Điện thoại reo — Hải. "Anh Hùng, tôi vừa kiểm tra lại. Số liệu của Thiên Nam không đẹp như tôi nghĩ ban đầu. Có một khoản đầu tư tài chính 30 tỷ vào chứng khoán — họ không ghi rõ trong báo cáo. Có thể họ đang dùng tiền kinh doanh chính để đầu cơ. Tôi nghĩ mình nên đợi thêm thông tin."
+Hùng ngồi xuống cạnh mẹ, , im lặng. Điện thoại reo — Hải. "Anh Hùng, tôi vừa kiểm tra lại. Số liệu của Thiên Nam không đẹp như tôi nghĩ ban đầu. Có một khoản đầu tư tài chính 30 tỷ vào chứng khoán — họ không ghi rõ trong báo cáo. Có thể họ đang dùng tiền kinh doanh chính để đầu cơ. Tôi nghĩ mình nên đợi thêm thông tin."
 
 "Vậy gác lại. Đợi báo cáo kiểm toán quý III."
 
@@ -138,11 +138,11 @@ Hùng tắt máy, nhìn mẹ. "Mẹ thấy không? Có người giữ mình lạ
 
 "Tốt. Người biết giữ mình mới giữ được người khác."
 
-Đêm đó, khi cả nhà đã ngủ, Hùng ra ngoài ban công. Hà Nội tháng Chín, gió heo may  thổi nhẹ qua tóc ông. Ông nhìn về phía những tòa nhà cao tầng đang mọc lên giữa thành phố — những cần cẩu sáng đèn trong đêm, những công trường xây dựng không ngừng nghỉ. Đất nước vẫn đang phát triển, bất chấp khủng hoảng. Những người có niềm tin sẽ ở lại. Những người sợ hãi sẽ bỏ đi.
+Đêm đó, khi cả nhà đã ngủ, Hùng ra ngoài ban công. Hà Nội tháng Chín, gió heo may thổi nhẹ qua tóc ông. Ông nhìn về phía những tòa nhà cao tầng đang mọc lên giữa thành phố — những cần cẩu sáng đèn trong đêm, những công trường xây dựng không ngừng nghỉ. Đất nước vẫn đang phát triển, bất chấp khủng hoảng. Những người có niềm tin sẽ ở lại. Những người sợ hãi sẽ bỏ đi.
 
-Hùng sẽ không bỏ đi. Ông đã từng không có gì ngoài đôi tay và một sợi dây thừng. Ông đã xây dựng Thương Gia từ con số không — từ ba trăm đồng tiền vốn, không khí mát lành, từ một căn nhà dột nát ở Quốc Oai, từ những ngày ăn cơm độn sắn, từ những đêm thức trắng lo tiền trả lương cho mười công nhân đầu tiên. Nếu mất tất cả, ông vẫn còn đôi tay và khối óc. Nhưng ông sẽ không để mất tất cả.
+Hùng sẽ không bỏ đi. Ông đã từng không có gì ngoài đôi tay và một sợi dây thừng. Ông đã xây dựng Thương Gia từ con số không — từ ba trăm đồng tiền vốn, , từ một căn nhà dột nát ở Quốc Oai, từ những ngày ăn cơm độn sắn, từ những đêm thức trắng lo tiền trả lương cho mười công nhân đầu tiên. Nếu mất tất cả, ông vẫn còn đôi tay và khối óc. Nhưng ông sẽ không để mất tất cả.
 
-Loay hoay mở cửa vào nhà, tiếng gió thổi nhẹ, Hùng thấy Lan ngồi trong phòng khách, tay cầm tách trà đã nguội từ lâu. Cô vẫn chưa ngủ — vẫn còn nguyên comple xám, chỉ bỏ giày ra.
+Loay hoay mở cửa vào nhà, , Hùng thấy Lan ngồi trong phòng khách, tay cầm tách trà đã nguội từ lâu. Cô vẫn chưa ngủ — vẫn còn nguyên comple xám, chỉ bỏ giày ra.
 
 "Sao em chưa ngủ?"
 
@@ -150,13 +150,13 @@ Loay hoay mở cửa vào nhà, tiếng gió thổi nhẹ, Hùng thấy Lan ng�
 
 "Anh biết. Em đã tính trước — đúng không?"
 
-Lan gật. "Em sẽ ở lại ba tuần, ánh nắng xuyên qua, gặp tất cả khách hàng lớn, trấn an họ. Nếu em không có mặt, đối thủ cạnh tranh Trung Quốc sẽ cướp khách. Họ đang chào giá thấp hơn mình hai mươi phần trăm."
+Lan gật. "Em sẽ ở lại ba tuần, ánh , gặp tất cả khách hàng lớn, trấn an họ. Nếu em không có mặt, đối thủ cạnh tranh Trung Quốc sẽ cướp khách. Họ đang chào giá thấp hơn mình hai mươi phần trăm."
 
 "Làm tốt nhé."
 
 "Anh ở đây cũng vậy. Em biết anh sắp làm gì — mua khi người ta sợ."
 
-Hùng không trả lời. Nhưng Lan biết ông đang nghĩ gì. Cô đã đi cùng ông mười năm, mùi đất ẩm, thở hơi hướng về phía trước, đủ lâu để đọc được những gì ông không , nói.
+Hùng không trả lời. Nhưng Lan biết ông đang nghĩ gì. Cô đã đi cùng ông mười năm, , thở , đủ lâu để đọc được những gì ông không , nói.
 
 Đêm đó, Hùng nằm, nhìn trần nhà mờ mờ trong bóng tối. Lehman Brothers vừa sụp. Khủng hoảng tài chính toàn cầu vừa bắt đầu. Và Trần Văn Hùng, người đàn ông từng xỏ dép đứt quai bằng dây thép đi bán hàng rong ở chợ Đồng Xuân, đang chuẩn bị cho cuộc chơi lớn nhất đời mình.
 
@@ -164,13 +164,13 @@ Bên ngoài, mưa bắt đầu rơi. Những giọt mưa đầu mùa gõ lên m�
 
 Thứ Hai, ngày 15 tháng 9 năm 2008. Tuần đầu của cơn bão. Nhưng cơn bão nào rồi cũng qua — và sau cơn bão, những cây có gốc sâu nhất sẽ vẫn đứng vững.
 
-Hùng cầm cốc cà phê đã nguội, liếc hơi hướng về phía trước, gất đầu, uống một ngụm. Vị đắng tan trên đầu lưỡi. Trong đầu ông, một danh sách đang dài ra: những việc cần làm, những người cần gọi, những quyết định cần đưa ra. Ông lấy bút, viết nguệch ngoạc trên tờ giấy nháp: "Ngân sách M&A — 250 tỷ. Không vượt. Giữ 170 tỷ thanh khoản." Rồi gạch dưới ba lần.
+Hùng cầm cốc cà phê đã nguội, liếc , gất đầu, uống một ngụm. Vị đắng tan trên đầu lưỡi. Trong đầu ông, một danh sách đang dài ra: những việc cần làm, những người cần gọi, những quyết định cần đưa ra. Ông lấy bút, viết nguệch ngoạc trên tờ giấy nháp: "Ngân sách M&A — 250 tỷ. Không vượt. Giữ 170 tỷ thanh khoản." Rồi gạch dưới ba lần.
 
 Hải nhìn tờ giấy, gật đầu. "Em sẽ mở một tài khoản riêng cho khoản này. Kiểm soát chặt."
 
 "Cảm ơn em."
 
-Hải ra về. Hùng ngồi lại một mình trong phòng, không khí mát lành, nhíu mày, nhìn những con số trên màn hình. 420 tỷ. 250 tỷ. 170 tỷ. Những con số vô tri, nhưng nó quyết định số phận của hàng nghìn con người.
+Hải ra về. Hùng ngồi lại một mình trong phòng, , nhíu mày, nhìn những con số trên màn hình. 420 tỷ. 250 tỷ. 170 tỷ. Những con số vô tri, nhưng nó quyết định số phận của hàng nghìn con người.
 
 Lehman đã sụp. Thị trường chưa chạm đáy. Đêm nay ông không , thở dài, trả lời báo chí — chỉ giữ cửa xưởng mở sáng mai.
 
@@ -180,4 +180,5 @@ Tổng EXP: 50,061 (+163 nhịp này)
 Không gian kho: 18,152m² (+136m²)
 Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
 Ghi chú: Lehman sụp — đóng vị thế ngoại tệ; họp 3h sáng.
+
 ============================================================

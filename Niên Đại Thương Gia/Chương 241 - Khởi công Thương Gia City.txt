@@ -72,7 +72,7 @@ Lan không cãi. Cô lấy điện thoại Nokia vỏ xanh trong túi quần, m�
 
 "Được."
 
-Buổi gặp diễn ra ở nhà văn hóa thôn — một nhà xây cấp bốn, tường xi măng loang lổ vết ẩm mốc xanh, mái tôn đã thủng nhiều chỗ, ánh sáng lọt qua những lỗ thủng như những tia laser mờ. Bên trong, mười bảy hộ dân — toàn bộ số hộ chưa nhận tiền — ngồi lẫn đứng. Không có hàng ghế, không có bàn họp. Họ đứng cả, hoặc ngồi xổm bệt xuống nền gạch, người già dựa vào tường, tay chống gậy. Người nào cũng dính bùn đất, quần áo lấm lem vì mưa. Mùi thuốc lào, mùi mồ hôi, mùi đất ẩm và mùi nước mưa hòa lẫn.
+Buổi gặp diễn ra ở nhà văn hóa thôn — một nhà xây cấp bốn, tường xi măng loang lổ vết ẩm mốc xanh, mái tôn đã thủng nhiều chỗ, ánh sáng lọt qua những lỗ thủng như những tia laser mờ. Bên trong, mười bảy hộ dân — toàn bộ số hộ chưa nhận tiền — ngồi lẫn đứng. Không có hàng ghế, không có bàn họp. Họ đứng cả, hoặc ngồi xổm bệt xuống nền gạch, người già dựa vào tường, tay chống gậy. Người nào cũng dính bùn đất, quần áo lấm lem vì mưa. Mùi thuốc lào, mùi mồ hôi, và mùi nước mưa hòa lẫn.
 
 Hùng bước vào, cởi áo khoác ướt, vắt lên lưng ghế nhựa duy nhất. Ông ngồi xuống cái ghế nhựa đầu bàn — cái bàn gỗ dài, mặt bàn lõm chỗ này, trầy chỗ kia, vết mực bút bi lem nhem. Ông không mở cặp, không lấy giấy tờ. Chỉ ngồi, nhìn quanh một lượt — từng khuôn mặt, từng đôi mắt.
 
@@ -186,4 +186,5 @@ Tổng EXP: 52,333 (+333 nhịp này)
 Không gian kho: 20,167m² (+167m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
 Ghi chú: khởi công Thương Gia City — đổ móng lô A1
+
 ============================================================

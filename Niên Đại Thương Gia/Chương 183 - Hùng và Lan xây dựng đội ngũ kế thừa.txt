@@ -2,7 +2,7 @@
 Chương 183: Hùng và Lan xây dựng đội ngũ kế thừa
 ============================================================
 
-Năm 1993. Hà Đông. Trời âm u, mưa phùn dính vào mặt người trước khi kịp áo.
+Năm 1994. Hà Đông. Trời âm u, mưa phùn dính vào mặt người trước khi kịp áo.
 
 Hùng đứng trước một dãy nhà xưởng cũ bên bờ sông Nhuệ. Tường vôi loang lổ, mái tôn mục. Cả khu đất rộng gần nửa ha, nằm giữa làng nghề dệt lụa và những con đường đất lầy lội mùa này. Trong làng, tiếng thoi đưa từ các khung cửi vọng ra từ sáng sớm. Phụ nữ ngồi bệt trước hiên, se tơ, cuộn chỉ. Trẻ con chạy dọc bờ đê, cắp sách đi học. Mùi lụa ướt, mùi bùn, mùi khói rơm — tất cả trộn vào một thứ không khí mà Hùng nhận ra ngay: không khí của một vùng ngoại thành đang đứng giữa làng và phố, chưa biết mình sẽ thành cái gì.
 
@@ -246,9 +246,10 @@ Trăng non, mờ sau mây. Hùng uống trà, nhìn ra phố vắng. 1993. Hà �
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.183」
-Năm: 1993
+Năm: 1994
 Tổng EXP: 32,560 (+320)
 Không gian kho: 10,640m² (+80m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: khởi động đội ngũ kế thừa tại Hà Đông — bảy người, một xưởng cũ, không có sách hướng dẫn.
+
 ============================================================

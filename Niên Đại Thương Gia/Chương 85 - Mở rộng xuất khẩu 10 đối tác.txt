@@ -4,7 +4,7 @@ Chương 85: Mở rộng xuất khẩu 10 đối tác
 
 Mờ sáng, trời cuối thu 1986. Hùng mở tờ A4 gấp tư: mười cái tên, mười dòng số, mười cách thanh toán khác nhau. Ông vẽ mũi tên từ mỗi tên đến một cảng hay cửa khẩu, viết chữ "L/C", "barter", "T/T", "swap" bên cạnh.
 
-Ngoài hiên, sương muối đầu mùa làm ướt mặt bàn gỗ. Hơi lạnh thấm qua kẽ cửa, mang theo mùi đất ẩm và lá khô mục từ vườn sau. Ông ngồi một mình trong căn phòng tối, ngọn đèn dầu hắt ánh vàng lên những tờ giấy, làm nổi bật từng nét chữ và mũi tên. Tiếng gà gáy từ xa vọng lại, nhưng Hùng không còn nghe thấy nữa — tai ông chỉ lắng vào tiếng tàu rời cảng mà ông đang hình dung trong đầu. Ông xếp mười mảnh giấy thành hàng dài trên mặt bàn, mỗi mảnh là một cái tên, một đất nước, một cách sống khác nhau. Đầu ngón tay ông lướt trên từng tờ, như người mù đọc chữ nổi, cố nhớ từng điều khoản, từng mức độ rủi ro. Hơi thở ông phả ra thành một làn khói mỏng trong không khí lạnh. Ở tuổi này, ông đã thấy nhiều người làm ăn thất bại vì một tờ giấy ký vội. Năm 1986, "Mở rộng xuất khẩu 10 đối tác" không phải khẩu hiệu — là lịch tàu, là mẫu hàng, là mười cách xử lý đối tác hoàn toàn khác biệt.
+Ngoài hiên, sương muối đầu mùa làm ướt mặt bàn gỗ. Hơi lạnh thấm qua kẽ cửa, mang theo và lá khô mục từ vườn sau. Ông ngồi một mình trong căn phòng tối, ngọn đèn dầu hắt ánh vàng lên những tờ giấy, làm nổi bật từng nét chữ và mũi tên. Tiếng gà gáy từ xa vọng lại, nhưng Hùng không còn nghe thấy nữa — tai ông chỉ lắng vào tiếng tàu rời cảng mà ông đang hình dung trong đầu. Ông xếp mười mảnh giấy thành hàng dài trên mặt bàn, mỗi mảnh là một cái tên, một đất nước, một cách sống khác nhau. Đầu ngón tay ông lướt trên từng tờ, như người mù đọc chữ nổi, cố nhớ từng điều khoản, từng mức độ rủi ro. Hơi thở ông phả ra thành một làn khói mỏng trong không khí lạnh. Ở tuổi này, ông đã thấy nhiều người làm ăn thất bại vì một tờ giấy ký vội. Năm 1986, "Mở rộng xuất khẩu 10 đối tác" không phải khẩu hiệu — là lịch tàu, là mẫu hàng, là mười cách xử lý đối tác hoàn toàn khác biệt.
 
 Chính sách Đổi Mới bắt đầu có hiệu lực rõ rệt từ cuối năm. Giấy phép xuất khẩu không còn là giấy phép con mà là thực quyền — nếu biết đường. Hùng gom hồ sơ hàng hóa, chứng nhận kiểm dịch, nhãn mác song ngữ, mẫu thử đóng hộp gỗ. Không thảm đỏ, không khai trương. Chỉ có hàng phải tới cảng đúng hạn.
 
@@ -129,4 +129,5 @@ Tổng EXP: 13,500 (+250 nhịp này)
 Không gian kho: 4,771m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
 Ghi chú: 10+2 đối tác XK (L/C–barter–clearing–T/T–D/P–D/A); 340k USD tháng 1; sửa điều khoản HK; Bằng dò lịch container qua Tuấn — Hùng dặn Lan để ý, không nói hết.
+
 ============================================================

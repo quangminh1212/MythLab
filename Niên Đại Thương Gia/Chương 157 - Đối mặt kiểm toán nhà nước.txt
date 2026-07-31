@@ -48,9 +48,9 @@ Hùng lấy từ tủ một tập hồ sơ riêng. Từng tờ giấy được �
 
 — Nguyễn Thị Hà này là ai?
 
-— Bà nội tôi.
+— Mế tôi.
 
-— Bà nội đồng chí có đủ khả năng cho vay năm mươi triệu không?
+— Mế đồng chí có đủ khả năng cho vay năm mươi triệu không?
 
 — Bà tôi không có năm mươi triệu. Tờ giấy đó là giấy vay ngân hàng — bà tôi đứng tên vay dùm, vì lúc đó tôi chưa có quan hệ tín dụng. Bà tôi vay, giao lại tiền cho tôi, tôi trả hàng tháng cho ngân hàng qua tài khoản của bà.
 
@@ -94,7 +94,7 @@ Hùng uống một ngụm nước từ ca để trên bệ cửa. Nước nguộ
 
 Trong phòng, ông Sơn nói nhỏ với Hải:
 
-— Sổ của ông này sạch. Không một khoản nào mờ ám. Hàng tồn ghi đúng thực tế — tôi vừa ra xem kho, khớp. Khoản vay dùm của bà nội tuy lạ nhưng có hợp đồng, có sao kê trả nợ, có biên lai tất toán. Cứng lắm.
+— Sổ của ông này sạch. Không một khoản nào mờ ám. Hàng tồn ghi đúng thực tế — tôi vừa ra xem kho, khớp. Khoản vay dùm của bà Hà tuy lạ nhưng có hợp đồng, có sao kê trả nợ, có biên lai tất toán. Cứng lắm.
 
 — Vậy chúng ta kết luận? — Hải hỏi.
 
@@ -194,7 +194,6 @@ Cuốn sổ đó sau này trở thành giáo trình đào tạo nhân viên ki�
 
 ============================================================
 
-
 Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ thể đã thuộc từng động tác đến mức không cần mắt.
 
 Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn với mùi than tổ ong từ bếp nhà ai đã nhóm từ bao giờ. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô dần khi nắng lên.
@@ -227,11 +226,11 @@ Buổi tối hôm ấy, Hùng không về nhà ăn cơm ngay. Ông ngồi ở qu
 
 Về đến nhà, Lan đã ăn cơm xong, ngồi học bài. Bà Hà ngồi may ở hiên. Hùng lấy bát cơm nguội, chan nước rau luộc, ăn ngon lành. Không ai hỏi ông đi đâu về. Họ thấy ông còn ăn được, là biết ông ổn.
 
-
 「Hệ thống — GHI NHẬN ch.157」
 Năm: 1991
 Tổng EXP: 24,600 (+300)
 Không gian kho: 8,200m² (+100m²)
 Kỹ năng: Kiểm toán nội bộ lv1, Tài chính lv3
 Ghi chú: Đoàn kiểm toán Sở Tài chính kết luận không sai phạm. Bổ sung hợp đồng song phương theo kiến nghị.
+
 ============================================================

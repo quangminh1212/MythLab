@@ -16,7 +16,7 @@ Một kẻ đã bỏ lại mọi thứ và biến mất — nhưng những gì h
 
 "Huy là chân rết. Đầu tiên chúng dùng hắn để mở công ty, đứng tên, tạo lớp vỏ bọc. Khi chân rết đã lộ, chúng cắt, để hắn biến mất. Bây giờ, những giao dịch do hắn khởi xướng vẫn tự động chạy vì đã được cài đặt trước."
 
-Lan im lặng. Tay chị đặt trên đầu gối, nắm chặt đến nỗi các khớp ngón tay trắng bệt — thói quen của một người kiềm chế lo âu bằng cách  bàn tay. Hùng biết cái nắm tay ấy, nó giống hệt như những ngày xưởng may suýt phá sản năm 1986. "Vậy mình truy theo cái gì?" — chị hỏi, giọng cố giữ bình tĩnh.
+Lan im lặng. Tay chị đặt trên đầu gối, nắm chặt đến nỗi các khớp ngón tay trắng bệt — thói quen của một người kiềm chế lo âu bằng cách bàn tay. Hùng biết cái nắm tay ấy, nó giống hệt như những ngày xưởng may suýt phá sản năm 1986. "Vậy mình truy theo cái gì?" — chị hỏi, giọng cố giữ bình tĩnh.
 
 "Truy theo tiền. Không thể truy người nữa. Người có thể biến mất. Tiền không thể. Tiền luôn để lại dấu vết."
 
@@ -57,7 +57,7 @@ Sơn mở một tập tài liệu riêng — bản dịch tiếng Việt của m
 "Gấp đôi giá thị trường. Họ kiếm được khoảng 40% lợi nhuận trên vốn đầu tư trong mười tám tháng — tương đương 26% mỗi năm, gấp ba lần lãi suất ngân hàng."
 
 Hùng gật đầu. Khuôn mẫu rõ ràng như một cuốn sách giáo khoa. Quỹ đầu tư săn mồi. Mua vào doanh nghiệp gia đình, tạo áp lực, thay đổi quản trị, bán lại cho đối thủ với giá cao. Ở Indonesia, nó hoạt động. Ở Philippines, nó hoạt động. Ở Malaysia, nó hoạt động.
-Hăng hắc khói than làm cay mè mắt.
+ làm cay mè mắt.
 
 Và bây giờ, nó đang cố gắng hoạt động ở Việt Nam, với mục tiêu là Thương Gia.
 
@@ -220,4 +220,5 @@ Tổng EXP: 83,400 (+600 nhịp này)
 Không gian kho: 47,080m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
 Ghi chú: pha loãng + phòng thủ; đối phương 17,3%; Swiss dead-end
+
 ============================================================

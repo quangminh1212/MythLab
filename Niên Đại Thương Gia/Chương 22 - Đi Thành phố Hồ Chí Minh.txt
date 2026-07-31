@@ -78,7 +78,7 @@ Cửa hàng da nằm trong một căn nhà hẹp, phía trước treo dây nịt
 
 “Phải biết da của chú có gì, mỗi tháng giữ được bao nhiêu, sai phẩm cấp ai chịu, rồi cháu mới biết mua bao nhiêu.”
 
-Bảy Nghiêm dựa lưng vào ghế. Câu trả lời không làm ông vui, nhưng khiến ông thôi coi Hùng là khách vãng lai. Ngoài hiên, tiếng mưa rơi lẫn mùi khói cay và luồng gió lạnh; Cu  hai tay xoa vào nhau, đôi chân dịch nửa bước trong khi mắt không rời công việc.
+Bảy Nghiêm dựa lưng vào ghế. Câu trả lời không làm ông vui, nhưng khiến ông thôi coi Hùng là khách vãng lai. Ngoài hiên, tiếng mưa rơi lẫn mùi khói cay và luồng gió lạnh; Cu hai tay xoa vào nhau, đôi chân dịch nửa bước trong khi mắt không rời công việc.
 
 Ông đưa ra ba xấp da. Xấp đầu mặt đều, màu nâu sáng, ít sẹo. Xấp thứ hai dày hơn nhưng loang màu. Xấp cuối được cuộn rất đẹp, mở ra lại có mùi hóa chất gắt. Hùng không chỉ sờ mặt. Anh xem mặt trái, đo độ dày ở bốn góc, gấp cùng một vị trí nhiều lần, lấy khăn ẩm chà thử màu. Hai miếng đầu giữ màu; miếng thứ ba để lại vệt nâu trên khăn.
 
@@ -160,7 +160,7 @@ Hùng ghi tiếp.
 
 Bà cười, bảo câu ấy nghe giống người già hơn tuổi. Hùng nhìn bóng mình trên cửa kính tối. Lý Minh từng biết những bảng tính lớn, những dây chuyền lớn, những hợp đồng có cả phòng pháp chế. Trần Văn Hùng năm 1984 lại phải học từ một quai túi giãn và một mép giày cấn chân. Kiến thức đời trước giúp anh biết nên hỏi gì; nó không thay anh kiểm một tấm da, trả một khoản cước hay giữ lời với một người thợ.
 
-Về tới Hà Đông, Lan chờ ở ga cùng anh Khanh và chiếc xe kéo thuê. Cô không hỏi quà. Câu đầu tiên là: Trong ánh nắng nhạt, tiếng gió lùa mang theo mùi đất ẩm; Hùng , bàn tay khẽ siết lại, đôi mắt vẫn bám sát từng chi tiết trước khi ông thở chậm.
+Về tới Hà Đông, Lan chờ ở ga cùng anh Khanh và chiếc xe kéo thuê. Cô không hỏi quà. Câu đầu tiên là: Trong ánh nắng nhạt, tiếng gió lùa mang theo ; Hùng , bàn tay khẽ siết lại, đôi mắt vẫn bám sát từng chi tiết trước khi ông thở chậm.
 
 “Ba dây niêm còn đủ. Kiện xanh cân hụt gần một cân so với điện anh gửi.”
 
@@ -208,4 +208,5 @@ Tổng EXP: 1,080 (+90 nhịp này)
 Không gian kho: 1,680m² (+40m²)
 Kỹ năng trọng yếu: Thương mại lv2, Y tế lv1, Sản xuất lv1
 Ghi chú: thu mua sâu SG — Bảy Nghiêm da loại 2, buông thả vai, Sáu Lành rập túi; G-3 nghiệm thu 66/4; chốt 1 kiểu túi thử, không 3.
+
 ============================================================

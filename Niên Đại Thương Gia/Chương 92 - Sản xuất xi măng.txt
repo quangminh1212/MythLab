@@ -470,7 +470,8 @@ Phần thưởng không phải khi lò chạy.
 
 Phần thưởng là khi người ta vẫn còn muốn vào xưởng sáng hôm sau.
 
-============================================================ Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà.
+============================================================
+Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà.
 
 Tanaka đứng cạnh lò, mắt dõi nhiệt. "Xi măng là thời gian," ông nói chậm. Hải thợ nghiền nghiêng đầu nghe bi thép.
 
@@ -487,4 +488,5 @@ Tổng EXP: 15,045 (+181 nhịp này)
 Không gian kho: 5,136m² (+45m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1, Sản xuất lv1
 Ghi chú: Lò quay xi măng; cúp điện→máy phát 150kVA; QC clinker; lọc bụi kế hoạch 6 tháng; công suất 78%.
+
 ============================================================

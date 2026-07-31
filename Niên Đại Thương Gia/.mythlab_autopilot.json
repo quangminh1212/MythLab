@@ -89,6 +89,46 @@
       "below": 63,
       "total": 360,
       "all_pass": false
+    },
+    {
+      "round": 10,
+      "ts": "2026-07-31T10:27:56",
+      "avg": 9.225,
+      "min_final": 6.0,
+      "pass": 307,
+      "below": 53,
+      "total": 360,
+      "all_pass": false
+    },
+    {
+      "round": 11,
+      "ts": "2026-07-31T10:30:57",
+      "avg": 9.718,
+      "min_final": 6.0,
+      "pass": 354,
+      "below": 6,
+      "total": 360,
+      "all_pass": false
+    },
+    {
+      "round": 12,
+      "ts": "2026-07-31T10:34:48",
+      "avg": 9.752,
+      "min_final": 7.5,
+      "pass": 358,
+      "below": 2,
+      "total": 360,
+      "all_pass": false
+    },
+    {
+      "round": 13,
+      "ts": "2026-07-31T10:35:18",
+      "avg": 9.764,
+      "min_final": 9.37,
+      "pass": 360,
+      "below": 0,
+      "total": 360,
+      "all_pass": true
     }
   ]
 }

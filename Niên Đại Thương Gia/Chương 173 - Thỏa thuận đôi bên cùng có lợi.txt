@@ -2,7 +2,7 @@
 Chương 173: Thỏa thuận đôi bên cùng có lợi
 ============================================================
 
-Singapore, tháng ba năm 1993. Tòa nhà UOB Plaza số 1 Raffles Place, tầng hai mươi mốt. Trời không mây, nắng xuyên qua kính cường lực, hắt lên mặt bàn gỗ tếch đánh bóng một dải sáng chói. Trong phòng họp, ba người ngồi ở ba phía của chiếc bàn dài — Trần Văn Hùng bên này, Trần Thị Lan bên phải Hùng, và đối diện họ là ông Chng, Lâm Chí Thành, năm mươi bảy tuổi, giám đốc Tập đoàn Hàng hải Kim Seng, một doanh nghiệp gia đình người Hoa gốc Phúc Kiến đời thứ ba.
+Singapore, tháng ba năm 1993. Tòa nhà UOB Plaza số 1 Raffles Place, tầng hai mươi mốt. Trời không mây, kính cường lực, hắt lên mặt bàn gỗ tếch đánh bóng một dải sáng chói. Trong phòng họp, ba người ngồi ở ba phía của chiếc bàn dài — Trần Văn Hùng bên này, Trần Thị Lan bên phải Hùng, và đối diện họ là ông Chng, Lâm Chí Thành, năm mươi bảy tuổi, giám đốc Tập đoàn Hàng hải Kim Seng, một doanh nghiệp gia đình người Hoa gốc Phúc Kiến đời thứ ba.
 
 Ba mươi năm trước, ông Chng bắt đầu bằng một chiếc thuyền gỗ chở hàng giữa các đảo Indonesia. Bây giờ, Kim Seng sở hữu mười hai tàu container, năm kho hàng ở ba nước Đông Nam Á, và một văn phòng ở Rotterdam cấp giấy phép kinh doanh hợp pháp tại Hà Lan. Ông Chng là một người đàn ông nhỏ con, tóc muối tiêu cắt ngắn, áo sơ-mi trắng tay ngắn, cổ áo phẳng phiu dù đã ba giờ chiều. Trên tay ông không đeo đồng hồ — ông bảo đồng hồ làm ông chạy theo giờ, ông muốn giờ chạy theo ông.
 
@@ -126,7 +126,7 @@ Nhưng thỏa thuận với Kim Seng — một việc đã tạm xong. Và nhữ
 
 Chieu hom ay, Hùng di bo doc ho. Gio tu mat, nuoc ho xanh sam. O gap mot nguoi dan ong cau ca. 'Duoc con nao khong anh?' Nguoi dan ong nhu mot nguoi ban vo hinh nhac o nho: su kien nhan cua nguoi cau ca: 'Khong, ngoi choi thoi. Ca no co chiu cau thi moi duoc.' Hùng cam on nguoi la, tieng cuoi nhe nhu lan gio chieu
 
-Buổi tối, Hùng xem tivi với bà Hà. Một chương trình thời sự chiếu về cảnh người dân vùng lũ đang chật vật dựng lại nhà cửa. Hùng im lặng nhìn màn hình. Bà Hà nói: 'Thương quá.' Hùng gật: 'Mai anh cho người chuyển mấy tấm tôn lên đó.' Bà Hà nhìn chồng: 'Anh tốt quá.' Hùng cười: 'Không tốt. Chỉ là thấy người ta khổ, mình làm được gì thì làm.' Sáng hôm sau, một xe tải chở tôn và gạo lên vùng lũ. Hùng không đi cùng, không ghi tên công ty. Chỉ có người lái xe biết - hàng do Thương Gia gửi. Làm ơn không cần kể, với Hùng, đó là cách làm ơn đúng nhất.
+Buổi tối, Hùng xem tivi với bà Hà. Một chương trình thời sự chiếu về cảnh người dân vùng lũ đang chật vật dựng lại nhà cửa. Hùng im lặng nhìn màn hình. Bà Hà nói: 'Thương quá.' Hùng gật: 'Mai con cho người chuyển mấy tấm tôn lên đó.' Bà Hà cười: 'Con tốt quá.' Hùng cười: 'Không tốt. Chỉ là thấy người ta khổ, mình làm được gì thì làm.' Sáng hôm sau, một xe tải chở tôn và gạo lên vùng lũ. Hùng không đi cùng, không ghi tên công ty. Chỉ có người lái xe biết - hàng do Thương Gia gửi. Làm ơn không cần kể, với Hùng, đó là cách làm ơn đúng nhất.
 
 'Anh nhin nay!' Chi duoc mot mot bang chung. Hung cam, tay hoi run. 'Cai nay o đau?' 'Em moi tim thay.' Hung nhin chung cu, het nhin no, lai nhin chi. 'Cam on em.' Mat anh đo. Chi cuoi nhe, tay vuot tren tay anh.
 
@@ -141,4 +141,5 @@ Tổng EXP: 29,400 (+300)
 Không gian kho: 9,800m² (+100m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: khóa nhịp ch.173
+
 ============================================================

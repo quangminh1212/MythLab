@@ -263,4 +263,5 @@ Tổng EXP: 12,500 (+250 nhịp này)
 Không gian kho: 4,543m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
 Ghi chú: Unit 1 kiểm bạc ổ đỡ 0.28mm cho chạy; PA A dây 240mm²; Mitsubishi vs LMZ hoàn vốn ~4.8 năm; unit1 hòa lưới 15:28; từ chối sứ SF6 không type-test.
+
 ============================================================

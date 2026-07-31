@@ -70,7 +70,6 @@ Trên đường về từ Bộ, Hùng và Lan ghé vào một quán phở nhỏ 
 
 Hai tháng sau, Hùng gọi điện cho văn phòng Vụ Công nghiệp nhẹ, xin hẹn gặp để cập nhật tiến độ. Vụ trưởng hẹn gặp vào tuần sau. Trong buổi gặp, Hùng mang theo bảng so sánh số liệu nhập khẩu giữa Việt Nam và Indonesia — một bảng tính đơn giản, nhưng nói lên rất nhiều: Indonesia có thủ tục nhập máy cũ 25 ngày, Việt Nam 270 ngày. Vụ trưởng nhìn bảng, im lặng hồi lâu. "Để tôi trình lên Thứ trưởng."
 
-
 Sau buổi gặp, Hùng cùng lãnh đạo ăn cơm trong phòng khách nhà khách Chính phủ. Bàn tròn tám người, giữa bàn là đĩa cá chép om dưa và nồi canh măng. Không khí cởi mở hơn hội trường. Một vị phó chủ tịch tỉnh hỏi: "Anh Hùng, nghe nói anh từng bán vải ở chợ Hà Đông?" Hùng đặt đũa: "Vâng. Từ một sạp vải bốn mét vuông." Cả bàn cười. Nhưng mắt họ không cười — họ đang tính toán. Hùng hiểu: ở Việt Nam, sự tôn trọng không đến từ số tiền trong tài khoản, mà từ câu chuyện phía sau. Và câu chuyện của ông, tối hôm ấy, được kể bằng những con số mà họ không thể kiểm chứng — nhưng đủ để họ gật đầu.
 
 Ra về, người trợ lý hỏi: "Anh có nói hơi quá không?" Hùng lắc đầu: "Không quá. Chỉ nói đúng những gì họ cần biết. Phần còn lại — họ tìm hiểu sau."
@@ -107,4 +106,5 @@ Tổng EXP: 56,667 (+334)
 Không gian kho: 22,333m² (+166m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1, Thương mại lv3, Đầu tư lv1, Chiến lược lv1, Đầu tư lv2, Logistics lv1, Logistics lv2, Tài chính lv1, Tài chính lv2, Giáo dục lv1, Logistics lv3, Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3, Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
 Ghi chú: 2/3 đề xuất của Hùng được đưa vào Nghị định Chính phủ
+
 ============================================================

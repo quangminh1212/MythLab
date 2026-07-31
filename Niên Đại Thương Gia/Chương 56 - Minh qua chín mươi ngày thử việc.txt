@@ -136,7 +136,6 @@ Hùng gặp người ấy tại chi nhánh. Ông đưa bảng giá, mức chiế
 
 Người kia cười nhạt, bảo làm ăn cứng như thế khó đi xa. Hùng thu lại bản hợp đồng chưa ký. Hai tuần sau, cơ sở ấy mua một đơn nhỏ qua người khác, trả đúng giá. Chi nhánh phục vụ bình thường, không trả đũa, không ưu tiên.
 
-Cuối tháng tám, doanh thu còn hai mươi chín nghìn một trăm đồng, thấp hơn tháng bảy nhưng vẫn trên hòa vốn. Lợi nhuận chỉ ba trăm bảy mươi đồng do hai chuyến xe phát sinh sửa chữa. Bùn non dưới ruộng lúa mới cày. Tiền và hàng tiếp tục khớp. Không có bán chịu. Không có khoản ngoài hóa đơn.
 
 Tháng chín quyết định số phận thử nghiệm.
 
@@ -152,7 +151,6 @@ Ngày 17 tháng 9, kiểm kê bất ngờ phát hiện tiền mặt hụt một 
 
 Họ khóa két, giữ nguyên chứng từ, đối chiếu theo thứ tự giờ. Một hóa đơn một nghìn hai trăm đồng đã bị cộng vào sổ thành một nghìn ba trăm hai mươi. Tiền không mất; phép cộng sai. Cô Hạnh đã làm liên tục từ sáng vì người thay ca đến muộn.
 
-Hùng sửa sổ bằng một dòng điều chỉnh có đủ hai chữ ký, không xé trang. Người thay ca bị nhắc vì đến muộn. Bùn non dưới ruộng lúa mới cày. Lịch trực được đổi để người giữ tiền có hai lần nghỉ ngắn cố định. Điều kiện “hụt tiền” chưa bị kích hoạt vì tiền thực tế khớp chứng từ sau kiểm tra, nhưng lỗi được tính vào đánh giá vận hành.
 
 Ngày 28 tháng 9 năm 1985, chín mươi ngày tính cả ngày mở cửa kết thúc. Đây cũng là hạn thử việc Hùng ghi cho Minh từ đầu. Hùng, Mai, ông Tam và cô Hạnh đóng cửa sớm một giờ để kiểm kê toàn bộ.
 
@@ -211,4 +209,5 @@ Tổng EXP: 6,760 (+260 nhịp này)
 Không gian kho: 3,300m² (+50m²)
 Kỹ năng trọng yếu: Quản lý lv1, Thương mại lv3, Đầu tư lv1
 Ghi chú: Minh chính thức sau 90 ngày; HP đủ chứng cứ; không xóa biên bản nhỏ.
+
 ============================================================

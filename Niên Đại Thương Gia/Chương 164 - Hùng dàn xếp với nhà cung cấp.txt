@@ -256,7 +256,6 @@ Hùng cười. Ông không vào, chỉ đứng ngoài một lúc, nhìn ông L�
 
 Bà Hà đặt tay lên vai Hùng một giây rồi đi tiếp, không nói gì. Hùng xoa hai tay, cảm giác lạnh của đêm còn bám trên da, rồi quay lại bàn làm việc. Lan viết thêm một dòng vào sổ, gạch dưới bằng bút đỏ, không giải thích thêm.
 
-
 Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
 
 Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng nhạt rải trên hàng cây trước nhà. Lan đã dậy, đang pha trà. Mùi trà xanh thơm bốc lên, ấm áp. Hùng bước ra, tay ôm nhẹ Lan. “Cảm ơn em.” Lan quay lại cười. “Không có gì.” Mắt họ chạm nhau, ấm áp.
@@ -269,4 +268,5 @@ Tổng EXP: 26,700 (+480 nhịp này)
 Không gian kho: 9,680m² (+360m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2, Cơ khí lv1, Ngoại giao kinh tế lv2, Quản lý chuỗi cung ứng lv2, Đàm phán lv2 (thăng cấp)
 Ghi chú: Ký giá cố định 6 tháng với Lợi (ốc) & Hương (bugi/dây). Thuê kho Hải Phòng dự trữ thép Thái. Mua máy hàn mới cho xưởng.
+
 ============================================================

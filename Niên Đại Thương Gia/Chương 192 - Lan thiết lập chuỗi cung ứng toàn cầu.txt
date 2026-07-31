@@ -2,7 +2,7 @@
 Chương 192: Lan thiết lập chuỗi cung ứng toàn cầu
 ============================================================
 
-Tháng Ba năm 1995. Lan ngồi ở ghế cuối chiếc Boeing 737 của Singapore Airlines, đường băng sân bay Tân Sơn Nhất lùi dần phía sau. Tay cô giữ chặt một cặp tài liệu da màu nâu — quà của Hùng trước khi cô lên đường, bên trong là bốn trang giấy viết tay: danh sách những địa chỉ, số fax, và tên người cần gặp ở Singapore.
+Tháng Ba năm 1994. Lan ngồi ở ghế cuối chiếc Boeing 737 của Singapore Airlines, đường băng sân bay Tân Sơn Nhất lùi dần phía sau. Tay cô giữ chặt một cặp tài liệu da màu nâu — quà của Hùng trước khi cô lên đường, bên trong là bốn trang giấy viết tay: danh sách những địa chỉ, số fax, và tên người cần gặp ở Singapore.
 
 Chuyến đi này không nằm trong kế hoạch kinh doanh năm 1995. Nó nằm trong một tờ giấy khác — tờ giấy Lan viết cho riêng mình sau đêm ký hợp đồng Ba Lan, khi cô nhận ra Thương Gia không thể phát triển thêm nếu vẫn mua nguyên liệu qua trung gian Hà Nội. Mỗi mét vải nhập từ Nhật qua đường Hồng Kông bị đội giá ba lần: nhà máy Nhật bán cho trading house, trading house bán cho đại lý Hồng Kông, đại lý bán cho đầu mối Sài Gòn, đầu mối gửi ra Hà Nội. Bốn lần trung gian. Bốn lần cộng lời. Kết quả: vải đến xưởng Hà Đông đắt gấp đôi giá gốc, và thời gian giao hàng không bao giờ dưới tám tuần.
 
@@ -235,7 +235,7 @@ Một buổi sáng, Hùng thức dậy, mắt nhìn ra cửa sổ. Nắng vàng 
 Chuỗi cung ứng vừa có mắt xích đầu tiên; cuộc phản công của David Lưu vẫn còn phía trước.
 
 「Hệ thống — GHI NHẬN ch.192」
-Năm: 1995
+Năm: 1994
 Tổng EXP: 35,440 (+320)
 Không gian kho: 11,360m² (+80m²)
 Kỹ năng trọng yếu: (xem ledger)

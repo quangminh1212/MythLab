@@ -122,4 +122,5 @@ Tổng EXP: 4,400 (+200 nhịp này)
 Không gian kho: 2,800m² (+50m²)
 Kỹ năng trọng yếu: Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
 Ghi chú: Nhà hàng Hà Nội: tách sổ/Quốc Oai; nhân sự không kiêm ca; tự khóa sổ trước khi tính SG.
+
 ============================================================

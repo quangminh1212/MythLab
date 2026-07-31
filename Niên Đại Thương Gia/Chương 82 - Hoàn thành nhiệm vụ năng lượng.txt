@@ -283,7 +283,6 @@ Tất cả những ngày ấy, không có dòng nào kêu ca. Chỉ có sổ, c�
 
 Ông gấp sổ.
 
-
 Hùng nhận tín hiệu, gật với chính mình, rồi quay lại sổ tay — chỗ ông tin hơn bảng sáng.
 
 Ông viết thêm một dòng dưới cùng ghi chép hôm nay, bằng nét chữ nhỏ hơn, chậm hơn:
@@ -321,4 +320,5 @@ Tổng EXP: 12,750 (+250 nhịp này)
 Không gian kho: 4,600m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1
 Ghi chú: Nhà máy Đà Nẵng 4 turbine thử tải đến 8.5 MW; rơ-le quạt trễ 5→8s; bàn giao Sở Điện lực không pháo hoa; đèn cột thắp bản.
+
 ============================================================

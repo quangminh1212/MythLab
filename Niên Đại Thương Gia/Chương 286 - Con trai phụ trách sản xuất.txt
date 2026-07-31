@@ -144,4 +144,5 @@ Tổng EXP: 67,333 (+333 nhịp này)
 Không gian kho: 30,333m² (+333m²)
 Kỹ năng trọng yếu: Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
 Ghi chú: Minh nhận quyền sản xuất sau kiểm tra 47 nhà máy.
+
 ============================================================

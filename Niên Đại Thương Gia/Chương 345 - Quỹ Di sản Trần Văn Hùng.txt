@@ -28,7 +28,7 @@ Hùng uống trà, suy nghĩ. Những giọt mưa bám trên kính cửa sổ, p
 
 Ông Bắc cười — nụ cười của người đã sống tám thập kỷ và đã chứng kiến quá nhiều thứ. "Những người nhận được giúp đỡ — họ cần biết ai giúp họ không? Hay họ chỉ cần được giúp?"
 
-Hùng im lặng. Câu hỏi xoáy vào một điểm yếu mà bản thân ông chưa bao giờ ý thức. Suốt ba mươi lăm năm, ông quen với việc mọi thứ đều có tên, có chủ, có thương hiệu. Thương Gia. Trần Văn Hùng. Những cái tên tạo ra niềm tin, nhưng cũng tạo ra giới hạn.
+Hùng im lặng. Câu hỏi xoáy vào một điểm yếu mà ông chưa bao giờ ý thức. Suốt ba mươi lăm năm, ông quen với việc mọi thứ đều có tên, có chủ, có thương hiệu. Thương Gia. Trần Văn Hùng. Những cái tên tạo ra niềm tin, nhưng cũng tạo ra giới hạn.
 
 "Vậy theo anh, nên đặt tên gì?"
 
@@ -46,7 +46,7 @@ Hùng gấp tờ giấy, cất vào túi áo. "Tôi suy nghĩ thêm."
 
 Buổi chiều cùng ngày, Hùng về Quốc Oai thăm bà Hà. Bà chín mươi chín tuổi, vẫn ngồi được trên phản gỗ, vẫn tự tay tưới rau mỗi sáng, vẫn nhặt rau ngồi ngoài hiên. Sức khỏe bà yếu hơn trước — mắt kém, tai nghễnh ngãng — nhưng tinh thần bà không suy giảm. Hôm nay bà ngồi dưới tán bưởi trước sân, tay cầm cái rổ, nhặt từng cọng rau cần. Cái rổ nan tre đã cũ, hai chỗ thủng được vá bằng dây nhựa xanh — bà không chịu bỏ, bảo "còn dùng được thì dùng."
 
-Hùng kéo ghế ngồi xuống cạnh bà. Không khí chiều quê yên tĩnh, tiếng gà gáy xa xa, mùi rơm khô và mùi đất ẩm từ vườn sau. Mấy cây bưởi trong sân đã già, thân sần sùi, nhưng mỗi năm vẫn ra quả — trái bưởi to, mọng nước, vị ngọt thanh. Bà thường bảo "cây già mới ra quả ngọt."
+Hùng kéo ghế ngồi xuống cạnh bà. Không khí chiều quê yên tĩnh, tiếng gà gáy xa xa, mùi rơm khô và từ vườn sau. Mấy cây bưởi trong sân đã già, thân sần sùi, nhưng mỗi năm vẫn ra quả — trái bưởi to, mọng nước, vị ngọt thanh. Bà thường bảo "cây già mới ra quả ngọt."
 
 "Con tính lập một quỹ," Hùng nói, không mào đầu.
 
@@ -80,7 +80,7 @@ Buổi tối, Hùng về nhà, không ngủ được. Ông ngồi ở bàn làm 
 
 Không tên nào vừa ý. Không phải vì chữ nghĩa — mà vì ông đang cố đặt tên cho một thứ ông chưa hiểu hết bản chất.
 
-Ông đứng dậy, ra ban công. Hà Nội đêm khuya, yên tĩnh. Một vài ngôi sao lấp ló sau màn mây mỏng. Tiếng chó sủa từ xa vọng lại. Ông hít một hơi sâu, không khí mùa xuân  tràn vào phổi. Đèn đường vàng vọt, hắt bóng ông dài trên mặt đường ướt.
+Ông đứng dậy, ra ban công. Hà Nội đêm khuya, yên tĩnh. Một vài ngôi sao lấp ló sau màn mây mỏng. Tiếng chó sủa từ xa vọng lại. Ông hít một hơi sâu, không khí mùa xuân tràn vào phổi. Đèn đường vàng vọt, hắt bóng ông dài trên mặt đường ướt.
 
 "Ba mươi lăm năm mang tên," ông thì thầm một mình. "Có lẽ mười năm tới — không cần nữa."
 
@@ -251,4 +251,5 @@ Tổng EXP: 90,000 (+600 nhịp này)
 Không gian kho: 52,800m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
 Ghi chú: thành lập Quỹ Di sản Trần Văn Hùng
+
 ============================================================

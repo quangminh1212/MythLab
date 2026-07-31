@@ -138,7 +138,7 @@ Hùng im một lúc. Ông nhìn quanh bàn: bà Hà đang nhai, Lan đang gỡ x
 
 Bà Hà cất tiếng. Giọng bà khàn, nhưng rõ đến lạ.
 
-— Hồi ấy nhà mình nghèo. Mày không tưởng tượng được nghèo thế nào đâu. — Bà nói với thằng Cường. — Bà nội mày hồi đó nuôi hai đứa: bác Hùng và mẹ mày. Bác mày nằm sốt, ngất ba ngày, tưởng không qua khỏi. Bà ngồi cạnh, khăn ướt đắp trán, cầu trời khấn Phật. Hết sốt, nó tỉnh dậy, nó bảo: 'Bà, từ nay con sẽ lo cho bà và em.' Hồi đó tao không tin.
+— Hồi ấy nhà mình nghèo. Mày không tưởng tượng được nghèo thế nào đâu. — Bà nói với thằng Cường. — mế mày hồi đó nuôi hai đứa: bác Hùng và mẹ mày. Bác mày nằm sốt, ngất ba ngày, tưởng không qua khỏi. Bà ngồi cạnh, khăn ướt đắp trán, cầu trời khấn Phật. Hết sốt, nó tỉnh dậy, nó bảo: 'Bà, từ nay con sẽ lo cho bà và em.' Hồi đó tao không tin.
 
 Cả bàn im lặng. Cường ngừng đũa. Quyên ngừng nhắn tin.
 
@@ -267,4 +267,5 @@ Tổng EXP: 97,000 (+1,000 nhịp này)
 Không gian kho: 59,000m² (+1,000m²)
 Kỹ năng trọng yếu: Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3, Nhiệm vụ tối thượng: HOÀN THÀNH, Danh hiệu: Thương gia vĩ đại
 Ghi chú: bữa tối gia đình Quốc Oai — Lan em, Minh–Nam–Mai
+
 ============================================================

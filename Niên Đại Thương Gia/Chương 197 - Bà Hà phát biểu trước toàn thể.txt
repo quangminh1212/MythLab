@@ -14,7 +14,7 @@ Nhưng bà biết mình phải nói.
 
 ***
 
-Trời tối. Hùng chưa về — ông đang họp với đội tổ chức sự kiện ở trung tâm hội nghị. Lan cũng chưa về — cô đang rà soát danh sách khách mời, từng cái tên, từng chức danh, từng vị trí ngồi, viết đi viết lại đến lần thứ ba. Bà Hà thắp nén nhang lên bàn thờ gia tiên. Căn phòng khách nhỏ, bàn thờ đặt trên tủ — ông bà nội, bố Hùng, mẹ Hùng, và vài người bà con đã khuất mà bà không kịp biết mặt.
+Trời tối. Hùng chưa về — ông đang họp với đội tổ chức sự kiện ở trung tâm hội nghị. Lan cũng chưa về — cô đang rà soát danh sách khách mời, từng cái tên, từng chức danh, từng vị trí ngồi, viết đi viết lại đến lần thứ ba. Bà Hà thắp nén nhang lên bàn thờ gia tiên. Căn phòng khách nhỏ, bàn thờ đặt trên tủ — ông bà Hà, bố Hùng, mẹ Hùng, và vài người bà con đã khuất mà bà không kịp biết mặt.
 
 Bà ngồi xuống chiếc ghế nhựa cạnh bàn thờ. Không lạy, không khấn, chỉ ngồi.
 
@@ -194,7 +194,6 @@ Và điều đó — với một người đàn bà cả đời chỉ đứng sa
 
 ============================================================
 
-
 Sau buổi lễ, Lan gom các phiếu góp ý nhân viên đặt trong chiếc hòm gỗ cạnh cửa hội trường. Có một trăm mười bảy tờ. Phần lớn là chuyện rất nhỏ: bữa ăn ca nguội, xe đưa đón xưởng Gia Lâm quá chật, tiền làm thêm trả chậm ba ngày.
 
 Hùng định mang hòm về phòng tổng giám đốc. Bà Hà giữ tay ông lại.
@@ -220,4 +219,5 @@ Tổng EXP: 37,040 (+320 nhịp này)
 Không gian kho: 11,760m² (+80m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: Bà Hà phát biểu Ba Đình — người mẹ giữ gốc gia đình
+
 ============================================================
