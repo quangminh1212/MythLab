@@ -232,7 +232,7 @@ Hùng nhấp một ngụm rượu. Vang đỏ Pháp, loại bình dân, nhưng n
 
 "Về tất cả."
 
-Lan cười, không nói gì. Ngoài hiên, hoa sữa cuối mùa rụng trắng lối đi. Mùi hương của nó buổi tối rất nồng, pha lẫn với mùi đất ẩm sau một ngày nắng.
+Lan cười, không nói gì. Ngoài hiên, hoa sữa cuối mùa rụng trắng lối đi. Mùi hương của nó buổi tối rất nồng, pha lẫn với sau một ngày nắng.
 
 ——
 
@@ -257,4 +257,5 @@ Tổng EXP: 40,143 (+238 nhịp này)
 Không gian kho: 13,286m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
 Ghi chú: Đàm phán ADR HN — fee 6%, risk factor, checklist Lan
+
 ============================================================

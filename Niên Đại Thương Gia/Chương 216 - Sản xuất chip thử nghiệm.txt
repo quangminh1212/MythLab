@@ -224,4 +224,5 @@ Tổng EXP: 41,810 (+239 nhịp này)
 Không gian kho: 14,286m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
 Ghi chú: Chip TG-001 yield 60%; mask metal-1; Bảo + Klaus rà quy trình sạch.
+
 ============================================================

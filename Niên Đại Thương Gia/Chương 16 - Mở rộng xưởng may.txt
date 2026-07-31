@@ -32,7 +32,7 @@ Tối đó, xưởng được quét sạch vải vụn. Ba máy phủ vải cũ 
 
 Sáng ngày thứ hai, Hùng mang sang xưởng một chậu than trấu, đặt giữa nền rồi đóng kín cửa một lúc để thử độ thoáng. Khói mỏng dồn về góc tây, nơi mái thấp và không có cửa sổ. Ông lập tức dập than, mở cửa, cùng Cu đục hai ô thông gió sát mái. Vải bắt lửa nhanh; gian nhà kín còn làm người đạp máy chóng mệt. Ông cấm hẳn bếp, thuốc lào và đèn dầu đặt dưới giá hàng. Bảng phấn có thêm một dòng ngắn: lửa cách vải ba sải tay. Mùi khói than còn cay mắt.
 
-Bà Hà mang cơm sang đúng lúc họ đang quét tro. Bà không bước qua vạch nhận hàng, chỉ đặt làn ở cửa rồi nhìn hai ô mới đục. Hùng giải thích việc thử khói, kể cả chuyện mình đã chọn sai chỗ đặt chậu. Bà nghe xong mới bảo: Trong ánh nắng nhạt, tiếng gió lùa mang theo mùi đất ẩm; Hùng , bàn tay khẽ siết lại, đôi mắt vẫn bám sát từng chi tiết trước khi ông thở chậm.
+Bà Hà mang cơm sang đúng lúc họ đang quét tro. Bà không bước qua vạch nhận hàng, chỉ đặt làn ở cửa rồi nhìn hai ô mới đục. Hùng giải thích việc thử khói, kể cả chuyện mình đã chọn sai chỗ đặt chậu. Bà nghe xong mới bảo: Trong ánh nắng nhạt, tiếng gió lùa mang theo ; Hùng , bàn tay khẽ siết lại, đôi mắt vẫn bám sát từng chi tiết trước khi ông thở chậm.
 
 — Biết sai mà dập sớm thì còn được. Đừng thử lần hai bằng cả kho vải.
 
@@ -80,7 +80,7 @@ Cuối tháng, Hùng so ba tuần. Tuần đầu tám áo mỗi ngày với hai 
 
 Tối cuối tuần, Hùng trả tiền công trước mặt từng người, cho họ tự đối chiếu số món đạt. Chị Mận phát hiện thiếu một nẹp đã sửa và nói nhỏ. Lan tìm lại thẻ, xác nhận đúng, bổ sung ngay. Không ai phải chịu thiệt vì ngại hỏi. Bà Hà mang ấm nước sang, nhìn hàng máy rồi nhắc Hùng khóa dầu đèn xa vải. Ông dời chai dầu vào hòm thiếc. Một xưởng đứng được không chỉ nhờ hàng bán; nó còn nhờ sáng mai người bước vào không gặp đám cháy do sự tiện tay tối trước.
 
-Sáng chủ nhật, Hùng mở sổ tổng kết tháng đầu tiên của xưởng mới. Ông đọc từng con số cho Lan ghi: vải tồn, áo bán, áo trả, tiền công, hao hụt. Chị Mận đạt tăng so với tuần thử. Cô Tý vẫn dúm một góc nhưng đã biết dừng máy sớm hơn. Cu có thể thay dây cu-roa mà không hỏi. Những việc ấy không đủ để viết thành báo cáo cho ai, nhưng đủ để ông biết xưởng sắp tự nuôi được tiền thuê nhà. Ngoài hiên, tiếng mưa rơi lẫn mùi khói cay và luồng gió lạnh; Cu  hai tay xoa vào nhau, đôi chân dịch nửa bước trong khi mắt không rời công việc.
+Sáng chủ nhật, Hùng mở sổ tổng kết tháng đầu tiên của xưởng mới. Ông đọc từng con số cho Lan ghi: vải tồn, áo bán, áo trả, tiền công, hao hụt. Chị Mận đạt tăng so với tuần thử. Cô Tý vẫn dúm một góc nhưng đã biết dừng máy sớm hơn. Cu có thể thay dây cu-roa mà không hỏi. Những việc ấy không đủ để viết thành báo cáo cho ai, nhưng đủ để ông biết xưởng sắp tự nuôi được tiền thuê nhà. Ngoài hiên, tiếng mưa rơi lẫn mùi khói cay và luồng gió lạnh; Cu hai tay xoa vào nhau, đôi chân dịch nửa bước trong khi mắt không rời công việc.
 
 Lan đặt bút xuống, hỏi có nên sang giúp kiểm vải mới về. Hùng gật. Cô khoác áo ra ngoài; trước khi đi còn quay vào vá lại một mũi lỏng trên chiếc áo mẫu treo ở góc. Hùng nhìn theo rồi gấp sổ tháng. Trang sau ông chưa viết chữ nào; nó nằm chờ lô vải Hà Nội sắp tới — và hướng Quảng Ninh anh Khanh đã nhắc — những quyết định sẽ không còn chỉ cho một căn nhà tám mét.
 
@@ -101,4 +101,5 @@ Tổng EXP: 680 (+55 nhịp này)
 Không gian kho: 1,440m² (+40m²)
 Kỹ năng trọng yếu: Thương mại lv2, Ngôn ngữ lv1, Y tế lv1
 Ghi chú: thuê gian ông Lân; 3 máy + vạch than cắt/may/kiểm/kho; tuyển Mận+Tý bằng may thử; lô 30 áo; an toàn cháy; từ chối biển tên — chỉ HV + Quốc Oai; 8→14 áo/ngày; seed QN.
+
 ============================================================

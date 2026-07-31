@@ -26,7 +26,6 @@ Hùng mở tập đầu tiên.
 
 Mỗi học viên có một bìa hồ sơ: ảnh, đơn vị cử đi, bảng điểm từng bài, phiếu thực hành tám bài có chữ ký giảng viên chính.
 
-Xăng pha dầu nhờn từ xưởng sửa xe.
 
 Bìa được xếp theo thứ tự kết quả chứ không xếp theo xưởng.
 
@@ -252,7 +251,6 @@ Trần Thị Lan từ Hà Nội có mặt qua điện thoại bàn — cuộc g�
 
 Bảy người, mỗi người một việc, không có vị trí "dự thính." Hùng đặt bảng số liệu lên bàn: — Năm mươi sáu người đủ điều kiện thi.
 
-Cuốn sổ gáy chỉ may vải có giá vài xu.
 
 Bốn mươi tám người đạt cả ba điều kiện: lý thuyết trên bảy mươi, đủ tám phiếu thực hành và bài cuối không lỗi an toàn.
 
@@ -290,7 +288,6 @@ Năm người còn lại chỉ đạt sau khi được kèm trực tiếp từng
 
 Cô Thu mở tiếp một trang ghi chép riêng.
 
-Cây thước gỗ dấu đỏ kiểm định của ty thương nghiệp.
 
 Đó là danh sách các học viên có tiến bộ rõ rệt theo từng tuần — không chỉ về điểm số mà về cách họ cầm dụng cụ, cách họ đặt câu hỏi, cách họ dừng lại khi thấy dấu hiệu bất thường.
 
@@ -430,20 +427,6 @@ Trong số đó, ba người đã thi lại và đạt; Bình thi lại lần ha
 
 Anh được xếp thi lần ba vào sáng hôm sau với người hướng dẫn khác — anh Hải thay bác Quang chấm.
 
-Nếu đạt, Bình nằm trong diện có điều
-
-Nhịp giữa không đứt.
-
-Việc trước đã chốt; đoạn sau là việc còn hạn.
-
-Biết.
-
-— Cô dạy người khác thì người khác khỏi mất tuần đầu để học cái đó.
-
-Hạnh không trả lời.
-
-Nhưng mắt cô không rời mặt Hùng khi anh nói câu đó.
-
 Đến chiều tối, trước khi kết thúc ngày làm việc, chị Mai đã hoàn tất công việc bàn giao: năm mươi hai bộ hồ sơ được đóng thành từng tập, mỗi tập có bảng điểm, phiếu thực hành và biên bản bàn giao xưởng.
 
 Anh Hải soát lại lần cuối, ký tên vào từng trang tổng hợp.
@@ -530,15 +513,14 @@ Anh mở mắt khi tàu bắt đầu qua cầu sông Hàn.
 
 Bên dưới, nước lặng và đen, không thấy được gì ngoài ánh đèn le lói từ bờ xa.
 
-Hùng nghĩ về Hạnh, về câu hỏi của cô sáng nay.
+Hùng nghĩ về cô Thu, về cách bà giữ danh sách tiến bộ của từng học viên.
 
-Tê nhức ngón tay sau giờ viết sổ liên tục.
 
-Cô sẽ quay lại làm trợ giảng hay không, anh không biết.
+Bà đã dạy hơn mười năm, và những gì bà giữ trong sổ tay còn giá trị hơn bất kỳ quyển sách nào.
 
-Nhưng cái cách cô hỏi thẳng và cái cách cô im lặng khi nghe câu trả lời cho thấy cô không phải người dễ thoả mãn với một lời hứa suông.
+Cái cách bà lắng nghe, ghi chép và không nói gì thêm cho thấy bà không phải người dễ thoả mãn với một lời hứa suông.
 
-Điều đó, hơn cả giấy chứng nhận, mới là thứ trung tâm cần ở người đứng lớp khóa sau.
+Điều đó, hơn cả giấy chứng nhận, mới là thứ trung tâm cần ở người đứng lớp khóa tới.
 
 Hùng nghĩ thêm về Trung, về dòng ghi chép của cô Thu bên lề hồ sơ: "học viên đầu vào yếu nhất — đầu ra vượt trung bình." Một dòng như vậy, nếu được giữ lại và truyền cho khóa sau, sẽ có giá trị hơn bất kỳ bảng điểm nào.
 
@@ -546,7 +528,6 @@ Bởi nó nói với người đến sau: ở đây không có người hết hy
 
 Tàu ra khỏi cầu.
 
-Cây thước gỗ dấu đỏ kiểm định của ty thương nghiệp.
 
 Bóng tối lại đầy kính.
 
@@ -583,4 +564,5 @@ Tổng EXP: 11,500 (+250 nhịp này)
 Không gian kho: 4,314m² (+57m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Quản lý lv1
 Ghi chú: Hoàn thành khóa đào tạo: 52 người nhận chứng chỉ đúng điều kiện an toàn
+
 ============================================================

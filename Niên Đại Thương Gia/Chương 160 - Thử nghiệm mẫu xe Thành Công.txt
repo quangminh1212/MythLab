@@ -2,7 +2,7 @@
 Chương 160: Thử nghiệm mẫu xe Thành Công
 ============================================================
 
-Tháng Mười một năm 1991. Hà Nội vào đông, cái lạnh chưa kịp buốt nhưng đủ để hơi thở thành khói mỏng mỗi sáng.
+Tháng Mười một năm 1992. Hà Nội vào đông, cái lạnh chưa kịp buốt nhưng đủ để hơi thở thành khói mỏng mỗi sáng.
 
 Trần Văn Hùng đứng ở góc xưởng cơ khí thuê lại của hợp tác xã Gia Lâm — một nhà xưởng cũ, tường gạch trần thấp, mái tôn đã úa màu gỉ sét. Trên bệ bê tông đúc tạm là một khung sắt hàn nối, bốn bánh xe, và một động cơ hai thì nhập từ Quảng Châu. Chiếc xe mô-tô Thương Gia đầu tiên — chưa có vỏ nhựa, chưa có sơn, chưa có đèn. Một bộ xương trần trên bốn chân chống.
 
@@ -234,11 +234,12 @@ Hùng châm một điếu thuốc, đứng ngoài sân xưởng, gió thổi tà
 
 — Tao biết. — Hùng dụi thuốc xuống gót giày. — Nhưng mà mai có bao nhiêu người đến xem mới là chuyện.
 
+Tiếng chim hót vang lên từ vườn, âm thanh trong trẻo giữa bầu trời xanh. Gió thổi nhẹ qua hành lang, mang theo mùi hoa ngâu thoang thoảng.
 「Hệ thống — GHI NHẬN ch.160」
-Năm: 1991
+Năm: 1992
 Tổng EXP: 25,500 (+300)
 Không gian kho: 8,500m² (+100m²)
 Kỹ năng trọng yếu: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2, Cơ khí lv1 (mới)
 Ghi chú: Mẫu xe Thành Công chạy thử thành công — còn 3 lỗi (phanh, rung, lọc xăng) đã sửa. Giá thành dự kiến 1,4tr/xe. Vỏ nhựa chờ khuôn từ Nhật.
-============================================================
 
+============================================================

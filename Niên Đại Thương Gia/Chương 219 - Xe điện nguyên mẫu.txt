@@ -4,7 +4,7 @@ Chương 219: Xe điện nguyên mẫu
 
 Tháng Mười một năm 2007, tại khu công nghiệp phụ trợ Thương Gia mở rộng — một khu vực riêng biệt nằm sâu trong đất liền, cách cảng Hải Phòng bốn mươi cây số. Hùng chọn chỗ này vì đất rẻ, mặt bằng rộng, và quan trọng hơn — kín đáo. Không có tòa nhà cao tầng nào nhìn vào được, không có đường lớn chạy qua, và khu vực này không nằm trong quy hoạch du lịch hay khu đô thị. Những gì xảy ra trong đó, chỉ người trong đó biết.
 
-Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy tính工作站 Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.
+Khu xưởng 219 — tên nội bộ, lấy theo số hiệu dự án — là một nhà xưởng hai tầng, tường bê tông dày ba mươi phân, không có cửa sổ ở tầng một. Cửa chính bằng thép, hai lớp. Hệ thống camera an ninh lắp ở mọi góc. Tầng hai là phòng thiết kế, nơi một đội kỹ sư mười lăm người đang làm việc với những bản vẽ CAD, những mô hình 3D, và một chiếc máy tínhmáy trạm Dell Precision chạy SolidWorks — món đồ đắt nhất trong phòng, hơn hai trăm triệu đồng, đặt mua từ Singapore. Những kỹ sư này được tuyển chọn kỹ lưỡng — từ các trường đại học, từ những buổi gặp gỡ tình cờ ở triển lãm, từ những lời giới thiệu của Klaus Weber và Yamashita. Không ai biết toàn bộ dự án; mỗi người chỉ biết phần việc của mình. Bảo mật là nguyên tắc số một.
 
 Dự án bắt đầu từ một câu hỏi của đứa con trai lớn — Trần Văn Minh — vào một buổi tối cuối năm 2006. Minh khi ấy hai mươi lăm tuổi, vừa tốt nghiệp thạc sĩ kỹ thuật điện tử ở Đại học Bách khoa Paris — trường mà Hùng đã lo liệu cho con vào từ năm 2001. Minh là kỹ sư trưởng mảng điện tử của Thương Gia, tóc dài, hay mặc áo phông và quần jean ngay cả khi họp với đối tác Nhật. Cậu thông minh, nhưng cái thông minh đó không đến từ trường lớp — nó đến từ những buổi chiều ngồi dưới gầm bàn xem ba sửa radio, từ những cuốn sách điện tử tiếng Anh Hùng mang về từ các chuyến công tác, từ những lần hai cha con tháo tung cái tivi để xem bên trong có gì.
 
@@ -151,4 +151,5 @@ Tổng EXP: 42,524 (+238)
 Không gian kho: 14,714m² (+143m²)
 Kỹ năng trọng yếu: Quản trị đế chế lv2, Ngoại giao kinh tế lv3, Năng lượng tái tạo lv1
 Ghi chú: Xe điện nguyên mẫu xưởng 219; Minh thử lái; ngân sách 12 tỷ.
+
 ============================================================

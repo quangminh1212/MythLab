@@ -122,7 +122,6 @@ Lan không hỏi thêm — nhưng trước khi ra khỏi phòng, chị nói: "N�
 
 Hùng không đáp. Ông giấu. Giấu vì sợ Lan lo. Sợ chị sẽ hỏi thêm, sẽ biết nhiều, sẽ không ngủ được. Cô lập hóa chính mình — một thói quen đã theo ông từ kiếp trước: giải quyết mọi thứ một mình, vì tin rằng chỉ có mình mới chịu nổi sức nặng thật sự.
 
-
 Đêm xuống, Hùng nằm trên giường, mắt mở, nhìn lên trần nhà.
 
 Klaus gõ phôi lần cuối, cau mày rồi gật khi tiếng kim loại trong. Hùng siết biên bản, buông vai một nhịp.
@@ -139,4 +138,5 @@ Tổng EXP: 14,864 (+182 nhịp này)
 Không gian kho: 5,091m² (+46m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
 Ghi chú: Thép HP CT3–CT5; Klaus bắt nứt phôi; không hạ giá thép non; lô CT5 20t; đổi logistics sau Bằng — giấu Lan, chưa đủ chứng cứ.
+
 ============================================================

@@ -2,7 +2,7 @@
 Chương 167: Điện thoại Thương Gia thế hệ 2
 ============================================================
 
-Năm 1993. Sân bay Changi lúc năm giờ bốn mươi lăm phút sáng. Đèn huỳnh quang sáng trắng, sàn đá granite bóng loáng. Tiếng loa thông báo bằng tiếng Anh, tiếng Trung, tiếng Tamil vọng đều trong nhà ga vắng người.
+Năm 1992. Sân bay Changi lúc năm giờ bốn mươi lăm phút sáng. Đèn huỳnh quang sáng trắng, sàn đá granite bóng loáng. Tiếng loa thông báo bằng tiếng Anh, tiếng Trung, tiếng Tamil vọng đều trong nhà ga vắng người.
 
 Trần Văn Hùng bước ra từ cửa máy bay với một vali xách tay màu đen — mút góc đã sờn, khóa kéo hơi kẹt — và một phong bì màu nâu kẹp dưới nách. Bên trong phong bì là bản vẽ board mạch của TG-200 — điện thoại di động thế hệ hai của Thương Gia.
 
@@ -210,14 +210,14 @@ Hùng cầm tấm danh thiếp, thấy nó nặng, in chữ nổi trên giấy t
 
 'Chu Hung oi!' Tieng goi tut phia sau. Hung quay lai. Mot nguoi dan onng trung nien chay len, mat mo hoi: 'Chu oi, chau la em cua ong Chin. Ong Chin bao chau den gap chu.' Hung gat: 'Anh Chin khoe khong?' 'Day a, ong yeu.' Hai nguoi bat chuyen, trao doi vai cau ve cong an thanh pho. Nhung cau chuyen gian di, doi khi la so day ket noi nhung nguoi xa la.
 
-
 Phiếu thử nghiệm bổ sung nhiệt độ máy, thời lượng pin và người xác nhận; lỗi nào chưa đóng thì chưa được phép xuất xưởng.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.167」
-Năm: 1993
+Năm: 1992
 Tổng EXP: 27,600 (+300)
 Không gian kho: 9,200m² (+100m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: khóa nhịp ch.167
+
 ============================================================

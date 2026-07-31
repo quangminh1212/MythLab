@@ -2,7 +2,7 @@
 Chương 354: Hệ thống nhiệm vụ cuối
 ============================================================
 
-Sáu giờ sáng, ngày mười lăm tháng Mười hai năm 2023. Hà Nội rét nhất trong năm — nhiệt độ xuống dưới ba độ C, hơi thở hóa thành khói trắng, sương mù dày đặc đến nỗi từ trong phòng khách không thể nhìn thấy cây bàng cổ thụ đầu ngõ. Những cành cây trơ trụi phủ đầy sương muối, lấp lánh ánh bạc dưới ánh đèn đường mờ ảo còn sót lại sau một đêm dài. Trong phòng làm việc của Hùng, máy sưởi chạy hết công suất, tiếng rì rầm đều đều, nhưng ông vẫn thấy lạnh.
+Sáu giờ sáng, ngày mười lăm tháng Mười hai năm 2022. Hà Nội rét nhất trong năm — nhiệt độ xuống dưới ba độ C, hơi thở hóa thành khói trắng, sương mù dày đặc đến nỗi từ trong phòng khách không thể nhìn thấy cây bàng cổ thụ đầu ngõ. Những cành cây trơ trụi phủ đầy sương muối, lấp lánh ánh bạc dưới ánh đèn đường mờ ảo còn sót lại sau một đêm dài. Trong phòng làm việc của Hùng, máy sưởi chạy hết công suất, tiếng rì rầm đều đều, nhưng ông vẫn thấy lạnh.
 
 Không phải lạnh ngoài da. Lạnh bên trong — một thứ lạnh từ xương tủy lan ra, thứ lạnh của những cảm xúc không thể gọi tên.
 
@@ -175,10 +175,12 @@ Sau bữa tối, Hùng ra ngoài ban công. Trời vẫn lạnh, sương vẫn d
 ============================================================
 
 ============================================================
+Ngoài cửa sổ, gió heo may thổi qua, mang theo và xa. Phía xa, rồi tắt dần, để lại sự im lặng sâu hơn.Ánh đèn vàng hắt lên tường, tạo nên những bóng đổ dài. Mùi cơm mới nấu bốc lên từ nhà bếp, thơm lừng và ấm áp.
 「Hệ thống — GHI NHẬN ch.354」
-Năm: 2023
+Năm: 2022
 Tổng EXP: 95,400 (+600)
 Không gian kho: 57,480m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
 Ghi chú: hệ thống nhiệm vụ cuối — checklist đóng
+
 ============================================================

@@ -2,8 +2,6 @@
 Chương 57: Xây đội ngũ cốt lõi
 ============================================================
 
-============================================================
-
 Ngày 3 tháng 10 năm 1985, Thái Bình.
 
 Chiếc xe tải dừng bên bến Trà Lý lúc trời chưa sáng hẳn. Hai bánh sau lún xuống nền đất nhão, thùng xe nghiêng về phía con sông đang lên nước. Nước mắm cá cơm đặc quánh từ chum. Trên mui, tấm bạt vá rung phần phật. Dưới bạt là chuyến hàng kiểm tra đầu tiên do đội ngũ cốt lõi mới cùng chịu trách nhiệm: đường vàng, xà phòng, dầu hỏa đóng can, vài kiện vải thô và sáu thùng phụ tùng xe đạp.
@@ -28,7 +26,6 @@ Kỹ sư Minh kiểm độ nghiêng thùng xe, đánh dấu hai can dầu có v�
 
 Bốn mươi cân hàng không phải một sai số có thể cười bỏ. Với một chi nhánh chưa bán đồng nào, đó là tiền công cả tháng của vài người.
 
-Hùng xem hai tờ giấy dưới ánh đèn dầu. Bùn non dưới ruộng lúa mới cày. Số trên phiếu kho Hải Phòng được viết bằng mực xanh; số trên giấy vận chuyển là nét chì đè mạnh, chỗ hàng chục có dấu tẩy.
 
 “Chưa ký nhận,” ông nói.
 
@@ -352,4 +349,5 @@ Tổng EXP: 7,020 (+260 nhịp này)
 Không gian kho: 3,350m² (+50m²)
 Kỹ năng trọng yếu: Quản lý lv1, Thương mại lv3, Đầu tư lv1
 Ghi chú: Thái Bình: chênh 38,2kg — 3 nguyên nhân; từ chối xuất lô treo; đội cốt lõi = người dám ký số xấu.
+
 ============================================================

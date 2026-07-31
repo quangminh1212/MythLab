@@ -34,7 +34,7 @@ Mượn danh. Hùng lặp lại trong đầu. Đây là cách phổ biến trong
 
 "Anh có biết ai lý lịch tốt, sẵn sàng hợp tác không?" Hùng hỏi.
 
-Khanh nghĩ, rồi gật đầu. "Có một người. Ông Nguyễn Văn Tâm, bác sĩ y tế huyện, về hưu. Lý lịch rất tốt — con liệt sĩ, bản thân là thương binh, đảng viên. Ông ấy không kinh doanh, nhưng ông có mặt bằng — một căn nhà mặt đường chợ huyện, đang cho thuê làm kho. Nếu cậu nói chuyện khéo, ông ấy có thể hợp tác."
+Khanh nghĩ, rồi gật đầu. "Có một người. Ông Nguyễn Văn Tâm, bác sĩ y tế huyện, về hưu. Lý lịch rất tốt — con liệt sĩ, là thương binh, đảng viên. Ông ấy không kinh doanh, nhưng ông có mặt bằng — một căn nhà mặt đường chợ huyện, đang cho thuê làm kho. Nếu cậu nói chuyện khéo, ông ấy có thể hợp tác."
 
 Bác sĩ Tâm. Hùng ghi nhớ. "Anh giới thiệu em với ông ấy được không?"
 
@@ -164,7 +164,6 @@ Ngoài sân, trăng đã lên cao. Gió lạnh hơn. Hùng lấy chăn (từ kh�
 
 Hùng nhắm mắt. Ngày mai: đưa bà đi khám, bán hàng, và chờ tin ông Tâm. Ba việc, một ngày. Nhưng ông sẵn sàng.
 
-
 ---
 
 Rời nhà ông Tâm, Hùng không coi câu ‘để tôi nghĩ’ là một cái gật đầu. Ông quay lại căn kho mặt chợ, đứng ngoài đo bằng bước chân: ngang bốn bước, sâu mười một bước, cửa gỗ đủ rộng cho hai người khiêng kiện vải. Mái ngói phía sau xô một hàng. Nếu thuê, chỗ dột phải ghi ngay vào giấy, không để đến mùa mưa mới cãi nhau.
@@ -192,4 +191,5 @@ Tổng EXP: 166 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
 Ghi chú: Gặp ông Tâm; hợp tác thử; chuẩn bị Hà Nội.
+
 ============================================================

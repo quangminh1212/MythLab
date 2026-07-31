@@ -448,11 +448,9 @@ Ai có tiền cũng muốn mua.
 
 Hùng gật, nhưng mắt vẫn dõi vòng bi: chỗ nào kêu là chỗ còn phải sửa.
 
-
 Hùng lật sổ cái, bút chì ghi chép.
 
 Minh đến sau lưng, tay xoa vai anh.
-
 
 Mưa rơi trên mái ngói, tiếng mưa rì rào.
 
@@ -490,4 +488,5 @@ Tổng EXP: 3,400 (+200)
 Không gian kho: 2,550m² (+50m²)
 Kỹ năng trọng yếu: Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
 Ghi chú: Thử sản xuất quạt điện: mẫu chạy nóng/ổ bi; chưa treo giá khi chưa đủ tiêu chuẩn.
+
 ============================================================

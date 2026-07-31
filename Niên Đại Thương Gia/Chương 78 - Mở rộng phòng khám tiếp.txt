@@ -240,11 +240,11 @@ Bác sĩ Đức gật. Ông nhìn quanh phòng khám cũ — căn phòng bốn m
 
 Về nhà, trời nhá nhem tối.
 
-Cơm đã dọn. Canh bí đao nấu tôm khô, đậu phụ rán, cà muối. Ba người ngồi quanh mâm. Hùng kể chuyện giấy phép đã có, tuần sau chuyển đồ, cuối tháng phòng khám mới mở cửa. Bà Hà lẳng lặng gắp cho chồng miếng đậu.
+Cơm đã dọn. Canh bí đao nấu tôm khô, đậu phụ rán, cà muối. Ba người ngồi quanh mâm. Hùng kể chuyện giấy phép đã có, tuần sau chuyển đồ, cuối tháng phòng khám mới mở cửa. Bà Hà lẳng lặng gắp cho con miếng đậu.
 
 "Mở rộng xong rồi tính gì tiếp?" bà hỏi.
 
-Tính gì tiếp. Câu hỏi của người biết chồng mình không bao giờ dừng ở một chỗ. Hùng chưa trả lời ngay — ông nhai miếng cơm, suy nghĩ.
+Tính gì tiếp. Câu hỏi của người biết con trai mình không bao giờ dừng ở một chỗ. Hùng chưa trả lời ngay — ông nhai miếng cơm, suy nghĩ.
 
 "Còn vài việc phải xong đã: máy tiệt trùng chưa về, bàn thủ thuật đang gia công, bác sĩ Cường chưa gặp trực tiếp. Làm xong mấy cái đó rồi tính tiếp."
 
@@ -308,4 +308,5 @@ Tổng EXP: 11,750 (+250 nhịp này)
 Không gian kho: 4,371m² (+57m²)
 Kỹ năng trọng yếu: Y tế lv1, Đầu tư lv2, Quản lý lv1
 Ghi chú: Mở rộng phòng khám tiếp: tách luồng, ghế chờ, ca ưu tiên — không cơ sở 2 vội
+
 ============================================================

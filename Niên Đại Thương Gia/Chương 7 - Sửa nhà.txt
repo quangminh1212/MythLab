@@ -51,7 +51,6 @@ Hùng tiếp tục dẫn bò, đi về làng. Gió thổi, lúa xanh, trời xan
 Về đến nhà, Hùng đỡ bà vào nhà, cho bà uống thuốc, rồi nấu cháo bò cho bà ăn trưa. Bà ăn được một bát, rồi ngủ.
 
 Buổi chiều, Hùng bắt đầu sửa nhà. Căn nhà đất nện, mái lá cọ, sàn gỗ cũ — đã xuống cấp nghiêm trọng. Mái dột nhiều chỗ, tường nứt, sàn mục. Mùa mưa sắp đến — nếu không sửa, nhà sẽ không chịu nổi.
-Gỗ mít ẩm.
 
 Hùng không thể sửa toàn bộ — cần vật liệu, thợ, và giấy phép xây dựng (trong thời bao cấp, xây sửa nhà cũng cần xin phép). Nhưng ông có thể sửa những phần quan trọng nhất: mái và sàn.
 
@@ -66,7 +65,6 @@ Hùng không thể sửa toàn bộ — cần vật liệu, thợ, và giấy ph
 "Cháu có." Hùng nói. "Cháu bán hàng kiếm được."
 
 Ông Lân gật đầu, không hỏi thêm. Ông là người kín miệng — biết nhưng không nói, thấy nhưng không bình luận. Ông chỉ làm việc, làm tốt, và nhận tiền xứng đáng.
-Nóng rát gáy nắng hè.
 
 Hùng đi huyện, mua tôn lợp mái — 10 tấm tôn, giá 3 đồng/tấm = 30 đồng. Tôn mua ở cửa hàng vật liệu huyện, hàng chính thức, không cần phiếu. Ông chở tôn trên xe bò (mượn thêm một lần, 5 đồng), về làng.
 
@@ -76,7 +74,7 @@ Hùng phụ ông Lân — khuân gỗ, giữ tôn, trộn vữa. Cơ thể Hùng
 
 Lan cũng phụ — cô bưng nước, lau mồ hôi, nấu cơm trưa cho thợ. Cô nấu cơm trắng, canh trứng, thịt heo kho — bữa cơm thợ theo tiêu chuẩn thời bao cấp. Ông Lân ăn, gật đầu khen: "Ngon. Cô Lan nấu giỏi thế."
 
-Lan cười, đỏ mặt. "Em học bà nội."
+Lan cười, đỏ mặt. "Em học bà Hà."
 
 Sửa nhà mất hai ngày — ngày hôm nay và ngày mai. Tổng chi phí: tôn 30 đồng + gỗ 20 đồng + công thợ 15 đồng + xe bò 10 đồng = 75 đồng. Đắt theo tiêu chuẩn thời bao cấp, nhưng Hùng có tiền — 738 đồng ngoài, đủ để sửa nhà và vẫn còn vốn kinh doanh.
 
@@ -120,7 +118,6 @@ Hùng nhắm mắt, vào không gian. Không gian 1.200m², nhà gỗ, suối ch
 Mái tôn mới. Sàn gỗ mới. Bà uống thuốc. Lan cười. Gia đình đang thay đổi — từng bước, từng ngày. Từ căn nhà dột rách đến mái tôn ấm. Từ bát cháo loãng đến cơm trắng thịt bò. Từ tuyệt vọng đến hy vọng.
 
 Và đây mới chỉ là tuần đầu tiên.
-
 
 ---
 
@@ -167,4 +164,5 @@ Tổng EXP: 212 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
 Ghi chú: Sửa nhà; mưa thử mái; giữ vốn chuyến Hà Nội.
+
 ============================================================

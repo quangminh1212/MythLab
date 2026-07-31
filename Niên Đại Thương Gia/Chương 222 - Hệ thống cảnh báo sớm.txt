@@ -2,7 +2,7 @@
 Chương 222: Hệ thống cảnh báo sớm
 ============================================================
 
-Tháng Tám năm 2008, Hùng gọi Hoàng lên phòng làm việc. Hoàng vừa về từ một khóa đào tạo ngắn hạn ở Singapore về quản trị rủi ro tài chính — thứ mà anh tự bỏ tiền túi đi học, không xin công ty. Hùng thích những người tự đầu tư vào bản thân. Khi Hoàng gõ cửa — tiếng gõ nhẹ, đều ba nhịp — Hùng đang đọc một báo cáo dài mười hai trang về tình hình xuất khẩu quý II, trên bàn cạnh tách cà phê đã nguội từ lâu, mặt nước phẳng lặng với một lớp váng mỏng. Mùi giấy mới in, mùi mực từ máy photocopy vẫn còn phảng phất trong phòng.
+Tháng Tám năm 2008, Hùng gọi Hoàng lên phòng làm việc. Hoàng vừa về từ một khóa đào tạo ngắn hạn ở Singapore về quản trị rủi ro tài chính — thứ mà anh tự bỏ tiền túi đi học, không xin công ty. Hùng thích những người tự đầu tư vào . Khi Hoàng gõ cửa — tiếng gõ nhẹ, đều ba nhịp — Hùng đang đọc một báo cáo dài mười hai trang về tình hình xuất khẩu quý II, trên bàn cạnh tách cà phê đã nguội từ lâu, mặt nước phẳng lặng với một lớp váng mỏng. Mùi giấy mới in, mùi mực từ máy photocopy vẫn còn phảng phất trong phòng.
 
 "Ngồi xuống," Hùng nói, không rời mắt khỏi tập báo cáo. "Anh nghe nói em học về rủi ro tài chính. Dạy lại anh."
 
@@ -129,7 +129,7 @@ Hùng đợi cho mọi người ổn định, rồi đứng lên.
 "Tôi sẽ nói thẳng," Hùng mở đầu, giọng đều, không nhanh không chậm. "Nền kinh tế toàn cầu đang đi vào khủng hoảng. Tôi không biết nó sẽ tồi tệ đến mức nào. Nhưng tôi biết Thương Gia cần chuẩn bị cho kịch bản xấu nhất."
 
 Ông mở bảng tính của Hoàng trên máy chiếu. Bốn ô màu cam, một ô màu đỏ — trông như một bảng điều khiển của máy bay sắp gặp bão.
-Vải mới cắt thơm mùi hồ.
+Vải mới cắt thơm thoang thoảng.
 
 "Năm chỉ số. Bốn trong số đó đã chuyển sang cam. Một — credit spread — đã chạm ngưỡng đỏ. Nếu các anh chị không hiểu credit spread là gì, nó là thước đo nỗi sợ của thị trường. Nỗi sợ đó đang ở mức cao nhất trong mười năm."
 
@@ -184,7 +184,6 @@ Hùng không trả lời ngay. Ông nhìn tách trà, nhìn hơi nước bốc l
 Bà Hà nhìn con trai, một lúc lâu. "Tiền thì kiếm lại được. Cơ hội thì sau này sẽ có. Người — nếu mất, khó tìm lại. Con nhớ điều đó."
 
 Hùng gật. Ông không nói gì thêm. Nhưng trong lòng, ông biết mẹ mình nói đúng. Một lần nữa, bà không cần học về tài chính để hiểu những điều quan trọng nhất.
-Bùn non dưới ruộng lúa mới cày.
 
 Hùng uống hết tách trà, đứng dậy. "Mẹ đi ngủ đi. Con lên phòng."
 
@@ -200,4 +199,5 @@ Tổng EXP: 49,572 (+163 nhịp này)
 Không gian kho: 17,744m² (+136m²)
 Kỹ năng trọng yếu: Quản trị khủng hoảng lv2, Lãnh đạo lv3, Dự báo rủi ro lv1
 Ghi chú: Hệ thống cảnh báo sớm — 12 chỉ số; Hải vận hành dashboard.
+
 ============================================================

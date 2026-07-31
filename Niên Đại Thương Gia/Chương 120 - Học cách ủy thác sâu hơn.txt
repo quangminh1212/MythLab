@@ -154,7 +154,6 @@ Trước khi ngủ, ông ghi dòng cuối vào sổ: "Ủy thác không phải c
 
 ============================================================
 
-
 ---
 
 Chiều cùng ngày, một người đàn ông gầy đứng ngoài cổng Thương Gia. Áo sơ mi trắng bạc màu, dép cao su mòn gót. Hùng nhận ra ngay: Trần Văn Bắc — người từng bán chung với ông ở chợ huyện năm 1984. Thời ấy họ chia nhau một sạp vải, ngủ chung chiếu.
@@ -169,9 +168,7 @@ Bắc im lặng. Gió chiều thổi qua sân, mang mùi sắt từ xưởng. "A
 
 Hùng nhìn bóng Bắc khuất sau cổng. Ông không biết — từ bước chân đó, một mối thù thầm lặng đã bắt đầu.
 
-
 ============================================================
-
 
 Hoàng hôn buông xuống, ánh đèn đường hắt vào phòng qua khe cửa. Hùng ngồi một mình, tay đặt trên cuốn sổ xanh nhưng không mở. Tiếng Lan thu dọn giấy tờ ngoài phòng ngoài, tiếng chìa khóa leng keng, tiếng cửa khép nhẹ rồi im bặt. Bóng tối phủ dần từng góc nhà. Hùng không bật đèn — ngồi trong tối, nghe tiếng dế lẻ loi từ gốc cây ngoài sân. Một ngày trôi qua mà ông không hề đụng tay vào việc của người khác. Cảm giác ấy vừa lạ vừa mới, như lần đầu biết đi xe đạp — chênh vênh, nhưng có thể. Giữa bóng tối và tiếng dế, Hùng mỉm cười. Ngày mai, ông sẽ giao tiếp.
 
@@ -250,4 +247,5 @@ Tổng EXP: 18,667 (+84)
 Không gian kho: 6,033m² (+16m²)
 Kỹ năng trọng yếu: Logistics lv2, Thương mại lv3, Quản lý lv1, Tài chính lv2, Sản xuất lv1
 Ghi chú: Ủy thác sâu — 6 nguyên tắc; Lan −2% khách cash; seed Trần Văn Bắc
+
 ============================================================

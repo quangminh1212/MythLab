@@ -220,7 +220,6 @@ Cả hai không reo hò. Họ ngồi trong phòng làm việc nhỏ, mở lịch
 
 Trong sổ tay, Hùng viết: "Seoul, 1990. Đối tác cứng là tốt. Lô đầu 20 container — gạo thơm và mì. Cửa mở. Kim nói mình cứng — vậy là họ tôn trọng."
 
-
 Một người khách đến, mắt đỏ hoe. Hùng tiếp khách, mắt nhìn người đó đầy thấu hiểu. “Có chuyện gì thế?” Người khách kể, Hùng lắng nghe, không ngắt. Khi người khách kể xong, Hùng gật đầu, tay đưa ly nước. “Không sao. Rồi mọi chuyện sẽ qua.” Ông nói, giọng ấm. Người khách cầm ly nước, tay hết run.
 
 Buổi chiều, Hùng ngồi ngoài hiên nhà, nhìn ra đường phố. Gót chân người qua lại, tiếng xe cộ xa xa. Lan đi ra, tay cầm ly nước. “Anh uống đi.” Hùng nhận ly, tay chạm tay Lan. Mùi nước mát. “Cảm ơn em.” Ông uống một ngụm, mát lạnh. Ông thở dài, mỏ mệt nhưng lòng nhẹ.
@@ -233,4 +232,5 @@ Tổng EXP: 21,120 (+180 nhịp này)
 Không gian kho: 6,848m² (+72m²)
 Kỹ năng: Logistics lv3, Giáo dục lv2, Lãnh đạo lv2
 Ghi chú: Seoul — Daesang Logistics, 20 container
+
 ============================================================

@@ -2,7 +2,7 @@
 Chương 247: AI sơ khai trong quản lý kho
 ============================================================
 
-Năm 2006, Hải Phòng.
+Năm 2009, Hải Phòng.
 
 Lê Anh Dũng ngồi trước màn hình máy tính trong căn phòng nhỏ nóng hầm hập. Trên bàn là ba cuốn sách đã cũ: "Cấu trúc dữ liệu và giải thuật" của Nguyễn Văn Thường, "Kỹ thuật lập trình" do một tác giả người Nga viết được dịch sang tiếng Việt, và một cuốn sách tiếng Anh mua từ hiệu sách cũ trên mạng với nhan đề "Machine Learning — An Algorithmic Perspective." Ngoài cửa sổ, tiếng máy móc từ nhà máy vọng vào ồn ào không dứt. Cơn nóng tháng Sáu ở Hải Phòng làm cả căn phòng như một cái lò bánh mì — nhiệt độ lên đến ba mươi lăm độ C ngay cả khi ngồi yên. Nhưng Dũng không để ý đến cái nóng. Mắt anh dán chặt vào dòng chữ trên màn hình — những con số, những dòng code, và trên hết, một bài toán đã ám ảnh anh suốt ba tháng nay.
 
@@ -60,7 +60,6 @@ Năm 2007, hệ thống quản lý kho thông minh của Dũng — thứ mà sau
 
 Nhưng giá trị thực sự không nằm ở 400 triệu đồng tiết kiệm được. Giá trị thực sự là nền móng. Bởi từ hệ thống dữ liệu ban đầu này, Thương Gia bắt đầu xây dựng những thứ lớn hơn nhiều. Trung tâm dữ liệu. Phân tích thị trường tiêu dùng. Dự báo xu hướng bán hàng theo mùa vụ. Và cuối cùng — bước ra thế giới, với công nghệ do chính người Việt Nam viết ra.
 
-
 Tối hôm đó, Hùng gọi điện cho Dũng. Cuộc gọi kéo dài bốn mươi lăm phút — không phải để khen, mà để hỏi: "Mô hình này có thể áp dụng cho dự báo nhu cầu nguyên liệu không?" Dũng đáp: "Được. Nhưng cần dữ liệu dài hơn, ít nhất ba năm." Hùng ghi vào sổ tay. Ông biết câu trả lời ấy mở ra một cánh cửa khác — không chỉ quản lý kho, mà cả chuỗi cung ứng thông minh.
 
 Sáng hôm sau, Hùng đến phòng lab của Dũng. Màn hình máy tính mới Dell Precision sáng trưng, ánh đèn phản chiếu lên mặt kính. Dũng kéo ghế cho ông ngồi. Trên màn hình là đồ thị đường cong dự báo — đường thực tế và đường dự đoán nằm gần nhau đến kinh ngạc.
@@ -87,7 +86,7 @@ Hùng nhìn cô, gật nhẹ. Ông luôn biết Lan nghĩ nhanh hơn ông về m
 
 "Em thử đi," ông nói. "Nhưng đừng nói với Dũng rằng anh gợi ý. Để cậu ấy tự phát triển — cậu ấy sẽ tìm ra cách tốt hơn nếu không bị gò bó trong khuôn khổ của mình."
 
-Lan gật đầu,弯腰 lấy một tập hồ sơ từ ngăn kéo. Trong tập ấy có danh sách mười lỗ hổng tồn kho lớn nhất của hệ thống hiện tại. Cô đã chuẩn bị từ trước — chỉ chờ một tín hiệu.
+Lan gật đầu,cúi xuống lấy một tập hồ sơ từ ngăn kéo. Trong tập ấy có danh sách mười lỗ hổng tồn kho lớn nhất của hệ thống hiện tại. Cô đã chuẩn bị từ trước — chỉ chờ một tín hiệu.
 
 Tối hôm đó, về đến nhà, Hùng ngồi ở hiên sau. Bà Hà đang rửa bát, tiếng nước chảy rì rào. Qua khung cửa sổ mở, ông thấy bóng đèn vàng trong bếp chiếu xuống tóc bà đã bạc trắng. Ông nghĩ đến Dũng — cậu kỹ sư trẻ ngồi trong căn phòng nóng hầm hập, ba cuốn sách cũ trên bàn, viết nên tương lai bằng những dòng code. Và ông nghĩ đến Lan — cô em gái đã lớn lên từ một cô gái bán hàng ở chợ thành người quản lý hàng tỷ đồng. Thương Gia không chỉ là một tập đoàn. Nó là nơi những giấc mơ nhỏ bé nhất — một hệ thống tồn kho, một bản báo cáo, một chuyến hàng đúng giờ — chất chồng lại thành điều lớn lao.
 
@@ -105,9 +104,10 @@ Anh gấp sổ lại, thở dài, tắt đèn. Đi qua hành lang vắng, chân 
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.247」
-Năm: 2006
+Năm: 2009
 Tổng EXP: 54,333 (+333)
 Không gian kho: 21,167m² (+167m²)
 Kỹ năng trọng yếu: Công nghệ cao lv2, Quản trị dữ liệu lv2, Quản lý kho lv3
 Ghi chú: Hệ thống dự báo tồn kho đầu tiên — độ chính xác 82%
+
 ============================================================

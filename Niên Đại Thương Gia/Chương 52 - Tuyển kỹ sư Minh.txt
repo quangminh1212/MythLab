@@ -76,7 +76,6 @@ Lan ngẩng lên. “Nó qua kiểm rồi.”
 
 “Chưa.”
 
-Minh hỏi loại keo, tỷ lệ pha, thời gian để keo, nhiệt độ ép, lực ép, độ ẩm kho da. Bùn non dưới ruộng lúa mới cày. Lan trả lời được số lô và người làm, không trả lời được ba câu kỹ thuật. Minh không tỏ vẻ đắc thắng. Anh lấy bút chì, vẽ mặt cắt đường dán lên mặt sau tờ giấy gói thuốc.
 
 “Có thể mặt cao su chưa xử lý sạch. Có thể dung môi bay quá nhanh. Cũng có thể máy ép nóng không đều. Chưa đo thì không kết luận.”
 
@@ -182,13 +181,13 @@ Minh đặt bản hợp đồng xuống. “Tôi còn một điều. Tôi không
 
 “Thưởng theo sản lượng sẽ ép tôi cho máy chạy. Kỹ thuật phải được đánh giá bằng tỷ lệ lỗi, thời gian dừng và số lần lỗi lặp lại.”
 
-Hùng sửa ngay mục thưởng. Ba chỉ số được ghi rõ: hàng trả do lỗi kỹ thuật; thời gian dừng máy ngoài kế hoạch; lỗi đã có biện pháp nhưng tái diễn. Than tổ ong lúc nửa đêm. Không thưởng vì báo cáo đẹp. Không phạt người phát hiện lỗi trước khi hàng rời xưởng.
+Hùng sửa ngay mục thưởng. Ba chỉ số được ghi rõ: hàng trả do lỗi kỹ thuật; thời gian dừng máy ngoài kế hoạch; lỗi đã có biện pháp nhưng tái diễn. lúc nửa đêm. Không thưởng vì báo cáo đẹp. Không phạt người phát hiện lỗi trước khi hàng rời xưởng.
 
-Hùng trước áp kế máy ép. Tay ông nắm van keo, siết một cái, buông.  Mắt ông nhìn thẳng vào số. Minh liếc gioăng tạm, cau mày, rồi gật khi thấy khớp.
+Hùng trước áp kế máy ép. Tay ông nắm van keo, siết một cái, buông. Mắt ông nhìn thẳng vào số. Minh liếc gioăng tạm, cau mày, rồi gật khi thấy khớp.
 
 Lan cầm sổ thưởng lỗi, cúi ghi hai dòng, ngẩng lên. Mắt cô không cười. Tay cô run nhẹ rồi vững. Hùng liếc trang sổ, gật. Ông siết bút, buông xuống mặt gỗ. Tiếng bút chạm bàn khô. Mùi bụi và mùi mực ấm. Gió lùa cửa, lạnh cổ tay.
 
- Ông ngẩng chào mẹ, thở ra. Lan siết mép sổ lần cuối, buông.  
+ Ông ngẩng chào mẹ, thở ra. Lan siết mép sổ lần cuối, buông. 
 
 “Anh có thể bắt đầu khi nào?” Hùng hỏi.
 
@@ -291,7 +290,7 @@ Ngoài sân, tiếng xe đạp của công nhân ca tối lách cách qua cổng
 Hùng nhìn những ô có số, có tên, có hạn. Tuyển kỹ sư Minh hoàn tất không phải ở nét bút trên hợp đồng, mà ở khoảnh khắc xưởng tiếp tục làm đúng khi cả ông lẫn Minh đều quay lưng.
 Đêm ký xong, Hùng không mở rượu. Ông chỉ mở quạt trần cho xưởng bớt nóng keo. Minh đứng ngoài cửa, tay còn dính mùi dung môi, nhìn mẹ Thu dắt con sang cổng đón.
 
-Trước khi gấp sổ, Hùng nhíu lần cuối nhìn áp kế máy ép. Tay siết van keo, buông.  Lan liếc sổ thưởng lỗi, cúi ký, ngẩng gật. Lan không né dòng xấu trong sổ. Mùi hiện trường còn bám áo. Tiếng xung quanh gioăng tạm không tắt.  Lan đóng sổ. 
+Trước khi gấp sổ, Hùng nhíu lần cuối nhìn áp kế máy ép. Tay siết van keo, buông. Lan liếc sổ thưởng lỗi, cúi ký, ngẩng gật. Lan không né dòng xấu trong sổ. Mùi hiện trường còn bám áo. Tiếng xung quanh gioăng tạm không tắt. Lan đóng sổ. 
 
 "Ba tháng," Minh nói. "Nếu tỷ lệ bong đế không xuống, tôi tự nghỉ."
 
@@ -309,4 +308,5 @@ Tổng EXP: 5,720 (+260)
 Không gian kho: 3,100m² (+50m²)
 Kỹ năng trọng yếu: Quản lý lv1, Thương mại lv3, Đầu tư lv1
 Ghi chú: Tuyển Minh sau audit keo/máy ép; HĐ 14/12 thưởng theo lỗi giảm, quyền dừng máy giữ nguyên.
+
 ============================================================

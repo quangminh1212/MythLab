@@ -58,7 +58,7 @@ Cô Lan.
 
 Ông không biết mặt, không biết tính, không biết họ như thế nào.
 
-Ông chỉ biết rằng mình đã ba mươi mấy, bà Hà tám năm trông cháu nội, và mỗi lần về nhà muộn, nhìn thấy bà ngồi đan áo dưới bóng đèn dầu, ông thấy mình có một cái nợ không thể trả bằng tiền.
+Ông chỉ biết rằng mình đã ba mươi mấy, bà Hà tám năm trmẹ con nội, và mỗi lần về nhà muộn, nhìn thấy bà ngồi đan áo dưới bóng đèn dầu, ông thấy mình có một cái nợ không thể trả bằng tiền.
 
 Nhưng ông cũng biết: tìm vợ khác với tìm đối tác.
 
@@ -533,4 +533,5 @@ Tổng EXP: 15,409 (+182 nhịp này)
 Không gian kho: 5,227m² (+45m²)
 Kỹ năng trọng yếu: Logistics lv1, Logistics lv2, Tài chính lv1
 Ghi chú: Đà Nẵng: Mai (y) + cô Lan GV (Hải Dương) — hai buổi riêng; Bảy may 5%; chưa chọn; em gái Trần Thị Lan viết thư.
+
 ============================================================

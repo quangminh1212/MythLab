@@ -2,8 +2,6 @@
 Chương 53: Mở phòng khám
 ============================================================
 
-============================================================
-
 Bảy giờ sáng, bác sĩ Tuấn đặt chiếc ống nghe xuống bàn và nói căn nhà trước mặt không thể dùng làm phòng khám.
 
 Đó là một căn nhà hai tầng ở đầu phố, cách chợ chưa đầy năm phút đi bộ. Đau vai vì gánh hàng cả ngày. Mặt tiền rộng, sân đủ chỗ dựng xe đạp, phía sau có giếng và một gian bếp cũ. Hùng đã xem nó hai lần. Lan đã thương lượng được giá thuê thấp hơn một cửa hàng cùng phố. Nếu chỉ nhìn vị trí và tiền, đây gần như là lựa chọn tốt nhất.
@@ -68,7 +66,7 @@ Hùng yêu cầu đào lại rãnh.
 
 Rãnh được đào sâu thêm, có tấm chắn rác tháo rửa được. Hùng trả phần công phát sinh vì bản vẽ ban đầu thiếu cao độ. Ông không ép thợ chịu lỗi mà mình đã duyệt.
 
-Song song với công trình, Lan đi tìm nguồn thuốc và vật tư. Nhà cung cấp thứ hai có giấy tờ đủ, giá cao hơn, cho đổi hàng còn nguyên nếu hạn dùng dưới sáu tháng. Tê nhức ngón tay sau giờ viết sổ liên tục.
+Song song với công trình, Lan đi tìm nguồn thuốc và vật tư. Nhà cung cấp thứ hai có giấy tờ đủ, giá cao hơn, cho đổi hàng còn nguyên nếu hạn dùng dưới sáu tháng. tê cứng ngón tay sau giờ viết sổ liên tục.
 
 Một buổi chiều, ba thùng thuốc tới sớm hơn lịch. Vân định nhận vì sợ xe quay đi.
 
@@ -202,4 +200,5 @@ Tổng EXP: 5,980 (+260 nhịp này)
 Không gian kho: 3,150m² (+50m²)
 Kỹ năng trọng yếu: Quản lý lv1, Thương mại lv3, Đầu tư lv1
 Ghi chú: Phòng khám An Tín: phạm vi rõ, 13 chuyển viện tháng 1; không mua máy XN sớm; Hòa y ≠ Hòa quầy.
+
 ============================================================

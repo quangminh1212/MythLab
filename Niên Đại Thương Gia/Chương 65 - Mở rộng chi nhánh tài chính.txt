@@ -288,7 +288,6 @@ Lan gật, xoa cổ tay, cười mệt:
 
 Họ tách ở đầu ngõ. Đèn dầu hàng nước leo lét. Chi nhánh ngày thứ tư không còn là tấm biển mới — nó là chỗ bà gạo rút được tiền, chỗ xưởng may nhận được vải qua đúng tài khoản, và chỗ mười đồng lệch không được ngủ yên qua đêm. Phía trước còn ba tháng thử lửa trước khi ai đó khoanh bản đồ thêm điểm đỏ — và Hùng chấp nhận để bản đồ chờ, miễn sổ còn thở.
 
-
 ============================================================
 
 ***
@@ -323,7 +322,6 @@ Hùng nhìn em gái, mắt ông chậm lại một nhịp, gật:
 
 Họ tắt đèn. Bóng tối ập vào quầy. Ngoài phố tiếng xe bò qua. Việc tài chính ngày thường không kêu to — nó chỉ kêu khi lệch. Tuần này nó chưa kêu. Thế là đủ để đi ngủ mà không phải mở lại két giữa đêm.
 
-
 Trên đường về Quốc Oai, Hùng ghé qua nhà bà Hà một chút. Bà đang phơi nắm cơm, mùi gạo nóng. Bà nhìn con, không hỏi lãi suất.
 
 — Hôm nay có ai khóc vì tiền không?
@@ -334,7 +332,8 @@ Bà Hà gật, siết tay con một cái ngắn rồi buông:
 
 — Về sớm. Mắt mày đỏ.
 
-Hùng cười, cúi chào mẹ, đạp xe tiếp. Gió đêm lạnh mặt. Ông nghĩ đến bảng bốn mục trên tường chi nhánh — bốn cái tên, bốn việc — và biết rằng mở rộng tài chính không bắt đầu bằng bản đồ nhiều điểm đỏ, mà bắt đầu bằng một đêm quỹ khớp và một bà bán gạo còn muốn quay lại.
+
+Ông ngồi thêm một lúc, lắng nghe tiếng gió thổi qua hàng cây ngoài sân. Tiếng lá rụng xoay trên mặt đất, tiếng chim sẻ kêu ríu rít trên cành cao, tiếng trẻ con chơi ngoài ngõ vọng lại xa xa. Một buổi chiều bình thường ở Hà Nội, nhưng trong lòng ông, mọi thứ đều có ý nghĩa. Ông nghĩ về những người đã giúp ông đến được ngày hôm nay — gia đình, bạn bè, đồng nghiệp, những công nhân lặng lẽ làm việc mỗi ngày. Họ không biết tên ông trên báo, nhưng ông biết tên từng người trong sổ.
 
 「Hệ thống — GHI NHẬN ch.65」
 Năm: 1985
@@ -342,4 +341,5 @@ Tổng EXP: 8,867 (+214 nhịp này)
 Không gian kho: 3,733m² (+46m²)
 Kỹ năng trọng yếu: Tài chính lv1, Quản lý lv1, Thương mại lv3, Đầu tư lv2, Chiến lược lv1
 Ghi chú: Mở chi nhánh tài chính — quy tắc tồn quỹ/công nợ/hồ sơ trễ/khiếu nại có tên; vay xưởng may giải ngân theo dòng hàng; từ chối mở điểm đồng loạt trước khi chạy đủ ba tháng
+
 ============================================================

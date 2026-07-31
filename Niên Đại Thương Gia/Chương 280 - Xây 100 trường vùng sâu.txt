@@ -4,7 +4,7 @@ Chương 280: Xây 100 trường vùng sâu
 
 2010.
 
-Ý tưởng xây một trăm trường học vùng sâu không đến từ một cuộc họp hay một bản báo cáo nào. Nó đến từ một buổi tối tháng hai năm 2010, khi Hùng và Lan đang ăn tối cùng nhau.
+Ý tưởng xây một trăm trường học vùng sâu không đến từ một cuộc họp hay một bản báo cáo nào. Nó đến từ một buổi tối tháng hai năm 2007, khi Hùng và Lan đang ăn tối cùng nhau.
 
 Bà Hà vừa đi ngủ sớm vì đau đầu. Trong bếp chỉ còn hai người. Bát canh còn nóng, đĩa cá kho còn nguyên, nhưng cả hai đều ăn chậm, như có điều gì đó đang suy nghĩ.
 
@@ -210,9 +210,10 @@ Nhưng một tuần sau, thầy Sùng gọi: "Anh Hùng, có người đến g�
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.280」
-Năm: 2010
+Năm: 2007
 Tổng EXP: 65,333 (+333)
 Không gian kho: 28,333m² (+333m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
 Ghi chú: nhịp Phần 5
+
 ============================================================

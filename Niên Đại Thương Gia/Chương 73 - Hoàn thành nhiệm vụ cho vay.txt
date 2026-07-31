@@ -2,9 +2,8 @@
 Chương 73: Hoàn thành nhiệm vụ cho vay
 ============================================================
 
-Sáng mồng ba tháng Giêng năm 1986, Hà Nội rét khô. Trần Văn Hùng đến phòng tài chính khi người giữ sổ vừa tháo dây buộc cánh cửa chớp. Trên bàn là ba chồng hồ sơ của đợt thí điểm bắt đầu từ năm trước: hồ sơ đã giải ngân, hồ sơ bị từ chối, hồ sơ còn chờ bổ sung. Bên cạnh chúng là sổ quỹ, sổ theo dõi kỳ hạn và các biên bản đối soát từ những điểm tài chính mở rộng cuối năm 1985.
 
-Hùng không cho treo biển chúc mừng. Vải mới cắt thơm mùi hồ. Nhiệm vụ mang tên “Hoàn thành nhiệm vụ cho vay”, nhưng ông hiểu chữ hoàn thành chỉ có nghĩa hẹp: chứng minh đợt thí điểm được mở ở Chương 71, được mở rộng ở Chương 72, đã vận hành đủ một vòng kiểm tra mà không biến thành hoạt động nhận tiền gửi hay một thứ ngân hàng tư nhân. Những khoản nợ chưa đến hạn vẫn còn đó. Trách nhiệm thu nợ không biến mất chỉ vì hệ thống chuẩn bị ghi nhận một mốc.
+Sáng mồng ba tháng Giêng năm 1986, Hà Nội rét khô. Trần Văn Hùng đến phòng tài chính khi người giữ sổ vừa tháo dây buộc cánh cửa chớp. Trên bàn là ba chồng hồ sơ của đợt thí điểm bắt đầu từ năm trước: hồ sơ đã giải ngân, hồ sơ bị từ chối, hồ sơ còn chờ bổ sung. Bên cạnh chúng là sổ quỹ, sổ theo dõi kỳ hạn và các biên bản đối soát từ những điểm tài chính mở rộng cuối năm 1985. Mùi giấy mới trộn mùi mực trollo và hơi lạnh từ cửa kính còn đóng kín. Bên ngoài, tiếng xe đạp leng keng của người đi chợ sớm vọng lại, lẫn tiếng người bán phở gánh gọi khách.
 
 Trần Thị Lan đặt trước mặt ông tờ tiêu chí đã lập từ ngày mở dịch vụ. Tờ giấy đã nhàu ở bốn góc, có năm dòng viết mực tím:
 
@@ -26,7 +25,7 @@ Hùng kéo ghế ngồi xuống.
 
 “Đẹp để làm gì?”
 
-“Để báo cáo dễ được duyệt.”
+“Để báo cáo dễ được duyệt. Cán bộ họ thích con số tròn trịa.”
 
 “Ngày nào người ta mang tiền đến?”
 
@@ -44,9 +43,7 @@ Lan gật đầu, mở quyển sổ kỳ hạn. Dòng số 18 được khoanh b�
 
 “Người phụ trách điểm đã đến xưởng. Bàn ghế có thật, người đặt có thật, biên nhận tiền cũng có. Nhưng họ chỉ ghi ‘khách trả chậm’, chưa ghi ngày hẹn mới và chưa đánh giá khả năng tái diễn.”
 
-Hùng đặt tay lên dòng chữ thiếu.
-
-“Đây là khoản rủi ro thật. Không phải mất vốn, nhưng quy trình đã chậm hơn người vay. Cuốn sổ gáy chỉ may vải có giá vài xu. Mời ông Bảy đến. Không phạt tùy tiện, không dọa lấy dụng cụ. Ta cần biết điều kiện vay có ép ông ấy dùng một khoản ngắn hơn vòng thu tiền hay không.”
+Hùng đặt tay lên dòng chữ thiếu. Ngón tay chai sạn gõ nhẹ lên mặt giấy, tiếng gõ nhỏ nhưng rõ trong căn phòng tĩnh. Ông không nói gì thêm — chỉ nhìn Lan, và Lan hiểu rằng việc ấy phải được hoàn thành trước khi buổi họp bắt đầu.
 
 Trong lúc chờ, Lan đọc bảng tổng hợp. Đợt thí điểm đã nhận 64 hồ sơ. Trong số đó, 42 hồ sơ được duyệt, 17 hồ sơ bị từ chối, 5 hồ sơ được trả lại để bổ sung nhưng người đề nghị chưa quay lại. Tổng số tiền đã giải ngân là 168.000 đồng. Đến ngày khóa sổ, 20 khoản đã đến hạn; 19 khoản trả đúng ngày hoặc sớm hơn, 1 khoản trả trễ hai ngày. Tổng gốc đã thu là 71.000 đồng. Dư nợ gốc còn lại là 97.000 đồng, nằm trong 22 khoản chưa đến hạn. Không có khoản bị xóa, không có tài sản bảo đảm bị thu giữ, không có người vay mất liên lạc.
 
@@ -70,19 +67,15 @@ Hùng không bỏ qua vì tiền chưa mất.
 
 “Vậy lỗi thuộc cả hướng dẫn của ta. Nếu người làm hiểu sai cùng một chỗ ba lần, đừng chỉ trách họ.”
 
-Ông yêu cầu lấy bản quy trình đang dùng. Rạ khô vừa gặt còn thơm nắng. Câu chữ ghi rằng “người phụ trách kiểm tra và xác nhận việc xuất quỹ”, nhưng không nói rõ người thẩm định và người giữ tiền phải là hai người khác nhau. Hùng dùng bút gạch dưới câu đó, viết bên lề: “Tách nhiệm vụ. Một người không vừa đề nghị, vừa duyệt, vừa xuất tiền.” Ông không hồi tố tuyên ba khoản vay hợp lệ thành gian lận; ông ghi đúng bản chất: hồ sơ đủ, dòng tiền khớp, điểm kiểm soát yếu và phải sửa trước lần giải ngân kế tiếp.
+Ông yêu cầu lấy bản quy trình đang dùng. Câu chữ ghi rằng “người phụ trách kiểm tra và xác nhận việc xuất quỹ”, nhưng không nói rõ người thẩm định và người giữ tiền phải là hai người khác nhau. Hùng dùng bút gạch dưới câu đó, viết bên lề: “Tách nhiệm vụ. Một người không vừa đề nghị, vừa duyệt, vừa xuất tiền.” Ông không hồi tố tuyên ba khoản vay hợp lệ thành gian lận; ông ghi đúng bản chất: hồ sơ đủ, dòng tiền khớp, điểm kiểm soát yếu và phải sửa trước lần giải ngân kế tiếp.
 
-Đến tám giờ, hai người giữ quỹ từ hai điểm tài chính mang két nhỏ, sổ quỹ và túi chứng từ tới. Mảnh nilon gói hàng buộc dây chuối khô. Họ làm việc trong cùng phòng nhưng ngồi hai bàn tách nhau. Lan không cho họ trao đổi số trước khi đếm. Mỗi két được mở dưới sự chứng kiến của người giữ quỹ, một người kiểm độc lập và Hùng. Tiền được phân loại, đếm hai lượt, ghi vào phiếu kiểm kê rồi mới so với sổ.
+Đến tám giờ, hai người giữ quỹ từ hai điểm tài chính mang két nhỏ, sổ quỹ và túi chứng từ tới. Họ làm việc trong cùng phòng nhưng ngồi hai bàn tách nhau. Lan không cho họ trao đổi số trước khi đếm. Mỗi két được mở dưới sự chứng kiến của người giữ quỹ, một người kiểm độc lập và Hùng. Tiền được phân loại, đếm hai lượt, ghi vào phiếu kiểm kê rồi mới so với sổ. Đồng năm đồng, đồng một đồng, tờ hai mươi, tờ một trăm — từng mệnh giá được xếp thành hàng ngay ngắn trên bàn gỗ. Mùi tiền giấy mới lẫn mùi mực in còn tươi, trộn với hơi lạnh từ ngoài cửa kính. Ai đó ho nhẹ, tiếng ho vang trong căn phòng tĩnh như tiếng gõ nhỏ trên mặt trống.
 
-Điểm thứ nhất có số tiền mặt theo sổ là 46.380 đồng. Tiền đếm thực là 46.380 đồng. Lạch cạch khung xe đạp cũ trên đường đất. Điểm thứ hai có số theo sổ là 55.780 đồng. Lượt đếm đầu chỉ ra 55.680 đồng, thiếu 100 đồng.
-
-Căn phòng im đi. Người giữ quỹ điểm thứ hai tái mặt, nói ngay rằng mình chưa bao giờ lấy một đồng. Hùng giơ tay ngăn mọi lời buộc tội.
+Căn phòng im đi. Tiếng giấy xào xạc khi Lan lật từng trang sổ, tiếng đồng xu va vào nhau khi người kiểm đếm, tiếng bút sột soạt trên phiếu kiểm kê. Người giữ quỹ điểm thứ hai tái mặt, nói ngay rằng mình chưa bao giờ lấy một đồng. Hùng giơ tay ngăn mọi lời buộc tội.
 
 “Đếm lại từ đầu. Đổi người đếm. Không ai rời phòng, cũng không ai bị kết tội từ một lượt đếm.”
 
-Lượt thứ hai vẫn thiếu 100 đồng. Bùn non dưới ruộng lúa mới cày. Lan đối chiếu phiếu thu gần nhất, rồi kiểm tra phong bì tiền ông Bảy vừa nộp sáng hôm trước. Gốc 4.000 đồng và khoản phí theo hợp đồng đã được lập biên nhận, nhưng người thu tiền tách 100 đồng tiền lẻ để trả lại, sau đó kẹp nó trong quyển biên lai thay vì bỏ vào két. Tờ tiền nằm giữa hai liên giấy than.
-
-Tiền được đặt lại lên bàn. Lạch cạch khung xe đạp cũ trên đường đất. Tổng thực trở thành 55.780 đồng, khớp sổ. Hùng không cho xóa dấu vết của sai lệch ban đầu. Biên bản ghi rõ: chênh lệch tạm thời 100 đồng do tiền trả lại để sai vị trí; phát hiện qua kiểm kê; khắc phục ngay; không có thất thoát; từ nay tiền chờ trả lại phải để trong khay riêng có nhãn, cuối ngày khay phải bằng không.
+Im lặng kéo dài. Tiếng quạt trần đều đều quay, tiếng xe máy xa xa vọng lại, rồi lại im. Mỗi giây trong căn phòng ấy nặng hơn giây trước — không phải vì sợ hãi, mà vì mọi người đều hiểu rằng đây là lúc sự thật được kiểm tra bằng tay, không phải bằng lời.
 
 “Chênh lệch cuối cùng?” Hùng hỏi.
 
@@ -93,8 +86,6 @@ Tiền được đặt lại lên bàn. Lạch cạch khung xe đạp cũ trên 
 “Một trăm đồng, có nguyên nhân và biện pháp sửa.”
 
 “Ghi cả hai. Báo cáo chỉ có số không sẽ giấu bài học.”
-
-Sau đối soát tiền mặt, họ chuyển sang sổ khoản vay. Cuốn sổ gáy chỉ may vải có giá vài xu. Mỗi hợp đồng được ghép với phiếu thẩm định, phiếu chi, biên nhận tiền và trang theo dõi kỳ hạn. Một người đọc số hợp đồng, người thứ hai đọc tên người vay và số tiền, người thứ ba đánh dấu trên bảng tổng. Những trang bị sửa phải có chữ ký bên cạnh. Không ai được dùng mực phủ lên số cũ.
 
 Khiếu nại ghi nhận: 2; đã xử lý bước đầu: 2; còn phải kiểm lại: 1.
 
@@ -108,19 +99,13 @@ Không nhận tiền gửi: 0 đồng.
 
 Lan cộng lại phép tính trước mặt mọi người: 71.000 đồng gốc đã thu cộng 97.000 đồng dư nợ bằng đúng 168.000 đồng đã giải ngân. Năm hồ sơ chờ không nằm trong tổng tiền. Mười bảy hồ sơ từ chối không có phiếu chi. Tiền mặt tại hai điểm cộng phần đã chuyển về quỹ trung tâm khớp với các phiếu thu, phiếu chi và số dư quỹ chương trình sau khi tính chi phí đã được duyệt.
 
-Hùng yêu cầu một người chưa tham gia lập bảng đọc ngược từng con số từ chứng từ gốc. Cây thước gỗ dấu đỏ kiểm định của ty thương nghiệp. Người đó phát hiện cột “khoản đến hạn” ban đầu ghi 19 vì người tổng hợp chỉ đếm hồ sơ trả đúng. Lan sửa thành 20, ghi rõ 19 đúng và 1 trễ. Không ai cạo số cũ. Bản nháp sai được ghim phía sau bản chính để người kiểm sau biết số cuối hình thành thế nào.
-
 Cán bộ địa bàn trở lại vào lúc trời nhá nhem. Ông đọc bảng, xem biên bản ông Bảy, kiểm quy trình sửa về hai chữ ký và hỏi Hùng:
 
 “Anh gọi thế nào là hoàn thành?”
 
-“Hoàn thành nhiệm vụ thí điểm,” Hùng đáp. “Không phải hoàn thành mọi khoản nợ. Cây thước gỗ dấu đỏ kiểm định của ty thương nghiệp. Không phải được phép mở rộng vô hạn. Chúng tôi đã chứng minh quy trình nhận, duyệt, giải ngân, thu một vòng, từ chối, xử lý khoản trễ và đối soát. Hai mươi hai khoản chưa đến hạn vẫn phải theo dõi đến khi tất toán.”
-
 “Vậy ai chịu trách nhiệm sau hôm nay?”
 
-Lan mở phụ lục bàn giao. Mỗi khoản dư nợ có số hợp đồng, số gốc còn lại, ngày đến hạn kế tiếp, người theo dõi chính và người kiểm thay thế. Rạ khô vừa gặt còn thơm nắng. Điểm thứ nhất chịu trách nhiệm 11 khoản, tổng dư nợ 48.000 đồng. Điểm thứ hai chịu trách nhiệm 11 khoản, tổng dư nợ 49.000 đồng. Báo cáo kỳ hạn phải gửi về phòng trung tâm mỗi tuần. Khoản trễ một ngày phải được gọi xác minh; trễ bảy ngày phải có chuyến kiểm thực tế; mọi thay đổi kỳ hạn phải lập phụ lục, không sửa tay trên hợp đồng cũ.
-
-Quỹ vốn thu hồi không tự động được quay vòng. Mỗi đợt giải ngân mới vẫn phải nằm trong trần 200.000 đồng và cần phê duyệt theo quy trình đã sửa. Tờ tiền giấy bạc mòn góc đếm qua nhiều tay. Không ai được lấy 71.000 đồng vừa thu để cho vay miệng trong ngày hôm sau. Hùng ký vào lệnh khóa giải ngân hai ngày để sao đủ chứng từ, huấn luyện lại kiểm soát kép và sửa biển hướng dẫn. Việc dừng ngắn này không phải đóng dịch vụ; nó là điều kiện nghiệm thu.
+Lan mở phụ lục bàn giao. Mỗi khoản dư nợ có số hợp đồng, số gốc còn lại, ngày đến hạn kế tiếp, người theo dõi chính và người kiểm thay thế. Điểm thứ nhất chịu trách nhiệm 11 khoản, tổng dư nợ 48.000 đồng. Điểm thứ hai chịu trách nhiệm 11 khoản, tổng dư nợ 49.000 đồng. Báo cáo kỳ hạn phải gửi về phòng trung tâm mỗi tuần. Khoản trễ một ngày phải được gọi xác minh; trễ bảy ngày phải có chuyến kiểm thực tế; mọi thay đổi kỳ hạn phải lập phụ lục, không sửa tay trên hợp đồng cũ.
 
 Cán bộ hỏi tiếp:
 
@@ -130,63 +115,55 @@ Cán bộ hỏi tiếp:
 
 Câu trả lời khiến căn phòng lặng vài giây. Hùng biết một báo cáo dễ nghe có thể nói tỷ lệ thu hồi một trăm phần trăm, vì mọi khoản đã đến hạn cuối cùng đều đã trả. Nhưng ông không cho dùng cách nói ấy nếu bỏ mất hai ngày chậm của ông Bảy. Bảng ghi cả tỷ lệ đúng hạn 19 trên 20, tức 95 phần trăm, và tỷ lệ thu đủ đến thời điểm nghiệm thu 20 trên 20. Hai con số trả lời hai câu hỏi khác nhau; gộp chúng chỉ tạo ảo tưởng.
 
-Biên bản nghiệm thu được đọc thành tiếng. Phần đầu xác nhận phạm vi pháp lý nội bộ: vốn tự có tách riêng, cho vay có giới hạn, không nhận tiền gửi, không tự xưng ngân hàng. Tờ tiền giấy bạc mòn góc đếm qua nhiều tay. Phần hai xác nhận số liệu 64 hồ sơ và 168.000 đồng giải ngân. Phần ba liệt kê rủi ro đã phát hiện: một khoản trả chậm, ba hồ sơ yếu kiểm soát kép, một sai lệch kiểm kê tạm thời, hai khiếu nại thủ tục, một đánh giá nguồn thu cần bổ sung. Phần bốn ghi biện pháp sửa cùng thời hạn. Phần năm bàn giao 97.000 đồng dư nợ cho hai điểm và phòng trung tâm tiếp tục giám sát.
-
 Lan đọc câu cuối:
 
 “Đợt thí điểm được nghiệm thu là đã hoàn thành vòng vận hành ban đầu; biên bản này không xóa nghĩa vụ của người vay, không miễn trách nhiệm thu nợ, không cấp quyền nhận tiền gửi, không thay thế chấp thuận cần thiết cho bất kỳ lần mở rộng nào.”
 
-Hùng hỏi từng người có hiểu câu đó không. Người giữ quỹ điểm thứ nhất đề nghị thêm rằng mọi khoản tiền thu phải nộp và đối soát trong ngày làm việc kế tiếp. Cuốn sổ gáy chỉ may vải có giá vài xu. Người phụ trách điểm thứ hai xin ghi rõ hai chữ ký phải thuộc hai người khác nhau. Lan thêm cả hai. Cán bộ địa bàn ký với tư cách chứng kiến việc kiểm tra, không ký thay cơ quan cấp phép. Hùng ký người chịu trách nhiệm. Lan ký người lập và kiểm sổ. Hai người phụ trách điểm ký nhận bàn giao.
+Không có tiếng vỗ tay. Những sợi dây buộc hồ sơ được thay mới theo từng nhóm màu: đã tất toán, còn dư nợ, từ chối, chờ bổ sung. Tủ hồ sơ được khóa; chìa chính do Lan giữ, chìa dự phòng niêm phong tại phòng trung tâm. Sổ quỹ trở về từng điểm cùng phiếu kiểm kê. Bản tổng hợp và biên bản rủi ro ở lại để tuần sau kiểm lại. Hùng nhìn những chồng hồ sơ xếp ngay ngắn — mỗi chồng là một phần của niềm tin mà mười một hộ gia đình đã đặt vào ông. Ông biết rằng niềm tin ấy không được phép lung lay, dù chỉ một ngày.
 
-Không có tiếng vỗ tay. Những sợi dây buộc hồ sơ được thay mới theo từng nhóm màu: đã tất toán, còn dư nợ, từ chối, chờ bổ sung. Tủ hồ sơ được khóa; chìa chính do Lan giữ, chìa dự phòng niêm phong tại phòng trung tâm. Sổ quỹ trở về từng điểm cùng phiếu kiểm kê. Bản tổng hợp và biên bản rủi ro ở lại để tuần sau kiểm lại.
-
-Trời tối hẳn khi Hùng bước ra hiên. Gió mùa đông bắc thốc từ đầu ngõ vào, lạnh buốt mặt. Cuốn sổ gáy chỉ may vải có giá vài xu. Ngoài đường, người ta co vai đạp xe trong gió, hơi thở tụ lại thành làn khói trắng mỏng dưới ánh đèn đường. Hùng đứng yên một lúc, cảm nhận cái lạnh thấm qua áo bông. Ông không thấy mình vừa xây được một hệ thống tín dụng trưởng thành. Ông chỉ thấy một việc nhỏ đã được làm đến nơi có thể kiểm: tiền nào ra, tiền nào về, ai còn nợ, ai trả chậm, lỗi nằm đâu, người nào phải sửa. Nhưng có một cảm giác lặng lẽ trong lồng ngực — không phải tự hào, mà là một thứ gì đó giống như đã đặt được một viên gạch đầu tiên, và biết rằng sáng mai sẽ phải đặt thêm nhiều viên nữa.
-
-Lan đứng cạnh cửa, bóng cô đổ dài trên nền gạch ẩm dưới ánh đèn dầu từ trong phòng hắt ra. Giọng cô khàn nhẹ sau một ngày dài đọc số và viết biên bản.
+Lan đứng cạnh cửa, bóng cô đổ dài trên nền gạch ẩm dưới ánh đèn dầu từ trong phòng hắt ra. Giọng cô khàn nhẹ sau một ngày dài đọc số và viết biên bản. Mái tóc cô buộc lỏng, vài sợi tóc con rơi xuống trán, cô dùng ngón tay gạt đi rồi quay lại nhìn Hùng.
 
 “Ngày mai chuyển sang việc trường học?”
 
-“Ngày mai xem hồ sơ trường,” Hùng đáp. “Còn khoản vay vẫn theo lịch của nó. Không mang người giữ sổ nợ đi làm việc khác rồi bảo arc đã xong.”
+“Ngày mai xem hồ sơ trường,” Hùng đáp. “Còn khoản vay vẫn theo lịch của nó. Không mang người giữ sổ nợ đi làm việc khác rồi bảo nhiệm vụ đã xong.”
 
-Ông đư
+Hùng đóng bìa tiêu chí thí điểm, để lên tủ hồ sơ — không treo tường. Lan đưa phụ lục bàn giao dư nợ. Ông ký từng trang một, cẩn thận như thể mỗi chữ ký là một lời cam kết. Ông ký từng trang, mắt nhìn ngày đến hạn kế tiếp:
 
-***
+“Ai mang hồ sơ trường sang bàn này trước khi báo cáo kỳ hạn xong, em dừng.”
 
-Hùng đóng bìa tiêu chí thí điểm, để lên tủ hồ sơ — không treo tường. Lan đưa phụ lục bàn giao dư nợ. Ông ký từng trang, mắt nhìn ngày đến hạn kế tiếp:
+“Rõ.” Lan gật.
 
-— Ai mang hồ sơ trường sang bàn này trước khi báo cáo kỳ hạn xong, em dừng.
-
-— Rõ. — Lan gật.
-
-Ngoài cửa, gió tháng Giêng se. Hùng thở, buông bút. Việc vay chưa xong đời. Nó chỉ vừa chứng minh được một vòng — và vòng sau bắt đầu từ dòng theo dõi còn mở.
-
-***
+Ngoài cửa, gió tháng Giêng se. Hùng thở, buông bút. Việc vay chưa xong đời. Nó chỉ vừa chứng minh được một vòng — và vòng sau bắt đầu từ dòng theo dõi còn mở. Lan gom những tờ phụ lục thành hai chồng, một chồng giao cho điểm thứ nhất, một chồng giao cho điểm thứ hai. Cô dùng dây gai buộc từng chồng, ghi ngày kiểm tra kế tiếp bằng mực đỏ rồi đặt vào túi vải. Hùng kiểm tra lại từng con dấu niêm phong. Có một chiếc lệch khỏi mép giấy nửa đốt ngón tay; ông yêu cầu đóng lại, không vì dấu lệch làm mất giá trị hồ sơ, mà vì người làm việc với tiền phải tập thói quen nhìn thấy cả điều nhỏ nhất. Lan không phàn nàn. Cô tháo dây, đóng lại dấu, rồi ghi chú vào sổ bàn giao rằng phong bì thứ ba đã được niêm phong lần hai dưới sự chứng kiến của cả hai người.
 
 Lan đưa thêm một trang: khoản trễ bảy ngày đã kiểm thực tế. Hùng đọc, mắt không nhướn, chỉ gật khi thấy biên bản có chữ ký hai phía.
 
-— Người theo dõi chính có mặt đủ không?
+“Người theo dõi chính có mặt đủ không?”
 
-— Có. Em trực tiếp gọi. — Lan đáp, tay siết mép giấy. — Họ xin giãn thêm ba ngày vì máy hỏng. Em không giãn miệng. Bảo mang xác nhận thợ sửa.
+“Có. Em trực tiếp gọi.” Lan đáp, tay siết mép giấy. “Họ xin giãn thêm ba ngày vì máy hỏng. Em không giãn miệng. Bảo mang xác nhận thợ sửa.”
 
 Hùng cười rất nhẹ — không phải vui, mà vì quy trình đã tự chạy. Ông thở, cúi ký phụ lục từ chối giãn miệng, ngẩng:
 
-— Mai đối quỹ điểm một. Ai thiếu chữ ký kép, dừng giải ngân mới.
+“Mai đối quỹ điểm một. Ai thiếu chữ ký kép, dừng giải ngân mới.”
 
 Hùng đặt bút xuống, nắm rồi buông. Mắt ông nhìn Lan:
 
-— Sáng mai đối quỹ trước khi ai mang hồ sơ trường sang. Phía trước còn hai mươi hai khoản chưa đến hạn.
+“Sáng mai đối quỹ trước khi ai mang hồ sơ trường sang. Phía trước còn hai mươi hai khoản chưa đến hạn.”
 
 Lan gật, siết mép phụ lục, cười rất nhẹ rồi nghiêm:
 
-— Em giữ lịch gọi. Anh không cần ngồi đếm từng đồng mỗi giờ.
+“Em giữ lịch gọi. Anh không cần ngồi đếm từng đồng mỗi giờ.”
 
-Hùng thở, ngẩng nhìn cửa sổ se lạnh. Việc vay khép một vòng trên giấy — ngày mai vẫn phải mở sổ đúng giờ.
+Hùng thở, ngẩng nhìn cửa sổ se lạnh. Việc vay khép một vòng trên giấy — ngày mai vẫn phải mở sổ đúng giờ. Bên ngoài, tiếng xe đạp leng keng của người đi chợ chiều vọng lại, lẫn tiếng hàng quán dọn hàng, tiếng chén bát va nhau. Hà Nội tháng Giêng rét khô, nhưng trong phòng, hơi ấm từ bình trà còn sót lại làm không khí đỡ lạnh hơn. Ông nghĩ đến ông Bảy — người thợ mộc trả nợ trễ hai ngày vì khách chậm thanh toán. Hai ngày ấy không làm mất tiền, nhưng nó dạy ông một bài học: mỗi khoản vay đều là một cuộc đời, và cuộc đời thì không bao giờ chạy đúng lịch.
 
-============================================================
+Lan thu dọn bàn, chồng từng tập phụ lục lại, ghi số trang và ngày kiểm tra kế tiếp vào mặt ngoài. Cô xếp gọn bút mực vào hộp gỗ nhỏ, lau bàn sạch bằng khăn ẩm, rồi treo khăn lên móc. Cô đứng cạnh cửa sổ một lúc, nhìn ra ngoài — hàng tre trước nhà đung đưa trong gió, lá rụng đầy lối vào. Mùi đất ẩm bốc lên từ vườn sau, lẫn mùi khói bếp nhà hàng xóm. Một ngày dài, một ngày quan trọng — ngày mà lần đầu tiên một tổ chức cho vay nhỏ bé ở ngoại ô Hà Nội chứng minh được rằng tiền có thể đi ra và quay về đúng hạn, rằng giấy tờ có thể thay thế lời hứa, rằng kỷ luật có thể sống được ngay cả khi không có ai giám sát.
+
+Hùng vẫn ngồi yên, mắt nhìn ra đường — nơi ánh đèn đường đầu tiên vừa bật sáng, hắt xuống mặt đường ướt một vệt vàng nhạt. Tiếng ếch nhái bắt đầu kêu râm ran từ mương vườn sau. Một ngày dài đã qua, nhưng cuốn sổ còn hàng chục trang trống chờ được lấp đầy bằng những con số thật. Ông khép hộc bàn, cất chìa vào túi, rồi đứng dậy. Bóng ông đổ lên tường, kéo dài dưới ánh đèn dầu yếu ớt. Lan quay lại, hai người nhìn nhau, không nói gì thêm. Có những lúc sự im lặng nói được nhiều hơn trăm trang biên bản.
+
+Buổi tối, Hùng viết báo cáo cuối ngày bằng bút mực xanh trên giấy trắng. Mỗi dòng một con số, mỗi con số một câu chuyện — khoản vay nào đã giải ngân, khoản nào còn chờ, khoản nào bị từ chối vì thiếu giấy tờ. Ông xếp chồng báo cáo lên bàn, nhìn ra ngoài cửa sổ thấy đèn đường đã sáng. Ngày mai sẽ bắt đầu một chương mới.
+
 「Hệ thống — GHI NHẬN ch.73」
 Năm: 1986
 Tổng EXP: 10,573 (+213 nhịp này)
 Không gian kho: 4,107m² (+47m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Quản lý lv1, Logistics lv1
 Ghi chú: Đóng vòng thí điểm vay 1986: đối soát dư nợ, bàn giao theo dõi, không tự xưng ngân hàng
-============================================================

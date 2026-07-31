@@ -26,7 +26,7 @@ Hùng không nói gì trong năm giây. Đủ để Lan nghĩ ông mất kết n
 
 “Giữ. Chưa chạy vội thì đừng chạy.”
 
-Hùng cúp máy. Lạch cạch khung xe đạp cũ trên đường đất. Ông đứng trong phòng khách tối om, nhìn ra đường phố Hà Nội vắng lặng trước bình minh. Năm 1994, Hà Nội chưa có nhiều đèn cao áp. Phố xá chìm trong thứ ánh sáng lờ mờ của bóng đèn dây tóc từ những căn nhà hai bên đường.
+Hùng cúp máy. cũ trên đường đất. Ông đứng trong phòng khách tối om, nhìn ra đường phố Hà Nội vắng lặng trước bình minh. Năm 1994, Hà Nội chưa có nhiều đèn cao áp. Phố xá chìm trong thứ ánh sáng lờ mờ của bóng đèn dây tóc từ những căn nhà hai bên đường.
 
 Ông nhớ lại bài học từ kiếp trước: trong khủng hoảng tài chính, kẻ chạy đầu tiên thường là kẻ mất nhiều nhất. Tiền mặt là vua, nhưng tiền mặt trong tay lúc hoảng loạn cũng là tiền mất giá nhanh nhất. Cái cần không phải là rút về — cái cần là giữ được dòng, và mua vào khi người khác bán tháo.
 
@@ -182,7 +182,7 @@ Sáng hôm sau, Hùng có mặt tại kho trung chuyển Thương Gia ở khu c�
 
 “Chuyển đi. Bao nhiêu tiền cũng chuyển.”
 
-Hùng đi dọc dãy container. Những thùng hàng ghi “Thương Gia — Made in Vietnam” — thành quả của mười năm làm việc. Tê nhức ngón tay sau giờ viết sổ liên tục. Từ đôi dép tổ ong bán ở chợ Quốc Oai đến những container hàng điện tử xuất khẩu qua Singapore. Chặng đường dài hơn ông từng tưởng.
+Hùng đi dọc dãy container. Những thùng hàng ghi “Thương Gia — Made in Vietnam” — thành quả của mười năm làm việc. tê cứng ngón tay sau giờ viết sổ liên tục. Từ đôi dép tổ ong bán ở chợ Quốc Oai đến những container hàng điện tử xuất khẩu qua Singapore. Chặng đường dài hơn ông từng tưởng.
 
 “Anh Hùng,” anh Tan nói nhỏ. “Tôi nghe nói nhiều công ty Việt Nam đang rút khỏi Singapore. Họ nói thị trường này sắp sụp.”
 
@@ -192,7 +192,7 @@ Hùng đi dọc dãy container. Những thùng hàng ghi “Thương Gia — Mad
 
 “Biết rằng những cuộc khủng hoảng như thế này sẽ loại bỏ những kẻ yếu. Ai ở lại sau cơn bão sẽ có thị trường sạch hơn, ít cạnh tranh hơn, và nhiều cơ hội hơn.”
 
-Anh Tan không hỏi thêm. Cồn cào ruột khi chưa kịp ăn sáng. Anh ta nhìn ông chủ của mười năm — người đã đưa Thương Gia từ một xưởng may nhỏ ở ngoại thành Hà Nội đến một container hàng ở cảng Singapore — và gật đầu. Niềm tin không cần bằng chứng. Nó chỉ cần một người đã từng đúng.
+Anh Tan không hỏi thêm. cồn cào khi chưa kịp ăn sáng. Anh ta nhìn ông chủ của mười năm — người đã đưa Thương Gia từ một xưởng may nhỏ ở ngoại thành Hà Nội đến một container hàng ở cảng Singapore — và gật đầu. Niềm tin không cần bằng chứng. Nó chỉ cần một người đã từng đúng.
 
 Hai ngày sau, Hùng đặt chân về Hà Nội. Chuyến bay hạ cánh lúc chín giờ tối. Sân bay Gia Lâm vắng tanh, chỉ có vài chiếc taxi xanh đỏ đỗ ở cổng.
 
@@ -200,7 +200,7 @@ Lan đợi ông ở nhà. Trên bàn là bát phở nóng và một xấp báo c
 
 “Thế nào?” ông hỏi.
 
-“Căng. Nóng rát gáy dưới nắng hè đứng bán hàng. Nhưng không sao. Rút tiền từ ngân hàng Nhật đã hoàn tất. Giờ mình có khoảng tám trăm ngàn đô tiền mặt sẵn ở Hong Kong.”
+“Căng. dưới nắng hè đứng bán hàng. Nhưng không sao. Rút tiền từ ngân hàng Nhật đã hoàn tất. Giờ mình có khoảng tám trăm ngàn đô tiền mặt sẵn ở Hong Kong.”
 
 “Tốt. Singapore thế nào?”
 
@@ -314,7 +314,6 @@ Lan nắm sổ. “Mỗi đồng phải có đường về.” Hùng gật, buô
 
 Sáng mai, ngân hàng sẽ trả lời về hạn mức; nếu họ từ chối, Lan sẽ hủy lệnh mua trước khi thị trường mở cửa.
 
-
 ============================================================
 「Hệ thống — GHI NHẬN ch.184」
 Năm: 1994
@@ -322,4 +321,5 @@ Tổng EXP: 32,880 (+320 nhịp này)
 Không gian kho: 10,720m² (+80m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: Khủng hoảng tài chính châu Á 1994 — giữ hàng SG, mua đáy có kỷ luật
+
 ============================================================

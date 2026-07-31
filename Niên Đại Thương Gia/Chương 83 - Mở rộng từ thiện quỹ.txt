@@ -177,7 +177,7 @@ Hùng bảo Lan ghi vào sổ riêng — mục sửa chữa nhà, hộ đầu ti
 
 Lan nhìn Hùng, ánh mắt nửa khâm phục nửa ngạc nhiên. "Anh tính cả chuyện sau một tháng?"
 
-"Chị Lan ạ, tôi không tin tưởng bất kỳ ai, kể cả bản thân tôi. Chỉ có kiểm tra mới biết việc có thật. Không kiểm tra là tự lừa dối."
+"Chị Lan ạ, tôi không tin tưởng bất kỳ ai, kể cả tôi. Chỉ có kiểm tra mới biết việc có thật. Không kiểm tra là tự lừa dối."
 
 Hùng mở cuốn sổ tay bìa đen, ghi thêm một dòng vào danh sách việc cần làm: *Liên hệ thợ — học hỏi kỹ thuật lợp ngói đơn giản — tổ chức đội tình nguyện sửa nhà cho hộ nghèo.* Ông dừng bút, nghĩ thêm, rồi viết thêm: *Chi phí đào tạo: phải nằm trong kế hoạch quỹ, không lấy từ túi người học.*
 
@@ -202,4 +202,5 @@ Tổng EXP: 13,000 (+250 nhịp này)
 Không gian kho: 4,657m² (+57m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Logistics lv1, Từ thiện lv1
 Ghi chú: Siết quỹ: đơn+xác nhận+thẩm định+hậu kiểm; 60/20/20; Hòa Mỹ ông Mão lợp mái 72 giờ; tách xét/nhận 5% OPEX.
+
 ============================================================

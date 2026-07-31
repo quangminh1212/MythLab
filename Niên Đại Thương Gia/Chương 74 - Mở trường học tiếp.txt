@@ -34,7 +34,7 @@ Hồ sơ bị chuyển từ màu xanh sang màu vàng ngay tại chỗ. Minh l�
 
 Lan viết vào sổ: "Điểm nhà kho — hoãn có điều kiện — tái kiểm sau sửa."
 
-Điểm thứ hai cũng ở ngoại thành, dùng dãy nhà cấp bốn của một cơ quan vừa chuyển địa điểm. Mái tốt, nền khô, sân có hàng rào. Vấn đề là nước. Giếng sau nhà có mùi tanh, thành giếng thấp ngang đầu gối trẻ — mùi rong rêu và mùi đất ẩm bốc lên hăng hắc. Một giáo viên múc lên gáo nước, tay run run vì gầu nước nặng, những giọt nước thánh thót rơi xuống nền xi măng loang lổ. Dân quanh đó vẫn dùng, cô nói.
+Điểm thứ hai cũng ở ngoại thành, dùng dãy nhà cấp bốn của một cơ quan vừa chuyển địa điểm. Mái tốt, nền khô, sân có hàng rào. Vấn đề là nước. Giếng sau nhà có mùi tanh, thành giếng thấp ngang đầu gối trẻ — mùi rong rêu và bốc lên hăng hắc. Một giáo viên múc lên gáo nước, tay run run vì gầu nước nặng, những giọt nước thánh thót rơi xuống nền xi măng loang lổ. Dân quanh đó vẫn dùng, cô nói.
 
 Hùng không tranh luận bằng mắt thường. Mẫu nước được niêm phong gửi trạm y tế kiểm. Trong lúc chờ, Minh đo vị trí đặt bể chứa có nắp và tay bơm. Khu vệ sinh cũ nằm sát giếng, khoảng cách không đạt yêu cầu.
 
@@ -189,4 +189,5 @@ Tổng EXP: 10,787 (+214 nhịp này)
 Không gian kho: 4,153m² (+46m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Quản lý lv1
 Ghi chú: Mạng lưới trường đợt mới: kiểm trùng tên Hưng Yên, từ chối lớp tre tạm Hải Dương
+
 ============================================================

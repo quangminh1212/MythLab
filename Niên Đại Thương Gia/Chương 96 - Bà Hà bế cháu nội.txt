@@ -171,7 +171,7 @@ Thằng Gia Huy đã ăn hết bát cháo. Bà Hà lau miệng cho nó, bế nó
 Bà Hà xuống ba bậc thềm, một tay bế thằng bé, một tay vịn vào thành lan can — cái lan can sơn xanh mà Hùng mới sửa lại tháng trước. Qua cái cửa rào, đường phố Hà Nội hiện ra: dãy nhà thấp, mái ngói rêu phong, vài cây bàng lá đã ngả đỏ. Một người đàn ông chở thúng cam trên yên sau xe đạp, chạy chầm chậm. Một bà cụ ngồi trước hiên, lặt rau.
 
 Bà Hà ra đầu ngõ, đứng dưới gốc bàng già.
-Đứng dưới gốc bàng già, bà Hà cảm thấy rõ từng cơn gió lùa qua mái tóc bạc. Cổ thụ này bà đã trồng tám năm trước, ngày nó chỉ là một cành giâm mảnh dẻ, tưởng không sống nổi. Bây giờ nó đã cao hơn mái nhà, tán lá che rợp mát cả một góc đường. Những chiếc lá bàng to bản, màu xanh thẫm, xào xạc trong gió như những bàn tay vẫy chào. Trên mặt đất, những đốm nắng xuyên qua tán lá vẽ nên một bức tranh kỳ ảo — những vòng tròn vàng nhảy múa trên vai thằng Gia Huy, trên tay áo bà, trên con đường đất trước mặt. Nhựa cây bàng có mùi hăng hăng, trộn với mùi bụi đường và khói than — mùi của những năm tháng, không thể nhầm lẫn.
+Đứng dưới gốc bàng già, bà Hà cảm thấy rõ từng cơn gió lùa qua mái tóc bạc. Cổ thụ này bà đã trồng tám năm trước, ngày nó chỉ là một cành giâm mảnh dẻ, tưởng không sống nổi. Bây giờ nó đã cao hơn mái nhà, tán lá che rợp mát cả một góc đường. Những chiếc lá bàng to bản, màu xanh thẫm, xào xạc trong gió như những bàn tay vẫy chào. Trên mặt đất, những đốm tán lá vẽ nên một bức tranh kỳ ảo — những vòng tròn vàng nhảy múa trên vai thằng Gia Huy, trên tay áo bà, trên con đường đất trước mặt. Nhựa cây bàng có mùi hăng hăng, trộn với mùi bụi đường và khói than — mùi của những năm tháng, không thể nhầm lẫn.
 
 Dân phố quen mặt, nhìn bà ôm đứa bé là cười:
 
@@ -221,4 +221,5 @@ Tổng EXP: 15,773 (+182 nhịp này)
 Không gian kho: 5,318m² (+45m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
 Ghi chú: Bà Hà bế cháu Gia Huy — Hạnh sắp về nội địa — sổ gia đình 1987
+
 ============================================================

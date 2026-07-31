@@ -2,7 +2,7 @@
 Chương 298: Đào tạo lãnh đạo trẻ
 ============================================================
 
-Đà Nẵng, tháng Mười một năm 2012. Gió mùa đông bắc tràn qua đèo Hải Vân, mang theo hơi lạnh từ biển Đông và mùi muối mặn đặc trưng của phố biển miền Trung. Những cơn gió đầu mùa quật vào hàng dương trước khách sạn, lá khô bay lả tả trên vỉa hè ẩm ướt. Nắng cuối thu vẫn vàng nhưng đã bớt gắt hơn tháng trước, chiếu xiên qua ô cửa kính lớn của phòng họp tầng ba, vẽ những vệt sáng dài trên nền gạch hoa cũ.
+Đà Nẵng, tháng Mười một năm 2010. Gió mùa đông bắc tràn qua đèo Hải Vân, mang theo hơi lạnh từ biển Đông và mùi muối mặn đặc trưng của phố biển miền Trung. Những cơn gió đầu mùa quật vào hàng dương trước khách sạn, lá khô bay lả tả trên vỉa hè ẩm ướt. Nắng cuối thu vẫn vàng nhưng đã bớt gắt hơn tháng trước, chiếu xiên qua ô cửa kính lớn của phòng họp tầng ba, vẽ những vệt sáng dài trên nền gạch hoa cũ.
 
 Hùng ngồi ở chiếc ghế cuối cùng trong căn phòng họp nhỏ của khách sạn ba sao trên đường Bạch Đằng. Phòng không sang trọng — tường sơn trắng đã ngả màu kem vì thời gian, bàn gỗ công nghiệp xếp thành ba dãy thẳng tắp, điều hòa treo tường chạy rì rầm suốt buổi sáng cố gắng đuổi cái lạnh thấm dần từng đợt. Một cái quạt trần trên cao quay chậm rãi, cánh quạt kêu cót két theo mỗi vòng. Nhưng không ai trong phòng để ý đến nội thất tồi tàn hay cái lạnh đầu mùa.
 
@@ -114,9 +114,10 @@ Hùng gập báo cáo, gọi Lan. "Mỗi năm ba khóa, mỗi khóa ba mươi l�
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.298」
-Năm: 2012
+Năm: 2010
 Tổng EXP: 71,333 (+333)
 Không gian kho: 34,333m² (+333m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
 Ghi chú: nhịp Phần 5
+
 ============================================================

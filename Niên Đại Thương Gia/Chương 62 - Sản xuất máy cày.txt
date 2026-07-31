@@ -242,7 +242,7 @@ Cần cắt này xa ngón tay.
 
 Lúc máy chồm, tôi không rảnh buông một tay để tìm.” Ba nhận xét đầu đã đi thẳng vào những chỗ nhóm thợ chưa ghi.
 
-Trong nắng gắt, Hùng đứng yên nhìn bác nông dân lau mồ hôi trên trán, mùi đất ẩm bốc lên từ bàn tay chai sần của bác, phảng phất vị mặn của mồ hôi và rơm rạ.
+Trong nắng gắt, Hùng đứng yên nhìn bác nông dân lau mồ hôi trên trán, bốc lên từ bàn tay chai sần của bác, phảng phất vị mặn của mồ hôi và rơm rạ.
 
 Ông cảm nhận được sự nặng nhọc trong từng động tác của người nông dân — một sự mệt mỏi mà không cỗ máy nào đo được, và ông thầm hứa với lòng sẽ không để chiếc máy cày này trở thành gánh nặng thêm cho họ.
 
@@ -446,7 +446,7 @@ Trên trần nhà, những vết nứt chạy dọc theo đường mái, quen th
 
 Ngoài sân, thỉnh thoảng một con chó sủa xa, rồi im.
 
-Gió đêm thổi qua khe cửa, mang theo mùi đất ẩm và mùi rơm rạ — mùi của những thửa ruộng ban chiều, nơi chiếc máy cày hai bánh đã cày xong một dải ruộng và đang chờ ngày mai được tháo kiểm.
+Gió đêm thổi qua khe cửa, mang theo và mùi rơm rạ — mùi của những thửa ruộng ban chiều, nơi chiếc máy cày hai bánh đã cày xong một dải ruộng và đang chờ ngày mai được tháo kiểm.
 
 Ông nghĩ về năm bộ khung, ba động cơ đợt đầu, bốn hộ thử, một cuốn sổ phụ tùng.
 
@@ -491,11 +491,11 @@ Bà Hà nhìn vết bùn, chỉ hỏi: "Máy nằm kho mà dân còn vay gạo k
 
 Trong xưởng, khung sắt thô còn ấm chỗ hàn. Ngày mai chỉnh tay lái và chắn rơm theo góp ý bác nông dân. Đường cày mới — và lỗi mới — vẫn nằm phía trước.
 
-
 「Hệ thống — GHI NHẬN ch.62」
 Năm: 1985
 Tổng EXP: 8,227 (+214 nhịp này)
 Không gian kho: 3,593m² (+46m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Thương mại lv3
 Ghi chú: Máy cày thử ruộng: lô 5 khung/3 động cơ; 30h + phụ tùng 1 ngày; chưa đại trà.
+
 ============================================================

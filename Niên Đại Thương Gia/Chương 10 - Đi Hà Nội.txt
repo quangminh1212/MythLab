@@ -17,7 +17,6 @@ Hùng nấu cơm sáng, cho bà uống thuốc, dặn Lan chăm bà, rồi đạ
 Cảnh vật thay đổi dần. Từ đồng ruộng đến nhà cửa dày hơn, từ nhà đất đến nhà cấp bốn, từ đường đất đến đường nhựa lởm chởm. Quốc lộ 6 dẫn vào Hà Đông, rồi vào Hà Nội. Hùng đạp qua Hà Đông — thị xã nhỏ, phố xá đông hơn huyện, nhưng vẫn quen thuộc: nhà cấp bốn, hàng rào sắt, cây bóng mát.
 
 Vào Hà Nội. Hùng đạp qua cầu, rồi dừng ở bến xe phía nam — một bãi đất trống có lán lợp lá, vài chiếc xe khách cũ kỹ đỗ dọc đường. Ông xuống xe, dắt bộ qua bến. Đám đông người qua lại, kẻ gánh, người bồng, tiếng mời chào, tiếng xe nổ máy. Bỗng một ông già trạc tuổi cha đi ngang — dáng hơi khom, tay xách túi vải, mùi dầu xoa bóp thoảng qua. Hùng khựng lại.
-Cót két cổng sắt mở.
 
 Ký ức ùa về. Năm 1978. Cha Hùng bị đưa đi cải tạo. Ông Bằng — cha của Bằng — đứng trước cổng nhà, mặt tỉnh queo, không nói một lời, chỉ nhìn. Hùng mười tám tuổi, đứng ở bậu cửa, không khóc. Mẹ Hùng đứng sau, tay bám vào khung cửa, người vắt vẻo như sắp ngã. Cha Hùng bước lên xe, không ngoảnh lại. Ông Bằng khép cổng. Không ai nói một câu. Ngày đó Hùng hiểu ra: có những thù hận không cần lời, có những tàn nhẫn không cần dao. Vết sẹo từ mùa đông năm 1973 mới chỉ là đầu.
 
@@ -86,7 +85,7 @@ Lan ra phụ dỡ hàng. Cô sờ cuộn vải — cotton trắng, mềm, đều
 Lan gật đầu, hiểu. Cô bắt đầu quen với tư duy kinh doanh — mua rẻ, bán đắt, chênh lệch là lãi. Đơn giản nhưng hiệu quả.
 
 Tối ấy, Hùng nấu bữa tối — cơm trắng, thịt bò xào, canh rau. Ba người ăn no, ấm. Bà Hà ăn được hai bát cơm — khỏe hơn mỗi ngày. Thuốc bổ và dinh dưỡng đang chữa bà, từng ngày, từng bát.
-Tê nhức ngón tay sau giờ viết sổ.
+tê cứng ngón tay sau giờ viết sổ.
 
 Sau bữa tối, Hùng ngồi ngoài sân, kiểm tra hóa đơn. Tất cả đều là hóa đơn quốc doanh — hiệu thuốc, cửa hàng nhập khẩu, sạp vải chợ Đồng Xuân. Rõ ràng, minh bạch. Ông Tâm sẽ hài lòng.
 
@@ -120,7 +119,6 @@ Nhưng trước hết, cửa hàng. Cửa hàng đầu tiên, ở huyện Quốc
 Hùng thoát không gian, nằm xuống giường. Ngoài sân, trăng sáng, gió lạnh, mái tôn mới không dột. Bà Hà ngủ ngon, Lan ngủ ngon. Gia đình bình yên.
 
 Ngày mai: mang hóa đơn cho ông Tâm, bán hàng mới, và bắt đầu nhiệm vụ mở cửa hàng. 30 ngày. Một tháng. Để từ bán rong thành cửa hàng chủ.
-
 
 Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạng từng cúc áo, từng khuy quần bằng tay, như thể cơ thể đã thuộc từng động tác đến mức không cần mắt.
 
@@ -169,4 +167,5 @@ Tổng EXP: 350 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
 Ghi chú: Chuyến Hà Nội — hóa đơn, phiếu, sạp cố định.
+
 ============================================================

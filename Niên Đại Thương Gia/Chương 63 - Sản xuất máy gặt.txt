@@ -2,7 +2,7 @@
 Chương 63: Sản xuất máy gặt
 ============================================================
 
-Ba động cơ đầu tiên cho lô máy cày được giao tới xưởng vào tuần cuối tháng Chạp năm 1985. Hùng không cho tháo kiện ngay. Ông đối chiếu số máy, thông số và bộ phụ tùng với điều khoản Lan đã ghi ở cuối Chương 62. Than tổ ong lúc nửa đêm. Cả ba cùng một kiểu, đủ dây đai, lọc dầu và tài liệu bảo dưỡng. Hai bộ khung còn lại vẫn chỉ là thép đã cắt, chưa hàn.
+Ba động cơ đầu tiên cho lô máy cày được giao tới xưởng vào tuần cuối tháng Chạp năm 1985. Hùng không cho tháo kiện ngay. Ông đối chiếu số máy, thông số và bộ phụ tùng với điều khoản Lan đã ghi ở cuối Chương 62. lúc nửa đêm. Cả ba cùng một kiểu, đủ dây đai, lọc dầu và tài liệu bảo dưỡng. Hai bộ khung còn lại vẫn chỉ là thép đã cắt, chưa hàn.
 
 Ba chiếc máy cày được lắp trong bốn ngày. Một chiếc giữ ở xưởng, hai chiếc đưa tới hai hộ có nền ruộng khác nhau. Hai hộ còn lại trong kế hoạch phải chờ đợt động cơ thứ hai. Mỗi máy có sổ giờ chạy riêng; mỗi lần thay dầu, căng đai, chỉnh chốt đều phải ghi. Hùng chia tổ cơ khí làm hai nhóm nhỏ: nhóm theo dõi máy cày giữ nguyên người và vật tư; nhóm nghiên cứu máy gặt chỉ được dùng bàn gá trống cùng thép ngoài định mức của năm chiếc máy cày.
 
@@ -46,7 +46,7 @@ Hùng không chọn bằng lời. Hai cụm sáu răng được làm song song: 
 
 Bộ cắt mới giải quyết việc làm đứt thân lúa. Nó chưa đưa lúa ra khỏi đường máy. Nếu thân đã cắt đổ ngược lên bàn, bánh xe sẽ cán qua; nếu đổ tản mát, người bó lúa mất nhiều công hơn cắt tay.
 
-Minh vẽ một guồng gạt bốn cánh đặt phía trên bàn cắt. Nan gạt không dùng thép cứng mà dùng dải tre già đã vót tròn, đầu bọc cao su. Tê nhức ngón tay sau giờ viết sổ liên tục. Guồng chỉ có nhiệm vụ nghiêng thân lúa về phía dao, không được đánh vào bông. Phía sau dao là hai dây xích song song gắn thanh gỗ nhẹ, chuyển lúa sang cửa xả bên phải.
+Minh vẽ một guồng gạt bốn cánh đặt phía trên bàn cắt. Nan gạt không dùng thép cứng mà dùng dải tre già đã vót tròn, đầu bọc cao su. tê cứng ngón tay sau giờ viết sổ liên tục. Guồng chỉ có nhiệm vụ nghiêng thân lúa về phía dao, không được đánh vào bông. Phía sau dao là hai dây xích song song gắn thanh gỗ nhẹ, chuyển lúa sang cửa xả bên phải.
 
 Nguồn xích tải trở thành chỗ tắc đầu tiên. Loại xích đúng bước răng chỉ còn đủ cho hai bộ, nhà cung cấp không hẹn được lô tiếp theo. Một người đề nghị lấy xích xe đạp nối đôi. Hùng yêu cầu thử tải trước. Hai sợi xích xe đạp chịu được lực kéo tĩnh, nhưng khi bùn và rơm lọt vào, khoảng cách giữa hai sợi lệch nhau; thanh gỗ xoắn, móc vào thành máng.
 
@@ -82,7 +82,7 @@ Hùng cho dừng. Họ đặt khung lên bốn gối, gắn mô-tơ điện củ
 
 Minh tự gạch bỏ hàng lỗ trên bản vẽ.
 
-Một búi lúa ẩm bị kẹp giữa thanh tải và tấm dẫn. Lạch cạch khung xe đạp cũ trên đường đất. Nguyên nhân không phải thiếu lực mà do cửa xả hẹp hơn độ dày dải lúa khi thân còn ướt. Họ gỡ bằng móc, đo búi lúa và ghi vị trí. Vì không thể sửa an toàn trên ruộng, Hùng kết thúc lượt đầu ở đó.
+Một búi lúa ẩm bị kẹp giữa thanh tải và tấm dẫn. cũ trên đường đất. Nguyên nhân không phải thiếu lực mà do cửa xả hẹp hơn độ dày dải lúa khi thân còn ướt. Họ gỡ bằng móc, đo búi lúa và ghi vị trí. Vì không thể sửa an toàn trên ruộng, Hùng kết thúc lượt đầu ở đó.
 
 “Chạy tiếp bằng cách cho ít lúa vào chỉ tạo số đẹp,” ông nói. “Mang về mở cửa xả.”
 
@@ -114,7 +114,7 @@ Nhóm đo lực ở hai tay bằng cân lò xo gắn tạm. Tay phải phải k�
 
 Xưởng thay bánh đỡ bằng bánh rộng hơn, tăng đường kính bốn phân và thêm ba nấc chỉnh cao. Tay lái được nối với một thanh cân bằng cho phép chỉnh lệch trọng tâm theo người vận hành. Minh cũng hạ guồng gạt thêm một nấc cho lúa đổ, nhưng đánh dấu đỏ giới hạn thấp nhất để nan không chạm dao.
 
-Trong khi sửa mẫu, báo cáo máy cày tuần đầu được mang về. Chiếc ở xưởng đã chạy mười tám giờ. Tê nhức ngón tay sau giờ viết sổ liên tục. Hai chiếc ngoài ruộng lần lượt đạt mười bốn và mười sáu giờ. Một dây đai được căng lại; một chốt lưỡi cày được thay trong nửa ngày. Không máy nào nằm quá một ngày. Hùng ký cho nhóm máy gặt tiếp tục, đồng thời giữ lại một thợ trực phụ tùng máy cày. Điều kiện nối từ Chương 62 không bị xóa chỉ vì máy mới đang tiến triển.
+Trong khi sửa mẫu, báo cáo máy cày tuần đầu được mang về. Chiếc ở xưởng đã chạy mười tám giờ. tê cứng ngón tay sau giờ viết sổ liên tục. Hai chiếc ngoài ruộng lần lượt đạt mười bốn và mười sáu giờ. Một dây đai được căng lại; một chốt lưỡi cày được thay trong nửa ngày. Không máy nào nằm quá một ngày. Hùng ký cho nhóm máy gặt tiếp tục, đồng thời giữ lại một thợ trực phụ tùng máy cày. Điều kiện nối từ Chương 62 không bị xóa chỉ vì máy mới đang tiến triển.
 
 Lượt thử thứ ba dùng cả hai mẫu máy gặt. Mẫu thứ hai được lắp từ bộ xích đúng chuẩn còn lại, theo dưỡng đã sửa. Trước khi ra ruộng, mỗi máy chạy không tải hai giờ, chạy bó lúa một giờ, kiểm lại toàn bộ chốt. Mẫu thứ nhất dùng để thử bền; mẫu thứ hai giao cho chủ ruộng vận hành dưới giám sát.
 
@@ -122,15 +122,15 @@ Hai dải ruộng mới gồm một dải lúa đứng và một dải có gần
 
 Ở dải lúa đổ, kết quả thấp hơn. Máy phải đi một chiều thuận theo hướng đổ; nếu đi ngược, guồng đẩy bông xuống bùn. Thời gian tăng lên bốn mươi bảy phút. Tỷ lệ cắt sạch chỉ đạt chín mươi hai phẩy bảy phần trăm, ngoài mức đã đặt. Hạt rơi tăng hai phẩy bốn phần trăm. Hùng ghi rõ máy chưa đạt trên lúa đổ nặng, không lấy kết quả dải đứng để che.
 
-Sau bốn giờ chạy luân phiên, mẫu thứ nhất phát tiếng gõ ở trục dao. Họ dừng máy, tháo tấm che và thấy bạc trượt đã nóng, dầu bôi trơn bị bùn pha loãng qua khe hở. Than tổ ong lúc nửa đêm. Nếu tiếp tục, thanh truyền có thể bó cứng và làm gãy dao. Minh đề nghị lắp phớt cao su mua ngoài. Người thợ cả lo phớt khó kiếm khi hỏng.
+Sau bốn giờ chạy luân phiên, mẫu thứ nhất phát tiếng gõ ở trục dao. Họ dừng máy, tháo tấm che và thấy bạc trượt đã nóng, dầu bôi trơn bị bùn pha loãng qua khe hở. lúc nửa đêm. Nếu tiếp tục, thanh truyền có thể bó cứng và làm gãy dao. Minh đề nghị lắp phớt cao su mua ngoài. Người thợ cả lo phớt khó kiếm khi hỏng.
 
 Giải pháp cuối cùng dùng hai lớp. Một vòng chắn bùn bằng thép mỏng đặt ngoài, có rãnh hất nước; phía trong là phớt kích thước thông dụng, cùng một ống tra mỡ dẫn lên vị trí dễ chạm. Hướng dẫn yêu cầu bơm mỡ sau mỗi bốn giờ chạy và kiểm nếu máy ngập quá trục bánh. Cuốn sổ gáy chỉ may vải có giá vài xu. Xưởng dự trữ hai phớt cho mỗi máy. Sau khi thay, cụm dao chạy thêm sáu giờ trên giá và sáu giờ ngoài ruộng mà nhiệt độ chỉ ấm tay, không còn tiếng gõ.
 
-Tổng cộng hai mẫu tích lũy ba mươi hai giờ chạy có tải. Than tổ ong lúc nửa đêm. Mười một lỗi được ghi, bảy lỗi đã sửa và thử lại. Bốn giới hạn còn giữ nguyên: chưa dùng tốt trên lúa đổ nặng; đổi từ bánh đi đường sang bánh ruộng mất gần mười lăm phút; máy cần hai người khi đưa qua bờ cao; nguồn xích mới chỉ có cam kết năm bộ đầu. Hùng không gọi đó là hoàn thiện tuyệt đối.
+Tổng cộng hai mẫu tích lũy ba mươi hai giờ chạy có tải. lúc nửa đêm. Mười một lỗi được ghi, bảy lỗi đã sửa và thử lại. Bốn giới hạn còn giữ nguyên: chưa dùng tốt trên lúa đổ nặng; đổi từ bánh đi đường sang bánh ruộng mất gần mười lăm phút; máy cần hai người khi đưa qua bờ cao; nguồn xích mới chỉ có cam kết năm bộ đầu. Hùng không gọi đó là hoàn thiện tuyệt đối.
 
 Ông triệu tập cuộc họp cuối tháng. Trên bàn không có tờ quảng cáo, chỉ có bản vẽ sửa, phiếu cân hạt rơi, sổ giờ chạy, danh sách phụ tùng và hai thanh tải đã nứt. Lan đọc từng tiêu chí đã đặt từ đầu.
 
-“Lúa đứng: đạt. Một sào từ ba mươi lăm đến ba mươi tám phút. Tỷ lệ cắt sạch từ chín mươi lăm đến chín mươi sáu phẩy bốn phần trăm. Hạt rơi tăng từ một phẩy ba đến một phẩy sáu phần trăm so với cắt tay. Lúa đổ nặng: chưa đạt. Nóng rát gáy dưới nắng hè đứng bán hàng. An toàn truyền động: đã có che chắn, cần cắt và dây ngắt; phải tiếp tục kiểm ngoài ruộng. Hai mẫu đã sản xuất xong và chạy có tải ba mươi hai giờ.”
+“Lúa đứng: đạt. Một sào từ ba mươi lăm đến ba mươi tám phút. Tỷ lệ cắt sạch từ chín mươi lăm đến chín mươi sáu phẩy bốn phần trăm. Hạt rơi tăng từ một phẩy ba đến một phẩy sáu phần trăm so với cắt tay. Lúa đổ nặng: chưa đạt. dưới nắng hè đứng bán hàng. An toàn truyền động: đã có che chắn, cần cắt và dây ngắt; phải tiếp tục kiểm ngoài ruộng. Hai mẫu đã sản xuất xong và chạy có tải ba mươi hai giờ.”
 
 Minh hỏi:
 
@@ -179,11 +179,11 @@ Bà Hà xem vết xước dài trên mu tay Hùng do mép lá lúa. "Thua chỗ 
 
 Ông gật. Ngoài đồng đêm, gió mang mùi rơm. Câu hỏi 30 xe tải đã mở ở trang vận chuyển — chưa trả lời, chỉ ghi để không quên. Ngày mai giữ người theo dõi máy cày; không rút tay để chạy theo gặt.
 
-
 「Hệ thống — GHI NHẬN ch.63」
 Năm: 1985
 Tổng EXP: 8,440 (+213 nhịp này)
 Không gian kho: 3,640m² (+47m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Thương mại lv3
 Ghi chú: Máy gặt: lúa đứng đạt, lúa đổ chưa; lô tiền SX 5; mở bài toán 30 xe tải trên sổ.
+
 ============================================================

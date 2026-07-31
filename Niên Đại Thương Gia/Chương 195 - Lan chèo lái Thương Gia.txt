@@ -327,7 +327,7 @@ Hùng gọi: "Nghe nói em thuê người."
 
 "Em học đâu ra cái logic đó?"
 
-"Không học. Quan sát bà ngoại chợ huyện hai mươi năm."
+"Không học. Quan sát mế chợ huyện hai mươi năm."
 
 ---
 
@@ -426,4 +426,5 @@ Tổng EXP: 36,400 (+320 nhịp này)
 Không gian kho: 11,600m² (+80m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
 Ghi chú: Lan chèo lái Thương Gia — chìa khóa vận hành HN
+
 ============================================================

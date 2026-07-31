@@ -89,7 +89,6 @@ Quản lý Nam Định xin giữ khách nợ vượt hạn mức vì đó là đ
 
 Người quản lý im lặng.
 
-“Không cắt quan hệ. Bùn non dưới ruộng lúa mới cày. Chuyển sang giao từng phần, trả phần trước mới nhận phần sau. Người làm ăn tử tế sẽ hiểu. Người chỉ tử tế khi được nợ vô hạn thì không phải đối tác.”
 
 Vấn đề hàng tồn Thái Bình khó hơn. Bán tháo sẽ thu tiền nhanh nhưng phá giá các chi nhánh khác. Chở về Hà Nội tốn phí. Hùng hỏi từng nơi về nhu cầu thực. Ninh Bình có thể nhận một phần vì mặt hàng ấy đang bán được. Nam Định nhận ít hơn. Phần còn lại được ghép vào đơn của hai khách sỉ với mức giảm vừa đủ bù phí lưu kho. Không có cuộc “xả hàng” ồn ào. Một lỗi mua quá tay được sửa bằng điều chuyển có sổ, không bằng cách đẩy thiệt hại sang nơi khác.
 
@@ -139,7 +138,6 @@ Trong tầm nhìn của Hùng, ánh sáng quen thuộc hiện lên. Nó không c
 
 Ánh sáng tắt. Hùng không thấy mình mạnh hơn theo cách có thể đo bằng cánh tay hay giọng nói. Thứ thay đổi nằm trong đầu: những dòng tiền, thời hạn và rủi ro vốn rời rạc nay nối thành một bản đồ rõ hơn. Ông hiểu giá của cơ hội, nhưng cũng nhìn rõ giá phải trả nếu dùng vốn sai chỗ. Kỹ năng mới không cho ông biết trước tương lai. Nó chỉ buộc ông nhìn một quyết định đầu tư bằng cả khả năng sinh lời lẫn khả năng sống sót.
 
-Ông ghi phần thưởng vào cuối sổ cái, đúng những con số hệ thống vừa báo. Bùn non dưới ruộng lúa mới cày. Không gian kho tăng thêm được ghi riêng, chưa coi là hàng, chưa coi là tiền. EXP cộng một lần. Dòng kỹ năng cũ được gạch bằng một nét mảnh rồi viết lại: Đầu tư lv2. Lan đứng cạnh, kiểm phép cộng.
 
 “Khớp,” cô nói.
 
@@ -212,4 +210,5 @@ Tổng EXP: 7,800 (+260 nhịp này)
 Không gian kho: 3,500m² (+50m²)
 Kỹ năng trọng yếu: Chiến lược lv1, Đầu tư lv2, Thương mại lv3
 Ghi chú: Khóa Phần 1: kiểm chéo 3 CN + cash-flow; teaser xe đạp — ốc vít trước tuyên bố.
+
 ============================================================

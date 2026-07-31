@@ -166,7 +166,6 @@ An Tín khép nhịp mở rộng bằng số liệu tháng và một ca sản kh
 
 ============================================================
 
-
 ***
 
 Tuần thứ hai sau mở rộng, xưởng thực phẩm xin dồn một buổi khám định kỳ thành nửa ngày để «tiện ca». Hòa lắc đầu trước khi Hùng kịp nói. Mắt chị nghiêm, tay đặt lên sổ lịch:
@@ -206,8 +205,6 @@ Bà Hà tối đó hỏi thăm qua bát canh:
 — Sang nếu sạch và đúng việc — Hùng đáp, cười. — Sang nếu chỉ sơn tường thì mẹ đừng tin.
 
 Bà gật, gắp canh cho con thêm một miếng, không nói thêm. Ngoài sân mưa nhẹ. Trong nhà mùi hành. An Tín đã rộng hơn mét vuông — rộng ở chỗ biết nói không với dồn ca và biết giữ cổng sau cho cáng, không cho hàng ghế chụp ảnh.
-
-
 
 ***
 
@@ -259,4 +256,5 @@ Tổng EXP: 9,720 (+213 nhịp này)
 Không gian kho: 3,920m² (+47m²)
 Kỹ năng trọng yếu: Y tế lv1, Chiến lược lv1, Đầu tư lv2, Quản lý lv1
 Ghi chú: Mở rộng An Tín bằng thuê kho sau + luồng sạch/bẩn tách; chạy thử trước mở chính thức; không cơ sở 2; tháng đầu 1962 lượt, chờ trung vị giảm, chuyển viện đúng quy trình
+
 ============================================================

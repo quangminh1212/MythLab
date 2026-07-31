@@ -276,9 +276,9 @@ Lan ngồi cạnh bà, nắm tay bà. "Mẹ, con muốn nghe mẹ kể chuyện 
 
 Bà Hà nhìn con dâu, rồi nhìn quanh cả gia đình đang chờ đợi. Bà kể lại — chậm, đôi khi ngừng lại để nhớ, đôi khi bật cười vì một chi tiết vụn vặt nào đó chợt hiện về.
 
-Huy ngồi nghe, lần đầu tiên trong đời cậu nghe đầy đủ câu chuyện về bà nội mình đã hy sinh thế nào để nuôi bố. Cậu nhìn bà — chín mươi tuổi, gầy gò, nhưng đôi mắt vẫn còn tinh anh khi kể chuyện — và cậu hiểu ra một điều: cơ nghiệp Thương Gia không bắt đầu từ một ý tưởng kinh doanh thông minh. Nó bắt đầu từ một người mẹ không có gì ngoài tình yêu và sự liều lĩnh.
+Huy ngồi nghe, lần đầu tiên trong đời cậu nghe đầy đủ câu chuyện về bà Hà mình đã hy sinh thế nào để nuôi bố. Cậu nhìn bà — chín mươi tuổi, gầy gò, nhưng đôi mắt vẫn còn tinh anh khi kể chuyện — và cậu hiểu ra một điều: cơ nghiệp Thương Gia không bắt đầu từ một ý tưởng kinh doanh thông minh. Nó bắt đầu từ một người mẹ không có gì ngoài tình yêu và sự liều lĩnh.
 
-Khi bà kể xong, cả phòng im lặng một lúc. Rồi Huy đứng lên, đến ôm bà nội.
+Khi bà kể xong, cả phòng im lặng một lúc. Rồi Huy đứng lên, đến ôm bà Hà.
 
 "Bà ơi, cháu cảm ơn bà."
 
@@ -301,4 +301,5 @@ Tổng EXP: 88,800 (+600 nhịp này)
 Không gian kho: 51,760m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
 Ghi chú: bà Hà 90 kể chuyện bán nhà Hải Phòng 1983
+
 ============================================================

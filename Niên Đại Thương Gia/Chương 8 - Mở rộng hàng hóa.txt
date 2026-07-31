@@ -11,7 +11,6 @@ Ngày thứ bảy. Một tuần kể từ khi Hùng tỉnh dậy trong cơ thể
 Sáng nay, ông dậy sớm, cho bà Hà uống thuốc, nấu cháo bò, rồi ngồi ở hiên suy nghĩ. Bà đỡ hơn — đau đầu giảm, mắt đỡ hoa, ăn được nhiều hơn. Thuốc bổ và dinh dưỡng bắt đầu phát huy tác dụng.
 
 Hôm nay, Hùng quyết định mở rộng mặt hàng. Quần áo, trứng, mì gói — ba mặt hàng hiện tại — đang bán tốt, nhưng ông cần thêm. Đa dạng hóa hàng hóa nghĩa là giảm rủi ro, tăng khách hàng, và tạo nền tảng cho cửa hàng tương lai.
-Loẹt xoẹt biên lai thu tiền.
 
 Ông liệt kê các mặt hàng mới có thể bán:
 1. Thuốc men — thuốc bổ, vitamin, thuốc cảm, thuốc đau đầu. Trong thời bao cấp, thuốc khan hiếm, người dân cần. Hùng có thể lấy từ không gian (hệ thống có sẵn thuốc cơ bản) hoặc mua ở hiệu thuốc huyện bán lại.
@@ -134,7 +133,7 @@ KẾ HOẠCH HỢP TÁC KINH DOANH
 
 Hùng đọc lại, gật đầu. Rõ ràng, cụ thể, có số liệu. Ông sẽ trình bản kế hoạch này cho ông Tâm, và hy vọng ông đồng ý.
 
-Ngoài sân, trăng sáng. Gió lạnh thổi vào qua khe cửa, mang theo mùi đất ẩm và mùi rạ khô. Bà Hà đã ngủ, tiếng thở nhẹ, thỉnh thoảng trở mình — đêm nay bà không còn rên vì đau đầu nữa. Lan cũng ngủ, cuộn tròn trên chõng, tay ôm chiếc gối bông cũ, hơi thở đều đều như mèo nhỏ.
+Ngoài sân, trăng sáng. Gió lạnh thổi vào qua khe cửa, mang theo và mùi rạ khô. Bà Hà đã ngủ, tiếng thở nhẹ, thỉnh thoảng trở mình — đêm nay bà không còn rên vì đau đầu nữa. Lan cũng ngủ, cuộn tròn trên chõng, tay ôm chiếc gối bông cũ, hơi thở đều đều như mèo nhỏ.
 
 Hùng nằm xuống giường, nhắm mắt. Vạt chiếu cói dưới lưng thô ráp mát lạnh, mùi chiếu mới phảng phất. Ông cảm thấy từng đốt sống kêu răng rắc sau một ngày dài. Ngày mai: đi Hà Nội. Bốn mươi cây số xe đạp, nửa ngày đi, nửa ngày về. Khó, nhưng cần thiết. Ông cần nguồn hàng bên ngoài — không thể mãi phụ thuộc kho không gian. Kho là dự phòng, là bí mật. Kinh doanh thật cần hàng thật, từ nguồn thật.
 
@@ -143,7 +142,6 @@ Và ông cần khảo sát Hà Nội — chợ Đồng Xuân, cửa hàng nhập
 Nhưng trước hết, ông cần chinh phục huyện Quốc Oai. Từ nhỏ đến lớn. Từ huyện đến tỉnh. Từ tỉnh đến thành phố. Từ thành phố đến cả nước.
 
 Mỗi bước một chân. Không vội, không chậm. Đều đặn, chắc chắn, như đạp xe trên đường đất đỏ.
-
 
 ---
 
@@ -190,4 +188,5 @@ Tổng EXP: 258 (+46)
 Không gian kho: 1,200m² (+0m²)
 Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2
 Ghi chú: Mở rộng hàng thiết yếu; sổ với ông Tâm; ngưỡng nhập.
+
 ============================================================

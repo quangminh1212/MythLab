@@ -181,7 +181,7 @@ Im lặng. Tiếng hú còi xe hơi ở Paris. Tiếng mưa rơi ở Hà Nội. 
 Tút tút.
 Tiếng máy bận kéo dài ba giây rồi tắt. Hùng vẫn giữ điện thoại bên tai, như thể chưa kịp nói hết. Nhưng đầu máy đã cúp — con gái không biết rằng ba mươi hai năm trước, một cuộc gọi từ bố cũng chỉ kéo dài hai mươi giây: "Sống tốt nhé" rồi cúp. Mai có ba phút. Ba phút là một bước tiến của cả một đời người. Hùng đặt máy xuống, ngón tay còn lưu hơi ấm của nhựa điện thoại — một hơi ấm nhỏ, mong manh như một lời chưa kịp nói.
 
-Hùng đặt điện thoại xuống bàn. Ông nhìn đồng hồ — sáu giờ mười lăm phút chiều. Căn phòng chìm dần vào bóng tối, tiếng mưa lộp bộp trên mái ngói, mùi đất ẩm từ ngoài vườn thoảng vào. Ngón tay ông vẫn còn lưu hơi ấm của nhựa điện thoại — một hơi ấm nhỏ, mong manh. Bên ngoài trời đã nhá nhem tối, tiếng xe cộ ngoài phố thưa dần, mùi khói bếp than tổ ong từ những mái nhà bên cạnh thoảng vào qua khe cửa. Cả ngày chỉ làm được một việc — nhưng là việc quan trọng nhất của năm. Của nhiều năm.
+Hùng đặt điện thoại xuống bàn. Ông nhìn đồng hồ — sáu giờ mười lăm phút chiều. Căn phòng chìm dần vào bóng tối, tiếng mưa lộp bộp trên mái ngói, từ ngoài vườn thoảng vào. Ngón tay ông vẫn còn lưu hơi ấm của nhựa điện thoại — một hơi ấm nhỏ, mong manh. Bên ngoài trời đã nhá nhem tối, tiếng xe cộ ngoài phố thưa dần, mùi khói bếp than tổ ong từ những mái nhà bên cạnh thoảng vào qua khe cửa. Cả ngày chỉ làm được một việc — nhưng là việc quan trọng nhất của năm. Của nhiều năm.
 
 Ông đứng dậy, với tay lấy cuốn sổ da cũ. Ông mở trang mới, viết:
 
@@ -220,4 +220,5 @@ Tổng EXP: 81,600 (+600 nhịp này)
 Không gian kho: 45,520m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
 Ghi chú: mở Phần 6 Di sản — ủy thác 3 tầng; Nam–Minh–Mai nhận vai
+
 ============================================================

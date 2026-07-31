@@ -197,4 +197,5 @@ Tổng EXP: 19,417 (+84)
 Không gian kho: 6,183m² (+16m²)
 Kỹ năng trọng yếu: Logistics lv2, Tài chính lv1, Tài chính lv2, Giáo dục lv1
 Ghi chú: Thu hẹp HĐ kanban bảo lãnh 9 thợ giữ Tanaka
+
 ============================================================
