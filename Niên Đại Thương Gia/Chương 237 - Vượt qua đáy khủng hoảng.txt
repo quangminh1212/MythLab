@@ -6,6 +6,10 @@ Cuối năm 2008, Thương Gia, giữa cú sốc khủng hoảng, bắt đầu n
 
 Đầu tháng Bảy năm 2009, Minh trình danh sách năm kỹ sư đầu tiên cho phòng nghiên cứu AI.
 
+Nhưng trước khi những cái tên ấy xuất hiện trên màn hình, Hùng đã lật lại một trang cũ. Năm 2002, khi Thương Gia còn chưa có phòng dữ liệu, ông từng ngồi trong kho vải chật hẹp, dưới bóng đèn tuýp chập chờn, ghi doanh số vào cuốn sổ bìa xanh. Mùi bụi cotton, mực bút bi và dầu máy quyện vào nhau. Một cơn mưa tháng Tám dột qua mái tôn, làm nhòe mất ba dòng số. Hùng đã thức đến gần sáng, dùng thước kẻ dò từng phiếu nhập hàng để dựng lại con số. Khi ấy Lan, em gái ông, mang tới một cốc trà gừng; Minh, con ông, còn là cậu bé ngủ gục bên đống thùng carton.
+
+Hai mươi năm sau, những con số thất lạc ấy sẽ trở thành dữ liệu. Hùng không kể chuyện đó trong cuộc họp. Ông chỉ đặt cuốn sổ cũ cạnh máy tính, như một lời nhắc rằng mọi hệ thống lớn đều bắt đầu từ bàn tay con người.
+
 Người thứ nhất: Lê Quang Vinh, hai mươi bảy tuổi, tốt nghiệp thạc sĩ Khoa học Máy tính tại Đại học Quốc gia Singapore. Vinh từng làm cho một công ty khởi nghiệp về fintech ở Singapore hai năm, nhưng quyết định về Việt Nam vì lý do gia đình. Minh nói: "Thằng này giỏi thật — nó viết code sạch, tư duy logic, biết cả machine learning. Nó có thể dạy lại cho cả đội."
 
 Người thứ hai: Phạm Hoàng Anh, hai mươi lăm tuổi, kỹ sư phần mềm tại FPT Software hai năm, chuyên về xử lý ngôn ngữ tự nhiên. Anh ta muốn thử thách mới. Mức lương ở FPT không đủ giữ chân người có năng lực.
@@ -24,7 +28,7 @@ Minh ngạc nhiên. "Anh không phỏng vấn?"
 
 "Em phỏng vấn rồi. Em tin họ. Anh tin em. Vậy đủ."
 
-Ngày đầu tiên của đội AI tại Thương Gia là ngày mười lăm tháng Bảy. Phòng làm việc của họ là một căn phòng rộng ba mươi mét vuông ở tầng mười lăm Thương Gia Tower — bốn bàn làm việc kê sát tường, một máy chủ Dell PowerEdge mới mua, màn hình LCD mười chín inch cho mỗi người.
+Ngày đầu tiên của đội AI tại Thương Gia là ngày mười lăm tháng Bảy. Phòng làm việc của họ là một căn phòng rộng ba mươi mét vuông ở tầng mười lăm Thương Gia Tower — bốn bàn làm việc kê sát tường, một máy chủ Dell PowerEdge mới mua, màn hình LCD mười chín inch cho mỗi người. Mùi plastic mới của thùng máy còn nồng; tiếng quạt tản nhiệt rì rầm như ong mật. Nắng chiều tháng Bảy hắt vào cửa sổ, phủ một vệt vàng lên bàn phím chưa ai sờ.
 
 Buổi sáng hôm đó, Hùng xuống phòng AI. Năm kỹ sư trẻ đang ngồi quanh bàn họp — hồi hộp, lo lắng, và tò mò. Họ không biết tại sao một tập đoàn sản xuất và bán lẻ lại muốn đầu tư vào AI. Hùng ngồi xuống ghế trống, nhìn từng người một.
 
@@ -48,7 +52,7 @@ Hùng đứng dậy, bắt tay từng người. Trước khi ra khỏi phòng, �
 
 Đội AI bắt đầu công việc với dự án đầu tiên: phần mềm dự báo doanh thu cho chuỗi bán lẻ Thương Gia, dựa trên dữ liệu bán hàng của năm năm qua. Một bài toán khó — nhưng vừa tầm để bắt đầu.
 
-Tuần đầu tiên không suôn sẻ. Dữ liệu năm năm nằm rải rác trong ba hệ thống khác nhau — một phần trong phần mềm kế toán, một phần trong Excel của từng cửa hàng, và một phần, khiến cả đội chết lặng, trong những cuốn sổ viết tay của thời kỳ trước 2005. Linh — cô kỹ sư trẻ nhất — được giao nhiệm vụ số hóa đống sổ ấy. Cô ôm chồng sổ dày về bàn, lật từng trang giấy ố vàng, và bất ngờ nhận ra một điều: những cuốn sổ tay ghi chép cẩn thận hơn mọi file Excel. Từng dòng có ngày, có chữ ký, có ghi chú thời tiết hôm đó — "mưa to, khách vắng", "gần Tết, hàng khan".
+Tuần đầu tiên không suôn sẻ. Dữ liệu năm năm nằm rải rác trong ba hệ thống khác nhau — một phần trong phần mềm kế toán, một phần trong Excel của từng cửa hàng, và một phần, khiến cả đội chết lặng, trong những cuốn sổ viết tay của thời kỳ trước 2005. Linh — cô kỹ sư trẻ nhất, tóc buộc đuôi ngựa, đôi mắt sáng sau cặp kính cận mỏng — được giao nhiệm vụ số hóa đống sổ ấy. Cô ôm chồng sổ dày về bàn, lật từng trang giấy ố vàng, và bất ngờ nhận ra một điều: những cuốn sổ tay ghi chép cẩn thận hơn mọi file Excel. Mùi giấy cũ phảng phất — vừa ngọt vừa chua, như mùi thời gian ngấm vào sợi giấy. Từng dòng có ngày, có chữ ký, có ghi chú thời tiết hôm đó — "mưa to, khách vắng", "gần Tết, hàng khan". Có hôm trời nóng, mồ hôi tay Hùng lem vào mực tím, Lan dùng ngón tay cái lau sạch rồi viết lại số bên cạnh. Hai người ngồi dưới quạt trần quay đều, tiếng ru rù lẫn tiếng đom đóm ngoài cửa sổ. Mùa hạ ấy, không ai nghĩ những con số ấy sẽ thành dữ liệu huấn luyện cho một thứ gọi là trí tuệ nhân tạo.
 
 "Ai ghi những cuốn này ạ?" Linh hỏi Minh trong buổi họp tuần.
 
@@ -60,7 +64,7 @@ Khi Minh kể lại chuyện đó, Hùng chỉ cười. Ông không nói gì, nh
 
 Giữa tháng Bảy, Dũng từ Đức về nước. Hùng ra tận sân bay đón. Một người đàn ông ba mươi tám tuổi, dáng người cao gầy, đeo kính cận, đầu hói sớm, mặc áo phông và quần jean — không giống một chuyên gia pin lithium sắp lãnh tám nghìn đô một tháng.
 
-Họ bắt tay nhau ở sảnh đến sân bay Nội Bài. Dũng nhìn Hùng: "Em tưởng anh sẽ cho người ra đón. Không ngờ anh đích thân ra."
+Họ bắt tay nhau ở sảnh đến sân bay Nội Bài. Dũng nhìn Hùng: "Em tưởng anh sẽ cho người ra đón. Không ngờ anh đích thân ra." Màn hình LED phía trên băng chuye hành lý nhấp nháy số chuyến bay; tiếng loa phát thanh vang lên đều đặn, giọng nữ đọc tên các chuyến từ Singapore, từ Seoul, từ Frankfurt. Dũng xách một chiếc vali sờn cũ, dán đầy tem kiểm tra hải quan, miệng cười nhưng mắt thâm quầng vì mệt. Mùi cà phê pha sẵn từ máy tự động thoảng qua, lẫn với mùi khói xe buýt shuttle bên ngoài.
 
 "Vì em là người đầu tiên em không phỏng vấn mà tin tưởng giao tiền."
 
@@ -124,7 +128,7 @@ Hùng nhìn biểu đồ, nhìn những đường màu xanh đỏ đan chéo. Tr
 
 Vinh cười, lần đầu từ ngày vào công ty. Trước khi Hùng ra về, Linh chạy theo, tay cầm cuốn sổ lề đã nhòe. "Cảm ơn chú. Bọn em sẽ không phụ."
 
-Tối hôm phòng thí nghiệm khánh thành, Hùng về nhà muộn. Bà Hà vẫn thức, ngồi ở hiên với ấm trà nguội. Bà không hỏi ông đi đâu. Bà chỉ đẩy về phía ông một bát cháo còn âm ấm, bọc trong khăn. "Ăn đi. Tao nghe nói con làm cái nhà kính ở Hải Phòng. Tốt không?" Hùng cười, thổi nhẹ bát cháo. "Tốt, mẹ ạ. Trong ấy có máy lạnh, lọc bụi. Để làm pin cho xe chạy điện." Bà Hà gật gù, không hiểu hết nhưng không hỏi thêm. "Làm được thì làm. Đừng để mất người." Ông nhớ câu ấy cả đêm.
+Tối hôm phòng thí nghiệm khánh thành, Hùng về nhà muộn. MẾ vẫn thức, ngồi ở hiên với ấm trà nguội, đôi tay gầy gầy đặt lên đầu gối, mắt hướng ra ngõ nhỏ tối mò. Bên trong nhà, tiếng quạt cũ kêu rè rè, mùi nhang tàn thoảng qua ban thờ nhỏ trên tường. Bà không hỏi ông đi đâu. Bà chỉ đẩy về phía ông một bát cháo còn âm ấm, bọc trong khăn. "Ăn đi. Tao nghe nói con làm cái nhà kính ở Hải Phòng. Tốt không?" Hùng cười, thổi nhẹ bát cháo — mùi gạo nếp và hành phi dậy lên, nóng ấm như bàn tay mẹ ngày xưa. "Tốt, mẹ ạ. Trong ấy có máy lạnh, lọc bụi. Để làm pin cho xe chạy điện." MẾ gật gù, không hiểu hết nhưng không hỏi thêm. Bà khẽ gạt tóc mái bên thái dương, động tác chậm, chậm hơn trước. "Làm được thì làm. Đừng để mất người." Ông nhớ câu ấy cả đêm. Câu ấy nặng hơn mọi con số trên báo cáo tài chính.
 
 Cuối tuần, Hùng xuống Hải Phòng xem phòng thí nghiệm đang xây. Trời mưa tầm tã, mặt đường loang loáng nước. Công trường tạm dừng, máy móc phủ bạt kín mít. Dũng đứng dưới mái tôn tạm, sổ tay ghi đầy số liệu, mắt đỏ kè vì mất ngủ. "Tiến độ chậm mất hai tuần vì mưa," Dũng nói, giọng khản. "Em tính chạy ba ca bù."
 
@@ -150,11 +154,17 @@ Hải đặt bảng EBITDA quý bốn lên bàn họp. Cột cuối chuyển t�
 
 Cuối tuần, Hùng cho phép một nồi phở chung ca ở sân xưởng. Không băng-rôn. Không phát biểu dài. Ông đứng cuối hàng, nhận tô như mọi người. Tùng gật từ xa. Mai cười khi được thêm quẩy.
 
-Lan gọi video ngắn. Cô thấy khói phở và nghe tiếng bát đũa. — Bên Mỹ cũng ổn hơn tuần trước — cô nói. — Nhưng em không tăng tuyển.
+Lan gọi video ngắn. Cô thấy khói phở và nghe tiếng bát đũa. Cô mặc áo blouse trắng, tóc cắt ngắn, đằng sau là phòng thí nghiệm ở Stanford với những chai hóa chất xếp đều trên kệ. Giọng cô trầm hơn trước — nhiều năm sống một mình ở xứ người đã thêm cho cô một lớp vỏ bình tĩnh. "Bên Mỹ cũng ổn hơn tuần trước — nhưng em thấy một bài báo trên Wall Street Journal về pin thể rắn. Samsung đang đầu tư năm tỷ đô. Nếu mình không nhanh..." — cô dừng lại, không nói hết câu. Hùng nghe im lặng bên kia điện thoại, biết cô đang nghĩ gì. Cô sợ anh trai mình đi sau đợt. "Nhưng em không tăng tuyển," cô nói, giọng trở lại thực tế.
 
 — Đúng — Hùng đáp. — EBITDA đen chưa phải phép màu.
 
 Ông đặt bát xuống, lau tay. Mắt nhìn bảng việc dán tường: bảo hành, nguyên liệu, nợ ngắn hạn. Phía trước năm mới đã nhô lên sau hàng số. Ông chưa cho ai gỡ bảng ấy xuống.
+
+Đêm ấy, Hùng ngồi một mình trong phòng làm việc. Đèn bàn hắt sáng một góc, còn lại chìm trong bóng tối. Ông lướt mắt qua báo cáo — EBITDA đen, nhưng chỉ mới vừa chạm vạch. Mỏng như tờ giấy. Ông mở ngăn kéo, lấy ra envelope từ Tổng cục Thuế: thông báo kiểm tra đột xuất toàn tập đoàn, lý do "đối tượng ưu tiên thuộc diện giám sát tài chính giai đoạn khủng hoảng". Dòng cuối ghi: "Trong vòng mười lăm ngày."
+
+Ông gấp envelope lại, đặt lên bàn. Trời ngoài cửa sổ đổ mưa — không phải mưa lớn, nhưng đủ để ánh đèn đường bị phá vỡ thành những vệt mờ. Trong lúc toàn bộ tập đoàn đang ăn mừng EBITDA dương, chính phủ đã giăng lưới. Và lần này, người giăng lưới không phải đối thủ — mà là bộ máy nhà nước, thứ mà Hùng không thể mua được bằng tiền hay thắng bằng chiến lược.
+
+Ông tắt đèn. Trong bóng tối, tiếng mưa vẫn rơi.
 
 「Hệ thống — GHI NHẬN ch.237」
 Năm: 2008

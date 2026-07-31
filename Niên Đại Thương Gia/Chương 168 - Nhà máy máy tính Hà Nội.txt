@@ -2,9 +2,11 @@
 Chương 168: Nhà máy máy tính Hà Nội
 ============================================================
 
-Người ta nói năm 1992: "Máy tính ở Hà Nội chỉ có trong tưởng tượng."
+[CAST CỐ ĐỊNH: mế = MẾ; Lan = em gái; Minh = con. Bối cảnh: Hà Nội, năm 1993, thời điểm mở rộng nhà máy sau năm đầu thử lửa.]
 
-Hùng nghĩ khác. Ông cho rằng tưởng tượng là bước đầu của sản xuất. Và sản xuất bắt đầu từ một mảnh đất hoang ven đường vành đai phía tây Hà Nội — xa trung tâm, cỏ mọc cao ngang đầu gối, một bên giáp ruộng lúa, một bên giáp nghĩa trang liệt sĩ đã bỏ hoang từ lâu. Trên mảnh đất đó có một cái cây đa già, gốc to hai người ôm, rễ phụ buông xuống như những sợi tóc bạc. Hùng đứng dưới gốc cây đa, nhìn quanh, tính toán.
+Người ta nói năm 1993:
+
+Hùng nghĩ khác. Ông cho rằng tưởng tượng là bước đầu của sản xuất. Và sản xuất bắt đầu từ một mảnh đất hoang ven đường vành đai phía tây Hà Nội — xa trung tâm, cỏ mọc cao ngang đầu gối, một bên giáp ruộng lúa, một bên giáp nghĩa trang liệt sĩ đã bỏ hoang từ lâu. Trên mảnh đất đó có một cái cây đa già, gốc to hai người ôm, rễ phụ buông xuống như những sợi tóc bạc. Mùi bùn đất còn tươi, mùi rơm mục trộn lẫn với mùi hoa xoan trắng rụng đầy lối đi. Tiếng ve sầu râm ran trên tán đa — tiếng kêu không ngừng, như thể đất đang thở. Gió thổi qua ruộng lúa, mang theo mùi lúa non xanh nồng, lẫn mùi khói rơm của hộ dân gần đó. Trưa hè 1993, nắng đổ xiên qua tán đa, tạo thành những vệt sáng rải rác trên mặt đất đỏ. Hùng đứng dưới gốc cây đa, nhìn quanh, tính toán.
 
 Ông Sáu, người môi giới đất, dẫn ông đi xem, vừa đi vừa lắc đầu:
 
@@ -16,7 +18,7 @@ Hùng nghĩ khác. Ông cho rằng tưởng tượng là bước đầu của s�
 
 — Thì trả lương cao hơn. Và mua xe đưa đón. Ai cũng sẽ đến.
 
-Ông Sáu lắc đầu — không vì không đồng ý, mà vì không hiểu. Ông bán đất hai chục năm, chưa thấy ai mua đất nghĩa trang bỏ hoang để làm nhà máy máy tính. "Máy tính" — cái từ ấy còn xa lạ với hầu hết người Hà Nội năm 1992. Nhưng ông ký hợp đồng.
+ông Sáu lắc đầu — không vì không đồng ý, mà vì không hiểu. Ông bán đất hai chục năm, chưa thấy ai mua đất nghĩa trang bỏ hoang để làm nhà máy máy tính. Mùi hương nhang khói từ nghĩa trang còn phảng phất mỗi chiều, trộn lẫn với mùi rơm rạ mục nát dưới chân. "Máy tính" — cái từ ấy còn xa lạ với hầu hết người Hà Nội năm 1993. Nhưng ông ký hợp đồng.
 
 Mảnh đất mua xong, Hùng thuê thợ xây địa phương — bảy người, làm trong hai tuần. Lán tôn, trần lợp fibro xi măng, tường gạch không trát — tiết kiệm từng đồng. Nền xi măng đánh màu. Diện tích: hai trăm mét vuông. Phía cuối hội trường, ông cho xây một phòng nhỏ diện tích mười mét vuông, có máy lạnh — cái máy lạnh cũ mua thanh lý từ khách sạn Thắng Lợi. Phòng đó không cho người — cho mấy cái máy tính mẫu và linh kiện.
 
@@ -30,7 +32,7 @@ Thợ cả im lặng nhìn Hùng. Làm việc với người biết chuyện khi
 
 ***
 
-Ngày đầu tiên của nhà máy máy tính Hà Nội — mười hai người. Trong số đó, chỉ ba người từng thấy máy tính thật. Chín người còn lại: thợ điện, thợ cơ khí từ các xưởng khác chuyển sang, và hai thanh niên mới ra trường biết tiếng Anh.
+Ngày đầu tiên của nhà máy máy tính Hà Nội — mười hai người. Trời nóng như thiêu, nhiệt độ ngoài trời gần bốn mươi độ, nhưng trong lán tôn còn hơn thế. Mái tôn phản chiếu ánh nắng, biến lán thành một cái lò nướng. Mùi sắt mới, mùi keo dán, mùi mồ hôi — tất cả hòa quyện trong cái nóng bức bách. Quạt trần quay vù vù nhưng chỉ đẩy hơi nóng từ trên xuống. Trong số mười hai người, chỉ ba người từng thấy máy tính thật. Chín người còn lại: thợ điện, thợ cơ khí từ các xưởng khác chuyển sang, và hai thanh niên mới ra trường biết tiếng Anh.
 
 Người thứ nhất — Nguyễn Văn Quyết. Hai mươi bốn tuổi, tốt nghiệp Bách Khoa Hà Nội năm 1991, khoa Vô tuyến điện tử. Nói tiếng Anh đọc được tài liệu kỹ thuật. Là người duy nhất trong nhóm biết DOS là gì.
 
@@ -56,9 +58,7 @@ Một người thợ điện — tên Dũng, ba mươi hai tuổi — nói nhỏ
 
 — Ở phim cũng tốt. Ít ra biết nó tồn tại.
 
-Hùng cầm CPU Intel 286 lên — con chip dẹt, đen bóng — giơ trước mặt mọi người. Trên bàn dài là linh kiện: ổ cứng 40 MB — nặng gần một cân, đen, kêu lạch cạch khi lắc. RAM 4 MB — những thanh nhựa nhỏ, chân cắm mạ vàng, nhẹ như lông hồng. CPU Intel 286 — con chip dẹt, chân cắm hai bên, đen bóng, mát lạnh khi chạm vào. Card màn hình ISA — một bảng mạch xanh, linh kiện tua tủa. Mainboard — một tấm nhựa lớn, đường dẫn đồng chạy chi chít. Nguồn AT — hộp sắt nặng, quạt kêu vo vo khi cắm điện.
-
-Hùng cầm CPU Intel 286 lên — con chip dẹt, lòng bàn tay ôm gọn — giơ trước mặt mọi người.
+Hùng lần lượt nâng từng linh kiện lên, giới thiệu cho mười hai người nghe. Trên bàn dài, ánh nắng xiên qua cửa sổ tôn phản chiếu lấp lánh trên bề mặt kim loại: ổ cứng 40 MB — nặng gần một cân, đen sì, khi lắc phát ra tiếng lạch cạch khô khốc, như cát rơi trong lon sắt. RAM 4 MB — những thanh nhựa nhỏ, chân cắm mạ vàng, nhẹ như lông hồng, cầm lên gần như không có gì trong tay. Card màn hình ISA — một bảng mạch xanh rêu, linh kiện tua tủa như đô thị thu nhỏ. Mainboard — một tấm nhựa lớn, đường dẫn đồng chạy chi chít như mạch máu dưới da. Nguồn AT — hộp sắt nặng, quạt kêu vo vo khi cắm điện, tỏa hơi nóng như lò sưởi mini. Cuối cùng, Hùng cầm CPU Intel 286 lên — con chip dẹt, lòng bàn tay ôm gọn, mát lạnh khi chạm vào — giơ trước mặt mười hai người.
 
 — Đây là não của máy tính. Không có nó, mọi thứ khác là sắt vụn.
 
@@ -92,7 +92,7 @@ Ngày hai: năm cái. Ngày ba: mười cái. Ngày bốn: một cái lỗi ngu�
 
 ***
 
-Bà Hà ra thăm nhà máy một ngày chủ nhật. Bà đi xe ôm từ phố cổ ra vùng ven, tay xách nồi cháo gà. Nhìn cái lán tôn, nhìn đám thanh niên lem luốc dầu mỡ nhưng mắt sáng, bà đặt nồi cháo lên bàn duy nhất — một cái bàn gỗ thô, kê trên bốn khối gạch — rồi nhìn Hùng.
+MẾ ra thăm nhà máy một ngày chủ nhật. Bà đi xe ôm từ phố cổ ra vùng ven, tay xách nồi cháo gà còn nóng hổi, hơi nước bốc lên nghi ngút trong cái lạnh cuối đông. Gió lạnh thổi bụi đường vào mặt, tóc bà bạc trắng bay lòa xòa. Nhìn cái lán tôn — tôn kêu ken két khi gió thổi, bên trong lạnh ngắt nhưng mùi hàn xì còn vương — nhìn đám thanh niên lem luốc dầu mỡ nhưng mắt sáng, bà đặt nồi cháo lên bàn duy nhất — một cái bàn gỗ thô, kê trên bốn khối gạch, mặt bàn sần sùi đầy vết cháy — rồi nhìn Hùng.
 
 — Con làm ở đây á?
 
@@ -104,7 +104,7 @@ Bà Hà ra thăm nhà máy một ngày chủ nhật. Bà đi xe ôm từ phố c
 
 — Ừ. Ăn đi. Ăn xong rồi tính.
 
-Cả đội ngồi quanh nồi cháo gà, ăn giữa lán tôn lạnh — ớt băm, nước mắm, thịt gà xé nhỏ. Ai cũng đói. Bà Hà hỏi Quyết:
+Cả đội ngồi quanh nồi cháo gà, ăn giữa lán tôn lạnh — mùi cháo gà thơm lừng trộn lẫn với mùi sắt non và keo hàn, ớt băm đỏ au, nước mắm mặn nồng, thịt gà xé nhỏ nổi váng mỡ vàng. Ai cũng đói. Bát chén đũa mua ngoài chợ Bào, loại rẻ nhất, sứt mẻ vài chỗ. MẾ ngồi xổm bên nồi cháo, hất từng muỗng đầy vào bát, động tác chậm rãi, chắc chắn — tay bà chai sạn, gân nổi lên dưới làn da nhăn nheo. Bà nhìn đám thanh niên ăn, mắt hơi đỏ — không phải vì khói, mà vì cái gì đó không nói được. Bà hỏi Quyết:
 
 — Cháu làm có ổn không?
 
@@ -120,11 +120,11 @@ Quyết cười:
 
 — Dạ no. Cơm thì no, thịt thì có. Mà được làm máy tính, không phải đi dạy thêm như mấy đứa bạn.
 
-Bà Hà gật, không hỏi thêm.
+MẾ gật, không hỏi thêm.
 
 ***
 
-Tháng đầu: năm mươi cái máy tính Thành Công — cái tên do bà Hà đặt, vì bà bảo "xe là Thành Công, máy tính cũng phải Thành Công" — xuất xưởng. Mỗi máy có cấu hình: CPU Intel 286, RAM 4 MB, ổ cứng 40 MB, ổ mềm 3.5inch và 5.25inch, card màn hình VGA 256 màu, monitor trắng đen 14 inch, bàn phím cơ Trung Quốc, chuột serial. Vỏ thùng máy màu trắng kem, mặt trước có logo Thương Gia mạ đồng.
+Tháng đầu: năm mươi cái máy tính Thành Công — cái tên do mế đặt, vì bà bảo "xe là Thành Công, máy tính cũng phải Thành Công" — xuất xưởng. Mỗi máy có cấu hình: CPU Intel 286, RAM 4 MB, ổ cứng 40 MB, ổ mềm 3.5inch và 5.25inch, card màn hình VGA 256 màu, monitor trắng đen 14 inch, bàn phím cơ Trung Quốc, chuột serial. Vỏ thùng máy màu trắng kem, mặt trước có logo Thương Gia mạ đồng.
 
 Một ngày đầu tháng thứ hai, một sinh viên Đại học Bách Khoa — tên Hưng, năm thứ ba khoa Toán — tìm đến nhà máy. Hắn nghe tin từ bạn học, đạp xe hai tiếng từ phố Bạch Mai ra vùng ven để xem "cái máy tính do người Việt tự lắp." Hùng tiếp hắn, không phải như khách, mà như một đồng nghiệp tương lai.
 
@@ -160,11 +160,11 @@ Một buổi chiều cuối tháng, Hùng nhận được cuộc gọi từ mộ
 
 — Không cần thử. Tôi biết anh qua ông Cường — trung tâm ở phố Huế. Ảnh khen máy của anh chạy ổn.
 
-Hùng cúp máy, ngồi im một lúc. Mười lăm cái — đơn hàng lớn nhất từ trước đến nay. Ông mở sổ, tính. Với đơn này, nhà máy sẽ tạm hòa vốn. Ông gọi Lan, bảo chuẩn bị linh kiện cho lô mười lăm máy, cài sẵn phần mềm, đóng thùng cẩn thận.
+Hùng cúp máy, ngồi im một lúc. Mười lăm cái — đơn hàng lớn nhất từ trước đến nay. Ông mở sổ, tính. Với đơn này, nhà máy sẽ tạm hòa vốn. Ông gọi Lan, bảo chuẩn bị linh kiện cho lô mười lăm máy, cài sẵn phần mềm, đóng thùng cẩn thận. Lan nhận điện thoại, giọng nghiêm nhưng ấm — cô là người duy nhất biết cả số serial từng linh kiện trong kho. Lan hỏi: "Anh ơi, Minh con anh hỏi ba khi nào về nhà — con nói nhớ ba." Hùng cười, bảo Lan: "Bảo nó chờ ba cuối tuần."
 
 ***
 
-Trước khi giao lô hàng lớn, Hùng quyết định thử nghiệm độ bền. Ông để một máy chạy liên tục trong bảy mươi hai giờ — mở máy, chạy ứng dụng, tắt, mở lại. Máy chạy ổn trong hai ngày đầu. Ngày thứ ba, nguồn bắt đầu kêu tiếng lạ, quạt nguội ngừng quay. Hùng tháo nguồn, thấy một tụ điện bị phồng — tụ của lô mua từ một đại lý mới, rẻ hơn 20% so với lô trước.
+Trước khi giao lô hàng lớn, Hùng quyết định thử nghiệm độ bền. Ông để một máy chạy liên tục trong bảy mươi hai giờ — mở máy, chạy ứng dụng, tắt, mở lại. Quạt nguồn kêu vo ve đều đặn như ong mật, màn hình DOS nhấp nháy liên tục, đèn ổ cứng chớp đỏ khi đọc ghi dữ liệu. Máy chạy ổn trong hai ngày đầu. Ngày thứ ba, nguồn bắt đầu kêu tiếng lạ — tiếng rít nhỏ, ran ran như sâu nhai lá — quạt nguội ngừng quay. Hùng tháo nguồn, mùi khét nhẹ bốc lên. Ông thấy một tụ điện bị phồng — tụ của lô mua từ một đại lý mới, rẻ hơn 20% so với lô trước. Bề mặt tụ mềm nhũn, sờ vào thấy nóng.
 
 Ông gọi điện cho đại lý:
 
@@ -190,9 +190,9 @@ Hùng cúp máy, quay sang Lan:
 
 Lan gật đầu, nhưng mắt cô nhìn xa xăm ra cửa sổ. Cô không nói, nhưng Hùng hiểu: hòa vốn mới chỉ là bắt đầu. Phía trước còn nhiều thử thách hơn.
 
-Đêm đó, Hùng không ngủ được. Ông ra ngoài lán tôn, đứng dưới gốc cây đa. Trời lạnh, sao đầy. Ông nghĩ về con đường phía trước: thêm vốn, thêm người, thêm máy móc. Nghĩ về cái tên "Thành Công" — liệu nó có thực sự thành công? Hay chỉ là ước mơ của một người làm dệt may chuyển sang làm máy tính?
+Đêm đó, Hùng không ngủ được. Ông ra ngoài lán tôn, đứng dưới gốc cây đa. Trời lạnh, sao đầy, gió thổi qua rễ đa buông lơi như tóc bạc của bà cố. Ông nghĩ về con đường phía trước: thêm vốn, thêm người, thêm máy móc. Nghĩ về Minh — đứa con trai nhỏ đang ngủ ở nhà, sáng mai sẽ thức dậy hỏi "ba đi làm máy tính nữa hả?" Nghĩ về cái tên "Thành Công" — liệu nó có thực sự thành công? Hay chỉ là ước mơ của một người làm dệt may chuyển sang làm máy tính?
 
-Ông nghe thấy tiếng bước chân sau lưng. Quay lại, thấy bà Hà, tay ôm áo bông, đi chân đất ra.
+Ông nghe thấy tiếng bước chân sau lưng. Quay lại, thấy mế, tay ôm áo bông, đi chân đất ra.
 
 — Sao con không ngủ?
 
@@ -202,7 +202,7 @@ Lan gật đầu, nhưng mắt cô nhìn xa xăm ra cửa sổ. Cô không nói,
 
 — Giàu rồi — Hùng cười — không cần nghĩ. Mà chỉ việc nghĩ tiếp. Làm ăn là nghĩ mãi.
 
-Bà Hà ngồi xuống gốc cây, khoác áo cho mình:
+MẾ ngồi xuống gốc cây, khoác áo cho mình:
 
 — Ừ. Mẹ không hiểu mấy cái máy của con. Nhưng mẹ biết một điều: con làm cái gì cũng nghĩ đến cùng. Hồi dệt may, mẹ sợ con thua lỗ. Nhưng con không thua. Xe máy, mẹ cũng sợ. Nhưng con bán được. Cái này rồi cũng vậy. Mẹ không sợ nữa.
 
@@ -252,9 +252,8 @@ Một ổ cứng hỏng thành ba đơn hàng.
 
 ***
 
-Cuối năm, nhà máy hòa vốn nhờ một đơn hàng bốn mươi máy từ trung tâm đào tạo tin học mới của Sở Giáo dục — đơn hàng đầu tiên có hóa đơn đỏ. Hùng đứng trong lán tôn, nhìn thùng máy xếp chồng lên nhau thành ba hàng, mỗi hàng mười lăm cái. Mưa phùn rơi trên mái tôn. Lạnh. Nhưng lòng ông ấm.
-
-Lan đứng bên cạnh:
+Hùng đứng trong lán tôn, nhìn thùng máy xếp chồng lên nhau thành ba hàng, mỗi hàng mười lăm cái. Mưa phùn rơi trên mái tôn, giọt nhỏ lộp bộp trên mặt tôn lạnh bóng. Lạnh. Nhưng lòng ông ấm.
+Lan đứng bên cạnh. Cô khoác áo len dày, tay đút túi, miệng thở ra hơi trắng trong cái lạnh chiều đông. Cô là em gái Hùng — người duy nhất ông tin tưởng giao phó sổ sách kho hàng từ ngày còn làm dệt may. Lan không nói nhiều, nhưng đôi mắt sắc, luôn quan sát, luôn tính toán — cho thấy cô hiểu rõ hơn bất kỳ ai trong nhà máy này.
 
 — Qua tết, tính mở rộng?
 
@@ -264,9 +263,15 @@ Hùng nhìn ra đường vành đai. Xe tải chạy qua, bụi mù mịt. Con �
 
 Lan nhìn anh trai, không ngạc nhiên. Cô đã nghe câu nói đó — "Từ Việt Nam ra thế giới" — nhiều lần đến mức thuộc lòng. Lần đầu, cô nghĩ đó là mơ. Lần thứ mười, cô nghĩ đó là mục tiêu. Còn bây giờ, cô biết đó là kế hoạch.
 
+Trên bàn làm việc của Hùng, bên cạnh sổ cái và hóa đơn, có một tấm danh thiếp mới. Trên danh thiếp ghi: "Tanaka Masaru — Tổng giám đốc, Tanaka Trading Co., Osaka, Nhật Bản. Quan tâm đến hợp tác sản xuất máy tính tại Việt Nam." Hùng nhận tấm danh thiếp này từ một cuộc gọi quốc tế ba ngày trước — giọng nói lạ, tiếng Anh cứng, nhưng rõ ràng: "Tôi muốn đến Hà Nội xem nhà máy của ông."
+
+Hùng cầm tấm danh thiếp, xoay xoay trong tay. Mặt giấy in logo một ngôi sao ba cánh. Ông nhìn ra đường vành đai, nơi xe tải chở xi măng chạy qua, bụi trắng mù mịt. Gió đông thổi mạnh. Trên bầu trời, mây đen dày đặc đang kéo đến — một cơn bão lớn đang tiến vào bờ biển miền Bắc.
+
+Ông biết: phía trước không chỉ là mở rộng. Phía trước là cuộc chiến thật sự.
+
 ============================================================
 「Hệ thống — GHI NHẬN ch.168」
-Năm: 1992
+Năm: 1993
 Tổng EXP: 27,900 (+300)
 Không gian kho: 9,300m² (+100m²)
 Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3

@@ -4,7 +4,7 @@ Chương 332: Tập đoàn bóng tối trở lại
 
 Chương 332: Tập đoàn bóng tối trở lại
 
-Hà Nội, tháng Mười Một năm 2016. Trận mưa cuối mùa trút xuống thành phố như một cơn giận dữ cuối cùng trước khi đông về. Nước ngập đến nửa bánh xe máy trên phố Huế, những tán cây sấu già nghiêng ngả, tàu điện ngầm vẫn chưa xây xong — nhưng cái thành phố này đã quen sống chung với những thứ dang dở. Hàng rong vẫn đội mưa đẩy xe qua phố, những quán cà phê cóc vẫn bạt che vải xanh, những gương mặt lam lũ vẫn đều đều như những giọt nước mưa rơi mãi không ngừng.
+Hà Nội, tháng Mười Một năm 2016. Trận mưa cuối mùa trút xuống thành phố như một cơn giận dữ cuối cùng trước khi đông về. Nước mưa quất lên mái tôn thành những tiếng lộp bộp dày, mùi hoa sữa cuối vụ lẫn với khói xe và bùn đất luồn qua khe cửa. Nước ngập đến nửa bánh xe máy trên phố Huế, những tán cây sấu già nghiêng ngả, tàu điện ngầm vẫn chưa xây xong — nhưng cái thành phố này đã quen sống chung với những thứ dang dở. Hàng rong vẫn đội mưa đẩy xe qua phố, những quán cà phê cóc vẫn bạt che vải xanh, những gương mặt lam lũ vẫn đều đều như những giọt nước mưa rơi mãi không ngừng.
 
 Ở tầng hai tòa nhà Thương Gia trên phố Tràng Tiền, Sơn ngồi trước ba màn hình máy tính với vẻ mặt chưa bao giờ có trong suốt bốn năm làm IT cho tập đoàn. Bình thường, mặt cậu vô cảm như một lập trình viên chuyên nghiệp — chỉ nhìn code, không nhìn đời. Nhưng sáng nay, trán Sơn nhăn lại, mắt nheo, hai tay lướt trên bàn phím như gõ morse trong lúc khẩn cấp.
 
@@ -12,7 +12,7 @@ Trên màn hình giữa: một bảng Excel với hàng trăm dòng giao dịch 
 
 Linh cảm — cậu không tin vào nó. Cậu tin vào dữ liệu.
 
-Sơn đã ngồi như thế từ bảy giờ sáng. Bây giờ là mười giờ. Trước mặt cậu là cốc cà phê đã uống hết từ lâu, chỉ còn lại một lớp bã đen khô dưới đáy, thành cốc ám một quầng nâu. Nhưng Sơn không để ý — khi đã vào việc, cậu quên cả đói, quên cả khát. Đó là lý do Hùng giữ cậu lại dù nhiều công ty săn đầu người đã gọi, dù lương cậu chưa bao giờ bằng một nửa thị trường.
+Sơn đã ngồi như thế từ bảy giờ sáng. Bây giờ là mười giờ. Trước mặt cậu là cốc cà phê đã uống hết từ lâu, chỉ còn lại một lớp bã đen khô dưới đáy, thành cốc ám một quầng nâu sẫm. Cổ cậu cứng đơ vì ngồi yên một tư thế quá lâu, vai phải tê dại — cảm giác như ai vừa đâm một mũi kim nhỏ vào gáy — nhưng khi đã vào việc, cậu quên cả đói, quên cả khát. Đó là lý do Hùng giữ cậu lại dù nhiều công ty săn đầu người đã gọi, dù lương cậu chưa bao giờ bằng một nửa thị trường.
 
 Cậu nhìn vào dòng giao dịch thứ bảy trong bảng lọc — một lệnh mua 210.000 cổ phiếu TGW, khớp lúc 9 giờ 47 phút. Bên dưới, mười hai lệnh nhỏ hơn, mỗi lệnh từ 5.000 đến 15.000, tất cả khớp trong vòng bốn mươi phút. Cùng một khoảng giá: 38.200 đến 38.500.
 
@@ -20,9 +20,9 @@ Sơn uống cạn phần cà phê còn lại trong cốc — đắng ngắt. C�
 
 Nhưng không phải một người. Là ba công ty. Ba pháp nhân khác nhau. Cùng mua một loại cổ phiếu — Thương Gia. Cùng một khoảng giá. Cùng một khuôn mẫu giao dịch: mua vào buổi sáng, khớp trong phiên, không gây sốc.
 
-"Mẹ kiếp," Sơn lẩm bẩm. Cậu bấm số nội bộ.
+"Mẹ kiếp," Sơn lẩm bẩm. Ngón tay cậu trượt trên trackpad, để lại một vệt mồ hôi mờ trên bề mặt nhôm. Cậu bấm số nội bộ.
 
-"Phát hiện ra gì chưa?" — Hùng bước vào, tay cầm cốc cà phê nóng — cốc thứ hai trong sáng, hơi nước bốc lên trong không khí lạnh đầu đông. Ông đặt cốc xuống bàn Sơn, nhìn ba màn hình. Năm mươi lăm tuổi, tóc đã muối nhiều hơn tiêu, nhưng mắt vẫn tinh. Hùng không phải dân công nghệ — ông thuộc thế hệ cầm bút bi viết sổ, cầm máy tính bấm từng con số — nhưng ông biết đọc số. Ba mươi lăm năm đọc bảng cân đối kế toán, đọc báo cáo tài chính, đọc những con số biết nói.
+"Phát hiện ra gì chưa?" — Hùng bước vào, tay cầm cốc cà phê nóng — cốc thứ hai trong sáng, hơi nước bốc lên trong không khí lạnh đầu đông. Mùi cà phê đen đặc quện với mùi mồ hôi khô trên cổ áo sơ mi cũ. Ông đặt cốc xuống bàn Sơn, nhìn ba màn hình. Năm mươi lăm tuổi, tóc đã muối nhiều hơn tiêu, nhưng mắt vẫn tinh — đôi mắt mà đối tác gọi là "con mắt thần," vì nó đọc được những gì spreadsheet không hiển thị. Hùng không phải dân công nghệ — ông thuộc thế hệ cầm bút bi viết sổ, cầm máy tính bấm từng con số — nhưng ông biết đọc số. Ba mươi lăm năm đọc bảng cân đối kế toán, đọc báo cáo tài chính, đọc những con số biết nói. Ông nhấp một ngụm cà phê — đắng — rồi đặt cốc xuống, ngón trỏ gõ nhẹ lên mặt bàn, ba lần, đều đặn. Đó là thói quen ông giữ mỗi khi đầu óc đang quay nhanh hơn tay.
 
 "Sếp ra đây xem cái này."
 
@@ -35,7 +35,7 @@ Hùng kéo ghế ngồi xuống. Màn hình hiện một bảng giao dịch đã
 
 "Ba công ty, cùng mua trong vòng ba tuần. Cùng một loại cổ phiếu — Thương Gia. Cùng một sàn — HNX. Cùng một khoảng giá — từ 38 đến 42. Em lọc thêm: cùng một mô hình — mua sáng, giữ, không bán."
 
-Hùng nhìn những con số. Ông không trả lời ngay. Trong đầu, những số liệu bắt đầu ráp lại thành một đường cong. Ông từng đọc về mô hình này trong một báo cáo ở trường kinh tế, cách đây ba mươi năm, khi còn là sinh viên tại chức: thôn tính âm thầm.
+Hùng nhìn những con số. Ông không trả lời ngay. Trong đầu, những số liệu bắt đầu ráp lại thành một đường cong. Ông từng đọc về mô hình này trong một báo cáo ở trường kinh tế, cách đây ba mươi năm, khi còn là sinh viên tại chức: thôn tính âm thầm. Mùi cà phê đặc nghẹt trong cổ họng, ông nuốt khan, cảm nhận vị đắng chát bám trên lưỡi. Một ký ức thoáng qua — lần đầu tiên ông thấy một công ty bị nuốt chửng như thế, hồi cuối những năm chín mươi, khi ông còn là kế toán trưởng ở xưởng may: một đêm, chủ mới đến, sáng hôm sau mọi thứ đã khác.
 
 "Tổng cộng bao nhiêu?"
 
@@ -87,7 +87,7 @@ Hùng đứng dậy, đi đến cửa sổ. Mưa đã ngớt, chỉ còn lất p
 
 Hùng không trả lời ngay. Ông nhìn xuống đường — một người đàn ông đẩy xe bánh mì qua giao lộ phố Huế, tấm bạt che hàng rách một góc, gió thổi tung lên, để lộ những ổ bánh mì vàng ươm bên trong. Ba mươi lăm năm trước, ông cũng từng đẩy xe như thế. Không phải bánh mì, là vải — những cuộn vải may mặc — từ xưởng thuê ở Hà Đông ra chợ Đồng Xuân, mỗi chuyến hai tiếng đạp xe, mồ hôi ướt đẫm lưng áo. Lúc ấy, không có kẻ thù. Chỉ có đói và no.
 
-Bây giờ, kẻ thù xuất hiện. Không phải đói, không phải no. Là những con số trên sàn chứng khoán, những công ty ma, những dòng tiền không rõ nguồn gốc, những cái tên như Lương Thế Huy — những thứ ông không thể đạp xe tránh được.
+Bây giờ, kẻ thù xuất hiện. Không phải đói, không phải no. Là những con số trên sàn chứng khoán, những công ty ma, những dòng tiền không rõ nguồn gốc, những cái tên như Lương Thế Huy — những thứ ông không thể đạp xe tránh được. Ông nghĩ đến Minh — con trai ông, đang ở Sài Gòn, không biết chuyện gì đang xảy ra ở Hà Nội. Cậu bé chỉ muốn thoát khỏi cái bóng của ông, nhưng cái bóng ấy đang bị rắn bò lên.
 
 "Cậu tiếp tục theo dõi. Ghi lại tất cả giao dịch, dù là nhỏ nhất. Em có thể viết script tự động phát hiện giao dịch bất thường không?"
 
@@ -99,13 +99,13 @@ Bây giờ, kẻ thù xuất hiện. Không phải đói, không phải no. Là 
 
 "Chưa. Để họ lộ thêm một chút đã. Khi con mèo quá tập trung vào miếng mồi, nó không thấy cái bẫy phía sau."
 
-Hùng quay lưng, bước ra khỏi phòng IT. Trên hành lang lát gạch men cũ, ông gặp Lan — em gái ông, vừa từ cuộc họp với đối tác Nhật Bản về, tay cầm xấp tài liệu dày cộm, trên mặt vẫn còn son phấn nhưng đôi mắt đã thấm mệt. Ở tuổi năm mươi, Lan vẫn giữ dáng, vẫn mặc áo dài mỗi ngày đi làm — một thói quen mà chị giữ suốt hai mươi lăm năm, không thay đổi dù thời trang có ra sao.
+Hùng quay lưng, bước ra khỏi phòng IT. Trên hành lang lát gạch men cũ, ông gặp Lan — em gái ông, vừa từ cuộc họp với đối tác Nhật Bản về, tay cầm xấp tài liệu dày cộm, trên mặt vẫn còn son phấn nhưng đôi mắt đã thấm mệt. Lan gài ngón áo dài bị bung ra, rồi đưa mắt nhìn anh trai — đôi mắt sắc bén như dao lam, nhưng lúc này chất đầy lo lắng. Ở tuổi năm mươi, Lan vẫn giữ dáng, vẫn mặc áo dài mỗi ngày đi làm — một thói quen mà chị giữ suốt hai mươi lăm năm, không thay đổi dù thời trang có ra sao. Chân chị bước nhẹ trên hành lang, dép lê chạm gạch phát ra tiếng kêu khẽ khàng — âm thanh duy nhất trong hành lang vắng.
 
 "Mặt anh lạ thế. Có chuyện?"
 
 "Vào phòng tôi."
 
-Trong phòng làm việc của Hùng — căn phòng nhỏ mười hai mét vuông với tủ gỗ xoan cũ, câu đối chữ Hán treo tường, một lịch treo tường do xưởng may tự in, hình ảnh năm mới là cánh đồng lúa chín — Hùng kể lại cho Lan tất cả. Bức fax nặc danh từ hai tháng trước. Ba công ty ma. Dòng tiền từ các tài khoản mới thành lập. Cái tên Lương Thế Huy, casino Hạ Long.
+Trong phòng làm việc của Hùng — căn phòng nhỏ mười hai mét vuông với tủ gỗ xoan cũ, câu đối chữ Hán treo tường, một lịch treo tường do xưởng may tự in, hình ảnh năm mới là cánh đồng lúa chín. Trên bàn ông, chiếc bút máy Parker cũ vẫn nằm bên cạnh sổ tay bìa da nâu sẫm, bìa đã sờn ở góc — cuốn sổ mà ông đã dùng từ ngày đầu lập nghiệp. Mùi gỗ tủ cũ pha lẫn mùi mực bút khô và mùi trà sen còn vương. Lan ngồi xuống ghế nhựa phía đối diện, ngón tay gõ nhẹ lên mặt bàn — giống y thói quen của anh trai — rồi mở phích trà, rót ra hai chén, hơi nóng bốc lên xoáy trong không khí lạnh đầu đông. Hùng kể lại cho Lan tất cả. Bức fax nặc danh từ hai tháng trước. Ba công ty ma. Dòng tiền từ các tài khoản mới thành lập. Cái tên Lương Thế Huy, casino Hạ Long.
 
 Lan nghe, không ngắt. Chị mở ngăn tủ, lấy phích trà nóng, rót ra hai chén. Hành động đó — rót trà giữa lúc nghe tin xấu — là một thói quen chị học được từ Hùng: khi có tin dữ, hãy uống trà. Hành động nhỏ giúp đầu óc tỉnh.
 
@@ -137,17 +137,17 @@ Hùng im lặng. Đó là câu hỏi ông chưa có lời giải. Cả đời ô
 
 "Vậy mình cần biết trước khi làm gì." — Lan nói. "Để em gọi một người."
 
-Chị lấy điện thoại, bấm một số không có trong danh bạ. Đầu dây bên kia đổ chuông ba hồi. Một giọng nam — già, khàn, như người vừa ngủ dậy dù đã gần trưa.
+Chị lấy điện thoại, bấm một số không có trong danh bạ. Đầu dây bên kia đổ chuông ba hồi. Tiếng chuông kéo dài, mỗi hồi là một giây im lặng nặng nề. Một giọng nam — già, khàn, như người vừa ngủ dậy dù đã gần trưa.
 
 "Bác Hà à? Cháu là Lan đây. Cháu có chuyện cần hỏi bác."
 
-Bà Hà — em gái của ông Phúc, cổ đông lớn thứ hai của Thương Gia thời kỳ đầu — từng làm thanh tra Ngân hàng Nhà nước, đã nghỉ hưu từ năm 2010. Bà sống ở Vũng Tàu, trong một căn nhà nhỏ cạnh chợ, không dùng điện thoại thông minh, không email, đọc báo giấy mỗi sáng uống cà phê. Bà là người duy nhất trong gia đình họ Phúc giữ liên lạc với giới ngân hàng cũ, những người đã nghỉ hưu hoặc đã chuyển ngành, nhưng vẫn biết chuyện — dân ngân hàng có cách của họ.
+MẾ — em gái của ông Phúc, cổ đông lớn thứ hai của Thương Gia thời kỳ đầu — từng làm thanh tra Ngân hàng Nhà nước, đã nghỉ hưu từ năm 2010. Bà sống ở Vũng Tàu, trong một căn nhà nhỏ cạnh chợ, không dùng điện thoại thông minh, không email, đọc báo giấy mỗi sáng uống cà phê sữa đá. Mỗi lần Lan gọi, bà luôn bắt máy ngay — đôi tay chai sạn vì nhiều năm cầm bút thanh tra, nhưng ngón tay vẫn nhanh khi bấm số. Bà là người duy nhất trong gia đình họ Phúc giữ liên lạc với giới ngân hàng cũ, những người đã nghỉ hưu hoặc đã chuyển ngành, nhưng vẫn biết chuyện — dân ngân hàng có cách của họ.
 
-Bà Hà nói chậm, từng từ, giọng khàn đặc nhưng rõ ràng: "Gì thế cháu?"
+MẾ nói chậm, từng từ, giọng khàn đặc nhưng rõ ràng: "Gì thế cháu?" Giọng bà trầm, nặng, như giọng người quen nói chuyện với sổ sách hơn nói chuyện với người — nhưng khi cần, nó đủ rõ để cắt xuyên qua bất kỳ sự lảng tránh nào.
 
 "Có một nhóm đang gom cổ phiếu Thương Gia. Bác có nghe gì không?"
 
-Im lặng năm giây. Bà Hà thở dài. "Có. Nghe rồi."
+Im lặng năm giây. MẾ thở dài. "Có. Nghe rồi."
 
 "Ai ạ?"
 
@@ -157,7 +157,7 @@ Im lặng năm giây. Bà Hà thở dài. "Có. Nghe rồi."
 
 "Nguyễn Hữu Tuấn. Năm 2000, hắn làm phó tổng SHB Hải Phòng. Trẻ, nhanh, tham vọng. Sau bị điều chuyển vì mấy vụ cho vay không đảm bảo. Rồi nghỉ, sang Singapore. Làm cho một quỹ đầu tư. Tên gì ấy nhỉ — First Capital Partners, hình như thế. Hắn vẫn còn quan hệ với SHB Hải Phòng qua một giao dịch viên tên Nam — Hoàng Văn Nam, thư ký cũ của hắn."
 
-Lan ghi chép. "Cảm ơn bác."
+Lan ghi chép. "Cảm ơn bác." Chị ghi xong, bút dừng lại trên giấy — vết mực loang một chút vì ngón tay run. Tiếng gió thổi qua cửa sổ hành lang, mang theo mùi mưa ẩm và mùi lá sấu khô trên mái nhà.
 
 "Lan này — chú Hùng khỏe không?"
 
@@ -175,7 +175,7 @@ Mười sáu năm sau, câu nói đó vọng về.
 
 Ngày hôm sau, Sơn mang đến cho Hùng một bản in dài bảy trang — sơ đồ dòng tiền, thông tin doanh nghiệp, lịch sử giao dịch mà cậu đã tổng hợp từ nhiều nguồn khác nhau. Trang nào cũng có ghi chú đỏ. Cậu làm việc cả đêm, mắt thâm quầng, cốc cà phê thứ tư trên bàn.
 
-"Sếp, em phát hiện thêm một chi tiết quan trọng. Cả ba công ty này đều mở tài khoản tại SHB Hải Phòng. Và người phụ trách quan hệ khách hàng của họ là một giao dịch viên tên Hoàng Văn Nam — Nam này từng là thư ký của Nguyễn Hữu Tuấn hồi Tuấn còn làm phó tổng."
+"Sếp, em phát hiện thêm một chi tiết quan trọng. Cả ba công ty này đều mở tài khoản tại SHB Hải Phòng. Và người phụ trách quan hệ khách hàng của họ là một giao dịch viên tên Hoàng Văn Nam — Nam này từng là thư ký của Nguyễn Hữu Tuấn hồi Tuấn còn làm phó tổng." Sơn nói xong, hít một hơi dài, mũi cậu đỏ lên vì lạnh — phòng IT không có lò sưởi, chỉ có một cái quạt cũ treo tường, không hoạt động từ tháng trước. Mồ hôi lạnh đọng trên trán cậu, hai bên thái dương, trong khi ngón tay vẫn gõ liên hồi trên bàn phím.
 
 Hùng gật đầu. Ông mở ngăn bàn, lấy ra chiếc điện thoại cũ — loại cục gạch Nokia, không sim, không internet, chỉ dùng để nghe và gọi. Chiếc điện thoại chỉ có một số được lưu: số của Dũng — người bạn từ thời thanh niên, làm trong ngành an ninh, đã nghỉ hưu sớm. Ông bấm gọi.
 
@@ -195,7 +195,7 @@ Sơn gật đầu, tắt ba màn hình, thu dọn báo cáo. Trước khi ra c�
 
 "Chưa. Càng ít người biết càng tốt. Khi cần, tôi sẽ nói."
 
-Chiều hôm đó, tại quán cà phê cóc trên phố Huế — quán cóc vỉa hè, bàn nhựa, ghế thấp, quạt máy cũ treo tường chạy ro ro — Hùng gặp Dũng. Người đàn ông bước vào, trông như một người bán hàng rong — áo sơ mi cũ, quần vải, dép lào, mũ lưỡi trai kéo sụp. Hắn đặt lên bàn một phong bì nâu.
+Chiều hôm đó, tại quán cà phê cóc trên phố Huế — quán cóc vỉa hè, bàn nhựa, ghế thấp, quạt máy cũ treo tường chạy ro ro — Hùng gặp Dũng. Người đàn ông bước vào, trông như một người bán hàng rong — áo sơ mi cũ, quần vải, dép lào, mũ lưỡi trai kéo sụp. Mùi cà phê nướng cháy khét bốc lên từ cái chảo sắt bên ngoài, lẫn với mùi khói xe buýt dừng chờ đèn đỏ. Hắn đặt lên bàn một phong bì nâu.
 
 "Có thông tin gì mới?" Hùng hỏi, không chào.
 
@@ -233,9 +233,7 @@ Hùng nghiêng về khả năng thứ hai.
 
 Nguyễn Hữu Tuấn, phó tổng SHB cũ. Lương Thế Huy, tay anh chị casino. Một bức fax nặc danh. Ba công ty ma. Và một chiếc xe biển số 80. Tất cả đang dần kết nối thành một bức tranh mà Hùng chưa nhìn thấy toàn cảnh — nhưng ông biết, nó sẽ hiện ra, nếu ông đủ kiên nhẫn và đủ tỉnh táo.
 
-Ông bước ra đường, hòa vào dòng người giờ tan tầm. Một ông già đội mũ lưỡi trai, áo mưa cũ, đeo kính lão — lẫn hoàn toàn vào phố phường — không ai nhận ra đó là chủ tịch của một tập đoàn đang bị săn lùng.
-
-Bọn họ đã chọn sai người.
+Ông bước ra đường, hòa vào dòng người giờ tan tầm. Một ông già đội mũ lưỡi trai, áo mưa cũ, đeo kính lão — lẫn hoàn toàn vào phố phường — không ai nhận ra đó là chủ tịch của một tập đoàn đang bị săn lùng. Gió lạnh thốc qua cổ áo, mùi nước mưa trộn lẫn với mùi xăng xe và mùi cơm nguội từ một quán phở bên đường. Bọn họ đã chọn sai người.
 
 Dưới hiên cửa hàng điện tử, mưa phùn lạnh mặt. Hùng nhét điện thoại vào túi rồi buông. Ông liếc biển số tám mươi một lần cuối trong đầu — không còn xe, chỉ còn mùi bụi ướt.
 
@@ -259,7 +257,7 @@ Lan im hai giây rồi gật, dù ông không nhìn thấy. "Anh đang ở đâu
 
 Hùng cúi nhìn bàn tay lạnh, nắm lại rồi buông. "Hết rồi."
 
-Ông tắt máy. Mắt liếc qua từng chiếc xe chạy chậm dưới mưa. Sáng mai, nửa nét ký ấy sẽ có tên.
+Ông tắt máy. Mắt liếc qua từng chiếc xe chạy chậm dưới mưa. Sáng mai, nửa nét ký ấy sẽ có tên. Và khi có tên, cuộc chiến sẽ không còn là đoán — sẽ là đối mặt. Có một điều ông chưa nói với Lan: ông vừa nhận một cuộc gọi nhỡ từ số lạ, chỉ hai cuộc, mỗi cuộc đúng một tiếng chuông rồi ngắt. Ai đó đang muốn ông gọi lại. Nhưng Hùng không gọi. Ông muốn đối phương mất kiên nhẫn trước. Hùng bước tiếp, chân bước trên vũng nước mưa phản chiếu ánh đèn đường vàng nhạt. Ông không quay lại. Phía sau, một bóng người đứng im dưới mái hiên — người mà Hùng không nhìn thấy — vừa giơ điện thoại lên, chụp một tấm ảnh, rồi biến mất trong màn mưa.
 
 ============================================================
 「Hệ thống — GHI NHẬN ch.332」
@@ -267,6 +265,6 @@ Năm: 2016
 Tổng EXP: 82,200 (+600 nhịp này)
 Không gian kho: 46,040m² (+520m²)
 Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
-Ghi chú: ba công ty ma ~5,2%; đầu mối Tuấn SHB + Lương Thế Huy; biển 80
+Ghi chú: ba công ty ma ~5,2%; đầu mối Tuấn SHB + Lương Thế Huy; biển 80; Linh cảnh báo: nửa nét ký chưa rõ tên
 
 ============================================================

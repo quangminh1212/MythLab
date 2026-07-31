@@ -2,15 +2,15 @@
 Chương 99: Mở rộng viễn thông
 ============================================================
 
-Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi giấy tờ cũ, mùi đồng, mùi mồ hôi và thuốc lá. Năm 1987.
+Sáng, Bưu điện Trung tâm Sài Gòn. Số 2, Công trường Công xã Paris. Tòa nhà màu vàng cổ, trần cao bốn mét, quạt trần chậm rãi quay, cánh quạt gỗ đã ố màu. Mùi giấy tờ cũ, mùi đồng, mùi mồ hôi và thuốc lá quẩn dưới trần. Năm 1987, mỗi cuộc gọi đường dài vẫn cần phiếu đăng ký, chữ ký, sự kiên nhẫn và một người trực tay cắm dây. Hùng nghĩ đến mế, MẾ của ông, đang ở Hà Đông giữ sổ thu chi; Lan, em gái ông, đang coi kho; Minh, con ông, đang chờ một quyết định kỹ thuật có thể làm cả nhà mất trắng.
 
-Hùng ngồi ở hàng ghế gỗ dài dọc hành lang, , tay cầm bản hợp đồng đặt mua ba trăm máy điện thoại đã ký với Bưu điện tỉnh Hà Tây. Nhưng hôm nay ông không đến để bàn về máy. Ông đến để xin đường dây.
+Hùng ngồi ở hàng ghế gỗ dài dọc hành lang, tay cầm bản hợp đồng đặt mua ba trăm máy điện thoại đã ký với Bưu điện tỉnh Hà Tây. Ghế gỗ cũ, ván đã nứt, mùi sơn vec-ni tróc lở pha lẫn mùi thuốc lá vương trên áo người khác. Nhưng hôm nay ông không đến để bàn về máy. Ông đến để xin đường dây.
 
 Cánh cửa phòng Phó Giám đốc Mạng lưới mở ra. Một người đàn ông năm mươi tuổi, áo sơ-mi trắng tay ngắn, quần tây âu, đi dép da — ông Trần Văn Lợi, Phó Giám đốc Bưu điện TP.HCM phụ trách kỹ thuật mạng nội hạt. Tóc ông đã bạc hai bên thái dương, nhưng mắt vẫn tinh. Ông cầm cốc chè xanh, nhìn Hùng.
 
 "Mời anh."
 
-Căn phòng rộng chừng hai mươi mét vuông. Một tủ tài liệu sắt cao đến trần, ánh , mắt , một bàn làm việc bằng gỗ mặt kính. Trên bàn trải bản đồ mạng cáp nội hạt — tờ giấy can khổ A0, đường vẽ bằng mực xanh, đỏ, đen. Xanh là cáp còn hoạt động. Đỏ là cáp quá tải. Đen là cáp đã chết — khoảng ba mươi lăm phần trăm tổng chiều dài.
+Căn phòng rộng chừng hai mươi mét vuông. Một tủ tài liệu sắt cao đến trần, ánh đèn tuýp nhợt nhạt chiếu xuống bản đồ trên bàn, một bàn làm việc bằng gỗ mặt kính. Trên bàn trải bản đồ mạng cáp nội hạt — tờ giấy can khổ A0, đường vẽ bằng mực xanh, đỏ, đen. Xanh là cáp còn hoạt động. Đỏ là cáp quá tải. Đen là cáp đã chết — khoảng ba mươi lăm phần trăm tổng chiều dài. Gió từ quạt trần quật xuống giấy, góc bản đồ bị cuốn lên, lộ mặt bàn trầy xước.
 
 "Anh xem," — Lợi nói, tay chỉ vào bản đồ. Móng tay ông cắt ngắn, ngón trỏ lướt trên đường cáp từ Bưu điện Trung tâm ra quận 3, quận 10, quận Tân Bình. "Từ năm 1975 đến giờ, chúng tôi gần như không kéo thêm được mét cáp mới nào đáng kể. Cáp đồng cũ từ thời Pháp vẫn dùng. Ruột đồng 0,5 mm, bọc chì, bọc giấy tẩm dầu. Hỏng chỗ nào vá chỗ đó. Năm ngoái Nghị quyết 45 của Hội đồng Bộ trưởng về phát triển bưu điện — nhưng tiền từ ngân sách cấp chỉ đủ trả lương. Mua cáp? Không có."
 
@@ -24,11 +24,11 @@ Lợi khựng lại. Ông đặt cốc chè xuống, nhìn Hùng một lúc — 
 
 "Biết. Giá niêm yết của Bưu điện: chín mươi nghìn đồng một số, bao gồm phí hòa mạng và kéo dây thuê bao. Nhưng không ai có được giá đó vì không có đường. Giá thị trường tự do: một cây vàng một số — hoặc ba cây cho số gọi được quốc tế."
 
-Lợi cười khảy. "Anhi biết rõ." Ông rút trong tủ ra một tập hồ sơ, , mở trang số liệu. "Tôi nói thật với anh: Bưu điện TP.HCM hiện có 8.400 số lắp đặt trên toàn mạng nội hạt. Dân số thành phố — hơn ba triệu. Mật độ điện thoại: 0,28 số trên một trăm dân. Cả nước: 0,18. Anh muốn mười số — tôi không có đường để bán."
+Lợi cười khảy. "Anh biết rõ." Ông rút trong tủ ra một tập hồ sơ, mở trang số liệu. Mùi hồ sơ cũ bay lên, giấy vàng ố, mực đã nhòe ở mép. "Tôi nói thật với anh: Bưu điện TP.HCM hiện có 8.400 số lắp đặt trên toàn mạng nội hạt. Dân số thành phố — hơn ba triệu. Mật độ điện thoại: 0,28 số trên một trăm dân. Cả nước: 0,18. Anh muốn mười số — tôi không có đường để bán."
 
-Hùng không nao núng. "Tôi không mua đường. Tôi đề xuất hợp tác: tôi đầu tư kéo cáp — cáp đồng 0,5 mm, , tay , ruột đặc, bọc PE, loại 50 đôi — từ tổng đài nội hạt gần nhất về khu xưởng của tôi. Chi phí cáp, cột, phụ kiện, nhân công — tôi chịu toàn bộ. Sau khi kéo xong, tôi được ưu tiên đấu nối mười số cho doanh nghiệp tôi, thời hạn sử dụng năm năm, không bị thu hồi. Phần dung lượng cáp còn lại — 40 đôi — thuộc sở hữu và quản lý của Bưu điện. Bưu điện có quyền bán hoặc cho thuê các đôi cáp đó cho thuê bao khác. Tôi không hưởng lợi từ phần còn lại."
+Hùng không nao núng. Ông nhớ đến buổi tối hôm qua, MẾ — mế — ngồi bên bàn gỗ, tay đếm lại tiền lời từ lô máy điện thoại, ánh mắt buồn: "Ba trăm tám mươi triệu — tiền tích góp cả nhà bốn năm. Con thua thì sao?" Hùng đáp: "Thua thì con đi làm thuê lại từ đầu. Nhưng con không thua được — vì đây không phải cờ bạc, mà là xây đường." Lan, em gái ông, chỉ im lặng rót trà, nhưng mắt long lanh — lần đầu tiên Hùng thấy Lan tin em trai mình có thể làm được một điều lớn. Hôm nay, trước mặt Lợi, Hùng nói: "Tôi không mua đường. Tôi đề xuất hợp tác: tôi đầu tư kéo cáp — cáp đồng 0,5 mm, ruột đặc, bọc PE, loại 50 đôi — từ tổng đài nội hạt gần nhất về khu xưởng của tôi. Chi phí cáp, cột, phụ kiện, nhân công — tôi chịu toàn bộ. Sau khi kéo xong, tôi được ưu tiên đấu nối mười số cho doanh nghiệp tôi, thời hạn sử dụng năm năm, không bị thu hồi. Phần dung lượng cáp còn lại — 40 đôi — thuộc sở hữu và quản lý của Bưu điện. Bưu điện có quyền bán hoặc cho thuê các đôi cáp đó cho thuê bao khác. Tôi không hưởng lợi từ phần còn lại."
 
-Lợi mở tủ, lấy ra một cuộn bảng giá niêm yết — bản in ronéo, chữ tím. Ông đeo kính lão. "Cáp đồng 50 đôi, ruột 0,5 mm, sản xuất trong nước — hai mươi lăm nghìn đồng một mét. Cáp Nhật cùng loại — ba mươi lăm nghìn một mét. Khoảng cách từ tổng đài quận Hà Đông đến khu xưởng của anh là bao nhiêu?"
+Lợi mở tủ, lấy ra một cuộn bảng giá niêm yết — bản in ronéo, chữ tím, mùi giấy ronéo nồng nặc; ông đeo kính lão. "Cáp đồng 50 đôi, ruột 0,5 mm, sản xuất trong nước — hai mươi lăm nghìn đồng một mét. Cáp Nhật cùng loại — ba mươi lăm nghìn một mét. Khoảng cách từ tổng đài quận Hà Đông đến khu xưởng của anh là bao nhiêu?"
 
 "Tám cây số."
 
@@ -42,37 +42,39 @@ Lợi gấp giấy lại, nhìn Hùng. "Anh có ba trăm tám mươi ba triệu 
 
 "Chưa. Nhưng tôi có thể huy động trong ba tháng. Tiền từ xưởng điện thoại, từ các lô hàng đã xuất. Tôi trả làm ba đợt: đợt một — một trăm năm mươi triệu mua cáp. Đợt hai, sau ba tuần — một trăm triệu mua cột. Đợt ba, sau khi kéo xong — số còn lại."
 
-Lợi . "Được. Nhưng còn một vấn đề khác: tổng đài. Anh kéo cáp về đến xưởng — nhưng tổng đài nội hạt quận Hà Đông hiện là tổng đài nhân công, , cười , loại Siemens 40-60, công suất một nghìn số, lắp từ những năm 1960. Trong đó: 870 số đang dùng, 50 số hỏng, 80 số dự phòng. Và gần 400 hồ sơ xin số chưa giải quyết. Anh kéo tám cây cáp về — nhưng không có chỗ để đấu vào tổng đài."
+Lợi gật gù. "Được. Nhưng còn một vấn đề khác: tổng đài. Anh kéo cáp về đến xưởng — nhưng tổng đài nội hạt quận Hà Đông hiện là tổng đài nhân công, loại Siemens 40-60, công suất một nghìn số, lắp từ những năm 1960. Trong đó: 870 số đang dùng, 50 số hỏng, 80 số dự phòng. Và gần 400 hồ sơ xin số chưa giải quyết. Anh kéo tám cây cáp về — nhưng không có chỗ để đấu vào tổng đài."
 
 "Anh có thể mở rộng tổng đài không?"
 
-Lợi lắc đầu. "Siemens 40-60 đã ngừng sản xuất từ hai mươi năm trước. Phụ tùng không có. Muốn mở rộng — phải thay tổng đài. Tổng đài điện tử, ánh , gật , loại Alcatel E10B hoặc Siemens EWSD. Một tổng đài điện tử công suất 5.000 số — giá hai triệu franc Pháp. Chưa kể thuế nhập khẩu, vận chuyển, lắp đặt."
+Hùng hỏi, giọng chắc, như ông đã tính sẵn câu trả lời.
+
+Lợi lắc đầu. "Siemens 40-60 đã ngừng sản xuất từ hai mươi năm trước. Phụ tùng không có. Muốn mở rộng — phải thay tổng đài. Tổng đài điện tử, loại Alcatel E10B hoặc Siemens EWSD. Một tổng đài điện tử công suất 5.000 số — giá hai triệu franc Pháp. Chưa kể thuế nhập khẩu, vận chuyển, lắp đặt."
 
 "Giá hai triệu franc — tương đương bao nhiêu tiền Việt?"
 
 "Theo tỷ giá kết toán nội bộ ngành bưu điện — một franc bằng khoảng hai mươi lăm đồng. Hai triệu franc — năm mươi triệu đồng. Nhưng không ai mua được ở tỷ giá đó. Thị trường tự do: một franc bằng sáu mươi bảy đồng. Hai triệu franc — một trăm ba mươi tư triệu đồng. Chưa kể nhập khẩu."
 
-Hùng im lặng một lúc. "Anh Lợi, mắt , , tôi có một đề xuất khác."
+Hùng im lặng một lúc. Cốc chè trên bàn đã nguội, váng nổi trên mặt nước xanh đục. "Anh Lợi, tôi có một đề xuất khác."
 
 "Nói."
 
 "Tôi không mua tổng đài điện tử. Tôi sẽ đặt mua một tổng đài analog dung lượng mở rộng — loại cấp line mới — từ Nhật, qua đường hàng không. Tổng đài loại này đã qua sử dụng, tháo từ các văn phòng ở Tokyo, còn chạy tốt, giá rẻ hơn mới năm lần. Tự tôi nhập, tôi lắp, tôi vận hành. Bưu điện chỉ cần cấp phép đấu nối vào mạng nội hạt."
 
-Lợi. "Anh tự lắp tổng đài? Anh có kỹ sư không?"
+Lợi nhướn mày. "Anh tự lắp tổng đài? Anh có kỹ sư không?"
 
-"Có. Kỹ sư Nguyễn Văn Minh — tốt nghiệp Bưu điện, tám năm làm tổng đài ở Bưu điện Hà Nội. Nghỉ việc năm ngoái, về làm cho tôi."
+"Có. Kỹ sư Nguyễn Văn Minh — con trai tôi — tốt nghiệp Bưu điện, tám năm làm tổng đài ở Bưu điện Hà Nội. Nghỉ việc năm ngoái, về làm cho tôi."
 
-Lợi im lặng. Ông cầm cốc chè, , uống một ngụm, đặt xuống. "Anh biết Minh? Thằng Minh tóc xoăn, mắt một mí?"
+Lợi im lặng. Ông cầm cốc chè, nhấp một ngụm, để lại vết trà trên vành cốc sành. "Anh biết Minh? Thằng Minh tóc xoăn, mắt một mí?"
 
 "Biết. Nó là trưởng phòng kỹ thuật của tôi."
 
 "Tôi từng dạy nó," Lợi nói. Giọng hơi lắng xuống. "Năm 1979, lớp đào tạo tổng đài điện tử đầu tiên của ngành. Minh là học viên xuất sắc nhất. Sau đó nó xin nghỉ — tôi tiếc. Nhưng nếu nó làm cho anh — thì tôi tin anh có kỹ thuật."
 
-Ông lại nhìn bản đồ. "Đề xuất của anh: tự kéo cáp, , thở , tự nhập tổng đài, tự lắp. Bưu điện chỉ cấp phép đấu nối và cho thuê kênh — đúng không?"
+Ông lại nhìn bản đồ. "Đề xuất của anh: tự kéo cáp, tự nhập tổng đài, tự lắp. Bưu điện chỉ cấp phép đấu nối và cho thuê kênh — đúng không?"
 
 "Đúng. Tôi bỏ tiền đầu tư hạ tầng. Bưu điện không mất gì — nhưng có thêm dung lượng trên mạng, có thêm thuê bao, có thêm doanh thu từ cước."
 
-Lợi cười — lần đầu tiên trong buổi gặp. "Anh nói như người làm bưu điện. Được. Tôi sẽ trình lên Tổng cục đề xuất cho phép thí điểm. Nhưng điều kiện: tổng đài của anh phải tuân thủ tiêu chuẩn đấu nối của ngành — tín hiệu số, ánh , mức điện áp chuông, trở kháng đường dây. Minh biết các thông số đó."
+Lợi cười — lần đầu tiên trong buổi gặp. "Anh nói như người làm bưu điện. Được. Tôi sẽ trình lên Tổng cục đề xuất cho phép thí điểm. Nhưng điều kiện: tổng đài của anh phải tuân thủ tiêu chuẩn đấu nối của ngành — tín hiệu số, mức điện áp chuông, trở kháng đường dây. Minh biết các thông số đó."
 
 "Cảm ơn anh."
 
@@ -80,15 +82,15 @@ Lợi cười — lần đầu tiên trong buổi gặp. "Anh nói như người
 
 "Tôi lo giấy tờ."
 
-Buổi gặp kéo dài hai giờ. Cuối cùng, , Hùng ra về với một phong bì: bản sao bảng giá vật tư bưu điện năm 1987, sơ đồ mạng cáp khu vực Hà Đông, và một tờ giấy viết tay của Lợi: danh sách những người cần gặp — Chủ tịch UBND huyện, Trưởng phòng Giao thông, Giám đốc Sở Bưu điện tỉnh.
+Buổi gặp kéo dài hai giờ. Cuối cùng, Hùng ra về với một phong bì: bản sao bảng giá vật tư bưu điện năm 1987, sơ đồ mạng cáp khu vực Hà Đông, và một tờ giấy viết tay của Lợi: danh sách những người cần gặp — Chủ tịch UBND huyện, Trưởng phòng Giao thông, Giám đốc Sở Bưu điện tỉnh.
 
-Ra khỏi cổng Bưu điện Trung tâm, Hùng đứng lại một lúc, nhìn lên tấm biển: "BƯU ĐIỆN THÀNH PHỐ HỒ CHÍ MINH". Khung cảnh quen thuộc của năm 1987: xe đạp, xích lô, vài chiếc xe máy. Một người đàn ông đang nói chuyện điện thoại công cộng ở quầy trước cửa — ống nghe đen, dây xoắn, dáng vẻ tập trung. Cuộc gọi đường dài — giá mười lăm nghìn đồng một phút.
+Ra khỏi cổng Bưu điện Trung tâm, Hùng đứng lại một lúc, nhìn lên tấm biển: "BƯU ĐIỆN THÀNH PHỐ HỒ CHÍ MINH". Nắng trưa dội lên nền xi-măng, làm mặt đường rung nhẹ như phủ một lớp nước. Mùi nhựa đường nóng quyện với mùi cà phê rang từ quán cóc bên hông bưu điện; tiếng chuông xe đạp leng keng, tiếng máy đánh chữ lách cách vọng qua ô cửa chớp. Năm 1987, một cuộc gọi vẫn là món hàng phải xếp hàng, ghi phiếu, chờ người trực cắm dây. Hùng nhìn những sợi dây trên cột điện, nghĩ đến năm 1988: nếu tuyến đầu tiên đứng vững, ông sẽ không còn bán từng chiếc máy, mà bán quyền được nối với nhau. Khung cảnh quen thuộc của năm 1987: xe đạp, xích lô, vài chiếc xe máy. Một người đàn ông đang nói chuyện điện thoại công cộng ở quầy trước cửa — ống nghe đen, dây xoắn, dáng vẻ tập trung. Cuộc gọi đường dài — giá mười lăm nghìn đồng một phút.
 
-Hùng lên xe đạp, đạp về phía bến xe Chợ Lớn. Ông có ba việc phải làm ngay: mua cáp, tìm tổng đài, và xin đất dựng cột.
+Hùng lên xe đạp, đạp về phía bến xe Chợ Lớn. Gió lùa qua cổ áo, mang theo mùi cá khô, khói than và hơi sông; mỗi vòng pedal kéo ông rời khỏi những thủ tục còn nằm trên giấy, tiến gần hơn tới món nợ thật đang chờ ở kho hàng. Đường nhựa dưới bánh xe lở loét, chỗ thì bê tông nứt nẻ, chỗ thì gravel lộ thiên, đá văng vào ống quyển. Ngang qua một ngã tư, ông thấy một tốp công nhân đang kéo dây điện thoại lên cột — ba người leo, hai người giữ dây dưới đất, giọng hô to che tiếng xe bò chở rơm đi ngang. Ông có ba việc phải làm ngay: mua cáp, tìm tổng đài, và xin đất dựng cột.
 
 ---
 
-Ba ngày sau, Hùng đứng ở khu vực Chợ Lớn — phố Lương Nhữ Học, nơi tập trung các cửa hàng điện tử và vật tư viễn thông tư nhân đầu tiên ở Sài Gòn. Cửa hàng mang tên "Điện tử Thanh Hải" — một mặt bằng nhỏ rộng chừng bốn mét, bày la liệt linh kiện: tụ điện, điện trở, dây điện, đầu nối, và — trên kệ cao nhất — cuộn cáp Nhật loại 50 đôi.
+Ba ngày sau, Hùng đứng ở khu vực Chợ Lớn — phố Lương Nhữ Học, nơi tập trung các cửa hàng điện tử và vật tư viễn thông tư nhân đầu tiên ở Sài Gòn. Cửa hàng mang tên "Điện tử Thanh Hải" — một mặt bằng nhỏ rộng chừng bốn mét, bày la liệt linh kiện: tụ điện, điện trở, dây điện, đầu nối, và — trên kệ cao nhất — cuộn cáp Nhật loại 50 đôi. Mùi nhựa nóng, thiếc hàn và bụi đường quện trong không khí. Ngoài cửa, xe đạp chở bao tải lách qua nhau, tiếng rao mì kéo dài giữa những mái tôn thấp. Hùng lau mồ hôi bằng khăn tay, nhìn bốn cuộn cáp như nhìn bốn mạch máu có thể cứu cả khu xưởng.
 
 Ông chủ tiệm tên Hải, bốn mươi tuổi, gốc Hoa. "Cáp Nhật mới về tuần trước. Loại này dùng cho mạng nội hạt đô thị — ruột đồng 0,5 mm, bọc PE, chịu nước. Một cuộn hai trăm năm mươi mét — giá bảy triệu rưỡi."
 
@@ -104,17 +106,17 @@ Ba ngày sau, Hùng đứng ở khu vực Chợ Lớn — phố Lương Nhữ H�
 
 Hải gật. "Lấy đi."
 
-Hùng mở cốp xe — một chiếc xe đạp cũ — lấy ra một túi giấy đựng tiền. Ba mươi triệu đồng — toàn bộ số tiền mặt từ lô điện thoại bán được tuần trước. Ông đếm: năm trăm tờ một trăm nghìn — năm mươi tờ một cọc, , liếc , sáu cọc. Hải cầm tiền, xem kỹ từng tờ, không đếm lại.
+Hùng mở cốp xe — một chiếc xe đạp cũ, bánh sau đã mòn vẹt — lấy ra một túi giấy đựng tiền. Ba mươi triệu đồng — toàn bộ số tiền mặt từ lô điện thoại bán được tuần trước. Ông đếm: năm trăm tờ một trăm nghìn — năm mươi tờ một cọc, đếm lướt sáu cọc. Bàn tay ông hơi run — không phải vì lạnh, mà vì nếu đây là tiền giả hoặc thiếu, ông sẽ trắng tay. Hải cầm tiền, xem kỹ từng tờ, nâng lên đèn — một đồng giả, hai người mất cả — rồi gật.
 
 "Mai tôi cho xe đến chở. Anh giữ hộ."
 
 "Được."
 
-Hùng ra về. Trên đường, , ông ghé qua một tiệm sắt — đặt mua năm mươi bộ phụ kiện cáp: đầu nối, băng keo cách điện, nhựa thông, ống co nhiệt. Hẹn ba ngày lấy.
+Hùng ra về. Trên đường, ông ghé qua một tiệm sắt — đặt mua năm mươi bộ phụ kiện cáp: đầu nối, băng keo cách điện, nhựa thông, ống co nhiệt. Hẹn ba ngày lấy.
 
-Ông về, tối họp với Minh — kỹ sư tổng đài.
+Hùng về, tối họp với Minh — kỹ sư tổng đài. Bóng đèn tròn treo thấp, ánh vàng rung theo tiếng quạt bàn; trên chiếc bàn gỗ, bản vẽ bị chặn bởi chiếc chặn giấy bằng đồng. Ngoài hiên, MẾ — mế — đang rửa chén, tiếng nước róc rách hòa với tiếng dế kêu đầu hè. Lan, em gái Hùng, ngồi bên góc nhà đan áo, thỉnh thoảng liếc về phía bàn làm việc — Lan vẫn im lặng nhưng mắt rõ là lắng nghe từng chữ. MẾ bước vào, đặt lên bàn một tô chè đậu xanh còn nóng, nói khẽ: "Ăn đi, rồi bàn. Đói mà bàn là hỏng việc." Hùng gật, không nói, nhưng thấy ngực ấm lên — MẾ không hiểu viễn thông, nhưng MẾ hiểu con mình.
 
-Minh ba mươi hai tuổi, ánh , tốt nghiệp Đại học Bưu điện năm 1979, từng làm việc tại Bưu điện Hà Nội và TP.HCM. Nhìn Minh, ai cũng bảo giống sinh viên hơn kỹ sư — tóc xoăn rối, mắt một mí lúc nào cũng híp, áo sơ-mi cũ xắn tay. Nhưng khi cầm đến linh kiện — Minh biến thành người khác. Tay chậm, mắt tỉnh, từng thao tác đều có lý do.
+Minh ba mươi hai tuổi, con trai Hùng, tốt nghiệp Đại học Bưu điện năm 1979, từng làm việc tại Bưu điện Hà Nội và TP.HCM. Nhìn Minh, ai cũng bảo giống sinh viên hơn kỹ sư — tóc xoăn rối, mắt một mí lúc nào cũng híp, áo sơ-mi cũ xắn tay. Nhưng khi cầm đến linh kiện — Minh biến thành người khác. Tay chậm, mắt tỉnh, từng thao tác đều có lý do. Hùng biết sự im lặng của con không phải sợ hãi; đó là cách Minh cân từng rủi ro trước khi đặt cược tiền của cả nhà.
 
 "Tổng đài analog Nhật — loại OKI-200, công suất 200 số, dùng cho văn phòng và khách sạn. Sản xuất năm 1979, tháo từ một tòa nhà văn phòng cũ ở Shinjuku," — Minh vừa nói vừa chỉ vào một tấm ảnh chụp bằng máy ảnh cơ — đen trắng, hơi mờ, chụp một cái tủ sắt màu xám, mặt trước đầy đèn LED và cần gạt. "Hàng đã qua kiểm tra. Giá: hai mươi lăm nghìn yên. Người môi giới bên đó — một người Nhật gốc Việt — đang giữ cho mình. Cần quyết định nhanh, vì có hai người khác cũng hỏi."
 
@@ -124,7 +126,7 @@ Hùng nhìn ảnh. "Công suất thực tế — bao nhiêu số?"
 
 "Ít nhất hai mươi. Nếu mình kéo cáp ngang qua — cho họ rẽ nhánh thuê bao, mỗi đường thu hai trăm nghìn tiền kéo, thu tiếp năm mươi nghìn tiền thuê bao tháng."
 
-Hùng gật. "Tính toán: cáp 50 đôi. Mười đôi cho tôi. Bốn mươi đôi còn lại — cho thuê. Hai mươi đường cho các cơ sở. Mỗi đường trung bình mỗi tháng cước — dựa vào cước Bưu điện hiện tại — khoảng bốn mươi nghìn cho cước nội hạt, , một trăm đến một trăm năm mươi nghìn nếu gọi đường dài. Mỗi đường mang về tám mươi đến một trăm nghìn một tháng. Hai mươi đường — hai triệu một tháng. Gấp sáu lần tiền lương một kỹ sư."
+Hùng gật. "Tính toán: cáp 50 đôi. Mười đôi cho tôi. Bốn mươi đôi còn lại — cho thuê. Hai mươi đường cho các cơ sở. Mỗi đường trung bình mỗi tháng cước — dựa vào cước Bưu điện hiện tại — khoảng bốn mươi nghìn cho cước nội hạt, hoặc một trăm đến một trăm năm mươi nghìn nếu gọi đường dài. Mỗi đường mang về tám mươi đến một trăm nghìn một tháng. Hai mươi đường — hai triệu một tháng. Gấp sáu lần tiền lương một kỹ sư."
 
 "Và mỗi đường là một ràng buộc, một lý do để khách hàng không rời."
 
@@ -136,11 +138,11 @@ Cuối tháng Tám, container tổng đài OKI-200 về tới cảng Tân Cảng
 
 Mở thùng. Minh đứng ngay từ đầu — tay cầm kìm, mắt dán vào từng lớp giấy bọt bọc. Lớp ngoài cùng: xốp PE dày 5 cm. Lớp thứ hai: giấy dầu chống ẩm. Lớp thứ ba: nilon bọc kín. Bên trong: tủ sắt xám, y hệt ảnh.
 
-Minh và hai thợ phụ khiêng tủ ra, cúi , đặt lên khung gỗ đã chuẩn bị sẵn. Tủ cao ngang ngực, mặt trước là ba tấm panel: module điều khiển — đèn LED xanh và đỏ — module đường dây — năm hàng cần gạt — module chuông và nguồn — hai cầu chì thủy tinh, một công-tắc nguồn bằng sứ, một biến áp 220V-48V nặng như cục gạch.
+Minh và hai thợ phụ khiêng tủ ra, cúi xuống đặt lên khung gỗ đã chuẩn bị sẵn. Tủ cao ngang ngực, mặt trước là ba tấm panel: module điều khiển — đèn LED xanh và đỏ — module đường dây — năm hàng cần gạt — module chuông và nguồn — hai cầu chì thủy tinh, một công-tắc nguồn bằng sứ, một biến áp 220V-48V nặng như cục gạch.
 
 Hùng cầm tập tài liệu hướng dẫn — photocopy từ bản gốc tiếng Nhật, dịch tay sang tiếng Việt bởi người môi giới — dày hai mươi trang, viết bằng chữ nghiêng. Chữ dịch không đều: "Cấp điện: khi gạt công tắc, đèn POWER xanh sáng. Nếu không sáng — kiểm tra cầu chì F1."
 
-Minh làm việc suốt hai ngày. Ngày thứ nhất: đấu dây nguồn, ngẩng , kiểm tra điện áp ra, xoay cần gạt khởi tạo — tất cả về vị trí mặc định. Ngày thứ hai: đấu MDF — khung gỗ có sáu mươi thanh cọc đồng, mỗi thanh nối với một đường dây thuê bao cáp đồng. Minh hàn từng mối nối: cáp 50 đôi — tách ra từng đôi — hàn vào cọc MDF — đánh số từ 001 đến 050.
+Minh làm việc suốt hai ngày. Ngày thứ nhất: đấu dây nguồn, ngẩng đầu kiểm tra điện áp ra, xoay cần gạt khởi tạo — tất cả về vị trí mặc định. Đến tối, một cầu chì bị nổ — tiếng "tách" nhỏ, đèn POWER tắt ngóm. Minh ngồi im một lúc, mồ hôi rịn trên trán, tay vẫn giữ cần gạt. Hùng nhìn con, tim thắt lại — nếu tổng đài hỏng trước khi chạy, ba trăm tám mươi triệu tiền cáp sẽ thành đống sắt vụn. Nhưng Minh chỉ rút cầu chì cũ ra, thay cái mới, kiểm tra lại — không nói gì. Ngày thứ hai: đấu MDF — khung gỗ có sáu mươi thanh cọc đồng, mỗi thanh nối với một đường dây thuê bao cáp đồng. Minh hàn từng mối nối: cáp 50 đôi — tách ra từng đôi — hàn vào cọc MDF — đánh số từ 001 đến 050. Mùi thiếc hàn nồng nặc, khói mỏng xoáy lên trần nhà gỗ, lẫn mùi nhựa thông cháy và mùi sắt nóng.
 
 "Bật," — Minh nói.
 
@@ -154,7 +156,7 @@ Hùng bật công tắc.
 
 Tiếng tone quay số — âm "ù... ù... ù..." đều đặn, mắt , không rè, không ngắt quãng.
 
-Ông quay số 002 — số của máy thứ hai, tay , , đặt cách đó năm mét.
+Ông quay số 002 — số của máy thứ hai, tay run nhẹ vì hồi hộp, đặt cách đó năm mét.
 
 Máy 002 đổ chuông. "Boong — boong — boong."
 
@@ -168,21 +170,21 @@ Một thợ phụ nhấc máy: "A-lô."
 
 Hùng gác máy. Ông nhìn Minh, , gật đầu. "Chạy. 150 số OKI-200 đang chạy."
 
-Minh cười — lần đầu tiên Hùng thấy Minh cười từ khi về làm cho ông. Răng Minh trắng, ánh , hơi khểnh. "Tôi mất hai ngày để lắp — nhưng hai chục năm nữa cái máy này vẫn chạy, miễn có điện và có thợ biết hàn."
+Minh cười — lần đầu tiên Hùng thấy con trai cười từ khi về làm cho ông. Răng Minh trắng, hơi khểnh, môi nhếch lên thành nụ cười hiếm hoi. "Tôi mất hai ngày để lắp — nhưng hai chục năm nữa cái máy này vẫn chạy, miễn có điện và có thợ biết hàn."
 
 ---
 
 Tháng Chín năm 1987.
 
-Những cột cáp mới trắng tinh chạy dọc đường từ Hà Đông vào xưởng. Trên mỗi cột — cáp đen chạy song song, , tay , treo trên puli sứ, cách mặt đất sáu mét — đủ cao cho xe bò, xe đạp, và cả xe máy hiếm hoi lưu thông bên dưới.
+Những cột cáp mới trắng tinh chạy dọc đường từ Hà Đông vào xưởng. Trên mỗi cột — cáp đen chạy song song, treo trên puli sứ, cách mặt đất sáu mét — đủ cao cho xe bò, xe đạp, và cả xe máy hiếm hoi lưu thông bên dưới. Gió sớm mang mùi lúa chín từ ruộng đồng bên đường, hòa với mùi xi-măng mới và mùi đất ẩm sau cơn mưa đêm. Tiếng quạ kêu trên ngọn tre, tiếng trẻ con nô đùa bên hàng rào tre, tiếng rao hàng phở lanh lảnh từ quán bên đường — tất cả quyện lại thành bản nhạc buổi sáng của vùng ngoại ô Sài Gòn.
 
 Từ tổng đài quận, cáp chính 50 đôi chạy đến xưởng. Tại xưởng, nó đấu vào MDF của OKI-200. Từ OKI-200 — các đôi cáp tỏa ra: mười đôi cho văn phòng và nhà kho của Hùng, bốn mươi đôi rẽ nhánh đi các hướng.
 
-Hai mươi đôi — đến các cơ sở sản xuất quanh vùng. Mỗi cơ sở ký hợp đồng thuê bao với Hùng: giá lắp đặt 200.000 đồng, , cười , giá thuê bao tháng 45.000 đồng, cước cuộc gọi thu theo giá Bưu điện + 15% phí quản lý. Hùng cung cấp máy — mẫu 98-01 — cho thuê giá 30.000 đồng một tháng, hoặc mua đứt giá 250.000 đồng.
+Hai mươi đôi — đến các cơ sở sản xuất quanh vùng. Mỗi cơ sở ký hợp đồng thuê bao với Hùng: giá lắp đặt 200.000 đồng, giá thuê bao tháng 45.000 đồng, cước cuộc gọi thu theo giá Bưu điện + 15% phí quản lý. Hùng cung cấp máy — mẫu 98-01 — cho thuê giá 30.000 đồng một tháng, hoặc mua đứt giá 250.000 đồng.
 
-Đường dây đầu tiên được kéo cho một xưởng may xuất khẩu lớn nhất vùng — Xưởng may Hợp Tiến — ba trăm công nhân, , gật , chuyên may áo sơ-mi xuất sang Liên Xô và Đông Âu. Giám đốc xưởng, ông Bảy, năm mươi tuổi, đeo kính trắng, nhìn đường dây cáp được kéo vào phòng làm việc của mình như nhìn vàng.
+Đường dây đầu tiên được kéo cho một xưởng may xuất khẩu lớn nhất vùng — Xưởng may Hợp Tiến — ba trăm công nhân, chuyên may áo sơ-mi xuất sang Liên Xô và Đông Âu. Giám đốc xưởng, ông Bảy, năm mươi tuổi, đeo kính trắng, nhìn đường dây cáp được kéo vào phòng làm việc của mình như nhìn vàng.
 
-"Từ nay tôi không phải chạy lên Bưu điện huyện để gọi về Sài Gòn nữa," — ông Bảy nói. "Mỗi tuần tôi mất ba buổi chỉ vì chuyện điện thoại."
+"Từ nay tôi không phải chạy lên Bưu điện huyện để gọi về Sài Gòn nữa," — ông Bảy nói. "Mỗi tuần tôi mất ba buổi chỉ vì chuyện điện thoại." Ông Bảy đưa tay chạm lên vỏ máy đen, đầu ngón tay chai sần vì cả đời đứng chuyền may. Đằng sau ông, cô thư ký ôm xấp đơn hàng xuất khẩu, mắt đỏ vì nhiều đêm thức chờ điện. Với họ, cuộc gọi không phải tiện nghi — nó là chuyến xe cuối cùng để cứu một hợp đồng, một chuyến hàng, ba trăm miếng cơm.
 
 Ông mở tủ, lấy ra một xấp tiền — toàn tờ một trăm nghìn. "Tiền lắp đặt. Hai trăm nghìn. Của anh đây."
 
@@ -196,7 +198,7 @@ Hai mươi đôi — đến các cơ sở sản xuất quanh vùng. Mỗi cơ s�
 
 "Kéo hai trăm mét. Một triệu. Em trả."
 
-Đường dây thứ ba — nhà thuốc huyện. Bác sĩ Phương, , người duy nhất trong vùng có bằng bác sĩ, muốn có điện thoại riêng gọi lên Sở Y tế tỉnh. "Mỗi lần có dịch — tay không có điện thoại, phải nhờ người chạy xe lên tỉnh. Mất nửa ngày. Có điện thoại — mười phút là xong."
+Đường dây thứ ba — nhà thuốc huyện. Bác sĩ Phương, người duy nhất trong vùng có bằng bác sĩ, muốn có điện thoại riêng gọi lên Sở Y tế tỉnh. "Mỗi lần có dịch — tay không có điện thoại, phải nhờ người chạy xe lên tỉnh. Mất nửa ngày. Có điện thoại — mười phút là xong."
 
 Đường dây thứ tư, thứ năm — cho nhà máy gạch, xưởng mộc.
 
@@ -215,9 +217,9 @@ Hùng mở một quyển sổ mới: "SỔ THUÊ BAO VIỄN THÔNG — 1987". Tr
 
 Con số không lớn — nhưng đều. Và nó sẽ tăng theo từng thuê bao mới.
 
-Một buổi tối cuối tháng, , Hùng gọi điện từ máy bàn số 001 tại xưởng — gọi vào Sài Gòn, cho ông Lợi ở Bưu điện Trung tâm.
+Một buổi tối cuối tháng, Hùng gọi điện từ máy bàn số 001 tại xưởng — gọi vào Sài Gòn, cho ông Lợi ở Bưu điện Trung tâm.
 
-Giọng Lợi ở đầu dây bên kia, , thở , hơi rè, nhưng rõ. "Anh Hùng đấy à? Số mới của anh nghe tốt đấy. Đường dây từ Hà Đông về — chất lượng thế nào?"
+Giọng Lợi ở đầu dây bên kia, hơi rè vì gió đêm thổi qua ống nghe, nhưng rõ. "Anh Hùng đấy à? Số mới của anh nghe tốt đấy. Đường dây từ Hà Đông về — chất lượng thế nào?"
 
 "Tốt. Không nhiễu, không mất tiếng. Tổng đài OKI chạy êm."
 
@@ -233,21 +235,18 @@ Giọng Lợi ở đầu dây bên kia, , thở , hơi rè, nhưng rõ. "Anh Hù
 
 Hùng cảm ơn, gác máy. Ông ngồi lại một lúc, nhìn chiếc máy điện thoại màu đen trên bàn — mẫu 98-01, tự sản xuất. Từ nó, một đường dây cáp chạy ra ngoài, nối vào tổng đài OKI-200, rồi hòa vào mạng lưới nội hạt của Bưu điện, đi khắp thành phố, khắp đất nước.
 
-Ông nhớ lại cái ngày ở phường Hà Đông — cô Liên ngồi trước bảng cắm dây, ánh , tay rút tay cắm. Ông đã từng nghĩ: tổng đài nhân công — thế giới của một thời đã qua, sắp bị cuốn đi. Nhưng hôm nay, ông đứng ở đây — đầu dây bên kia — và hệ thống vẫn đang vận hành bằng chính bàn tay những người như cô Liên.
+Ông nhớ lại cái ngày ở phường Hà Đông — cô Liên ngồi trước bảng cắm dây, tay rút tay cắm, mắt nhắm theo nhịp kim đồng hồ. Ông đã từng nghĩ: tổng đài nhân công — thế giới của một thời đã qua, sắp bị cuốn đi. Nhưng hôm nay, ông đứng ở đây — đầu dây bên kia — và hệ thống vẫn đang vận hành bằng chính bàn tay những người như cô Liên.
 
-Tổng đài điện tử sẽ đến. Cáp quang sẽ thay cáp đồng. Nhưng năm 1987 — cáp đồng, , liếc , tổng đài analog Nhật cũ, và những người thợ leo cột là tất cả những gì ông có. Đủ để bắt đầu.
+Tổng đài điện tử sẽ đến. Cáp quang sẽ thay cáp đồng. Nhưng năm 1987 — cáp đồng, tổng đài analog Nhật cũ, và những người thợ leo cột là tất cả những gì ông có. Đủ để bắt đầu.
 Hùng đứng lặng bên cửa sổ phòng máy, nhìn ra những cột cáp mới trắng tinh chạy dài về phía chân trời. Trời đã nhá nhem tối, những bóng cây đổ dài trên mặt đường, và trên mỗi cột cáp, những con chim sẻ tụ về đậu trên dây, trông như những nốt nhạc trên khuông nhạc bằng đồng. Gió chiều thổi nhẹ, căng dây cáp rung lên một âm thanh trầm, vi vu, như tiếng đàn bầu xa vắng — bài hát của thời đại mới, của những kết nối chưa từng có. Trong không gian tĩnh lặng, những đường cáp ấy như những sợi chỉ vô hình nối liền xưởng nhỏ của ông với thế giới bên ngoài, nối liền hiện tại với tương lai.
 
 Hùng ghi vào sổ ngày: "Tháng 9/1987 — mạng viễn thông khu vực Hà Đông đi vào hoạt động. 20 thuê bao. 8 km cáp. 150 số tổng đài. 3 công nhân mạng lưới. Doanh thu tháng đầu: 2,74 triệu. Mục tiêu tháng 12: 60 thuê bao. Nhân rộng ra Hóc Môn và Bình Chánh nếu tuyến này chạy ổn."
 
-Ông gấp sổ. Bên ngoài, mưa tháng Chín. Tiếng mưa gõ trên mái tôn — đều, không vội. Dưới ánh đèn dầu, ông thấy rõ những con số và đường kẻ trên trang giấy — mỗi con số là một thuê bao, mỗi đường kẻ là một mét cáp đã được kéo.
+Ông gấp sổ. Bên ngoài, mưa tháng Chín. Tiếng mưa gõ trên mái tôn — đều, không vội. Dưới ánh đèn dầu, ông thấy rõ những con số và đường kẻ trên trang giấy — mỗi con số là một thuê bao, mỗi đường kẻ là một mét cáp đã được kéo. Ông nghe tiếng MẾ — mế — đang ngủ phía trong, tiếng thở đều; Lan đã ngủ gật trên võng ngoài hiên, tay vẫn giữ cuộn chỉ chưa kịp tháo. Ông nghĩ đến Minh: con ông đang ở phòng máy, mắt dán vào đèn LED của OKI-200, chờ từng tín hiệu — như một bác sĩ đợi trái tim bệnh nhân đập lại.
 
 Cáp đồng. Tổng đài cũ. Nhưng kết nối — thật.
 
-Hùng gấp sổ cáp. Tiếng mưa gõ mái tôn đều đều. Mỗi dòng thuê bao là một mét dây đã kéo.
-Tổng đài cũ còn kêu lạch cạch — sáng mai phải thay rơ-le pha hai trước khi mở thêm thuê bao.
-Kết nối đã thật. Lỗ hổng kỹ thuật vẫn còn phía trước.
-— Hùng gấp sổ lại. Ngày mai sẽ còn nhiều việc phải làm — những việc mà sách vở không dạy, chỉ cuộc đời mới biết.
+Hùng gấp sổ cáp, tắt đèn dầu. Mưa nặng hạt hơn, tiếng mái tôn gõ dồn dập như trống chiến. Ông chợt nhớ lời Lợi: "Anh là người đầu tiên ở miền Nam." Người đầu tiên — nhưng cũng là người đầu tiên bị soi. Tổng cục đã phê duyệt, nhưng ở cấp huyện, xã, những người giữ con dấu chưa biết mặt ông. Giấy phép chưa đến tay — nếu có ai phàn nàn, một cuộc gọi là đủ để treo mọi thứ. Ông nằm xuống, mắt mở, lắng tiếng mưa. Ngày mai, ông sẽ đến UBND huyện xin đất dựng cột — lần thứ tư, lần quyết định.
 
 「Hệ thống — GHI NHẬN ch.99」
 Năm: 1987

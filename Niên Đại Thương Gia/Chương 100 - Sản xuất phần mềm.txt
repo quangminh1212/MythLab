@@ -2,9 +2,9 @@
 Chương 100: Sản xuất phần mềm
 ============================================================
 
-1987. Một căn phòng nhỏ nằm sâu trong Khu công nghiệp — ba cái bàn gỗ ghép từ ván thùng, hai máy tính IBM PC XT 286 mang về từ Singapore, một ổ đĩa mềm 5.25 inch kêu rè rè mỗi lần đọc.
+1988. Một căn phòng nhỏ nằm sâu trong Khu công nghiệp — ba cái bàn gỗ ghép từ ván thùng, hai máy tính IBM PC XT 286 mang về từ Singapore, một ổ đĩa mềm 5.25 inch kêu rè rè mỗi lần đọc. Quạt trần quay chậm, blades xoay rì rì, đánh thức mùi bụi mịn lẫn mùi mực in cũ — thứ mùi không bao giờ tan khỏi vùng đất mới khai hoang này.
 
-"Sản xuất phần mềm" ở Việt Nam năm 1987 không giống bất cứ thứ gì sách vở phương Tây viết. Không có IDE. Không có Internet. Không có compiler bản quyền. Có một cuốn "Lập trình bằng ngôn ngữ BASIC" photo từ bản gốc tiếng Nga — chữ nhòe đến mức dấu ngoặc nhọn trông như dấu nháy — và một nhóm người chưa ai từng thấy dòng code nào trước năm ngoái.
+"Sản xuất phần mềm" ở Việt Nam năm 1988 không giống bất cứ thứ gì sách vở phương Tây viết. Không có IDE. Không có Internet. Không có compiler bản quyền. Có một cuốn "Lập trình bằng ngôn ngữ BASIC" photo từ bản gốc tiếng Nga — chữ nhòe đến mức dấu ngoặc nhọn trông như dấu nháy — và một nhóm người chưa ai từng thấy dòng code nào trước năm ngoái.
 
 Thời điểm đó, máy tính ở Việt Nam là hàng xách tay. IBM PC XT 286 mua qua đường tay ba — từ Singapore về, qua một công ty xuất nhập khẩu ở quận 1, qua tay người quen của người quen, cuối cùng mới tới phòng máy này. Không có bảo hành. Service manual bằng tiếng Anh — Thắng phải mượn từ điển kỹ thuật của một kỹ sư Xô Viết đang làm ở nhà máy nhiệt điện Phả Lại, bản photo chữ Nga, chỉ dịch được mấy từ cơ bản. Mainboard có 640KB RAM gắn liền, không thể nâng cấp — muốn nhiều hơn thì phải mua thêm card mở rộng, nhưng card đó Việt Nam chưa ai bán. 
 
@@ -36,7 +36,7 @@ Cường gõ thêm dòng. Chạy lại. Số ra đúng một nghìn bảy. Cả 
 
 Phần mềm đầu tiên của Khu công nghiệp có tên nội bộ: HT-QL1 — Hệ thống Quản lý 1. Viết bằng Turbo Pascal 3.0, hai đĩa mềm 360KB. Chạy trên DOS 3.3, lưu dữ liệu bằng file .DBF tự tạo — không dBase thật, vì dBase bản quyền giá ngang một cái xe máy.
 
-Đội phát triển gồm bốn người. Cường — lập trình chính, tự học Pascal từ sách Nga dịch tay, biết tiếng Anh đủ đọc error message nhưng phải tra từ điển mỗi lần gặp chữ "overflow". Hải — phụ trách số liệu và thử nghiệm; test là tự gõ số thật vào, đối chiếu với sổ giấy. Trần Thị Lan — quản lý tiến độ và viết hướng dẫn sử dụng bằng tay, từng bước, cho người chưa biết máy tính. Và một kỹ sư điện tên Thắng — người duy nhất biết hàn mainboard, cài DOS, nối máy in kim Epson LX-800, và xử lý khi máy treo giữa giờ.
+Đội phát triển gồm bốn người. Cường — lập trình chính, tự học Pascal từ sách Nga dịch tay, biết tiếng Anh đủ đọc error message nhưng phải tra từ điển mỗi lần gặp chữ "overflow". Hải — phụ trách số liệu và thử nghiệm; test là tự gõ số thật vào, đối chiếu với sổ giấy. Lan — em gái Hùng, quản lý tiến độ và viết hướng dẫn sử dụng bằng tay, từng bước, cho người chưa biết máy tính. Và một kỹ sư điện tên Thắng — người duy nhất biết hàn mainboard, cài DOS, nối máy in kim Epson LX-800, và xử lý khi máy treo giữa giờ.
 
 Hùng không viết code — ông viết yêu cầu. Mỗi buổi sáng ông ngồi với một giám đốc xí nghiệp, hỏi họ cần theo dõi cái gì: nhập — xuất — tồn, công nợ, tiền lương, khấu hao tài sản cố định. Ông vẽ sơ đồ luồng dữ liệu bằng bút bi trên giấy kẻ ly — không biết đó gọi là flowchart, chỉ biết vẽ để Cường hiểu. Cường nhìn sơ đồ, hỏi lại hai ba lần, rồi mới dám gõ.
 
@@ -80,7 +80,7 @@ Buổi tối, Hùng ở lại phòng máy. Ông không gõ code — ông ngồi 
 
 "Có ạ," Cường nói. "Mua ổ cứng. Hai mươi MB. Mười lăm nghìn đô."
 
-Hùng gật đầu, không nói gì. Mười lăm nghìn đô — bằng nửa năm lợi nhuận của ba xí nghiệp nhỏ cộng lại. Ông ghi vào sổ: "Mục tiêu 1988: ổ cứng 20MB. Hoặc giải pháp rẻ hơn."
+Hùng gật đầu, không nói gì. Mười lăm nghìn đô — bằng nửa năm lợi nhuận của ba xí nghiệp nhỏ cộng lại. Ông ghi vào sổ: "Mục tiêu cuối 1988: ổ cứng 20MB. Hoặc giải pháp rẻ hơn."
 
 Giải pháp rẻ hơn là: viết code cẩn thận hơn để đỡ lần chạy thử. Hùng không nói ra, nhưng Cường hiểu. Từ hôm đó, Cường viết code ra giấy trước, dùng bút đỏ soát lỗi cú pháp, chỉ gõ vào máy khi đã chắc. Một lần, Hùng thấy Cường thức tới hai giờ sáng, soát gần năm trăm dòng Pascal bằng mắt thường — không có IDE, không có syntax highlight, chỉ có mắt và cái bút đỏ.
 
@@ -88,7 +88,7 @@ Giải pháp rẻ hơn là: viết code cẩn thận hơn để đỡ lần ch�
 
 Đầu tháng thứ ba, bản demo HT-QL1 chạy ổn định trên một máy. Hùng quyết định mang đi trình diễn. Khách hàng đầu tiên là Xí nghiệp Cơ khí — một xưởng sản xuất phụ tùng xe máy với bốn trăm công nhân và một phòng kế toán chưa ai biết dùng máy tính.
 
-Buổi demo tổ chức trong phòng họp của xí nghiệp — bàn dài, ghế gỗ, nền xi măng. Cường mang máy tính đến, cắm điện, khởi động DOS. Màn hình xanh hiện lên dòng chữ "HT-QL1 — HỆ THỐNG QUẢN LÝ TÀI CHÍNH". Bốn ông kế toán ngồi nhìn, tay để trên bàn, mặt không biểu cảm. Họ đã làm việc với sổ giấy ba chục năm — viết tay từng dòng, tính bằng bàn tính gảy, tổng kết bằng mắt. Một cái máy có thể làm việc đó trong mười phút thay vì ba ngày — họ không tin. Họ sợ sai, sợ mất việc, sợ tin vào thứ họ chưa hiểu.
+Buổi demo tổ chức trong phòng họp của xí nghiệp — bàn dài, ghế gỗ, nền xi măng. Quạt cây đặt góc phòng quay chậm, cánh quạt kêu đều đều, lay nhẹ tờ lịch trên bàn. Cường mang máy tính đến, cắm điện, khởi động DOS. Màn hình xanh hiện lên dòng chữ "HT-QL1 — HỆ THỐNG QUẢN LÝ TÀI CHÍNH". Bốn ông kế toán ngồi nhìn, tay để trên bàn, mặt không biểu cảm. Họ đã làm việc với sổ giấy ba chục năm — viết tay từng dòng, tính bằng bàn tính gảy, tổng kết bằng mắt. Một cái máy có thể làm việc đó trong mười phút thay vì ba ngày — họ không tin. Họ sợ sai, sợ mất việc, sợ tin vào thứ họ chưa hiểu.
 
 Hùng làm việc đó trước — mời bà kế toán trưởng, người có thâm niên cao nhất, lên nhập thử một phiếu thu. Bà ta nhìn bàn phím như nhìn một cái máy khâu. Cường đặt một tờ giấy có vẽ bàn phím lên bàn — phím nào ở đâu, ghi chú bằng tiếng Việt: "Phím Enter — xuống dòng", "Phím F2 — lưu", "Mũi tên lên — đi lên".
 
@@ -103,7 +103,7 @@ Tháng sau, ba xí nghiệp khác đặt mua. HT-QL1 bắt đầu đi vào sản
 
 ---
 
-Bán phần mềm năm 1987 không có đóng gói hộp. Giao hàng là: ba đĩa mềm 5.25 inch — đĩa 1 chương trình, đĩa 2 dữ liệu mẫu, đĩa 3 hướng dẫn sử dụng dạng text file. Mỗi bộ được photo thủ công — Cường dùng lệnh DISKCOPY để nhân bản. Có lần nhân bản lỗi vì đĩa nguồn bad sector, Thắng phải dùng phần mềm Norton Utilities để phục hồi. Hùng xem đó mà hiểu: phần mềm là hàng hóa đặc biệt — không phải cái bút cái bàn, sản xuất hỏng không thể đem ra cân lại.
+Bán phần mềm năm 1988 không có đóng gói hộp. Giao hàng là: ba đĩa mềm 5.25 inch — đĩa 1 chương trình, đĩa 2 dữ liệu mẫu, đĩa 3 hướng dẫn sử dụng dạng text file. Mỗi bộ được photo thủ công — Cường dùng lệnh DISKCOPY để nhân bản. Có lần nhân bản lỗi vì đĩa nguồn bad sector, Thắng phải dùng phần mềm Norton Utilities để phục hồi. Hùng xem đó mà hiểu: phần mềm là hàng hóa đặc biệt — không phải cái bút cái bàn, sản xuất hỏng không thể đem ra cân lại.
 
 Phần mềm không có mùi, không có màu, không có trọng lượng — nhưng nó nặng bằng giấy chứng nhận thanh toán. Mỗi bản giao kèm một tờ "Giấy xác nhận đã nhận đủ — gồm 03 đĩa mềm, một bản in hướng dẫn, một phiếu hỗ trợ qua điện thoại trong 30 ngày." Cường thiết kế phiếu hỗ trợ trên giấy kẻ ngang, chữ viết tay — vì máy in kim chỉ in được chữ in hoa không dấu, trông như điện tín. Hùng bảo cứ viết tay cho dễ đọc. 
 
@@ -117,9 +117,9 @@ Bản cài đặt đầu tiên tại xí nghiệp mất hai ngày. Ngày thứ n
 
 ---
 
-Một buổi tối cuối năm 1987, đội ngồi lại trong phòng máy. Bốn người — Cường, Hải, Lan, Thắng — cộng với Hùng. Trên bàn là một ổ bánh mì và ly trà đá. Màn hình DOS đang hiển thị dòng chữ "HT-QL1 VERSION 1.0 — 1987". Cường đã viết tổng cộng 2.847 dòng Pascal — gồm chương trình chính, ba module phụ, và file cấu hình. Mỗi dòng được test ít nhất một lần. Có dòng test mười lần. Có dòng Cường viết, xóa, viết lại tới sáu lần — vì nhìn thấy cách tối ưu hơn khi đang ăn cơm, chợt nghĩ ra, đặt bát xuống chạy ra sửa.
+Một buổi tối cuối năm 1988, đội ngồi lại trong phòng máy. Bốn người — Cường, Hải, Lan, Thắng — cộng với Hùng. Trên bàn là một ổ bánh mì và ly trà đá. Quạt trần quay chậm, thỉnh thoảng kêu kẹt — tiếng kim loại ma sát với nhau, ánh đèn tuýp nhấp nháy nhẹ. Màn hình DOS đang hiển thị dòng chữ "HT-QL1 VERSION 1.0 — 1988". Cường đã viết tổng cộng 2.847 dòng Pascal — gồm chương trình chính, ba module phụ, và file cấu hình. Mỗi dòng được test ít nhất một lần. Có dòng test mười lần. Có dòng Cường viết, xóa, viết lại tới sáu lần — vì nhìn thấy cách tối ưu hơn khi đang ăn cơm, chợt nghĩ ra, đặt bát xuống chạy ra sửa.
 
-"Phần mềm này giúp được bao nhiêu xí nghiệp?" Cường hỏi. Câu hỏi của người vừa kịp tin rằng mình có thể làm phần mềm. Anh ta muốn biết giới hạn — không phải của code, mà của thị trường. Hai tháng trước, Cường còn gõ lệnh bằng ngón tay run, không biết DOS là gì ngoại trừ mấy dòng hiện ra sau khi bật máy. Bây giờ anh ta có thể viết 500 dòng không lỗi cú pháp, biết cách tối ưu vòng lặp, biết khi nào nên dùng file text thay vì biến mảng. Hai tháng — từ zero tới sản phẩm đầu tiên. Ở Việt Nam năm 1987, đó là một tốc độ không tưởng.
+"Phần mềm này giúp được bao nhiêu xí nghiệp?" Cường hỏi. Câu hỏi của người vừa kịp tin rằng mình có thể làm phần mềm. Anh ta muốn biết giới hạn — không phải của code, mà của thị trường. Hai tháng trước, Cường còn gõ lệnh bằng ngón tay run, không biết DOS là gì ngoại trừ mấy dòng hiện ra sau khi bật máy. Bây giờ anh ta có thể viết 500 dòng không lỗi cú pháp, biết cách tối ưu vòng lặp, biết khi nào nên dùng file text thay vì biến mảng. Hai tháng — từ zero tới sản phẩm đầu tiên. Ở Việt Nam năm 1988, đó là một tốc độ không tưởng.
 
 Hùng nhìn tờ giấy kế hoạch. "Tới cuối năm tám mươi tám, mười hai xí nghiệp. Nếu làm được cái HT-QL2 cho ngành dệt may, thêm sáu cái nữa."
 
@@ -147,33 +147,39 @@ Hải ngập ngừng: "Nhưng phần mềm thì ai cũng copy được. Mua mộ
 
 Cuối ngày, Hùng đối chiếu tiến độ trên màn hình DOS với cuốn sổ tay.
 
-Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1987 — được rồi.'
+Hùng viết vào sổ tay dòng cuối ngày — không phải số liệu, chỉ là một câu: '1988 — được rồi.'
 
-Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1987 đã cho ông nhiều hơn ông tưởng. Ông gập sổ tay, đặt trên bàn, tắt đèn — ngày mai còn việc mới.
-Năm: 1987
+Đêm đó, Hùng ngồi ngoài hiên, nhìn trăng lên qua tán bàng. Năm 1988 đã cho ông nhiều hơn ông tưởng. Ông gập sổ tay, đặt trên bàn, tắt đèn — ngày mai còn việc mới.
+Năm: 1988
 Thông báo: Cột mốc 10 chương — +EXP, mở rộng không gian
 HT-QL1 v1.0 — Bắt đầu chuỗi sản phẩm phần mềm
 
 Hùng nhìn dòng chữ. Ông không ấn tượng với con số EXP — ông ấn tượng với ba cái đĩa mềm trên bàn. Phần mềm đầu tiên của một người chưa từng học lập trình. Sản phẩm của một đội bốn người — ba người chưa từng rời Việt Nam, một người chỉ biết hàn mainboard. Nhưng họ đã làm được cái thứ mà cả nền công nghiệp Việt Nam chưa ai làm: gói kiến thức vào đĩa mềm và bán nó như một sản phẩm.
 
-Đêm đó, khi cả đội tan, Hùng về nhà. Bà Hà hỏi: "Ăn chưa?"
+Đêm đó, khi cả đội tan, Hùng về nhà. MẾ hỏi: "Ăn chưa?"
 
 "Ăn vội rồi," Hùng nói. "Nhưng mà... nay vui."
 
-Bà Hà nhìn ông, không hỏi thêm — chỉ đặt chén nước chè lên bàn. Hùng ngồi uống, nhìn ra sân, nghĩ về mấy dòng Pascal đã chạy đúng, về bà kế toán trưởng gật đầu, về ba đĩa mềm sắp giao. Một cảm giác ông chưa từng có: thứ ông đang làm không chỉ đẻ ra tiền — nó đẻ ra một thứ mà thời gian không xóa được.
+MẾ nhìn ông, không hỏi thêm — chỉ đặt chén nước chè lên bàn. Nước chè xanh còn ấm, vị chát se đầu lưỡi, rồi ngọt chậm nơi cuống họng. Hùng ngồi uống, nhìn ra sân — nền đất đỏ, một cây bàng nhỏ trồng bên tường rào, lá tròn rụng đầy lối đi. Gió thổi qua, mang theo mùi cỏ ướt và khói bếp của nhà hàng xóm. Ông nghĩ về mấy dòng Pascal đã chạy đúng, về bà kế toán trưởng gật đầu, về ba đĩa mềm sắp giao. Một cảm giác ông chưa từng có: thứ ông đang làm không chỉ đẻ ra tiền — nó đẻ ra một thứ mà thời gian không xóa được.
 
 Trước khi ngủ, ông viết vào sổ tay:
-12/1987 — HT-QL1 chạy ổn. Bốn xí nghiệp. Còn nhỏ. Nhưng đúng hướng.
+12/1988 — HT-QL1 chạy ổn. Bốn xí nghiệp. Còn nhỏ. Nhưng đúng hướng.
 
 Phía dưới, ông vẽ thêm một đường gạch ngang — và viết thêm một câu:
 "Ngày hôm nay, có một xí nghiệp ở Hà Nội không cần gõ tay ba lần một số — vì cái phần mềm mình viết. Đó là lý do để mai dậy sớm."
 
-Hùng tắt màn hình monochrome, nghe quạt máy rè nhẹ. Mã nguồn còn lỗi biên dịch cuối trang.
-Lan ghi lịch giao module. Minh hẹn sáng kiểm lại vòng lặp tồn kho.
+Hùng tắt màn hình monochrome, nghe quạt máy rè nhẹ. Mã nguồn còn lỗi biên dịch cuối trang. Trời ngoài cửa sổ đã tối thẫm, chỉ còn ánh đèn đường vàng nhạt lọt qua khe cửa kính mờ đục.
+Lan ghi lịch giao module. Minh — con Hùng — hẹn sáng kiểm lại vòng lặp tồn kho. Cậu gấp quyển vở, ngáp một cái, nhưng bàn tay vẫn giữ chặt cây bút chì.
 Phần mềm chưa xong — mai còn compile. Phía trước là bản chạy thử nội bộ.
+Nhưng đúng đêm đó, khi Hùng vừa đặt lưng, điện thoại bàn rung chuông — tiếng chuông kim loại rền trong hành lang vắng.
+Alô.
+Đầu dây bên kia, giọng một người đàn ông lạ, trầm, rít xì thuốc:
+"Hùng hả? Tôi là phó giám đốc Nhà máy Dệt 41. Nghe nói ông có cái phần mềm… Tui cần một bản. Nhưng ông phải có mặt tại Hải Phòng trước sáng thứ Hai. Có việc gấp."
+Hùng ngồi dậy, mắt mở to trong bóng tối. Đầu dây đã tắt.
+Thứ Hai — còn hai ngày. Hải Phòng — cả một chuyến đi đêm.
 
 「Hệ thống — GHI NHẬN ch.100」
-Năm: 1987
+Năm: 1988
 Tổng EXP: 16,500 (+182 nhịp này)
 Không gian kho: 5,500m² (+45m²)
 Kỹ năng trọng yếu: Đầu tư lv2, Chiến lược lv1, Logistics lv2, Tài chính lv1
