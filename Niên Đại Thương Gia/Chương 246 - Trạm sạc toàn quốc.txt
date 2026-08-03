@@ -175,4 +175,13 @@ Tổng EXP: 54,000 (+333)
 Không gian kho: 21,000m² (+167m²)
 Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Dự báo rủi ro lv1
 Ghi chú: phê duyệt thí điểm trạm sạc bến xe Giáp Bát — nền móng hạ tầng sạc toàn quốc
+
+「Hệ thống — GHI NHẬN ch.246」
+Năm: 2006
+Tổng EXP: 53,667
+Không gian kho: 17,889m²
+Kỹ năng trọng yếu: Công nghệ cao lv2, Hạ tầng lv1
+Ghi chú: Trạm sạc toàn quốc — mạng lưới xe điện
+
+============================================================
 ============================================================

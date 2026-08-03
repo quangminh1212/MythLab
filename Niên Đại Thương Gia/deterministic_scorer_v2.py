@@ -49,9 +49,10 @@ CHAR_WORDS = [
 ]
 
 PAD_MARKERS = [
-    "### lớp sâu", "lớp sâu", "sâu thẳm", "vô cực", "hư không",
-    "bản chất sâu", "nền tảng sâu", "bản chất", "vô hạn",
+    # AI/tech-specific markers only
+    "### lớp sâu", "lớp sâu", "bản chất sâu", "nền tảng sâu",
     "### hidden layer", "### deep layer", "deep layer",
+    # Removed false positives: "hư không", "bản chất", "vô hạn", "sâu thẳm"
 ]
 
 FILLER_PHRASES = [
@@ -81,6 +82,13 @@ ANACHRONISM = [
     "smartphone", "iphone", "internet", "facebook", "google", "wifi",
     "laptop", "app ", "online", "startup", "email",
 ]
+
+# Technology introduction years — if panel_year >= tech_year, NOT anachronism
+TECH_YEARS = {
+    "email": 1971, "internet": 1983, "laptop": 1981, "online": 1980,
+    "startup": 1960, "google": 1998, "facebook": 2004, "wifi": 1997,
+    "smartphone": 2007, "iphone": 2007, "app ": 2008,
+}
 
 CLOSURE_WORDS = [
     "khép lại", "kết thúc", "hoàn thành", "xong xuôi",
@@ -126,7 +134,7 @@ def vi_wordcount(text: str) -> int:
 
 def _panel(text: str):
     t = _norm(text)
-    m = re.search(r"「Hệ thống[^」]*GHI NHẬN[^」]*」\s*\n", t)
+    m = re.search(r"「Hệ thống[^」]*GHI NHẬN[^」]*」\s*\r?\n", t)
     if not m:
         return False, None, None
     panel_text = t[m.start():m.start()+200]
@@ -259,9 +267,15 @@ def score_chapter(text: str, cfg: dict = None) -> dict:
             elif pyear:
                 year_mismatch = (panel_year != pyear)
 
-    # Anachronism
+    # Anachronism (year-aware: skip if panel_year >= tech_year)
     anach_terms = [a for a in ANACHRONISM if a not in extra_anach_ok]
-    anach_hits = {a: body_low.count(a) for a in anach_terms if a in body_low}
+    anach_hits = {}
+    for a in anach_terms:
+        if a in body_low:
+            tech_year = TECH_YEARS.get(a.strip() + " ", TECH_YEARS.get(a, 0))
+            if panel_year and tech_year and panel_year >= tech_year:
+                continue  # Technology existed, not anachronism
+            anach_hits[a] = body_low.count(a)
     has_anach = len(anach_hits) > 0
 
     # Scene breaks (separator lines ≥3 chars between prose)
