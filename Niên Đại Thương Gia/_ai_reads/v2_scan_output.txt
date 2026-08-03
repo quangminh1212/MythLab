@@ -1,0 +1,364 @@
+[PASS] Chương 1 - Tỉnh lại.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 10 - Đi Hà Nội.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 100 - Sản xuất phần mềm.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 101 - Mở rộng cửa hàng 108.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 102 - Mở rộng nhà hàng 42.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 103 - Mở rộng nhà máy 30.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 104 - Mở rộng xuất khẩu châu Âu.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 105 - Tổng kết Phần 3.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 106 - Bắt đầu Phần 4.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 107 - Mở nhà máy Thái Lan.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 108 - Mở nhà máy Indonesia.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 109 - Mở nhà máy Đức.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 11 - Đi Hà Nam.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 110 - M&A Bangkok Electronics.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 111 - Mở sang châu Mỹ USA.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 112 - Hoàn thành phần 3.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 113 - Mở nhà máy USA.txt: 10.00 (weighted=100.00, cap=10.0)
+[PASS] Chương 114 - M&A Stahl GmbH.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 115 - Mở nhà máy Nigeria.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 116 - Mở nhà máy Úc.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 117 - Tổng tài sản 1000 tỷ.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 118 - Những ngày nằm viện.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 119 - Bước ngoặt sức khỏe.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 12 - Đi Hải Dương.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 120 - Học cách ủy thác sâu hơn.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 121 - Mở rộng sang Thái Lan.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 122 - Myanmar và Campuchia.txt: 6.50 (weighted=96.20, cap=6.5) [HF: pad_markers]
+[PASS] Chương 123 - Xây dựng đội ngũ xuất khẩu.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 124 - Cạnh tranh với Trung Quốc.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 125 - Lan trưởng thành.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 126 - Giá trị của sự buông.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 127 - Lan nhận nhiệm vụ mới.txt: 10.00 (weighted=100.00, cap=10.0)
+[PASS] Chương 128 - Khủng hoảng đầu tiên.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 129 - Bước lùi để tiến xa hơn.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 13 - Đi Thái Bình.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 130 - Thử thách kế thừa.txt: 10.00 (weighted=100.00, cap=10.0)
+[PASS] Chương 131 - Mở rộng Đông Nam Á.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 132 - Đối mặt hải quan Indonesia.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 133 - Malaysia và Philippines.txt: 7.50 (weighted=95.00, cap=7.5) [HF: missing_system_panel]
+[PASS] Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 137 - Cuộc gặp với ông Sato.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 138 - Thử thách từ ông Sato.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 139 - Mở rộng sang Hàn Quốc.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 14 - Bắt đầu sản xuất.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 140 - Chuẩn bị cho thị trường Mỹ.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 142 - Thử thách đầu tiên tại Mỹ.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 144 - Mở rộng đối tác Mỹ.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt: 10.00 (weighted=98.50, cap=10.0)
+[FAIL] Chương 146 - Lan học cách đàm phán với người Mỹ.txt: 6.50 (weighted=92.50, cap=6.5) [HF: pad_markers, missing_system_panel]
+[FAIL] Chương 147 - Lan đối mặt với áp lực Mỹ.txt: 6.50 (weighted=97.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 148 - Bữa tối 3 thế hệ.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 149 - Trở lại Mỹ với tinh thần mới.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 15 - Thuê người giúp việc.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 150 - Văn Hùng tập trung vào Việt Nam.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 151 - Lan mở rộng sang Canada.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 152 - Văn Hùng nhận huân chương.txt: 7.50 (weighted=95.00, cap=7.5) [HF: missing_system_panel]
+[PASS] Chương 153 - Lan mở rộng sang Australia.txt: 10.00 (weighted=100.00, cap=10.0)
+[PASS] Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 155 - Ngân hàng Thương Gia mở cửa.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 156 - Cho vay doanh nghiệp nhỏ.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 157 - Đối mặt kiểm toán nhà nước.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 158 - Lan về nước báo cáo.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 159 - Xây nhà máy ô tô đầu tiên.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 16 - Mở rộng xưởng may.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 160 - Thử nghiệm mẫu xe Thành Công.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 162 - Chuỗi cung ứng phụ tùng.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 163 - Khủng hoảng nguyên liệu thép.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 164 - Hùng dàn xếp với nhà cung cấp.txt: 10.00 (weighted=92.20, cap=10.0)
+[PASS] Chương 165 - Ra mắt xe máy Thương Gia.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 166 - Mở showroom toàn quốc.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 167 - Điện thoại Thương Gia thế hệ 2.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 168 - Nhà máy máy tính Hà Nội.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 169 - Xây dựng thương hiệu quốc tế.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 17 - Đi Quảng Ninh.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 171 - Chuyển giao cho thế hệ sau.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 172 - Gia đình sum họp.txt: 10.00 (weighted=102.50, cap=10.0)
+[FAIL] Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 174 - Logistics quốc tế Thương Gia.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 175 - Cảng container Hải Phòng.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 176 - Lan về nước.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 177 - Mở rộng nhà máy ô tô.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 179 - Chuẩn bị niêm yết công ty con.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 18 - Đi Nghệ An.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 180 - Lan đàm phán với đối tác châu Âu.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 181 - Cô Hạnh sinh con.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 182 - Mở rộng quỹ đầu tư.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 184 - Khủng hoảng tài chính châu Á 1994.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 185 - Tổng kết nửa chặng đường châu Á.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 186 - Lan và chiến lược châu Á mới.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 188 - Điều tra và chứng cứ.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 189 - Đối chất công khai.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt: 10.00 (weighted=98.50, cap=10.0)
+[FAIL] Chương 190 - Mở rộng sang châu Phi.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 191 - Đầu tư công nghệ cao.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 193 - Xây dựng thương hiệu toàn cầu.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 195 - Lan chèo lái Thương Gia.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 196 - Bà Hà sức khỏe giảm.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 197 - Bà Hà phát biểu trước toàn thể.txt: 10.00 (weighted=97.50, cap=10.0)
+[PASS] Chương 198 - Hùng về vườn.txt: 10.00 (weighted=94.80, cap=10.0)
+[PASS] Chương 199 - Tổng kết Phần 3.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 2 - Bữa tối đầu tiên.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 20 - Sản xuất giày dép.txt: 6.50 (weighted=96.00, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 200 - Lễ kỷ niệm 10 năm.txt: 6.50 (weighted=94.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 201 - Mở rộng châu Âu.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 202 - Chi nhánh Paris.txt: 10.00 (weighted=95.00, cap=10.0)
+[PASS] Chương 203 - Nhà hàng Thương Gia tại Lyon.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 204 - Berlin và kỹ thuật Đức.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 205 - Nhà máy linh kiện München.txt: 10.00 (weighted=100.00, cap=10.0)
+[FAIL] Chương 206 - London – trung tâm tài chính.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 208 - New York – Wall Street lần đầu.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 209 - Đàm phán niêm yết ADR.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 21 - Mở rộng làm giày.txt: 10.00 (weighted=93.20, cap=10.0)
+[PASS] Chương 210 - Văn phòng Thương Gia Manhattan.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 211 - Chuỗi cửa hàng West Coast.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt: 6.50 (weighted=96.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 213 - Chứng nhận ISO toàn hệ thống.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 214 - M&A đối thủ vừa tại Pháp.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 215 - Tích hợp văn hóa doanh nghiệp.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 216 - Sản xuất chip thử nghiệm.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 217 - Nhà máy năng lượng tái tạo.txt: 10.00 (weighted=97.50, cap=10.0)
+[PASS] Chương 218 - Pin mặt trời thế hệ mới.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 219 - Xe điện nguyên mẫu.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 22 - Đi Thành phố Hồ Chí Minh.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 220 - Triển lãm công nghệ châu Á.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 221 - Dấu hiệu khủng hoảng 2008.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 222 - Hệ thống cảnh báo sớm.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 223 - Họp khẩn ban lãnh đạo.txt: 6.50 (weighted=97.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 224 - Bảo vệ dòng tiền.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 225 - Cơn bão Lehman.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 226 - Những cuộc gọi nửa đêm.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 227 - Đi săn khi ai cũng sợ.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 228 - Lan giữ pháo đài Mỹ.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 229 - Không ai bị bỏ lại.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 23 - Sản xuất túi xách.txt: 6.50 (weighted=90.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 230 - Truyền thông và niềm tin.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 231 - Mua lại nhà máy đối thủ phá sản.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 232 - Tái khởi động sản xuất.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 233 - Truyền thông khủng hoảng.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 234 - Niềm tin khách hàng.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 235 - Hùng trên truyền hình quốc tế.txt: 6.50 (weighted=95.80, cap=6.5) [HF: anachronism=1]
+[PASS] Chương 236 - Forbes gọi tên Thương Gia.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 237 - Vượt qua đáy khủng hoảng.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 238 - Năm mới, trời mới.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 239 - Đường dài.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 24 - Mở rộng làm túi.txt: 6.50 (weighted=94.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 240 - Thương Gia City.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 241 - Khởi công Thương Gia City.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 242 - Quy hoạch 500 hecta.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 243 - Hạ tầng và nhà ở công nhân.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 244 - Trường học trong khu công nghiệp.txt: 10.00 (weighted=102.50, cap=10.0)
+[FAIL] Chương 245 - Xe điện thương mại hóa.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 246 - Trạm sạc toàn quốc.txt: 7.50 (weighted=88.80, cap=7.5) [HF: missing_system_panel]
+[FAIL] Chương 247 - AI sơ khai trong quản lý kho.txt: 6.50 (weighted=95.80, cap=6.5) [HF: pad_markers, anachronism=1]
+[FAIL] Chương 248 - Trung tâm dữ liệu Thương Gia.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 249 - Đối tác công nghệ Silicon Valley.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 25 - Mở cửa hàng thứ hai.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 250 - Lan dẫn quỹ R&D.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 251 - Con trai Hùng vào công ty.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 252 - Thế hệ thứ hai học việc.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 253 - Huân chương Lao động.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 254 - Gặp lãnh đạo ngành.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 255 - Cam kết phát triển bền vững.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 256 - Top thương gia Việt Nam.txt: 6.50 (weighted=98.30, cap=6.5) [HF: anachronism=1]
+[FAIL] Chương 257 - Lễ vinh danh toàn quốc.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 258 - Mở rộng châu Phi sâu.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 259 - Nam Mỹ – Brazil và Chile.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 26 - Mua đất xây xưởng.txt: 10.00 (weighted=98.50, cap=10.0)
+[FAIL] Chương 260 - Chuỗi giá trị toàn cầu.txt: 6.50 (weighted=84.60, cap=6.5) [HF: anachronism=1, missing_system_panel]
+[PASS] Chương 261 - Kiểm toán ESG đầu tiên.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 262 - Bà Hà và sách hồi ký gia đình.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 263 - Flashback 25 năm.txt: 7.50 (weighted=95.00, cap=7.5) [HF: missing_system_panel]
+[FAIL] Chương 264 - Tái khẳng định sứ mệnh.txt: 6.50 (weighted=84.80, cap=6.5) [HF: pad_markers, missing_system_panel]
+[PASS] Chương 265 - Đối thủ mới từ Hàn Quốc.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 266 - Cạnh tranh lành mạnh.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 267 - Liên minh chiến lược Đông Á.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 268 - Tổng kết toàn cầu hóa.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 269 - Phần thưởng Phần 4.txt: 6.50 (weighted=90.60, cap=6.5) [HF: anachronism=1]
+[PASS] Chương 27 - Đi Lào.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 272 - Đế chế truyền thông Thương Gia.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 273 - Báo và tạp chí kinh tế.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 274 - Kênh truyền hình thực tế.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 275 - Nền tảng mạng xã hội nội địa.txt: 6.50 (weighted=98.30, cap=6.5) [HF: anachronism=2]
+[PASS] Chương 276 - Thương Gia FC ra đời.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 277 - Sân vận động cộng đồng.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 278 - Tài trợ Olympic khu vực.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 279 - Học bổng 10.000 sinh viên.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 28 - Đi Campuchia.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 280 - Xây 100 trường vùng sâu.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 281 - Quỹ 10.000 tỷ từ thiện.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 282 - Minh bạch quỹ công khai.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 283 - Y tế lưu động miền núi.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 284 - Nước sạch cho 500 xã.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 285 - Lan đứng đầu mảng xã hội.txt: 10.00 (weighted=100.00, cap=10.0)
+[PASS] Chương 286 - Con trai phụ trách sản xuất.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 287 - Hùng lui về chiến lược.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 288 - Khủng hoảng truyền thông giả.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 289 - Phản ứng minh bạch.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 29 - Đi Thái Lan.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 290 - Từ thiện Đông Timor.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 292 - Đề xuất chính sách xanh.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 293 - Thương hiệu quốc gia.txt: 10.00 (weighted=97.20, cap=10.0)
+[FAIL] Chương 294 - Bảo tàng Thương Gia.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 295 - Ngày hội công nhân.txt: 6.50 (weighted=94.60, cap=6.5) [HF: anachronism=1]
+[PASS] Chương 296 - Mở quỹ học bổng.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 297 - Công đoàn đối thoại.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 298 - Đào tạo lãnh đạo trẻ.txt: 6.50 (weighted=94.60, cap=6.5) [HF: anachronism=2]
+[FAIL] Chương 299 - Hùng 50 tuổi – nhìn lại.txt: 6.50 (weighted=94.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 3 - Đi huyện thành.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 30 - Mở rộng cửa hàng.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 300 - Mở rộng từ thiện châu Á.txt: 10.00 (weighted=97.20, cap=10.0)
+[FAIL] Chương 301 - Lan CEO tập đoàn.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 302 - Hùng Chủ tịch Hội đồng.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 303 - Thế hệ ba bắt đầu.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 304 - Học bổng 10.000 SV.txt: 10.00 (weighted=97.20, cap=10.0)
+[FAIL] Chương 305 - Gặp lại ông Tanaka.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 306 - Gặp lại ông Sato.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 307 - Gặp lại Klaus.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 308 - Gặp lại đối tác Mỹ.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 309 - Quỹ học bổng mang tên bà Hà.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 31 - Tổng kết năm 1983.txt: 6.50 (weighted=96.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 310 - Thương gia huyền thoại.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 311 - Giải Thương gia huyền thoại.txt: 10.00 (weighted=102.50, cap=10.0)
+[FAIL] Chương 312 - Giao quyền cho Lan.txt: 6.50 (weighted=94.30, cap=6.5) [HF: anachronism=1]
+[PASS] Chương 313 - Sách trắng quản trị Thương Gia.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 314 - Đối mặt tin đồn sức khỏe.txt: 6.50 (weighted=95.80, cap=6.5) [HF: pad_markers, anachronism=2]
+[FAIL] Chương 315 - Hùng chăm sóc sức khỏe.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 316 - Gia đình ba thế hệ sum họp.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 317 - Kế hoạch di sản pháp lý.txt: 10.00 (weighted=98.50, cap=10.0)
+[FAIL] Chương 318 - Ủy thác tài sản minh bạch.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 319 - Cam kết không chia cắt tập đoàn.txt: 6.50 (weighted=91.80, cap=6.5) [HF: anachronism=1]
+[FAIL] Chương 32 - Sản xuất thực phẩm.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 320 - Truyền thông Thương Gia.txt: 6.50 (weighted=98.30, cap=6.5) [HF: anachronism=1]
+[FAIL] Chương 321 - Khủng hoảng cạnh tranh giá.txt: 6.50 (weighted=95.80, cap=6.5) [HF: anachronism=1]
+[FAIL] Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt: 6.50 (weighted=94.60, cap=6.5) [HF: anachronism=1]
+[PASS] Chương 323 - Khách hàng trung thành.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 324 - Tái định vị thương hiệu.txt: 6.50 (weighted=94.30, cap=6.5) [HF: anachronism=1]
+[PASS] Chương 325 - Công nghệ xanh toàn hệ thống.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 326 - Net zero cam kết.txt: 7.50 (weighted=95.00, cap=7.5) [HF: missing_system_panel]
+[PASS] Chương 327 - Lễ 30 năm Thương Gia.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 328 - Quỹ 10.000 tỷ.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 329 - Tổng kết Phần 5.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 33 - Mở rộng thực phẩm.txt: 6.50 (weighted=96.00, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 330 - Đội bóng Thương Gia FC.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 331 - Bắt đầu Phần 6 – Di sản.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 332 - Tập đoàn bóng tối trở lại.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 333 - Âm mưu thôn tính cổ phiếu.txt: 10.00 (weighted=96.00, cap=10.0)
+[FAIL] Chương 334 - Phòng thủ cổ đông.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 335 - Liên minh cổ đông nhỏ.txt: 10.00 (weighted=102.50, cap=10.0)
+[FAIL] Chương 336 - Âm mưu tập đoàn bóng tối.txt: 6.50 (weighted=91.80, cap=6.5) [HF: anachronism=2]
+[PASS] Chương 337 - Trí tuệ và hệ thống.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 338 - Chiến thắng đại hội cổ đông.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 339 - Thanh lọc nội bộ.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 34 - Tuyển kỹ sư Minh.txt: 6.50 (weighted=88.50, cap=6.5) [HF: pad_markers, missing_system_panel]
+[PASS] Chương 340 - Vượt qua âm mưu.txt: 10.00 (weighted=94.80, cap=10.0)
+[FAIL] Chương 341 - Lễ bàn giao quyền lực chính thức.txt: 7.50 (weighted=88.80, cap=7.5) [HF: missing_system_panel]
+[PASS] Chương 342 - Lan CEO – con trai Phó.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 344 - Lễ bàn giao quyền lực.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 345 - Quỹ Di sản Trần Văn Hùng.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 346 - Người giàu có trách nhiệm.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt: 7.50 (weighted=87.20, cap=7.5) [HF: missing_system_panel]
+[FAIL] Chương 348 - Du hành tri ân thế giới.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 349 - Hợp tác với đối tác quốc tế.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 35 - Mở rộng miền Nam.txt: 6.50 (weighted=96.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 350 - Du hành thế giới.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 351 - Nhà đất cũ và ký ức.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 352 - Từ thiện 100.000 tỷ.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 353 - Thư gửi thế hệ sau.txt: 6.50 (weighted=85.60, cap=6.5) [HF: pad_markers, anachronism=2]
+[FAIL] Chương 354 - Hệ thống nhiệm vụ cuối.txt: 6.50 (weighted=94.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 356 - Bữa tối gia đình.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 357 - Flashback toàn hành trình.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 358 - Bữa tối ba thế hệ.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 36 - Mở chi nhánh Hoài Đức.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt: 10.00 (weighted=94.80, cap=10.0)
+[PASS] Chương 37 - Mở chi nhánh Hà Nội.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 38 - Sản xuất radio.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 39 - Mở rộng sản xuất radio.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 4 - Bán hàng đầu tiên.txt: 6.50 (weighted=92.20, cap=6.5) [HF: pad_markers]
+[PASS] Chương 40 - Hoàn thành nhiệm vụ radio.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 41 - Sản xuất quạt điện.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 43 - Sản xuất đèn điện.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 44 - Hoàn thành nhiệm vụ đèn.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 45 - Mở nhà hàng.txt: 10.00 (weighted=97.50, cap=10.0)
+[FAIL] Chương 46 - Mở nhà hàng Hà Nội.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 47 - Mở nhà hàng Sài Gòn.txt: 6.50 (weighted=94.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 48 - Đầu tư bất động sản.txt: 10.00 (weighted=88.50, cap=10.0)
+[PASS] Chương 49 - Mua đất miền Nam.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 5 - Mở rộng kinh doanh.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 50 - Cột mốc Chương 41–50.txt: 6.50 (weighted=94.80, cap=6.5) [HF: pad_markers]
+[PASS] Chương 51 - Mở chi nhánh Bắc Ninh.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 52 - Tuyển kỹ sư Minh.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 53 - Mở phòng khám.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt: 10.00 (weighted=97.00, cap=10.0)
+[PASS] Chương 56 - Minh qua chín mươi ngày thử việc.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 57 - Xây đội ngũ cốt lõi.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt: 10.00 (weighted=98.50, cap=10.0)
+[FAIL] Chương 59 - Mở chi nhánh Ninh Bình.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 6 - Tìm đối tác mới.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 61 - Sản xuất xe đạp.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 62 - Sản xuất máy cày.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 63 - Sản xuất máy gặt.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 64 - Mua 30 xe tải.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 65 - Mở rộng chi nhánh tài chính.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 66 - Mở rộng trường học.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 67 - Mở trường Sài Gòn.txt: 10.00 (weighted=100.00, cap=10.0)
+[FAIL] Chương 68 - Mở trung tâm đào tạo.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 69 - Mở rộng phòng khám.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 7 - Sửa nhà.txt: 10.00 (weighted=105.00, cap=10.0)
+[FAIL] Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[PASS] Chương 71 - Mở dịch vụ cho vay.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 72 - Mở rộng chi nhánh tài chính.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 73 - Hoàn thành nhiệm vụ cho vay.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 74 - Mở trường học tiếp.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 75 - Mở rộng trường học 30 trường.txt: 10.00 (weighted=98.50, cap=10.0)
+[PASS] Chương 76 - Mở rộng trung tâm đào tạo.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt: 10.00 (weighted=87.00, cap=10.0)
+[PASS] Chương 78 - Mở rộng phòng khám tiếp.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt: 10.00 (weighted=101.20, cap=10.0)
+[FAIL] Chương 8 - Mở rộng hàng hóa.txt: 6.50 (weighted=92.20, cap=6.5) [HF: pad_markers]
+[PASS] Chương 80 - Mở rộng công ty xây dựng.txt: 10.00 (weighted=105.00, cap=10.0)
+[PASS] Chương 81 - Mở rộng năng lượng nhà máy điện.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 83 - Mở rộng từ thiện quỹ.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt: 10.00 (weighted=102.50, cap=10.0)
+[PASS] Chương 86 - Mở rộng bảo hiểm.txt: 10.00 (weighted=97.20, cap=10.0)
+[PASS] Chương 87 - Sản xuất máy cày ra mắt.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 88 - Sản xuất máy gặt ra mắt.txt: 7.50 (weighted=88.50, cap=7.5) [HF: missing_system_panel]
+[PASS] Chương 89 - Tổng kết Phần 2.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 9 - Bán thuốc men.txt: 6.50 (weighted=100.00, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 90 - Bắt đầu Phần 3.txt: 6.50 (weighted=98.80, cap=6.5) [HF: pad_markers]
+[FAIL] Chương 91 - Sản xuất thép Hải Phòng.txt: 6.50 (weighted=102.50, cap=6.5) [HF: pad_markers]
+[PASS] Chương 92 - Sản xuất xi măng.txt: 10.00 (weighted=98.80, cap=10.0)
+[PASS] Chương 93 - Hùng gặp cô Hạnh.txt: 10.00 (weighted=98.80, cap=10.0)
+[FAIL] Chương 94 - Hùng gặp cô Mai và cô Lan.txt: 6.50 (weighted=96.20, cap=6.5) [HF: pad_markers]
+[PASS] Chương 95 - Hùng chọn cô Hạnh.txt: 10.00 (weighted=101.00, cap=10.0)
+[PASS] Chương 96 - Bà Hà bế cháu nội.txt: 10.00 (weighted=93.50, cap=10.0)
+[PASS] Chương 97 - Sản xuất điện tử.txt: 10.00 (weighted=101.20, cap=10.0)
+[PASS] Chương 98 - Sản xuất điện thoại.txt: 10.00 (weighted=101.00, cap=10.0)
+[FAIL] Chương 99 - Mở rộng viễn thông.txt: 6.50 (weighted=98.50, cap=6.5) [HF: pad_markers]
+
+TOTAL: 262/360 PASS ≥9.0
+AVG: 9.07
+JSON: _ai_reads/deterministic_v2_full_360ch.json
