@@ -1,0 +1,454 @@
+{
+  "results": [
+    {
+      "final": 6.5,
+      "weighted_raw": 8.75,
+      "cap": 6.5,
+      "passed": false,
+      "hard_fails": [
+        "anachronism=4"
+      ],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "PASS",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "FAIL",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "3/3=10.0",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "1/2=5.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 4972,
+        "chars": 23233,
+        "dialogue": 60,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 15.19,
+        "char_density": 4.18,
+        "has_panel": true,
+        "panel_year": 1983,
+        "prose_year": 1983,
+        "scene_breaks": 2,
+        "has_teaser": true
+      },
+      "file": "Chương 1 - Tỉnh lại.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 4608,
+        "chars": 21203,
+        "dialogue": 27,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 13.77,
+        "char_density": 2.41,
+        "has_panel": true,
+        "panel_year": 1985,
+        "prose_year": 1985,
+        "scene_breaks": 2,
+        "has_teaser": false
+      },
+      "file": "Chương 50 - Cột mốc Chương 41–50.txt"
+    },
+    {
+      "final": 6.5,
+      "weighted_raw": 8.25,
+      "cap": 6.5,
+      "passed": false,
+      "hard_fails": [
+        "anachronism=1"
+      ],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "FAIL",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "1/2=5.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 3752,
+        "chars": 17705,
+        "dialogue": 100,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 13.67,
+        "char_density": 2.6,
+        "has_panel": true,
+        "panel_year": 1988,
+        "prose_year": 1988,
+        "scene_breaks": 8,
+        "has_teaser": false
+      },
+      "file": "Chương 100 - Sản xuất phần mềm.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 4781,
+        "chars": 22440,
+        "dialogue": 95,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 12.61,
+        "char_density": 2.54,
+        "has_panel": true,
+        "panel_year": 1991,
+        "prose_year": 1991,
+        "scene_breaks": 3,
+        "has_teaser": false
+      },
+      "file": "Chương 150 - Văn Hùng tập trung vào Việt Nam.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 3706,
+        "chars": 17497,
+        "dialogue": 63,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 11.49,
+        "char_density": 2.29,
+        "has_panel": true,
+        "panel_year": 1993,
+        "prose_year": 1993,
+        "scene_breaks": 2,
+        "has_teaser": false
+      },
+      "file": "Chương 175 - Cảng container Hải Phòng.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 5543,
+        "chars": 26065,
+        "dialogue": 107,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 14.0,
+        "char_density": 5.06,
+        "has_panel": true,
+        "panel_year": 1995,
+        "prose_year": 1995,
+        "scene_breaks": 3,
+        "has_teaser": false
+      },
+      "file": "Chương 200 - Lễ kỷ niệm 10 năm.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "FAIL",
+        "cau_teaser_ok": "PASS",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 3701,
+        "chars": 17177,
+        "dialogue": 79,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 9.9,
+        "char_density": 2.62,
+        "has_panel": true,
+        "panel_year": 2010,
+        "prose_year": 2010,
+        "scene_breaks": 0,
+        "has_teaser": true
+      },
+      "file": "Chương 250 - Lan dẫn quỹ R&D.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 5350,
+        "chars": 25147,
+        "dialogue": 78,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 15.39,
+        "char_density": 5.41,
+        "has_panel": true,
+        "panel_year": 2014,
+        "prose_year": 2014,
+        "scene_breaks": 2,
+        "has_teaser": false
+      },
+      "file": "Chương 300 - Mở rộng từ thiện châu Á.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 4811,
+        "chars": 22564,
+        "dialogue": 188,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 10.86,
+        "char_density": 3.77,
+        "has_panel": true,
+        "panel_year": 2020,
+        "prose_year": 2008,
+        "scene_breaks": 3,
+        "has_teaser": false
+      },
+      "file": "Chương 340 - Vượt qua âm mưu.txt"
+    },
+    {
+      "final": 9.5,
+      "weighted_raw": 9.5,
+      "cap": 10.0,
+      "passed": true,
+      "hard_fails": [],
+      "criteria": {
+        "van_sensory_ok": "PASS",
+        "van_char_ok": "PASS",
+        "cau_words_ok": "PASS",
+        "cau_scene_ok": "PASS",
+        "cau_teaser_ok": "FAIL",
+        "nv_dialogue_ok": "PASS",
+        "cont_year_ok": "PASS",
+        "cont_anach_ok": "PASS",
+        "fill_pad_ok": "PASS",
+        "fill_maxrep_ok": "PASS",
+        "sys_panel_ok": "PASS",
+        "sys_year_ok": "PASS"
+      },
+      "axes": {
+        "van_chuong": "2/2=10.0",
+        "cau_truc": "2/3=6.7",
+        "nhan_vat": "1/1=10.0",
+        "continuity": "2/2=10.0",
+        "filler_pad": "2/2=10.0",
+        "he_thong": "2/2=10.0"
+      },
+      "metrics": {
+        "words": 5048,
+        "chars": 23479,
+        "dialogue": 68,
+        "maxrep": 1,
+        "pad_total": 0,
+        "sensory_density": 16.53,
+        "char_density": 4.51,
+        "has_panel": true,
+        "panel_year": 2023,
+        "prose_year": 2023,
+        "scene_breaks": 2,
+        "has_teaser": false
+      },
+      "file": "Chương 356 - Bữa tối gia đình.txt"
+    }
+  ],
+  "summary": {
+    "total": 10,
+    "passed": 8,
+    "avg": 8.9,
+    "threshold": 9.0
+  }
+}
