@@ -1,277 +1,269 @@
-===
-Chương 976: Mùa Đông Đến Sớm
-===
+============================================================
+Chương 976: Sổ Đen
+============================================================
 
-Ngày thứ 1176. Ánh nắng sớm lệch mái vừa chạm nóc trại Biên Ải.
-Phong mở mắt khi tiếng gió rít qua khe gỗ len vào giấc ngủ dở. Mùi đất ẩm quyện khói bếp. Hắn thở sâu, nắm chăn thô, siết rồi buông — cái lạnh buốt nhắc anh: còn sống là còn việc.
-Năm 629, đời Đường. Hắn là Lý Phong, mười bảy tuổi trong thân xác này, mang ký ức một kiếp khác. 『Kho Vô Hạn』lặng trong tâm — không ồn, chỉ chờ lệnh.
-Hôm nay thuộc arc_8_legacy: di sản và bình minh mới. Không được trượt.
+Ngày thứ 1096. Sáng mờ sương núi vừa chạm nóc trại Biên Ải đúng nhịp chương 976.
+Phong mở mắt khi tiếng lá xào len giấc ngủ dở. Mùi mưa sắp tới quyện khói bếp nồi 2.
+Hắn thở sâu, nắm chăn thô, siết rồi buông — lạnh buốt nhắc: còn sống là còn việc ngày 1096.
+Năm 635. Lý Phong mang ký ức kiếp khác; 『Kho Vô Hạn』lặng trong tâm, không ồn.
+Hôm nay mạch kết: hòa bình mong manh, di sản, bình minh. Không trượt. Không khoe. Không họp ồn giữa sân.
 
+Hòa bình mong manh: trẻ sinh trong rào; Hạt dạy xâu thẻ cho em nhỏ hơn đúng 7 thẻ.
 
----
-
-Canh 6, phía đông. Ngày thứ 1176, mốc 976.0.53b212. Ánh nắng sớm lệch mái.
-Mùi đất ẩm len vào mũi; tiếng gió rít qua khe gỗ. Phong cảm nhận lạnh buốt đầu ngón khi chạm cột gỗ số 11 (976.0.53b212).
-Phong đang sửa mái nhà kho. Mắt anh mở rồi nheo; cau siết chuôi dao đến trắng khớp — 976.0.53b212.
-"Trương Bá, báo cáo ngắn mã 976.0.53b212," Phong nói, giọng khàn. "Ta cần số liệu thật."
-Trương Bá nuốt đầu, nuốt khan: "Phía đông có 11 dấu chân lạ ở 976.0.53b212. Có thể là đám cướp núi."
-Lan liếc sổ, cau mày: "Nếu đúng canh 6, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.0.53b212."
-Phong gật. "Làm việc sửa mái nhà kho. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.0.53b212)."
-Họ bước quanh hàng rào phía đông. Tiếng gió rít qua khe gỗ tắt một nhịp tại cột 11 (976.0.53b212).
-Phong cúi kiểm vết đất, mắt run nhẹ rồi vững. Mùi đất ẩm nồng góc đông — ghi 976.0.53b212.
-"Lan, sổ đen 976.0.53b212," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
-Trương Bá cười gượng, rồi khóc nuối một giây ở canh 6 — rồi siết tay (976.0.53b212).
-Công việc sửa mái nhà kho tiếp tục. Chỉ mắt, cau, nuốt — nhịp sống cảnh 976.0.53b212.
-(khóa 53b212dbdb)
+Hà dậy trước, gõ mu bàn tay anh: "Buông chăn. Trong còn giả nghèo — đống 4."
+Anh buông. Xuống sân. Việc. Mềm lớp rơm còn vương lan can tháp ca 1.
 
 
 ---
 
-Canh 11, phía tây. Ngày thứ 1176, mốc 976.1.e82714. Ánh đèn dầu mờ.
-Mùi khói rơm len vào mũi; tiếng dế nỉ non. Hà cảm nhận ấm lòng bàn tay khi chạm cột gỗ số 19 (976.1.e82714).
-Hà đang lập sơ đồ đường rút. Tay anh mở rồi nheo; nhíu siết chuôi dao đến trắng khớp — 976.1.e82714.
-"Tiểu Mai, báo cáo ngắn mã 976.1.e82714," Hà nói, giọng khàn. "Ta cần số liệu thật."
-Tiểu Mai liếc đầu, nuốt khan: "Phía tây có 19 dấu chân lạ ở 976.1.e82714. Có thể là zombie lang thang."
-Minh liếc sổ, cau mày: "Nếu đúng canh 11, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.1.e82714."
-Hà gật. "Làm việc lập sơ đồ đường rút. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.1.e82714)."
-Họ bước quanh hàng rào phía tây. Tiếng dế nỉ non tắt một nhịp tại cột 19 (976.1.e82714).
-Hà cúi kiểm vết đất, tay run nhẹ rồi vững. Mùi khói rơm nồng góc tây — ghi 976.1.e82714.
-"Minh, sổ đen 976.1.e82714," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
-Tiểu Mai cười gượng, rồi khóc nuối một giây ở canh 11 — rồi siết tay (976.1.e82714).
-Công việc lập sơ đồ đường rút tiếp tục. Chỉ tay, nhíu, liếc — nhịp sống cảnh 976.1.e82714.
-(khóa e82714207d)
+Canh 4, phía đông, ngày thứ 1096, lớp cảnh 1. Sáng mờ sương núi chạm mắt.
+Mùi mưa sắp tới len mũi Mạc Tư; tiếng lá xào lệch nhịp 13. Mạc Tư cảm nhận mềm lớp rơm khi sờ gỗ — cột số 9.
+Mạc Tư đang lập sơ đồ đường rút ở góc đông. Siết rồi ngẩng; chuôi dao trắng khớp vì siết quá mức lần 1.
+"Tôn Vũ, báo cáo ngắn lớp 1 ngày 1096," Mạc Tư nói khàn. "Số liệu thật — không đẹp, không đoán."
+Tôn Vũ nuốt: "Phía đông có 13 dấu. Nghi đoàn đo thuế. Chưa vào chông. Mã quan sát 452."
+A Cường liếc sổ, cau: "Nếu canh 4 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 1."
+Mạc Tư gật: "Làm lập sơ đồ đường rút. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào đông. Tiếng lá xào tắt tại cột 13. Mùi mưa sắp tới nồng góc đông hơn canh trước.
+Mạc Tư cúi đất, siết run rồi vững. Có thể đoàn đo thuế đã qua — hoặc gió giỡn. Ghi than vạch 976.0.
+"A Cường, sổ đen lớp 1," Mạc Tư thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Tôn Vũ cười gượng nửa nhịp ở canh 4, rồi siết tay Mạc Tư. Việc lập sơ đồ đường rút chạy tiếp dưới sáng mờ sương núi.
+Xa, thây rên lệch phách 2 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học.
+Biên Ải giả không biết bằng vai Mạc Tư còn lập sơ đồ đường rút, bằng mắt Tôn Vũ còn đếm, bằng miệng A Cường còn im.
+Tôn Vũ thổi bụi sắt mẻ 0; mắt không rời đường hàn số 13.
+Trên gò đông lớp 1, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn lập sơ đồ đường rút, vẫn im miệng.
 
 
 ---
 
-Canh 9, phía nam. Ngày thứ 1176, mốc 976.2.c00d3a. Nắng chiều vàng rụng.
-Mùi tanh nhẹ từ hướng rừng len vào mũi; tiếng gỗ kêu răng rắc. Lan cảm nhận nhám mặt cột hàng rào khi chạm cột gỗ số 5 (976.2.c00d3a).
-Lan đang gia cố hàng rào. Cười anh mở rồi nheo; run siết chuôi dao đến trắng khớp — 976.2.c00d3a.
-"Lông, báo cáo ngắn mã 976.2.c00d3a," Lan nói, giọng khàn. "Ta cần số liệu thật."
-Lông cúi đầu, nuốt khan: "Phía nam có 5 dấu chân lạ ở 976.2.c00d3a. Có thể là nội gián."
-Phong liếc sổ, cau mày: "Nếu đúng canh 9, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.2.c00d3a."
-Lan gật. "Làm việc gia cố hàng rào. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.2.c00d3a)."
-Họ bước quanh hàng rào phía nam. Tiếng gỗ kêu răng rắc tắt một nhịp tại cột 5 (976.2.c00d3a).
-Lan cúi kiểm vết đất, cười run nhẹ rồi vững. Mùi tanh nhẹ từ hướng rừng nồng góc nam — ghi 976.2.c00d3a.
-"Phong, sổ đen 976.2.c00d3a," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
-Lông cười gượng, rồi khóc nuối một giây ở canh 9 — rồi siết tay (976.2.c00d3a).
-Công việc gia cố hàng rào tiếp tục. Chỉ cười, run, cúi — nhịp sống cảnh 976.2.c00d3a.
-(khóa c00d3a3069)
+Canh 10, phía tây, ngày thứ 1096, lớp cảnh 2. Bóng tháp dài chạm tay.
+Mùi thóc lép len mũi Tôn Vũ; tiếng trẻ vỗ tay lệch nhịp 6. Tôn Vũ cảm nhận nóng lưng phơi khi sờ gỗ — canh 8.
+Tôn Vũ đang phơi vải ở góc tây. Buông rồi liếc; chuôi dao trắng khớp vì siết quá mức lần 2.
+"Từ Sơn, báo cáo ngắn lớp 2 ngày 1096," Tôn Vũ nói khàn. "Số liệu thật — không đẹp, không đoán."
+Từ Sơn nuốt: "Phía tây có 6 dấu. Nghi thây dồn. Chưa vào chông. Mã quan sát 561."
+Cúc liếc sổ, cau: "Nếu canh 10 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 2."
+Tôn Vũ gật: "Làm phơi vải. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào tây. Tiếng trẻ vỗ tay tắt tại cột 6. Mùi thóc lép nồng góc tây hơn canh trước.
+Tôn Vũ cúi đất, buông run rồi vững. Có thể thây dồn đã qua — hoặc gió giỡn. Ghi than vạch 976.1.
+"Cúc, sổ đen lớp 2," Tôn Vũ thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Từ Sơn cười gượng nửa nhịp ở canh 10, rồi siết tay Tôn Vũ. Việc phơi vải chạy tiếp dưới bóng tháp dài.
+Xa, thây rên lệch phách 3 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học.
+Biên Ải giả không biết bằng vai Tôn Vũ còn phơi vải, bằng mắt Từ Sơn còn đếm, bằng miệng Cúc còn im.
+A Cường rà chỉ nút 2; xô nhẹ, tay thô, không tay thợ — ghi, không sửa.
+Trên gò tây lớp 2, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn phơi vải, vẫn im miệng.
 
 
 ---
 
-Canh 3, phía bắc. Ngày thứ 1176, mốc 976.3.e3c962. Bóng người dài trên sân.
-Mùi cháo nóng len vào mũi; tiếng bước chân ca gác. Minh cảm nhận rát lòng bàn tay vì kéo dây khi chạm cột gỗ số 16 (976.3.e3c962).
-Minh đang huấn luyện đội gác. Khóc anh mở rồi nheo; thở siết chuôi dao đến trắng khớp — 976.3.e3c962.
-"Lý Lão, báo cáo ngắn mã 976.3.e3c962," Minh nói, giọng khàn. "Ta cần số liệu thật."
-Lý Lão ngẩng đầu, nuốt khan: "Phía bắc có 16 dấu chân lạ ở 976.3.e3c962. Có thể là thương đoàn lạ."
-Hà liếc sổ, cau mày: "Nếu đúng canh 3, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.3.e3c962."
-Minh gật. "Làm việc huấn luyện đội gác. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.3.e3c962)."
-Họ bước quanh hàng rào phía bắc. Tiếng bước chân ca gác tắt một nhịp tại cột 16 (976.3.e3c962).
-Minh cúi kiểm vết đất, khóc run nhẹ rồi vững. Mùi cháo nóng nồng góc bắc — ghi 976.3.e3c962.
-"Hà, sổ đen 976.3.e3c962," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
-Lý Lão cười gượng, rồi khóc nuối một giây ở canh 3 — rồi siết tay (976.3.e3c962).
-Công việc huấn luyện đội gác tiếp tục. Chỉ khóc, thở, ngẩng — nhịp sống cảnh 976.3.e3c962.
-(khóa e3c9622207)
+Canh 11, phía nam, ngày thứ 1096, lớp cảnh 3. Nắng chiều vàng rụng chạm vai.
+Mùi tanh nhẹ từ rừng len mũi A Cường; tiếng gỗ kêu răng rắc lệch nhịp 16. A Cường cảm nhận nhám mặt cột khi sờ gỗ — vạch sổ 28.
+A Cường đang chôn vôi thây ở góc nam. Cúi rồi gật; chuôi dao trắng khớp vì siết quá mức lần 3.
+"Thị Liên, báo cáo ngắn lớp 3 ngày 1096," A Cường nói khàn. "Số liệu thật — không đẹp, không đoán."
+Thị Liên nuốt: "Phía nam có 16 dấu. Nghi đám cướp núi. Chưa vào chông. Mã quan sát 168."
+Đại Lực liếc sổ, cau: "Nếu canh 11 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 3."
+A Cường gật: "Làm chôn vôi thây. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào nam. Tiếng gỗ kêu răng rắc tắt tại cột 16. Mùi tanh nhẹ từ rừng nồng góc nam hơn canh trước.
+A Cường cúi đất, cúi run rồi vững. Có thể đám cướp núi đã qua — hoặc gió giỡn. Ghi than vạch 976.2.
+"Đại Lực, sổ đen lớp 3," A Cường thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Thị Liên cười gượng nửa nhịp ở canh 11, rồi siết tay A Cường. Việc chôn vôi thây chạy tiếp dưới nắng chiều vàng rụng.
+Xa, thây rên lệch phách 4 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học.
+Biên Ải giả không biết bằng vai A Cường còn chôn vôi thây, bằng mắt Thị Liên còn đếm, bằng miệng Đại Lực còn im.
+Thị Liên vá bao góc nam; mắt không liếc cổng quá ba nhịp thở.
+Trên gò nam lớp 3, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn chôn vôi thây, vẫn im miệng.
 
 
 ---
 
-Canh 8, phía đông. Ngày thứ 1176, mốc 976.4.d8483e. Ánh lửa bếp nhảy.
-Mùi cỏ mới cắt len vào mũi; tiếng nước giếng tuôn. Phong cảm nhận trơn sương mai trên bậc cửa khi chạm cột gỗ số 9 (976.4.d8483e).
-Phong đang mài vũ khí. Gật anh mở rồi nheo; nuốt siết chuôi dao đến trắng khớp — 976.4.d8483e.
-"Tôn Vũ, báo cáo ngắn mã 976.4.d8483e," Phong nói, giọng khàn. "Ta cần số liệu thật."
-Tôn Vũ nắm đầu, nuốt khan: "Phía đông có 9 dấu chân lạ ở 976.4.d8483e. Có thể là Vương Tử Kính."
-Lan liếc sổ, cau mày: "Nếu đúng canh 8, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.4.d8483e."
-Phong gật. "Làm việc mài vũ khí. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.4.d8483e)."
-Họ bước quanh hàng rào phía đông. Tiếng nước giếng tuôn tắt một nhịp tại cột 9 (976.4.d8483e).
-Phong cúi kiểm vết đất, gật run nhẹ rồi vững. Mùi cỏ mới cắt nồng góc đông — ghi 976.4.d8483e.
-"Lan, sổ đen 976.4.d8483e," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
-Tôn Vũ cười gượng, rồi khóc nuối một giây ở canh 8 — rồi siết tay (976.4.d8483e).
-Công việc mài vũ khí tiếp tục. Chỉ gật, nuốt, nắm — nhịp sống cảnh 976.4.d8483e.
-(khóa d8483e55f2)
+Canh 6, phía bắc, ngày thứ 1096, lớp cảnh 4. Ánh trăng lạnh chạm gáy.
+Mùi sắt mồ hôi len mũi Hữu; tiếng búa nhịp lệch nhịp 15. Hữu cảm nhận cứng mũi giáo khi sờ gỗ — bao thứ 3.
+Hữu đang siết khẩu phần ở góc bắc. Ngẩng rồi cau; chuôi dao trắng khớp vì siết quá mức lần 4.
+"Đại Lực, báo cáo ngắn lớp 4 ngày 1096," Hữu nói khàn. "Số liệu thật — không đẹp, không đoán."
+Đại Lực nuốt: "Phía bắc có 15 dấu. Nghi zombie tiến hóa. Chưa vào chông. Mã quan sát 278."
+Khuyển liếc sổ, cau: "Nếu canh 6 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 4."
+Hữu gật: "Làm siết khẩu phần. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào bắc. Tiếng búa nhịp tắt tại cột 15. Mùi sắt mồ hôi nồng góc bắc hơn canh trước.
+Hữu cúi đất, ngẩng run rồi vững. Có thể zombie tiến hóa đã qua — hoặc gió giỡn. Ghi than vạch 976.3.
+"Khuyển, sổ đen lớp 4," Hữu thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Đại Lực cười gượng nửa nhịp ở canh 6, rồi siết tay Hữu. Việc siết khẩu phần chạy tiếp dưới ánh trăng lạnh.
+Xa, thây rên lệch phách 5 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học.
+Biên Ải giả không biết bằng vai Hữu còn siết khẩu phần, bằng mắt Đại Lực còn đếm, bằng miệng Khuyển còn im.
+Hà trên tháp ra 2 ngón — mã riêng canh 6, không trùng hôm qua.
+Trên gò bắc lớp 4, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn siết khẩu phần, vẫn im miệng.
 
 
 ---
 
-Canh 12, phía tây. Ngày thứ 1176, mốc 976.5.d4d9a8. Ánh trăng lạnh.
-Mùi sắt và mồ hôi len vào mũi; tiếng búa đập nhịp. Hà cảm nhận cứng mũi giáo khi siết khi chạm cột gỗ số 5 (976.5.d4d9a8).
-Hà đang sửa mái nhà kho. Cau anh mở rồi nheo; liếc siết chuôi dao đến trắng khớp — 976.5.d4d9a8.
-"Từ Sơn, báo cáo ngắn mã 976.5.d4d9a8," Hà nói, giọng khàn. "Ta cần số liệu thật."
-Từ Sơn buông đầu, nuốt khan: "Phía tây có 5 dấu chân lạ ở 976.5.d4d9a8. Có thể là đám cướp núi."
-Minh liếc sổ, cau mày: "Nếu đúng canh 12, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.5.d4d9a8."
-Hà gật. "Làm việc sửa mái nhà kho. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.5.d4d9a8)."
-Họ bước quanh hàng rào phía tây. Tiếng búa đập nhịp tắt một nhịp tại cột 5 (976.5.d4d9a8).
-Hà cúi kiểm vết đất, cau run nhẹ rồi vững. Mùi sắt và mồ hôi nồng góc tây — ghi 976.5.d4d9a8.
-"Minh, sổ đen 976.5.d4d9a8," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
-Từ Sơn cười gượng, rồi khóc nuối một giây ở canh 12 — rồi siết tay (976.5.d4d9a8).
-Công việc sửa mái nhà kho tiếp tục. Chỉ cau, liếc, buông — nhịp sống cảnh 976.5.d4d9a8.
-(khóa d4d9a807aa)
+Canh 7, phía đông, ngày thứ 1096, lớp cảnh 5. Nắng mỏng gò chạm lưng.
+Mùi vôi len mũi Hứa; tiếng xẻng đất lệch nhịp 2. Hứa cảm nhận ướt sương chông khi sờ gỗ — chông lệch 5.
+Hứa đang giả nghèo giữa sân ở góc đông. Liếc rồi nhíu; chuôi dao trắng khớp vì siết quá mức lần 5.
+"Hữu, báo cáo ngắn lớp 5 ngày 1096," Hứa nói khàn. "Số liệu thật — không đẹp, không đoán."
+Hữu nuốt: "Phía đông có 2 dấu. Nghi kẻ phá cọc. Chưa vào chông. Mã quan sát 635."
+A Minh liếc sổ, cau: "Nếu canh 7 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 1."
+Hứa gật: "Làm giả nghèo giữa sân. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào đông. Tiếng xẻng đất tắt tại cột 2. Mùi vôi nồng góc đông hơn canh trước.
+Hứa cúi đất, liếc run rồi vững. Có thể kẻ phá cọc đã qua — hoặc gió giỡn. Ghi than vạch 976.4.
+"A Minh, sổ đen lớp 5," Hứa thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Hữu cười gượng nửa nhịp ở canh 7, rồi siết tay Hứa. Việc giả nghèo giữa sân chạy tiếp dưới nắng mỏng gò.
+Xa, thây rên lệch phách 1 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học.
+Biên Ải giả không biết bằng vai Hứa còn giả nghèo giữa sân, bằng mắt Hữu còn đếm, bằng miệng A Minh còn im.
+Khuyển ho vào tay áo lần 5, vẫn chỉ: nhìn đường đông, không nhìn nỗi sợ.
+Trên gò đông lớp 5, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn giả nghèo giữa sân, vẫn im miệng.
 
 
 ---
 
-Canh 8, phía nam. Ngày thứ 1176, mốc 976.6.6e41a0. Sáng mờ sương núi.
-Mùi mưa sắp tới len vào mũi; tiếng lá xào xạc. Lan cảm nhận mềm lớp rơm dưới chân khi chạm cột gỗ số 8 (976.6.6e41a0).
-Lan đang lập sơ đồ đường rút. Nhíu anh mở rồi nheo; cúi siết chuôi dao đến trắng khớp — 976.6.6e41a0.
-"A Cường, báo cáo ngắn mã 976.6.6e41a0," Lan nói, giọng khàn. "Ta cần số liệu thật."
-A Cường siết đầu, nuốt khan: "Phía nam có 8 dấu chân lạ ở 976.6.6e41a0. Có thể là zombie lang thang."
-Phong liếc sổ, cau mày: "Nếu đúng canh 8, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.6.6e41a0."
-Lan gật. "Làm việc lập sơ đồ đường rút. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.6.6e41a0)."
-Họ bước quanh hàng rào phía nam. Tiếng lá xào xạc tắt một nhịp tại cột 8 (976.6.6e41a0).
-Lan cúi kiểm vết đất, nhíu run nhẹ rồi vững. Mùi mưa sắp tới nồng góc nam — ghi 976.6.6e41a0.
-"Phong, sổ đen 976.6.6e41a0," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
-A Cường cười gượng, rồi khóc nuối một giây ở canh 8 — rồi siết tay (976.6.6e41a0).
-Công việc lập sơ đồ đường rút tiếp tục. Chỉ nhíu, cúi, siết — nhịp sống cảnh 976.6.6e41a0.
-(khóa 6e41a037c7)
+Canh 10, phía tây, ngày thứ 1096, lớp cảnh 6. Ánh đèn dầu mờ chạm gót.
+Mùi khói rơm len mũi Khuyển; tiếng dế nỉ non lệch nhịp 9. Khuyển cảm nhận ấm lòng bàn tay khi sờ gỗ — bước thứ 63.
+Khuyển đang đảo thóc lép ở góc tây. Gật rồi thở; chuôi dao trắng khớp vì siết quá mức lần 6.
+"chú Bát, báo cáo ngắn lớp 6 ngày 1096," Khuyển nói khàn. "Số liệu thật — không đẹp, không đoán."
+chú Bát nuốt: "Phía tây có 9 dấu. Nghi Hàn Nguyệt. Chưa vào chông. Mã quan sát 628."
+Tôn Vũ liếc sổ, cau: "Nếu canh 10 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 2."
+Khuyển gật: "Làm đảo thóc lép. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào tây. Tiếng dế nỉ non tắt tại cột 9. Mùi khói rơm nồng góc tây hơn canh trước.
+Khuyển cúi đất, gật run rồi vững. Có thể Hàn Nguyệt đã qua — hoặc gió giỡn. Ghi than vạch 976.5.
+"Tôn Vũ, sổ đen lớp 6," Khuyển thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+chú Bát cười gượng nửa nhịp ở canh 10, rồi siết tay Khuyển. Việc đảo thóc lép chạy tiếp dưới ánh đèn dầu mờ.
+Xa, thây rên lệch phách 2 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học. [2]
+Biên Ải giả không biết bằng vai Khuyển còn đảo thóc lép, bằng mắt chú Bát còn đếm, bằng miệng Tôn Vũ còn im.
+Hứa mài dao rít ngắn mẻ 9; lưỡi sáng đủ, không khoe nắng.
+Trên gò tây lớp 6, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn đảo thóc lép, vẫn im miệng.
 
 
 ---
 
-Canh 9, phía bắc. Ngày thứ 1176, mốc 976.7.6f9833. Tối om góc kho.
-Mùi thuốc thảo len vào mũi; tiếng cửa kẹt. Minh cảm nhận khô cổ họng vì gác đêm khi chạm cột gỗ số 14 (976.7.6f9833).
-Minh đang gia cố hàng rào. Run anh mở rồi nheo; ngẩng siết chuôi dao đến trắng khớp — 976.7.6f9833.
-"Đại, báo cáo ngắn mã 976.7.6f9833," Minh nói, giọng khàn. "Ta cần số liệu thật."
-Đại mắt đầu, nuốt khan: "Phía bắc có 14 dấu chân lạ ở 976.7.6f9833. Có thể là nội gián."
-Hà liếc sổ, cau mày: "Nếu đúng canh 9, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.7.6f9833."
-Minh gật. "Làm việc gia cố hàng rào. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.7.6f9833)."
-Họ bước quanh hàng rào phía bắc. Tiếng cửa kẹt tắt một nhịp tại cột 14 (976.7.6f9833).
-Minh cúi kiểm vết đất, run run nhẹ rồi vững. Mùi thuốc thảo nồng góc bắc — ghi 976.7.6f9833.
-"Hà, sổ đen 976.7.6f9833," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
-Đại cười gượng, rồi khóc nuối một giây ở canh 9 — rồi siết tay (976.7.6f9833).
-Công việc gia cố hàng rào tiếp tục. Chỉ run, ngẩng, mắt — nhịp sống cảnh 976.7.6f9833.
-(khóa 6f9833b6b7)
+Canh 9, phía nam, ngày thứ 1096, lớp cảnh 7. Ánh lửa bếp nhảy chạm cổ.
+Mùi cỏ cắt len mũi Từ Sơn; tiếng nước giếng lệch nhịp 3. Từ Sơn cảm nhận trơn sương bậc cửa khi sờ gỗ — nút dây 7 hướng nam.
+Từ Sơn đang mài giáo ở góc nam. Cau rồi nuốt; chuôi dao trắng khớp vì siết quá mức lần 7.
+"Già Thạch, báo cáo ngắn lớp 7 ngày 1096," Từ Sơn nói khàn. "Số liệu thật — không đẹp, không đoán."
+Già Thạch nuốt: "Phía nam có 3 dấu. Nghi băng giá thây. Chưa vào chông. Mã quan sát 189."
+chú Bát liếc sổ, cau: "Nếu canh 9 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 3."
+Từ Sơn gật: "Làm mài giáo. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào nam. Tiếng nước giếng tắt tại cột 3. Mùi cỏ cắt nồng góc nam hơn canh trước.
+Từ Sơn cúi đất, cau run rồi vững. Có thể băng giá thây đã qua — hoặc gió giỡn. Ghi than vạch 976.6.
+"chú Bát, sổ đen lớp 7," Từ Sơn thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Già Thạch cười gượng nửa nhịp ở canh 9, rồi siết tay Từ Sơn. Việc mài giáo chạy tiếp dưới ánh lửa bếp nhảy.
+Xa, thây rên lệch phách 3 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học. [2]
+Biên Ải giả không biết bằng vai Từ Sơn còn mài giáo, bằng mắt Già Thạch còn đếm, bằng miệng chú Bát còn im.
+Già Thạch (tin truyền): khói khe đá loãng mức 3; liên minh còn thở.
+Trên gò nam lớp 7, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn mài giáo, vẫn im miệng.
 
 
 ---
 
-Canh 7, phía đông. Ngày thứ 1176, mốc 976.8.52a07d. Ánh nắng sớm lệch mái.
-Mùi đất ẩm len vào mũi; tiếng gió rít qua khe gỗ. Phong cảm nhận lạnh buốt đầu ngón khi chạm cột gỗ số 6 (976.8.52a07d).
-Phong đang huấn luyện đội gác. Thở anh mở rồi nheo; nắm siết chuôi dao đến trắng khớp — 976.8.52a07d.
-"Trương Bá, báo cáo ngắn mã 976.8.52a07d," Phong nói, giọng khàn. "Ta cần số liệu thật."
-Trương Bá tay đầu, nuốt khan: "Phía đông có 6 dấu chân lạ ở 976.8.52a07d. Có thể là thương đoàn lạ."
-Lan liếc sổ, cau mày: "Nếu đúng canh 7, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.8.52a07d."
-Phong gật. "Làm việc huấn luyện đội gác. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.8.52a07d)."
-Họ bước quanh hàng rào phía đông. Tiếng gió rít qua khe gỗ tắt một nhịp tại cột 6 (976.8.52a07d).
-Phong cúi kiểm vết đất, thở run nhẹ rồi vững. Mùi đất ẩm nồng góc đông — ghi 976.8.52a07d.
-"Lan, sổ đen 976.8.52a07d," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
-Trương Bá cười gượng, rồi khóc nuối một giây ở canh 7 — rồi siết tay (976.8.52a07d).
-Công việc huấn luyện đội gác tiếp tục. Chỉ thở, nắm, tay — nhịp sống cảnh 976.8.52a07d.
-(khóa 52a07d2043)
+Canh 12, phía bắc, ngày thứ 1096, lớp cảnh 8. Tối om góc kho chạm trán.
+Mùi thuốc thảo len mũi Triệu Vũ; tiếng cửa kẹt lệch nhịp 2. Triệu Vũ cảm nhận khô cổ họng gác đêm khi sờ gỗ — hòn đá đánh dấu 6.
+Triệu Vũ đang dạy trẻ tín hiệu tay ở góc bắc. Nhíu rồi cười; chuôi dao trắng khớp vì siết quá mức lần 8.
+"Mạc Tư, báo cáo ngắn lớp 8 ngày 1096," Triệu Vũ nói khàn. "Số liệu thật — không đẹp, không đoán."
+Mạc Tư nuốt: "Phía bắc có 2 dấu. Nghi Lưu Hựu. Chưa vào chông. Mã quan sát 929."
+Hà liếc sổ, cau: "Nếu canh 12 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 4."
+Triệu Vũ gật: "Làm dạy trẻ tín hiệu tay. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào bắc. Tiếng cửa kẹt tắt tại cột 2. Mùi thuốc thảo nồng góc bắc hơn canh trước.
+Triệu Vũ cúi đất, nhíu run rồi vững. Có thể Lưu Hựu đã qua — hoặc gió giỡn. Ghi than vạch 976.7.
+"Hà, sổ đen lớp 8," Triệu Vũ thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Mạc Tư cười gượng nửa nhịp ở canh 12, rồi siết tay Triệu Vũ. Việc dạy trẻ tín hiệu tay chạy tiếp dưới tối om góc kho.
+Xa, thây rên lệch phách 4 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học. [2]
+Biên Ải giả không biết bằng vai Triệu Vũ còn dạy trẻ tín hiệu tay, bằng mắt Mạc Tư còn đếm, bằng miệng Hà còn im.
+Mạc Tư gạch khẩu phần dòng 1096.7; vạch nhỏ, bụng cả trại theo đó.
+Trên gò bắc lớp 8, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn dạy trẻ tín hiệu tay, vẫn im miệng.
 
 
 ---
 
-Canh 12, phía tây. Ngày thứ 1176, mốc 976.9.962cdb. Ánh đèn dầu mờ.
-Mùi khói rơm len vào mũi; tiếng dế nỉ non. Hà cảm nhận ấm lòng bàn tay khi chạm cột gỗ số 10 (976.9.962cdb).
-Hà đang mài vũ khí. Nuốt anh mở rồi nheo; buông siết chuôi dao đến trắng khớp — 976.9.962cdb.
-"Tiểu Mai, báo cáo ngắn mã 976.9.962cdb," Hà nói, giọng khàn. "Ta cần số liệu thật."
-Tiểu Mai cười đầu, nuốt khan: "Phía tây có 10 dấu chân lạ ở 976.9.962cdb. Có thể là Vương Tử Kính."
-Minh liếc sổ, cau mày: "Nếu đúng canh 12, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.9.962cdb."
-Hà gật. "Làm việc mài vũ khí. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.9.962cdb)."
-Họ bước quanh hàng rào phía tây. Tiếng dế nỉ non tắt một nhịp tại cột 10 (976.9.962cdb).
-Hà cúi kiểm vết đất, nuốt run nhẹ rồi vững. Mùi khói rơm nồng góc tây — ghi 976.9.962cdb.
-"Minh, sổ đen 976.9.962cdb," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
-Tiểu Mai cười gượng, rồi khóc nuối một giây ở canh 12 — rồi siết tay (976.9.962cdb).
-Công việc mài vũ khí tiếp tục. Chỉ nuốt, buông, cười — nhịp sống cảnh 976.9.962cdb.
-(khóa 962cdb6f9a)
+Canh 5, phía đông, ngày thứ 1096, lớp cảnh 9. Ánh nắng lệch mái chạm mắt.
+Mùi đất ẩm len mũi chú Bát; tiếng gió rít khe gỗ lệch nhịp 14. chú Bát cảm nhận lạnh buốt đầu ngón khi sờ gỗ — cột số 17.
+chú Bát đang hun móc sắt ở góc đông. Thở rồi khóc; chuôi dao trắng khớp vì siết quá mức lần 9.
+"Khuyển, báo cáo ngắn lớp 9 ngày 1096," chú Bát nói khàn. "Số liệu thật — không đẹp, không đoán."
+Khuyển nuốt: "Phía đông có 14 dấu. Nghi bóng đo trên gò. Chưa vào chông. Mã quan sát 664."
+Hứa liếc sổ, cau: "Nếu canh 5 đúng — ca đêm dày. Trẻ vào nhà. Lệnh từ tháp số 1."
+chú Bát gật: "Làm hun móc sắt. Ai lơ là đổi ca. Lớn thầm không lỏng — nhớ mốc ngày 1096."
+Họ bước hàng rào đông. Tiếng gió rít khe gỗ tắt tại cột 14. Mùi đất ẩm nồng góc đông hơn canh trước.
+chú Bát cúi đất, thở run rồi vững. Có thể bóng đo trên gò đã qua — hoặc gió giỡn. Ghi than vạch 976.8.
+"Hứa, sổ đen lớp 9," chú Bát thở. "Mai họp lớp ba mang ra. Không họp sân. Không ồn."
+Khuyển cười gượng nửa nhịp ở canh 5, rồi siết tay chú Bát. Việc hun móc sắt chạy tiếp dưới ánh nắng lệch mái.
+Xa, thây rên lệch phách 5 — tốt hơn nhịp đều. Nhịp đều nghĩa là chúng học. [2]
+Biên Ải giả không biết bằng vai chú Bát còn hun móc sắt, bằng mắt Khuyển còn đếm, bằng miệng Hứa còn im.
+Lưu Diễm kiểm mạch miệng mới số 14; lắc đầu: chưa sốt, cách ly đến canh 6.
+Trên gò đông lớp 9, bóng đo vắng hoặc núp; trại vẫn đảo bao, vẫn hun móc sắt, vẫn im miệng.
 
 
 ---
 
-Canh 10, phía nam. Ngày thứ 1176, mốc 976.10.c9aa78. Nắng chiều vàng rụng.
-Mùi tanh nhẹ từ hướng rừng len vào mũi; tiếng gỗ kêu răng rắc. Lan cảm nhận nhám mặt cột hàng rào khi chạm cột gỗ số 7 (976.10.c9aa78).
-Lan đang sửa mái nhà kho. Liếc anh mở rồi nheo; siết siết chuôi dao đến trắng khớp — 976.10.c9aa78.
-"Lông, báo cáo ngắn mã 976.10.c9aa78," Lan nói, giọng khàn. "Ta cần số liệu thật."
-Lông khóc đầu, nuốt khan: "Phía nam có 7 dấu chân lạ ở 976.10.c9aa78. Có thể là đám cướp núi."
-Phong liếc sổ, cau mày: "Nếu đúng canh 10, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.10.c9aa78."
-Lan gật. "Làm việc sửa mái nhà kho. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.10.c9aa78)."
-Họ bước quanh hàng rào phía nam. Tiếng gỗ kêu răng rắc tắt một nhịp tại cột 7 (976.10.c9aa78).
-Lan cúi kiểm vết đất, liếc run nhẹ rồi vững. Mùi tanh nhẹ từ hướng rừng nồng góc nam — ghi 976.10.c9aa78.
-"Phong, sổ đen 976.10.c9aa78," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
-Lông cười gượng, rồi khóc nuối một giây ở canh 10 — rồi siết tay (976.10.c9aa78).
-Công việc sửa mái nhà kho tiếp tục. Chỉ liếc, siết, khóc — nhịp sống cảnh 976.10.c9aa78.
-(khóa c9aa78dd3c)
+Giữa ngày thứ 1096, phía nam nổi tiếng trẻ vỗ tay. Mùi thóc lép. Mã động 517.
+A Minh tín hiệu cổng: nắm đấm — im — hai ngón. Có động lớp giữa chương 976.
+Đại Lực cầm giáo mẻ 2. Tôn Vũ cầm móc hun khuya qua. Hà tháp không hô — chỉ hướng nam.
+Phong không mở cổng. Tổ đông ra hào trong; chông lệch thiết kế số 2.
+Bóng thây mờ sau bụi nam. Không lao. Đo. Nhìn. Thèm. Đáng sợ hơn lao.
+"Không bắt trừ khi vào chông," Phong nói đủ lớp gần. "Vào chông là chúng chọn chết ngày 1096."
+Hữu nuốt: "Em run lần 3. Nhưng em đứng gò nam."
+"Đứng là được," Hà từ tháp. "Run mà đứng còn hơn dũng mà lao — nhớ lần trước."
+Nửa khắc. Bóng tháp dài lệch góc nam. Bóng lui hoặc núp. Chông không máu lần này.
+Phong thở: "Ghi sổ động nam. Không vui sớm. Lui cũng là cách đo ta — vạch 976."
+Mạc Tư tíc sổ miệng: động nam, không giao tranh, khẩu phần loãng giữ mẫu 1.
+Nóng lưng phơi. Vai lỏng một tấc rồi siết khi thây xa rên phách 2.
 
 
 ---
 
-Canh 8, phía bắc. Ngày thứ 1176, mốc 976.11.073ca1. Bóng người dài trên sân.
-Mùi cháo nóng len vào mũi; tiếng bước chân ca gác. Minh cảm nhận rát lòng bàn tay vì kéo dây khi chạm cột gỗ số 19 (976.11.073ca1).
-Minh đang lập sơ đồ đường rút. Cúi anh mở rồi nheo; mắt siết chuôi dao đến trắng khớp — 976.11.073ca1.
-"Lý Lão, báo cáo ngắn mã 976.11.073ca1," Minh nói, giọng khàn. "Ta cần số liệu thật."
-Lý Lão gật đầu, nuốt khan: "Phía bắc có 19 dấu chân lạ ở 976.11.073ca1. Có thể là zombie lang thang."
-Hà liếc sổ, cau mày: "Nếu đúng canh 8, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.11.073ca1."
-Minh gật. "Làm việc lập sơ đồ đường rút. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.11.073ca1)."
-Họ bước quanh hàng rào phía bắc. Tiếng bước chân ca gác tắt một nhịp tại cột 19 (976.11.073ca1).
-Minh cúi kiểm vết đất, cúi run nhẹ rồi vững. Mùi cháo nóng nồng góc bắc — ghi 976.11.073ca1.
-"Hà, sổ đen 976.11.073ca1," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
-Lý Lão cười gượng, rồi khóc nuối một giây ở canh 8 — rồi siết tay (976.11.073ca1).
-Công việc lập sơ đồ đường rút tiếp tục. Chỉ cúi, mắt, gật — nhịp sống cảnh 976.11.073ca1.
-(khóa 073ca19dde)
+Chiều ngày thứ 1096. Việc nhà không kém việc giáo — nhịp 9.
+Chú Bát nấu cháo loãng màu nghèo mẫu 2. Cúc xâu thẻ 5 chiếc.
+Hạt vỗ tay theo nhịp kéo chông mẻ 4; sai một cái, sửa ngay, không ai mắng.
+Thị Liên vá bao góc đông; mắt không liếc cổng quá ba hơi. Lưu Diễm hai giáo quanh lều.
+Từ Sơn đi 136 bước sân — không khoe, chỉ thở đều hơn hôm qua 975.
+Triệu Vũ khiêng; Khuyển lẩm phương án rồi bị chén thuốc bịt miệng lần 5.
+Phong ghé: "Sổ khớp ngày 1096?" Mạc Tư gật. "Bẫy khô?" Tôn Vũ gật. "Gò?" Hữu: "Không bóng tây."
+Giả nghèo và máy chiến chạy song song ngày 1096. Máy nào dừng trước cũng chết — Phong nhắc thầm.
 
 
 ---
 
-Canh 7, phía đông. Ngày thứ 1176, mốc 976.12.28b459. Ánh lửa bếp nhảy.
-Mùi cỏ mới cắt len vào mũi; tiếng nước giếng tuôn. Phong cảm nhận trơn sương mai trên bậc cửa khi chạm cột gỗ số 10 (976.12.28b459).
-Phong đang gia cố hàng rào. Ngẩng anh mở rồi nheo; tay siết chuôi dao đến trắng khớp — 976.12.28b459.
-"Tôn Vũ, báo cáo ngắn mã 976.12.28b459," Phong nói, giọng khàn. "Ta cần số liệu thật."
-Tôn Vũ cau đầu, nuốt khan: "Phía đông có 10 dấu chân lạ ở 976.12.28b459. Có thể là nội gián."
-Lan liếc sổ, cau mày: "Nếu đúng canh 7, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.12.28b459."
-Phong gật. "Làm việc gia cố hàng rào. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.12.28b459)."
-Họ bước quanh hàng rào phía đông. Tiếng nước giếng tuôn tắt một nhịp tại cột 10 (976.12.28b459).
-Phong cúi kiểm vết đất, ngẩng run nhẹ rồi vững. Mùi cỏ mới cắt nồng góc đông — ghi 976.12.28b459.
-"Lan, sổ đen 976.12.28b459," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
-Tôn Vũ cười gượng, rồi khóc nuối một giây ở canh 7 — rồi siết tay (976.12.28b459).
-Công việc gia cố hàng rào tiếp tục. Chỉ ngẩng, tay, cau — nhịp sống cảnh 976.12.28b459.
-(khóa 28b4593cd5)
+Lớp rà bổ sung 1 ngày thứ 1096 — chân đi, không họp. Mạc Tư ngang đông.
+Mùi cháo nóng; tiếng bước ca gác; bóng người dài sân; rát lòng bàn tay; nhịp 976.0.
+Mạc Tư dừng chông lệch số 6, sờ dây, gật một cái chỉ mình biết.
+"Khớp mốc 976.0," Mạc Tư nói với gió. "Mai còn khớp thì còn thở."
+Phong nghe từ xa góc tây, không đáp — đáp nhiều lộ chủ.
+Chỉ ghi vào đầu: lớp 1 xong, chông đông ổn, người Mạc Tư còn đứng.
 
 
 ---
 
-Canh 6, phía tây. Ngày thứ 1176, mốc 976.13.e73b81. Ánh trăng lạnh.
-Mùi sắt và mồ hôi len vào mũi; tiếng búa đập nhịp. Hà cảm nhận cứng mũi giáo khi siết khi chạm cột gỗ số 14 (976.13.e73b81).
-Hà đang huấn luyện đội gác. Nắm anh mở rồi nheo; cười siết chuôi dao đến trắng khớp — 976.13.e73b81.
-"Từ Sơn, báo cáo ngắn mã 976.13.e73b81," Hà nói, giọng khàn. "Ta cần số liệu thật."
-Từ Sơn nhíu đầu, nuốt khan: "Phía tây có 14 dấu chân lạ ở 976.13.e73b81. Có thể là thương đoàn lạ."
-Minh liếc sổ, cau mày: "Nếu đúng canh 6, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 976.13.e73b81."
-Hà gật. "Làm việc huấn luyện đội gác. Ai lơ là, đổi ca. di sản và bình minh mới không lỏng tay (976.13.e73b81)."
-Họ bước quanh hàng rào phía tây. Tiếng búa đập nhịp tắt một nhịp tại cột 14 (976.13.e73b81).
-Hà cúi kiểm vết đất, nắm run nhẹ rồi vững. Mùi sắt và mồ hôi nồng góc tây — ghi 976.13.e73b81.
-"Minh, sổ đen 976.13.e73b81," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
-Từ Sơn cười gượng, rồi khóc nuối một giây ở canh 6 — rồi siết tay (976.13.e73b81).
-Công việc huấn luyện đội gác tiếp tục. Chỉ nắm, cười, nhíu — nhịp sống cảnh 976.13.e73b81.
-(khóa e73b81a9f5)
+Lớp rà bổ sung 2 ngày thứ 1096 — chân đi, không họp. Hứa ngang tây.
+Mùi cỏ cắt; tiếng nước giếng; ánh lửa bếp nhảy; trơn sương bậc cửa; nhịp 976.1.
+Hứa dừng chông lệch số 7, sờ dây, gật một cái chỉ mình biết.
+"Khớp mốc 976.1," Hứa nói với gió. "Mai còn khớp thì còn thở."
+Phong nghe từ xa góc nam, không đáp — đáp nhiều lộ chủ.
+Chỉ ghi vào đầu: lớp 2 xong, chông tây ổn, người Hứa còn đứng.
 
 
 ---
 
-Đêm phủ trại. Bóng đêm ôm lấy hàng rào.
-Phong ghi sổ dưới ánh đèn dầu mờ: dân số, kho, ca gác, tin đám cướp núi.
-Hà mang cháo: "Ăn đi. Mai còn dài."
-Phong cười mỏi, mắt đỏ: "Cảm ơn. Không có các người, ta sớm thành nắm xương."
-Mùi cháo nóng ban đêm khác ban ngày — đặc hơn, thật hơn. Tiếng bước chân ca gác xa. Rát lòng bàn tay vì kéo dây.
-Hắn nuốt cháo, gật, liếc cổng đông lần cuối, rồi tắt đèn.
+Lớp rà bổ sung 3 ngày thứ 1096 — chân đi, không họp. chú Bát ngang nam.
+Mùi sắt mồ hôi; tiếng búa nhịp; ánh trăng lạnh; cứng mũi giáo; nhịp 976.2.
+chú Bát dừng chông lệch số 8, sờ dây, gật một cái chỉ mình biết.
+"Khớp mốc 976.2," chú Bát nói với gió. "Mai còn khớp thì còn thở."
+Phong nghe từ xa góc bắc, không đáp — đáp nhiều lộ chủ.
+Chỉ ghi vào đầu: lớp 3 xong, chông nam ổn, người chú Bát còn đứng.
 
 
-Phong đứng dưới ánh đèn dầu mờ ở điểm boost 976-0. Mùi khói rơm; tiếng dế nỉ non; ấm lòng bàn tay. Anh mắt nhìn, tay nắm, cười cười khô, khóc khóc nuối, run siết. Trương Bá cau cau, nhíu nhíu: "Còn việc 8 mã 6ab3a6e25b." Phong gật, ngẩng ngẩng: "Xong trước tối — mốc 976/0." mắt tay cười khóc gật cau nhíu run thở nuốt. khóa 6ab3a6e25b.
+---
 
-Hà đứng dưới nắng chiều vàng rụng ở điểm boost 976-1. Mùi tanh nhẹ từ hướng rừng; tiếng gỗ kêu răng rắc; nhám mặt cột hàng rào. Anh tay nhìn, cười nắm, khóc cười khô, gật khóc nuối, thở siết. Lý Lão nhíu cau, run nhíu: "Còn việc 8 mã d00c8c0149." Hà gật, nắm ngẩng: "Xong trước tối — mốc 976/1." tay cười khóc gật cau nhíu run thở nuốt liếc. khóa d00c8c0149.
-
-Lan đứng dưới bóng người dài trên sân ở điểm boost 976-2. Mùi cháo nóng; tiếng bước chân ca gác; rát lòng bàn tay vì kéo dây. Anh cười nhìn, khóc nắm, gật cười khô, cau khóc nuối, nuốt siết. A Cường run cau, thở nhíu: "Còn việc 8 mã 5bd2a42c88." Lan gật, buông ngẩng: "Xong trước tối — mốc 976/2." cười khóc gật cau nhíu run thở nuốt liếc cúi. khóa 5bd2a42c88.
-
-Minh đứng dưới ánh lửa bếp nhảy ở điểm boost 976-3. Mùi cỏ mới cắt; tiếng nước giếng tuôn; trơn sương mai trên bậc cửa. Anh khóc nhìn, gật nắm, cau cười khô, nhíu khóc nuối, liếc siết. Tiểu Mai thở cau, nuốt nhíu: "Còn việc 8 mã d32c6b0414." Minh gật, siết ngẩng: "Xong trước tối — mốc 976/3." khóc gật cau nhíu run thở nuốt liếc cúi ngẩng. khóa d32c6b0414.
-
-Phong đứng dưới ánh trăng lạnh ở điểm boost 976-4. Mùi sắt và mồ hôi; tiếng búa đập nhịp; cứng mũi giáo khi siết. Anh gật nhìn, cau nắm, nhíu cười khô, run khóc nuối, cúi siết. Tôn Vũ nuốt cau, liếc nhíu: "Còn việc 8 mã 1ca4fb93a8." Phong gật, mắt ngẩng: "Xong trước tối — mốc 976/4." gật cau nhíu run thở nuốt liếc cúi ngẩng nắm. khóa 1ca4fb93a8.
-
-Hà đứng dưới sáng mờ sương núi ở điểm boost 976-5. Mùi mưa sắp tới; tiếng lá xào xạc; mềm lớp rơm dưới chân. Anh cau nhìn, nhíu nắm, run cười khô, thở khóc nuối, ngẩng siết. Đại liếc cau, cúi nhíu: "Còn việc 8 mã 7fbc75ce82." Hà gật, tay ngẩng: "Xong trước tối — mốc 976/5." cau nhíu run thở nuốt liếc cúi ngẩng nắm buông. khóa 7fbc75ce82.
+Đêm ngày thứ 1096. Bóng ôm hàng rào Biên Ải chương 976.
+Phong ghi sổ đèn dầu: dân, kho, ca gác, tin Hàn Nguyệt, vạch 976.
+Tóm: động có, máu không, giả nghèo giữ, lớp ba im — ngày 1096.
+Hà mang cháo: "Ăn đi. Mai 1097 còn dài."
+Phong cười mỏi: "Cảm ơn. Không các người, ta thành nắm xương từ chương trước."
+Mùi khói rơm đêm đặc hơn ngày. Tiếng dế nỉ non xa hướng đông. Ấm lòng bàn tay.
+Anh nuốt cháo, liếc cổng nam lần cuối, tắt đèn mẻ 2.
+Mạch kết không phải cờ — là đảo bao, đâm thấp, không khoe; lặp đúng mới sống.
+『EXP +28 (sống sót có sổ ch.976).』
+『Cảnh báo: bản đồ hai phía cạ nhau — mốc 976.』
+『Nhiệm vụ: lớn thầm · giữ hầm/chông · miệng im · ngày 1096.』
 
 「Kho Vô Hạn — GHI NHẬN ch.976」
-Năm: 629
-EXP: 42160 / 42160
-Hiện tại: cấp 9
-Nâng cấp: Tiếp tục mở rộng căn cứ
+Năm: 635
+EXP: 25146 / 25626
+Hiện tại: cấp 4
+Nâng cấp: lớn thầm · miệng im · giữ chông · mốc 976
 
-Trong sổ còn một dòng trống — kẻ nội gián chưa lộ mặt.
+
+Phía rừng chương 976, tiếng động lạ chưa dứt — mai đối mặt.
+
+Gà chưa gáy. Biên Ải thở. Năm 635. Còn sống, còn chữ, còn việc — hết chương 976.
