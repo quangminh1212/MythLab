@@ -10716,34 +10716,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3614,
-        "chars": 16882,
-        "dialogue": 108,
+        "words": 3234,
+        "chars": 15969,
+        "dialogue": 74,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 14.87,
-        "char_density": 11.02,
+        "sensory_density": 21.54,
+        "char_density": 6.14,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 5,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 364. Ánh lửa bếp nhảy vừa chạm nóc trại Biên Ải đúng nhịp chương 244.",
+            "Ngày thứ ba trăm sáu mươi bốn. Trống điểm. Gò trống. Giữa sáng — sóng thấp lần hai. Năm thây lẻ ngoài rào đông, không đội, không gào to, không xông cổng. A Minh xòe năm ngón — sóng. Không người. Không xe. Không thước. Máu kín. Không mừng.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng nước giếng len giấc ngủ dở. Mùi cỏ cắt quyện khói bếp nồi 2.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Hỏi sáu cùng màu. Then êm. Hôm nay sóng — đâm thấp. Máy nghèo thở đều hơn mọi trống điểm sau hỏi.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 364. Ánh lửa bếp nhảy vừa chạm nóc trại Biên",
-      "file": "Chương 244 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 244 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi bốn. Trống điểm. Gò trống. Giữa",
+      "file": "Chương 244 - Sóng Thấp Lần Hai.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 244 - Sóng Thấp Lần Hai.txt",
       "num": 244
     },
     {
