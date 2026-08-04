@@ -10131,12 +10131,12 @@
       "num": 230
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10144,17 +10144,17 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3000,
-        "chars": 14599,
-        "dialogue": 73,
+        "words": 3218,
+        "chars": 15662,
+        "dialogue": 76,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 20.14,
-        "char_density": 5.89,
+        "sensory_density": 19.98,
+        "char_density": 5.81,
         "cliche": 0,
-        "scene_breaks": 6,
+        "scene_breaks": 7,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
@@ -10408,43 +10408,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3611,
-        "chars": 16840,
-        "dialogue": 108,
+        "words": 3278,
+        "chars": 16131,
+        "dialogue": 78,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.08,
-        "char_density": 10.75,
+        "sensory_density": 21.08,
+        "char_density": 5.77,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 357. Tối om góc kho vừa chạm nóc trại Biên Ải đúng nhịp chương 237.",
+            "Ngày thứ ba trăm năm mươi bảy. Trống điểm. Gò trống. Gần ngọ — A Minh xòe tay: sóng. Thấp. Đông ngoài rào. Không xe. Không thước. Không người hỏi. Chỉ thây. Ít. Thấp.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng cửa kẹt len giấc ngủ dở. Mùi thuốc thảo quyện khói bếp nồi 1.",
+            "Phong ra hầm tây vừa xong đếm bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao giữa sân, khăn mũi, lưng thẳng. Hữu giơ đúng tay sóng — không giơ nhầm người. Khuyển dao thấp. Đại Lực không hô. Tôn Vũ móc sẵn. Máy nghèo không tắt — chỉ nín một nhịp rồi chạy lại.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 357. Tối om góc kho vừa chạm nóc trại Biên",
-      "file": "Chương 237 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 237 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi bảy. Trống điểm. Gò trống. Gần",
+      "file": "Chương 237 - Sóng Thấp Máu Kín.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 237 - Sóng Thấp Máu Kín.txt",
       "num": 237
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10452,34 +10452,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3638,
-        "chars": 16942,
-        "dialogue": 108,
+        "words": 3228,
+        "chars": 16021,
+        "dialogue": 77,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.05,
-        "char_density": 10.8,
+        "sensory_density": 21.91,
+        "char_density": 5.87,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 358. Nắng mỏng gò vừa chạm nóc trại Biên Ải đúng nhịp chương 238.",
+            "Ngày thứ ba trăm năm mươi tám. Trống điểm. Gò trống. Không bóng. Không sóng. Không xe. Không hỏi. A Minh hai ngón mở. Trống. Sân muốn gọi là yên. Yên là từ nguy hiểm. Yên miệng là hở. Gọi việc. Việc nuốt yên.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng xẻng đất len giấc ngủ dở. Mùi vôi quyện khói bếp nồi 2.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách, khăn mũi, lưng thẳng — không ngẩng đông lâu nơi máu đất hôm qua. Anh đảo muối. Vai đau. Mặt không biết. Hôm qua năm thây. Hôm nay trống. Không mừng. Không kể. Máy nghèo thở đều hơn mọi trống điểm sau sóng.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 358. Nắng mỏng gò vừa chạm nóc trại Biên Ải",
-      "file": "Chương 238 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 238 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi tám. Trống điểm. Gò trống. Không",
+      "file": "Chương 238 - Ngày Yên Không Phải Hết.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 238 - Ngày Yên Không Phải Hết.txt",
       "num": 238
     },
     {
@@ -10496,43 +10496,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3617,
-        "chars": 16895,
-        "dialogue": 108,
+        "words": 3252,
+        "chars": 15951,
+        "dialogue": 78,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.03,
-        "char_density": 10.48,
+        "sensory_density": 22.32,
+        "char_density": 5.89,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 359. Bóng tháp dài vừa chạm nóc trại Biên Ải đúng nhịp chương 239.",
+            "Ngày thứ ba trăm năm mươi chín. Trống điểm. Gò trống. Giữa sáng — hỏi gió lần năm. Hai bóng ngoài rào đông, khoảng cách khách quan, không xông. A Minh một ngón — người — hai lần. Không sóng. Không thước gò. Không xe sát.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng trẻ vỗ tay len giấc ngủ dở. Mùi thóc lép quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Bốn lần cùng màu. Sóng thấp máu kín. Trống không mừng. Lần năm không lệch.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 359. Bóng tháp dài vừa chạm nóc trại Biên Ải",
-      "file": "Chương 239 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 239 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi chín. Trống điểm. Gò trống. Giữa",
+      "file": "Chương 239 - Hỏi Lần Năm Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 239 - Hỏi Lần Năm Cùng Màu.txt",
       "num": 239
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10540,43 +10540,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3595,
-        "chars": 16826,
-        "dialogue": 107,
+        "words": 3225,
+        "chars": 15880,
+        "dialogue": 75,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.1,
-        "char_density": 10.94,
+        "sensory_density": 26.76,
+        "char_density": 5.86,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 360. Ánh nắng lệch mái vừa chạm nóc trại Biên Ải đúng nhịp chương 240.",
+            "Ngày thứ ba trăm sáu mươi. Trống điểm. Gò trống. Không bóng. Không sóng. Không xe. Không hỏi. A Minh hai ngón mở. Trống. Sân muốn đếm mốc. Đếm mốc to là pháo. Pháo là hở. Gọi việc. Việc nuốt mốc. Ba trăm sáu mươi chỉ là một trống điểm nữa dưới Đường 629.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng gió rít khe gỗ len giấc ngủ dở. Mùi đất ẩm quyện khói bếp nồi 1.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Hỏi năm cùng màu. Sóng máu kín. Trống không mừng. Hôm nay mốc — không pháo. Máy nghèo thở đều hơn mọi trống điểm tròn số.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 360. Ánh nắng lệch mái vừa chạm nóc trại Biên",
-      "file": "Chương 240 - Can Cu Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 240 - Can Cu Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi. Trống điểm. Gò trống. Không bóng.",
+      "file": "Chương 240 - Ba Trăm Sáu Mươi Không Pháo.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 240 - Ba Trăm Sáu Mươi Không Pháo.txt",
       "num": 240
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10584,34 +10584,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3620,
-        "chars": 16848,
-        "dialogue": 108,
+        "words": 3225,
+        "chars": 16017,
+        "dialogue": 73,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.43,
-        "char_density": 11.1,
+        "sensory_density": 26.47,
+        "char_density": 6.18,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 361. Ánh đèn dầu mờ vừa chạm nóc trại Biên Ải đúng nhịp chương 241.",
+            "Ngày thứ ba trăm sáu mươi mốt. Trống điểm. Gò trống. Giữa sáng — bóng thước lại. Một bóng ngoài rào đông, tay cầm thước gỗ ngắn, không xông, không lánh. A Minh một ngón — người — một lần. Không sóng. Không xe. Không hỏi miệng. Chỉ bóng. Chỉ thước. Không chỉ.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng dế nỉ non len giấc ngủ dở. Mùi khói rơm quyện khói bếp nồi 2.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Mốc ba trăm sáu mươi không pháo. Hôm nay bóng thước — nghề không chỉ. Máy nghèo thở đều hơn mọi trống điểm sau mốc.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 361. Ánh đèn dầu mờ vừa chạm nóc trại Biên",
-      "file": "Chương 241 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 241 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi mốt. Trống điểm. Gò trống. Giữa",
+      "file": "Chương 241 - Bóng Thước Lại Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 241 - Bóng Thước Lại Không Chỉ.txt",
       "num": 241
     },
     {
