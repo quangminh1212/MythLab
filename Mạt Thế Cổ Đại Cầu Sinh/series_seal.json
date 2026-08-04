@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T06:11:58",
-  "report_mtime": 1785885114.9176798,
+  "sealed_at": "2026-08-05T06:14:30",
+  "report_mtime": 1785885268.1315706,
   "total_files": 1000,
   "files": [
     {
@@ -1468,10 +1468,10 @@
       "size": 22327
     },
     {
-      "name": "Chương 244 - Ngay Moi.txt",
-      "sha256": "b5c9074335e6a56a626800c0c62763b7454f6e4c5ba8a09a6d41f85976050db3",
-      "mtime": 1785885091.1467948,
-      "size": 22378
+      "name": "Chương 244 - Sóng Thấp Lần Hai.txt",
+      "sha256": "137f2830226e1acee81f36e86c709b902a2dcc7e2fe82bd7d06e9ce22f915910",
+      "mtime": 1785885220.752962,
+      "size": 20860
     },
     {
       "name": "Chương 245 - Can Cu Moi.txt",
