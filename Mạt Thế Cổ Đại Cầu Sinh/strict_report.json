@@ -5,7 +5,7 @@
   "total": 1000,
   "pass": 1000,
   "below": 0,
-  "avg": 9.949,
+  "avg": 9.948,
   "min_final": 9.56,
   "all_pass": true,
   "below_list": [],
@@ -10615,12 +10615,12 @@
       "num": 241
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10628,34 +10628,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3632,
-        "chars": 16971,
-        "dialogue": 108,
+        "words": 3321,
+        "chars": 16364,
+        "dialogue": 77,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.44,
-        "char_density": 10.25,
+        "sensory_density": 22.79,
+        "char_density": 5.99,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 362. Nắng chiều vàng rụng vừa chạm nóc trại Biên Ải đúng nhịp chương 242.",
+            "Ngày thứ ba trăm sáu mươi hai. Trống điểm. Gò trống. Không bóng. Không sóng. Không xe. Không hỏi. A Minh hai ngón mở. Trống. Sân muốn thở phào. Thở phào là lỏng. Lỏng là hở. Gọi việc. Việc hôm nay: sửa then đông. Sửa im. Không kể bóng thước hôm qua. Không hội.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng gỗ kêu răng rắc len giấc ngủ dở. Mùi tanh nhẹ từ rừng quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Bóng thước ngồi rồi đi không chỉ. Hôm nay then kêu nhẹ — nghề sửa. Máy nghèo thở đều hơn mọi trống điểm sau xem.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 362. Nắng chiều vàng rụng vừa chạm nóc trại Biên",
-      "file": "Chương 242 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 242 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi hai. Trống điểm. Gò trống. Không",
+      "file": "Chương 242 - Sửa Then Không Kể.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 242 - Sửa Then Không Kể.txt",
       "num": 242
     },
     {
