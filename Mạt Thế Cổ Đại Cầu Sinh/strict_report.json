@@ -9748,34 +9748,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3607,
-        "chars": 16871,
-        "dialogue": 107,
+        "words": 3988,
+        "chars": 18821,
+        "dialogue": 119,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.23,
-        "char_density": 10.49,
+        "sensory_density": 15.2,
+        "char_density": 5.21,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 12,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 342. Nắng chiều vàng rụng vừa chạm nóc trại Biên Ải đúng nhịp chương 222.",
+            "Ngày thứ ba trăm bốn mươi hai. Trống điểm. Sương mỏng. Mùi vôi giấu dưới đất đông.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng gỗ kêu răng rắc len giấc ngủ dở. Mùi tanh nhẹ từ rừng quyện khói bếp nồi 1.",
+            "Phong ra tây trước sân. Đếm dấu hầm giả. Bảy quen. Không chín. Không mười. Đắp xấu một nhát cho chắc rồi phủi tay như người vừa kiểm ẩm. Hà đã phơi hàng thóc lép đúng chỗ cũ — không thêm, không bớt. Ngày hai trong ba ngày theo dõi. Hắn đang chờ Biên Ải sốt. Biên Ải không sốt. Biên Ải đảo bao.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 342. Nắng chiều vàng rụng vừa chạm nóc trại Biên",
-      "file": "Chương 222 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 222 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm bốn mươi hai. Trống điểm. Sương mỏng. Mùi",
+      "file": "Chương 222 - Ngày Hai Không Sốt.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 222 - Ngày Hai Không Sốt.txt",
       "num": 222
     },
     {
@@ -9792,34 +9792,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3633,
-        "chars": 16902,
-        "dialogue": 108,
+        "words": 3820,
+        "chars": 18310,
+        "dialogue": 134,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.38,
-        "char_density": 10.65,
+        "sensory_density": 15.07,
+        "char_density": 5.08,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 11,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 343. Bóng người dài sân vừa chạm nóc trại Biên Ải đúng nhịp chương 223.",
+            "Ngày thứ ba trăm bốn mươi ba. Trống điểm. Trời trong. Nắng sớm — đẹp cho thóc, đẹp cho gương, đẹp cho kẻ đo.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng bước ca gác len giấc ngủ dở. Mùi cháo nóng quyện khói bếp nồi 2.",
+            "Phong ra hầm trước trống. Đếm dấu. Bảy. Không thêm. Rắc lép một nắm, đắp xấu, phủi tay, về như người chỉ sợ ẩm. Hà đã đứng hàng bao. Mắt chị: ngày ba. Anh gật. Ngày chốt nhận định của Lưu Hựu. Mặt nghèo hơn mọi hôm. Việc cũ hơn mọi hôm. Tim nhanh hơn — giấu dưới áo, dưới lớp da “không biết”.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 343. Bóng người dài sân vừa chạm nóc trại Biên",
-      "file": "Chương 223 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 223 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm bốn mươi ba. Trống điểm. Trời trong. Nắng",
+      "file": "Chương 223 - Ngày Chốt Và Chữ Nghi.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 223 - Ngày Chốt Và Chữ Nghi.txt",
       "num": 223
     },
     {
