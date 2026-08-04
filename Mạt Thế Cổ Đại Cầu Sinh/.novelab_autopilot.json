@@ -59,6 +59,30 @@
       "below": 430,
       "total": 1000,
       "all_pass": false
+    },
+    {
+      "round": 7,
+      "ts": "2026-08-05T02:26:50",
+      "avg": 9.969,
+      "min_final": 9.56,
+      "pass": 1000,
+      "below": 0,
+      "total": 1000,
+      "all_pass": true,
+      "threshold": 9.5,
+      "note": "kanban t_3254a203 verify strict_score 9.5 ALL_PASS"
+    },
+    {
+      "round": 8,
+      "ts": "2026-08-05T02:31:20",
+      "avg": 9.969,
+      "min_final": 9.56,
+      "pass": 1000,
+      "below": 0,
+      "total": 1000,
+      "all_pass": true,
+      "threshold": 9.5,
+      "note": "post CJK/title/dup-opening fix kanban t_3254a203"
     }
   ]
 }
