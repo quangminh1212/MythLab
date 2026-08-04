@@ -10936,34 +10936,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3633,
-        "chars": 16951,
-        "dialogue": 109,
+        "words": 3276,
+        "chars": 16206,
+        "dialogue": 75,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 14.87,
-        "char_density": 10.62,
+        "sensory_density": 28.01,
+        "char_density": 5.99,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 5,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 369. Bóng tháp dài vừa chạm nóc trại Biên Ải đúng nhịp chương 249.",
+            "Ngày thứ ba trăm sáu mươi chín. Trống điểm. Gò có bóng. Giữa sáng — bóng thước lần bốn. Không chỉ. Không hỏi. Không sóng. Không pháo.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng trẻ vỗ tay len giấc ngủ dở. Mùi thóc lép quyện khói bếp nồi 1.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Sóng thấp lần ba máu kín. Then êm. Hôm nay bóng — không chỉ. Máy nghèo thở đều hơn mọi trống điểm sau sóng.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 369. Bóng tháp dài vừa chạm nóc trại Biên Ải",
-      "file": "Chương 249 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 249 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi chín. Trống điểm. Gò có bóng.",
+      "file": "Chương 249 - Bóng Thước Lần Bốn Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 249 - Bóng Thước Lần Bốn Không Chỉ.txt",
       "num": 249
     },
     {
