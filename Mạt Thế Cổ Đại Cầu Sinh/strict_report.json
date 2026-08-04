@@ -5,7 +5,7 @@
   "total": 1000,
   "pass": 1000,
   "below": 0,
-  "avg": 9.951,
+  "avg": 9.95,
   "min_final": 9.56,
   "all_pass": true,
   "below_list": [],
@@ -9823,12 +9823,12 @@
       "num": 223
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -9836,32 +9836,32 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3591,
-        "chars": 16796,
-        "dialogue": 108,
+        "words": 3555,
+        "chars": 16957,
+        "dialogue": 106,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 14.82,
-        "char_density": 10.84,
+        "sensory_density": 17.51,
+        "char_density": 4.36,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 7,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 344. Ánh lửa bếp nhảy vừa chạm nóc trại Biên Ải đúng nhịp chương 224.",
+            "Ngày thứ ba trăm bốn mươi tư. Trống điểm. Trời se. Mùi đất đông còn vôi giấu dưới lớp bụi mỏng.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng nước giếng len giấc ngủ dở. Mùi cỏ cắt quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước khi sân thức hẳn. Gió bắc quét gáy. Anh đếm dấu chân quanh miệng hầm: một, hai, ba, bốn, năm, sáu, bảy. Không tám. Không chín. Tốt. Anh rắc thóc lép, đắp đất xấu, phủi tay như người chủ trại lười việc. Hà đã đứng bên hàng bao lép, lưng thẳng, mắt không hỏi “chốt xong chưa” — hỏi bằng việc. Việc nói: còn khoảng ba ngày cửa sổ thây, còn nghèo, còn đều, còn không được vui.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 344. Ánh lửa bếp nhảy vừa chạm nóc trại Biên",
+      "opening": "Ngày thứ ba trăm bốn mươi tư. Trống điểm. Trời se. Mùi",
       "file": "Chương 224 - Ba Ngày Còn Lại.txt",
       "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 224 - Ba Ngày Còn Lại.txt",
       "num": 224
