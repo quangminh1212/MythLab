@@ -1,0 +1,992 @@
+{
+  "round": 4,
+  "threshold": 9.5,
+  "count": 24,
+  "total_below": 1002,
+  "worklist": [
+    {
+      "num": 207,
+      "file": "Chương 207 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 208,
+      "file": "Chương 208 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 209,
+      "file": "Chương 209 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 210,
+      "file": "Chương 210 - Can Cu Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3097,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 211,
+      "file": "Chương 211 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 212,
+      "file": "Chương 212 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 213,
+      "file": "Chương 213 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 214,
+      "file": "Chương 214 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 215,
+      "file": "Chương 215 - Can Cu Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3097,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 216,
+      "file": "Chương 216 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 217,
+      "file": "Chương 217 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 218,
+      "file": "Chương 218 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 219,
+      "file": "Chương 219 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 220,
+      "file": "Chương 220 - Can Cu Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3097,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 221,
+      "file": "Chương 221 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 222,
+      "file": "Chương 222 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 223,
+      "file": "Chương 223 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 224,
+      "file": "Chương 224 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 225,
+      "file": "Chương 225 - Can Cu Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3097,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 226,
+      "file": "Chương 226 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 227,
+      "file": "Chương 227 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 228,
+      "file": "Chương 228 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 229,
+      "file": "Chương 229 - Ngay Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3096,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 230,
+      "file": "Chương 230 - Can Cu Moi.txt",
+      "final": 5.62,
+      "hard_fails": [
+        "maxrep=12",
+        "missing_system_panel",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3097,
+        "dialogue": 0,
+        "sensory_density": 0.83,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": false,
+        "panel_year": null,
+        "prose_year": null
+      }
+    }
+  ]
+}

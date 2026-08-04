@@ -1,0 +1,944 @@
+{
+  "round": 6,
+  "threshold": 9.5,
+  "count": 24,
+  "total_below": 430,
+  "worklist": [
+    {
+      "num": 576,
+      "file": "Chương 576 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 586,
+      "file": "Chương 586 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 596,
+      "file": "Chương 596 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 606,
+      "file": "Chương 606 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 616,
+      "file": "Chương 616 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 626,
+      "file": "Chương 626 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 636,
+      "file": "Chương 636 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 646,
+      "file": "Chương 646 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 656,
+      "file": "Chương 656 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 666,
+      "file": "Chương 666 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 676,
+      "file": "Chương 676 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 686,
+      "file": "Chương 686 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 696,
+      "file": "Chương 696 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 706,
+      "file": "Chương 706 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 716,
+      "file": "Chương 716 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 726,
+      "file": "Chương 726 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 736,
+      "file": "Chương 736 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 746,
+      "file": "Chương 746 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 756,
+      "file": "Chương 756 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 766,
+      "file": "Chương 766 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 776,
+      "file": "Chương 776 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 786,
+      "file": "Chương 786 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 796,
+      "file": "Chương 796 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 806,
+      "file": "Chương 806 - Ngay Moi.txt",
+      "final": 6.12,
+      "hard_fails": [
+        "maxrep=12",
+        "almost_no_dialogue(0)",
+        "thin_prose(sens=0.8)"
+      ],
+      "weakest_axes": [
+        [
+          "filler_pad",
+          0.0
+        ],
+        [
+          "van_chuong",
+          3.0
+        ],
+        [
+          "nhan_vat",
+          5.0
+        ]
+      ],
+      "fix_hints": [
+        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
+        "Gần như không thoại — thêm hội thoại có subtext.",
+        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+      ],
+      "metrics": {
+        "words": 3160,
+        "dialogue": 0,
+        "sensory_density": 0.82,
+        "pad_total": 0,
+        "maxrep": 12,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    }
+  ]
+}

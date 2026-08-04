@@ -1,0 +1,41 @@
+{
+  "title": "Zombie Cổ Đại — Vô Hạn Vật Tư",
+  "title_en": "Ancient Zombies: Unlimited Supplies",
+  "genre": ["apocalypse", "system", "ancient_setting"],
+  "sub_genres": ["base_building", "resource_management", "kingdom_building", "survival"],
+  "setting": "Trung Hoa cổ đại, khoảng thế kỷ 3-5 sau Công Nguyên, thời Tam Quốc / Ngụy-Tấn-Nam-Bắc triều",
+  "premise": "Một thiếu niên làm nghề chăn vịt ở vùng biên ải tỉnh dậy vào đúng ngày tử thi bắt đầu bò lên từ mặt đất. Khácnh được một hệ thống『Kho Vô Hạn』— có thể sản xuất và lưu trữ vô hạn vật tư (lương thực, vũ khí, thuốc men, vật liệu xây dựng). Nhưng \"vô hạn\" chỉ là tiềm năng: mỗi ngày hệ thống chỉ giải phóng một lượng nhỏ theo cấp bậc, và MC phải sống sót, phát triển căn cứ, đối phó với các thế lực cát cứ thời loạn thế để mở khóa thêm năng lực.",
+  "mc": {
+    "name": "Lý Phong",
+    "age_start": 17,
+    "role": "Thiếu niên chăn vịt, mồ côi cha mẹ, sống với ông bà",
+    "want": "Sống sót, bảo vệ người thân, tìm nguyên nhân đại dịch",
+    "need": "Học cách lãnh đạo, chấp nhận hy sinh, trở thành người gánh vác",
+    "misbelief": "Chỉ cần có đủ vật tư thì mọi việc sẽ tự tốt lên",
+    "competence": "Nhanh nhẹn, lanh trí, biết địa hình rừng núi, giỏi xoay xở"
+  },
+  "cast": [
+    {"name": "Lý Phong", "role": "MC", "trait": "Lanh trí, nóng nảy, tốt bụng nhưng thiếu kinh nghiệm lãnh đạo"},
+    {"name": "Ông Bà Lý", "role": "Gia đình", "trait": "Già yếu, là motivator bảo vệ nhà của MC"},
+    {"name": "Trần Đại Lực", "role": "Đồng minh军 sự", "trait": "Cựu binh thất thế, giỏi chiến đấu, tính cách thẳng thắn"},
+    {"name": "Lưu Diễm", "role": "Đồng minh y thuật", "trait": "Thầy thuốc nữ, giỏi chữa trị, bí ẩn quá khứ"},
+    {"name": "Vương Tử Kính", "role": "Phản diện / đối thủ", "trait": "Thái tử lưu vong, tham vọng, dùng người như quân cờ"},
+    {"name": "Mạc Tư", "role": "Đồng minh kỹ thuật", "trait": "Thợ rèn thiên tài, nghiện rượu, sáng tạo vũ khí"},
+    {"name": "Hàn Nguyệt", "role": "Phản diện bí ẩn", "trait": "Kẻ biết nguồn gốc zombie, theo phe nào?"},
+    {"name": "Tống Thiên Hỏa", "role": "Boss quân sự", "trait": "Tướng quân zombies — xác chết giữ nguyên ký ức chiến đấu"}
+  ],
+  "system": {
+    "name": "Kho Vô Hạn",
+    "type": "unlimited_storage_production",
+    "daily_cap_base": "100 đơn vị vật tư/ngày",
+    "upgrade_condition": "Mở rộng căn cứ, cứu người, hoàn thành nhiệm vụ hệ thống",
+    "categories": ["lương thực", "vũ khí thô", "vật liệu xây dựng", "thuốc men", "áo giáp", "công cụ"],
+    "limitation": "Chỉ cung cấp vật tư thô/cơ bản; vũ khí tiên tiến cần chế tạo thủ công"
+  },
+  "tone": "Tense, grimdark với moments of warmth. Không quá dark — luôn có hy vọng vì MC có hệ thống.",
+  "rating": "T16+",
+  "target_words_per_chapter": 3000,
+  "target_chapters": 1000,
+  "language": "Vietnamese",
+  "taboos": ["no sexual violence", "no graphic gore beyond survival necessity", "no modern slang anachronism"]
+}

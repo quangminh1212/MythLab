@@ -1,0 +1,27 @@
+{
+  "genre": "apocalypse_ancient",
+  "has_system": true,
+  "rebirth": true,
+  "story_year_min": 626,
+  "story_year_max": 649,
+  "min_words": 3000,
+  "max_words": 4200,
+  "anachronism_allow": [
+    "điện thoại",
+    "internet",
+    "2024",
+    "kiến thức hiện đại",
+    "nhớ kiếp trước"
+  ],
+  "motif_whitelist": [
+    "Kho Vô Hạn — mỗi ngày một ít, nhưng đủ để sống",
+    "Cứ được bao nhiêu người thì căn cứ mới mạnh lên",
+    "Zombie không phải kẻ thù nguy hiểm nhất — người sống mới là",
+    "mùi đất ẩm",
+    "tiếng gió thổi nhẹ"
+  ],
+  "year_check": "dateline",
+  "dateline_gap_max": 6,
+  "system_panel_required": true,
+  "system_panel_format": "「Kho Vô Hạn — GHI NHẬN ch.N」"
+}

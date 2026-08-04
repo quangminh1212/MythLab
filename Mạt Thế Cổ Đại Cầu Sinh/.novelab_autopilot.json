@@ -1,0 +1,64 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "ts": "2026-08-05T01:05:10",
+      "avg": 5.927,
+      "min_final": 5.62,
+      "pass": 7,
+      "below": 993,
+      "total": 1000,
+      "all_pass": false
+    },
+    {
+      "round": 2,
+      "ts": "2026-08-05T01:10:59",
+      "avg": 6.028,
+      "min_final": 5.62,
+      "pass": 6,
+      "below": 994,
+      "total": 1000,
+      "all_pass": false
+    },
+    {
+      "round": 3,
+      "ts": "2026-08-05T01:20:34",
+      "avg": 6.062,
+      "min_final": 5.62,
+      "pass": 17,
+      "below": 983,
+      "total": 1000,
+      "all_pass": false
+    },
+    {
+      "round": 4,
+      "ts": "2026-08-05T01:28:45",
+      "avg": 6.068,
+      "min_final": 5.62,
+      "pass": 1,
+      "below": 1002,
+      "total": 1003,
+      "all_pass": false
+    },
+    {
+      "round": 5,
+      "ts": "2026-08-05T01:30:16",
+      "avg": 6.069,
+      "min_final": 5.62,
+      "pass": 1,
+      "below": 999,
+      "total": 1000,
+      "all_pass": false
+    },
+    {
+      "round": 6,
+      "ts": "2026-08-05T02:07:38",
+      "avg": 8.404,
+      "min_final": 6.12,
+      "pass": 570,
+      "below": 430,
+      "total": 1000,
+      "all_pass": false
+    }
+  ]
+}
