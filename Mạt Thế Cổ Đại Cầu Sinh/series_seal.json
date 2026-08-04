@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T05:38:29",
-  "report_mtime": 1785883088.6840982,
+  "sealed_at": "2026-08-05T05:44:52",
+  "report_mtime": 1785883471.8046677,
   "total_files": 1000,
   "files": [
     {
@@ -1408,22 +1408,22 @@
       "size": 20801
     },
     {
-      "name": "Chương 234 - Ngay Moi.txt",
-      "sha256": "7612a45f7b4baf91c0473a11d0ecf715753133c12ca53d5afab25814b3777464",
-      "mtime": 1785882536.2771966,
-      "size": 22256
+      "name": "Chương 234 - Bóng Trên Gò Không Chỉ.txt",
+      "sha256": "3b2ecf803bacdbbea867c7c0fd70909a15783264e03a1356437c05463f0c3930",
+      "mtime": 1785883463.4630003,
+      "size": 21146
     },
     {
-      "name": "Chương 235 - Can Cu Moi.txt",
-      "sha256": "b2a13958ae1c43b3cb1f1d89f528a6260e9b74a2eed13fea0facf1b279cd17d9",
-      "mtime": 1785879942.4972503,
-      "size": 22416
+      "name": "Chương 235 - Bóng Đi Không Mừng.txt",
+      "sha256": "e858d35f1e7e1acb4d1efe46cb83b88b16d1bb1b73775cbc599fe9de132e6816",
+      "mtime": 1785883463.4785345,
+      "size": 21132
     },
     {
-      "name": "Chương 236 - Ngay Moi.txt",
-      "sha256": "94a91b3f2941d15ed5afac12fc64c6ce444539e6ee428f1f1ef5c207cde4295b",
-      "mtime": 1785879942.5067668,
-      "size": 22447
+      "name": "Chương 236 - Hỏi Lần Bốn Cùng Màu.txt",
+      "sha256": "7ca8c028b2908744103ea263a0e41838fde0b351b44e445420c6105e257ce582",
+      "mtime": 1785883463.4930787,
+      "size": 21059
     },
     {
       "name": "Chương 237 - Ngay Moi.txt",
