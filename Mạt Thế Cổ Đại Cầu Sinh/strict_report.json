@@ -5,7 +5,7 @@
   "total": 1000,
   "pass": 1000,
   "below": 0,
-  "avg": 9.951,
+  "avg": 9.95,
   "min_final": 9.56,
   "all_pass": true,
   "below_list": [],
@@ -10175,12 +10175,12 @@
       "num": 231
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10188,43 +10188,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3633,
-        "chars": 16993,
-        "dialogue": 108,
+        "words": 3205,
+        "chars": 15611,
+        "dialogue": 79,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.36,
-        "char_density": 10.12,
+        "sensory_density": 21.72,
+        "char_density": 6.02,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 352. Nắng chiều vàng rụng vừa chạm nóc trại Biên Ải đúng nhịp chương 232.",
+            "Ngày thứ ba trăm năm mươi hai. Trống điểm. Gò trống. Mùi dày. Trước xế, hỏi gió quay lại — không một người, mà hai bóng dừng ngoài rào đông đúng khoảng cách khách quan lần trước.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng gỗ kêu răng rắc len giấc ngủ dở. Mùi tanh nhẹ từ rừng quyện khói bếp nồi 2.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. A Minh: gò trống. Hai ngón mở. Trống. Anh đảo. Muối mắt. Vai đau. Mặt nghèo. Bảy xương. Cấp im. Lời hôm qua còn trong xương chị: cùng màu. Không thêm. Không bớt thành hở.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 352. Nắng chiều vàng rụng vừa chạm nóc trại Biên",
-      "file": "Chương 232 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 232 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi hai. Trống điểm. Gò trống. Mùi",
+      "file": "Chương 232 - Cùng Màu Lần Hai.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 232 - Cùng Màu Lần Hai.txt",
       "num": 232
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10232,34 +10232,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3636,
-        "chars": 16956,
-        "dialogue": 108,
+        "words": 3212,
+        "chars": 15709,
+        "dialogue": 77,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.27,
-        "char_density": 10.56,
+        "sensory_density": 22.66,
+        "char_density": 5.98,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 353. Bóng người dài sân vừa chạm nóc trại Biên Ải đúng nhịp chương 233.",
+            "Ngày thứ ba trăm năm mươi ba. Trống điểm. Gò trống. Mùi dày. Giữa sáng, hỏi gió lần ba — ba bóng ngoài rào đông, khoảng cách khách quan, không xông, không lánh.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng bước ca gác len giấc ngủ dở. Mùi cháo nóng quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. A Minh: gò trống. Hai ngón mở. Trống. Anh đảo. Muối. Vai đau. Mặt nghèo. Bảy xương. Cấp im. Xương chị: cùng màu. Không thêm. Không bớt. Hai lần đã giữ. Lần ba không lệch.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 353. Bóng người dài sân vừa chạm nóc trại Biên",
-      "file": "Chương 233 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 233 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi ba. Trống điểm. Gò trống. Mùi",
+      "file": "Chương 233 - Ba Miệng Và Một Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 233 - Ba Miệng Và Một Màu.txt",
       "num": 233
     },
     {
