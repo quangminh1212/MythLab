@@ -5,7 +5,7 @@
   "total": 1000,
   "pass": 1000,
   "below": 0,
-  "avg": 9.95,
+  "avg": 9.951,
   "min_final": 9.56,
   "all_pass": true,
   "below_list": [],
@@ -10100,43 +10100,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3612,
-        "chars": 16858,
-        "dialogue": 107,
+        "words": 3212,
+        "chars": 15557,
+        "dialogue": 78,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.24,
-        "char_density": 10.38,
+        "sensory_density": 22.43,
+        "char_density": 7.2,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 350. Ánh nắng lệch mái vừa chạm nóc trại Biên Ải đúng nhịp chương 230.",
+            "Ngày thứ ba trăm năm mươi. Trống điểm. Gò trống. Đông không gõ. Mùi dày đứng yên như người canh không thèm gõ cửa — và chính sự yên ấy dễ làm lỏng miệng hơn cả sóng.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng gió rít khe gỗ len giấc ngủ dở. Mùi đất ẩm quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu chân: bảy. Không tám. Rắc thóc lép. Đắp đất xấu. Phủi tay. Hà phơi bao lép, khăn mũi, lưng thẳng. A Minh: gò trống. Hai ngón mở. Trống. Anh đảo. Muối mắt. Vai đau. Đau neo. Tay nghề. Lưng nghèo. Số bảy nằm xương. Cấp ba im. Ngày không bóng không sóng là ngày dễ kể — nên phải siết hơn ngày có bóng.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 350. Ánh nắng lệch mái vừa chạm nóc trại Biên",
-      "file": "Chương 230 - Đông Sớm.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 230 - Đông Sớm.txt",
+      "opening": "Ngày thứ ba trăm năm mươi. Trống điểm. Gò trống. Đông không",
+      "file": "Chương 230 - Ngày Không Bóng Không Sóng.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 230 - Ngày Không Bóng Không Sóng.txt",
       "num": 230
     },
     {
-      "final": 9.78,
-      "weighted_raw": 9.78,
+      "final": 10.0,
+      "weighted_raw": 10.0,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 8.5,
+        "cau_truc": 10.0,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10144,34 +10144,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3627,
-        "chars": 16896,
-        "dialogue": 109,
+        "words": 3000,
+        "chars": 14599,
+        "dialogue": 73,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.15,
-        "char_density": 11.01,
+        "sensory_density": 20.14,
+        "char_density": 5.89,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 351. Ánh đèn dầu mờ vừa chạm nóc trại Biên Ải đúng nhịp chương 231.",
+            "Ngày thứ ba trăm năm mươi mốt. Trống điểm. Gò trống lúc gà gáy — nhưng trước ngọ, ngoài rào đông, một người lạ dừng đúng khoảng cách khách quan: không xông, không lánh, chỉ hỏi gió.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng dế nỉ non len giấc ngủ dở. Mùi khói rơm quyện khói bếp nồi 1.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. A Minh: gò trống. Hai ngón mở. Trống. Anh đảo. Muối. Vai đau. Mặt nghèo. Bảy xương. Cấp im. Ngày yên hôm qua không được biến thành lỏng hôm nay.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 351. Ánh đèn dầu mờ vừa chạm nóc trại Biên",
-      "file": "Chương 231 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 231 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi mốt. Trống điểm. Gò trống lúc",
+      "file": "Chương 231 - Hỏi Gió Từ Ngoài Rào.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 231 - Hỏi Gió Từ Ngoài Rào.txt",
       "num": 231
     },
     {
