@@ -1,11 +1,38 @@
 {
   "results": [
     {
-      "n": 225,
-      "file": "Chương 225 - Mùi Dày Hơn Một Nấc.txt",
+      "n": 227,
+      "file": "Chương 227 - Cửa Gõ Lúc Gà Gáy.txt",
       "final": 10.0,
       "hard_fails": [],
-      "words": 3614,
+      "words": 3621,
+      "tries": 0,
+      "ok": true
+    },
+    {
+      "n": 228,
+      "file": "Chương 228 - Sau Sóng Không Kể.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "words": 3613,
+      "tries": 0,
+      "ok": true
+    },
+    {
+      "n": 229,
+      "file": "Chương 229 - Bóng Thước Sau Sóng.txt",
+      "final": 9.78,
+      "hard_fails": [],
+      "words": 3621,
+      "tries": 0,
+      "ok": true
+    },
+    {
+      "n": 230,
+      "file": "Chương 230 - Đông Sớm.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "words": 3612,
       "tries": 0,
       "ok": true
     }
