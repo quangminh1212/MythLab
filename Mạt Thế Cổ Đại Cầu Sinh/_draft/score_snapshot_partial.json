@@ -1,0 +1,4109 @@
+{
+"results": [
+{
+"n": 1,
+"file": "Chương 001 - Đất Rộng Lên.txt",
+"final": 9.55,
+"w": 3024,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 10.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.55
+},
+{
+"n": 2,
+"file": "Chương 002 - Ba Mươi Con Vịt.txt",
+"final": 9.26,
+"w": 3006,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 10.0,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.26
+},
+{
+"n": 3,
+"file": "Chương 003 - Vết Ccratch Đầu Tiên.txt",
+"final": 8.55,
+"w": 3000,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 10.0,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.55
+},
+{
+"n": 4,
+"file": "Chương 004 - Khai Mở Kho Vô Hạn.txt",
+"final": 8.95,
+"w": 3005,
+"hf": [],
+"axes": {
+"van_chuong": 8.5,
+"cau_truc": 10.0,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.95
+},
+{
+"n": 5,
+"file": "Chương 005 - Chạy Trốn.txt",
+"final": 8.95,
+"w": 3017,
+"hf": [],
+"axes": {
+"van_chuong": 8.5,
+"cau_truc": 10.0,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.95
+},
+{
+"n": 6,
+"file": "Chương 006 - Đồn Điền Mới.txt",
+"final": 8.55,
+"w": 3005,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 10.0,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.55
+},
+{
+"n": 7,
+"file": "Chương 007 - Ruộng Bậc Thang.txt",
+"final": 8.25,
+"w": 3019,
+"hf": [],
+"axes": {
+"van_chuong": 5.0,
+"cau_truc": 10.0,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.25
+},
+{
+"n": 8,
+"file": "Chương 008 - Nguồn Nước.txt",
+"final": 8.75,
+"w": 3010,
+"hf": [],
+"axes": {
+"van_chuong": 7.5,
+"cau_truc": 10.0,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.75
+},
+{
+"n": 9,
+"file": "Chương 009 - Bẫy Zombie.txt",
+"final": 8.32,
+"w": 3018,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.32
+},
+{
+"n": 10,
+"file": "Chương 010 - Cuộc Sống Mới.txt",
+"final": 8.32,
+"w": 3032,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.32
+},
+{
+"n": 11,
+"file": "Chương 011 - Cuộc Đụng Đầu Đầu Tiên.txt",
+"final": 7.5,
+"w": 1138,
+"hf": [
+"short<3000(1138)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 12,
+"file": "Chương 012 - Lũ Zombie.txt",
+"final": 8.32,
+"w": 3032,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.32
+},
+{
+"n": 13,
+"file": "Chương 013 - Bình Minh Giữa Rừng.txt",
+"final": 7.5,
+"w": 1138,
+"hf": [
+"short<3000(1138)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 14,
+"file": "Chương 014 - Thành Phố Zombie.txt",
+"final": 8.53,
+"w": 3002,
+"hf": [],
+"axes": {
+"van_chuong": 7.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.53
+},
+{
+"n": 15,
+"file": "Chương 015 - Cuộc Sống Bình Yên.txt",
+"final": 8.53,
+"w": 3006,
+"hf": [],
+"axes": {
+"van_chuong": 7.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.53
+},
+{
+"n": 16,
+"file": "Chương 016 - Cuộc Thám Hiểm Đầu Tiên.txt",
+"final": 9.32,
+"w": 3013,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 8.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.32
+},
+{
+"n": 17,
+"file": "Chương 017 - Cuộc Săn Bắt.txt",
+"final": 7.5,
+"w": 2354,
+"hf": [
+"short<3000(2354)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.35,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.0
+},
+{
+"n": 18,
+"file": "Chương 018 - Bệnh Tật Đầu Tiên.txt",
+"final": 7.5,
+"w": 1689,
+"hf": [
+"short<3000(1689)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 19,
+"file": "Chương 019 - Mùa Đông Approaches.txt",
+"final": 7.5,
+"w": 1588,
+"hf": [
+"short<3000(1588)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 20,
+"file": "Chương 020 - Trận Bão Đầu Tiên.txt",
+"final": 7.5,
+"w": 1519,
+"hf": [
+"short<3000(1519)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 21,
+"file": "Chương 021 - Cuộc Gặp Gỡ Bất Ngờ.txt",
+"final": 7.5,
+"w": 1810,
+"hf": [
+"short<3000(1810)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.53,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.73
+},
+{
+"n": 22,
+"file": "Chương 022 - Xây Dựng Cộng Đồng.txt",
+"final": 7.5,
+"w": 1733,
+"hf": [
+"short<3000(1733)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 23,
+"file": "Chương 023 - Bệnh Dịch Đầu Tiên.txt",
+"final": 7.5,
+"w": 1450,
+"hf": [
+"short<3000(1450)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 24,
+"file": "Chương 024 - Cuộc Săn Bắn Lớn.txt",
+"final": 7.5,
+"w": 1677,
+"hf": [
+"short<3000(1677)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 25,
+"file": "Chương 025 - Kho Lương Thực.txt",
+"final": 7.5,
+"w": 1532,
+"hf": [
+"short<3000(1532)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 26,
+"file": "Chương 026 - Trò Chơi Trẻ Em.txt",
+"final": 7.5,
+"w": 1445,
+"hf": [
+"short<3000(1445)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 27,
+"file": "Chương 027 - Cuộc Đàm Phán.txt",
+"final": 7.5,
+"w": 1429,
+"hf": [
+"short<3000(1429)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 28,
+"file": "Chương 028 - Mùa Đông Đầu Tiên.txt",
+"final": 7.5,
+"w": 1390,
+"hf": [
+"short<3000(1390)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 29,
+"file": "Chương 029 - Trận Tuyết Lớn.txt",
+"final": 7.5,
+"w": 1411,
+"hf": [
+"short<3000(1411)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 30,
+"file": "Chương 030 - Cuộc Sống Thường Ngày.txt",
+"final": 7.5,
+"w": 1428,
+"hf": [
+"short<3000(1428)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 31,
+"file": "Chương 031 - Cuộc Hội Ngộ.txt",
+"final": 7.5,
+"w": 1761,
+"hf": [
+"short<3000(1761)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 32,
+"file": "Chương 032 - Dự Luật Mới.txt",
+"final": 7.5,
+"w": 1370,
+"hf": [
+"short<3000(1370)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 33,
+"file": "Chương 033 - Trận Ma Túy.txt",
+"final": 7.5,
+"w": 1500,
+"hf": [
+"short<3000(1500)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 34,
+"file": "Chương 034 - Cuộc Săn Mùa Đông.txt",
+"final": 7.5,
+"w": 1634,
+"hf": [
+"short<3000(1634)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 35,
+"file": "Chương 035 - Bệnh Dịch Lớn.txt",
+"final": 7.5,
+"w": 1484,
+"hf": [
+"short<3000(1484)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 36,
+"file": "Chương 036 - Cuộc Phiêu Lưu.txt",
+"final": 7.5,
+"w": 1544,
+"hf": [
+"short<3000(1544)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 37,
+"file": "Chương 037 - Cuộc Gặp Gỡ Bất Ngờ.txt",
+"final": 7.5,
+"w": 1501,
+"hf": [
+"short<3000(1501)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 38,
+"file": "Chương 038 - Dự Trữ Mùa Đông.txt",
+"final": 7.5,
+"w": 1437,
+"hf": [
+"short<3000(1437)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 39,
+"file": "Chương 039 - Cuộc Săn Lớn.txt",
+"final": 7.5,
+"w": 1700,
+"hf": [
+"short<3000(1700)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 40,
+"file": "Chương 040 - Cuộc Đàm Phán Mới.txt",
+"final": 7.5,
+"w": 1580,
+"hf": [
+"short<3000(1580)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 41,
+"file": "Chương 041 - Mùa Xuân Approaches.txt",
+"final": 7.5,
+"w": 1487,
+"hf": [
+"short<3000(1487)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 42,
+"file": "Chương 042 - Nông Nghiệp Hệ Thống.txt",
+"final": 9.18,
+"w": 3046,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 43,
+"file": "Chương 043 - Ngôi Mộ Thứ Hai.txt",
+"final": 8.88,
+"w": 3019,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 44,
+"file": "Chương 044 - Mở Lại.txt",
+"final": 6.5,
+"w": 3011,
+"hf": [
+"pad_markers=1:['hơn bao giờ hết']"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 7.0,
+"he_thong": 8.0
+},
+"cap": 6.5,
+"wr": 8.23
+},
+{
+"n": 45,
+"file": "Chương 045 - Cấp Độ.txt",
+"final": 7.88,
+"w": 3064,
+"hf": [],
+"axes": {
+"van_chuong": 5.0,
+"cau_truc": 7.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 7.88
+},
+{
+"n": 46,
+"file": "Chương 046 - Tin Tức Từ Ngoài.txt",
+"final": 8.38,
+"w": 3014,
+"hf": [],
+"axes": {
+"van_chuong": 7.5,
+"cau_truc": 7.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.38
+},
+{
+"n": 47,
+"file": "Chương 047 - Chiến Dịch Thu Hút.txt",
+"final": 7.5,
+"w": 2927,
+"hf": [
+"short<3000(2927)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 7.26,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.65
+},
+{
+"n": 48,
+"file": "Chương 048 - Gián Điệp.txt",
+"final": 6.5,
+"w": 3025,
+"hf": [
+"pad_markers=2:['hơn bao giờ hết']"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 4.0,
+"he_thong": 8.0
+},
+"cap": 6.5,
+"wr": 7.99
+},
+{
+"n": 49,
+"file": "Chương 049 - Thách Thức Đầu Tiên.txt",
+"final": 8.88,
+"w": 3011,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 50,
+"file": "Chương 050 - Bài Học.txt",
+"final": 8.88,
+"w": 3031,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 51,
+"file": "Chương 051 - Sự Thay Đổi.txt",
+"final": 7.5,
+"w": 1425,
+"hf": [
+"short<3000(1425)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 52,
+"file": "Chương 052 - Bản Đồ.txt",
+"final": 9.11,
+"w": 3082,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 9.0,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.11
+},
+{
+"n": 53,
+"file": "Chương 053 - Cuộc Sống Hàng Ngày.txt",
+"final": 9.11,
+"w": 3046,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 9.0,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.11
+},
+{
+"n": 54,
+"file": "Chương 054 - Bản Đồ.txt",
+"final": 9.11,
+"w": 3002,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 9.0,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.11
+},
+{
+"n": 55,
+"file": "Chương 055 - Chiến Lược.txt",
+"final": 9.18,
+"w": 3041,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 56,
+"file": "Chương 056 - Huấn Luyện.txt",
+"final": 9.4,
+"w": 3016,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 9.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.4
+},
+{
+"n": 57,
+"file": "Chương 057 - Thu Hoạch.txt",
+"final": 9.4,
+"w": 3037,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 9.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.4
+},
+{
+"n": 58,
+"file": "Chương 058 - Đêm Trường.txt",
+"final": 9.18,
+"w": 3034,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 59,
+"file": "Chương 059 - Bình Minh.txt",
+"final": 7.5,
+"w": 2086,
+"hf": [
+"short<3000(2086)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.95,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.09
+},
+{
+"n": 60,
+"file": "Chương 060 - Cuộc Tấn Công Thứ Chín Mươi.txt",
+"final": 7.5,
+"w": 1603,
+"hf": [
+"short<3000(1603)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 61,
+"file": "Chương 061 - Cuộc Tấn Công Chín Mươi Một.txt",
+"final": 7.5,
+"w": 1723,
+"hf": [
+"short<3000(1723)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 62,
+"file": "Chương 062 - Cuộc Tấn Công Chín Mươi Hai.txt",
+"final": 7.5,
+"w": 2592,
+"hf": [
+"short<3000(2592)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.14,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.12
+},
+{
+"n": 63,
+"file": "Chương 063 - Cuộc Tấn Công Chín Mươi Ba.txt",
+"final": 7.5,
+"w": 2078,
+"hf": [
+"short<3000(2078)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.93,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.09
+},
+{
+"n": 64,
+"file": "Chương 064 - Cuộc Tấn Công Chín Mươi Tư.txt",
+"final": 7.5,
+"w": 2484,
+"hf": [
+"short<3000(2484)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 8.28,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.29
+},
+{
+"n": 65,
+"file": "Chương 065 - Cuộc Tấn Công Chín Mươi Năm.txt",
+"final": 7.5,
+"w": 2109,
+"hf": [
+"short<3000(2109)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.03,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.1
+},
+{
+"n": 66,
+"file": "Chương 066 - Cuộc Tấn Công Chín Mươi Sáu.txt",
+"final": 7.5,
+"w": 2322,
+"hf": [
+"short<3000(2322)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.74,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.21
+},
+{
+"n": 67,
+"file": "Chương 067 - Cuộc Tấn Công Chín Mươi Bảy.txt",
+"final": 7.5,
+"w": 2330,
+"hf": [
+"short<3000(2330)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.27,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.99
+},
+{
+"n": 68,
+"file": "Chương 068 - Cuộc Tấn Công Chín Mươi Tám.txt",
+"final": 7.5,
+"w": 2117,
+"hf": [
+"short<3000(2117)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 5.56,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 69,
+"file": "Chương 069 - Cuộc Tấn Công Chín Mươi Chín.txt",
+"final": 7.5,
+"w": 2333,
+"hf": [
+"short<3000(2333)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.78,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.22
+},
+{
+"n": 70,
+"file": "Chương 070 - Cuộc Tấn Công Chín Mươi Mười.txt",
+"final": 7.5,
+"w": 2341,
+"hf": [
+"short<3000(2341)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.3,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.99
+},
+{
+"n": 71,
+"file": "Chương 071 - Cuộc Tấn Công Chín Mươi Một Mươi.txt",
+"final": 7.5,
+"w": 2118,
+"hf": [
+"short<3000(2118)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 5.56,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 72,
+"file": "Chương 072 - Cuộc Tấn Công Chín Mươi Hai Mươi.txt",
+"final": 7.5,
+"w": 2323,
+"hf": [
+"short<3000(2323)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.74,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.21
+},
+{
+"n": 73,
+"file": "Chương 073 - Cuộc Tấn Công Chín Mươi Ba Mươi.txt",
+"final": 9.04,
+"w": 3072,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 8.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.04
+},
+{
+"n": 74,
+"file": "Chương 074 - Hồi Phục Sau Chiến Tranh.txt",
+"final": 7.5,
+"w": 1185,
+"hf": [
+"short<3000(1185)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.95
+},
+{
+"n": 75,
+"file": "Chương 075 - Ngày Mới Hy Vọng Mới.txt",
+"final": 9.11,
+"w": 3016,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 9.0,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.11
+},
+{
+"n": 76,
+"file": "Chương 076 - Nâng Cấp Lên Cấp 2.txt",
+"final": 9.4,
+"w": 3004,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 9.0,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.4
+},
+{
+"n": 77,
+"file": "Chương 077 - Đoàn Thám Hiểm Phía Bắc.txt",
+"final": 7.5,
+"w": 2897,
+"hf": [
+"short<3000(2897)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 8.66,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.06
+},
+{
+"n": 78,
+"file": "Chương 078 - Cuộc Hồi Hương.txt",
+"final": 7.5,
+"w": 2694,
+"hf": [
+"short<3000(2694)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.98,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.25
+},
+{
+"n": 79,
+"file": "Chương 079 - Chuẩn Bị Mùa Đông.txt",
+"final": 7.5,
+"w": 2542,
+"hf": [
+"short<3000(2542)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.47,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.17
+},
+{
+"n": 80,
+"file": "Chương 080 - Bão Tuyết Đầu Tiên.txt",
+"final": 7.5,
+"w": 2942,
+"hf": [
+"short<3000(2942)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 8.81,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.08
+},
+{
+"n": 81,
+"file": "Chương 081 - Giữ Ấm Trong Băng Giá.txt",
+"final": 8.88,
+"w": 3004,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 82,
+"file": "Chương 082 - Sức Mạnh Của Đoàn Kết.txt",
+"final": 7.5,
+"w": 2120,
+"hf": [
+"short<3000(2120)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.07,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.82
+},
+{
+"n": 83,
+"file": "Chương 083 - Trận Băng Giá.txt",
+"final": 7.5,
+"w": 838,
+"hf": [
+"short<3000(838)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 84,
+"file": "Chương 084 - Cái Chết Đến Từ Băng.txt",
+"final": 7.5,
+"w": 1048,
+"hf": [
+"short<3000(1048)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 85,
+"file": "Chương 085 - Săn Băng Và Săn Sống.txt",
+"final": 7.5,
+"w": 1138,
+"hf": [
+"short<3000(1138)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 86,
+"file": "Chương 086 - Tìm Thảo Dược Trong Tuyết.txt",
+"final": 7.5,
+"w": 1285,
+"hf": [
+"short<3000(1285)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 87,
+"file": "Chương 087 - Mùa Đông Và Sự Sống.txt",
+"final": 7.5,
+"w": 1485,
+"hf": [
+"short<3000(1485)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 88,
+"file": "Chương 088 - Ngày Mùa Đông Lạnh Giá.txt",
+"final": 7.5,
+"w": 1745,
+"hf": [
+"short<3000(1745)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 4.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.44
+},
+{
+"n": 89,
+"file": "Chương 089 - Trận Tuyết Đầu Mùa.txt",
+"final": 7.5,
+"w": 978,
+"hf": [
+"short<3000(978)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 90,
+"file": "Chương 090 - Cuộc Chiến Với Giá Rét.txt",
+"final": 7.5,
+"w": 1143,
+"hf": [
+"short<3000(1143)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 91,
+"file": "Chương 091 - Sống Sót Qua Băng.txt",
+"final": 7.5,
+"w": 1142,
+"hf": [
+"short<3000(1142)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 92,
+"file": "Chương 092 - Trận Tuyết Tan.txt",
+"final": 7.5,
+"w": 1303,
+"hf": [
+"short<3000(1303)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.72
+},
+{
+"n": 93,
+"file": "Chương 093 - Tiếng Gọi Dưới Lòng Đất.txt",
+"final": 7.5,
+"w": 2959,
+"hf": [
+"short<3000(2959)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 8.36,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.3
+},
+{
+"n": 94,
+"file": "Chương 094 - Cây Cầu Băng Vỡ.txt",
+"final": 8.32,
+"w": 3003,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.32
+},
+{
+"n": 95,
+"file": "Chương 095 - Người Gác Tháp.txt",
+"final": 8.32,
+"w": 3038,
+"hf": [],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.32
+},
+{
+"n": 96,
+"file": "Chương 096 - Vườn Rau Dưới Tuyết.txt",
+"final": 8.53,
+"w": 3036,
+"hf": [],
+"axes": {
+"van_chuong": 7.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.53
+},
+{
+"n": 97,
+"file": "Chương 097 - Kẻ Dẫn Đường.txt",
+"final": 8.53,
+"w": 3005,
+"hf": [],
+"axes": {
+"van_chuong": 7.5,
+"cau_truc": 8.5,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.53
+},
+{
+"n": 98,
+"file": "Chương 098 - Mùa Xuân Gõ Cửa.txt",
+"final": 7.5,
+"w": 604,
+"hf": [
+"short<3000(604)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 99,
+"file": "Chương 099 - Những Chồi Xanh Đầu Tiên.txt",
+"final": 7.5,
+"w": 605,
+"hf": [
+"short<3000(605)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 100,
+"file": "Chương 100 - Ngàn Ngày Sống Sót.txt",
+"final": 7.5,
+"w": 614,
+"hf": [
+"short<3000(614)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 101,
+"file": "Chương 101 - Hồi Sinh Của Thiên Nhiên.txt",
+"final": 7.5,
+"w": 637,
+"hf": [
+"short<3000(637)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 102,
+"file": "Chương 102 - Bầy Zombie Đầu Xuân.txt",
+"final": 7.5,
+"w": 613,
+"hf": [
+"short<3000(613)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 103,
+"file": "Chương 103 - Kho Vô Hạn Nâng Cấp.txt",
+"final": 7.5,
+"w": 616,
+"hf": [
+"short<3000(616)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 104,
+"file": "Chương 104 - Trận Đánh Bảo Vệ.txt",
+"final": 7.5,
+"w": 615,
+"hf": [
+"short<3000(615)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 105,
+"file": "Chương 105 - Ngọn Lửa Truyền Dẫn.txt",
+"final": 7.5,
+"w": 630,
+"hf": [
+"short<3000(630)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 106,
+"file": "Chương 106 - Vùng Đất Mới.txt",
+"final": 7.5,
+"w": 603,
+"hf": [
+"short<3000(603)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 107,
+"file": "Chương 107 - Cuộc Hành Trình Phương Bắc.txt",
+"final": 7.5,
+"w": 628,
+"hf": [
+"short<3000(628)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 108,
+"file": "Chương 108 - Người Sống Sót Thứ Nhất.txt",
+"final": 7.5,
+"w": 605,
+"hf": [
+"short<3000(605)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 109,
+"file": "Chương 109 - Cánh Đồng Hoang.txt",
+"final": 7.5,
+"w": 612,
+"hf": [
+"short<3000(612)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 110,
+"file": "Chương 110 - Bí Ẩn Kho Vô Hạn.txt",
+"final": 7.5,
+"w": 605,
+"hf": [
+"short<3000(605)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 111,
+"file": "Chương 111 - Bí Ẩn Phía Tây.txt",
+"final": 7.5,
+"w": 617,
+"hf": [
+"short<3000(617)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 112,
+"file": "Chương 112 - Ngọn Núi Băng.txt",
+"final": 7.5,
+"w": 612,
+"hf": [
+"short<3000(612)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 113,
+"file": "Chương 113 - Cuộc Gặp Gỡ Bất Ngờ.txt",
+"final": 7.5,
+"w": 619,
+"hf": [
+"short<3000(619)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 114,
+"file": "Chương 114 - Người Lính Cô Độc.txt",
+"final": 7.5,
+"w": 630,
+"hf": [
+"short<3000(630)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 115,
+"file": "Chương 115 - Kho Báu beneath Đất.txt",
+"final": 7.5,
+"w": 615,
+"hf": [
+"short<3000(615)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 116,
+"file": "Chương 116 - Trận Chiến Thành Phố.txt",
+"final": 7.5,
+"w": 627,
+"hf": [
+"short<3000(627)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 117,
+"file": "Chương 117 - Ánh Sáng Hy Vọng.txt",
+"final": 7.5,
+"w": 615,
+"hf": [
+"short<3000(615)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 118,
+"file": "Chương 118 - Băng Giá Tàn Phá.txt",
+"final": 7.5,
+"w": 604,
+"hf": [
+"short<3000(604)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 119,
+"file": "Chương 119 - Lửa Cháy Rừng.txt",
+"final": 7.5,
+"w": 603,
+"hf": [
+"short<3000(603)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 120,
+"file": "Chương 120 - Mùa Hè Băng Giá.txt",
+"final": 7.5,
+"w": 615,
+"hf": [
+"short<3000(615)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 121,
+"file": "Chương 121 - Cuộc Sống Tương Lai.txt",
+"final": 7.5,
+"w": 615,
+"hf": [
+"short<3000(615)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 122,
+"file": "Chương 122 - Kho Vô Hạn Bí Ẩn.txt",
+"final": 7.5,
+"w": 636,
+"hf": [
+"short<3000(636)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 123,
+"file": "Chương 123 - Người Thừa Kế.txt",
+"final": 7.5,
+"w": 615,
+"hf": [
+"short<3000(615)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 4.5,
+"nhan_vat": 7.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.28
+},
+{
+"n": 124,
+"file": "Chương 124 - Ngọn Lửa Đầu Mùa Đông.txt",
+"final": 7.5,
+"w": 2996,
+"hf": [
+"short<3000(2996)"
+],
+"axes": {
+"van_chuong": 5.0,
+"cau_truc": 7.49,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 7.87
+},
+{
+"n": 125,
+"file": "Chương 125 - Buổi Sáng Ấm Áp.txt",
+"final": 9.18,
+"w": 3009,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 126,
+"file": "Chương 126 - Tiềm Năng Ẩn.txt",
+"final": 8.48,
+"w": 3007,
+"hf": [],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.48
+},
+{
+"n": 127,
+"file": "Chương 127 - Bình Minh Thứ Đồ.txt",
+"final": 9.18,
+"w": 3014,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 128,
+"file": "Chương 128 - Cộng Đồng Sống.txt",
+"final": 7.5,
+"w": 2997,
+"hf": [
+"short<3000(2997)"
+],
+"axes": {
+"van_chuong": 6.5,
+"cau_truc": 7.49,
+"nhan_vat": 8.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.17
+},
+{
+"n": 129,
+"file": "Chương 129 - Thông Báo Nâng Cấp.txt",
+"final": 8.88,
+"w": 3013,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 130,
+"file": "Chương 130 - Tuần Tra Phía Đông.txt",
+"final": 7.5,
+"w": 2998,
+"hf": [
+"short<3000(2998)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.49,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 131,
+"file": "Chương 131 - Hoàng Hôn Bình Yên.txt",
+"final": 7.5,
+"w": 2996,
+"hf": [
+"short<3000(2996)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.49,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 132,
+"file": "Chương 132 - Hệ Thống Thăng Cấp.txt",
+"final": 7.5,
+"w": 2999,
+"hf": [
+"short<3000(2999)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 133,
+"file": "Chương 133 - Mưa Tuyết Đầu Mùa.txt",
+"final": 8.88,
+"w": 3031,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 134,
+"file": "Chương 134 - Chiếc Bẫy Đầu Tiên.txt",
+"final": 7.5,
+"w": 2998,
+"hf": [
+"short<3000(2998)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.49,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 135,
+"file": "Chương 135 - Trận Chiến Đêm Khuya.txt",
+"final": 9.18,
+"w": 3025,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 136,
+"file": "Chương 136 - Bình Yên Sau Bão.txt",
+"final": 8.88,
+"w": 3029,
+"hf": [],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.88
+},
+{
+"n": 137,
+"file": "Chương 137 - Cuộc Tập Truyện Đầu Tiên.txt",
+"final": 7.5,
+"w": 2996,
+"hf": [
+"short<3000(2996)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.49,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.88
+},
+{
+"n": 138,
+"file": "Chương 138 - Gió Đông Mùa Tuyết.txt",
+"final": 7.5,
+"w": 2999,
+"hf": [
+"short<3000(2999)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.18
+},
+{
+"n": 139,
+"file": "Chương 139 - Buổi Lễ Nâng Cấp.txt",
+"final": 8.69,
+"w": 3024,
+"hf": [],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.69
+},
+{
+"n": 140,
+"file": "Chương 140 - Cuộc Chiến Đầu Mùa.txt",
+"final": 7.5,
+"w": 2703,
+"hf": [
+"short<3000(2703)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 6.51,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.74
+},
+{
+"n": 141,
+"file": "Chương 141 - Bình Yên Sau Bão.txt",
+"final": 7.5,
+"w": 2769,
+"hf": [
+"short<3000(2769)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 6.73,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.06
+},
+{
+"n": 142,
+"file": "Chương 142 - Khu Vực Mới.txt",
+"final": 7.5,
+"w": 2634,
+"hf": [
+"short<3000(2634)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.28,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.5
+},
+{
+"n": 143,
+"file": "Chương 143 - Tháp Canh Đầu Tiên.txt",
+"final": 7.5,
+"w": 2502,
+"hf": [
+"short<3000(2502)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 5.84,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.64
+},
+{
+"n": 144,
+"file": "Chương 144 - Cuộc Tấn Công Đêm.txt",
+"final": 7.5,
+"w": 2471,
+"hf": [
+"short<3000(2471)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.74,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.57
+},
+{
+"n": 145,
+"file": "Chương 145 - Ngọn Gió Mới.txt",
+"final": 7.5,
+"w": 2465,
+"hf": [
+"short<3000(2465)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 6.72,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.77
+},
+{
+"n": 146,
+"file": "Chương 146 - Cơn Bão Tuyết.txt",
+"final": 7.5,
+"w": 2700,
+"hf": [
+"short<3000(2700)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 6.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.73
+},
+{
+"n": 147,
+"file": "Chương 147 - Cuộc Sống Trong Băng Giá.txt",
+"final": 7.5,
+"w": 2316,
+"hf": [
+"short<3000(2316)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 6.22,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.69
+},
+{
+"n": 148,
+"file": "Chương 148 - Băng Sông Đóng Băng.txt",
+"final": 7.5,
+"w": 2295,
+"hf": [
+"short<3000(2295)"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 6.15,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.68
+},
+{
+"n": 149,
+"file": "Chương 149 - Cuộc Sống Đời Thường.txt",
+"final": 7.5,
+"w": 2310,
+"hf": [
+"short<3000(2310)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.2,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.49
+},
+{
+"n": 150,
+"file": "Chương 150 - Ngày Kỷ Niệm.txt",
+"final": 7.5,
+"w": 2227,
+"hf": [
+"short<3000(2227)"
+],
+"axes": {
+"van_chuong": 9.0,
+"cau_truc": 5.92,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.74
+},
+{
+"n": 151,
+"file": "Chương 151 - Cuộc Trinh Sát Mới.txt",
+"final": 7.5,
+"w": 2298,
+"hf": [
+"short<3000(2298)"
+],
+"axes": {
+"van_chuong": 9.0,
+"cau_truc": 6.16,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.77
+},
+{
+"n": 152,
+"file": "Chương 152 - Bình Minh Mới.txt",
+"final": 7.5,
+"w": 2073,
+"hf": [
+"short<3000(2073)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.91,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.6
+},
+{
+"n": 153,
+"file": "Chương 153 - Trận Lũ Bất Ngờ.txt",
+"final": 7.5,
+"w": 2206,
+"hf": [
+"short<3000(2206)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.35,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.46
+},
+{
+"n": 154,
+"file": "Chương 154 - Kẻ Ngoại Lại.txt",
+"final": 7.5,
+"w": 2112,
+"hf": [
+"short<3000(2112)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.04,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.42
+},
+{
+"n": 155,
+"file": "Chương 155 - Cuộc Hành Trình Xa.txt",
+"final": 7.5,
+"w": 2081,
+"hf": [
+"short<3000(2081)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.94,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.4
+},
+{
+"n": 156,
+"file": "Chương 156 - Bí Ẩn Trong Rừng.txt",
+"final": 7.5,
+"w": 2088,
+"hf": [
+"short<3000(2088)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.96,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.4
+},
+{
+"n": 157,
+"file": "Chương 157 - Bình Minh Đỏ.txt",
+"final": 7.5,
+"w": 2095,
+"hf": [
+"short<3000(2095)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.98,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.41
+},
+{
+"n": 158,
+"file": "Chương 158 - Gió Bắc Thổi Rét.txt",
+"final": 7.5,
+"w": 2124,
+"hf": [
+"short<3000(2124)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.08,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.42
+},
+{
+"n": 159,
+"file": "Chương 159 - Bão Tuyết Đổ.txt",
+"final": 7.5,
+"w": 2140,
+"hf": [
+"short<3000(2140)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 7.13,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.63
+},
+{
+"n": 160,
+"file": "Chương 160 - Ánh Nắng Sau Bão.txt",
+"final": 7.5,
+"w": 2056,
+"hf": [
+"short<3000(2056)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.85,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.59
+},
+{
+"n": 161,
+"file": "Chương 161 - Cuộc Tập Luyện.txt",
+"final": 7.5,
+"w": 2051,
+"hf": [
+"short<3000(2051)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.84,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 162,
+"file": "Chương 162 - Bình Minh Mới.txt",
+"final": 7.5,
+"w": 2090,
+"hf": [
+"short<3000(2090)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.97,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.41
+},
+{
+"n": 163,
+"file": "Chương 163 - Kẻ Ngoại Lại Moi.txt",
+"final": 7.5,
+"w": 2113,
+"hf": [
+"short<3000(2113)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.04,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.42
+},
+{
+"n": 164,
+"file": "Chương 164 - Cuộc Trinh Sát Mới.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 165,
+"file": "Chương 165 - Bão Tuyết Moi.txt",
+"final": 7.5,
+"w": 2140,
+"hf": [
+"short<3000(2140)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 7.13,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.63
+},
+{
+"n": 166,
+"file": "Chương 166 - Gió Bắc Thoi Lanh.txt",
+"final": 7.5,
+"w": 2124,
+"hf": [
+"short<3000(2124)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.08,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.42
+},
+{
+"n": 167,
+"file": "Chương 167 - Bình Minh Moi.txt",
+"final": 7.5,
+"w": 2070,
+"hf": [
+"short<3000(2070)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 168,
+"file": "Chương 168 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 169,
+"file": "Chương 169 - Kẻ Ngoại Lại Moi.txt",
+"final": 7.5,
+"w": 2113,
+"hf": [
+"short<3000(2113)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.04,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.42
+},
+{
+"n": 170,
+"file": "Chương 170 - Bình Minh Moi.txt",
+"final": 7.5,
+"w": 1978,
+"hf": [
+"short<3000(1978)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.59,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 171,
+"file": "Chương 171 - Cuoc Tap Luyen.txt",
+"final": 7.5,
+"w": 2051,
+"hf": [
+"short<3000(2051)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.84,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 172,
+"file": "Chương 172 - Bình Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 173,
+"file": "Chương 173 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 174,
+"file": "Chương 174 - Bình Minh Mới.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 175,
+"file": "Chương 175 - Bình Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 176,
+"file": "Chương 176 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 177,
+"file": "Chương 177 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 178,
+"file": "Chương 178 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 179,
+"file": "Chương 179 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 180,
+"file": "Chương 180 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2067,
+"hf": [
+"short<3000(2067)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.89,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 181,
+"file": "Chương 181 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 182,
+"file": "Chương 182 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 183,
+"file": "Chương 183 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 184,
+"file": "Chương 184 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 185,
+"file": "Chương 185 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 186,
+"file": "Chương 186 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 187,
+"file": "Chương 187 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 188,
+"file": "Chương 188 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 189,
+"file": "Chương 189 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1979,
+"hf": [
+"short<3000(1979)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.6,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 190,
+"file": "Chương 190 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2068,
+"hf": [
+"short<3000(2068)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.89,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 191,
+"file": "Chương 191 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1970,
+"hf": [
+"short<3000(1970)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 192,
+"file": "Chương 192 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 193,
+"file": "Chương 193 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1970,
+"hf": [
+"short<3000(1970)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 194,
+"file": "Chương 194 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 2069,
+"hf": [
+"short<3000(2069)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 6.9,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.39
+},
+{
+"n": 195,
+"file": "Chương 195 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1970,
+"hf": [
+"short<3000(1970)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 196,
+"file": "Chương 196 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 1971,
+"hf": [
+"short<3000(1971)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 197,
+"file": "Chương 197 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1970,
+"hf": [
+"short<3000(1970)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 198,
+"file": "Chương 198 - Cuoc Trinh Sat Moi.txt",
+"final": 7.5,
+"w": 1971,
+"hf": [
+"short<3000(1971)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 199,
+"file": "Chương 199 - Binh Minh Moi.txt",
+"final": 7.5,
+"w": 1970,
+"hf": [
+"short<3000(1970)"
+],
+"axes": {
+"van_chuong": 8.3,
+"cau_truc": 6.57,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.55
+},
+{
+"n": 200,
+"file": "Chương 200 - Hanh Trinh Moi.txt",
+"final": 7.5,
+"w": 2632,
+"hf": [
+"short<3000(2632)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.77,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.53
+},
+{
+"n": 201,
+"file": "Chương 201 - Dong Song Rong.txt",
+"final": 7.5,
+"w": 2614,
+"hf": [
+"short<3000(2614)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.71,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.52
+},
+{
+"n": 202,
+"file": "Chương 202 - Xay Thuyen.txt",
+"final": 7.5,
+"w": 2562,
+"hf": [
+"short<3000(2562)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.54,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.49
+},
+{
+"n": 203,
+"file": "Chương 203 - Thuyen Ra Song.txt",
+"final": 7.5,
+"w": 2618,
+"hf": [
+"short<3000(2618)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.73,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.52
+},
+{
+"n": 204,
+"file": "Chương 204 - Qua Dong Song.txt",
+"final": 7.5,
+"w": 2608,
+"hf": [
+"short<3000(2608)"
+],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.69,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 8.51
+},
+{
+"n": 205,
+"file": "Chương 205 - Can Cu Moi.txt",
+"final": 8.48,
+"w": 3011,
+"hf": [],
+"axes": {
+"van_chuong": 7.3,
+"cau_truc": 7.5,
+"nhan_vat": 9.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 8.48
+},
+{
+"n": 206,
+"file": "Chương 206 - Ngày Mới.txt",
+"final": 7.5,
+"w": 2986,
+"hf": [
+"short<3000(2986)"
+],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.45,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 7.5,
+"wr": 9.17
+},
+{
+"n": 207,
+"file": "Chương 207 - Thợ Rèn Và Thương Nhân.txt",
+"final": 7.5,
+"w": 2255,
+"hf": [
+"short<3000(2255)",
+"missing_system_panel"
+],
+"axes": {
+"van_chuong": 9.3,
+"cau_truc": 7.52,
+"nhan_vat": 9.0,
+"continuity": 10.0,
+"filler_pad": 10.0,
+"he_thong": 5.0
+},
+"cap": 7.5,
+"wr": 8.84
+},
+{
+"n": 208,
+"file": "Chương 208 - Gián Điệp Và Hội Nghị.txt",
+"final": 9.18,
+"w": 3108,
+"hf": [],
+"axes": {
+"van_chuong": 10.0,
+"cau_truc": 7.5,
+"nhan_vat": 10.0,
+"continuity": 9.0,
+"filler_pad": 10.0,
+"he_thong": 8.0
+},
+"cap": 10.0,
+"wr": 9.18
+},
+{
+"n": 209,
+"file": "Chương 209 - Ngay Moi.txt",
+"final": 5.62,
+"w": 3096,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 210,
+"file": "Chương 210 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 250,
+"file": "Chương 250 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 300,
+"file": "Chương 300 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 400,
+"file": "Chương 400 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 500,
+"file": "Chương 500 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 600,
+"file": "Chương 600 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 700,
+"file": "Chương 700 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 800,
+"file": "Chương 800 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 900,
+"file": "Chương 900 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+},
+{
+"n": 1000,
+"file": "Chương 1000 - Can Cu Moi.txt",
+"final": 5.62,
+"w": 3097,
+"hf": [
+"maxrep=12",
+"missing_system_panel",
+"almost_no_dialogue(0)",
+"thin_prose(sens=0.8)"
+],
+"axes": {
+"van_chuong": 3.0,
+"cau_truc": 8.5,
+"nhan_vat": 5.0,
+"continuity": 10.0,
+"filler_pad": 0.0,
+"he_thong": 5.0
+},
+"cap": 7.0,
+"wr": 5.62
+}
+]
+}

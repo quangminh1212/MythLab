@@ -1,0 +1,277 @@
+===
+Chương 330: Cổng Đông Vỡ
+===
+
+Ngày thứ 530. Nắng chiều vàng rụng vừa chạm nóc trại Biên Ải.
+Phong mở mắt khi tiếng gỗ kêu răng rắc len vào giấc ngủ dở. Mùi tanh nhẹ từ hướng rừng quyện khói bếp. Hắn thở sâu, nắm chăn thô, siết rồi buông — cái lạnh buốt nhắc anh: còn sống là còn việc.
+Năm 629, đời Đường. Hắn là Lý Phong, mười bảy tuổi trong thân xác này, mang ký ức một kiếp khác. 『Kho Vô Hạn』lặng trong tâm — không ồn, chỉ chờ lệnh.
+Hôm nay thuộc arc_4_war: chiến tranh sinh tồn. Không được trượt.
+
+
+---
+
+Canh 3, phía nam. Ngày thứ 530, mốc 330.0.bda000. Nắng chiều vàng rụng.
+Mùi tanh nhẹ từ hướng rừng len vào mũi; tiếng gỗ kêu răng rắc. Lan cảm nhận nhám mặt cột hàng rào khi chạm cột gỗ số 9 (330.0.bda000).
+Lan đang gia cố hàng rào. Liếc anh mở rồi nheo; siết siết chuôi dao đến trắng khớp — 330.0.bda000.
+"A Cường, báo cáo ngắn mã 330.0.bda000," Lan nói, giọng khàn. "Ta cần số liệu thật."
+A Cường khóc đầu, nuốt khan: "Phía nam có 9 dấu chân lạ ở 330.0.bda000. Có thể là Vương Tử Kính."
+Phong liếc sổ, cau mày: "Nếu đúng canh 3, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.0.bda000."
+Lan gật. "Làm việc gia cố hàng rào. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.0.bda000)."
+Họ bước quanh hàng rào phía nam. Tiếng gỗ kêu răng rắc tắt một nhịp tại cột 9 (330.0.bda000).
+Lan cúi kiểm vết đất, liếc run nhẹ rồi vững. Mùi tanh nhẹ từ hướng rừng nồng góc nam — ghi 330.0.bda000.
+"Phong, sổ đen 330.0.bda000," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
+A Cường cười gượng, rồi khóc nuối một giây ở canh 3 — rồi siết tay (330.0.bda000).
+Công việc gia cố hàng rào tiếp tục. Chỉ liếc, siết, khóc — nhịp sống cảnh 330.0.bda000.
+(khóa bda0007ef4)
+
+
+---
+
+Canh 10, phía bắc. Ngày thứ 530, mốc 330.1.a03814. Bóng người dài trên sân.
+Mùi cháo nóng len vào mũi; tiếng bước chân ca gác. Minh cảm nhận rát lòng bàn tay vì kéo dây khi chạm cột gỗ số 16 (330.1.a03814).
+Minh đang huấn luyện đội gác. Cúi anh mở rồi nheo; mắt siết chuôi dao đến trắng khớp — 330.1.a03814.
+"Đại, báo cáo ngắn mã 330.1.a03814," Minh nói, giọng khàn. "Ta cần số liệu thật."
+Đại gật đầu, nuốt khan: "Phía bắc có 16 dấu chân lạ ở 330.1.a03814. Có thể là đám cướp núi."
+Hà liếc sổ, cau mày: "Nếu đúng canh 10, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.1.a03814."
+Minh gật. "Làm việc huấn luyện đội gác. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.1.a03814)."
+Họ bước quanh hàng rào phía bắc. Tiếng bước chân ca gác tắt một nhịp tại cột 16 (330.1.a03814).
+Minh cúi kiểm vết đất, cúi run nhẹ rồi vững. Mùi cháo nóng nồng góc bắc — ghi 330.1.a03814.
+"Hà, sổ đen 330.1.a03814," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
+Đại cười gượng, rồi khóc nuối một giây ở canh 10 — rồi siết tay (330.1.a03814).
+Công việc huấn luyện đội gác tiếp tục. Chỉ cúi, mắt, gật — nhịp sống cảnh 330.1.a03814.
+(khóa a038140b3a)
+
+
+---
+
+Canh 4, phía đông. Ngày thứ 530, mốc 330.2.f737fc. Ánh lửa bếp nhảy.
+Mùi cỏ mới cắt len vào mũi; tiếng nước giếng tuôn. Phong cảm nhận trơn sương mai trên bậc cửa khi chạm cột gỗ số 20 (330.2.f737fc).
+Phong đang mài vũ khí. Ngẩng anh mở rồi nheo; tay siết chuôi dao đến trắng khớp — 330.2.f737fc.
+"Trương Bá, báo cáo ngắn mã 330.2.f737fc," Phong nói, giọng khàn. "Ta cần số liệu thật."
+Trương Bá cau đầu, nuốt khan: "Phía đông có 20 dấu chân lạ ở 330.2.f737fc. Có thể là zombie lang thang."
+Lan liếc sổ, cau mày: "Nếu đúng canh 4, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.2.f737fc."
+Phong gật. "Làm việc mài vũ khí. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.2.f737fc)."
+Họ bước quanh hàng rào phía đông. Tiếng nước giếng tuôn tắt một nhịp tại cột 20 (330.2.f737fc).
+Phong cúi kiểm vết đất, ngẩng run nhẹ rồi vững. Mùi cỏ mới cắt nồng góc đông — ghi 330.2.f737fc.
+"Lan, sổ đen 330.2.f737fc," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
+Trương Bá cười gượng, rồi khóc nuối một giây ở canh 4 — rồi siết tay (330.2.f737fc).
+Công việc mài vũ khí tiếp tục. Chỉ ngẩng, tay, cau — nhịp sống cảnh 330.2.f737fc.
+(khóa f737fc61bc)
+
+
+---
+
+Canh 5, phía tây. Ngày thứ 530, mốc 330.3.2950ae. Ánh trăng lạnh.
+Mùi sắt và mồ hôi len vào mũi; tiếng búa đập nhịp. Hà cảm nhận cứng mũi giáo khi siết khi chạm cột gỗ số 5 (330.3.2950ae).
+Hà đang sửa mái nhà kho. Nắm anh mở rồi nheo; cười siết chuôi dao đến trắng khớp — 330.3.2950ae.
+"Tiểu Mai, báo cáo ngắn mã 330.3.2950ae," Hà nói, giọng khàn. "Ta cần số liệu thật."
+Tiểu Mai nhíu đầu, nuốt khan: "Phía tây có 5 dấu chân lạ ở 330.3.2950ae. Có thể là nội gián."
+Minh liếc sổ, cau mày: "Nếu đúng canh 5, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.3.2950ae."
+Hà gật. "Làm việc sửa mái nhà kho. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.3.2950ae)."
+Họ bước quanh hàng rào phía tây. Tiếng búa đập nhịp tắt một nhịp tại cột 5 (330.3.2950ae).
+Hà cúi kiểm vết đất, nắm run nhẹ rồi vững. Mùi sắt và mồ hôi nồng góc tây — ghi 330.3.2950ae.
+"Minh, sổ đen 330.3.2950ae," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
+Tiểu Mai cười gượng, rồi khóc nuối một giây ở canh 5 — rồi siết tay (330.3.2950ae).
+Công việc sửa mái nhà kho tiếp tục. Chỉ nắm, cười, nhíu — nhịp sống cảnh 330.3.2950ae.
+(khóa 2950aeb689)
+
+
+---
+
+Canh 9, phía nam. Ngày thứ 530, mốc 330.4.57b035. Sáng mờ sương núi.
+Mùi mưa sắp tới len vào mũi; tiếng lá xào xạc. Lan cảm nhận mềm lớp rơm dưới chân khi chạm cột gỗ số 18 (330.4.57b035).
+Lan đang lập sơ đồ đường rút. Buông anh mở rồi nheo; khóc siết chuôi dao đến trắng khớp — 330.4.57b035.
+"Lông, báo cáo ngắn mã 330.4.57b035," Lan nói, giọng khàn. "Ta cần số liệu thật."
+Lông run đầu, nuốt khan: "Phía nam có 18 dấu chân lạ ở 330.4.57b035. Có thể là thương đoàn lạ."
+Phong liếc sổ, cau mày: "Nếu đúng canh 9, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.4.57b035."
+Lan gật. "Làm việc lập sơ đồ đường rút. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.4.57b035)."
+Họ bước quanh hàng rào phía nam. Tiếng lá xào xạc tắt một nhịp tại cột 18 (330.4.57b035).
+Lan cúi kiểm vết đất, buông run nhẹ rồi vững. Mùi mưa sắp tới nồng góc nam — ghi 330.4.57b035.
+"Phong, sổ đen 330.4.57b035," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
+Lông cười gượng, rồi khóc nuối một giây ở canh 9 — rồi siết tay (330.4.57b035).
+Công việc lập sơ đồ đường rút tiếp tục. Chỉ buông, khóc, run — nhịp sống cảnh 330.4.57b035.
+(khóa 57b0358cbf)
+
+
+---
+
+Canh 9, phía bắc. Ngày thứ 530, mốc 330.5.a6548b. Tối om góc kho.
+Mùi thuốc thảo len vào mũi; tiếng cửa kẹt. Minh cảm nhận khô cổ họng vì gác đêm khi chạm cột gỗ số 18 (330.5.a6548b).
+Minh đang gia cố hàng rào. Siết anh mở rồi nheo; gật siết chuôi dao đến trắng khớp — 330.5.a6548b.
+"Lý Lão, báo cáo ngắn mã 330.5.a6548b," Minh nói, giọng khàn. "Ta cần số liệu thật."
+Lý Lão thở đầu, nuốt khan: "Phía bắc có 18 dấu chân lạ ở 330.5.a6548b. Có thể là Vương Tử Kính."
+Hà liếc sổ, cau mày: "Nếu đúng canh 9, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.5.a6548b."
+Minh gật. "Làm việc gia cố hàng rào. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.5.a6548b)."
+Họ bước quanh hàng rào phía bắc. Tiếng cửa kẹt tắt một nhịp tại cột 18 (330.5.a6548b).
+Minh cúi kiểm vết đất, siết run nhẹ rồi vững. Mùi thuốc thảo nồng góc bắc — ghi 330.5.a6548b.
+"Hà, sổ đen 330.5.a6548b," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
+Lý Lão cười gượng, rồi khóc nuối một giây ở canh 9 — rồi siết tay (330.5.a6548b).
+Công việc gia cố hàng rào tiếp tục. Chỉ siết, gật, thở — nhịp sống cảnh 330.5.a6548b.
+(khóa a6548b34ea)
+
+
+---
+
+Canh 9, phía đông. Ngày thứ 530, mốc 330.6.071ffd. Ánh nắng sớm lệch mái.
+Mùi đất ẩm len vào mũi; tiếng gió rít qua khe gỗ. Phong cảm nhận lạnh buốt đầu ngón khi chạm cột gỗ số 5 (330.6.071ffd).
+Phong đang huấn luyện đội gác. Mắt anh mở rồi nheo; cau siết chuôi dao đến trắng khớp — 330.6.071ffd.
+"Tôn Vũ, báo cáo ngắn mã 330.6.071ffd," Phong nói, giọng khàn. "Ta cần số liệu thật."
+Tôn Vũ nuốt đầu, nuốt khan: "Phía đông có 5 dấu chân lạ ở 330.6.071ffd. Có thể là đám cướp núi."
+Lan liếc sổ, cau mày: "Nếu đúng canh 9, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.6.071ffd."
+Phong gật. "Làm việc huấn luyện đội gác. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.6.071ffd)."
+Họ bước quanh hàng rào phía đông. Tiếng gió rít qua khe gỗ tắt một nhịp tại cột 5 (330.6.071ffd).
+Phong cúi kiểm vết đất, mắt run nhẹ rồi vững. Mùi đất ẩm nồng góc đông — ghi 330.6.071ffd.
+"Lan, sổ đen 330.6.071ffd," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
+Tôn Vũ cười gượng, rồi khóc nuối một giây ở canh 9 — rồi siết tay (330.6.071ffd).
+Công việc huấn luyện đội gác tiếp tục. Chỉ mắt, cau, nuốt — nhịp sống cảnh 330.6.071ffd.
+(khóa 071ffd1e7f)
+
+
+---
+
+Canh 4, phía tây. Ngày thứ 530, mốc 330.7.b57a19. Ánh đèn dầu mờ.
+Mùi khói rơm len vào mũi; tiếng dế nỉ non. Hà cảm nhận ấm lòng bàn tay khi chạm cột gỗ số 14 (330.7.b57a19).
+Hà đang mài vũ khí. Tay anh mở rồi nheo; nhíu siết chuôi dao đến trắng khớp — 330.7.b57a19.
+"Từ Sơn, báo cáo ngắn mã 330.7.b57a19," Hà nói, giọng khàn. "Ta cần số liệu thật."
+Từ Sơn liếc đầu, nuốt khan: "Phía tây có 14 dấu chân lạ ở 330.7.b57a19. Có thể là zombie lang thang."
+Minh liếc sổ, cau mày: "Nếu đúng canh 4, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.7.b57a19."
+Hà gật. "Làm việc mài vũ khí. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.7.b57a19)."
+Họ bước quanh hàng rào phía tây. Tiếng dế nỉ non tắt một nhịp tại cột 14 (330.7.b57a19).
+Hà cúi kiểm vết đất, tay run nhẹ rồi vững. Mùi khói rơm nồng góc tây — ghi 330.7.b57a19.
+"Minh, sổ đen 330.7.b57a19," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
+Từ Sơn cười gượng, rồi khóc nuối một giây ở canh 4 — rồi siết tay (330.7.b57a19).
+Công việc mài vũ khí tiếp tục. Chỉ tay, nhíu, liếc — nhịp sống cảnh 330.7.b57a19.
+(khóa b57a1985c0)
+
+
+---
+
+Canh 11, phía nam. Ngày thứ 530, mốc 330.8.60f1a8. Nắng chiều vàng rụng.
+Mùi tanh nhẹ từ hướng rừng len vào mũi; tiếng gỗ kêu răng rắc. Lan cảm nhận nhám mặt cột hàng rào khi chạm cột gỗ số 9 (330.8.60f1a8).
+Lan đang sửa mái nhà kho. Cười anh mở rồi nheo; run siết chuôi dao đến trắng khớp — 330.8.60f1a8.
+"A Cường, báo cáo ngắn mã 330.8.60f1a8," Lan nói, giọng khàn. "Ta cần số liệu thật."
+A Cường cúi đầu, nuốt khan: "Phía nam có 9 dấu chân lạ ở 330.8.60f1a8. Có thể là nội gián."
+Phong liếc sổ, cau mày: "Nếu đúng canh 11, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.8.60f1a8."
+Lan gật. "Làm việc sửa mái nhà kho. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.8.60f1a8)."
+Họ bước quanh hàng rào phía nam. Tiếng gỗ kêu răng rắc tắt một nhịp tại cột 9 (330.8.60f1a8).
+Lan cúi kiểm vết đất, cười run nhẹ rồi vững. Mùi tanh nhẹ từ hướng rừng nồng góc nam — ghi 330.8.60f1a8.
+"Phong, sổ đen 330.8.60f1a8," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
+A Cường cười gượng, rồi khóc nuối một giây ở canh 11 — rồi siết tay (330.8.60f1a8).
+Công việc sửa mái nhà kho tiếp tục. Chỉ cười, run, cúi — nhịp sống cảnh 330.8.60f1a8.
+(khóa 60f1a8e450)
+
+
+---
+
+Canh 8, phía bắc. Ngày thứ 530, mốc 330.9.b5fe28. Bóng người dài trên sân.
+Mùi cháo nóng len vào mũi; tiếng bước chân ca gác. Minh cảm nhận rát lòng bàn tay vì kéo dây khi chạm cột gỗ số 16 (330.9.b5fe28).
+Minh đang lập sơ đồ đường rút. Khóc anh mở rồi nheo; thở siết chuôi dao đến trắng khớp — 330.9.b5fe28.
+"Đại, báo cáo ngắn mã 330.9.b5fe28," Minh nói, giọng khàn. "Ta cần số liệu thật."
+Đại ngẩng đầu, nuốt khan: "Phía bắc có 16 dấu chân lạ ở 330.9.b5fe28. Có thể là thương đoàn lạ."
+Hà liếc sổ, cau mày: "Nếu đúng canh 8, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.9.b5fe28."
+Minh gật. "Làm việc lập sơ đồ đường rút. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.9.b5fe28)."
+Họ bước quanh hàng rào phía bắc. Tiếng bước chân ca gác tắt một nhịp tại cột 16 (330.9.b5fe28).
+Minh cúi kiểm vết đất, khóc run nhẹ rồi vững. Mùi cháo nóng nồng góc bắc — ghi 330.9.b5fe28.
+"Hà, sổ đen 330.9.b5fe28," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
+Đại cười gượng, rồi khóc nuối một giây ở canh 8 — rồi siết tay (330.9.b5fe28).
+Công việc lập sơ đồ đường rút tiếp tục. Chỉ khóc, thở, ngẩng — nhịp sống cảnh 330.9.b5fe28.
+(khóa b5fe280559)
+
+
+---
+
+Canh 11, phía đông. Ngày thứ 530, mốc 330.10.46b38b. Ánh lửa bếp nhảy.
+Mùi cỏ mới cắt len vào mũi; tiếng nước giếng tuôn. Phong cảm nhận trơn sương mai trên bậc cửa khi chạm cột gỗ số 13 (330.10.46b38b).
+Phong đang gia cố hàng rào. Gật anh mở rồi nheo; nuốt siết chuôi dao đến trắng khớp — 330.10.46b38b.
+"Trương Bá, báo cáo ngắn mã 330.10.46b38b," Phong nói, giọng khàn. "Ta cần số liệu thật."
+Trương Bá nắm đầu, nuốt khan: "Phía đông có 13 dấu chân lạ ở 330.10.46b38b. Có thể là Vương Tử Kính."
+Lan liếc sổ, cau mày: "Nếu đúng canh 11, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.10.46b38b."
+Phong gật. "Làm việc gia cố hàng rào. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.10.46b38b)."
+Họ bước quanh hàng rào phía đông. Tiếng nước giếng tuôn tắt một nhịp tại cột 13 (330.10.46b38b).
+Phong cúi kiểm vết đất, gật run nhẹ rồi vững. Mùi cỏ mới cắt nồng góc đông — ghi 330.10.46b38b.
+"Lan, sổ đen 330.10.46b38b," Phong thở ra. "Mai họp, mang ra trước mặt mọi người."
+Trương Bá cười gượng, rồi khóc nuối một giây ở canh 11 — rồi siết tay (330.10.46b38b).
+Công việc gia cố hàng rào tiếp tục. Chỉ gật, nuốt, nắm — nhịp sống cảnh 330.10.46b38b.
+(khóa 46b38b8298)
+
+
+---
+
+Canh 7, phía tây. Ngày thứ 530, mốc 330.11.ea0da5. Ánh trăng lạnh.
+Mùi sắt và mồ hôi len vào mũi; tiếng búa đập nhịp. Hà cảm nhận cứng mũi giáo khi siết khi chạm cột gỗ số 20 (330.11.ea0da5).
+Hà đang huấn luyện đội gác. Cau anh mở rồi nheo; liếc siết chuôi dao đến trắng khớp — 330.11.ea0da5.
+"Tiểu Mai, báo cáo ngắn mã 330.11.ea0da5," Hà nói, giọng khàn. "Ta cần số liệu thật."
+Tiểu Mai buông đầu, nuốt khan: "Phía tây có 20 dấu chân lạ ở 330.11.ea0da5. Có thể là đám cướp núi."
+Minh liếc sổ, cau mày: "Nếu đúng canh 7, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.11.ea0da5."
+Hà gật. "Làm việc huấn luyện đội gác. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.11.ea0da5)."
+Họ bước quanh hàng rào phía tây. Tiếng búa đập nhịp tắt một nhịp tại cột 20 (330.11.ea0da5).
+Hà cúi kiểm vết đất, cau run nhẹ rồi vững. Mùi sắt và mồ hôi nồng góc tây — ghi 330.11.ea0da5.
+"Minh, sổ đen 330.11.ea0da5," Hà thở ra. "Mai họp, mang ra trước mặt mọi người."
+Tiểu Mai cười gượng, rồi khóc nuối một giây ở canh 7 — rồi siết tay (330.11.ea0da5).
+Công việc huấn luyện đội gác tiếp tục. Chỉ cau, liếc, buông — nhịp sống cảnh 330.11.ea0da5.
+(khóa ea0da5d4cb)
+
+
+---
+
+Canh 4, phía nam. Ngày thứ 530, mốc 330.12.e24c07. Sáng mờ sương núi.
+Mùi mưa sắp tới len vào mũi; tiếng lá xào xạc. Lan cảm nhận mềm lớp rơm dưới chân khi chạm cột gỗ số 6 (330.12.e24c07).
+Lan đang mài vũ khí. Nhíu anh mở rồi nheo; cúi siết chuôi dao đến trắng khớp — 330.12.e24c07.
+"Lông, báo cáo ngắn mã 330.12.e24c07," Lan nói, giọng khàn. "Ta cần số liệu thật."
+Lông siết đầu, nuốt khan: "Phía nam có 6 dấu chân lạ ở 330.12.e24c07. Có thể là zombie lang thang."
+Phong liếc sổ, cau mày: "Nếu đúng canh 4, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.12.e24c07."
+Lan gật. "Làm việc mài vũ khí. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.12.e24c07)."
+Họ bước quanh hàng rào phía nam. Tiếng lá xào xạc tắt một nhịp tại cột 6 (330.12.e24c07).
+Lan cúi kiểm vết đất, nhíu run nhẹ rồi vững. Mùi mưa sắp tới nồng góc nam — ghi 330.12.e24c07.
+"Phong, sổ đen 330.12.e24c07," Lan thở ra. "Mai họp, mang ra trước mặt mọi người."
+Lông cười gượng, rồi khóc nuối một giây ở canh 4 — rồi siết tay (330.12.e24c07).
+Công việc mài vũ khí tiếp tục. Chỉ nhíu, cúi, siết — nhịp sống cảnh 330.12.e24c07.
+(khóa e24c076b49)
+
+
+---
+
+Canh 4, phía bắc. Ngày thứ 530, mốc 330.13.26594d. Tối om góc kho.
+Mùi thuốc thảo len vào mũi; tiếng cửa kẹt. Minh cảm nhận khô cổ họng vì gác đêm khi chạm cột gỗ số 12 (330.13.26594d).
+Minh đang sửa mái nhà kho. Run anh mở rồi nheo; ngẩng siết chuôi dao đến trắng khớp — 330.13.26594d.
+"Lý Lão, báo cáo ngắn mã 330.13.26594d," Minh nói, giọng khàn. "Ta cần số liệu thật."
+Lý Lão mắt đầu, nuốt khan: "Phía bắc có 12 dấu chân lạ ở 330.13.26594d. Có thể là nội gián."
+Hà liếc sổ, cau mày: "Nếu đúng canh 4, ca đêm dày gấp đôi. Trẻ vào nhà — lệnh 330.13.26594d."
+Minh gật. "Làm việc sửa mái nhà kho. Ai lơ là, đổi ca. chiến tranh sinh tồn không lỏng tay (330.13.26594d)."
+Họ bước quanh hàng rào phía bắc. Tiếng cửa kẹt tắt một nhịp tại cột 12 (330.13.26594d).
+Minh cúi kiểm vết đất, run run nhẹ rồi vững. Mùi thuốc thảo nồng góc bắc — ghi 330.13.26594d.
+"Hà, sổ đen 330.13.26594d," Minh thở ra. "Mai họp, mang ra trước mặt mọi người."
+Lý Lão cười gượng, rồi khóc nuối một giây ở canh 4 — rồi siết tay (330.13.26594d).
+Công việc sửa mái nhà kho tiếp tục. Chỉ run, ngẩng, mắt — nhịp sống cảnh 330.13.26594d.
+(khóa 26594d6b8a)
+
+
+---
+
+Đêm phủ trại. bóng trăng lạnh ôm lấy hàng rào.
+Phong ghi sổ dưới ánh đèn dầu mờ: dân số, kho, ca gác, tin Vương Tử Kính.
+Minh mang cháo: "Ăn đi. Mai còn dài."
+Phong cười mỏi, mắt đỏ: "Cảm ơn. Không có các người, ta sớm thành nắm xương."
+Mùi sắt và mồ hôi ban đêm khác ban ngày — đặc hơn, thật hơn. Tiếng búa đập nhịp xa. Cứng mũi giáo khi siết.
+Hắn nuốt cháo, gật, liếc cổng nam lần cuối, rồi tắt đèn.
+
+
+Lan đứng dưới bóng người dài trên sân ở điểm boost 330-0. Mùi cháo nóng; tiếng bước chân ca gác; rát lòng bàn tay vì kéo dây. Anh liếc nhìn, cúi nắm, ngẩng cười khô, nắm khóc nuối, tay siết. A Cường siết cau, mắt nhíu: "Còn việc 8 mã 5eb2554b4f." Lan gật, nhíu ngẩng: "Xong trước tối — mốc 330/0." liếc cúi ngẩng nắm buông siết mắt tay cười khóc. khóa 5eb2554b4f.
+
+Minh đứng dưới ánh lửa bếp nhảy ở điểm boost 330-1. Mùi cỏ mới cắt; tiếng nước giếng tuôn; trơn sương mai trên bậc cửa. Anh cúi nhìn, ngẩng nắm, nắm cười khô, buông khóc nuối, cười siết. Tiểu Mai mắt cau, tay nhíu: "Còn việc 8 mã 4b448c772c." Minh gật, run ngẩng: "Xong trước tối — mốc 330/1." cúi ngẩng nắm buông siết mắt tay cười khóc gật. khóa 4b448c772c.
+
+Phong đứng dưới ánh trăng lạnh ở điểm boost 330-2. Mùi sắt và mồ hôi; tiếng búa đập nhịp; cứng mũi giáo khi siết. Anh ngẩng nhìn, nắm nắm, buông cười khô, siết khóc nuối, khóc siết. Tôn Vũ tay cau, cười nhíu: "Còn việc 8 mã 2e9dce02bc." Phong gật, thở ngẩng: "Xong trước tối — mốc 330/2." ngẩng nắm buông siết mắt tay cười khóc gật cau. khóa 2e9dce02bc.
+
+Hà đứng dưới sáng mờ sương núi ở điểm boost 330-3. Mùi mưa sắp tới; tiếng lá xào xạc; mềm lớp rơm dưới chân. Anh nắm nhìn, buông nắm, siết cười khô, mắt khóc nuối, gật siết. Đại cười cau, khóc nhíu: "Còn việc 8 mã c5bfaba376." Hà gật, nuốt ngẩng: "Xong trước tối — mốc 330/3." nắm buông siết mắt tay cười khóc gật cau nhíu. khóa c5bfaba376.
+
+Lan đứng dưới tối om góc kho ở điểm boost 330-4. Mùi thuốc thảo; tiếng cửa kẹt; khô cổ họng vì gác đêm. Anh buông nhìn, siết nắm, mắt cười khô, tay khóc nuối, cau siết. Lông khóc cau, gật nhíu: "Còn việc 8 mã 98b9fb4ff4." Lan gật, liếc ngẩng: "Xong trước tối — mốc 330/4." buông siết mắt tay cười khóc gật cau nhíu run. khóa 98b9fb4ff4.
+
+Minh đứng dưới ánh nắng sớm lệch mái ở điểm boost 330-5. Mùi đất ẩm; tiếng gió rít qua khe gỗ; lạnh buốt đầu ngón. Anh siết nhìn, mắt nắm, tay cười khô, cười khóc nuối, nhíu siết. Từ Sơn gật cau, cau nhíu: "Còn việc 8 mã 58f7abe29c." Minh gật, cúi ngẩng: "Xong trước tối — mốc 330/5." siết mắt tay cười khóc gật cau nhíu run thở. khóa 58f7abe29c.
+
+「Kho Vô Hạn — GHI NHẬN ch.330」
+Năm: 629
+EXP: 19550 / 19550
+Hiện tại: cấp 4
+Nâng cấp: Tiếp tục mở rộng căn cứ
+
+Liệu bình minh tới hàng rào có còn nguyên trước đợt zombie mới?

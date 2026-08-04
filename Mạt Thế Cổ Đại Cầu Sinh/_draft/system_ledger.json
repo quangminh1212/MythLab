@@ -1,0 +1,25 @@
+{
+  "chapters": {},
+  "current_year": 629,
+  "total_exp": 0,
+  "total_space_sqm": 50,
+  "skills": [],
+  "resources": {
+    "luong_thuc": 0,
+    "vu_khi_tho": 0,
+    "vat_lieu_xd": 0,
+    "thuoc": 0,
+    "ao_giap": 0,
+    "cong_cu": 0
+  },
+  "base": {
+    "name": "Trại Biên Ải",
+    "location": "Rừng núi biên giới phía Bắc",
+    "population": 3,
+    "defense_level": 0,
+    "buildings": [
+      "Nhà tranh gốc"
+    ]
+  },
+  "notes": "Tang dynasty 629 AD — Lý Thế Dân era; MC Lý Phong reborn"
+}

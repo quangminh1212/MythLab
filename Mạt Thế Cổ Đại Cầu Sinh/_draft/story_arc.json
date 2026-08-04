@@ -1,0 +1,117 @@
+{
+  "arc_1_survival": {
+    "chapters": "1-100",
+    "title": "Sống Sót",
+    "summary": "Phong chuyển sinh, kích hoạt Kho Vô Hạn, xây hàng rào, thu hút người sống sót, đối phó zombie cơ bản",
+    "key_events": [
+      "Ch.1-5: Chuyển sinh, khám phá hệ thống, 30 con vịt, hàng rào đầu tiên",
+      "Ch.6-15: Xây đồn điền, gặp Đại Lực, đối phó zombie, bệnh tật",
+      "Ch.16-30: Mùa đông đầu tiên, bão tuyết, bệnh dịch, săn bắn",
+      "Ch.31-45: Gặp gỡ những người sống sót khác, mở rộng căn cứ, nâng cấp hệ thống",
+      "Ch.46-60: Địch thủ đầu tiên, gián điệp, thách thức, chiến lược",
+      "Ch.61-80: Xây dựng cộng đồng, phân công lao động, trồng trọt",
+      "Ch.81-100: Mối đe dọa lớn đầu tiên, thây ma tiến hóa, phòng thủ"
+    ]
+  },
+  "arc_2_expansion": {
+    "chapters": "101-200",
+    "title": "Mở Rộng",
+    "summary": "Mở rộng căn cứ, gặp đồng minh mới, đối phó thế lực thù địch, nâng cấp hệ thống lên cấp 2-3",
+    "key_events": [
+      "Ch.101-120: Thám hiểm vùng mới, tìm kho vũ khí cổ",
+      "Ch.121-140: Gặp Lưu Diễm (thầy thuốc), mở rộng y tế",
+      "Ch.141-160: Đối phó băng cướp, chiến đấu bảo vệ căn cứ",
+      "Ch.161-180: Nâng cấp hệ thống, mở khóa năng lực mới",
+      "Ch.181-200: Phát hiện zombie tiến hóa, bí ẩn nguồn gốc"
+    ]
+  },
+  "arc_3_kingdom": {
+    "chapters": "201-300",
+    "title": "Vương Quốc",
+    "summary": "Xây dựng vương quốc nhỏ, chính trị, ngoại giao, đối phó triều đình đổ nát",
+    "key_events": [
+      "Ch.201-220: Chuyển căn cứ mới, xây dựng cơ sở vật chất",
+      "Ch.221-240: Tiếp nhận người tị nạn, tổ chức quản lý",
+      "Ch.241-260: Gặp Vương Tử Kính (thái tử lưu vong), ngoại giao phức tạp",
+      "Ch.261-280: Xây dựng quân đội, huấn luyện chiến đấu",
+      "Ch.281-300: Đối phó triều đình, chính trị phức tạp"
+    ]
+  },
+  "arc_4_war": {
+    "chapters": "301-400",
+    "title": "Chiến Tranh",
+    "summary": "Đại chiến với thế lực zombie lớn, mất mát, trưởng thành",
+    "key_events": [
+      "Ch.301-330: Zombie tràn lan, chiến tranh toàn diện",
+      "Ch.331-360: Mất mát lớn, đồng minh hy sinh",
+      "Ch.361-380: Phong trưởng thành, lãnh đạo tài tình",
+      "Ch.381-400: Chiến thắng bước ngoặt, nhưng cái giá lớn"
+    ]
+  },
+  "arc_5_truth": {
+    "chapters": "401-500",
+    "title": "Sự Thật",
+    "summary": "Phát hiện nguồn gốc zombie, bí ẩn Hàn Nguyệt, hệ thống tiến hóa",
+    "key_events": [
+      "Ch.401-430: Hàn Nguyệt xuất hiện, bí ẩn về nguồn gốc",
+      "Ch.431-460: Thám hiểm di tích cổ, tìm manh mối",
+      "Ch.461-480: Hệ thống tiến hóa, mở khóa năng lực mới",
+      "Ch.481-500: Sự thật về đại dịch, plans of villains"
+    ]
+  },
+  "arc_6_journey": {
+    "chapters": "501-600",
+    "title": "Hành Trình",
+    "summary": "Hành trình tìm nguồn gốc zombie, đối mặt thử thách khắc nghiệt",
+    "key_events": [
+      "Ch.501-530: Rời căn cứ, hành trình phía bắc",
+      "Ch.531-560: Đối mặt băng tuyết, zombie mạnh, kẻ thù mới",
+      "Ch.561-580: Phát hiện thành phố zombie lớn",
+      "Ch.581-600: Gặp Tống Thiên Hỏa (boss zombie giữ ký ức)"
+    ]
+  },
+  "arc_7_final_battle": {
+    "chapters": "601-700",
+    "title": "Đại Chiến",
+    "summary": "Cuộc chiến cuối cùng với zombie, tiết lộ bí ẩn lớn nhất",
+    "key_events": [
+      "Ch.601-630: Chuẩn bị cho trận chiến cuối",
+      "Ch.631-660: Đại chiến, mất mát lớn",
+      "Ch.661-680: Phong đối mặt Tống Thiên Hỏa",
+      "Ch.681-700: Chiến thắng, nhưng cái giá quá lớn"
+    ]
+  },
+  "arc_8_new_world": {
+    "chapters": "701-800",
+    "title": "Thế Giới Mới",
+    "summary": "Xây dựng lại sau chiến tranh, đối mặt hậu quả",
+    "key_events": [
+      "Ch.701-730: Tái thiết căn cứ",
+      "Ch.731-760: Đối mặt dịch bệnh còn lại",
+      "Ch.761-780: Xây dựng xã hội mới",
+      "Ch.781-800: Mối đe dọa từ phía nam"
+    ]
+  },
+  "arc_9_revelation": {
+    "chapters": "801-900",
+    "title": "Tiết Lộ",
+    "summary": "Tiết lộ cuối cùng về hệ thống và nguồn gốc zombie",
+    "key_events": [
+      "Ch.801-830: Hệ thống nói về mục đích thực sự",
+      "Ch.831-860: Hành trình cuối cùng",
+      "Ch.861-880: Đối mặt sự thật",
+      "Ch.881-900: Quyết định cuối cùng"
+    ]
+  },
+  "arc_10_epilogue": {
+    "chapters": "901-1000",
+    "title": "Kết Thúc",
+    "summary": "Hậu chiến, xây dựng tương lai, kết thúc có hậu",
+    "key_events": [
+      "Ch.901-930: Xây dựng lại vương quốc",
+      "Ch.931-960: Hòa bình, phát triển",
+      "Ch.961-990: Đời sống thường ngày",
+      "Ch.991-1000: Kết thúc, nhìn lại hành trình"
+    ]
+  }
+}
