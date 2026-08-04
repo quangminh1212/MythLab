@@ -5,7 +5,7 @@
   "total": 1000,
   "pass": 1000,
   "below": 0,
-  "avg": 9.95,
+  "avg": 9.949,
   "min_final": 9.56,
   "all_pass": true,
   "below_list": [],
@@ -10263,12 +10263,12 @@
       "num": 233
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10276,43 +10276,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3595,
-        "chars": 16775,
-        "dialogue": 108,
+        "words": 3253,
+        "chars": 15920,
+        "dialogue": 73,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.08,
-        "char_density": 10.79,
+        "sensory_density": 27.58,
+        "char_density": 6.6,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 354. Ánh lửa bếp nhảy vừa chạm nóc trại Biên Ải đúng nhịp chương 234.",
+            "Ngày thứ ba trăm năm mươi tư. Trống điểm. Gò có bóng — một bóng ngồi im, không xuống, không vẫy, không đo to. A Minh giơ hai ngón khép rồi mở chậm: bóng. Không sóng. Không xe. Không thước tay.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng nước giếng len giấc ngủ dở. Mùi cỏ cắt quyện khói bếp nồi 1.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi tay. Hà đã phơi bao rách phía nắng xấu, khăn mũi, lưng thẳng. Máy nghèo thở. Anh đảo muối. Vai đau. Mặt không biết. Ba lần hỏi gió đã cùng màu. Hôm nay bóng trên gò — không chỉ. Chỉ là hở. Hở là bảy bay.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 354. Ánh lửa bếp nhảy vừa chạm nóc trại Biên",
-      "file": "Chương 234 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 234 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi tư. Trống điểm. Gò có bóng",
+      "file": "Chương 234 - Bóng Trên Gò Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 234 - Bóng Trên Gò Không Chỉ.txt",
       "num": 234
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10320,43 +10320,43 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3609,
-        "chars": 16842,
-        "dialogue": 108,
+        "words": 3221,
+        "chars": 15940,
+        "dialogue": 77,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.2,
-        "char_density": 10.45,
+        "sensory_density": 23.78,
+        "char_density": 6.09,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 355. Ánh trăng lạnh vừa chạm nóc trại Biên Ải đúng nhịp chương 235.",
+            "Ngày thứ ba trăm năm mươi lăm. Trống điểm. Gò trống. A Minh hai ngón mở. Trống. Không bóng. Không sóng. Không xe. Hữu không giơ. Khuyển cúi. Sân muốn thở phào. Thở phào là mừng. Mừng là hở. Hở là bảy bay.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng búa nhịp len giấc ngủ dở. Mùi sắt mồ hôi quyện khói bếp nồi 2.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách, khăn mũi, lưng thẳng — không ngẩng gò lâu. Anh đảo muối. Vai đau. Mặt không biết. Hôm qua bóng ngồi. Hôm nay bóng đi. Không mừng. Không kể. Máy nghèo thở đều hơn mọi trống điểm.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 355. Ánh trăng lạnh vừa chạm nóc trại Biên Ải",
-      "file": "Chương 235 - Can Cu Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 235 - Can Cu Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi lăm. Trống điểm. Gò trống. A",
+      "file": "Chương 235 - Bóng Đi Không Mừng.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 235 - Bóng Đi Không Mừng.txt",
       "num": 235
     },
     {
-      "final": 10.0,
-      "weighted_raw": 10.0,
+      "final": 9.78,
+      "weighted_raw": 9.78,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 10.0,
+        "cau_truc": 8.5,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10364,34 +10364,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3622,
-        "chars": 16886,
-        "dialogue": 108,
+        "words": 3236,
+        "chars": 15866,
+        "dialogue": 77,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.34,
-        "char_density": 10.54,
+        "sensory_density": 22.19,
+        "char_density": 5.99,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 6,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 356. Sáng mờ sương núi vừa chạm nóc trại Biên Ải đúng nhịp chương 236.",
+            "Ngày thứ ba trăm năm mươi sáu. Trống điểm. Gò trống. Giữa sáng — hỏi gió lần bốn. Hai bóng ngoài rào đông, khoảng cách khách quan, không xông, không lánh. A Minh một ngón — người — hai lần. Không sóng. Không thước gò. Không xe.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng lá xào len giấc ngủ dở. Mùi mưa sắp tới quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Ba lần cùng màu. Bóng ngồi không chỉ. Bóng đi không mừng. Lần bốn không lệch.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 356. Sáng mờ sương núi vừa chạm nóc trại Biên",
-      "file": "Chương 236 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 236 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm năm mươi sáu. Trống điểm. Gò trống. Giữa",
+      "file": "Chương 236 - Hỏi Lần Bốn Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 236 - Hỏi Lần Bốn Cùng Màu.txt",
       "num": 236
     },
     {
