@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T05:31:36",
-  "report_mtime": 1785882674.5908582,
+  "sealed_at": "2026-08-05T05:38:29",
+  "report_mtime": 1785883088.6840982,
   "total_files": 1000,
   "files": [
     {
@@ -1396,16 +1396,16 @@
       "size": 19208
     },
     {
-      "name": "Chương 232 - Ngay Moi.txt",
-      "sha256": "bb2963ea521f26620b959f615e591c91bbec72b796c5d0e7d9b4cd879ac96f31",
-      "mtime": 1785882658.9331977,
-      "size": 22588
+      "name": "Chương 232 - Cùng Màu Lần Hai.txt",
+      "sha256": "c584a3b551e66c14b29d17f2ee06e67ba6c7019c60ab95ec5a2f332b2e7205ba",
+      "mtime": 1785883079.2094069,
+      "size": 20688
     },
     {
-      "name": "Chương 233 - Ngay Moi.txt",
-      "sha256": "4d6faecf62cf6708f4b89dddc20c3dd0d3aed50ed1afc1a73e586cd4c2f14f53",
-      "mtime": 1785882536.2751951,
-      "size": 22474
+      "name": "Chương 233 - Ba Miệng Và Một Màu.txt",
+      "sha256": "ba774c5afdb8b87b305697bc33797a0804a5bb7640b87436c43f2cf4f031d214",
+      "mtime": 1785883079.2320278,
+      "size": 20801
     },
     {
       "name": "Chương 234 - Ngay Moi.txt",
