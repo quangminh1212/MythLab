@@ -5,7 +5,7 @@
   "total": 1000,
   "pass": 1000,
   "below": 0,
-  "avg": 9.948,
+  "avg": 9.949,
   "min_final": 9.56,
   "all_pass": true,
   "below_list": [],
@@ -10747,12 +10747,12 @@
       "num": 244
     },
     {
-      "final": 9.78,
-      "weighted_raw": 9.78,
+      "final": 10.0,
+      "weighted_raw": 10.0,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 8.5,
+        "cau_truc": 10.0,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10760,34 +10760,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3613,
-        "chars": 16898,
-        "dialogue": 108,
+        "words": 3275,
+        "chars": 16211,
+        "dialogue": 74,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.39,
-        "char_density": 10.3,
+        "sensory_density": 28.38,
+        "char_density": 6.11,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 5,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 365. Ánh trăng lạnh vừa chạm nóc trại Biên Ải đúng nhịp chương 245.",
+            "Ngày thứ ba trăm sáu mươi lăm. Trống điểm. Gò có bóng. Giữa sáng — bóng thước lần ba. Không chỉ. Không hỏi. Không sóng. Không pháo.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng búa nhịp len giấc ngủ dở. Mùi sắt mồ hôi quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Hỏi sáu cùng màu. Sóng thấp lần hai máu kín. Then êm. Hôm nay bóng — không chỉ. Máy nghèo thở đều hơn mọi trống điểm sau sóng.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 365. Ánh trăng lạnh vừa chạm nóc trại Biên Ải",
-      "file": "Chương 245 - Can Cu Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 245 - Can Cu Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi lăm. Trống điểm. Gò có bóng.",
+      "file": "Chương 245 - Bóng Gò Không Chỉ Lần Ba.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 245 - Bóng Gò Không Chỉ Lần Ba.txt",
       "num": 245
     },
     {
