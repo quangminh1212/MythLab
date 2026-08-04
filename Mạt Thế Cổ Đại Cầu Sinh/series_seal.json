@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T05:44:52",
-  "report_mtime": 1785883471.8046677,
+  "sealed_at": "2026-08-05T05:58:48",
+  "report_mtime": 1785884307.3037255,
   "total_files": 1000,
   "files": [
     {
@@ -1391,9 +1391,9 @@
     },
     {
       "name": "Chương 231 - Hỏi Gió Từ Ngoài Rào.txt",
-      "sha256": "e038f6815d9bf642766d5e64e33abb3cd24000b6d2c12041bb22a309188919b6",
-      "mtime": 1785882523.5956392,
-      "size": 19208
+      "sha256": "748d17c0239b61537a178c056db733b9361258a7b70e91aaa98d6930238c6e59",
+      "mtime": 1785884288.3225756,
+      "size": 20843
     },
     {
       "name": "Chương 232 - Cùng Màu Lần Hai.txt",
@@ -1426,39 +1426,39 @@
       "size": 21059
     },
     {
-      "name": "Chương 237 - Ngay Moi.txt",
-      "sha256": "6b47fe5f677da72232aba53349456fa406c088745d1a03a6956127c7b132793d",
-      "mtime": 1785879942.5172777,
-      "size": 22364
+      "name": "Chương 237 - Sóng Thấp Máu Kín.txt",
+      "sha256": "acc1a040b236458390c7b9cd817d6ff764eb172123b3b1f3128c3edc2b8350be",
+      "mtime": 1785884248.807496,
+      "size": 21386
     },
     {
-      "name": "Chương 238 - Ngay Moi.txt",
-      "sha256": "23bedcd5cb80cf28e723e2d3ac75d51d7574369ee02a12a19fb533848224b514",
-      "mtime": 1785879942.5272863,
-      "size": 22528
+      "name": "Chương 238 - Ngày Yên Không Phải Hết.txt",
+      "sha256": "7cb6fede3c0e0fe358ecf208ef166882996d4c2161de610057876c585c7be26a",
+      "mtime": 1785884248.8305266,
+      "size": 21207
     },
     {
-      "name": "Chương 239 - Ngay Moi.txt",
-      "sha256": "d0d01348406deab7d2b0ee26345291baca315669c72e8f0871d501aab1ede6db",
-      "mtime": 1785879942.5363157,
-      "size": 22441
+      "name": "Chương 239 - Hỏi Lần Năm Cùng Màu.txt",
+      "sha256": "1b1be28018112287b16da1607d3ff5dbd91224bc1d39d829a3240e68123389c3",
+      "mtime": 1785884248.854072,
+      "size": 21123
     },
     {
-      "name": "Chương 240 - Can Cu Moi.txt",
-      "sha256": "3764e9d34587e2498fba6a11aa98e76c3ebde53bdbfe47cca88a63239e7442bf",
-      "mtime": 1785879942.5473137,
-      "size": 22340
+      "name": "Chương 240 - Ba Trăm Sáu Mươi Không Pháo.txt",
+      "sha256": "bbfb8fa8d513e190ae2de876ce93ce58f8b6222ad60d511e40f264e5953755b1",
+      "mtime": 1785884248.8747194,
+      "size": 21109
     },
     {
-      "name": "Chương 241 - Ngay Moi.txt",
-      "sha256": "80a26769621f9a22399a0b286e772ac05bf4f1c0f64aba97e4509c6bab0c88ab",
-      "mtime": 1785879942.5578246,
-      "size": 22390
+      "name": "Chương 241 - Bóng Thước Lại Không Chỉ.txt",
+      "sha256": "a6a443cbad8039ee8d4667112fceef4e9d317439d4b21cf0dbae21fbb90f2586",
+      "mtime": 1785884288.342628,
+      "size": 21307
     },
     {
       "name": "Chương 242 - Ngay Moi.txt",
       "sha256": "f78c8ea87cd8b2bacb6c8f4b672e3702f86b644127e0562855e97c88d7075bfe",
-      "mtime": 1785879942.5673392,
+      "mtime": 1785884298.4660852,
       "size": 22495
     },
     {
