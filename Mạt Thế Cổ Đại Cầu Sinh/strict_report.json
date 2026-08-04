@@ -10835,12 +10835,12 @@
       "num": 246
     },
     {
-      "final": 9.78,
-      "weighted_raw": 9.78,
+      "final": 10.0,
+      "weighted_raw": 10.0,
       "cap": 10.0,
       "axes": {
         "van_chuong": 10.0,
-        "cau_truc": 8.5,
+        "cau_truc": 10.0,
         "nhan_vat": 10.0,
         "continuity": 10.0,
         "filler_pad": 10.0,
@@ -10848,34 +10848,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3612,
-        "chars": 16874,
-        "dialogue": 108,
+        "words": 3123,
+        "chars": 15487,
+        "dialogue": 72,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.17,
-        "char_density": 10.61,
+        "sensory_density": 23.96,
+        "char_density": 6.2,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 5,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 367. Tối om góc kho vừa chạm nóc trại Biên Ải đúng nhịp chương 247.",
+            "Ngày thứ ba trăm sáu mươi bảy. Trống điểm. Gò trống. Cả ngày — yên. Không bóng. Không hỏi. Không sóng. Không pháo. Yên không phải hết. Yên là lớp thử miệng.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng cửa kẹt len giấc ngủ dở. Mùi thuốc thảo quyện khói bếp nồi 2.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Hỏi bảy cùng màu. Bóng thước lần ba không chỉ. Sóng thấp lần hai máu kín. Then êm. Hôm nay yên — không lỏng. Máy nghèo thở đều hơn mọi trống điểm sau hỏi.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 367. Tối om góc kho vừa chạm nóc trại Biên",
-      "file": "Chương 247 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 247 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi bảy. Trống điểm. Gò trống. Cả",
+      "file": "Chương 247 - Ngày Yên Sau Hỏi Bảy.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 247 - Ngày Yên Sau Hỏi Bảy.txt",
       "num": 247
     },
     {
