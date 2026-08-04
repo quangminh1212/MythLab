@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T06:17:30",
-  "report_mtime": 1785885449.772033,
+  "sealed_at": "2026-08-05T06:18:57",
+  "report_mtime": 1785885536.783052,
   "total_files": 1000,
   "files": [
     {
@@ -1476,14 +1476,14 @@
     {
       "name": "Chương 245 - Can Cu Moi.txt",
       "sha256": "44853459cd06186a41bda33b43a987a75607d7733bdbecf5141de5e477dec92e",
-      "mtime": 1785885091.1910014,
+      "mtime": 1785885520.1166408,
       "size": 22371
     },
     {
-      "name": "Chương 246 - Ngay Moi.txt",
-      "sha256": "2b25f8dd83df26dcde08c924099aa56875c62559ae3a13f415205c6e007bdabe",
-      "mtime": 1785885091.2393985,
-      "size": 22289
+      "name": "Chương 246 - Hỏi Lần Bảy Cùng Màu.txt",
+      "sha256": "c11b295b0ac02331fe313ab149b2e94a36bd8a3809091d369f757d28d1694d63",
+      "mtime": 1785885473.4157407,
+      "size": 21461
     },
     {
       "name": "Chương 247 - Ngay Moi.txt",
