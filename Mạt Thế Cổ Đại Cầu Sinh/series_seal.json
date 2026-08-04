@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T06:19:55",
-  "report_mtime": 1785885594.3036966,
+  "sealed_at": "2026-08-05T06:21:06",
+  "report_mtime": 1785885665.8488991,
   "total_files": 1000,
   "files": [
     {
@@ -1486,10 +1486,10 @@
       "size": 21461
     },
     {
-      "name": "Chương 247 - Ngay Moi.txt",
-      "sha256": "1c48b5ac6ad34e7aa521a05883b9897f258b37a6871421bcefc85a0e532ee965",
-      "mtime": 1785885091.284634,
-      "size": 22410
+      "name": "Chương 247 - Ngày Yên Sau Hỏi Bảy.txt",
+      "sha256": "dce958bb3a6314222381b113a35da8d972e260317cc16929003a9c2d3a8ff07b",
+      "mtime": 1785885629.899517,
+      "size": 20242
     },
     {
       "name": "Chương 248 - Ngay Moi.txt",
