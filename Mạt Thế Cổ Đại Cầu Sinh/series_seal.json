@@ -1,6 +1,6 @@
 {
-  "sealed_at": "2026-08-05T06:14:30",
-  "report_mtime": 1785885268.1315706,
+  "sealed_at": "2026-08-05T06:16:23",
+  "report_mtime": 1785885382.8777056,
   "total_files": 1000,
   "files": [
     {
@@ -1462,10 +1462,10 @@
       "size": 21580
     },
     {
-      "name": "Chương 243 - Ngay Moi.txt",
-      "sha256": "e721c161e5c8cc392d8c4f724df4ae3454aaa40cfedfb3dd67bb176573fc7034",
-      "mtime": 1785885091.0984986,
-      "size": 22327
+      "name": "Chương 243 - Hỏi Lần Sáu Cùng Màu.txt",
+      "sha256": "d4448de937717d64821bbed41d6f355c944225f6ea98920961335d2bcdeeae22",
+      "mtime": 1785885312.6795707,
+      "size": 21392
     },
     {
       "name": "Chương 244 - Sóng Thấp Lần Hai.txt",

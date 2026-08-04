@@ -10672,34 +10672,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3608,
-        "chars": 16868,
-        "dialogue": 108,
+        "words": 3293,
+        "chars": 16299,
+        "dialogue": 78,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.0,
-        "char_density": 10.97,
+        "sensory_density": 23.81,
+        "char_density": 6.14,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 5,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 363. Bóng người dài sân vừa chạm nóc trại Biên Ải đúng nhịp chương 243.",
+            "Ngày thứ ba trăm sáu mươi ba. Trống điểm. Gò trống. Giữa sáng — khách hỏi lần sáu. Cùng màu. Không lệch. Không chỉ. Không pháo.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng bước ca gác len giấc ngủ dở. Mùi cháo nóng quyện khói bếp nồi 1.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Hỏi năm đã qua. Then êm. Bóng thước không chỉ. Hôm nay hỏi sáu — cùng màu. Máy nghèo thở đều hơn mọi trống điểm sau bóng.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 363. Bóng người dài sân vừa chạm nóc trại Biên",
-      "file": "Chương 243 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 243 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi ba. Trống điểm. Gò trống. Giữa",
+      "file": "Chương 243 - Hỏi Lần Sáu Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 243 - Hỏi Lần Sáu Cùng Màu.txt",
       "num": 243
     },
     {
