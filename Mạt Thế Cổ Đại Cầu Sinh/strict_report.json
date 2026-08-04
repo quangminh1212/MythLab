@@ -10892,34 +10892,34 @@
       },
       "hard_fails": [],
       "metrics": {
-        "words": 3650,
-        "chars": 17012,
-        "dialogue": 107,
+        "words": 3234,
+        "chars": 15955,
+        "dialogue": 74,
         "maxrep": 1,
         "maxrep_short": 1,
         "pad_total": 0,
         "pad_hits": {},
-        "sensory_density": 15.05,
-        "char_density": 10.23,
+        "sensory_density": 21.56,
+        "char_density": 6.08,
         "cliche": 0,
-        "scene_breaks": 15,
+        "scene_breaks": 5,
         "has_panel": true,
         "panel_year": 629,
         "prose_year": null,
         "top_rep": [
           [
-            "Ngày thứ 368. Nắng mỏng gò vừa chạm nóc trại Biên Ải đúng nhịp chương 248.",
+            "Ngày thứ ba trăm sáu mươi tám. Trống điểm. Gò trống. Giữa sáng — sóng thấp lần ba. Sáu thây lẻ ngoài rào đông, không đội, không gào to, không xông cổng. A Minh xòe sáu ngón — sóng. Không người. Không xe. Không thước. Máu kín. Không mừng.",
             1
           ],
           [
-            "Phong mở mắt khi tiếng xẻng đất len giấc ngủ dở. Mùi vôi quyện khói bếp nồi 3.",
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Mặt không biết. Ngày yên sau hỏi bảy. Then êm. Hôm nay sóng — đâm thấp. Máy nghèo thở đều hơn mọi trống điểm sau yên.",
             1
           ]
         ]
       },
-      "opening": "Ngày thứ 368. Nắng mỏng gò vừa chạm nóc trại Biên Ải",
-      "file": "Chương 248 - Ngay Moi.txt",
-      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 248 - Ngay Moi.txt",
+      "opening": "Ngày thứ ba trăm sáu mươi tám. Trống điểm. Gò trống. Giữa",
+      "file": "Chương 248 - Sóng Thấp Lần Ba.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 248 - Sóng Thấp Lần Ba.txt",
       "num": 248
     },
     {
