@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 9.78,
+  "min_final": 9.78,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3113,
+        "chars": 15071,
+        "dialogue": 76,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 17.72,
+        "char_density": 6.04,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "\"Ngủ.\"",
+            2
+          ],
+          [
+            "Trống điểm tan mà sân vẫn giữ nhịp đêm. Ngày thứ bảy trăm tám mươi tám dưới đất Biên Ải. Mùi vôi cũ lẫn mùi thóc lép; nắng mỏng chỉ đủ làm sáng đầu chông. Trong rào — ngày yên sau hỏi một trăm mười hai. Không gào. Chỉ việc. Trống không bằng yên hội. Máy nghèo thở đều.",
+            1
+          ]
+        ]
+      },
+      "opening": "Trống điểm tan mà sân vẫn giữ nhịp đêm. Ngày thứ bảy",
+      "file": "Chương 668 - Ngày Yên Sau Hỏi 112.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 668 - Ngày Yên Sau Hỏi 112.txt",
+      "num": 668
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3111,
+        "chars": 15030,
+        "dialogue": 70,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 18.3,
+        "char_density": 4.92,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "\"Ngủ.\"",
+            2
+          ],
+          [
+            "Bụi lau ướt bám ống chân trước khi trống điểm dứt. Ngày thứ bảy trăm tám mươi chín dưới đất Biên Ải. Gió bấc mang mùi đất ướt và mùi sắt mỏng như lưỡi dao mới rửa. Bụi lau ướt đông — sóng thấp lần một trăm linh tám. Không gào. Chỉ sóng. Máu phải kín. Máy nghèo thở đều.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bụi lau ướt bám ống chân trước khi trống điểm dứt. Ngày",
+      "file": "Chương 669 - Sóng Thấp Lần 108.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 669 - Sóng Thấp Lần 108.txt",
+      "num": 669
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3069,
+        "chars": 14823,
+        "dialogue": 53,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.93,
+        "char_density": 5.67,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Nắng xám chạm vai gò trước khi trống điểm dứt hẳn. Ngày thứ bảy trăm chín mươi dưới đất Biên Ải. Mùi cỏ héo và bụi mốc bay từ phía đông; gió bấc không lạnh gáy mà se lưỡi. Trên gò, một bóng đứng lệch nửa thân — không gào, không lê, chỉ đếm bước rồi cắm mốc. Lần bóng gò thứ năm mươi tám. Luật trong xương: thấy, không chỉ, không nhổ mốc, không đạp theo.",
+            1
+          ],
+          [
+            "Phong ra hầm tây khi sân còn nửa tối. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép, đắp xấu, phủi tay. Muối chát đầu ngón — chát neo nghề. Hà phơi bao rách mé tây, khăn mũi thấp, lưng thẳng như cột. A Minh trên gò giơ tín hiệu lệch vai. Hữu vắt vải ướt. Cúc xâu thẻ. Chú Bát khuấy cháo loãng. Hơi bếp năm nhịp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Nắng xám chạm vai gò trước khi trống điểm dứt hẳn. Ngày",
+      "file": "Chương 670 - Bóng Gò Lần 58 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 670 - Bóng Gò Lần 58 Không Chỉ.txt",
+      "num": 670
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3082,
+        "chars": 14960,
+        "dialogue": 60,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.66,
+        "char_density": 4.68,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Bụi cổng đông cuốn thành vệt khi trống điểm tan. Ngày thứ bảy trăm chín mươi mốt dưới đất Biên Ải. Cổng đông — hỏi lần một trăm mười ba cùng màu. Không gào. Chỉ miệng. Chỉ hỏi. Máy nghèo thở đều.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón — chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bụi cổng đông cuốn thành vệt khi trống điểm tan. Ngày thứ",
+      "file": "Chương 671 - Hỏi Lần 113 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 671 - Hỏi Lần 113 Cùng Màu.txt",
+      "num": 671
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3117,
+        "chars": 15098,
+        "dialogue": 76,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 17.62,
+        "char_density": 6.09,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "\"Ngủ.\"",
+            2
+          ],
+          [
+            "Nắng muộn lọt qua khe rào tây sau trống điểm. Ngày thứ bảy trăm chín mươi hai dưới đất Biên Ải. Mùi đất se và mùi dây thừng cũ trong kho; gió bấc đẩy rèm một nhịp rồi buông. Trong rào — ngày yên sau hỏi một trăm mười ba. Không gào. Chỉ việc. Trống không bằng yên hội. Máy nghèo thở đều.",
+            1
+          ]
+        ]
+      },
+      "opening": "Nắng muộn lọt qua khe rào tây sau trống điểm. Ngày thứ",
+      "file": "Chương 672 - Ngày Yên Sau Hỏi 113.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 672 - Ngày Yên Sau Hỏi 113.txt",
+      "num": 672
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3108,
+        "chars": 15011,
+        "dialogue": 70,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 18.32,
+        "char_density": 4.93,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "\"Ngủ.\"",
+            2
+          ],
+          [
+            "Gốc tre chết kêu cọt khi gió đẩy. Ngày thứ bảy trăm chín mươi ba dưới đất Biên Ải. Mùi nhựa tre khô lẫn mùi sắt mỏng; nắng xám không đủ xua lạnh gáy. Gốc tre chết tây — sóng thấp lần một trăm linh chín. Không gào. Chỉ sóng. Máu phải kín. Máy nghèo thở đều.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gốc tre chết kêu cọt khi gió đẩy. Ngày thứ bảy trăm",
+      "file": "Chương 673 - Sóng Thấp Lần 109.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 673 - Sóng Thấp Lần 109.txt",
+      "num": 673
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3088,
+        "chars": 14968,
+        "dialogue": 60,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.78,
+        "char_density": 5.01,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Mùi muối thô lẫn bụi cổng trước trống điểm. Ngày thứ bảy trăm chín mươi lăm dưới đất Biên Ải. Cổng đông — hỏi lần một trăm mười bốn cùng màu. Không gào. Chỉ miệng. Chỉ hỏi. Máy nghèo thở đều.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón — chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Mùi muối thô lẫn bụi cổng trước trống điểm. Ngày thứ bảy",
+      "file": "Chương 675 - Hỏi Lần 114 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 675 - Hỏi Lần 114 Cùng Màu.txt",
+      "num": 675
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3109,
+        "chars": 15070,
+        "dialogue": 76,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 17.58,
+        "char_density": 6.04,
+        "cliche": 0,
+        "scene_breaks": 10,
+        "has_panel": true,
+        "panel_year": 640,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "\"Ngủ.\"",
+            2
+          ],
+          [
+            "Khói bếp loãng tan trước khi nắng chạm chông. Ngày thứ bảy trăm chín mươi sáu dưới đất Biên Ải. Mùi muối và vôi cũ; gió bấc mang tiếng then xa. Trong rào — ngày yên sau hỏi một trăm mười bốn. Không gào. Chỉ việc. Trống không bằng yên hội. Máy nghèo thở đều.",
+            1
+          ]
+        ]
+      },
+      "opening": "Khói bếp loãng tan trước khi nắng chạm chông. Ngày thứ bảy",
+      "file": "Chương 676 - Ngày Yên Sau Hỏi 114.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 676 - Ngày Yên Sau Hỏi 114.txt",
+      "num": 676
+    }
+  ]
+}
