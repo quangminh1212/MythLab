@@ -2,7 +2,7 @@
 Chương 683: Hỏi Lần 116 Cùng Màu
 ============================================================
 
-Trống điểm dứt khi sương còn bám then. Ngày thứ tám trăm lẻ ba. Cổng đông mang một miệng — hỏi kim khâu, đổi chỉ lấy gạo. Không gào. Chỉ miệng. Chỉ hỏi. Lần hỏi thứ một trăm mười sáu. Luật: cùng màu, không nhận kim, không đổi chỉ, không mở, không kể trẻ.
+Giọng hỏi muối thô ngoài then lúc sương bám cổng. Ngày thứ tám trăm linh ba dưới đất Biên Ải. Cổng đông — hỏi lần một trăm mười sáu cùng màu. Một miệng hỏi có muối thô không. Luật: không mở, không kể trẻ, không chỉ giếng, không nhận muối, đông thường, hầm xấu.
 
 Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ nắm đấm — im; cổng đông có tiếng người lạ. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.
 
@@ -299,3 +299,9 @@ Ngày sống: 803
 Sự kiện: hỏi lần 116 — kim khâu đổi chỉ · cùng màu · không nhận · không mở
 Cấp: im · không pháo
 』
+
+「Kho Vô Hạn — GHI NHẬN ch.683」
+Năm: 629
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: việc im · máy nghèo · ch.683

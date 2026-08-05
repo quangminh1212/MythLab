@@ -2,7 +2,7 @@
 Chương 663: Hỏi Lần 111 Cùng Màu
 ============================================================
 
-Trống điểm dứt khi khói bếp còn thấp. Ngày thứ bảy trăm tám mươi ba. Cổng đông mang một miệng — hỏi có thầy mo không, đổi bùa dây lấy muối. Không gào. Chỉ hỏi. Giọng khác lần trước. Luật trong xương: đông thường, hầm xấu, không nhận mo, không đổi bùa, cùng màu nếu phải đáp.
+Khói bếp loãng vướng cổ họng Phong trước trống điểm hỏi thầy mo. Ngày thứ bảy trăm tám mươi ba dưới đất Biên Ải. Cổng đông mang một miệng — hỏi có thầy mo không, đổi bùa dây lấy muối. Không gào. Chỉ hỏi. Giọng khác lần trước. Luật trong xương: đông thường, hầm xấu, không nhận mo, không đổi bùa, cùng màu nếu phải đáp.
 
 Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón mở — trống gò. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.
 
@@ -324,3 +324,9 @@ Ngày sống: 783
 Sự kiện: hỏi lần 111 — thầy mo đổi bùa dây lấy muối · cùng màu · không nhận · không đổi
 Cấp: im · không pháo
 』
+
+「Kho Vô Hạn — GHI NHẬN ch.663」
+Năm: 629
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: việc im · máy nghèo · ch.663
