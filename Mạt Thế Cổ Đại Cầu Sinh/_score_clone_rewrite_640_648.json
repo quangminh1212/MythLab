@@ -1,0 +1,275 @@
+{
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 9.78,
+  "all_pass": true,
+  "results": [
+    {
+      "num": 640,
+      "file": "Chương 640 - Ngày Yên Sau Hỏi 105.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3754,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 67,
+      "sensory_density": 23.69,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm sáu mươi dưới đất Biên Ải. Trong rào — ngày yên sau hỏi một trăm lẻ năm. Không gào. Không miệng. Chỉ việc. Trống không bằng yên hội. Máy nghèo thở đều. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 641,
+      "file": "Chương 641 - Sóng Thấp Lần 101.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3780,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 69,
+      "sensory_density": 22.3,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương đông còn ướt cỏ bờ ao khi trống điểm tan. Ngày thứ bảy trăm sáu mươi mốt dưới đất Biên Ải. Bờ ao cạn tây — sóng thấp lần một trăm lẻ một. Không gào. Chỉ lê thấp. Máu kín. Máy nghèo thở đều. Gió bấc mang mùi bùn ao và đất se; nắng mỏng chưa đủ sưởi gáy.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 643,
+      "file": "Chương 643 - Hỏi Lần 106 Cùng Màu.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3752,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 72,
+      "sensory_density": 24.66,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm sáu mươi ba dưới đất Biên Ải. Cổng đông — hỏi lần một trăm lẻ sáu cùng màu. Không gào. Chỉ miệng. Chỉ hỏi. Máy nghèo thở đều. Gió bấc mang mùi đất se; nắng mỏng chạm then cổng chưa đủ ấm tay.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 644,
+      "file": "Chương 644 - Ngày Yên Sau Hỏi 106.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3699,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 69,
+      "sensory_density": 23.51,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương mỏng tan chậm trên đầu chông. Ngày thứ bảy trăm sáu mươi bốn dưới đất Biên Ải. Trong rào — ngày yên sau hỏi một trăm lẻ sáu. Không gào. Chỉ việc. Trống không bằng yên hội. Máy nghèo thở đều. Gió bấc mang mùi đất se; nắng mỏng chạm bao tây chưa đủ khô sương.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 645,
+      "file": "Chương 645 - Sóng Thấp Lần 102.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3767,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 69,
+      "sensory_density": 23.19,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương còn vướng gai sim khi trống điểm tan. Ngày thứ bảy trăm sáu mươi lăm dưới đất Biên Ải. Bụi sim gai đông — sóng thấp lần một trăm lẻ hai. Không gào. Chỉ lê thấp. Máu kín. Máy nghèo thở đều. Gió bấc mang mùi lá sim se và đất; nắng mỏng chưa đủ ấm gáy.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 646,
+      "file": "Chương 646 - Bóng Gò Lần 55 Không Chỉ.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3703,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 67,
+      "sensory_density": 28.24,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương đông còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm sáu mươi sáu dưới đất Biên Ải. Gò đông — bóng gò lần năm mươi lăm. Không gào. Không xông. Chỉ bóng. Có sáo ngắn. Không chỉ. Máy nghèo thở đều. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 647,
+      "file": "Chương 647 - Hỏi Lần 107 Cùng Màu.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3772,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 73,
+      "sensory_density": 24.51,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm sáu mươi bảy dưới đất Biên Ải. Cổng đông — hỏi lần một trăm lẻ bảy cùng màu. Không gào. Chỉ miệng. Chỉ hỏi. Máy nghèo thở đều. Gió bấc mang mùi đất se; nắng mỏng chạm then chưa đủ ấm tay giữ giấy — giấy không vào rào.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "num": 648,
+      "file": "Chương 648 - Ngày Yên Sau Hỏi 107.txt",
+      "final": 9.78,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "words": 3721,
+      "maxrep": 1,
+      "maxrep_short": 1,
+      "pad_total": 0,
+      "dialogue": 69,
+      "sensory_density": 23.38,
+      "has_panel": true,
+      "panel_year": 629,
+      "top_rep": [
+        [
+          "Sương tan chậm trên đầu chông. Ngày thứ bảy trăm sáu mươi tám dưới đất Biên Ải. Trong rào — ngày yên sau hỏi một trăm lẻ bảy. Không gào. Chỉ việc. Trống không bằng yên hội. Máy nghèo thở đều. Gió bấc mang mùi đất se; nắng mỏng chạm bao tây chưa đủ khô sương đêm.",
+          1
+        ],
+        [
+          "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+          1
+        ]
+      ],
+      "pass": true
+    }
+  ]
+}
