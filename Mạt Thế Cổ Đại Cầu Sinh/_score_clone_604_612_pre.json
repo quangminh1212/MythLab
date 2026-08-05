@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3315,
+        "chars": 16695,
+        "dialogue": 215,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.1,
+        "char_density": 5.15,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi bốn. Trống điểm. Trong rào —",
+      "file": "Chương 604 - Ngày Yên Sau Hỏi 96.txt",
+      "path": "Chương 604 - Ngày Yên Sau Hỏi 96.txt",
+      "num": 604
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3314,
+        "chars": 16682,
+        "dialogue": 215,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.88,
+        "char_density": 4.98,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi lăm. Trống điểm. Bờ suối cạn",
+      "file": "Chương 605 - Sóng Thấp Lần 92.txt",
+      "path": "Chương 605 - Sóng Thấp Lần 92.txt",
+      "num": 605
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3301,
+        "chars": 16607,
+        "dialogue": 214,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.07,
+        "char_density": 5.06,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi sáu. Trống điểm. Gò đông —",
+      "file": "Chương 606 - Bóng Gò Lần 50 Không Chỉ.txt",
+      "path": "Chương 606 - Bóng Gò Lần 50 Không Chỉ.txt",
+      "num": 606
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3228,
+        "chars": 16258,
+        "dialogue": 211,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.28,
+        "char_density": 4.92,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi bảy. Trống điểm. Cổng đông —",
+      "file": "Chương 607 - Hỏi Lần 97 Cùng Màu.txt",
+      "path": "Chương 607 - Hỏi Lần 97 Cùng Màu.txt",
+      "num": 607
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3315,
+        "chars": 16707,
+        "dialogue": 215,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.08,
+        "char_density": 5.15,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi tám. Trống điểm. Trong rào —",
+      "file": "Chương 608 - Ngày Yên Sau Hỏi 97.txt",
+      "path": "Chương 608 - Ngày Yên Sau Hỏi 97.txt",
+      "num": 608
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3314,
+        "chars": 16671,
+        "dialogue": 215,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.89,
+        "char_density": 4.98,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi chín. Trống điểm. Gò sườn tây",
+      "file": "Chương 609 - Sóng Thấp Lần 93.txt",
+      "path": "Chương 609 - Sóng Thấp Lần 93.txt",
+      "num": 609
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3223,
+        "chars": 16233,
+        "dialogue": 211,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.32,
+        "char_density": 4.93,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm ba mươi mốt. Trống điểm. Cổng đông —",
+      "file": "Chương 611 - Hỏi Lần 98 Cùng Màu.txt",
+      "path": "Chương 611 - Hỏi Lần 98 Cùng Màu.txt",
+      "num": 611
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3313,
+        "chars": 16684,
+        "dialogue": 215,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.11,
+        "char_density": 5.15,
+        "cliche": 0,
+        "scene_breaks": 4,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Canh cuối trước trống điểm, Phong còn nghe gió bấc đi ngang đất ngoài rào.",
+            2
+          ],
+          [
+            "Chưa biết mai mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chưa lỏng.",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm ba mươi hai. Trống điểm. Trong rào —",
+      "file": "Chương 612 - Ngày Yên Sau Hỏi 98.txt",
+      "path": "Chương 612 - Ngày Yên Sau Hỏi 98.txt",
+      "num": 612
+    }
+  ]
+}
