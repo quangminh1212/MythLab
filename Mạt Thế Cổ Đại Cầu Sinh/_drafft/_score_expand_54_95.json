@@ -1,0 +1,338 @@
+[
+  {
+    "ch": 54,
+    "final": 10.0,
+    "words": 3418,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Sương ấm tan sớm trên sân đá khi Từ Sơn giơ tấm vá"
+  },
+  {
+    "ch": 55,
+    "final": 10.0,
+    "words": 3380,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Bảng gỗ luật dựng giữa sân họp khi Phong gọi cả nă"
+  },
+  {
+    "ch": 56,
+    "final": 10.0,
+    "words": 3398,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Tiếng giáo chạm khiên vang xưởng khi A Cường gọi h"
+  },
+  {
+    "ch": 57,
+    "final": 10.0,
+    "words": 3267,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Lúa vàng mé ruộng bậc chín đều khiến Hà mở sổ thu "
+  },
+  {
+    "ch": 58,
+    "final": 10.0,
+    "words": 3287,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Mây dày nuốt trăng phía nam khi A Cường hô ba zomb"
+  },
+  {
+    "ch": 59,
+    "final": 10.0,
+    "words": 3259,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Nắng sớm lau sạch vết máu rào nam khi Hà mang cháo"
+  },
+  {
+    "ch": 60,
+    "final": 10.0,
+    "words": 3283,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Trống ba nhịp vỡ từ tháp đông khi hai mươi zombie "
+  },
+  {
+    "ch": 61,
+    "final": 10.0,
+    "words": 3345,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Gió nam mang mùi xác cũ khi ba mươi bóng trắng lệc"
+  },
+  {
+    "ch": 62,
+    "final": 10.0,
+    "words": 3280,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Bụi tây dày hơn sương sớm khi bốn mươi zombie ép h"
+  },
+  {
+    "ch": 63,
+    "final": 10.0,
+    "words": 3311,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Sương bắc lạnh bám lưỡi giáo khi năm mươi zombie t"
+  },
+  {
+    "ch": 64,
+    "final": 10.0,
+    "words": 3363,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Trống dồn nhịp khi sáu mươi bóng nam ép sát hố bẫy"
+  },
+  {
+    "ch": 65,
+    "final": 10.0,
+    "words": 3305,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Mây tây kéo đen trước giờ ăn tối khi bảy mươi zomb"
+  },
+  {
+    "ch": 66,
+    "final": 10.0,
+    "words": 3323,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Ánh đỏ đông ló sau hàng cọc mới khi tám mươi zombi"
+  },
+  {
+    "ch": 67,
+    "final": 10.0,
+    "words": 3323,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Sương nam đặc như khói bếp ngược khi chín mươi zom"
+  },
+  {
+    "ch": 68,
+    "final": 10.0,
+    "words": 3350,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Trăm bóng bắc phủ kín lối mòn khi trống dồn không "
+  },
+  {
+    "ch": 69,
+    "final": 10.0,
+    "words": 3377,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Gió tây mang tiếng kéo lê dày khi một trăm mười zo"
+  },
+  {
+    "ch": 70,
+    "final": 10.0,
+    "words": 3407,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Trống vỡ nhịp khi trăm hai mươi bóng đông tràn sát"
+  },
+  {
+    "ch": 71,
+    "final": 10.0,
+    "words": 3355,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Sương nam đỏ nhẹ lúc rạng khi trăm ba mươi zombie "
+  },
+  {
+    "ch": 72,
+    "final": 10.0,
+    "words": 3284,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Bụi tây cuộn thành tường thấp khi trăm bốn mươi zo"
+  },
+  {
+    "ch": 73,
+    "final": 10.0,
+    "words": 3379,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Cả bốn hướng im trước một tiếng rống xa khi trăm n"
+  },
+  {
+    "ch": 74,
+    "final": 10.0,
+    "words": 3276,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Nắng yếu rọi vết nứt rào chưa vá khi Hà trải sổ th"
+  },
+  {
+    "ch": 75,
+    "final": 10.0,
+    "words": 3299,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Hà gõ từng tên trên bảng gỗ giữa sân khi cả đám xế"
+  },
+  {
+    "ch": 76,
+    "final": 10.0,
+    "words": 3413,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Chữ vàng rung khi Phong đặt tay lên không và chọn "
+  },
+  {
+    "ch": 77,
+    "final": 10.0,
+    "words": 3356,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Sương bắc mỏng khi đoàn mười lăm rời cổng mang lướ"
+  },
+  {
+    "ch": 78,
+    "final": 10.0,
+    "words": 3347,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Trống cổng điểm khi đoàn bắc về đủ khiến Hà gạch t"
+  },
+  {
+    "ch": 79,
+    "final": 10.0,
+    "words": 3233,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Gió se mang mùi củi khô sớm khi Hà trải bảng dự tr"
+  },
+  {
+    "ch": 80,
+    "final": 10.0,
+    "words": 3335,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Tuyết xoáy nuốt tháp canh khi A Cường hô trăm năm "
+  },
+  {
+    "ch": 81,
+    "final": 10.0,
+    "words": 3384,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Hơi thở trắng bám khung cửa đá khi bà nhóm bếp tru"
+  },
+  {
+    "ch": 82,
+    "final": 10.0,
+    "words": 3300,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Cả đám kéo dây một cọc khổng lồ khi Tôn hô nhịp ké"
+  },
+  {
+    "ch": 83,
+    "final": 10.0,
+    "words": 3308,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Băng nứt vang như trống khi hai trăm zombie bắc tr"
+  },
+  {
+    "ch": 84,
+    "final": 10.0,
+    "words": 3335,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Dấu chân đóng băng ngoài rào tây khiến Phong không"
+  },
+  {
+    "ch": 85,
+    "final": 10.0,
+    "words": 3309,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Dấu chân thú trên tuyết dẫn đội săn tám người rời "
+  },
+  {
+    "ch": 86,
+    "final": 10.0,
+    "words": 3327,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Mạc chỉ chỗ bùng nhùng dưới tuyết mỏng khi đội thả"
+  },
+  {
+    "ch": 87,
+    "final": 10.0,
+    "words": 3360,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Trẻ Nam thổi hơi trắng cười khẽ ngoài hiên khi Hà "
+  },
+  {
+    "ch": 88,
+    "final": 10.0,
+    "words": 3253,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Nước đóng thành lưỡi dao trong chậu ngoài khi bếp "
+  },
+  {
+    "ch": 89,
+    "final": 10.0,
+    "words": 3301,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Tuyết mới phủ kín vết chân canh cũ khi chuông dây "
+  },
+  {
+    "ch": 90,
+    "final": 10.0,
+    "words": 3309,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Giá rét tê cóng khóa cổng khi Phong hơ tay lửa rồi"
+  },
+  {
+    "ch": 91,
+    "final": 10.0,
+    "words": 3321,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Kiểm sổ sống còn sau tuần băng giá khi Hà đọc từng"
+  },
+  {
+    "ch": 92,
+    "final": 10.0,
+    "words": 3302,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Nước nhỏ giọt từ mái nghe như nhạc lạ khi băng mé "
+  },
+  {
+    "ch": 93,
+    "final": 10.0,
+    "words": 3344,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Tiếng gõ nhẹ dưới sàn đá bếp khiến Phong đặt tai x"
+  },
+  {
+    "ch": 94,
+    "final": 10.0,
+    "words": 3319,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "Cầu băng suối bắc nứt vang khi đoàn thám vừa qua n"
+  },
+  {
+    "ch": 95,
+    "final": 10.0,
+    "words": 3316,
+    "hard_fails": [],
+    "status": "PASS",
+    "open": "A Cường đứng tháp lúc sương hồng cuối đông khi Pho"
+  }
+]

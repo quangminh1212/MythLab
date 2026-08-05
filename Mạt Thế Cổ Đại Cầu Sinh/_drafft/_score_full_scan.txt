@@ -1,0 +1,3 @@
+ok=0
+below=0
+min=10

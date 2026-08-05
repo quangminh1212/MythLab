@@ -1,0 +1,33 @@
+{
+  "series": "Mạt Thế Cổ Đại Cầu Sinh",
+  "frontier": 1000,
+  "day": 1120,
+  "target": 1000,
+  "inventory_1_1000": "complete",
+  "sample_ok": 55,
+  "sample_fail": 0,
+  "fails": [],
+  "counters": {
+    "hoi": 195,
+    "song_T": 190,
+    "go_L": 100,
+    "thuoc_L": 96
+  },
+  "year": 629,
+  "exp": "15000/15000",
+  "level": 3,
+  "stubs_filled": [
+    75,
+    205,
+    206
+  ],
+  "note": "hygiene full-sweep + rescore; exactly 1000 root files; live tests pass",
+  "detemplate_through": 1000,
+  "last_batch": "fix-openings-98-204+short-184-194",
+  "last_full_score": {
+    "avg": 9.985,
+    "min": 9.56,
+    "pass": "1000/1000",
+    "all_pass": true
+  }
+}

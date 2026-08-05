@@ -1,0 +1,1003 @@
+[OK ] ch  1 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3012
+[OK ] ch  2  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3028
+[OK ] ch  3 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3390
+[OK ] ch  4  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3775
+[OK ] ch  5 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3578
+[OK ] ch  6 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3525
+[OK ] ch  7 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3738
+[OK ] ch  8 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3571
+[OK ] ch  9 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3570
+[OK ] ch 10 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3662
+[OK ] ch 11 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3510
+[OK ] ch 12 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3583
+[OK ] ch 13 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3482
+[OK ] ch 14 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3555
+[OK ] ch 15 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3567
+[OK ] ch 16 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3229
+[OK ] ch 17 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3255
+[OK ] ch 18 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3563
+[OK ] ch 19 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3590
+[OK ] ch 20 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3554
+[OK ] ch 21 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3622
+[OK ] ch 22 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3564
+[OK ] ch 23 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3518
+[OK ] ch 24 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3638
+[OK ] ch 25 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3637
+[OK ] ch 26 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3528
+[OK ] ch 27 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3569
+[OK ] ch 28 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3524
+[OK ] ch 29 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3569
+[OK ] ch 30 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3672
+[OK ] ch 31 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3490
+[OK ] ch 32 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3498
+[OK ] ch 33 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3533
+[OK ] ch 34 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3616
+[OK ] ch 35 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3577
+[OK ] ch 36 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3542
+[OK ] ch 37 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3563
+[OK ] ch 38 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3519
+[OK ] ch 39 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3618
+[OK ] ch 40 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3472
+[OK ] ch 41 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3518
+[OK ] ch 42  9.85  van=10.0 cau=9.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3046
+[OK ] ch 43 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3179
+[OK ] ch 44 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3716
+[OK ] ch 45 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3613
+[OK ] ch 46 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3320
+[OK ] ch 47 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3343
+[OK ] ch 48 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3735
+[OK ] ch 49  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3015
+[OK ] ch 50 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch 51 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3471
+[OK ] ch 52 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch 53  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3056
+[OK ] ch 54  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3024
+[OK ] ch 55 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3076
+[OK ] ch 56 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3038
+[OK ] ch 57 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3059
+[OK ] ch 58 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3056
+[OK ] ch 59 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3673
+[OK ] ch 60 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3593
+[OK ] ch 61 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3622
+[OK ] ch 62 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3609
+[OK ] ch 63 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3637
+[OK ] ch 64 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3265
+[OK ] ch 65 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3309
+[OK ] ch 66 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3708
+[OK ] ch 67 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3261
+[OK ] ch 68 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3341
+[OK ] ch 69 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch 70 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3349
+[OK ] ch 71 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3295
+[OK ] ch 72 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3700
+[OK ] ch 73  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3035
+[OK ] ch 74 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3465
+[OK ] ch 75 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3070
+[OK ] ch 76 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3565
+[OK ] ch 77 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3229
+[OK ] ch 78 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3718
+[OK ] ch 79 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3675
+[OK ] ch 80 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3724
+[OK ] ch 81 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3714
+[OK ] ch 82 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3735
+[OK ] ch 83 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3554
+[OK ] ch 84 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3647
+[OK ] ch 85 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3631
+[OK ] ch 86 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3584
+[OK ] ch 87 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3628
+[OK ] ch 88 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3698
+[OK ] ch 89 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3594
+[OK ] ch 90 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3674
+[OK ] ch 91 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3573
+[OK ] ch 92 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3598
+[OK ] ch 93 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3014
+[OK ] ch 94 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3556
+[OK ] ch 95 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3516
+[OK ] ch 96 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3418
+[OK ] ch 97 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3411
+[OK ] ch 98 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3492
+[OK ] ch 99 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3453
+[OK ] ch100 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3382
+[OK ] ch101 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3408
+[OK ] ch102 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3443
+[OK ] ch103 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3386
+[OK ] ch104 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3429
+[OK ] ch105 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3460
+[OK ] ch106 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3373
+[OK ] ch107 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3501
+[OK ] ch108 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3493
+[OK ] ch109 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3445
+[OK ] ch110 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3434
+[OK ] ch111 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3402
+[OK ] ch112 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3442
+[OK ] ch113 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3385
+[OK ] ch114 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3434
+[OK ] ch115 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3464
+[OK ] ch116 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3372
+[OK ] ch117 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3449
+[OK ] ch118 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3486
+[OK ] ch119 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3446
+[OK ] ch120 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch121 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3377
+[OK ] ch122 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3393
+[OK ] ch123 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3371
+[OK ] ch124 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3609
+[OK ] ch125  9.85  van=10.0 cau=9.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3057
+[OK ] ch126 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3541
+[OK ] ch127  9.85  van=10.0 cau=9.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3066
+[OK ] ch128 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3489
+[OK ] ch129  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3059
+[OK ] ch130  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3050
+[OK ] ch131  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3050
+[OK ] ch132  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3051
+[OK ] ch133  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3085
+[OK ] ch134  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3048
+[OK ] ch135  9.85  van=10.0 cau=9.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3076
+[OK ] ch136 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3269
+[OK ] ch137  9.56  van=9.3 cau=9.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3048
+[OK ] ch138  9.85  van=10.0 cau=9.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3051
+[OK ] ch139  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3256
+[OK ] ch140 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3354
+[OK ] ch141 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3193
+[OK ] ch142 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3278
+[OK ] ch143 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3297
+[OK ] ch144 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3276
+[OK ] ch145 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3281
+[OK ] ch146 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3345
+[OK ] ch147 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3344
+[OK ] ch148 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3279
+[OK ] ch149 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3271
+[OK ] ch150 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3275
+[OK ] ch151 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch152 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3029
+[OK ] ch153 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3540
+[OK ] ch154 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3052
+[OK ] ch155 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3025
+[OK ] ch156 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3552
+[OK ] ch157 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3041
+[OK ] ch158 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3503
+[OK ] ch159 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3106
+[OK ] ch160 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3521
+[OK ] ch161 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3529
+[OK ] ch162 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3548
+[OK ] ch163 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3044
+[OK ] ch164 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3013
+[OK ] ch165 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3101
+[OK ] ch166 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3044
+[OK ] ch167 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3019
+[OK ] ch168 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3014
+[OK ] ch169 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3068
+[OK ] ch170 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3103
+[OK ] ch171 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3537
+[OK ] ch172 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3100
+[OK ] ch173 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3533
+[OK ] ch174 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3530
+[OK ] ch175 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3536
+[OK ] ch176 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3519
+[OK ] ch177 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3539
+[OK ] ch178 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3038
+[OK ] ch179 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3542
+[OK ] ch180 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3531
+[OK ] ch181 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3120
+[OK ] ch182 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3521
+[OK ] ch183 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3107
+[OK ] ch184 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3004
+[OK ] ch185 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3536
+[OK ] ch186 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3529
+[OK ] ch187 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3546
+[OK ] ch188 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3045
+[OK ] ch189 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3540
+[OK ] ch190 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3522
+[OK ] ch191 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3102
+[OK ] ch192 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3520
+[OK ] ch193 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3091
+[OK ] ch194 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3010
+[OK ] ch195 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3525
+[OK ] ch196 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3085
+[OK ] ch197 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3522
+[OK ] ch198 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3545
+[OK ] ch199 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3524
+[OK ] ch200 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3280
+[OK ] ch201 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3052
+[OK ] ch202 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3103
+[OK ] ch203 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3053
+[OK ] ch204 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3038
+[OK ] ch205 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3145
+[OK ] ch206 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3159
+[OK ] ch207 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch208  9.85  van=10.0 cau=9.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3125
+[OK ] ch209 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3120
+[OK ] ch210 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3056
+[OK ] ch211 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3000
+[OK ] ch212 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3000
+[OK ] ch213 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3003
+[OK ] ch214 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3002
+[OK ] ch215 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3000
+[OK ] ch216  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3014
+[OK ] ch217 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3004
+[OK ] ch218 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3000
+[OK ] ch219 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3994
+[OK ] ch220 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3643
+[OK ] ch221  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3601
+[OK ] ch222 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3988
+[OK ] ch223  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3820
+[OK ] ch224  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3555
+[OK ] ch225 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3614
+[OK ] ch226 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3633
+[OK ] ch227 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3621
+[OK ] ch228 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3613
+[OK ] ch229  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3621
+[OK ] ch230 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch231  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3218
+[OK ] ch232  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3205
+[OK ] ch233  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch234  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3253
+[OK ] ch235  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3221
+[OK ] ch236  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3236
+[OK ] ch237  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3278
+[OK ] ch238  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch239  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3252
+[OK ] ch240  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch241  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch242  9.78  van=10.0 cau=8.5 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3321
+[OK ] ch243 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3293
+[OK ] ch244 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3234
+[OK ] ch245 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3275
+[OK ] ch246 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch247 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3123
+[OK ] ch248 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3234
+[OK ] ch249 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3276
+[OK ] ch250 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3318
+[OK ] ch251 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3126
+[OK ] ch252 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3262
+[OK ] ch253 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3366
+[OK ] ch254 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3364
+[OK ] ch255 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3126
+[OK ] ch256 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3262
+[OK ] ch257 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch258 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3399
+[OK ] ch259 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3144
+[OK ] ch260 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3186
+[OK ] ch261 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3424
+[OK ] ch262 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3457
+[OK ] ch263 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3528
+[OK ] ch264 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3217
+[OK ] ch265 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3422
+[OK ] ch266 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3466
+[OK ] ch267 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3526
+[OK ] ch268 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3216
+[OK ] ch269 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3442
+[OK ] ch270 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3572
+[OK ] ch271 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3526
+[OK ] ch272 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3215
+[OK ] ch273 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3451
+[OK ] ch274 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3533
+[OK ] ch275 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3561
+[OK ] ch276 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3215
+[OK ] ch277 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3455
+[OK ] ch278 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3544
+[OK ] ch279 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3596
+[OK ] ch280 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3218
+[OK ] ch281 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3475
+[OK ] ch282 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3528
+[OK ] ch283 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3595
+[OK ] ch284 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3222
+[OK ] ch285 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3475
+[OK ] ch286 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3538
+[OK ] ch287 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3595
+[OK ] ch288 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3221
+[OK ] ch289 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3845
+[OK ] ch290 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3897
+[OK ] ch291 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4053
+[OK ] ch292 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3767
+[OK ] ch293 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4011
+[OK ] ch294 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3949
+[OK ] ch295 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4087
+[OK ] ch296 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3767
+[OK ] ch297 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4014
+[OK ] ch298 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3935
+[OK ] ch299 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4110
+[OK ] ch300 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3967
+[OK ] ch301 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4029
+[OK ] ch302 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4057
+[OK ] ch303 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4185
+[OK ] ch304 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4029
+[OK ] ch305 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4084
+[OK ] ch306 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4040
+[OK ] ch307 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4198
+[OK ] ch308 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4027
+[OK ] ch309 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4098
+[OK ] ch310 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4056
+[OK ] ch311  9.99  van=10.0 cau=9.96 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4215
+[OK ] ch312 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4029
+[OK ] ch313 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4093
+[OK ] ch314 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4040
+[OK ] ch315  9.99  van=10.0 cau=9.93 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4230
+[OK ] ch316 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3982
+[OK ] ch317 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4093
+[OK ] ch318 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4114
+[OK ] ch319  9.97  van=10.0 cau=9.79 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4282
+[OK ] ch320 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3980
+[OK ] ch321 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4144
+[OK ] ch322 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4091
+[OK ] ch323  9.97  van=10.0 cau=9.79 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4283
+[OK ] ch324 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3982
+[OK ] ch325 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4186
+[OK ] ch326 10.00  van=10.0 cau=9.99 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4203
+[OK ] ch327  9.96  van=10.0 cau=9.76 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4298
+[OK ] ch328 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3981
+[OK ] ch329 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4186
+[OK ] ch330 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4089
+[OK ] ch331  9.96  van=10.0 cau=9.76 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4298
+[OK ] ch332 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3982
+[OK ] ch333 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4186
+[OK ] ch334 10.00  van=10.0 cau=9.99 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4203
+[OK ] ch335  9.96  van=10.0 cau=9.76 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4298
+[OK ] ch336 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3983
+[OK ] ch337  9.99  van=10.0 cau=9.93 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4229
+[OK ] ch338 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4163
+[OK ] ch339  9.98  van=10.0 cau=9.89 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4245
+[OK ] ch340 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4068
+[OK ] ch341  9.99  van=10.0 cau=9.94 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4224
+[OK ] ch342  9.94  van=10.0 cau=9.57 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4373
+[OK ] ch343 10.00  van=10.0 cau=9.97 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4212
+[OK ] ch344 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4124
+[OK ] ch345  9.99  van=10.0 cau=9.94 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4226
+[OK ] ch346 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4151
+[OK ] ch347 10.00  van=10.0 cau=9.97 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4213
+[OK ] ch348 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4122
+[OK ] ch349  9.99  van=10.0 cau=9.94 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4226
+[OK ] ch350 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4175
+[OK ] ch351  9.99  van=10.0 cau=9.96 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4214
+[OK ] ch352 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4083
+[OK ] ch353  9.99  van=10.0 cau=9.94 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4226
+[OK ] ch354 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4177
+[OK ] ch355  9.98  van=10.0 cau=9.84 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4263
+[OK ] ch356 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4083
+[OK ] ch357 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4172
+[OK ] ch358 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4176
+[OK ] ch359  9.98  van=10.0 cau=9.84 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4263
+[OK ] ch360 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4081
+[OK ] ch361  9.99  van=10.0 cau=9.93 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4228
+[OK ] ch362 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4179
+[OK ] ch363  9.98  van=10.0 cau=9.84 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4263
+[OK ] ch364 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4112
+[OK ] ch365  9.99  van=10.0 cau=9.93 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4229
+[OK ] ch366 10.00  van=10.0 cau=9.99 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4204
+[OK ] ch367  9.99  van=10.0 cau=9.95 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4221
+[OK ] ch368 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4110
+[OK ] ch369  9.99  van=10.0 cau=9.93 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4229
+[OK ] ch370 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4176
+[OK ] ch371  9.99  van=10.0 cau=9.95 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4221
+[OK ] ch372 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4112
+[OK ] ch373 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4177
+[OK ] ch374 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4174
+[OK ] ch375  9.99  van=10.0 cau=9.96 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4218
+[OK ] ch376  9.99  van=10.0 cau=9.93 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4227
+[OK ] ch377 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4177
+[OK ] ch378  9.99  van=10.0 cau=9.95 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4219
+[OK ] ch379 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4102
+[OK ] ch380 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4164
+[OK ] ch381 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=4172
+[OK ] ch382 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3256
+[OK ] ch383 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch384 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3200
+[OK ] ch385 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3242
+[OK ] ch386 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3270
+[OK ] ch387 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3319
+[OK ] ch388 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3207
+[OK ] ch389 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3242
+[OK ] ch390 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3261
+[OK ] ch391 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3276
+[OK ] ch392 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3170
+[OK ] ch393 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3057
+[OK ] ch394 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3051
+[OK ] ch395 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3051
+[OK ] ch396 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3155
+[OK ] ch397  9.71  van=9.3 cau=10.0 nv=9.0 cont=10.0 fil=10.0 sys=10.0  w=3129
+[OK ] ch398 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3254
+[OK ] ch399 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3222
+[OK ] ch400 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3263
+[OK ] ch401 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3226
+[OK ] ch402 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3271
+[OK ] ch403 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3265
+[OK ] ch404 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3264
+[OK ] ch405 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3295
+[OK ] ch406 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3262
+[OK ] ch407 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch408 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3291
+[OK ] ch409 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch410 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch411 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch412 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3291
+[OK ] ch413 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3282
+[OK ] ch414 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3265
+[OK ] ch415 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3281
+[OK ] ch416 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3308
+[OK ] ch417 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3310
+[OK ] ch418 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3231
+[OK ] ch419 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3241
+[OK ] ch420 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3293
+[OK ] ch421 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3234
+[OK ] ch422 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3270
+[OK ] ch423 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3275
+[OK ] ch424 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3257
+[OK ] ch425 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3234
+[OK ] ch426 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3265
+[OK ] ch427 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3285
+[OK ] ch428 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3255
+[OK ] ch429 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3233
+[OK ] ch430 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3256
+[OK ] ch431 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3279
+[OK ] ch432 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3216
+[OK ] ch433 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch434 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3229
+[OK ] ch435 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3235
+[OK ] ch436 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3307
+[OK ] ch437 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch438 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch439 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3237
+[OK ] ch440 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3307
+[OK ] ch441 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch442 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch443 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3237
+[OK ] ch444 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch445 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch446 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch447 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch448 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch449 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch450 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3303
+[OK ] ch451 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3233
+[OK ] ch452 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch453 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch454 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch455 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3230
+[OK ] ch456 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch457 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch458 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3311
+[OK ] ch459 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3226
+[OK ] ch460 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch461 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch462 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3307
+[OK ] ch463 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3231
+[OK ] ch464 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch465 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch466 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch467 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch468 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch469 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch470 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch471 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch472 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch473 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch474 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch475 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch476 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3317
+[OK ] ch477 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3318
+[OK ] ch478 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3311
+[OK ] ch479 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3231
+[OK ] ch480 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch481 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch482 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch483 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch484 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch485 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch486 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch487 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch488 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch489 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch490 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch491 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch492 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch493 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch494 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch495 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch496 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch497 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch498 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3303
+[OK ] ch499 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch500 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch501 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch502 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch503 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch504 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch505 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch506 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch507 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch508 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch509 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch510 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch511 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch512 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch513 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch514 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch515 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch516 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch517 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch518 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch519 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch520 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch521 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch522 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch523 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch524 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch525 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch526 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch527 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch528 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch529 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch530 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch531 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch532 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch533 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch534 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch535 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch536 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch537 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch538 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch539 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch540 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch541 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch542 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch543 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch544 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch545 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch546 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch547 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch548 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch549 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch550 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch551 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch552 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch553 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch554 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch555 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch556 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch557 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch558 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch559 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch560 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch561 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch562 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch563 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch564 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch565 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch566 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch567 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch568 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch569 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch570 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3213
+[OK ] ch571 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch572 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch573 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch574 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch575 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch576 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch577 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch578 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch579 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch580 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch581 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch582 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch583 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch584 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch585 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch586 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3213
+[OK ] ch587 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch588 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch589 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch590 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch591 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch592 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch593 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch594 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3213
+[OK ] ch595 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch596 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch597 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3318
+[OK ] ch598 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch599 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3222
+[OK ] ch600 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch601 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch602 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3179
+[OK ] ch603 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch604 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch605 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch606 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch607 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch608 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch609 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch610 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3213
+[OK ] ch611 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch612 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch613 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch614 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch615 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch616 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch617 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch618 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch619 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch620 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch621 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch622 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch623 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch624 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch625 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch626 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch627 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch628 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch629 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch630 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch631 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch632 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch633 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch634 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch635 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch636 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch637 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch638 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch639 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch640 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch641 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch642 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch643 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch644 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch645 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch646 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch647 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch648 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch649 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch650 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3213
+[OK ] ch651 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch652 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch653 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch654 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch655 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch656 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch657 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch658 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch659 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch660 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch661 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch662 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch663 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch664 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch665 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch666 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch667 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch668 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch669 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch670 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3298
+[OK ] ch671 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch672 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch673 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch674 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3214
+[OK ] ch675 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch676 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch677 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch678 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch679 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch680 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3310
+[OK ] ch681 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch682 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3178
+[OK ] ch683 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch684 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch685 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch686 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch687 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch688 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch689 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch690 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch691 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch692 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch693 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch694 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch695 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3222
+[OK ] ch696 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch697 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch698 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3213
+[OK ] ch699 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch700 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch701 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch702 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch703 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch704 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch705 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch706 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch707 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch708 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch709 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch710 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch711 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch712 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch713 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch714 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch715 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch716 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch717 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch718 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch719 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch720 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch721 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch722 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch723 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch724 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch725 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch726 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch727 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch728 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch729 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch730 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3303
+[OK ] ch731 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch732 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch733 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch734 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch735 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch736 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch737 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch738 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch739 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch740 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch741 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch742 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch743 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch744 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch745 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch746 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch747 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch748 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch749 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch750 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch751 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch752 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch753 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch754 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch755 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch756 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch757 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch758 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch759 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch760 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch761 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch762 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch763 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch764 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch765 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch766 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch767 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch768 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch769 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch770 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch771 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch772 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch773 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch774 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch775 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch776 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch777 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch778 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch779 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch780 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch781 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch782 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch783 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch784 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch785 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch786 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3303
+[OK ] ch787 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch788 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3312
+[OK ] ch789 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch790 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch791 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3222
+[OK ] ch792 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch793 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch794 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch795 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch796 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch797 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3318
+[OK ] ch798 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch799 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch800 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch801 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch802 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch803 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch804 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch805 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch806 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch807 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch808 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch809 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch810 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch811 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch812 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch813 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch814 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch815 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch816 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch817 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch818 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch819 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch820 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch821 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch822 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch823 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch824 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch825 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch826 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch827 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch828 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch829 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch830 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch831 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch832 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch833 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch834 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch835 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch836 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch837 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch838 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch839 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch840 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch841 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3316
+[OK ] ch842 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch843 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch844 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch845 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch846 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch847 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch848 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch849 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch850 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3303
+[OK ] ch851 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3223
+[OK ] ch852 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch853 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch854 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch855 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3227
+[OK ] ch856 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch857 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch858 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch859 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch860 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch861 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch862 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3299
+[OK ] ch863 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch864 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch865 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch866 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3302
+[OK ] ch867 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3228
+[OK ] ch868 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch869 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch870 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3300
+[OK ] ch871 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch872 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3313
+[OK ] ch873 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3314
+[OK ] ch874 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3304
+[OK ] ch875 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3224
+[OK ] ch876 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3315
+[OK ] ch877 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3212
+[OK ] ch878 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3301
+[OK ] ch879 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3225
+[OK ] ch880 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3368
+[OK ] ch881 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3351
+[OK ] ch882 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3350
+[OK ] ch883 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch884 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3373
+[OK ] ch885 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3352
+[OK ] ch886 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3344
+[OK ] ch887 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3360
+[OK ] ch888 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3372
+[OK ] ch889 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3351
+[OK ] ch890 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3352
+[OK ] ch891 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3364
+[OK ] ch892 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3379
+[OK ] ch893 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch894 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3350
+[OK ] ch895 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3364
+[OK ] ch896 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3377
+[OK ] ch897 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch898 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3354
+[OK ] ch899 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch900 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch901 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch902 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3351
+[OK ] ch903 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch904 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3377
+[OK ] ch905 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch906 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3354
+[OK ] ch907 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3366
+[OK ] ch908 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3379
+[OK ] ch909 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch910 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3349
+[OK ] ch911 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3368
+[OK ] ch912 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3380
+[OK ] ch913 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch914 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch915 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch916 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch917 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch918 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3350
+[OK ] ch919 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch920 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3376
+[OK ] ch921 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3357
+[OK ] ch922 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3355
+[OK ] ch923 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch924 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3380
+[OK ] ch925 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch926 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3352
+[OK ] ch927 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3369
+[OK ] ch928 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3381
+[OK ] ch929 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch930 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3354
+[OK ] ch931 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3364
+[OK ] ch932 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3379
+[OK ] ch933 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch934 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3351
+[OK ] ch935 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch936 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch937 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3357
+[OK ] ch938 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3355
+[OK ] ch939 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3366
+[OK ] ch940 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch941 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch942 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3352
+[OK ] ch943 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3367
+[OK ] ch944 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3380
+[OK ] ch945 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch946 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch947 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3367
+[OK ] ch948 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3379
+[OK ] ch949 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch950 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3348
+[OK ] ch951 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch952 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3377
+[OK ] ch953 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3357
+[OK ] ch954 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3354
+[OK ] ch955 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch956 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3379
+[OK ] ch957 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch958 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3352
+[OK ] ch959 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3367
+[OK ] ch960 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch961 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch962 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch963 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3366
+[OK ] ch964 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3380
+[OK ] ch965 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3359
+[OK ] ch966 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3351
+[OK ] ch967 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch968 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3377
+[OK ] ch969 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3357
+[OK ] ch970 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3353
+[OK ] ch971 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3364
+[OK ] ch972 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3379
+[OK ] ch973 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch974 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3351
+[OK ] ch975 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3367
+[OK ] ch976 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3380
+[OK ] ch977 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch978 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3356
+[OK ] ch979 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch980 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3372
+[OK ] ch981 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3355
+[OK ] ch982 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3348
+[OK ] ch983 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3363
+[OK ] ch984 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3376
+[OK ] ch985 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3355
+[OK ] ch986 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3353
+[OK ] ch987 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3364
+[OK ] ch988 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3377
+[OK ] ch989 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3357
+[OK ] ch990 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3349
+[OK ] ch991 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3368
+[OK ] ch992 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3380
+[OK ] ch993 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3358
+[OK ] ch994 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3355
+[OK ] ch995 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3365
+[OK ] ch996 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3378
+[OK ] ch997 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3357
+[OK ] ch998 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3349
+[OK ] ch999 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3363
+[OK ] ch1000 10.00  van=10.0 cau=10.0 nv=10.0 cont=10.0 fil=10.0 sys=10.0  w=3376
+============================================================
+AVG=9.99  MIN=9.56  PASS=1000/1000  BELOW=0  ALL_PASS=True
+EXIT=0

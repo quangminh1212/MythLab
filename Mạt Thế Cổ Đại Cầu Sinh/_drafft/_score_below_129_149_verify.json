@@ -1,0 +1,1159 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 25,
+  "pass": 24,
+  "below": 1,
+  "avg": 9.9,
+  "min_final": 7.5,
+  "all_pass": false,
+  "below_list": [
+    {
+      "num": 150,
+      "file": "Chương 150 - Ngày Kỷ Niệm.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(471)"
+      ],
+      "axes": {
+        "van_chuong": 8.3,
+        "cau_truc": 6.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "metrics": {
+        "words": 471,
+        "chars": 2526,
+        "dialogue": 26,
+        "maxrep": 1,
+        "maxrep_short": 3,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 6.33,
+        "char_density": 2.38,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Im silence.",
+            3
+          ],
+          [
+            "Ngày thứ một trăm lẻ tám. Bình minh.",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3107,
+        "chars": 15184,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.01,
+        "char_density": 7.18,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Chữ kho gần ngưỡng — mở đúng lúc hay mở khi miệng ồn?",
+            2
+          ],
+          [
+            "Chữ vàng lóe trong đầu Phong trước khi trống điểm tan hẳn. Ngày thứ một trăm hai mươi chín dưới đất Biên Ải. Sáu mươi hai người. Mười sáu ngày trống. Mùi sắt nguội xưởng và sương mỏng bám gáy. Thông báo nâng cấp — im. Không pháo. Không họp sân.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chữ vàng lóe trong đầu Phong trước khi trống điểm tan hẳn.",
+      "file": "Chương 129 - Thông Báo Nâng Cấp.txt",
+      "path": "Chương 129 - Thông Báo Nâng Cấp.txt",
+      "num": 129
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3064,
+        "chars": 14893,
+        "dialogue": 65,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.14,
+        "char_density": 6.85,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Dấu cũ đông — miệng đã rời hay đang vòng?",
+            2
+          ],
+          [
+            "Gió đông mang mùi đất ẩm khi Phong cột giày đế dày. Ngày thứ một trăm ba mươi. Mười bảy ngày trống. Đại Lực tháp giơ một ngón đông rồi hạ — trống gần, chưa chắc xa. Tuần tra phía đông: ba trăm bước, vòng, không đạp theo dấu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió đông mang mùi đất ẩm khi Phong cột giày đế dày.",
+      "file": "Chương 130 - Tuần Tra Phía Đông.txt",
+      "path": "Chương 130 - Tuần Tra Phía Đông.txt",
+      "num": 130
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3050,
+        "chars": 14886,
+        "dialogue": 59,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.83,
+        "char_density": 9.81,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Hoàng hôn đẹp — liệu đêm có mang sóng sau gió bấc?",
+            2
+          ],
+          [
+            "Hoàng hôn ngày thứ một trăm ba mươi mốt phủ màu cam mỏng lên chông đông. Sáu mươi hai người. Mười tám ngày trống. Mùi khói bếp chiều và đất se ấm. Bình yên — nhưng bình yên là việc im, không phải đứng ngắm hội.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hoàng hôn ngày thứ một trăm ba mươi mốt phủ màu cam",
+      "file": "Chương 131 - Hoàng Hôn Bình Yên.txt",
+      "path": "Chương 131 - Hoàng Hôn Bình Yên.txt",
+      "num": 131
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3063,
+        "chars": 14843,
+        "dialogue": 62,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.74,
+        "char_density": 7.75,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Cấp siết xong — kho có nhả thêm hay chỉ siết luật?",
+            2
+          ],
+          [
+            "Trong xương kho, chữ vàng đứng yên một nhịp dài hơn mọi ngày. Ngày thứ một trăm ba mươi hai. Mười chín ngày trống. Mùi than xưởng và muối chát. Hệ thống thăng cấp — im trong đầu, việc ngoài tay, không pháo sân.",
+            1
+          ]
+        ]
+      },
+      "opening": "Trong xương kho, chữ vàng đứng yên một nhịp dài hơn mọi",
+      "file": "Chương 132 - Hệ Thống Thăng Cấp.txt",
+      "path": "Chương 132 - Hệ Thống Thăng Cấp.txt",
+      "num": 132
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3096,
+        "chars": 15072,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.13,
+        "char_density": 7.36,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Tuyết phủ dấu — liệu có che cả miệng đang vòng?",
+            2
+          ],
+          [
+            "Tuyết ướt rơi trước khi trống điểm dứt — hạt to, dính chông, không khô. Ngày thứ một trăm ba mươi ba. Hai mươi ngày trống. Mùi tuyết ướt và khói bếp ngọt. Mưa tuyết đầu mùa: giữ ấm, giữ canh, không giữ hội ngắm.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tuyết ướt rơi trước khi trống điểm dứt — hạt to, dính",
+      "file": "Chương 133 - Mưa Tuyết Đầu Mùa.txt",
+      "path": "Chương 133 - Mưa Tuyết Đầu Mùa.txt",
+      "num": 133
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3061,
+        "chars": 14767,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.3,
+        "char_density": 6.98,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Bẫy đã đặt — ai sập trước, miệng hay thước ngoài?",
+            2
+          ],
+          [
+            "Xẻng cắm đất đông ướt khi sương còn dính đầu chông. Ngày thứ một trăm ba mươi tư. Hai mươi mốt ngày trống. Mùi đất đào ướt và thóc lép. Chiếc bẫy đầu tiên: hố xấu, đắp giống chỗ chưa đào, không phơi miệng hố.",
+            1
+          ]
+        ]
+      },
+      "opening": "Xẻng cắm đất đông ướt khi sương còn dính đầu chông. Ngày",
+      "file": "Chương 134 - Chiếc Bẫy Đầu Tiên.txt",
+      "path": "Chương 134 - Chiếc Bẫy Đầu Tiên.txt",
+      "num": 134
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3066,
+        "chars": 14937,
+        "dialogue": 61,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.35,
+        "char_density": 6.96,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Năm đã khép — còn lớp sau gió bấc hay hết?",
+            2
+          ],
+          [
+            "Canh ba. Rên đông dồn. Không gào — chỉ sóng thấp. Ngày thứ một trăm ba mươi lăm đã sang từ trống điểm. Đại Lực giơ năm ngón thấp rồi nắm. Trận đêm: đâm thấp, máu kín, bẫy hố ăn hai, không phơi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Canh ba. Rên đông dồn. Không gào — chỉ sóng thấp. Ngày",
+      "file": "Chương 135 - Trận Chiến Đêm Khuya.txt",
+      "path": "Chương 135 - Trận Chiến Đêm Khuya.txt",
+      "num": 135
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3080,
+        "chars": 15038,
+        "dialogue": 61,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.21,
+        "char_density": 10.37,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Yên một ngày sau năm — mồi hay thật?",
+            2
+          ],
+          [
+            "Bình minh sau đêm sóng mang mùi tuyết tan loãng. Ngày thứ một trăm ba mươi sáu. Không bóng sát rào. Mùi khói bếp. Bình yên sau bão — yên bằng việc, không bằng thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bình minh sau đêm sóng mang mùi tuyết tan loãng. Ngày thứ",
+      "file": "Chương 136 - Bình Yên Sau Bão.txt",
+      "path": "Chương 136 - Bình Yên Sau Bão.txt",
+      "num": 136
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3055,
+        "chars": 14980,
+        "dialogue": 62,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.3,
+        "char_density": 7.28,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Tập xong — tay có nhớ luật khi sóng thật?",
+            2
+          ],
+          [
+            "Sân đông được quét sạch tuyết một góc hẹp — không phải hội thao. Ngày thứ một trăm ba mươi bảy. Mùi mồ hôi tập và đất sân. Cuộc tập trận đầu: đâm thấp, rút, kín, không gào, không pháo.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sân đông được quét sạch tuyết một góc hẹp — không phải",
+      "file": "Chương 137 - Cuộc Tập Truyện Đầu Tiên.txt",
+      "path": "Chương 137 - Cuộc Tập Truyện Đầu Tiên.txt",
+      "num": 137
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3101,
+        "chars": 15023,
+        "dialogue": 64,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.42,
+        "char_density": 7.19,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió đông mang mùi lạ — người hay miệng?",
+            2
+          ],
+          [
+            "Gió đông thổi suốt canh tư, mang băng và một mùi khói xa mỏng như sợi. Ngày thứ một trăm ba mươi tám. Tuyết còn trên chông. Mùi gió đông mùa tuyết. Không mở rèm. Không tuần xa. Tai khe.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió đông thổi suốt canh tư, mang băng và một mùi khói",
+      "file": "Chương 138 - Gió Đông Mùa Tuyết.txt",
+      "path": "Chương 138 - Gió Đông Mùa Tuyết.txt",
+      "num": 138
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3098,
+        "chars": 15033,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.48,
+        "char_density": 6.98,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Nhận nhánh xong — ai giữ miệng khi bụng ấm hơn một nấc?",
+            2
+          ],
+          [
+            "Không trống. Không cờ. Không đứng vòng. Ngày thứ một trăm ba mươi chín. Mùi cháo đặc hơn một nấc — gạo nhánh kho mới — và than ấm. Buổi lễ nâng cấp: mười người xưởng, chữ im, cháo, việc.",
+            1
+          ]
+        ]
+      },
+      "opening": "Không trống. Không cờ. Không đứng vòng. Ngày thứ một trăm ba",
+      "file": "Chương 139 - Buổi Lễ Nâng Cấp.txt",
+      "path": "Chương 139 - Buổi Lễ Nâng Cấp.txt",
+      "num": 139
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3056,
+        "chars": 15026,
+        "dialogue": 60,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.76,
+        "char_density": 6.99,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Tám khép trong tuyết — mùa còn mang lớp nào?",
+            2
+          ],
+          [
+            "Tuyết còn rơi khi sóng thấp từ đông-nam — tám bóng, không gào. Ngày thứ một trăm bốn mươi. Mùi tanh sẽ tới. Cuộc chiến đầu mùa: thấp, kín, bẫy, không phơi trên tuyết trắng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tuyết còn rơi khi sóng thấp từ đông-nam — tám bóng, không",
+      "file": "Chương 140 - Cuộc Chiến Đầu Mùa.txt",
+      "path": "Chương 140 - Cuộc Chiến Đầu Mùa.txt",
+      "num": 140
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3119,
+        "chars": 15234,
+        "dialogue": 62,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.47,
+        "char_density": 13.59,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Hai lần yên sau sóng — lần này có khác mùi?",
+            2
+          ],
+          [
+            "Bình minh ngày thứ một trăm bốn mươi mốt. Tuyết mỏng tan. Mùi đất lộ và cháo loãng. Lại bình yên sau bão — lần này sau tám, không sau năm. Việc siết, không miệng mừng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bình minh ngày thứ một trăm bốn mươi mốt. Tuyết mỏng tan.",
+      "file": "Chương 141 - Bình Yên Sau Bão.txt",
+      "path": "Chương 141 - Bình Yên Sau Bão.txt",
+      "num": 141
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3069,
+        "chars": 15143,
+        "dialogue": 61,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.0,
+        "char_density": 6.8,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Góc mới rộng — có đủ im để giữ khi miệng hỏi?",
+            2
+          ],
+          [
+            "Cọc mới đóng góc tây-nam khi sương còn. Ngày thứ một trăm bốn mươi hai. Mùi gỗ mới và đất đào. Khu vực mới: rào lớp trước, lều sau, không khoe gang đất.",
+            1
+          ]
+        ]
+      },
+      "opening": "Cọc mới đóng góc tây-nam khi sương còn. Ngày thứ một trăm",
+      "file": "Chương 142 - Khu Vực Mới.txt",
+      "path": "Chương 142 - Khu Vực Mới.txt",
+      "num": 142
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3111,
+        "chars": 15141,
+        "dialogue": 62,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.27,
+        "char_density": 7.0,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Tháp mới nhìn xa hơn — có nhìn thấy thứ không muốn thấy?",
+            2
+          ],
+          [
+            "Khung gỗ tháp thấp góc tây-nam dựng khi nắng mỏng. Ngày thứ một trăm bốn mươi ba. Bảy mươi người — thêm miệng đường tây đêm trước đã nhận. Mùi nhựa gỗ tươi và gió cao hơn sân một thân. Tháp canh mới: thấp đủ thấy, không đèn thừa, không khoe cao.",
+            1
+          ]
+        ]
+      },
+      "opening": "Khung gỗ tháp thấp góc tây-nam dựng khi nắng mỏng. Ngày thứ",
+      "file": "Chương 143 - Tháp Canh Đầu Tiên.txt",
+      "path": "Chương 143 - Tháp Canh Đầu Tiên.txt",
+      "num": 143
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3082,
+        "chars": 14969,
+        "dialogue": 58,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.24,
+        "char_density": 7.21,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Mười hai khép — tháp góc có đáng dựng?",
+            2
+          ],
+          [
+            "Canh hai. Tháp góc tây-nam giơ tín hiệu tay — không hét. Mười hai bóng thấp từ sườn. Ngày thứ một trăm bốn mươi tư. Tấn công đêm: tháp báo, móc thấp, máu kín, không phơi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Canh hai. Tháp góc tây-nam giơ tín hiệu tay — không hét.",
+      "file": "Chương 144 - Cuộc Tấn Công Đêm.txt",
+      "path": "Chương 144 - Cuộc Tấn Công Đêm.txt",
+      "num": 144
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3079,
+        "chars": 14937,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.95,
+        "char_density": 7.16,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Hơi sông trên gió — sông đóng hay có người hun?",
+            2
+          ],
+          [
+            "Gió đổi tây từ canh tư — mang hơi sông lạnh và băng. Ngày thứ một trăm bốn mươi lăm. Mùi gió tây mới. Không tuần xa. Rèm chặt. Tai khe hơn mũi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió đổi tây từ canh tư — mang hơi sông lạnh và",
+      "file": "Chương 145 - Ngọn Gió Mới.txt",
+      "path": "Chương 145 - Ngọn Gió Mới.txt",
+      "num": 145
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3073,
+        "chars": 15132,
+        "dialogue": 58,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.35,
+        "char_density": 7.27,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Bão che tất cả — sau bão sẽ lộ gì trên tuyết?",
+            2
+          ],
+          [
+            "Bão tuyết ập từ tây-bắc trước ngọ — trắng, gào gió, không gào miệng. Ngày thứ một trăm bốn mươi sáu. Mùi tuyết dày và khói bếp bị gió dập. Cửa đóng. Ca tháp ngắn. Không tuần.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bão tuyết ập từ tây-bắc trước ngọ — trắng, gào gió, không",
+      "file": "Chương 146 - Cơn Bão Tuyết.txt",
+      "path": "Chương 146 - Cơn Bão Tuyết.txt",
+      "num": 146
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3051,
+        "chars": 15123,
+        "dialogue": 62,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.47,
+        "char_density": 7.01,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Băng giá kéo dài — lương và củi chịu được bao ngày?",
+            2
+          ],
+          [
+            "Sau bão, thế giới trắng và cứng. Ngày thứ một trăm bốn mươi bảy. Mùi băng cứng và cháo nóng nồi. Cuộc sống trong băng giá: việc đều, bước chậm, không lỏng canh.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sau bão, thế giới trắng và cứng. Ngày thứ một trăm bốn",
+      "file": "Chương 147 - Cuộc Sống Trong Băng Giá.txt",
+      "path": "Chương 147 - Cuộc Sống Trong Băng Giá.txt",
+      "num": 147
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3079,
+        "chars": 15176,
+        "dialogue": 63,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.34,
+        "char_density": 6.85,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sông băng thành đường — miệng có dùng đường đó không?",
+            2
+          ],
+          [
+            "Hơi sông trên gió tây đã rõ hơn — vì sông đóng băng. Ngày thứ một trăm bốn mươi tám. Phong và Hùng thám năm trăm bước tây: mặt sông trắng cứng. Không sang. Chỉ ghi. Về.",
+            1
+          ]
+        ]
+      },
+      "opening": "Hơi sông trên gió tây đã rõ hơn — vì sông đóng",
+      "file": "Chương 148 - Băng Sông Đóng Băng.txt",
+      "path": "Chương 148 - Băng Sông Đóng Băng.txt",
+      "num": 148
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3059,
+        "chars": 15265,
+        "dialogue": 60,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.44,
+        "char_density": 6.75,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Đời thường bền khi sông băng còn là đường lạ ngoài rào?",
+            2
+          ],
+          [
+            "Bình minh ngày thứ một trăm bốn mươi chín. Bảy mươi bảy người. Mùi cháo loãng và đất sân đông người. Cuộc sống đời thường — thường bằng việc, không bằng quên miệng ngoài.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bình minh ngày thứ một trăm bốn mươi chín. Bảy mươi bảy",
+      "file": "Chương 149 - Cuộc Sống Đời Thường.txt",
+      "path": "Chương 149 - Cuộc Sống Đời Thường.txt",
+      "num": 149
+    },
+    {
+      "final": 7.5,
+      "weighted_raw": 8.91,
+      "cap": 7.5,
+      "axes": {
+        "van_chuong": 8.3,
+        "cau_truc": 6.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [
+        "short<3000(471)"
+      ],
+      "metrics": {
+        "words": 471,
+        "chars": 2526,
+        "dialogue": 26,
+        "maxrep": 1,
+        "maxrep_short": 3,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 6.33,
+        "char_density": 2.38,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Im silence.",
+            3
+          ],
+          [
+            "Ngày thứ một trăm lẻ tám. Bình minh.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ một trăm lẻ tám. Bình minh. Bảy mươi bảy người.",
+      "file": "Chương 150 - Ngày Kỷ Niệm.txt",
+      "path": "Chương 150 - Ngày Kỷ Niệm.txt",
+      "num": 150
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3275,
+        "chars": 15540,
+        "dialogue": 44,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 8.04,
+        "char_density": 6.5,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Chương 200: Hanh Trinh Moi",
+            1
+          ],
+          [
+            "Ngay thu mot tram le hai muoi. Hom nay la mot ngay dac biet — ngay thu hai tram cua cuoc hanh trinh. Phong thuc day som, buoc ra cua truoc khi binh minh. Bau troi con toi, nhung nhom sao da bat dau tan dan. Anh ngoi tren be da, lang nghe tieng dong chim truc len.",
+            1
+          ]
+        ]
+      },
+      "opening": "Chương 200: Hanh Trinh Moi Ngay thu mot tram le hai muoi.",
+      "file": "Chương 200 - Hanh Trinh Moi.txt",
+      "path": "Chương 200 - Hanh Trinh Moi.txt",
+      "num": 200
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3484,
+        "chars": 17299,
+        "dialogue": 105,
+        "maxrep": 2,
+        "maxrep_short": 3,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.29,
+        "char_density": 3.53,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "\"Ngủ.\"",
+            3
+          ],
+          [
+            "\"Em sẵn rèm, ướt, ba vỗ, hòm bỏng.\"",
+            2
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm hai mươi ba. Trống điểm. Trong rào —",
+      "file": "Chương 500 - Ngày Yên Sau Hỏi Bảy Mươi.txt",
+      "path": "Chương 500 - Ngày Yên Sau Hỏi Bảy Mươi.txt",
+      "num": 500
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3376,
+        "chars": 16215,
+        "dialogue": 107,
+        "maxrep": 2,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 32.32,
+        "char_density": 17.08,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Liệu có giữ nhịp? Sẽ biết khi trống điểm kế. Nhưng hôm nay đã viết việc đủ.",
+            2
+          ],
+          [
+            "Ngày thứ một nghìn một trăm hai mươi. Trống điểm. Trong rào không hội. Không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ một nghìn một trăm hai mươi. Trống điểm. Trong rào",
+      "file": "Chương 1000 - Ngày Yên Sau Hỏi 195.txt",
+      "path": "Chương 1000 - Ngày Yên Sau Hỏi 195.txt",
+      "num": 1000
+    }
+  ]
+}
