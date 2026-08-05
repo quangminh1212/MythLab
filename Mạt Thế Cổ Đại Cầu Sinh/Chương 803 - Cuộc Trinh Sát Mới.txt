@@ -1,0 +1,29 @@
+============================================================
+Chương 803: Cuộc Trinh Sát Mới
+============================================================
+
+Ngày thứ mười ngàn bảy trăm năm mươi. Bình minh.
+
+Phong tổ chức cuộc trinh sát mới — lần này, với mục tiêu rõ ràng hơn: tìm người sống sót ở các vùng xa hơn.
+
+"263720 người — tốt," anh nói. "Nhưng phải tiếp tục tìm."
+
+Anh tổ chức năm toán — mỗi toán 20 người. Năm toán tản ra khắp nơi.
+
+---
+
+Năm ngày — năm toán trở về. Kết quả:
+
+Toàn A: Tìm thấy 4600 người — đang sống trong hang động lớn phía bắc. Họ có đủ vũ khí và thức ăn — nhưng cần y tế.
+Toàn B: Tìm thấy 2400 người — đang sống ở đồi phía tây. Họ trồng lúa mì tự cung tự cấp — nhưng bị zombie bao vây.
+Toàn C: Tìm thấy 2300 người — đang sống bên sông phía nam. Họ đánh cá và hái trái cây — nhưng thiếu vũ khí.
+Toàn D: Tìm thấy 2200 người — đang sống trên núi phía đông. Họ săn bắt và biết sử dụng thảo dược — nhưng thiếu quần áo ấm.
+Toàn E: Không tìm thấy ai — nhưng phát hiện một kho vũ khí cổ — có 4200 thanh kiếm sắt và 20000 mũi tên đồng.
+
+"Tổng cộng: 11500 người mới," Phong nói. "263720 + 11500 = 275220 người."
+
+「GHI NHẬN」
+Năm: 629 CN
+EXP: +10000 → 58565000/80000000
+Hiện tại: Lv.19 (Cấp 19 — Kho Vô Hạn Mở Rộng Tối Đa)
+Nâng cấp tiếp: Đạt 80000000 EXP để lên Cấp 20 — Kho Vô Hạn mở rộng 80000000 đơn vị.
