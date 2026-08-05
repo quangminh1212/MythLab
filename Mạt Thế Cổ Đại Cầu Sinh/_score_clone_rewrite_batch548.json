@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3092,
+        "chars": 15182,
+        "dialogue": 74,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.55,
+        "char_density": 6.26,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm sáu mươi tám dưới trời Đường 629. Trống điểm dứt khi sương còn dính đầu chông đông. Gò ngoài trống. Không xe. Không thước. Không miệng hỏi. Hôm qua miệng mang chữ mật đã lùi; hôm nay trong rào chỉ còn việc — và việc dễ thành thở phào nếu không siết xương.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ hai ngón mở — trống. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi tám dưới trời Đường 629. Trống",
+      "file": "Chương 548 - Ngày Yên Sau Hỏi 82.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 548 - Ngày Yên Sau Hỏi 82.txt",
+      "num": 548
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3038,
+        "chars": 14777,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.37,
+        "char_density": 5.62,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm sáu mươi chín dưới trời Đường 629. Trống điểm dứt khi bấc mang mùi đá ướt từ phía bắc. Gò ngoài trống một nhịp — rồi A Minh giơ một ngón thấp: sóng. Không gào. Không xe. Bãi đá lăn bắc. Sóng thấp lần bảy mươi tám.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép, đắp xấu, phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng — mắt đã tìm anh. Việc mở trước miệng; miệng không nở vì sóng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi chín dưới trời Đường 629. Trống",
+      "file": "Chương 549 - Sóng Thấp Lần 78.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 549 - Sóng Thấp Lần 78.txt",
+      "num": 549
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3048,
+        "chars": 14978,
+        "dialogue": 78,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.64,
+        "char_density": 6.08,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm bảy mươi dưới trời Đường 629. Trống điểm dứt khi sương còn bám cỏ gò đông. Gò không trống hẳn — A Minh giơ một ngón chậm: bóng. Một. Không lê. Không sóng. Bóng gò lần bốn mươi ba. Luật cũ: thấy — không chỉ. Không hô. Không đạp theo.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. Việc mở trước miệng; miệng không chỉ gò.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm bảy mươi dưới trời Đường 629. Trống điểm",
+      "file": "Chương 550 - Bóng Gò Lần 43 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 550 - Bóng Gò Lần 43 Không Chỉ.txt",
+      "num": 550
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3107,
+        "chars": 15370,
+        "dialogue": 82,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.42,
+        "char_density": 5.6,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm bảy mươi mốt dưới trời Đường 629. Trống điểm dứt khi gió đông mang mùi giấy ẩm lẫn đất. Gò ngoài trống. Không xe. Không thước. Giữa sáng, một bóng đứng ngoài tầm chông cổng đông — khoảng cách khách quan, không xông, không lánh, chỉ hỏi. Hỏi lần tám mươi ba. Cùng màu.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh giơ một ngón — người. Không sóng. Không bóng sáo. Việc mở trước miệng; miệng đã sẵn cùng màu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm bảy mươi mốt dưới trời Đường 629. Trống",
+      "file": "Chương 551 - Hỏi Lần 83 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 551 - Hỏi Lần 83 Cùng Màu.txt",
+      "num": 551
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3016,
+        "chars": 14869,
+        "dialogue": 74,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.05,
+        "char_density": 6.19,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm bảy mươi hai dưới trời Đường 629. Trống điểm dứt khi sương còn dính đầu chông đông. Gò ngoài trống. Không xe. Không thước. Không miệng hỏi giấy. Hôm qua miệng mang chữ giấy-bút-gạo đã lùi; hôm nay trong rào chỉ còn việc — và việc dễ thành thở phào nếu không siết xương sau mồi chữ.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh hai ngón mở — trống. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm bảy mươi hai dưới trời Đường 629. Trống",
+      "file": "Chương 552 - Ngày Yên Sau Hỏi 83.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 552 - Ngày Yên Sau Hỏi 83.txt",
+      "num": 552
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3062,
+        "chars": 14944,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.88,
+        "char_density": 5.49,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm bảy mươi ba dưới trời Đường 629. Trống điểm dứt khi gió đông mang mùi bèo khô và bùn. Gò ngoài trống một nhịp — rồi A Minh giơ một ngón thấp: sóng. Không gào. Không xe. Rìa bèo khô đông. Sóng thấp lần bảy mươi chín. Bốn.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng — mắt đã tìm anh. Việc mở trước miệng; miệng không nở vì sóng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm bảy mươi ba dưới trời Đường 629. Trống",
+      "file": "Chương 553 - Sóng Thấp Lần 79.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 553 - Sóng Thấp Lần 79.txt",
+      "num": 553
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3179,
+        "chars": 15735,
+        "dialogue": 84,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.64,
+        "char_density": 5.53,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm bảy mươi lăm dưới trời Đường 629. Trống điểm dứt khi gió đông mang mùi sắt han lẫn đất se. Gò ngoài trống. Không xe. Không thước. Giữa sáng, một bóng đứng ngoài tầm chông cổng đông — khoảng cách khách quan, không xông, không lánh, chỉ hỏi. Hỏi lần tám mươi tư. Cùng màu. Mồi khác giấy: đinh sắt — đổi búa lấy muối.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh giơ một ngón — người. Không sóng. Không bóng sáo. Việc mở trước miệng; miệng đã sẵn cùng màu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm bảy mươi lăm dưới trời Đường 629. Trống",
+      "file": "Chương 555 - Hỏi Lần 84 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 555 - Hỏi Lần 84 Cùng Màu.txt",
+      "num": 555
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3071,
+        "chars": 15135,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.34,
+        "char_density": 6.08,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm bảy mươi sáu dưới trời Đường 629. Trống điểm dứt khi sương còn dính đầu chông đông. Gò ngoài trống. Không xe. Không thước. Không miệng hỏi đinh. Hôm qua miệng mang chữ đinh-búa-muối đã lùi; hôm nay trong rào chỉ còn việc — và việc dễ thành thở phào nếu không siết xương sau mồi thợ rèn giả.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh hai ngón mở — trống. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc mở trước miệng. Búa vẫn cất sâu.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm bảy mươi sáu dưới trời Đường 629. Trống",
+      "file": "Chương 556 - Ngày Yên Sau Hỏi 84.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 556 - Ngày Yên Sau Hỏi 84.txt",
+      "num": 556
+    }
+  ]
+}
