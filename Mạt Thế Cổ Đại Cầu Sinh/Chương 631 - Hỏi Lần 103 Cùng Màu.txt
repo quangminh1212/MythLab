@@ -2,7 +2,7 @@
 Chương 631: Hỏi Lần 103 Cùng Màu
 ============================================================
 
-Sương mỏng còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm năm mươi mốt dưới đất Biên Ải. Cổng đông mang một miệng — hỏi dầu đèn, đổi bấc lấy nước. Không gào. Chỉ hỏi. Giọng khô khác lần muối. Luật trong xương: đông thường, hầm xấu, không nhận dầu, không đổi bấc, cùng màu nếu phải đáp.
+Mùi dầu khét len qua then cổng đông lúc trống vừa dứt. Ngày thứ bảy trăm năm mươi mốt dưới đất Biên Ải. Cổng đông mang một miệng — hỏi dầu đèn, đổi bấc lấy nước. Không gào. Chỉ hỏi. Giọng khô khác lần muối. Luật trong xương: đông thường, hầm xấu, không nhận dầu, không đổi bấc, cùng màu nếu phải đáp.
 
 Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ hai ngón mở — trống phía bắc; phía đông có miệng. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.
 
@@ -314,9 +314,8 @@ Trống điểm kế mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chư
 
 Nắng sớm chạm cổng. Ai kể dầu — hở. Ai chỉ giếng — hở. Ai kể trẻ — hở gấp. Phong siết hàm lần cuối. Hà thở. Mùi đất se. Mùi vôi cũ. Gió bấc lạnh gáy. Tiếng then êm. Sống. Đo. Không khoe.
 
-「GHI NHẬN ch.631」
+「Kho Vô Hạn — GHI NHẬN ch.631」
 Năm: 629
-Ngày sống: 751
-Sự kiện: hỏi lần 103 — dầu đèn đổi bấc · cùng màu · không nhận · không mở
-Cấp: im · không pháo
-』
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: Hỏi 103 · dầu đèn · đổi bấc · cùng màu · không nhận · không đổi · cấp im · máy nghèo

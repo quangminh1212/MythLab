@@ -2,7 +2,7 @@
 Chương 647: Hỏi Lần 107 Cùng Màu
 ============================================================
 
-Sương còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm sáu mươi bảy dưới đất Biên Ải. Cổng đông — hỏi lần một trăm lẻ bảy cùng màu. Không gào. Chỉ miệng. Chỉ hỏi. Máy nghèo thở đều. Gió bấc mang mùi đất se; nắng mỏng chạm then chưa đủ ấm tay giữ giấy — giấy không vào rào.
+Tờ giấy bản mỏng bay dính bụi ngoài then cổng. Ngày thứ bảy trăm sáu mươi bảy dưới đất Biên Ải. Cổng đông — hỏi lần một trăm lẻ bảy cùng màu. Không gào. Chỉ miệng. Chỉ hỏi. Máy nghèo thở đều. Gió bấc mang mùi đất se; nắng mỏng chạm then chưa đủ ấm tay giữ giấy — giấy không vào rào.
 
 Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.
 
@@ -250,9 +250,8 @@ Trống điểm kế sẽ mang sóng, bóng, hỏi hay yên giả. Chưa mừng.
 
 Nắng sớm sẽ chạm rào. Ai hở — hở. Ai kể trẻ — hở gấp. Phong siết hàm lần cuối. Hà thở. Mùi đất se. Mùi vôi cũ. Gió bấc lạnh gáy. Tiếng then êm. Sống. Đo. Không khoe.
 
-「GHI NHẬN ch.647」
+「Kho Vô Hạn — GHI NHẬN ch.647」
 Năm: 629
-Ngày sống: 767
-Sự kiện: hỏi lần 107 — giấy bản · đổi bút lấy gạo · không nhận · không đổi · cùng màu · cấp im
-Cấp: im · không pháo
-』
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: Hỏi 107 · giấy bản · đổi bút lấy gạo · không nhận · không đổi · cùng màu · cấp im · máy nghèo

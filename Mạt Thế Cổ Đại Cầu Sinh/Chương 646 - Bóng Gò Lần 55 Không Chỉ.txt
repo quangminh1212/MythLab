@@ -2,7 +2,7 @@
 Chương 646: Bóng Gò Lần 55 Không Chỉ
 ============================================================
 
-Sương đông còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm sáu mươi sáu dưới đất Biên Ải. Gò đông — bóng gò lần năm mươi lăm. Không gào. Không xông. Chỉ bóng. Có sáo ngắn. Không chỉ. Máy nghèo thở đều. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy.
+Tiếng sáo ngắn ngắt giữa gò đông rồi im hẳn. Ngày thứ bảy trăm sáu mươi sáu dưới đất Biên Ải. Gò đông — bóng gò lần năm mươi lăm. Không gào. Không xông. Chỉ bóng. Có sáo ngắn. Không chỉ. Máy nghèo thở đều. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy.
 
 Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.
 
@@ -250,9 +250,8 @@ Trống điểm kế sẽ mang sóng, bóng, hỏi hay yên giả. Chưa mừng.
 
 Nắng sớm sẽ chạm rào. Ai hở — hở. Ai kể trẻ — hở gấp. Phong siết hàm lần cuối. Hà thở. Mùi đất se. Mùi vôi cũ. Gió bấc lạnh gáy. Tiếng then êm. Sống. Đo. Không khoe.
 
-「GHI NHẬN ch.646」
+「Kho Vô Hạn — GHI NHẬN ch.646」
 Năm: 629
-Ngày sống: 766
-Sự kiện: bóng gò lần 55 — thổi sáo ngắn rồi ngừng · không chỉ · không hô đáp sáo · không đạp theo · cấp im
-Cấp: im · không pháo
-』
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: Bóng gò 55 · sáo ngắn rồi ngừng · không chỉ · không hô đáp sáo · không đạp · cấp im · máy nghèo

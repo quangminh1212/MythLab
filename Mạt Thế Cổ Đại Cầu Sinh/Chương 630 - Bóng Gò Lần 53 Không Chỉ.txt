@@ -2,7 +2,7 @@
 Chương 630: Bóng Gò Lần 53 Không Chỉ
 ============================================================
 
-Đường bụi đông sáng như muối rơi khi gió bấc kéo ngang. Ngày thứ bảy trăm năm mươi. Gò đông — hai bóng kéo dây ngang đường bụi. Không gào. Chỉ bóng. Không chỉ. Không cắt dây. Không đạp theo. Lần bóng gò thứ năm mươi ba.
+Hai bóng kéo dây ngang bụi đông trước khi nắng chạm rào. Ngày thứ bảy trăm năm mươi. Gò đông — hai bóng kéo dây ngang đường bụi. Không gào. Chỉ bóng. Không chỉ. Không cắt dây. Không đạp theo. Lần bóng gò thứ năm mươi ba. Gió bấc mang mùi đất se; bụi bay như muối rơi.
 
 Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón — đông thấp. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.
 
@@ -300,9 +300,8 @@ Trống điểm kế mang sóng, bóng, hỏi hay yên giả. Chưa mừng. Chư
 
 Nắng sớm chạm dây. Ai cắt — hở. Ai chỉ — hở. Ai kể trẻ — hở gấp. Phong siết hàm lần cuối. Hà thở. Mùi đất se. Mùi vôi cũ. Gió bấc lạnh gáy. Tiếng then êm. Sống. Đo. Không khoe.
 
-「GHI NHẬN ch.630」
+「Kho Vô Hạn — GHI NHẬN ch.630」
 Năm: 629
-Ngày sống: 750
-Sự kiện: bóng gò lần 53 — hai bóng kéo dây ngang · không chỉ · không cắt · không đạp
-Cấp: im · không pháo
-』
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: Bóng gò 53 · hai bóng kéo dây · không chỉ · không cắt · không đạp · cấp im · máy nghèo

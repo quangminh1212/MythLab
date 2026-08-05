@@ -2,7 +2,7 @@
 Chương 622: Bóng Gò Lần 52 Không Chỉ
 ============================================================
 
-Sương đông còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm bốn mươi hai dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Trên gò đông, một bóng đứng — không gào, không lê, chỉ đếm bước rồi cắm mốc. Lần bóng gò thứ năm mươi hai. Luật trong xương: thấy, không chỉ, không nhổ mốc, không đạp theo.
+Mốc gỗ cắm xiên trên gò đông lúc gió bấc quét sương tan. Ngày thứ bảy trăm bốn mươi hai dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Trên gò đông, một bóng đứng — không gào, không lê, chỉ đếm bước rồi cắm mốc. Lần bóng gò thứ năm mươi hai. Luật trong xương: thấy, không chỉ, không nhổ mốc, không đạp theo.
 
 Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ hai ngón mở — trống phía bắc; phía đông vẫn có bóng. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.
 
@@ -270,9 +270,8 @@ Trống điểm kế sẽ mang sóng, bóng, hỏi hay yên giả. Chưa mừng.
 
 Nắng sớm sẽ chạm mốc. Ai nhổ — hở. Ai chỉ — hở. Ai kể trẻ — hở gấp. Phong siết hàm lần cuối. Hà thở. Mùi đất se. Mùi vôi cũ. Gió bấc lạnh gáy. Tiếng then êm. Sống. Đo. Không khoe.
 
-「GHI NHẬN ch.622」
+「Kho Vô Hạn — GHI NHẬN ch.622」
 Năm: 629
-Ngày sống: 742
-Sự kiện: bóng gò lần 52 — đếm bước cắm mốc · không chỉ · không nhổ · không đạp
-Cấp: im · không pháo
-』
+EXP: 15000 / 15000
+Hiện tại: cấp 3
+Nâng cấp: Bóng gò 52 · đếm bước cắm mốc · không chỉ · không nhổ · không đạp · cấp im · máy nghèo
