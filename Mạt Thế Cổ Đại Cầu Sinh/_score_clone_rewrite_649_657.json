@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 9.78,
+  "min_final": 9.78,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3306,
+        "chars": 16202,
+        "dialogue": 78,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.99,
+        "char_density": 5.93,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió bấc mang mùi vôi ướt từ rãnh nam trước khi trống điểm tan hẳn. Ngày thứ bảy trăm sáu mươi chín dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Rãnh vôi cũ nam — sóng thấp lần một trăm linh ba. Không gào. Chỉ sóng thấp. Máu kín. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió bấc mang mùi vôi ướt từ rãnh nam trước khi trống",
+      "file": "Chương 649 - Sóng Thấp Lần 103.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 649 - Sóng Thấp Lần 103.txt",
+      "num": 649
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3239,
+        "chars": 15955,
+        "dialogue": 82,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.87,
+        "char_density": 5.64,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Khói bếp còn thấp khi cổng đông mang một miệng hỏi đinh. Ngày thứ bảy trăm bảy mươi mốt dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Cổng đông — hỏi lần một trăm linh tám. Không gào. Chỉ miệng. Chỉ hỏi đinh. Cùng màu. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Khói bếp còn thấp khi cổng đông mang một miệng hỏi đinh.",
+      "file": "Chương 651 - Hỏi Lần 108 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 651 - Hỏi Lần 108 Cùng Màu.txt",
+      "num": 651
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3185,
+        "chars": 15686,
+        "dialogue": 78,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.78,
+        "char_density": 6.38,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Trống điểm tan mà cổng không mang miệng — yên sau hỏi đinh, yên không phải hội. Ngày thứ bảy trăm bảy mươi hai dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Trong rào — ngày yên sau hỏi một trăm linh tám. Không gào. Chỉ việc. Trống không bằng yên hội. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Trống điểm tan mà cổng không mang miệng — yên sau hỏi",
+      "file": "Chương 652 - Ngày Yên Sau Hỏi 108.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 652 - Ngày Yên Sau Hỏi 108.txt",
+      "num": 652
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3311,
+        "chars": 16213,
+        "dialogue": 78,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.09,
+        "char_density": 5.92,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sương dính gốc sung khô phía bắc khi năm bóng thấp lê sát rìa đất. Ngày thứ bảy trăm bảy mươi ba dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Gốc sung khô bắc — sóng thấp lần một trăm linh bốn. Không gào. Chỉ sóng. Máu kín. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sương dính gốc sung khô phía bắc khi năm bóng thấp lê",
+      "file": "Chương 653 - Sóng Thấp Lần 104.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 653 - Sóng Thấp Lần 104.txt",
+      "num": 653
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3186,
+        "chars": 15621,
+        "dialogue": 78,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.58,
+        "char_density": 6.27,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Trên gò đông, một bóng đứng — không gào, không lê, chỉ đặt túi vải lên gai rồi im. Ngày thứ bảy trăm bảy mươi bốn dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Gò đông — bóng gò lần năm mươi sáu. Không gào. Chỉ bóng. Có túi. Không chỉ. Không mở túi. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Trên gò đông, một bóng đứng — không gào, không lê, chỉ",
+      "file": "Chương 654 - Bóng Gò Lần 56 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 654 - Bóng Gò Lần 56 Không Chỉ.txt",
+      "num": 654
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3246,
+        "chars": 16001,
+        "dialogue": 82,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.06,
+        "char_density": 5.62,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió đông mang mùi lá khô lẫn tiếng hỏi thuốc từ ngoài cổng. Ngày thứ bảy trăm bảy mươi lăm dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Cổng đông — hỏi lần một trăm linh chín. Không gào. Chỉ miệng. Chỉ hỏi thuốc. Cùng màu. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió đông mang mùi lá khô lẫn tiếng hỏi thuốc từ ngoài",
+      "file": "Chương 655 - Hỏi Lần 109 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 655 - Hỏi Lần 109 Cùng Màu.txt",
+      "num": 655
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3186,
+        "chars": 15700,
+        "dialogue": 78,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.76,
+        "char_density": 6.43,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sân thức mà cổng trống — yên sau hỏi thuốc, yên dạy tai chứ không dạy thở phào. Ngày thứ bảy trăm bảy mươi sáu dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Trong rào — ngày yên sau hỏi một trăm linh chín. Không gào. Chỉ việc. Trống không bằng yên hội. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sân thức mà cổng trống — yên sau hỏi thuốc, yên dạy",
+      "file": "Chương 656 - Ngày Yên Sau Hỏi 109.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 656 - Ngày Yên Sau Hỏi 109.txt",
+      "num": 656
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3308,
+        "chars": 16249,
+        "dialogue": 79,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.8,
+        "char_density": 5.91,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Mùi lá mục từ mương tây-nam dậy sớm hơn trống điểm — sáu bóng thấp, không gào. Ngày thứ bảy trăm bảy mươi bảy dưới đất Biên Ải. Gió bấc mang mùi đất se và vôi cũ; nắng mỏng chưa đủ ấm gáy. Mương lá mục tây-nam — sóng thấp lần một trăm linh lăm. Không gào. Chỉ sóng. Máu kín. Luật trong xương: thấy việc, nuốt việc, không kể việc thành hội sân.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Mùi lá mục từ mương tây-nam dậy sớm hơn trống điểm —",
+      "file": "Chương 657 - Sóng Thấp Lần 105.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 657 - Sóng Thấp Lần 105.txt",
+      "num": 657
+    }
+  ]
+}
