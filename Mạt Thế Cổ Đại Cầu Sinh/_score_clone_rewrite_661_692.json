@@ -1,0 +1,179 @@
+{
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "num": 661,
+      "file": "Chương 661 - Sóng Thấp Lần 106.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3053,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 665,
+      "file": "Chương 665 - Sóng Thấp Lần 107.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3051,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 686,
+      "file": "Chương 686 - Bóng Gò Lần 60 Không Chỉ.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3242,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 687,
+      "file": "Chương 687 - Hỏi Lần 117 Cùng Màu.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3162,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 688,
+      "file": "Chương 688 - Ngày Yên Sau Hỏi 117.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3769,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 689,
+      "file": "Chương 689 - Sóng Thấp Lần 113.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3057,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 691,
+      "file": "Chương 691 - Hỏi Lần 118 Cùng Màu.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3162,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    },
+    {
+      "num": 692,
+      "file": "Chương 692 - Ngày Yên Sau Hỏi 118.txt",
+      "final": 10.0,
+      "hard_fails": [],
+      "metrics": {
+        "words": 3764,
+        "maxrep": 1,
+        "pad_total": 0,
+        "has_panel": true,
+        "panel_year": 629
+      },
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      }
+    }
+  ]
+}
