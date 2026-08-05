@@ -1,0 +1,29 @@
+============================================================
+Chương 739: Cuộc Săn Lớn
+============================================================
+
+Ngày thứ mười ngàn năm trăm năm mươi. Bình minh.
+
+Mùa hè nóng bức — thức ăn cần được bổ sung. Phong tổ chức cuộc săn lớn nhất từ trước đến giờ.
+
+450 người — chia thành năm toán.
+
+---
+
+Năm ngày — kết quả:
+
+Toàn A: 470 con nai, 235 con hươu.
+Toàn B: 490 con lợn rừng.
+Toàn C: 4550 con thỏ.
+Toàn D: 22750 đơn vị trái cây.
+Toàn E: Thu thập thêm 22000 đơn vị thảo dược.
+
+"Tổng cộng," Phong nói, "khoảng 118000 đơn vị thức ăn mới."
+
+Tổng kho: 13355500 + 118000 = 13473500/40000000 đơn vị.
+
+「GHI NHẬN」
+Năm: 629 CN
+EXP: +5000 → 31065000/80000000
+Hiện tại: Lv.19 (Cấp 19 — Kho Vô Hạn Mở Rộng Tối Đa)
+Nâng cấp tiếp: Đạt 80000000 EXP để lên Cấp 20 — Kho Vô Hạn mở rộng 80000000 đơn vị.
