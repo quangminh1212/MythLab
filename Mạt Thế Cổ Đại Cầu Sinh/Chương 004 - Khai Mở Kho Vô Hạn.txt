@@ -1,15 +1,18 @@
 ============================================================
-Chương 4: Khai Mở Kho Vô Hạn
+Chương 004: Khai Mở Kho Vô Hạn
+============================================================
 
-Sáng sớm ngày thứ tư. Trời chưa kịp hồng hẳn.
+Sáng sớm ngày thứ tư. Trời chưa kịp hồng.
 
-Phong dậy khi than hồng trong bếp chỉ còn một đốm. Đêm qua anh ngủ chập chờn — mỗi lần ngoài rào có tiếng cộp là mắt bật mở. Zombie cầm tre không gõ nữa từ canh tư, nhưng im lặng đôi khi đáng sợ hơn tiếng gõ: im lặng nghĩa là chúng đang làm việc khác, ở chỗ khác, hoặc đang đông thêm ngoài tầm mắt.
+Phong dậy khi than hồng trong bếp chỉ còn một đốm. Đêm qua anh ngủ chập chờn — mỗi lần ngoài rào có tiếng cộp là mắt bật mở. Zombie cầm tre không gõ nữa từ canh tư, nhưng im lặng đôi khi đáng sợ hơn tiếng gõ. Im lặng nghĩa là chúng đang làm việc khác, ở chỗ khác, hoặc đang đông thêm ngoài tầm mắt.
 
-Anh ra sân. Sương phủ trắng mặt đất nện, bám trên 30 thanh gỗ hàng rào, đọng thành giọt ở đầu cọc. Không khí lạnh ẩm, mùi đất sương, mùi lông vịt, và thoảng mùi xác thối từ mé rừng nơi họ bỏ thi thể hôm qua. 30 con vịt vẫn cụp đầu dưới cánh. Ngoài rào, ba bóng trắng đứng thành chữ phẩm — giữa là con cầm cành tre, hai bên tay không. Mắt chúng hướng về khói chưa có, về chỗ sẽ có người thở.
+Anh khoác áo, bước ra sân. Sương phủ trắng mặt đất, bám trên ba mươi thanh gỗ hàng rào, đọng thành giọt ở đầu cọc. Không khí lạnh ẩm — mùi đất sương, mùi lông vịt, và thoảng mùi xác thối từ mé rừng nơi họ bỏ thi thể hôm qua. Ba mươi con vịt vẫn cụp đầu dưới cánh, lông ướt, kêu nhỏ.
 
-Phong gọi kho bằng ý niệm.
+Ngoài rào, ba bóng trắng đứng thành chữ phẩm. Giữa là con cầm cành tre — hai bên tay không. Mắt chúng hướng về phía nhà — về chỗ sẽ có người thở.
 
-Chữ vàng hiện, rõ hơn hai ngày trước:
+Phong không nhìn chúng. Anh gọi kho bằng ý niệm.
+
+Chữ vàng hiện — rõ hơn hai ngày trước, rõ đến nỗi anh đọc được từng nét:
 
 『Kho Vô Hạn — Trạng thái』
 EXP: 50 / 100
@@ -17,247 +20,78 @@ Không gian: 2 thước khối (cấp 0)
 Vật phẩm: Trứng ×20 | Thuốc Kháng Dịch 0.95 | Thóc ít | Dao / dụng cụ thô
 Đề xuất nhiệm vụ: Xây dựng kết cấu phòng thủ cơ bản
 
-Anh lấy ra 15 thanh gỗ và 10 viên đá sông — thứ kho "đẻ" ra khi ý chí xây dựng đủ mạnh, không giải thích nguồn, chỉ xuất hiện như trứng hôm nọ. Gỗ mới còn mùi nhựa rừng. Đá nặng, lạnh, làm tê ngón.
+Năm mươi EXP. Còn thiếu năm mươi nữa. Phong tính: mỗi ngày, nếu sống — anh được hai EXP. Nếu hoàn thành nhiệm vụ nhỏ — thêm năm, mười. Nếu — nếu — nếu — đủ nhanh, trước khi zombie vào.
 
-Anh bắt đầu làm việc trước khi bà dậy.
+Anh quay vào. Bà đang nhóm bếp — tay bà lay hoen, run rẩy quay nồi đất trên than nhỏ. Mùi cháo gạo khét lẹt bay ra — cháo gạo rang cháy — khói trắng bốc lên — mùi khét lẹt trộn với mùi rơm mục.
 
-Chồng gỗ lên hàng rào cũ, buộc chéo bằng dây mây ngâm nước cho dai. Đóng đá vào chân cọc bằng cách đào hố nông, thả đá, nện đất bằng gót và bằng chính hòn đá khác. Mỗi nhát nện làm bụi sương bắn lên ống chân. Lòng bàn tay hôm qua đã phồng, hôm nay vỡ nước, rát xé. Anh quấn vải, làm tiếp. Không có quyền dừng vì đau.
+"Bà," Phong nói. "Hôm nay con ra ngoài."
 
-Khi hàng rào cao từ ngang ngực lên quá đầu, khe hở thu hẹp, chốt trong được gia cố bằng thanh ngang thứ hai, chữ vàng ùa tới:
+"Ra ngoài?" Bà quay lại, mắt mở to. "Xác — ở ngoài —"
 
-『EXP +10 — Xây dựng / Ý chí sống』
-Tổng EXP: 60
-『Kích hoạt kỹ năng: Xây Dựng Cơ Bản』
-— Tường gỗ liên kết
-— Nền đá tạm
-— Ước tính độ bền: tăng 40% so với rào đơn
+"Con biết. Nhưng con phải đi. Lấy gỗ. Gỗ hàng rào — không đủ. Cần thêm."
 
-Phong chống tay lên gối, thở. Mồ hôi lạnh vì sương. Lần đầu tiên hệ thống không chỉ cho đồ — nó cho cách. Trong đầu anh hiện những hình ảnh mờ: mộng nối mộng, góc chống gió, chỗ cần chèn đá để không bị xô. Không phải bản vẽ thợ thành, chỉ là bản năng được kho khơi.
+Bà nhìn Phong. Mắt bà — đỏ hoe, đầy lo lắng. Nhưng bà không cản. Bà hiểu: trong thời đại zombie, ngồi yên nghĩa là chết. Phải hành động — dù sợ.
 
-Bà dậy lúc cháo nước sôi. Nhìn hàng rào cao hơn, bà đứng lâu ở cửa. "Đêm qua cháu không ngủ. Sáng dựng thành này. Tay đâu?"
+"Cẩn thận," bà nói.
 
-"Làm việc thì phải rách tay." Phong giơ lòng bàn tay quấn vải. "Bà nấu thêm bát. Hôm nay có thể có khách — hoặc có giặc. Cả hai đều đói."
+"Con biết."
 
-Bà không hỏi khách là ai. Bà múc cháo trứng, rắc ít muối quí, đưa bát. "Ăn. Đừng chết vì đói trước khi chết vì xác."
+Phong cầm dao — dao nhỏ, lưỡi sắt, cán gỗ. Anh bước ra cửa. ngoài sân, sương còn đọng. Gió đông — lạnh — thổi qua hàng rào. Ba zombie vẫn đứng ngoài — không tiến lên, không la hét. Chỉ đứng.
 
+Anh đi vòng qua hàng rào phía tây — nơi đất cao, bụi rậm. Nếu đi nhanh — zombie không thấy. Nếu zombie thấy — anh chạy.
 
-Tiếng kêu cứu tới khi bát cháo còn nửa.
+Năm chục bước. Không có gì. Trăm bước — không có gì. Hai trăm bước — đến rừng.
 
-Không phải tiếng zombie. Zombie không kêu được thành lời. Đây là tiếng người — nữ — đứt quãng — từ hướng thung lũng thấp, đường mòn đất đỏ. Lẫn trong đó có tiếng trẻ con khóc xé, ngắn, rồi bị bịt lại như ai đó úp tay lên miệng em.
+Rừng — cây thưa, lá rụng, cành khô. Mùi đất nồng — mùi rễ mục — mùi nấm ẩm. Phong chặt cây — dao bổ vào gỗ — tiếng đập vang trong rừng trống. Mỗi nhát — một mảnh gỗ bắn ra.
 
-Phong đặt bát xuống. Nhanh nhưng không đổ. "Bà khóa chốt. Không mở dù con chưa về. Nghe rõ không?"
+Ba cây. Mỗi cây — mười thanh. Ba mươi thanh. Đủ cho hàng rào thêm một lớp.
 
-"Rõ." Bà đã cầm gậy ngắn. "Cẩn thận con cầm gậy. Đừng để thương hại giết cháu."
+Phong xẻ gỗ, buộc thành bó, vác lên vai. Trở về — ba trăm bước — nặng — vai đau — nhưng anh không dừng.
 
-Anh ra ngoài bằng khe chốt, khép lại nghe tiếng then cài bên trong. Gậy tre dài một thước hai trong tay phải, dao nhỏ giắt đai. Ba zombie ngoài rào quay đầu theo anh — con cầm tre bước một bước — nhưng Phong không đánh chúng. Anh vòng sang trái, lấy đường bụi rậm, chạy chéo xuống thung lũng. Giày rơm đạp ướt. Cành gai quẹt má. Tim đập ở cổ.
+Về đến sân, bà đang chờ. Mắt bà — nhẹ hơn khi thấy Phong.
 
-Đường mòn hiện ra giữa hai dải cỏ dại. Xương khô và vải rách rải rác — dấu vết người chạy trước đó vài ngày. Tiếng kêu gần hơn:
+"Được rồi," Phong nói. "Ba mươi thanh."
 
-"Cứu — Nam — chạy — đừng nhìn lại—"
+Bà gật. "Ăn cháo đi."
 
-Phong thấy họ.
+Phong ngồi xuống, ăn cháo. Cháo khét — nhưng nóng. Mùi khói bếp — mùi rơm mục — mùi vịt — mùi đất. Mùi của sự sống.
 
-Một người phụ nữ khoảng ba mươi, áo vải nâu rách ở vai, tóc dính máu khô không phải của mình. Tay phải bế một đứa bé trai chừng năm tuổi, tay trái cầm mảnh ván làm khiên tạm. Sau lưng họ, hai zombie đang tới — một con bình thường lê bước, một con cầm cành củi cháy dở, vung vẩy như còn nhớ cách dọa nạt. Khoảng cách chưa đầy hai mươi bước.
+Trong đầu, chữ vàng hiện:
 
-Phong không hô. Hô chỉ kéo thêm xác.
+EXP: +5 (hoàn thành nhiệm vụ: thu thập vật liệu phòng thủ). Tổng EXP: 55.
 
-Anh lao vào bên sườn con cầm củi trước. Gậy đập vào khớp gối bên trái — cái gối đã mục nhưng vẫn là điểm yếu cơ học. Zombie loạng. Cành củi vung trúng vai Phong, đau điếng, nóng vì than còn vương. Anh nghiến răng, đập lần hai vào thái dương nó. Hộp sọ phát tiếng bịch ướt. Nó quỳ. Lần ba vào gáy. Nó đổ sấp, giật hai cái, im.
-
-『EXP +15 — Tiêu diệt / Bảo vệ người』
-Tổng EXP: 75
-
-Con còn lại đã sát phụ nữ. Em bé khóc thét. Người mẹ đẩy mảnh ván vào hàm nó — ván nứt. Phong tới kịp lúc móng zombie quẹt qua tóc em bé. Gậy đâm thẳng vào hốc mắt trắng. Không có tiếng thét — chỉ có tiếng dịch đen văng. Anh đạp ngực nó ngã, đập liên tiếp đến khi đầu không còn hình đầu.
-
-『EXP +15 — Tiêu diệt / Bảo vệ người』
-Tổng EXP: 90
-
-Im. Chỉ còn tiếng thở hổn hển của ba người sống và tiếng ruồi bỗng dưng ùa tới chỗ hai xác mới.
-
-Phụ nữ nhìn Phong, mắt đỏ, môi nứt. "Cảm ơn… cảm ơn công tử… tôi là Hà… con tôi Nam… làng dưới chân núi… cháy hết… chúng cầm gậy…"
-
-"Đừng nói nhiều." Phong liếc hai hướng đường mòn. Bóng trắng khác đang lê từ xa. "Đi theo tôi. Có rào. Có cháo. Có chỗ khóa được. Có đi không?"
-
-Hà gật mạnh đến độ tóc máu khô rơi. Nam úp mặt vào cổ áo mẹ, nức. Phong dẫn họ không theo đường mở — vòng bụi, tránh hướng ba zombie nhà mình đang đứng. Vai anh sưng, áo rách, máu thấm — máu mình, không phải máu đen. Chưa sâu. Chịu được.
-
-
-Khi về tới hàng rào, bà đã đứng trong, mắt qua khe. Thấy cháu, thấy hai người lạ, thấy máu, bà mở chốt đúng một người một lúc, rồi cài lại ngay. "Vào. Đừng kéo theo xác."
-
-Hà vào, quỳ sụp trên đất nện, vẫn bế con. "Lạy bà… lạy… cho cháu một góc… cháu làm gì cũng được… nhổ cỏ, đãi vịt, kéo nước…"
-
-Bà nhìn Nam — mặt bẩn, mắt sưng, còn thở — rồi nhìn Hà — tay xước nhưng chưa thấy vết cào sâu kiểu zombie. "Đứng dậy. Ở đây không lạy. Ở đây làm việc. Đưa tay đây ta xem."
-
-Bà kiểm tra tay chân hai mẹ con như kiểm tra vịt bệnh. Phong đưa ít thuốc kháng dịch pha loãng bằng nước sôi để rửa xước nhẹ cho Hà — không dùng ồ ạt, chỉ đủ sát. Chữ vàng ghi nhận:
-
-『Cứu hộ thành công ×2』
-『EXP +10 — Mở rộng cộng đồng』
-Tổng EXP: 100
-『Kho Vô Hạn — Mốc 100』
-Mở khóa: Không gian +1 thước khối | Công thức rào đá tạm | Nhật ký căn cứ
-
-Một trăm. Mốc đầu tiên.
-
-Không gian trong kho nở ra — cảm giác như căn phòng tối trong đầu rộng thêm một nhịp. Hiện thêm ô:
-
-『Nhật ký căn cứ — Mục 1』
-Thành viên: Lý Phong | Bà | Hà (mới) | Nam (mới)
-Kết cấu: Rào gỗ cao | Móng đá tạm
-Đề xuất: Đào hào nông phía đông | Phân ca gác | Tìm nguồn nước sạch
-
-Phong ngồi phịch xuống phản, chấp nhận cơn run sau chiến đấu. Bà đưa bát cháo cho Hà, bát nhỏ hơn cho Nam. Nam uống sù sụ. Hà khóc thầm trong lúc nuốt, không thành tiếng, sợ thu hút thứ gì đó ngoài rào.
-
-"Ở lại thì nghe luật," Phong nói, giọng khàn nhưng đều. "Một: không mở chốt một mình ban đêm. Hai: thấy xước kiểu móng phải nói ngay. Ba: không kêu to. Bốn: làm việc theo sức. Năm: không hỏi kho của tôi lấy từ đâu — chỉ biết là còn đồ thì chia theo miệng thở."
-
-Hà gật. "Cháu nghe. Cháu từng là thợ dệt. Tay còn nhanh. Nam không nghịch lửa."
-
-Ông Từ xuất hiện ngoài rào đúng lúc đó, giáo trên vai, nhìn hai người mới, gật một cái như đã đoán. "Thêm miệng thì thêm tai. Cũng thêm tay. Cháu Phong, đường lên tu viện ta vẽ lên đất đây — nhìn một lần nhớ. Không chắc đi hôm nay. Có thêm người thì tính lại: đi hai, ở lại hai, hay đợi rào đá."
-
-Phong ra khe, học đường. Ông Từ vạch ba nhánh bằng que trên đất sương, đặt sỏi làm mốc. "Nhánh giữa. Đá chồng rẽ trái. Nghe chuông đá là gần chùa. Nghe nhiều tiếng bước không đều là lùi, đừng anh hùng."
-
-"Ông ăn cháo không?"
-
-"Ăn ở nhà. Nhà ta còn chốt được hôm nay." Ông nhìn Hà. "Người mới, đừng tham của. Tham là chết trước."
-
-
-Buổi trưa họ đào hào nông phía đông — hướng zombie hay lại. Phong dùng kỹ năng xây dựng cơ bản: cảm được chỗ đất mềm, chỗ có rễ phải tránh. Hà đào khá, nhịp đều. Nam nhặt đá nhỏ xếp thành hàng, nghiêm túc như trò chơi sống còn. Bà nấu thêm nước sôi, phơi vải, kiểm tra trứng. Rào cao ném bóng xuống hào, làm mát một dải.
-
-Phong thử công thức rào đá tạm: xếp đá chân cọc theo hình xen kẽ, chèn gỗ chéo. Mồ hôi muối mắt. Vai đau mỗi lần nâng. Nhưng khi một zombie thử xô từ ngoài, rào chỉ rung chứ không nghiêng như hôm trước.
-
-『EXP +5 — Cải tạo căn cứ』
-Tổng EXP: 105
-
-Chiều muộn, Hà kể ngắn — không thành bi kịch dài dòng, chỉ là dữ liệu sống sót: làng dưới có 40 hộ, dịch tới trong một đêm mưa, người nhà hóa xác, chồng Hà chặn cửa cho mẹ con chạy, không theo kịp. Nam không hỏi bố. Nam chỉ hỏi bao giờ hết những người mắt trắng.
-
-Phong không có câu trả lời đẹp. "Hết khi mình còn đủ người để chôn chúng. Hoặc đốt. Hoặc khóa ngoài rào. Chưa hết thì mình sống từng bữa cháo."
-
-Nam gật, như hiểu theo cách trẻ con năm tuổi hiểu tận thế: có cháo là còn ngày mai.
-
-
-Hoàng hôn, bốn người ngồi trong 15 thước vuông đã chật hơn. Mùi cháo, mùi mồ hôi, mùi gỗ mới, mùi thuốc thảo bà đun. Ngoài rào, số bóng trắng không giảm — có lẽ tăng một vài. Con cầm tre gõ hai tiếng rồi dừng, như chào. Nam vùi mặt vào lòng mẹ. Hà siết vai con. Bà nhìn Phong.
-
-"Cháu mở được kho lớn hơn?" bà hỏi khẽ.
-
-"Được một ít. Đủ ghi tên người. Đủ chỉ cách xếp đá. Chưa đủ biến thung lũng thành thành." Phong nhìn chữ vàng mờ trong không khí chỉ mình anh thấy. "Nhưng hơn hôm qua. Hôm qua chỉ có hai người. Hôm nay bốn. Ngày mai có thể ít hơn nếu mình dại. Hoặc nhiều hơn nếu mình khôn."
-
-Ông Từ hô từ xa trước khi trời tối hẳn: "Canh một tao gõ ba tiếng giáo vào cây đa — là yên. Gõ liên hồi là chạy lên dốc đá. Nhớ."
-
-"Nhớ," Phong hô lại, đủ nghe, không đủ vang.
-
-Đêm. Phân ca: Phong canh trước, Hà canh giữa, bà ngủ sớm dậy sớm nấu, Nam ngủ. Lần đầu có người thay phiên, mắt Phong nặng hơn nhưng tim nhẹ hơn một nhịp. Anh đứng trong bóng rào, tay trên gậy, nghe thung lũng thở.
-
-Kho Vô Hạn mở thật sự không phải lúc trứng rơi ra sân ngày thứ hai. Cũng không phải lúc thuốc nhỏ lên vết cào ngày thứ ba. Mà là lúc có tên người khác xuất hiện trong nhật ký căn cứ — lúc không gian không chỉ chứa đồ, mà chứa trách nhiệm.
-
-Anh chạm tay lên thanh gỗ còn nhựa rừng, thì thầm như ghi sổ cho chính mình: "Cấp 0. 105 EXP. Bốn miệng thở. Rào đá tạm. Ngày thứ tư."
-
-Chữ vàng nháy đồng ý, không cảm xúc:
-
-『Nhật ký đã lưu』
-『Cảnh báo: mật độ mục tiêu ngoại vi tăng』
-『Đề xuất tiếp: nguồn nước — bẫy — liên lạc tu viện』
-
-Phong nhìn về phía núi tối om, nơi tu viện ẩn trong sương. Đường đã vẽ. Người đã thêm. Máu trên vai đã se.
+Năm mươi lăm. Còn bốn mươi lăm nữa.
 
 ---
 
-Canh một. Gió đổi hướng mang mùi tanh nhẹ từ mé đông. Phong đi dọc mặt trong hàng rào, đếm cọc: ba mươi thanh, chân đá xen kẽ, dây mây còn ẩm. Anh dừng ở góc đông nơi hào nông vừa đào — sâu vừa đến gối, đủ để làm chậm bước lê, chưa đủ để gọi là thành trì. Đất mới bắn lên mép, còn vương mùi rễ đứt.
+Buổi chiều, Phong đóng hàng rào. Ba mươi thanh gỗ mới — đóng chồng lên lớp cũ. Hàng rào cao hơn — bằng vai người lớn. Mỏng — nhưng cao.
 
-Ngoài rào, con cầm cành tre gõ một tiếng duy nhất vào thân gỗ. Không liên hồi. Không nhịp. Chỉ một. Như thử xem có ai giật mình hô to.
+Bà giúp — tay bà yếu, nhưng kiên nhẫn. Cọc gỗ — đóng vào đất. Đinh tre — buộc chặt. Hàng rào — từng thanh, từng thanh.
 
-Phong không hô. Anh gõ nhẹ gậy vào mặt đất hai lần — tín hiệu ông Từ dạy cho yên — rồi im. Con zombie đứng yên. Hai con hai bên cũng đứng. Mắt trắng không chớp. Sương bám lông mày giả của chúng như bám trên đá.
+Đến hoàng hôn, hàng rào hoàn thành. Ba mươi thanh mới — chồng lên lớp cũ. Cao hơn. Mạnh hơn.
 
-Sau lưng, tiếng chân nhẹ: Hà.
+Phong đứng nhìn. Hàng rào — chưa đủ. Nhưng — tốt hơn hôm qua.
 
-"Canh của tôi chưa tới," chị nói khẽ. "Nhưng Nam vừa giật mình. Tôi ra xem có lửa không. Có lửa thì nó ngủ lại."
+Trong đầu, chữ vàng hiện:
 
-"Không lửa. Chỉ sương." Phong chỉ chỗ hào. "Mai đào thêm nửa thước. Hướng này chúng hay lại."
+EXP: +3 (hoàn thành nhiệm vụ: xây dựng kết cấu phòng thủ). Tổng EXP: 58.
 
-Hà nhìn hào, nhìn tay quấn vải của anh, nhìn vai sưng dưới áo rách. "Cháu… công tử… không. Phong. Vai đó cần rửa lại. Máu khô sẽ cứng. Cứng thì vết nứt."
+Năm mươi tám. Còn bốn mươi hai.
 
-"Sáng rửa." Anh không quay mặt. "Đêm nay đừng mở chốt dù nghe tiếng khóc. Tiếng khóc cũng giả được."
+Đêm, trống điểm. Gió bấc thổi mạnh. Ngoài rào — zombie vẫn đứng. Ba bóng trắng — im lặng — chờ đợi.
 
-Hà im một nhịp. "Làng tôi từng mở vì tiếng khóc. Mất nửa ấp trong một khắc." Chị siết mép áo. "Tôi nhớ luật."
+Phong nằm trong nhà tranh, mắt nhìn lên mái. Trần nhà — tranh — cọng rơm lủng lẳng — và mùi gỗ mục. Ngoài kia, zombie chờ. Bên trong, Phong chờ. Cả hai đều chờ — nhưng Phong chờ để sống, zombie chờ để giết.
 
-Họ đứng cạnh nhau không nói thêm. Mùi cháo nguội từ bếp, mùi nhựa gỗ, mùi đất hào, mùi tanh xa. Nam trong nhà thở đều hơn. Bà trở mình trên phản, gậy ngắn kẹp dưới chiếu.
+Anh nhắm mắt. Thở đều. Và chờ bình minh.
 
-Canh hai. Hà thay ca. Phong vào, ngồi xổm cạnh bếp, nhấm cháo nguội còn sót. Ngón tay rát. Lòng bàn tay phồng xẹp dính vải. Anh mở kho trong ý niệm — không lấy đồ, chỉ nhìn:
-
-『Trứng ×18 | Thuốc 0.9 | Thóc ít | Gỗ còn dư ít | Đá hết』
-
-Đá hết. Mai phải ra sông hoặc nhặt quanh thung. Ra sông là lộ. Nhặt quanh thung là chậm. Chậm còn hơn chết.
-
-Hà ngoài rào gõ gậy một lần — yên. Phong nhắm mắt nửa khắc, không ngủ thật. Trong đầu hiện lại khoảnh khắc gậy đâm hốc mắt zombie, dịch đen văng, tiếng em bé thét. Anh há miệng thở bằng miệng cho đỡ nghẹn.
-
-Canh ba. Bà dậy sớm hơn lịch, đun nước. "Cháu ngủ đi. Bà ngồi với Hà một nhịp." Phong không cãi. Anh nằm, nghe nước sôi, nghe bà hỏi Hà khẽ về xước tay, nghe Hà trả lời đúng mức — không kể dài, không giấu vết. Luật hai đã thấm.
-
-Trước lúc gà gáy, có tiếng bước không đều phía tây rào — không phải ba con quen. Phong bật dậy, gậy trong tay trước khi mắt kịp mở hết. Hà đã đứng góc tây. Bà cầm chảo nước sôi — vũ khí nghèo nhưng hiệu quả với da thối.
-
-Bốn bóng trắng lê từ bụi. Một con kéo theo sợi dây thừng mục, như còn nhớ kéo bò. Chúng chạm rào, xô. Rào đá tạm rung. Không đổ. Hào đông không chặn hướng tây — lỗ hổng kiến thức ngày thứ tư.
-
-"Không ra," Phong nói nhanh. "Chỉ giữ chốt. Đập nếu tay thò vào."
-
-Một cánh tay thối luồn khe. Hà đập gậy trúng cổ tay — tiếng bịch ướt. Tay rời, rơi trong rào, còn giật. Nam khóc ngắn trong nhà. Bà gắt khẽ: "Úp mặt vào chiếu. Đếm thở."
-
-Phong đâm giáo tạm (gậy vót nhọn) qua khe vào hốc mắt con đầu. Nó gục vào rào, làm hai con sau vướng. Con thứ ba kéo thừng quật, thanh ngang kêu răng rắc. Anh và Hà cùng đẩy thanh chống thêm. Mồ hôi muối mắt. Mùi tanh xộc vào mũi đến buồn nôn.
-
-Chúng lui sau nửa khắc — không vì sợ, vì mất hướng, vì xác đồng loại chắn lối. Ba con nhà phía đông không nhập bọn; chúng đứng chữ phẩm như khán giả. Phong ghi nhận: không phải bầy một khối. Có nhóm. Có thói quen chỗ đứng. Có thể lợi dụng.
-
-Im trở lại. Tay zombie trong rào vẫn giật. Phong dùng xẻng nhỏ hất ra ngoài qua khe đáy, không mở chốt. "Chôn sáng. Vôi nếu có. Chưa có vôi thì đất sâu + đá đè."
-
-Hà thở dốc, gật. "Tôi… không run tay." Chị nhìn tay mình ngạc nhiên. "Ở làng tôi run. Ở đây không."
-
-"Vì có tường," Phong nói. "Tường mỏng, nhưng là tường."
-
----
-
-Sáng ngày thứ tư kéo dài thành sáng ngày thứ năm sớm. Gà gáy. Sương chưa tan. Phong kiểm từng cọc tây, chèn thêm hai thanh gỗ kho vừa sinh khi ý chí “gia cố” đủ nóng — kho không rơi vàng bạc, chỉ rơi đúng thứ tay đang thiếu một nhịp.
-
-『EXP +5 — Phòng thủ đêm』
-Tổng EXP: 110
-
-Hà nấu cháo đặc hơn một ít — vì Nam, vì người đánh đêm. Bà phân việc: Nam nhặt đá nhỏ trong rào thôi, không ra ngoài; Hà phơi vải và xem trứng; Phong đào thêm hào góc tây-nông; bà giữ bếp và mắt nhìn núi.
-
-Ông Từ tới muộn hơn hôm qua, nhìn tay đứt ngoài rào đã bị đá đè, gật. "Cháu không mở chốt. Được. Mở là chết đẹp." Ông chỉ về phía suối cạn phía đông-nam. "Nước trong rào còn nửa chum. Ba ngày nữa khát. Đi lấy nước phải hai người: một gánh, một cầm gậy. Đừng để mẹ con mới đi một mình."
-
-"Trưa đi," Phong quyết. "Sáng còn hào."
-
-Họ đào. Mùi đất ẩm bốc lên. Tiếng xẻng. Tiếng đá chạm. Nam đếm to từng hòn đá xếp thành tường thấp trong sân — trò chơi hóa thành công sự. Hà hát khẽ một câu ru không thành lời, chỉ để nhịp thở đều. Bà kiểm vết vai Phong, bôi thuốc loãng, quấn lại. "Đừng để mưng. Mưng trong mạt thế là mở cổng bằng da."
-
-Trưa. Hai người ra suối: Phong và Hà. Bà giữ chốt. Nam khóc muốn theo — bà đưa cho em một que củi: "Canh bếp. Canh bếp cũng là lính." Em gật, nghiêm.
-
-Đường ra suối đầy dấu chân lộn xộn — người và không-người. Mùi tanh loang gần mặt nước. Xác thối nửa chìm. Phong lấy nước thượng nguồn, nơi nước chảy nhanh hơn, ít váng. Hà gánh. Anh cầm gậy đi trước, mắt không rời bụi.
-
-Một bóng trắng ngồi bệt bên đường như người mệt. Không đứng. Không lao. Chỉ quay đầu theo nhịp chân họ. Hà thì thầm: "Nó… nhớ ngồi nghỉ?"
-
-"Đừng nhân hóa," Phong đáp. "Nhân hóa là chậm tay."
-
-Họ về được, không đánh. Nước đầy hai chum. Thành công nhỏ, không ồn. Chữ vàng vẫn ghi:
-
-『Nguồn nước tạm ổn — 2 ngày』
-『Đề xuất: lọc — đun sôi — không uống sống』
-
-Chiều. Phong dạy Hà cách buộc dây mây theo vòng kép. Hà dạy Phong cách nhận vải mục còn cứu được. Nam ngủ trên phản, tay vẫn cầm que củi. Ngoài rào, số bóng trắng đông hơn một nhịp — bảy, không còn bốn. Con cầm tre gõ ba tiếng rồi dừng đúng nhịp ông Từ từng báo “yên” — chúng học. Hoặc trùng hợp. Trùng hợp trong mạt thế cũng phải ghi sổ.
-
-Phong viết bằng than lên mảnh gỗ phẳng:
-
-Ngày 4–5. Rào đá tạm. Hào đông + tây nông. 4 miệng thở. Nước 2 chum. EXP 110. Đêm: 4 bóng tây, không mở chốt. Suối tạm. Tu viện: chưa đi.
-
-Anh đặt mảnh gỗ lên nóc bếp, nơi khô. Hà nhìn: "Sổ?"
-
-"Sổ. Không nhớ thì chết."
-
-Hoàng hôn thứ hai trong ngày dài này. Bốn người ngồi ăn cháo trứng loãng. Mùi khói rơm. Mùi thuốc. Mùi người sống. Phong nói ít. Hà nói ít. Bà nói luật lần nữa cho Nam nghe như kể chuyện: không mở chốt, không kêu to, thấy móng thì nói. Nam gật, mắt lim dim.
-
-Đêm. Phân ca lại. Phong canh trước. Anh đứng trong bóng rào, tay trên gậy, nghe thung lũng thở. Kho Vô Hạn lặng trong tâm — không ồn, chỉ chờ ý chí đủ sắc để đẻ ra đúng thứ còn thiếu.
-
-Còn thiếu thứ duy nhất không kho nào tự rơi ra: một đêm không ai gõ cửa bằng cành tre. Và thêm một thứ nữa — người đủ tin để giao ca mà không sợ bị bán tọa độ rào. Hà chưa phải người đó hoàn toàn. Bà là. Ông Từ là nửa. Nam là tương lai nếu còn sống.
-
-Phong thì thầm vào gỗ còn nhựa: "Ngày thứ tư. Mở thật. Không phải vì trứng. Vì tên người trong nhật ký."
-
-Gió bắc quét. Một tiếng gõ tre xa — một, rồi im. Anh không giật mình. Chỉ siết gậy, đếm hơi thở, và chờ canh Hà tới thay như người chờ bình minh không hứa hẹn gì ngoài việc còn thở được mà làm việc tiếp.
-
-「Kho Vô Hạn — GHI NHẬN ch.4」
+「GHI NHẬN」
 Năm: 629
-EXP: 110 / 200
-Hiện tại: cấp 0 — Xây Dựng Cơ Bản
-Nâng cấp: Hào đông-tây — nguồn nước — liên hệ tu viện — bẫy
+EXP: 58 / 100
+Hiện tại: cấp 0
+Nâng cấp: chưa đạt
 
-Phía đông đường mòn bỗng im bặt quá lâu — im như đang nhịn thở chờ lệnh. Phía tây, đất hào mới còn thơm mùi rễ. Trong rào, bốn miệng thở. Ngoài rào, mắt trắng học nhịp gõ. Ngày thứ tư khép lại bằng việc mở kho trách nhiệm — và bằng một chốt cửa vẫn còn cài.
+Liệu bình minh tới có mang theo zombie… hay mang theo cơ hội?
+
+============================================================
+Kết chương.
+============================================================
