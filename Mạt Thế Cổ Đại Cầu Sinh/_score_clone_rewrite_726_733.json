@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3888,
+        "chars": 18977,
+        "dialogue": 73,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.46,
+        "char_density": 4.95,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió bấc mang mùi áo rách và đất se khi trống điểm tan. Ngày thứ tám trăm bốn mươi sáu dưới đất Biên Ải. Gò đông — bóng gò lần sáu mươi lăm. hai bóng kéo dây ngang đường bụi; bóng trái khập mỗi ba bước; dây ba nút thừng đen. Luật trong xương: thấy, không chỉ, không cắt dây, không đạp theo, không đếm nút to.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng gò đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió bấc mang mùi áo rách và đất se khi trống điểm",
+      "file": "Chương 726 - Bóng Gò Lần 65 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 726 - Bóng Gò Lần 65 Không Chỉ.txt",
+      "num": 726
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3852,
+        "chars": 18785,
+        "dialogue": 74,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.19,
+        "char_density": 4.95,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sương mỏng còn dính đầu chông khi trống điểm tan. Ngày thứ tám trăm bốn mươi bảy dưới đất Biên Ải. Cổng đông — hỏi lần một trăm hai mươi bảy. một miệng hỏi dầu đèn, đổi bấc lấy nước; giọng khô rát; ho khan giữa hai câu. Luật trong xương: đông thường, hầm xấu, không nhận dầu, không đổi bấc, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng cổng đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sương mỏng còn dính đầu chông khi trống điểm tan. Ngày thứ",
+      "file": "Chương 727 - Hỏi Lần 127 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 727 - Hỏi Lần 127 Cùng Màu.txt",
+      "num": 727
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3930,
+        "chars": 19213,
+        "dialogue": 70,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.8,
+        "char_density": 5.83,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Nắng mỏng chạm đầu chông muộn hơn hôm dầu. Ngày thứ tám trăm bốn mươi tám dưới đất Biên Ải. Trong rào — ngày yên sau hỏi một trăm hai mươi bảy. trống không bằng yên hội; sau chữ dầu, yên có thể là khoảng lùi mang thợ dầu giả; giữa trưa thoáng mùi khói dầu ngoài rào nhưng không miệng. Luật trong xương: không thở phào, không mở rèm sớm, không rải vôi nghỉ, tai khe sau chữ dầu.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng trong rào. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Nắng mỏng chạm đầu chông muộn hơn hôm dầu. Ngày thứ tám",
+      "file": "Chương 728 - Ngày Yên Sau Hỏi 127.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 728 - Ngày Yên Sau Hỏi 127.txt",
+      "num": 728
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3915,
+        "chars": 19068,
+        "dialogue": 73,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.85,
+        "char_density": 4.93,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Đá vôi vụn kêu khẽ khi gió bấc kéo qua rãnh. Ngày thứ tám trăm bốn mươi chín dưới đất Biên Ải. Rãnh vôi cũ nam — sóng thấp lần một trăm hai mươi ba. sáu bóng thấp từ rãnh vôi cũ nam; không gào; chỉ sóng; máu phải kín; hố mới sát rãnh — không trùng mương gừng khô tây; máu lẫn phấn vôi hồng nhạt — rửa bằng tro không bằng nước sạch. Luật trong xương: đâm thấp, không mặt, không đếm to, không phơi, hố xấu, máu tro không nước sạch.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng rãnh vôi cũ nam. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đá vôi vụn kêu khẽ khi gió bấc kéo qua rãnh. Ngày",
+      "file": "Chương 729 - Sóng Thấp Lần 123.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 729 - Sóng Thấp Lần 123.txt",
+      "num": 729
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3852,
+        "chars": 18972,
+        "dialogue": 74,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.94,
+        "char_density": 5.06,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Đường bụi nam sáng như muối rơi khi gió bấc kéo ngang. Ngày thứ tám trăm năm mươi dưới đất Biên Ải. Đường bụi nam — bóng thước lần sáu mươi tư. một bóng cầm thước có khấc; đếm bước dọc rào nam; không gào; không chỉ; A Minh suýt giơ thước ngược — Phong chặn bằng mắt. Luật trong xương: thấy, không chỉ, không đo ngược, không đạp theo, không nhổ mốc.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng đường bụi nam. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đường bụi nam sáng như muối rơi khi gió bấc kéo ngang.",
+      "file": "Chương 730 - Bóng Thước Lần 64 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 730 - Bóng Thước Lần 64 Không Chỉ.txt",
+      "num": 730
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3910,
+        "chars": 19043,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.89,
+        "char_density": 4.88,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sương tây tan chậm hơn sương đông khi trống điểm dứt. Ngày thứ tám trăm năm mươi mốt dưới đất Biên Ải. Cổng đông — hỏi lần một trăm hai mươi tám. một miệng hỏi có kim khâu không, đổi chỉ lấy gạo; giọng mềm nữ; giơ hộp kim rỗng; Hạt có kim trong túi — Cúc rút trước khi miệng thấy. Luật trong xương: đông thường, hầm xấu, không nhận kim, không đổi chỉ, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng cổng đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sương tây tan chậm hơn sương đông khi trống điểm dứt. Ngày",
+      "file": "Chương 731 - Hỏi Lần 128 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 731 - Hỏi Lần 128 Cùng Màu.txt",
+      "num": 731
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3936,
+        "chars": 19215,
+        "dialogue": 71,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.97,
+        "char_density": 5.83,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Khói bếp còn thấp khi trống điểm tan muộn. Ngày thứ tám trăm năm mươi hai dưới đất Biên Ải. Trong rào — ngày yên sau hỏi một trăm hai mươi tám. trống không bằng yên hội; sau chữ kim, yên có thể mang thợ kim giả; sáng sớm thấy một kim rơi ngoài cổng — không nhặt, phủ bụi. Luật trong xương: không thở phào, không mở rèm sớm, không rải vôi nghỉ, không nhặt kim ngoài.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng trong rào. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Khói bếp còn thấp khi trống điểm tan muộn. Ngày thứ tám",
+      "file": "Chương 732 - Ngày Yên Sau Hỏi 128.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 732 - Ngày Yên Sau Hỏi 128.txt",
+      "num": 732
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3896,
+        "chars": 19043,
+        "dialogue": 72,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.05,
+        "char_density": 4.94,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gốc sung khô bắc kêu khẽ khi gió bấc kéo qua khe. Ngày thứ tám trăm năm mươi ba dưới đất Biên Ải. Gốc sung khô bắc — sóng thấp lần một trăm hai mươi tư. bảy bóng thấp từ gốc sung khô bắc; không gào; chỉ sóng; máu kín; nhựa sung lẫn tanh; chân thây vướng rễ — lợi dụng; máu bó vải không vôi vì vôi thiếu sau sóng rãnh. Luật trong xương: đâm thấp, không mặt, không đếm to, không phơi, hố xấu, máu vải không vôi.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng gốc sung khô bắc. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gốc sung khô bắc kêu khẽ khi gió bấc kéo qua khe.",
+      "file": "Chương 733 - Sóng Thấp Lần 124.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 733 - Sóng Thấp Lần 124.txt",
+      "num": 733
+    }
+  ]
+}
