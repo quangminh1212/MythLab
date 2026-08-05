@@ -1,991 +1,823 @@
 {
-  "round": 1,
+  "round": 3,
   "threshold": 9.0,
   "count": 24,
-  "total_below": 993,
+  "total_below": 37,
   "worklist": [
     {
-      "num": 207,
-      "file": "Chương 207 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 54,
+      "file": "Chương 054 - Bản Đồ.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(398)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 398,
+        "chars": 2174,
+        "dialogue": 29,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 10.12,
+        "char_density": 1.38,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm ba mươi sáu. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 208,
-      "file": "Chương 208 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 55,
+      "file": "Chương 055 - Chiến Lược.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(400)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 400,
+        "chars": 2218,
+        "dialogue": 29,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 9.92,
+        "char_density": 1.8,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm ba mươi bảy. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 209,
-      "file": "Chương 209 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 56,
+      "file": "Chương 056 - Huấn Luyện.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(366)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 366,
+        "chars": 2049,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 10.74,
+        "char_density": 1.46,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm ba mươi tám. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 210,
-      "file": "Chương 210 - Can Cu Moi.txt",
-      "final": 5.62,
+      "num": 57,
+      "file": "Chương 057 - Thu Hoạch.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(373)"
       ],
       "metrics": {
-        "words": 3097,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 373,
+        "chars": 2079,
+        "dialogue": 28,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 10.58,
+        "char_density": 1.44,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm ba mươi chín. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 211,
-      "file": "Chương 211 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 58,
+      "file": "Chương 058 - Đêm Trường.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(276)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 276,
+        "chars": 1603,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 12.48,
+        "char_density": 1.87,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm bốn mươi. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 212,
-      "file": "Chương 212 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 59,
+      "file": "Chương 059 - Bình Minh.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(359)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 359,
+        "chars": 2002,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 12.49,
+        "char_density": 1.5,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm bốn mươi mốt. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 213,
-      "file": "Chương 213 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 60,
+      "file": "Chương 060 - Cuộc Tấn Công Thứ Chín Mươi.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(294)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 294,
+        "chars": 1700,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.76,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 214,
-      "file": "Chương 214 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 61,
+      "file": "Chương 061 - Cuộc Tấn Công Chín Mươi Một.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1695,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.8,
+        "char_density": 1.77,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi mốt. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 215,
-      "file": "Chương 215 - Can Cu Moi.txt",
-      "final": 5.62,
+      "num": 62,
+      "file": "Chương 062 - Cuộc Tấn Công Chín Mươi Hai.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3097,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1703,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.74,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi hai. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 216,
-      "file": "Chương 216 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 63,
+      "file": "Chương 063 - Cuộc Tấn Công Chín Mươi Ba.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1702,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.75,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi ba. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 217,
-      "file": "Chương 217 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 64,
+      "file": "Chương 064 - Cuộc Tấn Công Chín Mươi Tư.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(294)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 294,
+        "chars": 1696,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.79,
+        "char_density": 1.77,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi tư. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 218,
-      "file": "Chương 218 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 65,
+      "file": "Chương 065 - Cuộc Tấn Công Chín Mươi Năm.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1702,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.75,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi lăm. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 219,
-      "file": "Chương 219 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 66,
+      "file": "Chương 066 - Cuộc Tấn Công Chín Mươi Sáu.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1703,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.74,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi sáu. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 220,
-      "file": "Chương 220 - Can Cu Moi.txt",
-      "final": 5.62,
+      "num": 67,
+      "file": "Chương 067 - Cuộc Tấn Công Chín Mươi Bảy.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3097,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1709,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.7,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi bảy. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 221,
-      "file": "Chương 221 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 68,
+      "file": "Chương 068 - Cuộc Tấn Công Chín Mươi Tám.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(295)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 295,
+        "chars": 1704,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.74,
+        "char_density": 1.76,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi tám. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 222,
-      "file": "Chương 222 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 69,
+      "file": "Chương 069 - Cuộc Tấn Công Chín Mươi Chín.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(302)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 302,
+        "chars": 1741,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.49,
+        "char_density": 1.72,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm năm mươi chín. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 223,
-      "file": "Chương 223 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 70,
+      "file": "Chương 070 - Cuộc Tấn Công Chín Mươi Mười.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(305)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 305,
+        "chars": 1751,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.42,
+        "char_density": 1.71,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm sáu mươi. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 224,
-      "file": "Chương 224 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 71,
+      "file": "Chương 071 - Cuộc Tấn Công Chín Mươi Một Mươi.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(311)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 311,
+        "chars": 1765,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.33,
+        "char_density": 1.7,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm sáu mươi mốt. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 225,
-      "file": "Chương 225 - Can Cu Moi.txt",
-      "final": 5.62,
+      "num": 72,
+      "file": "Chương 072 - Cuộc Tấn Công Chín Mươi Hai Mươi.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(311)"
       ],
       "metrics": {
-        "words": 3097,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 311,
+        "chars": 1772,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.29,
+        "char_density": 1.69,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm sáu mươi hai. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 226,
-      "file": "Chương 226 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 73,
+      "file": "Chương 073 - Cuộc Tấn Công Chín Mươi Ba Mươi.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(311)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 311,
+        "chars": 1770,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.3,
+        "char_density": 1.69,
+        "cliche": 0,
+        "scene_breaks": 2,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm sáu mươi ba. Đêm khuya.",
+            1
+          ],
+          [
+            "Phong — trên tháp canh — canh đêm. Trời — tối — mây — dày — và —",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 227,
-      "file": "Chương 227 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 74,
+      "file": "Chương 074 - Hồi Phục Sau Chiến Tranh.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(367)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 367,
+        "chars": 2054,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.2,
+        "char_density": 1.46,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm sáu mươi tư. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 228,
-      "file": "Chương 228 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 75,
+      "file": "Chương 075 - Đếm Lại Miệng Ăn.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(367)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 367,
+        "chars": 2038,
+        "dialogue": 27,
+        "maxrep": 1,
+        "maxrep_short": 1,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 11.29,
+        "char_density": 1.47,
+        "cliche": 0,
+        "scene_breaks": 3,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ một trăm sáu mươi lăm. Bình minh.",
+            1
+          ],
+          [
+            "Phong dậy — năm giờ — body clock shipper. Anh khoác áo — bước ra sân đền. Sương — nhẹ — ấm — và mặt trời đã lên rõ ràng.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 229,
-      "file": "Chương 229 - Ngay Moi.txt",
-      "final": 5.62,
+      "num": 76,
+      "file": "Chương 076 - Nâng Cấp Lên Cấp 2.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(546)"
       ],
       "metrics": {
-        "words": 3096,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 546,
+        "chars": 3002,
+        "dialogue": 40,
+        "maxrep": 1,
+        "maxrep_short": 2,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 12.33,
+        "char_density": 1.0,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Chữ vàng hiện:",
+            2
+          ],
+          [
+            "Ngày thứ một trăm sáu mươi sáu. Bình minh.",
+            1
+          ]
+        ]
       }
     },
     {
-      "num": 230,
-      "file": "Chương 230 - Can Cu Moi.txt",
-      "final": 5.62,
+      "num": 77,
+      "file": "Chương 077 - Đoàn Thám Hiểm Phía Bắc.txt",
+      "final": 7.5,
       "hard_fails": [
-        "maxrep=12",
-        "missing_system_panel",
-        "almost_no_dialogue(0)",
-        "thin_prose(sens=0.8)"
-      ],
-      "weakest_axes": [
-        [
-          "filler_pad",
-          0.0
-        ],
-        [
-          "van_chuong",
-          3.0
-        ],
-        [
-          "nhan_vat",
-          5.0
-        ]
-      ],
-      "fix_hints": [
-        "Có dòng lặp >=3 lần — viết lại mỗi lần lặp thành câu/cảnh riêng.",
-        "Thiếu panel 「Hệ thống — GHI NHẬN ch.N」 — thêm panel khớp ledger.",
-        "Gần như không thoại — thêm hội thoại có subtext.",
-        "Prose mỏng giác quan — thêm mùi/tiếng/ánh sáng/nhiệt/chạm có chức năng."
+        "short<3000(446)"
       ],
       "metrics": {
-        "words": 3097,
-        "dialogue": 0,
-        "sensory_density": 0.83,
+        "words": 446,
+        "chars": 2448,
+        "dialogue": 36,
+        "maxrep": 1,
+        "maxrep_short": 2,
         "pad_total": 0,
-        "maxrep": 12,
-        "has_panel": false,
-        "panel_year": null,
-        "prose_year": null
+        "pad_hits": {},
+        "sensory_density": 10.21,
+        "char_density": 1.23,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "EXP: 3737 / 30000",
+            2
+          ],
+          [
+            "Ngày thứ một trăm sáu mươi bảy. Bình minh.",
+            1
+          ]
+        ]
       }
     }
   ]
