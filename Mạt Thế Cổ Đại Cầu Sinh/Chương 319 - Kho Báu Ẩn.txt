@@ -1,0 +1,40 @@
+============================================================
+Chương 319: Kho Báu Ẩn
+============================================================
+
+Ngày thứ bảy trăm hai mươi. Bình minh.
+
+Sau khi đạt Level 13, Phong tổ chức cuộc trinh sát mới — lần này, với mục tiêu rõ ràng hơn: tìm kho báu ẩn.
+
+"Kho Vô Hạn nâng cấp — 300000 đơn vị. Nhưng cần thêm."
+
+Anh tổ chức năm toán — mỗi toán 20 người. Năm toán tản ra khắp nơi.
+
+---
+
+Năm ngày — năm toán trở về. Kết quả:
+
+Toàn A: Tìm thấy một hang động lớn — bên trong đầy khoáng sản.
+Toàn B: Tìm thấy một ngôi đền cổ — bên trong đầy vũ khí và sách.
+Toàn C: Tìm thấy một mỏ vàng — vàng nguyên chất.
+Toàn D: Tìm thấy một mỏ bạc — bạc nguyên chất.
+Toàn E: Không tìm thấy gì mới.
+
+"Tuyệt vời," Phong nói. "Kho báu ẩn."
+
+---
+
+Anh kiểm tra:
+
+1. **Hang động lớn** — khoáng sản đủ cho 10 năm.
+2. **Ngôi đền cổ** — 50 thanh kiếm, 100 giáo, và 200 cuốn sách.
+3. **Mỏ vàng** — 5000 đơn vị vàng.
+4. **Mỏ bạc** — 10000 đơn vị bạc.
+
+"Tất cả," Phong nói, "sẽ được sử dụng cho cộng đồng."
+
+「GHI NHẬN」
+Năm: 629 CN
+EXP: +5000 → 5000/1500000
+Hiện tại: Lv.13 (Cấp 13 — Bất Diệt)
+Nâng cấp tiếp: Đạt 1500000 EXP để lên Cấp 14 — Kho Vô Hạn mở rộng 500000 đơn vị.
