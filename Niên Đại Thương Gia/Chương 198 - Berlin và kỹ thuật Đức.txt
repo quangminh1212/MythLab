@@ -1,0 +1,257 @@
+============================================================
+Chương 198: Berlin và kỹ thuật Đức
+============================================================
+
+Berlin, tháng Năm năm 1997. Thành phố vừa thống nhất được bảy năm, nhưng những vết sẹo của chiến tranh và chia cắt vẫn còn in hằn khắp nơi. Những tòa nhà bê-tông xám xịt từ thời Đông Đức vẫn đứng sừng sững bên cạnh những tòa nhà kính hiện đại mới xây. Cần cẩu ở khắp nơi — Berlin là một công trường khổng lồ, một thành phố đang tái sinh, giống như Việt Nam thời kỳ Đổi Mới. Trên đường phố, người ta vẫn có thể thấy những mảnh tường Berlin còn sót lại, được giữ như di tích lịch sử, bên cạnh những cửa hàng thời trang và quán cà phê hiện đại. Sự pha trộn giữa quá khứ và tương lai tạo cho Berlin một vẻ đẹp đặc biệt — vừa hoài niệm, vừa hy vọng.
+
+Mưa đêm qua còn đọng thành vệt đen trên mặt đường. Gió tháng Năm lùa qua cổ áo, mang theo mùi nhựa đường ẩm, mùi lá non và khói dầu diesel. Hùng kéo cao khóa áo, nghe bánh xe nghiến trên lớp sỏi ven đường. Thành phố không che giấu vết thương; nó dựng cần cẩu bên cạnh bức tường đổ, đặt quán cà phê dưới những ô cửa từng bị đạn xuyên qua. Hùng ghi hình ảnh ấy vào trí nhớ. Một doanh nghiệp cũng vậy: không cần xóa quá khứ, chỉ cần biết dùng nó làm nền móng.
+
+Trong túi áo ông là cuốn sổ bìa nâu Lan mua ở Hà Nội. Trang đầu có nét chữ của mế — MẾ của cả nhà — viết trước lúc ông lên đường: “Đi xa thì nhìn kỹ. Đừng chỉ nhìn máy, hãy nhìn người đứng sau máy.” Bên dưới, Lan, em gái ông, ghi thêm: “Đừng ký nếu chưa tính đường về.” Ở trang cuối, Minh, con ông, vẽ một chiếc máy cày méo mó, bánh lớn hơn thân xe, cạnh đó là lá cờ Việt Nam bằng mực đỏ. Nét vẽ trẻ con làm ông mỉm cười, cũng khiến ngực ông nặng xuống. Mọi quyết định ở Berlin cuối cùng đều sẽ trở về Hải Phòng, về căn nhà có tiếng mế ho khẽ mỗi sáng và tiếng Minh chạy trên nền gạch.
+
+1998 đang đến gần. Hùng hiểu doanh nghiệp Việt Nam không còn nhiều thời gian để đứng ngoài cửa nhà máy thế giới.
+
+Hùng và Phúc đáp xuống sân bay Tegel lúc chín giờ sáng. Klaus đón họ — nhưng lần này Klaus đi cùng một người Đức khác: Wolfgang Brandt, năm mươi hai tuổi, cựu kỹ sư Bosch, tóc bạc cắt ngắn như bàn chải, mặc áo khoác vải tuýt dày màu xanh rêu. Wolfgang có gương mặt vuông, đôi mắt xanh lạnh, và đôi bàn tay to với những ngón tay thô ráp — bàn tay của người đã làm việc với máy móc cả đời, không phải bàn tay của một người ngồi bàn giấy. Khi Wolfgang bước gần, Hùng nghe mùi thuốc lá pha gỗ sồi — một mùi khói khô, không ngọt, kiểu Đức. Wolfgang không đeo nhẫn cưới. Mắt có vết nhăn sâu ở đuôi — người hay nheo mắt nhìn chi tiết nhỏ.
+
+"Mr. Hùng — Wolfgang," Klaus giới thiệu một cách đơn giản.
+
+Wolfgang không bắt tay — ông ta cúi đầu nhẹ, theo phong cách Đức. "Guten Tag. Willkommen in Berlin."
+
+Xe chạy từ sân bay vào trung tâm Berlin. Hùng ngồi ghế trước, nhìn qua cửa kính mọi thứ — những tòa nhà kiểu Liên Xô trên đường Karl-Marx-Allee, những cửa hàng đồ cũ bán huy hiệu Đông Đức và mũ lính Hồng quân cho khách du lịch, những bức tường còn vết đạn từ Thế chiến thứ hai, và cả những công trường xây dựng mới. Berlin lúc này là thành phố của hai thế giới đan xen — cái cũ chưa kịp phá bỏ, cái mới chưa kịp xây xong. Giống như Việt Nam thời kỳ đầu Đổi Mới, khi những ngôi nhà mái bằng kiểu bao cấp vẫn còn đó, nhưng những biệt thự tư nhân đã bắt đầu mọc lên. Xe ngang qua một hàng phở nằm khuất sau góc đường — mùi nước dùng tỏa ra, ngọt và cay, làm Hùng thấy mũi cay xè. Ở Berlin, người ta vẫn nấu phở. Ở nhà, mế chắc đang rửa bát sau bữa sáng, tay nhăn lại vì nước rửa chén.
+
+Hùng chợt nhớ về chuyến xe buýt đầu tiên từ Quốc Oai lên Hà Nội năm 1985. Con đường đất đỏ, ổ gà, bụi mù. Còn bây giờ — ông đang ngồi trên xe hơi ở Berlin, đi xem nhà máy. Mười hai năm, một khoảng cách không chỉ về địa lý.
+
+Wolfgang đưa Hùng đến một khu công nghiệp ở ngoại ô Berlin — Marzahn. Khu vực này trước đây thuộc Đông Berlin, thời CHDC Đức. Những nhà máy từ thời xã hội chủ nghĩa, kiến trúc hình hộp, không màu sắc, tường bê-tông trần, cửa sổ nhỏ. Nhưng bên trong nhà máy Wolfgang dẫn đến — một tòa nhà rộng, mái tôn cao, ánh sáng neon — lại là một thế giới hoàn toàn khác.
+
+Nhà máy rộng, mái tôn cao, bên trong có mười dây chuyền gia công tự động, ba robot cũ — những cánh tay thép màu cam — đang làm việc. Máy phay CNC, máy tiện tự động, máy đo lường laser, máy cắt plasma. Không khí nồng mùi dầu cắt — một mùi kim loại ngọt, hơi cay, trộn với mùi cao su nóng chảy và bụi sắt. Tiếng máy rền đều đều, rung cả sàn bê-tông dưới chân Hùng. Ông đứng trước một robot công nghiệp — cánh tay thép dài, khớp nối linh hoạt, mối hàn tinh xảo — và không nói nên lời. Ông đưa tay chạm vào cánh tay robot — thép lạnh, nhẵn, hoàn hảo. Ngón tay ông trượt trên mối hàn — không một vết thừa, không một gợn. MẾ thường bảo: "Làm nghề gì cũng phải sạch tay." Nhà máy này sạch. Sạch theo kiểu Đức — từng con ốc được lau, từng giọt dầu được hứng.
+
+"Cỗ máy này làm gì?" Hùng hỏi, vẫn còn ngỡ ngàng.
+
+"Hàn khung xe," Wolfgang nói, tiếng Anh pha giọng Đức nặng. "Tự động. Một ngày hàn ba trăm khung. Không sai. Không mệt. Không đòi tăng lương."
+
+Hùng nhìn những đường hàn trên khung xe — đều, mịn, chính xác đến từng milimét, không một lỗi nhỏ. So với nhà máy Hải Phòng của ông, nơi công nhân hàn tay trong môi trường nóng bức, mồ hôi đầm đìa, thỉnh thoảng có vết hàn không đều — khác biệt là một trời một vực.
+
+"Bao nhiêu tiền một robot này?" Hùng hỏi.
+
+"Robot cũ — khoảng 200,000 mark. Robot mới — 500,000 mark."
+
+Hùng im lặng. 200,000 mark thời đó khoảng 2.4 tỷ đồng. Cả nhà máy Hải Phòng ông xây hết 10 tỷ — mua năm robot đã bằng nửa nhà máy.
+
+"Giá cao," Hùng nói, vừa như nhận xét, vừa như tính toán.
+
+"Giá cao vì đắt hơn người — nhưng người cũng có giá cao," Wolfgang nói. "Anh tính: một robot chạy hai mươi giờ một ngày, không nghỉ, không ốm đau, không vay mượn, không đòi tăng lương, không nghỉ Tết. Người — làm được không?"
+
+Hùng không trả lời ngay. Ông hiểu logic đó, nhưng chưa biết áp dụng thế nào ở Việt Nam. Ở Việt Nam, nhân công rẻ hơn robot — một công nhân hàn lành nghề lương hai triệu đồng một tháng. Nhưng ông cũng biết: một ngày nào đó, Việt Nam sẽ thay đổi, giá nhân công sẽ tăng, và những người chuẩn bị trước sẽ là người chiến thắng. Câu hỏi là: khi nào? Và có đáng để đầu tư ngay từ bây giờ? Ông nghĩ đến Lan — em gái ông, người quản lý sổ sách ở nhà. Cô sẽ nói: "Tính đi, đừng nghe cảm tính." Và mế, MẾ ông, sẽ nói khác: "Con ơi, máy móc không biết yêu, nhưng người biết. Đừng quên điều đó."
+
+***
+
+Chiều, Wolfgang đưa Hùng đến gặp một người — tên Dieter Fischer, giám đốc mua hàng của một công ty linh kiện ô tô cỡ vừa tên KFG GmbH. Văn phòng KFG ở Potsdam, cách Berlin ba mươi phút xe — một thị trấn cổ kính bên bờ sông Havel, nơi có các cung điện thời Phổ. Tòa nhà văn phòng ba tầng sơn trắng, mặt tiền kính phản quang, bãi đỗ xe đầy những chiếc Audi và BMW đen bóng. Vào sảnh, mùi nước hoa ngọt gắt — loại nước hoa Đức đắt tiền, pha hương bách xù — trộn với mùi cà phê espresso từ máy pha tự động. Sàn đá cẩm thạch lạnh dưới chân Hùng. Ông thấy mình nhỏ lại giữa những bức tường trắng bóng.
+
+Dieter — trạc bốn mươi lăm, mặc complet xám, cà vạt xanh đậm — đón họ ở sảnh. Không cười, không nhiệt tình, nhưng bắt tay chắc, dứt khoát. Da tay Dieter mỏng, gân xanh nổi rõ, móng tay cắt ngắn sát — bàn tay của người quen thước cặp hơn quen rượu. Hùng đã đọc về người Đức: họ không cảm tính, nhưng giữ lời. Một cái bắt tay ở Đức có giá trị hơn một hợp đồng ở nhiều nơi khác. Nếu họ hứa, họ làm. Lan từng nói: "Đừng tin miệng, hãy tin tay bắt." Ở đây, tay Dieter bắt chắc.
+
+"Mr. Hùng," Dieter nói, giọng đều đều, không cảm xúc.
+
+Hùng lấy ra một hộp gỗ — bên trong là mẫu giá đỡ động cơ bằng thép do phòng kỹ thuật Thương Gia làm trong ba tuần trước chuyến đi. Dieter cầm lên, đưa ra ánh sáng, xoay qua xoay lại. Ông ta lấy một thước cặp điện tử từ túi áo — loại thước kỹ thuật số có màn hình LCD — và đo từng kích thước: đường kính các lỗ bulông, độ dày vật liệu, độ song song của hai mặt. Mỗi lần đo, ông ta đọc số, ghi vào một cuốn sổ nhỏ màu đen. Mặt không biểu cảm.
+
+Ba phút sau, Dieter đặt mẫu xuống bàn.
+
+"Dung sai 0.03mm. Yêu cầu của KFG là 0.01mm. Chưa đạt."
+
+Câu nói đơn giản, dứt khoát, không giải thích thêm, không an ủi, không gợi ý.
+
+Hùng ngồi im, không biện minh, không xin lỗi. Trong đầu ông, những con số đang chạy — chi phí nâng cấp máy, thời gian đào tạo, khả năng đáp ứng.
+
+"Chúng tôi có thể cải thiện. Cần thêm thời gian," Phúc vào cuộc, giọng bình tĩnh.
+
+"Bao lâu?" Dieter hỏi.
+
+"Sáu tháng — nếu mua thêm máy mới."
+
+"Sáu tháng là quá lâu. KFG có đơn hàng quý IV năm nay. Nếu không kịp, chúng tôi buộc phải đặt Trung Quốc."
+
+"Trung Quốc có đạt DIN không?" Hùng hỏi.
+
+"Không. Nhưng với đơn hàng này, DIN không bắt buộc — chỉ là hợp đồng phụ, không phải chính," Dieter nói, mắt xám nhìn thẳng vào Hùng. "Nhưng tôi muốn làm việc với anh vì một lý do: Wolfgang nói nhà máy của anh sạch. Sạch sẽ là quan trọng với KFG. Họ không muốn linh kiện từ nơi bẩn — bụi bẩn làm giảm độ bền mối hàn."
+
+Hùng gật. Ít nhất một điểm cộng.
+
+"Cho tôi ba tháng," Hùng nói. "Tôi sẽ đưa mẫu đạt DIN. Nếu không, ông đặt Trung Quốc."
+
+Dieter nhìn Hùng một lúc — gần mười giây, không chớp mắt. Rồi ông ta gật. "Drei Monate. Ba tháng. Tháng Tám, tôi chờ mẫu mới. Nếu đạt, tôi ký hợp đồng một năm — 50,000 chiếc giá đỡ, giá thỏa thuận sau khi kiểm tra nhà máy."
+
+Hùng đứng dậy, bắt tay Dieter. Chặt, nhanh.
+
+***
+
+Ra khỏi văn phòng KFG, trời đã về chiều. Potsdam yên tĩnh, những hàng cây bên đường đã lên lá xanh mướt. Hoa tulip đỏ và vàng nở rộ trong các bồn hoa trước tòa nhà. Hùng và Phúc đi bộ một đoạn dọc bờ sông Havel — mặt nước xanh đậm, phản chiếu bầu trời chiều. Gió đưa mùi cỏ ướt và mùi đất sình nhẹ từ bờ sông. Một con vịt bơi ngang, gợn nước tròn lan ra. Klaus và Wolfgang đi xe về trước. Hùng dừng lại một phút, đưa tay lên ngang trán chắn nắng. Ông nhớ đến Lan — lần cuối cô đứng bên sông, ở Quảng Ninh, trước lúc mọi thứ bắt đầu lớn lên. Cô nói: "Anh ơi, nước chảy xuống. Miễn là mình biết chảy." Bây giờ ông đang chảy — về hướng châu Âu.
+
+"Năm mươi nghìn chiếc — giá thỏa thuận — hợp đồng một năm," Phúc nói, giọng phấn khích, mắt sáng. "Đây là đơn hàng lớn nhất từ trước đến nay ở mảng linh kiện."
+
+"Chưa ký được đâu," Hùng nói. "Dung sai 0.01mm — nhà máy mình hiện tại có đạt không?"
+
+"Không. Nhưng nếu mua một máy phay CNC Nhật — loại Mazak — và ba tháng đào tạo, đạt được."
+
+"Bao nhiêu?"
+
+"Máy — ba trăm nghìn mark. Đào tạo — ba mươi nghìn. Tổng cộng gần bốn trăm nghìn mark."
+
+Hùng dừng lại. Một cây sồi già bên đường, tán rộng, bóng phủ mát xuống vỉa hè. Ông đứng dưới bóng cây, nhìn dòng sông Havel chảy chậm rãi. Những chiếc thuyền nhỏ đậu dọc bờ, đu đưa nhẹ theo sóng.
+
+"Về sẽ bàn với Lan. Nếu được, mua luôn trong tháng sau."
+
+Phúc gật. "Em sẽ chuẩn bị bản vẽ kỹ thuật và yêu cầu máy cụ thể."
+
+***
+
+Buổi tối, Hùng và Klaus ngồi trong một quán bia ở Berlin gần cổng Brandenburg. Quán bia truyền thống — bàn gỗ dài, ghế băng, trên tường treo sừng hươu, ảnh đen trắng Berlin xưa, và những chiếc cốc bia bằng gốm trang trí. Không khí ồn ào, tiếng cười nói, tiếng cốc chạm nhau. Bia Đức đắng, lạnh, được mang ra trong những cốc một lít có nắp thiếc — ở Đức, một lít bia là suất tiêu chuẩn. Mùi bia thoảng qua — ngọt mạch nha, hơi đắng hoa bia, trộn với mùi khói thịt nướng từ bếp sau và mùi gỗ sồi cũ từ bệ quầy. Tiếng nhạc polka từ loa nhỏ treo trên tường, đều đều, vui vẻ. Hùng nâng cốc — nặng, lạnh, condensation rỏ xuống cổ tay ông. Ông nghĩ đến Minh — cậu nhóc chắc đang ngủ ở nhà, tay ôm con vịt bơm hơi mà Hùng mua ở chợ Đồng Xuân trước khi đi.
+
+Klaus uống một hơi dài, gần nửa cốc. Hùng chỉ nhấp môi — vị bia đắng, nhưng đậm đà, khác bia Việt Nam.
+
+"Nhà máy của anh ở Hải Phòng — tôi biết," Klaus nói, đặt cốc bia xuống, lau bọt trên môi bằng mu bàn tay. "Hai năm trước tôi đến, thấy công nhân làm việc chăm. Nhưng máy móc cũ. Anh phải đầu tư."
+
+"Có vốn. Cần thời gian."
+
+"Không đủ. Ở Đức, người ta không đợi. Nếu anh chậm, họ đi Trung Quốc. Trung Quốc nhanh, rẻ, nhưng không đáng tin — hàng lỗi, giao trễ, gian lận hợp đồng. Anh chậm, đắt, nhưng thật. Họ chọn gì nếu không có thời gian?"
+
+"Trung Quốc," Hùng nói.
+
+Klaus cười, nâng cốc chạm vào cốc Hùng. "Anh hiểu. Vậy giải pháp là gì?"
+
+"Làm nhanh hơn, nhưng vẫn thật. Mua máy. Đào tạo người. Ký hợp đồng dài hạn với đối tác tin cậy. KFG là cơ hội. Đừng để mất."
+
+Hùng nhìn ra ngoài cửa sổ quán bia. Cổng Brandenburg sáng đèn, bốn con ngựa bằng đồng trên đỉnh cổng ánh lên dưới ánh đèn pha màu vàng. Xe cộ vẫn qua lại — Berlin không bao giờ ngủ, giống Sài Gòn. Nhưng Berlin có một nhịp điệu riêng — nhịp điệu của một thành phố đang xây lại chính mình từ đống đổ nát, giống như một người đàn ông đang xây lại cuộc đời sau những sai lầm.
+
+"Tôi không chỉ bán giá đỡ," Hùng nói, vẫn nhìn ra ngoài. "Tôi muốn bán máy cày. Máy nông nghiệp. Đang sản xuất ở Việt Nam. Nếu đạt chuẩn châu Âu, có thể xuất khẩu."
+
+Klaus đặt cốc bia xuống, nhìn Hùng một hồi lâu. "Anh có tham vọng."
+
+Hùng không trả lời. Ông nhìn qua ly bia — ánh đèn vàng lọt qua chất lỏng màu hổ phách, vỡ ra thành trăm mảnh nhỏ trên mặt bàn gỗ. Ở xứ sở của Mercedes và BMW, nói đến máy cày là chuyện nhỏ. Nhưng với Hùng, máy cày là niềm tự hào — sản phẩm Việt Nam đầu tiên đủ sức ra đồng. Và ông sẽ không bỏ nó.
+
+***
+
+Sáng hôm sau, trước khi rời Berlin, Hùng yêu cầu Klaus đưa đến Bảo tàng Kỹ thuật Đức. Bảo tàng nằm trong một tòa nhà cũ kế bên dòng sông Spree, gần ga tàu Anhalter Bahnhof. Trong bảo tàng, những cỗ máy hơi nước từ thế kỷ 18, những động cơ diesel đầu tiên, nguyên mẫu ô tô từ thế kỷ 19, máy bay, tàu hỏa — cả một lịch sử kỹ thuật đồ sộ của nước Đức. Hùng đi chậm qua từng gian trưng bày, đọc từng bảng chú thích bằng tiếng Đức và tiếng Anh. Phúc đi bên cạnh, cũng im lặng, cũng chăm chú.
+
+"Người Đức làm máy móc như làm nghệ thuật," Hùng nói với Phúc. "Mình làm máy móc như kiếm cơm. Hai cách khác nhau."
+
+"Mình có thể học," Phúc nói.
+
+"Có thể. Nhưng phải học từ gốc. Không thể copy. Copy không bao giờ bằng bản chính."
+
+MẾ thường nói: "Con học ai cũng được, nhưng phải học cái khó trước." Cái khó của người Đức không phải là máy — là tư duy. Tư duy mỗi chi tiết đều phải đúng.
+
+Hùng dừng trước một động cơ diesel cổ — do Rudolf Diesel tự tay chế tạo năm 1897. Một cỗ máy bằng gang đúc, đen, thô ráp, nặng cả tấn — nhưng chính xác đến từng chi tiết. Mùi gang lạnh và dầu máy khô tỏa ra khi Hùng cúi gần. Tay ông chạm lên khung máy — rỗ, rám, chỗ nào cũng có vệt oxy hóa nâu đỏ. Một trăm năm trước, một người đàn ông cũng đứng đây, cũng chạm tay vào sắt, cũng nghĩ rằng thế giới sẽ thay đổi vì cỗ máy này. Và thế giới đã thay đổi. Hùng đứng nhìn một lúc lâu, tay vẫn đặt trên khung máy nguội lạnh.
+
+"Tháng Tám. Nếu không làm được 0.01mm — mình về Việt Nam bán đậu."
+
+Phúc cười. Ông biết sếp nói đùa — nhưng cũng biết có một phần thật trong câu nói đó.
+
+***
+
+Chiều hôm đó, Klaus dẫn Hùng đến một khu nhà máy bỏ hoang ở Marzahn — một nhà máy nhựa cũ, đóng cửa sau thống nhất. Mái tôn thủng nhiều chỗ, cửa cuốn han gỉ, sàn bê-tông nứt nẻ, cỏ dại mọc lên từ các khe nứt. Bên trong vẫn còn mấy khuôn ép nhựa cũ, phủ đầy bụi và dầu mỡ, mạng nhện giăng khắp nơi.
+
+"Chủ cũ muốn bán," Klaus nói. "Giá 600,000 mark. Rộng 5,000 mét vuông. Trần cao tám mét. Có đường xe tải vào, gần đường cao tốc A10, gần ga tàu chở hàng."
+
+Hùng đi vòng quanh nhà máy, bước lên từng bước cẩn thận trên sàn nứt. Nhà máy cũ, nhưng vị trí tốt — gần các tuyến giao thông chính, có thể mở rộng thêm. Nếu mua, có thể làm nhà máy gia công thứ hai — chuyên cho đơn hàng Đức. Nhưng cần đầu tư mái mới, điện mới, sàn mới.
+
+"Năm trăm nghìn mark sửa chữa. Tổng cộng 1.1 triệu," Hùng nói.
+
+"Đúng," Klaus nói. "Nhưng một nhà máy ở Berlin — anh có văn phòng hợp pháp, có địa chỉ đăng ký, có tư cách pháp nhân EU. Một cánh cửa vào cả châu Âu, không chỉ Đức."
+
+Hùng bước ra ngoài, nhìn lên mái tôn thủng. Một con chim bồ câu đậu trên xà ngang, mổ vào vết rỉ sét. Nắng chiều Berlin rọi vào, bụi bay lên trong luồng sáng màu tím cam.
+
+"Cần bàn với Lan. Nhưng ý này được."
+
+Klaus gật, không nói thêm.
+
+***
+
+Tối, Hùng gọi điện cho Lan từ khách sạn. Kể về KFG, về yêu cầu DIN 0.01mm, về nhà máy Marzahn, về máy phay CNC 400,000 mark. Lan nghe, không ngắt, hỏi ba câu. Giọng cô rõ, chắc — không một từ thừa. Ở nhà, Lan là người giữ sổ sách, giữ bình tĩnh, giữ mọi thứ không đổ. MẾ thường nói: "Lan nó giống mẹ — tay nào cũng giữ được." Hùng biết điều đó — và ông cần cô ấy giữ cả chuyến đi này.
+
+"Một — KFG có yêu cầu kiểm tra nhà máy trước khi ký không?"
+
+"Có — họ muốn sang Hải Phòng xem dây chuyền."
+
+"Hai — nếu mua nhà máy Marzahn, ai sẽ quản lý?"
+
+"Phúc. Hoặc thuê người Đức địa phương. Klaus nói có thể tìm được."
+
+"Ba — nếu thất bại, lỗ tối đa?"
+
+"1.1 triệu mark mua nhà máy, 400,000 mark máy phay — tổng 1.5 triệu mark. Cộng chi phí vận hành ba tháng đầu: 200,000. Khoảng 1.7 triệu mark — tương đương 20 tỷ đồng."
+
+Lan im lặng. Qua điện thoại quốc tế nhiễu, Hùng nghe tiếng bút sột soạt trên giấy — cô đang tính. Gần một phút sau, cô nói:
+
+"Em tính: nếu hợp đồng KFG ký — 50,000 chiếc, giá 140 mark mỗi chiếc — doanh thu 7 triệu mark, tức hơn 84 tỷ đồng. Trừ nguyên liệu, nhân công, khấu hao máy — lãi gộp 40%, tức 2.8 triệu mark. Hồi vốn trong bảy tháng. Nếu mua nhà máy Berlin — thêm chi phí quản lý, thuế Đức, bảo hiểm — hồi vốn mười hai tháng. Rủi ro chấp nhận được."
+
+"Vậy?"
+
+"Em sẽ sắp xếp vốn. Nhưng anh phải hứa: nếu tháng Mười không có đơn hàng Đức, em sẽ đóng nhà máy Berlin và bán lại máy. Không kể lỗ."
+
+Hùng cười trong bóng tối phòng khách sạn. Lan — không bao giờ nói "có" mà không kèm điều kiện. Đó là lý do ông tin cô tuyệt đối.
+
+"Anh hứa."
+
+***
+
+Sáng hôm sau, Hùng và Klaus quay lại nhà máy Marzahn. Lần này, Hùng mang theo một tấm ảnh — nhà máy Hải Phòng chụp từ trên cao, thấy rõ bốn dãy nhà xưởng, bãi đỗ xe, khuôn viên cây xanh, công nhân đang làm việc dưới mái tôn. Klaus nhìn tấm ảnh, rồi nói: "Nhà máy của anh ở Việt Nam đẹp hơn cái này. Sạch hơn. Cây xanh hơn."
+
+"Đúng," Hùng nói. "Nhưng cái này ở Đức. Gần khách hàng."
+
+Họ đứng trước cánh cửa cuốn cũ mở nửa chừng. Nắng sớm Berlin rọi vào, bụi bay lên trong luồng sáng trắng. Hùng chụp một tấm ảnh bằng máy Kodak mang theo — giữ lại làm kỷ niệm. Ngày đầu tiên một người Việt Nam đứng trước một nhà máy bỏ hoang ở Berlin, tính chuyện mua nó.
+
+Dù thành hay bại, tấm ảnh này có giá trị.
+
+Klaus đưa Hùng đến gặp một người môi giới bất động sản — một phụ nữ Đức tên Ingrid, tóc vàng, nói tiếng Anh lưu loát. Ingrid đưa cho Hùng một tập hồ sơ về nhà máy — bản vẽ mặt bằng, sơ đồ điện, lịch sử chủ quyền. Hùng lật từng trang, hỏi vài câu về hệ thống nước thải, về giấy phép xây dựng, về quy hoạch khu vực.
+
+"Quý ông rất chuyên nghiệp," Ingrid nói với Klaus bằng tiếng Đức, không biết Hùng hiểu được vài từ.
+
+Hùng cười thầm. Ở Việt Nam, ông đã mua bán đất đai nhiều lần. Đất ở đâu cũng có vấn đề — chỉ khác loại vấn đề.
+
+Trước khi rời Berlin, Hùng gọi cho Phúc, người đang ở lại thành phố thêm hai ngày để học về máy CNC. "Phúc, học kỹ vào. Tháng Tám mình phải có mẫu đạt DIN. Không có đường lùi."
+
+"Em hiểu, sếp."
+
+Hùng tắt máy, nhìn ra cửa sổ máy bay. Berlin thu nhỏ dần dưới cánh mây. Ông thấy những mái nhà, những cần cẩu, những con sông. Và thấy một tương lai đang thành hình — từng viên gạch, từng con số, từng cam kết.
+
+Một tương lai ở châu Âu.
+
+Hùng ngồi xuống ghế máy bay, nhắm mắt. Trong đầu ông, những hình ảnh của Berlin vẫn còn đọng lại — những tòa nhà đang xây, những cần cẩu, dòng sông Spree lấp lánh, và những con người Đức nghiêm túc, chính xác. Một thành phố đang tái sinh, giống như chính Thương Gia đang tái sinh để bước ra thế giới.
+
+"Ba tháng," ông nói một mình, thì thầm trong tiếng động cơ máy bay. "Chỉ ba tháng."
+
+Ba tháng để biến một nhà máy Hải Phòng thành nhà máy đạt chuẩn Đức. Ba tháng để mua máy, đào tạo người, sản xuất mẫu thử. Ba tháng để chứng minh với Dieter Fischer và KFG rằng một công ty Việt Nam có thể cạnh tranh với Trung Quốc về chất lượng — không chỉ về giá.
+
+Ba tháng không phải là nhiều. Nhưng với Hùng, ba tháng là đủ. Ông đã làm được những điều điên rồ hơn trong thời gian ngắn hơn — và ông sẽ làm được điều này.
+
+Điện thoại trong khoang máy bay rung lên. Hùng mở mắt. Số gọi đến không hiện tên, chỉ có mã quốc tế Đức. Ông áp máy vào tai.
+
+"Mr. Hùng?" Giọng Dieter Fischer khô và thấp, không chào hỏi. "Tôi vừa nhận được báo cáo mới từ phòng kiểm định. Có vấn đề với mẫu thứ hai của anh."
+
+Hùng ngồi thẳng. Ngoài cửa sổ, mây trắng cuộn dưới cánh máy bay. "Vấn đề gì?"
+
+"Tôi chưa nói qua điện thoại. Một kỹ sư KFG sẽ đến Hải Phòng ngày mai. Cô ấy mang theo bản vẽ sửa đổi. Nếu nhà máy của anh không đáp ứng, chúng tôi hủy cuộc hẹn tháng Tám."
+
+"Bản vẽ sửa đổi? Ông chưa gửi cho tôi."
+
+Đầu dây bên kia im lặng hai giây. Rồi Dieter nói: "Chúng tôi gửi fax lúc mười một giờ đêm qua. Đã có người ký nhận từ văn phòng Thương Gia."
+
+Hùng nhìn Phúc. Phúc đang ngủ, đầu tựa vào cửa sổ, không nghe thấy gì. Tim Hùng đập nặng. Lan là người trực văn phòng ban đêm. Lan không bao giờ ký nhận tài liệu kỹ thuật mà chưa báo ông.
+
+"Tên người ký là ai?" Hùng hỏi.
+
+Dieter đọc từng chữ: "Minh Hà."
+
+Hùng buông tay khỏi điện thoại. Minh là con ông. Minh đang ở Việt Nam. Minh không biết ký nhận fax, càng không biết bản vẽ kỹ thuật. Ngoài kia, tiếng động cơ vẫn đều, nhưng trong tai ông chỉ còn tiếng ù dài như tiếng robot hàn chạy không tải.
+
+"Mr. Hùng?"
+
+Ông không trả lời. Trên màn hình fax Dieter vừa đọc, một chữ ký giả đã mở cánh cửa nhà máy Hải Phòng. Và chuyến bay còn hơn sáu giờ mới hạ cánh.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.204」
+Năm: 1997
+Tổng EXP: 38,952 (+238)
+Không gian kho: 12,571m² (+142m²)
+Kỹ năng trọng yếu: Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1
+Ghi chú: Berlin kỹ thuật Đức — KFG DIN 0.01mm, Marzahn CNC
+
+============================================================

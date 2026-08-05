@@ -1,0 +1,121 @@
+============================================================
+Chương 276: Đối tác công nghệ Silicon Valley
+============================================================
+
+Hùng mở hộp thư điện tử lúc sáu giờ sáng. Màn hình CRT mười chín inch chiếu thứ ánh sáng trắng xanh lên mặt ông trong căn phòng khách còn chìm trong bóng tối mờ mờ của buổi sớm mùa xuân. Cốc cà phê đen đặt bên tay trái, bốc hơi nghi ngút. Giữa những email báo cáo từ các nhà máy — sản lượng, số lượng đơn hàng, tồn kho — một dòng tiêu đề lạ: "Interesting article about your supply chain software." Người gửi: david.morrison@californiatechventures.com.
+
+Hùng nhướng mày. Mở email. Đọc. Ông đọc nguyên văn hai lần, từng câu một. Không lỗi chính tả. Không link nghi vấn. Không giọng điệu "bạn thân mến." Một email ngắn gọn, chuyên nghiệp, viết bằng thứ tiếng Anh chính xác của người làm việc với email hàng ngày. Ngoài hiên, giọt nước từ mái tôn rơi đều xuống chiếc chậu nhôm, leng keng như tiếng ai gõ cửa. Mùi đất ẩm, mùi cà phê rang khét quyện trong căn phòng. Hùng kéo rèm, nhìn con ngõ còn vương sương, rồi nhìn lại dòng tiêu đề. Một cánh cửa có thể mở ra từ nơi xa nửa vòng trái đất; cũng có thể là bàn tay thò vào túi mình. Ông không cho phép bản thân phấn khích trước khi biết bàn tay ấy thuộc về ai.
+
+"Lan, xem cái này."
+
+Lan đang rót trà ở bàn bên, nghiêng đầu đọc qua vai ông. Hơi trà xanh bốc lên, mang theo vị chát thanh của lá mới hái. Cô vẫn mặc chiếc áo len màu mận, cổ tay áo sờn chỉ; ngón tay giữ chặt quai ấm đến trắng bệch. "Silicon Valley? Thật không hay spam đấy anh?" Lan là em gái, nhưng trong những buổi thương lượng cô luôn là người đầu tiên dám hỏi câu khó nhất. Hùng cần sự nghi ngờ ấy hơn một lời chúc mừng.
+
+"Spam không viết được câu 'machine learning ứng dụng cho logistics thị trường mới nổi.' Spam nó viết 'congratulations, you won a million dollars.' Còn câu này — người viết biết mình đang nói về cái gì."
+
+Lan cười: "Anh trả lời chưa?"
+
+"Chưa. Để vài ngày suy nghĩ."
+
+Nhưng thực ra Hùng đã quyết định trả lời ngay tối hôm đó. Ông chỉ muốn có thời gian để sắp xếp suy nghĩ trước khi gõ phím — và có Dũng ở bên cạnh khi cuộc gọi đầu tiên diễn ra.
+
+Ba ngày sau, cuộc gọi Skype đầu tiên. Hùng ngồi trong phòng làm việc trên tầng hai, đèn huỳnh quang nhấp nháy ba lần rồi ổn định. Chất lượng âm thanh chập chờn — thỉnh thoảng giọng David vỡ ra từng mảnh rồi ráp lại. Hình ảnh nhòe đi, xanh lè, nhưng đôi mắt xám của David thì không nhòe: sắc, tĩnh, đang cân nhắc từng lời. Công nghệ video call năm 2010 ở Việt Nam vẫn là thứ xa xỉ, nhưng giọng David thì rõ ràng: trầm, chậm rãi, có trọng lượng. Hùng cảm thấy từng nốt trầm ấy chạm vào lưng ghế da, rung lên.
+
+"Anh Hùng, tôi biết Thương Gia qua bài báo trên Logistics Today. Tôi ấn tượng — một công ty sản xuất Việt Nam xây dựng hệ thống AI dự báo nội bộ. Tại sao anh không mua SAP hay Oracle?"
+
+Hùng nhìn Dũng, khẽ gật. Dũng hiểu ý, trả lời bằng thứ tiếng Anh không hoàn hảo nhưng từng câu rõ ràng: "Vì SAP không hiểu kho hàng Hải Phòng. Họ thiết kế cho thế giới khác — nơi điện ổn định, internet nhanh, nhân viên có bằng đại học. Thực tế của tôi: mỗi tháng mất điện ba lần, internet quốc tế hay đứt. Nhân viên giỏi nhất của tôi học hết cấp hai — nhưng bà ấy nhận ra thùng hàng thiếu nửa ký không cần cân. Nếu mua SAP, tôi tốn sáu tháng cài đặt, sáu tháng đào tạo, và cuối cùng nó không hoạt động."
+
+David im lặng — không phải mất kết nối. Im lặng suy nghĩ. Rồi ông ta hỏi: "Độ chính xác hiện tại?"
+
+"68,3%. Cuối năm nay mục tiêu 80%."
+
+"Anh tin đạt được?"
+
+"Nếu không tin, tôi đã không xây nó."
+
+Sau cuộc gọi, David xác nhận chuyến đi. Ngày 15 tháng 4, ông ta đặt chân đến Nội Bài. Hùng ra đón, nhận ra David ngay lập tức giữa đám đông hành khách quốc tế — không phải vì biển tên giấy bìa cứng, mà vì ông ta mặc áo sơ mi tay ngắn và quần kaki trong khi cả nhà ga Hà Nội đều mặc vest. Đó là "đồng phục của dân công nghệ giàu," Hùng sau này hay đùa — "ăn mặc như sinh viên nhưng tài khoản ngân hàng thì không."
+
+Trên xe vào thành phố, David nhìn qua cửa kính không rời mắt — những ruộng lúa xanh, nhà mái ngói đỏ xen lẫn nhà cao tầng đang xây, Hà Nội 2010 trong cơn lột xác. Bụi đỏ mù mịt, xe máy ùn ùn, tiếng còi xe không ngớt. Xe trờ qua một hàng phở bên lề đường — hơi nước bốc mù mịt, mùi nước dùng xương ống nồng nặc tràn vào qua khe cửa xe mở. David hít một hơi, gật gật. Mùi vị lạ mà hấp dẫn — giống như thành phố này, hỗn loạn nhưng đầy sức sống. Hùng quan sát David — tay người Mỹ không một chiếc nhẫn, móng tay cắt ngắn, vết chai trên lòng bàn tay phải: người đã từng lao động bằng đôi tay trước khi biết nói về "venture capital."
+
+"Cảm giác như Bangkok những năm 1990," David nói. "Ở Thung lũng Silicon ai cũng bàn về cloud và social media. Nhưng tôi đặt cược vào logistics thông minh. Vì đến khi cả thế giới online, vẫn phải có người sản xuất đồ vật và vận chuyển chúng."
+
+"Tôi nghĩ giống ông," Hùng nói. "Nhưng tôi không đầu tư vào dự đoán — tôi sản xuất."
+
+Tại Hải Phòng, David tham quan trung tâm dữ liệu mới. Không khí trong phòng máy lạnh đến rùng mình — nhiệt độ cố định hai mươi độ, mùi kim loại thoang thoảng lẫn mùi nhựa nóng từ các ổ cắm. Ông ta đặt tay lên từng tủ rack, sờ thử độ lạnh của thép, kiểm tra nhiệt độ bằng mu bàn tay. Tiếng quạt tản nhiệt rít lên đều đặn, tiếng máy UPS chạy nền ù ù như ong vỡ tổ. Kiểu người đã từng lắm lem tay chân, không phải dân văn phòng thuần túy. Khi thấy tủ băng từ hai ổ khóa, David dừng lại: "Ai giữ chìa?"
+
+"Dũng giữ một. Nội kiểm giữ một. Không ai mở một mình," Hùng trả lời.
+
+David quay sang Hùng: "Ở Mỹ, không nhiều công ty làm được cái này. Họ thường thuê bên ngoài. Anh giữ trong nhà — và còn có kiểm soát ngay với người trong nhà. Tư duy hiếm."
+
+Chiều tối, tại nhà hàng trên phố Cổ, đĩa chả cá Lã Vọng nghi ngút khói. Mùi nghệ vàng hòa lẫn mùi nước mắm cháy, bốc lên thơm lừng cả góc quán nhỏ. Đèn lồng đỏ rực rỡ, ánh sáng trải đều lên khuôn mặt người ngồi bên bàn. David gắp một miếng chả vàng ruộm, chấm mắm tôm, đưa lên miệng. Ông ta nhai, mắt mở to. Nuốt. "Món này... thật không thể tin được. Hai mươi năm trong nghề đồ ăn châu Á chưa có món nào như này."
+
+Hùng mỉm cười: "Hà Nội có nhiều thứ bất ngờ lắm." Ông nghĩ đến năm 2003, cái năm mà ông vừa mất vợ — cái năm mà mọi thứ dường như sụp đổ cùng lúc. Ông ngồi trong căn phòng trống, không đèn, không tiếng động, chỉ có tiếng mưa rơi trên mái tôn. Lúc đó, mế — mẹ ông — đã đến, không nói gì, chỉ đặt nồi cơm lên bếp gas nhỏ, nấu cho ông bát cơm nóng. "Ăn đi. Mất người thì mất. Mất ăn thì chết." Đó là câu duy nhất bà nói trong buổi tối ấy. Và Hùng đã hiểu: có những điều không cần lời — chỉ cần ai đó ngồi xuống bên cạnh trong bóng tối.
+
+Dùng bữa xong, David đặt đũa xuống, uống một ngụm trà, và nói: "Tôi muốn đầu tư hai triệu đô la Mỹ vào Thương Gia. Mười lăm phần trăm cổ phần mảng công nghệ — tách thành pháp nhân riêng. Tôi gọi là Thương Gia Technology. CTV sẽ cung cấp kết nối Silicon Valley, giới thiệu nhân sự cấp cao, hỗ trợ mở rộng ra Đông Nam Á. Anh không phải trả lời ngay."
+
+Hùng uống một ngụm trà, đặt tách xuống, nhìn ra đám đông trên phố. Hàng trăm người, hàng trăm số phận.
+
+"Để tôi nghỉ một tuần."
+
+Đêm đó, cuốn sổ bìa đen mở ra trước mặt Hùng. Ông viết: "David Morrison. 2 triệu USD. 15% mảng tech. Được: vốn Mỹ, kiến thức quản trị startup, kết nối nhân tài quốc tế. Mất: một phần kiểm soát, áp lực tăng trưởng từ quỹ đầu tư."
+
+Ông dừng bút, nhìn lên trần nhà tối om. Thêm một dòng: "Nhưng một mình không làm được. Mình không biết cách gọi vốn Mỹ. Mình không biết cách xây dựng công ty công nghệ. Cần học."
+
+Ba ngày sau, Hùng gọi: "Tôi đồng ý. Ba điều kiện. Một: Thương Gia Technology là công ty con của Thương Gia mẹ — không độc lập. Hai: đội kỹ thuật Việt Nam quyết định sản phẩm — không ai từ bên ngoài áp đặt. Ba: Dũng là CTO, không thay đổi trong ba năm đầu."
+
+David cười — một tràng cười thoải mái từ đầu dây bên kia: "Anh là người Việt Nam đầu tiên tôi gặp đặt ba điều kiện mà cả ba đều thông minh và bảo vệ được lợi ích của mình. Đồng ý hết."
+
+Buổi ký kết tại văn phòng luật sư phố Hai Bà Trưng. Bên ngoài ve kêu râm ran, nắng tháng Năm đổ vàng óng trên những tán cây. Bút Hùng chạm giấy — tiếng scratch nhẹ trên mặt giấy bóng. Mùi mực tươi, mùi giấy mới, mùi gỗ bàn đã lau kỹ. Hùng đặt bút ký từng trang — nét chữ không đẹp, nhưng chắc và thẳng. Khi trang cuối cùng được ký, luật sư đóng dấu đỏ, đưa từng bản cho mỗi bên. Hùng cất bản hợp đồng vào cặp da màu nâu đã cũ — cặp mà ông dùng từ những ngày đầu buôn bán ở chợ Đông Xuân.
+
+Khi mọi người ra về, Dũng và Hùng ngồi lại trong phòng họp. Dũng nhìn tờ hợp đồng, lắc đầu nhẹ: "Mình làm sản xuất bao nhiêu năm, cuối cùng lại bán cổ phần cho quỹ mạo hiểm Mỹ."
+
+"Mình không bán cổ phần," Hùng nói. "Mình mua vé."
+
+"Vé gì?"
+
+"Vé vào tương lai."
+
+Văn phòng Thương Gia Technology thành lập tháng Năm — bảy người, tầng ba tòa nhà nhỏ đường Láng Hạ. Trong bữa khai trương, Hùng nhìn Dũng đang nâng cốc với các nhân viên mới. Nụ cười của anh chàng kỹ sư trong căn phòng máy lạnh ngày nào — giờ đã khác. Tự tin hơn. Trưởng thành hơn.
+
+Tối đó, Hùng về nhà, mở cuốn sổ đen: "Hôm nay ký hợp đồng với David. Không biết mình đúng hay sai. Nhưng biết rằng nếu không đi, không bao giờ biết con đường dẫn tới đâu."
+
+Hùng thuê một công ty tư vấn tài chính quốc tế. Người đứng đầu là một phụ nữ Hà Lan tên Elise, năm mươi tuổi, tóc muối tiêu, đeo kính tròn. Elise nói rất thẳng: "Ông có tiền, nhưng sổ sách của ông là một mớ hỗn độn. Nếu kiểm toán bây giờ, ông sẽ trượt." Hùng im. "Cần bao lâu?" "Sáu tháng. Và ông phải làm đúng những gì tôi nói. Từng chữ."
+
+Sáu tháng đó là sáu tháng khủng khiếp nhất của Thương Gia. Hùng sa thải hai kế toán trưởng, thay toàn bộ phần mềm kế toán, rà soát từng hóa đơn từ năm 1990. Minh, con trai ông, lúc đó mới ra trường, được giao việc nhập lại toàn bộ số liệu 5 năm. Minh càu nhàu: "Việc này để thực tập sinh làm cũng được." Hùng hỏi: "Con có biết mỗi dòng số là một quyết định của bố không?" Minh im. "Không, con không biết. Vì con chưa từng làm ra một đồng nào." Nói xong, Hùng bỏ ra ngoài.
+
+Ba giờ sáng, Minh vẫn ngồi trước máy tính. Lan vào, đặt cốc cà phê: "Chú nói vậy cũng hơi nặng." Minh cười khổ: "Nhưng chú đúng." Sáu tháng sau, Elise nói: "Bây giờ thì ổn rồi. Bắt đầu được." Hùng gật, không cười, không nói gì. Chỉ bắt tay Elise. Rất chặt.
+
+Đến tháng thứ ba của quá trình kiểm toán, Hùng cảm thấy như mình đang học lại lớp vỡ lòng. Elise — người phụ nữ Hà Lan với mái tóc muối tiêu — đưa cho ông một xấp tài liệu: "Nguyên tắc kế toán quốc tế. Ông đọc đi." Hùng cầm lên, lật qua. Từ "double-entry", "accrual", "amortization" — ông hiểu chúng, nhưng cảm giác như chúng không thuộc về thế giới của ông. Thế giới của ông là sổ ghi nợ vay, tiền mặt, lãi suất ngày.
+
+Buổi tối, Hùng ngồi với Lan trong phòng khách. Ông đọc, chép, đọc lại. Lan mang cà phê vào, thấy ông: "Anhgặp khó khăn à?" Hùng thở dài: "Không khó. Nhưng mà nhiều. Cái quái gì cũng phải chứng minh. Mình bỏ tiền ra mua máy — phải có hóa đơn. Mình bán hàng — phải có hợp đồng. Có tháng mình bán một trăm cái quạt, nhưng chỉ có ba chục cái có hóa đơn. Sáu chục cái kia — người ta mua không hóa đơn." Lan: "Thế thì mình phải làm sao?" Hùng: "Elise bảo — phải xuất hóa đơn cho tất cả. Thiếu thì coi như thất thoát." Ông ngửa mặt lên trần nhà: "Nghe như đi tù vậy."
+
+Nhưng ông làm. Từng cái một. Từng hóa đơn một. Gọi từng khách hàng: "Chú ơi, hôm trước mua quạt có lấy hóa đơn không? Để cháu gửi bổ sung." Có người lắc: "Thôi, phiền phức." Có người: "Có hóa đơn thì giá khác à?" Hùng nói: "Không. Giá vẫn thế. Chỉ là mình phải làm đúng luật." Nhiều người không hiểu — sao tự dưng lại làm đúng luật, trong khi không ai làm? Nhưng Hùng vẫn làm.
+
+Sáu tháng sau, Elise ngồi trước mặt Hùng, trên bàn là ba tập hồ sơ dày, trên cùng là báo cáo kiểm toán. Bà nói: "Pass." Một từ. Hùng cảm thấy như vừa chạy xong một cuộc đua marathon — mệt, nhưng nhẹ nhõm. Ông rót hai ly rượu vang: "Uống mừng đi." Elise nhấp một ngụm: "Phần khó nhất mới bắt đầu đấy. Bây giờ ông phải duy trì." Hùng cười: "Tôi quen với cái khó rồi. Không khó thì tôi không tin." Họ cạn ly. Bên ngoài, trời đang tối dần, đèn đường bắt đầu sáng. Một ngày nữa lại trôi qua, và Thương Gia đã đi thêm một bước — lên sàn.
+
+Sau khi báo cáo kiểm toán được Elise phê duyệt, Hùng tưởng đã qua giai đoạn khó khăn nhất. Nhưng rồi ông nhận ra — chuẩn bị lên sàn thì còn khó hơn kiểm toán gấp mười lần. Đầu tiên là vấn đề minh bạch. Mọi giao dịch với người thân, bạn bè, đối tác quen biết từ ngày đầu — tất cả đều phải được công bố. Hùng phải ngồi xuống với luật sư, kể lại từng mối quan hệ làm ăn.
+
+Một buổi chiều, luật sư nói: "Ông có một công ty cho vay nặng lãi? Không, không phải công ty, mà là ông cho một người bạn vay tiền, lãi suất 3% tháng, ba năm trước?" Hùng nhớ ra. Một người bạn từ thời mới ra làm ăn, tên Thành, vay 200 triệu để mở xưởng gỗ, rồi sau đó vỡ nợ. Hùng không đòi. 200 triệu mất. "Ông phải khai khoản này," luật sư nói. "Nó ảnh hưởng không?" "Có thể. Nó cho thấy ông có tiềm năng rủi ro về quản trị tài chính." Hùng thở dài. Ông không nghĩ cái việc giúp bạn lại trở thành rủi ro. Nhưng luật là luật.
+
+Tối hôm đó, Hùng đi tìm Thành. Hai mươi năm trôi qua, Thành bây giờ làm tài xế xe ôm, sống trong một căn nhà nhỏ ở ngoại thành. Hùng gõ cửa. Thành mở cửa, ngạc nhiên: "Hùng? Ông đến đây làm gì?" Hùng vào nhà, ngồi xuống chiếc ghế gỗ ọp ẹp. Kể lại câu chuyện. Thành nghe xong, mặt trắng bệch: "Vậy tôi đã hại ông?" Hùng lắc đầu: "Không. Tôi đến để bảo — không sao. 200 triệu đó tôi không đòi. Nhưng tôi cần ông ký một giấy xác nhận: số tiền đó cho vay không lãi, không thế chấp, và đã được xóa nợ." Thành gật, tay run run ký. Xong, Thành hỏi: "Có gì tôi giúp được không?" Hùng cười: "Có. Sống tốt là được." Họ bắt tay. Khi ra về, Hùng cảm thấy nhẹ người — không phải vì giải quyết được thủ tục, mà vì hai mươi năm sau, ông đã có thể đối diện với một người bạn cũ mà không oán trách.
+
+Sáu tháng sau, hồ sơ IPO của Thương Gia được chấp thuận. Ngày đầu tiên lên sàn, Hùng không đến sàn giao dịch. Ông ở nhà, mở tivi xem tin tức. Khi thấy mã chứng khoán của Thương Gia hiện lên với giá tham chiếu, ông rót một ly trà — không phải rượu — và nói với mế: "Xong rồi. Bắt đầu lại từ đầu." MẾ — mẹ ông, người đã ngồi bán vải ở chợ Đông Xuân từ những ngày xa xăm, người đã dạy ông rằng buôn bán là giữ chữ tín — ngồi xuống cạnh ông. Đôi tay bà nhăn nheo, móng tay còn vương vết dầu nhớt từ mẻ hàng mới giặt. Bà không hiểu giá cổ phiếu, không hiểu IPO là gì; nhưng bà hiểu nụ cười của con trai. "Mệt không?" Hùng: "Mệt. Nhưng mà vui." MẾ gật đầu, vỗ nhẹ lên vai ông — bàn tay gầy mà chắc. Trong nhà, tiếng tivi vang lên con số — Thương Gia, lần đầu chào sàn, tăng trần. Hùng không nói gì. Ông chỉ ngồi đó, uống trà, nhìn ra cửa sổ, nơi một cái cây bàng già đang thay lá. Mùa xuân đến rồi.
+
+IPO thành công, Hùng có tiền. Nhưng có tiền rồi, ông mới thấy — điều khó nhất không phải là kiếm tiền, mà là giữ được cái đầu lạnh khi có tiền. Các ngân hàng gọi mời vay, các quỹ đầu tư mời chào, các công ty bất động sản đến mời hợp tác. Mỗi ngày một vài người, mỗi người một đề xuất. Hùng không từ chối ai, cũng không đồng ý ai. Ông ghi chép cẩn thận, xếp vào từng tập hồ sơ riêng. "Cần thời gian để suy nghĩ," ông nói với mọi người. Và thời gian, ông dùng để đi — đi thăm lại từng nhà máy, từng cửa hàng, từng đại lý.
+
+Một câu chuyện nhỏ xảy ra trong chuyến đi đó. Đến một đại lý ở tỉnh lẻ, Hùng gặp một bà cụ bảy mươi tuổi đã bán quạt Thương Gia từ năm 1985. Bà cụ nhận ra ông: "Chú Hùng đấy à? Lâu quá không gặp, chú già đi nhiều." Hùng ngồi xuống cạnh bà. Bà kể: "Hồi đó quạt của chú để mốc, có cái chạy được cái không, nhưng tôi vẫn bán. Tại sao? Vì tôi biết chú — chú không lừa ai." Hùng móc ví, định trả ơn. Bà cụ giơ tay gạt ra: "Tôi không lấy tiền. Tôi chỉ muốn nói — chú đừng quên những ngày đầu. Khi chú còn bán vải ở chợ, khi chú đi từng nhà xin đặt hàng." Hùng cúi đầu. Ông hiểu bài học — tiền có thể làm con người ta nhớ sai về chính mình.
+
+Về nhà, Hùng lôi ra cuốn sổ tay cũ. Viết: "Hôm nay gặp bà cụ bảy mươi. Bà ấy nhắc tôi — tôi là ai." Rồi ông viết tiếp: "Cám ơn." Một chữ, nhưng nhiều hơn mọi báo cáo tài chính. Sáng hôm sau, ông gọi cuộc họp. Quyết định: không đầu tư bất động sản, không vay thêm ngân hàng, không mua cổ phiếu. Tập trung vào sản xuất. Mở rộng thị trường xuất khẩu. Đào tạo công nhân. Mọi người ngạc nhiên — có tiền mà không dám đầu tư? Hùng nói: "Có tiền thì phải biết giữ. Giữ được mới là giàu. Mất đi thì chỉ là từng có."
+
+Có một người bạn cũ của Hùng từ thời mới ra làm ăn, tên Cường, giờ trở thành đối thủ. Cường gọi điện: "Nghe nói mày sắp lên sàn. Chúc mừng." Hùng cảm ơn. Cường nói tiếp: "Nhưng tao bảo này — trên sàn rồi, mọi thứ sẽ khác. Người ta không nhìn vào sản phẩm nữa. Họ nhìn vào giá cổ phiếu. Mày phải chuẩn bị." Đó là lời cảnh báo chân thành từ một người từng trải. Hùng ghi nhớ. Vài năm sau, khi thị trường chứng khoán suy thoái, Cường mất gần hết tài sản. Hùng đến thăm, ngồi uống trà với Cường trong căn nhà đã bán gần hết nội thất. Họ không nói về chuyện cũ. Chỉ ngồi. Và Hùng hiểu — trong kinh doanh, có người lên thì có người xuống. Cái quan trọng là còn đứng được.
+
+Ngoài cửa sổ, gió heo may thổi qua, mang theo mùi sấu chua và mùi khói rơm cháy xa. Phía xa, mặt trời rơi tắt dần, để lại sự im lặng sấu hường. Hùng rút điện thoại — một tin nhắn từ David: "Hùng ơi, có vấn đề. Quỹ Sequoia muốn mua cổ phần CTV. Họ nói sẽ rút vốn nếu không bán. Cuộc gọi khẩn cấp lúc sáu giờ sáng mai, giờ California. Đừng nói với ai. Cẩn thận."
+
+Hùng đọc xong, để điện thoại xuống mặt bàn gỗ. Đèn phòng ngủ tắt, mế đã ngủ, hơi thở đều đều. Ông nhìn ra cửa sổ — một con dơi bay ngang, vỗ cánh trong bóng tối. Ông biết rằng buổi sáng mai sẽ khác mọi buổi sáng trước. Ông chỉ không biết — khác như thế nào.
+
+「Hệ thống — GHI NHẬN ch.249」
+Năm: 2010
+Tổng EXP: 55,000 (+333)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv3, Công nghệ cao lv3
+Ghi chú: Đối tác Silicon Valley — CTV đầu tư 2 triệu USD vào Thương Gia Technology
+
+============================================================

@@ -1,0 +1,2882 @@
+[
+  {
+    "new_num": 1,
+    "old_num": 1,
+    "year": 1983,
+    "title": "Tỉnh lại",
+    "old_file": "Chương 1 - Tỉnh lại.txt",
+    "new_file": "Chương 1 - Tỉnh lại.txt"
+  },
+  {
+    "new_num": 2,
+    "old_num": 2,
+    "year": 1983,
+    "title": "Bữa tối đầu tiên",
+    "old_file": "Chương 2 - Bữa tối đầu tiên.txt",
+    "new_file": "Chương 2 - Bữa tối đầu tiên.txt"
+  },
+  {
+    "new_num": 3,
+    "old_num": 3,
+    "year": 1983,
+    "title": "Đi huyện thành",
+    "old_file": "Chương 3 - Đi huyện thành.txt",
+    "new_file": "Chương 3 - Đi huyện thành.txt"
+  },
+  {
+    "new_num": 4,
+    "old_num": 4,
+    "year": 1983,
+    "title": "Bán hàng đầu tiên",
+    "old_file": "Chương 4 - Bán hàng đầu tiên.txt",
+    "new_file": "Chương 4 - Bán hàng đầu tiên.txt"
+  },
+  {
+    "new_num": 5,
+    "old_num": 5,
+    "year": 1983,
+    "title": "Mở rộng kinh doanh",
+    "old_file": "Chương 5 - Mở rộng kinh doanh.txt",
+    "new_file": "Chương 5 - Mở rộng kinh doanh.txt"
+  },
+  {
+    "new_num": 6,
+    "old_num": 6,
+    "year": 1983,
+    "title": "Tìm đối tác mới",
+    "old_file": "Chương 6 - Tìm đối tác mới.txt",
+    "new_file": "Chương 6 - Tìm đối tác mới.txt"
+  },
+  {
+    "new_num": 7,
+    "old_num": 7,
+    "year": 1983,
+    "title": "Sửa nhà",
+    "old_file": "Chương 7 - Sửa nhà.txt",
+    "new_file": "Chương 7 - Sửa nhà.txt"
+  },
+  {
+    "new_num": 8,
+    "old_num": 8,
+    "year": 1983,
+    "title": "Mở rộng hàng hóa",
+    "old_file": "Chương 8 - Mở rộng hàng hóa.txt",
+    "new_file": "Chương 8 - Mở rộng hàng hóa.txt"
+  },
+  {
+    "new_num": 9,
+    "old_num": 9,
+    "year": 1983,
+    "title": "Bán thuốc men",
+    "old_file": "Chương 9 - Bán thuốc men.txt",
+    "new_file": "Chương 9 - Bán thuốc men.txt"
+  },
+  {
+    "new_num": 10,
+    "old_num": 11,
+    "year": 1983,
+    "title": "Đi Hà Nam",
+    "old_file": "Chương 11 - Đi Hà Nam.txt",
+    "new_file": "Chương 10 - Đi Hà Nam.txt"
+  },
+  {
+    "new_num": 11,
+    "old_num": 15,
+    "year": 1983,
+    "title": "Thuê người giúp việc",
+    "old_file": "Chương 15 - Thuê người giúp việc.txt",
+    "new_file": "Chương 11 - Thuê người giúp việc.txt"
+  },
+  {
+    "new_num": 12,
+    "old_num": 12,
+    "year": 1984,
+    "title": "Đi Hải Dương",
+    "old_file": "Chương 12 - Đi Hải Dương.txt",
+    "new_file": "Chương 12 - Đi Hải Dương.txt"
+  },
+  {
+    "new_num": 13,
+    "old_num": 13,
+    "year": 1984,
+    "title": "Đi Thái Bình",
+    "old_file": "Chương 13 - Đi Thái Bình.txt",
+    "new_file": "Chương 13 - Đi Thái Bình.txt"
+  },
+  {
+    "new_num": 14,
+    "old_num": 14,
+    "year": 1984,
+    "title": "Bắt đầu sản xuất",
+    "old_file": "Chương 14 - Bắt đầu sản xuất.txt",
+    "new_file": "Chương 14 - Bắt đầu sản xuất.txt"
+  },
+  {
+    "new_num": 15,
+    "old_num": 16,
+    "year": 1984,
+    "title": "Mở rộng xưởng may",
+    "old_file": "Chương 16 - Mở rộng xưởng may.txt",
+    "new_file": "Chương 15 - Mở rộng xưởng may.txt"
+  },
+  {
+    "new_num": 16,
+    "old_num": 17,
+    "year": 1984,
+    "title": "Đi Quảng Ninh",
+    "old_file": "Chương 17 - Đi Quảng Ninh.txt",
+    "new_file": "Chương 16 - Đi Quảng Ninh.txt"
+  },
+  {
+    "new_num": 17,
+    "old_num": 18,
+    "year": 1984,
+    "title": "Đi Nghệ An",
+    "old_file": "Chương 18 - Đi Nghệ An.txt",
+    "new_file": "Chương 17 - Đi Nghệ An.txt"
+  },
+  {
+    "new_num": 18,
+    "old_num": 19,
+    "year": 1984,
+    "title": "Hoàn thành nhiệm vụ sản xuất",
+    "old_file": "Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt",
+    "new_file": "Chương 18 - Hoàn thành nhiệm vụ sản xuất.txt"
+  },
+  {
+    "new_num": 19,
+    "old_num": 20,
+    "year": 1984,
+    "title": "Sản xuất giày dép",
+    "old_file": "Chương 20 - Sản xuất giày dép.txt",
+    "new_file": "Chương 19 - Sản xuất giày dép.txt"
+  },
+  {
+    "new_num": 20,
+    "old_num": 21,
+    "year": 1984,
+    "title": "Mở rộng làm giày",
+    "old_file": "Chương 21 - Mở rộng làm giày.txt",
+    "new_file": "Chương 20 - Mở rộng làm giày.txt"
+  },
+  {
+    "new_num": 21,
+    "old_num": 22,
+    "year": 1984,
+    "title": "Đi Thành phố Hồ Chí Minh",
+    "old_file": "Chương 22 - Đi Thành phố Hồ Chí Minh.txt",
+    "new_file": "Chương 21 - Đi Thành phố Hồ Chí Minh.txt"
+  },
+  {
+    "new_num": 22,
+    "old_num": 24,
+    "year": 1984,
+    "title": "Mở rộng làm túi",
+    "old_file": "Chương 24 - Mở rộng làm túi.txt",
+    "new_file": "Chương 22 - Mở rộng làm túi.txt"
+  },
+  {
+    "new_num": 23,
+    "old_num": 25,
+    "year": 1984,
+    "title": "Mở cửa hàng thứ hai",
+    "old_file": "Chương 25 - Mở cửa hàng thứ hai.txt",
+    "new_file": "Chương 23 - Mở cửa hàng thứ hai.txt"
+  },
+  {
+    "new_num": 24,
+    "old_num": 26,
+    "year": 1984,
+    "title": "Mua đất xây xưởng",
+    "old_file": "Chương 26 - Mua đất xây xưởng.txt",
+    "new_file": "Chương 24 - Mua đất xây xưởng.txt"
+  },
+  {
+    "new_num": 25,
+    "old_num": 28,
+    "year": 1984,
+    "title": "Đi Campuchia",
+    "old_file": "Chương 28 - Đi Campuchia.txt",
+    "new_file": "Chương 25 - Đi Campuchia.txt"
+  },
+  {
+    "new_num": 26,
+    "old_num": 29,
+    "year": 1984,
+    "title": "Đi Thái Lan",
+    "old_file": "Chương 29 - Đi Thái Lan.txt",
+    "new_file": "Chương 26 - Đi Thái Lan.txt"
+  },
+  {
+    "new_num": 27,
+    "old_num": 32,
+    "year": 1984,
+    "title": "Sản xuất thực phẩm",
+    "old_file": "Chương 32 - Sản xuất thực phẩm.txt",
+    "new_file": "Chương 27 - Sản xuất thực phẩm.txt"
+  },
+  {
+    "new_num": 28,
+    "old_num": 33,
+    "year": 1984,
+    "title": "Mở rộng thực phẩm",
+    "old_file": "Chương 33 - Mở rộng thực phẩm.txt",
+    "new_file": "Chương 28 - Mở rộng thực phẩm.txt"
+  },
+  {
+    "new_num": 29,
+    "old_num": 34,
+    "year": 1984,
+    "title": "Tuyển kỹ sư Minh",
+    "old_file": "Chương 34 - Tuyển kỹ sư Minh.txt",
+    "new_file": "Chương 29 - Tuyển kỹ sư Minh.txt"
+  },
+  {
+    "new_num": 30,
+    "old_num": 35,
+    "year": 1984,
+    "title": "Mở rộng miền Nam",
+    "old_file": "Chương 35 - Mở rộng miền Nam.txt",
+    "new_file": "Chương 30 - Mở rộng miền Nam.txt"
+  },
+  {
+    "new_num": 31,
+    "old_num": 36,
+    "year": 1984,
+    "title": "Mở chi nhánh Hoài Đức",
+    "old_file": "Chương 36 - Mở chi nhánh Hoài Đức.txt",
+    "new_file": "Chương 31 - Mở chi nhánh Hoài Đức.txt"
+  },
+  {
+    "new_num": 32,
+    "old_num": 37,
+    "year": 1984,
+    "title": "Mở chi nhánh Hà Nội",
+    "old_file": "Chương 37 - Mở chi nhánh Hà Nội.txt",
+    "new_file": "Chương 32 - Mở chi nhánh Hà Nội.txt"
+  },
+  {
+    "new_num": 33,
+    "old_num": 38,
+    "year": 1984,
+    "title": "Sản xuất radio",
+    "old_file": "Chương 38 - Sản xuất radio.txt",
+    "new_file": "Chương 33 - Sản xuất radio.txt"
+  },
+  {
+    "new_num": 34,
+    "old_num": 39,
+    "year": 1984,
+    "title": "Mở rộng sản xuất radio",
+    "old_file": "Chương 39 - Mở rộng sản xuất radio.txt",
+    "new_file": "Chương 34 - Mở rộng sản xuất radio.txt"
+  },
+  {
+    "new_num": 35,
+    "old_num": 40,
+    "year": 1984,
+    "title": "Hoàn thành nhiệm vụ radio",
+    "old_file": "Chương 40 - Hoàn thành nhiệm vụ radio.txt",
+    "new_file": "Chương 35 - Hoàn thành nhiệm vụ radio.txt"
+  },
+  {
+    "new_num": 36,
+    "old_num": 41,
+    "year": 1984,
+    "title": "Sản xuất quạt điện",
+    "old_file": "Chương 41 - Sản xuất quạt điện.txt",
+    "new_file": "Chương 36 - Sản xuất quạt điện.txt"
+  },
+  {
+    "new_num": 37,
+    "old_num": 42,
+    "year": 1984,
+    "title": "Hoàn thành nhiệm vụ quạt điện",
+    "old_file": "Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt",
+    "new_file": "Chương 37 - Hoàn thành nhiệm vụ quạt điện.txt"
+  },
+  {
+    "new_num": 38,
+    "old_num": 23,
+    "year": 1985,
+    "title": "Sản xuất túi xách",
+    "old_file": "Chương 23 - Sản xuất túi xách.txt",
+    "new_file": "Chương 38 - Sản xuất túi xách.txt"
+  },
+  {
+    "new_num": 39,
+    "old_num": 27,
+    "year": 1985,
+    "title": "Đi Lào",
+    "old_file": "Chương 27 - Đi Lào.txt",
+    "new_file": "Chương 39 - Đi Lào.txt"
+  },
+  {
+    "new_num": 40,
+    "old_num": 30,
+    "year": 1985,
+    "title": "Mở rộng cửa hàng",
+    "old_file": "Chương 30 - Mở rộng cửa hàng.txt",
+    "new_file": "Chương 40 - Mở rộng cửa hàng.txt"
+  },
+  {
+    "new_num": 41,
+    "old_num": 31,
+    "year": 1985,
+    "title": "Tổng kết năm 1983",
+    "old_file": "Chương 31 - Tổng kết năm 1983.txt",
+    "new_file": "Chương 41 - Tổng kết năm 1983.txt"
+  },
+  {
+    "new_num": 42,
+    "old_num": 43,
+    "year": 1985,
+    "title": "Sản xuất đèn điện",
+    "old_file": "Chương 43 - Sản xuất đèn điện.txt",
+    "new_file": "Chương 42 - Sản xuất đèn điện.txt"
+  },
+  {
+    "new_num": 43,
+    "old_num": 45,
+    "year": 1985,
+    "title": "Mở nhà hàng",
+    "old_file": "Chương 45 - Mở nhà hàng.txt",
+    "new_file": "Chương 43 - Mở nhà hàng.txt"
+  },
+  {
+    "new_num": 44,
+    "old_num": 46,
+    "year": 1985,
+    "title": "Mở nhà hàng Hà Nội",
+    "old_file": "Chương 46 - Mở nhà hàng Hà Nội.txt",
+    "new_file": "Chương 44 - Mở nhà hàng Hà Nội.txt"
+  },
+  {
+    "new_num": 45,
+    "old_num": 47,
+    "year": 1985,
+    "title": "Mở nhà hàng Sài Gòn",
+    "old_file": "Chương 47 - Mở nhà hàng Sài Gòn.txt",
+    "new_file": "Chương 45 - Mở nhà hàng Sài Gòn.txt"
+  },
+  {
+    "new_num": 46,
+    "old_num": 48,
+    "year": 1985,
+    "title": "Đầu tư bất động sản",
+    "old_file": "Chương 48 - Đầu tư bất động sản.txt",
+    "new_file": "Chương 46 - Đầu tư bất động sản.txt"
+  },
+  {
+    "new_num": 47,
+    "old_num": 49,
+    "year": 1985,
+    "title": "Mua đất miền Nam",
+    "old_file": "Chương 49 - Mua đất miền Nam.txt",
+    "new_file": "Chương 47 - Mua đất miền Nam.txt"
+  },
+  {
+    "new_num": 48,
+    "old_num": 50,
+    "year": 1985,
+    "title": "Cột mốc Chương 41–50",
+    "old_file": "Chương 50 - Cột mốc Chương 41–50.txt",
+    "new_file": "Chương 48 - Cột mốc Chương 41–50.txt"
+  },
+  {
+    "new_num": 49,
+    "old_num": 51,
+    "year": 1985,
+    "title": "Mở chi nhánh Bắc Ninh",
+    "old_file": "Chương 51 - Mở chi nhánh Bắc Ninh.txt",
+    "new_file": "Chương 49 - Mở chi nhánh Bắc Ninh.txt"
+  },
+  {
+    "new_num": 50,
+    "old_num": 52,
+    "year": 1985,
+    "title": "Tuyển dụng kỹ sư cơ khí",
+    "old_file": "Chương 52 - Tuyển dụng kỹ sư cơ khí.txt",
+    "new_file": "Chương 50 - Tuyển dụng kỹ sư cơ khí.txt"
+  },
+  {
+    "new_num": 51,
+    "old_num": 53,
+    "year": 1985,
+    "title": "Mở phòng khám",
+    "old_file": "Chương 53 - Mở phòng khám.txt",
+    "new_file": "Chương 51 - Mở phòng khám.txt"
+  },
+  {
+    "new_num": 52,
+    "old_num": 54,
+    "year": 1985,
+    "title": "Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên",
+    "old_file": "Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt",
+    "new_file": "Chương 52 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt"
+  },
+  {
+    "new_num": 53,
+    "old_num": 55,
+    "year": 1985,
+    "title": "Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện",
+    "old_file": "Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt",
+    "new_file": "Chương 53 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt"
+  },
+  {
+    "new_num": 54,
+    "old_num": 56,
+    "year": 1985,
+    "title": "Minh qua chín mươi ngày thử việc",
+    "old_file": "Chương 56 - Minh qua chín mươi ngày thử việc.txt",
+    "new_file": "Chương 54 - Minh qua chín mươi ngày thử việc.txt"
+  },
+  {
+    "new_num": 55,
+    "old_num": 58,
+    "year": 1985,
+    "title": "Xây dựng thương hiệu Thương Gia trong 30 ngày",
+    "old_file": "Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt",
+    "new_file": "Chương 55 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt"
+  },
+  {
+    "new_num": 56,
+    "old_num": 60,
+    "year": 1985,
+    "title": "Hoàn thành nhiệm vụ chi nhánh",
+    "old_file": "Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt",
+    "new_file": "Chương 56 - Hoàn thành nhiệm vụ chi nhánh.txt"
+  },
+  {
+    "new_num": 57,
+    "old_num": 62,
+    "year": 1985,
+    "title": "Sản xuất máy cày",
+    "old_file": "Chương 62 - Sản xuất máy cày.txt",
+    "new_file": "Chương 57 - Sản xuất máy cày.txt"
+  },
+  {
+    "new_num": 58,
+    "old_num": 64,
+    "year": 1985,
+    "title": "Mua 30 xe tải",
+    "old_file": "Chương 64 - Mua 30 xe tải.txt",
+    "new_file": "Chương 58 - Mua 30 xe tải.txt"
+  },
+  {
+    "new_num": 59,
+    "old_num": 67,
+    "year": 1985,
+    "title": "Mở trường Sài Gòn",
+    "old_file": "Chương 67 - Mở trường Sài Gòn.txt",
+    "new_file": "Chương 59 - Mở trường Sài Gòn.txt"
+  },
+  {
+    "new_num": 60,
+    "old_num": 10,
+    "year": 1986,
+    "title": "Đi Hà Nội",
+    "old_file": "Chương 10 - Đi Hà Nội.txt",
+    "new_file": "Chương 60 - Đi Hà Nội.txt"
+  },
+  {
+    "new_num": 61,
+    "old_num": 44,
+    "year": 1986,
+    "title": "Hoàn thành nhiệm vụ đèn",
+    "old_file": "Chương 44 - Hoàn thành nhiệm vụ đèn.txt",
+    "new_file": "Chương 61 - Hoàn thành nhiệm vụ đèn.txt"
+  },
+  {
+    "new_num": 62,
+    "old_num": 57,
+    "year": 1986,
+    "title": "Xây đội ngũ cốt lõi",
+    "old_file": "Chương 57 - Xây đội ngũ cốt lõi.txt",
+    "new_file": "Chương 62 - Xây đội ngũ cốt lõi.txt"
+  },
+  {
+    "new_num": 63,
+    "old_num": 59,
+    "year": 1986,
+    "title": "Mở chi nhánh Ninh Bình",
+    "old_file": "Chương 59 - Mở chi nhánh Ninh Bình.txt",
+    "new_file": "Chương 63 - Mở chi nhánh Ninh Bình.txt"
+  },
+  {
+    "new_num": 64,
+    "old_num": 61,
+    "year": 1986,
+    "title": "Sản xuất xe đạp",
+    "old_file": "Chương 61 - Sản xuất xe đạp.txt",
+    "new_file": "Chương 64 - Sản xuất xe đạp.txt"
+  },
+  {
+    "new_num": 65,
+    "old_num": 63,
+    "year": 1986,
+    "title": "Sản xuất máy gặt",
+    "old_file": "Chương 63 - Sản xuất máy gặt.txt",
+    "new_file": "Chương 65 - Sản xuất máy gặt.txt"
+  },
+  {
+    "new_num": 66,
+    "old_num": 65,
+    "year": 1986,
+    "title": "Mở rộng chi nhánh tài chính",
+    "old_file": "Chương 65 - Mở rộng chi nhánh tài chính.txt",
+    "new_file": "Chương 66 - Mở rộng chi nhánh tài chính.txt"
+  },
+  {
+    "new_num": 67,
+    "old_num": 66,
+    "year": 1986,
+    "title": "Mở rộng trường học",
+    "old_file": "Chương 66 - Mở rộng trường học.txt",
+    "new_file": "Chương 67 - Mở rộng trường học.txt"
+  },
+  {
+    "new_num": 68,
+    "old_num": 68,
+    "year": 1986,
+    "title": "Mở trung tâm đào tạo",
+    "old_file": "Chương 68 - Mở trung tâm đào tạo.txt",
+    "new_file": "Chương 68 - Mở trung tâm đào tạo.txt"
+  },
+  {
+    "new_num": 69,
+    "old_num": 69,
+    "year": 1986,
+    "title": "Mở rộng phòng khám",
+    "old_file": "Chương 69 - Mở rộng phòng khám.txt",
+    "new_file": "Chương 69 - Mở rộng phòng khám.txt"
+  },
+  {
+    "new_num": 70,
+    "old_num": 73,
+    "year": 1986,
+    "title": "Hoàn thành nhiệm vụ cho vay",
+    "old_file": "Chương 73 - Hoàn thành nhiệm vụ cho vay.txt",
+    "new_file": "Chương 70 - Hoàn thành nhiệm vụ cho vay.txt"
+  },
+  {
+    "new_num": 71,
+    "old_num": 78,
+    "year": 1986,
+    "title": "Mở rộng phòng khám tiếp",
+    "old_file": "Chương 78 - Mở rộng phòng khám tiếp.txt",
+    "new_file": "Chương 71 - Mở rộng phòng khám tiếp.txt"
+  },
+  {
+    "new_num": 72,
+    "old_num": 81,
+    "year": 1986,
+    "title": "Mở rộng năng lượng nhà máy điện",
+    "old_file": "Chương 81 - Mở rộng năng lượng nhà máy điện.txt",
+    "new_file": "Chương 72 - Mở rộng năng lượng nhà máy điện.txt"
+  },
+  {
+    "new_num": 73,
+    "old_num": 83,
+    "year": 1986,
+    "title": "Mở rộng từ thiện quỹ",
+    "old_file": "Chương 83 - Mở rộng từ thiện quỹ.txt",
+    "new_file": "Chương 73 - Mở rộng từ thiện quỹ.txt"
+  },
+  {
+    "new_num": 74,
+    "old_num": 86,
+    "year": 1986,
+    "title": "Mở rộng bảo hiểm",
+    "old_file": "Chương 86 - Mở rộng bảo hiểm.txt",
+    "new_file": "Chương 74 - Mở rộng bảo hiểm.txt"
+  },
+  {
+    "new_num": 75,
+    "old_num": 89,
+    "year": 1986,
+    "title": "Tổng kết Phần 2",
+    "old_file": "Chương 89 - Tổng kết Phần 2.txt",
+    "new_file": "Chương 75 - Tổng kết Phần 2.txt"
+  },
+  {
+    "new_num": 76,
+    "old_num": 92,
+    "year": 1986,
+    "title": "Sản xuất xi măng",
+    "old_file": "Chương 92 - Sản xuất xi măng.txt",
+    "new_file": "Chương 76 - Sản xuất xi măng.txt"
+  },
+  {
+    "new_num": 77,
+    "old_num": 70,
+    "year": 1987,
+    "title": "Hoàn thành nhiệm vụ vận chuyển",
+    "old_file": "Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt",
+    "new_file": "Chương 77 - Hoàn thành nhiệm vụ vận chuyển.txt"
+  },
+  {
+    "new_num": 78,
+    "old_num": 71,
+    "year": 1987,
+    "title": "Mở dịch vụ cho vay",
+    "old_file": "Chương 71 - Mở dịch vụ cho vay.txt",
+    "new_file": "Chương 78 - Mở dịch vụ cho vay.txt"
+  },
+  {
+    "new_num": 79,
+    "old_num": 72,
+    "year": 1987,
+    "title": "Phát triển dịch vụ tài chính",
+    "old_file": "Chương 72 - Phát triển dịch vụ tài chính.txt",
+    "new_file": "Chương 79 - Phát triển dịch vụ tài chính.txt"
+  },
+  {
+    "new_num": 80,
+    "old_num": 74,
+    "year": 1987,
+    "title": "Mở trường học tiếp",
+    "old_file": "Chương 74 - Mở trường học tiếp.txt",
+    "new_file": "Chương 80 - Mở trường học tiếp.txt"
+  },
+  {
+    "new_num": 81,
+    "old_num": 75,
+    "year": 1987,
+    "title": "Mở rộng trường học 30 trường",
+    "old_file": "Chương 75 - Mở rộng trường học 30 trường.txt",
+    "new_file": "Chương 81 - Mở rộng trường học 30 trường.txt"
+  },
+  {
+    "new_num": 82,
+    "old_num": 76,
+    "year": 1987,
+    "title": "Mở rộng trung tâm đào tạo",
+    "old_file": "Chương 76 - Mở rộng trung tâm đào tạo.txt",
+    "new_file": "Chương 82 - Mở rộng trung tâm đào tạo.txt"
+  },
+  {
+    "new_num": 83,
+    "old_num": 77,
+    "year": 1987,
+    "title": "Hoàn thành nhiệm vụ đào tạo",
+    "old_file": "Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt",
+    "new_file": "Chương 83 - Hoàn thành nhiệm vụ đào tạo.txt"
+  },
+  {
+    "new_num": 84,
+    "old_num": 79,
+    "year": 1987,
+    "title": "Hoàn thành nhiệm vụ phòng khám",
+    "old_file": "Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt",
+    "new_file": "Chương 84 - Hoàn thành nhiệm vụ phòng khám.txt"
+  },
+  {
+    "new_num": 85,
+    "old_num": 80,
+    "year": 1987,
+    "title": "Mở rộng công ty xây dựng",
+    "old_file": "Chương 80 - Mở rộng công ty xây dựng.txt",
+    "new_file": "Chương 85 - Mở rộng công ty xây dựng.txt"
+  },
+  {
+    "new_num": 86,
+    "old_num": 82,
+    "year": 1987,
+    "title": "Hoàn thành nhiệm vụ năng lượng",
+    "old_file": "Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt",
+    "new_file": "Chương 86 - Hoàn thành nhiệm vụ năng lượng.txt"
+  },
+  {
+    "new_num": 87,
+    "old_num": 84,
+    "year": 1987,
+    "title": "Hoàn thành nhiệm vụ từ thiện",
+    "old_file": "Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt",
+    "new_file": "Chương 87 - Hoàn thành nhiệm vụ từ thiện.txt"
+  },
+  {
+    "new_num": 88,
+    "old_num": 99,
+    "year": 1987,
+    "title": "Mở rộng viễn thông",
+    "old_file": "Chương 99 - Mở rộng viễn thông.txt",
+    "new_file": "Chương 88 - Mở rộng viễn thông.txt"
+  },
+  {
+    "new_num": 89,
+    "old_num": 103,
+    "year": 1987,
+    "title": "Mở rộng nhà máy 30",
+    "old_file": "Chương 103 - Mở rộng nhà máy 30.txt",
+    "new_file": "Chương 89 - Mở rộng nhà máy 30.txt"
+  },
+  {
+    "new_num": 90,
+    "old_num": 104,
+    "year": 1987,
+    "title": "Mở rộng xuất khẩu châu Âu",
+    "old_file": "Chương 104 - Mở rộng xuất khẩu châu Âu.txt",
+    "new_file": "Chương 90 - Mở rộng xuất khẩu châu Âu.txt"
+  },
+  {
+    "new_num": 91,
+    "old_num": 105,
+    "year": 1987,
+    "title": "Tổng kết Phần 3",
+    "old_file": "Chương 105 - Tổng kết Phần 3.txt",
+    "new_file": "Chương 91 - Tổng kết Phần 3.txt"
+  },
+  {
+    "new_num": 92,
+    "old_num": 106,
+    "year": 1987,
+    "title": "Bắt đầu Phần 4",
+    "old_file": "Chương 106 - Bắt đầu Phần 4.txt",
+    "new_file": "Chương 92 - Bắt đầu Phần 4.txt"
+  },
+  {
+    "new_num": 93,
+    "old_num": 107,
+    "year": 1987,
+    "title": "Mở nhà máy Thái Lan",
+    "old_file": "Chương 107 - Mở nhà máy Thái Lan.txt",
+    "new_file": "Chương 93 - Mở nhà máy Thái Lan.txt"
+  },
+  {
+    "new_num": 94,
+    "old_num": 109,
+    "year": 1987,
+    "title": "Mở nhà máy Đức",
+    "old_file": "Chương 109 - Mở nhà máy Đức.txt",
+    "new_file": "Chương 94 - Mở nhà máy Đức.txt"
+  },
+  {
+    "new_num": 95,
+    "old_num": 85,
+    "year": 1988,
+    "title": "Mở rộng xuất khẩu 10 đối tác",
+    "old_file": "Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt",
+    "new_file": "Chương 95 - Mở rộng xuất khẩu 10 đối tác.txt"
+  },
+  {
+    "new_num": 96,
+    "old_num": 87,
+    "year": 1988,
+    "title": "Sản xuất máy cày ra mắt",
+    "old_file": "Chương 87 - Sản xuất máy cày ra mắt.txt",
+    "new_file": "Chương 96 - Sản xuất máy cày ra mắt.txt"
+  },
+  {
+    "new_num": 97,
+    "old_num": 88,
+    "year": 1988,
+    "title": "Sản xuất máy gặt ra mắt",
+    "old_file": "Chương 88 - Sản xuất máy gặt ra mắt.txt",
+    "new_file": "Chương 97 - Sản xuất máy gặt ra mắt.txt"
+  },
+  {
+    "new_num": 98,
+    "old_num": 90,
+    "year": 1988,
+    "title": "Bắt đầu Phần 3",
+    "old_file": "Chương 90 - Bắt đầu Phần 3.txt",
+    "new_file": "Chương 98 - Bắt đầu Phần 3.txt"
+  },
+  {
+    "new_num": 99,
+    "old_num": 91,
+    "year": 1988,
+    "title": "Sản xuất thép Hải Phòng",
+    "old_file": "Chương 91 - Sản xuất thép Hải Phòng.txt",
+    "new_file": "Chương 99 - Sản xuất thép Hải Phòng.txt"
+  },
+  {
+    "new_num": 100,
+    "old_num": 93,
+    "year": 1988,
+    "title": "Hùng gặp cô Hạnh",
+    "old_file": "Chương 93 - Hùng gặp cô Hạnh.txt",
+    "new_file": "Chương 100 - Hùng gặp cô Hạnh.txt"
+  },
+  {
+    "new_num": 101,
+    "old_num": 94,
+    "year": 1988,
+    "title": "Hùng gặp cô Mai và cô Lan",
+    "old_file": "Chương 94 - Hùng gặp cô Mai và cô Lan.txt",
+    "new_file": "Chương 101 - Hùng gặp cô Mai và cô Lan.txt"
+  },
+  {
+    "new_num": 102,
+    "old_num": 95,
+    "year": 1988,
+    "title": "Hùng chọn cô Hạnh",
+    "old_file": "Chương 95 - Hùng chọn cô Hạnh.txt",
+    "new_file": "Chương 102 - Hùng chọn cô Hạnh.txt"
+  },
+  {
+    "new_num": 103,
+    "old_num": 96,
+    "year": 1988,
+    "title": "Bà Hà bế cháu nội",
+    "old_file": "Chương 96 - Bà Hà bế cháu nội.txt",
+    "new_file": "Chương 103 - Bà Hà bế cháu nội.txt"
+  },
+  {
+    "new_num": 104,
+    "old_num": 97,
+    "year": 1988,
+    "title": "Sản xuất điện tử",
+    "old_file": "Chương 97 - Sản xuất điện tử.txt",
+    "new_file": "Chương 104 - Sản xuất điện tử.txt"
+  },
+  {
+    "new_num": 105,
+    "old_num": 98,
+    "year": 1988,
+    "title": "Sản xuất điện thoại",
+    "old_file": "Chương 98 - Sản xuất điện thoại.txt",
+    "new_file": "Chương 105 - Sản xuất điện thoại.txt"
+  },
+  {
+    "new_num": 106,
+    "old_num": 100,
+    "year": 1988,
+    "title": "Sản xuất phần mềm",
+    "old_file": "Chương 100 - Sản xuất phần mềm.txt",
+    "new_file": "Chương 106 - Sản xuất phần mềm.txt"
+  },
+  {
+    "new_num": 107,
+    "old_num": 121,
+    "year": 1988,
+    "title": "Mở rộng sang Thái Lan",
+    "old_file": "Chương 121 - Mở rộng sang Thái Lan.txt",
+    "new_file": "Chương 107 - Mở rộng sang Thái Lan.txt"
+  },
+  {
+    "new_num": 108,
+    "old_num": 122,
+    "year": 1988,
+    "title": "Myanmar và Campuchia",
+    "old_file": "Chương 122 - Myanmar và Campuchia.txt",
+    "new_file": "Chương 108 - Myanmar và Campuchia.txt"
+  },
+  {
+    "new_num": 109,
+    "old_num": 124,
+    "year": 1988,
+    "title": "Cạnh tranh với Trung Quốc",
+    "old_file": "Chương 124 - Cạnh tranh với Trung Quốc.txt",
+    "new_file": "Chương 109 - Cạnh tranh với Trung Quốc.txt"
+  },
+  {
+    "new_num": 110,
+    "old_num": 125,
+    "year": 1988,
+    "title": "Lan trưởng thành",
+    "old_file": "Chương 125 - Lan trưởng thành.txt",
+    "new_file": "Chương 110 - Lan trưởng thành.txt"
+  },
+  {
+    "new_num": 111,
+    "old_num": 129,
+    "year": 1988,
+    "title": "Bước lùi để tiến xa hơn",
+    "old_file": "Chương 129 - Bước lùi để tiến xa hơn.txt",
+    "new_file": "Chương 111 - Bước lùi để tiến xa hơn.txt"
+  },
+  {
+    "new_num": 112,
+    "old_num": 141,
+    "year": 1988,
+    "title": "Chuyến bay đầu tiên đến Mỹ",
+    "old_file": "Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt",
+    "new_file": "Chương 112 - Chuyến bay đầu tiên đến Mỹ.txt"
+  },
+  {
+    "new_num": 113,
+    "old_num": 101,
+    "year": 1989,
+    "title": "Mở rộng cửa hàng 108",
+    "old_file": "Chương 101 - Mở rộng cửa hàng 108.txt",
+    "new_file": "Chương 113 - Mở rộng cửa hàng 108.txt"
+  },
+  {
+    "new_num": 114,
+    "old_num": 102,
+    "year": 1989,
+    "title": "Mở rộng nhà hàng 42",
+    "old_file": "Chương 102 - Mở rộng nhà hàng 42.txt",
+    "new_file": "Chương 114 - Mở rộng nhà hàng 42.txt"
+  },
+  {
+    "new_num": 115,
+    "old_num": 108,
+    "year": 1989,
+    "title": "Mở nhà máy Indonesia",
+    "old_file": "Chương 108 - Mở nhà máy Indonesia.txt",
+    "new_file": "Chương 115 - Mở nhà máy Indonesia.txt"
+  },
+  {
+    "new_num": 116,
+    "old_num": 110,
+    "year": 1989,
+    "title": "M&A Bangkok Electronics",
+    "old_file": "Chương 110 - M&A Bangkok Electronics.txt",
+    "new_file": "Chương 116 - M&A Bangkok Electronics.txt"
+  },
+  {
+    "new_num": 117,
+    "old_num": 111,
+    "year": 1989,
+    "title": "Mở sang châu Mỹ USA",
+    "old_file": "Chương 111 - Mở sang châu Mỹ USA.txt",
+    "new_file": "Chương 117 - Mở sang châu Mỹ USA.txt"
+  },
+  {
+    "new_num": 118,
+    "old_num": 113,
+    "year": 1989,
+    "title": "Mở nhà máy USA",
+    "old_file": "Chương 113 - Mở nhà máy USA.txt",
+    "new_file": "Chương 118 - Mở nhà máy USA.txt"
+  },
+  {
+    "new_num": 119,
+    "old_num": 114,
+    "year": 1989,
+    "title": "M&A Stahl GmbH",
+    "old_file": "Chương 114 - M&A Stahl GmbH.txt",
+    "new_file": "Chương 119 - M&A Stahl GmbH.txt"
+  },
+  {
+    "new_num": 120,
+    "old_num": 115,
+    "year": 1989,
+    "title": "Mở nhà máy Nigeria",
+    "old_file": "Chương 115 - Mở nhà máy Nigeria.txt",
+    "new_file": "Chương 120 - Mở nhà máy Nigeria.txt"
+  },
+  {
+    "new_num": 121,
+    "old_num": 117,
+    "year": 1989,
+    "title": "Tổng tài sản 1000 tỷ",
+    "old_file": "Chương 117 - Tổng tài sản 1000 tỷ.txt",
+    "new_file": "Chương 121 - Tổng tài sản 1000 tỷ.txt"
+  },
+  {
+    "new_num": 122,
+    "old_num": 118,
+    "year": 1989,
+    "title": "Những ngày nằm viện",
+    "old_file": "Chương 118 - Những ngày nằm viện.txt",
+    "new_file": "Chương 122 - Những ngày nằm viện.txt"
+  },
+  {
+    "new_num": 123,
+    "old_num": 120,
+    "year": 1989,
+    "title": "Học cách ủy thác sâu hơn",
+    "old_file": "Chương 120 - Học cách ủy thác sâu hơn.txt",
+    "new_file": "Chương 123 - Học cách ủy thác sâu hơn.txt"
+  },
+  {
+    "new_num": 124,
+    "old_num": 123,
+    "year": 1989,
+    "title": "Xây dựng đội ngũ xuất khẩu",
+    "old_file": "Chương 123 - Xây dựng đội ngũ xuất khẩu.txt",
+    "new_file": "Chương 124 - Xây dựng đội ngũ xuất khẩu.txt"
+  },
+  {
+    "new_num": 125,
+    "old_num": 133,
+    "year": 1989,
+    "title": "Malaysia và Philippines",
+    "old_file": "Chương 133 - Malaysia và Philippines.txt",
+    "new_file": "Chương 125 - Malaysia và Philippines.txt"
+  },
+  {
+    "new_num": 126,
+    "old_num": 135,
+    "year": 1989,
+    "title": "Đông Á - Nhật Bản và Hàn Quốc",
+    "old_file": "Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt",
+    "new_file": "Chương 126 - Đông Á - Nhật Bản và Hàn Quốc.txt"
+  },
+  {
+    "new_num": 127,
+    "old_num": 136,
+    "year": 1989,
+    "title": "Nhật Bản — Thị trường khó tính nhất",
+    "old_file": "Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt",
+    "new_file": "Chương 127 - Nhật Bản — Thị trường khó tính nhất.txt"
+  },
+  {
+    "new_num": 128,
+    "old_num": 112,
+    "year": 1990,
+    "title": "Hoàn thành phần 3",
+    "old_file": "Chương 112 - Hoàn thành phần 3.txt",
+    "new_file": "Chương 128 - Hoàn thành phần 3.txt"
+  },
+  {
+    "new_num": 129,
+    "old_num": 127,
+    "year": 1990,
+    "title": "Lan nhận nhiệm vụ mới",
+    "old_file": "Chương 127 - Lan nhận nhiệm vụ mới.txt",
+    "new_file": "Chương 129 - Lan nhận nhiệm vụ mới.txt"
+  },
+  {
+    "new_num": 130,
+    "old_num": 128,
+    "year": 1990,
+    "title": "Khủng hoảng đầu tiên",
+    "old_file": "Chương 128 - Khủng hoảng đầu tiên.txt",
+    "new_file": "Chương 130 - Khủng hoảng đầu tiên.txt"
+  },
+  {
+    "new_num": 131,
+    "old_num": 130,
+    "year": 1990,
+    "title": "Thử thách kế thừa",
+    "old_file": "Chương 130 - Thử thách kế thừa.txt",
+    "new_file": "Chương 131 - Thử thách kế thừa.txt"
+  },
+  {
+    "new_num": 132,
+    "old_num": 137,
+    "year": 1990,
+    "title": "Cuộc gặp với ông Sato",
+    "old_file": "Chương 137 - Cuộc gặp với ông Sato.txt",
+    "new_file": "Chương 132 - Cuộc gặp với ông Sato.txt"
+  },
+  {
+    "new_num": 133,
+    "old_num": 138,
+    "year": 1990,
+    "title": "Thử thách từ ông Sato",
+    "old_file": "Chương 138 - Thử thách từ ông Sato.txt",
+    "new_file": "Chương 133 - Thử thách từ ông Sato.txt"
+  },
+  {
+    "new_num": 134,
+    "old_num": 139,
+    "year": 1990,
+    "title": "Mở rộng sang Hàn Quốc",
+    "old_file": "Chương 139 - Mở rộng sang Hàn Quốc.txt",
+    "new_file": "Chương 134 - Mở rộng sang Hàn Quốc.txt"
+  },
+  {
+    "new_num": 135,
+    "old_num": 140,
+    "year": 1990,
+    "title": "Chuẩn bị cho thị trường Mỹ",
+    "old_file": "Chương 140 - Chuẩn bị cho thị trường Mỹ.txt",
+    "new_file": "Chương 135 - Chuẩn bị cho thị trường Mỹ.txt"
+  },
+  {
+    "new_num": 136,
+    "old_num": 142,
+    "year": 1990,
+    "title": "Thử thách đầu tiên tại Mỹ",
+    "old_file": "Chương 142 - Thử thách đầu tiên tại Mỹ.txt",
+    "new_file": "Chương 136 - Thử thách đầu tiên tại Mỹ.txt"
+  },
+  {
+    "new_num": 137,
+    "old_num": 143,
+    "year": 1990,
+    "title": "Xây dựng hệ thống chất lượng Mỹ",
+    "old_file": "Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt",
+    "new_file": "Chương 137 - Xây dựng hệ thống chất lượng Mỹ.txt"
+  },
+  {
+    "new_num": 138,
+    "old_num": 144,
+    "year": 1990,
+    "title": "Mở rộng đối tác Mỹ",
+    "old_file": "Chương 144 - Mở rộng đối tác Mỹ.txt",
+    "new_file": "Chương 138 - Mở rộng đối tác Mỹ.txt"
+  },
+  {
+    "new_num": 139,
+    "old_num": 116,
+    "year": 1991,
+    "title": "Mở nhà máy Úc",
+    "old_file": "Chương 116 - Mở nhà máy Úc.txt",
+    "new_file": "Chương 139 - Mở nhà máy Úc.txt"
+  },
+  {
+    "new_num": 140,
+    "old_num": 145,
+    "year": 1991,
+    "title": "Đối mặt đối thủ Trung Quốc tại Mỹ",
+    "old_file": "Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt",
+    "new_file": "Chương 140 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt"
+  },
+  {
+    "new_num": 141,
+    "old_num": 147,
+    "year": 1991,
+    "title": "Lan đối mặt với áp lực Mỹ",
+    "old_file": "Chương 147 - Lan đối mặt với áp lực Mỹ.txt",
+    "new_file": "Chương 141 - Lan đối mặt với áp lực Mỹ.txt"
+  },
+  {
+    "new_num": 142,
+    "old_num": 148,
+    "year": 1991,
+    "title": "Bữa tối 3 thế hệ",
+    "old_file": "Chương 148 - Bữa tối 3 thế hệ.txt",
+    "new_file": "Chương 142 - Bữa tối 3 thế hệ.txt"
+  },
+  {
+    "new_num": 143,
+    "old_num": 150,
+    "year": 1991,
+    "title": "Văn Hùng tập trung vào Việt Nam",
+    "old_file": "Chương 150 - Văn Hùng tập trung vào Việt Nam.txt",
+    "new_file": "Chương 143 - Văn Hùng tập trung vào Việt Nam.txt"
+  },
+  {
+    "new_num": 144,
+    "old_num": 151,
+    "year": 1991,
+    "title": "Lan mở rộng sang Canada",
+    "old_file": "Chương 151 - Lan mở rộng sang Canada.txt",
+    "new_file": "Chương 144 - Lan mở rộng sang Canada.txt"
+  },
+  {
+    "new_num": 145,
+    "old_num": 152,
+    "year": 1991,
+    "title": "Văn Hùng nhận huân chương",
+    "old_file": "Chương 152 - Văn Hùng nhận huân chương.txt",
+    "new_file": "Chương 145 - Văn Hùng nhận huân chương.txt"
+  },
+  {
+    "new_num": 146,
+    "old_num": 153,
+    "year": 1991,
+    "title": "Lan mở rộng sang Australia",
+    "old_file": "Chương 153 - Lan mở rộng sang Australia.txt",
+    "new_file": "Chương 146 - Lan mở rộng sang Australia.txt"
+  },
+  {
+    "new_num": 147,
+    "old_num": 155,
+    "year": 1991,
+    "title": "Ngân hàng Thương Gia mở cửa",
+    "old_file": "Chương 155 - Ngân hàng Thương Gia mở cửa.txt",
+    "new_file": "Chương 147 - Ngân hàng Thương Gia mở cửa.txt"
+  },
+  {
+    "new_num": 148,
+    "old_num": 158,
+    "year": 1991,
+    "title": "Lan về nước báo cáo",
+    "old_file": "Chương 158 - Lan về nước báo cáo.txt",
+    "new_file": "Chương 148 - Lan về nước báo cáo.txt"
+  },
+  {
+    "new_num": 149,
+    "old_num": 119,
+    "year": 1992,
+    "title": "Bước ngoặt sức khỏe",
+    "old_file": "Chương 119 - Bước ngoặt sức khỏe.txt",
+    "new_file": "Chương 149 - Bước ngoặt sức khỏe.txt"
+  },
+  {
+    "new_num": 150,
+    "old_num": 154,
+    "year": 1992,
+    "title": "Văn Hùng mở rộng quỹ từ thiện",
+    "old_file": "Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt",
+    "new_file": "Chương 150 - Văn Hùng mở rộng quỹ từ thiện.txt"
+  },
+  {
+    "new_num": 151,
+    "old_num": 156,
+    "year": 1992,
+    "title": "Cho vay doanh nghiệp nhỏ",
+    "old_file": "Chương 156 - Cho vay doanh nghiệp nhỏ.txt",
+    "new_file": "Chương 151 - Cho vay doanh nghiệp nhỏ.txt"
+  },
+  {
+    "new_num": 152,
+    "old_num": 157,
+    "year": 1992,
+    "title": "Đối mặt kiểm toán nhà nước",
+    "old_file": "Chương 157 - Đối mặt kiểm toán nhà nước.txt",
+    "new_file": "Chương 152 - Đối mặt kiểm toán nhà nước.txt"
+  },
+  {
+    "new_num": 153,
+    "old_num": 159,
+    "year": 1992,
+    "title": "Xây nhà máy ô tô đầu tiên",
+    "old_file": "Chương 159 - Xây nhà máy ô tô đầu tiên.txt",
+    "new_file": "Chương 153 - Xây nhà máy ô tô đầu tiên.txt"
+  },
+  {
+    "new_num": 154,
+    "old_num": 160,
+    "year": 1992,
+    "title": "Thử nghiệm mẫu xe Thành Công",
+    "old_file": "Chương 160 - Thử nghiệm mẫu xe Thành Công.txt",
+    "new_file": "Chương 154 - Thử nghiệm mẫu xe Thành Công.txt"
+  },
+  {
+    "new_num": 155,
+    "old_num": 161,
+    "year": 1992,
+    "title": "Hợp tác kỹ thuật Nhật Bản",
+    "old_file": "Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt",
+    "new_file": "Chương 155 - Hợp tác kỹ thuật Nhật Bản.txt"
+  },
+  {
+    "new_num": 156,
+    "old_num": 162,
+    "year": 1992,
+    "title": "Chuỗi cung ứng phụ tùng",
+    "old_file": "Chương 162 - Chuỗi cung ứng phụ tùng.txt",
+    "new_file": "Chương 156 - Chuỗi cung ứng phụ tùng.txt"
+  },
+  {
+    "new_num": 157,
+    "old_num": 166,
+    "year": 1992,
+    "title": "Mở showroom toàn quốc",
+    "old_file": "Chương 166 - Mở showroom toàn quốc.txt",
+    "new_file": "Chương 157 - Mở showroom toàn quốc.txt"
+  },
+  {
+    "new_num": 158,
+    "old_num": 167,
+    "year": 1992,
+    "title": "Điện thoại Thương Gia thế hệ 2",
+    "old_file": "Chương 167 - Điện thoại Thương Gia thế hệ 2.txt",
+    "new_file": "Chương 158 - Điện thoại Thương Gia thế hệ 2.txt"
+  },
+  {
+    "new_num": 159,
+    "old_num": 126,
+    "year": 1993,
+    "title": "Giá trị của sự buông",
+    "old_file": "Chương 126 - Giá trị của sự buông.txt",
+    "new_file": "Chương 159 - Giá trị của sự buông.txt"
+  },
+  {
+    "new_num": 160,
+    "old_num": 146,
+    "year": 1993,
+    "title": "Lan học cách đàm phán với người Mỹ",
+    "old_file": "Chương 146 - Lan học cách đàm phán với người Mỹ.txt",
+    "new_file": "Chương 160 - Lan học cách đàm phán với người Mỹ.txt"
+  },
+  {
+    "new_num": 161,
+    "old_num": 163,
+    "year": 1993,
+    "title": "Khủng hoảng nguyên liệu thép",
+    "old_file": "Chương 163 - Khủng hoảng nguyên liệu thép.txt",
+    "new_file": "Chương 161 - Khủng hoảng nguyên liệu thép.txt"
+  },
+  {
+    "new_num": 162,
+    "old_num": 164,
+    "year": 1993,
+    "title": "Hùng dàn xếp với nhà cung cấp",
+    "old_file": "Chương 164 - Hùng dàn xếp với nhà cung cấp.txt",
+    "new_file": "Chương 162 - Hùng dàn xếp với nhà cung cấp.txt"
+  },
+  {
+    "new_num": 163,
+    "old_num": 165,
+    "year": 1993,
+    "title": "Ra mắt xe máy Thương Gia",
+    "old_file": "Chương 165 - Ra mắt xe máy Thương Gia.txt",
+    "new_file": "Chương 163 - Ra mắt xe máy Thương Gia.txt"
+  },
+  {
+    "new_num": 164,
+    "old_num": 168,
+    "year": 1993,
+    "title": "Nhà máy máy tính Hà Nội",
+    "old_file": "Chương 168 - Nhà máy máy tính Hà Nội.txt",
+    "new_file": "Chương 164 - Nhà máy máy tính Hà Nội.txt"
+  },
+  {
+    "new_num": 165,
+    "old_num": 169,
+    "year": 1993,
+    "title": "Xây dựng thương hiệu quốc tế",
+    "old_file": "Chương 169 - Xây dựng thương hiệu quốc tế.txt",
+    "new_file": "Chương 165 - Xây dựng thương hiệu quốc tế.txt"
+  },
+  {
+    "new_num": 166,
+    "old_num": 170,
+    "year": 1993,
+    "title": "Ký kết hợp đồng đối tác Mỹ",
+    "old_file": "Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt",
+    "new_file": "Chương 166 - Ký kết hợp đồng đối tác Mỹ.txt"
+  },
+  {
+    "new_num": 167,
+    "old_num": 171,
+    "year": 1993,
+    "title": "Chuyển giao cho thế hệ sau",
+    "old_file": "Chương 171 - Chuyển giao cho thế hệ sau.txt",
+    "new_file": "Chương 167 - Chuyển giao cho thế hệ sau.txt"
+  },
+  {
+    "new_num": 168,
+    "old_num": 172,
+    "year": 1993,
+    "title": "Gia đình sum họp",
+    "old_file": "Chương 172 - Gia đình sum họp.txt",
+    "new_file": "Chương 168 - Gia đình sum họp.txt"
+  },
+  {
+    "new_num": 169,
+    "old_num": 173,
+    "year": 1993,
+    "title": "Thỏa thuận đôi bên cùng có lợi",
+    "old_file": "Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt",
+    "new_file": "Chương 169 - Thỏa thuận đôi bên cùng có lợi.txt"
+  },
+  {
+    "new_num": 170,
+    "old_num": 175,
+    "year": 1993,
+    "title": "Cảng container Hải Phòng",
+    "old_file": "Chương 175 - Cảng container Hải Phòng.txt",
+    "new_file": "Chương 170 - Cảng container Hải Phòng.txt"
+  },
+  {
+    "new_num": 171,
+    "old_num": 180,
+    "year": 1993,
+    "title": "Lan đàm phán với đối tác châu Âu",
+    "old_file": "Chương 180 - Lan đàm phán với đối tác châu Âu.txt",
+    "new_file": "Chương 171 - Lan đàm phán với đối tác châu Âu.txt"
+  },
+  {
+    "new_num": 172,
+    "old_num": 174,
+    "year": 1994,
+    "title": "Logistics quốc tế Thương Gia",
+    "old_file": "Chương 174 - Logistics quốc tế Thương Gia.txt",
+    "new_file": "Chương 172 - Logistics quốc tế Thương Gia.txt"
+  },
+  {
+    "new_num": 173,
+    "old_num": 176,
+    "year": 1994,
+    "title": "Lan về nước",
+    "old_file": "Chương 176 - Lan về nước.txt",
+    "new_file": "Chương 173 - Lan về nước.txt"
+  },
+  {
+    "new_num": 174,
+    "old_num": 177,
+    "year": 1994,
+    "title": "Mở rộng nhà máy ô tô",
+    "old_file": "Chương 177 - Mở rộng nhà máy ô tô.txt",
+    "new_file": "Chương 174 - Mở rộng nhà máy ô tô.txt"
+  },
+  {
+    "new_num": 175,
+    "old_num": 178,
+    "year": 1994,
+    "title": "Lan dẫn đoàn sang châu Âu khảo sát",
+    "old_file": "Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt",
+    "new_file": "Chương 175 - Lan dẫn đoàn sang châu Âu khảo sát.txt"
+  },
+  {
+    "new_num": 176,
+    "old_num": 179,
+    "year": 1994,
+    "title": "Chuẩn bị niêm yết công ty con",
+    "old_file": "Chương 179 - Chuẩn bị niêm yết công ty con.txt",
+    "new_file": "Chương 176 - Chuẩn bị niêm yết công ty con.txt"
+  },
+  {
+    "new_num": 177,
+    "old_num": 184,
+    "year": 1994,
+    "title": "Khủng hoảng tài chính châu Á 1994",
+    "old_file": "Chương 184 - Khủng hoảng tài chính châu Á 1994.txt",
+    "new_file": "Chương 177 - Khủng hoảng tài chính châu Á 1994.txt"
+  },
+  {
+    "new_num": 178,
+    "old_num": 185,
+    "year": 1994,
+    "title": "Tổng kết nửa chặng đường châu Á",
+    "old_file": "Chương 185 - Tổng kết nửa chặng đường châu Á.txt",
+    "new_file": "Chương 178 - Tổng kết nửa chặng đường châu Á.txt"
+  },
+  {
+    "new_num": 179,
+    "old_num": 189,
+    "year": 1994,
+    "title": "Đối chất công khai",
+    "old_file": "Chương 189 - Đối chất công khai.txt",
+    "new_file": "Chương 179 - Đối chất công khai.txt"
+  },
+  {
+    "new_num": 180,
+    "old_num": 190,
+    "year": 1994,
+    "title": "Mở rộng sang châu Phi",
+    "old_file": "Chương 190 - Mở rộng sang châu Phi.txt",
+    "new_file": "Chương 180 - Mở rộng sang châu Phi.txt"
+  },
+  {
+    "new_num": 181,
+    "old_num": 191,
+    "year": 1994,
+    "title": "Đầu tư công nghệ cao",
+    "old_file": "Chương 191 - Đầu tư công nghệ cao.txt",
+    "new_file": "Chương 181 - Đầu tư công nghệ cao.txt"
+  },
+  {
+    "new_num": 182,
+    "old_num": 193,
+    "year": 1994,
+    "title": "Xây dựng thương hiệu toàn cầu",
+    "old_file": "Chương 193 - Xây dựng thương hiệu toàn cầu.txt",
+    "new_file": "Chương 182 - Xây dựng thương hiệu toàn cầu.txt"
+  },
+  {
+    "new_num": 183,
+    "old_num": 131,
+    "year": 1995,
+    "title": "Mở rộng Đông Nam Á",
+    "old_file": "Chương 131 - Mở rộng Đông Nam Á.txt",
+    "new_file": "Chương 183 - Mở rộng Đông Nam Á.txt"
+  },
+  {
+    "new_num": 184,
+    "old_num": 132,
+    "year": 1995,
+    "title": "Đối mặt hải quan Indonesia",
+    "old_file": "Chương 132 - Đối mặt hải quan Indonesia.txt",
+    "new_file": "Chương 184 - Đối mặt hải quan Indonesia.txt"
+  },
+  {
+    "new_num": 185,
+    "old_num": 134,
+    "year": 1995,
+    "title": "Xây dựng chuỗi cung ứng châu Á",
+    "old_file": "Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt",
+    "new_file": "Chương 185 - Xây dựng chuỗi cung ứng châu Á.txt"
+  },
+  {
+    "new_num": 186,
+    "old_num": 181,
+    "year": 1995,
+    "title": "Cô Hạnh sinh con",
+    "old_file": "Chương 181 - Cô Hạnh sinh con.txt",
+    "new_file": "Chương 186 - Cô Hạnh sinh con.txt"
+  },
+  {
+    "new_num": 187,
+    "old_num": 182,
+    "year": 1995,
+    "title": "Mở rộng quỹ đầu tư",
+    "old_file": "Chương 182 - Mở rộng quỹ đầu tư.txt",
+    "new_file": "Chương 187 - Mở rộng quỹ đầu tư.txt"
+  },
+  {
+    "new_num": 188,
+    "old_num": 186,
+    "year": 1995,
+    "title": "Lan và chiến lược châu Á mới",
+    "old_file": "Chương 186 - Lan và chiến lược châu Á mới.txt",
+    "new_file": "Chương 188 - Lan và chiến lược châu Á mới.txt"
+  },
+  {
+    "new_num": 189,
+    "old_num": 187,
+    "year": 1995,
+    "title": "Nắm bắt cơ hội từ khủng hoảng",
+    "old_file": "Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt",
+    "new_file": "Chương 189 - Nắm bắt cơ hội từ khủng hoảng.txt"
+  },
+  {
+    "new_num": 190,
+    "old_num": 195,
+    "year": 1995,
+    "title": "Lan chèo lái Thương Gia",
+    "old_file": "Chương 195 - Lan chèo lái Thương Gia.txt",
+    "new_file": "Chương 190 - Lan chèo lái Thương Gia.txt"
+  },
+  {
+    "new_num": 191,
+    "old_num": 197,
+    "year": 1995,
+    "title": "Bà Hà phát biểu trước toàn thể",
+    "old_file": "Chương 197 - Bà Hà phát biểu trước toàn thể.txt",
+    "new_file": "Chương 191 - Bà Hà phát biểu trước toàn thể.txt"
+  },
+  {
+    "new_num": 192,
+    "old_num": 200,
+    "year": 1995,
+    "title": "Lễ kỷ niệm 10 năm",
+    "old_file": "Chương 200 - Lễ kỷ niệm 10 năm.txt",
+    "new_file": "Chương 192 - Lễ kỷ niệm 10 năm.txt"
+  },
+  {
+    "new_num": 193,
+    "old_num": 149,
+    "year": 1996,
+    "title": "Trở lại Mỹ với tinh thần mới",
+    "old_file": "Chương 149 - Trở lại Mỹ với tinh thần mới.txt",
+    "new_file": "Chương 193 - Trở lại Mỹ với tinh thần mới.txt"
+  },
+  {
+    "new_num": 194,
+    "old_num": 188,
+    "year": 1996,
+    "title": "Điều tra và chứng cứ",
+    "old_file": "Chương 188 - Điều tra và chứng cứ.txt",
+    "new_file": "Chương 194 - Điều tra và chứng cứ.txt"
+  },
+  {
+    "new_num": 195,
+    "old_num": 192,
+    "year": 1996,
+    "title": "Lan thiết lập chuỗi cung ứng toàn cầu",
+    "old_file": "Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt",
+    "new_file": "Chương 195 - Lan thiết lập chuỗi cung ứng toàn cầu.txt"
+  },
+  {
+    "new_num": 196,
+    "old_num": 194,
+    "year": 1997,
+    "title": "Mở rộng quỹ đầu tư Bắc Mỹ",
+    "old_file": "Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt",
+    "new_file": "Chương 196 - Mở rộng quỹ đầu tư Bắc Mỹ.txt"
+  },
+  {
+    "new_num": 197,
+    "old_num": 198,
+    "year": 1997,
+    "title": "Hùng về vườn",
+    "old_file": "Chương 198 - Hùng về vườn.txt",
+    "new_file": "Chương 197 - Hùng về vườn.txt"
+  },
+  {
+    "new_num": 198,
+    "old_num": 204,
+    "year": 1997,
+    "title": "Berlin và kỹ thuật Đức",
+    "old_file": "Chương 204 - Berlin và kỹ thuật Đức.txt",
+    "new_file": "Chương 198 - Berlin và kỹ thuật Đức.txt"
+  },
+  {
+    "new_num": 199,
+    "old_num": 205,
+    "year": 1997,
+    "title": "Nhà máy linh kiện München",
+    "old_file": "Chương 205 - Nhà máy linh kiện München.txt",
+    "new_file": "Chương 199 - Nhà máy linh kiện München.txt"
+  },
+  {
+    "new_num": 200,
+    "old_num": 206,
+    "year": 1997,
+    "title": "London – trung tâm tài chính",
+    "old_file": "Chương 206 - London – trung tâm tài chính.txt",
+    "new_file": "Chương 200 - London – trung tâm tài chính.txt"
+  },
+  {
+    "new_num": 201,
+    "old_num": 207,
+    "year": 1997,
+    "title": "Gặp gỡ quỹ đầu tư Anh",
+    "old_file": "Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt",
+    "new_file": "Chương 201 - Gặp gỡ quỹ đầu tư Anh.txt"
+  },
+  {
+    "new_num": 202,
+    "old_num": 208,
+    "year": 1997,
+    "title": "New York – Wall Street lần đầu",
+    "old_file": "Chương 208 - New York – Wall Street lần đầu.txt",
+    "new_file": "Chương 202 - New York – Wall Street lần đầu.txt"
+  },
+  {
+    "new_num": 203,
+    "old_num": 183,
+    "year": 1998,
+    "title": "Hùng và Lan xây dựng đội ngũ kế thừa",
+    "old_file": "Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt",
+    "new_file": "Chương 203 - Hùng và Lan xây dựng đội ngũ kế thừa.txt"
+  },
+  {
+    "new_num": 204,
+    "old_num": 196,
+    "year": 1998,
+    "title": "Bà Hà sức khỏe giảm",
+    "old_file": "Chương 196 - Bà Hà sức khỏe giảm.txt",
+    "new_file": "Chương 204 - Bà Hà sức khỏe giảm.txt"
+  },
+  {
+    "new_num": 205,
+    "old_num": 199,
+    "year": 1998,
+    "title": "Tổng kết Phần 3",
+    "old_file": "Chương 199 - Tổng kết Phần 3.txt",
+    "new_file": "Chương 205 - Tổng kết Phần 3.txt"
+  },
+  {
+    "new_num": 206,
+    "old_num": 201,
+    "year": 1998,
+    "title": "Mở rộng châu Âu",
+    "old_file": "Chương 201 - Mở rộng châu Âu.txt",
+    "new_file": "Chương 206 - Mở rộng châu Âu.txt"
+  },
+  {
+    "new_num": 207,
+    "old_num": 202,
+    "year": 1998,
+    "title": "Chi nhánh Paris",
+    "old_file": "Chương 202 - Chi nhánh Paris.txt",
+    "new_file": "Chương 207 - Chi nhánh Paris.txt"
+  },
+  {
+    "new_num": 208,
+    "old_num": 203,
+    "year": 1998,
+    "title": "Nhà hàng Thương Gia tại Lyon",
+    "old_file": "Chương 203 - Nhà hàng Thương Gia tại Lyon.txt",
+    "new_file": "Chương 208 - Nhà hàng Thương Gia tại Lyon.txt"
+  },
+  {
+    "new_num": 209,
+    "old_num": 209,
+    "year": 1998,
+    "title": "Đàm phán niêm yết ADR",
+    "old_file": "Chương 209 - Đàm phán niêm yết ADR.txt",
+    "new_file": "Chương 209 - Đàm phán niêm yết ADR.txt"
+  },
+  {
+    "new_num": 210,
+    "old_num": 210,
+    "year": 1998,
+    "title": "Văn phòng Thương Gia Manhattan",
+    "old_file": "Chương 210 - Văn phòng Thương Gia Manhattan.txt",
+    "new_file": "Chương 210 - Văn phòng Thương Gia Manhattan.txt"
+  },
+  {
+    "new_num": 211,
+    "old_num": 211,
+    "year": 1998,
+    "title": "Chuỗi cửa hàng West Coast",
+    "old_file": "Chương 211 - Chuỗi cửa hàng West Coast.txt",
+    "new_file": "Chương 211 - Chuỗi cửa hàng West Coast.txt"
+  },
+  {
+    "new_num": 212,
+    "old_num": 212,
+    "year": 1998,
+    "title": "Tiêu chuẩn chất lượng châu Âu",
+    "old_file": "Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt",
+    "new_file": "Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt"
+  },
+  {
+    "new_num": 213,
+    "old_num": 214,
+    "year": 1998,
+    "title": "M&A đối thủ vừa tại Pháp",
+    "old_file": "Chương 214 - M&A đối thủ vừa tại Pháp.txt",
+    "new_file": "Chương 213 - M&A đối thủ vừa tại Pháp.txt"
+  },
+  {
+    "new_num": 214,
+    "old_num": 215,
+    "year": 1998,
+    "title": "Tích hợp văn hóa doanh nghiệp",
+    "old_file": "Chương 215 - Tích hợp văn hóa doanh nghiệp.txt",
+    "new_file": "Chương 214 - Tích hợp văn hóa doanh nghiệp.txt"
+  },
+  {
+    "new_num": 215,
+    "old_num": 213,
+    "year": 1999,
+    "title": "Chứng nhận ISO toàn hệ thống",
+    "old_file": "Chương 213 - Chứng nhận ISO toàn hệ thống.txt",
+    "new_file": "Chương 215 - Chứng nhận ISO toàn hệ thống.txt"
+  },
+  {
+    "new_num": 216,
+    "old_num": 216,
+    "year": 1999,
+    "title": "Sản xuất chip thử nghiệm",
+    "old_file": "Chương 216 - Sản xuất chip thử nghiệm.txt",
+    "new_file": "Chương 216 - Sản xuất chip thử nghiệm.txt"
+  },
+  {
+    "new_num": 217,
+    "old_num": 217,
+    "year": 1999,
+    "title": "Nhà máy năng lượng tái tạo",
+    "old_file": "Chương 217 - Nhà máy năng lượng tái tạo.txt",
+    "new_file": "Chương 217 - Nhà máy năng lượng tái tạo.txt"
+  },
+  {
+    "new_num": 218,
+    "old_num": 218,
+    "year": 1999,
+    "title": "Pin mặt trời thế hệ mới",
+    "old_file": "Chương 218 - Pin mặt trời thế hệ mới.txt",
+    "new_file": "Chương 218 - Pin mặt trời thế hệ mới.txt"
+  },
+  {
+    "new_num": 219,
+    "old_num": 219,
+    "year": 1999,
+    "title": "Xe điện nguyên mẫu",
+    "old_file": "Chương 219 - Xe điện nguyên mẫu.txt",
+    "new_file": "Chương 219 - Xe điện nguyên mẫu.txt"
+  },
+  {
+    "new_num": 220,
+    "old_num": 220,
+    "year": 1999,
+    "title": "Triển lãm công nghệ châu Á",
+    "old_file": "Chương 220 - Triển lãm công nghệ châu Á.txt",
+    "new_file": "Chương 220 - Triển lãm công nghệ châu Á.txt"
+  },
+  {
+    "new_num": 221,
+    "old_num": 244,
+    "year": 2003,
+    "title": "Trường học trong khu công nghiệp",
+    "old_file": "Chương 244 - Trường học trong khu công nghiệp.txt",
+    "new_file": "Chương 221 - Trường học trong khu công nghiệp.txt"
+  },
+  {
+    "new_num": 222,
+    "old_num": 246,
+    "year": 2003,
+    "title": "Trạm sạc toàn quốc",
+    "old_file": "Chương 246 - Trạm sạc toàn quốc.txt",
+    "new_file": "Chương 222 - Trạm sạc toàn quốc.txt"
+  },
+  {
+    "new_num": 223,
+    "old_num": 247,
+    "year": 2003,
+    "title": "AI sơ khai trong quản lý kho",
+    "old_file": "Chương 247 - AI sơ khai trong quản lý kho.txt",
+    "new_file": "Chương 223 - AI sơ khai trong quản lý kho.txt"
+  },
+  {
+    "new_num": 224,
+    "old_num": 306,
+    "year": 2003,
+    "title": "Gặp lại ông Sato",
+    "old_file": "Chương 306 - Gặp lại ông Sato.txt",
+    "new_file": "Chương 224 - Gặp lại ông Sato.txt"
+  },
+  {
+    "new_num": 225,
+    "old_num": 266,
+    "year": 2005,
+    "title": "Cạnh tranh lành mạnh",
+    "old_file": "Chương 266 - Cạnh tranh lành mạnh.txt",
+    "new_file": "Chương 225 - Cạnh tranh lành mạnh.txt"
+  },
+  {
+    "new_num": 226,
+    "old_num": 271,
+    "year": 2006,
+    "title": "Bắt đầu Phần 5 – Ảnh hưởng xã hội",
+    "old_file": "Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt",
+    "new_file": "Chương 226 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt"
+  },
+  {
+    "new_num": 227,
+    "old_num": 272,
+    "year": 2006,
+    "title": "Đế chế truyền thông Thương Gia",
+    "old_file": "Chương 272 - Đế chế truyền thông Thương Gia.txt",
+    "new_file": "Chương 227 - Đế chế truyền thông Thương Gia.txt"
+  },
+  {
+    "new_num": 228,
+    "old_num": 273,
+    "year": 2006,
+    "title": "Báo và tạp chí kinh tế",
+    "old_file": "Chương 273 - Báo và tạp chí kinh tế.txt",
+    "new_file": "Chương 228 - Báo và tạp chí kinh tế.txt"
+  },
+  {
+    "new_num": 229,
+    "old_num": 274,
+    "year": 2006,
+    "title": "Kênh truyền hình thực tế",
+    "old_file": "Chương 274 - Kênh truyền hình thực tế.txt",
+    "new_file": "Chương 229 - Kênh truyền hình thực tế.txt"
+  },
+  {
+    "new_num": 230,
+    "old_num": 276,
+    "year": 2006,
+    "title": "Thương Gia FC ra đời",
+    "old_file": "Chương 276 - Thương Gia FC ra đời.txt",
+    "new_file": "Chương 230 - Thương Gia FC ra đời.txt"
+  },
+  {
+    "new_num": 231,
+    "old_num": 275,
+    "year": 2007,
+    "title": "Nền tảng mạng xã hội nội địa",
+    "old_file": "Chương 275 - Nền tảng mạng xã hội nội địa.txt",
+    "new_file": "Chương 231 - Nền tảng mạng xã hội nội địa.txt"
+  },
+  {
+    "new_num": 232,
+    "old_num": 277,
+    "year": 2007,
+    "title": "Sân vận động cộng đồng",
+    "old_file": "Chương 277 - Sân vận động cộng đồng.txt",
+    "new_file": "Chương 232 - Sân vận động cộng đồng.txt"
+  },
+  {
+    "new_num": 233,
+    "old_num": 278,
+    "year": 2007,
+    "title": "Tài trợ Olympic khu vực",
+    "old_file": "Chương 278 - Tài trợ Olympic khu vực.txt",
+    "new_file": "Chương 233 - Tài trợ Olympic khu vực.txt"
+  },
+  {
+    "new_num": 234,
+    "old_num": 279,
+    "year": 2007,
+    "title": "Học bổng 10.000 sinh viên",
+    "old_file": "Chương 279 - Học bổng 10.000 sinh viên.txt",
+    "new_file": "Chương 234 - Học bổng 10.000 sinh viên.txt"
+  },
+  {
+    "new_num": 235,
+    "old_num": 280,
+    "year": 2007,
+    "title": "Xây 100 trường vùng sâu",
+    "old_file": "Chương 280 - Xây 100 trường vùng sâu.txt",
+    "new_file": "Chương 235 - Xây 100 trường vùng sâu.txt"
+  },
+  {
+    "new_num": 236,
+    "old_num": 282,
+    "year": 2007,
+    "title": "Minh bạch quỹ công khai",
+    "old_file": "Chương 282 - Minh bạch quỹ công khai.txt",
+    "new_file": "Chương 236 - Minh bạch quỹ công khai.txt"
+  },
+  {
+    "new_num": 237,
+    "old_num": 286,
+    "year": 2007,
+    "title": "Con trai phụ trách sản xuất",
+    "old_file": "Chương 286 - Con trai phụ trách sản xuất.txt",
+    "new_file": "Chương 237 - Con trai phụ trách sản xuất.txt"
+  },
+  {
+    "new_num": 238,
+    "old_num": 287,
+    "year": 2007,
+    "title": "Hùng lui về chiến lược",
+    "old_file": "Chương 287 - Hùng lui về chiến lược.txt",
+    "new_file": "Chương 238 - Hùng lui về chiến lược.txt"
+  },
+  {
+    "new_num": 239,
+    "old_num": 221,
+    "year": 2008,
+    "title": "Dấu hiệu khủng hoảng 2008",
+    "old_file": "Chương 221 - Dấu hiệu khủng hoảng 2008.txt",
+    "new_file": "Chương 239 - Dấu hiệu khủng hoảng 2008.txt"
+  },
+  {
+    "new_num": 240,
+    "old_num": 222,
+    "year": 2008,
+    "title": "Hệ thống cảnh báo sớm",
+    "old_file": "Chương 222 - Hệ thống cảnh báo sớm.txt",
+    "new_file": "Chương 240 - Hệ thống cảnh báo sớm.txt"
+  },
+  {
+    "new_num": 241,
+    "old_num": 223,
+    "year": 2008,
+    "title": "Họp khẩn ban lãnh đạo",
+    "old_file": "Chương 223 - Họp khẩn ban lãnh đạo.txt",
+    "new_file": "Chương 241 - Họp khẩn ban lãnh đạo.txt"
+  },
+  {
+    "new_num": 242,
+    "old_num": 224,
+    "year": 2008,
+    "title": "Bảo vệ dòng tiền",
+    "old_file": "Chương 224 - Bảo vệ dòng tiền.txt",
+    "new_file": "Chương 242 - Bảo vệ dòng tiền.txt"
+  },
+  {
+    "new_num": 243,
+    "old_num": 225,
+    "year": 2008,
+    "title": "Cơn bão Lehman",
+    "old_file": "Chương 225 - Cơn bão Lehman.txt",
+    "new_file": "Chương 243 - Cơn bão Lehman.txt"
+  },
+  {
+    "new_num": 244,
+    "old_num": 226,
+    "year": 2008,
+    "title": "Những cuộc gọi nửa đêm",
+    "old_file": "Chương 226 - Những cuộc gọi nửa đêm.txt",
+    "new_file": "Chương 244 - Những cuộc gọi nửa đêm.txt"
+  },
+  {
+    "new_num": 245,
+    "old_num": 227,
+    "year": 2008,
+    "title": "Đi săn khi ai cũng sợ",
+    "old_file": "Chương 227 - Đi săn khi ai cũng sợ.txt",
+    "new_file": "Chương 245 - Đi săn khi ai cũng sợ.txt"
+  },
+  {
+    "new_num": 246,
+    "old_num": 228,
+    "year": 2008,
+    "title": "Lan giữ pháo đài Mỹ",
+    "old_file": "Chương 228 - Lan giữ pháo đài Mỹ.txt",
+    "new_file": "Chương 246 - Lan giữ pháo đài Mỹ.txt"
+  },
+  {
+    "new_num": 247,
+    "old_num": 229,
+    "year": 2008,
+    "title": "Không ai bị bỏ lại",
+    "old_file": "Chương 229 - Không ai bị bỏ lại.txt",
+    "new_file": "Chương 247 - Không ai bị bỏ lại.txt"
+  },
+  {
+    "new_num": 248,
+    "old_num": 230,
+    "year": 2008,
+    "title": "Truyền thông và niềm tin",
+    "old_file": "Chương 230 - Truyền thông và niềm tin.txt",
+    "new_file": "Chương 248 - Truyền thông và niềm tin.txt"
+  },
+  {
+    "new_num": 249,
+    "old_num": 231,
+    "year": 2008,
+    "title": "Mua lại nhà máy đối thủ phá sản",
+    "old_file": "Chương 231 - Mua lại nhà máy đối thủ phá sản.txt",
+    "new_file": "Chương 249 - Mua lại nhà máy đối thủ phá sản.txt"
+  },
+  {
+    "new_num": 250,
+    "old_num": 232,
+    "year": 2008,
+    "title": "Tái khởi động sản xuất",
+    "old_file": "Chương 232 - Tái khởi động sản xuất.txt",
+    "new_file": "Chương 250 - Tái khởi động sản xuất.txt"
+  },
+  {
+    "new_num": 251,
+    "old_num": 233,
+    "year": 2008,
+    "title": "Truyền thông khủng hoảng",
+    "old_file": "Chương 233 - Truyền thông khủng hoảng.txt",
+    "new_file": "Chương 251 - Truyền thông khủng hoảng.txt"
+  },
+  {
+    "new_num": 252,
+    "old_num": 234,
+    "year": 2008,
+    "title": "Niềm tin khách hàng",
+    "old_file": "Chương 234 - Niềm tin khách hàng.txt",
+    "new_file": "Chương 252 - Niềm tin khách hàng.txt"
+  },
+  {
+    "new_num": 253,
+    "old_num": 235,
+    "year": 2008,
+    "title": "Hùng trên truyền hình quốc tế",
+    "old_file": "Chương 235 - Hùng trên truyền hình quốc tế.txt",
+    "new_file": "Chương 253 - Hùng trên truyền hình quốc tế.txt"
+  },
+  {
+    "new_num": 254,
+    "old_num": 236,
+    "year": 2008,
+    "title": "Forbes gọi tên Thương Gia",
+    "old_file": "Chương 236 - Forbes gọi tên Thương Gia.txt",
+    "new_file": "Chương 254 - Forbes gọi tên Thương Gia.txt"
+  },
+  {
+    "new_num": 255,
+    "old_num": 237,
+    "year": 2008,
+    "title": "Vượt qua đáy khủng hoảng",
+    "old_file": "Chương 237 - Vượt qua đáy khủng hoảng.txt",
+    "new_file": "Chương 255 - Vượt qua đáy khủng hoảng.txt"
+  },
+  {
+    "new_num": 256,
+    "old_num": 281,
+    "year": 2008,
+    "title": "Quỹ 10.000 tỷ từ thiện",
+    "old_file": "Chương 281 - Quỹ 10.000 tỷ từ thiện.txt",
+    "new_file": "Chương 256 - Quỹ 10.000 tỷ từ thiện.txt"
+  },
+  {
+    "new_num": 257,
+    "old_num": 283,
+    "year": 2008,
+    "title": "Y tế lưu động miền núi",
+    "old_file": "Chương 283 - Y tế lưu động miền núi.txt",
+    "new_file": "Chương 257 - Y tế lưu động miền núi.txt"
+  },
+  {
+    "new_num": 258,
+    "old_num": 284,
+    "year": 2008,
+    "title": "Nước sạch cho 500 xã",
+    "old_file": "Chương 284 - Nước sạch cho 500 xã.txt",
+    "new_file": "Chương 258 - Nước sạch cho 500 xã.txt"
+  },
+  {
+    "new_num": 259,
+    "old_num": 285,
+    "year": 2008,
+    "title": "Lan đứng đầu mảng xã hội",
+    "old_file": "Chương 285 - Lan đứng đầu mảng xã hội.txt",
+    "new_file": "Chương 259 - Lan đứng đầu mảng xã hội.txt"
+  },
+  {
+    "new_num": 260,
+    "old_num": 238,
+    "year": 2009,
+    "title": "Năm mới, trời mới",
+    "old_file": "Chương 238 - Năm mới, trời mới.txt",
+    "new_file": "Chương 260 - Năm mới, trời mới.txt"
+  },
+  {
+    "new_num": 261,
+    "old_num": 239,
+    "year": 2009,
+    "title": "Đường dài",
+    "old_file": "Chương 239 - Đường dài.txt",
+    "new_file": "Chương 261 - Đường dài.txt"
+  },
+  {
+    "new_num": 262,
+    "old_num": 240,
+    "year": 2009,
+    "title": "Thương Gia City",
+    "old_file": "Chương 240 - Thương Gia City.txt",
+    "new_file": "Chương 262 - Thương Gia City.txt"
+  },
+  {
+    "new_num": 263,
+    "old_num": 241,
+    "year": 2009,
+    "title": "Khởi công Thương Gia City",
+    "old_file": "Chương 241 - Khởi công Thương Gia City.txt",
+    "new_file": "Chương 263 - Khởi công Thương Gia City.txt"
+  },
+  {
+    "new_num": 264,
+    "old_num": 242,
+    "year": 2009,
+    "title": "Quy hoạch 500 hecta",
+    "old_file": "Chương 242 - Quy hoạch 500 hecta.txt",
+    "new_file": "Chương 264 - Quy hoạch 500 hecta.txt"
+  },
+  {
+    "new_num": 265,
+    "old_num": 243,
+    "year": 2009,
+    "title": "Hạ tầng và nhà ở công nhân",
+    "old_file": "Chương 243 - Hạ tầng và nhà ở công nhân.txt",
+    "new_file": "Chương 265 - Hạ tầng và nhà ở công nhân.txt"
+  },
+  {
+    "new_num": 266,
+    "old_num": 245,
+    "year": 2009,
+    "title": "Xe điện thương mại hóa",
+    "old_file": "Chương 245 - Xe điện thương mại hóa.txt",
+    "new_file": "Chương 266 - Xe điện thương mại hóa.txt"
+  },
+  {
+    "new_num": 267,
+    "old_num": 248,
+    "year": 2009,
+    "title": "Trung tâm dữ liệu Thương Gia",
+    "old_file": "Chương 248 - Trung tâm dữ liệu Thương Gia.txt",
+    "new_file": "Chương 267 - Trung tâm dữ liệu Thương Gia.txt"
+  },
+  {
+    "new_num": 268,
+    "old_num": 288,
+    "year": 2009,
+    "title": "Khủng hoảng truyền thông giả",
+    "old_file": "Chương 288 - Khủng hoảng truyền thông giả.txt",
+    "new_file": "Chương 268 - Khủng hoảng truyền thông giả.txt"
+  },
+  {
+    "new_num": 269,
+    "old_num": 289,
+    "year": 2009,
+    "title": "Phản ứng minh bạch",
+    "old_file": "Chương 289 - Phản ứng minh bạch.txt",
+    "new_file": "Chương 269 - Phản ứng minh bạch.txt"
+  },
+  {
+    "new_num": 270,
+    "old_num": 290,
+    "year": 2009,
+    "title": "Từ thiện Đông Timor",
+    "old_file": "Chương 290 - Từ thiện Đông Timor.txt",
+    "new_file": "Chương 270 - Từ thiện Đông Timor.txt"
+  },
+  {
+    "new_num": 271,
+    "old_num": 291,
+    "year": 2009,
+    "title": "Hội nghị thượng đỉnh doanh nghiệp",
+    "old_file": "Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt",
+    "new_file": "Chương 271 - Hội nghị thượng đỉnh doanh nghiệp.txt"
+  },
+  {
+    "new_num": 272,
+    "old_num": 292,
+    "year": 2009,
+    "title": "Đề xuất chính sách xanh",
+    "old_file": "Chương 292 - Đề xuất chính sách xanh.txt",
+    "new_file": "Chương 272 - Đề xuất chính sách xanh.txt"
+  },
+  {
+    "new_num": 273,
+    "old_num": 293,
+    "year": 2009,
+    "title": "Thương hiệu quốc gia",
+    "old_file": "Chương 293 - Thương hiệu quốc gia.txt",
+    "new_file": "Chương 273 - Thương hiệu quốc gia.txt"
+  },
+  {
+    "new_num": 274,
+    "old_num": 295,
+    "year": 2009,
+    "title": "Ngày hội công nhân",
+    "old_file": "Chương 295 - Ngày hội công nhân.txt",
+    "new_file": "Chương 274 - Ngày hội công nhân.txt"
+  },
+  {
+    "new_num": 275,
+    "old_num": 298,
+    "year": 2009,
+    "title": "Đào tạo lãnh đạo trẻ",
+    "old_file": "Chương 298 - Đào tạo lãnh đạo trẻ.txt",
+    "new_file": "Chương 275 - Đào tạo lãnh đạo trẻ.txt"
+  },
+  {
+    "new_num": 276,
+    "old_num": 249,
+    "year": 2010,
+    "title": "Đối tác công nghệ Silicon Valley",
+    "old_file": "Chương 249 - Đối tác công nghệ Silicon Valley.txt",
+    "new_file": "Chương 276 - Đối tác công nghệ Silicon Valley.txt"
+  },
+  {
+    "new_num": 277,
+    "old_num": 250,
+    "year": 2010,
+    "title": "Lan dẫn quỹ R&D",
+    "old_file": "Chương 250 - Lan dẫn quỹ R&D.txt",
+    "new_file": "Chương 277 - Lan dẫn quỹ R&D.txt"
+  },
+  {
+    "new_num": 278,
+    "old_num": 251,
+    "year": 2010,
+    "title": "Con trai Hùng vào công ty",
+    "old_file": "Chương 251 - Con trai Hùng vào công ty.txt",
+    "new_file": "Chương 278 - Con trai Hùng vào công ty.txt"
+  },
+  {
+    "new_num": 279,
+    "old_num": 252,
+    "year": 2010,
+    "title": "Thế hệ thứ hai học việc",
+    "old_file": "Chương 252 - Thế hệ thứ hai học việc.txt",
+    "new_file": "Chương 279 - Thế hệ thứ hai học việc.txt"
+  },
+  {
+    "new_num": 280,
+    "old_num": 253,
+    "year": 2010,
+    "title": "Huân chương Lao động",
+    "old_file": "Chương 253 - Huân chương Lao động.txt",
+    "new_file": "Chương 280 - Huân chương Lao động.txt"
+  },
+  {
+    "new_num": 281,
+    "old_num": 254,
+    "year": 2010,
+    "title": "Gặp lãnh đạo ngành",
+    "old_file": "Chương 254 - Gặp lãnh đạo ngành.txt",
+    "new_file": "Chương 281 - Gặp lãnh đạo ngành.txt"
+  },
+  {
+    "new_num": 282,
+    "old_num": 255,
+    "year": 2010,
+    "title": "Cam kết phát triển bền vững",
+    "old_file": "Chương 255 - Cam kết phát triển bền vững.txt",
+    "new_file": "Chương 282 - Cam kết phát triển bền vững.txt"
+  },
+  {
+    "new_num": 283,
+    "old_num": 256,
+    "year": 2010,
+    "title": "Top thương gia Việt Nam",
+    "old_file": "Chương 256 - Top thương gia Việt Nam.txt",
+    "new_file": "Chương 283 - Top thương gia Việt Nam.txt"
+  },
+  {
+    "new_num": 284,
+    "old_num": 257,
+    "year": 2010,
+    "title": "Lễ vinh danh toàn quốc",
+    "old_file": "Chương 257 - Lễ vinh danh toàn quốc.txt",
+    "new_file": "Chương 284 - Lễ vinh danh toàn quốc.txt"
+  },
+  {
+    "new_num": 285,
+    "old_num": 258,
+    "year": 2010,
+    "title": "Mở rộng châu Phi sâu",
+    "old_file": "Chương 258 - Mở rộng châu Phi sâu.txt",
+    "new_file": "Chương 285 - Mở rộng châu Phi sâu.txt"
+  },
+  {
+    "new_num": 286,
+    "old_num": 259,
+    "year": 2010,
+    "title": "Nam Mỹ – Brazil và Chile",
+    "old_file": "Chương 259 - Nam Mỹ – Brazil và Chile.txt",
+    "new_file": "Chương 286 - Nam Mỹ – Brazil và Chile.txt"
+  },
+  {
+    "new_num": 287,
+    "old_num": 260,
+    "year": 2010,
+    "title": "Chuỗi giá trị toàn cầu",
+    "old_file": "Chương 260 - Chuỗi giá trị toàn cầu.txt",
+    "new_file": "Chương 287 - Chuỗi giá trị toàn cầu.txt"
+  },
+  {
+    "new_num": 288,
+    "old_num": 261,
+    "year": 2010,
+    "title": "Kiểm toán ESG đầu tiên",
+    "old_file": "Chương 261 - Kiểm toán ESG đầu tiên.txt",
+    "new_file": "Chương 288 - Kiểm toán ESG đầu tiên.txt"
+  },
+  {
+    "new_num": 289,
+    "old_num": 262,
+    "year": 2010,
+    "title": "Bà Hà và sách hồi ký gia đình",
+    "old_file": "Chương 262 - Bà Hà và sách hồi ký gia đình.txt",
+    "new_file": "Chương 289 - Bà Hà và sách hồi ký gia đình.txt"
+  },
+  {
+    "new_num": 290,
+    "old_num": 263,
+    "year": 2010,
+    "title": "Flashback 25 năm",
+    "old_file": "Chương 263 - Flashback 25 năm.txt",
+    "new_file": "Chương 290 - Flashback 25 năm.txt"
+  },
+  {
+    "new_num": 291,
+    "old_num": 294,
+    "year": 2010,
+    "title": "Bảo tàng Thương Gia",
+    "old_file": "Chương 294 - Bảo tàng Thương Gia.txt",
+    "new_file": "Chương 291 - Bảo tàng Thương Gia.txt"
+  },
+  {
+    "new_num": 292,
+    "old_num": 297,
+    "year": 2010,
+    "title": "Công đoàn đối thoại",
+    "old_file": "Chương 297 - Công đoàn đối thoại.txt",
+    "new_file": "Chương 292 - Công đoàn đối thoại.txt"
+  },
+  {
+    "new_num": 293,
+    "old_num": 299,
+    "year": 2010,
+    "title": "Hùng 50 tuổi – nhìn lại",
+    "old_file": "Chương 299 - Hùng 50 tuổi – nhìn lại.txt",
+    "new_file": "Chương 293 - Hùng 50 tuổi – nhìn lại.txt"
+  },
+  {
+    "new_num": 294,
+    "old_num": 264,
+    "year": 2011,
+    "title": "Tái khẳng định sứ mệnh",
+    "old_file": "Chương 264 - Tái khẳng định sứ mệnh.txt",
+    "new_file": "Chương 294 - Tái khẳng định sứ mệnh.txt"
+  },
+  {
+    "new_num": 295,
+    "old_num": 265,
+    "year": 2011,
+    "title": "Đối thủ mới từ Hàn Quốc",
+    "old_file": "Chương 265 - Đối thủ mới từ Hàn Quốc.txt",
+    "new_file": "Chương 295 - Đối thủ mới từ Hàn Quốc.txt"
+  },
+  {
+    "new_num": 296,
+    "old_num": 267,
+    "year": 2011,
+    "title": "Liên minh chiến lược Đông Á",
+    "old_file": "Chương 267 - Liên minh chiến lược Đông Á.txt",
+    "new_file": "Chương 296 - Liên minh chiến lược Đông Á.txt"
+  },
+  {
+    "new_num": 297,
+    "old_num": 268,
+    "year": 2011,
+    "title": "Tổng kết toàn cầu hóa",
+    "old_file": "Chương 268 - Tổng kết toàn cầu hóa.txt",
+    "new_file": "Chương 297 - Tổng kết toàn cầu hóa.txt"
+  },
+  {
+    "new_num": 298,
+    "old_num": 269,
+    "year": 2011,
+    "title": "Phần thưởng Phần 4",
+    "old_file": "Chương 269 - Phần thưởng Phần 4.txt",
+    "new_file": "Chương 298 - Phần thưởng Phần 4.txt"
+  },
+  {
+    "new_num": 299,
+    "old_num": 270,
+    "year": 2011,
+    "title": "Hoàn thành Phần 4 – Siêu tập đoàn",
+    "old_file": "Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt",
+    "new_file": "Chương 299 - Hoàn thành Phần 4 – Siêu tập đoàn.txt"
+  },
+  {
+    "new_num": 300,
+    "old_num": 301,
+    "year": 2011,
+    "title": "Lan CEO tập đoàn",
+    "old_file": "Chương 301 - Lan CEO tập đoàn.txt",
+    "new_file": "Chương 300 - Lan CEO tập đoàn.txt"
+  },
+  {
+    "new_num": 301,
+    "old_num": 303,
+    "year": 2011,
+    "title": "Thế hệ ba bắt đầu",
+    "old_file": "Chương 303 - Thế hệ ba bắt đầu.txt",
+    "new_file": "Chương 301 - Thế hệ ba bắt đầu.txt"
+  },
+  {
+    "new_num": 302,
+    "old_num": 304,
+    "year": 2011,
+    "title": "Học bổng 10.000 SV",
+    "old_file": "Chương 304 - Học bổng 10.000 SV.txt",
+    "new_file": "Chương 302 - Học bổng 10.000 SV.txt"
+  },
+  {
+    "new_num": 303,
+    "old_num": 296,
+    "year": 2012,
+    "title": "Mở quỹ học bổng",
+    "old_file": "Chương 296 - Mở quỹ học bổng.txt",
+    "new_file": "Chương 303 - Mở quỹ học bổng.txt"
+  },
+  {
+    "new_num": 304,
+    "old_num": 308,
+    "year": 2012,
+    "title": "Gặp lại đối tác Mỹ",
+    "old_file": "Chương 308 - Gặp lại đối tác Mỹ.txt",
+    "new_file": "Chương 304 - Gặp lại đối tác Mỹ.txt"
+  },
+  {
+    "new_num": 305,
+    "old_num": 309,
+    "year": 2012,
+    "title": "Quỹ học bổng mang tên bà Hà",
+    "old_file": "Chương 309 - Quỹ học bổng mang tên bà Hà.txt",
+    "new_file": "Chương 305 - Quỹ học bổng mang tên bà Hà.txt"
+  },
+  {
+    "new_num": 306,
+    "old_num": 311,
+    "year": 2012,
+    "title": "Giải Thương gia huyền thoại",
+    "old_file": "Chương 311 - Giải Thương gia huyền thoại.txt",
+    "new_file": "Chương 306 - Giải Thương gia huyền thoại.txt"
+  },
+  {
+    "new_num": 307,
+    "old_num": 312,
+    "year": 2012,
+    "title": "Giao quyền cho Lan",
+    "old_file": "Chương 312 - Giao quyền cho Lan.txt",
+    "new_file": "Chương 307 - Giao quyền cho Lan.txt"
+  },
+  {
+    "new_num": 308,
+    "old_num": 302,
+    "year": 2013,
+    "title": "Hùng Chủ tịch Hội đồng",
+    "old_file": "Chương 302 - Hùng Chủ tịch Hội đồng.txt",
+    "new_file": "Chương 308 - Hùng Chủ tịch Hội đồng.txt"
+  },
+  {
+    "new_num": 309,
+    "old_num": 314,
+    "year": 2013,
+    "title": "Đối mặt tin đồn sức khỏe",
+    "old_file": "Chương 314 - Đối mặt tin đồn sức khỏe.txt",
+    "new_file": "Chương 309 - Đối mặt tin đồn sức khỏe.txt"
+  },
+  {
+    "new_num": 310,
+    "old_num": 316,
+    "year": 2013,
+    "title": "Gia đình ba thế hệ sum họp",
+    "old_file": "Chương 316 - Gia đình ba thế hệ sum họp.txt",
+    "new_file": "Chương 310 - Gia đình ba thế hệ sum họp.txt"
+  },
+  {
+    "new_num": 311,
+    "old_num": 317,
+    "year": 2013,
+    "title": "Kế hoạch di sản pháp lý",
+    "old_file": "Chương 317 - Kế hoạch di sản pháp lý.txt",
+    "new_file": "Chương 311 - Kế hoạch di sản pháp lý.txt"
+  },
+  {
+    "new_num": 312,
+    "old_num": 318,
+    "year": 2013,
+    "title": "Ủy thác tài sản minh bạch",
+    "old_file": "Chương 318 - Ủy thác tài sản minh bạch.txt",
+    "new_file": "Chương 312 - Ủy thác tài sản minh bạch.txt"
+  },
+  {
+    "new_num": 313,
+    "old_num": 300,
+    "year": 2014,
+    "title": "Mở rộng từ thiện châu Á",
+    "old_file": "Chương 300 - Mở rộng từ thiện châu Á.txt",
+    "new_file": "Chương 313 - Mở rộng từ thiện châu Á.txt"
+  },
+  {
+    "new_num": 314,
+    "old_num": 305,
+    "year": 2014,
+    "title": "Gặp lại ông Tanaka",
+    "old_file": "Chương 305 - Gặp lại ông Tanaka.txt",
+    "new_file": "Chương 314 - Gặp lại ông Tanaka.txt"
+  },
+  {
+    "new_num": 315,
+    "old_num": 307,
+    "year": 2014,
+    "title": "Gặp lại Klaus",
+    "old_file": "Chương 307 - Gặp lại Klaus.txt",
+    "new_file": "Chương 315 - Gặp lại Klaus.txt"
+  },
+  {
+    "new_num": 316,
+    "old_num": 310,
+    "year": 2014,
+    "title": "Thương gia huyền thoại",
+    "old_file": "Chương 310 - Thương gia huyền thoại.txt",
+    "new_file": "Chương 316 - Thương gia huyền thoại.txt"
+  },
+  {
+    "new_num": 317,
+    "old_num": 319,
+    "year": 2014,
+    "title": "Cam kết không chia cắt tập đoàn",
+    "old_file": "Chương 319 - Cam kết không chia cắt tập đoàn.txt",
+    "new_file": "Chương 317 - Cam kết không chia cắt tập đoàn.txt"
+  },
+  {
+    "new_num": 318,
+    "old_num": 321,
+    "year": 2014,
+    "title": "Khủng hoảng cạnh tranh giá",
+    "old_file": "Chương 321 - Khủng hoảng cạnh tranh giá.txt",
+    "new_file": "Chương 318 - Khủng hoảng cạnh tranh giá.txt"
+  },
+  {
+    "new_num": 319,
+    "old_num": 323,
+    "year": 2014,
+    "title": "Khách hàng trung thành",
+    "old_file": "Chương 323 - Khách hàng trung thành.txt",
+    "new_file": "Chương 319 - Khách hàng trung thành.txt"
+  },
+  {
+    "new_num": 320,
+    "old_num": 324,
+    "year": 2014,
+    "title": "Tái định vị thương hiệu",
+    "old_file": "Chương 324 - Tái định vị thương hiệu.txt",
+    "new_file": "Chương 320 - Tái định vị thương hiệu.txt"
+  },
+  {
+    "new_num": 321,
+    "old_num": 325,
+    "year": 2014,
+    "title": "Công nghệ xanh toàn hệ thống",
+    "old_file": "Chương 325 - Công nghệ xanh toàn hệ thống.txt",
+    "new_file": "Chương 321 - Công nghệ xanh toàn hệ thống.txt"
+  },
+  {
+    "new_num": 322,
+    "old_num": 313,
+    "year": 2015,
+    "title": "Sách trắng quản trị Thương Gia",
+    "old_file": "Chương 313 - Sách trắng quản trị Thương Gia.txt",
+    "new_file": "Chương 322 - Sách trắng quản trị Thương Gia.txt"
+  },
+  {
+    "new_num": 323,
+    "old_num": 320,
+    "year": 2015,
+    "title": "Truyền thông Thương Gia",
+    "old_file": "Chương 320 - Truyền thông Thương Gia.txt",
+    "new_file": "Chương 323 - Truyền thông Thương Gia.txt"
+  },
+  {
+    "new_num": 324,
+    "old_num": 322,
+    "year": 2015,
+    "title": "Chiến lược giá trị thay vì giá rẻ",
+    "old_file": "Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt",
+    "new_file": "Chương 324 - Chiến lược giá trị thay vì giá rẻ.txt"
+  },
+  {
+    "new_num": 325,
+    "old_num": 326,
+    "year": 2015,
+    "title": "Net zero cam kết",
+    "old_file": "Chương 326 - Net zero cam kết.txt",
+    "new_file": "Chương 325 - Net zero cam kết.txt"
+  },
+  {
+    "new_num": 326,
+    "old_num": 327,
+    "year": 2015,
+    "title": "Lễ 30 năm Thương Gia",
+    "old_file": "Chương 327 - Lễ 30 năm Thương Gia.txt",
+    "new_file": "Chương 326 - Lễ 30 năm Thương Gia.txt"
+  },
+  {
+    "new_num": 327,
+    "old_num": 329,
+    "year": 2015,
+    "title": "Tổng kết Phần 5",
+    "old_file": "Chương 329 - Tổng kết Phần 5.txt",
+    "new_file": "Chương 327 - Tổng kết Phần 5.txt"
+  },
+  {
+    "new_num": 328,
+    "old_num": 330,
+    "year": 2015,
+    "title": "Đội bóng Thương Gia FC",
+    "old_file": "Chương 330 - Đội bóng Thương Gia FC.txt",
+    "new_file": "Chương 328 - Đội bóng Thương Gia FC.txt"
+  },
+  {
+    "new_num": 329,
+    "old_num": 315,
+    "year": 2016,
+    "title": "Hùng chăm sóc sức khỏe",
+    "old_file": "Chương 315 - Hùng chăm sóc sức khỏe.txt",
+    "new_file": "Chương 329 - Hùng chăm sóc sức khỏe.txt"
+  },
+  {
+    "new_num": 330,
+    "old_num": 331,
+    "year": 2016,
+    "title": "Bắt đầu Phần 6 – Di sản",
+    "old_file": "Chương 331 - Bắt đầu Phần 6 – Di sản.txt",
+    "new_file": "Chương 330 - Bắt đầu Phần 6 – Di sản.txt"
+  },
+  {
+    "new_num": 331,
+    "old_num": 332,
+    "year": 2016,
+    "title": "Tập đoàn bóng tối trở lại",
+    "old_file": "Chương 332 - Tập đoàn bóng tối trở lại.txt",
+    "new_file": "Chương 331 - Tập đoàn bóng tối trở lại.txt"
+  },
+  {
+    "new_num": 332,
+    "old_num": 333,
+    "year": 2016,
+    "title": "Âm mưu thôn tính cổ phiếu",
+    "old_file": "Chương 333 - Âm mưu thôn tính cổ phiếu.txt",
+    "new_file": "Chương 332 - Âm mưu thôn tính cổ phiếu.txt"
+  },
+  {
+    "new_num": 333,
+    "old_num": 335,
+    "year": 2016,
+    "title": "Liên minh cổ đông nhỏ",
+    "old_file": "Chương 335 - Liên minh cổ đông nhỏ.txt",
+    "new_file": "Chương 333 - Liên minh cổ đông nhỏ.txt"
+  },
+  {
+    "new_num": 334,
+    "old_num": 334,
+    "year": 2017,
+    "title": "Phòng thủ cổ đông",
+    "old_file": "Chương 334 - Phòng thủ cổ đông.txt",
+    "new_file": "Chương 334 - Phòng thủ cổ đông.txt"
+  },
+  {
+    "new_num": 335,
+    "old_num": 336,
+    "year": 2017,
+    "title": "Âm mưu tập đoàn bóng tối",
+    "old_file": "Chương 336 - Âm mưu tập đoàn bóng tối.txt",
+    "new_file": "Chương 335 - Âm mưu tập đoàn bóng tối.txt"
+  },
+  {
+    "new_num": 336,
+    "old_num": 337,
+    "year": 2018,
+    "title": "Trí tuệ và hệ thống",
+    "old_file": "Chương 337 - Trí tuệ và hệ thống.txt",
+    "new_file": "Chương 336 - Trí tuệ và hệ thống.txt"
+  },
+  {
+    "new_num": 337,
+    "old_num": 338,
+    "year": 2018,
+    "title": "Chiến thắng đại hội cổ đông",
+    "old_file": "Chương 338 - Chiến thắng đại hội cổ đông.txt",
+    "new_file": "Chương 337 - Chiến thắng đại hội cổ đông.txt"
+  },
+  {
+    "new_num": 338,
+    "old_num": 339,
+    "year": 2018,
+    "title": "Thanh lọc nội bộ",
+    "old_file": "Chương 339 - Thanh lọc nội bộ.txt",
+    "new_file": "Chương 338 - Thanh lọc nội bộ.txt"
+  },
+  {
+    "new_num": 339,
+    "old_num": 343,
+    "year": 2018,
+    "title": "Bà Hà 90 tuổi kể chuyện xưa",
+    "old_file": "Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt",
+    "new_file": "Chương 339 - Bà Hà 90 tuổi kể chuyện xưa.txt"
+  },
+  {
+    "new_num": 340,
+    "old_num": 328,
+    "year": 2019,
+    "title": "Quỹ 10.000 tỷ",
+    "old_file": "Chương 328 - Quỹ 10.000 tỷ.txt",
+    "new_file": "Chương 340 - Quỹ 10.000 tỷ.txt"
+  },
+  {
+    "new_num": 341,
+    "old_num": 341,
+    "year": 2019,
+    "title": "Lễ bàn giao quyền lực chính thức",
+    "old_file": "Chương 341 - Lễ bàn giao quyền lực chính thức.txt",
+    "new_file": "Chương 341 - Lễ bàn giao quyền lực chính thức.txt"
+  },
+  {
+    "new_num": 342,
+    "old_num": 342,
+    "year": 2019,
+    "title": "Lan CEO – con trai Phó",
+    "old_file": "Chương 342 - Lan CEO – con trai Phó.txt",
+    "new_file": "Chương 342 - Lan CEO – con trai Phó.txt"
+  },
+  {
+    "new_num": 343,
+    "old_num": 347,
+    "year": 2019,
+    "title": "Từ thiện 100.000 tỷ lộ trình",
+    "old_file": "Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt",
+    "new_file": "Chương 343 - Từ thiện 100.000 tỷ lộ trình.txt"
+  },
+  {
+    "new_num": 344,
+    "old_num": 349,
+    "year": 2019,
+    "title": "Hợp tác với đối tác quốc tế",
+    "old_file": "Chương 349 - Hợp tác với đối tác quốc tế.txt",
+    "new_file": "Chương 344 - Hợp tác với đối tác quốc tế.txt"
+  },
+  {
+    "new_num": 345,
+    "old_num": 340,
+    "year": 2020,
+    "title": "Vượt qua âm mưu",
+    "old_file": "Chương 340 - Vượt qua âm mưu.txt",
+    "new_file": "Chương 345 - Vượt qua âm mưu.txt"
+  },
+  {
+    "new_num": 346,
+    "old_num": 344,
+    "year": 2020,
+    "title": "Lễ bàn giao quyền lực",
+    "old_file": "Chương 344 - Lễ bàn giao quyền lực.txt",
+    "new_file": "Chương 346 - Lễ bàn giao quyền lực.txt"
+  },
+  {
+    "new_num": 347,
+    "old_num": 345,
+    "year": 2020,
+    "title": "Quỹ Di sản Trần Văn Hùng",
+    "old_file": "Chương 345 - Quỹ Di sản Trần Văn Hùng.txt",
+    "new_file": "Chương 347 - Quỹ Di sản Trần Văn Hùng.txt"
+  },
+  {
+    "new_num": 348,
+    "old_num": 351,
+    "year": 2020,
+    "title": "Nhà đất cũ và ký ức",
+    "old_file": "Chương 351 - Nhà đất cũ và ký ức.txt",
+    "new_file": "Chương 348 - Nhà đất cũ và ký ức.txt"
+  },
+  {
+    "new_num": 349,
+    "old_num": 352,
+    "year": 2020,
+    "title": "Từ thiện 100.000 tỷ",
+    "old_file": "Chương 352 - Từ thiện 100.000 tỷ.txt",
+    "new_file": "Chương 349 - Từ thiện 100.000 tỷ.txt"
+  },
+  {
+    "new_num": 350,
+    "old_num": 346,
+    "year": 2021,
+    "title": "Người giàu có trách nhiệm",
+    "old_file": "Chương 346 - Người giàu có trách nhiệm.txt",
+    "new_file": "Chương 350 - Người giàu có trách nhiệm.txt"
+  },
+  {
+    "new_num": 351,
+    "old_num": 348,
+    "year": 2021,
+    "title": "Du hành tri ân thế giới",
+    "old_file": "Chương 348 - Du hành tri ân thế giới.txt",
+    "new_file": "Chương 351 - Du hành tri ân thế giới.txt"
+  },
+  {
+    "new_num": 352,
+    "old_num": 350,
+    "year": 2021,
+    "title": "Du hành thế giới",
+    "old_file": "Chương 350 - Du hành thế giới.txt",
+    "new_file": "Chương 352 - Du hành thế giới.txt"
+  },
+  {
+    "new_num": 353,
+    "old_num": 354,
+    "year": 2021,
+    "title": "Hệ thống nhiệm vụ cuối",
+    "old_file": "Chương 354 - Hệ thống nhiệm vụ cuối.txt",
+    "new_file": "Chương 353 - Hệ thống nhiệm vụ cuối.txt"
+  },
+  {
+    "new_num": 354,
+    "old_num": 355,
+    "year": 2021,
+    "title": "Hoàn thành nhiệm vụ tối thượng",
+    "old_file": "Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt",
+    "new_file": "Chương 354 - Hoàn thành nhiệm vụ tối thượng.txt"
+  },
+  {
+    "new_num": 355,
+    "old_num": 353,
+    "year": 2022,
+    "title": "Thư gửi thế hệ sau",
+    "old_file": "Chương 353 - Thư gửi thế hệ sau.txt",
+    "new_file": "Chương 355 - Thư gửi thế hệ sau.txt"
+  },
+  {
+    "new_num": 356,
+    "old_num": 358,
+    "year": 2022,
+    "title": "Bữa tối ba thế hệ",
+    "old_file": "Chương 358 - Bữa tối ba thế hệ.txt",
+    "new_file": "Chương 356 - Bữa tối ba thế hệ.txt"
+  },
+  {
+    "new_num": 357,
+    "old_num": 359,
+    "year": 2022,
+    "title": "Đêm trước ngày kỷ niệm 40 năm",
+    "old_file": "Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt",
+    "new_file": "Chương 357 - Đêm trước ngày kỷ niệm 40 năm.txt"
+  },
+  {
+    "new_num": 358,
+    "old_num": 356,
+    "year": 2023,
+    "title": "Bữa tối gia đình",
+    "old_file": "Chương 356 - Bữa tối gia đình.txt",
+    "new_file": "Chương 358 - Bữa tối gia đình.txt"
+  },
+  {
+    "new_num": 359,
+    "old_num": 357,
+    "year": 2023,
+    "title": "Flashback toàn hành trình",
+    "old_file": "Chương 357 - Flashback toàn hành trình.txt",
+    "new_file": "Chương 359 - Flashback toàn hành trình.txt"
+  },
+  {
+    "new_num": 360,
+    "old_num": 360,
+    "year": 2024,
+    "title": "Tinh thần Thương Gia mãi trường tồn",
+    "old_file": "Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt",
+    "new_file": "Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt"
+  }
+]

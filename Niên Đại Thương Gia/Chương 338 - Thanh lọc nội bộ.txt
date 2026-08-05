@@ -1,0 +1,246 @@
+============================================================
+Chương 338: Thanh lọc nội bộ
+============================================================
+
+TP.HCM, cuối tháng Chín năm 2018. Cơn mưa chiều bất chợt ập đến như trút nước, nước ngập nửa bánh xe trên đường Nguyễn Văn Linh, những tia chớp xé ngang bầu trời xám, gió cuốn lá cây bay mù mịt. Năm ấy, điện thoại bàn vẫn còn nằm trên nhiều quầy lễ tân, máy fax chưa bị đẩy hẳn vào kho, còn chiếc Nokia của Lan rung khô khốc bên cạnh chồng hồ sơ. Nhân viên bảo vệ phải dùng cây chổi gạt nước khỏi lối vào; mỗi lần cửa kính mở, hơi ẩm cùng mùi áo mưa nylon lại tràn vào sảnh. Từ cửa sổ phòng làm việc tầng năm tòa nhà Thương Gia quận 7, Lan nhìn ra ngoài — dòng người đội mưa chạy vội, những chiếc xe máy lách qua vũng nước tìm đường khô. Mùi đất ẩm bốc lên từ vỉa hè nóng, lẫn với mùi nước cống tràn lên mặt đường — một thứ mùi chua ngọt đặc trưng của Sài Gòn mùa mưa. Tiếng nước ràn rạt trên mái tôn tầng dưới vọng lên, hòa với tiếng còi xe dồn dập, từng hồi ngắn, như nhịp tim gấp gáp của một ngày sắp khép lại.
+
+Chị uống một ngụm cà phê đã nguội. Đồng hồ trên bàn chỉ 6 giờ 47 phút tối.
+
+Cánh cửa phòng làm việc mở ra — tiếng bản lề kêu kẽo kẹt — ông Tam bước vào. Quần áo ướt sũng dính vào người, tóc bạc dính vào trán, nước mưa nhỏ giọt xuống sàn gạch men, để lại những vệt oval sẫm màu lan rộng. Mùi mưa đường nhựa — thứ mùi hơi chua, lẫn mùi cao su non của ủng ướt — theo ông vào phòng. Ông vừa từ Vũng Tàu về, nơi đã dành ba ngày lần theo một đầu mối, túi hành lý nhỏ còn vướng bánh xe bùn ở góc. Trên tay ông là một túi tài liệu nilon màu vàng, bên trong là những bản in và một USB nhỏ.
+
+"Có rồi," ông Tam nói, thở hổn hển. Ông đặt túi tài liệu lên bàn, kéo khóa, lôi ra một xấp hồ sơ dày. "Ba mươi hai người. Cả một hệ thống gián điệp."
+
+Lan đón lấy xấp hồ sơ. Giấy in còn mới, bề mặt nhẵn mịn dưới ngón tay, góc trên chưa quăn. Trang đầu tiên là một danh sách đánh máy — ba mươi hai cái tên, tuổi, chức vụ, ngày vào làm, phòng ban. Nhân viên các phòng ban từ kế toán đến hành chính, từ IT đến pháp chế, từ kinh doanh đến nhân sự. Điểm chung: họ đều được tuyển trong vòng mười hai tháng qua. Hồ sơ sạch — bằng cấp từ các trường đại học có tên tuổi, kinh nghiệm làm việc từ ba đến năm năm, thư giới thiệu từ những công ty có vẻ danh tiếng. Mực in còn mới, mùi mực mỏng thoang thoảng bốc lên khi chị lật trang.
+
+Và tất cả đều được giới thiệu bởi cùng một công ty headhunter — HR Solutions, một công ty nhỏ có địa chỉ đăng ký tại một tòa nhà ảo ở Singapore.
+
+Lan lật từng trang. Mỗi hồ sơ đều có ảnh thẻ, quá trình tuyển dụng, bảng đánh giá thử việc, nhận xét của quản lý trực tiếp. Có người đã làm được sáu tháng, có người mới vào ba tuần. Có nhân viên kế toán công nợ, có trợ lý hành chính, có lập trình viên hệ thống, có chuyên viên pháp chế, có người phụ trách quan hệ đối tác.
+
+Họ không ở những vị trí cao nhất — nhưng họ ở những vị trí cửa. Nơi có thể tiếp cận hợp đồng, dữ liệu tài chính, danh sách khách hàng, mật khẩu hệ thống, thông tin nhà cung cấp. Lan lần ngón tay trên cạnh giấy — một thói quen chị có từ hồi còn ngồi sổ kế toán cho Hùng ở xưởng nhỏ trên Phan Đình Phùng, hồi năm một ngàn chín trăm chín mươi, khi chị mới mười tám, khi ba mươi hai chữ số chưa bao giờ là một con số đáng sợ. Giờ đây, ngồi giữa tòa nhà bảy tầng, quanh chị là sáu trăm nhân viên, hàng ngàn đối tác, hàng chục ngàn đơn hàng mỗi tháng — ba mươi hai người ngủ ngay trong thành trì, mỗi đêm len lỏi vào từng ngóc ngách dữ liệu như nước thấm qua đáy đê. Mồ hôi lạnh chảy dọc sống lưng chị — cảm giác y hệt lần đầu tiên phát hiện sổ sách bị sai ba triệu đồng khi mới mười tám tuổi, nhưng lần này con số không phải tiền bạc, mà là lòng tin của cả một tập thể.
+
+"Họ đã lấy được gì chưa?" Lan hỏi, giọng vẫn đều.
+
+"Chưa rõ quy mô thực sự," ông Tam đáp, ngồi xuống ghế đối diện. Ông lấy khăn tay lau mặt, nước mưa vẫn còn nhỏ giọt từ tóc bạc. "Nhưng tuần trước, phòng IT báo cáo có một truy cập lạ vào hệ thống dữ liệu nhà cung cấp — từ tài khoản của một nhân viên mới tên Lâm, người đang nghỉ ốm. Điều đó nghĩa là hoặc Lâm giả ốm để truy cập từ xa, hoặc ai đó đã dùng tài khoản của Lâm."
+
+"Có camera không?"
+
+"Camera tầng IT — nhưng bị hỏng ba ngày trong tuần đó. Sửa xong thì đã muộn."
+
+"Hỏng hay bị làm hỏng?"
+
+"Chưa biết. Đang cho kiểm tra."
+
+Lan đặt xấp hồ sơ xuống, nhìn thẳng vào mắt ông Tam. "Bao nhiêu người trong số ba mươi hai người đó là do HR Solutions giới thiệu?"
+
+"Tất cả. Ba mươi hai người. Từng người một." Ông Tam mở trang thứ hai, nơi ông đã ghi chép tay bằng bút đỏ. "Tôi gọi điện kiểm tra ba công ty trong hồ sơ của họ — số điện thoại không tồn tại hoặc là số di động trả trước đã khóa. Địa chỉ email của các công ty đó — tôi gửi thử, trả lời tự động, nội dung chung chung. Một cái bẫy hoàn hảo, được dàn dựng rất kỹ. Tiền bạc, thời gian, công sức — tất cả đều được đầu tư."
+
+Lan không nói gì trong một lúc. Chị nhìn ra ngoài cửa sổ, nơi mưa đã bắt đầu ngớt, mặt đường loang loáng nước và ánh đèn neon. Tiếng mưa rơi dần thành tiếng nhỏ giọt đều đặt trên mái hiên — những giọt cuối cùng, lơi lỏng, như hơi thở cuối của một cơn mơ. Trong đầu chị, những mảnh ghép đang xoay chuyển: ai đứng sau, mục đích gì, làm thế nào để xử lý mà không gây chấn động quá lớn cho toàn bộ hệ thống.
+
+"Ba mươi hai người," chị lặp lại, như đang cân nhắc từng con số. "Nếu sa thải tất cả, Thương Gia sẽ bị xáo trộn dây chuyền vận hành trong ít nhất ba tháng. Tuyển người mới mất thêm ba tháng. Trong sáu tháng đó, đối thủ có thể lợi dụng sự hỗn loạn."
+
+"Vậy giữ lại?" ông Tam hỏi.
+
+"Giữ lại thì rủi ro an ninh thông tin. Họ đã ở trong hệ thống, đã có quyền truy cập. Nếu vẫn còn gián điệp trong số họ, thiệt hại có thể lớn hơn."
+
+"Ý chị là?"
+
+"Phân loại. Không thể đánh đồng tất cả. Phải biết ai là gián điệp thực sự — người có chủ đích, đang lấy dữ liệu. Ai là người vô tình bị lợi dụng — chỉ cần việc làm, không biết gì. Ai là công cụ đánh lạc hướng — được cài vào để nếu lộ, chúng ta tưởng đó là toàn bộ."
+
+***
+Sáng hôm sau, tám giờ đúng. Lan ngồi trong phòng họp kính ở tầng ba — một căn phòng nhỏ, bàn dài, hai ghế, một máy ghi âm đặt trên bàn, một camera giám sát gắn trần. Không khí trong phòng mát lạnh, điều hòa thổi rì rì, mùi gỗ mới từ bàn họp vẫn còn ngọt ngọt. Luật sư Hưng ngồi ở góc phòng, tay cầm bút, trước mặt là một tập giấy trắng.
+
+Người đầu tiên được mời vào là Trúc — nữ, hai mươi lăm tuổi, nhân viên kế toán công nợ. Cô vào Thương Gia được bốn tháng. Hồ sơ làm việc sạch — đến đúng giờ, về đúng giờ, không sai sót trong công việc hàng ngày. Điều duy nhất bất thường trong báo cáo: cô hay ở lại muộn sau giờ làm — một mình trong phòng kế toán, khi tất cả đã về hết.
+
+"Cô Trúc, mời cô ngồi."
+
+"Dạ, chị Lan." Trúc ngồi xuống, hai tay đặt lên đầu gối, lưng thẳng, mặt tái nhợt. Cô cắn môi — một thói quen khi căng thẳng.
+
+"Tôi có vài câu hỏi. Cô trả lời thật nhé."
+
+"Dạ."
+
+"Ai giới thiệu cô vào Thương Gia?"
+
+"Công ty headhunter — HR Solutions. Họ gọi em phỏng vấn qua Skype, rồi bảo em nộp hồ sơ. Phỏng vấn với chị Hương — trưởng phòng kế toán — một lần là được nhận luôn."
+
+"Trước khi vào Thương Gia, cô làm ở đâu?"
+
+"Em làm kế toán tổng hợp tại Công ty TNHH Thương Mại Á Châu, quận 1 — gần chợ Bến Thành — được hai năm."
+
+"Cô có thể cho tôi biết tên giám đốc công ty đó?"
+
+Trúc im lặng. Hai tay cô nắm chặt vào nhau trên đầu gối, móng tay bấu vào mu bàn tay, để lại những vết đỏ lún sâu trên da. Một giây. Hai giây. Ba giây. Bốn giây. Mồ hôi ướt đẫm cổ áo sơ mi — thứ mồ hôi lạnh, mùi sắt xộc lên khi gió điều hòa thổi ngang. Cô nuốt khan — tiếng ướt nhẹp trong cuống họng nghe rõ mồn một trong căn phòng nhỏ.
+
+"Chị Lan, em..." Giọng cô run run.
+
+"Trước khi cô trả lời, tôi muốn cô biết một điều." Lan nói, giọng vẫn đều, không cảm xúc. "Tôi đã kiểm tra. Công ty Á Châu không tồn tại trong hệ thống đăng ký doanh nghiệp. Số điện thoại trong hồ sơ của cô là số di động trả trước — đã khóa từ tháng Sáu. Địa chỉ email của công ty đó được tạo hai ngày trước khi cô gửi hồ sơ, và bị xóa một tuần sau khi cô trúng tuyển."
+
+Trúc bật khóc. Nước mắt lăn dài trên má, chảy xuống cổ áo sơ mi trắng, thấm vào cổ áo. Tiếng nấc nghẹn lại trong cổ họng, như ai đang vặn xoắn thứ gì đó ướt nhẹp trong lồng ngực.
+
+"Em xin lỗi, em xin lỗi, em không biết gì hết." Giọng cô nghẹn lại, khó thở. "Có một người gọi em — giọng nam Bắc, khoảng bốn lăm, năm mươi — bảo nộp hồ sơ vào Thương Gia, em sẽ được nhận. Họ trả em mười triệu mỗi tháng ngoài lương. Chỉ cần em làm việc bình thường — và mỗi tuần gửi một email."
+
+"Gửi cho ai?"
+
+"Em không biết. Địa chỉ email dùng một lần — sau khi gửi, tài khoản đó biến mất. Em chỉ gửi được bốn lần — báo cáo công nợ cuối tháng, danh sách nhà cung cấp mới, hợp đồng đã ký trong tháng. Em không biết đó là sai. Họ nói đó là thông tin thị trường — công ty headhunter cần để đánh giá năng lực."
+
+Lan gật đầu. Chị mở ngăn bàn, lấy một tờ giấy A4 đã in sẵn — bản thỏa thuận bảo mật và cam kết hợp tác điều tra.
+
+"Tôi không đuổi việc cô. Cô ký cái này — cam kết không tiết lộ thông tin nội bộ và hợp tác điều tra. Cô sẽ tiếp tục làm việc bình thường. Nếu họ liên lạc lại — cô báo cho tôi ngay."
+
+Trúc nhìn tờ giấy, nước mắt vẫn rơi, nhưng tay đã bớt run. "Chị Lan... em có bị đi tù không?"
+
+"Không. Nếu cô hợp tác. Cô là nạn nhân, không phải thủ phạm."
+
+Người thứ hai: Lâm, hai mươi bảy tuổi, lập trình viên hệ thống. Vào Thương Gia sáu tháng. Làm việc tốt, ít nói, không gây chú ý, đồng nghiệp nhận xét "hiền lành, chăm chỉ". Nhưng hồ sơ IT cho thấy: tuần trước, một truy cập trái phép vào server HR — nơi lưu trữ toàn bộ dữ liệu nhân sự, hợp đồng lao động, lương thưởng — đến từ đúng máy tính của Lâm, lúc 2 giờ 47 phút sáng, khi tòa nhà đã khóa cửa.
+
+Lan không cần hỏi nhiều. Chị đặt lên bàn bản in log server — mười lăm trang, những dòng lệnh, địa chỉ IP, dấu đỏ đánh dấu các truy cập bất thường. Lâm nhìn tờ giấy, mặt trắng bệch như tờ giấy in.
+
+"Anh Lâm, tôi không muốn làm to chuyện. Nhưng luật sư của tôi đã có bằng chứng — thời gian, địa chỉ IP, dữ liệu bị truy cập. Đây là tội hình sự theo Điều 289 Bộ luật Hình sự: truy cập trái phép hệ thống thông tin, đánh cắp dữ liệu doanh nghiệp. Nếu tôi giao cho công an, anh sẽ đi tù ít nhất ba năm."
+
+Lâm nhìn xuống bàn. Tay anh đặt lên mặt bàn gỗ, móng tay bấu vào mép bàn, trắng bệch. Giữ im lặng — không phải vì kiêu ngạo, mà vì cái cổ anh đang siết lại, như có bàn tay vô hình bóp nghẹt từng lời chưa kịp thốt. Lan nhận ra điều đó — chị từng thấy ở Hùng, khi ông phải chọn giữa giữ nhân viên và bảo vệ công ty. Cái nhìn của Lâm bây giờ giống hệt: tuyệt vọng nhưng chưa bỏ cuộc.
+
+"Nhưng tôi không muốn làm thế," Lan nói, giọng giảm xuống, gần gũi hơn. "Tôi muốn anh chọn."
+
+Lâm ngước lên. Mắt anh đỏ hoe, nhưng không khóc. "Chọn gì?"
+
+"Tiếp tục làm việc cho họ — nhưng báo cáo lại cho tôi. Làm gián điệp hai mang. Họ trả anh bao nhiêu?"
+
+Lâm im lặng. Mồ hôi lấm tấm trên trán dù phòng đang mát lạnh điều hòa.
+
+"Hai mươi triệu một tháng."
+
+"Tôi trả ba mươi. Cộng với bảo lãnh nếu chuyện vỡ lở, luật sư bào chữa miễn phí nếu bị kiện."
+
+"Tại sao chị lại muốn em làm việc cho chị? Em đã phản bội Thương Gia." Giọng Lâm khàn đặc.
+
+"Vì chính anh nói câu đó — đã phản bội. Người biết mình phản bội còn có thể quay lại. Kẻ không biết mình phản bội — nghĩ mình đang làm đúng — mới nguy hiểm."
+
+Lâm nhìn Lan một lúc lâu, mắt đỏ hoe, rồi gật đầu.
+
+"Em sẽ làm."
+
+**
+Buổi chiều, Lan ngồi với Hùng trong phòng riêng ở tầng năm. Chị kể lại toàn bộ sự việc — ba mươi hai người, mười hai người có liên quan trực tiếp đến mạng lưới gián điệp, bốn người không biết gì chỉ bị lợi dụng làm bình phong, mười sáu người biết nhưng chưa kịp làm gì nguy hiểm.
+
+Trong số mười hai người có liên quan, hai người đã bắt đầu lấy dữ liệu: Trúc gửi báo cáo công nợ ra ngoài, Lâm truy cập server HR. Còn ba người nữa — Lan đang xác minh.
+
+Hùng ngồi trên ghế bành, hai tay đan vào nhau, mắt nhìn em gái. Ông không ngắt lời, không hỏi lại, không tỏ vẻ lo lắng. Ông chỉ lắng nghe — một kỹ năng ông đã rèn luyện ba mươi lăm năm, từ những ngày còn nghe MẾ kể chuyện làng trên Phố Cổ, hồi bà còn khỏe, còn ngồi đan áo cho hai đứa, tay thoăn thoắt trên kim sắt, giọng đều đều như ru. "Con không được sợ người xấu," MẾ từng nói, giọng khàn khàn của người hút thuốc lâu năm. "Con chỉ cần sợ mình yếu đi. Người yếu thì bị nuốt — người mạnh thì bị cắn." Hùng nhớ rõ từng chữ, và bây giờ ông thấy Lan đang sống đúng lời đó — không sợ ba mươi hai kẻ thù, chỉ sợ mình xử lý sai.
+
+"Em xử lý thế nào?" Ông hỏi khi Lan dừng lại.
+
+"Chia làm ba nhóm. Nhóm một: giữ lại, tiếp tục làm việc — những người vô tội bị lợi dụng. Nhóm hai: cho nghỉ với trợ cấp — những người yếu, biết nhưng chưa gây hại, không thể tin tưởng lại được. Nhóm ba: dùng họ — biến gián điệp của chúng thành gián điệp của mình."
+
+Hùng cười — nụ cười hiếm hoi của một người từng làm điều tương tự hơn chục năm trước.
+
+"Giống anh ngày xưa."
+
+"Em học từ anh."
+
+"Không," Hùng nói, lắc đầu. "Em tự nghĩ ra. Anh chỉ làm gương. Còn cách sử dụng người — của em. Anh ngày xưa chỉ biết đuổi. Em biết giữ."
+
+Căn phòng chìm trong im lặng dễ chịu. Mưa đã tạnh, ánh nắng cuối chiều le lói qua cửa kính.
+
+"Ba mươi hai người — em giữ hai mươi, cho nghỉ mười hai."
+
+"Cơ sở nào?"
+
+"Nhóm nghỉ việc — sáu người có quan hệ rõ ràng với mạng lưới, ba người yếu không chịu được áp lực, ba người có vấn đề về thái độ trước đó. Nhóm giữ lại — những người còn lại, trong đó có hai gián điệp hai mang."
+
+"Cho nghỉ không phải vì họ xấu," Hùng nói, giọng trầm. "Mà vì không thể tin lại được. Khi đã nghi ngờ một người, mọi hành động của họ đều bị soi. Họ không sống nổi trong môi trường ấy. Và Thương Gia cũng không thể vận hành trên sự nghi ngờ."
+
+"Đúng. Những người bị cho nghỉ — em sẽ trợ cấp ba tháng lương, cam kết không tiết lộ lý do ra ngoài."
+
+"Em có nghĩ họ sẽ im lặng?"
+
+"Em nghĩ họ sẽ sợ. Nếu họ nói ra, họ tự thừa nhận mình từng làm gián điệp cho đối thủ. Cái giá đó quá lớn với họ — mất uy tín, mất cơ hội việc làm trong ngành."
+
+Hùng gật đầu. "Đúng. Càng ồn ào càng cho người ta biết mình từng suýt sập."
+
+**
+Mười giờ đêm. Lan một mình trong phòng làm việc. Chị đã uống ba tách cà phê từ sáng đến giờ — dạ dày cồn cào, vị đắng còn bám cuống họng, nhưng không thể dừng. Những cuộc gọi trong đêm — với người sắp mất việc, với người vừa phát hiện ra mình là gián điệp, với luật sư — đã làm giọng chị khàn đặc. Ngoài cửa sổ, thành phố đã chìm vào im lặng — chỉ còn ánh đèn đường vàng vọt hắt vào qua tấm kính mờ sương, và tiếng quạt thông gió xoay ù ù trên tầng thượng.
+
+Trên bàn là danh sách ba mươi hai cái tên, đã được gạch xóa bằng hai màu: mười hai gạch đỏ — sa thải, hai mươi gạch xanh — giữ lại. Chị cầm điện thoại, bắt đầu những cuộc gọi cuối cùng trong ngày.
+
+"Cô Hoa, em xin lỗi gọi muộn. Mai cô qua phòng em một chút, có việc liên quan đến nhân sự ạ."
+
+"Anh Tuấn ở phòng kế hoạch — em gọi để báo tin không vui. Anh qua phòng em sáng mai được không? Khoảng chín giờ."
+
+Cuộc gọi cuối cùng — Lâm, chàng IT.
+
+"Anh Lâm, họ có liên lạc lại không?"
+
+"Chưa. Em đoán sẽ gọi trong tuần này — thường họ gọi vào tối thứ Năm."
+
+"Nếu họ gọi — anh nói gì?"
+
+"Em theo kịch bản đã bàn: dữ liệu nhà cung cấp đang được cập nhật, cuối tháng mới có bản hoàn chỉnh. Câu đó kéo dài được ít nhất hai tuần."
+
+"Được. Kéo dài càng lâu càng tốt. Trong lúc đó, tôi sẽ hoàn thiện hệ thống bảo mật mới."
+
+"Chị Lan — em làm vậy có nguy hiểm không?"
+
+"Có. Nếu họ phát hiện ra, anh gặp nguy hiểm thật sự." Lan nói thẳng. "Nhưng anh đã chọn ở lại. Ở lại thì phải liều."
+
+Lâm im lặng một lúc. "Chị Lan — em xin lỗi."
+
+"Anh không phải xin lỗi. Anh phải chứng minh — không chỉ với tôi, mà với chính anh — rằng quyết định ở lại của anh là đúng."
+
+**
+Sáng hôm sau, tám giờ. Mười hai người lần lượt vào phòng Lan. Từng người nhận một phong bì — ba tháng lương, giấy thỏa thuận chấm dứt hợp đồng, và một lời nhắn: "Cảm ơn anh/chị đã làm việc tại Thương Gia. Chúc may mắn."
+
+Không ồn ào. Không khóc lóc. Không giải thích. Họ ký, đứng dậy, bắt tay Lan, và rời đi. Có người lưỡng lự một giây trước khi đặt bút ký — ngón tay run, mồ hôi tay in vết ướt trên giấy — rồi gật đầu, viết tên mình, và bước ra. Tiếng ghế kéo trên sàn đá granite vang lên từng tiếng ngắn — cạch, cạch, cạch — như nhịp trống tang. Lan không nhìn theo từng người, nhưng đôi tai chị ghi nhận tất cả.
+
+Lan đứng ở cửa sổ phòng họp tầng năm, nhìn xuống sảnh. Từng người bước ra khỏi tòa nhà, tay cầm phong bì. Có người cúi mặt lau nước mắt, có người nhìn lại một lần cuối, có người đội mưa đi thẳng, không ngoảnh đầu.
+
+Lan biết — một số người trong số họ sẽ đi làm cho đối thủ. Nhưng chị đã tính trước nước đó: nếu họ làm cho đối thủ, chị sẽ biết qua mạng lưới của chị — Lâm, Trúc, và những người còn lại.
+
+"Mình làm đúng," chị tự nhủ, khi đứng một mình bên cửa kính. "Có đau — nhưng đúng."
+
+**
+Tối hôm đó, Lan về nhà lúc mười giờ. Căn nhà ở Mai Điền vắng lặng — Hùng đã về Hà Nội từ sáng, con trai Minh còn ở Campuchia, tuần trước gọi điện về khoe đã ký được hợp đồng phân bón mới cho vùng Đồng bằng sông Cửu Long. Chị mở tủ lạnh, thấy bữa tối Hùng nấu sẵn để lại: canh rau, cá kho tộ, cơm trắng. Bên cạnh là mẩu giấy nhỏ: "Em ăn đi. Mệt thì ngủ sớm." Chữ Hùng vẫn ngắn gọn, không thừa một nét, như người đàn ông cả đời chỉ viết những gì cần viết.
+
+Lan ngồi ăn một mình, bên cửa sổ nhìn ra khu vườn nhỏ. Căn bếp rộng, im ắng, chỉ có tiếng thìa chạm bát. Mùi cá kho tộ — nước mắm caramelized ngọt ngào, sả ớt còn thoang thoảng — làm chị nhớ đến bữa cơm MẾ nấu hồi còn nhỏ, khi gia đình còn ở Phố Cổ, khi chị mới mười tuổi, lần đầu được nếm vị mắm kho đúng điệu Quảng Ngãi. Bóng chị phản chiếu trên kính — một người phụ nữ tuổi năm mươi, mái tóc đã điểm bạc ở hai bên thái dương.
+
+Điện thoại reo — số lạ, đầu số Quảng Ngãi.
+
+"Chị Lan phải không? Tôi là anh trai của thằng Thành — trưởng phòng tài chính Thương Gia."
+
+"Dạ, tôi đây ạ."
+
+"Tôi gọi để cảm ơn chị. Thằng Thành nó ngu, bị người ta dụ, bị lợi dụng. Nhưng chị không cho nó đi tù. Nghe nói chị cho nó nghỉ việc với ba tháng lương, không báo công an. Nó về quê hôm qua, khóc suốt từ chiều đến tối. Nó bảo: chị Lan cho nó một cơ hội để làm lại cuộc đời. Tôi già rồi, không có gì làm quà — chỉ gọi nói cảm ơn." Giọng người đàn ông ở đầu dây khàn đặc — giọng Quảng Ngãi chân chất, ngắt quãng, như người quen nói bằng tay hơn bằng miệng. Dùngăn cách điện thoại, Lan vẫn nghe rõ tiếng gió thổi mạnh trên đầu dây — gió quê, gió sông Vệ, gió ngoài đê — thứ gió không bao giờ ngừng ở cái vùng đất nghèo này.
+
+Lan im lặng một lúc. Trong bóng tối của căn bếp, chị nhìn thấy mình trong tấm kính cửa sổ.
+
+"Bác giữ sức khỏe ạ. Thành còn trẻ, sẽ làm lại được."
+
+Tắt máy, Lan nhìn vào bát cơm trắng. Chị gắp một miếng cá kho, bỏ vào miệng, nhai chậm. Nước mắt chảy xuống má — lần đầu tiên trong ngày.
+
+Chị ăn hết bát cơm, rửa bát, cất đồ vào tủ lạnh, dọn dẹp bếp. Những hành động cơ học — nhưng mỗi hành động đều là một sự khẳng định: cuộc sống vẫn tiếp diễn. Ngày mai chị vẫn phải dậy sớm, vẫn phải ký quyết định, vẫn phải gặp đối tác.
+
+Trước khi đi ngủ, Lan mở cuốn sổ tay cá nhân, viết một dòng:
+
+*"Ngày 28 tháng 9 năm 2018. Hôm nay em sa thải mười hai người. Trong số họ có những người em đã từng uống cà phê cùng, từng hỏi thăm gia đình, từng tin tưởng giao việc. Nhưng em đã làm. Em không khóc khi họ ra về — em đợi đến tối nay, một mình, để khóc."*
+
+Chị gấp sổ, tắt đèn, nằm xuống. Trong bóng tối, chị thấy lại gương mặt của từng người đã ra đi sáng nay. Một người phụ nữ trẻ khóc nức nở khi ký giấy nghỉ việc. Một người đàn ông đứng tuổi không nói gì, chỉ cúi đầu bắt tay chị, rồi quay lưng bước ra cửa. Chạm tay vào nhau — lần cuối — bàn tay ấm nóng, thô ráp, móng tay cắt ngắn gọn gàng — rồi rời ra. Lan nằm ngửa, nhìn lên trần nhà tối đen. Móng tay chị cào nhẹ vào drap — thói quen từ nhỏ, khi còn nằm cạnh MẾ trên chiếc phản gỗ ở Phố Cổ, nghe tiếng ếch nhái đồng ruộng vọng vào qua cửa sổ gỗ chưa đóng.
+
+Điện thoại rung trên đầu giường — tin nhắn từ Lâm.
+
+"Họ đang hỏi. Thứ Năm. Muốn data mới. Nếu không có — sẽ cử người đến trực tiếp."
+
+Lan nhìn màn hình sáng trong bóng tối. Dòng tin ngắn gọn, không dấu câu — dấu hiệu cho thấy Lâm đang bị áp lực lớn, gõ vội giữa đêm. Mười giờ đêm, thứ Hai. Còn đúng ba ngày.
+
+Chị không nhắn lại. Chị đặt điện thoại xuống, nhìn lên trần nhà trong bóng tối. Ba ngày. Ba ngày để dựng một cái bẫy — không phải cho ba mươi hai người, mà cho chính người đã cài ba mươi hai người đó vào. Nhưng cài bẫy ai? Câu hỏi lớn nhất chưa có đáp án — ai đứng sau HR Solutions? Một công ty nhỏ ở Singapore, nhưng nguồn tiền, nguồn lực, nguồn thông tin — tất cả chỉ ra một đối thủ lớn hơn rất nhiều. Có thể là một trong ba tập đoàn lớn nhất ngành phân bón — hoặc thậm chí là chính những người từng ngồi trong hội đồng quản trị Thương Gia.
+
+"Mế Hà ơi," chị thì thầm trong bóng tối, giọng chỉ đủ cho mình nghe. "Con đang làm những gì Mế từng nói — giữ vững cái nền, để không ai lay được gốc."
+
+Im lặng. Chỉ có tiếng quạt nhỏ xoay trên trần, và ở đâu đó ngoài vườn, tiếng dế kêu rả rích — những tiếng nhỏ, đều, dai dẳng, như mạch đập của đêm Sài Gòn. Mưa lại bắt đầu rơi — rả rích trên mái nhà tôn, rồi nặng dần, nặng dần, tiếng nước chảy trên ống phôi phai nhỏ xuống máng xối, giọt lớn giọt nhỏ, nhịp nhàng. Lan nhắm mắt — nhưng không ngủ được. Trong đầu chị, từng con số, từng tên, từng bằng chứng đang xoay chuyển như những bánh xe răng cưa khổng lồ, và ở trung tâm — một cái bóng chưa rõ mặt, đang giật dây ba mươi hai con rối. Thứ Năm — còn đúng ba ngày.
+
+============================================================
+「Hệ thống — GHI NHẬN ch.339」
+Năm: 2018
+Tổng EXP: 86,400 (+600)
+Không gian kho: 49,680m² (+520m²)
+Kỹ năng trọng yếu: Công nghệ cao lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2, Di sản lv1, Ảnh hưởng xã hội lv3
+Ghi chú: thanh lọc 32 spy HR Solutions — sa thải/giữ/double-agent
+
+============================================================
