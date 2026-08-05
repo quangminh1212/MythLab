@@ -1,0 +1,165 @@
+============================================================
+Chương 255: Cam kết phát triển bền vững
+============================================================
+
+Tháng Chín năm 2010, Hải Phòng.
+
+Đoàn kiểm tra của Sở Tài nguyên và Môi trường đến trung tâm dữ liệu Thương Gia không báo trước. Không hẹn, không điện thoại trước. Ba người mặc áo khoác xanh, máy đo điện trong cặp, thiết bị lấy mẫu nước trên tay. Họ đưa cho Dũng một thông báo chính thức: chỉ số điện năng tiêu thụ của trung tâm trong quý II cao hơn bốn mươi phần trăm so với mức cho phép.
+
+Hình phạt: 120 triệu đồng. Yêu cầu giảm tải trong ba tháng.
+
+Dũng nhìn tờ quyết định, bất lực. Anh hiểu ngay: trung tâm dữ liệu là nơi ngốn điện nhất của Thương Gia. Hệ thống làm mát chạy hai mươi bốn giờ, bảy ngày một tuần, không ngừng nghỉ. Máy chủ không bao giờ tắt. Càng mở rộng, càng tốn. Tiếng quạt công nghiệp rền lên chụt chụt như nhịp thở đều đặn của cả tòa nhà. Mùi kim loại nóng tỏa từ dãy tủ server, lẫn mùi bụi khô bị hút qua khe lọc, nóng bức đến mức cổ áo sơ_mi cọ rát gáy Dũng sau vài phút. Anh bước ra, lưng áo ướt đẫm, tay lăm le tờ biên bản; mép giấy mềm đi vì mồ hôi, nhưng con số 120 triệu vẫn sắc như cạnh dao.
+
+Anh gọi Hùng ngay lập tức: "Trung tâm dữ liệu vừa bị phạt 120 triệu vì tiêu thụ điện quá mức."
+
+Đầu dây bên kia, Hùng đang ở nhà kho. Nghe xong, anh dừng tay, buông sợi dây đai. Lông mày cau lại. Tiếng xe tải ngoài cổng rền lên rồi tắt. Anh ngồi xuống thùng gỗ, một tay giữ ống nghe, tay kia day day thái dương.
+
+"Giải pháp?"
+
+Giọng Hùng ngắn gọn, không thừa một chữ. Anh vẫn ngồi yên, vai hơi đổ về phía trước.
+
+"Ngắn hạn — chuyển một phần dữ liệu lên đám mây, giảm tải hệ thống làm mát, kéo giảm điện năng. Dài hạn — năng lượng mặt trời áp mái."
+
+Dũng nói một mạch, như đã chuẩn bị từ trước. Mắt sáng lên — thứ mà anh đã tính toán suốt mấy đêm liền, giấy nháp chất thành đống trên bàn.
+
+"Đám mây là gì?"
+
+Hùng nhíu mày, hơi nghiêng đầu. Trong giọng anh không có sự chế giễu, chỉ có sự thận trọng của người nghe từ mới mà chưa hiểu nghĩa. Anh day day trán — vết nhăn giữa hai lông mày đã sâu hơn cả năm ngoái, chỗ mà Lan vẫn thường bảo là "dấu hỏi" mà anh không bao giờ trả lời được.
+
+"Dịch vụ thuê máy chủ từ nước ngoài. Họ lo điện, lo làm mát, lo bảo trì. Mình trả tiền theo dung lượng hàng tháng. Nhưng dữ liệu sẽ ở nước ngoài."
+
+Dũng giải thích chậm lại, rõ ràng hơn. Anh cầm bút, vẽ nhanh lên giấy — hình khối đơn giản, mũi tên chỉ qua lại. Đường vẽ nguệch ngoạc nhưng logic.
+
+"Rủi ro?"
+
+Hùng hỏi vỏn vẹn hai chữ. Anh chống tay lên đầu gối, thân người đổ về phía trước, mắt nhìn xuống đất.
+
+"Nếu nhà cung cấp bị tấn công hoặc phá sản — dữ liệu mất. Xác suất thấp. Mình giữ bản sao lưu nội bộ cho dữ liệu quan trọng."
+
+Dũng nói thẳng. Im lặng kéo dài ba giây ở đầu dây bên kia. Dũng nghe tiếng gió lùa qua cửa sổ nhà kho, lẫn tiếng quạt server rì rầm.
+
+"Làm. Nhưng giữ dữ liệu tài chính và khách hàng trong nước."
+
+Hùng cúp máy, đứng giữa nhà kho, mùi vải mới thoang thoảng. Tay sờ lên trán, xoa mạnh. Trăm triệu — không nhỏ. Nhưng chậm một bước còn tốn hơn. Anh hít một hơi sâu, lắc đầu, rồi quay lại đống vải dang dở.
+
+Sáu tuần sau, bốn mươi phần trăm dữ liệu chuyển lên Singapore. Quá trình suôn sẻ — không mất một byte. Kết quả: điện năng tiêu thụ giảm hai mươi lăm phần trăm ngay tháng đầu. Mức phạt được dỡ bỏ.
+
+Nhưng câu chuyện bền vững không dừng lại ở đó.
+
+Tháng Mười, một nhóm từ Tổ chức Lao động Quốc tế đến nhà máy Hà Nội — không báo trước. Ba người, hai nam một nữ, da trắng, đeo thẻ ILO xanh. Họ mang máy đo độ sáng, sổ ghi chép, bút bi. Họ đi thẳng vào khu sản xuất. Hỏi chuyện công nhân — không quản lý đi kèm. Kiểm tra sổ sách giờ làm. Đo độ sáng tại khu vực đóng gói và khu vực kho. Xem hợp đồng lao động ngẫu nhiên năm công nhân. Tiếng máy may rít lên đều đều trên dãy dây chuyền, mùi keo dán thoang thoảng, ánh đèn tuýp trắng phản chiếu xuống nền xi măng.
+
+Kết quả: nhà máy đạt bảy trên mười tiêu chuẩn lao động quốc tế. Thiếu ba: không có phòng y tế riêng trong nhà máy, thời gian nghỉ giữa ca chưa đủ, hệ thống chiếu sáng kho không đạt chuẩn.
+
+Lan nhận báo cáo, đọc từ đầu đến cuối, đặt tờ giấy xuống bàn. Cô ngồi yên một lúc, ngón trỏ gõ nhẹ lên mặt bàn gỗ — ba lần, đều đặn. Giấy report ILO in hai mặt, mực hơi nhòe ở phần tiêu chuẩn ánh sáng — ai đó photocopy từ lần kiểm tra trước. Mùi giấy mới lẫn mùi mực photocopy nồng nàn bốc lên khi cô lật từng trang. Cô triệu tập cuộc họp khẩn với toàn bộ quản lý nhà máy.
+
+Phòng họp nhỏ, mười hai người ngồi quanh bàn chữ nhật. Quạt trần quay chậm, không khí nặng mùi mồ hôi lẫn mùi vôi tường mới sơn cách đây vài tuần — mùi nồng nhẹ nhưng chưa hết. Lan đứng dậy, hai tay chống lên mặt bàn, mắt quét một lượt quanh phòng. Cô cảm nhận độ nhám của gỗ dưới lòng bàn tay — mặt bàn cũ, từng bị ố nước mưa năm ngoái khi mái dột.
+
+"Chúng ta nói với khách hàng châu Âu rằng chúng ta sản xuất có trách nhiệm. Có chứng chỉ. Có quy trình. Nhưng thực tế: bảy trên mười. Tôi không muốn nói dối. Cũng không muốn một ngày nào đó báo chí viết: 'Tập đoàn lớn, trách nhiệm nhỏ'."
+
+Quản đốc — người làm cho Thương Gia mười hai năm — ngồi ở đầu bàn, lưng tựa ghế, hai tay khoanh trước ngực. Anh ta nhướn mày, rồi lên tiếng phản bác: "Phòng y tế — mình có trạm cách nhà máy năm trăm mét. Chiếu sáng kho — công nhân không kêu ca."
+
+Lan không ngồi xuống. Cô bước sang bên, tay cầm tờ báo cáo, chỉ vào con số bảy trên giấy, gõ mạnh hai lần lên mặt bàn.
+
+"Không kêu ca không có nghĩa là đúng," Lan nói thẳng, giọng đều đều nhưng sắc như dao. "Công nhân Việt Nam quen chịu đựng. Nhưng nếu khách hàng châu Âu kiểm tra — họ sẽ phát hiện. Và chúng ta mất đơn hàng không vì chất lượng sản phẩm — vì chất lượng ánh sáng trong kho."
+
+Cả phòng im lặng. Quạt trần vẫn quay chậm, tiếng ro-ro đều đặn. Quản đốc khoanh tay chặt hơn, môi mấp máy nhưng không nói gì thêm. Lan quay lưng, chống hai tay lên bậu cửa sổ, nhìn ra sân nhà máy — bãi xe đạp của công nhân xếp ngay ngắn dưới hiên, vài chiếc đã rỉ sét, nan hoa mỏng như sợi tóc. Ngày xưa cô cũng đi xe đạp kiểu đó, đến xưởng may lúc trời còn tối, chân tay lạnh cóng, chỉ ước được một cái đèn pha cho xe. Bây giờ công nhân có đèn đường, có áo phản quang — nhưng ánh sáng trong kho vẫn chưa đủ. Cô biết sự khác biệt đó, vì cô đã từng sống cả hai phía.
+
+Lan yêu cầu sửa trong ba tháng. Phòng y tế riêng — sáu mươi triệu. Nâng cấp đèn kho — một trăm hai mươi triệu. Điều chỉnh giờ nghỉ — không tốn tiền, chỉ thay lịch. Cô viết lên bảng trắng bằng bút xanh, chữ ngay ngắn, mỗi nét đậm và dứt khoát.
+
+Khi Hùng hỏi vì sao em làm gấp, Lan trả lời: "Vì em không muốn một ngày nào đó báo chí viết: 'Tập đoàn lớn bóc lột công nhân, trong khi chủ tịch nhận huân chương.' Một câu chuyện như vậy phá hủy tất cả." Cô nói xong, tựa lưng vào ghế, khoanh tay trước ngực, mắt nhìn thẳng vào anh trai.
+
+Tháng Mười một, Dũng thuyết phục Hùng đầu tư năng lượng mặt trời.
+
+Chi phí hai hệ thống — một trên mái nhà máy Hà Nội, một trên mái trung tâm dữ liệu Hải Phòng — tổng cộng 2,8 tỷ đồng. Công suất 150 kWp. Hoàn vốn năm đến sáu năm. Tuổi thọ thiết bị hai mươi lăm năm.
+
+Hùng ngồi sau bàn gỗ, ngón tay gõ đều lên mặt bàn khi nghe con số. Ông ngả người ra ghế, hai tay đan sau gáy, rồi lại ngồi thẳng dậy, xoay bút giữa các ngón tay. Bút cũ, nắp mòn — quà tặng năm ngoái khi Thương Gia tròn mười lăm tuổi, khắc tên ông lên thân nhựa đen. Hai mươi tám tỷ. Số tiền đủ mua cả một nhà máy nhỏ, đủ trả lương công nhân một năm.
+
+Hùng hỏi câu đầu tiên: "2,8 tỷ. Tôi mua bảy nghìn cái quạt với số tiền đó — tạo lợi nhuận trong một tháng. Còn 2,8 tỷ trên mái nhà — không làm gì cả."
+
+"Nó không đứng im," Dũng kiên nhẫn. "Mỗi tháng, hóa đơn điện giảm bốn mươi đến năm mươi triệu. Năm năm, tiền điện trả lại vốn. Từ năm sáu, Thương Gia có lãi từ ánh nắng — hai mươi năm tiếp." Dũng nói xong, quay laptop về phía Hùng, ngón tay gõ lên góc bảng tính.
+
+Dũng mở laptop, bảng tính từng dòng — tiền điện tiết kiệm, lạm phát dự kiến, chi phí bảo trì. Con số rõ ràng. Hùng nhìn chằm chằm, tay xoa cằm, môi mấp máy tính nhẩm.
+
+"Lắp," Hùng nói. Một chữ ngắn gọn, nhưng đủ sức nặng để mọi việc bắt đầu.
+
+Dũng gật đầu, không cười nhưng khóe mắt giãn ra. Anh gấp laptop lại, đứng dậy.
+
+Hệ thống năng lượng mặt trời đầu tiên khánh thành tháng Giêng 2011. Dũng mời báo chí — không PR cá nhân, mà để gửi tín hiệu: Thương Gia đang thay đổi. Những tấm pin đen bóng nằm ngay ngắn trên mái nhà xưởng.
+
+Tối hôm đó, ba người — Hùng, Lan, Dũng — ngồi phòng khách. Ba tách trà nóng, hơi nước bay lên mờ ảo dưới ánh đèn vàng. Trà xanh, thứ trà mua từ chợ Bến Thành, vị đắng ngọt hậu. Ngoài cửa sổ, Hải Phòng im lặng, chỉ còn tiếng ve sầu cuối mùa rả rích lẫn tiếng sóng biển xa vọng lại, đều đều như nhịp thở của thành phố cảng.
+
+Hùng mở cuốn sổ: "Chuyện một: bị phạt điện. Chuyện hai: ILO kiểm tra, bảy trên mười. Chuyện ba: năng lượng mặt trời 2,8 tỷ. Chuyện bốn: chuyển dữ liệu lên mây. Cả bốn xảy ra trong hai tháng. Năm năm trước không ai nghĩ mình đi hướng này." Ông nói xong, nhìn hai người em, ánh mắt trầm xuống.
+
+Lan nói: "Năm năm trước, em sẽ bảo người nói về năng lượng mặt trời là điên." Cô mỉm cười, nhưng nụ cười chưa chạm đến mắt.
+
+Dũng nói: "Đây không phải đỉnh. Là khởi đầu." Anh ngồi thẳng lưng, cằm hơi nâng lên.
+
+Hùng gật đầu: "Tôi đồng ý tất cả đề xuất không phải vì hiểu công nghệ — mà vì biết: Thương Gia không sống được năm mươi năm nếu không học cách sống với thế giới mới. Thế giới quan tâm hàng hóa sản xuất thế nào, bằng nguồn năng lượng gì, người làm ra nó có được đối xử tử tế không." Ông nói chậm, từng chữ rõ ràng. Uống một ngụm trà, đặt xuống.
+
+Cuối năm, Thương Gia công bố "Cam kết Phát triển Bền vững" — ba trang, tiếng Việt và tiếng Anh. Bảy cam kết: giảm 15% điện năng mỗi đơn vị, đạt chuẩn ILO, lắp năng lượng mặt trời, xử lý nước thải loại A, không lao động trẻ em, công bố báo cáo hằng năm, trích 2% lợi nhuận cho quỹ công nhân.
+
+Klaus trả lời email trong hai mươi bốn giờ: "This is exactly what we need from our partners."
+
+David Morrison gọi: "Tờ cam kết này có giá trị hơn trăm báo cáo tài chính. Tôi dùng nó để giới thiệu Thương Gia với quỹ đầu tư tác động."
+
+Hùng cúp máy, quay sang Lan. Chiếc đồng hồ quả lắc trong góc phòng đổ hồi chuông, âm thanh nặng nề và đều đặn như nhịp tim. Ngoài cửa sổ, bầu trời Hải Phòng đã chuyển sang màu chàm sẫm, những ánh đèn tàu cá ngoài xa nhấp nháy trong lớp sương muộn. Mùi cà phê nguội tỏa từ tách sứ trên bàn, lẫn vị đắng của thuốc dạ dày — thứ ông uống thường xuyên hơn những năm gần đây. "Phát triển bền vững là cách nói khác của làm ăn tử tế. Mà làm ăn tử tế — ông bà mình dạy từ ngàn xưa."
+
+Lan không trả lời ngay. Cô nhìn bàn tay anh trai đặt trên cuốn sổ — những đốt ngón tay nổi rõ, mu bàn tay lấm tấm đồi mồi. Năm tháng đã in dấu lên đó. Cô chợt nhớ những đêm đông năm 1984, hai anh em ngồi dưới ngọn đèn dầu, hơi lạnh thấm qua bức tường đất, đếm từng đồng lời ít ỏi. Không ai nghĩ một ngày mình sẽ nói về chứng chỉ ILO và năng lượng mặt trời. Nhưng họ đã đi qua tất cả — từ mùi keo giày, tiếng máy may rát tai, đến căn phòng họp có điều hòa này. Cùng nhau.
+
+Trời tờ mờ sáng, Hùng đứng dậy trước khi mặt trời kịp ló rạng. Căn phòng còn tối om, ánh sáng từ khe cửa hắt vào một vệt mờ nhạt đủ để thấy hình dạng đồ đạc. Ông không bật đèn — thói quen nhiều năm không thay đổi. Mặc quần áo trong bóng tối, sờ soạch từng cúc áo, từng khuy quần bằng tay, như thể cơ thể đã thuộc từng động tác đến mức không cần mắt. Vai áo len cũ — quà Lan tặng hai năm trước, sờn ở hai bên cánh tay nơi ông tỳ lên bàn làm việc, chỗ khủy tay đã mòn thành màu nhạt hơn.
+
+Khi bước ra sân, không khí lạnh buổi sớm phả vào mặt, mang theo mùi sương lẫn hơi nước mặn của biển vọng vào đất liền. Hùng hít một hơi thật sâu, cảm nhận luồng khí lạnh thấm vào phổi, làm tỉnh cả người. Sân nhà còn ướt sương, những bước chân in lên nền gạch những dấu chân ướt, rồi khô dần khi nắng lên.
+
+Ngoài đường, một vài người đã thức. Bà bán hàng xén đầu ngõ đang kéo tấm bạt che sạp, tiếng bạt phành phạch trong gió sớm. Cô bán phở đã nổi lửa từ bao giờ, mùi nước dùng thơm tỏa ra theo làn hơi nước trắng, quyện với không khí của buổi sáng. Một người đàn ông đi xe đạp ngang qua, chuông kêu leng keng, vai khoác cặp da, có lẽ đi làm sớm.
+
+Hùng dừng lại ở quán phở, gọi một bát tái chín, nước sôi, thêm quẩy. Ông ăn chậm, từng thìa, mắt nhìn ra đường. Ăn sáng ở quán vỉa hè đã thành nghi lễ — một khoảng lặng trước khi bắt đầu những cuộc giao dịch. Chị chủ quen mặt, thường biết ý, không hỏi chuyện làm ăn, chỉ hỏi: "Bác ăn thấy ngon không?" Hùng gật đầu, trả tiền thừa không lấy lại, rời đi.
+
+
+
+Văn phòng làm việc sáng thứ Hai. Hùng ngồi sau bàn gỗ, cốc cà phê đã nguội từ sớm. Trước mặt là bản đề xuất dày hai mươi trang. Ông đọc từng trang, ghi chú vào lề bằng bút đỏ. Có những dòng ông gạch, có những dòng ông khoanh. Lan gõ cửa bước vào, mang theo tách trà mới. 'Anh chưa ăn sáng.' Hùng không trả lời. Lan đặt tách trà xuống, lấy tờ đề xuất, xem những chỗ Hùng đã ghi. Cô ngồi xuống ghế đối diện, mở sổ tay, bắt đầu mục mới.
+
+Chiều, Hùng ra ngoài đi dạo một mình. Phố xá đông đúc, nhưng ông không để ý. Ông nhìn những tòa nhà mới mọc lên, những cửa hàng mới mở. Hà Nội đã khác xưa nhiều. Xe máy thay xe đạp, biển hiệu thay bảng gỗ. Nhưng ở một góc, ông vẫn thấy bà cụ bán chè đỗ đen, vẫn thấy người đàn ông đạp xích lô, vẫn thấy những khuôn mặt quen thuộc.
+
+Tối, mế gọi điện thoại. Giọng bà yếu nhưng vẫn ấm, lẫn tiếng ti vi phát thanh lùi mù phía sau — kênh thời sự phát lúc mười giờ. 'Mày ăn cơm chưa?' Hùng bảo chưa, nhưng sắp ăn. Bà bảo: 'Đừng làm việc quá khuya. Sức khỏe là vốn.' Hùng ậm ừ cho qua. Cúp máy, ông nhìn ra cửa sổ trời tối. Đèn đường vàng vọt, hắt xuống vũng nước nhỏ ngoài hiên — mưa tạnh từ chiều mà chưa kịp khô. Ông lấy cơm nguội ra, chan nước mắm, ăn trong phòng tối, không bật đèn lớn. Vị mắm mặn ngọt quyện với cơm nguội, đơn giản nhưng đủ — giống bữa cơm của ba mươi năm trước, khi ông còn ngồi trên cái phản gỗ, ăn một mình trong nhà kho vải ở chợ Đồng Xuân.
+
+
+Buổi chiều, Hùng đến thăm khu công nghiệp Hải Phòng. Đường vào trải nhựa phẳng lì, hai bên hàng rào sắt sơn xanh, phía sau là nhà xưởng mới — mái tôn trắng, tường gạch đỏ. Khác hẳn khu công nghiệp cũ năm 1995, khi nền còn đất đỏ, cỏ mọc lưa thưa, nhà xưởng mái fibro xi măng nứt vỡ. Hôm nay, giá thuê gấp mười lần — nhưng chất lượng cũng gấp mười lần. Tiếng máy ép kim loại dồn dập, lẫn tiếng còi xe nâng, mùi dầu máy nóng tỏa dưới nắng chiều quyện với mùi sắt non khi thép được cắt bằng lưỡi cưa kim cương.
+
+Dũng đi bên cạnh, tay cầm ipad. Màn hình hiển thị biểu đồ tiêu thụ điện năng theo tháng. Dũng chỉ vào một đỉnh cao: «Tháng Bảy — đỉnh nhiệt độ — điện năng tăng ba mươi lăm phần trăm. Hệ thống làm mát phải chạy hết công suất.» Hùng gật, không nói gì. Ông dừng lại trước một dãy pin mặt trời mới lắp trên mái nhà xưởng — những tấm pin đen bóng, nghiêng về phía nam, hấp thụ ánh nắng trưa hè. Mắt ông nheo lại khi nhìn lên ánh nắng. Dũng đứng bên, tay chống hông, cũng ngẩng đầu nhìn theo.
+
+«Chi phí lắp đặt?»
+
+«Ba tỷ. Hoàn vốn trong bốn năm.»
+
+Hùng quay sang nhìn Dũng, lông mày hơi nhướn lên. Tay ông khoanh trước ngực, rồi lại buông xuống.
+
+«Mỗi năm tiết kiệm được bao nhiêu?»
+
+«Khoảng bảy trăm triệu tiền điện.»
+
+Dũng rút tờ giấy gấp tư từ túi áo — bảng tính viết tay, con số xếp ngay ngắn. Hùng cầm lên đọc, ngón cái vuốt dọc cột số.
+
+«Lắp ngay cho nhà máy chính. còn ba nhà máy khác thì lắp trong quý tới.»
+
+Hùng bước tiếp, qua khu vực xử lý nước thải. Mùi hóa chất nhẹ thoảng qua — không khó chịu, mà mùi của sự kiểm soát. Nước thải được lọc qua ba tầng: lắng, sinh học, và than hoạt tính. Dũng mở nắp bể — nước trong, không màu, không mùi. Tiếng nước chảy rì rào trong đường ống. «Đạt tiêu chuẩn loại A,» Dũng nói. «Có thể tưới cây được.» Hùng đưa tay nhúng vào nước, cảm nhận sự mát mẻ. Nước sạch — đó là tiêu chuẩn mà ông đặt ra cho toàn bộ tập đoàn.
+
+Chiều muộn, Hùng ngồi trong phòng họp nhỏ. Mười hai tập hồ sơ — mỗi tập là một nhà máy. Ông mở từng tập, kiểm tra biểu đồ điện năng, tỷ lệ tái chế, báo cáo tai nạn. Không có tai nạn trong sáu tháng — lần đầu tiên. Hùng ghi vào sổ: «Sáu tháng — không tai nạn — lần đầu. Giữ vững.» Ông đặt bút xuống, tựa lưng vào ghế. Mắt nhìn ra cửa sổ — hoàng hôn đỏ rực phía chân trời.
+
+Trên đường về, trời đổ mưa. Mưa Hải Phòng nặng hạt. Hùng ngồi trong xe, nhìn mưa qua cửa kính, từng vệt nước kéo dài xuống mặt kính như dấu ngón tay vô hình. Dũng lái xe, tay chặt vô-lăng. Anh quay sang Hùng: «Anh có nghĩ cam kết phát triển bền vững sẽ ảnh hưởng đến lợi nhuận ngắn hạn không?»
+
+Hùng im lặng một lúc, mắt nhìn ra ngoài qua đường mưa. Ông quay đầu lại, nói: «Có. Nhưng lợi nhuận ngắn hạn không nuôi được công ty năm mươi năm. Tôi muốn Thương Gia tồn tại sau khi tôi đi. Và công ty chỉ tồn tại nếu nó được tôn trọng — không chỉ vì sản phẩm tốt, mà vì cách nó đối xử với người lao động, với môi trường, và với cộng đồng.»
+
+Điện thoại Hùng rung. Màn hình sáng lên — Klaus. Bốn chữ: "We need to talk." Hùng nhìn màn hình, nước mưa loang lổ trên mặt kính phía sau ánh sáng điện thoại. Ông không nghe ngay. Tay đặt lên đùi, ngón cái day day đầu gối. Dũng liếc sang, thấy ánh mắt anh trai tối sầm lại, liền im lặng quay đi. Chiếc xe lao qua vũng nước, nước bắn tung lên vách kính, trắng xóa.
+
+"Klaus gọi," Hùng nói. Giọng đều, nhưng tay ông đã nắm chặt điện thoại.
+
+Mưa càng lúc càng nặng. Hải Phòng chìm trong màn nước trắng.
+
+「Hệ thống — GHI NHẬN ch.255」
+Năm: 2010
+Tổng EXP: 57,000 (+333)
+Không gian kho: 22,500m² (+167m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1, Thương mại lv3, Đầu tư lv1, Chiến lược lv1, Đầu tư lv2, Logistics lv1, Logistics lv2, Tài chính lv1, Tài chính lv2, Giáo dục lv1, Logistics lv3, Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3, Quản trị đế chế lv1, Ngoại giao kinh tế lv2, Công nghệ cao lv1, Dự báo rủi ro lv1
+Ghi chú: Cam kết bền vững 7 điểm — nhà máy đầu tiên lắp năng lượng mặt trời tại VN
+
+============================================================

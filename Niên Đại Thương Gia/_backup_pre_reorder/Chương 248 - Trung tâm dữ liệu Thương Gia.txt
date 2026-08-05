@@ -1,0 +1,101 @@
+============================================================
+Chương 248: Trung tâm dữ liệu Thương Gia
+============================================================
+
+Gió quật qua khu nhà máy Hải Phòng như một bàn tay vô hình ném những hạt mưa xiên vào tường gạch đã cũ, từng hạt đập rào rào, xuyên qua khe cửa, rơi xuống mặt đất bùn đặc sệt. Cơn bão số bảy đổ bộ vào đất liền lúc hai giờ sáng, mang theo sức gió cấp mười hai — gió rít qua khe hở của mái nhà như một con rắn khổng lồ, thổi bay mùi dầu máy, mùi sắt gỉ, mùi xác côn trùng chết ướp sương đêm. Mùi biển mặn tràn vào từ phía cảng, lẫn với mùi đất ngấm nước, mùi rơm mục nơi góc nhà kho, một thứ mùi hỗn hợp mà người Hải Phòng quen thuộc mỗi mùa bão — mùi của đất trời đang nổi loạn. Những cơn gió đầu tiên xé toạc mái tôn của khu nhà xe, cuốn bay những tấm tôn mỏng như những mảnh giấy vụn lên không trung, để lộ những đường sóng gợn dưới ánh đèn pin le lói. Tiếng va đập của kim loại vào kim loại vang lên liên hồi, tiếng kính vỡ tan tành, tiếng cây đổ ầm ầm, tiếng thùng phuy lăn lóc trên nền xi măng — tất cả hòa vào nhau thành một bản giao hưởng hỗn loạn của thiên nhiên nổi giận, một bản nhạc mà không ai muốn nghe nhưng ai cũng phải nghe.
+
+Căn phòng máy đặt ở cuối dãy nhà xưởng, một căn phòng nhỏ mười lăm mét vuông được cải tạo thành nơi ở của mười một máy chủ — mười một cỗ máy giữ huyết mạch thương mại của Thương Gia. Căn phòng không có cửa sổ lớn, chỉ một ô kính nhỏ bốn mươi phân vuông, đủ để thấy mưa đập xối xả vào kính, nhưng điều hòa Mitsubishi đời cũ thì có. Máy lạnh đã rè rè suốt ba năm, thỉnh thoảng nhả hơi lạnh yếu ớt, bây giờ nó rên lên một tiếng dài — một tiếng rên kéo dài, nghẹn ngào, như thể nó biết mình sắp chết — rồi im bặt. Đèn tắt. Màn hình tắt. Mười một đèn xanh trên mười một tủ rack — đồng loạt tắt. Im lặng ùa đến như một bức tường. Không còn tiếng quạt, không còn tiếng ổ cứng quay, không còn cái rung nhẹ dưới bàn chân — chỉ còn tiếng gió ngoài cửa sổ và tiếng tim mình đập trong lồng ngực.
+
+Dũng đang ngồi ở bàn trực, tay cầm cốc mì tôm ăn dở dang, chết sững trong bóng tối. Mì tôm còn nóng — nước sôi mới đổ được ba phút — nhưng bây giờ cái nóng ấy không còn ý nghĩa gì. Mùi gia vị mì tôm thoang thoảng trong bóng tối, một mùi quen thuộc, mùi của những đêm thức khuya, mùi của sự hy sinh không ai nhìn thấy. Anh không thấy gì, nhưng nghe được. Nghe tiếng tim anh đập thình thịch, đập đến nỗi anh cảm nhận được mạch máu trên cổ đang giật. Nghe tiếng quạt làm mát trong tủ rack — thứ âm thanh đều đều như nhịp thở — yếu dần, rít lên một tiếng khô khốc ở âm vực cao, rồi tắt hẳn. Cái âm thanh đó — sự im lặng sau khi tiếng quạt tắt — còn đáng sợ hơn bất kỳ tiếng động nào. Đó là âm thanh của sự chết. Máy phát điện dự phòng gầm lên một lần — cái âm thanh của động cơ diesel cố gắng nổ — nhưng rồi tắt. Lần thứ hai, cũng tắt. Nước đã tràn vào nền máy phát, làm chập toàn bộ hệ thống. Dũng cảm thấy nước lạnh ngấm qua dép, lạnh đến mức ngón chân tê buốt. Anh biết — không chỉ điện mất, mà mọi thứ mất. Ba tuần dữ liệu. Hơn một nghìn giao dịch. Những con số mà anh đã thức đêm nhập từng cái một.
+
+Dũng thò tay vào túi quần, mò mẫm rút Nokia 6300 khỏi túi. Màn hình xanh nhỏ sáng lên. Anh bấm thử một số — không sóng. Các tháp viễn thông trong vùng đã gãy đổ. Anh mò mẫm dọc hành lang sang phòng bên, tay phải dò dẫm men theo tường để khỏi vấp ngã, tay trái cầm điện thoại làm đèn pin hắt thứ ánh sáng yếu ớt xuống những vũng nước trên nền xi măng. Nước đã tràn qua khe cửa dưới, lênh láng trên sàn, lạnh buốt. Ở phòng trực của bảo vệ, hai người đàn ông đang ngồi dưới ánh nến. Ngọn nến trắng đặt trên nắp thùng mì tôm, lung linh trong gió lùa. Mùi sáp cháy hòa với mùi khói thuốc lào — một mùi nồng, ngai ngái, đặc trưng của những đêm thức trắng canh bão.
+
+"Mất điện rồi," một người nói. Giọng ông trầm và bình thản, như thể đã nói câu đó hàng trăm lần trong đời. "Chắc ba ngày nữa."
+
+Dự đoán đó chính xác. Ba ngày sau, khi điện trở lại, Dũng bật từng máy. Máy số một — màn hình đen với dòng chữ trắng "DISK BOOT FAILURE." Máy số hai — "File system corrupted. Run CHKDSK." Máy số ba — "NTLDR is missing." Máy số bốn lên Windows nhưng ổ D trống rỗng, như thể ai đó đã vào xóa đi tất cả những gì quan trọng nhất. Dũng mất hai ngày để khôi phục bằng phần mềm của Nga — màn hình xanh, dòng lệnh trắng, chạy suốt hai mươi bốn tiếng không ngừng. Kết quả: lấy lại khoảng sáu mươi lăm phần trăm. Sáu mươi lăm phần trăm của ba tuần dữ liệu. Hơn một nghìn giao dịch bị mất thông tin chi tiết.
+
+Anh gọi Hùng. Giọng khản đặc vì ba ngày nói không ngừng với nhân viên, với đội cứu hộ điện, với công ty bảo hiểm. Chiếc điện thoại bàn để ở góc bàn — máy analog, chạy bằng tín hiệu tương tự không phụ thuộc server — là thứ duy nhất còn hoạt động bình thường.
+
+"Anh Hùng, mình mất dữ liệu."
+
+Đầu dây bên kia im lặng hồi lâu. Hùng đang cân nhắc. Cân nhắc chi phí. Cân nhắc rủi ro. Cân nhắc cái câu hỏi muôn thuở: đầu tư vào thứ không nhìn thấy — có đáng không?
+
+"Bao nhiêu tiền để không bao giờ chuyện đó xảy ra nữa?"
+
+"Một tỷ. Có thể hơn em tính rồi, gồm thiết bị, thi công, điều hòa, máy phát, tủ rack, UPS, tường chống cháy, sàn nâng. Giai đoạn một."
+
+"Đến gặp tôi. Mang bản vẽ."
+
+Hai giờ sau, Dũng ngồi trong phòng khách nhà Hùng. Anh trải tấm bản vẽ A3 lên mặt bàn gỗ — tờ giấy trắng với những đường kẻ kỹ thuật bằng bút chì, ghi chú tiếng Việt lẫn tiếng Anh. MẾ mang hai tách trà xanh ra, đặt nhẹ nhàng, rồi đứng lại một lát. Bà nhìn bản vẽ, rồi nhìn Hùng, rồi nhìn con — không nói gì. Ở gian nhà này, bà luôn biết khi nào cần ở lại và khi nào cần biến mất. Hôm nay, bà ở lại. Bà đặt tay lên vai Hùng, bàn tay chai sạn vì mấy chục năm làm việc nhà, rồi rút đi, như thể đã trao đủ sức mạnh. Hùng cảm nhận được hơi ấm từ bàn tay ấy — hơi ấm của người đàn bà đã bên ông suốt nửa đời người, không cần nói cũng hiểu.
+
+"Tường chống cháy hai lớp, mỗi lớp chịu lửa hai tiếng. Cửa thép chống cháy. Sàn nâng sáu mươi phân — nước tràn vào, thiết bị vẫn ráo," Dũng chỉ từng chi tiết. "Hai nguồn điện riêng từ hai trạm biến áp khác nhau — một ở cảng, một ở khu công nghiệp. Máy phát diesel 100 KVA trên bệ cao bốn mươi phân. UPS cho ba mươi phút — đủ chờ máy phát nổ. Điều hòa chính xác: mỗi tủ rack có cảm biến nhiệt, tự động điều chỉnh lưu lượng gió."
+
+"Tier mấy?"
+
+"Theo tiêu chuẩn quốc tế: Tier 3. Bảo trì không ngừng. Mất một nguồn điện vẫn chạy."
+
+Hùng gật đầu — một cái gật đầu nhẹ. "Làm."
+
+Trong suốt thời gian thi công, Dũng sống ở Hải Phòng. Sáng nào chị Vân ở kho bên cạnh cũng mang cà phê ra. Chị mặc chiếc quần vải đen đã bạc màu, đi đôi dép tổ ong, tay xách phích hai lít nước sôi pha sẵn. Cà phê phin nhỏ giọt, từng giọt đen đậm, thơm nồng, rơi xuống chiếc cốc sứ men đã nứt. Dũng và chị Vân biết nhau từ bảy năm trước, từ ngày chị còn là tổ trưởng tập sự, từ ngày chị đã dạy anh cách nhận biết một thùng hàng chuẩn chỉ bằng cách nhìn. "Cậu Dũng, sao làm dữ vậy? Về nghỉ đi," chị thường nói. Dũng cười, mắt thâm quầng, tóc bết mồ hôi, nhưng nụ cười vẫn sáng: "Xong rồi tôi khoe chị." Chị Vân lắc đầu, nhưng đôi mắt chị — đôi mắt của một người phụ nữ đã từng chịu đựng chiến tranh, đã từng chạy bom, đã từng sống qua những năm tháng thiếu thốn — hiểu rằng có những người đàn ông sinh ra là để làm những việc mà người khác không dám.
+
+Đêm khánh thành, Hùng xuống. Ông đặt tay lên cánh tủ rack lạnh lẽo, cảm nhận cái rung nhẹ của máy chủ bên trong. "Hai ổ khóa," Dũng chỉ vào tủ băng từ. "Em giữ một. Nội kiểm giữ một. Mở phải có hai người. Thêm vân tay và mã PIN."
+
+Hùng gật đầu. Đi dọc dãy tủ rack, qua khu UPS, qua khu máy phát. "Còn làm thêm không?"
+
+"Dũng nghĩ mình cần ba cái, rải ba miền. Phòng khi một nơi sập."
+
+Về Hà Nội, Hùng ghi vào cuốn sổ bìa đen: "Hải Phòng DC done. Dũng bảo làm ba cái. Tốn. Nhưng tốn đúng chỗ."
+
+Chiều hôm đó, Hùng nhận được điện thoại từ Dũng trung tâm dữ liệu mới đã hoạt động ổn định tuần đầu. Điện không cúp, máy chủ không tắt, nhiệt độ trung tâm duy trì ở mức 22 độ. Dũng nói: "Máy lạnh mới chạy êm ru. Em ngủ được ba tiếng liền, lần đầu trong tháng." Hùng khẽ cười: "Ngủ đi. Mai lại còn việc."
+
+Buổi sáng, Hùng ngồi bên ấm trà nóng. Mùi chè xanh bốc lên từ chiếc ấm đất nung. Ông mở cuốn sổ đã cũ ra, trang giấy ố vàng. Các con số viết tay, nét mực đã nhòe ở một vài chỗ. Hùng đọc lại từng dòng — doanh thu từng ngày, tên người mua, giá bán. Ông không nhớ mặt từng khách, nhưng những con số thì ông thuộc. MẾ bưng ra đĩa bánh đúc chấm tương. Nắng ngoài hiên vàng nhạt. Một ngày yên tĩnh. Nhưng Hùng biết, yên tĩnh không kéo dài.
+
+Đầu giờ chiều, một người đàn ông lạ mặt tìm đến. Ông ta tự giới thiệu là thương lái từ Hải Phòng, muốn mua sỉ vải trắng. Hùng hỏi giá, số lượng, thời hạn thanh toán. Người đàn ông trả lời trôi chảy, nhưng ánh mắt không yên — cứ đảo quanh. Hùng hỏi: 'Tiền cọc bao nhiêu?' Người đàn ông hứa hẹn. Hùng im lặng, rót chén trà mời khách, rồi nói: 'Hàng không bán thiếu.' Người đàn ông cố năn nỉ. Hùng đứng dậy, tiễn khách ra cửa. Lan hỏi sao không bán. 'Mắt không yên,' Hùng nói. 'Hàng mình không thể giao cho người không yên.'
+
+Buổi tối, Hùng ngồi ngoài hiên. Đã có lần ông tin lời một người lạ, và mất cả lô hàng. Vết sẹo dưới lòng bàn tay trái nhói lên mỗi khi trời sắp lạnh. Ông nhìn ra sân, nơi đống rơm khô chất cao. Mùi rơm khô lẫn mùi đất nứt nẻ sau nắng. Ông nhắm mắt, thở dài. Ngày mai lại tiếp tục.
+
+Vài tháng sau khi hợp đồng với đối tác Mỹ được ký, Hùng nhận thấy một điều — các đối thủ cạnh tranh bắt đầu nhìn vào Thương Gia. Một hôm, ông nhận được cuộc điện thoại từ một người bạn cũ, hiện đang làm trong Hiệp hội Doanh nghiệp Trẻ. "Hùng à, nghe nói cậu sắp IPO à? Mấy thằng bạn tao đang xôn xao lắm." Hùng cười trừ. Không khẳng định, không phủ nhận. Ông biết — ở Việt Nam, tin đồn nhanh hơn gió. Một ngày có thể thành tin chính thức.
+
+Nhưng Hùng cũng biết — càng nổi, càng phải kín. Sáng hôm sau, ông gọi cuộc họp khẩn với ba người: Lan, Minh và luật sư riêng của công ty. Lan đến sớm nhất — em gái ông, người đã từng là kế toán viên mới ra trường, giờ là cánh tay phải về tài chính. Cô mặc bộ áo sơ mi trắng, tóc vấn gọn, nhưng mắt có vết thâm — đêm qua cô đã không ngủ. Minh đến sau — con trai ông, mới hai mươi bốn tuổi nhưng đã có đôi vai rộng của người đàn ông trưởng thành, đôi mắt giống hệt mắt mế, lặng lẽ nhưng sâu. Họ ngồi trong phòng làm việc nhỏ, bốn bức tường, không cửa sổ, chỉ có một cái quạt máy và một cái bàn gỗ. Quạt xoay chậm, kêu kẹt kẹt, thổi hơi nóng vào mặt. Hùng nói: "Bắt đầu từ hôm nay, không ai được nói chuyện IPO ra ngoài. Không điện thoại, không email, không gặp báo chí. Ai hỏi — bảo đang nghiên cứu." Lan lo lắng, tay bấm bút liên tục trên mặt bàn: "Anh ơi, như vậy có khiến đối tác nghi ngờ không?" Hùng: "Để họ nghi ngờ còn hơn để họ biết sự thật. Nghi ngờ thì họ tìm hiểu, tìm hiểu thì mất thì giờ. Biết sự thật — họ hành động ngay." Minh im lặng, nhưng bàn tay con trai nắm chặt — anh hiểu rằng bố đang bảo vệ cả gia đình.
+
+Quyết định đó đúng. Một tháng sau, một tờ báo kinh tế đăng bài: "Thương Gia chuẩn bị niêm yết trên sàn chứng khoán." Tin tức làm cổ phiếu của một số doanh nghiệp cùng ngành giảm nhẹ. Nhưng Thương Gia không lên tiếng. Hùng tiếp tục làm việc như không có chuyện gì. Ông đi nhà máy, gặp đối tác, ký hợp đồng. Nhưng trong đầu, ông đang đếm từng ngày trôi qua. Còn ba tháng nữa. Ba tháng. Một trăm ngày. Ngày nào cũng là một bước gần hơn đến đích. Và cũng là một ngày mà đối thủ có thể bất ngờ tấn công.
+
+Trong những ngày chờ đợi quyết định lên sàn, Hùng rơi vào một trạng thái kỳ lạ. Ông ngủ ít, ăn không ngon, hay thức dậy lúc ba giờ sáng và ra vườn ngồi. MẾ nhiều lần thấy ông lặng lẽ nhìn những chậu cây cảnh trong bóng tối, hút thuốc, nghĩ ngợi. Khói thuốc bay lên, nhòa trong sương sớm, mang theo mùi thuốc lá nồng nặc — thứ mùi mà mế đã ngửi suốt ba mươi năm, mùi của những đêm thức khuya, mùi của lo âu không nói thành lời. Một đêm, bà ra ngồi cạnh, hỏi: "Hồi mới cưới, anh cũng thức thế này cơ mà?" Hùng cười: "Hồi đấy sợ không có tiền trả nợ. Bây giờ cũng thế — sợ không có tiền trả nợ, nhưng nợ nhiều hơn." MẾ không nói gì, chỉ đặt tay lên vai ông. Bàn tay ấy — bàn tay của người phụ nữ đã sinh con, đã nuôi con lớn, đã chịu đựng chiến tranh, đã sống qua đói nghèo — rung nhẹ, nhưng chắc chắn.
+
+Một sự kiện bất ngờ xảy ra — đối thủ cạnh tranh lớn nhất của Thương Gia tung tin: 'Thương Gia sắp phá sản, đang cố gắng lên sàn để vay tiền trả nợ.' Tin lan nhanh như cháy rừng. Các đối tác gọi điện, các nhà cung cấp gọi điện, thậm chí ngân hàng cũng gọi. Hùng bình tĩnh: "Mời tất cả đến họp. Sáng thứ Hai."
+
+Sáng thứ Hai, phòng họp chật kín người. Hùng mặc bộ complê xám, đầu tóc gọn gàng, đứng ở cuối bàn. Ông không mang tài liệu, không mang máy tính. Chỉ mang một thứ — cuốn sổ tay cũ đã theo ông hai mươi năm. Bìa sổ sờn, gáy sổ gắn lại ba lần bằng chỉ nâu, trang giấy đã ngả màu vàng nhạt. "Mời mọi người đến không phải để giải thích," ông mở đầu, giọng trầm, chắc, mỗi chữ rơi xuống như đá — "mà để xem." Ông mở cuốn sổ, lật từng trang — những dòng chữ nhỏ, số liệu, tên người, số điện thoại, ngày tháng. Trang nào cũng có, từ ngày đầu đến nay. Tiếng giấy lật roàn roạt trong phòng im lặng. Một giám đốc ngân hàng liếc đồng hồ — tám rưỡi sáng. Một người khác liếc điện thoại — không có tin nhắn mới. Tất cả đang chờ.
+
+"Đây là sổ cái của tôi. Hai mươi năm, không thiếu một ngày. Các anh muốn biết Thương Gia có phá sản không? Tôi mời các anh xem doanh thu từng năm. Từ ngày đầu đến nay, mỗi năm tôi đều có lãi. Năm nào ít nhất? năm đầu tiên tôi lãi đúng hai cây vàng. Năm nào nhiều nhất? Năm ngoái — con số các anh có thể hỏi kiểm toán viên." Cả phòng xôn xao. Một giám đốc ngân hàng đứng dậy: "Tôi có thể xem sổ không?" Hùng đưa. Người đó lật, xem, rồi trả lại: "Tin đồn là tin đồn thôi. Thương Gia mạnh."
+
+Hôm đó, Hùng về nhà, nói với mế: "Hôm nay mẹ nấu gì ngon không?" MẾ ngạc nhiên: "Có gì vui?" Hùng: "Vui. Vì mình đã đúng khi không dùng máy tính." Ông cười, tiếng cười khàn khàn của một người đàn ông từng trải, tiếng cười mà mế đã nghe suốt ba mươi năm — vẫn như ngày xưa, vẫn cái giọng trầm ấm ấy. MẾ lắc đầu, nhưng khóe miệng móm mém nhếch lên — nụ cười hiếm hoi của người phụ nữ đã quen im lặng. Họ ăn bữa tối với món cá kho tộ — cá thu kho trong nồi đất, nước kho sền sệt, thơm nồng mùi nước mắm Phú Quốc, ăn kèm cơm trắng dẻo và canh cua rau đay — canh cua thơm mùi mắm tôm, rau đay xanh mềm. Bên ngoài, mưa ào ào, nhưng trong nhà, ấm áp. Tiếng mưa rơi trên mái tôn, tiếng bát đĩa va nhẹ, tiếng quạt xoay — tất cả hòa vào thành một bản nhạc gia đình. Những lúc thế này, Hùng cảm thấy vẫn có những thứ không gì thay thế được — bữa cơm gia đình, một người mẹ biết im lặng khi cần im lặng, và một cuốn sổ tay cũ ghi lại tất cả.
+
+Trong lúc chờ đợi quyết định cuối cùng từ Ủy ban Chứng khoán, Hùng làm một việc mà không ai ngờ — ông viết di chúc. Không phải vì ông sợ chết, mà vì ông muốn chắc chắn rằng Thương Gia, sau khi ông đi, sẽ không bị xâu xé. Ông viết bằng tay, trên giấy thường, không công chứng. Ông viết cho ai cái gì — Minh sẽ điều hành sản xuất, Lan phụ trách tài chính, một phần lợi nhuận dành cho quỹ phúc lợi công nhân.
+
+Viết xong, ông gấp lại, cho vào phong bì niêm phong, đưa cho luật sư giữ. Rồi ông tiếp tục công việc. Nhưng trong lòng, ông thấy thanh thản. Có thể mất tất cả, nhưng đã chuẩn bị cho những người ở lại tốt hơn. Một buổi chiều, ông gọi Minh và Lan vào phòng, đóng cửa lại, nói chuyện hai tiếng. Không phải về kinh doanh. Về gia đình, về trách nhiệm, về tình cảm. Cuối buổi, Minh hỏi: "Bố có tin con không?" Hùng nhìn con trai: "Tin. Nhưng không phải tin suông. Bố tin vì con đã chứng minh được — con đã xuống kho, đã nhập số liệu, đã thức đêm cùng anh em. Bố tin vì con biết làm, không chỉ biết nói."
+
+Tối hôm ấy, Lan ở lại ăn cơm. MẾ nấu canh chua và cá rán. Ăn xong, Hùng pha trà, ba người ngồi ngoài hiên nói chuyện. Hùng kể về những ngày đầu — cái sạp vải, chuyến hàng đầu tiên ra Bắc, lần suýt vỡ nợ vì bị lừa. Minh lắng nghe, và lần đầu tiên, anh hiểu vì sao bố mình không bao giờ lừa ai — vì chính ông đã từng bị lừa, và biết nỗi đau đó. Trong bóng tối của hiên nhà, tiếng côn trùng rả rích, những con người của Thương Gia — ba thế hệ — ngồi bên nhau. Không có hợp đồng, không có thỏa thuận. Chỉ có sự hiểu nhau, lặng lẽ mà chắc chắn. Bên ngoài, Hà Nội đang vào đông, lạnh, nhưng trong căn nhà nhỏ ấy, hơi ấm vẫn còn. Và Thương Gia, dù sóng gió đến đâu, vẫn có một mái nhà để về.
+
+Vào một buổi tối đầu đông, Hùng nhận được điện thoại từ một đối tác Nga — đối tác từ thời Liên Xô cũ. Người đó nói: "Hùng, nhà máy của tôi sắp đóng cửa. Anh có thể mua lại không?" Hùng suy nghĩ. Chi phí mua lại nhà máy ở Nga là rẻ, nhưng rủi ro thì lớn — chính trị, tỷ giá, văn hóa. Ông mở cuốn sổ tay, viết ưu và nhược điểm. Ưu: 3. Nhược: 8. Ông cười — con số nói rõ. Sáng hôm sau, ông gọi lại: "Tôi không mua. Nhưng tôi có thể làm đại lý phân phối cho anh ở Việt Nam. Cùng nhau, hai bên cùng có lợi." Đối tác Nga đồng ý. Đó là một thỏa thuận nhỏ, nhưng nó cho thấy nguyên tắc của Hùng — không tham lam, không mạo hiểm quá mức, và luôn tìm cách để đôi bên cùng có lợi.
+
+Một buổi chiều cuối năm, Hùng nhận được một lá thư không đề tên người gửi. Bên trong chỉ có một tấm ảnh cũ — ảnh chụp một người đàn ông trẻ đứng trước một sạp vải nhỏ, trên đường phố Hà Nội những ngày đầu khởi nghiệp. Người trong ảnh là Hùng, hai mươi lăm tuổi, gầy gò, nhưng mắt sáng. Phía sau sạp vải là một tấm biển viết tay: "Vải Thương Gia — Rẻ và Bền". Hùng nhìn tấm ảnh một lúc lâu, không nói được gì. Đây là tấm ảnh đầu tiên về Thương Gia, chụp bởi một người bạn đã mất từ lâu. Ai đã gửi nó? Hùng không biết. Nhưng ông giữ nó, cho vào khung kính, treo ở phòng làm việc. Mỗi sáng nhìn vào đó, ông nhắc mình — đừng quên ngày đầu. Tối hôm ấy, ông ghi trong sổ: "Hôm nay nhận được một món quà. Không biết ai gửi. Nhưng nó nhắc tôi rằng — con đường còn dài, nhưng mình đã đi đúng hướng." Ông gấp sổ lại, tắt đèn, đi ngủ. Giấc ngủ sâu hơn mọi ngày.
+
+Buổi tối, Hùng ngồi trong phòng làm việc, mở sổ cái trên bàn gỗ. Màn hình máy tính chiếu ánh sáng xanh nhạt lên khuôn mặt ông — đôi mắt nheo lại vì đã làm việc quá mười hai tiếng. Ngoài hiên, tiếng dế kêu râm ran. Mùi cà phê đêm tỏa ra từ ly sứ trắng, ngọt đắng, quen thuộc. Ông viết vào sổ: 'Dữ liệu — tài nguyên mới. Nếu mình không khai thác, người khác sẽ. Thương Gia phải là người đi trước.' Rồi ông gấp sổ, tắt đèn. Trong bóng tối, chỉ còn ánh đèn đường ngoài cửa sổ le lói. Ông đứng dậy, bước ra ban công, hít một hơi dài. Không khí Hà Nội buổi đêm ấm, ẩm, mang theo mùi đất sau mưa. Ông biết: ngày mai sẽ là một ngày mới với quyết định lớn hơn. Nhưng đêm nay, ông cho phép mình nghỉ ngơi.
+
+Nhưng điện thoại rung. Chín giờ đêm. Số lạ. Hùng nhấc máy.
+
+"Thưa ông Hùng, tôi là Trưởng ban Thanh tra Sở Kế hoạch Đầu tư. Sáng mai, tám giờ, mời ông lên sở. Có vài vấn đề liên quan đến thủ tục đầu tư cần ông giải thích."
+
+Đầu dây bên kia tắt. Hùng đứng ngoài ban công, điện thoại còn áp tai. Gió đêm thổi lên — lạnh. Ông nhìn xuống sân, nơi mế đang quét lá rụng dưới ánh đèn ngoài hiên. Bà chưa biết. Ông chưa muốn bà biết.
+
+Trong đầu ông hiện lên một suy nghĩ: ai đã gọi cho cơ quan nhà nước? Ai muốn Thương Gia gặp rắc rối đúng lúc này — đúng lúc IPO đang đến gần?
+
+Cuốn sổ tay cũ còn ở trong phòng. Đèn đã tắt. Nhưng câu hỏi thì còn sáng.
+
+「Hệ thống — GHI NHẬN ch.248」
+Năm: 2009
+Tổng EXP: 54,667 (+334)
+Kỹ năng trọng yếu: Công nghệ cao lv3, Quản trị dữ liệu lv1
+Ghi chú: Trung tâm dữ liệu cấp Tier 3 đầu tiên của doanh nghiệp tư nhân VN
+
+============================================================

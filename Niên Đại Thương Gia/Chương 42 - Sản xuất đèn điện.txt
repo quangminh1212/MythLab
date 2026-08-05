@@ -1,0 +1,127 @@
+============================================================
+Chương 42: Sản xuất đèn điện
+============================================================
+
+Ngày 13 tháng ba năm 1985, xưởng nhỏ của Hùng nằm sâu trong con ngõ đất đỏ, nơi mùi đất nung lẫn mùi dầu máy đã thấm vào từng thớ gỗ dầm. Trời mới nắng sau mấy ngày mưa phùn, hơi nước bốc lên từ mặt đường, mang theo mùi rêu mục và khói bếp sớm. Chiếc đui sứ Minh đặt trên bàn được mở thành bốn phần: thân đui, hai cực đồng, vòng ren và vít giữ dây — nhỏ hơn nắm tay, nhưng có thể gây cháy cả căn nhà nếu cực lỏng, dây trần chạm vỏ hoặc nhiệt của bóng bị giữ dưới chao. Tiếng quạt thông gió kêu rè rè góc xưởng, lẫn với tiếng gà gáy xa ngoài đường làng. Hùng không cho gọi đó là sản phẩm phụ sau quạt. Lan mở sổ mã ĐB-01, dành riêng cho đèn bàn. Cô bút lướt trên giấy, ngón tay còn dính mực xanh — mùi mực ngọt khói thoang thoảng khi cô đưa sổ lên ngửi, rồi đặt xuống, cắn môi nghĩ.
+
+Sản phẩm được chốt vừa đủ cho khả năng xưởng: đèn bàn cổ mềm bằng thép, đế có đối trọng, chao kim loại thoáng phía trên, đui sứ E27, công tắc đặt trên đế, dây đôi bọc cách điện dài một mét tám, phích hai chấu, dùng điện 220 vôn và bóng tối đa sáu mươi oát. Xưởng bán thân đèn kèm bóng thử, không tự sản xuất bóng. Nhãn dưới đế phải ghi rõ điện áp, công suất bóng tối đa, số thân và tháng sản xuất.
+
+Điều kiện nhiệm vụ ghi ở đầu trang: trong bốn mươi lăm ngày làm xong mẫu và một trăm năm mươi bộ đèn; giá thành thân đèn không quá sáu mươi tám đồng, chưa tính bóng; mọi đèn phải qua kiểm thông mạch, cách điện và kéo dây; ba mươi đèn chọn ngẫu nhiên chạy bóng sáu mươi oát trong sáu giờ; chao không biến dạng, công tắc không kẹt, dây và phích không nóng bất thường; tỷ lệ lỗi lần đầu không quá bốn phần trăm. Phần thưởng dự kiến là hai trăm điểm kinh nghiệm và năm mươi mét vuông kho, chỉ ghi khi có mẫu, quy trình và lô thật.
+
+Kinh nghiệm quạt giúp xưởng biết tách người lắp khỏi người kiểm, giữ số thân và thử nhiệt theo giờ. Nhưng nó không trả lời được khoảng cách giữa dây và mép kim loại hay cách ngăn đế đèn đổ. Minh đặt bóng sáu mươi oát vào một chao kín mua ngoài chợ. Một giờ sau, ông ngửi thấy mùi nhựa hắc — không phải nhựa cháy mà là nhựa đang mềm, đang chịu đựng quá lâu dưới sức nóng nhốt trong lòng chao kim loại. Sơn gần đỉnh mềm đi, bề mặt sờ vào thấy nhão như sáp ong non. Khi tắt bóng, phần dây gần đui ấm hơn rõ rệt, ngón tay ông lướt qua thấy lớp bọc co lại, nứt một đường nhỏ như vết rạn trên đất khô.
+
+“Chao đẹp mà giữ nhiệt là cái hộp nung,” ông nói.
+
+Mẫu chao đầu tiên được dập thuê, đường kính hai mươi phân, có sáu khe thoát phía trên. Mép dưới cuộn tròn để không cắt tay. Đui sứ cách chao bằng một vòng đệm chịu nhiệt. Dây đi qua ống thép cổ mềm phải có ống lót ở cả hai đầu; không cạnh kim loại nào được chạm trực tiếp lớp bọc dây. Đế nặng một phẩy tám kilôgam, đáy rộng mười tám phân. Khi đầu đèn vươn hết tầm, đế vẫn phải đứng trên mặt bàn nghiêng tám độ.
+
+Lan chia danh mục mua thành năm nhóm: đui sứ; dây và phích; công tắc; thép cho đế, cổ, chao; bóng dùng thử. Thép xưởng có thể mua theo nguồn cơ khí quen. Dây điện từ nhà cung cấp quạt có hồ sơ mẻ và kích thước ổn định. Đui sứ là điểm yếu: nơi thứ nhất có đủ hai trăm chiếc nhưng cực đồng mỏng; nơi thứ hai có hàng dày hơn, chỉ còn sáu mươi chiếc; chuyến tiếp theo hẹn cuối tháng tư, quá hạn nhiệm vụ.
+
+Minh thử hai loại. Với đui mỏng, vít siết dây trượt ren sau năm lần tháo lắp ở ba trong mười mẫu. Cực đồng đổi màu sau sáu giờ dùng bóng sáu mươi oát. Loại dày giữ ren, nhiệt thấp hơn. Hùng loại lô rẻ dù giá chênh ba đồng. Nhưng sáu mươi đui tốt không đủ cho một trăm năm mươi đèn và mẫu thử.
+
+Ngày 15 tháng ba, Lan tới cơ sở gốm điện ở Bát Tràng được một người bán vật tư giới thiệu. Xe buýt từ bến cũ chạy mất gần tiếng, mùi xăng lợn cợn lẫn với mùi rơm ủ bên đường. Cơ sở nằm cuối xóm, trước cửa phơi đầy khuôn sứ trắng, mùi đất sét ẩm mịn bay ra cùng tiếng lò nung đều đều. Cơ sở có thân sứ đủ kích thước nhưng thiếu cực đồng đúng mẫu. Họ đề nghị dùng thép mạ thay đồng để giao nhanh. Minh mang theo cân, thước và hai mẫu đã thử. Thép mạ cứng nhưng dẫn điện kém hơn ở tiết diện ấy; chỗ tiếp xúc có nguy cơ nóng. Ông không chấp nhận đổi vật liệu bằng lời bảo đảm. Lan đứng bên, tay cầm sổ tính nhẩm, miệng lẩm nhẩm con số — cô nhẩm nhanh hơn người viết, mắt liếc qua vai Minh, thấy mắt ông sầm lại là biết rồi.
+
+Chủ cơ sở cho biết một xưởng dập đồng ở Gia Lâm có thể làm cực, song họ chỉ nhận tối thiểu năm trăm bộ. Mua năm trăm sẽ chôn vốn, trong khi thân sứ chỉ cần một trăm tám mươi bộ gồm dự phòng. Lan tìm hai khách khác của cơ sở gốm: một nơi sửa đèn, một hợp tác xã làm bảng điện. Ba bên gộp đơn năm trăm bộ, mỗi bên ký số lượng riêng, thanh toán riêng. Hùng nhận hai trăm bộ, đủ một trăm năm mươi sản phẩm, hai mươi mẫu phá hủy và ba mươi phụ tùng bảo hành. Xưởng dập giao cực ngày 25 tháng ba; Bát Tràng lắp hoàn thiện ngày 29. Lịch còn mười chín ngày để sản xuất.
+
+Rủi ro là cực đồng mới chưa từng qua thử. Hùng chỉ đặt cọc ba mươi phần trăm, phần còn lại trả sau khi kiểm mẫu hai mươi bộ. Bản vẽ ghi bề dày, đường kính lỗ vít, bước ren, độ phẳng mặt tiếp xúc. Mười bộ đầu phải được giao ngày 20 để thử nóng; nếu không đạt, đơn chính được dừng. Không ai gọi việc gộp mua là đã giải quyết nguồn cung trước khi mẫu thật tới xưởng.
+
+Trong thời gian chờ đui, ông Tam làm đồ gá cho đế và chao. Những ngày cuối tháng ba, mưa phùn vẫn dai dẳng, hơi ẩm thấm vào từng thớ gỗ, từng mép tôn. Mỗi sáng Hùng bước vào xưởng, tay ông lạnh cóng khi chạm vào các chi tiết kim loại xếp trên bàn; cái lạnh ấy làm ông nhớ tới những mùa đông thời thơ ấu, khi bố ông ngồi bào gỗ bên bếp lửa, những phoi bào vàng ươm bay lả tả như những hạt mưa ngược. "Nếu bố còn sống," ông nghĩ, "chắc bố sẽ bảo tao làm từng cái một cho chắc, đừng vội." Và ông thấy mình chưa từng làm ngược lời ấy. Mẫu đế thứ nhất dùng cát làm đối trọng. Nó rẻ, nhưng nếu đáy bung, cát lọt ra; độ ẩm cũng làm khối lượng thay đổi. Mẫu thứ hai dùng tấm gang bắt bằng ba vít, nặng hơn nhưng kiểm được. Giá tăng hai đồng bốn hào. Hùng chọn gang, bù lại bằng cách đơn giản hóa tay xách trang trí không có chức năng. Một chi tiết bị xóa khỏi bản vẽ tiết kiệm một đồng tám hào và một mối hàn.
+
+Cổ mềm mua ngoài chợ có hai loại. Loại rẻ giữ được góc trong mười lần đầu rồi xệ. Minh dựng phép thử: treo đầu đèn ở vị trí ngang, bật tắt và bẻ qua lại năm trăm chu kỳ bằng tay quay chậm. Ba mẫu rẻ xệ từ mười hai đến hai mươi độ; loại dày xệ dưới ba độ. Loại dày đắt hơn một đồng rưỡi nhưng được chọn. Điểm nối cổ vào đế thêm đai ốc hãm, vì keo không phải bằng chứng cơ học lâu dài.
+
+Ngày 20 tháng ba, mười bộ cực đồng đầu đến. Bề dày đúng, nhưng hai bộ có ba via quanh lỗ vít. Nếu lắp nguyên, ba via có thể cắt sợi dây khi siết. Minh trả hai bộ, giữ tám bộ đạt để lắp vào thân sứ mẫu. Ông yêu cầu xưởng dập thêm công đoạn rà mép và kiểm bằng sợi vải: kéo qua lỗ, vải không được mắc. Chủ xưởng lo chậm lịch một ngày. Lan cập nhật giao cực chính sang ngày 26, đui hoàn thiện ngày 30. Xưởng vẫn giữ hạn nếu các bộ phận kim loại được làm trước và không có lỗi mẫu nóng.
+
+Tám đui mẫu chạy với bóng sáu mươi oát trong chao thật. Cứ nửa giờ, Minh đo nhiệt bằng cùng một nhiệt kế tiếp xúc tại thân sứ, cực nối và đầu dây. Không có máy đo hiện đại, ông dùng quy trình lặp cùng vị trí, cùng thời gian, so với đui tốt mua sẵn. Mồ hôi chảy xuống gáy, tay ông vẫn vững — ông đã quen cái nóng của xưởng, cái nóng của sắt hàn, cái nóng của trách nhiệm đè lên vai khi mạng người nằm trong tay mình. Sau sáu giờ, đui mới không nóng hơn mẫu đối chứng; vít không lỏng; thân sứ không nứt. Hai đui khác chịu hai mươi lần tháo lắp bóng và mười lần tháo dây. Ren vẫn giữ. Minh cười, nhưng nụ cười tắt nhanh — ông biết phép thử này chỉ là bắt đầu, giống như bố ông dạy: "Mỗi lần mày tưởng xong rồi, nó lại đòi thêm một lần nữa."
+
+Phép thử điện lộ vấn đề khác. Khi công tắc tắt, một mẫu vẫn có điện ở ren ngoài của đui vì hai đầu dây bị đấu ngược: công tắc ngắt dây nguội thay vì dây nóng. Trong hệ thống điện hai chấu không phân cực, người dùng có thể đảo phích, nhưng quy trình vẫn phải thống nhất đường ngắt và giảm phần kim loại có điện khi thay bóng. Minh quy định dây đánh dấu đi qua công tắc tới cực giữa; dây còn lại tới ren. Sơ đồ được vẽ bằng màu và ký hiệu, không chỉ bằng lời.
+
+Hùng cầm sợi dây vừa tháo ra, miết ngón tay cái lên lớp nhựa bọc. Nó vẫn lạnh, nhưng anh biết cái lạnh ấy thật ra là sự yên tĩnh giả tạo trước một dòng điện ngầm. Anh nhớ lại một lần hồi nhỏ, tay trần cầm sợi dây điện trần của chiếc quạt cũ, bị giật bật ngửa, ngã ngồi xuống nền đất, cả cánh tay tê dại đến tận vai. Từ đó anh hiểu: dây điện không có lỗi, lỗi là do người dùng không biết nó nguy hiểm tới đâu. Anh nhìn sợi dây trên tay, rồi nhìn Minh, nói: "Nếu một đứa trẻ nghịch cái phích, tay ướt vì mồ hôi, thì cái chết không hỏi xem dây nào là dây nóng."
+
+Hùng yêu cầu thử lỗi chạm vỏ. Một dây mẫu bị cố ý làm xước rồi ép vào mép ống không có lót; sau nhiều lần bẻ cổ, đồng chạm thép. Cầu chì bàn thử ngắt. Điều đó chứng minh ống lót không thể bỏ. Với hai ống lót đúng cỡ và dây có vòng chống kéo, sau năm trăm chu kỳ lớp bọc không xước. Mọi phép thử phá hủy diễn ra qua cầu dao và cầu chì riêng; mẫu thử bị sơn đỏ, không nhập lại sản xuất.
+
+Đến ngày 23 tháng ba, bảng giá thành sơ bộ là sáu mươi chín đồng hai hào, vượt trần một đồng hai hào. Đui sứ mười bốn đồng; dây, phích, công tắc mười ba đồng; chao và cổ mười sáu đồng; đế gang cùng vỏ mười bảy đồng; sơn, ốc, đệm, nhãn bốn đồng; nhân công năm đồng hai hào. Không còn chỗ cắt ở cách điện hay độ ổn định.
+
+Lan rà từng khoản. Vỏ đế đang dùng hai tấm thép ghép bằng sáu vít để tiện mở sửa. Bốn vít đã đủ giữ nếu thêm hai tai gài dập liền; giảm được bốn hào và thời gian lắp. Chao sơn hai lớp toàn bộ, kể cả mặt trong đã phủ men chịu nhiệt từ cơ sở dập; bỏ lớp sơn trùng tiết kiệm năm hào. Bao gói ban đầu dùng hộp riêng cho bóng dù bóng chỉ là vật thử kèm theo; chuyển bóng vào khoang chèn trong cùng thùng, vẫn có vách bìa, tiết kiệm sáu hào. Giá thành dự kiến còn sáu mươi bảy đồng bảy hào, dưới trần ba hào.
+
+Hùng không coi ba hào là khoảng an toàn. Ông yêu cầu dự phòng hao hụt ít nhất năm hào. Cơ sở chao đang tính tiền cả sản phẩm méo. Ông Tam mang dưỡng tới kiểm ngay khi nhận. Trong ba mươi chao thử, bốn chiếc lệch cổ quá giới hạn. Cả bốn cùng ra từ khuôn số ba. Cơ sở sửa chốt khuôn và đồng ý chỉ tính chao đạt dưỡng. Tỷ lệ hao hụt dự kiến giảm, đưa giá thành về sáu mươi bảy đồng hai hào, còn tám hào đệm. MẾ nghe chuyện, không khen con trai biết mặc cả; bà chỉ lấy chiếc khăn nâu lau bụi gang trên tay ông Tam, bảo: "Làm đồ cho người ta dùng, đừng để người ta phải nhớ tên mình vì một vết bỏng." Câu nói rơi xuống giữa tiếng búa, nghe nhẹ mà nặng như tấm gang.
+
+Ngày 30 tháng ba, hai trăm đui sứ tới Hoài Đức, chậm một ngày so với lịch sửa đổi nhưng vẫn trong khoảng dự phòng. Lan không nhập kho theo số bao. Ba người kiểm đủ hai trăm chiếc: mắt sứ không nứt; cực đúng bề dày; vít ăn đủ ren; vải không mắc ba via; vòng ren lắp bóng mẫu trơn. Mười một chiếc bị loại: năm thân sứ rạn chân, ba cực lệch, ba vít trượt. Tỷ lệ đạt chín mươi tư phẩy năm phần trăm. Chỉ một trăm tám mươi chín chiếc được nhập. Số này vẫn đủ cho một trăm năm mươi sản phẩm và dự phòng, nhưng thấp hơn hai trăm đã đặt.
+
+Cơ sở Bát Tràng muốn bù bằng mười một chiếc từ lô dùng cực thép mạ. Lan từ chối vì đó không phải cấu hình đã thử. Họ phải làm lại bằng cực đồng, giao sau ngày 5 tháng tư. Khoản thanh toán giữ lại đúng giá trị mười một chiếc. Nguồn cung chưa hoàn toàn thông, nhưng sản xuất không phải dừng: xưởng phát một trăm sáu mươi đui đạt vào chuyền, giữ hai mươi chín chiếc cho thay thế và phép thử.
+
+Dây chuyền ĐB-01 chỉ có năm bàn. Bàn một lắp đối trọng và cổ; bàn hai luồn dây cùng ống lót; bàn ba đấu đui và công tắc; bàn bốn lắp chao, kiểm cơ; bàn năm kiểm điện và chạy thử. Mỗi số thân được dập dưới đế trước khi lắp. Nếu đèn quay lại bàn trước, phiếu đi cùng; không được đổi thân để giấu lỗi. Xưởng nhỏ, mỗi người chỉ cách nhau một cánh tay. Tiếng búa gõ lên gang lanh lảnh, tiếng kéo cắt dây rạch một cái gọn, mùi nhựa hàn khói thoang thoảng bốc lên rồi tan nhanh khi quạt hút kéo đi. Công nhân ai cũng có đôi tay thô ráp, móng cắt ngắn, vết dầu máy bám ở kẽ ngón — đôi tay quen hơn bắt tay ai đó.
+
+Lô đầu ba mươi chiếc có ba lỗi lần đầu, mười phần trăm: một công tắc đấu nhầm, một dây bị kẹp dưới tấm gang, một đế nghiêng. Mức ấy vượt xa mục tiêu bốn phần trăm. Hùng dừng chuyền sau ba mươi chiếc. Ông không lấy lý do công nhân đang học để hạ chuẩn.
+
+Lỗi đấu nhầm xảy ra vì hai dây cùng màu, chỉ một dây có gân rất khó thấy dưới ánh sáng xưởng. Lan mua vòng vải đỏ nhỏ để đánh dấu đầu dây qua công tắc. Lỗi kẹp dây do rãnh dẫn nằm khuất khi đặt tấm gang; ông Tam thêm một chốt gỗ giả lập đường dây, chỉ rút sau khi tấm vào đúng vị trí. Đế nghiêng do một tai gài dập chưa hết; dưỡng mặt phẳng được đặt trước sơn, vì sau sơn mới sửa sẽ phá lớp phủ.
+
+Lan khóa bảng sản xuất:
+
+- sản phẩm: đèn bàn ĐB-01, 220 vôn, bóng tối đa 60 oát;
+- mục tiêu: 150 chiếc trong 45 ngày; thực tế: 150 chiếc trong 35 ngày;
+- lỗi lần đầu: 6 trên 150, bằng 4%;
+- mẫu thử nhiệt: 30 chiếc, đủ 6 giờ sau mọi lần sửa;
+- mẫu thử điện áp ngoài xưởng: 5 chiếc đạt theo biên bản;
+- giá thành trần: 68 đồng; thực tế: 67 đồng 6 hào;
+- đui sứ thiếu ban đầu: 140 chiếc so với nhu cầu khởi điểm, xử lý bằng đơn mua gộp và kiểm lô;
+- đui bị loại lần đầu: 11 chiếc, được làm lại đúng vật liệu;
+- số bán chưa ghi nhận: 0, vì chưa giao;
+- tiền đặt trước: ghi riêng, chưa phải doanh thu.
+
+Năm mươi mét vuông kho mới được dành cho đui sứ, chao và thành phẩm, nâng tổng diện tích từ hai nghìn sáu trăm lên hai nghìn sáu trăm năm mươi mét vuông. Tổng kinh nghiệm tăng từ ba nghìn sáu trăm lên ba nghìn tám trăm. Mẫu chuẩn ĐB01-0001, một chao lỗi, một đui nứt và đoạn dây thử chạm vỏ được niêm phong thành bộ đối chứng. Vật lỗi không trở lại chuyền.
+
+Hùng đứng trước một trăm năm mươi chiếc đèn đã tắt. Chúng xếp thành hàng dài trên kệ gỗ, chao kim loại sáng loáng dưới ánh đèn trần, những sợi dây điện cuộn gọn bên cạnh. Ông không bật tất cả để tạo cảnh sáng rực; tải điện xưởng và ý nghĩa của nhiệm vụ không cần màn trình diễn ấy. Ông chỉ bật mẫu chuẩn, chỉnh cổ xuống trang sổ của Lan. Một trăm năm mươi cái bóng kim loại xếp hàng im lặng, mùi sơn mới lẫn mùi sắt non — mùi của làm ra cái gì đó, mùi mà ông chỉ nghe được ở cuối một đợt làm việc chăm chỉ.
+
+Ánh sáng vàng ấm từ bóng đèn hắt lên mặt bàn, làm nổi bật từng con số, từng đường kẻ. Trong im lặng, ông nghe tiếng thở của chính mình, tiếng chuột kêu dưới nền gỗ, tiếng gió lùa qua khe mái tôn. Tay ông đặt lên một chiếc chao, cảm nhận lớp sơn mịn và độ nguội của kim loại. Mỗi chiếc đèn đã qua tay bao người: từ ông Tam dập khuôn, đến Minh kiểm mạch, đến Lan ghi sổ, đến những công nhân lắp ráp mà Hùng chưa thuộc hết tên. Ông thấy mình nhỏ lại trước số lượng ấy, trước những con người đã làm ra nó. Tự dưng ông nhớ bố mình, một người thợ mộc già, từng nói: "Mỗi cái bàn tao làm ra đều có một phần linh hồn trong đó, mày ạ." Hồi đó Hùng cười. Bây giờ ông hiểu. Một trăm năm mươi linh hồn nhỏ, xếp hàng trên kệ, chờ được mang đi. Ánh sáng nằm đúng trên những con số còn mở: một trăm ba mươi chiếc phải giao cho ba cửa hàng, hai mươi chiếc phải phân rõ, bảy mươi phần trăm tiền còn chưa thu, mười ngày lỗi thực tế chưa bắt đầu.
+
+Sản xuất đèn điện đã có vật thật, chuẩn thật và một nguồn cung được vá bằng hợp đồng có kiểm. Nhiệm vụ hoàn thành đèn vẫn ở phía trước. Hùng ký giao Lan chuẩn bị danh sách số thân; Minh chuẩn bị dụng cụ nghiệm thu; ông Tam sửa cách chèn chao để không lặp lỗi xước của quạt. Không ai được cộng lại hai trăm điểm khi cùng một lô được giao trong chương sau.
+
+***
+
+Ngoài phố, tin về cửa hàng Bằng bay nhanh. Mùi khói bếp chiều lẫn mùi rác ngoài cống — ngày nào cũng mùi, ngày nào cũng lo lắng. Khách mua hàng của Bằng bắt đầu phàn nàn: kẹo chảy đường, áo sờn chỉ, dép đứt quai. Một người đàn ông chửi ầm lên trước cửa hàng Thương Gia, giọng khàn đặc, tay chỉ vào mặt Lan:
+
+— Đồ nhà mày bán hàng rẻ mà rác! Cả chục đứa trong xóm tao mua, đứa nào cũng chửi!
+
+Lan chạy ra, giải thích hàng không phải của Thương Gia. Người đàn ông không tin, quay sang nói Bằng bảo do Thương Gia phá giá. Chị Thu từ HD-1 kể lại: Bằng đi từng nhà, bảo Hùng ghen ăn tức ở, xúi khách sang quấy rối. Tối hôm ấy, Lan mang chuyện kể lại với Hùng. Ông im lặng hồi lâu, rồi nói:
+
+— Không cãi với người đổ lỗi. Giữ hàng mình sạch. Khách sẽ tự biết.
+
+Nhưng Lan thấy trong mắt ông có một tia gì đó — không phải lo lắng, mà là một nỗi buồn dai dẳng, như cũi sắt đè lên cổ họng từ lâu, và ông đã quen không nói ra. Cô muốn hỏi về chuyện năm 1978, về cha Bằng từng khai cha Hùng, nhưng cô không dám.
+
+Hùng ngồi xuống bên chiếc đèn bàn mẫu ĐB-01, bật công tắc. Ánh sáng vàng ấm tỏa ra từ chao kim loại, hắt lên mặt bàn gỗ, làm hiện rõ từng vân gỗ, từng vết xước nhỏ trên mặt bàn. Ông đưa tay chạm vào chao – còn mát. Đã chạy sáu giờ liên tục. Ông chỉnh cổ đèn, hạ thấp xuống, rồi ngước lên cao. Cơ cấu giữ chặt, không xệ. Ông tắt đèn, rút phích, xoay đui bóng ra xem. Cực đồng vẫn sáng, không đổi màu. "Tốt," ông nói, như nói với chính mình.
+
+Hai người ngồi ăn cơm tối. Mùi cơm mới, mùi canh chua cá lóc, mùi thịt kho tàu. MẾ đã dọn sẵn, hai chén cơm đầy, đĩa thịt kho trứng còn hơi nóng bốc lên, mùi nước mắm caramel ngọt lịm lẫn với tiêu đen nghiền nhỏ. Bà ngồi bên bàn, tay khoanh lại, mắt nhìn Hùng và Lan ăn, miệng không nói nhưng đôi mắt đã kể hết — mắt bà đỏ hoe vì đã khóc lúc một mình trong bếp, khóc vì tự hào, vì con trai đã làm được cái mà cả xóm chưa ai dám nghĩ. Bà bưng bát chua cho Hùng, nói khẽ: "Ăn đi, đừng để bụng rỗng mà lo nghĩ." Rồi bà liếc qua cửa sổ, thấy đèn mẫu vẫn sáng trong xưởng — cái ánh sáng vàng ấm ấy là lần đầu tiên trong đời bà thấy ánh sáng do con mình làm ra. Bà nuốt nước mắt, quay đi, vờ lau tay vào tạp dề.
+
+***
+
+Buồng tối sáng bừng khi sáu bóng bật cùng lúc. Minh đo sụt áp, mắt dán đồng hồ, tay siết que thử.
+
+"Chui đui?" Lan hỏi.
+
+"Một trăm lần tháo lắp — chưa lỏng," Minh gật. Ông thở, liếc Hùng. "Đẹp chưa đủ. Radio đã dạy rồi."
+
+Hùng cau, nắm bút ghi: chưa bán lẻ. Ông buông bút khi mế gõ cửa xưởng. "Con tắt cầu dao chưa?" Bà hỏi. Hùng ngẩng, cười vì đúng việc cần hỏi. "Rồi ạ."
+
+Lan khóa tủ, chìa khóa nắm trong lòng bàn tay ẩm. Ngoài đường mùi bụi chiều; trong xưởng còn mùi nhựa đui mới. Mẫu giữ nằm đó — bán khi nào lô vật tư có tem, không khi nào vì bóng sáng một lần.
+
+MẾ tưởng mọi chuyện đã yên. Bà kéo cửa sắt xuống, nghe từng thanh kim loại nghiến vào nhau. Lan vừa gài then thì một tiếng "tách" vang lên dưới kệ mẫu. Không phải tiếng công tắc. Minh quỳ xuống, đưa tay lần theo sợi dây trong bóng tối. Đèn ĐB01-0007 bật sáng dù phích đã rút khỏi ổ.
+
+Hùng giật tay ông ra.
+
+Trong chao, bóng đèn đỏ lên. Ngoài cửa, ai đó đang thử xoay chiếc chìa khóa dự phòng trong ổ khóa xưởng.
+
+MẾ nín thở. Lan siết chặt chùm chìa. Minh nhìn Hùng, nói rất khẽ:
+
+— Có người ở trong kho.
+
+Tiếng then cửa xoay thêm một nấc. Ánh sáng vàng trên mặt bàn vụt tắt, để lại một vệt khói đen mảnh bay lên từ dây điện.
+
+Hùng chưa kịp với tay tới cầu dao thì tiếng khóa bật mở.
+
+「Hệ thống — GHI NHẬN ch.43」
+Năm: 1985
+Tổng EXP: 3,800 (+200 nhịp này)
+Không gian kho: 2,650m² (+50m²)
+Kỹ năng trọng yếu: Thương mại lv2, Sản xuất lv1, Sản xuất giày lv1, Quản lý lv1
+Ghi chú: Thử sản xuất đèn điện: sụt áp + chui đui; mẫu giữ trước bán lẻ.
+
+============================================================

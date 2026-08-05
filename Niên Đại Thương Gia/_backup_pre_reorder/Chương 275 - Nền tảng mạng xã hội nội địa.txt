@@ -1,0 +1,103 @@
+============================================================
+Chương 275: Nền tảng mạng xã hội nội địa
+============================================================
+
+Năm 2007, tại Singapore. Hùng ngồi trong phòng khách của một tòa nhà cao tầng ở khu tài chính Raffles Place, nơi tập trung những ngân hàng lớn nhất châu Á. Phòng được trang trí theo phong cách tối giản — tường trắng, ghế sofa da đen, bàn kính trong suốt. Trên bàn là một ấm trà sen và hai chiếc tách sứ trắng, miệng ấm đậy nắp bạc lấp lánh dưới ánh đèn LED âm trần. Bên ngoài hành lang, cô thư ký người Singapore phục vụ trà bánh mỗi hai mươi phút — một thói quen lịch sự mà Hùng thấy lạ lẫm nhưng dễ chịu. Qua cửa sổ kính từ trần đến sàn, toàn bộ đường chân trời Singapore hiện ra: những tòa nhà chọc trời của khu thương mại trung tâm, những cần cẩu xây dựng vươn lên không ngừng, và dòng sông Singapore lấp lánh dưới ánh nắng nhiệt đới. Xa xa, những con tàu container đang cập cảng, nối Singapore với toàn thế giới. Mùi trà sen thoang thoảng trong không khí điều hòa lạnh, tách biệt hoàn toàn với cái nóng oi bức ngoài cửa sổ kính, nơi nhiệt độ hơn ba mươi độ C đang hun nóng mặt đường Orchard Road. Sự lạnh buốt nơi cổ tay đối lập với lớp mồ hôi tưởng tượng trên gáy khiến Hùng thấy cuộc đàm phán này giống một con dao đặt giữa hai mùa.
+
+Đối diện Hùng là Michael Tan — một doanh nhân gốc Hoa, ba mươi tám tuổi, người sáng lập startup công nghệ về mạng xã hội. Michael mặc áo phông trắng, quần jeans xanh, chân đi giày thể thao — khác hẳn phong cách complet vest và cà vạt của Hùng. Đôi bàn tay Michael gõ liên tục trên mặt kính bàn — những ngón dài, móng cắt ngắn, móng tay cái tì lên mặt kính tạo vết mờ hình bán nguyệt. Nhưng trong mắt Michael có một tia sáng mà Hùng chưa từng thấy ở bất kỳ đối tác nào trước đây — sự tự tin của một người đã nhìn thấy tương lai, khao khát đến mức gần như cuồng tín. Hùng nhạy cảm với ánh mắt đó. Ba mươi năm kinh doanh, ông đã gặp hàng trăm đối tác — kẻ nào nói thật, kẻ nào nói khoác, nhìn mắt là biết. Nhưng kẻ nào có tia lửa thật sự thì chỉ đếm trên đầu ngón tay.
+
+Michael nói tiếng Anh nhanh, giọng Singapore pha Mỹ, thỉnh thoảng xen vài từ tiếng Quảng Đông. "Anh Hùng, tôi đã nghiên cứu về Thương Gia suốt ba tháng qua. Một tập đoàn sản xuất lớn nhất Việt Nam, với hệ thống phân phối rộng khắp ba miền, hơn mười nghìn nhân viên, doanh thu nghìn tỷ. Ấn tượng thật đấy. Nhưng anh biết vấn đề của anh là gì không?"
+
+Hùng nhấp một ngụm trà sen. Hương trà thơm dịu, thoảng chút vị chát nơi đầu lưỡi. Ông đặt tách xuống, ngón tay cái khẽ xoa thành tách sứ. "Nói tôi nghe."
+
+"Anh không có kết nối trực tiếp với người tiêu dùng. Anh sản xuất hàng, bán qua đại lý, qua nhà phân phối, qua siêu thị — và anh không bao giờ biết ai đã mua hàng của mình. Họ tên gì? Họ bao nhiêu tuổi? Họ thích gì? Họ ghét gì? Trong thời đại internet, đó là một điểm yếu chết người. Ở Mỹ, Amazon biết từng khách hàng của họ. Ở Trung Quốc, Alibaba biết từng khách hàng của họ. Còn Thương Gia? Anh bán hàng trong bóng tối."
+
+Hùng không trả lời ngay. Ông đặt tách xuống, cảm nhận hơi nóng của trà còn tỏa lên đốt ngón tay cái. Ông nhìn Michael, nhưng trong đầu ông đang nghĩ về những chuyến hàng xuất khẩu đầu tiên — ngày xưa, khi ông còn chạy bộ giữa các cảng Hải Phòng, bì thư chứa hợp đồng bỏ trong túi xốp nilon, sợ ướt. Về những container chất đầy sản phẩm lên đường sang châu Âu — giờ đây, chúng ra khỏi nhà máy bằng robotic arm, nhưng người mua cuối cùng vẫn là một cái bóng xa vời. Michael nói đúng. Ông chưa bao giờ gặp người tiêu dùng cuối cùng. Ông chỉ gặp các đại lý, các nhà nhập khẩu, các CEO của chuỗi siêu thị. Họ là những người trung gian. Họ biết khách hàng của họ, nhưng Thương Gia thì không. Và trong bụng ông thấp thỏm một nỗi lo khác: nếu biết rõ người tiêu dùng, liệu Thương Gia có dùng thông tin đó để thao túng giá hay không? Ông gạt ý nghĩ đó đi — nhưng nó để lại vị đắng nơi cổ họng, giống như một lời nhắc nhở rằng tiền và đạo đức luôn đi trên hai đường song song, tưởng chạm nhau nhưng không bao giờ thực sự giao.
+
+"Và anh có giải pháp?" Hùng hỏi, giọng trầm. Mùi trà sen đã nhạt, thay bằng mùi mực in-slide thoang thoảng từ máy chiếu nhỏ đặt trên kệ tường.
+
+"Một nền tảng mạng xã hội nội địa. Do Thương Gia phát triển, dành cho người Việt Nam, do người Việt Nam vận hành. Không phải Facebook — Facebook là toàn cầu, nhưng nó không hiểu văn hóa Việt Nam. Nó không biết người Việt thích ăn gì, mặc gì, xem gì. Nó không biết người Việt cần một cái Tết đoàn viên, cần mua quà biếu ông bà, cần tìm một bát phở ngon cuối tuần. Tôi đề xuất một nền tảng tích hợp thương mại điện tử, kết nối cộng đồng, và chia sẻ thông tin. Một nền tảng không chỉ để chat, mà để mua bán, để học hỏi, để chia sẻ cuộc sống."
+
+Michael mở laptop — một chiếc MacBook bạc mỏng, nắp có logo quả táo cắn dở phát sáng — rồi kết nối với màn hình lớn phía sau. Anh ta trình chiếu một bản thuyết trình. Những slide được thiết kế chuyên nghiệp, với biểu đồ tăng trưởng, dữ liệu thị trường, và mockup giao diện. Michael cuộn ngón tay trên bàn di chuột, phóng to biểu đồ. Một đường cong màu xanh lá tăng vút từ góc trái lên góc phải, vẽ thành hình chữ J — khởi đầu chậm, rồi bùng nổ. Hùng nhìn những con số — 25 triệu người dùng internet tại Việt Nam, tăng 40% mỗi năm, dự báo 50 triệu vào năm 2013. 70% người dùng dưới ba mươi tuổi — một nửa số đó sống ở các thành phố, phần còn lại ở nông thôn, nơi internet giống như một tia sáng lọt qua khe cửa. Thời gian sử dụng internet trung bình 4,5 giờ mỗi ngày — nhiều hơn thời gian đọc sách gấp ba lần. Hùng chợt nhớ đến Minh, thằng bé từng kéo dây modem dial-up vào năm 1998, mắt sáng lên khi thấy trang đầu tiên load được. Bây giờ, chín năm sau, internet đã lớn lên nhanh hơn cả những ước mơ lớn nhất của Hùng.
+
+"Anh thấy không?" Michael nói, mắt sáng lên. "Đây là một thị trường khổng lồ chưa được khai thác đúng cách. Facebook đang chiếm lĩnh, nhưng nó là nền tảng toàn cầu, không phải nền tảng địa phương. Người Việt cần một không gian riêng, nơi họ có thể nói tiếng Việt, chia sẻ văn hóa Việt, và mua hàng Việt."
+
+Hùng hỏi: "Chi phí?"
+
+"Phát triển nền tảng: khoảng 2 triệu đô la Mỹ, tương đương 35 tỷ đồng. Vận hành năm đầu: 500.000 đô, khoảng 8,5 tỷ. Tiếp thị và quảng bá: 1 triệu đô, khoảng 17 tỷ. Tổng cộng 3,5 triệu đô, tương đương khoảng 60 tỷ đồng."
+
+Hùng không nao núng. 60 tỷ là một con số lớn, nhưng không phải là không thể với Thương Gia. Ông nhẩm trong đầu: bằng lợi nhuận hai năm của nhà máy Hà Nội. "Bao giờ hòa vốn?"
+
+Michael lật sang slide tiếp theo. "Năm thứ ba, nếu đạt 5 triệu người dùng. Doanh thu từ quảng cáo và hoa hồng thương mại điện tử sẽ bắt đầu bù đắp chi phí. Năm thứ năm, nếu đạt 15 triệu người dùng, chúng ta sẽ có lợi nhuận."
+
+"Tỷ lệ thành công?"
+
+Michael cười — một nụ cười hơi gượng. Anh ta không né tránh câu hỏi. "Thấp. Rất thấp. Chín mươi phần trăm startup mạng xã hội thất bại trong năm đầu tiên. Nhưng nếu thành công, phần thưởng là rất lớn. Anh có thể trở thành Mark Zuckerberg của Việt Nam. Hoặc anh có thể mất 60 tỷ. Cả hai đều có thể."
+
+Đó là câu trả lời trung thực. Hùng thích điều đó. Ông ghét những người bán hàng hứa hẹn mọi thứ mà không nói về rủi ro. Năm ngoái, một nhà tư vấn đến từ Hà Nội hứa hẹn doanh số gấp đôi chỉ trong sáu tháng. Kết quả: sáu tháng sau, hợp đồng bị hủy và nhà tư vấn biến mất — để lại trên bàn Hùng một đống giấy tờ vô dụng và mùi thuốc lá rẻ tiền còn bám trên áo vest. Michael không phải kiểu người đó. Michael nói "thất bại" trước khi nói "thành công" — đó là dấu hiệu của người biết việc. Hùng đưa mắt nhìn xuống bàn tay Michael — những vết chai mỏng nơi gốc ngón trỏ và ngón giữa, dấu vết của hàng ngàn giờ gõ bàn phím. Tay của người thật sự ngồi vào bàn làm việc, không phải của kẻ chỉ biết nói.
+
+"Tôi có ba câu hỏi," Hùng nói, giọng bình thản. "Một: tại sao anh không tự làm mà đến tìm tôi? Hai: ai sẽ quản lý nền tảng này? Ba: Thương Gia được gì ngoài tiền?"
+
+Michael không ngần ngại: "Tôi không tự làm vì tôi không có mạng lưới ở Việt Nam. Tôi có công nghệ, có ý tưởng, có kinh nghiệm từ Google, nhưng tôi không có đất ở Việt Nam. Tôi không biết quan hệ với cơ quan quản lý, không biết văn hóa doanh nghiệp Việt Nam, không biết cách tuyển dụng nhân tài ở đó. Anh có tất cả những thứ đó. Người quản lý sẽ là một đội ngũ chuyên nghiệp, do tôi và Thương Gia cùng chọn. Tôi đề xuất một CEO người Việt, có kinh nghiệm ở cả hai thế giới — Việt Nam và quốc tế. Và Thương Gia được gì? Ngoài lợi nhuận, anh có được dữ liệu người tiêu dùng — thứ quý giá hơn tiền trong thời đại số. Dữ liệu không bao giờ cũ, không bao giờ hết hạn. Một người tiêu dùng mua bột giặt hôm nay, mười năm nữa vẫn cần bột giặt. Nhưng nếu anh không biết họ mua gì, họ sẽ mua của đối thủ."
+
+Hùng suy nghĩ. Câu chuyện của Michael có lý. Nhưng ông biết công nghệ thay đổi nhanh chóng. Một nền tảng mạng xã hội hôm nay có thể trở nên lỗi thời trong vòng ba năm. Và 60 tỷ đồng là một khoản đầu tư lớn, tương đương với lợi nhuận của một nhà máy cỡ trung trong hai năm. Ông nhớ lại lần đầu tiên nghe đến internet — năm 1998, khi Minh còn là cậu bé mười tuổi, kéo dây modem điện thoại dial-up kết nối với thế giới bên ngoài. Lúc đó ông nghĩ: đây chỉ là thú vui giải trí. Bây giờ, hai mươi năm sau, nó đã trở thành huyết mạch của kinh tế toàn cầu. Ai biết mười năm nữa nó sẽ ở đâu.
+
+"Tôi cần thời gian suy nghĩ," Hùng nói, đứng dậy. "Một tháng."
+
+Michael bắt tay Hùng. Bàn tay anh ta chắc, từng ngón dài, móng cắt gọn — tay của một người đã từng làm việc nặng, nhưng cũng đã từng gõ bàn phím mười hai tiếng mỗi ngày. Hùng bắt lại, cảm nhận sức bóp mạnh vừa phải. Đối tác tốt thường bắt tay chắc, không lỏng lẻo cũng không quá chặt. "Tôi hy vọng câu trả lời là có. Tôi tin rằng Thương Gia và công nghệ sẽ là một sự kết hợp tuyệt vời. Nếu không phải tôi, thì sẽ có người khác đến với anh. Công nghệ không chờ ai. Và người Việt Nam cũng không nên chờ — nếu không chính người Việt sẽ tạo ra nó."
+
+***
+
+Ra khỏi tòa nhà, Hùng đi bộ dọc theo bờ sông Singapore. Buổi chiều, gió biển thổi mát, mang theo mùi muối và mùi hoa sứ — cái mùi thanh tao mà người Singapore trồng khắp nơi, từ công viên đến vỉa hè, biến thành phố thành một khu vườn lớn. Những tàu du lịch lướt nhẹ trên mặt nước, sóng nhỏ lăn tăn vệt trắng phía đuôi. Trên boong, những du khách mặc áo cộc tay, tay cầm ly rượu vang đỏ, mắt nhìn về phía bờ. Một gia đình châu Âu ngồi ở mũi tàu, đứa trẻ con chỉ tay về phía mỏm đất nhô ra giữa sông, miệng nói gì đó bằng tiếng Pháp. Hùng không hiểu, nhưng thấy vui — niềm vui đơn giản khi thấy người ta hạnh phúc, không liên quan đến tiền bạc hay hợp đồng. Khung cảnh thanh bình, khác xa với sự ồn ào của các cuộc đàm phán. Ông đứng dưới tàn cây phượng vĩ, hoa đỏ rụng đầy vỉa hè, bàn chân ông giẫm lên những cánh hoa mềm — cảm giác mềm như giấy lụa dưới chân. Một người chạy bộ da trắng chạy ngang qua, gật đầu mỉm cười. Hùng gật lại. Ở đây, ông là người lạ — một người Việt da nâu, vest xám, giữa một biển người châu Á da trắng và áo sơ mi. Ông dừng lại một lúc, tựa tay lên lan can sắt lạnh bóng, nhìn xuống mặt nước — xanh thẫm, gợn lăn tăn, phản chiếu ánh hoàng hôn cam đỏ. Phía xa, Marina Bay Sands nổi bật với ba tòa tháp bạc, tòa trung tâm nhọn hoắt như mũi tàu. Ông nghĩ đến Hà Nội — thành phố ông yêu, với những con phố nhỏ, những quán phở nghi ngút khói, những hàng cây sấu ven hồ Hoàn Kiếm, những buổi chiều mưa phùn rơi lất phất trên vỉa hè đá ong. Singapore đẹp, nhưng không phải nhà. Nhà là nơi mà mế còn thức đợi ông về, nơi Lan cất giọng hỏi "anh ăn cơm chưa" qua điện thoại, nơi Minh để đèn học đến khuya. Ông thấy mũi mình cay — không phải vì gió, mà vì nhớ nhà.
+
+Ông gọi điện cho Lan. "Anh vừa gặp một người tên Michael Tan. Anh ta muốn hợp tác với Thương Gia để phát triển một nền tảng mạng xã hội cho người Việt."
+
+Lan hỏi: "Anh có tin anh ta không?"
+
+"Anh chưa biết. Nhưng anh ta nói có lý. Vấn đề là anh không hiểu nhiều về công nghệ."
+
+"Nhưng anh biết người Việt Nam cần gì. Đó là lợi thế của anh. Công nghệ chỉ là công cụ. Còn nội dung và văn hóa mới là quan trọng."
+
+Hùng cúp máy. Tiếng tút tút vang lên trong buồng điện thoại công cộng ở tầng trệt tòa nhà. Ông bước ra ngoài, đứng dưới mái hiên. Trời Singapore nóng ẩm, hơi nước bốc lên từ mặt đường nhựa, mang theo mùi xăng xe và mùi hoa lài dại trồng hàng rào bên vệ đường — cái mùi nồng nàn, ngọt gắt, khác với hoa lài Việt Nam dịu dàng hơn, nhẹ nhàng hơn. Ông rút khăn giấy lau mồ hôi trên trán, rồi dừng lại — nhìn bàn tay mình, những nếp nhăn nơi gốc ngón tay, vết sẹo nhỏ trên mu bàn tay trái, vết tích của lần ông tự tay bốc hàng trong kho năm 1985 khi công ty chỉ có ba người. Bây giờ, hai mươi hai năm sau, ông đang đứng ở Singapore, trước một quyết định có thể thay đổi hoàn toàn hướng đi của Thương Gia. MẾ thường bảo: "Anh suy nghĩ nhiều quá, đẻ ra bệnh." Nhưng không suy nghĩ, thì đẻ ra sai lầm. Ông không biết cái nào tệ hơn.
+
+Trên chuyến bay về Hà Nội, Hùng mở lại slide của Michael Tan. Ba mươi trang, chữ nhỏ, biểu đồ tăng trưởng hình chữ J. Ông liếc từng trang rồi gấp lại. Mùi cà phê máy bay nhạt, ngọt giả, khác với mùi cà phê phin-filter mà mế vẫn pha mỗi sáng — cái mùi đắng chát mà ông yêu, cái mùi mà không quán cà phê nào ở Singapore hay bất kỳ nơi nào trên thế giới có được. Tiếng động cơ đều. Qua cửa sổ, bầu trời đêm không một vì sao, chỉ có ánh đèn đỏ nhấp nháy trên cánh máy bay, nhắc nhở rằng giữa không trung bao la, con người vẫn phải dựa vào đèn hiệu để biết mình ở đâu. Ông thấy mình cũng vậy — giữa biển công nghệ, ông cần một cái đèn hiệu. Và ông nghĩ: nếu không tìm được, có lẽ ông phải tự thắp lên một cái.
+
+Ông gọi Lan khi máy bay vừa lăn bánh. "Anh vừa gặp một người muốn làm mạng xã hội tiếng Việt. Anh chưa ký gì."
+
+"Anh tin không?" Lan hỏi, giọng trực tiếp.
+
+"Anh tin anh ta nói thật về rủi ro. Anh chưa tin sản phẩm." Hùng thở. "Anh cho một tháng thử dữ liệu. Không giải ngân trước."
+
+Lan gật phía đầu dây. "Em sẽ soạn checklist: người dùng thật, nội dung tiếng Việt, chi phí giữ người. Nếu không đạt, dừng."
+
+"Đúng." Hùng nhìn ra cửa sổ kính ướt mưa Singapore còn đọng trong đầu. "Công nghệ chỉ là ống. Nội dung mới là nước."
+
+Bây giờ, cũng vậy. Mọi người sẽ nói ông điên khi đầu tư 60 tỷ vào một cái gọi là "mạng xã hội" — thứ mà hầu hết người Việt chưa hiểu. Nhưng nếu ông không làm, ai đó sẽ làm. Và Thương Gia sẽ bị bỏ lại phía sau.
+
+Hùng quyết định: ông sẽ đầu tư một nửa số tiền Michael yêu cầu — 30 tỷ — và giữ quyền kiểm soát 51% cổ phần. Nếu thành công, Thương Gia sẽ có một nền tảng mạng xã hội riêng. Nếu thất bại, số tiền mất đi cũng không ảnh hưởng quá lớn đến tập đoàn. Đây là một canh bạc có tính toán. Nhưng dù tính toán đến đâu, ông vẫn thấy tim đập nhanh hơn một chút. Ba mươi năm qua, mỗi quyết định lớn đều khiến ông hồi hộp như vậy — lần đầu vay ngân hàng, lần đầu xuất khẩu, lần đầu mở nhà máy ở Hải Phòng. Sự hồi hộp đó, ông nghĩ, chính là dấu hiệu của người còn sống. Người nào không còn hồi hộp, thì đã bắt đầu chết.
+
+Tuy nhiên, kế hoạch này không bao giờ được thực thi — ít nhất không phải theo cách mà Hùng đã hình dung. Một biến cố bất ngờ xảy ra khiến Hùng phải thay đổi mọi ưu tiên.
+
+***
+
+Hai ngày sau, tại Hà Đông, Hùng họp nhỏ với đội công nghệ nội bộ. Không có slide hoa mỹ. Chỉ có một bảng trắng và ba câu hỏi: ai quản trị nội dung, ai giữ dữ liệu người dùng, ai chịu trách nhiệm khi có tin xấu lan.
+
+Kỹ sư Dũng cau mày. "Anh Hùng, mình chưa có đội đủ mạnh cho cái này."
+
+"Thì chưa làm lớn," Hùng đáp. "Làm phép thử. Ai hứa chắc thắng, cho về."
+
+Phòng họp im. Tiếng quạt trần quay đều, cánh quạt quét gió mát rượi xuống đầu mọi người. Lan ghi biên bản, tay siết bút, mắt không rời bảng. Dũng vẫn cau mày, nhưng đã bắt đầu vẽ sơ đồ trên giấy nháp — sơ đồ hệ thống, với các mũi tên nối liền: người dùng, nội dung, dữ liệu, quảng cáo. Mặc dù nói chua chát“chưa đủ mạnh”, anh ta đã bắt đầu nghĩ về cách làm. MẾ gọi vào giờ cơm; Hùng bảo con về muộn. Ông biết nếu vội bỏ tiền, ông sẽ mua một lời hứa. Ông không mua lời hứa nữa. Một lời hứa không có nền tảng giống như sợi dây thừng không có móc — giật mạnh là đứt.
+
+Cuối tuần, Michael gửi email hỏi tiến độ. Hùng trả lời đúng một dòng: "Đang đo. Chưa ký." Rồi ông tắt máy, cất laptop vào túi vải, đi ra hiên hít gió đêm Hà Đông. Gió mát rượi, mang theo mùi cỏ ướt và mùi đất sau cơn mưa rào chiều. Cái mùi ông yêu nhất — mùi của sự bắt đầu. Phía trước vẫn còn một tháng — đủ dài để thấy rễ có mọc hay không. Ông tựa người vào lan can sắt lạnh, mắt nhìn ra khoảng vườn nhỏ phía sau nhà. Cây xoài đã ra hoa trắng lấm tấm trên cành, mùi ngọt nhẹ thoảng trong gió — cái mùi ngọt của những ngày cuối xuân, khi thời tiết bắt đầu chuyển mình. Tiếng dế mèn kêu râm ran ngoài vườn, xen lẫn tiếng ếch nhái dưới mương.
+
+Minh vừa từ thư viện về, dắt xe vào nhà. Thấy bố ngoài hiên, cậu dừng lại: “Bố chưa ngủ à?” Hùng lắc đầu: “Chưa. Con cũng chưa?” Minh cười: “Con ôn bài.” Cậu bé đã lớn — cao gần bằng bố, vai rộng, ánh mắt giống hệt mẹ khi tập trung. Hùng thấy lòng ấm lại. Ông muốn để lại cho thằng bé không chỉ một nhà máy, mà còn cả cách suy nghĩ — biết nghe, biết chờ, biết dừng đúng lúc. Trăng thượng tuần hình lưỡi liềm treo trên đỉnh cây xoài. Ông nghĩ đến Lan — cô đang ở nhà làm checklist, nghĩ đến Minh — đứa con trai sắp học xong đại học, nghĩ đến mế — người mẹ đã hơn hai mươi năm cùng ông đi qua mọi sóng gió, từ cái ngày ông chỉ có một xe hàng rong trên đường Phố Huế cho đến khi Thương Gia trở thành tập đoàn. Ông muốn để lại một cái gì đó lớn hơn một nhà máy. Nhưng ông chưa biết đó là gì — và ông sợ rằng nếu ông không tìm ra, thì thế hệ sau sẽ phải tìm lại từ đầu.
+
+Mùi cơm mới nấu bốc lên từ nhà bếp, thơm lừng và ấm áp. Tiếng ve sầu kêu râm ran trên hàng cây, báo hiệu mùa hè.
+「Hệ thống — GHI NHẬN ch.275」
+Năm: 2007
+Tổng EXP: 63,667 (+334)
+Không gian kho: 26,667m² (+334m²)
+Kỹ năng trọng yếu: Dự báo rủi ro lv1, Ảnh hưởng xã hội lv2, Công nghệ cao lv2
+Ghi chú: Nền tảng mạng xã hội bước vào tháng thẩm định, chưa giải ngân.
+
+============================================================

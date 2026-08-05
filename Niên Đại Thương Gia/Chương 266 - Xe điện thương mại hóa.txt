@@ -1,0 +1,238 @@
+============================================================
+Chương 266: Xe điện thương mại hóa
+============================================================
+
+Tháng 4 năm 2009. Mùi mưa đầu mùa còn đọng trong không khí, pha với mùi hoa xoan trắng rụng đầy vỉa hè.
+
+Tầng hầm của tòa nhà R&D Thương Gia Group tọa lạc tại Gia Lâm, Hà Nội. Không khí dưới tầng hầm có mùi vôi cũ, cao su nóng và dầu máy ngấm sâu vào nền xi măng. Mỗi lần cửa cuốn kéo lên, bụi đường lùa vào, quẩn với mùi kim loại ngai ngái. Đây vốn là một nhà xưởng cũ — nơi từng sửa chữa xe tải và máy nông nghiệp của hợp tác xã thời bao cấp. Tường gạch trát vữa, sơn vôi trắng đã ngả màu vàng úa theo năm tháng. Mái tôn cao, trên xà ngang còn nguyên những vệt dầu mỡ của thời kỳ sửa xe. Nền xi măng láng mịn, được quét dọn sạch sẽ, có các ô lắp ráp được kẻ bằng băng keo màu vàng.
+
+Giữa xưởng, dưới ánh đèn huỳnh quang trắng xóa, là một chiếc xe điện bốn chỗ mới hoàn thiện. Nó nhỏ và vuông vức, không bóng bẩy. Vỏ xe bằng nhựa ABS sơn tĩnh điện màu trắng ngà. Không cửa kính bên — chỉ có khung thép và tấm nhựa dày ba ly. Bốn bánh nhỏ — loại lốp ô tô hạng nhẹ. Ghế ngồi bằng mút ép bọc vải xám, thiết kế đơn giản, không tựa đầu.
+
+Trông nó giống một chiếc xe golf mở rộng, nhưng có đèn pha trước, đèn hậu và một cần gạt nước trên kính lái.
+
+Đứng cạnh xe là bảy kỹ sư của đội R&D. Người cao nhất trong số họ là Trần Văn Quân, kỹ sư trưởng, ba mươi bảy tuổi, quê Thanh Hóa. Quân từng làm việc tại nhà máy lắp ráp Toyota ở Nhật Bản suốt mười năm trước khi về nước. Anh ta mặc áo blouse trắng đã cũ, còn vết bẩn của dầu mỡ, hai tay lau miếng giẻ trắng. Bảy người — tất cả đều còn trẻ, độ tuổi từ hai lăm đến ba mươi lăm — không ai nói gì, chỉ đứng chờ Hùng lên tiếng.
+
+"Chạy thử chưa?" Hùng hỏi.
+
+Quân bước lên một bước. "Thưa ông, tối qua em đã chạy thử vòng quanh xưởng hai tiếng đồng hồ. Các thông số đo được: tốc độ tối đa bốn mươi cây số một giờ, ổn định ở mọi dải tốc. Quãng đường tối đa cho một lần sạc đầy: tám mươi cây số khi chở hai người và sáu mươi cây số khi chở đủ bốn người. Tiếng ồn trong cabin khi chạy tốc độ ba mươi cây số — năm mươi lăm decibel."
+
+"Tải trọng tối đa?"
+
+"Ba trăm năm mươi kilôgam, chưa kể người lái."
+
+"Giá thành sản xuất mỗi chiếc nếu làm hàng loạt?"
+
+"Khoảng bốn mươi lăm triệu đồng cho lô năm mươi chiếc, thưa ông, tính cả chi phí khuôn mẫu và dụng cụ chuyên dùng. Nếu đặt lô lớn hơn — từ hai đến ba trăm chiếc — giá có thể hạ xuống còn ba mươi lăm triệu một chiếc nhờ giảm giá nguyên liệu đầu vào và tối ưu hóa dây chuyền."
+
+Hùng đi vòng quanh chiếc xe. Mùi nhựa ABS mới nóng hổi, pha lẫn mùi sơn tĩnh điện còn chưa bay hết. Ông dừng lại trước capo, gõ tay lên tấm nhựa — âm thanh đục, chắc, không bị rung. Ngón tay ông lướt trên bề mặt nhựa, cảm nhận được từng đường vân gồ nhẹ của lớp sơn. Cửa trượt ngang, đóng mở bằng tay nắm nhựa đơn giản. Không gương chiếu hậu bên ngoài — chỉ một gương chiếu hậu bên trong, loại dán kính, rẻ tiền. Ông cúi xuống nhìn gầm xe — khung thép hàn chắc chắn, các mối hàn đều, không rỉ.
+
+"Bộ truyền động?" Hùng hỏi.
+
+"Truyền động trực tiếp từ motor điện vào bánh sau qua một bộ vi sai đơn giản, thưa ông. Không có hộp số, không có ly hợp."
+
+"Thời gian sạc đầy?"
+
+"Sạc nhanh từ ổ ba pha mười sáu ampe — năm tiếng từ không lên đầy. Sạc thường từ ổ hai pha gia đình — tám tiếng."
+
+Hùng mở cửa xe, ngồi vào ghế lái. Ông nghĩ đến Minh — thằng con trai sáu tuổi đang ở nhà với mế, chắc đang chạy nhảy ngoài sân vườn. Giá mà nó được ngồi đây, nhìn thấy cái xe này. Tay lái nhẹ — ông thử đánh lái sang trái phải, vô lăng không có độ rơ. Chân ga và chân phanh bố trí sát nhau, dễ thao tác. Không có côn — chỉ một cần số điện tử nhỏ bên tay phải với bốn vị trí: P, R, N, D.
+
+Ông cài dây an toàn — loại dây ba điểm đơn giản, không bộ căng tự động — rồi nhấn nhẹ chân ga.
+
+Động cơ điện phát ra một tiếng rít nhẹ, như tiếng quạt trần khi bật số nhẹ nhất. Chiếc xe lăn bánh khỏi vị trí, im lặng đến nỗi Hùng có thể nghe rõ tiếng hít thở của mình. Bàn tay ông nắm vô lăng, cảm giác nhựa gồ lên dưới ngón tay. Chân ga phản ứng nhạy — chỉ cần chạm nhẹ, xe đã lướt đi. Chỉ có tiếng lốp ve ma sát với nền xi măng và tiếng gió lùa qua khe cửa.
+
+Không tiếng nổ. Không rung động. Không mùi xăng dầu.
+
+Xưởng dài ba mươi mét. Hùng đánh lái nhẹ sang trái, chiếc xe quay một vòng chữ U rất gọn, bán kính lái rất nhỏ. Đạp phanh nhẹ — xe dừng lại êm, không giật.
+
+Ông bước xuống xe, mở nắp capo. Động cơ điện nhỏ gọn — một khối thép hình trụ nặng chừng ba mươi kilôgam, nằm gọn trong góc khoang máy, bên cạnh là bộ điều khiển động cơ và bộ sạc trên xe. Các dây điện bọc nhựa đen và cam được đi gọn gàng, cố định bằng rẹp nhựa.
+
+"Sao không dùng pin lithium cho nhẹ và bền hơn?" Hùng hỏi.
+
+"Giá pin lithium gấp ba lần ắc quy chì, thưa ông." Quân bước đến, chỉ tay vào dàn ắc quy dưới sàn. "Một bộ pin lithium dung lượng tương đương khoảng ba mươi triệu đồng — chiếm gần hai phần ba giá thành xe. Ắc quy chì chỉ bảy triệu. Dù tuổi thọ lithium gấp sáu lần — khoảng sáu năm so với một năm — nhưng với giá bán dự kiến một trăm hai mươi triệu, nếu dùng lithium thì giá lên một trăm năm mươi triệu, khó tiếp cận người mua."
+
+"Phương án dự phòng?"
+
+"Lô đầu dùng chì-axít để giữ giá thấp, tạo thị trường. Lô sau, khi có thương hiệu và dòng tiền ổn định, chuyển sang lithium."
+
+Hùng gật đầu. "Nếu đưa ra thị trường đại trà, giá bán mỗi chiếc là bao nhiêu?"
+
+"Một trăm hai mươi triệu, thưa ông. Rẻ hơn một chiếc xe máy SH. Nhưng vấn đề lớn nhất hiện nay không phải giá — vấn đề là khung pháp lý. Xe này không thể đăng ký là ô tô vì không đủ tiêu chuẩn an toàn va chạm. Cách duy nhất là đăng ký là xe chở người bốn bánh tốc độ thấp."
+
+"Luật pháp Việt Nam có cho phép đăng ký loại đó chưa?" Hùng hỏi.
+
+"Em đã hỏi Sở Giao thông Hà Nội. Họ trả lời rằng Luật Giao thông đường bộ năm hai nghìn linh tám chỉ có hai hạng mục: ô tô và xe máy, không có hạng mục trung gian cho xe bốn bánh tốc độ thấp. Nhưng nếu đăng ký là xe phục vụ trong khuôn viên — khu công nghiệp, khu đô thị, resort, sân golf — thì được phép hoạt động mà không cần biển số quốc gia."
+
+Hùng gật gù. "Bắt đầu từ Thương Gia City của mình. Xe đưa đón công nhân từ bến xe buýt ngoài quốc lộ vào cổng nhà máy. Xe shuttle nội bộ chạy giữa các phân khu trong đô thị. Chạy thử nghiệm sáu tháng — thu thập dữ liệu vận hành một cách có hệ thống."
+
+"Nếu chạy thử nghiệm thành công trên thực tế, mình sẽ có bộ dữ liệu đáng tin cậy về số km thực tế, mức hao pin, độ tin cậy của linh kiện, chi phí bảo trì trên đường Việt Nam. Khi nhà nước ban hành khung pháp lý cho xe điện — mình sẵn sàng sản xuất hàng loạt ngay lập tức."
+
+"Bao lâu nữa thì có khung pháp lý?" Hùng hỏi.
+
+"Em nghe nói Bộ Giao thông Vận tải đang soạn thảo Thông tư về xe bốn bánh có động cơ chạy điện. Dự kiến ban hành trong năm hai nghìn mười hai hoặc hai nghìn mười ba."
+
+"Làm lô năm mươi chiếc. Đưa vào vận hành chính thức tại Thương Gia City trong tháng Sáu năm nay."
+
+"Vâng, thưa ông."
+
+Hùng đứng lại bên chiếc xe thêm mười lăm phút nữa. Ông hỏi kỹ từng chi tiết nhỏ: loại motor điện — motor DC kích từ nam châm vĩnh cửu, hãng sản xuất — của Trung Quốc, có thể thay thế linh kiện dễ dàng; nguồn cung cấp linh kiện — nhập từ Quảng Châu, có đại lý tại Lạng Sơn; thời gian sạc đầy bằng ổ cắm thường; mức hao pin trên mỗi cây số; trọng lượng tổng thể — bốn trăm tám mươi kilôgam; khả năng leo dốc — tối đa mười lăm độ; hệ thống phanh — phanh tang trống bốn bánh, không ABS, đủ dùng ở tốc độ dưới bốn mươi cây số; dây an toàn hàng ghế sau — có, ba điểm cho hai ghế.
+
+Kiểm tra xong, Hùng vỗ tay lên nóc xe, phát ra một tiếng bộp vang.
+
+"Hẹn tháng Sáu có năm mươi chiếc chạy ngoài đường nhựa Thương Gia City. Không phải xe trưng bày, không phải sản phẩm khái niệm. Xe sản xuất được, sử dụng được, đi được trên đường Việt Nam."
+
+Bảy kỹ sư trong xưởng nhìn nhau. Mặt họ lấm tấm mồ hôi, áo blouse lấm lem dầu mỡ, tay chân còn dính bụi bẩn — nhưng mắt họ sáng lên một cách lạ thường. Những ngày tháng miệt mài nghiên cứu, thiết kế, thử nghiệm, thất bại, sửa chữa, thử lại — cuối cùng đã cho ra đời một sản phẩm thực sự.
+
+Một kỹ sư trẻ, tên Cường, hai mươi bảy tuổi, vừa về nước sau khóa học thiết kế xe điện tại Đức, lên tiếng: "Thưa ông, em có một đề xuất."
+
+"Đề xuất đi."
+
+"Xe bản số một còn nhiều thứ có thể cải tiến — cửa kính, quạt gió, âm thanh. Nhưng nếu chờ hoàn thiện hết mới sản xuất, sẽ không bao giờ có xe trên đường. Sản phẩm đầu không cần hoàn hảo — cần đúng nhu cầu và đúng giá."
+
+"Em nói đúng," Hùng gật đầu. "Bản số một: không điều hòa, không cửa kính, không âm thanh. Bản số hai: thêm quạt gió và cửa kính nhựa. Bản số ba: thêm điều hòa. Cứ mỗi sáu tháng — cải tiến một bước, dựa trên phản hồi người dùng."
+
+Hùng nhìn đồng hồ — mười một giờ. "Đi ăn trưa. Quán phở bò cuối phố. Tôi mời."
+
+Tám người — Hùng và bảy kỹ sư — kéo nhau ra quán phở lề đường. Bà chủ già hơn bảy mươi, vẫn tự tay nấu nồi nước lèo. Quán nhỏ, bàn nhựa thấp, ghế xếp thành hàng dọc vỉa hè. Mùi nước bò hầm sôi sùng sục bốc lên, pha với mùi hành phi thơm lựng và quế hồi nồng nồng. Bát phở nóng, nước trong, thịt tái mềm — nước dùng có vị ngọt xương hầm, trong veo như nước chè xanh.
+
+Ăn xong, Hùng đứng dậy trả tiền cho cả tám người. "Tháng Sáu — năm mươi chiếc. Tôi tin các anh."
+
+Chiều hôm đó, khi mọi người đã về, Hùng ngồi lại một mình trong xưởng — bên chiếc xe điện. Ông bật chìa khóa, ngồi im trong cabin, tay cầm vô lăng. Đèn hậu mờ tỏ trong bóng tối của tầng hầm.
+
+Ông nhớ về những ngày đầu khởi nghiệp — chiếc xe đạp cọc cạch chở hàng từ chợ đầu mối về quán, chiếc xe tải nhỏ mua lại từ hợp tác xã, chiếc xe máy cũ kỹ chạy rong ruổi khắp các tỉnh tìm mối hàng.
+
+Và bây giờ — ông ngồi trong cabin của một chiếc xe điện do chính kỹ sư của mình thiết kế, sắp sửa sản xuất hàng loạt để đưa ra thị trường.
+
+Ông tắt máy, bước ra khỏi xe, khóa cửa xưởng. Trên đường về, ông mua một bó hoa cúc vàng — loại hoa mế thích. Thỉnh thoảng, ông tự nhủ, phải nhớ những điều nhỏ nhặt.
+
+Mười một giờ đêm, Hùng gọi cho Quân: "Ngày mai em gửi tôi bản kế hoạch chi tiết lô năm mươi chiếc. Tiến độ, nhân sự, nguyên vật liệu, kế hoạch kiểm tra chất lượng."
+
+Quân ở đầu dây bên kia, giọng còn tỉnh táo: "Dạ, em đang làm dở. Mai sáng em gửi ông."
+
+"Khuya rồi, ngủ đi. Mai làm tiếp."
+
+Sáu giờ sáng hôm sau, Hùng có mặt tại xưởng lắp ráp. Năm mươi bộ linh kiện đã được đặt hàng từ Quảng Châu, dự kiến về đến Hải Phòng trong mười lăm ngày tới. Đội kỹ thuật đang chuẩn bị mặt bằng cho dây chuyền lắp ráp.
+
+Quân báo cáo tiến độ: "Ngày mốt, hàng về cảng Hải Phòng. Sau khi thông quan, ba ngày nữa là có mặt tại xưởng. Chúng ta bắt đầu lắp ráp từ ngày hai mươi tháng Tư."
+
+"Bao lâu thì xong năm mươi chiếc?"
+
+"Sáu tuần, nếu không có sự cố. Tức là cuối tháng Năm."
+
+"Chạy thử thực địa khi nào?"
+
+"Đầu tháng Sáu. Mỗi xe chạy thử một trăm cây số nội bộ trước khi đưa vào sử dụng chính thức."
+
+"Lịch chặt đấy."
+
+"Dạ. Nhưng làm được."
+
+Hùng vỗ vai Quân.
+
+Một công nhân tên Vinh, ba mươi hai tuổi, người dân tộc Tày từ Lạng Sơn xuống, đang phụ trách đấu nối hệ thống điện trên xe. Anh ta là thợ điện lành nghề, từng học ở trường nghề Thái Nguyên. Hùng dừng lại xem Vinh làm việc. Bàn tay anh ta thoăn thoắt bấm các đầu cos, siết ốc, kiểm tra mối nối.
+
+"Làm ở đây thấy thế nào?" Hùng hỏi.
+
+"Hay lắm, thưa ông. Em chưa bao giờ nghĩ mình được làm xe điện."
+
+"Gia đình ở đâu?"
+
+"Vợ con em ở quê. Mỗi tháng em gửi tiền về nuôi con ăn học."
+
+"Được. Sau lô này, có thưởng."
+
+Vinh cười, răng trắng trên khuôn mặt rám nắng.
+
+Hùng còn ghé qua khu vực thử nghiệm, nơi một chiếc xe đang được chạy thử vòng quanh sân. Một kỹ sư khác đang kiểm tra độ ồn trong cabin — kết quả năm mươi hai decibel ở tốc độ ba mươi cây số/giờ, yên tĩnh hơn dự kiến.
+
+Trên đường về văn phòng, Hùng nghĩ về bài toán giá thành. Bốn mươi lăm triệu — con số đó còn có thể giảm thêm nếu đặt linh kiện số lượng lớn. Khi thị trường mở rộng, khi có khung pháp lý, khi bán được năm nghìn chiếc một năm — giá sẽ xuống còn ba mươi lăm triệu, thậm chí ba mươi.
+
+Lúc đó, xe điện không còn là sản phẩm xa xỉ. Là phương tiện phổ thông.
+
+============================================================
+
+Đêm đã khuya. Thành phố sau lưng vẫn còn ánh đèn, nhưng trong căn phòng nhỏ ở tầng hai, bóng tối gần như tuyệt đối ngoại trừ một ngọn đèn bàn. Hùng không bật thêm đèn. Ông thích bóng tối một phần nào đó, nó giúp ông tập trung vào những gì thực sự quan trọng. Lan, em gái ông, đã ngủ từ lúc nào. Tiếng thở đều đặn từ phòng bên vọng qua vách gỗ mỏng, một âm thanh quen thuộc và trấn an hơn bất kỳ con số doanh thu nào.
+
+"Bác chưa ngủ à?" Lan từ phòng bước ra, tay cầm ly nước. "Chưa," Hùng đáp mà không ngước lên. "Việc gì mà tối rồi còn làm?" "Có mấy con số không khớp." Lan gật đầu, ra hiểu. Cô không hỏi thêm, không đề nghị giúp. Cô hiểu rằng có những con số chỉ có người viết ra mới biết sửa. Cô đặt ly nước xuống bàn cạnh tay Hùng, rồi quay vào, cẩn thận khép cửa lại nhẹ đến mức gần như không có tiếng động.
+
+Ngoài hiên, một con mèo hoang kêu lên rồi im bặt. Tiếng gió thổi qua kẽ cửa kêu vi vu, một âm thanh cao và đơn độc. Hùng nhận ra mình đã ngồi đây hơn ba tiếng; lưng đau âm ỉ, mắt cay vì thiếu ngủ, nhưng đầu óc vẫn tỉnh. Một ly cà phê nguội trên bàn, đã uống hết từ lúc nào, chỉ còn lại những vòng tròn đọng lại trong lòng ly như vân tay của thời gian.
+
+Thực ra, quyết định đã được đưa ra từ đầu buổi sáng. Phần còn lại của ngày chỉ là kiểm tra lại một lần trước khi công bố. Hùng đã học được từ nhiều năm kinh doanh rằng một quyết định đúng không cần sự đồng thuận ngay lập tức — nó cần thời gian để người khác tự đến với nó. Ông véo nhẹ sống mũi, đẩy ghế ra sau, đứng dậy. Mai sẽ là một ngày dài.
+
+Khi chiếc đồng hô trên tường điểm mười một tiếng, Hùng gấp sổ lại. Không phải vì ông đã xong việc — việc kinh doanh không bao giờ thực sự xong — mà vì ông biết giới hạn của mình. Một quyết định tốt sẽ trở nên tồi nếu nó được đưa ra lúc nửa đêm bởi một người đã mười sáu tiếng không nghỉ.
+
+Một buổi sáng cuối tháng Tư, khi Hùng đang ở xưởng R&D kiểm tra lô xe điện, Lan bước vào với tờ báo trên tay, mặt tái xanh. "Anh xem cái này."
+
+Trên mặt báo — một tờ báo mới thành lập ở Hà Nội — là dòng tít lớn: "THƯƠNG GIA GROUP TRỐN THUẾ? Bằng chứng từ một cựu đối tác." Bài báo dài ba cột, viết về một doanh nghiệp tư nhân lớn đang "lách luật thuế", "chuyển giá qua các công ty con ở nước ngoài", "lợi dụng kẽ hở pháp lý." Không nói thẳng tên Thương Gia, nhưng các chi tiết — ngành nghề, quy mô, thời gian thành lập — đủ để ai đọc cũng biết đó là ai.
+
+"Bài này ai viết?" Hùng hỏi, giọng vẫn bình thản.
+
+"Ký tên Nguyễn Quốc Anh. Phóng viên tự do. Nhưng..." Lan ngập ngừng, "...nguồn tin trong bài là một 'cựu đối tác' — em nghĩ đó là Trần Văn Bắc."
+
+Hùng không nói gì, chỉ gấp tờ báo lại, đặt lên bàn. Bao năm trôi qua, hắn vẫn không buông.
+
+Đúng như Lan đoán, Trần Văn Bắc chính là người đứng sau. Sau vụ thám tử, Bắc đã âm thầm thu thập chứng cứ, xuyên tạc số liệu, trả tiền cho một phóng viên trẻ viết bài theo hướng có lợi cho mình. Ông ta ngồi trong quán cà phê ven đường, tay lật tờ báo còn thơm mùi mực, môi mỉm cười mãn nguyện.
+
+"Lần này," Bắc lẩm bẩm, "mày không thoát dễ đâu, Hùng ạ."
+
+Ông ta đã tính toán kỹ: bài báo vào đúng thời điểm Thương Gia chuẩn bị ra mắt dòng sản phẩm mới, trùng với lúc thị trường có nhiều biến động. Một bài báo như thế, nếu được các báo khác đăng lại, có thể làm rung chuyển lòng tin của đối tác và khách hàng. Bắc gọi điện cho một người khác — một phóng viên ở báo kinh tế — hẹn gặp để "thông tin thêm." Dây dưa đã giăng. Mạng nhện đã trải. Bắc chỉ còn việc chờ Hùng sụp bẫy.
+
+Cuộc chiến giữa hai người đàn ông từng là bạn đã bước vào hồi cuối.
+
+Nhưng cách đó không xa, ở một ngôi làng ven Quốc Oai, có một người đàn ông khác cũng vừa trải qua hồi kết của riêng mình.
+
+Trần Văn Bằng — em họ xa của Hùng — đã phá sản từ cuối năm 2008. Nhà máy giày ở Quảng Đông đóng cửa sau ba tháng không có đơn hàng. Bạn hàng Trung Quốc lần lượt cắt hợp đồng. Các chủ nợ siết hết tài sản — căn biệt thự ở Phú Nhuận, hai xe hơi, cả số vàng dự trữ. Bằng trở về quê với hai bàn tay trắng, sống trong căn nhà gỗ cũ của cha mẹ — mái ngói đã sụp một góc, tường đất lở loét sau mùa mưa, nền nhà lát gạch vỡ.
+
+Sáng nào Bằng cũng dậy từ bốn giờ. Ông ta nấu một nồi chè đậu đen, đường phèn, lá dứa. Hơi nước bốc lên thơm lừng cả căn bếp nhỏ — mùi đậu rang khét nhẹ, mùi lá dứa thoang thoảng, mùi đường phèn ngọt lịm. Rồi chở ra đầu làng bán. Gánh chè đặt dưới gốc cây bàng già — ba cái bát sứ cũ, mấy cái ghế nhựa rẻ tiền xếp thành hàng. Khách quen mỗi ngày chỉ độ dăm người: mấy bà đi chợ sớm ghé uống nóng, đám trẻ con trước khi đến trường. Mỗi buổi thu được ba bốn chục nghìn — đủ mua gạo, mua mắm, trả tiền điện thắp sáng một bóng đèn vào ban đêm.
+
+Người làng đi ngang, có người nhận ra Bằng. Họ khẽ thì thầm: "Thằng Bằng ngày xưa giàu nhất làng, giờ ra nông nỗi này." Bằng nghe thấy. Ông ta không quay lại. Chỉ cúi xuống, sắp lại mấy cái bát, lau mặt bàn nhựa bằng miếng giẻ ướt.
+
+Hùng biết tất cả những chuyện đó. Lan kể. MẾ cũng kể. Ông chỉ gật đầu, không hỏi thêm.
+
+Một buổi sáng cuối thu, Hùng lái xe qua làng. Con đường đất nhỏ ven đê, hai bên là những ruộng lúa đã gặt xong, chỉ còn gốc rạ vàng úa. Mùi rơm mục lẫn mùi đất ẩm bốc lên từ cánh đồng, thoang thoảng trong gió thu se lạnh. Xa xa, dưới gốc cây bàng đầu làng — nơi ba mươi năm trước Hùng từng đi qua mỗi sớm đi chợ — một bóng người ngồi bên gánh chè. Lưng còng. Mái tóc hoa râm lòa xòa. Hai tay đặt lên đầu gối, run run.
+
+Hùng nhận ra Bằng ngay. Không thể nhầm — cái dáng người gầy, cái cách ngồi hơi nghiêng về bên trái vì thói quen chống tay từ ngày còn làm chủ.
+
+Gió thu thổi qua, làm những tàu lá bàng rụng xuống mặt đường, quay tít theo vòng xoáy. Lá khô xào xạc dưới gầm xe khi Hùng lướt qua. Bằng không nhìn lên. Ông ta đang cẩn thận lấy từng cái bát từ thùng nước rửa, lau khô, xếp lên bàn. Đôi tay run run vì lạnh, vì tuổi tác, vì những năm tháng không còn sức. Mùi chè đậu đen còn vương trên bàn tay nhăn nheo của ông.
+
+Hùng nhấn ga nhẹ. Chiếc xe lướt qua gốc bàng.
+
+Trong kính chiếu hậu, bóng người đàn ông ngồi bán chè nhỏ dần. Lá bàng vẫn rụng. Mặt trời vừa lên khỏi lũy tre, đỏ ửng cả một góc trời.
+
+Hùng không dừng lại. Ông lái xe về phía quốc lộ, hai tay nắm chặt vô lăng, mắt nhìn thẳng. Không nói gì. Nhưng trong lòng, ông biết: người đàn ông ấy đã từng đánh ông chảy máu mũi. Cha hắn từng khai báo cha ông là tư sản, khiến cha ông phải đi cải tạo rồi mất ở trại. Hai mươi năm thù hận, hai mươi năm ganh ghét — tất cả kết thúc bằng một bóng người ngồi bán chè dưới gốc cây bàng đầu làng.
+
+Về đến nhà, Hùng đỗ xe ngoài cổng. Giữa sân, mế đang ngồi trên ghế tre, tay nhặt rau, mắt nhìn ra cổng. Bà ngước lên khi nghe tiếng xe.
+
+"Ăn cơm chưa, con?" mế hỏi — câu hỏi thường ngày, nhưng Hùng cảm nhận được sự lo lắng giấu sau giọng bà.
+
+"Ăn rồi, mế." Hùng ngồi xuống ghế bên, nhìn ra vườn. Cây xoan đã rụng hết hoa, cành trơ trọi giữa trời thu. "Mế ơi, con có việc muốn nói."
+
+mế dừng tay, mắt nhìn con. "Việc gì?"
+
+"Nhà máy sẽ bắt đầu làm xe điện. Lô đầu tiên — năm mươi chiếc. Tháng Sáu có trên đường."
+
+mế im lặng một lúc. Rồi bà nói: "Cha con ngày trước cũng từng nói câu tương tự — 'Nhà máy sẽ bắt đầu.' Nhưng ông ấy không kịp nhìn thấy."
+
+Hùng cúi đầu. Trong bụng, ông biết mế không ngăn cản — bà chỉ nhắc nhở: đừng quên cha đã hy sinh vì cái nhà máy này.
+
+Đêm đó, Hùng nằm trên giường, mắt nhìn lên trần nhà. Tiếng dế kêu râm ran ngoài vườn, tiếng chó sủa xa xa. Ông nghĩ đến Quân và bảy kỹ sư — họ đang ở lại xưởng, thức khuya chuẩn bị bản kế hoạch. Ông nghĩ đến Minh — thằng con chắc đang ngủ say, tay ôm con gấu bông cũ. Ông nghĩ đến Lan — em gái ông, người duy nhất tin vào cái xe điện từ ngày đầu.
+
+Điện thoại đổ chuông.
+
+"Làm sao rồi?" giọng nói ở đầu dây — một giọng mà Hùng đã không nghe từ lâu.
+
+"Đang chuẩn bị," Hùng đáp. "Còn nửa tháng nữa."
+
+"Thời gian không nhiều đâu." Giọng nói đó trầm xuống, như tiếng gió thổi qua khe cửa. "Họ đã biết rồi. Họ sẽ không để yên."
+
+Hùng im lặng. Ngoài vườn, tiếng dế bỗng im bặt — như thể cả thế giới đang chờ đợi điều gì đó.
+
+Màn hình điện thoại tắt.
+
+「Hệ thống — GHI NHẬN ch.245」
+Năm: 2009
+Tổng EXP: 53,667 (+334)
+Không gian kho: 20,833m² (+166m²)
+Kỹ năng trọng yếu: Ngoại giao kinh tế lv2, Công nghệ cao lv2, Dự báo rủi ro lv1
+Ghi chú: hoàn thiện xe điện lô thử nghiệm — 50 xe chạy nội bộ Thương Gia City
+
+============================================================

@@ -1,0 +1,221 @@
+============================================================
+Chương 159: Xây nhà máy ô tô đầu tiên
+============================================================
+
+Sương mù dày đặc phủ kín khu công nghiệp mới. Trời đầu tháng Giêng năm 1992, Hà Nội rét căm căm. Nhiệt độ xuống dưới mười độ — cái rét không thấm vào đâu so với mùa đông năm 1983, khi Hùng sống trong căn nhà dột nát với một manh áo mỏng. Nhưng hôm nay nó thấm hơn, vì ông đã đứng ở bãi đất trống suốt hai tiếng đồng hồ, mặc cho gió bấc thổi từ cánh đồng bên kia quốc lộ. Hơi lạnh luồn qua cổ áo, bám vào đầu ngón tay, khiến cây bút chì trong tay ông trơn như dính một lớp sương mỏng. Mùi bùn, mùi cỏ mục quyện với khói dầu từ chiếc xe tải đỗ ngoài cổng — mùi của một nơi chưa có nhà máy, nhưng đã bắt đầu có người đặt cược đời mình vào đó.
+
+Trước mặt ông là sáu mươi nghìn mét vuông đất hoang. Lau sậy mọc cao quá đầu người, thân cây to bằng ngón chân cái, rễ đan vào nhau thành từng mảng dày. Gió thổi qua đám lau tạo ra thứ âm thanh xào xạc như tiếng thì thầm của một khu đất chưa từng có người đặt chân đến. Xa xa, vài gốc sim mọc hoang, trái sim chín đen lấm tấm trên cành khô.
+
+Khu công nghiệp mới — cách Hà Nội bốn mươi cây số về phía nam — lúc này chỉ là một cái tên trên giấy tờ. Chưa có điện lưới. Chưa có nước máy. Chưa có một nhà máy nào khác xung quanh, chỉ có ruộng lúa và đồi sim mọc hoang. Một con đường đất đỏ chạy xuyên qua khu đất, mùa mưa lầy lội, mùa khô bụi mù. Duy nhất một tấm biển sơn tay dựng ở cổng: "Khu Công nghiệp A — do UBND tỉnh quản lý", chữ sơn đã bạc màu sau một mùa mưa. Gió thổi làm tấm bản lề kêu cọt kẹt.
+
+Con trai ông — kỹ sư Minh — đứng bên cạnh, tay cầm một cái cọc tre dài, thỉnh thoảng cắm xuống đất, ghi chép gì đó vào sổ. Hai cha con đã ở đây từ sáu giờ sáng, bất chấp cái rét cắt da. Đôi ủng của Minh lấm đầy bùn đỏ, gấu quần ướt sũng vì sương. Hùng nhìn con — khuôn mặt Minh giống mẹ, nhưng đôi tay và cách làm việc lại giống ông: cần mẫn, không kêu ca. Thỉnh thoảng Minh ngẩng lên, nhìn bố, rồi lại cúi xuống sổ.
+
+— Địa hình dốc về phía tây nam, — Minh nói, không ngước lên. — Nếu đặt xưởng chính ở khu vực này, phải san nền chênh một mét hai. Khối lượng đào đắp khoảng ba nghìn khối.
+
+Hùng gật. Ông không hỏi lại con số. Với Minh, một con số đã nói ra là đã tính toán xong.
+
+— Bao lâu?
+
+— Một tháng rưỡi, nếu làm ba ca mỗi ngày và có đủ xe ủi. Nhưng xe ủi ở tỉnh mình chỉ có ba cái — hai của đội công trình giao thông, một của hợp tác xã cơ khí. Cả ba đều cũ, hay hỏng vặt. Nếu một cái nằm, tiến độ chậm ít nhất năm ngày.
+
+— Thuê thêm từ Hà Nội. Ở đó có đội làm đường, họ có xe ủi Nhật, đắt hơn nhưng ít hỏng.
+
+Minh gật, ghi tiếp vào sổ. "Xe ủi thuê ngoài — xe ủi Nhật — ưu tiên."
+
+Hai người đàn ông đi dọc theo ranh giới khu đất, bước qua những bụi lau sậy ướt sương, giày lún sâu trong lớp đất xốp. Thi thoảng chân Hùng giẫm phải một hòn đá — ông cúi xuống nhặt, xem xét, rồi ném ra ngoài ranh giới. Minh thỉnh thoảng lại cắm cọc tre, dùng dây căng để đánh dấu vị trí móng. Công việc giống như một người làm ruộng cắm lúa hơn là một kỹ sư xây dựng nhà máy. Nhưng không có bản vẽ chính thức nào cho một nhà máy ô tô ở Việt Nam năm 1992 — Minh phải tự thiết kế dựa trên những gì ông đọc được từ sách kỹ thuật Liên Xô và một vài catalogue của Nhật.
+
+*** 
+
+Đầu tháng Hai, Tanaka đến từ Tokyo. Ông ta mặc một chiếc áo khoác dạ dày, mang giày đi rừng, bước xuống xe dù trời đang mưa phùn. Gió lạnh đưa mùi bùn non trộn với mùi kim loại rỉ sét từ hàng rào sắt cũ — mùi đặc trưng của một khu công nghiệp mới khai sinh trong bùn lầy. Sato — trợ lý mới của Tanaka — theo sau với một cặp đựng đầy tài liệu và một cái máy ảnh đeo trước ngực. Sato nhìn quanh, không giấu vẻ ngạc nhiên: một bãi đất hoang, vài cái cọc tre, và một container văn phòng.
+
+Lan — em gái Hùng — đang đứng ở gốc sân, tay xách một thermos nước nóng mới đun. Cô đưa cho anh trai một cốc, rồi im lặng đứng sang bên. Hùng nhận cốc, uống một ngụm — nước nóng trôi xuống cổ họng, xua bớt cái rét. Lan khẽ gật đầu với Tanaka, rồi bước đi. Cô không nói nhiều — giống hệt Hùng ở khoản đó.
+
+Hùng đón họ ở container — một container vận chuyển hàng hải cũ, xếp ở góc đất, bên trong kê bàn gỗ, bếp dầu, và một cái bảng trắng để viết. Nền container lát gạch men cũ, tường dán giấy báo chống thấm. Một cái đèn dầu treo trên trần, chao đèn bằng giấy bạc gói thuốc lá.
+
+— Anh ở đây mỗi ngày? — Tanaka hỏi, nhìn quanh căn container.
+
+— Khi có việc. — Hùng đáp.
+
+Tanaka không hỏi thêm. Ông ta cởi áo khoác, kéo ghế ngồi, trải tài liệu lên bàn. Bản hợp đồng dày hai mươi trang, soạn bằng tiếng Nhật và tiếng Anh, có chữ ký của luật sư ở trang cuối. Không khí bắt đầu căng thẳng.
+
+— Anh cần mười hai container linh kiện CKD cho lô đầu tiên. — Tanaka nói, giọng đều như máy. — Tôi có thể cung cấp, nhưng với điều kiện: mỗi tháng anh phải đặt tối thiểu năm container. Nếu dưới năm, đơn giá tăng 8%.
+
+Hùng không trả lời ngay. Ông lấy máy tính cầm tay — chiếc Casio cũ mua từ Sài Gòn — bấm vài phép tính. Tiếng lách cách của máy tính vang lên trong container văn phòng chật chội.
+
+— Năm container một tháng là hai trăm năm mươi bộ linh kiện. Tương đương hai trăm năm mươi xe một tháng. Tay không mà làm hai trăm năm mươi xe một tháng — không được.
+
+— Vậy anh không mua?
+
+— Tôi mua. Nhưng tôi sẽ đặt sáu container tháng đầu, bảy container tháng thứ hai, chín container tháng thứ ba — tăng dần theo công suất thực tế. Anh thấy được không?
+
+Tanaka im lặng. Ông ta trao đổi với Sato bằng tiếng Nhật, giọng nhanh, không cho Hùng nghe được. Hùng không tỏ vẻ khó chịu. Ông uống trà — loại trà xanh rẻ tiền mua từ chợ Hôm — và chờ. Ánh đèn dầu hắt lên mặt ông những vệt sáng vàng.
+
+— Được. — Tanaka nói sau ba phút. — Nhưng giá container tháng thứ ba sẽ theo giá thị trường lúc đó, không theo giá thỏa thuận ban đầu.
+
+— Tôi đồng ý. Nếu thị trường xuống, tôi cũng sẽ yêu cầu giảm.
+
+Tanaka cười — một nụ cười rất nhẹ, rất nhanh, chỉ kịp thấy ở khóe mắt.
+
+— Anh cứng lắm.
+
+— Vì tôi đang xây nhà máy bằng mồ hôi, không phải bằng tiền vay. — Hùng đáp. — Nếu tôi thua, không chỉ tôi mất nhà máy. Còn nhiều người mất việc.
+
+Họ bắt tay. Trên bàn container là bản hợp đồng dày hai mươi trang, hai thứ tiếng. Hùng ký trước — nét chữ đều, không run. Tanaka ký sau, nét chữ nghiêng, gọn. Họ trao cho nhau mỗi người một bản.
+
+— Chúc may mắn. — Tanaka nói.
+
+— Cảm ơn.
+
+Tanaka bước ra khỏi container, đứng nhìn khu đất hoang một lúc lâu. Gió thổi bay vạt áo khoác của ông ta. Rồi ông ta quay vào, nói:
+
+— Ông có biết vì sao tôi đồng ý đầu tư không?
+
+— Vì sao?
+
+— Vì ông không xin. Ông thương lượng. Ở Việt Nam, tôi gặp nhiều người xin. Ông là người đầu tiên thương lượng.
+
+*** 
+
+Những ngày cuối tháng Hai là đào đất. Minh đứng trên công trường từ sáu giờ sáng đến tám giờ tối, vai rộng lên, da sạm đen — da công trường, người ta vẫn nói vậy. Hùng thuê hai xe ủi — xe cũ của đội công trình giao thông, nổ máy khói đen mù mịt, tiếng pít-tông giã như búa đập đồng. Một xe ủi Nhật thuê từ Hà Nội — đắt gấp rưỡi, nhưng chạy êm, ít hỏng. Mỗi buổi chiều, khi hai xe ủi tắt máy, Hùng nghe thấy sự im lặng nặng nề hơn trước — như thể đất vừa thở xong một hơi dài. Công nhân đào thủ công những chỗ xe ủi không vào được, dùng cuốc và xẻng như thời làm thủy lợi. Tiếng cuốc chạm đất đá lanh canh, tiếng mồ hôi nhỏ xuống bùn đỏ.
+
+Một trăm hai mươi công nhân làm việc theo ca. Ca sáng từ sáu giờ đến hai giờ chiều. Ca chiều từ hai giờ đến mười giờ tối. Dự tính làm thêm ca ba khi gấp. Hùng dựng một cái lán tôn làm chỗ ăn cơm, mỗi bữa cơm có thịt kho và canh rau — đắt hơn so với tiêu chuẩn công trường, nhưng ông muốn công nhân ăn no để làm việc.
+
+Có lần gặp tầng đá ong ngay vị trí móng chính. Đá ong cứng, cuốc chim bật ra, lưỡi cuốc mẻ. Minh choáng váng. Ông xuống tận hố móng — sâu hai mét, đất ẩm bám mùi sắt, thành hố trơn trượt — lấy búa gõ thử, từng nhát vang lên đanh, rồi leo lên, mặt tái mét. Tay con trai run — lần đầu tiên Hùng thấy con run.
+
+— Đá ong dày ít nhất một mét hai. Bỏ vị trí này, lùi sang trái mười lăm mét.
+
+— Lùi có ảnh hưởng thiết kế không?
+
+— Phải xoay hướng nhà máy ba độ. Móng quay, kết cấu thép thay đổi theo. Mất một tuần để tính toán lại.
+
+— Làm đi. Hơn là gắng đào thì mất thời gian hơn.
+
+Minh gật. Ông quay lại bàn vẽ trong container, mở cuốn sổ tay. Cả đêm hôm đó, đèn container sáng đến ba giờ sáng. Minh tính toán lại toàn bộ kết cấu với góc xoay ba độ. Sáng hôm sau, thiết kế mới hoàn thành, vị trí nhà máy xoay ba độ so với ban đầu — tránh hoàn toàn tầng đá ong.
+
+*** 
+
+Giữa tháng Ba, Tanaka gửi một chuyên gia từ Nhật sang — kỹ sư Takahashi, năm mươi tuổi, đã tham gia xây dựng ba nhà máy lắp ráp ô tô ở Thái Lan và Indonesia. Takahashi đi một vòng quanh công trường, im lặng suốt hai giờ, hỏi Minh đúng một câu:
+
+— Anh tính tải trọng mái thế nào?
+
+Minh trả lời bằng tiếng Anh lơ lớ, vừa nói vừa vẽ trên giấy:
+
+— Tải tĩnh 45kg/m², tải động 30kg. Sử dụng thép CT3, khoảng cách vì kèo 6 mét.
+
+Takahashi gật. Không nhận xét. Ông ta đi tiếp, dừng lại ở dây chuyền sơn — một hệ thống được Minh thiết kế dựa trên ảnh chụp từ catalogue Nhật. Takahashi nhìn một lúc, rồi nói:
+
+— Phòng sơn cần áp suất dương. Nếu không, bụi sẽ vào.
+
+— Tôi biết. — Minh đáp. — Đã thiết kế quạt áp suất ở đây. — Ông chỉ vào bản vẽ.
+
+Takahashi gật lần nữa. Trước khi bay về, ông ta nói với Tanaka:
+
+— Người của Hùng biết việc.
+
+Tanaka kể lại câu đó với Hùng qua điện thoại. Hùng cười — cái cười đầu tiên sau ba tháng. Ông ngồi xuống bậc container, nhìn ra khu đất đã được san nền phẳng lỳ. Ba tháng trước, nó là một bãi lau sậy. Bây giờ, nền móng đã đổ xong, cốt thép nhô lên khỏi mặt đất như những khung xương khổng lồ.
+
+*** 
+
+Cuối tháng Ba, mái tôn đã kín. Nhà máy cao mười hai mét, rộng sáu mươi mét, dài một trăm hai mươi mét. Minh đứng ở cửa, nhìn vào bên trong — sàn bê tông mới đổ đã khô, mặt sàn phẳng, kẻ vạch kẻ đường giao thông màu trắng. Dây chuyền lắp ráp — mười bốn bàn thao tác — đã được kê đúng vị trí theo thiết kế. Trên mỗi bàn là một bộ dụng cụ: clê, tuốc-nơ-vít, súng bắn ốc, thước cặp.
+
+Dây chuyền sơn nhập từ Hàn Quốc về đã lắp xong — một hệ thống phun sơn tĩnh điện, cao cấp nhất Việt Nam lúc bấy giờ. Hàng rào bảo vệ xung quanh khu vực sơn đã dựng. Container linh kiện CKD lô đầu tiên — mười hai container — cập cảng Hải Phòng ngày 28 tháng 3. Hùng và Minh ra cảng nhận hàng.
+
+Hải quan Hải Phòng lúng túng với lô hàng mới. Chưa có mã số thuế cho linh kiện ô tô nhập dưới dạng CKD. Một cán bộ trẻ — chưa ba mươi — cầm tờ khai, nhìn, rồi hỏi:
+
+— Cái này để làm gì?
+
+— Để lắp ráp ô tô. — Hùng nói.
+
+— Ô tô? Ở Việt Nam lắp được ô tô hả anh?
+
+— Đang lắp. Nhà máy xong rồi. Anh xuống mà xem.
+
+Cán bộ không xuống, nhưng lô hàng được thông quan sau hai ngày chờ phê duyệt mã số từ Tổng cục Hải quan. Trong hai ngày đó, Hùng ngủ trong xe tải ở bãi container, thức dậy mỗi sáng để làm thủ tục.
+
+*** 
+
+Ngày 15 tháng 4 năm 1992. Nắng hiếm hoi sau hai tuần mưa. Nhà máy sáng rực, sàn bê tông mới đổ đã khô, kẻ vạch kẻ đường giao thông màu trắng. Dây chuyền lắp ráp — mười bốn bàn thao tác — đã được kê đúng vị trí. Container CKD đã mở, linh kiện đã phân loại, xếp trên giá theo thứ tự lắp ráp. Mùi sơn mới, mùi dầu bôi trơn, mùi thép nóng dưới nắng — ba mùi quyện vào nhau, mùi của sự khởi đầu. Lan bê khay cơm trưa ra tận nhà máy, xếp mười bốn phần cơm trên chiếc bàn gỗ kê bên dây chuyền. Cô thấy Minh đang gài bu-lông, tay thoăn thoắt, không nhìn lên. Lan lặng lẽ đặt khay cơm xuống, rồi đứng sang một bên — giống như mẹ ngày xưa vẫn đứng bên, để chồng và con trai làm việc. Hùng nhìn em gái, gật đầu. Lan gật lại — cô đã đến đây từ ba tháng trước, tự nguyện giúp anh trai lo cơm nước cho mười bốn người thợ.
+
+Bảy giờ sáng, Hùng đứng ở đầu dây chuyền. Minh đứng cuối dây chuyền. Mười bốn thợ cơ khí đã vào vị trí, mỗi người cầm một chìa khóa, một điều khiển. Họ được tuyển từ các nhà máy cơ khí Hà Nội, từ đội thợ sửa xe, từ những người chưa từng thấy dây chuyền lắp ráp ô tô bao giờ. Nhưng họ đã được Minh đào tạo hai tuần.
+
+— Bắt đầu. — Hùng nói.
+
+Linh kiện đầu tiên — khung gầm — được cẩu lên giá đỡ bằng pa-lăng xích. Bốn người thợ đỡ khung, đặt lên bàn thao tác. Tiếng búa hơi vang lên, tiếng ốc vít siết bằng súng bắn ốc rắc rắc đều đặn. Không ai nói chuyện riêng, chỉ có tiếng chạm kim loại, tiếng hướng dẫn, tiếng máy. Mùi dầu bôi trơn SAE 40 — mùi đặc trưng của xưởng cơ khí — bốc lên mỗi khi thợ tra dầu vào bu-lông. Bụi sắt mịn như bột mì bay lơ lửng trong tia nắng chiếu qua cửa sổ nhà máy, tạo thành những dải sáng vàng nhạt.
+
+Minh đi dọc dây chuyền, kiểm tra từng bước. Thỉnh thoảng ông dừng lại, chỉnh một góc ốc, gật đầu, đi tiếp. Đôi tay con trai vững vàng — Hùng đứng đầu dây chuyền, nhìn con, cảm thấy một niềm tự hào lặng lẽ, không nói thành lời.
+
+Bốn giờ sau, chiếc xe tải nhẹ 1.25 tấn hoàn chỉnh. Sơn xanh lam. Lốp mới — loại lốp Radial nhập từ Thái Lan. Nội thất ghế nhựa — loại nhựa ABS đúc trong nước, khuôn mua từ Nhật qua Sato. Vô-lăng đen. Lưới tản nhiệt mạ crome giả — thực ra là nhựa mạ, một kỹ thuật mới Minh học từ catalogue. Trên hông xe, chữ "Thương Gia" sơn trắng, chữ đứng. Cạnh đó là một logo nhỏ — ba vòng tròn lồng vào nhau, tượng trưng cho ba thế hệ.
+
+Hùng ngồi vào ghế lái. Tay ông đặt lên vô-lăng — cảm giác lạ: lần đầu tiên ông ngồi sau tay lái của một chiếc xe do mình làm ra. Vô-lăng nhựa đen, thô, chưa hoàn hảo — nhưng là thật. Chìa khóa tra vào ổ. Ông vặn. Máy nổ sau một giây đề, tiếng diesel rung đều, khói mỏng thoát ra ống xả — mùi diesel nóng, mùi khói kim loại, mùi thành tựu. Ông để máy chạy không tải hai phút, lắng nghe. Tiếng máy đều, không tắc, không rung bất thường. Đầu ngón tay ông cảm nhận được rung nhẹ từ vô-lăng — như nhịp tim của một thứ vừa được sinh ra.
+
+Ông đạp côn, vào số một. Xe lăn bánh.
+
+Mười lăm mét đầu tiên — xe chạy chậm, tiếng bánh lăn trên sàn bê tông kêu sột soạt. Hai chục mét tiếp theo — xe qua cổng nhà máy, ra đường băng thử nghiệm — một đoạn đường nhựa dài ba trăm mét. Mặt trời chiếu trực tiếp vào kính chắn gió, phản chiếu ánh nắng lên khuôn mặt Hùng.
+
+Ông không thấy chói. Ông nhìn thấy mười bốn khuôn mặt đang nhìn theo từ cửa nhà máy, nhìn thấy Minh đứng cuối đường thử, tay ghi chép điều gì đó, nhìn thấy Lan đang đứng ở cửa nhà máy, tay bưng mặt. Xa xa, mấy người dân đi đường dừng lại, nhìn chiếc xe lạ.
+
+Xe dừng. Hùng tắt máy. Ông bước xuống, đi vòng ra trước xe, đặt tay lên nắp ca-pô. Cả nhà máy im lặng.
+
+Minh là người đầu tiên lên tiếng:
+
+— Chạy được rồi.
+
+Mười bốn người thợ vỗ tay — tiếng vỗ trong nhà máy rộng vang như tiếng thác đổ. Có người ôm nhau. Có người ngồi phịch xuống sàn, không nói gì. Một người thợ già lau nước mắt bằng tay áo.
+
+Hùng đứng nguyên một chỗ, tay vẫn đặt trên nắp ca-pô. Mắt ông cay. Ông nhìn lên mái tôn, nhìn những vì kèo thép, nhìn dây chuyền lắp ráp còn mới tinh. Chín tháng — từ một bãi đất hoang, từ những cọc tre và dây căng, đến một nhà máy hoàn chỉnh.
+
+— Lô thứ nhất — mười chiếc. Hạn cuối: hai mươi lăm tháng Tư. — Hùng nói.
+
+— Được. — Minh đáp.
+
+Không có bài phát biểu. Không có tiệc. Chỉ có mười bốn người thợ và một chiếc xe tải xanh lam lăn bánh trên đường thử.
+
+*** 
+
+Tối hôm đó, Hùng gọi điện về cho mế — mẹ ông. Máy được nối qua tổng đài huyện — phải chờ mười lăm phút. Tiếng quay số xoay tay lạch cách, rồi tiếng tút tút đều đặn. Bên ngoài container, trời tối mịt, đèn cao áp vàng vọt phản chiếu xuống mặt đường đất đỏ còn ẩm sau cơn mưa chiều.
+
+— Bà ơi, xe chạy rồi.
+
+MẾ — MẾ của cả nhà — ở đầu dây bên kia im lặng một lúc lâu. Rồi bà nói, giọng khản đặc, như đang cố giữ cho mình không khóc qua điện thoại:
+
+— Tao nấu cháo cá lóc. Về ăn.
+
+— Dạ.
+
+— Con Lan ở đây. Nó nghe được, nó khóc rồi đấy.
+
+Ông cúp máy. Ngồi một mình trong container văn phòng, bên cạnh chén trà nguội, ngoài cửa sổ, tiếng côn trùng bắt đầu kêu râm ran — tiếng dế đêm xuân. Ngoài bãi đất, một vài công nhân còn thức đang rửa tay tại vòi nước công cộng, tiếng nước chảy róc rách xen lẫn tiếng cười nói nhỏ.
+
+Hùng ghi vào sổ tay dòng duy nhất:
+
+"15/04/1992 — 10h15 — chiếc xe tải 1.25 tấn đầu tiên lăn bánh khỏi nhà máy. Không cần camera. Không cần phát biểu. Có mười bốn người thợ đứng nhìn. Đủ rồi."
+
+Đêm đó, Hùng không ngủ được. Ông nằm trên chiếc giường gấp trong container, mắt mở, lắng nghe tiếng gió thổi qua mái tôn. Trong đầu ông, một con số: năm mươi xe mỗi tháng. Rồi một trăm. Rồi hai trăm. Nhưng trước mắt, chỉ có mười chiếc cho lô đầu tiên.
+
+Chợt có tiếng điện thoại reo — tiếng chuông kim loại leng keng, vang trong đêm vắng. Ông vồ lấy ống nghe.
+
+— Hùng à? — Giọng người quen ở Bộ Công Thương, thấp, vội. — Có tin xấu. Ông ngồi xuống nghe.
+
+Hùng ngồi xuống.
+
+— Thủ tướng vừa ban hành nghị định mới. Nhập khẩu linh kiện CKD phải qua Bộ Công Thương phê duyệt. Không phải Tổng cục Hải quan nữa — mà trực tiếp Bộ. Phê duyệt có thể mất... ba tháng. Hoặc sáu.
+
+Hùng im lặng. Ba tháng — nghĩa là sáu container đang trên đường từ Yokohama sẽ mắc kẹt ở cảng Hải Phòng. Không có linh kiện, dây chuyền dừng. Một trăm hai mươi công nhân về nhà.
+
+— Ông nghe chưa? — Giọng đầu dây lại nói.
+
+— Nghe rồi.
+
+— Tôi báo trước để ông tính. Chỉ báo trước thôi.
+
+Hùng đặt ống nghe xuống. Đêm nay, ông không chỉ mất ngủ — ông mất phương hướng.
+
+Nhưng sáng hôm sau, khi Hùng bước vào kho hàng, mùi hóa học lạ lẫm bay ra từ phía sau — và cánh cửa sắt đã bị mở.
+============================================================
+
+「Hệ thống — GHI NHẬN ch.159」
+Năm: 1992
+Tổng EXP: 25,200 (+300)
+Không gian kho: 8,400m² (+100m²)
+Kỹ năng trọng yếu: Thương mại lv1, Ngôn ngữ lv1, Thương mại lv2, Y tế lv1
+============================================================

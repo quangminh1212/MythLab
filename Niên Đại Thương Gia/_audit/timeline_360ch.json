@@ -1,0 +1,2882 @@
+[
+  {
+    "ch": 1,
+    "title": "Tỉnh lại",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 1 - Tỉnh lại.txt"
+  },
+  {
+    "ch": 2,
+    "title": "Bữa tối đầu tiên",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 2 - Bữa tối đầu tiên.txt"
+  },
+  {
+    "ch": 3,
+    "title": "Đi huyện thành",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 3 - Đi huyện thành.txt"
+  },
+  {
+    "ch": 4,
+    "title": "Bán hàng đầu tiên",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 4 - Bán hàng đầu tiên.txt"
+  },
+  {
+    "ch": 5,
+    "title": "Mở rộng kinh doanh",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 5 - Mở rộng kinh doanh.txt"
+  },
+  {
+    "ch": 6,
+    "title": "Tìm đối tác mới",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 6 - Tìm đối tác mới.txt"
+  },
+  {
+    "ch": 7,
+    "title": "Sửa nhà",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 7 - Sửa nhà.txt"
+  },
+  {
+    "ch": 8,
+    "title": "Mở rộng hàng hóa",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 8 - Mở rộng hàng hóa.txt"
+  },
+  {
+    "ch": 9,
+    "title": "Bán thuốc men",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 9 - Bán thuốc men.txt"
+  },
+  {
+    "ch": 10,
+    "title": "Đi Hà Nội",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 10 - Đi Hà Nội.txt"
+  },
+  {
+    "ch": 11,
+    "title": "Đi Hà Nam",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 11 - Đi Hà Nam.txt"
+  },
+  {
+    "ch": 12,
+    "title": "Đi Hải Dương",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 12 - Đi Hải Dương.txt"
+  },
+  {
+    "ch": 13,
+    "title": "Đi Thái Bình",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 13 - Đi Thái Bình.txt"
+  },
+  {
+    "ch": 14,
+    "title": "Bắt đầu sản xuất",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 14 - Bắt đầu sản xuất.txt"
+  },
+  {
+    "ch": 15,
+    "title": "Thuê người giúp việc",
+    "panel": 1983,
+    "prose": 1983,
+    "match": true,
+    "file": "Chương 15 - Thuê người giúp việc.txt"
+  },
+  {
+    "ch": 16,
+    "title": "Mở rộng xưởng may",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 16 - Mở rộng xưởng may.txt"
+  },
+  {
+    "ch": 17,
+    "title": "Đi Quảng Ninh",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 17 - Đi Quảng Ninh.txt"
+  },
+  {
+    "ch": 18,
+    "title": "Đi Nghệ An",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 18 - Đi Nghệ An.txt"
+  },
+  {
+    "ch": 19,
+    "title": "Hoàn thành nhiệm vụ sản xuất",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt"
+  },
+  {
+    "ch": 20,
+    "title": "Sản xuất giày dép",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 20 - Sản xuất giày dép.txt"
+  },
+  {
+    "ch": 21,
+    "title": "Mở rộng làm giày",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 21 - Mở rộng làm giày.txt"
+  },
+  {
+    "ch": 22,
+    "title": "Đi Thành phố Hồ Chí Minh",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 22 - Đi Thành phố Hồ Chí Minh.txt"
+  },
+  {
+    "ch": 23,
+    "title": "Sản xuất túi xách",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 23 - Sản xuất túi xách.txt"
+  },
+  {
+    "ch": 24,
+    "title": "Mở rộng làm túi",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 24 - Mở rộng làm túi.txt"
+  },
+  {
+    "ch": 25,
+    "title": "Mở cửa hàng thứ hai",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 25 - Mở cửa hàng thứ hai.txt"
+  },
+  {
+    "ch": 26,
+    "title": "Mua đất xây xưởng",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 26 - Mua đất xây xưởng.txt"
+  },
+  {
+    "ch": 27,
+    "title": "Đi Lào",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 27 - Đi Lào.txt"
+  },
+  {
+    "ch": 28,
+    "title": "Đi Campuchia",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 28 - Đi Campuchia.txt"
+  },
+  {
+    "ch": 29,
+    "title": "Đi Thái Lan",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 29 - Đi Thái Lan.txt"
+  },
+  {
+    "ch": 30,
+    "title": "Mở rộng cửa hàng",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 30 - Mở rộng cửa hàng.txt"
+  },
+  {
+    "ch": 31,
+    "title": "Tổng kết năm 1985",
+    "panel": 1985,
+    "prose": 1984,
+    "match": false,
+    "file": "Chương 31 - Tổng kết năm 1983.txt"
+  },
+  {
+    "ch": 32,
+    "title": "Sản xuất thực phẩm",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 32 - Sản xuất thực phẩm.txt"
+  },
+  {
+    "ch": 33,
+    "title": "Mở rộng thực phẩm",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 33 - Mở rộng thực phẩm.txt"
+  },
+  {
+    "ch": 34,
+    "title": "Tuyển kỹ sư Minh",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 34 - Tuyển kỹ sư Minh.txt"
+  },
+  {
+    "ch": 35,
+    "title": "Mở rộng miền Nam",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 35 - Mở rộng miền Nam.txt"
+  },
+  {
+    "ch": 36,
+    "title": "Mở chi nhánh Hoài Đức",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 36 - Mở chi nhánh Hoài Đức.txt"
+  },
+  {
+    "ch": 37,
+    "title": "Mở chi nhánh Hà Nội",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 37 - Mở chi nhánh Hà Nội.txt"
+  },
+  {
+    "ch": 38,
+    "title": "Sản xuất radio",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 38 - Sản xuất radio.txt"
+  },
+  {
+    "ch": 39,
+    "title": "Mở rộng sản xuất radio",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 39 - Mở rộng sản xuất radio.txt"
+  },
+  {
+    "ch": 40,
+    "title": "Hoàn thành nhiệm vụ radio",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 40 - Hoàn thành nhiệm vụ radio.txt"
+  },
+  {
+    "ch": 41,
+    "title": "Sản xuất quạt điện",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 41 - Sản xuất quạt điện.txt"
+  },
+  {
+    "ch": 42,
+    "title": "Hoàn thành nhiệm vụ quạt điện",
+    "panel": 1984,
+    "prose": 1984,
+    "match": true,
+    "file": "Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt"
+  },
+  {
+    "ch": 43,
+    "title": "Sản xuất đèn điện",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 43 - Sản xuất đèn điện.txt"
+  },
+  {
+    "ch": 44,
+    "title": "Hoàn thành nhiệm vụ đèn",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 44 - Hoàn thành nhiệm vụ đèn.txt"
+  },
+  {
+    "ch": 45,
+    "title": "Mở nhà hàng",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 45 - Mở nhà hàng.txt"
+  },
+  {
+    "ch": 46,
+    "title": "Mở nhà hàng Hà Nội",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 46 - Mở nhà hàng Hà Nội.txt"
+  },
+  {
+    "ch": 47,
+    "title": "Mở nhà hàng Sài Gòn",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 47 - Mở nhà hàng Sài Gòn.txt"
+  },
+  {
+    "ch": 48,
+    "title": "Đầu tư bất động sản",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 48 - Đầu tư bất động sản.txt"
+  },
+  {
+    "ch": 49,
+    "title": "Mua đất miền Nam",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 49 - Mua đất miền Nam.txt"
+  },
+  {
+    "ch": 50,
+    "title": "Cột mốc Chương 41–50",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 50 - Cột mốc Chương 41–50.txt"
+  },
+  {
+    "ch": 51,
+    "title": "Mở chi nhánh Bắc Ninh",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 51 - Mở chi nhánh Bắc Ninh.txt"
+  },
+  {
+    "ch": 52,
+    "title": "Tuyển kỹ sư Minh",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 52 - Tuyển kỹ sư Minh.txt"
+  },
+  {
+    "ch": 53,
+    "title": "Mở phòng khám",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 53 - Mở phòng khám.txt"
+  },
+  {
+    "ch": 54,
+    "title": "Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt"
+  },
+  {
+    "ch": 55,
+    "title": "Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt"
+  },
+  {
+    "ch": 56,
+    "title": "Minh qua chín mươi ngày thử việc",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 56 - Minh qua chín mươi ngày thử việc.txt"
+  },
+  {
+    "ch": 57,
+    "title": "Xây đội ngũ cốt lõi",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 57 - Xây đội ngũ cốt lõi.txt"
+  },
+  {
+    "ch": 58,
+    "title": "Xây dựng thương hiệu Thương Gia trong 30 ngày",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt"
+  },
+  {
+    "ch": 59,
+    "title": "Mở chi nhánh Ninh Bình",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 59 - Mở chi nhánh Ninh Bình.txt"
+  },
+  {
+    "ch": 60,
+    "title": "Hoàn thành nhiệm vụ chi nhánh",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt"
+  },
+  {
+    "ch": 61,
+    "title": "Sản xuất xe đạp",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 61 - Sản xuất xe đạp.txt"
+  },
+  {
+    "ch": 62,
+    "title": "Sản xuất máy cày",
+    "panel": 1985,
+    "prose": 1986,
+    "match": false,
+    "file": "Chương 62 - Sản xuất máy cày.txt"
+  },
+  {
+    "ch": 63,
+    "title": "Sản xuất máy gặt",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 63 - Sản xuất máy gặt.txt"
+  },
+  {
+    "ch": 64,
+    "title": "Mua 30 xe tải",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 64 - Mua 30 xe tải.txt"
+  },
+  {
+    "ch": 65,
+    "title": "Mở rộng chi nhánh tài chính",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 65 - Mở rộng chi nhánh tài chính.txt"
+  },
+  {
+    "ch": 66,
+    "title": "Mở rộng trường học",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 66 - Mở rộng trường học.txt"
+  },
+  {
+    "ch": 67,
+    "title": "Mở trường Sài Gòn",
+    "panel": 1985,
+    "prose": 1985,
+    "match": true,
+    "file": "Chương 67 - Mở trường Sài Gòn.txt"
+  },
+  {
+    "ch": 68,
+    "title": "Mở trung tâm đào tạo",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 68 - Mở trung tâm đào tạo.txt"
+  },
+  {
+    "ch": 69,
+    "title": "Mở rộng phòng khám",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 69 - Mở rộng phòng khám.txt"
+  },
+  {
+    "ch": 70,
+    "title": "Hoàn thành nhiệm vụ vận chuyển",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt"
+  },
+  {
+    "ch": 71,
+    "title": "Mở dịch vụ cho vay",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 71 - Mở dịch vụ cho vay.txt"
+  },
+  {
+    "ch": 72,
+    "title": "Mở rộng chi nhánh tài chính",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 72 - Mở rộng chi nhánh tài chính.txt"
+  },
+  {
+    "ch": 73,
+    "title": "Hoàn thành nhiệm vụ cho vay",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 73 - Hoàn thành nhiệm vụ cho vay.txt"
+  },
+  {
+    "ch": 74,
+    "title": "Mở trường học tiếp",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 74 - Mở trường học tiếp.txt"
+  },
+  {
+    "ch": 75,
+    "title": "Mở rộng trường học 30 trường",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 75 - Mở rộng trường học 30 trường.txt"
+  },
+  {
+    "ch": 76,
+    "title": "Mở rộng trung tâm đào tạo",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 76 - Mở rộng trung tâm đào tạo.txt"
+  },
+  {
+    "ch": 77,
+    "title": "Hoàn thành nhiệm vụ đào tạo",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt"
+  },
+  {
+    "ch": 78,
+    "title": "Mở rộng phòng khám tiếp",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 78 - Mở rộng phòng khám tiếp.txt"
+  },
+  {
+    "ch": 79,
+    "title": "Hoàn thành nhiệm vụ phòng khám",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt"
+  },
+  {
+    "ch": 80,
+    "title": "Mở rộng công ty xây dựng",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 80 - Mở rộng công ty xây dựng.txt"
+  },
+  {
+    "ch": 81,
+    "title": "Mở rộng năng lượng nhà máy điện",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 81 - Mở rộng năng lượng nhà máy điện.txt"
+  },
+  {
+    "ch": 82,
+    "title": "Hoàn thành nhiệm vụ năng lượng",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt"
+  },
+  {
+    "ch": 83,
+    "title": "Mở rộng từ thiện quỹ",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 83 - Mở rộng từ thiện quỹ.txt"
+  },
+  {
+    "ch": 84,
+    "title": "Hoàn thành nhiệm vụ từ thiện",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt"
+  },
+  {
+    "ch": 85,
+    "title": "Mở rộng xuất khẩu 10 đối tác",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt"
+  },
+  {
+    "ch": 86,
+    "title": "Mở rộng bảo hiểm",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 86 - Mở rộng bảo hiểm.txt"
+  },
+  {
+    "ch": 87,
+    "title": "Sản xuất máy cày ra mắt",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 87 - Sản xuất máy cày ra mắt.txt"
+  },
+  {
+    "ch": 88,
+    "title": "Sản xuất máy gặt ra mắt",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 88 - Sản xuất máy gặt ra mắt.txt"
+  },
+  {
+    "ch": 89,
+    "title": "Tổng kết Phần 2",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 89 - Tổng kết Phần 2.txt"
+  },
+  {
+    "ch": 90,
+    "title": "Bắt đầu Phần 3",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 90 - Bắt đầu Phần 3.txt"
+  },
+  {
+    "ch": 91,
+    "title": "Sản xuất thép Hải Phòng",
+    "panel": 1988,
+    "prose": 1987,
+    "match": false,
+    "file": "Chương 91 - Sản xuất thép Hải Phòng.txt"
+  },
+  {
+    "ch": 92,
+    "title": "Sản xuất xi măng",
+    "panel": 1986,
+    "prose": 1986,
+    "match": true,
+    "file": "Chương 92 - Sản xuất xi măng.txt"
+  },
+  {
+    "ch": 93,
+    "title": "Hùng gặp cô Hạnh",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 93 - Hùng gặp cô Hạnh.txt"
+  },
+  {
+    "ch": 94,
+    "title": "Hùng gặp cô Mai và cô Lan",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 94 - Hùng gặp cô Mai và cô Lan.txt"
+  },
+  {
+    "ch": 95,
+    "title": "Hùng chọn cô Hạnh",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 95 - Hùng chọn cô Hạnh.txt"
+  },
+  {
+    "ch": 96,
+    "title": "MẾ (MẾ) bế cháu nội",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 96 - Bà Hà bế cháu nội.txt"
+  },
+  {
+    "ch": 97,
+    "title": "Sản xuất điện tử",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 97 - Sản xuất điện tử.txt"
+  },
+  {
+    "ch": 98,
+    "title": "Sản xuất điện thoại",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 98 - Sản xuất điện thoại.txt"
+  },
+  {
+    "ch": 99,
+    "title": "Mở rộng viễn thông",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 99 - Mở rộng viễn thông.txt"
+  },
+  {
+    "ch": 100,
+    "title": "Sản xuất phần mềm",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 100 - Sản xuất phần mềm.txt"
+  },
+  {
+    "ch": 101,
+    "title": "Mở rộng cửa hàng 108",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 101 - Mở rộng cửa hàng 108.txt"
+  },
+  {
+    "ch": 102,
+    "title": "Mở rộng nhà hàng 42",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 102 - Mở rộng nhà hàng 42.txt"
+  },
+  {
+    "ch": 103,
+    "title": "Mở rộng nhà máy 30",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 103 - Mở rộng nhà máy 30.txt"
+  },
+  {
+    "ch": 104,
+    "title": "Mở rộng xuất khẩu châu Âu",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 104 - Mở rộng xuất khẩu châu Âu.txt"
+  },
+  {
+    "ch": 105,
+    "title": "Tổng kết Phần 3",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 105 - Tổng kết Phần 3.txt"
+  },
+  {
+    "ch": 106,
+    "title": "Bắt đầu Phần 4",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 106 - Bắt đầu Phần 4.txt"
+  },
+  {
+    "ch": 107,
+    "title": "Mở nhà máy Thái Lan",
+    "panel": 1987,
+    "prose": 1987,
+    "match": true,
+    "file": "Chương 107 - Mở nhà máy Thái Lan.txt"
+  },
+  {
+    "ch": 108,
+    "title": "Mở nhà máy Indonesia",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 108 - Mở nhà máy Indonesia.txt"
+  },
+  {
+    "ch": 109,
+    "title": "Mở nhà máy Đức",
+    "panel": 1987,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 109 - Mở nhà máy Đức.txt"
+  },
+  {
+    "ch": 110,
+    "title": "M&A Bangkok Electronics",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 110 - M&A Bangkok Electronics.txt"
+  },
+  {
+    "ch": 111,
+    "title": "Mở sang châu Mỹ USA",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 111 - Mở sang châu Mỹ USA.txt"
+  },
+  {
+    "ch": 112,
+    "title": "Hoàn thành phần 3",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 112 - Hoàn thành phần 3.txt"
+  },
+  {
+    "ch": 113,
+    "title": "Mở nhà máy USA",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 113 - Mở nhà máy USA.txt"
+  },
+  {
+    "ch": 114,
+    "title": "M&A Stahl GmbH",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 114 - M&A Stahl GmbH.txt"
+  },
+  {
+    "ch": 115,
+    "title": "Mở nhà máy Nigeria",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 115 - Mở nhà máy Nigeria.txt"
+  },
+  {
+    "ch": 116,
+    "title": "Mở nhà máy Úc",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 116 - Mở nhà máy Úc.txt"
+  },
+  {
+    "ch": 117,
+    "title": "Tổng tài sản 1000 tỷ",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 117 - Tổng tài sản 1000 tỷ.txt"
+  },
+  {
+    "ch": 118,
+    "title": "Những ngày nằm viện",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 118 - Những ngày nằm viện.txt"
+  },
+  {
+    "ch": 119,
+    "title": "Bước ngoặt sức khỏe",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 119 - Bước ngoặt sức khỏe.txt"
+  },
+  {
+    "ch": 120,
+    "title": "Học cách ủy thác sâu hơn",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 120 - Học cách ủy thác sâu hơn.txt"
+  },
+  {
+    "ch": 121,
+    "title": "Mở rộng sang Thái Lan",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 121 - Mở rộng sang Thái Lan.txt"
+  },
+  {
+    "ch": 122,
+    "title": "Myanmar và Campuchia",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 122 - Myanmar và Campuchia.txt"
+  },
+  {
+    "ch": 123,
+    "title": "Xây dựng đội ngũ xuất khẩu",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 123 - Xây dựng đội ngũ xuất khẩu.txt"
+  },
+  {
+    "ch": 124,
+    "title": "Cạnh tranh với Trung Quốc",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 124 - Cạnh tranh với Trung Quốc.txt"
+  },
+  {
+    "ch": 125,
+    "title": "Lan trưởng thành",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 125 - Lan trưởng thành.txt"
+  },
+  {
+    "ch": 126,
+    "title": "Giá trị của sự buông",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 126 - Giá trị của sự buông.txt"
+  },
+  {
+    "ch": 127,
+    "title": "Lan nhận nhiệm vụ mới",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 127 - Lan nhận nhiệm vụ mới.txt"
+  },
+  {
+    "ch": 128,
+    "title": "Khủng hoảng đầu tiên",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 128 - Khủng hoảng đầu tiên.txt"
+  },
+  {
+    "ch": 129,
+    "title": "Bước lùi để tiến xa hơn",
+    "panel": 1988,
+    "prose": 1989,
+    "match": false,
+    "file": "Chương 129 - Bước lùi để tiến xa hơn.txt"
+  },
+  {
+    "ch": 130,
+    "title": "Thử thách kế thừa",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 130 - Thử thách kế thừa.txt"
+  },
+  {
+    "ch": 131,
+    "title": "Mở rộng Đông Nam Á",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 131 - Mở rộng Đông Nam Á.txt"
+  },
+  {
+    "ch": 132,
+    "title": "Đối mặt hải quan Indonesia",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 132 - Đối mặt hải quan Indonesia.txt"
+  },
+  {
+    "ch": 133,
+    "title": "Malaysia và Philippines",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 133 - Malaysia và Philippines.txt"
+  },
+  {
+    "ch": 134,
+    "title": "Xây dựng chuỗi cung ứng châu Á",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt"
+  },
+  {
+    "ch": 135,
+    "title": "Đông Á - Nhật Bản và Hàn Quốc",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt"
+  },
+  {
+    "ch": 136,
+    "title": "Nhật Bản — Thị trường khó tính nhất",
+    "panel": 1989,
+    "prose": 1989,
+    "match": true,
+    "file": "Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt"
+  },
+  {
+    "ch": 137,
+    "title": "Cuộc gặp với ông Sato",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 137 - Cuộc gặp với ông Sato.txt"
+  },
+  {
+    "ch": 138,
+    "title": "Thử thách từ ông Sato",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 138 - Thử thách từ ông Sato.txt"
+  },
+  {
+    "ch": 139,
+    "title": "Mở rộng sang Hàn Quốc",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 139 - Mở rộng sang Hàn Quốc.txt"
+  },
+  {
+    "ch": 140,
+    "title": "Chuẩn bị cho thị trường Mỹ",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 140 - Chuẩn bị cho thị trường Mỹ.txt"
+  },
+  {
+    "ch": 141,
+    "title": "Chuyến bay đầu tiên đến Mỹ",
+    "panel": 1988,
+    "prose": 1988,
+    "match": true,
+    "file": "Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt"
+  },
+  {
+    "ch": 142,
+    "title": "Thử thách đầu tiên tại Mỹ",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 142 - Thử thách đầu tiên tại Mỹ.txt"
+  },
+  {
+    "ch": 143,
+    "title": "Xây dựng hệ thống chất lượng Mỹ",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt"
+  },
+  {
+    "ch": 144,
+    "title": "Mở rộng đối tác Mỹ",
+    "panel": 1990,
+    "prose": 1990,
+    "match": true,
+    "file": "Chương 144 - Mở rộng đối tác Mỹ.txt"
+  },
+  {
+    "ch": 145,
+    "title": "Đối mặt đối thủ Trung Quốc tại Mỹ",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt"
+  },
+  {
+    "ch": 146,
+    "title": "Lan học cách đàm phán với người Mỹ",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 146 - Lan học cách đàm phán với người Mỹ.txt"
+  },
+  {
+    "ch": 147,
+    "title": "Lan đối mặt với áp lực Mỹ",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 147 - Lan đối mặt với áp lực Mỹ.txt"
+  },
+  {
+    "ch": 148,
+    "title": "Bữa tối 3 thế hệ",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 148 - Bữa tối 3 thế hệ.txt"
+  },
+  {
+    "ch": 149,
+    "title": "Trở lại Mỹ với tinh thần mới",
+    "panel": 1996,
+    "prose": 1996,
+    "match": true,
+    "file": "Chương 149 - Trở lại Mỹ với tinh thần mới.txt"
+  },
+  {
+    "ch": 150,
+    "title": "Văn Hùng tập trung vào Việt Nam",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 150 - Văn Hùng tập trung vào Việt Nam.txt"
+  },
+  {
+    "ch": 151,
+    "title": "Lan mở rộng sang Canada",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 151 - Lan mở rộng sang Canada.txt"
+  },
+  {
+    "ch": 152,
+    "title": "Văn Hùng nhận huân chương",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 152 - Văn Hùng nhận huân chương.txt"
+  },
+  {
+    "ch": 153,
+    "title": "Lan mở rộng sang Australia",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 153 - Lan mở rộng sang Australia.txt"
+  },
+  {
+    "ch": 154,
+    "title": "Văn Hùng mở rộng quỹ từ thiện",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt"
+  },
+  {
+    "ch": 155,
+    "title": "Ngân hàng Thương Gia mở cửa",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 155 - Ngân hàng Thương Gia mở cửa.txt"
+  },
+  {
+    "ch": 156,
+    "title": "Cho vay doanh nghiệp nhỏ",
+    "panel": 1992,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 156 - Cho vay doanh nghiệp nhỏ.txt"
+  },
+  {
+    "ch": 157,
+    "title": "Đối mặt kiểm toán nhà nước",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 157 - Đối mặt kiểm toán nhà nước.txt"
+  },
+  {
+    "ch": 158,
+    "title": "Lan về nước báo cáo",
+    "panel": 1991,
+    "prose": 1991,
+    "match": true,
+    "file": "Chương 158 - Lan về nước báo cáo.txt"
+  },
+  {
+    "ch": 159,
+    "title": "Xây nhà máy ô tô đầu tiên",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 159 - Xây nhà máy ô tô đầu tiên.txt"
+  },
+  {
+    "ch": 160,
+    "title": "Thử nghiệm mẫu xe Thành Công",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 160 - Thử nghiệm mẫu xe Thành Công.txt"
+  },
+  {
+    "ch": 161,
+    "title": "Hợp tác kỹ thuật Nhật Bản",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt"
+  },
+  {
+    "ch": 162,
+    "title": "Chuỗi cung ứng phụ tùng",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 162 - Chuỗi cung ứng phụ tùng.txt"
+  },
+  {
+    "ch": 163,
+    "title": "Khủng hoảng nguyên liệu thép",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 163 - Khủng hoảng nguyên liệu thép.txt"
+  },
+  {
+    "ch": 164,
+    "title": "Hùng dàn xếp với nhà cung cấp",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 164 - Hùng dàn xếp với nhà cung cấp.txt"
+  },
+  {
+    "ch": 165,
+    "title": "Ra mắt xe máy Thương Gia",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 165 - Ra mắt xe máy Thương Gia.txt"
+  },
+  {
+    "ch": 166,
+    "title": "Mở showroom toàn quốc",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 166 - Mở showroom toàn quốc.txt"
+  },
+  {
+    "ch": 167,
+    "title": "Điện thoại Thương Gia thế hệ 2",
+    "panel": 1992,
+    "prose": 1992,
+    "match": true,
+    "file": "Chương 167 - Điện thoại Thương Gia thế hệ 2.txt"
+  },
+  {
+    "ch": 168,
+    "title": "Nhà máy máy tính Hà Nội",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 168 - Nhà máy máy tính Hà Nội.txt"
+  },
+  {
+    "ch": 169,
+    "title": "Xây dựng thương hiệu quốc tế",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 169 - Xây dựng thương hiệu quốc tế.txt"
+  },
+  {
+    "ch": 170,
+    "title": "Ký kết hợp đồng đối tác Mỹ",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt"
+  },
+  {
+    "ch": 171,
+    "title": "Chuyển giao cho thế hệ sau",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 171 - Chuyển giao cho thế hệ sau.txt"
+  },
+  {
+    "ch": 172,
+    "title": "Gia đình sum họp",
+    "panel": 1993,
+    "prose": 1988,
+    "match": false,
+    "file": "Chương 172 - Gia đình sum họp.txt"
+  },
+  {
+    "ch": 173,
+    "title": "Thỏa thuận đôi bên cùng có lợi",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt"
+  },
+  {
+    "ch": 174,
+    "title": "Logistics quốc tế Thương Gia",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 174 - Logistics quốc tế Thương Gia.txt"
+  },
+  {
+    "ch": 175,
+    "title": "Cảng container Hải Phòng",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 175 - Cảng container Hải Phòng.txt"
+  },
+  {
+    "ch": 176,
+    "title": "Lan về nước",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 176 - Lan về nước.txt"
+  },
+  {
+    "ch": 177,
+    "title": "Mở rộng nhà máy ô tô",
+    "panel": 1994,
+    "prose": 1991,
+    "match": false,
+    "file": "Chương 177 - Mở rộng nhà máy ô tô.txt"
+  },
+  {
+    "ch": 178,
+    "title": "Lan dẫn đoàn sang châu Âu khảo sát",
+    "panel": 1994,
+    "prose": 1993,
+    "match": false,
+    "file": "Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt"
+  },
+  {
+    "ch": 179,
+    "title": "Chuẩn bị niêm yết công ty con",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 179 - Chuẩn bị niêm yết công ty con.txt"
+  },
+  {
+    "ch": 180,
+    "title": "Lan đàm phán với đối tác châu Âu",
+    "panel": 1993,
+    "prose": 1993,
+    "match": true,
+    "file": "Chương 180 - Lan đàm phán với đối tác châu Âu.txt"
+  },
+  {
+    "ch": 181,
+    "title": "Cô Hạnh sinh con",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 181 - Cô Hạnh sinh con.txt"
+  },
+  {
+    "ch": 182,
+    "title": "Mở rộng quỹ đầu tư",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 182 - Mở rộng quỹ đầu tư.txt"
+  },
+  {
+    "ch": 183,
+    "title": "Hùng và Lan xây dựng đội ngũ kế thừa",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt"
+  },
+  {
+    "ch": 184,
+    "title": "Khủng hoảng tài chính châu Á 1994",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 184 - Khủng hoảng tài chính châu Á 1994.txt"
+  },
+  {
+    "ch": 185,
+    "title": "Tổng kết nửa chặng đường châu Á",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 185 - Tổng kết nửa chặng đường châu Á.txt"
+  },
+  {
+    "ch": 186,
+    "title": "Lan và chiến lược châu Á mới",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 186 - Lan và chiến lược châu Á mới.txt"
+  },
+  {
+    "ch": 187,
+    "title": "Nắm bắt cơ hội từ khủng hoảng",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt"
+  },
+  {
+    "ch": 188,
+    "title": "Điều tra và chứng cứ",
+    "panel": 1996,
+    "prose": 1995,
+    "match": false,
+    "file": "Chương 188 - Điều tra và chứng cứ.txt"
+  },
+  {
+    "ch": 189,
+    "title": "Đối chất công khai",
+    "panel": 1994,
+    "prose": 1997,
+    "match": false,
+    "file": "Chương 189 - Đối chất công khai.txt"
+  },
+  {
+    "ch": 190,
+    "title": "Mở rộng sang châu Phi — Cánh cửa Lagos",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 190 - Mở rộng sang châu Phi.txt"
+  },
+  {
+    "ch": 191,
+    "title": "Đầu tư công nghệ cao",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 191 - Đầu tư công nghệ cao.txt"
+  },
+  {
+    "ch": 192,
+    "title": "Lan thiết lập chuỗi cung ứng toàn cầu",
+    "panel": 1996,
+    "prose": 1996,
+    "match": true,
+    "file": "Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt"
+  },
+  {
+    "ch": 193,
+    "title": "Xây dựng thương hiệu toàn cầu",
+    "panel": 1994,
+    "prose": 1994,
+    "match": true,
+    "file": "Chương 193 - Xây dựng thương hiệu toàn cầu.txt"
+  },
+  {
+    "ch": 194,
+    "title": "Mở rộng quỹ đầu tư Bắc Mỹ",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt"
+  },
+  {
+    "ch": 195,
+    "title": "Lan chèo lái Thương Gia",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 195 - Lan chèo lái Thương Gia.txt"
+  },
+  {
+    "ch": 196,
+    "title": "MẾ sức khỏe giảm",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 196 - Bà Hà sức khỏe giảm.txt"
+  },
+  {
+    "ch": 197,
+    "title": "MẾ phát biểu trước toàn thể",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 197 - Bà Hà phát biểu trước toàn thể.txt"
+  },
+  {
+    "ch": 198,
+    "title": "Hùng về vườn",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 198 - Hùng về vườn.txt"
+  },
+  {
+    "ch": 199,
+    "title": "Tổng kết Phần 3",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 199 - Tổng kết Phần 3.txt"
+  },
+  {
+    "ch": 200,
+    "title": "Lễ kỷ niệm 10 năm",
+    "panel": 1995,
+    "prose": 1995,
+    "match": true,
+    "file": "Chương 200 - Lễ kỷ niệm 10 năm.txt"
+  },
+  {
+    "ch": 201,
+    "title": "Mở rộng châu Âu",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 201 - Mở rộng châu Âu.txt"
+  },
+  {
+    "ch": 202,
+    "title": "Chi nhánh Paris",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 202 - Chi nhánh Paris.txt"
+  },
+  {
+    "ch": 203,
+    "title": "Nhà hàng Thương Gia tại Lyon",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 203 - Nhà hàng Thương Gia tại Lyon.txt"
+  },
+  {
+    "ch": 204,
+    "title": "Berlin và kỹ thuật Đức",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 204 - Berlin và kỹ thuật Đức.txt"
+  },
+  {
+    "ch": 205,
+    "title": "Nhà máy linh kiện München",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 205 - Nhà máy linh kiện München.txt"
+  },
+  {
+    "ch": 206,
+    "title": "London – trung tâm tài chính",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 206 - London – trung tâm tài chính.txt"
+  },
+  {
+    "ch": 207,
+    "title": "Gặp gỡ quỹ đầu tư Anh",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt"
+  },
+  {
+    "ch": 208,
+    "title": "New York – Wall Street lần đầu",
+    "panel": 1997,
+    "prose": 1997,
+    "match": true,
+    "file": "Chương 208 - New York – Wall Street lần đầu.txt"
+  },
+  {
+    "ch": 209,
+    "title": "Đàm phán niêm yết ADR",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 209 - Đàm phán niêm yết ADR.txt"
+  },
+  {
+    "ch": 210,
+    "title": "Văn phòng Thương Gia Manhattan",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 210 - Văn phòng Thương Gia Manhattan.txt"
+  },
+  {
+    "ch": 211,
+    "title": "Chuỗi cửa hàng West Coast",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 211 - Chuỗi cửa hàng West Coast.txt"
+  },
+  {
+    "ch": 212,
+    "title": "Tiêu chuẩn chất lượng châu Âu",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt"
+  },
+  {
+    "ch": 213,
+    "title": "Chứng nhận ISO toàn hệ thống",
+    "panel": 1999,
+    "prose": 1999,
+    "match": true,
+    "file": "Chương 213 - Chứng nhận ISO toàn hệ thống.txt"
+  },
+  {
+    "ch": 214,
+    "title": "M&A đối thủ vừa tại Pháp",
+    "panel": 1998,
+    "prose": 1980,
+    "match": false,
+    "file": "Chương 214 - M&A đối thủ vừa tại Pháp.txt"
+  },
+  {
+    "ch": 215,
+    "title": "Tích hợp văn hóa doanh nghiệp",
+    "panel": 1998,
+    "prose": 1998,
+    "match": true,
+    "file": "Chương 215 - Tích hợp văn hóa doanh nghiệp.txt"
+  },
+  {
+    "ch": 216,
+    "title": "Sản xuất chip thử nghiệm",
+    "panel": 1999,
+    "prose": 1999,
+    "match": true,
+    "file": "Chương 216 - Sản xuất chip thử nghiệm.txt"
+  },
+  {
+    "ch": 217,
+    "title": "Nhà máy năng lượng tái tạo",
+    "panel": 1999,
+    "prose": 1999,
+    "match": true,
+    "file": "Chương 217 - Nhà máy năng lượng tái tạo.txt"
+  },
+  {
+    "ch": 218,
+    "title": "Pin mặt trời thế hệ mới",
+    "panel": 1999,
+    "prose": 2000,
+    "match": false,
+    "file": "Chương 218 - Pin mặt trời thế hệ mới.txt"
+  },
+  {
+    "ch": 219,
+    "title": "Xe điện nguyên mẫu",
+    "panel": 1999,
+    "prose": 2007,
+    "match": false,
+    "file": "Chương 219 - Xe điện nguyên mẫu.txt"
+  },
+  {
+    "ch": 220,
+    "title": "Triển lãm công nghệ châu Á",
+    "panel": 1999,
+    "prose": 2007,
+    "match": false,
+    "file": "Chương 220 - Triển lãm công nghệ châu Á.txt"
+  },
+  {
+    "ch": 221,
+    "title": "Dấu hiệu khủng hoảng 2008",
+    "panel": 2008,
+    "prose": 1997,
+    "match": false,
+    "file": "Chương 221 - Dấu hiệu khủng hoảng 2008.txt"
+  },
+  {
+    "ch": 222,
+    "title": "Hệ thống cảnh báo sớm",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 222 - Hệ thống cảnh báo sớm.txt"
+  },
+  {
+    "ch": 223,
+    "title": "Họp khẩn ban lãnh đạo",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 223 - Họp khẩn ban lãnh đạo.txt"
+  },
+  {
+    "ch": 224,
+    "title": "Bảo vệ dòng tiền",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 224 - Bảo vệ dòng tiền.txt"
+  },
+  {
+    "ch": 225,
+    "title": "Cơn bão Lehman",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 225 - Cơn bão Lehman.txt"
+  },
+  {
+    "ch": 226,
+    "title": "Những cuộc gọi nửa đêm",
+    "panel": 2008,
+    "prose": 2000,
+    "match": false,
+    "file": "Chương 226 - Những cuộc gọi nửa đêm.txt"
+  },
+  {
+    "ch": 227,
+    "title": "Đi săn khi ai cũng sợ",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 227 - Đi săn khi ai cũng sợ.txt"
+  },
+  {
+    "ch": 228,
+    "title": "Lan giữ pháo đài Mỹ",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 228 - Lan giữ pháo đài Mỹ.txt"
+  },
+  {
+    "ch": 229,
+    "title": "Không ai bị bỏ lại",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 229 - Không ai bị bỏ lại.txt"
+  },
+  {
+    "ch": 230,
+    "title": "Truyền thông và niềm tin",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 230 - Truyền thông và niềm tin.txt"
+  },
+  {
+    "ch": 231,
+    "title": "Mua lại nhà máy đối thủ phá sản",
+    "panel": 2008,
+    "prose": 2009,
+    "match": false,
+    "file": "Chương 231 - Mua lại nhà máy đối thủ phá sản.txt"
+  },
+  {
+    "ch": 232,
+    "title": "Tái khởi động sản xuất",
+    "panel": 2008,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 232 - Tái khởi động sản xuất.txt"
+  },
+  {
+    "ch": 233,
+    "title": "Truyền thông khủng hoảng",
+    "panel": 2008,
+    "prose": 2001,
+    "match": false,
+    "file": "Chương 233 - Truyền thông khủng hoảng.txt"
+  },
+  {
+    "ch": 234,
+    "title": "Niềm tin khách hàng",
+    "panel": 2008,
+    "prose": 2009,
+    "match": false,
+    "file": "Chương 234 - Niềm tin khách hàng.txt"
+  },
+  {
+    "ch": 235,
+    "title": "Hùng trên truyền hình quốc tế",
+    "panel": 2008,
+    "prose": 2010,
+    "match": false,
+    "file": "Chương 235 - Hùng trên truyền hình quốc tế.txt"
+  },
+  {
+    "ch": 236,
+    "title": "Forbes gọi tên Thương Gia",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 236 - Forbes gọi tên Thương Gia.txt"
+  },
+  {
+    "ch": 237,
+    "title": "Vượt qua đáy khủng hoảng",
+    "panel": 2008,
+    "prose": 2009,
+    "match": false,
+    "file": "Chương 237 - Vượt qua đáy khủng hoảng.txt"
+  },
+  {
+    "ch": 238,
+    "title": "Năm mới, trời mới",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 238 - Năm mới, trời mới.txt"
+  },
+  {
+    "ch": 239,
+    "title": "Đường dài",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 239 - Đường dài.txt"
+  },
+  {
+    "ch": 240,
+    "title": "Thương Gia City",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 240 - Thương Gia City.txt"
+  },
+  {
+    "ch": 241,
+    "title": "Khởi công Thương Gia City",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 241 - Khởi công Thương Gia City.txt"
+  },
+  {
+    "ch": 242,
+    "title": "Quy hoạch 500 hecta",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 242 - Quy hoạch 500 hecta.txt"
+  },
+  {
+    "ch": 243,
+    "title": "Hạ tầng và nhà ở công nhân",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 243 - Hạ tầng và nhà ở công nhân.txt"
+  },
+  {
+    "ch": 244,
+    "title": "Trường học trong khu công nghiệp",
+    "panel": 2003,
+    "prose": 2003,
+    "match": true,
+    "file": "Chương 244 - Trường học trong khu công nghiệp.txt"
+  },
+  {
+    "ch": 245,
+    "title": "Xe điện thương mại hóa",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 245 - Xe điện thương mại hóa.txt"
+  },
+  {
+    "ch": 246,
+    "title": "Trạm sạc toàn quốc",
+    "panel": 2003,
+    "prose": 2003,
+    "match": true,
+    "file": "Chương 246 - Trạm sạc toàn quốc.txt"
+  },
+  {
+    "ch": 247,
+    "title": "AI sơ khai trong quản lý kho",
+    "panel": 2003,
+    "prose": 2003,
+    "match": true,
+    "file": "Chương 247 - AI sơ khai trong quản lý kho.txt"
+  },
+  {
+    "ch": 248,
+    "title": "Trung tâm dữ liệu Thương Gia",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 248 - Trung tâm dữ liệu Thương Gia.txt"
+  },
+  {
+    "ch": 249,
+    "title": "Đối tác công nghệ Silicon Valley",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 249 - Đối tác công nghệ Silicon Valley.txt"
+  },
+  {
+    "ch": 250,
+    "title": "Lan dẫn quỹ R&D",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 250 - Lan dẫn quỹ R&D.txt"
+  },
+  {
+    "ch": 251,
+    "title": "Con trai Hùng vào công ty",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 251 - Con trai Hùng vào công ty.txt"
+  },
+  {
+    "ch": 252,
+    "title": "Thế hệ thứ hai học việc",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 252 - Thế hệ thứ hai học việc.txt"
+  },
+  {
+    "ch": 253,
+    "title": "Huân chương Lao động",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 253 - Huân chương Lao động.txt"
+  },
+  {
+    "ch": 254,
+    "title": "Gặp lãnh đạo ngành",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 254 - Gặp lãnh đạo ngành.txt"
+  },
+  {
+    "ch": 255,
+    "title": "Cam kết phát triển bền vững",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 255 - Cam kết phát triển bền vững.txt"
+  },
+  {
+    "ch": 256,
+    "title": "Top thương gia Việt Nam",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 256 - Top thương gia Việt Nam.txt"
+  },
+  {
+    "ch": 257,
+    "title": "Lễ vinh danh toàn quốc",
+    "panel": 2010,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 257 - Lễ vinh danh toàn quốc.txt"
+  },
+  {
+    "ch": 258,
+    "title": "Mở rộng châu Phi sâu",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 258 - Mở rộng châu Phi sâu.txt"
+  },
+  {
+    "ch": 259,
+    "title": "Nam Mỹ – Brazil và Chile",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 259 - Nam Mỹ – Brazil và Chile.txt"
+  },
+  {
+    "ch": 260,
+    "title": "Chuỗi giá trị toàn cầu",
+    "panel": 2010,
+    "prose": 2010,
+    "match": true,
+    "file": "Chương 260 - Chuỗi giá trị toàn cầu.txt"
+  },
+  {
+    "ch": 261,
+    "title": "Kiểm toán ESG đầu tiên",
+    "panel": 2010,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 261 - Kiểm toán ESG đầu tiên.txt"
+  },
+  {
+    "ch": 262,
+    "title": "MẾ và sách hồi ký gia đình",
+    "panel": 2010,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 262 - Bà Hà và sách hồi ký gia đình.txt"
+  },
+  {
+    "ch": 263,
+    "title": "Flashback 25 năm",
+    "panel": 2010,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 263 - Flashback 25 năm.txt"
+  },
+  {
+    "ch": 264,
+    "title": "Tái khẳng định sứ mệnh",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 264 - Tái khẳng định sứ mệnh.txt"
+  },
+  {
+    "ch": 265,
+    "title": "Đối thủ mới từ Hàn Quốc",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 265 - Đối thủ mới từ Hàn Quốc.txt"
+  },
+  {
+    "ch": 266,
+    "title": "Cạnh tranh lành mạnh",
+    "panel": 2005,
+    "prose": 2005,
+    "match": true,
+    "file": "Chương 266 - Cạnh tranh lành mạnh.txt"
+  },
+  {
+    "ch": 267,
+    "title": "Liên minh chiến lược Đông Á",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 267 - Liên minh chiến lược Đông Á.txt"
+  },
+  {
+    "ch": 268,
+    "title": "Tổng kết toàn cầu hóa",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 268 - Tổng kết toàn cầu hóa.txt"
+  },
+  {
+    "ch": 269,
+    "title": "Phần thưởng Phần 4",
+    "panel": 2011,
+    "prose": 2008,
+    "match": false,
+    "file": "Chương 269 - Phần thưởng Phần 4.txt"
+  },
+  {
+    "ch": 270,
+    "title": "Hoàn thành Phần 4 – Siêu tập đoàn",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt"
+  },
+  {
+    "ch": 271,
+    "title": "Bắt đầu Phần 5 – Ảnh hưởng xã hội",
+    "panel": 2006,
+    "prose": 2006,
+    "match": true,
+    "file": "Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt"
+  },
+  {
+    "ch": 272,
+    "title": "Đế chế truyền thông Thương Gia",
+    "panel": 2006,
+    "prose": 2009,
+    "match": false,
+    "file": "Chương 272 - Đế chế truyền thông Thương Gia.txt"
+  },
+  {
+    "ch": 273,
+    "title": "Báo và tạp chí kinh tế",
+    "panel": 2006,
+    "prose": 2006,
+    "match": true,
+    "file": "Chương 273 - Báo và tạp chí kinh tế.txt"
+  },
+  {
+    "ch": 274,
+    "title": "Kênh truyền hình thực tế",
+    "panel": 2006,
+    "prose": 2007,
+    "match": false,
+    "file": "Chương 274 - Kênh truyền hình thực tế.txt"
+  },
+  {
+    "ch": 275,
+    "title": "Nền tảng mạng xã hội nội địa",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 275 - Nền tảng mạng xã hội nội địa.txt"
+  },
+  {
+    "ch": 276,
+    "title": "Thương Gia FC ra đời",
+    "panel": 2006,
+    "prose": 2006,
+    "match": true,
+    "file": "Chương 276 - Thương Gia FC ra đời.txt"
+  },
+  {
+    "ch": 277,
+    "title": "Sân vận động cộng đồng",
+    "panel": 2007,
+    "prose": 2010,
+    "match": false,
+    "file": "Chương 277 - Sân vận động cộng đồng.txt"
+  },
+  {
+    "ch": 278,
+    "title": "Tài trợ Olympic khu vực",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 278 - Tài trợ Olympic khu vực.txt"
+  },
+  {
+    "ch": 279,
+    "title": "Học bổng 10.000 sinh viên",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 279 - Học bổng 10.000 sinh viên.txt"
+  },
+  {
+    "ch": 280,
+    "title": "Xây 100 trường vùng sâu",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 280 - Xây 100 trường vùng sâu.txt"
+  },
+  {
+    "ch": 281,
+    "title": "Quỹ 10.000 tỷ từ thiện",
+    "panel": 2008,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 281 - Quỹ 10.000 tỷ từ thiện.txt"
+  },
+  {
+    "ch": 282,
+    "title": "Minh bạch quỹ công khai",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 282 - Minh bạch quỹ công khai.txt"
+  },
+  {
+    "ch": 283,
+    "title": "Y tế lưu động miền núi",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 283 - Y tế lưu động miền núi.txt"
+  },
+  {
+    "ch": 284,
+    "title": "Nước sạch cho 500 xã",
+    "panel": 2008,
+    "prose": 2006,
+    "match": false,
+    "file": "Chương 284 - Nước sạch cho 500 xã.txt"
+  },
+  {
+    "ch": 285,
+    "title": "Lan đứng đầu mảng xã hội",
+    "panel": 2008,
+    "prose": 2008,
+    "match": true,
+    "file": "Chương 285 - Lan đứng đầu mảng xã hội.txt"
+  },
+  {
+    "ch": 286,
+    "title": "Con trai phụ trách sản xuất",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 286 - Con trai phụ trách sản xuất.txt"
+  },
+  {
+    "ch": 287,
+    "title": "Hùng lui về chiến lược",
+    "panel": 2007,
+    "prose": 2007,
+    "match": true,
+    "file": "Chương 287 - Hùng lui về chiến lược.txt"
+  },
+  {
+    "ch": 288,
+    "title": "Khủng hoảng truyền thông giả",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 288 - Khủng hoảng truyền thông giả.txt"
+  },
+  {
+    "ch": 289,
+    "title": "Phản ứng minh bạch",
+    "panel": 2009,
+    "prose": 2010,
+    "match": false,
+    "file": "Chương 289 - Phản ứng minh bạch.txt"
+  },
+  {
+    "ch": 290,
+    "title": "Từ thiện Đông Timor",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 290 - Từ thiện Đông Timor.txt"
+  },
+  {
+    "ch": 291,
+    "title": "Hội nghị thượng đỉnh doanh nghiệp",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt"
+  },
+  {
+    "ch": 292,
+    "title": "Đề xuất chính sách xanh",
+    "panel": 2009,
+    "prose": 2008,
+    "match": false,
+    "file": "Chương 292 - Đề xuất chính sách xanh.txt"
+  },
+  {
+    "ch": 293,
+    "title": "Thương hiệu quốc gia",
+    "panel": 2009,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 293 - Thương hiệu quốc gia.txt"
+  },
+  {
+    "ch": 294,
+    "title": "Bảo tàng Thương Gia",
+    "panel": 2010,
+    "prose": 1987,
+    "match": false,
+    "file": "Chương 294 - Bảo tàng Thương Gia.txt"
+  },
+  {
+    "ch": 295,
+    "title": "Ngày hội công nhân",
+    "panel": 2009,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 295 - Ngày hội công nhân.txt"
+  },
+  {
+    "ch": 296,
+    "title": "Mở quỹ học bổng",
+    "panel": 2012,
+    "prose": 2012,
+    "match": true,
+    "file": "Chương 296 - Mở quỹ học bổng.txt"
+  },
+  {
+    "ch": 297,
+    "title": "Công đoàn đối thoại",
+    "panel": 2010,
+    "prose": 2002,
+    "match": false,
+    "file": "Chương 297 - Công đoàn đối thoại.txt"
+  },
+  {
+    "ch": 298,
+    "title": "Đào tạo lãnh đạo trẻ",
+    "panel": 2009,
+    "prose": 2009,
+    "match": true,
+    "file": "Chương 298 - Đào tạo lãnh đạo trẻ.txt"
+  },
+  {
+    "ch": 299,
+    "title": "Hùng 50 tuổi – nhìn lại",
+    "panel": 2010,
+    "prose": 2003,
+    "match": false,
+    "file": "Chương 299 - Hùng 50 tuổi – nhìn lại.txt"
+  },
+  {
+    "ch": 300,
+    "title": "Mở rộng từ thiện châu Á",
+    "panel": 2014,
+    "prose": 2014,
+    "match": true,
+    "file": "Chương 300 - Mở rộng từ thiện châu Á.txt"
+  },
+  {
+    "ch": 301,
+    "title": "Lan CEO tập đoàn",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 301 - Lan CEO tập đoàn.txt"
+  },
+  {
+    "ch": 302,
+    "title": "Hùng Chủ tịch Hội đồng",
+    "panel": 2013,
+    "prose": 2013,
+    "match": true,
+    "file": "Chương 302 - Hùng Chủ tịch Hội đồng.txt"
+  },
+  {
+    "ch": 303,
+    "title": "Thế hệ ba bắt đầu",
+    "panel": 2011,
+    "prose": 2011,
+    "match": true,
+    "file": "Chương 303 - Thế hệ ba bắt đầu.txt"
+  },
+  {
+    "ch": 304,
+    "title": "Học bổng 10.000 SV",
+    "panel": 2011,
+    "prose": 1982,
+    "match": false,
+    "file": "Chương 304 - Học bổng 10.000 SV.txt"
+  },
+  {
+    "ch": 305,
+    "title": "Gặp lại ông Tanaka",
+    "panel": 2014,
+    "prose": 2014,
+    "match": true,
+    "file": "Chương 305 - Gặp lại ông Tanaka.txt"
+  },
+  {
+    "ch": 306,
+    "title": "Gặp lại ông Sato",
+    "panel": 2003,
+    "prose": 1995,
+    "match": false,
+    "file": "Chương 306 - Gặp lại ông Sato.txt"
+  },
+  {
+    "ch": 307,
+    "title": "Gặp lại Klaus",
+    "panel": 2014,
+    "prose": 2007,
+    "match": false,
+    "file": "Chương 307 - Gặp lại Klaus.txt"
+  },
+  {
+    "ch": 308,
+    "title": "Gặp lại đối tác Mỹ",
+    "panel": 2012,
+    "prose": 2008,
+    "match": false,
+    "file": "Chương 308 - Gặp lại đối tác Mỹ.txt"
+  },
+  {
+    "ch": 309,
+    "title": "Quỹ học bổng mang tên mế",
+    "panel": 2012,
+    "prose": 2012,
+    "match": true,
+    "file": "Chương 309 - Quỹ học bổng mang tên bà Hà.txt"
+  },
+  {
+    "ch": 310,
+    "title": "Thương gia huyền thoại",
+    "panel": 2014,
+    "prose": 2014,
+    "match": true,
+    "file": "Chương 310 - Thương gia huyền thoại.txt"
+  },
+  {
+    "ch": 311,
+    "title": "Giải Thương gia huyền thoại",
+    "panel": 2012,
+    "prose": 2012,
+    "match": true,
+    "file": "Chương 311 - Giải Thương gia huyền thoại.txt"
+  },
+  {
+    "ch": 312,
+    "title": "Giao quyền cho Lan",
+    "panel": 2012,
+    "prose": 2012,
+    "match": true,
+    "file": "Chương 312 - Giao quyền cho Lan.txt"
+  },
+  {
+    "ch": 313,
+    "title": "Sách trắng quản trị Thương Gia",
+    "panel": 2015,
+    "prose": 2015,
+    "match": true,
+    "file": "Chương 313 - Sách trắng quản trị Thương Gia.txt"
+  },
+  {
+    "ch": 314,
+    "title": "Đối mặt tin đồn sức khỏe",
+    "panel": 2013,
+    "prose": 2013,
+    "match": true,
+    "file": "Chương 314 - Đối mặt tin đồn sức khỏe.txt"
+  },
+  {
+    "ch": 315,
+    "title": "Hùng chăm sóc sức khỏe",
+    "panel": 2016,
+    "prose": 2016,
+    "match": true,
+    "file": "Chương 315 - Hùng chăm sóc sức khỏe.txt"
+  },
+  {
+    "ch": 316,
+    "title": "Gia đình ba thế hệ sum họp",
+    "panel": 2013,
+    "prose": 2013,
+    "match": true,
+    "file": "Chương 316 - Gia đình ba thế hệ sum họp.txt"
+  },
+  {
+    "ch": 317,
+    "title": "Kế hoạch di sản pháp lý",
+    "panel": 2013,
+    "prose": 2013,
+    "match": true,
+    "file": "Chương 317 - Kế hoạch di sản pháp lý.txt"
+  },
+  {
+    "ch": 318,
+    "title": "Ủy thác tài sản minh bạch",
+    "panel": 2013,
+    "prose": 2013,
+    "match": true,
+    "file": "Chương 318 - Ủy thác tài sản minh bạch.txt"
+  },
+  {
+    "ch": 319,
+    "title": "Cam kết không chia cắt tập đoàn",
+    "panel": 2014,
+    "prose": 2014,
+    "match": true,
+    "file": "Chương 319 - Cam kết không chia cắt tập đoàn.txt"
+  },
+  {
+    "ch": 320,
+    "title": "Truyền thông Thương Gia",
+    "panel": 2015,
+    "prose": 2015,
+    "match": true,
+    "file": "Chương 320 - Truyền thông Thương Gia.txt"
+  },
+  {
+    "ch": 321,
+    "title": "Khủng hoảng cạnh tranh giá",
+    "panel": 2014,
+    "prose": 2016,
+    "match": false,
+    "file": "Chương 321 - Khủng hoảng cạnh tranh giá.txt"
+  },
+  {
+    "ch": 322,
+    "title": "Chiến lược giá trị thay vì giá rẻ",
+    "panel": 2015,
+    "prose": 2015,
+    "match": true,
+    "file": "Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt"
+  },
+  {
+    "ch": 323,
+    "title": "Khách hàng trung thành",
+    "panel": 2014,
+    "prose": 2014,
+    "match": true,
+    "file": "Chương 323 - Khách hàng trung thành.txt"
+  },
+  {
+    "ch": 324,
+    "title": "Tái định vị thương hiệu",
+    "panel": 2014,
+    "prose": 1986,
+    "match": false,
+    "file": "Chương 324 - Tái định vị thương hiệu.txt"
+  },
+  {
+    "ch": 325,
+    "title": "Công nghệ xanh toàn hệ thống",
+    "panel": 2014,
+    "prose": 2015,
+    "match": false,
+    "file": "Chương 325 - Công nghệ xanh toàn hệ thống.txt"
+  },
+  {
+    "ch": 326,
+    "title": "Net zero cam kết",
+    "panel": 2015,
+    "prose": 2015,
+    "match": true,
+    "file": "Chương 326 - Net zero cam kết.txt"
+  },
+  {
+    "ch": 327,
+    "title": "Lễ 30 năm Thương Gia",
+    "panel": 2015,
+    "prose": 1985,
+    "match": false,
+    "file": "Chương 327 - Lễ 30 năm Thương Gia.txt"
+  },
+  {
+    "ch": 328,
+    "title": "Quỹ 10.000 tỷ",
+    "panel": 2019,
+    "prose": 2019,
+    "match": true,
+    "file": "Chương 328 - Quỹ 10.000 tỷ.txt"
+  },
+  {
+    "ch": 329,
+    "title": "Tổng kết Phần 5",
+    "panel": 2015,
+    "prose": 2015,
+    "match": true,
+    "file": "Chương 329 - Tổng kết Phần 5.txt"
+  },
+  {
+    "ch": 330,
+    "title": "Đội bóng Thương Gia FC",
+    "panel": 2015,
+    "prose": 2015,
+    "match": true,
+    "file": "Chương 330 - Đội bóng Thương Gia FC.txt"
+  },
+  {
+    "ch": 331,
+    "title": "Bắt đầu Phần 6 – Di sản",
+    "panel": 2016,
+    "prose": 2016,
+    "match": true,
+    "file": "Chương 331 - Bắt đầu Phần 6 – Di sản.txt"
+  },
+  {
+    "ch": 332,
+    "title": "Tập đoàn bóng tối trở lại",
+    "panel": 2016,
+    "prose": 2016,
+    "match": true,
+    "file": "Chương 332 - Tập đoàn bóng tối trở lại.txt"
+  },
+  {
+    "ch": 333,
+    "title": "Âm mưu thôn tính cổ phiếu",
+    "panel": 2016,
+    "prose": 2016,
+    "match": true,
+    "file": "Chương 333 - Âm mưu thôn tính cổ phiếu.txt"
+  },
+  {
+    "ch": 334,
+    "title": "Phòng thủ cổ đông",
+    "panel": 2017,
+    "prose": 2010,
+    "match": false,
+    "file": "Chương 334 - Phòng thủ cổ đông.txt"
+  },
+  {
+    "ch": 335,
+    "title": "Liên minh cổ đông nhỏ",
+    "panel": 2016,
+    "prose": 2005,
+    "match": false,
+    "file": "Chương 335 - Liên minh cổ đông nhỏ.txt"
+  },
+  {
+    "ch": 336,
+    "title": "Âm mưu tập đoàn bóng tối",
+    "panel": 2017,
+    "prose": 2017,
+    "match": true,
+    "file": "Chương 336 - Âm mưu tập đoàn bóng tối.txt"
+  },
+  {
+    "ch": 337,
+    "title": "Trí tuệ và hệ thống",
+    "panel": 2018,
+    "prose": 2018,
+    "match": true,
+    "file": "Chương 337 - Trí tuệ và hệ thống.txt"
+  },
+  {
+    "ch": 338,
+    "title": "Chiến thắng đại hội cổ đông",
+    "panel": 2018,
+    "prose": 2018,
+    "match": true,
+    "file": "Chương 338 - Chiến thắng đại hội cổ đông.txt"
+  },
+  {
+    "ch": 339,
+    "title": "Thanh lọc nội bộ",
+    "panel": 2018,
+    "prose": 2018,
+    "match": true,
+    "file": "Chương 339 - Thanh lọc nội bộ.txt"
+  },
+  {
+    "ch": 340,
+    "title": "Vượt qua âm mưu",
+    "panel": 2020,
+    "prose": 2008,
+    "match": false,
+    "file": "Chương 340 - Vượt qua âm mưu.txt"
+  },
+  {
+    "ch": 341,
+    "title": "Lễ bàn giao quyền lực chính thức",
+    "panel": 2019,
+    "prose": 1995,
+    "match": false,
+    "file": "Chương 341 - Lễ bàn giao quyền lực chính thức.txt"
+  },
+  {
+    "ch": 342,
+    "title": "Lan CEO – con trai Phó",
+    "panel": 2019,
+    "prose": 2019,
+    "match": true,
+    "file": "Chương 342 - Lan CEO – con trai Phó.txt"
+  },
+  {
+    "ch": 343,
+    "title": "MẾ 90 tuổi kể chuyện xưa",
+    "panel": 2018,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt"
+  },
+  {
+    "ch": 344,
+    "title": "Lễ bàn giao quyền lực",
+    "panel": 2020,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 344 - Lễ bàn giao quyền lực.txt"
+  },
+  {
+    "ch": 345,
+    "title": "Quỹ Di sản Trần Văn Hùng",
+    "panel": 2020,
+    "prose": 2020,
+    "match": true,
+    "file": "Chương 345 - Quỹ Di sản Trần Văn Hùng.txt"
+  },
+  {
+    "ch": 346,
+    "title": "Người giàu có trách nhiệm",
+    "panel": 2021,
+    "prose": 2021,
+    "match": true,
+    "file": "Chương 346 - Người giàu có trách nhiệm.txt"
+  },
+  {
+    "ch": 347,
+    "title": "Từ thiện 100.000 tỷ lộ trình",
+    "panel": 2019,
+    "prose": 2019,
+    "match": true,
+    "file": "Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt"
+  },
+  {
+    "ch": 348,
+    "title": "Du hành tri ân thế giới",
+    "panel": 2021,
+    "prose": 2021,
+    "match": true,
+    "file": "Chương 348 - Du hành tri ân thế giới.txt"
+  },
+  {
+    "ch": 349,
+    "title": "Hợp tác với đối tác quốc tế",
+    "panel": 2019,
+    "prose": 2019,
+    "match": true,
+    "file": "Chương 349 - Hợp tác với đối tác quốc tế.txt"
+  },
+  {
+    "ch": 350,
+    "title": "Du hành thế giới",
+    "panel": 2021,
+    "prose": 2021,
+    "match": true,
+    "file": "Chương 350 - Du hành thế giới.txt"
+  },
+  {
+    "ch": 351,
+    "title": "Nhà đất cũ và ký ức",
+    "panel": 2020,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 351 - Nhà đất cũ và ký ức.txt"
+  },
+  {
+    "ch": 352,
+    "title": "Từ thiện 100.000 tỷ",
+    "panel": 2020,
+    "prose": 2020,
+    "match": true,
+    "file": "Chương 352 - Từ thiện 100.000 tỷ.txt"
+  },
+  {
+    "ch": 353,
+    "title": "Thư gửi thế hệ sau",
+    "panel": 2022,
+    "prose": 2022,
+    "match": true,
+    "file": "Chương 353 - Thư gửi thế hệ sau.txt"
+  },
+  {
+    "ch": 354,
+    "title": "Hệ thống nhiệm vụ cuối",
+    "panel": 2021,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 354 - Hệ thống nhiệm vụ cuối.txt"
+  },
+  {
+    "ch": 355,
+    "title": "Hoàn thành nhiệm vụ tối thượng",
+    "panel": 2021,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt"
+  },
+  {
+    "ch": 356,
+    "title": "Bữa tối gia đình",
+    "panel": 2023,
+    "prose": 2023,
+    "match": true,
+    "file": "Chương 356 - Bữa tối gia đình.txt"
+  },
+  {
+    "ch": 357,
+    "title": "Flashback toàn hành trình",
+    "panel": 2023,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 357 - Flashback toàn hành trình.txt"
+  },
+  {
+    "ch": 358,
+    "title": "Bữa tối ba thế hệ",
+    "panel": 2022,
+    "prose": 2022,
+    "match": true,
+    "file": "Chương 358 - Bữa tối ba thế hệ.txt"
+  },
+  {
+    "ch": 359,
+    "title": "Đêm trước ngày kỷ niệm 40 năm",
+    "panel": 2022,
+    "prose": 2022,
+    "match": true,
+    "file": "Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt"
+  },
+  {
+    "ch": 360,
+    "title": "Tinh thần Thương Gia mãi trường tồn",
+    "panel": 2024,
+    "prose": 1983,
+    "match": false,
+    "file": "Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt"
+  }
+]

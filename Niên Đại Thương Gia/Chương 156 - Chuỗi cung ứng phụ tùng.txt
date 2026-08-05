@@ -1,0 +1,221 @@
+============================================================
+Chương 156: Chuỗi cung ứng phụ tùng
+============================================================
+
+Cuối tháng Mười hai năm 1992. Hà Nội lạnh buốt — hơi nước buông xuống từng làn, thấm vào tận xương, khiến ngón tay ai cũng tê cóng khi chạm vào sắt thép. Khuôn ép từ Nhật đã về sau hơn một tháng chờ đợi — nằm trong thùng gỗ đóng đinh, lót giấy dầu chống gỉ, mùi dầu hỏa thoang thoảng bốc lên khi mở nắp. Đức lắp vào máy ép thủy lực — một chiếc máy Trung Quốc cũ, mua thanh lý từ xưởng nhựa Hà Nội, đã được Đức và Tâm đại tu lại toàn bộ. Họ thay dầu thủy lực, căn chỉnh lại áp suất, thay bộ phớt cao su đã cứng — phớt cũ tháo ra giòn tan trong tay, như đất nứt mùa hạn. Mất ba ngày để máy chạy trở lại. Trong ba ngày đó, Đức ngủ lại xưởng — trải chiếu góc nhà kho, đắp chăn bông mỏng, thức dậy giữa đêm nghe tiếng chuột rúc rích trong đống bao nilon.
+
+Đức đổ nhựa ABS hạt vào phễu — những hạt nhỏ trong suốt lấp lánh dưới ánh đèn neon, đổ ra tiếng lách cách khô rang, như mưa rào trên mái tôn — rồi chỉnh nhiệt độ khuôn — 180 độ C, căn chỉnh áp suất ép — 120 bar. Mùi nhựa nóng bay lên, ngọt khét, cay mũi, bám vào tóc, vào quần áo, vào cả giấc mơ đêm đó. Cả xưởng im lặng. Đèn tuýp trên trần nhấp nháy — điện lưới Hà Nội cuối năm chập chờn — rồi ổn định lại. Ai nấy đều nín thở. Đây là lần đầu tiên chiếc khuôn từ Nhật được thử nghiệm trên máy ép Việt Nam, trong cái xưởng nhỏ giữa phố cổ, nơi mà mười năm trước còn là kho vải của hợp tác xã.
+
+Máy ép rung lên, tiếng thủy lực xì hơi. Khuôn ép mở ra, nửa vỏ trước màu đen bóng nằm trong lòng khuôn. Đức cầm nó ra, đặt lên bàn kiểm. Vỏ đều, bóng, không rỗ, không ba-via. Các cạnh sắc, các lỗ bắt ốc đúng vị trí. Ông lấy thước cặp đo — kích thước đúng từng mi-li-mét so với bản vẽ Sato gửi.
+
+Ông cầm nửa vỏ lên, xoay dưới đèn — bề mặt phản chiếu ánh sáng đều, không gợn sóng. Đặt lên bàn đo, hai nửa ghép vào nhau — khe hở đều, không lệch, không lỏng. Đức nhìn Hùng, gật đầu một cái. Vỏ nhựa được. Tất cả đều thở phào.
+
+Nhưng còn phụ tùng. Và phụ tùng — Hùng biết — là phần mà trăm doanh nghiệp thất bại, chứ không phải phần họ thành công. Ai cũng có thể hàn khung, ai cũng có thể ép vỏ, nhưng chỉ những ai kiểm soát được chuỗi cung ứng mới sống sót. Ông đã từng chứng kiến xưởng may của bố mình sụp đổ vì thiếu vải — một kho hàng tắc ở cảng Hải Phòng, ba tháng không thông quan, cả xưởng nằm chờ, công nhân nghỉ hết. Bài học đó đã khắc vào xương.
+
+Hùng ý thức rõ: xe máy có vỏ đẹp không đủ. Động cơ nhập về, khung sắt hàn, vỏ nhựa ép — nhưng bugi, xích, nhông, đĩa, má phanh, dây điện, đèn, còi, ống xả, đề, ắc quy — tất cả đều phải có nguồn cung cấp ổn định. Mua trôi nổi ngoài chợ sẽ hỏng uy tín. Mà uy tín là thứ duy nhất Thương Gia có để cạnh tranh với xe Trung Quốc giá rẻ và xe Nhật cũ nhập về.
+
+Ông gọi một cuộc họp với Lan, Đức, và Tâm — người thợ hàn trẻ đã theo ông từ xưởng da. Cuộc họp diễn ra ngay trong xưởng, bốn người ngồi quanh bàn gỗ tạm, giữa những linh kiện xe máy và mùi dầu mỡ. Dầu thủy lực ám vào thớ gỗ, ngai ngái như mùi sắt ướt; tiếng máy nén bên góc tường thỉnh thoảng thở phì một cái, kéo cả bốn người trở về với cái giá của từng quyết định. Trên bàn là một cái khung xe chưa lắp, cạnh đó là mấy bộ phận nhựa mới ép.
+
+— Chia ra, — Hùng nói, giọng đều, — mỗi người phụ trách một nhóm linh kiện. Anh Đức lo động cơ và khung. Tâm lo ốc vít, dây điện, đèn, còi. Lan lo phụ tùng nhập khẩu — bugi, xích, nhông, má phanh. Tôi lo vỏ nhựa, sơn, và logo.
+
+Lan giở sổ ngay:
+
+— Bugi và xích, em đã gọi cho ông Sato. Ông ấy gửi báo giá: một phẩy hai đô la Mỹ một cái bugi NGK, bốn phẩy năm đô la một bộ xích DID. Giá FOB Osaka. Cộng cước vận chuyển và thuế nhập khẩu, mỗi bộ bugi-xích sẽ tốn khoảng 10.000 đồng.
+
+— Đắt, — Hùng nói.
+
+— Nhưng hàng Nhật, bền gấp năm hàng Tàu.
+
+— Vậy mua Nhật. Nhưng mua nhiều để giảm giá. Đặt một lô cho năm trăm xe.
+
+Lan ghi vào sổ. Một con số khác vừa được chốt.
+
+Tâm giở tờ giấy ông viết tay — nét chữ nguệch ngoạc, nhưng số liệu rạch ròi:
+
+— Ốc vít em hỏi mấy chỗ. Chỗ quen ở phố Hàng Khoai bán 200 đồng một bộ ốc cho xe máy — sáu con ốc, bốn long đền, hai ốc hãm. Nhưng ốc Trung Quốc, thép kém, lâu ngày rỉ, dễ chờn ren. Em thử mua một lô của Thái Lan qua cửa khẩu, giá 350 đồng một bộ, nhưng thép tốt, mạ kẽm, không rỉ.
+
+— Mua Thái Lan, — Hùng nói ngay. — Ốc rỉ thì tháo ra không được, khách sẽ chửi. Mình đã hứa bảo hành sáu tháng, nếu ốc rỉ sau ba tháng, thay miễn phí còn tốn hơn.
+
+— Dây điện thì sao? — Lan hỏi.
+
+— Dây em sẽ cắt theo chiều dài, — Tâm nói. — Mua dây cuộn về — dây đồng bọc nhựa PVC, tiết diện 1.5mm² cho hệ thống điện chính, 0.75mm² cho đèn tín hiệu. Hàn đầu cos, bọc nhiệt co. Rẻ hơn mua dây có sẵn, và chủ động được chiều dài. Nhưng phải mua máy cắt dây và bấm cos.
+
+— Mua, — Hùng nói. — Bao nhiêu tiền?
+
+— Khoảng bảy trăm nghìn cho một bộ máy cắt và máy bấm. Của Nhật cũ, xài tốt. Có người quen bán thanh lý.
+
+— Mua.
+
+Tâm gật, ghi lại. Một nét bút nữa.
+
+Đức nói chậm rãi. Ông già ấy nói chậm, nhưng ai cũng lắng nghe:
+
+— Động cơ hai thì nhập từ Quảng Châu, tôi đã thử trên ba cái. Cả ba đều chạy, nhưng một cái sau hai mươi phút bắt đầu rung bất thường. Tôi tháo ra, thấy xéc-măng thứ hai bị nứt — một vết nứt nhỏ, chỉ bằng nửa mi-li-mét, nhưng nếu lắp vào xe rồi mới hỏng, tháo ra rất phiền. Phải mở máy, thay xéc-măng, mất cả buổi.
+
+— Lỗi của họ hay của mình?
+
+— Của họ. Hàng lỗi từ xưởng. Quy trình kiểm tra của họ không kỹ.
+
+— Liên hệ họ đổi.
+
+— Đã liên hệ, — Đức nói. — Họ bảo "có lỗi thì gửi về, chúng tôi đổi". Nhưng gửi về mất một tháng. Họ ở Quảng Châu, không có đại diện ở Việt Nam. Gửi qua đường tiểu ngạch, thủ tục rườm rà.
+
+Hùng im lặng một lúc. Ông đứng dậy, đi lại trong xưởng. Ba người kia nhìn theo. Những vỏ nhựa xếp trên kệ. Những động cơ nằm trên bàn kiểm, cạnh đó là bộ dụng cụ tháo lắp. Một chiếc xe đã lắp dở đang chờ phụ tùng. Chân ông đạp lên mạt nhựa vụn trên nền — tiếng xào xạo nhẹ, như bước trên cát — rồi dừng lại.
+
+— Anh Đức, — Hùng nói, dừng lại, — nếu mua động cơ Nhật cũ từ Thái Lan, anh có kiểm tra được chất lượng không?
+
+Đức không trả lời ngay. Ông tính. Mua động cơ Nhật cũ từ Thái Lan — không phải chuyện đơn giản. Phải có người bên Thái Lan kiểm hàng, phải có thầu phụ vận chuyển, phải chịu rủi ro hàng lỗi. Nhưng động cơ Nhật, dù cũ, vẫn tốt hơn động cơ Trung Quốc mới tinh.
+
+— Có. — Đức nói. — Phải tháo ra, đo xéc-măng, kiểm tra xu páp, bạc, vòng bi. Mất công, nhưng biết chắc. Một động cơ Nhật cũ nếu còn tốt, chạy thêm năm năm không vấn đề.
+
+— Làm được không?
+
+— Làm được.
+
+— Bao nhiêu cái một tháng?
+
+— Một tay tôi, thêm một thợ phụ — Tâm kèm thêm — có thể kiểm ba chục cái một tháng. Mỗi cái mất khoảng nửa ngày.
+
+— Lấy năm mươi cái tháng đầu. Kiểm từng cái. Cái nào không đạt thì từ chối, không nhập. Thà thiếu động cơ còn hơn lắp động cơ hỏng.
+
+Đức ngồi im một lúc. Đôi mắt ông già di chuyển, như đang vẽ một dây chuyền kiểm tra trong đầu. Bàn tay ông gõ nhẹ lên mặt bàn — nhịp đều — những ngón tay chai sạn, mó cắt cụt, vết dầu máy thấm vào kẽ nứt da lâu ngày rửa không hết. Ông nhớ lại ba mươi năm trước, lúc ông mới học nghề sửa xe ở garage phố Bạch Mai, ông thầy già dạy: "Thợ giỏi không phải thợ tháo được máy, mà là thợ nghe được máy kêu gì trước khi nó hỏng." Giọng thầy ông còn vang, trầm và chắc, như tiếng pít-tông đều đặn. Rồi ông nói:
+
+— Được. Nhưng phải có đồng hồ đo nén — loại cắm vào lỗ bugi, đo áp suất buồng đốt. Không có thì không kiểm chính xác được. Còn phải có đồng hồ đo chân không để kiểm tra bộ chế hòa khí.
+
+— Mua, — Hùng nói. — Lan, tính tiền hai cái đồng hồ đó.
+
+Lan ghi vào sổ. Bên cạnh những dòng về bugi, ốc, dây điện.
+
+Cuộc họp kéo dài hai tiếng. Kết quả là một bảng excel viết tay với ba cột: phụ tùng, nguồn cung, giá thành. Có chỗ sửa, có chỗ gạch xóa. Nhưng cuối cùng, các con số đã rõ.
+
+Hùng nhìn vào bảng, thấy chi phí mỗi xe đã giảm được một trăm nghìn so với dự tính ban đầu — nhờ mua động cơ Thái thay vì Quảng Châu, và nhờ tự cắt dây điện thay vì mua bộ có sẵn. Mỗi chiếc xe tiết kiệm được 100.000 đồng. Với kế hoạch 500 xe năm đầu, đó là 50 triệu đồng.
+
+Nhưng ông cũng thấy những điểm yếu: xích Nhật phải nhập qua cửa khẩu, không có nhà cung cấp trong nước. Động cơ Thái Lan phải qua trung gian, không ký được hợp đồng dài hạn. Bugi Nhật có sẵn trong nước nhưng giá bán lẻ gấp ba giá FOB. Nếu không quản lý tốt, những điểm yếu này sẽ thành lỗ hổng.
+
+Ông mở mắt, nhìn Lan.
+
+— Ba năm? — Lan hỏi, giọng cô lạc đi một nhịp.
+
+— Ba năm. Tiền đâu làm ngay được.
+
+— Tiền từ đâu?
+
+— Từ bán xe.
+
+— Nếu bán không chạy?
+
+— Thì đóng cửa.
+
+Hùng nói câu đó như nói "trời sắp mưa" — không cảm xúc, không do dự. Lan biết anh mình không đùa. Nếu xe Thương Gia thất bại, công ty sẽ phải cắt lỗ và quay về những ngành cũ — may mặc, thực phẩm, gia vị. Nhưng Hùng đã đặt cược toàn bộ danh tiếng và ba phần tư vốn lưu động vào dự án xe máy. Không còn đường lùi.
+
+***
+
+Chiều hôm đó, Lan đến khu phố Hàng Khoai — con phố chuyên bán ốc vít, phụ tùng ô tô xe máy lâu đời nhất Hà Nội. Phố hẹp, hai bên là những cửa hàng nhỏ, hàng hóa tràn ra vỉa hè. Tiếng xe đạp leng keng len qua đám người; mùi sắt gỉ và dầu máy hòa vào nhau, ngọt ngọt, nồng nồng, ám vào cổ họng. Góc phố, một quán nước vỉa hè bốc hơi nước mía đường phèn — ngọt lừ, quyện mùi than tổ ong đốt dở. Mấy ông già ngồi trên ghế nhựa đỏ, hút thuốc lá Điện Biên, rít một hơi dài, thở ra khói trắng bốc lên rồi tan vào sương chiều. Phía xa, loa phường phát bản tin lúc sáu giờ, giọng đọc nữ đều đều, lẫn tiếng ù ù của loa cũ. Một chú bé đầu trọc chạy ngang, tay cầm que kẹo mạch nha, dính đầy đường đen lên cả hai má. Lan quan sát tất cả — mỗi mùi, mỗi âm thanh — như đang đọc một bản đồ thị trường bằng giác quan. Cô mang theo bản vẽ các loại ốc cần dùng cho xe Thương Gia — sáu loại ốc khác nhau, từ ốc bắt khung động cơ đến ốc bắt vỏ nhựa, mỗi loại có kích thước và độ bền riêng. Gõ cửa từng nhà, đưa bản vẽ, hỏi giá.
+
+Chủ cửa hàng đầu tiên — một người đàn ông năm mươi tuổi tên Lợi — nhìn bản vẽ rồi lắc đầu:
+
+— Cỡ ốc này lạ. Không phải ốc xe đạp, cũng không phải ốc xe Nhật. Cháu lấy ở đâu ra?
+
+— Xe do bên cháu tự sản xuất.
+
+Lợi nhìn Lan. Một cô gái trẻ, mặt non choẹt, nói chuyện sản xuất xe máy. Ông cười — một nụ cười không ác ý, nhưng đầy hoài nghi.
+
+— Xe của cháu? Hay xe của chồng cháu?
+
+— Của công ty cháu. Thương Gia. Nếu ông có thể cung cấp, cháu đặt số lượng lớn. Không phải một hai lần, mà là hợp đồng dài hạn.
+
+Lợi nhướn mày. Ông cầm bản vẽ lên xem lại — lần này kỹ hơn. Ông lấy kính lúp trên quầy, soi từng đường nét, từng kích thước. Những con số, dung sai, chất liệu thép — tất cả đều ghi rõ ràng. Ông gật gù.
+
+— Nếu số lượng lớn, tôi phải gửi xuống xưởng ở Hải Phòng gia công. Ở đây tôi chỉ bán lẻ. Xuống xưởng, họ có máy tiện, máy ren, máy dập. Mất hai tuần cho lô đầu.
+
+— Hai tuần được. Ông cho cháu báo giá viết tay, ký tên. Cháu đặt trước ba tháng, trả tiền một nửa khi đặt, một nửa khi nhận hàng.
+
+— Cô chắc chứ? Ba tháng là số lượng lớn. Nếu xe không bán được, đống ốc này nằm kho, tôi không trả lại tiền đâu.
+
+— Cháu chắc. Và cháu sẽ không trả lại.
+
+Lợi nhìn Lan thêm lần nữa. Đôi mắt ông già — từng nhìn nhiều người đến mua hàng, từng biết ai mua thật, ai mua chơi — nhìn cô gái trẻ trước mặt. Rồi ông lấy bút, viết báo giá. Chữ ông Lợi đẹp — loại chữ của người đã viết hóa đơn hàng chục năm, nét đều, thẳng hàng.
+
+Lan cầm tờ giấy, gấp cẩn thận, để vào túi.
+
+Ra khỏi cửa hàng, Lan thở ra. Cô vừa cam kết chi hơn mười triệu đồng tiền ốc cho ba tháng tới — số tiền lớn hơn bất cứ đơn hàng nào cô từng ký. Nhưng nếu xe Thương Gia không bán được, đống ốc đó sẽ nằm trong kho đến mục. Cô đứng ngoài vỉa hè, lưng dựa vào tường lạnh, nhắm mắt lại một giây. Mười triệu đồng. Tương đương một năm tiền lương công nhân xưởng may mà mẹ cô đã khâu liên tục mười hai tiếng mỗi ngày, dưới ánh đèn tuýp vàng khè, đến mức mắt mờ phải đeo kính. Cô đặt tay lên túi áo, nơi tờ báo giá nằm, cảm nhận tờ giấy mỏng qua lớp vải. Ngón tay cô hơi run. Cô nghĩ đến MẾ — mẹ vẫn luôn coi cô là đứa con gái bé bỏng chưa biết lo toan, chưa bao giờ tin cô có thể làm việc lớn. Nhưng chính mẹ là người đã dạy cô đọc số, viết hóa đơn, đếm tiền thối khi mẹ chạy sô bán hàng ở chợ Đồng Xuân. "Lan ơi, tay mẹ sắp gãy rồi, con thay mẹ đi." Lúc đó cô mới mười ba tuổi. Bây giờ, hai mươi tư tuổi, cô đang ký hợp đồng mười triệu mà không thèm đếm lại. Rồi cô mở mắt, bước nhanh hơn. Đường phố buổi chiều đầy tiếng rao — "Bánh mì! Bánh mì nóng!" — tiếng rao của bà cụ lưng còng, thùng bánh mì đẩy bằng xe ba gác sắt đã gỉ, bánh mì xếp chồng lên nhau trong thùng gỗ lót giấy báo.
+
+Cô đi tiếp, ghé qua một cửa hàng bugi và dây điện ở phố Trần Nhật Duật. Chủ hàng là một phụ nữ trạc bốn mươi, kiệm lời. Cửa hàng nhỏ — chỉ rộng chừng mười lăm mét vuông — nhưng gọn gàng đến từng chi tiết. Những cuộn dây điện đủ màu treo trên tường theo thứ tự kích cỡ. Bugi các loại xếp trong tủ kính, có nhãn ghi rõ chủng loại và giá. Mùi đồng và nhựa cháy nhẹ thoang thoảng. Trên quầy, một cái radio cũ đang phát nhạc cải lương.
+
+— Bugi NGK loại xe hai thì, chị có sẵn không? — Lan hỏi.
+
+Chị chủ nhìn Lan từ đầu đến chân — cô gái trẻ, mặc áo sơ mi trắng quần tây đen, không giống dân kỹ thuật. Nhưng cái cách Lan hỏi — đúng tên bugi, đúng loại động cơ — làm chị chủ đổi thái độ. Chị đặt cuộn dây đang cầm xuống, lau tay vào tạp dề.
+
+— Có. Hàng mới nhập về tuần trước, còn nguyên thùng. Nhưng giá cao hơn chợ sỉ vì hàng nhập mới, ít người mua. Tôi nhập ít nên giá cao.
+
+— Chị bán cho em giá sỉ, em lấy một lố một trăm.
+
+Chị chủ hơi ngạc nhiên, lấy máy tính ra bấm. Máy tính cầm tay cũ — loại Casio, nút bấm đã mòn chữ, nhưng vẫn chạy tốt. Con số hiện ra trên màn hình LCD. Lan nhìn, không trả giá, chỉ hỏi:
+
+— Nếu em lấy hai trăm cái, giảm được bao nhiêu?
+
+Chị chủ nhìn Lan — lần này là cái nhìn của người bán hàng nhận ra một khách hàng thật sự. Chị bấm lại máy tính, thì thầm một con số, rồi đưa ra con số mới, thấp hơn 15%.
+
+Lan gật đầu, lấy sổ ghi lại. Trong sổ cô đã có bốn báo giá cho bugi. Chị này tuy giá cao hơn một nơi khác hai trăm đồng một cái, nhưng hàng có sẵn, không phải đặt trước. Với lịch sản xuất gấp rút, hai trăm đồng chênh lệch là chấp nhận được — hơn là chờ đợi và làm chậm tiến độ.
+
+— Em lấy hai trăm. Nếu giao đúng hẹn, tháng sau em lấy tiếp. Có thể lên năm trăm nếu xe bán chạy.
+
+Chị chủ gật đầu, lấy sổ ghi đơn hàng — một cuốn sổ bìa xanh, đã cũ, nhưng từng trang ghi chép cẩn thận. Khi Lan ra về, chị gọi với theo:
+
+— Có cần gì thêm, cứ gọi. Tôi ở đây từ sáu giờ sáng đến tám giờ tối. Cả chủ nhật cũng mở.
+
+***
+
+Tối hôm đó, Lan về nhà với một tập giấy báo giá từ sáu nhà cung cấp khác nhau. MẾ đang ngồi trong bếp, xé rau cho bữa tối, đôi tay chậm rãi, đôi mắt thi thoảng liếc ra ngoài — như vẫn còn nghe tiếng xe máy của Lan đỗ ngoài ngõ. Đôi tay MẾ đầy vết chai, ngón cái bên trái bị sưng — arthritis, đau nhất những ngày đông ẩm — nhưng vẫn xé rau đều tay, đều nhịp, như một cỗ máy đã chạy quá tải mà chưa được nghỉ. Nồi cơm đang sôi trên bếp ga — bếp ga công nghiệp loại nhỏ, hai họng, mua từ thời bố còn sống — nước sôi sùng sục, hơi bốc lên làm mặt gương trên tường phủ một lớp hơi nước mờ. Trên bàn thờ bố, nhang mới cắm, khói bay lên thẳng rồi loãng ra, mùi trầm hương dịu, ngọt, quyện vào mùi rau xào tỏi đang phi thơm. Bếp núc tối hôm đó ấm áp, nhưng trong cái ấm ấy có một khoảng lặng — khoảng lặng của người mẹ đang lo mà không dám hỏi. Minh — con trai Hùng, bốn tuổi — đang ngồi trên sàn gạch chơi ghép gỗ, miệng ê a gọi Lan: "Cô Lan ơi." Lan cúi xuống xoa đầu cháu, rồi ngồi bệt xuống nền nhà — nền gạch men lạnh — trải các tờ giấy ra, so sánh từng loại. Đèn bàn hắt ánh sáng vàng lên những con số. Cô đánh dấu ba cột: chất lượng, giá, thời gian giao hàng. Mỗi nhà cung cấp được chấm điểm trên từng tiêu chí.
+
+Hùng đi qua, nhìn đống giấy, không hỏi gì. Ông biết Lan đang làm việc của cô. Ông vào bếp, rót cho cô cốc nước ấm, đặt lên bàn cạnh đống giấy tờ. Rồi ông đi vào phòng trong, ngồi đọc sách.
+
+Đến mười giờ tối, Lan đứng dậy, đưa cho Hùng một tờ tổng hợp — một tờ giấy A4, viết tay, nhưng rõ ràng, có kẻ bảng, có gạch đầu dòng, có số liệu so sánh:
+
+"Sáu nhà cung cấp. Em chọn ba: Lợi — ốc vít, thép cây. Chị Hương — bugi, dây điện, còi đèn. Và một xưởng nhựa ở Hà Đông — ống nhựa, gioăng cao su, các chi tiết nhựa nhỏ. Cả ba đều đồng ý ký hợp đồng ba tháng và nhận trả chậm ba mươi ngày."
+
+— Tốt. Mai anh gửi tiền cọc.
+
+— Anh không xem lại? — Lan hỏi, hơi ngạc nhiên.
+
+— Em chọn rồi. Xem làm gì.
+
+Lan im lặng. Cô biết đó là cách Hùng tin tưởng — không phải không kiểm tra, mà là kiểm tra trước khi giao, và không kiểm tra lại sau khi đã giao. Cô nhìn tờ giấy tổng hợp, nhìn những con số, những cái tên. Một cảm giác lạ — vừa lo vừa tự hào. Cô nhớ ngày còn bé, bố vẫn bảo: "Giao việc rồi phải tin người. Kẻ nào giao việc mà đi kiểm từng bước thì không ai muốn làm cho nó." Bố nói câu đó với bộ mặt nghiêm, giọng trầm, nhưng đôi mắt thì mềm — như muốn nói: "Tao tin mày." Bây giờ, giữa đêm khuya, trong căn nhà nhỏ trên phố cũ, Lan hiểu câu đó bằng cả trái tim mình. Cô gấp tờ giấy lại, đặt lên bàn, rồi liếc sang phòng — thấy bóng Hùng ngồi dưới ánh đèn đọc sách, vai rộng, tóc bạc trắng nơi thái dương. Đột nhiên cô thấy mũi cay.
+
+Sáng hôm sau, Hùng đến xưởng sớm hơn thường lệ. Trời còn tối, sương mù dày đặc, lạnh buốt ngón tay khi chạm vào tay nắm cổng sắt. Tiếng loa phát thanh từ một nhà gần đó bật lên — bản tin thời sự năm giờ sáng, giọng đọc đều đều, lẫn tiếng xì xào của radio bán dẫn cũ. Trong tay là tập giấy Lan đưa tối qua và một phong bì đựng tiền cọc cho ba nhà cung cấp. Ông đưa trực tiếp cho Đức, người đã ở xưởng từ năm giờ.
+
+— Đây là tiền cọc phụ tùng tháng đầu. Anh Đức giữ. Xuất kho cần hai chữ ký: một của anh, một của Lan.
+
+Đức nhận phong bì, để vào túi trong áo khoác — một cái áo bông cũ, nhưng túi trong còn nguyên, được ông may lại cẩn thận bằng chỉ nâu, mũi khâu đều tay. Ông không mở ra đếm. Ông biết Hùng đã đếm trước khi đưa. Đức quay lại bàn kiểm, tay sờ lên mặt động cơ — sắt lạnh dưới ngón tay chai sạn. Ông đang nghĩ đến ba mươi năm trước, lúc ông mới mười sáu tuổi, lần đầu tiên tháo một động cơ Honda Cub ở garage Bạch Mai. Ông thầy già — ông Phúc — đứng sau lưng, không nói gì, chỉ gõ đầu ông bằng chiếc cờ lê khi ông lắp sai con ốc. "Con ốc sai một nửa li-mét thì máy chạy rung, xe đi đường dài sẽ nổ lốc. Mày muốn thợ giỏi hay thợ xấp xỉ?" Ông nhớ câu đó đến tận bây giờ, mỗi lần kiểm tra một động cơ.
+
+— Khi nào có lô phụ tùng đầu tiên? — Hùng hỏi.
+
+— Xưởng nhựa Hà Đông hẹn năm ngày. Ốc của ông Lợi hẹn mười ngày. Bugi của chị Hương có sẵn, mai lấy được.
+
+— Được. Ngày mười lăm tháng Giêng, tôi muốn thấy mười chiếc xe hoàn chỉnh.
+
+Đức nhìn Hùng. Mười lăm tháng Giêng là ba tuần nữa. Ông tính trong đầu: lắp ráp, kiểm tra, chạy thử, sửa lỗi — từng bước một. Đủ, nếu không có trục trặc.
+
+— Được, — Đức nói.
+
+Hùng quay ra, đi về phía cổng. Trong lòng ông, một cảm giác khó tả — vừa phấn khích, vừa sợ. Chiếc xe Thương Gia đang dần hoàn thiện. Nhưng mỗi bước tiến lại mở ra một vấn đề mới: phụ tùng, nhà cung cấp, chất lượng, tiến độ. Ông dừng lại một giây, đưa tay lên bịt miệng — hơi thở trắng phì ra trong không khí lạnh — rồi buông xuống. Ông nhìn lên bầu trời xám cuối năm, mây thấp, chuẩn bị cho một cơn mưa. Gió heo may thổi lạnh gáy, mùi khói than tổ ong từ ngõ nhỏ bên cạnh thoang thoảng bay qua. Phía ngoài đường lớn, một chiếc xe đạp chở hàng cao ngất lướt qua, buộc dây thừng đen, người đạp cúi lưng, chân đạp chậm rãi. Tiếng chuông xe đạp leng keng, nhỏ dần rồi tắt. Ông tự hỏi liệu mình có đang làm điều đúng đắn.
+
+Nhưng câu hỏi đó chỉ kéo dài vài giây. Ông đã đi quá xa để quay đầu. Bây giờ chỉ còn cách tiến về phía trước. Và phía trước, ông biết, là những chặng đường còn dài hơn nhiều.
+
+Ông vừa đặt chân ra khỏi cổng xưởng thì tiếng chuông điện thoại bàn trong văn phòng vang lên — dồn dập, gấp gáp, cái chuông kim loại vang lên trong không khí lạnh, sắc và xuyên thấu. Giọng nói của bà bán nước ở đầu ngõ gọi với: "Nhà có điện thoại!" — rồi tiếng chân ai chạy rầm rầm trong ngõ, tiếng dép lê quệt trên nền gạch. Đức quay lại, vội vã bước vào, nhấc ống nghe — cái ống nghe nhựa đen nặng, dây xoắn còn dính bụi — rồi đặt tay lên tường để giữ thăng bằng vì chân ông đang run. Im lặng một lúc — một lúc dài đến mức cả xưởng nghe thấy tiếng kim đồng hồ trên tường tích tắc, tiếng tích tắc đó rõ đến nỗi như ai đang gõ móng tay lên mặt gương. Rồi ông đặt ống nghe xuống, quay ra, mặt tái mét. Tay ông nắm chặt thành nắm đấm, móng tay ghì xuống thịt, trắng bệch:
+
+— Anh Hùng. Lô động cơ Thái Lan — hải quan cửa khẩu giữ lại. Họ nói giấy tờ thiếu tem nhập khẩu. Không có tem, hàng không qua được. Năm mươi cái — nằm nguyên trong container. Mười lăm ngày đã chờ ở kho lạnh. Không có tem thì không nhúc nhích.
+
+Hùng đứng sững. Cả người ông cứng lại, như có ai dội cả thùng nước đá lên người — lạnh từ đỉnh đầu xuống gót chân. Ông cảm thấy miệng khô khốc, lưỡi dính vào vòm họng. Gió lạnh thổi qua xưởng, mang theo mùi khói nhà ai vừa đun bếp. Tiếng còi xe buýt từ đường lớn vọng vào, xa xa, như tiếng gọi từ một thế giới khác. Mùi dầu nhớt nóng — còn thừa từ máy ép buổi sáng — bốc lên nhẹ, ngọt khét, cay mũi, quyện vào cái lạnh khô của ngày cuối năm. Ông nhìn Đức — khuôn mặt người đàn ông già tái mét, môi mấp máy, mắt đỏ hoe. Ông nhìn đồng hồ trên tường — kim giây vẫn chạy, vô tư, vô cảm — rồi nhìn ra cổng, nơi mặt trời cuối năm đang dần tắt sau những mái nhà cũ. Mười chiếc xe — ba tuần nữa. Và bây giờ, nguồn động cơ duy nhất của ông đã nằm im sau cánh cửa hải quan lạnh ngắt. Ông quay lưng, bước chậm rãi trở vào xưởng. Mỗi bước chân đều nặng, như đạp lên sắt vụn.
+
+============================================================
+Ánh nắng chiều vàng rượi hắt qua cửa sổ, phủ lên mặt bàn một lớp sáng mỏng. Tiếng xe cộ xa xa vọng lại, đều đặn như nhịp thở của thành phố.
+Nhưng đêm đó, khi Hùng kiểm tra sổ sách, một con số không khớp — và nó không phải lỗi đánh máy.
+「Hệ thống — GHI NHẬN ch.162」
+Năm: 1992
+Tổng EXP: 26,100 (+300)
+Không gian kho: 8,700m² (+100m²)
+Kỹ năng trọng yếu: Giáo dục lv2, Lãnh đạo lv2, Tài chính lv3
+Ghi chú: khóa nhịp ch.162
+
+============================================================
