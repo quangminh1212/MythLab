@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3289,
+        "chars": 15997,
+        "dialogue": 17,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.19,
+        "char_density": 6.56,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm sáu mươi dưới trời Đường 629. Trống điểm vừa dứt thì gió bấc mang mùi đất se và vôi cũ từ mé rào đông. Gò trống. Không xe. Không thước. Trong rào — ngày yên sau hỏi lần tám mươi. Trống không bằng yên hội. Yên hội là miệng nở. Yên nghề là việc nuốt sợ trước khi sợ nở thành chữ.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi dưới trời Đường 629. Trống điểm",
+      "file": "Chương 540 - Ngày Yên Sau Hỏi 80.txt",
+      "path": "Chương 540 - Ngày Yên Sau Hỏi 80.txt",
+      "num": 540
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3043,
+        "chars": 14991,
+        "dialogue": 18,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.95,
+        "char_density": 6.47,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm sáu mươi mốt dưới trời Đường 629. Trống điểm. Gió bấc mang mùi đất se và chút tanh xa từ hướng gốc đa nghiêng nam — không phải tanh hố tây, không phải tanh cháo. Gò trống lúc gà gáy. Trong rào máy nghèo thở đều. Ngoài rào, sóng thấp lần bảy mươi sáu đã nhích trong sương: bảy bóng thấp, không gào, dấu riêng chỗ gốc đa.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi mốt dưới trời Đường 629. Trống",
+      "file": "Chương 541 - Sóng Thấp Lần 76.txt",
+      "path": "Chương 541 - Sóng Thấp Lần 76.txt",
+      "num": 541
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3026,
+        "chars": 14978,
+        "dialogue": 21,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.51,
+        "char_density": 8.01,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm sáu mươi hai dưới trời Đường 629. Trống điểm. Gió đông mang mùi đất se và bụi gò — không tanh sóng, không khói bếp. Gò đông có bóng. Ba bóng. Không lê. Không nhìn trẻ. Bóng gò lần bốn mươi hai: xếp sỏi thành mũi tên chỉ vào rào. Không chỉ. Không phá mũi sỏi. Không đạp theo.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi hai dưới trời Đường 629. Trống",
+      "file": "Chương 542 - Bóng Gò Lần 42 Không Chỉ.txt",
+      "path": "Chương 542 - Bóng Gò Lần 42 Không Chỉ.txt",
+      "num": 542
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3715,
+        "chars": 18161,
+        "dialogue": 20,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.96,
+        "char_density": 5.56,
+        "cliche": 0,
+        "scene_breaks": 8,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm sáu mươi ba dưới trời Đường 629. Trống điểm. Gió bấc mang mùi đất se, vôi cũ, và chút bụi đường từ cổng đông. Gò trống lúc gà gáy. Trước ngọ, ngoài rào đông, một miệng dừng đúng khoảng khách quan: không xông, không lánh, chỉ hỏi — hỏi lần tám mươi mốt. Hỏi có vôi sống không. Đổi thúng lấy muối. Giọng khác lần kim. Cùng màu lời. Không mở. Không nhận vôi. Không đổi thúng.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hết. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi tay. Muối chát mu bàn tay. Hà phơi bao giữa sân, khăn mũi thấp, lưng thẳng như cột chông. A Minh trên tháp giơ một ngón ngang — người — rồi nắm khi Phong liếc: đã rõ, chưa hô to. Hữu trên gò ho khô — gió, không giơ tay sớm. Giơ lúc chưa rõ sai. Sai dưới mắt lạ đắt gấp đôi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi ba dưới trời Đường 629. Trống",
+      "file": "Chương 543 - Hỏi Lần 81 Cùng Màu.txt",
+      "path": "Chương 543 - Hỏi Lần 81 Cùng Màu.txt",
+      "num": 543
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3566,
+        "chars": 17378,
+        "dialogue": 19,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.61,
+        "char_density": 6.27,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm sáu mươi tư dưới trời Đường 629. Trống điểm vừa dứt thì gió bấc mang mùi đất se và vôi cũ từ mé rào đông. Gò trống. Không xe. Không thước. Trong rào — ngày yên sau hỏi lần tám mươi mốt. Trống không bằng yên hội. Yên hội là miệng nở kể vôi. Yên nghề là việc nuốt sợ trước khi sợ nở thành chữ lò vôi giả.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi tư dưới trời Đường 629. Trống",
+      "file": "Chương 544 - Ngày Yên Sau Hỏi 81.txt",
+      "path": "Chương 544 - Ngày Yên Sau Hỏi 81.txt",
+      "num": 544
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3246,
+        "chars": 16019,
+        "dialogue": 22,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.22,
+        "char_density": 6.06,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm sáu mươi lăm dưới trời Đường 629. Trống điểm. Gió bấc mang mùi đất se và chút tanh xa từ hướng mương gừng khô tây — không phải tanh hố tây cũ, không phải tanh cháo, không phải tanh gốc đa đã loãng. Gò trống lúc gà gáy. Trong rào máy nghèo thở đều. Ngoài rào, sóng thấp lần bảy mươi bảy đã nhích trong sương: tám bóng thấp, không gào, dấu riêng chỗ mương gừng khô tây. Không trùng gốc đa nghiêng nam.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi lăm dưới trời Đường 629. Trống",
+      "file": "Chương 545 - Sóng Thấp Lần 77.txt",
+      "path": "Chương 545 - Sóng Thấp Lần 77.txt",
+      "num": 545
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3240,
+        "chars": 16230,
+        "dialogue": 22,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.76,
+        "char_density": 7.33,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm sáu mươi sáu dưới trời Đường 629. Trống điểm. Gió đông mang mùi đất se và bụi đường bụi đông-nam — không tanh sóng mương, không khói bếp dày. Đường bụi có bóng. Một bóng. Không lê. Không nhìn trẻ. Bóng thước lần bốn mươi mốt: treo giẻ đỏ trên cành khô ven đường. Không chỉ. Không nhặt giẻ đỏ. Không đạp theo.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi sáu dưới trời Đường 629. Trống",
+      "file": "Chương 546 - Bóng Thước Lần 41 Không Chỉ.txt",
+      "path": "Chương 546 - Bóng Thước Lần 41 Không Chỉ.txt",
+      "num": 546
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3997,
+        "chars": 19535,
+        "dialogue": 24,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.42,
+        "char_density": 5.43,
+        "cliche": 0,
+        "scene_breaks": 8,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ sáu trăm sáu mươi bảy dưới trời Đường 629. Trống điểm. Gió bấc mang mùi đất se, vôi cũ, và chút ngọt giả từ gió đông — không mật thật, chỉ gợi. Gò trống lúc gà gáy. Trước ngọ, ngoài rào đông, một miệng dừng đúng khoảng khách quan: không xông, không lánh, chỉ hỏi — hỏi lần tám mươi hai. Hỏi có mật ong không. Đổi sáp lấy nước. Giọng khác lần vôi. Cùng màu lời. Không mở. Không nhận mật. Không đổi sáp.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hết. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi tay. Muối chát mu bàn tay. Hà phơi bao giữa sân, khăn mũi thấp, lưng thẳng như cột chông. A Minh trên tháp giơ một ngón ngang — người — rồi nắm khi Phong liếc: đã rõ, chưa hô to. Hữu trên gò ho khô — gió, không giơ tay sớm. Giơ lúc chưa rõ sai. Sai dưới mắt lạ đắt gấp đôi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm sáu mươi bảy dưới trời Đường 629. Trống",
+      "file": "Chương 547 - Hỏi Lần 82 Cùng Màu.txt",
+      "path": "Chương 547 - Hỏi Lần 82 Cùng Màu.txt",
+      "num": 547
+    }
+  ]
+}
