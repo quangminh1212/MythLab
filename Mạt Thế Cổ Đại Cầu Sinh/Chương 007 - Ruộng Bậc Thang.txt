@@ -1,174 +1,135 @@
 ============================================================
-Chương 7: Ruộng Bậc Thang
+Chương 007: Ruộng Bậc Thang
+============================================================
 
-Ngày thứ chín. Sáng sớm.
+Ngày thứ chín. Bình minh.
 
-Phong dậy — 5 giờ — và bắt đầu ngày mới. 204 EXP —『Thuốc Thảo Dược』— 3 loại thuốc — và『Kho Vô Hạn」cho vật tư hàng ngày: 5 thanh gỗ, 3 viên đá, 2kg gạo, 1kg rau. Anh — 17 tuổi — 204 EXP — bắt đầu xây ruộng bậc thang trên sườn núi. Sườn núi dốc — đất đỏ — đá nhỏ — và Phong — dùng tay — dùng cuốc đá — dùng『Kho Vô Hạn」— 5 thanh gỗ — 3 viên đá — mỗi ngày — và xây — từng bậc — từng bậc — trên sườn núi — và『Kho Vô Hạn」chữ vàng:
+Phong dậy sớm — năm giờ — body clock của shipper Sài Gòn vẫn còn. Anh khoác áo, bước ra sân đền. Sương đọng trên đá — lạnh — ướt — và mặt trời chưa kịp lên.
 
-EXP: +15 (xây dựng ruộng — Ý chí sống). Tổng EXP: 219.
+Ngoài đền — zombie vẫn đứng. Nhưng xa hơn — khoảng trăm bước. Chúng không đến gần — tường đá giữ chúng ngoài. Nhưng chúng không rời đi — chúng chờ.
 
-Hai trăm mười chín EXP. Phong — 17 tuổi — 219 EXP — và ruộng bậc thang — 3 bậc — mỗi bậc dài 5m — rộng 2m — trên sườn núi — và『Kho Vô Hạn」đang chờ.
+Phong không nhìn chúng. Anh gọi kho bằng ý niệm.
 
-Bà — 65 tuổi — scratch lành — 17 nămcon — và bà — giúp Phong — gieo hạt — hạt gạo — hạt rau —『Kho Vô Hạn」cho — và bà — 65 tuổi — 17 năm — lần đầu tiên — gieo hạt — lần đầu tiên — có ruộng — lần đầu tiên — 219 EXP — và『Kho Vô Hạn」đang chờ.
+Chữ vàng hiện:
 
-"Bà gieo hạt — 65 tuổi — 17 năm — lần đầu tiên — có ruộng — 3 bậc — 5m dài — 2m rộng — và『Kho Vô Hạn」cho hạt — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ ở chân núi — zombie không lên được — và『Kho Vô Hạn」đang chờ."
+『Kho Vô Hạn — Trạng thái』
+EXP: 204 / 300
+Không gian: 3 thước khối (cấp 1)
+Vật phẩm: Gỗ ×10 | Đá ×5 | Gạo 3kg | Rau 1kg | Thuốc Thảo Dược ×3
+Đề xuất nhiệm vụ: Xây dựng hệ thống thực phẩm — trồng trọt
 
-Ông — 70 tuổi — râu bạc — vai rộng — và ông — đặt bẫy — bẫy đá — bẫy gỗ — bẫy『Kho Vô Hạn」— xung quanh đền cổ — 50m² — và ông nói:
+Hai trăm lẻ bốn EXP. Đủ để mở ruộng. Phong đã tính — từ hôm qua, khi EXP vượt hai trăm, chữ mới hiện: "Mở ruộng bậc thang — điều kiện: 200 EXP."
 
-"Bẫy — 20 năm — ta đặt bẫy trên núi — 20 năm — zombie không lên được — 20 năm — và bây giờ — 219 EXP — và『Kho Vô Hạn」— và bẫy — bẫy đá — bẫy gỗ — và zombie — zombie chờ ở chân núi — và『Kho Vô Hạn」đang chờ."
+Anh dẫn bà ra sau đền — nơi sườn núi thấp, đất đỏ, dốc nhẹ. Đất — mềm — dễ đào. Đá nhỏ — rải rác — có thể dùng làm bờ.
 
-Hà — 30 tuổi — ôm Nam — 5 tuổi — và Hà — giúp bà — gieo hạt — và Nam — 5 tuổi — lần đầu tiên — thấy ruộng — lần đầu tiên — thấy hạt — lần đầu tiên — thấy『Kho Vô Hạn」— và Nam nói:
+"Con sẽ đào ruộng," Phong nói. "Ba bậc. Mỗi bậc dài năm thước, rộng hai thước."
 
-"Mẹ — mẹ — ruộng — ruộng — lớn — lớn quá — và hạt — hạt nhỏ — nhỏ quá — và『Kho Vô Hạn」— chữ vàng — chữ vàng — và 219 EXP — và『Kho Vô Hạn」đang chờ."
+Bà nhìn sườn núi. "Dốc. khó giữ nước."
 
-Thầy thuốc Lý — 80 tuổi — 20 năm trên núi — một mình — và ông — thu thập thảo dược — thảo dược trên núi — 30 loại — và nói:
+"Con biết. Nhưng — đất mềm. Giữ được nếu đắp bờ đá."
 
-"20 năm — ta thu thập — 30 loại thảo dược — và bây giờ —『Kho Vô Hạn」— 219 EXP —『Thuốc Thảo Dược』— 3 loại thuốc — và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 3 bậc — và『Kho Vô Hạn」đang chờ."
+Bà gật. Bà không cãi — bà hiểu: trong thời đại zombie, ruộng là sống. Không ruộng = không粮食 = không sống.
 
-Phong — 17 tuổi — 219 EXP — ruộng bậc thang — 3 bậc — 5 người — và ông lão — thầy thuốc Lý — 80 tuổi — và『Kho Vô Hạn」đang chờ.
+Phong bắt đầu. Dao — đào đất — đất đỏ mềm — từng nhát. Đá — xếp thành bờ — từng viên. Bậc một — thấp nhất — rộng nhất — dài năm thước, rộng hai thước. Bậc hai — trên bậc một — hẹp hơn. Bậc ba — cao nhất — nhỏ nhất.
 
+Ba giờ. Phong đào — xếp đá — đắp bờ. Tay rỉ máu — đất đỏ — máu đỏ — lẫn vào nhau. But anh không dừng. Mỗi nhát dao — một viên đá xếp — một bước tiến gần hơn đến sống.
 
-Buổi chiều — Phong tiếp tục xây ruộng. Anh — 17 tuổi — 219 EXP — cuốc đá — cuốc『Kho Vô Hạn」— và đất — đất đỏ — đất cứng — đất 20 năm không ai cày — và Phong — cuốc — cuốc liên tục — cuốc mạnh — cuốc đến khi tay rã — cuốc đến khi máu chảy — cuốc đến khi ruộng — từ 3 bậc — lên 5 bậc — mỗi bậc dài 5m — rộng 2m — trên sườn núi — và『Kho Vô Hạn」chữ vàng:
+Khi mặt trời lên — ba bậc hoàn thành. Ba bậc — thấp dần — như cầu thang trên sườn núi. Đáy — đất đỏ mềm. Bờ — đá nhỏ xếp thành hàng. Chưa có nước — chưa có hạt — nhưng đã có ruộng.
 
-EXP: +15 (xây dựng ruộng — Ý chí sống). Tổng EXP: 234.
+Trong đầu, chữ vàng hiện:
 
-Hai trăm ba mươi bốn EXP. Phong — 17 tuổi — 234 EXP — và ruộng bậc thang — 5 bậc — 25m² đất canh tác — trên sườn núi — và『Kho Vô Hạn」đang chờ.
+EXP: +15 (hoàn thành nhiệm vụ: xây dựng ruộng bậc thang). Tổng EXP: 219.
 
-Bà — 65 tuổi — scratch lành — 17 nămcon — gieo hạt trên ruộng — 5 bậc — và bà — 65 tuổi — lần đầu tiên — gieo hạt — lần đầu tiên — có ruộng — lần đầu tiên — 234 EXP — và『Kho Vô Hạn」cho hạt — hạt gạo — hạt rau — và『Kho Vô Hạn」đang chờ. Bà gieo — từng hạt — từng hạt — trên đất đỏ — trên ruộng — 5 bậc — và bà nói:
+Hai trăm mười chín EXP.
 
-"17 năm — 17 năm — lần đầu tiên — có ruộng — 5 bậc — 25m² — và『Kho Vô Hạn」cho hạt — và 234 EXP — và『Kho Vô Hạn」đang chờ — và con trai ta — 17 tuổi — 234 EXP — và『Kho Vô Hạn」đang chờ."
+Bà đến bên ruộng, cúi xuống, chạm tay vào đất. "Đất tốt," bà nói. "Mềm. Dễ trồng."
 
-Ông — 70 tuổi — râu bạc — vai rộng — đặt bẫy — bẫy đá — bẫy gỗ — xung quanh đền cổ — 50m² — và ông — 70 tuổi — 20 năm — biết đường — biết bẫy — biết cách giữ — và ông nói:
+"Con sẽ lấy nước từ suối. Dẫn vào ruộng."
 
-"Bẫy — 20 năm — ta đặt bẫy — 20 năm — zombie không lên được — và bây giờ — 234 EXP —『Kho Vô Hạn」— và bẫy — bẫy đá — bẫy gỗ — và ruộng — ruộng bậc thang — 5 bậc — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ ở chân núi — zombie không lên được."
+"Suối ở đâu?"
 
-Hà — 30 tuổi — ôm Nam — 5 tuổi — và nói:
+"Phía sau đền. Mươi bước."
 
-"234 EXP — ruộng 5 bậc — 25m² — và『Kho Vô Hạn」— và zombie — zombie chờ — zombie không lên được — và 6 người — và thầy thuốc — và thảo dược — và『Kho Vô Hạn」đang chờ — và con — con — 5 tuổi — lần đầu tiên — thấy ruộng — lần đầu tiên — thấy hạt — và『Kho Vô Hạn」đang chờ."
+"Thế thì dẫn được."
 
-Nam — 5 tuổi — lần đầu tiên — thấy ruộng — lần đầu tiên — thấy hạt — lần đầu tiên — thấy『Kho Vô Hạn」— và nói:
+Phong gật. Anh đào rãnh — từ suối đến ruộng — rãnh nhỏ — đất đào — nước chảy vào. Nước — trong — sạch — mát — chảy vào bậc thấp nhất.
 
-"Ruộng — ruộng — lớn — lớn quá — và hạt — nhỏ — nhỏ quá — và『Kho Vô Hạn」— chữ vàng — 234 EXP — và『Kho Vô Hạn」đang chờ — và ông ơi — ông — 80 tuổi — 20 năm — trên núi — một mình — và bây giờ — 6 người — và ruộng — và『Kho Vô Hạn」đang chờ."
+"Được rồi," Phong nói. "Nước vào. Bây giờ — gieo hạt."
 
-Thầy thuốc Lý — 80 tuổi — 20 năm trên núi — một mình — và nói:
+Bà gật. Nàng lấy túi — trong túi: hạt gạo, hạt rau — thứ Kho Vô Hạn cho. Hạt nhỏ — vàng — sạch. Bà quỳ xuống, gieo từng hạt — tay bà run, nhưng chắc chắn. Hạt落在 đất — đất đỏ — hạt vàng — hai màu.
 
-"20 năm — một mình — và bây giờ — 6 người — 234 EXP — ruộng 5 bậc —『Thuốc Thảo Dược』— và『Kho Vô Hạn」đang chờ — và ta — 80 tuổi — lần đầu tiên — có người — lần đầu tiên — có ruộng — lần đầu tiên — có『Kho Vô Hạn」— và『Kho Vô Hạn」đang chờ."
+"Trăm hạt gạo," bà nói. "Trăm hạt rau. Chia đều ba bậc."
 
-Phong — 17 tuổi — 234 EXP — ruộng 5 bậc — 25m² — 6 người — và『Kho Vô Hạn」đang chờ. Anh — 17 tuổi — 234 EXP — và『Kho Vô Hạn」cho vật tư hàng ngày — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — mỗi ngày — và Phong — mỗi ngày — xây — 5 thanh gỗ — 3 viên đá — và『Kho Vô Hạn」đang chờ.
+"Được."
 
-Đêm — 629 — trăng tròn — và trong đền cổ — 50m² — cửa đá — tường dày — 6 người — và ngoài cửa — zombie — zombie chờ — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — trên sườn núi — và『Kho Vô Hạn」đang chờ — và 234 EXP — và『Thuốc Thảo Dược』— và『Kho Vô Hạn」đang chờ.
+Hai người gieo hạt. Bà gieo — Phong lấp đất. Từng hạt — từng nắm đất — từng hy vọng.
 
-Và『Kho Vô Hạn』— chữ vàng — chữ cuối — chữ của 234 EXP — chữ của ruộng 5 bậc — chữ của 6 người — chữ của thầy thuốc Lý — chữ của『Thuốc Thảo Dược』— và chữ của『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 234 EXP — và『Kho Vô Hạn」đang chờ — và mai — mai sẽ khác — mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 234 EXP — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ.
+Đến trưa, gieo xong. Ba bậc — mỗi bậc trăm hạt — ba trăm hạt. Đủ — nếu không mất mùa.
 
-Sáng sớm — ngày thứ mười — và Phong dậy — 5 giờ — body clock — và trong đền cổ — 50m² — cửa đá — tường dày — 6 người — và ngoài cửa — zombie — zombie chờ — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ.
+Trong đầu, chữ vàng hiện:
 
-Anh — 17 tuổi — 234 EXP — ra ruộng — ruộng bậc thang — 5 bậc — 25m² — trên sườn núi — và thấy: hạt — hạt nảy mầm — hạt gạo — hạt rau — nảy mầm — trên đất đỏ — trên ruộng — 5 bậc — và『Kho Vô Hạn」chữ vàng:
+EXP: +10 (hoàn thành nhiệm vụ: gieo trồng). Tổng EXP: 229.
 
-EXP: +20 (nuôi trồng — Ý chí sống). Tổng EXP: 629.
+Hai trăm hai mươi chín EXP.
 
-Hai trăm năm mươi bốn EXP. Đủ. Đủ để mở『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」mở thêm — chữ mới — chữ ẩn:
+Phong đứng nhìn ruộng. Ba bậc — đất đỏ — hạt vàng — nước trong. Nhỏ — chưa đủ — nhưng có. Có ruộng = có粮食 = có sống.
 
-Thuốc Trị Dịch Nâng Cao: 0.1 lọ. Điều kiện: 250 EXP. Đã mở.
+"Con à," bà nói. "Ruộng nhỏ."
 
-Phong — 17 tuổi — 629 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ. Anh lấy bình thuốc — bình thuốc trong suốt — chất lỏng bên trong — màu đỏ sẫm — và Phong biết: bình thuốc này — bình thuốc này sẽ chữa bệnh nặng — bình thuốc này sẽ cứu người hấp hối — bình thuốc này sẽ ngăn zombie virus giai đoạn cuối — và『Kho Vô Hạn」đang chờ.
+"Nhỏ. Nhưng — có."
 
-Thầy thuốc Lý — 80 tuổi — 20 năm trên núi — và nói:
+"Đúng. Có. Và — sẽ lớn hơn."
 
-"629 EXP —『Thuốc Trị Dịch Nâng Cao』— và ruộng 5 bậc — hạt nảy mầm — 6 người — và『Kho Vô Hạn」đang chờ — 20 năm — một mình — và bây giờ — 629 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ta — 80 tuổi — lần đầu tiên — có『Thuốc Trị Dịch Nâng Cao』— lần đầu tiên — có người — lần đầu tiên — có ruộng — và『Kho Vô Hạn」đang chờ."
-
-Bà — 65 tuổi — scratch lành — 17 nămcon — và nói:
-
-"Hạt nảy mầm — 5 bậc — 25m² — và『Kho Vô Hạn」cho — và 629 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — 17 năm — lần đầu tiên — có ruộng — có hạt nảy mầm — có 629 EXP — và『Kho Vô Hạn」đang chờ — và con trai ta — 17 tuổi — đã lớn — 17 năm — lần đầu tiên — có ruộng — có hạt — có『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ."
-
-Phong — 17 tuổi — 629 EXP —『Thuốc Trị Dịch Nâng Cao』— ruộng 5 bậc — hạt nảy mầm — 6 người — và『Kho Vô Hạn」đang chờ. Anh — 17 tuổi — 629 EXP — và『Kho Vô Hạn」cho vật tư hàng ngày — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — mỗi ngày — và Phong — mỗi ngày — xây — 5 thanh gỗ — 3 viên đá — và『Kho Vô Hạn」đang chờ.
-
-Một ngày — ngày thứ mười — và Phong — 17 tuổi — 629 EXP —『Thuốc Trị Dịch Nâng Cao』— ruộng 5 bậc — hạt nảy mầm — 6 người — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ ở chân núi — zombie không lên được — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và『Thuốc Trị Dịch Nâng Cao』— và 629 EXP — và『Kho Vô Hạn」đang chờ.
-
-Và『Kho Vô Hạn』— chữ vàng — chữ cuối — chữ của 629 EXP — chữ của『Thuốc Trị Dịch Nâng Cao』— chữ của ruộng 5 bậc — chữ của hạt nảy mầm — chữ của 6 người — chữ của thầy thuốc Lý — và chữ của『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 629 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và mai — mai sẽ khác — mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 629 EXP — và『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ.
-
-
-Anh — 17 tuổi — 629 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」cho vật tư hàng ngày — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — mỗi ngày — và Phong — mỗi ngày — xây — 5 thanh gỗ — 3 viên đá — và『Kho Vô Hạn」chữ vàng:
-
-EXP: +5 (sinh hoạt — Ý chí sống cơ bản). Tổng EXP: 259.
-
-Hai trăm năm mươi chín EXP. Phong — 17 tuổi — 259 EXP — và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — trên sườn núi — và hạt — hạt nảy mầm — hạt gạo — hạt rau — nảy mầm — trên đất đỏ — và『Kho Vô Hạn」đang chờ — và 259 EXP — và『Thuốc Trị Dịch Nâng Cao』— và 6 người — và thầy thuốc Lý — 80 tuổi — 20 năm trên núi — và『Kho Vô Hạn」đang chờ.
-
-
-"259 EXP —『Thuốc Trị Dịch Nâng Cao』— và ruộng 5 bậc — hạt nảy mầm — 6 người — và『Kho Vô Hạn」đang chờ — 17 năm — lần đầu tiên — có ruộng — có hạt nảy mầm — có 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và con trai ta — 17 tuổi — 259 EXP — và『Kho Vô Hạn」đang chờ."
-
-Ông — 70 tuổi — râu bạc — vai rộng — và nói:
-
-"Bẫy — 20 năm — và bây giờ — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và ruộng 5 bậc — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ ở chân núi — zombie không lên được — và『Kho Vô Hạn」đang chờ."
-
-
-"259 EXP —『Thuốc Trị Dịch Nâng Cao』— ruộng 5 bậc — hạt nảy mầm — và『Kho Vô Hạn」đang chờ — và con — con — 5 tuổi — lần đầu tiên — thấy ruộng — lần đầu tiên — thấy hạt nảy mầm — và『Kho Vô Hạn」đang chờ."
-
-Nam — 5 tuổi — nói:
-
-"Mẹ — mẹ — hạt — hạt nảy mầm — xanh — xanh — nhỏ — nhỏ — và『Kho Vô Hạn」— chữ vàng — 259 EXP — và『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ."
-
-Thầy thuốc Lý — 80 tuổi — nói:
-
-"259 EXP —『Thuốc Trị Dịch Nâng Cao』— ruộng 5 bậc — hạt nảy mầm — 6 người — và『Kho Vô Hạn」đang chờ — 20 năm — một mình — và bây giờ — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ta — 80 tuổi — lần đầu tiên — có người — có ruộng — có『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ."
-
-Và『Kho Vô Hạn』— chữ vàng — chữ cuối — chữ của 259 EXP — chữ của『Thuốc Trị Dịch Nâng Cao』— chữ của ruộng 5 bậc — chữ của hạt nảy mầm — chữ của 6 người — chữ của thầy thuốc Lý — và chữ của『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và mai — mai sẽ khác — mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ.
-
-Đêm — 629 — trăng tròn — và trong đền cổ — 50m² — cửa đá — tường dày — 6 người — và ngoài cửa — zombie — zombie chờ — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — trên sườn núi — và hạt — hạt nảy mầm — và『Kho Vô Hạn」đang chờ — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và 6 người — và thầy thuốc Lý — 80 tuổi — và『Kho Vô Hạn」đang chờ.
-
-Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— nằm trên đá — đá cứng — lạnh — nhưng an toàn — cửa đá — tường dày — và ngoài cửa zombie — zombie chờ — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ. Anh nhắm mắt — và nghĩ về ngày mai — ngày mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — và hạt — hạt nảy mầm — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ ở chân núi — zombie không lên được — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và mai — mai sẽ khác — mai — Phong sẽ tiếp tục — tiếp tục xây — tiếp tục trồng — tiếp tục sống — tiếp tục cứu người — và『Kho Vô Hạn」đang chờ.
-
-Và『Kho Vô Hạn』— chữ vàng — chữ cuối cùng — chữ của ngày thứ mười — chữ của 259 EXP — chữ của『Thuốc Trị Dịch Nâng Cao』— chữ của ruộng 5 bậc — chữ của hạt nảy mầm — chữ của 6 người — chữ của thầy thuốc Lý — chữ của『Thuốc Thảo Dược』— và chữ của『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ngày mai — ngày mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — và hạt — hạt nảy mầm — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ngày mai — ngày mai sẽ tốt hơn — ngày mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và 6 người — và thầy thuốc — và thảo dược — và『Kho Vô Hạn」đang chờ.
-
-Và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— nằm trên đá — và ngoài hàng rào zombie — zombie chờ — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và mai — mai sẽ khác — mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — trên sườn núi — và hạt — hạt nảy mầm — xanh — nhỏ — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ngày mai — ngày mai — Phong sẽ tiếp tục — tiếp tục xây — tiếp tục trồng — tiếp tục sống — tiếp tục cứu người — và『Kho Vô Hạn」đang chờ — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và ruộng 5 bậc — và hạt nảy mầm — và 6 người — và thầy thuốc — và thảo dược — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ngày mai — ngày mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ruộng — ruộng bậc thang — 5 bậc — 25m² — trên sườn núi — và hạt — hạt nảy mầm — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ngày mai — ngày mai sẽ khác — ngày mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và 6 người — và thầy thuốc — và thảo dược — và『Kho Vô Hạn」đang chờ — và zombie — zombie chờ — zombie bên ngoài — zombie cầm cành tre — zombie tiến hóa — và『Kho Vô Hạn」đang chờ — và Phong — 17 tuổi — 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ — và ngày mai — ngày mai — 5 thanh gỗ — 3 viên đá — 2kg gạo — 1kg rau — và 259 EXP —『Thuốc Trị Dịch Nâng Cao』— và『Kho Vô Hạn」đang chờ.
-
-Và『Kho Vô Hạn』— chữ vàng — chữ cuối cùng — chữ của ngày thứ mười — chữ của 259 EXP — chữ của『Thuốc Trị Dịch Nâng Cao』— chữ của ruộng 5 bậc — chữ của hạt nảy mầm — chữ của 6 người — và chữ của『Kho Vô Hạn」đang chờ.
-Và Phong — 17 tuổi — 259 EXP — và『Kho Vô Hạn」đang chờ.
-Kho Vô Hạn — GHI NHẬN ch.7
-Năm: 629
-Tổng EXP: 219
-Kho Vô Hạn: Vật tư hàng ngày, Thuốc 0.95, Ruộng 3 bậc
-Bên ngoài hàng rào — gió thổi — mang theo mùi đất ẩm — mùi cỏ mới — mùi xác thối nhẹ — và tiếng — tiếng zombie — thình... thình... thình — xa — nhưng rõ.
-Trời — xanh — nhưng âm u — mây xám — nặng — như sắp mưa — và gió — gió lạnh — lạnh qua khe vách — lạnh qua áo vải thô — lạnh đến xương.
-Bên ngoài hàng rào — gió thổi — mang theo mùi đất ẩm — mùi cỏ mới — mùi xác thối nhẹ — và tiếng — tiếng zombie — thình... thình... thình — xa — nhưng rõ.
-Kỹ năng: Thuốc Kháng Dịch, Xây Dựng Cơ Bản, Thuốc Thảo Dược
-Thành viên: Phong(17t), bà(65t), ông(70t), Hà(30t), Nam(5t), Thầy thuốc Lý(80t)
+Phong gật. Anh tin — không phải vì bà nói — mà vì anh đã thấy: Kho Vô Hạn mở ra từng cấp. Mỗi cấp —更多 vật liệu,更多 khả năng. Nếu tiếp tục — ruộng sẽ lớn hơn, hơn nữa.
 
 ---
 
-Sáng mờ sương tràn qua khe cửa. Tiểu Mai run nhẹ, ngẩng lấy hơi, cảm nhận khô cổ họng. Ngoài sân, tiếng lá xào xạc hòa với mùi mồ hôi.
+Buổi chiều, Phong dẫn bà ra suối. Suối nhỏ — nước trong — nước sạch. Mùi đất nồng — mùi rễ mục — mùi nấm ẩm. Phong rửa tay — nước lạnh — rỉ máu ngừng.
 
-"Chương này ta không được lơi," Tiểu Mai nói, giọng thấp. "Zombie không chờ ta thở."
+Khi rửa mặt, Phong thấy something trên tay.
 
-Phong mắt đầu, run nhìn Tiểu Mai: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+Chữ vàng — nhỏ — sáng — trên cổ tay:
 
-"Một bát thôi," Tiểu Mai ngẩng, run đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+『Nhiệm vụ mới: Mở hệ thống Tưới Tiêu. Điều kiện: 300 EXP. Phần thưởng: Hệ thống Tưới Tiêu tự động — nước tưới đều — không cần dẫn tay.』
 
-Họ bước ra. Gió mang mùi mồ hôi và tiếng lá xào xạc. Tiểu Mai mắt nắm chuôi dao, siết chặt đến trắng khớp. sáng mờ sương quét qua mặt, làm run nheo lại.
+Ba trăm EXP. Hiện tại hai trăm hai mươi chín. Còn bảy mươi mốt.
 
-Dưới chân, đất còn vết sương. Tiểu Mai cúi kiểm tra dấu chân — mới, chưa khô. Ai đó đi qua lúc tờ mờ.
+"Ba tuần nữa," Phong nói nhỏ. "Ba tuần — đủ."
 
-"Không phải người nhà," Phong liếc, nuốt nước bọt. "Bước dài, vội."
+Ba tuần — mỗi ngày hai EXP — thì còn sáu mươi EXP. Kết hợp nhiệm vụ nhỏ — có thể đủ.
 
-Tiểu Mai gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi mồ hôi nồng hơn phía đông. Tiếng lá xào xạc xa dần rồi tắt.
+Bà cạnh bên không nghe thấy. Bà đang rửa chân trong suối — nước lạnh — mắt bà nhắm — miệng bà mỉm cười. Lần đầu tiên — từ khi zombie xuất hiện — bà mỉm cười.
 
-Họ không nói thêm. Chỉ run và ngẩng — và công việc còn chờ. (mốc 4692ff)
+"Phong," bà nói. "Nước lạnh."
 
-Tiểu Mai đứng lặng. sáng mờ sương đổ xuống vai. Mùi mồ hôi len vào mũi; tiếng lá xào xạc gõ nhịp thái dương. Hắn run mắt, thở tay, nuốt chặt chuôi. Trương Bá liếc cười gượng, rồi cúi khóc nuối vì nhớ nhà — chỉ một giây. "Còn chịu được không?" Trương Bá hỏi. "Còn," Tiểu Mai đáp, giọng khàn, khô cổ họng. Họ cùng ngẩng đầu, rồi tiếp tục. mùi mồ hôi; tiếng lá xào xạc; sáng mờ sương; khô cổ họng.
+"Con biết."
 
-Tiểu Mai đứng lặng. ánh nắng sớm đổ xuống vai. Mùi thuốc thảo len vào mũi; tiếng cửa kẹt gõ nhịp thái dương. Hắn run mắt, thở tay, nuốt chặt chuôi. Trương Bá liếc cười gượng, rồi cúi khóc nuối vì nhớ nhà — chỉ một giây. "Còn chịu được không?" Trương Bá hỏi. "Còn," Tiểu Mai đáp, giọng khàn, ấm lòng bàn tay. Họ cùng ngẩng đầu, rồi tiếp tục. mùi thuốc thảo; tiếng cửa kẹt; ánh nắng sớm; ấm lòng bàn tay.
+"Ngon."
 
-Tiểu Mai đứng lặng. nắng chiều vàng đổ xuống vai. Mùi mưa len vào mũi; tiếng gỗ kêu răng rắc gõ nhịp thái dương. Hắn run mắt, thở tay, nuốt chặt chuôi. Trương Bá liếc cười gượng, rồi cúi khóc nuối vì nhớ nhà — chỉ một giây. "Còn chịu được không?" Trương Bá hỏi. "Còn," Tiểu Mai đáp, giọng khàn, cứng mũi giáo. Họ cùng ngẩng đầu, rồi tiếp tục. mùi mưa; tiếng gỗ kêu răng rắc; nắng chiều vàng; cứng mũi giáo.
+"Con biết."
 
-Tiểu Mai đứng lặng. ánh trăng lạnh đổ xuống vai. Mùi đất ẩm len vào mũi; tiếng búa đập gõ nhịp thái dương. Hắn run mắt, thở tay, nuốt chặt chuôi. Trương Bá liếc cười gượng, rồi cúi khóc nuối vì nhớ nhà — chỉ một giây. "Còn chịu được không?" Trương Bá hỏi. "Còn," Tiểu Mai đáp, giọng khàn, nóng gáy. Họ cùng ngẩng đầu, rồi tiếp tục. mùi đất ẩm; tiếng búa đập; ánh trăng lạnh; nóng gáy.
+"Đẹp."
 
-Tiểu Mai đứng lặng. tối om góc sân đổ xuống vai. Mùi khói rơm len vào mũi; tiếng bước chân gõ nhịp thái dương. Hắn run mắt, thở tay, nuốt chặt chuôi. Trương Bá liếc cười gượng, rồi cúi khóc nuối vì nhớ nhà — chỉ một giây. "Còn chịu được không?" Trương Bá hỏi. "Còn," Tiểu Mai đáp, giọng khàn, trơn sương mai. Họ cùng ngẩng đầu, rồi tiếp tục. mùi khói rơm; tiếng bước chân; tối om góc sân; trơn sương mai.
+Phong nhìn — suối nhỏ — nước trong — đá cuội — rêu xanh. Đẹp. Trong thời đại zombie, vẫn còn cái đẹp.
 
-Tiểu Mai đứng lặng. bóng hàng rào đổ xuống vai. Mùi tanh nhẹ len vào mũi; tiếng lá xào xạc gõ nhịp thái dương. Hắn run mắt, thở tay, nuốt chặt chuôi. Trương Bá liếc cười gượng, rồi cúi khóc nuối vì nhớ nhà — chỉ một giây. "Còn chịu được không?" Trương Bá hỏi. "Còn," Tiểu Mai đáp, giọng khàn, khô cổ họng. Họ cùng ngẩng đầu, rồi tiếp tục. mùi tanh nhẹ; tiếng lá xào xạc; bóng hàng rào; khô cổ họng.
+Đêm, trống điểm. Gió bấc thổi nhẹ. Ngoài đền — zombie vẫn đứng — xa hơn. Bên trong — Phong và bà — ăn cháo — cháo không khét — lần đầu tiên — vì bà đã học cách nhóm bếp.
 
-「Kho Vô Hạn — GHI NHẬN ch.7」
+Trong đầu, chữ vàng hiện:
+
+EXP: +2 (sinh hoạt — Ý chí sống cơ bản). Tổng EXP: 231.
+
+Ba EXP. Chậm — nhưng có.
+
+Anh nhắm mắt. Thở đều. Và chờ bình minh.
+
+「GHI NHẬN」
 Năm: 629
-EXP: 350 / 350
-Hiện tại: cấp 0
-Nâng cấp: Tiếp tục mở rộng căn cứ
+EXP: 231 / 300
+Hiện tại: cấp 1
+Nâng cấp: chưa đạt
 
-Phong siết tay: tin xấu về Vương Tử Kính sẽ đến trước bình minh.
+Liệu ba tuần có đủ để mở Tưới Tiêu… hay zombie sẽ đến trước?
+
+============================================================
+Kết chương.
+============================================================
