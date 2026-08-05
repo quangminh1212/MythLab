@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3411,
+        "chars": 16611,
+        "dialogue": 17,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.19,
+        "char_density": 6.8,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm hai mươi tư dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se và vôi cũ từ mé rào đông. Gò trống. Không xe. Không thước. Trong rào — ngày yên sau hỏi lần chín mươi sáu. Hôm qua miệng ngoài hỏi có đinh sắt không, đổi búa lấy muối. Hôm nay trống. Trống không bằng yên hội. Yên hội là miệng nở. Yên nghề là việc nuốt sợ trước khi sợ nở thành chữ.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi tư dưới trời biên ải. Trống",
+      "file": "Chương 604 - Ngày Yên Sau Hỏi 96.txt",
+      "path": "Chương 604 - Ngày Yên Sau Hỏi 96.txt",
+      "num": 604
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3161,
+        "chars": 15593,
+        "dialogue": 19,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.83,
+        "char_density": 6.22,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm hai mươi lăm dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se và mùi tanh mỏng từ hướng bờ suối cạn đông-nam. Không gào. Chỉ sóng thấp. A Minh trên tháp giơ tay xòe — sóng — rồi nắm lại khi khoảng cách còn ngoài tầm gào. Hữu sau khuyển không giơ. Giơ nhầm là chết.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi lăm dưới trời biên ải. Trống",
+      "file": "Chương 605 - Sóng Thấp Lần 92.txt",
+      "path": "Chương 605 - Sóng Thấp Lần 92.txt",
+      "num": 605
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3060,
+        "chars": 15096,
+        "dialogue": 19,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.94,
+        "char_density": 6.69,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm hai mươi sáu dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se từ gò đông. Không gào. Chỉ bóng. A Minh trên tháp không xòe sóng — một ngón ngang: người. Rồi nắm khi bóng đứng im ngoài tầm gào. Hữu sau khuyển không giơ. Giơ nhầm là chỉ. Chỉ là hở.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi sáu dưới trời biên ải. Trống",
+      "file": "Chương 606 - Bóng Gò Lần 50 Không Chỉ.txt",
+      "path": "Chương 606 - Bóng Gò Lần 50 Không Chỉ.txt",
+      "num": 606
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3136,
+        "chars": 15649,
+        "dialogue": 20,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.47,
+        "char_density": 6.2,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm hai mươi bảy dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se từ cổng đông. Không gào. Chỉ miệng. Chỉ hỏi. A Minh trên tháp một ngón ngang — người — rồi nắm khi khoảng cách còn ngoài tầm gào. Hữu sau khuyển không giơ. Giơ nhầm là đáp mồi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi bảy dưới trời biên ải. Trống",
+      "file": "Chương 607 - Hỏi Lần 97 Cùng Màu.txt",
+      "path": "Chương 607 - Hỏi Lần 97 Cùng Màu.txt",
+      "num": 607
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3154,
+        "chars": 15586,
+        "dialogue": 18,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.72,
+        "char_density": 6.87,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm hai mươi tám dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se và vôi cũ từ mé rào đông. Gò trống. Không xe. Không thước. Trong rào — ngày yên sau hỏi lần chín mươi bảy. Hôm qua miệng ngoài hỏi có thuốc bắc không, đổi bọc lá lấy nước. Hôm nay trống. Trống không bằng yên hội. Yên hội là miệng nở. Yên nghề là việc nuốt sợ trước khi sợ nở thành chữ.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi tám dưới trời biên ải. Trống",
+      "file": "Chương 608 - Ngày Yên Sau Hỏi 97.txt",
+      "path": "Chương 608 - Ngày Yên Sau Hỏi 97.txt",
+      "num": 608
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3115,
+        "chars": 15315,
+        "dialogue": 21,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.59,
+        "char_density": 6.07,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm hai mươi chín dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se và mùi tanh mỏng từ hướng gò sườn tây thấp. Không gào. Chỉ sóng thấp. A Minh trên tháp giơ tay xòe — sóng — rồi nắm khi khoảng cách còn ngoài tầm gào. Hữu sau khuyển không giơ. Giơ nhầm là chết.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm hai mươi chín dưới trời biên ải. Trống",
+      "file": "Chương 609 - Sóng Thấp Lần 93.txt",
+      "path": "Chương 609 - Sóng Thấp Lần 93.txt",
+      "num": 609
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3055,
+        "chars": 15240,
+        "dialogue": 18,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.2,
+        "char_density": 6.1,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm ba mươi mốt dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se từ cổng đông. Không gào. Chỉ miệng. Chỉ hỏi. A Minh trên tháp một ngón ngang — người — rồi nắm khi khoảng cách còn ngoài tầm gào. Hữu sau khuyển không giơ. Giơ nhầm là đáp mồi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm ba mươi mốt dưới trời biên ải. Trống",
+      "file": "Chương 611 - Hỏi Lần 98 Cùng Màu.txt",
+      "path": "Chương 611 - Hỏi Lần 98 Cùng Màu.txt",
+      "num": 611
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3161,
+        "chars": 15568,
+        "dialogue": 18,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.71,
+        "char_density": 6.94,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Đều. Không lỏng.»",
+            2
+          ],
+          [
+            "Ngày thứ bảy trăm ba mươi hai dưới trời biên ải. Trống điểm vừa dứt thì gió bấc mang mùi đất se và vôi cũ từ mé rào đông. Gò trống. Không xe. Không thước. Không vó. Trong rào — ngày yên sau hỏi lần chín mươi tám. Hôm qua miệng ngoài hỏi có ngựa thồ không, đổi yên lấy gạo. Hôm nay trống. Trống không bằng yên hội. Yên hội là miệng nở. Yên nghề là việc nuốt sợ trước khi sợ nở thành chữ.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ bảy trăm ba mươi hai dưới trời biên ải. Trống",
+      "file": "Chương 612 - Ngày Yên Sau Hỏi 98.txt",
+      "path": "Chương 612 - Ngày Yên Sau Hỏi 98.txt",
+      "num": 612
+    }
+  ]
+}
