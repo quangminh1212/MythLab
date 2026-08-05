@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 9.928,
+  "min_final": 9.71,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3238,
+        "chars": 15747,
+        "dialogue": 15,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.04,
+        "char_density": 5.65,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ ba trăm năm mươi mốt dưới trời Đường 629. Trống điểm. Gió đông mang mùi đất se và chút tanh xa — không phải tanh hố tây, không phải tanh cháo. Gò trống lúc gà gáy. Trước ngọ, ngoài rào đông, một bóng dừng đúng khoảng khách quan: không xông, không lánh, chỉ hỏi gió.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hết. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi tay. Muối dính mu bàn tay, chát. Hà phơi bao giữa sân, khăn mũi thấp, lưng thẳng như cột chông. A Minh trên tháp giơ hai ngón mở: trống. Hữu trên gò ho một tiếng khô — gió, không giơ tay. Giơ lúc chưa rõ là sai. Sai dưới mắt lạ đắt gấp đôi.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ ba trăm năm mươi mốt dưới trời Đường 629. Trống",
+      "file": "Chương 231 - Hỏi Gió Từ Ngoài Rào.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 231 - Hỏi Gió Từ Ngoài Rào.txt",
+      "num": 231
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3083,
+        "chars": 15347,
+        "dialogue": 22,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.3,
+        "char_density": 5.02,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ ba trăm năm mươi bảy. Trống điểm. Gò trống. Gần ngọ — A Minh xòe tay: sóng. Thấp. Đông ngoài rào. Không xe. Không thước. Không người hỏi. Chỉ thây. Ít. Thấp.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây vừa xong đếm bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao giữa sân, khăn mũi, lưng thẳng. Hữu giơ đúng tay sóng — không giơ nhầm người. Khuyển dao thấp. Đại Lực không hô. Tôn Vũ móc sẵn. Máy nghèo không tắt — chỉ nín một nhịp rồi chạy lại.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ ba trăm năm mươi bảy. Trống điểm. Gò trống. Gần",
+      "file": "Chương 237 - Sóng Thấp Máu Kín.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 237 - Sóng Thấp Máu Kín.txt",
+      "num": 237
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3033,
+        "chars": 15017,
+        "dialogue": 19,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 24.04,
+        "char_density": 4.13,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ năm trăm mười bảy. Trống điểm. Gò đông — sóng thấp lần bốn mươi. Không gào. Không xông sớm. Chỉ sóng. Máu kín. EXP đầy cấp im. Máy nghèo thở đều hơn mọi trống điểm sau yên.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai đau. Yên hôm qua trống không nghĩa hết nghề đâm. Then êm. Hôm nay sóng — thấp. Không mừng vì đã biết sóng. Không lỏng vì đã qua yên. Lần bốn mươi không nghĩa ta quen đâm. Quen là hở. Máu kín nghĩa không phơi. Phơi là chết chậm.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ năm trăm mười bảy. Trống điểm. Gò đông — sóng",
+      "file": "Chương 397 - Sóng Thấp Lần Bốn Mươi.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 397 - Sóng Thấp Lần Bốn Mươi.txt",
+      "num": 397
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3014,
+        "chars": 15102,
+        "dialogue": 19,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.69,
+        "char_density": 3.71,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ năm trăm hai mươi ba. Trống điểm. Cổng đông — hỏi lần bốn mươi sáu cùng màu. Không gào. Không xông. Chỉ miệng. Chỉ hỏi. EXP đầy cấp im. Máy nghèo thở đều hơn mọi trống điểm sau bóng gò.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai êm. Bóng hôm qua không chỉ không nghĩa hết nghề giữ lời. Then êm. Hôm nay hỏi — cùng màu. Không mừng vì đã biết hỏi. Không lỏng vì đã qua bóng. Lần bốn mươi sáu không nghĩa ta quen trả lời. Quen là hở. Cùng màu nghĩa không lệch: Đông thường — Hầm xấu. Lệch là chết chậm.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ năm trăm hai mươi ba. Trống điểm. Cổng đông —",
+      "file": "Chương 403 - Hỏi Lần Bốn Mươi Sáu Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 403 - Hỏi Lần Bốn Mươi Sáu Cùng Màu.txt",
+      "num": 403
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3001,
+        "chars": 14804,
+        "dialogue": 19,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.8,
+        "char_density": 3.92,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ năm trăm hai mươi chín. Trống điểm. Bụi lau phía tây ngoài chông — sóng thấp lần bốn mươi ba. Không gào. Không xông sớm. Chỉ sóng. Máu kín. EXP đầy cấp im. Máy nghèo thở đều hơn mọi trống điểm sau yên hỏi thước.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Vai sẵn sàng. Yên hôm qua trống không nghĩa hết nghề đâm. Then êm. Hôm nay sóng — thấp. Không mừng vì đã biết sóng. Không lỏng vì đã qua yên. Lần bốn mươi ba không nghĩa ta quen đâm. Quen là hở. Máu kín nghĩa không phơi. Phơi là chết chậm.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ năm trăm hai mươi chín. Trống điểm. Bụi lau phía",
+      "file": "Chương 409 - Sóng Thấp Lần Bốn Mươi Ba.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 409 - Sóng Thấp Lần Bốn Mươi Ba.txt",
+      "num": 409
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3006,
+        "chars": 15252,
+        "dialogue": 16,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.37,
+        "char_density": 3.34,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ năm trăm ba mươi lăm. Trống điểm. Cổng đông — hỏi lần bốn mươi chín cùng màu. Không gào. Không xông. Chỉ miệng. Chỉ hỏi. EXP đầy cấp im. Máy nghèo thở đều.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Hà phơi bao, khăn mũi, lưng thẳng. Anh đảo muối. Then êm. Không mừng. Không lỏng. Quen là hở. Hở là chết chậm.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ năm trăm ba mươi lăm. Trống điểm. Cổng đông —",
+      "file": "Chương 415 - Hỏi Lần Bốn Mươi Chín Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 415 - Hỏi Lần Bốn Mươi Chín Cùng Màu.txt",
+      "num": 415
+    },
+    {
+      "final": 9.71,
+      "weighted_raw": 9.71,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 9.3,
+        "cau_truc": 10.0,
+        "nhan_vat": 9.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3040,
+        "chars": 15336,
+        "dialogue": 20,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.41,
+        "char_density": 3.46,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Ngủ.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm mười. Trống điểm. Gió tây-nam mang mùi gỗ ướt và đinh gỉ — không lá sim, không bụi vôi. Mùi thùng. Cổng tây-nam có một miệng đứng, tay ôm thùng gỗ nhỏ, không cờ, không lê, không trẻ.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm mười. Trống điểm. Gió tây-nam mang mùi gỗ",
+      "file": "Chương 487 - Hỏi Lần Sáu Mươi Bảy Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 487 - Hỏi Lần Sáu Mươi Bảy Cùng Màu.txt",
+      "num": 487
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3010,
+        "chars": 15013,
+        "dialogue": 17,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.04,
+        "char_density": 4.0,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "«Ngủ.»",
+            2
+          ],
+          [
+            "Ngày thứ sáu trăm mười một. Trống điểm. Trong rào — ngày yên sau hỏi sáu mươi bảy. Không gào. Không miệng. Không thùng gỗ. Không đinh gỉ. Chỉ việc. Trống không bằng yên hội. EXP đầy cấp im. Máy nghèo thở đều. Gáo đủ. Nắp giếng đóng. Đèn giả hầm — đủ. Không thắp thật sân.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ sáu trăm mười một. Trống điểm. Trong rào — ngày",
+      "file": "Chương 488 - Ngày Yên Sau Hỏi Sáu Mươi Bảy.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 488 - Ngày Yên Sau Hỏi Sáu Mươi Bảy.txt",
+      "num": 488
+    }
+  ]
+}
