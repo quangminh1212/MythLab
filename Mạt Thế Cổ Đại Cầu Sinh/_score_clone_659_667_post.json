@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 9.78,
+  "min_final": 9.78,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3136,
+        "chars": 15498,
+        "dialogue": 100,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.97,
+        "char_density": 5.42,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Khói bếp còn thấp khi trống điểm dứt hẳn. Ngày sống thứ bảy trăm bảy mươi chín dưới đất Biên Ải. Cổng đông mang một miệng — hỏi có ngựa thồ không, đổi yên lấy gạo. Không gào. Chỉ hỏi. Giọng khác lần trước. Luật trong xương: đông thường, hầm xấu, không nhận ngựa, không đổi yên, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ hai ngón mở — trống phía bắc. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Khói bếp còn thấp khi trống điểm dứt hẳn. Ngày sống thứ",
+      "file": "Chương 659 - Hỏi Lần 110 Cùng Màu.txt",
+      "path": "Chương 659 - Hỏi Lần 110 Cùng Màu.txt",
+      "num": 659
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3126,
+        "chars": 15409,
+        "dialogue": 103,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.19,
+        "char_density": 5.97,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ánh nắng loãng chạm đầu chông chậm hơn ngày hỏi. Ngày sống thứ bảy trăm tám mươi. Trong rào — ngày yên sau hỏi một trăm mười. Trống không bằng yên hội. Sau chữ ngựa thồ, yên có thể là khoảng lùi mang thợ dẫn giả. Luật: không thở phào, không mở rèm sớm, không rải vôi nghỉ.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón mở — trống. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ánh nắng loãng chạm đầu chông chậm hơn ngày hỏi. Ngày sống",
+      "file": "Chương 660 - Ngày Yên Sau Hỏi 110.txt",
+      "path": "Chương 660 - Ngày Yên Sau Hỏi 110.txt",
+      "num": 660
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3067,
+        "chars": 15174,
+        "dialogue": 102,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.08,
+        "char_density": 5.67,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió bấc mang mùi sỏi nứt trước khi trống điểm tan. Ngày thứ bảy trăm tám mươi mốt. Bãi sỏi nứt đông-bắc — sóng tháp lần một trăm linh sáu. Không gào. Chỉ sóng. Máu kín. Luật trong xương: đâm thấp, không phơi, không đếm to, hố mới sát bãi sỏi — không trùng hố Mương lá mục tây-nam.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón nắm — sóng. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió bấc mang mùi sỏi nứt trước khi trống điểm tan. Ngày",
+      "file": "Chương 661 - Sóng Tháp Lần 106.txt",
+      "path": "Chương 661 - Sóng Tháp Lần 106.txt",
+      "num": 661
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3105,
+        "chars": 15355,
+        "dialogue": 104,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.37,
+        "char_density": 6.77,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sương đông còn dính đầu chông khi trống điểm tan. Ngày thứ bảy trăm tám mươi hai dưới đất Biên Ải. Gò đông — bóng gò lần năm mươi bảy. Không gào. Không lê. Hai bóng đứng tam giác chỉ nam. Luật trong xương: thấy, không chỉ, không chỉ theo tay, không đạp theo.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh trên gò một ngón thấp đông — bóng. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sương đông còn dính đầu chông khi trống điểm tan. Ngày thứ",
+      "file": "Chương 662 - Bóng Gò Lần 57 Không Chỉ.txt",
+      "path": "Chương 662 - Bóng Gò Lần 57 Không Chỉ.txt",
+      "num": 662
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3020,
+        "chars": 14907,
+        "dialogue": 101,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.69,
+        "char_density": 5.43,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Trống điểm dứt khi khói bếp còn thấp. Ngày thứ bảy trăm tám mươi ba. Cổng đông mang một miệng — hỏi có thầy mo không, đổi bùa dây lấy muối. Không gào. Chỉ hỏi. Giọng khác lần trước. Luật trong xương: đông thường, hầm xấu, không nhận mo, không đổi bùa, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón mở — trống gò. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Trống điểm dứt khi khói bếp còn thấp. Ngày thứ bảy trăm",
+      "file": "Chương 663 - Hỏi Lần 111 Cùng Màu.txt",
+      "path": "Chương 663 - Hỏi Lần 111 Cùng Màu.txt",
+      "num": 663
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3037,
+        "chars": 14944,
+        "dialogue": 103,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.35,
+        "char_density": 6.16,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Nắng nhạt rơi lên chông muộn, không vội. Ngày sống thứ bảy trăm tám mươi bốn. Trong rào — ngày yên sau hỏi một trăm mười một. Trống không bằng yên hội. Sau chữ thầy mo, yên có thể là khoảng lùi mang thợ mo giả. Luật: không thở phào, không mở rèm sớm, không rải vôi nghỉ.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón mở — trống. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Nắng nhạt rơi lên chông muộn, không vội. Ngày sống thứ bảy",
+      "file": "Chương 664 - Ngày Yên Sau Hỏi 111.txt",
+      "path": "Chương 664 - Ngày Yên Sau Hỏi 111.txt",
+      "num": 664
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3047,
+        "chars": 15063,
+        "dialogue": 102,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.17,
+        "char_density": 5.58,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió bấc mang mùi tro lạnh trước khi trống điểm tan. Ngày thứ bảy trăm tám mươi lăm. Hồ tro lạnh nam-tây — sóng tháp lần một trăm linh bảy. Không gào. Chỉ sóng. Máu kín. Luật trong xương: đâm thấp, không phơi, không đếm to, hố mới sát hồ tro — không trùng hố bãi sỏi nứt đông-bắc.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh một ngón thấp nam-tây — sóng. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió bấc mang mùi tro lạnh trước khi trống điểm tan. Ngày",
+      "file": "Chương 665 - Sóng Tháp Lần 107.txt",
+      "path": "Chương 665 - Sóng Tháp Lần 107.txt",
+      "num": 665
+    },
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3017,
+        "chars": 14969,
+        "dialogue": 101,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 23.38,
+        "char_density": 5.41,
+        "cliche": 0,
+        "scene_breaks": 9,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Trống điểm tan, sương còn ướt đầu chông đông. Ngày sống thứ bảy trăm tám mươi bảy dưới đất Biên Ải. Cổng đông mang một miệng — hỏi có thầy đạo không, đổi dược lấy nước. Không gào. Chỉ hỏi. Giọng khác lần trước. Luật trong xương: đông thường, hầm xấu, không nhận đạo, không đổi dược, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước sân thức. Đếm dấu: bảy. Không tám. Rắc thóc lép. Đắp xấu. Phủi. Muối chát. Hà phơi bao, khăn mũi, lưng thẳng. A Minh hai ngón mở — trống gò. Hữu vắt vải. Cúc xâu thẻ. Chú Bát cháo loãng. Việc trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Trống điểm tan, sương còn ướt đầu chông đông. Ngày sống thứ",
+      "file": "Chương 667 - Hỏi Lần 112 Cùng Màu.txt",
+      "path": "Chương 667 - Hỏi Lần 112 Cùng Màu.txt",
+      "num": 667
+    }
+  ]
+}
