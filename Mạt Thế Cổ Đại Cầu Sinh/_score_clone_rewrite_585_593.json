@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3095,
+        "chars": 15181,
+        "dialogue": 151,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 21.21,
+        "char_density": 4.68,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Tro lạnh dính gót dép trước khi trống điểm. Lý Phong quỳ mé hố tro lạnh nam-tây, đặt hai ngón lên vành đất xám — không nóng, không khói, chỉ lạnh như miệng giếng bị lấp nửa. Ngày bảy trăm lẻ năm. Sóng thấp lần tám mươi bảy. Không gào. Không xông sớm. Chỉ sóng. Máu kín. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Tro lạnh dính gót dép trước khi trống điểm. Lý Phong quỳ",
+      "file": "Chương 585 - Sóng Thấp Lần 87.txt",
+      "path": "Chương 585 - Sóng Thấp Lần 87.txt",
+      "num": 585
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3124,
+        "chars": 15387,
+        "dialogue": 157,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.08,
+        "char_density": 4.87,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Kim khâu nằm trong bụi cổng đông trước khi trống điểm. Lý Phong không nhặt ngay — quỳ, nhìn sợi chỉ xám dính lỗ kim, không phải chỉ nhà. Ngày bảy trăm lẻ bảy. Hỏi lần chín mươi hai cùng màu. Không gào. Không xông. Chỉ miệng. Chỉ hỏi. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Kim khâu nằm trong bụi cổng đông trước khi trống điểm. Lý",
+      "file": "Chương 587 - Hỏi Lần 92 Cùng Màu.txt",
+      "path": "Chương 587 - Hỏi Lần 92 Cùng Màu.txt",
+      "num": 587
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3063,
+        "chars": 15097,
+        "dialogue": 153,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.14,
+        "char_density": 5.23,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Cổng đông trống sạch trước khi trống điểm. Lý Phong quỳ dưới chân cột, đếm dấu chân cũ của miệng hỏi kim — đã phai. Ngày bảy trăm lẻ tám. Ngày yên sau hỏi chín mươi hai. Không gào. Không xông. Chỉ việc. Trống không bằng yên hội. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Cổng đông trống sạch trước khi trống điểm. Lý Phong quỳ dưới",
+      "file": "Chương 588 - Ngày Yên Sau Hỏi 92.txt",
+      "path": "Chương 588 - Ngày Yên Sau Hỏi 92.txt",
+      "num": 588
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3073,
+        "chars": 15057,
+        "dialogue": 151,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 20.46,
+        "char_density": 4.91,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Bụi lau ướt đông dính gót dép trước khi trống điểm. Lý Phong quỳ mé bụi, đặt hai ngón lên lá lau ướt — lạnh, tanh nhẹ, không phải sương sạch. Ngày bảy trăm lẻ chín. Sóng thấp lần tám mươi tám. Không gào. Không xông sớm. Chỉ sóng. Máu kín. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Bụi lau ướt đông dính gót dép trước khi trống điểm. Lý",
+      "file": "Chương 589 - Sóng Thấp Lần 88.txt",
+      "path": "Chương 589 - Sóng Thấp Lần 88.txt",
+      "num": 589
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3073,
+        "chars": 15054,
+        "dialogue": 150,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.12,
+        "char_density": 5.05,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Sỏi xếp thành mũi tên trên gò đông trước khi trống điểm. Lý Phong không chỉ tay — quỳ xa hai bước, nhìn hướng mũi: chỉ ra ngoài, không chỉ vào trẻ. Ngày bảy trăm mười. Bóng gò lần bốn mươi tám không chỉ. Không gào. Không xông. Chỉ bóng. Có gò. Không chỉ. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sỏi xếp thành mũi tên trên gò đông trước khi trống điểm.",
+      "file": "Chương 590 - Bóng Gò Lần 48 Không Chỉ.txt",
+      "path": "Chương 590 - Bóng Gò Lần 48 Không Chỉ.txt",
+      "num": 590
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3119,
+        "chars": 15434,
+        "dialogue": 157,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.7,
+        "char_density": 4.73,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Vôi sống rơi loang trắng mép cổng đông trước khi trống điểm. Lý Phong không quét ngay — quỳ, nhìn vệt trắng loang như miệng cười giả. Ngày bảy trăm mười một. Hỏi lần chín mươi ba cùng màu. Không gào. Không xông. Chỉ miệng. Chỉ hỏi. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Vôi sống rơi loang trắng mép cổng đông trước khi trống điểm.",
+      "file": "Chương 591 - Hỏi Lần 93 Cùng Màu.txt",
+      "path": "Chương 591 - Hỏi Lần 93 Cùng Màu.txt",
+      "num": 591
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3069,
+        "chars": 15137,
+        "dialogue": 153,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.95,
+        "char_density": 5.22,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Vệt vôi phai trắng trên cổng đông trước khi trống điểm. Lý Phong quỳ dưới chân cột, đếm dấu chân cũ của miệng hỏi vôi — đã mờ. Ngày bảy trăm mười hai. Ngày yên sau hỏi chín mươi ba. Không gào. Không xông. Chỉ việc. Trống không bằng yên hội. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Vệt vôi phai trắng trên cổng đông trước khi trống điểm. Lý",
+      "file": "Chương 592 - Ngày Yên Sau Hỏi 93.txt",
+      "path": "Chương 592 - Ngày Yên Sau Hỏi 93.txt",
+      "num": 592
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3078,
+        "chars": 15083,
+        "dialogue": 151,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.56,
+        "char_density": 4.71,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Gốc tre chẻ tây rỉ nhựa trước khi trống điểm. Lý Phong quỳ mé gốc, đặt hai ngón lên thớ tre mới chẻ — ẩm, xanh nhạt, không phải gió gãy. Ngày bảy trăm mười ba. Sóng thấp lần tám mươi chín. Không gào. Không xông sớm. Chỉ sóng. Máu kín. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gốc tre chẻ tây rỉ nhựa trước khi trống điểm. Lý Phong",
+      "file": "Chương 593 - Sóng Thấp Lần 89.txt",
+      "path": "Chương 593 - Sóng Thấp Lần 89.txt",
+      "num": 593
+    }
+  ]
+}
