@@ -2,349 +2,294 @@
 Chương 76: Nâng Cấp Lên Cấp 2
 ============================================================
 
-Ngày thứ bảy mươi chín. Bình minh.
+Chữ vàng rung khi Phong đặt tay lên không và chọn nâng cấp kho.
 
-Phong dậy sớm. Ánh nắng vàng chiếu qua khe cửa, ấm áp. Anh mở mắt, nhìn lên mái nhà gỗ. Bên ngoài, chim hót líu lo. "Hôm nay — ngày mới," anh nghĩ.
+Ngày thứ một trăm sáu mươi sáu — chữ vàng rung khi Phong đặt tay lên không. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt. Phong không vội nói. Anh nhìn, nghe, ngửi — rồi mới đặt chân xuống đất lạnh.
 
-Đồng hồ sinh học『Kho Vô Hạn』báo: "Hôm nay — ngày thứ bảy mươi chín — vật tư: mười thùng nước khoáng, một tấn gạo, hai tạ thịt heo, một tạ rau củ, hai trăm viên vitamin, một hộp dụng cụ y tế, mười lăm mét vải dầu, một hộp đạn dược."
-
-"Đạn dược?" Phong ngồi dậy, mắt sáng. Lần đầu tiên『Kho Vô Hạn』cho đạn dược. Anh mở hộp — bên trong hai trăm viên đạn chì, nhỏ, nặng. "Zombie tiến hóa — cần vũ khí mạnh hơn," anh nghĩ.
-
-Phong lấy vật tư, sắp xếp vào kho. Hà giúp phân loại. "Đạn dược — phải cất kỹ. Trẻ em không được chạm." Phong gật: "Đúng."
-
-
-
-Trưa, Phong tổ chức cuộc họp lớn. Bốn mươi bốn người có mặt. "Hôm nay,『Kho Vô Hạn』cho đạn dược," Phong nói. "Đây là lần đầu tiên. Có nghĩa là zombie đang tiến hóa — mạnh hơn, nguy hiểm hơn. Phải chuẩn bị."
-
-Mọi người im lặng. Ai cũng hiểu — zombie tiến hóa có nghĩa là chiến đấu khó hơn, hy sinh nhiều hơn. Nhưng Phong tiếp tục: "Tuy nhiên, chúng ta đã sống sót qua bảy mươi chín ngày. Đã có bẫy, có dao, có thuốc. Bây giờ có thêm đạn. Sẽ sống sót tiếp."
-
-Tôn Vũ lên tiếng: "Tôi sẽ dạy cách sử dụng súng. Ai muốn học — giơ tay." Mười người giơ tay. Phong gật: "Tốt. Bắt đầu từ ngày mai."
-
-Buổi chiều, Phong tổ chức buổi tập huấn. Tôn Vũ dạy cách nạp đạn, cách nhắm, cách bóp cò. "Súng này — súng thô — tự chế — từ ống sắt và dây cao su. Không chính xác lắm. Nhưng ở cự ly gần — mười mét — đủ để giết zombie."
-
-Mười người tập luyện. Tiếng nổ vang lên — "đoàng" — "đoàng" — "đoàng". Khói trắng tỏa ra. Mùi thuốc súng nồng nặc. Phong quan sát, gật đầu. "Tốt. Tiếp tục tập."
-
-Đêm, Phong ngồi trước bếp lửa, viết nhật ký. Mực khô, anh pha lo bằng nước. Bút chì mòn ngắn, nhưng vẫn viết được. Phong ghi lại ngày thứ bảy mươi chín — thời tiết, vật tư, đạn dược, buổi tập huấn. Rồi anh dừng bút, nhìn ngọn lửa nhảy múa.
-
-EXP hiện tại: 19800/20000. Còn hai trăm EXP nữa là đạt cấp 2. Phong mỉm cười. Bình minh. Cấp 2 — sẽ mở thêm kỹ năng mới, vật tư mới, vũ khí mới. Tương lai tươi sáng hơn.
-
-Anh quay vào nhà, nằm xuống giường. Mùi gỗ mới, mùi lửa cháy, mùi thuốc súng còn vương. Bên ngoài, gió thổi mạnh hơn. Mùa đông — thử thách lớn nhất — sắp bắt đầu. Nhưng Phong không sợ. Anh đã có đạn. Đã có súng. Đã có bốn mươi bốn người. Sẽ sống sót.
+Năm sáu trăm hai mươi chín sau Công Nguyên. Mạt thế cổ đại. Zombie không phải phim — chúng là hàng xóm chết dở, là nợ chưa trả, là bài học đắt. Hà đã có mặt từ sớm, sổ than kẹp nách, mắt quét 49 miệng như quét hàng rào.
 
 ---
 
-Ánh trăng lạnh tràn qua khe cửa. A Cường ngẩng nhẹ, tay lấy hơi, cảm nhận mềm lớp rơm. Ngoài sân, tiếng gà gáy hòa với mùi sắt.
+[76.0] Ánh sáng lệch qua mái khi 'Nâng cấp kho cấp 1→2: không gian và slot tăng'. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt bám cổ tay Phong; anh cúi kiểm dấu chân đất.
 
-"Chương này ta không được lơi," A Cường nói, giọng thấp. "Zombie không chờ ta thở."
+[76.0] Năm sáu trăm hai mươi chín, ca 0 tại sân đền + không gian Kho Vô Hạn + xưởng. Zombie hàng xóm chết dở; người sống khó hơn. Phong hít mùi gạo mới mở thùng lẫn ánh chữ vàng tắt, đếm thở, bước vào 'Nâng cấp kho cấp 1→2: không gian và slot tăng'.
 
-Từ Sơn cau đầu, ngẩng nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.0] Hà mở sổ. Than kêu trên giấy dòng 76-0: "Nâng cấp kho cấp 1→2: không gian và slot tăng". A Cường đứng hai bước, cầm lao, vai sưng việc cũ. Hứa lách góc tường: hướng đông chưa thấy bóng trắng ca 0.
 
-"Một bát thôi," A Cường tay, ngẩng đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.0] Phong không tin yên ca 0. Yên giả chết người. Anh lấy mùi gạo mới mở thùng lẫn ánh chữ vàng tắt làm thước, chạm cổ tay — da phải ăn ngủ sợ đứng. Kho Vô Hạn không thở thay ai ca 0.
 
-Họ bước ra. Gió mang mùi sắt và tiếng gà gáy. A Cường cau nắm chuôi dao, siết chặt đến trắng khớp. ánh trăng lạnh quét qua mặt, làm ngẩng nheo lại.
+"Nâng cấp kho cấp 1→2: không gian và slot tăng — làm ngay ca 0?" Hà hỏi khẽ, gió đông không mang ra rào.
 
-Dưới chân, đất còn vết sương. A Cường cúi kiểm tra dấu chân — mới, chưa khô. Ai đó đi qua lúc tờ mờ.
+"Được nếu không ồn ca 76.0. Chỉ tay," Phong đáp, mắt quét sân đền + không gian Kho Vô Hạn + xưởng.
 
-"Không phải người nhà," Từ Sơn liếc, nuốt nước bọt. "Bước dài, vội."
+"A Cường, canh đông ca 0. Bóng lạ giơ tay — cấm hét," Phong dặn riêng.
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi sắt nồng hơn phía đông. Tiếng gà gáy xa dần rồi tắt.
+"Em nắm ca 0," A Cường gật. Ngón không rời lao.
 
-Họ không nói thêm. Chỉ ngẩng và tay — và công việc còn chờ. 
+"Khẩu phần ca 1 giữ mức. Trẻ trước — sổ 76," Hà nói gọn.
 
----
+"Ai lấy lao không trả ca 0 — mất phần," Phong nhấn.
 
-Tối om góc sân tràn qua khe cửa. A Cường nắm nhẹ, cười lấy hơi, cảm nhận lạnh buốt đầu ngón. Ngoài sân, tiếng thở gấp hòa với mùi mồ hôi.
+[76.0] Giữa việc ca 0, Phong kiểm điểm: mùi gió lạ, then, dây, kho, trẻ, gió. Thiếu một là hở. Hở chết chậm cả 49 miệng.
 
+[76.0] Hà liếc Phong một cái ca 0 — sợ, tin, mệt — cúi sổ. Không hỏi dài. Chỉ cần thấy nhau còn đứng sau 'Nâng cấp kho cấp 1→2: '.
 
-Phong nhíu đầu, nắm nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.0] Ai đó đưa chén nước đun ca 0. Nước vội chết chậm; nước chín sống chậm chắc. Ngụm. Úp chén. Tay khô. Vai hạ. Phong cúi kiểm dấu chân đất.
 
-"Một bát thôi," A Cường cười, nắm đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.0] Zombie phía đông ca 0 — nếu còn — không tên. Khoảng cách = bước chạy. Gần hơn 100 bước thì siết lao. Không gọi tên chúng.
 
-Họ bước ra. Gió mang mùi mồ hôi và tiếng thở gấp. A Cường nhíu nắm chuôi dao, siết chặt đến trắng khớp. tối om góc sân quét qua mặt, làm nắm nheo lại.
+[76.0] Kho Vô Hạn lóe vàng ngắn khi 'Nâng cấp kho cấp 1→2: khôn' khép ca 0 — không khen. Sống sót có hệ thống; hệ thống không sống thay. Phong không khoe cấp 2.
 
+[76.0] Ánh lệch sân đền + không gian Kho Vô Hạn + xưởng ca 0. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt đổi vị. Phong ghi đầu: gió đông, 10 bóng nghi, canh lệch, 49 miệng thở. Chi tiết > lời hứa ca 0.
 
-"Không phải người nhà," Phong liếc, nuốt nước bọt. "Bước dài, vội."
+"Hà, ca tối 0 giao chưa?" Phong hỏi riêng sổ 76.
+"Giao ca 0. Tên viết. Ai trễ em gạch," Hà đáp than.
+"A Cường lên tháp sớm khắc ca 0. Mắt quen bóng," Phong thêm.
+"Rõ ca 0," A Cường đáp, đã bước hướng đông.
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi mồ hôi nồng hơn phía đông. Tiếng thở gấp xa dần rồi tắt.
-
-Họ không nói thêm. Chỉ nắm và cười — và công việc còn chờ. 
-
----
-
-Bóng hàng rào tràn qua khe cửa. A Cường buông nhẹ, khóc lấy hơi, cảm nhận rát lòng bàn tay. Ngoài sân, tiếng gió rít hòa với mùi thuốc thảo.
-
-
-Hà run đầu, buông nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
-
-"Một bát thôi," A Cường khóc, buông đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
-
-Họ bước ra. Gió mang mùi thuốc thảo và tiếng gió rít. A Cường run nắm chuôi dao, siết chặt đến trắng khớp. bóng hàng rào quét qua mặt, làm buông nheo lại.
-
-
-"Không phải người nhà," Hà liếc, nuốt nước bọt. "Bước dài, vội."
-
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi thuốc thảo nồng hơn phía đông. Tiếng gió rít xa dần rồi tắt.
-
-Họ không nói thêm. Chỉ buông và khóc — và công việc còn chờ. 
+[76.0] Việc 'Nâng cấp kho cấp 1→2: không gian và slot tăng' khép tạm ca 0 — chưa thắng. Thắng = sáng mai đếm đủ 49 sau ch.76.
 
 ---
 
-Bóng người dài tràn qua khe cửa. A Cường siết nhẹ, gật lấy hơi, cảm nhận ẩm áo vải. Ngoài sân, tiếng dế hòa với mùi mưa.
+[76.1] Giữa sân đền + không gian Kho Vô Hạn + xưởng, không hô khẩu hiệu. Chỉ việc 'Hà ghi thay đổi sức chứa vào sổ vật tư' và 4 bước kiểm hướng tây.
 
+[76.1] Năm sáu trăm hai mươi chín, ca 1 tại sân đền + không gian Kho Vô Hạn + xưởng. Zombie hàng xóm chết dở; người sống khó hơn. Phong hít mùi gạo mới mở thùng lẫn ánh chữ vàng tắt, đếm thở, bước vào 'Hà ghi thay đổi sức chứa vào sổ vật tư'.
 
-Lan thở đầu, siết nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.1] Hà mở sổ. Than kêu trên giấy dòng 76-1: "Hà ghi thay đổi sức chứa vào sổ vật tư". A Cường đứng hai bước, cầm lưới, vai sưng việc cũ. Hứa lách góc tường: hướng tây chưa thấy bóng trắng ca 1.
 
-"Một bát thôi," A Cường gật, siết đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.1] Phong không tin yên ca 1. Yên giả chết người. Anh lấy mùi gạo mới mở thùng lẫn ánh chữ vàng tắt làm thước, chạm cổ tay — da phải ăn ngủ sợ đứng. Kho Vô Hạn không thở thay ai ca 1.
 
-Họ bước ra. Gió mang mùi mưa và tiếng dế. A Cường thở nắm chuôi dao, siết chặt đến trắng khớp. bóng người dài quét qua mặt, làm siết nheo lại.
+Hà nhìn Phong: "Ca 1 xong trước tối? 49 miệng không chờ việc 'Hà ghi thay đổi sức '."
 
+"Trước tối nếu trống tây. Có bóng thì sống trước," Phong nói ca 1.
 
-"Không phải người nhà," Lan liếc, nuốt nước bọt. "Bước dài, vội."
+A Cường chỉ ngoài: "Hướng tây ca 1 trống — tai mở."
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi mưa nồng hơn phía đông. Tiếng dế xa dần rồi tắt.
+"Mé rào tây hôm nay không cho bà ra — ca 1," Phong dặn.
 
-Họ không nói thêm. Chỉ siết và gật — và công việc còn chờ. 
+Hứa khẽ: "Em thấy 4 dấu lạ gần chốt bẫy — than đánh ca 1."
 
----
+"Không đụng. Báo sau khi xong 'Hà ghi thay đổi sức chứa' ca 1," Phong kết.
 
-Chói mắt buổi trưa tràn qua khe cửa. A Cường mắt nhẹ, cau lấy hơi, cảm nhận nhám mặt gỗ. Ngoài sân, tiếng nước chảy hòa với mùi đất ẩm.
+[76.1] Giữa việc ca 1, Phong kiểm điểm: chốt bẫy, then, dây, kho, trẻ, gió. Thiếu một là hở. Hở chết chậm cả 49 miệng.
 
+[76.1] Hà liếc Phong một cái ca 1 — sợ, tin, mệt — cúi sổ. Không hỏi dài. Chỉ cần thấy nhau còn đứng sau 'Hà ghi thay đổi sức ch'.
 
-Minh nuốt đầu, mắt nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.1] Ai đó đưa chén nước đun ca 1. Nước vội chết chậm; nước chín sống chậm chắc. Ngụm. Úp chén. Tay khô. Vai hạ. Phong ngẩng nghe tháp canh.
 
-"Một bát thôi," A Cường cau, mắt đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.1] Zombie phía tây ca 1 — nếu còn — không tên. Khoảng cách = bước chạy. Gần hơn 40 bước thì siết lưới. Không gọi tên chúng.
 
-Họ bước ra. Gió mang mùi đất ẩm và tiếng nước chảy. A Cường nuốt nắm chuôi dao, siết chặt đến trắng khớp. chói mắt buổi trưa quét qua mặt, làm mắt nheo lại.
+[76.1] Kho Vô Hạn lóe vàng ngắn khi 'Hà ghi thay đổi sức chứa v' khép ca 1 — không khen. Sống sót có hệ thống; hệ thống không sống thay. Phong không khoe cấp 2.
 
+[76.1] Ánh lệch sân đền + không gian Kho Vô Hạn + xưởng ca 1. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt đổi vị. Phong ghi đầu: gió tây, 4 bóng nghi, canh lệch, 49 miệng thở. Chi tiết > lời hứa ca 1.
 
-"Không phải người nhà," Minh liếc, nuốt nước bọt. "Bước dài, vội."
+"Hà, ca tối 1 giao chưa?" Phong hỏi riêng sổ 76.
+"Giao ca 1. Tên viết. Ai trễ em gạch," Hà đáp than.
+"A Cường lên tháp sớm khắc ca 1. Mắt quen bóng," Phong thêm.
+"Rõ ca 1," A Cường đáp, đã bước hướng tây.
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi đất ẩm nồng hơn phía đông. Tiếng nước chảy xa dần rồi tắt.
-
-Họ không nói thêm. Chỉ mắt và cau — và công việc còn chờ. 
-
----
-
-Ánh đèn dầu mờ tràn qua khe cửa. A Cường tay nhẹ, nhíu lấy hơi, cảm nhận mềm lớp rơm. Ngoài sân, tiếng gà gáy hòa với mùi khói rơm.
-
-
-Trương Bá liếc đầu, tay nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
-
-"Một bát thôi," A Cường nhíu, tay đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
-
-Họ bước ra. Gió mang mùi khói rơm và tiếng gà gáy. A Cường liếc nắm chuôi dao, siết chặt đến trắng khớp. ánh đèn dầu mờ quét qua mặt, làm tay nheo lại.
-
-
-"Không phải người nhà," Trương Bá liếc, nuốt nước bọt. "Bước dài, vội."
-
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi khói rơm nồng hơn phía đông. Tiếng gà gáy xa dần rồi tắt.
-
-Họ không nói thêm. Chỉ tay và nhíu — và công việc còn chờ. 
+[76.1] Việc 'Hà ghi thay đổi sức chứa vào sổ vật tư' khép tạm ca 1 — chưa thắng. Thắng = sáng mai đếm đủ 49 sau ch.76.
 
 ---
 
-Ánh lửa bếp tràn qua khe cửa. A Cường cười nhẹ, run lấy hơi, cảm nhận lạnh buốt đầu ngón. Ngoài sân, tiếng thở gấp hòa với mùi tanh nhẹ.
+[76.2] Gió nam mang mùi gạo mới mở thùng lẫn ánh chữ vàng tắt. Hà đứng sẵn, sổ than kẹp nách, đã ghi dòng 76-2.
 
+[76.2] Năm sáu trăm hai mươi chín, ca 2 tại sân đền + không gian Kho Vô Hạn + xưởng. Zombie hàng xóm chết dở; người sống khó hơn. Phong hít mùi gạo mới mở thùng lẫn ánh chữ vàng tắt, đếm thở, bước vào 'Đội thám ngắn tìm thùng gạo — nhét đầy kho mới'.
 
-Lý Lão cúi đầu, cười nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.2] Hà mở sổ. Than kêu trên giấy dòng 76-2: "Đội thám ngắn tìm thùng gạo — nhét đầy kho mới". A Cường đứng hai bước, cầm dao, vai sưng việc cũ. Hứa lách góc tường: hướng nam chưa thấy bóng trắng ca 2.
 
-"Một bát thôi," A Cường run, cười đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.2] Phong không tin yên ca 2. Yên giả chết người. Anh lấy mùi gạo mới mở thùng lẫn ánh chữ vàng tắt làm thước, chạm cổ tay — da phải ăn ngủ sợ đứng. Kho Vô Hạn không thở thay ai ca 2.
 
-Họ bước ra. Gió mang mùi tanh nhẹ và tiếng thở gấp. A Cường cúi nắm chuôi dao, siết chặt đến trắng khớp. ánh lửa bếp quét qua mặt, làm cười nheo lại.
+"Đếm lại phần 'Đội thám ngắn tìm thùng gạo ' lần ca 2," Phong bảo Hà.
 
+Hà đếm miệng chậm ca 2. Sai một nói lại từ đầu — luật sổ 76.
 
-"Không phải người nhà," Lý Lão liếc, nuốt nước bọt. "Bước dài, vội."
+"Đủ ca 2," Hà kết. "Phong ký việc, không ký chữ suông."
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi tanh nhẹ nồng hơn phía đông. Tiếng thở gấp xa dần rồi tắt.
+A Cường mang dao đúng vạch than nam ca 2.
 
-Họ không nói thêm. Chỉ cười và run — và công việc còn chờ. 
+"Cãi võ ca 2 — mất thịt tối," Phong nói to vừa đủ trong nhóm 49.
 
----
+Không ai cười ca 76-2. Luật nghèo sắc hơn lời an ủi.
 
-Sáng mờ sương tràn qua khe cửa. A Cường khóc nhẹ, thở lấy hơi, cảm nhận rát lòng bàn tay. Ngoài sân, tiếng gió rít hòa với mùi cháo nóng.
+[76.2] Giữa việc ca 2, Phong kiểm điểm: máng nước, then, dây, kho, trẻ, gió. Thiếu một là hở. Hở chết chậm cả 49 miệng.
 
+[76.2] Hà liếc Phong một cái ca 2 — sợ, tin, mệt — cúi sổ. Không hỏi dài. Chỉ cần thấy nhau còn đứng sau 'Đội thám ngắn tìm thùn'.
 
-A Cường ngẩng đầu, khóc nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.2] Ai đó đưa chén nước đun ca 2. Nước vội chết chậm; nước chín sống chậm chắc. Ngụm. Úp chén. Tay khô. Vai hạ. Phong nắm vai A Cường một cái.
 
-"Một bát thôi," A Cường thở, khóc đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.2] Zombie phía nam ca 2 — nếu còn — không tên. Khoảng cách = bước chạy. Gần hơn 50 bước thì siết dao. Không gọi tên chúng.
 
-Họ bước ra. Gió mang mùi cháo nóng và tiếng gió rít. A Cường ngẩng nắm chuôi dao, siết chặt đến trắng khớp. sáng mờ sương quét qua mặt, làm khóc nheo lại.
+[76.2] Kho Vô Hạn lóe vàng ngắn khi 'Đội thám ngắn tìm thùng gạ' khép ca 2 — không khen. Sống sót có hệ thống; hệ thống không sống thay. Phong không khoe cấp 2.
 
+[76.2] Ánh lệch sân đền + không gian Kho Vô Hạn + xưởng ca 2. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt đổi vị. Phong ghi đầu: gió nam, 5 bóng nghi, canh lệch, 49 miệng thở. Chi tiết > lời hứa ca 2.
 
-"Không phải người nhà," A Cường liếc, nuốt nước bọt. "Bước dài, vội."
+"Hà, ca tối 2 giao chưa?" Phong hỏi riêng sổ 76.
+"Giao ca 2. Tên viết. Ai trễ em gạch," Hà đáp than.
+"A Cường lên tháp sớm khắc ca 2. Mắt quen bóng," Phong thêm.
+"Rõ ca 2," A Cường đáp, đã bước hướng nam.
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi cháo nóng nồng hơn phía đông. Tiếng gió rít xa dần rồi tắt.
-
-Họ không nói thêm. Chỉ khóc và thở — và công việc còn chờ. 
-
----
-
-Ánh nắng sớm tràn qua khe cửa. A Cường gật nhẹ, nuốt lấy hơi, cảm nhận ẩm áo vải. Ngoài sân, tiếng dế hòa với mùi cỏ mới.
-
-
-Tiểu Mai nắm đầu, gật nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
-
-"Một bát thôi," A Cường nuốt, gật đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
-
-Họ bước ra. Gió mang mùi cỏ mới và tiếng dế. A Cường nắm nắm chuôi dao, siết chặt đến trắng khớp. ánh nắng sớm quét qua mặt, làm gật nheo lại.
-
-
-"Không phải người nhà," Tiểu Mai liếc, nuốt nước bọt. "Bước dài, vội."
-
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi cỏ mới nồng hơn phía đông. Tiếng dế xa dần rồi tắt.
-
-Họ không nói thêm. Chỉ gật và nuốt — và công việc còn chờ. 
+[76.2] Việc 'Đội thám ngắn tìm thùng gạo — nhét đầy kho mới' khép tạm ca 2 — chưa thắng. Thắng = sáng mai đếm đủ 49 sau ch.76.
 
 ---
 
-Nắng chiều vàng tràn qua khe cửa. A Cường cau nhẹ, liếc lấy hơi, cảm nhận nhám mặt gỗ. Ngoài sân, tiếng nước chảy hòa với mùi gỗ ướt.
+[76.3] Trước khi nói, Phong kiểm dây thừng — lưỡi không mẻ. Rồi mới vào 'Hiểu EXP cấp sau cần rất nhiều — 30000 khung'.
 
+[76.3] Năm sáu trăm hai mươi chín, ca 3 tại sân đền + không gian Kho Vô Hạn + xưởng. Zombie hàng xóm chết dở; người sống khó hơn. Phong hít mùi gạo mới mở thùng lẫn ánh chữ vàng tắt, đếm thở, bước vào 'Hiểu EXP cấp sau cần rất nhiều — 30000 khung'.
 
-Vương Tử Kính buông đầu, cau nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.3] Hà mở sổ. Than kêu trên giấy dòng 76-3: "Hiểu EXP cấp sau cần rất nhiều — 30000 khung". A Cường đứng hai bước, cầm dây thừng, vai sưng việc cũ. Hứa lách góc tường: hướng bắc chưa thấy bóng trắng ca 3.
 
-"Một bát thôi," A Cường liếc, cau đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.3] Phong không tin yên ca 3. Yên giả chết người. Anh lấy mùi gạo mới mở thùng lẫn ánh chữ vàng tắt làm thước, chạm cổ tay — da phải ăn ngủ sợ đứng. Kho Vô Hạn không thở thay ai ca 3.
 
-Họ bước ra. Gió mang mùi gỗ ướt và tiếng nước chảy. A Cường buông nắm chuôi dao, siết chặt đến trắng khớp. nắng chiều vàng quét qua mặt, làm cau nheo lại.
+Phong hỏi Hà ca 3: "Sổ khớp kho mục 6 chưa?"
 
+"Khớp nếu không giấu. Em kê 6 mục ca 3," Hà giơ than sổ 76.
 
-"Không phải người nhà," Vương Tử Kính liếc, nuốt nước bọt. "Bước dài, vội."
+A Cường xen ca 3: "Tháp bắc im. Im quá đáng ngờ hơn ồn."
 
-A Cường gật. Trong ngực, nhịp thở gấp hơn một nhịp. Mùi gỗ ướt nồng hơn phía đông. Tiếng nước chảy xa dần rồi tắt.
+"Im thì tai mở gấp đôi ca 3," Phong đáp. "Không kể chuyện ma."
 
-Họ không nói thêm. Chỉ cau và liếc — và công việc còn chờ. 
+Hà cười rất nhẹ ca 3: "Còn 49 miệng. Em không buông sổ."
+
+"Hai ta không buông trước nhau ca 3," Phong nói rồi cúi làm 'Hiểu EXP cấp sau cần'.
+
+[76.3] Giữa việc ca 3, Phong kiểm điểm: góc rào nứt, then, dây, kho, trẻ, gió. Thiếu một là hở. Hở chết chậm cả 49 miệng.
+
+[76.3] Hà liếc Phong một cái ca 3 — sợ, tin, mệt — cúi sổ. Không hỏi dài. Chỉ cần thấy nhau còn đứng sau 'Hiểu EXP cấp sau cần r'.
+
+[76.3] Ai đó đưa chén nước đun ca 3. Nước vội chết chậm; nước chín sống chậm chắc. Ngụm. Úp chén. Tay khô. Vai hạ. Phong buông hơi dài nửa nhịp.
+
+[76.3] Zombie phía bắc ca 3 — nếu còn — không tên. Khoảng cách = bước chạy. Gần hơn 60 bước thì siết dây thừng. Không gọi tên chúng.
+
+[76.3] Kho Vô Hạn lóe vàng ngắn khi 'Hiểu EXP cấp sau cần rất n' khép ca 3 — không khen. Sống sót có hệ thống; hệ thống không sống thay. Phong không khoe cấp 2.
+
+[76.3] Ánh lệch sân đền + không gian Kho Vô Hạn + xưởng ca 3. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt đổi vị. Phong ghi đầu: gió bắc, 6 bóng nghi, canh lệch, 49 miệng thở. Chi tiết > lời hứa ca 3.
+
+"Hà, ca tối 3 giao chưa?" Phong hỏi riêng sổ 76.
+"Giao ca 3. Tên viết. Ai trễ em gạch," Hà đáp than.
+"A Cường lên tháp sớm khắc ca 3. Mắt quen bóng," Phong thêm.
+"Rõ ca 3," A Cường đáp, đã bước hướng bắc.
+
+[76.3] Việc 'Hiểu EXP cấp sau cần rất nhiều — 30000 khung' khép tạm ca 3 — chưa thắng. Thắng = sáng mai đếm đủ 49 sau ch.76.
+
+Trong óc Phong, chữ vàng hiện ngắn:
+
+『Kho Vô Hạn — tiến độ』
+Đang làm: Hiểu EXP cấp sau cần rất nhiều — 30000 khung
+Ghi chú: nâng cấp kho không nâng cấp tim người — vẫn phải canh
+EXP tạm: tiến về 3737 / 30000
+
 
 ---
 
-Ánh trăng lạnh tràn qua khe cửa. A Cường nhíu nhẹ, cúi lấy hơi, cảm nhận mềm lớp rơm. Ngoài sân, tiếng gà gáy hòa với mùi sắt.
+[76.4] Số miệng neo 49. Việc 'Không khoe cấp — chỉ khoe bao gạo về' phải khớp số, không khớp lời hay ca 4.
 
+[76.4] Năm sáu trăm hai mươi chín, ca 4 tại sân đền + không gian Kho Vô Hạn + xưởng. Zombie hàng xóm chết dở; người sống khó hơn. Phong hít mùi gạo mới mở thùng lẫn ánh chữ vàng tắt, đếm thở, bước vào 'Không khoe cấp — chỉ khoe bao gạo về'.
 
-Từ Sơn siết đầu, nhíu nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.4] Hà mở sổ. Than kêu trên giấy dòng 76-4: "Không khoe cấp — chỉ khoe bao gạo về". A Cường đứng hai bước, cầm cọc, vai sưng việc cũ. Hứa lách góc tường: hướng đông chưa thấy bóng trắng ca 4.
 
-"Một bát thôi," A Cường cúi, nhíu đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.4] Phong không tin yên ca 4. Yên giả chết người. Anh lấy mùi gạo mới mở thùng lẫn ánh chữ vàng tắt làm thước, chạm cổ tay — da phải ăn ngủ sợ đứng. Kho Vô Hạn không thở thay ai ca 4.
 
-Họ bước ra. Gió mang mùi sắt và tiếng gà gáy. A Cường siết nắm chuôi dao, siết chặt đến trắng khớp. ánh trăng lạnh quét qua mặt, làm nhíu nheo lại.
+"Ca 4 ưu tiên then cửa," Phong phân việc cho A Cường.
 
+A Cường đáp ca 4: "Rõ. cọc đã kiểm. Hướng đông em giữ."
 
+Hà ghi thêm: "Ca 4 — Không khoe cấp — chỉ khoe bao  — người 49."
 
+"Nếu mùi đổi, không hỏi — kéo người vào," Phong dặn ca 4.
 
-Họ không nói thêm. Chỉ nhíu và cúi — và công việc còn chờ. 
+Hứa báo ngắn ca 4: "Không bóng trắng. Chỉ mùi gạo mới mở thùng lẫn ánh chữ vàng tắt."
 
----
+"Tốt ca 4. Làm tiếp, đừng kể dài," Phong chốt.
 
-Tối om góc sân tràn qua khe cửa. A Cường run nhẹ, ngẩng lấy hơi, cảm nhận lạnh buốt đầu ngón. Ngoài sân, tiếng thở gấp hòa với mùi mồ hôi.
+[76.4] Giữa việc ca 4, Phong kiểm điểm: then cửa, then, dây, kho, trẻ, gió. Thiếu một là hở. Hở chết chậm cả 49 miệng.
 
+[76.4] Hà liếc Phong một cái ca 4 — sợ, tin, mệt — cúi sổ. Không hỏi dài. Chỉ cần thấy nhau còn đứng sau 'Không khoe cấp — chỉ k'.
 
-Phong mắt đầu, run nhìn A Cường: "Em nghe. Nhưng người mệt rồi. Ăn cháo đã."
+[76.4] Ai đó đưa chén nước đun ca 4. Nước vội chết chậm; nước chín sống chậm chắc. Ngụm. Úp chén. Tay khô. Vai hạ. Phong siết cán dao đến nổi gân.
 
-"Một bát thôi," A Cường ngẩng, run đỏ vì thiếu ngủ. "Xong việc mới được nghỉ."
+[76.4] Zombie phía đông ca 4 — nếu còn — không tên. Khoảng cách = bước chạy. Gần hơn 70 bước thì siết cọc. Không gọi tên chúng.
 
-Họ bước ra. Gió mang mùi mồ hôi và tiếng thở gấp. A Cường mắt nắm chuôi dao, siết chặt đến trắng khớp. tối om góc sân quét qua mặt, làm run nheo lại.
+[76.4] Kho Vô Hạn lóe vàng ngắn khi 'Không khoe cấp — chỉ khoe ' khép ca 4 — không khen. Sống sót có hệ thống; hệ thống không sống thay. Phong không khoe cấp 2.
 
+[76.4] Ánh lệch sân đền + không gian Kho Vô Hạn + xưởng ca 4. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt đổi vị. Phong ghi đầu: gió đông, 7 bóng nghi, canh lệch, 49 miệng thở. Chi tiết > lời hứa ca 4.
 
+"Hà, ca tối 4 giao chưa?" Phong hỏi riêng sổ 76.
+"Giao ca 4. Tên viết. Ai trễ em gạch," Hà đáp than.
+"A Cường lên tháp sớm khắc ca 4. Mắt quen bóng," Phong thêm.
+"Rõ ca 4," A Cường đáp, đã bước hướng đông.
 
-
-Họ không nói thêm. Chỉ run và ngẩng — và công việc còn chờ.
-
----
-
-Canh 8, phía đông. Ánh lửa bếp lệch qua mái. Mùi cỏ mới lẫn tiếng nước chảy.
-Trương Bá đang vác củi vào sân. Ngẩng anh mở to rồi nheo; mắt siết rồi buông nhịp thở.
-"Tiểu Mai, đếm giúp 13 nhịp," Trương Bá nói. "Nếu lệch một nhịp là có chuyện."
-Tiểu Mai gật đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Trương Bá cúi, ngẩng liếc đất, nuốt khan. Trơn sương mai lan lên cổ tay khi chạm gỗ ướt.
-Hắn thở ra: "Không phải người trong trại. Báo Trương Bá sau khi xong ca."
-Tiểu Mai cười gượng, rồi cau mày. Tiếng nước chảy đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Trương Bá ngẩng, nắm chắc chuôi, tiếp tục vác củi vào sân — mốc edff3e22.
+[76.4] Việc 'Không khoe cấp — chỉ khoe bao gạo về' khép tạm ca 4 — chưa thắng. Thắng = sáng mai đếm đủ 49 sau ch.76.
 
 ---
 
-Canh 9, phía tây. Ánh trăng lạnh lệch qua mái. Mùi sắt lẫn tiếng búa đập.
-Lý Lão đang băng bó vết xước. Nắm anh mở to rồi nheo; tay siết rồi buông nhịp thở.
-"Phong, đếm giúp 12 nhịp," Lý Lão nói. "Nếu lệch một nhịp là có chuyện."
-Phong cau đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Lý Lão cúi, nắm liếc đất, nuốt khan. Cứng mũi giáo lan lên cổ tay khi chạm gỗ ướt.
-Phong cười gượng, rồi cau mày. Tiếng búa đập đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Lý Lão ngẩng, nắm chắc chuôi, tiếp tục băng bó vết xước — mốc 2ea87652.
+[76.5] Canh tháp khẽ ho. A Cường chờ dưới đất. Việc chính ca 5: Đêm 49 miệng ngủ cạnh tường chắc hơn chút.
+
+[76.5] Năm sáu trăm hai mươi chín, ca 5 tại sân đền + không gian Kho Vô Hạn + xưởng. Zombie hàng xóm chết dở; người sống khó hơn. Phong hít mùi gạo mới mở thùng lẫn ánh chữ vàng tắt, đếm thở, bước vào 'Đêm 49 miệng ngủ cạnh tường chắc hơn chút'.
+
+[76.5] Hà mở sổ. Than kêu trên giấy dòng 76-5: "Đêm 49 miệng ngủ cạnh tường chắc hơn chút". A Cường đứng hai bước, cầm gáo nước, vai sưng việc cũ. Hứa lách góc tường: hướng tây chưa thấy bóng trắng ca 5.
+
+[76.5] Phong không tin yên ca 5. Yên giả chết người. Anh lấy mùi gạo mới mở thùng lẫn ánh chữ vàng tắt làm thước, chạm cổ tay — da phải ăn ngủ sợ đứng. Kho Vô Hạn không thở thay ai ca 5.
+
+Bà hoặc Hà ca 5: "Uống nước đun trước khi ra mé tây."
+
+Phong gật ca 5: "Nước chín. Nước vội là chết chậm."
+
+A Cường múc gáo, đưa 8 người gần nhất ca 5.
+
+"Khẩu phần trẻ không đụng," Hà nhắc ca 5 lần nữa.
+
+Phong lau mồ hôi bằng mu bàn tay, rồi chỉ gáo nước: "Ai xong phần 'Đêm 49 miệng ngủ c' báo sổ."
+
+"Em ghi tên khi xong ca 5," Hà giơ than.
+
+[76.5] Giữa việc ca 5, Phong kiểm điểm: nút dây, then, dây, kho, trẻ, gió. Thiếu một là hở. Hở chết chậm cả 49 miệng.
+
+[76.5] Hà liếc Phong một cái ca 5 — sợ, tin, mệt — cúi sổ. Không hỏi dài. Chỉ cần thấy nhau còn đứng sau 'Đêm 49 miệng ngủ cạnh '.
+
+[76.5] Ai đó đưa chén nước đun ca 5. Nước vội chết chậm; nước chín sống chậm chắc. Ngụm. Úp chén. Tay khô. Vai hạ. Phong lau mồ hôi bằng mu bàn tay.
+
+[76.5] Zombie phía tây ca 5 — nếu còn — không tên. Khoảng cách = bước chạy. Gần hơn 80 bước thì siết gáo nước. Không gọi tên chúng.
+
+[76.5] Kho Vô Hạn lóe vàng ngắn khi 'Đêm 49 miệng ngủ cạnh tườn' khép ca 5 — không khen. Sống sót có hệ thống; hệ thống không sống thay. Phong không khoe cấp 2.
+
+[76.5] Ánh lệch sân đền + không gian Kho Vô Hạn + xưởng ca 5. Mùi gạo mới mở thùng lẫn ánh chữ vàng tắt đổi vị. Phong ghi đầu: gió tây, 8 bóng nghi, canh lệch, 49 miệng thở. Chi tiết > lời hứa ca 5.
+
+"Hà, ca tối 5 giao chưa?" Phong hỏi riêng sổ 76.
+"Giao ca 5. Tên viết. Ai trễ em gạch," Hà đáp than.
+"A Cường lên tháp sớm khắc ca 5. Mắt quen bóng," Phong thêm.
+"Rõ ca 5," A Cường đáp, đã bước hướng tây.
+
+[76.5] Việc 'Đêm 49 miệng ngủ cạnh tường chắc hơn chút' khép tạm ca 5 — chưa thắng. Thắng = sáng mai đếm đủ 49 sau ch.76.
 
 ---
 
-Canh 10, phía nam. Sáng mờ sương lệch qua mái. Mùi mưa lẫn tiếng lá xào xạc.
-A Cường đang kiểm tra hàng rào. Buông anh mở to rồi nheo; cười siết rồi buông nhịp thở.
-"Hà, đếm giúp 11 nhịp," A Cường nói. "Nếu lệch một nhịp là có chuyện."
-Hà nhíu đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-A Cường cúi, buông liếc đất, nuốt khan. Mềm lớp rơm lan lên cổ tay khi chạm gỗ ướt.
-Hà cười gượng, rồi cau mày. Tiếng lá xào xạc đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. A Cường ngẩng, nắm chắc chuôi, tiếp tục kiểm tra hàng rào — mốc 879c4a7f.
+Buổi tối ch.76, mọi người trong tầm mắt Phong còn thở — báo cáo đẹp nhất ngày 'Chương 76: Nâng Cấp Lên Cấp 2'. Cháo chia. Canh múc. Ca canh giao. Phong không ăn trước trẻ.
 
----
+Hà cuối bếp, sổ ch.76 mở, than dính ngón. "Khẩu phần khớp ch.76. Không thiếu tên. Không thừa chén," nàng nói.
+"49 miệng ch.76," Phong nhắc.
+"Em đếm hai lần ch.76," Hà đáp. "Lần ba nếu anh nghi sổ."
+"Không nghi sổ ch.76. Nghi gió và mùi gạo mới mở thùng lẫn ánh chữ vàng tắt," Phong nói. Ngoài rào gió đổi. Ai đó ho khẽ rồi nín.
 
-Canh 11, phía bắc. Tối om góc sân lệch qua mái. Mùi thuốc thảo lẫn tiếng cửa kẹt.
-Tiểu Mai đang mài lưỡi dao. Siết anh mở to rồi nheo; khóc siết rồi buông nhịp thở.
-"Lan, đếm giúp 12 nhịp," Tiểu Mai nói. "Nếu lệch một nhịp là có chuyện."
-Lan run đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Tiểu Mai cúi, siết liếc đất, nuốt khan. Khô cổ họng lan lên cổ tay khi chạm gỗ ướt.
-Lan cười gượng, rồi cau mày. Tiếng cửa kẹt đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Tiểu Mai ngẩng, nắm chắc chuôi, tiếp tục mài lưỡi dao — mốc 224c675a.
+Đêm sâu ch.76. Phong nằm, mắt mở, nghe chân canh. Nhớ kiếp trước — đèn đường, xe, xăng trong ký ức không gắn năm số. Nhớ kiếp này — rơm, đá, máu đen, chữ vàng. Hai lớp xếp chồng, buộc tỉnh.
 
----
+Trước ngủ ch.76: then cửa, nước đun, gió mùi lạ. Thiếu một là hở.
+"Hà còn thức ch.76?" anh hỏi qua vách.
+"Còn. Sổ ch.76 chưa gấp. Ngủ đi. Em gác chữ," giọng Hà.
+"Hai ta gác nhau ch.76," Phong nói. Than gạch một vạch nhẹ phía bếp.
 
-Canh 4, phía đông. Ánh nắng sớm lệch qua mái. Mùi đất ẩm lẫn tiếng gió rít.
-Phong đang ghi sổ gỗ. Mắt anh mở to rồi nheo; gật siết rồi buông nhịp thở.
-"Minh, đếm giúp 17 nhịp," Phong nói. "Nếu lệch một nhịp là có chuyện."
-Minh thở đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Phong cúi, mắt liếc đất, nuốt khan. Lạnh buốt lan lên cổ tay khi chạm gỗ ướt.
-Minh cười gượng, rồi cau mày. Tiếng gió rít đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Phong ngẩng, nắm chắc chuôi, tiếp tục ghi sổ gỗ — mốc 988dc598.
+EXP cuối ngày ch.76 neo 3737 / 30000. cấp 2 chỉ khung; cộng đồng mới là thịt xương. Motif: nâng cấp kho không nâng cấp tim người — vẫn phải canh.
 
----
-
-Canh 5, phía tây. Ánh đèn dầu mờ lệch qua mái. Mùi khói rơm lẫn tiếng dế.
-Hà đang vác củi vào sân. Tay anh mở to rồi nheo; cau siết rồi buông nhịp thở.
-"Trương Bá, đếm giúp 11 nhịp," Hà nói. "Nếu lệch một nhịp là có chuyện."
-Trương Bá nuốt đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Hà cúi, tay liếc đất, nuốt khan. Ấm lòng bàn tay lan lên cổ tay khi chạm gỗ ướt.
-Trương Bá cười gượng, rồi cau mày. Tiếng dế đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Hà ngẩng, nắm chắc chuôi, tiếp tục vác củi vào sân — mốc 5e13636d.
-
----
-
-Canh 6, phía nam. Nắng chiều vàng lệch qua mái. Mùi tanh nhẹ lẫn tiếng gỗ kêu.
-Lan đang băng bó vết xước. Cười anh mở to rồi nheo; nhíu siết rồi buông nhịp thở.
-"Lý Lão, đếm giúp 13 nhịp," Lan nói. "Nếu lệch một nhịp là có chuyện."
-Lý Lão liếc đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Lan cúi, cười liếc đất, nuốt khan. Nhám mặt gỗ lan lên cổ tay khi chạm gỗ ướt.
-Lý Lão cười gượng, rồi cau mày. Tiếng gỗ kêu đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Lan ngẩng, nắm chắc chuôi, tiếp tục băng bó vết xước — mốc 60c0f933.
-
----
-
-Canh 7, phía bắc. Bóng hàng rào lệch qua mái. Mùi cháo nóng lẫn tiếng bước chân.
-Minh đang kiểm tra hàng rào. Khóc anh mở to rồi nheo; run siết rồi buông nhịp thở.
-"A Cường, đếm giúp 18 nhịp," Minh nói. "Nếu lệch một nhịp là có chuyện."
-A Cường cúi đầu: "Rõ. Em thấy dấu chân mới — size khác tối qua."
-Minh cúi, khóc liếc đất, nuốt khan. Rát lòng bàn tay lan lên cổ tay khi chạm gỗ ướt.
-A Cường cười gượng, rồi cau mày. Tiếng bước chân đột ngột tắt. Im lặng nặng hơn tiếng động.
-Họ không kéo dài. Minh ngẩng, nắm chắc chuôi, tiếp tục kiểm tra hàng rào — mốc c145b2c0.
-
-Lan đứng dưới ánh trăng lạnh. Mùi sắt; tiếng búa đập; cứng mũi giáo. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Tiểu Mai cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Lan gật, ngẩng ngẩng: "Làm ngay." liếc cúi ngẩng nắm buông siết mắt tay. mốc 8c888f9f.
-
-Minh đứng dưới sáng mờ sương. Mùi mưa; tiếng lá xào xạc; mềm lớp rơm. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Phong cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Minh gật, ngẩng ngẩng: "Làm ngay." cúi ngẩng nắm buông siết mắt tay cười. mốc 4e3810e2.
-
-Trương Bá đứng dưới tối om góc sân. Mùi thuốc thảo; tiếng cửa kẹt; khô cổ họng. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Hà cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Trương Bá gật, ngẩng ngẩng: "Làm ngay." ngẩng nắm buông siết mắt tay cười khóc. mốc 0d29693e.
-
-Lý Lão đứng dưới ánh nắng sớm. Mùi đất ẩm; tiếng gió rít; lạnh buốt. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Lan cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Lý Lão gật, ngẩng ngẩng: "Làm ngay." nắm buông siết mắt tay cười khóc gật. mốc bb99b6d2.
-
-A Cường đứng dưới ánh đèn dầu mờ. Mùi khói rơm; tiếng dế; ấm lòng bàn tay. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Minh cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "A Cường gật, ngẩng ngẩng: "Làm ngay." buông siết mắt tay cười khóc gật cau. mốc f065cea2.
-
-Tiểu Mai đứng dưới nắng chiều vàng. Mùi tanh nhẹ; tiếng gỗ kêu; nhám mặt gỗ. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Trương Bá cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Tiểu Mai gật, ngẩng ngẩng: "Làm ngay." siết mắt tay cười khóc gật cau nhíu. mốc 4a1377d4.
-
-Phong đứng dưới bóng hàng rào. Mùi cháo nóng; tiếng bước chân; rát lòng bàn tay. Anh mắt nhìn, tay nắm, cười cười khô, run siết. Lý Lão cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Phong gật, ngẩng ngẩng: "Làm ngay." mắt tay cười khóc gật cau nhíu run. mốc 24103745.
-
-Hà đứng dưới ánh lửa bếp. Mùi cỏ mới; tiếng nước chảy; trơn sương mai. Anh mắt nhìn, tay nắm, cười cười khô, run siết. A Cường cau cau, nhíu nhíu, nuốt nuốt: "Còn một việc nữa." "Hà gật, ngẩng ngẩng: "Làm ngay." tay cười khóc gật cau nhíu run thở. mốc deaccb0a.
+Liệu kho rộng có nuôi nổi nếu sóng xác quay… hay chỉ chứa thêm nỗi lo?
 
 「Kho Vô Hạn — GHI NHẬN ch.76」
 Năm: 629
-EXP: 20000 / 20000
-Hiện tại: cấp 3
-Nâng cấp: Tiếp tục mở rộng căn cứ
+EXP: 3737 / 30000
+Hiện tại: cấp 2
+Nâng cấp: theo tiến độ cộng đồng — không vội khoe cấp
 
-Liệu bình minh tới hàng rào có còn nguyên trước đợt zombie mới?
+Phong chưa ngủ yên: Liệu kho rộng có nuôi nổi nếu sóng xác quay… hay chỉ chứa th
+
+============================================================
+Kết chương.
+============================================================

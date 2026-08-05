@@ -1,0 +1,58 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 1,
+  "pass": 1,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3000,
+        "chars": 14820,
+        "dialogue": 166,
+        "maxrep": 1,
+        "maxrep_short": 2,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 19.7,
+        "char_density": 4.86,
+        "cliche": 0,
+        "scene_breaks": 5,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "“Giữ.”",
+            2
+          ],
+          [
+            "Gió bấc mang mùi đất se qua khe rào đông trước khi trống điểm. Lý Phong đứng dưới mái hầm tây, đếm nhịp then cổng: một — hai. Không ba. Không gào. Ngày yên sau hỏi bảy mươi bảy. Anh không thở phào.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió bấc mang mùi đất se qua khe rào đông trước khi",
+      "file": "Chương 528 - Ngày Yên Sau Hỏi 77.txt",
+      "path": "Chương 528 - Ngày Yên Sau Hỏi 77.txt",
+      "num": 528
+    }
+  ]
+}

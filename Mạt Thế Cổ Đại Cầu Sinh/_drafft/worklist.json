@@ -1,0 +1,848 @@
+{
+  "round": 53,
+  "threshold": 9.5,
+  "count": 24,
+  "total_below": 46,
+  "worklist": [
+    {
+      "num": 54,
+      "file": "Chương 054 - Bản Đồ.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(398)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          6.0
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 398,
+        "dialogue": 29,
+        "sensory_density": 10.12,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 55,
+      "file": "Chương 055 - Chiến Lược.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(400)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          6.0
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 400,
+        "dialogue": 29,
+        "sensory_density": 9.92,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 56,
+      "file": "Chương 056 - Huấn Luyện.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(366)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 366,
+        "dialogue": 27,
+        "sensory_density": 10.74,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 57,
+      "file": "Chương 057 - Thu Hoạch.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(373)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 373,
+        "dialogue": 28,
+        "sensory_density": 10.58,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 58,
+      "file": "Chương 058 - Đêm Trường.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(276)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 276,
+        "dialogue": 27,
+        "sensory_density": 12.48,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 59,
+      "file": "Chương 059 - Bình Minh.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(359)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 359,
+        "dialogue": 27,
+        "sensory_density": 12.49,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 60,
+      "file": "Chương 060 - Cuộc Tấn Công Thứ Chín Mươi.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(294)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 294,
+        "dialogue": 27,
+        "sensory_density": 11.76,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 61,
+      "file": "Chương 061 - Cuộc Tấn Công Chín Mươi Một.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.8,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 62,
+      "file": "Chương 062 - Cuộc Tấn Công Chín Mươi Hai.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.74,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 63,
+      "file": "Chương 063 - Cuộc Tấn Công Chín Mươi Ba.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.75,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 64,
+      "file": "Chương 064 - Cuộc Tấn Công Chín Mươi Tư.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(294)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 294,
+        "dialogue": 27,
+        "sensory_density": 11.79,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 65,
+      "file": "Chương 065 - Cuộc Tấn Công Chín Mươi Năm.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.75,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 66,
+      "file": "Chương 066 - Cuộc Tấn Công Chín Mươi Sáu.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.74,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 67,
+      "file": "Chương 067 - Cuộc Tấn Công Chín Mươi Bảy.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.7,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 68,
+      "file": "Chương 068 - Cuộc Tấn Công Chín Mươi Tám.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(295)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 295,
+        "dialogue": 27,
+        "sensory_density": 11.74,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 69,
+      "file": "Chương 069 - Cuộc Tấn Công Chín Mươi Chín.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(302)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 302,
+        "dialogue": 27,
+        "sensory_density": 11.49,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 70,
+      "file": "Chương 070 - Cuộc Tấn Công Chín Mươi Mười.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(305)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 305,
+        "dialogue": 27,
+        "sensory_density": 11.42,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 71,
+      "file": "Chương 071 - Cuộc Tấn Công Chín Mươi Một Mươi.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(311)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 311,
+        "dialogue": 27,
+        "sensory_density": 11.33,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 72,
+      "file": "Chương 072 - Cuộc Tấn Công Chín Mươi Hai Mươi.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(311)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 311,
+        "dialogue": 27,
+        "sensory_density": 11.29,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 73,
+      "file": "Chương 073 - Cuộc Tấn Công Chín Mươi Ba Mươi.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(311)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 311,
+        "dialogue": 27,
+        "sensory_density": 11.3,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 74,
+      "file": "Chương 074 - Hồi Phục Sau Chiến Tranh.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(367)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 367,
+        "dialogue": 27,
+        "sensory_density": 11.2,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 75,
+      "file": "Chương 075 - Đếm Lại Miệng Ăn.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(367)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 367,
+        "dialogue": 27,
+        "sensory_density": 11.29,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 76,
+      "file": "Chương 076 - Nâng Cấp Lên Cấp 2.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(546)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 546,
+        "dialogue": 40,
+        "sensory_density": 12.33,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    },
+    {
+      "num": 77,
+      "file": "Chương 077 - Đoàn Thám Hiểm Phía Bắc.txt",
+      "final": 7.5,
+      "hard_fails": [
+        "short<3000(446)"
+      ],
+      "weakest_axes": [
+        [
+          "cau_truc",
+          4.5
+        ],
+        [
+          "nhan_vat",
+          8.0
+        ],
+        [
+          "van_chuong",
+          8.5
+        ]
+      ],
+      "fix_hints": [
+        "Chương < min-words — thêm CẢNH mới (đàm phán/hiện trường/nhà), KHÔNG pad."
+      ],
+      "metrics": {
+        "words": 446,
+        "dialogue": 36,
+        "sensory_density": 10.21,
+        "pad_total": 0,
+        "maxrep": 1,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null
+      }
+    }
+  ]
+}

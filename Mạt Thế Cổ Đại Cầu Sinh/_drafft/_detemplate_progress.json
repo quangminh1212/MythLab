@@ -1,0 +1,9 @@
+{
+  "unique_rewritten_range": "393-523",
+  "count": 131,
+  "next": 524,
+  "clone_remaining_est": "524-1000 (~477)",
+  "score_target": 9.5,
+  "note": "521-523 all PASS",
+  "session_stretch": "470-523 unique"
+}

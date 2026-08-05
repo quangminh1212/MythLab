@@ -1,0 +1,58 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 1,
+  "pass": 1,
+  "below": 0,
+  "avg": 9.78,
+  "min_final": 9.78,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 9.78,
+      "weighted_raw": 9.78,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 8.5,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3259,
+        "chars": 15900,
+        "dialogue": 77,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 22.58,
+        "char_density": 5.79,
+        "cliche": 0,
+        "scene_breaks": 6,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Ngày thứ ba trăm năm mươi ba dưới trời Đường 629. Trống điểm vừa dứt thì gió đông mang mùi đất ẩm và vôi cũ từ mé rào. Gò ngoài trống. Không xe. Không thước. Giữa sáng, ba bóng đứng ngoài tầm chông cổng đông — khoảng cách khách quan, không xông, không lánh, chỉ hỏi.",
+            1
+          ],
+          [
+            "Lý Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ hai ngón mở — trống. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Ngày thứ ba trăm năm mươi ba dưới trời Đường 629. Trống",
+      "file": "Chương 233 - Ba Miệng Và Một Màu.txt",
+      "path": "Chương 233 - Ba Miệng Và Một Màu.txt",
+      "num": 233
+    }
+  ]
+}
