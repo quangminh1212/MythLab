@@ -1,0 +1,107 @@
+[
+  {
+    "ch": 33,
+    "final": 10.0,
+    "words": 3335,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 34,
+    "final": 10.0,
+    "words": 3316,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 35,
+    "final": 10.0,
+    "words": 3312,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 36,
+    "final": 10.0,
+    "words": 3354,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 37,
+    "final": 10.0,
+    "words": 3235,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 38,
+    "final": 10.0,
+    "words": 3264,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 39,
+    "final": 10.0,
+    "words": 3209,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 40,
+    "final": 10.0,
+    "words": 3296,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 41,
+    "final": 10.0,
+    "words": 3217,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 47,
+    "final": 10.0,
+    "words": 3330,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 48,
+    "final": 10.0,
+    "words": 3357,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 49,
+    "final": 10.0,
+    "words": 3310,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 50,
+    "final": 10.0,
+    "words": 3298,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 51,
+    "final": 10.0,
+    "words": 3277,
+    "hard_fails": [],
+    "status": "PASS"
+  },
+  {
+    "ch": 53,
+    "final": 10.0,
+    "words": 3304,
+    "hard_fails": [],
+    "status": "PASS"
+  }
+]
