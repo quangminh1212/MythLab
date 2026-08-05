@@ -1,0 +1,366 @@
+{
+  "dir": null,
+  "threshold": 9.0,
+  "min_words": 3000,
+  "total": 8,
+  "pass": 8,
+  "below": 0,
+  "avg": 10.0,
+  "min_final": 10.0,
+  "all_pass": true,
+  "below_list": [],
+  "results": [
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3906,
+        "chars": 18932,
+        "dialogue": 73,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 30.05,
+        "char_density": 4.97,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Gió bấc mang mùi than củi nguội và đất se khi trống điểm tan. Ngày thứ chín trăm năm mươi tám dưới đất Biên Ải năm 629. Gò đông — bóng gò lần bảy mươi tám. ba bóng xếp đá dọc sườn gò rồi rút; không lê; không nhìn trẻ; khép bằng chân bóng không nhổ đá không hô đáp. Luật trong xương: thấy, không chỉ, không nhổ đá dọc, không đạp theo, không nhổ mốc.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng gò đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Gió bấc mang mùi than củi nguội và đất se khi trống",
+      "file": "Chương 838 - Bóng Gò Lần 78 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 838 - Bóng Gò Lần 78 Không Chỉ.txt",
+      "num": 838
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3937,
+        "chars": 19155,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 28.92,
+        "char_density": 5.12,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sương mỏng dính đầu chông khi trống điểm tan sớm. Ngày thứ chín trăm năm mươi chín dưới đất Biên Ải năm 629. Cổng đông — hỏi lần một trăm năm mươi lăm. một miệng hỏi có đá lửa không, đổi mồi khô lấy nắm gạo; giọng khác lần trước; Hạt suýt há — Cúc bịt trước khi mồi lọt mắt trẻ. Luật trong xương: đông thường, hầm xấu, không nhận mồi, không đổi đá lửa, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng cổng đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sương mỏng dính đầu chông khi trống điểm tan sớm. Ngày thứ",
+      "file": "Chương 839 - Hỏi Lần 155 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 839 - Hỏi Lần 155 Cùng Màu.txt",
+      "num": 839
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3963,
+        "chars": 19246,
+        "dialogue": 70,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 28.01,
+        "char_density": 5.82,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Nắng mỏng chạm đầu chông muộn hơn hôm đá lửa. Ngày thứ chín trăm sáu mươi dưới đất Biên Ải năm 629. Trong rào — ngày yên sau hỏi một trăm năm mươi lăm. trống không bằng yên hội; sau chữ đá lửa, yên có thể là khoảng lùi mang mồi dụ; giữa trưa thoáng mùi mồi khô ngoài rào nhưng không miệng. Luật trong xương: không thở phào, không mở rèm sớm, không rải vôi nghỉ, tai khe sau chữ đá lửa.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng trong rào. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Nắng mỏng chạm đầu chông muộn hơn hôm đá lửa. Ngày thứ",
+      "file": "Chương 840 - Ngày Yên Sau Hỏi 155.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 840 - Ngày Yên Sau Hỏi 155.txt",
+      "num": 840
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3989,
+        "chars": 19402,
+        "dialogue": 73,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.6,
+        "char_density": 4.84,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Cỏ tranh kêu khẽ khi gió bấc kéo qua rìa nam. Ngày thứ chín trăm sáu mươi mốt dưới đất Biên Ải năm 629. Rìa cỏ tranh nam — sóng thấp lần một trăm năm mươi mốt. ba bóng thấp từ rìa cỏ tranh nam; không gào; chỉ sóng; máu phải kín; hố mới sát rìa tranh — không trùng bãi sỏi nứt đông-bắc; máu lẫn cỏ khô — rửa bằng vải không bằng nước sạch. Luật trong xương: đâm thấp, không mặt, không đếm to, không phơi, hố xấu, máu vải không nước sạch.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng rìa cỏ tranh nam. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Cỏ tranh kêu khẽ khi gió bấc kéo qua rìa nam. Ngày",
+      "file": "Chương 841 - Sóng Thấp Lần 151.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 841 - Sóng Thấp Lần 151.txt",
+      "num": 841
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3872,
+        "chars": 19006,
+        "dialogue": 74,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 29.46,
+        "char_density": 5.05,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Đường bụi đông sáng như muối rơi khi gió bấc kéo ngang. Ngày thứ chín trăm sáu mươi hai dưới đất Biên Ải năm 629. Đường bụi đông — bóng thước lần bảy mươi chín. hai bóng cắm que đo nghiêng dọc bụi; không gào; không chỉ; A Minh suýt nhổ que — Phong chặn bằng mắt. Luật trong xương: thấy, không chỉ, không nhổ que đo, không đạp theo, không nhổ mốc.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng đường bụi đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Đường bụi đông sáng như muối rơi khi gió bấc kéo ngang.",
+      "file": "Chương 842 - Bóng Thước Lần 79 Không Chỉ.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 842 - Bóng Thước Lần 79 Không Chỉ.txt",
+      "num": 842
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3985,
+        "chars": 19264,
+        "dialogue": 75,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 26.63,
+        "char_density": 5.81,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sương tây tan chậm hơn sương đông khi trống điểm dứt. Ngày thứ chín trăm sáu mươi ba dưới đất Biên Ải năm 629. Cổng đông — hỏi lần một trăm năm mươi sáu. một miệng hỏi có vải bố không, đổi cói đan lấy nắm; giọng khàn nam; Diễm có vải vá trong túi — Phong ra hiệu giấu trước khi miệng thấy. Luật trong xương: đông thường, hầm xấu, không nhận cói, không đổi vải, cùng màu nếu phải đáp.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng cổng đông. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sương tây tan chậm hơn sương đông khi trống điểm dứt. Ngày",
+      "file": "Chương 843 - Hỏi Lần 156 Cùng Màu.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 843 - Hỏi Lần 156 Cùng Màu.txt",
+      "num": 843
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3940,
+        "chars": 19209,
+        "dialogue": 71,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.98,
+        "char_density": 5.83,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Khói bếp còn thấp khi trống điểm tan muộn. Ngày thứ chín trăm sáu mươi tư dưới đất Biên Ải năm 629. Trong rào — ngày yên sau hỏi một trăm năm mươi sáu. trống không bằng yên hội; sau chữ vải, yên có thể mang thợ đan giả; sáng sớm thấy một sợi cói rơi ngoài cổng — không nhặt, phủ bụi. Luật trong xương: không thở phào, không mở rèm sớm, không rải vôi nghỉ, không nhặt cói ngoài.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng trong rào. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Khói bếp còn thấp khi trống điểm tan muộn. Ngày thứ chín",
+      "file": "Chương 844 - Ngày Yên Sau Hỏi 156.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 844 - Ngày Yên Sau Hỏi 156.txt",
+      "num": 844
+    },
+    {
+      "final": 10.0,
+      "weighted_raw": 10.0,
+      "cap": 10.0,
+      "axes": {
+        "van_chuong": 10.0,
+        "cau_truc": 10.0,
+        "nhan_vat": 10.0,
+        "continuity": 10.0,
+        "filler_pad": 10.0,
+        "he_thong": 10.0
+      },
+      "hard_fails": [],
+      "metrics": {
+        "words": 3937,
+        "chars": 19310,
+        "dialogue": 72,
+        "maxrep": 1,
+        "maxrep_short": 1,
+        "pad_total": 0,
+        "pad_hits": {},
+        "sensory_density": 25.22,
+        "char_density": 4.87,
+        "cliche": 0,
+        "scene_breaks": 7,
+        "has_panel": true,
+        "panel_year": 629,
+        "prose_year": null,
+        "top_rep": [
+          [
+            "Sỏi suối kêu khẽ khi gió bấc kéo qua bờ đông-nam. Ngày thứ chín trăm sáu mươi lăm dưới đất Biên Ải năm 629. Bờ suối cạn đông-nam — sóng thấp lần một trăm năm mươi hai. năm bóng thấp từ bờ suối cạn đông-nam; không gào; chỉ sóng; máu kín; sỏi ướt dính tanh; chân thây vướng khe đá cạn — lợi dụng; máu bó vải không vôi vì vôi thiếu sau sóng tranh. Luật trong xương: đâm thấp, không mặt, không đếm to, không phơi, hố xấu, máu vải không vôi.",
+            1
+          ],
+          [
+            "Phong ra hầm tây trước khi sân thức hẳn. Anh đếm dấu thây đã lấp: bảy. Không tám. Rắc thóc lép lên lớp đất mới, đắp xấu cho giống chỗ chưa đào, phủi bụi khỏi tay. Muối chát đầu ngón. Chát neo nghề. Hà phơi bao rách phía tây, khăn mũi buộc thấp, lưng thẳng. A Minh trên gò giơ tín hiệu theo hướng bờ suối cạn đông-nam. Hữu vắt vải ướt. Cúc xâu thẻ trẻ. Chú Bát vung cháo loãng. Năm hơi cửa bếp. Việc mở trước miệng.",
+            1
+          ]
+        ]
+      },
+      "opening": "Sỏi suối kêu khẽ khi gió bấc kéo qua bờ đông-nam. Ngày",
+      "file": "Chương 845 - Sóng Thấp Lần 152.txt",
+      "path": "C:\\Dev\\XLab_MTC\\Mạt Thế Cổ Đại Cầu Sinh\\Chương 845 - Sóng Thấp Lần 152.txt",
+      "num": 845
+    }
+  ]
+}
