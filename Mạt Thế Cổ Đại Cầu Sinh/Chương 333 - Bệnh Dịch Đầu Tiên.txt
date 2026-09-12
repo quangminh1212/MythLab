@@ -1,0 +1,98 @@
+============================================================
+Chương 333: Bệnh Dịch Đầu Tiên
+============================================================
+
+Năm 629. Ngày ba trăm hai mươi tám.
+
+Buổi sáng, Phượng đến gặp Phong với vẻ mặt lo lắng. "Ba người bị sốt. Và ho."
+
+"Sốt?" Phong hỏi. "Bao nhiêu độ?"
+
+"Ấm tay. Không nóng lắm. Nhưng ho nhiều."
+
+"Bệnh gì?"
+
+"Cảm lạnh. Có thể nặng hơn nếu không chữa."
+
+Phong nhìn quanh nhà lớn. Một trăm bốn mươi hai người sống trong không gian hẹp, hơi thở chụm lại, không khí ẩm thấp. Bệnh sẽ lan nhanh.
+
+"Phải cách ly," Phong nói.
+
+"Cách ly?" Phượng hỏi.
+
+"Đưa ba người bị bệnh vào một căn nhà riêng. Không tiếp xúc với người khác cho đến khi khỏi."
+
+Phượng gật. "Nhưng cần thuốc."
+
+"Thuốc『Kho Vô Hạn』có thể sản xuất thêm không?"
+
+"Cần thêm lá chè. Và mật ong."
+
+"Phía nam còn chè không?"
+
+"Có thể còn. Nhưng tuyết phủ dày."
+
+Phong gọi Kiên. "Đi hái chè. Năm người. Mặc ấm."
+
+Kiên gật, dẫn năm người đi. Họ trở về sau nửa canh giờ với ba giỏ lá chè tươi.
+
+Phượng bắt đầu nấu thuốc. Lá chè khô, gừng tươi, mật ong — mỗi thứ một ít. Thuốc nóng, mùi thơm, vị cay nhẹ.
+
+Ba người bị bệnh được đưa vào căn nhà nhỏ phía đông. Phượng chăm sóc họ, cho uống thuốc hai lần mỗi ngày.
+
+"Không được ra ngoài," Phong nói. "Phải ở trong phòng cho đến khi hết sốt."
+
+Ba người gật, mệt mỏi.
+
+Hai ngày sau, thêm năm người bị bệnh. Bệnh lan nhanh trong không gian hẹp.
+
+"Phải mở rộng cách ly," Phong nói. "Cho thêm người vào."
+
+"Nhưng không còn nhà trống," Triệu nói.
+
+"Thì dựng thêm," Phong đáp. "Dùng vải và gỗ. Lều tạm."
+
+Đại Lực bắt đầu dựng lều. Dùng vải dày và gỗ, tạo ra ba lều lớn bên ngoài hàng rào. Bên trong có chăn và lò sưởi nhỏ.
+
+"Không thể để người bệnh trong nhà lớn," Phong nói. "Phải giữ cho người khỏe mạnh tách biệt."
+
+Mười người bị bệnh được đưa ra lều. Phượng và hai phụ nữ khác chăm sóc họ.
+
+Ba ngày sau, mười người khỏi bệnh. Họ trở về nhà lớn, mắt sáng rực.
+
+"Tôi khỏe rồi!" Một người đàn ông kêu lên, tay giơ cao.
+
+Mọi người vỗ tay. Niềm vui lan tỏa.
+
+Nhưng Phong vẫn lo lắng. Bệnh sẽ quay lại. Mùa đông còn dài.
+
+"Phải giữ vệ sinh," Phong nói. "Mỗi người phải rửa tay trước khi ăn. Không được ho vào tayngười khác."
+
+"Rửa tay bằng gì?" Hà hỏi.
+
+"Nước nóng. Có thể thêm ít muối."
+
+Mỗi người được phát một bát nước nóng có muối. Ai cũng rửa tay, cẩn thận.
+
+Phong nhìn bầu trời. Tuyết đã ngừng rơi, nhưng lạnh vẫn còn. Ngày mai sẽ là ngày thứ ba mươi của mùa đông.
+
+Hệ thống hiện chữ vàng:
+
+『Ngày 328. Bệnh dịch đầu tiên.』
+『Người bị bệnh: 13. Đã khỏi: 10.』
+『Cách ly: 3 lều bên ngoài.』
+『Thuốc『Kho Vô Hạn』: sản xuất liên tục.』
+『Dân số: 142. EXP: 35051 / 60000.』
+
+Phong nhìn lều cách ly. Bên trong, ba người vẫn còn sốt. Nhưng Phượng đang ở đó, thuốc đang nhỏ từng giọt.
+
+"Chúng ta sẽ vượt qua," Phong nói.
+
+'Kho Vô Hạn — GHI NHẬN chương 333'
+Năm: 629
+Ngày: 328
+Dân số: 142
+EXP: 35051 / 60000
+Bệnh: cảm lạnh, 13 người
+Cách ly: 3 lều
+Thuốc: hoạt động

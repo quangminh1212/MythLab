@@ -1,0 +1,167 @@
+============================================================
+Chương 381: Vấn Đề Thực Phẩm
+============================================================
+
+Năm 630. Ngày bốn mươi.
+
+Bảy hundred người. Nhưng thực phẩm chỉ đủ cho một tháng nữa.
+
+Phong tập hợp hội đồng. Bốn người: Hà, Triệu, Cường, và Linh (từ nhóm Those Who Escaped).
+
+"Tồn kho thực phẩm?" Phong hỏi.
+
+Triệu nói: "Gạo đủ hai mươi ngày. Thịt đủ mười lăm ngày. Rau đủ mười ngày."
+
+"Bảy hundred người, chỉ một tháng."
+
+"Đúng."
+
+Phong suy nghĩ. Phải tìm nguồn thực phẩm mới.
+
+"Chúng ta cần nông nghiệp," Phong nói.
+
+"Nông nghiệp?"
+
+"Đúng. Trồng trọt. Bắt đầu từ bây giờ."
+
+Linh nói: "Đất canh tác ở đâu?"
+
+"Phía nam làng. Khoảng hai hundred mẫu."
+
+Hai hundred mẫu đất. Đủ để trồng.
+
+"Nhưng cần giống," Triệu nói. "Không có giống."
+
+Phong mở Kho Vô Hạn. Kiểm tra.
+
+Hệ thống hiện:
+
+『Không có giống cây trồng.』
+『Nhưng có thể mua từ nhà cung cấp.』
+『Chi phí: 10 đơn vị cho một hundred kg giống.』
+
+"Kho Vô Hạn có thể mua giống," Phong nói.
+
+"Bao nhiêu?"
+
+"Mười đơn vị cho một hundred kg."
+
+"Còn bao nhiêu đơn vị?"
+
+"Hiện tại: tám đơn vị."
+
+"Tám đơn vị. Mua được bao nhiêu?"
+
+"80 kg giống."
+
+"80 kg cho hai hundred mẫu?"
+
+"Đủ cho một phần."
+
+Phong tính toán. 80 kg giống. Đủ cho khoảng fifty mẫu.
+
+"Fifty mẫu trước. Rồi trồng tiếp."
+
+Anh mua 80 kg giống. Gạo, lúa mì, và rau.
+
+Mọi người bắt đầu làm đất. Hai hundred mẫu đất phía nam.
+
+Sau một tuần, fifty mẫu đã được trồng.
+
+"Chờ đợi," Phong nói. "Ba tháng nữa sẽ cóthu hoạch."
+
+"Ba tháng," Triệu nói. "Thực phẩm chỉ đủ một tháng."
+
+"Thì phải tìm cách khác."
+
+Phong mở Kho Vô Hạn lần nữa. Kiểm tra.
+
+Hệ thống hiện:
+
+『Có thể mua thực phẩm từ nhà cung cấp.』
+『Chi phí: 5 đơn vị cho một hundred kg gạo.』
+
+"Năm đơn vị cho một hundred kg gạo."
+
+"Còn bao nhiêu đơn vị?"
+
+"Ba đơn vị."
+
+"Ba đơn vị. Mua được bao nhiêu?"
+
+"60 kg gạo."
+
+60 kg gạo. Đủ cho bảy hundred người khoảng năm ngày.
+
+"Chỉ năm ngày," Triệu nói.
+
+"Thì phải tìm nguồn khác."
+
+Dũng nói: "Tôi đã nghe tin ở phía bắc có một kho thực phẩm lớn. Của chính phủ trước mạt thế."
+
+"Kho thực phẩm?"
+
+"Đúng. Một kho lớn. Có thể đủ cho một thousand người trong một năm."
+
+"Ở đâu?"
+
+"Cách đây khoảng hai mươi ngày đường."
+
+Hai mươi ngày đường. Xa.
+
+"Phải đi," Phong nói. "Đội năm người. Nhanh."
+
+Cường nói: "Tôi đi."
+
+"Đi. Nhưng phải an toàn."
+
+Cường xuất phát. Năm người.
+
+Trong khi chờ đợi, Phong tổ chức đánh cá ở sông gần làng. Bắt cá, sấy khô.
+
+Sau hai tuần, kho thực phẩm được bổ sung thêm một hundred kg cá khô.
+
+Nhưng vẫn chưa đủ.
+
+Ba tuần sau, Cường trở về.
+
+"Kho thực phẩm!" Cường nói. "Đúng như lời đồn. Hàng ngàn kgthực phẩm."
+
+"thực phẩm?" Phong hỏi.
+
+"Cơm, gạo, thịt khô, rau khô. Đủ cho một thousand người trong một năm."
+
+"Có thể vận chuyển?"
+
+"Đúng. Tôi đã mang theo một hundred kg trước. Phần còn lại cần vận chuyển."
+
+Phong gật. "Một đội vận chuyển. Hai mươi người."
+
+Đội vận chuyển xuất phát. Sau một tháng, toàn bộthực phẩm đã được mang về.
+
+"Đủ," Phong nói. "Từ giờ, không còn lo thực phẩm."
+
+Mọi người vui mừng.
+
+Phong nhìn bầu trời. Bình yên.
+
+Nhưng anh biết. Bình yên chỉ là tạm thời.
+
+Kẻ chủ mưu vẫn còn. Và lần tới, hắn sẽ không chỉ gửi zombie. Hắn sẽ đến trực tiếp.
+
+'Kho Vô Hạn — GHI NHẬN chương 381'
+Năm: 630
+Ngày: 40
+Dân số làng: 720
+Thực phẩm: đã giải quyết (kho thực phẩm lớn)
+Nông nghiệp: fifty mẫu đã trồng
+Tồn kho: đủ cho một năm
+Trạng thái: bình yên
+
+============================================================
+Hết Chương 381
+============================================================
+
+### Gợi ý chương sau
+
+Mùa đông đến. Làng phải đối mặt với thời tiết khắc nghiệt. Phong cần tìm cách giữ ấm cho mọi người, đồng thời bảo vệ làng khỏi zombie — vì zombie hoạt động mạnh hơn vào mùa đông.
