@@ -1,0 +1,142 @@
+============================================================
+Chương 390: Cách Ngăn Chặn Biến Đổi
+============================================================
+
+Năm 630. Ngày một hundred sáu mươi.
+
+Sau khi mất Triệu, Phong bắt đầu nghiên cứu cách ngăn chặn biến đổi.
+
+Anh mở Kho Vô Hạn. Kiểm tra.
+
+Hệ thống hiện:
+
+『Nghiên cứu biến đổi: đã hoàn thành.』
+『Cách ngăn chặn: dùng thuốc chống biến đổi TRƯỚC khi bị cắn.』
+『Thuốc: mua từ nhà cung cấp.』
+『Chi phí: 50 đơn vị cho một liều.』
+
+"Thuốc phải dùng trước khi bị cắn?"
+
+『Đúng. Sau khi bị cắn, thuốc không có hiệu quả.』
+
+Phong hiểu. Thuốc phải dùng trước.
+
+"Vậy phải cho mọi người uống thuốc trước?"
+
+『Đúng. Mỗi người cần một liều.』
+
+"713 người. 50 đơn vị cho mỗi liều. Tổng cộng: 35,650 đơn vị."
+
+『Đúng.』
+
+35,650 đơn vị. Phong chỉ có khoảng ba hundred đơn vị.
+
+"Không đủ," Phong nói.
+
+Anh tập hợp mọi người. "Thuốc chống biến đổi phải dùng trước khi bị cắn. Mỗi người cần một liều."
+
+"713 người. Cần bao nhiêu đơn vị?"
+
+"35,650 đơn vị."
+
+Mọi người kinh ngạc.
+
+"Chúng ta chỉ có khoảng ba hundred đơn vị," Triệu nói — không, Triệu đã chết. Dũng nói.
+
+"Đúng. Không đủ."
+
+"Làm sao?"
+
+"Kiếm thêm đơn vị. Bằng cách bán vật tư từ Kho Vô Hạn."
+
+Phong tổ chức đội tìm kiếm vật tư. Mỗi đội năm người, đi đến các thành phố bỏ hoang, thu thập kim loại, dây thừng, gỗ.
+
+Sau hai tháng, họ kiếm được thêm hai thousand đơn vị. Tổng cộng: hai thousand ba hundred đơn vị.
+
+"Còn rất xa," Phong nói.
+
+Anh suy nghĩ. "Có cách nào khác?"
+
+Hệ thống hiện:
+
+『Có thể tạo thuốc từ nguyên liệu tự nhiên.』
+『Nguyên liệu: rễ cây thần kỳ.』
+*'Rễ cây thần kỳ?'
+『Đúng. Một loại rễ cây phát triển ở vùng đất bị ô nhiễm bởi zombie.』
+*'Ở đâu?'
+『Phía bắc, cách đây khoảng năm mươi dặm.』
+
+Năm mươi dặm. Xa.
+
+"Phải đi," Phong nói.
+
+Anh dẫn năm người xuất phát.
+
+Ba ngày đường.
+
+Họ đến vùng đất bị ô nhiễm. Đất đen, cây cối chết.
+
+Nhưng ở trung tâm, một cây lớn. Rễ cây to, dài, phát sáng xanh dương.
+
+"Đó rồi," Phong nói.
+
+Họ thu thập rễ cây. Mỗi người một nắm.
+
+Sau một ngày, họ thu thập đủ.
+
+Phong quay về làng. Bắt đầu chế tạo thuốc.
+
+Mặc tiên sinh giúp. Hai người chế tạo.
+
+Sau một tuần, họ chế tạo được một hundred liều thuốc.
+
+"Một hundred liều," Phong nói. "Cho một hundred người."
+
+"713 người," Linh nói. "Còn xa."
+
+"Đúng. Nhưng ít nhất có một ít."
+
+Phong hiểu. Không đủ thuốc cho tất cả. Nhưng ít nhất có một ít để cứu những người quan trọng.
+
+"Chúng ta cần cách khác," Phong nói.
+
+"Kho Vô Hạn có thể tạo thuốc không?"
+
+Hệ thống hiện:
+
+『Có thể tạo thuốc từ rễ cây thần kỳ.』
+『Nhưng cần thời gian.』
+*'Bao lâu?'
+『Mỗi liều cần mười ngày.』
+
+Mười ngày cho một liều.
+
+"713 người. 7130 ngày."
+
+"Khoảng hai mươi năm."
+
+Phong hiểu. Không đủ thời gian.
+
+"Phải sống cẩn thận," anh nói.
+
+Mọi người gật.
+
+Phong nhìn bầu trời. Bình yên.
+
+Nhưng anh biết. Bình yên chỉ là tạm thời.
+
+'Kho Vô Hạn — GHI NHẬN chương 390'
+Năm: 630
+Ngày: 160
+Dân số làng: 713
+Thuốc chống biến đổi: 100 liều
+Rễ cây thần kỳ: đã thu thập
+Thời gian chế tạo: 10 ngày/liều
+
+============================================================
+Hết Chương 390
+============================================================
+
+### Gợi ý chương sau
+
+Phong sống bình yên. Nhưng một ngày, vọng tháp phát hiện: zombie không phải phát triển tự nhiên. Có ai đó đang tạo ra chúng. Và lần này, người tạo ra zombie không phải kẻ chủ mưu. Mà là một người trong làng. Một người mà Phong tin tưởng nhất. Một người mà Phong không thể ngờ tới.
