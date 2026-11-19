@@ -39,20 +39,21 @@ const loadingHTML = (msg = "Đang tải…") => `<div class="loading"><span clas
 const sKey = (source, key) => `${source}|${key}`;
 
 // ---------------------------------------------------------------- settings
-const DEF = { theme: "sepia", font: "serif", size: 20, line: 1.8, width: 720, engine: "edge", voice: "vi-VN-HoaiMyNeural",
+const DEF = { theme: "light", font: "serif", size: 20, line: 1.8, width: 720, engine: "edge", voice: "vi-VN-HoaiMyNeural",
   rate: 1, autoNext: true, follow: true, readTitle: true };
 const S = Object.assign({}, DEF, store.get("mythlab.settings", {}));
+// v2 (XLab-style UI): the old default "sepia" becomes the new default "light" once.
+if (!S.ui2) { if (S.theme === "sepia") S.theme = "light"; S.ui2 = 1; store.set("mythlab.settings", S); }
 const saveS = () => store.set("mythlab.settings", S);
 function applyS() {
   const r = document.documentElement;
-  r.dataset.theme = S.theme === "sepia" ? "" : S.theme;
-  if (S.theme === "sepia") delete r.dataset.theme;
+  r.dataset.theme = S.theme;
   r.dataset.font = S.font;
   r.style.setProperty("--read-size", S.size + "px");
   r.style.setProperty("--read-line", S.line);
   r.style.setProperty("--read-width", S.width + "px");
   const bg = getComputedStyle(r).getPropertyValue("--bg").trim();
-  document.querySelector('meta[name="theme-color"]').content = bg || "#f6f1e7";
+  document.querySelector('meta[name="theme-color"]').content = bg || "#ffffff";
 }
 applyS();
 
@@ -140,24 +141,37 @@ function coverHTML(st, extra = "") {
   const img = st.poster ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(st.poster)}" alt="" onerror="this.remove()">` : "";
   return `<div class="cover" style="--h:${hashHue(name)}"><div class="ph">${esc(name)}</div>${img}${extra}</div>`;
 }
+const secHead = (title, href, extra = "") => `<div class="sec-head"><h2>${title}${extra ? ` <small>${extra}</small>` : ""}</h2>${href ? `<a href="${href}">Xem tất cả</a>` : ""}</div>`;
+const normTxt = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d").toLowerCase();
+function repoCard(sid, repo, sub = "") {
+  const name = repo.replace(/^Done_/, "");
+  return `<a class="card" style="--h:${hashHue(repo)}" href="#/lib/${enc(sid)}/${enc(repo)}" title="${esc(repo)}" data-q="${esc(normTxt(repo))}">
+    <div class="cover"><div class="ph">${esc(name)}</div><span class="badge">Repo</span></div>
+    <div class="cb"><div class="cat">GitHub · Done_</div><div class="t">${esc(name)}</div>${sub ? `<div class="m">${esc(sub)}</div>` : ""}</div></a>`;
+}
 function storyCard(source, st) {
   const p = PROG[sKey(source, st.key)];
   const total = st.chapter_files || 0;
   const pct = p && total ? Math.min(100, Math.round(((p.idx + 1) / total) * 100)) : 0;
-  return `<a class="card" href="${storyHref(source, st.key)}" title="${esc(st.name)}">
-    ${coverHTML(st, `<span class="badge">${fmtNum(total)} ch.</span>${pct ? `<div class="prog"><i style="width:${pct}%"></i></div>` : ""}`)}
-    <div class="t">${esc(st.name)}</div>
-    <div class="m">${esc([st.genres?.[0], st.status, st.group && st.group.replace(/^Done_/, "")].filter(Boolean).join(" · "))}</div>
+  const q = normTxt([st.name, st.author, ...(st.genres || []), ...(st.tags || [])].join(" "));
+  return `<a class="card" style="--h:${hashHue(st.name || st.folder)}" href="${storyHref(source, st.key)}" title="${esc(st.name)}" data-q="${esc(q)}">
+    ${coverHTML(st, `<span class="badge">${fmtNum(total)} chương</span>${pct ? `<div class="prog"><i style="width:${pct}%"></i></div>` : ""}`)}
+    <div class="cb">
+      <div class="cat">${esc(st.genres?.[0] || st.group?.replace(/^Done_/, "") || "Truyện")}</div>
+      <div class="t">${esc(st.name)}</div>
+      ${st.author ? `<div class="m">${esc(st.author)}</div>` : ""}
+      <div class="stats">${st.status ? `<span>${esc(st.status)}</span>` : ""}${pct ? `<span class="ok">Đã đọc ${pct}%</span>` : ""}</div>
+    </div>
   </a>`;
 }
 function recentHTML() {
   const list = recentList().slice(0, 12);
   if (!list.length) return "";
-  return `<div class="section-title">Đang đọc dở</div><div class="recent">${list.map((p) => `
+  return `${secHead("Đang đọc dở", "", String(list.length))}<div class="recent">${list.map((p) => `
     <a class="rcard" href="${readHref(p.source, p.key, p.idx)}">
       ${coverHTML({ name: p.name, poster: p.poster })}
       <div style="min-width:0"><div class="t">${esc(p.name)}</div>
-      <div class="m">Chương ${esc(p.n)}${p.total ? ` / ${fmtNum(p.total)}` : ""}${p.para ? ` · đoạn ${p.para + 1}` : ""}</div>
+      <div class="m"><b>Chương ${esc(p.n)}</b>${p.total ? ` / ${fmtNum(p.total)}` : ""}${p.para ? ` · đoạn ${p.para + 1}` : ""}</div>
       <div class="m">${new Date(p.ts).toLocaleString("vi-VN", { dateStyle: "short", timeStyle: "short" })}</div></div>
     </a>`).join("")}</div>`;
 }
@@ -165,24 +179,37 @@ function recentHTML() {
 // ---------------------------------------------------------------- home
 async function renderHome(view, tok) {
   setCrumb("");
-  view.innerHTML = `<h1 class="h1">Thư viện truyện</h1><p class="sub">Đọc và nghe truyện từ thư mục trên máy hoặc các repo <code>Done_*</code> trên GitHub.</p>
+  view.innerHTML = `<section class="hero">
+      <h1 class="hero-title"><span>Myth</span><b>Lab</b></h1>
+      <p class="hero-slogan">Đọc truyện hay, nghe truyện mọi lúc!</p>
+      <div class="hero-search"><input id="hq" placeholder="Tìm truyện theo tên, tác giả, thể loại…" autocomplete="off">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></div>
+      <div class="hero-stats" id="heroStats"></div>
+    </section>
     ${recentHTML()}<div id="homeLib">${loadingHTML()}</div>`;
+  const hq = $("#hq");
+  hq.oninput = () => {
+    const n = normTxt(hq.value.trim());
+    document.querySelectorAll("#homeLib .card").forEach((c) => c.classList.toggle("hidden", !!n && !(c.dataset.q || "").includes(n)));
+  };
   const locals = SOURCES.filter((s) => s.kind === "local" && s.available);
   const ghs = SOURCES.filter((s) => s.kind === "github");
-  let html = "";
+  let html = "", nStories = 0, nRepos = 0;
   for (const s of locals) {
     const stories = await storiesOf(s.id).catch(() => []);
     if (stale(tok)) return;
     if (!stories.length) continue;
-    html += `<div class="section-title">${esc(s.name)}</div><div class="grid">${stories.map((st) => storyCard(s.id, st)).join("")}</div>`;
+    nStories += stories.length;
+    html += `${secHead(esc(s.name), `#/lib/${enc(s.id)}`, fmtNum(stories.length) + " truyện")}<div class="grid">${stories.map((st) => storyCard(s.id, st)).join("")}</div>`;
   }
   for (const s of ghs) {
     if (!s.repos?.length) continue;
-    html += `<div class="section-title">${esc(s.name)} — ${s.repos.length} repo</div>
-      <div class="grid">${s.repos.map((r) => `<a class="card" href="#/lib/${enc(s.id)}/${enc(r.repo)}">
-        <div class="cover" style="--h:${hashHue(r.repo)}"><div class="ph">${esc(r.repo.replace(/^Done_/, ""))}</div></div>
-        <div class="t">${esc(r.repo)}</div><div class="m">${r.pushed_at ? new Date(r.pushed_at).toLocaleDateString("vi-VN") : ""}</div></a>`).join("")}</div>`;
+    nRepos += s.repos.length;
+    html += `${secHead(esc(s.name), `#/lib/${enc(s.id)}/*`, s.repos.length + " repo")}
+      <div class="grid">${s.repos.map((r) => repoCard(s.id, r.repo, r.pushed_at ? "Cập nhật " + new Date(r.pushed_at).toLocaleDateString("vi-VN") : "")).join("")}</div>`;
   }
+  $("#heroStats").innerHTML = [nStories && `${fmtNum(nStories)} truyện trên máy`, nRepos && `${fmtNum(nRepos)} repo GitHub`, "Giọng đọc Edge tự nhiên"]
+    .filter(Boolean).map((t) => `<span class="pill"><i></i>${t}</span>`).join("");
   $("#homeLib").innerHTML = html || `<div class="empty">Chưa có truyện. Thêm thư mục vào <code>reader/config.json</code> hoặc chạy <code>python sync_done.py</code>.</div>`;
 }
 
@@ -194,9 +221,7 @@ async function renderLib(view, r, tok) {
   if (src.kind === "github" && !r.repo) {
     view.innerHTML = `<h1 class="h1">${esc(src.name)}</h1><p class="sub">${src.repos?.length || 0} repo. Chọn một repo để xem truyện, hoặc tải tất cả (lần đầu có thể mất 1–2 phút).</p>
       <div class="toolbar"><button class="btn primary" id="loadAll">Tải tất cả truyện</button></div>
-      <div class="grid">${(src.repos || []).map((x) => `<a class="card" href="#/lib/${enc(src.id)}/${enc(x.repo)}">
-        <div class="cover" style="--h:${hashHue(x.repo)}"><div class="ph">${esc(x.repo.replace(/^Done_/, ""))}</div></div>
-        <div class="t">${esc(x.repo)}</div></a>`).join("")}</div>`;
+      <div class="grid">${(src.repos || []).map((x) => repoCard(src.id, x.repo)).join("")}</div>`;
     $("#loadAll").onclick = () => { location.hash = `#/lib/${enc(src.id)}/*`; };
     return;
   }
@@ -212,7 +237,7 @@ async function renderLib(view, r, tok) {
       <select id="sort"><option value="name">Tên A→Z</option><option value="chapters">Nhiều chương nhất</option><option value="recent">Đọc gần đây</option></select>
     </div><div class="grid" id="grid"></div>`;
   const q = $("#q"), sortSel = $("#sort"); sortSel.value = sortKey;
-  const norm = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d").toLowerCase();
+  const norm = normTxt;
   const draw = () => {
     const needle = norm(q.value.trim());
     let list = stories.filter((s) => !needle || norm([s.name, s.folder, s.author, ...(s.genres || []), ...(s.tags || []), s.group].join(" ")).includes(needle));
