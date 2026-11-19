@@ -9,7 +9,7 @@ import re
 import sys
 from pathlib import Path
 
-BASE = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+BASE = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 CFG_PATH = BASE / ".novelab_score.json"
 OUT = BASE / "_score_clone_rewrite_661_692.json"
 NUMS = [661, 665, 686, 687, 688, 689, 691, 692]

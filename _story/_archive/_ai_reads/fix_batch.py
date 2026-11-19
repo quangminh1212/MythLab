@@ -2,7 +2,7 @@
 import glob, re, json, sys
 from pathlib import Path
 
-base = "C:/Dev/XLab_MTC/Nien Dai Thuong Gia"
+base = "C:/Dev/MythLab/Nien Dai Thuong Gia"
 base = "."
 fails = [158,162,163,166,167,168,169,171,172,173,174,175,177,179]
 

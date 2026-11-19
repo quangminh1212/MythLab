@@ -1,7 +1,7 @@
 # AI-rewrite FAIL fix — ch.121–150
 
 **Ngày:** 2026-07-29  
-**DIR:** `C:/Dev/XLab_MTC/Niên Đại Thương Gia`  
+**DIR:** `C:/Dev/MythLab/Niên Đại Thương Gia`  
 **Scope:** ONLY FAIL from AI-read reread_121_180: **121,123–125,127,129–133,136,138,140,141,143,144,146**  
 **SKIP PASS (untouched):** 122,126,128,134,135,137,139,142,145,147–150  
 **Mode:** read_file + write_file surgical rewrite (core keep + dump strip + cast lock + unique close + ledger panel)  

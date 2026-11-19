@@ -6,7 +6,7 @@ remove any extra text inserted above it.
 """
 import os, re
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 
 files = sorted([
     os.path.join(BASE, f) for f in os.listdir(BASE) 

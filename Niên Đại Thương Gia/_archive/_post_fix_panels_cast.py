@@ -5,7 +5,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 
 
 def merge_orphan_panel(t: str, ch: int) -> str:

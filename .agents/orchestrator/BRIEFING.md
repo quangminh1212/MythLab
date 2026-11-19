@@ -6,13 +6,13 @@ Audit and rewrite all 360 chapters of 'Niên Đại Thương Gia' so 100% of cha
 ## 🔒 My Identity
 - Archetype: Project Orchestrator
 - Roles: orchestrator, user_liaison, human_reporter, successor
-- Working directory: c:\Dev\XLab_MTC\.agents\orchestrator
+- Working directory: c:\Dev\MythLab\.agents\orchestrator
 - Original parent: parent
 - Original parent conversation ID: f736f868-bfe2-45b5-8fb9-3464e2adf6e4
 
 ## 🔒 My Workflow
 - **Pattern**: Project Pattern (Orchestration & Audit-Driven Iteration Loop)
-- **Scope document**: c:\Dev\XLab_MTC\.agents\orchestrator\plan.md
+- **Scope document**: c:\Dev\MythLab\.agents\orchestrator\plan.md
 1. **Decompose**: Partition 360 chapters into logical milestone batches (e.g. Ch 1-60, Ch 61-120, Ch 121-180, Ch 181-240, Ch 241-300, Ch 301-360), evaluate audit baseline across all 360 chapters, and target full >=9.5 scores.
 2. **Dispatch & Execute**:
    - Iteration Loop: Explorer -> Worker -> Reviewer -> Challenger -> Forensic Auditor gate per milestone / batch until 100% pass >= 9.5/10.
@@ -62,8 +62,8 @@ Audit and rewrite all 360 chapters of 'Niên Đại Thương Gia' so 100% of cha
 - Safety timer: none
 
 ## Artifact Index
-- c:\Dev\XLab_MTC\.agents\orchestrator\ORIGINAL_REQUEST.md — Verbatim user prompt & acceptance criteria
-- c:\Dev\XLab_MTC\.agents\orchestrator\BRIEFING.md — Persistent working memory
-- c:\Dev\XLab_MTC\.agents\orchestrator\plan.md — Project plan & milestone decomposition
-- c:\Dev\XLab_MTC\.agents\orchestrator\progress.md — Liveness heartbeat & iteration tracking
-- c:\Dev\XLab_MTC\.agents\orchestrator\context.md — Domain rules & audit criteria
+- c:\Dev\MythLab\.agents\orchestrator\ORIGINAL_REQUEST.md — Verbatim user prompt & acceptance criteria
+- c:\Dev\MythLab\.agents\orchestrator\BRIEFING.md — Persistent working memory
+- c:\Dev\MythLab\.agents\orchestrator\plan.md — Project plan & milestone decomposition
+- c:\Dev\MythLab\.agents\orchestrator\progress.md — Liveness heartbeat & iteration tracking
+- c:\Dev\MythLab\.agents\orchestrator\context.md — Domain rules & audit criteria

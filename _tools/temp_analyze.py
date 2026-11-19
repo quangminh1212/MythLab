@@ -1,6 +1,6 @@
 import os
 
-base = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+base = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 tanaka_files = []
 tuan_files = []
 

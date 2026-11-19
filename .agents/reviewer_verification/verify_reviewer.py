@@ -4,7 +4,7 @@ from collections import Counter
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 sys.path.insert(0, ROOT)
 from audit_all import audit_chapter
 

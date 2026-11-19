@@ -6,7 +6,7 @@ from pathlib import Path
 sys.path.insert(0, r"C:\Dev\NovelLab\scripts")
 import strict_score as ss
 
-BASE = Path(r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh")
+BASE = Path(r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh")
 cfg = json.loads((BASE / ".mythlab_score.json").read_text(encoding="utf-8"))
 nums = [640, 641, 643, 644, 645, 646, 647, 648]
 results = []

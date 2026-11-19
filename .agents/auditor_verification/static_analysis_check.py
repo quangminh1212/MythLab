@@ -2,7 +2,7 @@
 import os, glob, re, sys
 
 sys.stdout.reconfigure(encoding='utf-8')
-target_dir = r"c:\Dev\XLab_MTC\Niên Đại Thương Gia"
+target_dir = r"c:\Dev\MythLab\Niên Đại Thương Gia"
 py_files = glob.glob(os.path.join(target_dir, "*.py"))
 
 print(f"Analyzing {len(py_files)} Python files in target directory...")

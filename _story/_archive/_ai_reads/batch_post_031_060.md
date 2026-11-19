@@ -4,7 +4,7 @@
 **Phạm vi:** Chương 31–60 (Phần 1 giữa → khóa Part 1)  
 **Mode:** Post-P0-strip · `read_file`/open full · sửa FAIL (pad/panel/cast/dup) · giữ plot  
 **Ngày:** 2026-07-29  
-**Nguồn:** `C:/Dev/XLab_MTC/Niên Đại Thương Gia/Chương {N} - *.txt`  
+**Nguồn:** `C:/Dev/MythLab/Niên Đại Thương Gia/Chương {N} - *.txt`  
 **Backup P0:** `_fix_backup_p0_20260729/`  
 **Report:** `_ai_reads/batch_post_031_060.md`  
 

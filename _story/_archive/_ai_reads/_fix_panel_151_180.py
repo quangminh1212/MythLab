@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 import json
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 led = json.loads((ROOT / "system_ledger.json").read_text(encoding="utf-8"))["chapters"]
 
 

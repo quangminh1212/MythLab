@@ -4,7 +4,7 @@ RESTORE: Remove any added scene text between previous content and 'Ghi chú: s�
 """
 import os, re
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 files = []
 for root, dirs, fnames in os.walk(BASE):
     for f in fnames:

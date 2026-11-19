@@ -89,4 +89,4 @@ Thân thương trường nhiều ch **rất mạnh (8.8–9.6 logic)**.
 2. Dispatch AI-read **71–120** (6×10).  
 3. **Không** claim series ≥9.5 cho đến strip P0 + re-read tay.
 
-**Đường dẫn:** `C:\Dev\XLab_MTC\Niên Đại Thương Gia\_ai_reads\`
+**Đường dẫn:** `C:\Dev\MythLab\Niên Đại Thương Gia\_ai_reads\`

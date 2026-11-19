@@ -1,6 +1,6 @@
 import os, json
 
-base = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+base = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 
 # Map user's desired chapters to actual files with character
 # Strategy: for each character, find chapters where they have DIALOGUE/ACTION and add interiority

@@ -1,9 +1,9 @@
 import json,os,sys,importlib,random
 sys.path.insert(0,r"C:/Dev/MythLab/scripts")
 import strict_score as ss; importlib.reload(ss)
-base=r"C:\Dev\XLab_MTC\Niên Đại Thương Gia"
+base=r"C:\Dev\MythLab\Niên Đại Thương Gia"
 cfg=json.load(open(os.path.join(base,".mythlab_score.json"),encoding="utf-8"))
-TEMPLATES=json.load(open(r"C:\Dev\XLab_MTC\templates.json",encoding="utf-8"))
+TEMPLATES=json.load(open(r"C:\Dev\MythLab\templates.json",encoding="utf-8"))
 def gp(n):
     for fn in os.listdir(base):
         if fn.startswith("Ch\u01b0\u01a1ng %d"%n): return os.path.join(base,fn)

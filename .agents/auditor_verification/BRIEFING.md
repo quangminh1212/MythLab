@@ -1,12 +1,12 @@
 # BRIEFING — 2026-07-31T12:38:40+07:00
 
 ## Mission
-Conduct a Forensic Integrity Audit of the 360-chapter audit and rewrite project for 'Niên Đại Thương Gia' located at `c:\Dev\XLab_MTC\Niên Đại Thương Gia`.
+Conduct a Forensic Integrity Audit of the 360-chapter audit and rewrite project for 'Niên Đại Thương Gia' located at `c:\Dev\MythLab\Niên Đại Thương Gia`.
 
 ## 🔒 My Identity
 - Archetype: forensic_auditor
 - Roles: critic, specialist, auditor
-- Working directory: c:\Dev\XLab_MTC\.agents\auditor_verification
+- Working directory: c:\Dev\MythLab\.agents\auditor_verification
 - Original parent: 99572bdc-53f2-4101-b805-5a5db1aee143
 - Target: Niên Đại Thương Gia (360 chapters audit and rewrite)
 
@@ -20,7 +20,7 @@ Conduct a Forensic Integrity Audit of the 360-chapter audit and rewrite project 
 - Updated: 2026-07-31T12:38:40+07:00
 
 ## Audit Scope
-- **Work product**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia`
+- **Work product**: `c:\Dev\MythLab\Niên Đại Thương Gia`
 - **Profile loaded**: General Project (Forensic Integrity)
 - **Audit type**: Forensic integrity check & content authenticity audit
 
@@ -44,10 +44,10 @@ Conduct a Forensic Integrity Audit of the 360-chapter audit and rewrite project 
 - None explicitly loaded
 
 ## Artifact Index
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\ORIGINAL_REQUEST.md` — Original request details
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\progress.md` — Liveness progress log
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\BRIEFING.md` — Persistent briefing
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\verify_execution.py` — Score recalculation script
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\template_pollution_audit.py` — Template pollution audit script
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\generate_audit_evidence.py` — Deep evidence metrics script
-- `c:\Dev\XLab_MTC\.agents\auditor_verification\handoff.md` — Final forensic audit handoff report
+- `c:\Dev\MythLab\.agents\auditor_verification\ORIGINAL_REQUEST.md` — Original request details
+- `c:\Dev\MythLab\.agents\auditor_verification\progress.md` — Liveness progress log
+- `c:\Dev\MythLab\.agents\auditor_verification\BRIEFING.md` — Persistent briefing
+- `c:\Dev\MythLab\.agents\auditor_verification\verify_execution.py` — Score recalculation script
+- `c:\Dev\MythLab\.agents\auditor_verification\template_pollution_audit.py` — Template pollution audit script
+- `c:\Dev\MythLab\.agents\auditor_verification\generate_audit_evidence.py` — Deep evidence metrics script
+- `c:\Dev\MythLab\.agents\auditor_verification\handoff.md` — Final forensic audit handoff report

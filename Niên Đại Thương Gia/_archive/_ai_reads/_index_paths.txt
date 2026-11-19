@@ -1,360 +1,360 @@
-1	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 1 - Tỉnh lại.txt
-2	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 2 - Bữa tối đầu tiên.txt
-3	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 3 - Đi huyện thành.txt
-4	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 4 - Bán hàng đầu tiên.txt
-5	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 5 - Mở rộng kinh doanh.txt
-6	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 6 - Tìm đối tác mới.txt
-7	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 7 - Sửa nhà.txt
-8	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 8 - Mở rộng hàng hóa.txt
-9	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 9 - Bán thuốc men.txt
-10	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 10 - Đi Hà Nội.txt
-11	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 11 - Đi Hà Nam.txt
-12	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 12 - Đi Hải Dương.txt
-13	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 13 - Đi Thái Bình.txt
-14	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 14 - Bắt đầu sản xuất.txt
-15	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 15 - Thuê người giúp việc.txt
-16	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 16 - Mở rộng xưởng may.txt
-17	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 17 - Đi Quảng Ninh.txt
-18	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 18 - Đi Nghệ An.txt
-19	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt
-20	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 20 - Sản xuất giày dép.txt
-21	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt
-22	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 22 - Đi Thành phố Hồ Chí Minh.txt
-23	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 23 - Sản xuất túi xách.txt
-24	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 24 - Mở rộng làm túi.txt
-25	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 25 - Mở cửa hàng thứ hai.txt
-26	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 26 - Mua đất xây xưởng.txt
-27	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 27 - Đi Lào.txt
-28	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 28 - Đi Campuchia.txt
-29	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 29 - Đi Thái Lan.txt
-30	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 30 - Mở rộng cửa hàng.txt
-31	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 31 - Tổng kết năm 1983.txt
-32	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 32 - Sản xuất thực phẩm.txt
-33	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 33 - Mở rộng thực phẩm.txt
-34	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 34 - Tuyển kỹ sư Minh.txt
-35	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 35 - Mở rộng miền Nam.txt
-36	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 36 - Mở chi nhánh Hoài Đức.txt
-37	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 37 - Mở chi nhánh Hà Nội.txt
-38	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 38 - Sản xuất radio.txt
-39	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 39 - Mở rộng sản xuất radio.txt
-40	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 40 - Hoàn thành nhiệm vụ radio.txt
-41	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 41 - Sản xuất quạt điện.txt
-42	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt
-43	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 43 - Sản xuất đèn điện.txt
-44	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 44 - Hoàn thành nhiệm vụ đèn.txt
-45	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 45 - Mở nhà hàng.txt
-46	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 46 - Mở nhà hàng Hà Nội.txt
-47	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 47 - Mở nhà hàng Sài Gòn.txt
-48	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 48 - Đầu tư bất động sản.txt
-49	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 49 - Mua đất miền Nam.txt
-50	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 50 - Cột mốc Chương 41–50.txt
-51	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 51 - Mở chi nhánh Bắc Ninh.txt
-52	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 52 - Tuyển kỹ sư Minh.txt
-53	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 53 - Mở phòng khám.txt
-54	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt
-55	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt
-56	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 56 - Minh qua chín mươi ngày thử việc.txt
-57	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 57 - Xây đội ngũ cốt lõi.txt
-58	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt
-59	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 59 - Mở chi nhánh Ninh Bình.txt
-60	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt
-61	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 61 - Sản xuất xe đạp.txt
-62	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 62 - Sản xuất máy cày.txt
-63	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 63 - Sản xuất máy gặt.txt
-64	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 64 - Mua 30 xe tải.txt
-65	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 65 - Mở rộng chi nhánh tài chính.txt
-66	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 66 - Mở rộng trường học.txt
-67	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 67 - Mở trường Sài Gòn.txt
-68	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 68 - Mở trung tâm đào tạo.txt
-69	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 69 - Mở rộng phòng khám.txt
-70	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt
-71	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 71 - Mở dịch vụ cho vay.txt
-72	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 72 - Mở rộng chi nhánh tài chính.txt
-73	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 73 - Hoàn thành nhiệm vụ cho vay.txt
-74	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 74 - Mở trường học tiếp.txt
-75	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 75 - Mở rộng trường học 30 trường.txt
-76	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 76 - Mở rộng trung tâm đào tạo.txt
-77	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt
-78	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 78 - Mở rộng phòng khám tiếp.txt
-79	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt
-80	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 80 - Mở rộng công ty xây dựng.txt
-81	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 81 - Mở rộng năng lượng nhà máy điện.txt
-82	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt
-83	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 83 - Mở rộng từ thiện quỹ.txt
-84	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt
-85	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt
-86	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 86 - Mở rộng bảo hiểm.txt
-87	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 87 - Sản xuất máy cày ra mắt.txt
-88	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 88 - Sản xuất máy gặt ra mắt.txt
-89	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 89 - Tổng kết Phần 2.txt
-90	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 90 - Bắt đầu Phần 3.txt
-91	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 91 - Sản xuất thép Hải Phòng.txt
-92	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 92 - Sản xuất xi măng.txt
-93	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 93 - Hùng gặp cô Hạnh.txt
-94	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 94 - Hùng gặp cô Mai và cô Lan.txt
-95	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 95 - Hùng chọn cô Hạnh.txt
-96	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 96 - Bà Hà bế cháu nội.txt
-97	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 97 - Sản xuất điện tử.txt
-98	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 98 - Sản xuất điện thoại.txt
-99	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 99 - Mở rộng viễn thông.txt
-100	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 100 - Sản xuất phần mềm.txt
-101	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 101 - Mở rộng cửa hàng 108.txt
-102	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 102 - Mở rộng nhà hàng 42.txt
-103	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 103 - Mở rộng nhà máy 30.txt
-104	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 104 - Mở rộng xuất khẩu châu Âu.txt
-105	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 105 - Tổng kết Phần 3.txt
-106	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 106 - Bắt đầu Phần 4.txt
-107	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 107 - Mở nhà máy Thái Lan.txt
-108	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 108 - Mở nhà máy Indonesia.txt
-109	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 109 - Mở nhà máy Đức.txt
-110	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 110 - M&A Bangkok Electronics.txt
-111	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 111 - Mở sang châu Mỹ USA.txt
-112	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 112 - Hoàn thành phần 3.txt
-113	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 113 - Mở nhà máy USA.txt
-114	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 114 - M&A Stahl GmbH.txt
-115	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 115 - Mở nhà máy Nigeria.txt
-116	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 116 - Mở nhà máy Úc.txt
-117	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 117 - Tổng tài sản 1000 tỷ.txt
-118	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 118 - Những ngày nằm viện.txt
-119	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 119 - Bước ngoặt sức khỏe.txt
-120	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 120 - Học cách ủy thác sâu hơn.txt
-121	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 121 - Mở rộng sang Thái Lan.txt
-122	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 122 - Myanmar và Campuchia.txt
-123	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 123 - Xây dựng đội ngũ xuất khẩu.txt
-124	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 124 - Cạnh tranh với Trung Quốc.txt
-125	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 125 - Lan trưởng thành.txt
-126	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 126 - Giá trị của sự buông.txt
-127	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 127 - Lan nhận nhiệm vụ mới.txt
-128	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 128 - Khủng hoảng đầu tiên.txt
-129	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 129 - Bước lùi để tiến xa hơn.txt
-130	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 130 - Thử thách kế thừa.txt
-131	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 131 - Mở rộng Đông Nam Á.txt
-132	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 132 - Đối mặt hải quan Indonesia.txt
-133	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 133 - Malaysia và Philippines.txt
-134	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt
-135	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt
-136	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt
-137	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 137 - Cuộc gặp với ông Sato.txt
-138	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 138 - Thử thách từ ông Sato.txt
-139	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 139 - Mở rộng sang Hàn Quốc.txt
-140	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 140 - Chuẩn bị cho thị trường Mỹ.txt
-141	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt
-142	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 142 - Thử thách đầu tiên tại Mỹ.txt
-143	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt
-144	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 144 - Mở rộng đối tác Mỹ.txt
-145	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt
-146	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 146 - Lan học cách đàm phán với người Mỹ.txt
-147	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 147 - Lan đối mặt với áp lực Mỹ.txt
-148	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 148 - Bữa tối 3 thế hệ.txt
-149	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 149 - Trở lại Mỹ với tinh thần mới.txt
-150	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 150 - Văn Hùng tập trung vào Việt Nam.txt
-151	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 151 - Lan mở rộng sang Canada.txt
-152	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 152 - Văn Hùng nhận huân chương.txt
-153	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 153 - Lan mở rộng sang Australia.txt
-154	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt
-155	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 155 - Ngân hàng Thương Gia mở cửa.txt
-156	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 156 - Cho vay doanh nghiệp nhỏ.txt
-157	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 157 - Đối mặt kiểm toán nhà nước.txt
-158	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 158 - Lan về nước báo cáo.txt
-159	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 159 - Xây nhà máy ô tô đầu tiên.txt
-160	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 160 - Thử nghiệm mẫu xe Thành Công.txt
-161	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt
-162	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 162 - Chuỗi cung ứng phụ tùng.txt
-163	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 163 - Khủng hoảng nguyên liệu thép.txt
-164	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 164 - Hùng dàn xếp với nhà cung cấp.txt
-165	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 165 - Ra mắt xe máy Thương Gia.txt
-166	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 166 - Mở showroom toàn quốc.txt
-167	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 167 - Điện thoại Thương Gia thế hệ 2.txt
-168	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 168 - Nhà máy máy tính Hà Nội.txt
-169	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 169 - Xây dựng thương hiệu quốc tế.txt
-170	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt
-171	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 171 - Chuyển giao cho thế hệ sau.txt
-172	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 172 - Gia đình sum họp.txt
-173	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt
-174	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 174 - Logistics quốc tế Thương Gia.txt
-175	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 175 - Cảng container Hải Phòng.txt
-176	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 176 - Lan về nước.txt
-177	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 177 - Mở rộng nhà máy ô tô.txt
-178	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt
-179	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 179 - Chuẩn bị niêm yết công ty con.txt
-180	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 180 - Lan đàm phán với đối tác châu Âu.txt
-181	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 181 - Cô Hạnh sinh con.txt
-182	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 182 - Mở rộng quỹ đầu tư.txt
-183	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt
-184	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 184 - Khủng hoảng tài chính châu Á 1994.txt
-185	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 185 - Tổng kết nửa chặng đường châu Á.txt
-186	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 186 - Lan và chiến lược châu Á mới.txt
-187	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt
-188	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 188 - Điều tra và chứng cứ.txt
-189	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 189 - Đối chất công khai.txt
-190	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 190 - Mở rộng sang châu Phi.txt
-191	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 191 - Đầu tư công nghệ cao.txt
-192	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt
-193	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 193 - Xây dựng thương hiệu toàn cầu.txt
-194	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt
-195	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 195 - Lan chèo lái Thương Gia.txt
-196	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 196 - Bà Hà sức khỏe giảm.txt
-197	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 197 - Bà Hà phát biểu trước toàn thể.txt
-198	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 198 - Hùng về vườn.txt
-199	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 199 - Tổng kết Phần 3.txt
-200	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 200 - Lễ kỷ niệm 10 năm.txt
-201	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 201 - Mở rộng châu Âu.txt
-202	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 202 - Chi nhánh Paris.txt
-203	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 203 - Nhà hàng Thương Gia tại Lyon.txt
-204	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 204 - Berlin và kỹ thuật Đức.txt
-205	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 205 - Nhà máy linh kiện München.txt
-206	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 206 - London – trung tâm tài chính.txt
-207	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt
-208	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 208 - New York – Wall Street lần đầu.txt
-209	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 209 - Đàm phán niêm yết ADR.txt
-210	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 210 - Văn phòng Thương Gia Manhattan.txt
-211	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 211 - Chuỗi cửa hàng West Coast.txt
-212	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt
-213	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 213 - Chứng nhận ISO toàn hệ thống.txt
-214	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 214 - M&A đối thủ vừa tại Pháp.txt
-215	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 215 - Tích hợp văn hóa doanh nghiệp.txt
-216	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 216 - Sản xuất chip thử nghiệm.txt
-217	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 217 - Nhà máy năng lượng tái tạo.txt
-218	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 218 - Pin mặt trời thế hệ mới.txt
-219	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 219 - Xe điện nguyên mẫu.txt
-220	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 220 - Triển lãm công nghệ châu Á.txt
-221	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 221 - Dấu hiệu khủng hoảng 2008.txt
-222	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 222 - Hệ thống cảnh báo sớm.txt
-223	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 223 - Họp khẩn ban lãnh đạo.txt
-224	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 224 - Bảo vệ dòng tiền.txt
-225	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 225 - Cơn bão Lehman.txt
-226	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 226 - Những cuộc gọi nửa đêm.txt
-227	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 227 - Đi săn khi ai cũng sợ.txt
-228	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 228 - Lan giữ pháo đài Mỹ.txt
-229	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 229 - Không ai bị bỏ lại.txt
-230	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 230 - Truyền thông và niềm tin.txt
-231	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 231 - Mua lại nhà máy đối thủ phá sản.txt
-232	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 232 - Tái khởi động sản xuất.txt
-233	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 233 - Truyền thông khủng hoảng.txt
-234	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 234 - Niềm tin khách hàng.txt
-235	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 235 - Hùng trên truyền hình quốc tế.txt
-236	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 236 - Forbes gọi tên Thương Gia.txt
-237	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 237 - Vượt qua đáy khủng hoảng.txt
-238	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 238 - Năm mới, trời mới.txt
-239	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 239 - Đường dài.txt
-240	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 240 - Thương Gia City.txt
-241	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 241 - Khởi công Thương Gia City.txt
-242	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 242 - Quy hoạch 500 hecta.txt
-243	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 243 - Hạ tầng và nhà ở công nhân.txt
-244	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 244 - Trường học trong khu công nghiệp.txt
-245	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 245 - Xe điện thương mại hóa.txt
-246	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 246 - Trạm sạc toàn quốc.txt
-247	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 247 - AI sơ khai trong quản lý kho.txt
-248	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 248 - Trung tâm dữ liệu Thương Gia.txt
-249	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 249 - Đối tác công nghệ Silicon Valley.txt
-250	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 250 - Lan dẫn quỹ R&D.txt
-251	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 251 - Con trai Hùng vào công ty.txt
-252	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 252 - Thế hệ thứ hai học việc.txt
-253	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 253 - Huân chương Lao động.txt
-254	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 254 - Gặp lãnh đạo ngành.txt
-255	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 255 - Cam kết phát triển bền vững.txt
-256	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 256 - Top thương gia Việt Nam.txt
-257	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 257 - Lễ vinh danh toàn quốc.txt
-258	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 258 - Mở rộng châu Phi sâu.txt
-259	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 259 - Nam Mỹ – Brazil và Chile.txt
-260	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 260 - Chuỗi giá trị toàn cầu.txt
-261	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 261 - Kiểm toán ESG đầu tiên.txt
-262	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 262 - Bà Hà và sách hồi ký gia đình.txt
-263	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 263 - Flashback 25 năm.txt
-264	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 264 - Tái khẳng định sứ mệnh.txt
-265	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 265 - Đối thủ mới từ Hàn Quốc.txt
-266	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 266 - Cạnh tranh lành mạnh.txt
-267	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 267 - Liên minh chiến lược Đông Á.txt
-268	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 268 - Tổng kết toàn cầu hóa.txt
-269	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 269 - Phần thưởng Phần 4.txt
-270	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt
-271	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt
-272	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 272 - Đế chế truyền thông Thương Gia.txt
-273	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 273 - Báo và tạp chí kinh tế.txt
-274	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 274 - Kênh truyền hình thực tế.txt
-275	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 275 - Nền tảng mạng xã hội nội địa.txt
-276	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 276 - Thương Gia FC ra đời.txt
-277	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 277 - Sân vận động cộng đồng.txt
-278	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 278 - Tài trợ Olympic khu vực.txt
-279	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 279 - Học bổng 10.000 sinh viên.txt
-280	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 280 - Xây 100 trường vùng sâu.txt
-281	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 281 - Quỹ 10.000 tỷ từ thiện.txt
-282	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 282 - Minh bạch quỹ công khai.txt
-283	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 283 - Y tế lưu động miền núi.txt
-284	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 284 - Nước sạch cho 500 xã.txt
-285	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 285 - Lan đứng đầu mảng xã hội.txt
-286	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 286 - Con trai phụ trách sản xuất.txt
-287	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 287 - Hùng lui về chiến lược.txt
-288	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 288 - Khủng hoảng truyền thông giả.txt
-289	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 289 - Phản ứng minh bạch.txt
-290	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 290 - Từ thiện Đông Timor.txt
-291	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt
-292	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 292 - Đề xuất chính sách xanh.txt
-293	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 293 - Thương hiệu quốc gia.txt
-294	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 294 - Bảo tàng Thương Gia.txt
-295	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 295 - Ngày hội công nhân.txt
-296	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 296 - Mở quỹ học bổng.txt
-297	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 297 - Công đoàn đối thoại.txt
-298	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 298 - Đào tạo lãnh đạo trẻ.txt
-299	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 299 - Hùng 50 tuổi – nhìn lại.txt
-300	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 300 - Mở rộng từ thiện châu Á.txt
-301	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 301 - Lan CEO tập đoàn.txt
-302	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 302 - Hùng Chủ tịch Hội đồng.txt
-303	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 303 - Thế hệ ba bắt đầu.txt
-304	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 304 - Học bổng 10.000 SV.txt
-305	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 305 - Gặp lại ông Tanaka.txt
-306	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 306 - Gặp lại ông Sato.txt
-307	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 307 - Gặp lại Klaus.txt
-308	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 308 - Gặp lại đối tác Mỹ.txt
-309	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 309 - Quỹ học bổng mang tên bà Hà.txt
-310	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 310 - Thương gia huyền thoại.txt
-311	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 311 - Giải Thương gia huyền thoại.txt
-312	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 312 - Giao quyền cho Lan.txt
-313	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 313 - Sách trắng quản trị Thương Gia.txt
-314	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 314 - Đối mặt tin đồn sức khỏe.txt
-315	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 315 - Hùng chăm sóc sức khỏe.txt
-316	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 316 - Gia đình ba thế hệ sum họp.txt
-317	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 317 - Kế hoạch di sản pháp lý.txt
-318	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 318 - Ủy thác tài sản minh bạch.txt
-319	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 319 - Cam kết không chia cắt tập đoàn.txt
-320	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 320 - Truyền thông Thương Gia.txt
-321	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 321 - Khủng hoảng cạnh tranh giá.txt
-322	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt
-323	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 323 - Khách hàng trung thành.txt
-324	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 324 - Tái định vị thương hiệu.txt
-325	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 325 - Công nghệ xanh toàn hệ thống.txt
-326	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 326 - Net zero cam kết.txt
-327	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 327 - Lễ 30 năm Thương Gia.txt
-328	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 328 - Quỹ 10.000 tỷ.txt
-329	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 329 - Tổng kết Phần 5.txt
-330	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 330 - Đội bóng Thương Gia FC.txt
-331	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 331 - Bắt đầu Phần 6 – Di sản.txt
-332	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 332 - Tập đoàn bóng tối trở lại.txt
-333	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 333 - Âm mưu thôn tính cổ phiếu.txt
-334	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 334 - Phòng thủ cổ đông.txt
-335	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 335 - Liên minh cổ đông nhỏ.txt
-336	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 336 - Âm mưu tập đoàn bóng tối.txt
-337	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 337 - Trí tuệ và hệ thống.txt
-338	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 338 - Chiến thắng đại hội cổ đông.txt
-339	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 339 - Thanh lọc nội bộ.txt
-340	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 340 - Vượt qua âm mưu.txt
-341	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 341 - Lễ bàn giao quyền lực chính thức.txt
-342	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 342 - Lan CEO – con trai Phó.txt
-343	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt
-344	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 344 - Lễ bàn giao quyền lực.txt
-345	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 345 - Quỹ Di sản Trần Văn Hùng.txt
-346	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 346 - Người giàu có trách nhiệm.txt
-347	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt
-348	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 348 - Du hành tri ân thế giới.txt
-349	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 349 - Hợp tác với đối tác quốc tế.txt
-350	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 350 - Du hành thế giới.txt
-351	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 351 - Nhà đất cũ và ký ức.txt
-352	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 352 - Từ thiện 100.000 tỷ.txt
-353	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 353 - Thư gửi thế hệ sau.txt
-354	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 354 - Hệ thống nhiệm vụ cuối.txt
-355	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt
-356	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 356 - Bữa tối gia đình.txt
-357	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 357 - Flashback toàn hành trình.txt
-358	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 358 - Bữa tối ba thế hệ.txt
-359	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt
-360	C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt
+1	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 1 - Tỉnh lại.txt
+2	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 2 - Bữa tối đầu tiên.txt
+3	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 3 - Đi huyện thành.txt
+4	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 4 - Bán hàng đầu tiên.txt
+5	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 5 - Mở rộng kinh doanh.txt
+6	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 6 - Tìm đối tác mới.txt
+7	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 7 - Sửa nhà.txt
+8	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 8 - Mở rộng hàng hóa.txt
+9	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 9 - Bán thuốc men.txt
+10	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 10 - Đi Hà Nội.txt
+11	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 11 - Đi Hà Nam.txt
+12	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 12 - Đi Hải Dương.txt
+13	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 13 - Đi Thái Bình.txt
+14	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 14 - Bắt đầu sản xuất.txt
+15	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 15 - Thuê người giúp việc.txt
+16	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 16 - Mở rộng xưởng may.txt
+17	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 17 - Đi Quảng Ninh.txt
+18	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 18 - Đi Nghệ An.txt
+19	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 19 - Hoàn thành nhiệm vụ sản xuất.txt
+20	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 20 - Sản xuất giày dép.txt
+21	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt
+22	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 22 - Đi Thành phố Hồ Chí Minh.txt
+23	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 23 - Sản xuất túi xách.txt
+24	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 24 - Mở rộng làm túi.txt
+25	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 25 - Mở cửa hàng thứ hai.txt
+26	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 26 - Mua đất xây xưởng.txt
+27	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 27 - Đi Lào.txt
+28	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 28 - Đi Campuchia.txt
+29	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 29 - Đi Thái Lan.txt
+30	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 30 - Mở rộng cửa hàng.txt
+31	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 31 - Tổng kết năm 1983.txt
+32	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 32 - Sản xuất thực phẩm.txt
+33	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 33 - Mở rộng thực phẩm.txt
+34	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 34 - Tuyển kỹ sư Minh.txt
+35	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 35 - Mở rộng miền Nam.txt
+36	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 36 - Mở chi nhánh Hoài Đức.txt
+37	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 37 - Mở chi nhánh Hà Nội.txt
+38	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 38 - Sản xuất radio.txt
+39	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 39 - Mở rộng sản xuất radio.txt
+40	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 40 - Hoàn thành nhiệm vụ radio.txt
+41	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 41 - Sản xuất quạt điện.txt
+42	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 42 - Hoàn thành nhiệm vụ quạt điện.txt
+43	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 43 - Sản xuất đèn điện.txt
+44	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 44 - Hoàn thành nhiệm vụ đèn.txt
+45	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 45 - Mở nhà hàng.txt
+46	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 46 - Mở nhà hàng Hà Nội.txt
+47	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 47 - Mở nhà hàng Sài Gòn.txt
+48	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 48 - Đầu tư bất động sản.txt
+49	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 49 - Mua đất miền Nam.txt
+50	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 50 - Cột mốc Chương 41–50.txt
+51	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 51 - Mở chi nhánh Bắc Ninh.txt
+52	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 52 - Tuyển kỹ sư Minh.txt
+53	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 53 - Mở phòng khám.txt
+54	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 54 - Sản xuất mì ăn liền và thực phẩm đóng gói đầu tiên.txt
+55	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt
+56	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 56 - Minh qua chín mươi ngày thử việc.txt
+57	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 57 - Xây đội ngũ cốt lõi.txt
+58	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 58 - Xây dựng thương hiệu Thương Gia trong 30 ngày.txt
+59	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 59 - Mở chi nhánh Ninh Bình.txt
+60	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 60 - Hoàn thành nhiệm vụ chi nhánh.txt
+61	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 61 - Sản xuất xe đạp.txt
+62	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 62 - Sản xuất máy cày.txt
+63	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 63 - Sản xuất máy gặt.txt
+64	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 64 - Mua 30 xe tải.txt
+65	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 65 - Mở rộng chi nhánh tài chính.txt
+66	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 66 - Mở rộng trường học.txt
+67	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 67 - Mở trường Sài Gòn.txt
+68	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 68 - Mở trung tâm đào tạo.txt
+69	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 69 - Mở rộng phòng khám.txt
+70	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 70 - Hoàn thành nhiệm vụ vận chuyển.txt
+71	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 71 - Mở dịch vụ cho vay.txt
+72	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 72 - Mở rộng chi nhánh tài chính.txt
+73	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 73 - Hoàn thành nhiệm vụ cho vay.txt
+74	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 74 - Mở trường học tiếp.txt
+75	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 75 - Mở rộng trường học 30 trường.txt
+76	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 76 - Mở rộng trung tâm đào tạo.txt
+77	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 77 - Hoàn thành nhiệm vụ đào tạo.txt
+78	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 78 - Mở rộng phòng khám tiếp.txt
+79	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 79 - Hoàn thành nhiệm vụ phòng khám.txt
+80	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 80 - Mở rộng công ty xây dựng.txt
+81	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 81 - Mở rộng năng lượng nhà máy điện.txt
+82	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 82 - Hoàn thành nhiệm vụ năng lượng.txt
+83	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 83 - Mở rộng từ thiện quỹ.txt
+84	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 84 - Hoàn thành nhiệm vụ từ thiện.txt
+85	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 85 - Mở rộng xuất khẩu 10 đối tác.txt
+86	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 86 - Mở rộng bảo hiểm.txt
+87	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 87 - Sản xuất máy cày ra mắt.txt
+88	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 88 - Sản xuất máy gặt ra mắt.txt
+89	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 89 - Tổng kết Phần 2.txt
+90	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 90 - Bắt đầu Phần 3.txt
+91	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 91 - Sản xuất thép Hải Phòng.txt
+92	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 92 - Sản xuất xi măng.txt
+93	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 93 - Hùng gặp cô Hạnh.txt
+94	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 94 - Hùng gặp cô Mai và cô Lan.txt
+95	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 95 - Hùng chọn cô Hạnh.txt
+96	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 96 - Bà Hà bế cháu nội.txt
+97	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 97 - Sản xuất điện tử.txt
+98	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 98 - Sản xuất điện thoại.txt
+99	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 99 - Mở rộng viễn thông.txt
+100	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 100 - Sản xuất phần mềm.txt
+101	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 101 - Mở rộng cửa hàng 108.txt
+102	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 102 - Mở rộng nhà hàng 42.txt
+103	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 103 - Mở rộng nhà máy 30.txt
+104	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 104 - Mở rộng xuất khẩu châu Âu.txt
+105	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 105 - Tổng kết Phần 3.txt
+106	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 106 - Bắt đầu Phần 4.txt
+107	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 107 - Mở nhà máy Thái Lan.txt
+108	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 108 - Mở nhà máy Indonesia.txt
+109	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 109 - Mở nhà máy Đức.txt
+110	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 110 - M&A Bangkok Electronics.txt
+111	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 111 - Mở sang châu Mỹ USA.txt
+112	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 112 - Hoàn thành phần 3.txt
+113	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 113 - Mở nhà máy USA.txt
+114	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 114 - M&A Stahl GmbH.txt
+115	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 115 - Mở nhà máy Nigeria.txt
+116	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 116 - Mở nhà máy Úc.txt
+117	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 117 - Tổng tài sản 1000 tỷ.txt
+118	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 118 - Những ngày nằm viện.txt
+119	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 119 - Bước ngoặt sức khỏe.txt
+120	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 120 - Học cách ủy thác sâu hơn.txt
+121	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 121 - Mở rộng sang Thái Lan.txt
+122	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 122 - Myanmar và Campuchia.txt
+123	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 123 - Xây dựng đội ngũ xuất khẩu.txt
+124	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 124 - Cạnh tranh với Trung Quốc.txt
+125	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 125 - Lan trưởng thành.txt
+126	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 126 - Giá trị của sự buông.txt
+127	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 127 - Lan nhận nhiệm vụ mới.txt
+128	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 128 - Khủng hoảng đầu tiên.txt
+129	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 129 - Bước lùi để tiến xa hơn.txt
+130	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 130 - Thử thách kế thừa.txt
+131	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 131 - Mở rộng Đông Nam Á.txt
+132	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 132 - Đối mặt hải quan Indonesia.txt
+133	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 133 - Malaysia và Philippines.txt
+134	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 134 - Xây dựng chuỗi cung ứng châu Á.txt
+135	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 135 - Đông Á - Nhật Bản và Hàn Quốc.txt
+136	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 136 - Nhật Bản — Thị trường khó tính nhất.txt
+137	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 137 - Cuộc gặp với ông Sato.txt
+138	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 138 - Thử thách từ ông Sato.txt
+139	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 139 - Mở rộng sang Hàn Quốc.txt
+140	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 140 - Chuẩn bị cho thị trường Mỹ.txt
+141	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 141 - Chuyến bay đầu tiên đến Mỹ.txt
+142	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 142 - Thử thách đầu tiên tại Mỹ.txt
+143	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 143 - Xây dựng hệ thống chất lượng Mỹ.txt
+144	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 144 - Mở rộng đối tác Mỹ.txt
+145	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 145 - Đối mặt đối thủ Trung Quốc tại Mỹ.txt
+146	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 146 - Lan học cách đàm phán với người Mỹ.txt
+147	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 147 - Lan đối mặt với áp lực Mỹ.txt
+148	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 148 - Bữa tối 3 thế hệ.txt
+149	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 149 - Trở lại Mỹ với tinh thần mới.txt
+150	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 150 - Văn Hùng tập trung vào Việt Nam.txt
+151	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 151 - Lan mở rộng sang Canada.txt
+152	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 152 - Văn Hùng nhận huân chương.txt
+153	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 153 - Lan mở rộng sang Australia.txt
+154	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 154 - Văn Hùng mở rộng quỹ từ thiện.txt
+155	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 155 - Ngân hàng Thương Gia mở cửa.txt
+156	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 156 - Cho vay doanh nghiệp nhỏ.txt
+157	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 157 - Đối mặt kiểm toán nhà nước.txt
+158	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 158 - Lan về nước báo cáo.txt
+159	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 159 - Xây nhà máy ô tô đầu tiên.txt
+160	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 160 - Thử nghiệm mẫu xe Thành Công.txt
+161	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 161 - Hợp tác kỹ thuật Nhật Bản.txt
+162	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 162 - Chuỗi cung ứng phụ tùng.txt
+163	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 163 - Khủng hoảng nguyên liệu thép.txt
+164	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 164 - Hùng dàn xếp với nhà cung cấp.txt
+165	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 165 - Ra mắt xe máy Thương Gia.txt
+166	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 166 - Mở showroom toàn quốc.txt
+167	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 167 - Điện thoại Thương Gia thế hệ 2.txt
+168	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 168 - Nhà máy máy tính Hà Nội.txt
+169	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 169 - Xây dựng thương hiệu quốc tế.txt
+170	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 170 - Ký kết hợp đồng đối tác Mỹ.txt
+171	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 171 - Chuyển giao cho thế hệ sau.txt
+172	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 172 - Gia đình sum họp.txt
+173	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 173 - Thỏa thuận đôi bên cùng có lợi.txt
+174	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 174 - Logistics quốc tế Thương Gia.txt
+175	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 175 - Cảng container Hải Phòng.txt
+176	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 176 - Lan về nước.txt
+177	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 177 - Mở rộng nhà máy ô tô.txt
+178	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 178 - Lan dẫn đoàn sang châu Âu khảo sát.txt
+179	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 179 - Chuẩn bị niêm yết công ty con.txt
+180	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 180 - Lan đàm phán với đối tác châu Âu.txt
+181	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 181 - Cô Hạnh sinh con.txt
+182	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 182 - Mở rộng quỹ đầu tư.txt
+183	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 183 - Hùng và Lan xây dựng đội ngũ kế thừa.txt
+184	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 184 - Khủng hoảng tài chính châu Á 1994.txt
+185	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 185 - Tổng kết nửa chặng đường châu Á.txt
+186	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 186 - Lan và chiến lược châu Á mới.txt
+187	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 187 - Nắm bắt cơ hội từ khủng hoảng.txt
+188	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 188 - Điều tra và chứng cứ.txt
+189	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 189 - Đối chất công khai.txt
+190	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 190 - Mở rộng sang châu Phi.txt
+191	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 191 - Đầu tư công nghệ cao.txt
+192	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 192 - Lan thiết lập chuỗi cung ứng toàn cầu.txt
+193	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 193 - Xây dựng thương hiệu toàn cầu.txt
+194	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 194 - Mở rộng quỹ đầu tư Bắc Mỹ.txt
+195	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 195 - Lan chèo lái Thương Gia.txt
+196	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 196 - Bà Hà sức khỏe giảm.txt
+197	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 197 - Bà Hà phát biểu trước toàn thể.txt
+198	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 198 - Hùng về vườn.txt
+199	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 199 - Tổng kết Phần 3.txt
+200	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 200 - Lễ kỷ niệm 10 năm.txt
+201	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 201 - Mở rộng châu Âu.txt
+202	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 202 - Chi nhánh Paris.txt
+203	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 203 - Nhà hàng Thương Gia tại Lyon.txt
+204	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 204 - Berlin và kỹ thuật Đức.txt
+205	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 205 - Nhà máy linh kiện München.txt
+206	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 206 - London – trung tâm tài chính.txt
+207	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 207 - Gặp gỡ quỹ đầu tư Anh.txt
+208	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 208 - New York – Wall Street lần đầu.txt
+209	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 209 - Đàm phán niêm yết ADR.txt
+210	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 210 - Văn phòng Thương Gia Manhattan.txt
+211	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 211 - Chuỗi cửa hàng West Coast.txt
+212	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 212 - Tiêu chuẩn chất lượng châu Âu.txt
+213	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 213 - Chứng nhận ISO toàn hệ thống.txt
+214	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 214 - M&A đối thủ vừa tại Pháp.txt
+215	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 215 - Tích hợp văn hóa doanh nghiệp.txt
+216	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 216 - Sản xuất chip thử nghiệm.txt
+217	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 217 - Nhà máy năng lượng tái tạo.txt
+218	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 218 - Pin mặt trời thế hệ mới.txt
+219	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 219 - Xe điện nguyên mẫu.txt
+220	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 220 - Triển lãm công nghệ châu Á.txt
+221	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 221 - Dấu hiệu khủng hoảng 2008.txt
+222	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 222 - Hệ thống cảnh báo sớm.txt
+223	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 223 - Họp khẩn ban lãnh đạo.txt
+224	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 224 - Bảo vệ dòng tiền.txt
+225	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 225 - Cơn bão Lehman.txt
+226	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 226 - Những cuộc gọi nửa đêm.txt
+227	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 227 - Đi săn khi ai cũng sợ.txt
+228	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 228 - Lan giữ pháo đài Mỹ.txt
+229	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 229 - Không ai bị bỏ lại.txt
+230	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 230 - Truyền thông và niềm tin.txt
+231	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 231 - Mua lại nhà máy đối thủ phá sản.txt
+232	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 232 - Tái khởi động sản xuất.txt
+233	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 233 - Truyền thông khủng hoảng.txt
+234	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 234 - Niềm tin khách hàng.txt
+235	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 235 - Hùng trên truyền hình quốc tế.txt
+236	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 236 - Forbes gọi tên Thương Gia.txt
+237	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 237 - Vượt qua đáy khủng hoảng.txt
+238	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 238 - Năm mới, trời mới.txt
+239	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 239 - Đường dài.txt
+240	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 240 - Thương Gia City.txt
+241	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 241 - Khởi công Thương Gia City.txt
+242	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 242 - Quy hoạch 500 hecta.txt
+243	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 243 - Hạ tầng và nhà ở công nhân.txt
+244	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 244 - Trường học trong khu công nghiệp.txt
+245	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 245 - Xe điện thương mại hóa.txt
+246	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 246 - Trạm sạc toàn quốc.txt
+247	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 247 - AI sơ khai trong quản lý kho.txt
+248	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 248 - Trung tâm dữ liệu Thương Gia.txt
+249	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 249 - Đối tác công nghệ Silicon Valley.txt
+250	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 250 - Lan dẫn quỹ R&D.txt
+251	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 251 - Con trai Hùng vào công ty.txt
+252	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 252 - Thế hệ thứ hai học việc.txt
+253	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 253 - Huân chương Lao động.txt
+254	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 254 - Gặp lãnh đạo ngành.txt
+255	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 255 - Cam kết phát triển bền vững.txt
+256	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 256 - Top thương gia Việt Nam.txt
+257	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 257 - Lễ vinh danh toàn quốc.txt
+258	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 258 - Mở rộng châu Phi sâu.txt
+259	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 259 - Nam Mỹ – Brazil và Chile.txt
+260	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 260 - Chuỗi giá trị toàn cầu.txt
+261	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 261 - Kiểm toán ESG đầu tiên.txt
+262	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 262 - Bà Hà và sách hồi ký gia đình.txt
+263	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 263 - Flashback 25 năm.txt
+264	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 264 - Tái khẳng định sứ mệnh.txt
+265	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 265 - Đối thủ mới từ Hàn Quốc.txt
+266	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 266 - Cạnh tranh lành mạnh.txt
+267	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 267 - Liên minh chiến lược Đông Á.txt
+268	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 268 - Tổng kết toàn cầu hóa.txt
+269	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 269 - Phần thưởng Phần 4.txt
+270	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 270 - Hoàn thành Phần 4 – Siêu tập đoàn.txt
+271	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 271 - Bắt đầu Phần 5 – Ảnh hưởng xã hội.txt
+272	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 272 - Đế chế truyền thông Thương Gia.txt
+273	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 273 - Báo và tạp chí kinh tế.txt
+274	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 274 - Kênh truyền hình thực tế.txt
+275	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 275 - Nền tảng mạng xã hội nội địa.txt
+276	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 276 - Thương Gia FC ra đời.txt
+277	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 277 - Sân vận động cộng đồng.txt
+278	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 278 - Tài trợ Olympic khu vực.txt
+279	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 279 - Học bổng 10.000 sinh viên.txt
+280	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 280 - Xây 100 trường vùng sâu.txt
+281	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 281 - Quỹ 10.000 tỷ từ thiện.txt
+282	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 282 - Minh bạch quỹ công khai.txt
+283	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 283 - Y tế lưu động miền núi.txt
+284	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 284 - Nước sạch cho 500 xã.txt
+285	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 285 - Lan đứng đầu mảng xã hội.txt
+286	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 286 - Con trai phụ trách sản xuất.txt
+287	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 287 - Hùng lui về chiến lược.txt
+288	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 288 - Khủng hoảng truyền thông giả.txt
+289	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 289 - Phản ứng minh bạch.txt
+290	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 290 - Từ thiện Đông Timor.txt
+291	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 291 - Hội nghị thượng đỉnh doanh nghiệp.txt
+292	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 292 - Đề xuất chính sách xanh.txt
+293	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 293 - Thương hiệu quốc gia.txt
+294	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 294 - Bảo tàng Thương Gia.txt
+295	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 295 - Ngày hội công nhân.txt
+296	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 296 - Mở quỹ học bổng.txt
+297	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 297 - Công đoàn đối thoại.txt
+298	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 298 - Đào tạo lãnh đạo trẻ.txt
+299	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 299 - Hùng 50 tuổi – nhìn lại.txt
+300	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 300 - Mở rộng từ thiện châu Á.txt
+301	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 301 - Lan CEO tập đoàn.txt
+302	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 302 - Hùng Chủ tịch Hội đồng.txt
+303	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 303 - Thế hệ ba bắt đầu.txt
+304	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 304 - Học bổng 10.000 SV.txt
+305	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 305 - Gặp lại ông Tanaka.txt
+306	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 306 - Gặp lại ông Sato.txt
+307	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 307 - Gặp lại Klaus.txt
+308	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 308 - Gặp lại đối tác Mỹ.txt
+309	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 309 - Quỹ học bổng mang tên bà Hà.txt
+310	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 310 - Thương gia huyền thoại.txt
+311	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 311 - Giải Thương gia huyền thoại.txt
+312	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 312 - Giao quyền cho Lan.txt
+313	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 313 - Sách trắng quản trị Thương Gia.txt
+314	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 314 - Đối mặt tin đồn sức khỏe.txt
+315	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 315 - Hùng chăm sóc sức khỏe.txt
+316	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 316 - Gia đình ba thế hệ sum họp.txt
+317	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 317 - Kế hoạch di sản pháp lý.txt
+318	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 318 - Ủy thác tài sản minh bạch.txt
+319	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 319 - Cam kết không chia cắt tập đoàn.txt
+320	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 320 - Truyền thông Thương Gia.txt
+321	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 321 - Khủng hoảng cạnh tranh giá.txt
+322	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 322 - Chiến lược giá trị thay vì giá rẻ.txt
+323	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 323 - Khách hàng trung thành.txt
+324	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 324 - Tái định vị thương hiệu.txt
+325	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 325 - Công nghệ xanh toàn hệ thống.txt
+326	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 326 - Net zero cam kết.txt
+327	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 327 - Lễ 30 năm Thương Gia.txt
+328	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 328 - Quỹ 10.000 tỷ.txt
+329	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 329 - Tổng kết Phần 5.txt
+330	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 330 - Đội bóng Thương Gia FC.txt
+331	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 331 - Bắt đầu Phần 6 – Di sản.txt
+332	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 332 - Tập đoàn bóng tối trở lại.txt
+333	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 333 - Âm mưu thôn tính cổ phiếu.txt
+334	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 334 - Phòng thủ cổ đông.txt
+335	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 335 - Liên minh cổ đông nhỏ.txt
+336	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 336 - Âm mưu tập đoàn bóng tối.txt
+337	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 337 - Trí tuệ và hệ thống.txt
+338	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 338 - Chiến thắng đại hội cổ đông.txt
+339	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 339 - Thanh lọc nội bộ.txt
+340	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 340 - Vượt qua âm mưu.txt
+341	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 341 - Lễ bàn giao quyền lực chính thức.txt
+342	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 342 - Lan CEO – con trai Phó.txt
+343	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 343 - Bà Hà 90 tuổi kể chuyện xưa.txt
+344	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 344 - Lễ bàn giao quyền lực.txt
+345	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 345 - Quỹ Di sản Trần Văn Hùng.txt
+346	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 346 - Người giàu có trách nhiệm.txt
+347	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 347 - Từ thiện 100.000 tỷ lộ trình.txt
+348	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 348 - Du hành tri ân thế giới.txt
+349	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 349 - Hợp tác với đối tác quốc tế.txt
+350	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 350 - Du hành thế giới.txt
+351	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 351 - Nhà đất cũ và ký ức.txt
+352	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 352 - Từ thiện 100.000 tỷ.txt
+353	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 353 - Thư gửi thế hệ sau.txt
+354	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 354 - Hệ thống nhiệm vụ cuối.txt
+355	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 355 - Hoàn thành nhiệm vụ tối thượng.txt
+356	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 356 - Bữa tối gia đình.txt
+357	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 357 - Flashback toàn hành trình.txt
+358	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 358 - Bữa tối ba thế hệ.txt
+359	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 359 - Đêm trước ngày kỷ niệm 40 năm.txt
+360	C:\Dev\MythLab\Niên Đại Thương Gia\Chương 360 - Tinh thần Thương Gia mãi trường tồn.txt

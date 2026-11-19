@@ -6,8 +6,8 @@ def norm(s): return unicodedata.normalize('NFC', s)
 # Tối ưu hoá Chương 21, 22, 23 đạt score 10.0
 
 def process_ch21():
-    fpath = r'C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt'
-    bpath = r'C:\Dev\XLab_MTC\Niên Đại Thương Gia\_archive\_fix_backup_p0_20260729\Chương 21 - Mở rộng làm giày.txt'
+    fpath = r'C:\Dev\MythLab\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt'
+    bpath = r'C:\Dev\MythLab\Niên Đại Thương Gia\_archive\_fix_backup_p0_20260729\Chương 21 - Mở rộng làm giày.txt'
     with open(bpath, 'r', encoding='utf-8') as f:
         text = norm(f.read())
     

@@ -3,7 +3,7 @@ import os, glob, re, sys
 from collections import Counter
 
 sys.stdout.reconfigure(encoding='utf-8')
-target_dir = r"c:\Dev\XLab_MTC\Niên Đại Thương Gia"
+target_dir = r"c:\Dev\MythLab\Niên Đại Thương Gia"
 
 # Sample 20 chapters across the range
 sample_chapters = [1, 15, 30, 50, 75, 100, 125, 150, 175, 200, 225, 250, 275, 300, 325, 350, 360]

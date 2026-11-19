@@ -6,13 +6,13 @@ import re
 from collections import Counter
 from pathlib import Path
 
-ROOT = Path(r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh")
+ROOT = Path(r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh")
 
 # Import specs from rewrite script
 import importlib.util
 
 spec = importlib.util.spec_from_file_location(
-    "rw", r"C:\Dev\XLab_MTC\_tools\rewrite_mtcds_862_869.py"
+    "rw", r"C:\Dev\MythLab\_tools\rewrite_mtcds_862_869.py"
 )
 rw = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(rw)

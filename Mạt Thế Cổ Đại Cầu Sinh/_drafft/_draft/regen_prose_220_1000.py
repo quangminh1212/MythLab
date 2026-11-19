@@ -11,7 +11,7 @@ from pathlib import Path
 sys.path.insert(0, r"C:/Dev/NovelLab/scripts")
 import strict_score as ss
 
-D = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+D = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 cfg_path = D / ".novelab_score.json"
 if not cfg_path.exists():
     cfg_path = D / ".mythlab_score.json"

@@ -9,7 +9,7 @@ from pathlib import Path
 sys.path.insert(0, r"C:/Dev/MythLab/scripts")
 import strict_score as ss
 
-BASE = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+BASE = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 cfg = ss.load_cfg(BASE)
 
 LEDGER = {

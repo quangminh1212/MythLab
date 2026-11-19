@@ -2,7 +2,7 @@
 
 ## 1. Observation
 
-- **Audit Script Execution**: Executed `python audit_all.py` in `c:\Dev\XLab_MTC\Niên Đại Thương Gia`.
+- **Audit Script Execution**: Executed `python audit_all.py` in `c:\Dev\MythLab\Niên Đại Thương Gia`.
   - Output: `Total audited: 360 | Avg Score: 9.96`
   - Zero chapters scored below 9.5; zero chapters had word counts outside [3000, 4200].
 - **Audit File Inspection (`score95_final.json`)**:
@@ -14,7 +14,7 @@
 - **Codebase Integrity Analysis (`audit_all.py`)**:
   - Inspected `audit_all.py` (147 lines). Confirmed dynamic file loading via `glob.glob(os.path.join(ROOT, f'Chương {n} - *.txt'))`, text normalization (`unicodedata.normalize('NFC')`), body extraction post-`============================================================`, exact regex pattern matching for pad markers (`PAD_MARKERS`), string counting for AI tics (`AI_TICS`), counter-based max repetition check (`maxrep`), header format regex, panel count (`GHI NHẬN` / `Hệ thống ghi nhận`), dialogue line detection (`"`, `“`, `—`, `–`), and sensory/character word density scoring. No hardcoded scores or fake pass returns exist in the codebase.
 - **Independent Verification Script (`verify_reviewer.py`)**:
-  - Built and executed independent verification script `c:\Dev\XLab_MTC\.agents\reviewer_verification\verify_reviewer.py` to directly audit raw text files without relying on cached data.
+  - Built and executed independent verification script `c:\Dev\MythLab\.agents\reviewer_verification\verify_reviewer.py` to directly audit raw text files without relying on cached data.
   - Cross-checked live audit scores against `score95_final.json`: `0 diffs`.
   - Full 360-chapter scan results: `Total issues across all 360 chapters: 0`.
 - **Sampled Chapter Details**:
@@ -61,9 +61,9 @@ No caveats.
 ## 5. Verification Method
 
 To independently verify these findings:
-1. Navigate to `c:\Dev\XLab_MTC\Niên Đại Thương Gia`.
+1. Navigate to `c:\Dev\MythLab\Niên Đại Thương Gia`.
 2. Run `python audit_all.py` to verify `Total audited: 360 | Avg Score: 9.96`.
-3. Run `python c:\Dev\XLab_MTC\.agents\reviewer_verification\verify_reviewer.py` to re-execute independent parsing of raw text files and verify 0 issues across all 360 chapters.
+3. Run `python c:\Dev\MythLab\.agents\reviewer_verification\verify_reviewer.py` to re-execute independent parsing of raw text files and verify 0 issues across all 360 chapters.
 
 ---
 

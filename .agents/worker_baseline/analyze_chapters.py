@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import os, sys, json
-sys.path.append(r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+sys.path.append(r'c:\Dev\MythLab\Niên Đại Thương Gia')
 import audit_all
 
-os.chdir(r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+os.chdir(r'c:\Dev\MythLab\Niên Đại Thương Gia')
 
 results = [audit_all.audit_chapter(n) for n in range(1, 361)]
 
@@ -74,5 +74,5 @@ print(f"Header fail: {hdr_fail}")
 print(f"Dialogue lines < 10: {dlg_fail}")
 print(f"Total chapters with ANY issue: {len(failing_details)}")
 
-with open(r'c:\Dev\XLab_MTC\.agents\worker_baseline\failing_details.json', 'w', encoding='utf-8') as f:
+with open(r'c:\Dev\MythLab\.agents\worker_baseline\failing_details.json', 'w', encoding='utf-8') as f:
     json.dump(failing_details, f, ensure_ascii=False, indent=2)

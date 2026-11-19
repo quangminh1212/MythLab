@@ -6,7 +6,7 @@ Reads each file, finds the system header block, replaces the Ghi chú line.
 """
 import os, re, subprocess
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia"
 
 # ─── ALL 103 UNIQUE SCENES ───
 # Keyed by filename, value = replacement text (3-8 lines, no trailing newline)

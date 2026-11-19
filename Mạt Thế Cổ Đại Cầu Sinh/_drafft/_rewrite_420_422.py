@@ -8,7 +8,7 @@ Target: ≥3150 body tokens, jaccard vs 450 ≤ 0.60.
 import re, os, stat
 from pathlib import Path
 
-base = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+base = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 SEP = "=" * 60
 
 chapters = [

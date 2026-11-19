@@ -3,7 +3,7 @@
 import re, os, stat
 from pathlib import Path
 
-base = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+base = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 pat = re.compile(r"Chương\s*0*(\d+)\s*-\s*(.+)\.txt$", re.I)
 SEP = "=" * 60
 # Safe: exactly 3 equals each side, content MUST NOT contain '='

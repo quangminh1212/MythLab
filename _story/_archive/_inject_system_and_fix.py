@@ -2,7 +2,7 @@
 import re, json
 from pathlib import Path
 
-P = Path(r'C:/Dev/XLab_MTC/Niên Đại Thương Gia')
+P = Path(r'C:/Dev/MythLab/Niên Đại Thương Gia')
 
 # Load system_ledger for accurate per-chapter EXP/Space
 ledger_path = P / 'system_ledger.json'

@@ -2,7 +2,7 @@
 from pathlib import Path
 import re
 
-ROOT = Path(r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh")
+ROOT = Path(r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh")
 
 EXTRA = {
     862: " Mai bóng gò hay sóng mương — chưa biết.",

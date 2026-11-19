@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os, sys, re
 
-fpath = r'C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt'
+fpath = r'C:\Dev\MythLab\Niên Đại Thương Gia\Chương 55 - Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện.txt'
 
 content = """============================================================
 Chương 55: Đổi Mới 1986 – Hùng trình bày ý tưởng với cán bộ huyện

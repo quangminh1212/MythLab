@@ -3,7 +3,7 @@ import glob, os, re, sys, shutil
 sys.path.insert(0, r'C:/Dev/MythLab/scripts')
 import strict_score as ss
 
-BASE = r'C:/Dev/XLab_MTC/Niên Đại Thương Gia'
+BASE = r'C:/Dev/MythLab/Niên Đại Thương Gia'
 SCDIR = os.path.join(BASE, '_fix_batch_60')
 BAK = os.path.join(BASE, '_fix_backup_batch60')
 os.makedirs(BAK, exist_ok=True)

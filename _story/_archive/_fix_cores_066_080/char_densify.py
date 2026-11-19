@@ -2,7 +2,7 @@
 """CHAR densify + unique cliff reassert for near-miss chapters."""
 import re, json, glob, sys, os
 
-BASE = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 os.chdir(BASE)
 sys.path.insert(0, r"C:/Dev/MythLab/scripts")
 import strict_score as ss

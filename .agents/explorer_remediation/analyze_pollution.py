@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import glob, os, sys, re
-sys.path.insert(0, r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+sys.path.insert(0, r'c:\Dev\MythLab\Niên Đại Thương Gia')
 from audit_all import audit_chapter, body_of
 
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 
 repeated_dialogues = {}
 repeated_sensory = {}

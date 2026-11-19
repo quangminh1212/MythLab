@@ -8,7 +8,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-BASE = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+BASE = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 SCORER = Path(r"C:/Dev/NovelLab/scripts/strict_score.py")
 CFG = BASE / ".novelab_score.json"
 OUT_JSON = BASE / "_score_rewrite_162_165.json"

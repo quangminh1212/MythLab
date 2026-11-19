@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os, re, json
 
-base = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+base = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 files = []
 
 for root, dirs, fnames in os.walk(base):

@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 from collections import Counter
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 
 # Additional romance starts (Lan=vợ bedroom etc.)
 ROM2 = re.compile(

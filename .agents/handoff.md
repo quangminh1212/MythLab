@@ -1,8 +1,8 @@
 # Handoff Report — Project Sentinel Initialization
 
 ## Observation
-- Original user request recorded in `c:\Dev\XLab_MTC\.agents\ORIGINAL_REQUEST.md`.
-- Project briefing initialized at `c:\Dev\XLab_MTC\.agents\BRIEFING.md`.
+- Original user request recorded in `c:\Dev\MythLab\.agents\ORIGINAL_REQUEST.md`.
+- Project briefing initialized at `c:\Dev\MythLab\.agents\BRIEFING.md`.
 - Project Orchestrator subagent spawned with conversation ID `99572bdc-53f2-4101-b805-5a5db1aee143`.
 - Progress reporting cron (every 8m) and Liveness check cron (every 10m) scheduled.
 
@@ -19,5 +19,5 @@
 Project initialization completed successfully. Monitoring crons active. Project Orchestrator is running.
 
 ## Verification Method
-- Check `c:\Dev\XLab_MTC\.agents\BRIEFING.md` state.
-- Monitor `c:\Dev\XLab_MTC\.agents\orchestrator\progress.md` for task milestones.
+- Check `c:\Dev\MythLab\.agents\BRIEFING.md` state.
+- Monitor `c:\Dev\MythLab\.agents\orchestrator\progress.md` for task milestones.

@@ -2,7 +2,7 @@
 import glob, os, sys, re
 
 sys.stdout.reconfigure(encoding='utf-8')
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 
 # List of template lines to purge
 TEMPLATE_SENTENCES = [

@@ -14,7 +14,7 @@ from pathlib import Path
 sys.path.insert(0, r"C:/Dev/NovelLab/scripts")
 import strict_score as ss
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+ROOT = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 MIN_WORDS = 3000
 TARGET = 1000
 

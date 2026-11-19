@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os, re, json
 
-base = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+base = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 result = os.popen(f'grep -rln "s\\u1ed5 c\\u00e1i kh\\u1edbp" --include="*.txt" "{base}"').read()
 files = [f.strip() for f in result.strip().split('\n') if f.strip()]
 

@@ -3,7 +3,7 @@ import json, re
 from pathlib import Path
 from collections import Counter
 
-P = Path(r'C:/Dev/XLab_MTC/Niên Đại Thương Gia')
+P = Path(r'C:/Dev/MythLab/Niên Đại Thương Gia')
 L = json.loads((P/'system_ledger.json').read_text(encoding='utf-8'))['chapters']
 changes=[]
 

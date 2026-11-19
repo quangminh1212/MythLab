@@ -5,7 +5,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 
 INLINE_SPAM = [
     r"Chiếc cân bàn đĩa đồng đã mờ vạch số\.\s*",

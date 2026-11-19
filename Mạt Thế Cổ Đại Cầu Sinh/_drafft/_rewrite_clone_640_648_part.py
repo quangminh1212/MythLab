@@ -2,7 +2,7 @@
 """Rewrite clone-pad chapters 640,641,643-648 as unique prose (ch622 style)."""
 from pathlib import Path
 
-BASE = Path(r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh")
+BASE = Path(r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh")
 
 def header(n, title):
     return (

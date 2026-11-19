@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import sys, os, json, importlib
 sys.stdout.reconfigure(encoding='utf-8')
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
-sys.path.insert(0, r'c:\Dev\XLab_MTC\.agents\worker_remediation')
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
+sys.path.insert(0, r'c:\Dev\MythLab\.agents\worker_remediation')
 
 import generate_remediated_chapters
 importlib.reload(generate_remediated_chapters)

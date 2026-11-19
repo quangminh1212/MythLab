@@ -4,7 +4,7 @@
 **Phạm vi:** Ch.121–150  
 **Ngày:** 2026-07-29  
 **Mode:** `read_file`/open FULL + `strict_score.py` threshold 9.5 (min_words=3000, max_words=4200)  
-**Nguồn:** `C:/Dev/XLab_MTC/Niên Đại Thương Gia/Chương {N} - *.txt`  
+**Nguồn:** `C:/Dev/MythLab/Niên Đại Thương Gia/Chương {N} - *.txt`  
 **Report:** `_ai_reads/batch_post_121_150.md`
 
 ---

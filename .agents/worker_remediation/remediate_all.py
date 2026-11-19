@@ -2,9 +2,9 @@
 import sys, os, glob, re, json, time
 
 sys.stdout.reconfigure(encoding='utf-8')
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 sys.path.insert(0, ROOT)
-sys.path.insert(0, r'c:\Dev\XLab_MTC\.agents\worker_remediation')
+sys.path.insert(0, r'c:\Dev\MythLab\.agents\worker_remediation')
 
 from generate_remediated_chapters import build_remediated_chapter_text
 from audit_all import audit_chapter, body_of

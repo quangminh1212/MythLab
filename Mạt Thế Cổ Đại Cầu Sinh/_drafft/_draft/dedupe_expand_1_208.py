@@ -7,7 +7,7 @@ from collections import Counter
 sys.path.insert(0, r"C:/Dev/NovelLab/scripts")
 import strict_score as ss
 
-D = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+D = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 cfg = json.load(open(D / ".mythlab_score.json", encoding="utf-8"))
 files = sorted(
     D.glob("Chương *.txt"),

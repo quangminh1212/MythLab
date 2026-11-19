@@ -5,7 +5,7 @@ Each patch inserts 50-80 words of interiority (suy nghĩ, động cơ, cảm xú
 """
 import os, sys, glob
 
-BASE = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 DRY_RUN = False  # set True to test without modifying
 
 def apply_patch(fname, old_str, new_str):

@@ -3,7 +3,7 @@ import os, glob, sys
 from collections import defaultdict, Counter
 
 sys.stdout.reconfigure(encoding='utf-8')
-target_dir = r"c:\Dev\XLab_MTC\Niên Đại Thương Gia"
+target_dir = r"c:\Dev\MythLab\Niên Đại Thương Gia"
 
 chapter_files = []
 for ch in range(1, 361):

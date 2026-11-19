@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import re, os, subprocess, json
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia"
 
 result = subprocess.run(
     ["grep", "-rn", "system_ledger", BASE, "--include=*.txt"],

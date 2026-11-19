@@ -5,7 +5,7 @@ Restore to original state (note line directly after footer content).
 """
 import os, re
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 
 files = sorted([
     os.path.join(BASE, f) for f in os.listdir(BASE) 

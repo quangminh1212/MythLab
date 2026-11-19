@@ -8,7 +8,7 @@ import os
 import subprocess
 import json
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia"
 
 # Use a simpler approach - get file list first
 result = subprocess.run(

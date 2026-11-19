@@ -7,7 +7,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 BACKUP = ROOT / "_fix_backup_post_061_090"
 BACKUP.mkdir(exist_ok=True)
 

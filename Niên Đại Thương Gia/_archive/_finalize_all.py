@@ -7,7 +7,7 @@
 import re, json
 from pathlib import Path
 
-P = Path(r'C:/Dev/XLab_MTC/Niên Đại Thương Gia')
+P = Path(r'C:/Dev/MythLab/Niên Đại Thương Gia')
 
 # Load milestones from info.json
 milestones = {}

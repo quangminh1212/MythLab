@@ -5,7 +5,7 @@ Scene inserted BEFORE the exact "Ghi chú: sổ cái khớp..." line.
 """
 import os, re
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 
 # 103 UNIQUE scenes — one per chapter, keyed by chapter number
 SCENES = {

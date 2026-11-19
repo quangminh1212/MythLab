@@ -2,7 +2,7 @@
 import sys, os, re, json, glob
 
 sys.stdout.reconfigure(encoding='utf-8')
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 sys.path.insert(0, ROOT)
 
 from audit_all import audit_chapter, body_of, SENSORY, CHAR_WORDS

@@ -3,13 +3,13 @@
 from pathlib import Path
 import re, os, stat, subprocess, shutil
 
-BASE = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+BASE = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 SCORER = Path(r"C:/Dev/NovelLab/scripts/strict_score.py")
 CFG = BASE / ".mythlab_score.json"
 BAK = BASE / "_pass_backup"
 BAK.mkdir(exist_ok=True)
 SEP = "━━━━━━━━━━━━━━━━"
-REWRITE = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh/_rewrite_396_398.py")
+REWRITE = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh/_rewrite_396_398.py")
 
 
 def body_tok(t: str) -> int:

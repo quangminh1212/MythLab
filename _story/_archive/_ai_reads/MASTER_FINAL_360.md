@@ -1,7 +1,7 @@
 # MASTER FINAL — AI-read toàn series Niên Đại Thương Gia (360 ch)
 
 **Method:** Hermes Agent + subagents · **`read_file` FULL từng chương** · **không** dùng strict_score/script làm chân lý  
-**Folder:** `C:\Dev\XLab_MTC\Niên Đại Thương Gia\_ai_reads\`  
+**Folder:** `C:\Dev\MythLab\Niên Đại Thương Gia\_ai_reads\`  
 **Ngày hoàn tất:** 2026-07-29  
 
 ---

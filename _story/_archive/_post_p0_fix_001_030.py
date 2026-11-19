@@ -5,7 +5,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-BASE = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+BASE = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 BAK = BASE / "_fix_backup_p0_20260729"
 
 SPAM_LINES = [

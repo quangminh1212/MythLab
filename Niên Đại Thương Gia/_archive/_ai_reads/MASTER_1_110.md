@@ -47,4 +47,4 @@
 - Rồi 171–230, 231–290, 291–360
 - **Không claim series ≥9.5** đến khi strip P0 + re-read
 
-Folder: `C:\Dev\XLab_MTC\Niên Đại Thương Gia\_ai_reads\`
+Folder: `C:\Dev\MythLab\Niên Đại Thương Gia\_ai_reads\`
