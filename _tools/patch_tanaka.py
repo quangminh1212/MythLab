@@ -5,7 +5,7 @@ Mỗi patch: 50-80 từ interiority vào đoạn họ xuất hiện (đối tho�
 """
 import os
 
-BASE = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 DRY_RUN = False
 
 def apply(fname, old, new):

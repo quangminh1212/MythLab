@@ -436,7 +436,7 @@
 ## Artifacts
 
 - Score JSON: `_ai_reads/_score_091_120_post.json`
-- Fix script: `C:/Dev/XLab_MTC/_fix_batch_091_120.py`
+- Fix script: `C:/Dev/MythLab/_fix_batch_091_120.py`
 - Backup pre-strip: `_fix_backup_p0_20260729/`
 
 ## Verdict batch

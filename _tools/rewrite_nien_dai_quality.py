@@ -10,7 +10,7 @@ import re
 import statistics
 from pathlib import Path
 
-ROOT = Path(r"C:\Dev\XLab_MTC\Niên Đại Thương Gia")
+ROOT = Path(r"C:\Dev\MythLab\Niên Đại Thương Gia")
 OUTLINE = json.loads((ROOT / "chapter_outline.json").read_text(encoding="utf-8"))
 MIN_WORDS = int(OUTLINE.get("min_words") or 3000)
 

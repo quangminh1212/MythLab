@@ -6,7 +6,7 @@ Analyze FORENSIC AUDIT INTEGRITY VIOLATION in 'Niên Đại Thương Gia' (360 c
 ## 🔒 My Identity
 - Archetype: explorer
 - Roles: teamwork_preview_explorer
-- Working directory: c:\Dev\XLab_MTC\.agents\explorer_remediation
+- Working directory: c:\Dev\MythLab\.agents\explorer_remediation
 - Original parent: 99572bdc-53f2-4101-b805-5a5db1aee143
 - Milestone: Remediation Strategy & Forensic Analysis
 
@@ -21,10 +21,10 @@ Analyze FORENSIC AUDIT INTEGRITY VIOLATION in 'Niên Đại Thương Gia' (360 c
 
 ## Investigation State
 - **Explored paths**:
-  - `c:\Dev\XLab_MTC\.agents\auditor_verification\handoff.md`
-  - `c:\Dev\XLab_MTC\Niên Đại Thương Gia\audit_all.py`
-  - `c:\Dev\XLab_MTC\Niên Đại Thương Gia\chapter_outline.json`
-  - `c:\Dev\XLab_MTC\Niên Đại Thương Gia\system_ledger.json`
+  - `c:\Dev\MythLab\.agents\auditor_verification\handoff.md`
+  - `c:\Dev\MythLab\Niên Đại Thương Gia\audit_all.py`
+  - `c:\Dev\MythLab\Niên Đại Thương Gia\chapter_outline.json`
+  - `c:\Dev\MythLab\Niên Đại Thương Gia\system_ledger.json`
   - Sample chapters: Ch 1, Ch 50, Ch 100, Ch 360
 - **Key findings**:
   1. 357 out of 360 chapters (99.2%) contain copy-pasted synthetic template filler.

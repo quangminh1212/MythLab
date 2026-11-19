@@ -3,7 +3,7 @@ import os, glob, sys
 from collections import defaultdict
 
 sys.stdout.reconfigure(encoding='utf-8')
-target_dir = r"c:\Dev\XLab_MTC\Niên Đại Thương Gia"
+target_dir = r"c:\Dev\MythLab\Niên Đại Thương Gia"
 
 paragraph_map = defaultdict(list)
 total_paras = 0

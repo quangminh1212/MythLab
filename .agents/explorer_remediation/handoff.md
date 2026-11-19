@@ -1,7 +1,7 @@
 # Forensic Audit Remediation & Quality Rewrite Strategy Report
 
-**Target Project**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia`  
-**Working Directory**: `c:\Dev\XLab_MTC\.agents\explorer_remediation`  
+**Target Project**: `c:\Dev\MythLab\Niên Đại Thương Gia`  
+**Working Directory**: `c:\Dev\MythLab\.agents\explorer_remediation`  
 **Author**: `teamwork_preview_explorer`  
 **Audit Context**: Remediation Strategy for 360-Chapter Forensic Audit Integrity Violation  
 
@@ -11,7 +11,7 @@
 
 ### 1.1 Forensic Findings & Quantitative Evidence
 - **Forensic Auditor Verification**:
-  Inspected the Forensic Auditor report at `c:\Dev\XLab_MTC\.agents\auditor_verification\handoff.md`.
+  Inspected the Forensic Auditor report at `c:\Dev\MythLab\.agents\auditor_verification\handoff.md`.
   - **Verdict**: **`INTEGRITY VIOLATION`**
   - **Scope**: **357 out of 360 chapters (99.2%)** contain copy-pasted synthetic dialogue and sensory blocks.
   - **Volume**: **153,259 words** (11.67% of the 1.31M-word novel) consist of fake template filler.
@@ -213,25 +213,25 @@ To independently verify the remediation strategy and run benchmark audits:
 ### 1. Verify Dataset Pollution & Clean Baseline
 Run the analytical script in the working directory:
 ```bash
-python c:\Dev\XLab_MTC\.agents\explorer_remediation\analyze_pollution.py
+python c:\Dev\MythLab\.agents\explorer_remediation\analyze_pollution.py
 ```
 *Expected Result*: Identifies 341 chapters with identical dialogue lines, 324 with identical sensory lines, and 87 with inline template phrases.
 
 ### 2. Run Test Stripping Evaluation
 ```bash
-python c:\Dev\XLab_MTC\.agents\explorer_remediation\test_strip_ch1.py
+python c:\Dev\MythLab\.agents\explorer_remediation\test_strip_ch1.py
 ```
 *Expected Result*: Confirms stripped Chapter 1 length is 3,234 words but dialogue lines drop to 0, validating the need for genuine literary dialogue rewriting.
 
 ### 3. Verification Commands for Post-Rewrite Quality (To be executed post-implementation)
 ```bash
 # 1. Full Project Quality Audit
-python c:\Dev\XLab_MTC\Niên Đại Thương Gia\audit_all.py
+python c:\Dev\MythLab\Niên Đại Thương Gia\audit_all.py
 
 # 2. Automated Zero-Duplication Scan
 python -c "
 import glob, os, re
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 dialogues = {}
 for p in glob.glob(os.path.join(ROOT, 'Chương *.txt')):
     for line in open(p, encoding='utf-8'):
@@ -246,4 +246,4 @@ print('SUCCESS: Zero template duplication confirmed across all 360 chapters.')
 ```
 
 ---
-*Report completed and filed at `c:\Dev\XLab_MTC\.agents\explorer_remediation\handoff.md`.*
+*Report completed and filed at `c:\Dev\MythLab\.agents\explorer_remediation\handoff.md`.*

@@ -10,7 +10,7 @@ import shutil
 from pathlib import Path
 from collections import Counter
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 BACKUP = ROOT / "_fix_backup_p0_20260729"
 DRY = False
 

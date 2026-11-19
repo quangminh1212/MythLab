@@ -4,7 +4,7 @@ from pathlib import Path
 sys.path.insert(0, r"C:/Dev/MythLab/scripts")
 import strict_score as ss
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 cfg = json.load(open(ROOT/".mythlab_score.json", encoding="utf-8"))
 led = json.load(open(ROOT/"system_ledger.json", encoding="utf-8"))["chapters"]
 BACKUP = ROOT / "_fix_backup_post_121_150"

@@ -5,7 +5,7 @@ Saves to JSON, then applies to files.
 """
 import os, re, subprocess, json
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia"
 
 # Read the list of files
 result = subprocess.run(

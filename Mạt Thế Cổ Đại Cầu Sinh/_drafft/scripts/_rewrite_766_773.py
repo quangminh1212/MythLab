@@ -6,7 +6,7 @@ import os
 import re
 import sys
 
-BASE = r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh"
+BASE = r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh"
 
 # day_num, title, kind, loc, hook_detail, short_tag, panel_upgrade, day_vi
 SPECS = [

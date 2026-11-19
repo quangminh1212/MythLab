@@ -6,7 +6,7 @@ Execute 4-step remediation protocol for 360-chapter quality audit and rewrite pr
 ## 🔒 My Identity
 - Archetype: teamwork_preview_worker
 - Roles: implementer, qa, specialist
-- Working directory: c:\Dev\XLab_MTC\.agents\worker_remediation
+- Working directory: c:\Dev\MythLab\.agents\worker_remediation
 - Original parent: 99572bdc-53f2-4101-b805-5a5db1aee143
 - Milestone: 360-chapter Quality Audit & Rewrite Remediation
 
@@ -27,7 +27,7 @@ Execute 4-step remediation protocol for 360-chapter quality audit and rewrite pr
 - **What to build**: Full remediation pipeline & context-aware content generator for 360 novel chapters of 'Niên Đại Thương Gia'.
 - **Success criteria**: 360 chapter files modified, 100% score >= 9.5, zero cross-chapter duplicate lines, `score95_final.json` generated, `handoff.md` written.
 - **Interface contracts**: `audit_all.py`, `chapter_outline.json`, `system_ledger.json`.
-- **Code layout**: Project in `c:\Dev\XLab_MTC\Niên Đại Thương Gia`.
+- **Code layout**: Project in `c:\Dev\MythLab\Niên Đại Thương Gia`.
 
 ## Key Decisions Made
 - [Pending initial inspection of handoff.md and project directory]

@@ -47,4 +47,4 @@
 - Panel format: clean `====` / Title / `====` / body / `「Hệ thống — GHI NHẬN」`
 
 ## Backup location
-`C:/Dev/XLab_MTC/Niên Đại Thương Gia/_fix_backup_158_169_fail/` — original clean backups before today's fixes
+`C:/Dev/MythLab/Niên Đại Thương Gia/_fix_backup_158_169_fail/` — original clean backups before today's fixes

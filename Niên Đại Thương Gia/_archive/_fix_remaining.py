@@ -3,7 +3,7 @@ from pathlib import Path
 import re, json, sys
 from collections import Counter
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 BAK = ROOT / "_fix_backup_p0_20260729"
 sys.path.insert(0, r"C:/Dev/MythLab/scripts")
 from strict_score import score_chapter

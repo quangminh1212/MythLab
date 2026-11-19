@@ -3,7 +3,7 @@ import glob, os, re, sys, json
 sys.path.insert(0, r"C:/Dev/MythLab/scripts")
 import strict_score as ss
 
-base = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+base = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 cfg = json.load(open(os.path.join(base, ".mythlab_score.json"), encoding="utf-8"))
 
 def get_fp(ch):

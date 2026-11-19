@@ -8,3 +8,10 @@ Thumbs.db
 *.log
 .idea/
 .vscode/
+
+# Reader
+reader/.cache/
+reader/library/
+
+# APK build (giữ local, không đưa lên repo public)
+apk/

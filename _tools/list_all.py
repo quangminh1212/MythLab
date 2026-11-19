@@ -4,7 +4,7 @@ Get the 103 exact chapter files from the original task list and verify the full 
 """
 import os, re, json
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 files = []
 for f in os.listdir(BASE):
     if not f.endswith('.txt'):

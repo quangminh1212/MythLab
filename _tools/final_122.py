@@ -5,7 +5,7 @@ Read each file, insert scene before the 'Ghi chú:' line, verify uniqueness.
 """
 import os, re
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 
 CHAPTER_SCENES = {
 1: ("Hùng tắt đèn dầu, nằm xuống chiếu. Trần nhà tối om, tiếng dế kêu rả rích ngoài vườn.\n"

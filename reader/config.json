@@ -1,0 +1,10 @@
+{
+  "local": [
+    { "name": "MythLab (truyện đang viết)", "path": ".." },
+    { "name": "Thư viện đã tải (library/)", "path": "library" }
+  ],
+  "github": [
+    { "owner": "quangminh1212", "prefix": "Done_", "enabled": true }
+  ],
+  "tts": { "default_voice": "vi-VN-HoaiMyNeural" }
+}

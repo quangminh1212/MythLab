@@ -2,7 +2,7 @@
 """Restore ch4-12 from p0 backup and clean dumps/panels without destroying body."""
 import re, os, glob, shutil
 
-base = r'C:/Dev/XLab_MTC/Niên Đại Thương Gia'
+base = r'C:/Dev/MythLab/Niên Đại Thương Gia'
 bak = os.path.join(base, '_fix_backup_p0_20260729')
 
 ledger = {

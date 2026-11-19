@@ -330,7 +330,7 @@ Sự kiện: Cuộc họp gia đình ba thế hệ tháng 9/2015
 
 「HẾT CHƯƠNG 316」"""
 
-r = __import__('hermes_tools').read_file(r"C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 316 - Gia đình ba thế hệ sum họp.txt")
+r = __import__('hermes_tools').read_file(r"C:\Dev\MythLab\Niên Đại Thương Gia\Chương 316 - Gia đình ba thế hệ sum họp.txt")
 print(f"Chương 316: {len(r['content'].split())} words")
 
 

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from pathlib import Path
 
-path = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia") / "Chương 27 - Đi Lào.txt"
+path = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia") / "Chương 27 - Đi Lào.txt"
 
 TEXT = """============================================================
 Chương 27: Đi Lào

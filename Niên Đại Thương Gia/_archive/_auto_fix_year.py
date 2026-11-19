@@ -3,7 +3,7 @@ Run: python _auto_fix_year.py
 Fixes: panel year, EXP, space to match system_ledger.json
 """
 import re, json, glob, os
-ROOT = r'C:/Dev/XLab_MTC/Niên Đại Thương Gia'
+ROOT = r'C:/Dev/MythLab/Niên Đại Thương Gia'
 led = json.load(open(os.path.join(ROOT, 'system_ledger.json'), encoding='utf-8'))['chapters']
 BAD = ['Liệu ngày mai còn lỗ hổng', 'Vì có em', 'nhìn vợ', 'Teaser:', 'chốt mục',
        'hermes_tools', 'HẾT CHƯƠNG', 'system_ledger', '[CHARFIX]']

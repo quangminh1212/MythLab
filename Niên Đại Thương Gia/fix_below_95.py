@@ -6,7 +6,7 @@ sys_year_ok (fix panel year), cau_scene_ok (add scene break).
 """
 import re, json, os, sys
 
-SERIES = r"C:\Dev\XLab_MTC\Niên Đại Thương Gia"
+SERIES = r"C:\Dev\MythLab\Niên Đại Thương Gia"
 sys.path.insert(0, SERIES)
 from deterministic_scorer import score_chapter
 

@@ -4,7 +4,7 @@ Strategy: prepend a chapter-specific narrative hook line right after the header 
 import re
 from pathlib import Path
 
-P = Path(r'C:/Dev/XLab_MTC/Niên Đại Thương Gia')
+P = Path(r'C:/Dev/MythLab/Niên Đại Thương Gia')
 
 # Hooks — small distinct openers per chapter band
 HOOK_BANK = [

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os, sys, re
 
-fpath = r'C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt'
+fpath = r'C:\Dev\MythLab\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt'
 
 content = """============================================================
 Chương 21: Mở rộng làm giày

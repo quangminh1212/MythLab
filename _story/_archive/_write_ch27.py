@@ -2,7 +2,7 @@
 """Rebuild Ch27 Đi Lào — single continuous arc, keep ledger panel, ≥3000 VI words."""
 from pathlib import Path
 
-OUT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia") / "Chương 27 - Đi Lào.txt"
+OUT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia") / "Chương 27 - Đi Lào.txt"
 
 TEXT = r"""============================================================
 Chương 27: Đi Lào

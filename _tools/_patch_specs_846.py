@@ -2,7 +2,7 @@
 import re
 import ast
 
-dst = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh/_rewrite_clone_846_853.py")
+dst = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh/_rewrite_clone_846_853.py")
 text = dst.read_text(encoding="utf-8")
 
 new_specs = r'''SPECS = [

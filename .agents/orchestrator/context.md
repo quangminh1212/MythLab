@@ -1,7 +1,7 @@
 # Context: Niên Đại Thương Gia Quality Audit & Rewrite
 
 ## Rules & Standards
-- Target Project Directory: `c:\Dev\XLab_MTC\Niên Đại Thương Gia`
+- Target Project Directory: `c:\Dev\MythLab\Niên Đại Thương Gia`
 - Total Chapters: 360 chapters (`Chương 1 - *.txt` to `Chương 360 - *.txt`).
 - Quality Evaluation Tool: `audit_all.py` (and independent verification).
 - Score Threshold: 100% of chapters MUST achieve composite score >= 9.5/10.

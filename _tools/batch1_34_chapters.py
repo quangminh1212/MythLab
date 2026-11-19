@@ -5,7 +5,7 @@ Replace each "Ghi chú: sổ cái khớp..." line with a unique closing scene (3
 """
 import os, re
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia/"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia/"
 
 # Chapter-specific unique closing scenes
 SCENES = {

@@ -3,7 +3,7 @@ import os, sys, json
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-target_dir = r"c:\Dev\XLab_MTC\Niên Đại Thương Gia"
+target_dir = r"c:\Dev\MythLab\Niên Đại Thương Gia"
 sys.path.insert(0, target_dir)
 
 import audit_all

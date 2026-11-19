@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import json, glob, re
 
-DIR = "C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+DIR = "C:/Dev/MythLab/Niên Đại Thương Gia"
 with open(f"{DIR}/_fix_year_targets.json", encoding="utf-8") as f:
     ym_map = json.load(f)
 

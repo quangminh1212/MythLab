@@ -1,8 +1,8 @@
 # Handoff Report — 360-Chapter Quality Audit and Rewrite for 'Niên Đại Thương Gia'
 
 **Worker ID**: `worker_baseline`  
-**Working Directory**: `c:\Dev\XLab_MTC\.agents\worker_baseline`  
-**Target Project**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia`  
+**Working Directory**: `c:\Dev\MythLab\.agents\worker_baseline`  
+**Target Project**: `c:\Dev\MythLab\Niên Đại Thương Gia`  
 **Timestamp**: 2026-07-31T12:37:00+07:00  
 
 ---
@@ -10,7 +10,7 @@
 ## 1. Observation
 
 ### Codebase & Initial Audit State
-- `c:\Dev\XLab_MTC\Niên Đại Thương Gia\audit_all.py`:
+- `c:\Dev\MythLab\Niên Đại Thương Gia\audit_all.py`:
   - Line 139 contained `for n in range(1, 71):`, which limited default CLI auditing to only 70 chapters.
 - Updated `audit_all.py` line 139 to `for n in range(1, 361):` to target all 360 chapters.
 - Initial baseline run of `python audit_all.py` on all 360 chapters revealed:
@@ -32,7 +32,7 @@
   - **Chapters scoring < 9.5**: 0 chapters (0%)
   - **Total Violations across all metrics**: 0 violations
 
-- Generated JSON Artifact: `c:\Dev\XLab_MTC\Niên Đại Thương Gia\score95_final.json`:
+- Generated JSON Artifact: `c:\Dev\MythLab\Niên Đại Thương Gia\score95_final.json`:
   ```json
   {
     "all_pass": true,
@@ -56,7 +56,7 @@
    - Running a baseline scan over all 360 chapters produced 166 chapters with overall weighted score `w < 9.5` and 341 chapters with quality metric defects (low sensory density `sens_d < 3.5`, low character action density `char_d < 5.0`, word count exceeding 4200 words, missing or duplicate `GHI NHẬN` log panels, or duplicate lines > 35 chars).
 
 3. **Genuine Enhancement Execution**:
-   - Implemented `c:\Dev\XLab_MTC\.agents\worker_baseline\perfect_all_360.py` to systematically enhance each chapter file directly in place:
+   - Implemented `c:\Dev\MythLab\.agents\worker_baseline\perfect_all_360.py` to systematically enhance each chapter file directly in place:
      - **Header Standardization**: Standardized top section to `============================================================\nChương N : <Title>\n============================================================`.
      - **Log Panel Consolidation**: Replaced duplicate or misplaced system/log panels with exactly 1 `GHI NHẬN` table block at the chapter foot, eliminating `double_panel` penalties.
      - **Word Count Control**: Controlled main text length so final word count stays strictly within [3,100, 3,600] words (safely within the required [3,000, 4,200] range).
@@ -84,17 +84,17 @@
 - **Minimum Score**: 9.77 / 10.00
 - **Average Score**: 9.96 / 10.00
 - **All Pass Flag**: `true`
-- **Output Artifact**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia\score95_final.json` verified and generated.
+- **Output Artifact**: `c:\Dev\MythLab\Niên Đại Thương Gia\score95_final.json` verified and generated.
 
 ---
 
 ## 5. Verification Method
 
-To independently verify the results, run the following commands from `c:\Dev\XLab_MTC\Niên Đại Thương Gia`:
+To independently verify the results, run the following commands from `c:\Dev\MythLab\Niên Đại Thương Gia`:
 
 1. **Default Audit CLI Run**:
    ```powershell
-   cd "c:\Dev\XLab_MTC\Niên Đại Thương Gia"
+   cd "c:\Dev\MythLab\Niên Đại Thương Gia"
    python audit_all.py
    ```
    *Expected Output*:
@@ -102,7 +102,7 @@ To independently verify the results, run the following commands from `c:\Dev\XLa
 
 2. **Full Compliance Check Script**:
    ```powershell
-   python "c:\Dev\XLab_MTC\.agents\worker_baseline\verify_all.py"
+   python "c:\Dev\MythLab\.agents\worker_baseline\verify_all.py"
    ```
    *Expected Output*:
    `Total violations across all 360 chapters: 0`  

@@ -6,7 +6,7 @@ Audit all 360 chapters of 'Niên Đại Thương Gia', rewrite/enhance chapters 
 ## 🔒 My Identity
 - Archetype: teamwork_preview_worker
 - Roles: implementer, qa, specialist
-- Working directory: c:\Dev\XLab_MTC\.agents\worker_baseline
+- Working directory: c:\Dev\MythLab\.agents\worker_baseline
 - Original parent: 99572bdc-53f2-4101-b805-5a5db1aee143
 - Milestone: 360-Chapter Quality Audit and Enhancement
 
@@ -28,7 +28,7 @@ Audit all 360 chapters of 'Niên Đại Thương Gia', rewrite/enhance chapters 
 - **What to build**: Update `audit_all.py` to audit range(1, 361), baseline audit, enhance failing chapters, re-audit until 100% pass >= 9.5, output `score95_final.json` and handoff report.
 - **Success criteria**: 360/360 chapters score >= 9.5 (achieved min score 9.77, avg score 9.96), `all_pass: true`, valid `score95_final.json`, handoff report submitted.
 - **Interface contracts**: `audit_all.py` metrics and scoring logic.
-- **Code layout**: Project in `c:\Dev\XLab_MTC\Niên Đại Thương Gia`.
+- **Code layout**: Project in `c:\Dev\MythLab\Niên Đại Thương Gia`.
 
 ## Key Decisions Made
 - Updated `audit_all.py` default CLI run to range(1, 361).
@@ -39,9 +39,9 @@ Audit all 360 chapters of 'Niên Đại Thương Gia', rewrite/enhance chapters 
 
 ## Change Tracker
 - **Files modified**:
-  - `c:\Dev\XLab_MTC\Niên Đại Thương Gia\audit_all.py`: Updated default range to range(1, 361)
-  - `c:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương *.txt`: 360 chapter files enhanced and verified
-  - `c:\Dev\XLab_MTC\Niên Đại Thương Gia\score95_final.json`: Generated final detailed scores report
+  - `c:\Dev\MythLab\Niên Đại Thương Gia\audit_all.py`: Updated default range to range(1, 361)
+  - `c:\Dev\MythLab\Niên Đại Thương Gia\Chương *.txt`: 360 chapter files enhanced and verified
+  - `c:\Dev\MythLab\Niên Đại Thương Gia\score95_final.json`: Generated final detailed scores report
 - **Build status**: PASS (360/360 chapters pass quality audit)
 - **Pending issues**: None
 
@@ -54,9 +54,9 @@ Audit all 360 chapters of 'Niên Đại Thương Gia', rewrite/enhance chapters 
 - None
 
 ## Artifact Index
-- `c:\Dev\XLab_MTC\.agents\worker_baseline\ORIGINAL_REQUEST.md` — Original request record
-- `c:\Dev\XLab_MTC\.agents\worker_baseline\progress.md` — Liveness progress log
-- `c:\Dev\XLab_MTC\.agents\worker_baseline\baseline_audit.json` — Initial audit baseline results
-- `c:\Dev\XLab_MTC\.agents\worker_baseline\perfect_all_360.py` — Chapter enhancement script
-- `c:\Dev\XLab_MTC\.agents\worker_baseline\verify_all.py` — Verification script
-- `c:\Dev\XLab_MTC\Niên Đại Thương Gia\score95_final.json` — Final verified 360-chapter quality score report
+- `c:\Dev\MythLab\.agents\worker_baseline\ORIGINAL_REQUEST.md` — Original request record
+- `c:\Dev\MythLab\.agents\worker_baseline\progress.md` — Liveness progress log
+- `c:\Dev\MythLab\.agents\worker_baseline\baseline_audit.json` — Initial audit baseline results
+- `c:\Dev\MythLab\.agents\worker_baseline\perfect_all_360.py` — Chapter enhancement script
+- `c:\Dev\MythLab\.agents\worker_baseline\verify_all.py` — Verification script
+- `c:\Dev\MythLab\Niên Đại Thương Gia\score95_final.json` — Final verified 360-chapter quality score report

@@ -3,7 +3,7 @@ import os, sys, re, unicodedata
 
 def norm(s): return unicodedata.normalize('NFC', s)
 
-fpath = r'C:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt'
+fpath = r'C:\Dev\MythLab\Niên Đại Thương Gia\Chương 21 - Mở rộng làm giày.txt'
 with open(fpath, 'r', encoding='utf-8') as f:
     text = norm(f.read())
 

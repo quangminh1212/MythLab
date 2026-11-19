@@ -4,7 +4,7 @@ import glob, os, re, sys, shutil
 sys.path.insert(0, r'C:/Dev/MythLab/scripts')
 import strict_score as ss
 
-BASE = r'C:/Dev/XLab_MTC/Niên Đại Thương Gia'
+BASE = r'C:/Dev/MythLab/Niên Đại Thương Gia'
 cfg = ss.load_cfg(BASE)
 CHS = [64, 69, 71, 73, 74]
 

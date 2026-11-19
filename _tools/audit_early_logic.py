@@ -6,7 +6,7 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path(r"C:\Dev\XLab_MTC\Niên Đại Thương Gia")
+ROOT = Path(r"C:\Dev\MythLab\Niên Đại Thương Gia")
 OL = json.loads((ROOT / "chapter_outline.json").read_text(encoding="utf-8"))
 
 

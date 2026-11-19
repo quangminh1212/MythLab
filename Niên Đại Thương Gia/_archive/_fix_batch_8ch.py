@@ -4,7 +4,7 @@ import glob, re, json, sys, os
 sys.path.insert(0, r"C:/Dev/MythLab/scripts")
 import strict_score as ss
 
-BASE = r"C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = r"C:/Dev/MythLab/Niên Đại Thương Gia"
 cfg = json.load(open(os.path.join(BASE, ".mythlab_score.json"), encoding="utf-8"))
 led = json.load(open(os.path.join(BASE, "system_ledger.json"), encoding="utf-8"))["chapters"]
 

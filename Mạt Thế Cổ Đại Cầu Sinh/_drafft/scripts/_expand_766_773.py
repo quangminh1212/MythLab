@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import os
 
-BASE = r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh"
+BASE = r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh"
 
 EXPAND = {
     766: """

@@ -4,7 +4,7 @@
 **Phạm vi:** Chương 61–90 (Phần 2 → khóa → mở Phần 3)  
 **Mode:** `read_file`/open FULL body (post P0 strip) · AI chấm tay · **không** tin strict_score làm chân lý  
 **Ngày:** 2026-07-29  
-**Nguồn:** `C:/Dev/XLab_MTC/Niên Đại Thương Gia/Chương {N} - *.txt`  
+**Nguồn:** `C:/Dev/MythLab/Niên Đại Thương Gia/Chương {N} - *.txt`  
 **Backup trước fix post:** `_fix_backup_post_061_090/` (+ P0: `_fix_backup_p0_20260729/`)
 
 ---

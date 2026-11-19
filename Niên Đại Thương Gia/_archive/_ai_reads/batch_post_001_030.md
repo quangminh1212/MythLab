@@ -4,7 +4,7 @@
 **Phạm vi:** Ch.1–30 (disjoint)  
 **Mode:** `read_file`/full-file + `strict_score.py` gate ≥9.5  
 **Ngày:** 2026-07-29  
-**DIR:** `C:/Dev/XLab_MTC/Niên Đại Thương Gia`  
+**DIR:** `C:/Dev/MythLab/Niên Đại Thương Gia`  
 **Output:** `_ai_reads/batch_post_001_030.md`
 
 ---

@@ -1,8 +1,8 @@
 import json,os,sys,importlib,random
 sys.path.insert(0,r"/c/Dev/MythLab/scripts")
 import strict_score as ss; importlib.reload(ss)
-TEMPLATES=json.load(open(r"/c/Dev/XLab_MTC/templates.json",encoding="utf-8"))
-base=r"/c/Dev/XLab_MTC/Niên Đại Thương Gia"
+TEMPLATES=json.load(open(r"/c/Dev/MythLab/templates.json",encoding="utf-8"))
+base=r"/c/Dev/MythLab/Niên Đại Thương Gia"
 cfg=json.load(open(os.path.join(base,".mythlab_score.json"),encoding="utf-8"))
 def gp(n):
     for fn in os.listdir(base):

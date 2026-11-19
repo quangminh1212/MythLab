@@ -3,7 +3,7 @@
 from pathlib import Path
 import os, re, subprocess, shutil, json
 
-base = Path(r"C:/Dev/XLab_MTC/Mạt Thế Cổ Đại Cầu Sinh")
+base = Path(r"C:/Dev/MythLab/Mạt Thế Cổ Đại Cầu Sinh")
 cfg = str(base / ".mythlab_score.json")
 scorer = r"C:/Dev/NovelLab/scripts/strict_score.py"
 bp1 = base / "_pass_backup"

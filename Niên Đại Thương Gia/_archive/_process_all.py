@@ -4,7 +4,7 @@ Read all 103 chapter endings → generate unique scenes → replace Ghi chú lin
 """
 import os, subprocess, re, json
 
-BASE = "C:/Dev/XLab_MTC/Niên Đại Thương Gia"
+BASE = "C:/Dev/MythLab/Niên Đại Thương Gia"
 
 # Step 1: Get current file list with system_ledger
 result = subprocess.run(

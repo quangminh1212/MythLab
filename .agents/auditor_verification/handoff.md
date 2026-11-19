@@ -1,7 +1,7 @@
 # Forensic Audit Report & Handoff
 
-**Target Directory**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia`  
-**Working Directory**: `c:\Dev\XLab_MTC\.agents\auditor_verification`  
+**Target Directory**: `c:\Dev\MythLab\Niên Đại Thương Gia`  
+**Working Directory**: `c:\Dev\MythLab\.agents\auditor_verification`  
 **Audit Profile**: General Project Forensic Integrity Audit  
 **Final Forensic Verdict**: **`INTEGRITY VIOLATION`**  
 
@@ -10,12 +10,12 @@
 ## 1. Observation
 
 ### Observation 1: Static Analysis of Code & Scoring Mechanism
-- **File**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia\audit_all.py`
+- **File**: `c:\Dev\MythLab\Niên Đại Thương Gia\audit_all.py`
   - Lines 8-30 define heuristics and keywords (`PAD_MARKERS`, `AI_TICS`, `SENSORY`, `CHAR_WORDS`).
   - Lines 38-130 dynamically calculate chapter score `w` using weighted metrics:
     `w = (prose * 1.0 + plot * 1.0 + char * 1.0 + cont * 1.5 + filler * 2.0) / 6.5`
   - Static code inspection confirmed that `audit_all.py` does not return hardcoded or mocked scores; it dynamically parses chapter text files `.txt`.
-- **File**: `c:\Dev\XLab_MTC\Niên Đại Thương Gia\score95_final.json`
+- **File**: `c:\Dev\MythLab\Niên Đại Thương Gia\score95_final.json`
   - Contains summary stats (`min_score`: 9.77, `max_score`: 10.0, `avg_score`: 9.96) and detailed entries for 360 chapters.
 
 ### Observation 2: Execution Validation of Scores
@@ -84,17 +84,17 @@
 
 ## 5. Verification Method
 
-To independently verify these findings, run the following commands from `c:\Dev\XLab_MTC\Niên Đại Thương Gia`:
+To independently verify these findings, run the following commands from `c:\Dev\MythLab\Niên Đại Thương Gia`:
 
 1. **Verify Live Score Computation (Execution Validation)**:
    ```bash
-   python c:\Dev\XLab_MTC\.agents\auditor_verification\verify_execution.py
+   python c:\Dev\MythLab\.agents\auditor_verification\verify_execution.py
    ```
    *Expected result*: 0 numerical mismatches between `audit_all.py` calculations and `score95_final.json`.
 
 2. **Verify Template Filler Pollution Across Chapters**:
    ```bash
-   python c:\Dev\XLab_MTC\.agents\auditor_verification\template_pollution_audit.py
+   python c:\Dev\MythLab\.agents\auditor_verification\template_pollution_audit.py
    ```
    *Expected result*: Identifies 357 / 360 polluted chapters (99.2%) and lists top repeated dialogue paragraphs present in 341 chapters.
 

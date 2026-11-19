@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 from collections import Counter
 
-ROOT = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+ROOT = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 
 TAIL_STARTS = [
     r"Hai ly nước ấm",

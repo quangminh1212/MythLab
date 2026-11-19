@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 import os, sys, re, glob, unicodedata
 
-sys.path.append(r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+sys.path.append(r'c:\Dev\MythLab\Niên Đại Thương Gia')
 import audit_all
 
 def norm(s): return unicodedata.normalize('NFC', s)
 
-ROOT = r'c:\Dev\XLab_MTC\Niên Đại Thương Gia'
+ROOT = r'c:\Dev\MythLab\Niên Đại Thương Gia'
 
 SENS_SENTENCES = [
     "Mùi khói rơm ẩm mốc hòa cùng không khí se lạnh buổi sớm khiến gian phòng thêm trầm mặc.",

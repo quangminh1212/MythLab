@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import re, glob, os
-base = r'C:/Dev/XLab_MTC/Niên Đại Thương Gia'
+base = r'C:/Dev/MythLab/Niên Đại Thương Gia'
 out = os.path.join(base, '_ai_reads', '_clean_staging')
 os.makedirs(out, exist_ok=True)
 

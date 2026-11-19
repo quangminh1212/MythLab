@@ -5,7 +5,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-ROOT = Path(r"C:\Dev\XLab_MTC\Mạt Thế Cổ Đại Cầu Sinh")
+ROOT = Path(r"C:\Dev\MythLab\Mạt Thế Cổ Đại Cầu Sinh")
 
 # Chapter specs: unique event, Phong/Hà voice, sensory hooks — year 629 fixed
 SPECS = {

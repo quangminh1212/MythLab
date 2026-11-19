@@ -3,7 +3,7 @@ import json, csv
 from pathlib import Path
 from collections import Counter, defaultdict
 
-p = Path(r"C:/Dev/XLab_MTC/Niên Đại Thương Gia")
+p = Path(r"C:/Dev/MythLab/Niên Đại Thương Gia")
 d = json.loads((p / "_eval_95_live.json").read_text(encoding="utf-8"))
 results = d["results"]
 

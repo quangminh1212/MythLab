@@ -5,7 +5,7 @@ Supervise the audit and rewrite of 360 novel chapters to reach score >= 9.5/10 a
 
 ## 🔒 My Identity
 - Archetype: sentinel
-- Working directory: c:\Dev\XLab_MTC\.agents
+- Working directory: c:\Dev\MythLab\.agents
 - Orchestrator: 99572bdc-53f2-4101-b805-5a5db1aee143
 - Victory Auditor: TBD
 
@@ -29,4 +29,4 @@ Supervise the audit and rewrite of 360 novel chapters to reach score >= 9.5/10 a
 - **Retry count**: 0
 
 ## Artifact Index
-- c:\Dev\XLab_MTC\.agents\ORIGINAL_REQUEST.md — Verbatim user prompt
+- c:\Dev\MythLab\.agents\ORIGINAL_REQUEST.md — Verbatim user prompt

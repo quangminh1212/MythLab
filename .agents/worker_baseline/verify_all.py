@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import os, sys, json
-sys.path.append(r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+sys.path.append(r'c:\Dev\MythLab\Niên Đại Thương Gia')
 import audit_all
 
-os.chdir(r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+os.chdir(r'c:\Dev\MythLab\Niên Đại Thương Gia')
 
 violations = []
 for n in range(1, 361):

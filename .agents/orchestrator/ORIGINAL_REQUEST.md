@@ -4,7 +4,7 @@
 
 Đánh giá toàn bộ 360 chương của tiểu thuyết "Niên Đại Thương Gia" theo bộ tiêu chí tác phẩm văn học quốc tế và chỉnh sửa các chương chưa đạt cho đến khi 100% số chương đạt điểm từ 9.5/10 trở lên.
 
-Working directory: c:\Dev\XLab_MTC\Niên Đại Thương Gia
+Working directory: c:\Dev\MythLab\Niên Đại Thương Gia
 Integrity mode: development
 
 ## Requirements

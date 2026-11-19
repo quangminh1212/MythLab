@@ -2,7 +2,7 @@
 import json, re
 from pathlib import Path
 
-P = Path(r'C:/Dev/XLab_MTC/Niên Đại Thương Gia')
+P = Path(r'C:/Dev/MythLab/Niên Đại Thương Gia')
 with open(P / 'system_ledger.json', encoding='utf-8') as f:
     ledger = json.load(f)['chapters']
 

@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import sys, os
-sys.path.insert(0, r'c:\Dev\XLab_MTC\Niên Đại Thương Gia')
+sys.path.insert(0, r'c:\Dev\MythLab\Niên Đại Thương Gia')
 from audit_all import body_of, SENSORY, CHAR_WORDS
 
-raw = open(r'c:\Dev\XLab_MTC\Niên Đại Thương Gia\Chương 1 - Tỉnh lại.txt', encoding='utf-8').read()
+raw = open(r'c:\Dev\MythLab\Niên Đại Thương Gia\Chương 1 - Tỉnh lại.txt', encoding='utf-8').read()
 
 # Strip template block
 lines = raw.splitlines()
