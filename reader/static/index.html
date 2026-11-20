@@ -5,10 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MythLab Truyện</title>
 <meta name="theme-color" content="#ffffff">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1'%3E%3Cstop offset='0' stop-color='%2300A19A'/%3E%3Cstop offset='1' stop-color='%230d9488'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Cpath d='M18 16h12a6 6 0 0 1 6 6v28a5 5 0 0 0-5-5H18zM46 16H38a6 6 0 0 0-2 .3V50a5 5 0 0 1 5-5h5z' fill='%23fff'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Literata:opsz,wght@7..72,400;7..72,700&display=swap">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="fonts/fonts.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/reader-settings.css">
 </head>
 <body>
 <header class="topbar">
@@ -69,36 +71,24 @@
 <!-- Settings drawer -->
 <div class="drawer hidden" id="settings" role="dialog" aria-label="Cài đặt">
   <div class="drawer-head"><b>Cài đặt</b><button class="icon-btn" id="sClose"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
-  <div class="drawer-body">
-    <h4>Hiển thị</h4>
-    <label>Giao diện
-      <div class="seg" id="sTheme">
-        <button data-v="light">Sáng</button><button data-v="sepia">Giấy</button><button data-v="dark">Tối</button><button data-v="auto">Tự động</button>
-      </div>
-    </label>
-    <label>Phông chữ
-      <div class="seg" id="sFont">
-        <button data-v="serif">Có chân</button><button data-v="sans">Không chân</button>
-      </div>
-    </label>
-    <label>Cỡ chữ <span id="sSizeV"></span><input type="range" id="sSize" min="14" max="30" step="1"></label>
-    <label>Giãn dòng <span id="sLineV"></span><input type="range" id="sLine" min="1.4" max="2.4" step="0.1"></label>
-    <label>Độ rộng cột <span id="sWidthV"></span><input type="range" id="sWidth" min="520" max="1000" step="20"></label>
-    <h4>Giọng đọc</h4>
-    <label>Bộ đọc
-      <div class="seg" id="sEngine">
-        <button data-v="edge">Edge (tự nhiên)</button><button data-v="browser">Trình duyệt</button>
-      </div>
-    </label>
-    <label>Giọng <select id="sVoice"></select></label>
-    <label class="row"><input type="checkbox" id="sAutoNext"> Tự chuyển chương khi nghe hết</label>
-    <label class="row"><input type="checkbox" id="sFollow"> Tự cuộn theo đoạn đang đọc</label>
-    <label class="row"><input type="checkbox" id="sReadTitle"> Đọc tiêu đề chương</label>
-    <p class="muted small">Mẹo: nhấp đúp vào một đoạn để nghe từ đó. Phím tắt: <kbd>Space</kbd> phát/dừng, <kbd>←</kbd>/<kbd>→</kbd> chương trước/sau, <kbd>J</kbd>/<kbd>K</kbd> đoạn sau/trước.</p>
-  </div>
+  <div class="drawer-body"></div>
 </div>
 
+<!-- Page mode: tap zones (trang trước / ẩn-hiện thanh công cụ / trang sau) + brightness overlay -->
+<div class="tapzones" id="tapzones"><button type="button" data-z="prev" aria-label="Trang trước"></button><button type="button" data-z="menu" aria-label="Ẩn/hiện thanh công cụ"></button><button type="button" data-z="next" aria-label="Trang sau"></button></div>
+<div id="dim" aria-hidden="true"></div>
+
 <div class="toast hidden" id="toast"></div>
+<script src="js/store.js"></script>
+<script src="js/textutil.js"></script>
+<script src="js/fonts.js"></script>
+<script src="js/settings.js"></script>
+<script src="js/backend-server.js"></script>
+<script src="js/backend-github.js"></script>
+<script src="js/backends.js"></script>
+<script src="js/tts.js"></script>
+<script src="js/settings-panel.js"></script>
+<script src="js/pwa.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

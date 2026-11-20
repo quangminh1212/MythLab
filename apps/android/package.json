@@ -1,0 +1,23 @@
+{
+  "name": "mythlab-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MythLab Truyện — vỏ Android (Capacitor) cho reader/static",
+  "scripts": {
+    "sync-web": "node sync-web.mjs",
+    "sync": "node sync-web.mjs && cap sync android",
+    "build:debug": "powershell -ExecutionPolicy Bypass -File build.ps1",
+    "build:release": "powershell -ExecutionPolicy Bypass -File build.ps1 -Release",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor-community/keep-awake": "^8.0.1",
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "@capacitor/preferences": "^8.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2"
+  }
+}

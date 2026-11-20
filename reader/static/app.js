@@ -5,10 +5,7 @@
 const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const enc = encodeURIComponent;
-const store = {
-  get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } },
-  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* ignore */ } },
-};
+const store = ML.store;
 // chuyển dữ liệu từ tên cũ (XLab) sang MythLab
 try {
   for (const k of ["settings", "progress", "sort"]) {
@@ -24,38 +21,20 @@ function toast(msg, ms = 2800) {
   const t = $("#toast"); t.textContent = msg; t.classList.remove("hidden");
   clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.add("hidden"), ms);
 }
+ML.toast = toast;
 const apiCache = new Map();
 async function api(path, { cache = true } = {}) {
   if (cache && apiCache.has(path)) return apiCache.get(path);
-  const p = fetch("/api/" + path).then(async (r) => {
-    const j = await r.json().catch(() => ({ error: `HTTP ${r.status}` }));
-    if (!r.ok || j.error) throw new Error(j.error || `HTTP ${r.status}`);
-    return j;
-  });
+  const p = ML.backend.get("/" + path);
   if (cache) { apiCache.set(path, p); p.catch(() => apiCache.delete(path)); }
   return p;
 }
 const loadingHTML = (msg = "Đang tải…") => `<div class="loading"><span class="spinner"></span>${esc(msg)}</div>`;
 const sKey = (source, key) => `${source}|${key}`;
 
-// ---------------------------------------------------------------- settings
-const DEF = { theme: "light", font: "serif", size: 20, line: 1.8, width: 720, engine: "edge", voice: "vi-VN-HoaiMyNeural",
-  rate: 1, autoNext: true, follow: true, readTitle: true };
-const S = Object.assign({}, DEF, store.get("mythlab.settings", {}));
-// v2 (XLab-style UI): the old default "sepia" becomes the new default "light" once.
-if (!S.ui2) { if (S.theme === "sepia") S.theme = "light"; S.ui2 = 1; store.set("mythlab.settings", S); }
-const saveS = () => store.set("mythlab.settings", S);
-function applyS() {
-  const r = document.documentElement;
-  r.dataset.theme = S.theme;
-  r.dataset.font = S.font;
-  r.style.setProperty("--read-size", S.size + "px");
-  r.style.setProperty("--read-line", S.line);
-  r.style.setProperty("--read-width", S.width + "px");
-  const bg = getComputedStyle(r).getPropertyValue("--bg").trim();
-  document.querySelector('meta[name="theme-color"]').content = bg || "#ffffff";
-}
-applyS();
+// ---------------------------------------------------------------- settings (js/settings.js)
+const S = ML.settings.S;
+const isPage = () => S.readMode === "page";
 
 // ---------------------------------------------------------------- progress
 const PROG = store.get("mythlab.progress", {});
@@ -68,10 +47,18 @@ const recentList = () => Object.values(PROG).sort((a, b) => b.ts - a.ts);
 // ---------------------------------------------------------------- data
 let SOURCES = [];
 let TTS_INFO = { edge: false };
+let BOOT_ERR = null;
+const edgeOK = () => !!TTS_INFO.edge && ML.backend.kind === "server";
+// bộ đọc không cần server: native (Capacitor) nếu chọn/có, không thì giọng trình duyệt
+function localEngine() {
+  const es = ML.tts.engines();
+  if (S.engine === "native" && es.includes("native")) return "native";
+  return es.includes("browser") ? "browser" : es.includes("native") ? "native" : null;
+}
 async function loadSources() {
   const j = await api("sources");
   SOURCES = j.sources; TTS_INFO = j.tts || TTS_INFO;
-  if (!TTS_INFO.edge && S.engine === "edge") S.engine = "browser";
+  if (S.engine === "edge" && !edgeOK()) ML.settings.set("engine", localEngine() || "browser");
   renderSidebar();
 }
 const storiesOf = (source, repo) => api(`stories?source=${enc(source)}${repo ? `&repo=${enc(repo)}` : ""}`).then((j) => j.stories);
@@ -99,7 +86,7 @@ function renderSidebar() {
     return `<div class="src"><a class="src-title ${activeSrc ? "active" : ""}" href="#/lib/${enc(s.id)}" title="${esc(s.detail)}">
       <svg viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
       ${esc(s.name)}${s.available ? "" : ' <small>(không có)</small>'}</a></div>`;
-  }).join("") || `<div class="pad muted">Chưa cấu hình nguồn nào.</div>`;
+  }).join("") || `<div class="pad muted">${ML.backend.kind === "none" ? "Chưa kết nối nguồn dữ liệu." : "Chưa cấu hình nguồn nào."}</div>`;
   const f = $("#ghFilter");
   if (f) f.oninput = () => { ghFilter = f.value; const pos = f.selectionStart; renderSidebar(); const g = $("#ghFilter"); g.focus(); g.setSelectionRange(pos, pos); };
 }
@@ -119,10 +106,13 @@ let renderToken = 0;
 async function route() {
   const r = parseHash(); const tok = ++renderToken;
   document.body.classList.remove("side-open");
+  document.body.classList.toggle("view-read", r.view === "read" && ML.backend.kind !== "none");
+  if (r.view !== "read") document.body.classList.remove("chrome-hidden");
   renderSidebar();
   const view = $("#view");
   try {
-    if (r.view === "home") await renderHome(view, tok);
+    if (ML.backend.kind === "none") renderOnboarding(view);
+    else if (r.view === "home") await renderHome(view, tok);
     else if (r.view === "lib") await renderLib(view, r, tok);
     else if (r.view === "story") await renderStory(view, r, tok);
     else if (r.view === "read") await renderReader(view, r, tok);
@@ -138,7 +128,7 @@ function setCrumb(html) { $("#crumb").innerHTML = html; }
 // ---------------------------------------------------------------- cards
 function coverHTML(st, extra = "") {
   const name = st.name || st.folder;
-  const img = st.poster ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(st.poster)}" alt="" onerror="this.remove()">` : "";
+  const img = /^(https?:)?\/\//i.test(st.poster || "") ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(st.poster)}" alt="" onerror="this.remove()">` : "";
   return `<div class="cover" style="--h:${hashHue(name)}"><div class="ph">${esc(name)}</div>${img}${extra}</div>`;
 }
 const secHead = (title, href, extra = "") => `<div class="sec-head"><h2>${title}${extra ? ` <small>${extra}</small>` : ""}</h2>${href ? `<a href="${href}">Xem tất cả</a>` : ""}</div>`;
@@ -205,12 +195,15 @@ async function renderHome(view, tok) {
   for (const s of ghs) {
     if (!s.repos?.length) continue;
     nRepos += s.repos.length;
-    html += `${secHead(esc(s.name), `#/lib/${enc(s.id)}/*`, s.repos.length + " repo")}
+    html += `${secHead(esc(s.name), `#/lib/${enc(s.id)}${ML.backend.kind === "github" ? "" : "/*"}`, s.repos.length + " repo")}
       <div class="grid">${s.repos.map((r) => repoCard(s.id, r.repo, r.pushed_at ? "Cập nhật " + new Date(r.pushed_at).toLocaleDateString("vi-VN") : "")).join("")}</div>`;
   }
-  $("#heroStats").innerHTML = [nStories && `${fmtNum(nStories)} truyện trên máy`, nRepos && `${fmtNum(nRepos)} repo GitHub`, "Giọng đọc Edge tự nhiên"]
+  $("#heroStats").innerHTML = [nStories && `${fmtNum(nStories)} truyện trên máy`, nRepos && `${fmtNum(nRepos)} repo GitHub`,
+    edgeOK() ? "Giọng đọc Edge tự nhiên" : "Đọc bằng giọng của máy"]
     .filter(Boolean).map((t) => `<span class="pill"><i></i>${t}</span>`).join("");
-  $("#homeLib").innerHTML = html || `<div class="empty">Chưa có truyện. Thêm thư mục vào <code>reader/config.json</code> hoặc chạy <code>python sync_done.py</code>.</div>`;
+  $("#homeLib").innerHTML = html || (BOOT_ERR ? `<div class="empty">Lỗi nguồn dữ liệu: ${esc(BOOT_ERR)}<br><br>
+    <button class="btn" onclick="ML.settingsPanel.open()">Mở cài đặt nguồn</button> <button class="btn" onclick="location.reload()">Thử lại</button></div>` : "")
+    || `<div class="empty">Chưa có truyện. Thêm thư mục vào <code>reader/config.json</code> hoặc chạy <code>python sync_done.py</code>.</div>`;
 }
 
 // ---------------------------------------------------------------- library
@@ -222,7 +215,10 @@ async function renderLib(view, r, tok) {
     view.innerHTML = `<h1 class="h1">${esc(src.name)}</h1><p class="sub">${src.repos?.length || 0} repo. Chọn một repo để xem truyện, hoặc tải tất cả (lần đầu có thể mất 1–2 phút).</p>
       <div class="toolbar"><button class="btn primary" id="loadAll">Tải tất cả truyện</button></div>
       <div class="grid">${(src.repos || []).map((x) => repoCard(src.id, x.repo)).join("")}</div>`;
-    $("#loadAll").onclick = () => { location.hash = `#/lib/${enc(src.id)}/*`; };
+    $("#loadAll").onclick = () => {
+      if (ML.backend.kind === "github" && !confirm("Tải tất cả cần 1 lượt gọi GitHub API cho mỗi truyện và có thể vượt giới hạn 5.000 lượt/giờ. Vẫn tiếp tục?")) return;
+      location.hash = `#/lib/${enc(src.id)}/*`;
+    };
     return;
   }
   const repo = r.repo === "*" ? null : r.repo;
@@ -271,7 +267,7 @@ async function renderStory(view, r, tok) {
           ${st.author ? `<span>✍ ${esc(st.author)}</span>` : ""}
           <span>${fmtNum(chs.length)} chương${st.declared_chapters && st.declared_chapters != chs.length ? ` (gốc ${fmtNum(st.declared_chapters)})` : ""}</span>
           ${st.status ? `<span>${esc(st.status)}</span>` : ""}
-          ${st.link ? `<a href="${esc(st.link)}" target="_blank" rel="noreferrer noopener">Nguồn ↗</a>` : ""}
+          ${/^https?:\/\//i.test(st.link || "") ? `<a href="${esc(st.link)}" target="_blank" rel="noreferrer noopener">Nguồn ↗</a>` : ""}
         </div>
         <div class="chips">${(st.genres || []).map((g) => `<span class="chip accent">${esc(g)}</span>`).join("")}${(st.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>
         ${st.synopsis ? `<div class="synopsis" id="syn">${esc(st.synopsis)}</div><button class="linkish" id="synMore">Xem thêm</button>` : ""}
@@ -323,8 +319,8 @@ async function renderStory(view, r, tok) {
 }
 
 // ---------------------------------------------------------------- reader
-let READ = null; // {source,key,story,idx,chapter}
-let scrollSaveTimer;
+let READ = null; // {source,key,story,idx,chapter,para}
+let scrollSaveTimer, startAtEnd = false;
 async function renderReader(view, r, tok) {
   view.innerHTML = loadingHTML();
   const st = await storyOf(r.source, r.key);
@@ -335,7 +331,7 @@ async function renderReader(view, r, tok) {
   const c = chs[idx];
   const ch = await chapterOf(r.source, r.key, c.file);
   if (stale(tok)) return;
-  READ = { source: r.source, key: r.key, story: st, idx, chapter: ch };
+  READ = { source: r.source, key: r.key, story: st, idx, chapter: ch, para: 0 };
   setCrumb(`/ <a href="${storyHref(r.source, r.key)}">${esc(st.name)}</a> / Chương ${c.n}`);
   document.title = `${ch.title || "Chương " + c.n} — ${st.name}`;
   const prev = chs[idx - 1], next = chs[idx + 1];
@@ -351,80 +347,245 @@ async function renderReader(view, r, tok) {
       </div>
     </div>
     <div class="content" id="content">${ch.paragraphs.map((t, i) => `<p data-i="${i}">${esc(t)}</p>`).join("")}</div>
+    <div class="page-ind" id="pageInd"></div>
     <nav class="ch-nav">
       ${prev ? `<a class="btn" href="${readHref(r.source, r.key, idx - 1)}">← <span>Chương ${prev.n}</span></a>` : "<span></span>"}
       ${next ? `<a class="btn primary" href="${readHref(r.source, r.key, idx + 1)}"><span>Chương ${next.n}</span> →</a>` : `<span class="ch-end">— Hết truyện —</span>`}
     </nav></article>`;
   $("#jump").onchange = (e) => { location.hash = readHref(r.source, r.key, e.target.value); };
   $("#listenCh").onclick = () => Player.start({ source: r.source, key: r.key, story: st, idx, chapter: ch, para: firstVisiblePara() });
-  $("#content").ondblclick = (e) => {
+  const content = $("#content");
+  content.ondblclick = (e) => {
     const pEl = e.target.closest("p[data-i]"); if (!pEl) return;
     window.getSelection()?.removeAllRanges();
     Player.start({ source: r.source, key: r.key, story: st, idx, chapter: ch, para: +pEl.dataset.i });
   };
+  content.addEventListener("scroll", () => { Pager.indicator(); scheduleSave(); }, { passive: true });
+  content.addEventListener("wheel", Pager.wheel, { passive: false });
   // vị trí: nếu đang phát đúng chương này → highlight; nếu không, khôi phục đoạn đã đọc
   const pr = PROG[sKey(r.source, r.key)];
-  saveProgress({ source: r.source, key: r.key, name: st.name, poster: st.poster, idx, n: c.n, total: chs.length,
-    para: pr && pr.idx === idx ? pr.para || 0 : 0 });
+  const para = pr && pr.idx === idx ? pr.para || 0 : 0;
+  READ.para = para;
+  saveProgress({ source: r.source, key: r.key, name: st.name, poster: st.poster, idx, n: c.n, total: chs.length, para });
+  const atEnd = startAtEnd; startAtEnd = false;
+  if (isPage()) Pager.enter(para, atEnd);
   if (Player.matches(r.source, r.key, idx)) Player.highlight(true);
-  else if (pr && pr.idx === idx && pr.para > 0) {
-    const el = $(`#content p[data-i="${pr.para}"]`);
-    if (el) el.scrollIntoView({ block: "start" }); window.scrollBy(0, -80);
-  } else window.scrollTo(0, 0);
+  else if (!isPage()) {
+    if (para > 0) {
+      const el = $(`#content p[data-i="${para}"]`);
+      if (el) el.scrollIntoView({ block: "start" }); window.scrollBy(0, -80);
+    } else window.scrollTo(0, 0);
+  }
   // prefetch chương sau
   if (next) chapterOf(r.source, r.key, next.file).catch(() => {});
 }
 function firstVisiblePara() {
+  if (isPage()) return Pager.firstPara();
   const ps = document.querySelectorAll("#content p[data-i]");
   const top = 70;
   for (const p of ps) { const b = p.getBoundingClientRect(); if (b.bottom > top) return +p.dataset.i; }
   return 0;
 }
-window.addEventListener("scroll", () => {
+function scheduleSave() {
   if (!READ || parseHash().view !== "read" || Player.matches(READ.source, READ.key, READ.idx)) return;
   clearTimeout(scrollSaveTimer);
   scrollSaveTimer = setTimeout(() => {
-    if (!READ || parseHash().view !== "read") return;
-    saveProgress({ source: READ.source, key: READ.key, idx: READ.idx, n: READ.story.chapters[READ.idx].n, para: firstVisiblePara() });
+    if (!READ || parseHash().view !== "read" || !$("#content")) return;
+    if (!isPage()) READ.para = firstVisiblePara(); // lật trang: READ.para do Pager.turn giữ
+    saveProgress({ source: READ.source, key: READ.key, idx: READ.idx, n: READ.story.chapters[READ.idx].n, para: READ.para });
   }, 600);
-}, { passive: true });
+}
+window.addEventListener("scroll", scheduleSave, { passive: true });
+
+// ---------------------------------------------------------------- page mode (lật trang)
+// #content là hộp nhiều cột cao cố định, mỗi trang = 1 cột; bước trang = clientWidth + column-gap
+const Pager = (() => {
+  const box = () => (isPage() && parseHash().view === "read" ? $("#content") : null);
+  const gap = (c) => parseFloat(getComputedStyle(c).columnGap) || 0;
+  const step = (c) => c.clientWidth + gap(c);
+  const count = (c) => Math.max(1, Math.round((c.scrollWidth + gap(c)) / step(c)));
+  const cur = (c) => Math.round(c.scrollLeft / step(c));
+  function go(n, smooth = true) {
+    const c = box(); if (!c) return;
+    n = Math.max(0, Math.min(count(c) - 1, n));
+    c.scrollTo({ left: n * step(c), behavior: smooth ? "smooth" : "auto" });
+    indicator(n);
+  }
+  function pageOf(p) {
+    const c = box(); const r = p && p.getClientRects()[0]; if (!c || !r) return 0;
+    return Math.floor((r.left - c.getBoundingClientRect().left + c.scrollLeft + 2) / step(c));
+  }
+  // đoạn đầu tiên bắt đầu trên trang n (mặc định: trang đang xem); không có thì đoạn tràn từ trang trước
+  // → lưu/khôi phục không trôi lùi một trang
+  function firstPara(n) {
+    const c = box(); if (!c) return 0;
+    const st = step(c), x0 = c.getBoundingClientRect().left - c.scrollLeft, lo = (n ?? cur(c)) * st, hi = lo + st - 2;
+    const on = (r) => r.height && r.right - x0 > lo + 2 && r.left - x0 < hi;
+    let spill = null;
+    for (const p of c.querySelectorAll("p[data-i]")) {
+      const rs = [...p.getClientRects()].filter((r) => r.height); if (!rs.length) continue;
+      if (rs[0].left - x0 >= hi) break;
+      if (on(rs[0])) return +p.dataset.i;
+      if (spill == null && rs.some(on)) spill = +p.dataset.i;
+    }
+    return spill ?? 0;
+  }
+  function indicator(n) {
+    const c = box(), el = $("#pageInd"); if (!el) return;
+    el.textContent = c ? `Trang ${(n ?? cur(c)) + 1}/${count(c)}` : "";
+  }
+  function turn(d) {
+    const c = box(); if (!c || !READ) return;
+    const n = cur(c) + d, chs = READ.story.chapters;
+    if (n >= count(c)) { if (READ.idx < chs.length - 1) location.hash = readHref(READ.source, READ.key, READ.idx + 1); else toast("Đã hết truyện"); return; }
+    if (n < 0) { if (READ.idx > 0) { startAtEnd = true; location.hash = readHref(READ.source, READ.key, READ.idx - 1); } return; }
+    go(n);
+    READ.para = firstPara(n); // mốc để giữ vị trí khi bố cục đổi (ẩn/hiện thanh, đổi cỡ chữ, xoay máy)
+  }
+  function show(p) { const c = box(); if (c && pageOf(p) !== cur(c)) go(pageOf(p)); }
+  // cuộn cửa sổ để #content nằm ngay dưới thanh trên, rồi tới trang chứa đoạn `para`
+  function enter(para = 0, atEnd = false) {
+    const c = box(); if (!c) return;
+    const tb = $(".topbar").offsetHeight || 0;
+    window.scrollTo(0, Math.max(0, c.getBoundingClientRect().top + scrollY - tb - 8));
+    go(atEnd ? count(c) - 1 : pageOf(c.querySelector(`p[data-i="${para}"]`)), false);
+  }
+  let wheelAt = 0;
+  function wheel(e) {
+    if (!box() || Math.abs(e.deltaY) + Math.abs(e.deltaX) < 4) return;
+    e.preventDefault();
+    if (Date.now() - wheelAt < 450) return;
+    wheelAt = Date.now();
+    turn((Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : e.deltaY) > 0 ? 1 : -1);
+  }
+  return { turn, go, show, enter, firstPara, indicator, wheel, get active() { return !!box(); } };
+})();
+let relayoutTimer;
+function relayout() {
+  clearTimeout(relayoutTimer);
+  relayoutTimer = setTimeout(() => requestAnimationFrame(() => {
+    if (!READ || parseHash().view !== "read" || !$("#content")) return;
+    const para = Player.matches(READ.source, READ.key, READ.idx) ? Player.para : READ.para;
+    if (isPage()) Pager.enter(para || 0);
+    else { Pager.indicator(); const el = $(`#content p[data-i="${para || 0}"]`); if (el && para > 0) { el.scrollIntoView({ block: "start" }); window.scrollBy(0, -80); } }
+  }), 120);
+}
+function toggleChrome(force) {
+  document.body.classList.toggle("chrome-hidden", force ?? !document.body.classList.contains("chrome-hidden"));
+  relayout();
+}
+(() => {
+  const tz = $("#tapzones"); if (!tz) return;
+  tz.onclick = (e) => {
+    const z = e.target.closest("[data-z]")?.dataset.z;
+    if (z === "prev") Pager.turn(-1); else if (z === "next") Pager.turn(1); else if (z === "menu") toggleChrome();
+  };
+  let t0 = null;
+  document.addEventListener("touchstart", (e) => { t0 = Pager.active && e.touches.length === 1 && !e.target.closest(".topbar, .player, .drawer, .sidebar, select, input") ? e.touches[0] : null; }, { passive: true });
+  document.addEventListener("touchend", (e) => {
+    if (!t0) return;
+    const t = e.changedTouches[0], dx = t.clientX - t0.clientX, dy = t.clientY - t0.clientY; t0 = null;
+    if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) Pager.turn(dx < 0 ? 1 : -1);
+  }, { passive: true });
+  addEventListener("resize", () => Pager.active && relayout());
+})();
+
+// ---------------------------------------------------------------- onboarding (chưa có nguồn dữ liệu)
+function renderOnboarding(view) {
+  setCrumb("");
+  const srv = store.get("mythlab.server", null) || {};
+  view.innerHTML = `<section class="onboard">
+    <h1 class="h1">Chào mừng đến MythLab</h1>
+    <p class="sub">Chưa kết nối nguồn truyện. Chọn một trong hai cách dưới đây — chỉ cần làm một lần.</p>
+    <div class="ob-grid">
+      <div class="ob-card">
+        <h3><span class="ob-n">1</span>Chạy máy chủ MythLab trên máy tính</h3>
+        <p class="muted small">Có giọng đọc Edge tự nhiên và thư mục truyện trên máy.</p>
+        <ol>
+          <li>Trên PC: <code>python reader/server.py</code> (hoặc mở app MythLab cho Windows) rồi vào <code>http://127.0.0.1:8765</code>.</li>
+          <li>Đọc từ điện thoại cùng Wi-Fi: chạy <code>python reader/server.py --lan</code>, server in ra địa chỉ <code>http://&lt;IP&gt;:8765</code> và khoá truy cập.</li>
+          <li>Nhập địa chỉ và khoá vào đây.</li>
+        </ol>
+        <label>Địa chỉ máy chủ<input class="s-input" id="obUrl" type="url" placeholder="http://192.168.1.10:8765" value="${esc(srv.url || "")}"></label>
+        <label>Khoá truy cập<input class="s-input" id="obKey" type="password" autocomplete="off" value="${esc(srv.key || "")}"></label>
+        <div class="ob-act"><button class="btn primary" id="obSrv">Kết nối</button><span class="small" id="obSrvMsg"></span></div>
+      </div>
+      <div class="ob-card">
+        <h3><span class="ob-n">2</span>Đọc trực tiếp từ GitHub (chỉ đọc)</h3>
+        <p class="muted small">Không cần máy chủ; nghe bằng giọng của máy/trình duyệt.</p>
+        <ol>
+          <li>Mở <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noreferrer noopener">GitHub → Settings → Developer settings → Fine-grained tokens → Generate new token</a>.</li>
+          <li><b>Resource owner</b>: tài khoản chứa các repo <code>Done_*</code>. <b>Repository access</b>: <i>Only select repositories</i> → chọn các repo <code>Done_*</code> (hoặc <i>All repositories</i>).</li>
+          <li><b>Repository permissions</b>: <code>Contents</code> = Read-only, <code>Metadata</code> = Read-only. Không cấp quyền nào khác.</li>
+          <li>Bấm <b>Generate token</b>, sao chép rồi dán vào ô dưới.</li>
+        </ol>
+        <label>GitHub token<input class="s-input" id="obTok" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></label>
+        <div class="ob-act"><button class="btn primary" id="obGh">Kiểm tra &amp; lưu</button><span class="small" id="obGhMsg"></span></div>
+      </div>
+    </div>
+    <p class="muted small">Token và khoá chỉ lưu trong trình duyệt này; token chỉ được gửi tới <code>api.github.com</code>. Có thể đổi lại trong ⚙ Cài đặt → Nguồn dữ liệu.</p>
+  </section>`;
+  const msg = (id, t, ok) => { const el = $(id); el.textContent = t; el.className = "small " + (ok ? "ok" : "err"); };
+  $("#obSrv").onclick = async () => {
+    const url = $("#obUrl").value.trim().replace(/\/+$/, ""), key = $("#obKey").value.trim();
+    if (!/^https?:\/\//i.test(url)) return msg("#obSrvMsg", "Nhập địa chỉ dạng http://IP:8765");
+    msg("#obSrvMsg", "Đang kết nối…", true);
+    if (!(await ML.ServerBackend(url, key).ping(6000))) return msg("#obSrvMsg", "Không kết nối được (sai địa chỉ/khoá, hoặc server chưa chạy --lan)");
+    store.set("mythlab.server", { url, key }); location.reload();
+  };
+  $("#obGh").onclick = async () => {
+    const tok = $("#obTok").value.trim();
+    if (!tok) return msg("#obGhMsg", "Dán token trước");
+    msg("#obGhMsg", "Đang kiểm tra…", true);
+    const r = await ML.backend.testToken(tok).catch((e) => ({ ok: false, error: e.message }));
+    if (!r.ok) return msg("#obGhMsg", "✗ " + (r.error || "Token không hợp lệ"));
+    msg("#obGhMsg", `✓ ${r.login} · ${r.repos} repo`, true);
+    store.set("mythlab.ghToken", tok); setTimeout(() => location.reload(), 600);
+  };
+}
 
 // ---------------------------------------------------------------- player
 const RATES = [0.75, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.75, 2];
+const CHAPTER_CUE = "Hết chương, chuẩn bị qua chương mới.";
 const Player = (() => {
   const audio = new Audio();
   audio.preload = "auto";
   audio.preservesPitch = true;
+  const cueAudio = new Audio();
   let ctx = null;        // {source,key,story,idx,chapter}
   let chunks = [];       // [{p, text}]
-  let pos = 0, playing = false, gen = 0, sleepTimer = null, sleepEndOfChapter = false, retry = 0;
+  let pos = 0, playing = false, gen = 0, sleepTimer = null, sleepEndOfChapter = false, retry = 0, localFails = 0, awake = false;
+  let lastEngine = null;
   const prefetched = new Set();
   const el = { bar: $("#player"), title: $("#pTitle"), sub: $("#pSub"), play: $("#pPlay"), icon: $("#pPlayIcon"), prog: $("#pProg") };
+  const useEdge = () => S.engine === "edge" && edgeOK();
+  const ttsUrl = (text) => ML.backend.ttsUrl({ text, voice: S.voice });
+  const localOpts = (engine) => ({ engine, rate: S.rate, pitch: S.pitch, voice: engine === "native" ? S.nativeVoice : S.browserVoice });
 
   function buildChunks(ch) {
     const out = [];
-    const max = S.engine === "edge" ? 1200 : 220;
-    if (S.readTitle && ch.title) out.push({ p: -1, text: ch.title.replace(/\s*\[.*?\]\s*$/, "").replace(/^(Chương\s+\d+)\s*[:\-–]\s*/i, "$1. ") });
+    const max = useEdge() ? 1200 : 220;
+    const push = (p, t) => { t = ML.tts.clean(t); if (t) out.push({ p, text: t }); };
+    if (S.readTitle && ch.title) push(-1, ch.title.replace(/\s*\[.*?\]\s*$/, "").replace(/^(Chương\s+\d+)\s*[:\-–]\s*/i, "$1. "));
     ch.paragraphs.forEach((t, i) => {
       if (!/[\p{L}\p{N}]/u.test(t)) return;
-      if (t.length <= max) { out.push({ p: i, text: t }); return; }
+      if (t.length <= max) return push(i, t);
       const sents = t.match(/[^.!?…。]+[.!?…。]*["'”’)\]]*\s*/gu) || [t];
       let buf = "";
       for (const s of sents) {
-        if ((buf + s).length > max && buf) { out.push({ p: i, text: buf.trim() }); buf = ""; }
-        if (s.length > max) { for (let k = 0; k < s.length; k += max) out.push({ p: i, text: s.slice(k, k + max) }); }
+        if ((buf + s).length > max && buf) { push(i, buf.trim()); buf = ""; }
+        if (s.length > max) { for (let k = 0; k < s.length; k += max) push(i, s.slice(k, k + max)); }
         else buf += s;
       }
-      if (buf.trim()) out.push({ p: i, text: buf.trim() });
+      if (buf.trim()) push(i, buf.trim());
     });
     return out;
   }
-  const ttsUrl = (text) => `/api/tts?voice=${enc(S.voice)}&text=${enc(text)}`;
   function prefetch(from) {
-    if (S.engine !== "edge") return;
+    if (!useEdge()) return;
     for (let k = from; k < Math.min(chunks.length, from + 2); k++) {
       const u = ttsUrl(chunks[k].text);
-      if (prefetched.has(u)) continue;
+      if (!u || prefetched.has(u)) continue;
       prefetched.add(u);
       fetch(u).catch(() => prefetched.delete(u));
     }
@@ -433,6 +594,7 @@ const Player = (() => {
     el.icon.innerHTML = playing ? '<path d="M7 5h4v14H7zM13 5h4v14h-4z"/>' : '<path d="M8 5l11 7-11 7z"/>';
     el.play.setAttribute("aria-label", playing ? "Dừng" : "Phát");
     if ("mediaSession" in navigator) navigator.mediaSession.playbackState = playing ? "playing" : "paused";
+    if (awake !== playing) { awake = playing; ML.tts.keepAwake(playing).catch?.(() => {}); }
   }
   const busy = (b) => el.play.classList.toggle("busy", b);
   function updateUI() {
@@ -451,7 +613,9 @@ const Player = (() => {
     const p = document.querySelector(`#content p[data-i="${ch.p}"]`);
     if (!p) return;
     p.classList.add("speaking");
+    READ.para = ch.p;
     if (scroll && S.follow) {
+      if (Pager.active) return Pager.show(p);
       const b = p.getBoundingClientRect(), vh = innerHeight - (document.body.classList.contains("playing") ? el.bar.offsetHeight : 0);
       if (b.top < 70 || b.bottom > vh - 20) p.scrollIntoView({ behavior: "smooth", block: "center" });
     }
@@ -475,9 +639,11 @@ const Player = (() => {
     if (pos >= chunks.length) return chapterEnd();
     updateUI(); highlight(true); save();
     const text = chunks[pos].text;
-    if (S.engine === "edge" && TTS_INFO.edge) {
+    const url = useEdge() ? ttsUrl(text) : null;
+    if (url) {
+      lastEngine = "edge";
       busy(true);
-      audio.src = ttsUrl(text);
+      audio.src = url;
       audio.playbackRate = S.rate;
       audio.play().then(() => { if (my === gen) { busy(false); retry = 0; edgeFails = 0; } }).catch((e) => {
         if (my !== gen || e.name === "AbortError") return;
@@ -487,41 +653,37 @@ const Player = (() => {
       });
       prefetch(pos + 1);
     } else {
-      if (!("speechSynthesis" in window)) { toast("Trình duyệt không hỗ trợ đọc"); return stop(); }
-      speakBrowser(text, my);
+      const eng = localEngine();
+      if (!eng) { toast("Thiết bị không hỗ trợ đọc thành tiếng"); return stop(); }
+      speakLocal(text, my, eng);
     }
   }
-  // đọc 1 đoạn bằng Web Speech API của trình duyệt; xong thì sang đoạn kế
-  function speakBrowser(text, my) {
-    speechSynthesis.cancel();
-    const pieces = text.length > 230 ? (text.match(/[^.!?…,;:]+[.!?…,;:]*\s*/gu) || [text]).reduce((a, s) => {
-      if (a.length && (a[a.length - 1] + s).length <= 230) a[a.length - 1] += s; else a.push(s); return a; }, []) : [text];
-    const vs = speechSynthesis.getVoices();
-    const voice = vs.find((v) => v.voiceURI === S.browserVoice) || vs.find((v) => /^vi/i.test(v.lang) && /natural|online/i.test(v.name))
-      || vs.find((v) => /^vi/i.test(v.lang)) || null;
-    pieces.forEach((piece, k) => {
-      const u = new SpeechSynthesisUtterance(piece);
-      u.lang = "vi-VN"; u.rate = S.rate; u.voice = voice;
-      if (k === pieces.length - 1) u.onend = () => { if (my === gen && playing) { pos++; speak(); } };
-      u.onerror = (ev) => {
-        if (my === gen && playing && ev.error !== "interrupted" && ev.error !== "canceled") { speechSynthesis.cancel(); pos++; speak(); }
-      };
-      speechSynthesis.speak(u);
-    });
+  // đọc 1 đoạn bằng bộ đọc của máy/trình duyệt (js/tts.js); xong thì sang đoạn kế
+  function speakLocal(text, my, eng = localEngine()) {
+    lastEngine = eng;
     busy(false);
+    ML.tts.speak(text, localOpts(eng)).then(() => {
+      localFails = 0;
+      if (my === gen && playing) { pos++; speak(); }
+    }, (e) => {
+      if (my !== gen || !playing || e?.name === "AbortError") return;
+      if (++localFails >= 3) { localFails = 0; stop(); updateUI(); toast("Không đọc được: " + (e?.message || "lỗi bộ đọc"), 4500); return; }
+      pos++; speak();
+    });
   }
   let edgeFails = 0;
   function onError() {
     if (!playing) return;
     if (retry < 1) { retry++; setTimeout(() => playing && speak(), 1500); return; }
     retry = 0; edgeFails++;
-    const canBrowser = "speechSynthesis" in window && speechSynthesis.getVoices().some((v) => /^vi/i.test(v.lang));
-    if (edgeFails >= 3 && canBrowser) {
-      edgeFails = 0; S.engine = "browser"; saveS(); document.querySelectorAll("#sEngine button").forEach((b) => b.classList.toggle("on", b.dataset.v === S.engine)); fillVoices();
-      toast("Dịch vụ giọng Edge đang lỗi — đã chuyển sang giọng của trình duyệt", 4500);
-      return speak();
+    const eng = localEngine();
+    if (edgeFails >= 3 && eng) {
+      edgeFails = 0;
+      toast("Dịch vụ giọng Edge đang lỗi — đã chuyển sang giọng của máy", 4500);
+      ML.settings.set("engine", eng); // → engineChanged() đọc tiếp
+      return;
     }
-    if (canBrowser) { toast("Đoạn này đọc bằng giọng trình duyệt (Edge TTS lỗi)"); return speakBrowser(chunks[pos].text, ++gen); }
+    if (eng) { toast("Đoạn này đọc bằng giọng của máy (Edge TTS lỗi)"); return speakLocal(chunks[pos].text, ++gen, eng); }
     toast("Không tạo được giọng đọc cho đoạn này — bỏ qua");
     pos++; speak();
   }
@@ -530,12 +692,29 @@ const Player = (() => {
   audio.addEventListener("waiting", () => playing && busy(true));
   audio.addEventListener("playing", () => busy(false));
 
+  // câu báo hết chương; resolve khi đọc xong (lỗi thì bỏ qua)
+  function sayCue() {
+    const url = useEdge() ? ttsUrl(CHAPTER_CUE) : null;
+    if (url) return new Promise((res) => {
+      cueAudio.onended = cueAudio.onerror = () => res();
+      cueAudio.src = url; cueAudio.playbackRate = S.rate;
+      cueAudio.play().catch(() => res());
+    });
+    const eng = localEngine();
+    return eng ? ML.tts.speak(CHAPTER_CUE, localOpts(eng)).catch(() => {}) : Promise.resolve();
+  }
   async function chapterEnd() {
     if (sleepEndOfChapter) { sleepEndOfChapter = false; $("#pSleep").value = "0"; stop(); toast("Đã hết chương — dừng theo hẹn giờ"); return; }
     if (!S.autoNext || ctx.idx >= ctx.story.chapters.length - 1) {
       stop(); pos = Math.max(0, chunks.length - 1); updateUI();
       toast(ctx.idx >= ctx.story.chapters.length - 1 ? "Đã nghe hết truyện" : "Hết chương");
       return;
+    }
+    if (S.ttsChapterCue) {
+      const my = gen;
+      chapterOf(ctx.source, ctx.key, ctx.story.chapters[ctx.idx + 1].file).catch(() => {});
+      await sayCue();
+      if (my !== gen || !playing) return;
     }
     await gotoChapter(ctx.idx + 1, 0, true);
   }
@@ -561,7 +740,9 @@ const Player = (() => {
   }
   function stopAudio() {
     audio.pause(); audio.removeAttribute("src"); audio.load();
-    if ("speechSynthesis" in window) speechSynthesis.cancel();
+    const cueDone = cueAudio.onended; cueAudio.onended = cueAudio.onerror = null;
+    cueAudio.pause(); cueAudio.removeAttribute("src"); cueDone?.();
+    ML.tts.stop();
   }
   function stop() { gen++; playing = false; stopAudio(); busy(false); setIcon(); }
 
@@ -582,7 +763,7 @@ const Player = (() => {
     if (playing) { stop(); updateUI(); highlight(false); }
     else {
       playing = true; setIcon();
-      if (S.engine === "edge" && audio.src && audio.paused && audio.currentTime > 0 && !audio.ended) { gen++; const my = gen; audio.play().catch(() => my === gen && speak()); }
+      if (useEdge() && audio.src && audio.paused && audio.currentTime > 0 && !audio.ended) { gen++; const my = gen; audio.play().catch(() => my === gen && speak()); }
       else speak();
     }
   }
@@ -603,13 +784,14 @@ const Player = (() => {
   }
   function rateChanged() {
     audio.playbackRate = S.rate;
-    if (S.engine === "browser" && playing) speak();
+    if (!useEdge() && playing) speak();
   }
   function engineChanged() {
     const was = playing; stop();
     if (ctx?.chapter) { const p = chunks[pos]?.p ?? 0; chunks = buildChunks(ctx.chapter); pos = Math.max(0, chunks.findIndex((x) => x.p >= p)); }
     prefetched.clear();
     if (was) { playing = true; setIcon(); speak(); }
+    else updateUI();
   }
 
   // controls
@@ -630,65 +812,28 @@ const Player = (() => {
     try { ms.setActionHandler("seekforward", () => step(1)); ms.setActionHandler("seekbackward", () => step(-1)); } catch { /* */ }
   }
   return { start, toggle, step, close, highlight, matches, rateChanged, engineChanged, get active() { return !!ctx; },
-    get chapterIdx() { return ctx?.idx; }, gotoChapter: (i) => ctx && gotoChapter(i, 0, playing) };
+    get chapterIdx() { return ctx?.idx; }, get para() { return Math.max(0, chunks[pos]?.p ?? 0); }, get playing() { return playing; },
+    get engine() { return lastEngine; }, gotoChapter: (i) => ctx && gotoChapter(i, 0, playing) };
 })();
 
-// ---------------------------------------------------------------- settings UI
-function bindSeg(id, key, after) {
-  const seg = $(id);
-  const paint = () => seg.querySelectorAll("button").forEach((b) => b.classList.toggle("on", b.dataset.v === String(S[key])));
-  seg.onclick = (e) => { const v = e.target.dataset.v; if (!v) return; S[key] = v; saveS(); paint(); applyS(); after?.(); };
-  paint();
-}
-function bindRange(id, key, fmt) {
-  const inp = $(id), lbl = $(id + "V");
-  inp.value = S[key]; lbl.textContent = fmt(S[key]);
-  inp.oninput = () => { S[key] = +inp.value; lbl.textContent = fmt(S[key]); saveS(); applyS(); };
-}
-function bindCheck(id, key) { const c = $(id); c.checked = !!S[key]; c.onchange = () => { S[key] = c.checked; saveS(); }; }
-async function fillVoices() {
-  const sel = $("#sVoice");
-  if (S.engine === "edge") {
-    const j = await api("voices").catch(() => ({ voices: [] }));
-    const vs = j.voices || [];
-    sel.innerHTML = vs.map((v) => `<option value="${esc(v.id)}">${esc(v.name.replace(/^Microsoft\s+/, "").replace(/ Online \(Natural\)/, ""))} — ${esc(v.id)}</option>`).join("");
-    if (!vs.some((v) => v.id === S.voice) && vs[0]) S.voice = vs[0].id;
-    sel.value = S.voice;
-    sel.onchange = () => { S.voice = sel.value; saveS(); Player.engineChanged(); };
-  } else {
-    const load = () => {
-      const vs = speechSynthesis.getVoices();
-      const vi = vs.filter((v) => /^vi/i.test(v.lang));
-      const list = vi.length ? vi : vs;
-      sel.innerHTML = (vi.length ? "" : `<option value="">(Không có giọng tiếng Việt — cài thêm trong Windows)</option>`) +
-        list.map((v) => `<option value="${esc(v.voiceURI)}">${esc(v.name)} (${esc(v.lang)})</option>`).join("");
-      sel.value = S.browserVoice || (vi[0]?.voiceURI ?? "");
-    };
-    load(); if ("speechSynthesis" in window) speechSynthesis.onvoiceschanged = load;
-    sel.onchange = () => { S.browserVoice = sel.value; saveS(); Player.engineChanged(); };
-  }
-}
-function initSettings() {
-  bindSeg("#sTheme", "theme");
-  bindSeg("#sFont", "font");
-  bindSeg("#sEngine", "engine", () => {
-    if (S.engine === "edge" && !TTS_INFO.edge) { toast("Server chưa có edge-tts (pip install edge-tts)"); S.engine = "browser"; saveS(); bindSeg("#sEngine", "engine"); }
-    fillVoices(); Player.engineChanged();
-  });
-  bindRange("#sSize", "size", (v) => v + "px");
-  bindRange("#sLine", "line", (v) => Number(v).toFixed(1));
-  bindRange("#sWidth", "width", (v) => v + "px");
-  bindCheck("#sAutoNext", "autoNext"); bindCheck("#sFollow", "follow"); bindCheck("#sReadTitle", "readTitle");
-  fillVoices();
+// ---------------------------------------------------------------- settings (panel: js/settings-panel.js)
+const LAYOUT_KEYS = new Set(["font", "weight", "size", "line", "letter", "word", "align", "indent", "paraGap", "margin", "width", "readMode"]);
+function initControls() {
+  ML.settingsPanel.init();
   const rate = $("#pRate");
   rate.innerHTML = RATES.map((r) => `<option value="${r}">${r}×</option>`).join("");
+  if (!RATES.includes(S.rate)) rate.insertAdjacentHTML("beforeend", `<option value="${S.rate}">${S.rate}×</option>`);
   rate.value = String(S.rate);
-  rate.onchange = () => { S.rate = +rate.value; saveS(); Player.rateChanged(); };
-  const dr = $("#settings");
-  $("#btnSettings").onclick = () => dr.classList.toggle("hidden");
-  $("#sClose").onclick = () => dr.classList.add("hidden");
+  rate.onchange = () => ML.settings.set("rate", +rate.value);
   $("#btnMenu").onclick = () => document.body.classList.toggle("side-open");
   $("#scrim").onclick = () => document.body.classList.remove("side-open");
+  ML.settings.onChange((k) => {
+    if (k === "rate") { rate.value = String(S.rate); Player.rateChanged(); }
+    else if (["engine", "voice", "browserVoice", "nativeVoice", "ttsClean", "readTitle"].includes(k)) Player.engineChanged();
+    else if (k === "pitch" && S.engine !== "edge") Player.engineChanged();
+    if (k === "readMode" && S.readMode !== "page") document.body.classList.remove("chrome-hidden");
+    if (LAYOUT_KEYS.has(k)) relayout();
+  });
 }
 
 // ---------------------------------------------------------------- keys
@@ -696,20 +841,30 @@ document.addEventListener("keydown", (e) => {
   if (e.target.closest("input, select, textarea") || e.ctrlKey || e.metaKey || e.altKey) return;
   const r = parseHash();
   if (e.key === " " && (r.view === "read" || Player.active)) { e.preventDefault(); Player.toggle(); }
-  else if ((e.key === "ArrowRight" || e.key === "ArrowLeft") && r.view === "read" && READ) {
+  else if (Pager.active && !e.shiftKey && ["ArrowRight", "ArrowLeft", "PageDown", "PageUp"].includes(e.key)) {
+    e.preventDefault(); Pager.turn(e.key === "ArrowRight" || e.key === "PageDown" ? 1 : -1);
+  } else if ((e.key === "ArrowRight" || e.key === "ArrowLeft") && r.view === "read" && READ) {
     const d = e.key === "ArrowRight" ? 1 : -1, ni = READ.idx + d;
     if (ni < 0 || ni >= READ.story.chapters.length) return;
     if (e.shiftKey && Player.active) Player.gotoChapter(Player.chapterIdx + d);
     else location.hash = readHref(READ.source, READ.key, ni);
   } else if (e.key === "j") Player.step(1);
   else if (e.key === "k") Player.step(-1);
-  else if (e.key === "Escape") { $("#settings").classList.add("hidden"); document.body.classList.remove("side-open"); }
+  else if (e.key === "Escape") { ML.settingsPanel.close(); document.body.classList.remove("side-open", "chrome-hidden"); }
 });
 
 // ---------------------------------------------------------------- boot
 (async () => {
-  initSettings();
-  try { await loadSources(); } catch (e) { $("#sources").innerHTML = `<div class="pad err">${esc(e.message)}</div>`; }
-  if (!TTS_INFO.edge) bindSeg("#sEngine", "engine");
+  initControls();
+  ML.pwa?.init();
+  $("#view").innerHTML = loadingHTML("Đang kết nối nguồn dữ liệu…");
+  try { await ML.backend.init(); } catch (e) { console.warn("backend:", e); }
+  if (ML.backend.kind !== "none") {
+    try { await loadSources(); } catch (e) { BOOT_ERR = e.message; $("#sources").innerHTML = `<div class="pad err">${esc(e.message)}</div>`; }
+  } else {
+    if (S.engine === "edge") ML.settings.set("engine", localEngine() || "browser");
+    renderSidebar();
+  }
+  ML.settingsPanel.refreshVoices?.();
   route();
 })();

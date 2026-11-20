@@ -1,0 +1,15 @@
+{
+  "appId": "io.github.mythlab.reader",
+  "appName": "MythLab Truyện",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "CapacitorHttp": { "enabled": false },
+    "SystemBars": { "style": "DARK" }
+  }
+}
