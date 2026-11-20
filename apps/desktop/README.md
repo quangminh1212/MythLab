@@ -23,7 +23,7 @@ powershell -ExecutionPolicy Bypass -File apps\desktop\build.ps1          # thêm
 
 `build.ps1` tạo venv riêng ở `apps\desktop\.venv` bằng `python -m venv` (không dùng `py -3.14`), cài
 `requirements.txt` rồi chạy PyInstaller với `MythLab.spec`. Kết quả là một thư mục, không có console:
-`apps\desktop\dist\MythLab\MythLab.exe`. Icon lấy từ `reader/static/icons/icon-512.png` (Pillow chuyển sang `.ico`).
+`apps\desktop\dist\MythLab\MythLab.exe`. Icon: `apps/desktop/MythLab.ico` (logo XLab, 16–256 px).
 
 Không commit `build/`, `dist/`, `.venv/`.
 

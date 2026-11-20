@@ -11,7 +11,9 @@ ICONS = READER / "static" / "icons"
 
 
 def make_icon() -> str | None:
-    """icon.ico (16–256) từ icons/icon-512.png; thiếu ảnh thì vẽ tạm ô vuông teal."""
+    """MythLab.ico (logo XLab, 16–256); thiếu thì tạo từ icons/icon-512.png hoặc vẽ tạm ô vuông teal."""
+    if (HERE / "MythLab.ico").exists():
+        return str(HERE / "MythLab.ico")
     out = HERE / "build" / "icon.ico"
     try:
         from PIL import Image, ImageDraw
