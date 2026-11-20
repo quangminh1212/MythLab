@@ -29,6 +29,12 @@
       return impl.get("/" + String(path || "").replace(/^\/+/, ""));
     },
     ttsUrl(opts) { return impl && impl.kind === "server" ? impl.ttsUrl(opts || {}) : null; },
+    // URL ảnh bìa của truyện: chuỗi (server/poster) hoặc Promise (blob ảnh trong repo GitHub); null nếu không có
+    coverUrl(st) {
+      if (impl?.coverUrl) return impl.coverUrl(st);
+      const u = st?.poster || "";
+      return /^https?:\/\//i.test(u) ? u : null;
+    },
     testToken(token) {
       if (!token) return Promise.resolve({ ok: false, login: null, repos: 0, rateRemaining: null, error: "Chưa nhập token" });
       return ML.GitHubBackend(token, ML.store.get("mythlab.ghSource", {}) || {}).testToken();

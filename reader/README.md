@@ -19,6 +19,16 @@ Cần Python 3.10+. Giọng Edge: `python -m pip install edge-tts`. Token GitHub
 
 Không có tham số, server chỉ nghe ở `127.0.0.1`.
 
+### Ảnh bìa
+
+`/api/cover?source=&key=` trả ảnh trong thư mục truyện (`cover.*` > `poster.*` > `folder.*` > `thumb.*` > ảnh bất kỳ);
+không có thì tải `poster` trong `info.json` một lần (http/https, ≤ 3 MB, chỉ `image/*`) và cache ở `reader/.cache/covers/`.
+Truyện không có ảnh nào được vẽ bìa tự động. Tải sẵn mọi poster trước khi CDN nguồn biến mất:
+
+```powershell
+python reader\server.py --prefetch-covers
+```
+
 ## Chế độ LAN (đọc từ điện thoại cùng Wi-Fi)
 
 ```powershell

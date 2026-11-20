@@ -29,12 +29,17 @@
   const isNetErr = (e) => e && !e.ghStatus && (e.name === "TypeError" || e.name === "AbortError");
   const segs = (s) => String(s).split("/").map(encodeURIComponent).join("/");
   const cmp = (a, b) => (a < b ? -1 : a > b ? 1 : 0);
+  // ảnh bìa trong thư mục truyện: cover.* > poster.* > folder.* > thumb.* > ảnh bất kỳ (như pick_cover của server.py)
+  const IMG_RE = /\.(jpe?g|png|webp|gif|avif)$/i;
+  const coverRank = (f) => { const i = ["cover", "poster", "folder", "thumb"].indexOf(f.replace(IMG_RE, "").toLowerCase()); return i < 0 ? 9 : i; };
+  const betterCover = (a, b) => !b || coverRank(a) < coverRank(b) || (coverRank(a) === coverRank(b) && a < b);
+  const TREE_V = 2; // tăng khi đổi cấu trúc tóm tắt cây
 
   ML.GitHubBackend = function (token, { owner = "", prefix = "Done_", sid = "gh0" } = {}) {
     const T = ML.textutil;
     const self = { kind: "github", sid, owner, prefix, name: `GitHub ${owner || "(tôi)"}/${prefix}*` };
 
-    async function gh(url, { raw = false, etag = null } = {}) {
+    async function gh(url, { raw = false, bin = false, etag = null } = {}) {
       await acquire();
       try {
         const headers = { Accept: raw ? "application/vnd.github.raw" : "application/vnd.github+json" };
@@ -50,7 +55,7 @@
           const reason = r.statusText || REASON[r.status] || "Error";
           throw err(502, `GitHub ${r.status}: ${reason}`, { ghStatus: r.status });
         }
-        res.body = raw ? await r.text() : await r.json(); // text(): UTF-8, bỏ BOM, lỗi → U+FFFD (như utf-8-sig/replace)
+        res.body = bin ? await r.blob() : raw ? await r.text() : await r.json(); // text(): UTF-8, bỏ BOM, lỗi → U+FFFD (như utf-8-sig/replace)
         return res;
       } finally { release(); }
     }
@@ -129,9 +134,10 @@
         const parts = e.path.split("/");
         if (parts.length !== 2) continue;
         const [story, fname] = parts;
-        if (!stories.has(story)) stories.set(story, { info: null, chapters: [] });
+        if (!stories.has(story)) stories.set(story, { info: null, chapters: [], cover: null });
         const s = stories.get(story);
         if (fname === "info.json") s.info = e.sha;
+        else if (IMG_RE.test(fname)) { if (betterCover(fname, s.cover?.[0])) s.cover = [fname, e.sha]; }
         else {
           const p = T.parseChapterName(fname);
           if (p) s.chapters.push([p[0], p[1], fname, e.sha]);
@@ -156,7 +162,7 @@
     async function loadTree(repo, force = false) {
       const mk = "tree:" + repo;
       const c = force ? null : await ML.idb.get("meta", mk);
-      if (c && Date.now() - c.at < TTL) { const s = await ML.idb.get("trees", c.sha); if (s) return s; }
+      if (c && Date.now() - c.at < TTL) { const s = await ML.idb.get("trees", c.sha); if (s?.v === TREE_V) return s; }
       const offline = async (e) => { const s = c && isNetErr(e) && (await ML.idb.get("trees", c.sha)); if (s) return s; throw e; };
       let own, url, r;
       try {
@@ -167,17 +173,17 @@
       } catch (e) { return offline(e); }
       if (r.status === 304) {
         const s = await ML.idb.get("trees", c.sha);
-        if (s) { await ML.idb.put("meta", mk, { ...c, at: Date.now() }); return s; }
+        if (s?.v === TREE_V) { await ML.idb.put("meta", mk, { ...c, at: Date.now() }); return s; }
         r = await gh(url);
       }
       const sha = r.body.sha;
       let sum = force ? null : await ML.idb.get("trees", sha);
-      if (!sum) {
+      if (sum?.v !== TREE_V) {
         const stories = buildStories(r.body.truncated ? await treeSlow(own, repo, sha) : r.body.tree || []);
         r = { etag: r.etag }; // bỏ JSON cây lớn khỏi RAM
-        sum = { sha, stories: Object.create(null) };
+        sum = { v: TREE_V, sha, stories: Object.create(null) };
         await Promise.all([...stories].map(([k, s]) => {
-          sum.stories[k] = { info: s.info, n: s.chapters.length };
+          sum.stories[k] = { info: s.info, n: s.chapters.length, c: s.cover?.[1] || null };
           return ML.idb.put("trees", `${sha}/${k}`, s.chapters);
         }));
         await ML.idb.put("trees", sha, sum);
@@ -229,6 +235,30 @@
       return blobsP.get(sha);
     }
 
+    // ảnh bìa trong repo: tải blob khi cần (IndexedDB "blobs", khoá "img:<sha>") → object URL
+    const coverUrls = new Map();
+    function coverBlobUrl(repo, sha) {
+      if (!coverUrls.has(sha)) {
+        const p = (async () => {
+          let b = await ML.idb.get("blobs", "img:" + sha);
+          if (!(b instanceof Blob)) {
+            b = (await gh(`/repos/${await ownerName()}/${segs(repo)}/git/blobs/${sha}`, { raw: true, bin: true })).body;
+            await ML.idb.put("blobs", "img:" + sha, b);
+          }
+          return URL.createObjectURL(b);
+        })();
+        coverUrls.set(sha, p);
+        p.catch(() => coverUrls.delete(sha));
+      }
+      return coverUrls.get(sha);
+    }
+    // 'cover': poster khi thư mục không có ảnh; có ảnh thì 'cover_sha' → coverUrl() lấy blob (lười)
+    const withCover = (st, c) => Object.assign(st, { cover: c ? null : st.poster, cover_sha: c || null });
+    function coverUrl(st) { // chuỗi/null; Promise<object URL> nếu ảnh nằm trong repo
+      if (st?.cover_sha && st.key) return coverBlobUrl(split(st.key)[0], st.cover_sha);
+      return [st?.cover, st?.poster].find((u) => typeof u === "string" && /^https?:\/\//i.test(u)) || null;
+    }
+
     async function infoFor(repo, story) {
       const s = own((await tree(repo)).stories, story);
       if (!s || !s.info) return null;
@@ -239,10 +269,10 @@
       const list = repo ? [repo] : (await repos()).map((r) => r.repo);
       const parts = await Promise.all(list.map(async (rp) => {
         const t = (await tree(rp)).stories;
-        return Promise.all(Object.keys(t).sort(cmp).map(async (story) => ({
+        return Promise.all(Object.keys(t).sort(cmp).map(async (story) => withCover({
           key: `${rp}/${story}`, folder: story, group: rp, chapter_files: t[story].n,
           ...T.infoSummary(await infoFor(rp, story), story),
-        })));
+        }, t[story].c)));
       }));
       return parts.flat();
     }
@@ -277,7 +307,8 @@
           const [repo, story] = split(key);
           const info = await infoFor(repo, story);
           const chs = await chaptersOf(repo, story);
-          return { key, source: q.source, ...T.infoSummary(info, key.split("/").pop()),
+          const c = own((await tree(repo)).stories, story)?.c;
+          return { ...withCover({ key, source: q.source, ...T.infoSummary(info, key.split("/").pop()) }, c),
             chapters: chs.map((c) => ({ n: c[0], title: c[1], file: c[2] })) };
         }
         case "chapter": {
@@ -316,6 +347,6 @@
       }
     }
 
-    return Object.assign(self, { get, ttsUrl: () => null, repos, testToken, describe });
+    return Object.assign(self, { get, ttsUrl: () => null, coverUrl, repos, testToken, describe });
   };
 })();

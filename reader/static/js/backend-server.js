@@ -37,6 +37,13 @@
         return r.status !== 401 && r.status !== 403 && /json/i.test(r.headers.get("Content-Type") || "") && !!(await r.json());
       } catch { return false; } finally { clearTimeout(t); }
     }
-    return { kind: "server", base, key, get, ttsUrl, ping };
+    // ảnh bìa: /api/cover của server (ảnh trong thư mục truyện hoặc poster đã cache); không có thì poster gốc
+    function coverUrl(st) {
+      const c = st && st.cover;
+      if (typeof c === "string" && c.startsWith("/api/")) return base + c + (key ? `&k=${encodeURIComponent(key)}` : "");
+      const u = (st && (c || st.poster)) || "";
+      return /^https?:\/\//i.test(u) ? u : null;
+    }
+    return { kind: "server", base, key, get, ttsUrl, coverUrl, ping };
   };
 })();

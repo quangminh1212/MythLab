@@ -11,6 +11,7 @@ Nguồn hỗ trợ (cấu hình trong config.json):
               xác thực bằng GITHUB_TOKEN hoặc `gh auth token`; cache ra đĩa.
 
 Chạy:  python server.py  [--port 8765] [--host 127.0.0.1] [--lan]
+       python server.py --prefetch-covers   (tải & cache mọi ảnh poster vào <cache>/covers rồi thoát)
        --lan: mở cho mạng LAN (0.0.0.0); mọi /api/* cần khoá truy cập (X-MythLab-Key hoặc ?k=).
 """
 from __future__ import annotations
@@ -53,6 +54,8 @@ else:
 
 CHAPTER_RE = re.compile(r"^Chương\s+(\d+)\s*[-:.–]?\s*(.*?)\.txt$", re.IGNORECASE)
 HEADER_RULE = re.compile(r"^\s*[=\-_*]{5,}\s*$")
+IMG_EXT = {".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png", ".webp": "image/webp", ".gif": "image/gif", ".avif": "image/avif"}
+COVER_MAX = 3 * 1024 * 1024
 
 DEFAULT_CONFIG = {
     "local": [
@@ -139,6 +142,23 @@ def info_summary(info: dict | None, fallback_name: str) -> dict:
     }
 
 
+def pick_cover(names) -> str | None:
+    """Ảnh bìa trong thư mục truyện: cover.* > poster.* > ảnh bất kỳ (theo tên)."""
+    imgs = sorted(n for n in names if Path(n).suffix.lower() in IMG_EXT)
+    for stem in ("cover", "poster", "folder", "thumb"):
+        for n in imgs:
+            if Path(n).stem.lower() == stem:
+                return n
+    return imgs[0] if imgs else None
+
+
+def with_cover(sid: str, st: dict, has_image: bool) -> dict:
+    """Thêm 'cover' (URL /api/cover) nếu truyện có ảnh trong thư mục hoặc poster; giữ nguyên 'poster'."""
+    st["cover"] = (f"/api/cover?source={urllib.parse.quote(sid)}&key={urllib.parse.quote(st['key'])}"
+                   if has_image or st.get("poster") else None)
+    return st
+
+
 # ---------------------------------------------------------------------------
 # Providers
 # ---------------------------------------------------------------------------
@@ -185,9 +205,10 @@ class LocalProvider:
                     info = json.loads((d / "info.json").read_text(encoding="utf-8-sig"))
                 except Exception:  # noqa: BLE001
                     info = None
-            n = sum(1 for f in d.iterdir() if f.is_file() and parse_chapter_name(f.name))
-            res.append({"key": key, "folder": d.name, "group": key.split("/")[0] if "/" in key else None,
-                        "chapter_files": n, **info_summary(info, d.name)})
+            files = [f.name for f in d.iterdir() if f.is_file()]
+            n = sum(1 for f in files if parse_chapter_name(f))
+            res.append(with_cover(self.id, {"key": key, "folder": d.name, "group": key.split("/")[0] if "/" in key else None,
+                                             "chapter_files": n, **info_summary(info, d.name)}, bool(pick_cover(files))))
         return res
 
     def _dir(self, key: str) -> Path:
@@ -211,6 +232,16 @@ class LocalProvider:
         if f.parent != self._dir(key) or not parse_chapter_name(f.name):
             raise PermissionError("bad chapter file")
         return f.read_text(encoding="utf-8-sig", errors="replace")
+
+    def cover_name(self, key: str):
+        return pick_cover(f.name for f in self._dir(key).iterdir() if f.is_file())
+
+    def cover_image(self, key: str):
+        """(bytes, content-type) của ảnh trong thư mục truyện, hoặc None."""
+        d, name = self._dir(key), self.cover_name(key)
+        if not name or (d / name).stat().st_size > 4 * COVER_MAX:
+            return None
+        return (d / name).read_bytes(), IMG_EXT[Path(name).suffix.lower()]
 
     def info(self, key: str):
         p = self._dir(key) / "info.json"
@@ -324,7 +355,7 @@ class GitHubProvider:
             raise
         if cfile.exists():
             cached = json.loads(cfile.read_text(encoding="utf-8"))
-            if cached.get("sha") == sha:
+            if cached.get("sha") == sha and cached.get("v") == 2:
                 with self._lock:
                     self._trees[repo] = (time.time(), cached["stories"])
                 return cached["stories"]
@@ -340,9 +371,12 @@ class GitHubProvider:
             if len(parts) != 2:
                 continue
             story, fname = parts
-            s = stories.setdefault(story, {"info": None, "chapters": []})
+            s = stories.setdefault(story, {"info": None, "chapters": [], "cover": None})
             if fname == "info.json":
                 s["info"] = e["sha"]
+            elif Path(fname).suffix.lower() in IMG_EXT:
+                if pick_cover([fname] + ([s["cover"][0]] if s["cover"] else [])) == fname:
+                    s["cover"] = [fname, e["sha"]]
             else:
                 p = parse_chapter_name(fname)
                 if p:
@@ -350,7 +384,7 @@ class GitHubProvider:
         for s in stories.values():
             s["chapters"].sort(key=lambda c: (c[0], c[2]))
         stories = {k: v for k, v in stories.items() if v["chapters"] or v["info"]}
-        cfile.write_text(json.dumps({"sha": sha, "stories": stories}, ensure_ascii=False), encoding="utf-8")
+        cfile.write_text(json.dumps({"v": 2, "sha": sha, "stories": stories}, ensure_ascii=False), encoding="utf-8")
         with self._lock:
             self._trees[repo] = (time.time(), stories)
         return stories
@@ -392,8 +426,9 @@ class GitHubProvider:
             tree = self._tree(rp)
             out = []
             for story, s in sorted(tree.items()):
-                out.append({"key": f"{rp}/{story}", "folder": story, "group": rp,
-                            "chapter_files": len(s["chapters"]), **info_summary(self.info_for(rp, story), story)})
+                out.append(with_cover(self.id, {"key": f"{rp}/{story}", "folder": story, "group": rp,
+                                                "chapter_files": len(s["chapters"]), **info_summary(self.info_for(rp, story), story)},
+                                      bool(s.get("cover"))))
             return out
 
         with ThreadPoolExecutor(max_workers=8) as ex:
@@ -421,6 +456,16 @@ class GitHubProvider:
 
     def info(self, key: str):
         return self.info_for(*self._split(key))
+
+    def cover_name(self, key: str):
+        repo, story = self._split(key)
+        c = (self._tree(repo).get(story) or {}).get("cover")
+        return c[0] if c else None
+
+    def cover_image(self, key: str):
+        repo, story = self._split(key)
+        c = (self._tree(repo).get(story) or {}).get("cover")
+        return (self.blob(repo, c[1]), IMG_EXT[Path(c[0]).suffix.lower()]) if c else None
 
 
 class Library:
@@ -520,6 +565,116 @@ def list_voices():
     except Exception:  # noqa: BLE001
         _voices_cache = VOICES_FALLBACK
     return _voices_cache
+
+
+# ---------------------------------------------------------------------------
+# Ảnh bìa: poster (URL trong info.json) tải 1 lần → <cache>/covers/<sha1>.<ext>
+# ---------------------------------------------------------------------------
+COVERS = CACHE / "covers"
+MISS_TTL = 86400  # tải lỗi → thử lại sau 1 ngày
+_cover_locks: dict[str, threading.Lock] = {}
+_cover_guard = threading.Lock()
+
+
+def _public_host(host: str) -> bool:
+    import ipaddress
+    try:
+        return all(ipaddress.ip_address(a[4][0].split("%")[0]).is_global for a in socket.getaddrinfo(host, None))
+    except (OSError, ValueError):
+        return False
+
+
+class _SafeRedirect(urllib.request.HTTPRedirectHandler):
+    """Chuyển hướng chỉ tới http(s) + host công cộng (chặn SSRF qua redirect)."""
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        u = urllib.parse.urlsplit(newurl)
+        if u.scheme not in ("http", "https") or not _public_host(u.hostname or ""):
+            raise ValueError(f"chuyển hướng không hợp lệ: {newurl}")
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+_cover_opener = urllib.request.build_opener(_SafeRedirect)
+
+
+def _cover_hit(h: str) -> Path | None:
+    return next((f for f in COVERS.glob(h + ".*") if f.suffix in IMG_EXT or f.suffix == ".img"), None) if COVERS.is_dir() else None
+
+
+def poster_cached(url: str | None, retry: bool = False) -> Path | None:
+    """Đường dẫn ảnh poster đã cache (chưa có thì tải 1 lần); None nếu không tải được."""
+    if not isinstance(url, str) or not re.match(r"^https?://", url, re.I):
+        return None
+    h = hashlib.sha1(url.encode()).hexdigest()
+    hit = _cover_hit(h)
+    if hit:
+        return hit
+    miss = COVERS / f"{h}.miss"
+    with _cover_guard:
+        lock = _cover_locks.setdefault(h, threading.Lock())
+    with lock:
+        hit = _cover_hit(h)
+        if hit:
+            return hit
+        if not retry and miss.exists() and time.time() - miss.stat().st_mtime < MISS_TTL:
+            return None
+        COVERS.mkdir(parents=True, exist_ok=True)
+        try:
+            host = urllib.parse.urlsplit(url).hostname or ""
+            if not _public_host(host):
+                raise ValueError(f"host không hợp lệ: {host}")
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (mythlab-reader)", "Accept": "image/*"})
+            with _cover_opener.open(req, timeout=15) as r:
+                ctype = (r.headers.get_content_type() or "").lower()
+                if not ctype.startswith("image/"):
+                    raise ValueError(f"không phải ảnh: {ctype}")
+                data = r.read(COVER_MAX + 1)
+            if not data or len(data) > COVER_MAX:
+                raise ValueError("ảnh rỗng hoặc quá 3 MB")
+            ext = next((e for e, t in IMG_EXT.items() if t == ctype), ".img")
+            out = COVERS / f"{h}{ext}"
+            tmp = COVERS / f"{h}.{threading.get_ident()}.tmp"
+            tmp.write_bytes(data)
+            os.replace(tmp, out)
+            miss.unlink(missing_ok=True)
+            return out
+        except Exception as e:  # noqa: BLE001
+            miss.write_text(f"{url}\n{type(e).__name__}: {e}", encoding="utf-8")
+            return None
+
+
+def prefetch_covers(workers: int = 6) -> None:
+    """--prefetch-covers: tải & cache mọi poster của mọi nguồn (tối đa `workers` luồng)."""
+    posters, n_img, n_none, n_all = {}, 0, 0, 0
+    for p in LIB.providers.values():
+        stories = []
+        try:  # GitHub: từng repo một → repo lỗi (vd. hết hạn mức API) không làm mất các repo khác
+            parts = [lambda r=r["repo"]: p.list_stories(r) for r in p.repos()] if p.kind == "github" else [p.list_stories]
+        except Exception as e:  # noqa: BLE001
+            parts = []
+            print(f"[covers] {p.describe()['name']}: lỗi {e}", file=sys.stderr)
+        for part in parts:
+            try:
+                stories += part()
+            except Exception as e:  # noqa: BLE001
+                print(f"[covers] {p.describe()['name']}: lỗi {e}", file=sys.stderr)
+        for st in stories:
+            n_all += 1
+            if p.cover_name(st["key"]):
+                n_img += 1
+            elif st.get("poster"):
+                posters.setdefault(st["poster"], st["name"])
+            else:
+                n_none += 1
+        print(f"[covers] {p.describe()['name']}: {len(stories)} truyện", flush=True)
+    ok = fail = 0
+    t0 = time.time()
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        for i, path in enumerate(ex.map(lambda u: poster_cached(u, retry=True), posters), 1):
+            ok, fail = ok + bool(path), fail + (not path)
+            if i % 100 == 0 or i == len(posters):
+                print(f"[covers] {i}/{len(posters)}  ok={ok} lỗi={fail}  ({time.time() - t0:.0f}s)", flush=True)
+    print(f"[covers] xong: {n_all} truyện · ảnh trong thư mục {n_img} · poster tải được {ok}/{len(posters)} (lỗi {fail})"
+          f" · không có ảnh {n_none} → {COVERS}")
 
 
 # ---------------------------------------------------------------------------
@@ -642,8 +797,27 @@ class Handler(SimpleHTTPRequestHandler):
                 key = q["key"]
                 info = p.info(key)
                 folder = key.split("/")[-1]
-                return self._json({"key": key, "source": q["source"], **info_summary(info, folder),
-                                   "chapters": p.chapters(key)})
+                st = with_cover(q["source"], {"key": key, "source": q["source"], **info_summary(info, folder)},
+                                bool(p.cover_name(key)))
+                return self._json({**st, "chapters": p.chapters(key)})
+            if route == "cover":
+                p = LIB.get(q["source"])
+                key = q["key"]
+                img = p.cover_image(key)
+                if not img:
+                    path = poster_cached(info_summary(p.info(key), key)["poster"])
+                    if not path:
+                        return self._err(404, "truyện chưa có ảnh bìa")
+                    img = path.read_bytes(), IMG_EXT.get(path.suffix, "application/octet-stream")
+                data, ctype = img
+                self.send_response(200)
+                self.send_header("Content-Type", ctype)
+                self.send_header("Content-Length", str(len(data)))
+                self.send_header("Cache-Control", "public, max-age=2592000")
+                self.send_header("X-Content-Type-Options", "nosniff")
+                self.end_headers()
+                self.wfile.write(data)
+                return
             if route == "chapter":
                 p = LIB.get(q["source"])
                 raw = p.read_chapter(q["key"], q["file"])
@@ -736,12 +910,15 @@ def main():
     ap.add_argument("--host", default="127.0.0.1")
     ap.add_argument("--port", type=int, default=8765)
     ap.add_argument("--lan", action="store_true", help="mở cho mạng LAN (0.0.0.0); /api/* cần khoá truy cập")
+    ap.add_argument("--prefetch-covers", action="store_true", help="tải & cache mọi ảnh poster rồi thoát")
     args = ap.parse_args()
     for s in (sys.stdout, sys.stderr):
         try:
             s.reconfigure(encoding="utf-8", errors="replace")
         except Exception:  # noqa: BLE001
             pass
+    if args.prefetch_covers:
+        return prefetch_covers()
     srv = make_server(args.host, args.port, args.lan)
     host, port = srv.server_address[:2]
     if args.lan:

@@ -42,6 +42,9 @@ function saveProgress(p) {
   PROG[sKey(p.source, p.key)] = { ...PROG[sKey(p.source, p.key)], ...p, ts: Date.now() };
   store.set("mythlab.progress", PROG);
 }
+// thông tin truyện lưu kèm tiến độ (cho danh sách "Đang đọc dở": bìa, tác giả)
+const storyMeta = (st) => ({ name: st.name, poster: st.poster, cover: st.cover || null, cover_sha: st.cover_sha || null,
+  author: st.author || null, genres: (st.genres || []).slice(0, 3), group: st.key?.includes("/") ? st.key.split("/")[0] : null });
 const recentList = () => Object.values(PROG).sort((a, b) => b.ts - a.ts);
 
 // ---------------------------------------------------------------- data
@@ -58,7 +61,7 @@ function localEngine() {
 async function loadSources() {
   const j = await api("sources");
   SOURCES = j.sources; TTS_INFO = j.tts || TTS_INFO;
-  if (S.engine === "edge" && !edgeOK()) ML.settings.set("engine", localEngine() || "browser");
+  // Edge không dùng được (không có server/edge-tts): Player tự đọc bằng localEngine(), không ghi đè lựa chọn đã lưu
   renderSidebar();
 }
 const storiesOf = (source, repo) => api(`stories?source=${enc(source)}${repo ? `&repo=${enc(repo)}` : ""}`).then((j) => j.stories);
@@ -125,18 +128,84 @@ window.addEventListener("hashchange", route);
 const stale = (tok) => tok !== renderToken;
 function setCrumb(html) { $("#crumb").innerHTML = html; }
 
-// ---------------------------------------------------------------- cards
-function coverHTML(st, extra = "") {
-  const name = st.name || st.folder;
-  const img = /^(https?:)?\/\//i.test(st.poster || "") ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(st.poster)}" alt="" onerror="this.remove()">` : "";
-  return `<div class="cover" style="--h:${hashHue(name)}"><div class="ph">${esc(name)}</div>${img}${extra}</div>`;
+// ---------------------------------------------------------------- covers
+// Bìa sinh tự động (SVG, cố định theo truyện): màu theo hash tên, hoạ tiết theo thể loại, tên truyện chữ serif.
+const MOTIFS = [
+  [/tien hiep|huyen huyen|tu chan|tu tien|kiem hiep|vo hiep|co dai|cung dau|dong phuong/, "M0 250 L45 185 L75 215 L110 160 L150 210 L175 190 L200 225 V300 H0Z M20 300 L70 232 L100 258 L135 222 L200 280 M145 95 a24 24 0 1 0 .1 0"],
+  [/lich su|quan su|quan truong|chien tranh|binh/, "M100 300 V170 M100 170 L60 150 M100 170 L140 150 M100 170 L72 120 M100 170 L128 120 M100 170 V105 M30 260 H170 M45 280 H155"],
+  [/mat the|khoa huyen|vong du|he thong|tro choi|game|tuong lai|vu tru/, "M100 150 l48 28 v56 l-48 28 l-48 -28 v-56z M100 178 l24 14 v28 l-24 14 l-24 -14 v-28z M100 150 V120 M148 178 l26 -15 M52 178 l-26 -15 M148 234 l26 15 M52 234 l-26 15 M100 262 V292"],
+  [/ngon tinh|dam my|sung|hon nhan|tinh yeu|lang man|nu cuong|nu ton/, "M100 235 c-30 -22 -52 -40 -52 -62 a26 26 0 0 1 52 -6 a26 26 0 0 1 52 6 c0 22 -22 40 -52 62z M40 120 a8 8 0 1 0 .1 0 M165 135 a6 6 0 1 0 .1 0 M150 268 a5 5 0 1 0 .1 0"],
+  [/linh di|kinh di|trinh tham|huyen bi|ma |quy|lieu trai/, "M130 120 a50 50 0 1 0 0 80 a40 40 0 1 1 0 -80z M40 250 h120 M55 268 h90 M30 140 l4 -8 l4 8 M165 230 l3 -6 l3 6"],
+  [/am thuc|nau an|my thuc|thuong gia|kinh doanh|nien dai|lam ruong|dien van/, "M45 210 h110 a55 55 0 0 1 -110 0z M75 190 c-8 -14 8 -22 0 -36 M100 190 c-8 -14 8 -22 0 -36 M125 190 c-8 -14 8 -22 0 -36 M80 280 h40"],
+  [/co tich|dong thoai|thieu nhi|truyen thuyet|than thoai|ngu ngon|dan gian/, "M100 140 l8 24 l24 0 l-19 15 l7 24 l-20 -15 l-20 15 l7 -24 l-19 -15 l24 0z M45 230 l4 10 l10 0 l-8 6 l3 10 l-9 -6 l-9 6 l3 -10 l-8 -6 l10 0z M155 215 l3 8 l8 0 l-6 5 l2 8 l-7 -5 l-7 5 l2 -8 l-6 -5 l8 0z"],
+  [/do thi|hien dai|vuon truong|hao mon|showbiz|giai tri|the thao/, "M10 300 V240 h25 V210 h22 V250 h18 V190 h30 V235 h20 V215 h25 V255 h20 V230 h20 V300 M40 225 h8 M100 205 h10 M100 220 h10"],
+];
+const DEF_MOTIF = "M0 230 q50 -30 100 0 t100 0 M0 255 q50 -30 100 0 t100 0 M0 280 q50 -30 100 0 t100 0";
+function wrapTitle(t) {
+  t = String(t || "").trim();
+  for (const [fs, maxL] of [[27, 3], [23, 4], [19, 4], [16, 5], [14, 6]]) {
+    const per = Math.floor(168 / (fs * 0.5)), lines = [];
+    let cur = "";
+    for (const w of t.split(/\s+/)) {
+      if (!cur) cur = w; else if ((cur + " " + w).length <= per) cur += " " + w; else { lines.push(cur); cur = w; }
+    }
+    if (cur) lines.push(cur);
+    if (lines.length <= maxL && lines.every((l) => l.length <= per + 1)) return { fs, lines };
+    if (fs === 14) return { fs, lines: lines.slice(0, maxL).map((l, i) => (i === maxL - 1 && lines.length > maxL ? l.slice(0, per - 1) + "…" : l)) };
+  }
 }
+function genCover(st, { solid = false, mark = "MythLab" } = {}) {
+  const name = st.name || st.folder || "", h = hashHue(name);
+  const topic = normTxt([...(st.genres || []), ...(st.tags || []).slice(0, 4), (st.group || "").replace(/^Done_/, "").replace(/([a-z])([A-Z])/g, "$1 $2")].join(" | "));
+  const motif = (MOTIFS.find(([re]) => re.test(topic)) || [0, DEF_MOTIF])[1];
+  const { fs, lines } = wrapTitle(name);
+  const lh = fs * 1.16, y0 = 112 - ((lines.length - 1) * lh) / 2;
+  const author = st.author ? String(st.author).slice(0, 34) : "";
+  return `<svg class="gc" viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    ${solid ? `<rect width="200" height="300" fill="hsl(${h} 42% 24%)"/>` : ""}
+    <path d="${motif}" fill="none" stroke="hsl(${(h + 40) % 360} 70% 80%)" stroke-opacity=".22" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="12" y="12" width="176" height="276" rx="3" fill="none" stroke="hsl(42 70% 75%)" stroke-opacity=".35"/>
+    <path d="M78 262 H122" stroke="hsl(42 70% 75%)" stroke-opacity=".5"/>
+    <text x="100" y="278" text-anchor="middle" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" letter-spacing="3" fill="hsl(42 75% 78%)" fill-opacity=".85">${esc(mark.toUpperCase())}</text>
+    <text x="100" y="${y0.toFixed(1)}" text-anchor="middle" font-family="Alegreya, 'Noto Serif', Georgia, serif" font-weight="800" font-size="${fs}" fill="#fdf8ec" style="paint-order:stroke" stroke="rgba(0,0,0,.25)" stroke-width="2">${lines.map((l, i) => `<tspan x="100" dy="${i ? lh.toFixed(1) : 0}">${esc(l)}</tspan>`).join("")}</text>
+    ${author ? `<text x="100" y="248" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#fdf8ec" fill-opacity=".8">${esc(author)}</text>` : ""}
+  </svg>`;
+}
+// ảnh thật: URL đồng bộ (server/poster) → <img loading=lazy>; Promise (blob GitHub) → data-cover, tải khi cuộn tới
+const coverWait = new Map(); // id → truyện có ảnh trong repo (chưa tải)
+function coverImg(st, cls = "") {
+  const a = `class="${cls}" alt="" decoding="async" referrerpolicy="no-referrer" onload="this.classList.add('ok')" onerror="this.remove()"`;
+  if (st.cover_sha && ML.backend.kind === "github") {
+    const id = sKey(st.key, st.cover_sha);
+    coverWait.set(id, st);
+    return `<img data-cover="${esc(id)}" ${a}>`;
+  }
+  let u = null;
+  try { u = ML.backend.coverUrl(st); } catch { /* */ }
+  return typeof u === "string" ? `<img loading="lazy" src="${esc(u)}" ${a}>` : "";
+}
+const coverIO = "IntersectionObserver" in window ? new IntersectionObserver((ents) => ents.forEach((e) => {
+  if (e.isIntersecting) { coverIO.unobserve(e.target); fillCover(e.target); }
+}), { rootMargin: "300px" }) : null;
+function fillCover(img) {
+  const st = coverWait.get(img.dataset.cover);
+  img.removeAttribute("data-cover");
+  Promise.resolve(st && ML.backend.coverUrl(st)).then((u) => (u ? (img.src = u) : img.remove()), () => img.remove());
+}
+new MutationObserver(() => document.querySelectorAll("img[data-cover]:not([data-io])").forEach((img) => {
+  img.dataset.io = "1"; coverIO ? coverIO.observe(img) : fillCover(img);
+})).observe(document.body, { childList: true, subtree: true });
+function coverHTML(st, extra = "") {
+  return `<div class="cover book" style="--h:${hashHue(st.name || st.folder)}">${genCover(st)}${coverImg(st)}${extra}</div>`;
+}
+
+// ---------------------------------------------------------------- cards
 const secHead = (title, href, extra = "") => `<div class="sec-head"><h2>${title}${extra ? ` <small>${extra}</small>` : ""}</h2>${href ? `<a href="${href}">Xem tất cả</a>` : ""}</div>`;
 const normTxt = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d").toLowerCase();
 function repoCard(sid, repo, sub = "") {
   const name = repo.replace(/^Done_/, "");
   return `<a class="card" style="--h:${hashHue(repo)}" href="#/lib/${enc(sid)}/${enc(repo)}" title="${esc(repo)}" data-q="${esc(normTxt(repo))}">
-    <div class="cover"><div class="ph">${esc(name)}</div><span class="badge">Repo</span></div>
+    <div class="cover book" style="--h:${hashHue(repo)}">${genCover({ name, group: repo }, { mark: "Kho truyện" })}<span class="badge">Repo</span></div>
     <div class="cb"><div class="cat">GitHub · Done_</div><div class="t">${esc(name)}</div>${sub ? `<div class="m">${esc(sub)}</div>` : ""}</div></a>`;
 }
 function storyCard(source, st) {
@@ -159,7 +228,7 @@ function recentHTML() {
   if (!list.length) return "";
   return `${secHead("Đang đọc dở", "", String(list.length))}<div class="recent">${list.map((p) => `
     <a class="rcard" href="${readHref(p.source, p.key, p.idx)}">
-      ${coverHTML({ name: p.name, poster: p.poster })}
+      ${coverHTML({ name: p.name, key: p.key, poster: p.poster, cover: p.cover, cover_sha: p.cover_sha, author: p.author, genres: p.genres, group: p.group })}
       <div style="min-width:0"><div class="t">${esc(p.name)}</div>
       <div class="m"><b>Chương ${esc(p.n)}</b>${p.total ? ` / ${fmtNum(p.total)}` : ""}${p.para ? ` · đoạn ${p.para + 1}` : ""}</div>
       <div class="m">${new Date(p.ts).toLocaleString("vi-VN", { dateStyle: "short", timeStyle: "short" })}</div></div>
@@ -259,9 +328,10 @@ async function renderStory(view, r, tok) {
   const p = PROG[sKey(r.source, r.key)];
   const chs = st.chapters;
   const words = null;
-  view.innerHTML = `<div class="story-head">
+  view.innerHTML = `<div class="story-head" style="--h:${hashHue(st.name || st.folder)}">
+      <div class="story-bg" aria-hidden="true">${coverImg(st)}</div>
       ${coverHTML(st)}
-      <div>
+      <div class="story-info">
         <h1>${esc(st.name)}</h1>
         <div class="meta">
           ${st.author ? `<span>✍ ${esc(st.author)}</span>` : ""}
@@ -366,7 +436,7 @@ async function renderReader(view, r, tok) {
   const pr = PROG[sKey(r.source, r.key)];
   const para = pr && pr.idx === idx ? pr.para || 0 : 0;
   READ.para = para;
-  saveProgress({ source: r.source, key: r.key, name: st.name, poster: st.poster, idx, n: c.n, total: chs.length, para });
+  saveProgress({ source: r.source, key: r.key, ...storyMeta(st), idx, n: c.n, total: chs.length, para });
   const atEnd = startAtEnd; startAtEnd = false;
   if (isPage()) Pager.enter(para, atEnd);
   if (Player.matches(r.source, r.key, idx)) Player.highlight(true);
@@ -558,7 +628,8 @@ const Player = (() => {
   let lastEngine = null;
   const prefetched = new Set();
   const el = { bar: $("#player"), title: $("#pTitle"), sub: $("#pSub"), play: $("#pPlay"), icon: $("#pPlayIcon"), prog: $("#pProg") };
-  const useEdge = () => S.engine === "edge" && edgeOK();
+  let edgeDown = false; // Edge lỗi liên tục trong phiên này → tạm đọc bằng giọng máy (không đổi cài đặt đã lưu)
+  const useEdge = () => S.engine === "edge" && edgeOK() && !edgeDown;
   const ttsUrl = (text) => ML.backend.ttsUrl({ text, voice: S.voice });
   const localOpts = (engine) => ({ engine, rate: S.rate, pitch: S.pitch, voice: engine === "native" ? S.nativeVoice : S.browserVoice });
 
@@ -621,16 +692,26 @@ const Player = (() => {
     }
   }
   const matches = (source, key, idx) => !!ctx && ctx.source === source && ctx.key === key && ctx.idx === idx;
+  let artFor = null, art = [];
   function media() {
     if (!("mediaSession" in navigator) || !ctx) return;
-    const c = ctx.story.chapters[ctx.idx];
-    navigator.mediaSession.metadata = new MediaMetadata({ title: ctx.chapter?.title || `Chương ${c.n}`, artist: ctx.story.name, album: "MythLab Truyện",
-      artwork: ctx.story.poster ? [{ src: ctx.story.poster, sizes: "600x900" }] : [] });
+    const c = ctx.story.chapters[ctx.idx], st = ctx.story;
+    const set = () => { navigator.mediaSession.metadata = new MediaMetadata({ title: ctx.chapter?.title || `Chương ${c.n}`, artist: st.name, album: "MythLab Truyện", artwork: art }); };
+    if (artFor !== st) {
+      // tạm dùng bìa sinh tự động; có ảnh thật thì thay
+      artFor = st; art = [{ src: "data:image/svg+xml;charset=utf-8," + enc(genCover(st, { solid: true })), sizes: "200x300", type: "image/svg+xml" }];
+      Promise.resolve(ML.backend.coverUrl(st)).then((u) => {
+        if (!u || artFor !== st) return;
+        art = [{ src: new URL(u, location.href).href, sizes: "600x900" }];
+        if (ctx?.story === st) media();
+      }).catch(() => {});
+    }
+    set();
   }
   function save() {
     if (!ctx) return;
     const c = ctx.story.chapters[ctx.idx];
-    saveProgress({ source: ctx.source, key: ctx.key, name: ctx.story.name, poster: ctx.story.poster, idx: ctx.idx, n: c.n,
+    saveProgress({ source: ctx.source, key: ctx.key, ...storyMeta(ctx.story), idx: ctx.idx, n: c.n,
       total: ctx.story.chapters.length, para: Math.max(0, chunks[pos]?.p ?? 0) });
   }
 
@@ -679,8 +760,8 @@ const Player = (() => {
     const eng = localEngine();
     if (edgeFails >= 3 && eng) {
       edgeFails = 0;
-      toast("Dịch vụ giọng Edge đang lỗi — đã chuyển sang giọng của máy", 4500);
-      ML.settings.set("engine", eng); // → engineChanged() đọc tiếp
+      toast("Dịch vụ giọng Edge đang lỗi — tạm đọc bằng giọng của máy", 4500);
+      edgeDown = true; engineChanged(); // đọc tiếp bằng localEngine()
       return;
     }
     if (eng) { toast("Đoạn này đọc bằng giọng của máy (Edge TTS lỗi)"); return speakLocal(chunks[pos].text, ++gen, eng); }
@@ -786,7 +867,8 @@ const Player = (() => {
     audio.playbackRate = S.rate;
     if (!useEdge() && playing) speak();
   }
-  function engineChanged() {
+  function engineChanged(k) {
+    if (k === "engine") edgeDown = false;
     const was = playing; stop();
     if (ctx?.chapter) { const p = chunks[pos]?.p ?? 0; chunks = buildChunks(ctx.chapter); pos = Math.max(0, chunks.findIndex((x) => x.p >= p)); }
     prefetched.clear();
@@ -829,7 +911,7 @@ function initControls() {
   $("#scrim").onclick = () => document.body.classList.remove("side-open");
   ML.settings.onChange((k) => {
     if (k === "rate") { rate.value = String(S.rate); Player.rateChanged(); }
-    else if (["engine", "voice", "browserVoice", "nativeVoice", "ttsClean", "readTitle"].includes(k)) Player.engineChanged();
+    else if (["engine", "voice", "browserVoice", "nativeVoice", "ttsClean", "readTitle"].includes(k)) Player.engineChanged(k);
     else if (k === "pitch" && S.engine !== "edge") Player.engineChanged();
     if (k === "readMode" && S.readMode !== "page") document.body.classList.remove("chrome-hidden");
     if (LAYOUT_KEYS.has(k)) relayout();
@@ -861,10 +943,7 @@ document.addEventListener("keydown", (e) => {
   try { await ML.backend.init(); } catch (e) { console.warn("backend:", e); }
   if (ML.backend.kind !== "none") {
     try { await loadSources(); } catch (e) { BOOT_ERR = e.message; $("#sources").innerHTML = `<div class="pad err">${esc(e.message)}</div>`; }
-  } else {
-    if (S.engine === "edge") ML.settings.set("engine", localEngine() || "browser");
-    renderSidebar();
-  }
+  } else renderSidebar();
   ML.settingsPanel.refreshVoices?.();
   route();
 })();
