@@ -10,16 +10,20 @@ Nguồn hỗ trợ (cấu hình trong config.json):
     - github: đọc trực tiếp các repo có tiền tố (mặc định Done_) qua GitHub API,
               xác thực bằng GITHUB_TOKEN hoặc `gh auth token`; cache ra đĩa.
 
-Chạy:  python server.py  [--port 8765] [--host 127.0.0.1]
+Chạy:  python server.py  [--port 8765] [--host 127.0.0.1] [--lan]
+       --lan: mở cho mạng LAN (0.0.0.0); mọi /api/* cần khoá truy cập (X-MythLab-Key hoặc ?k=).
 """
 from __future__ import annotations
 
 import argparse
 import asyncio
 import hashlib
+import hmac
 import json
 import os
 import re
+import secrets
+import socket
 import subprocess
 import sys
 import threading
@@ -33,9 +37,19 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-STATIC = HERE / "static"
-CACHE = HERE / ".cache"
-CONFIG_PATH = HERE / "config.json"
+FROZEN = bool(getattr(sys, "frozen", False))
+BUNDLE = Path(getattr(sys, "_MEIPASS", HERE))
+STATIC = BUNDLE / "static"
+if FROZEN:  # bản đóng gói (PyInstaller): dữ liệu người dùng nằm ngoài thư mục cài
+    _exe_dir = Path(sys.executable).resolve().parent
+    _appdata = Path(os.environ.get("APPDATA") or Path.home()) / "MythLab"
+    CACHE = Path(os.environ.get("LOCALAPPDATA") or Path.home()) / "MythLab" / "cache"
+    CONFIG_PATH = _exe_dir / "config.json" if (_exe_dir / "config.json").exists() else _appdata / "config.json"
+    BASE = CONFIG_PATH.parent
+else:
+    CACHE = HERE / ".cache"
+    CONFIG_PATH = HERE / "config.json"
+    BASE = HERE
 
 CHAPTER_RE = re.compile(r"^Chương\s+(\d+)\s*[-:.–]?\s*(.*?)\.txt$", re.IGNORECASE)
 HEADER_RULE = re.compile(r"^\s*[=\-_*]{5,}\s*$")
@@ -51,6 +65,14 @@ DEFAULT_CONFIG = {
 
 
 def load_config() -> dict:
+    if FROZEN and not CONFIG_PATH.exists():  # lần đầu: github/tts từ config đóng kèm, thư viện ở %APPDATA%
+        cfg = dict(DEFAULT_CONFIG)
+        try:
+            cfg.update(json.loads((BUNDLE / "config.json").read_text(encoding="utf-8-sig")))
+        except Exception:  # noqa: BLE001
+            pass
+        cfg["local"] = [{"name": "Thư viện (library/)", "path": "library"}]
+        return cfg
     if CONFIG_PATH.exists():
         try:
             cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8-sig"))
@@ -213,7 +235,8 @@ class GitHub:
                 tok = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
                 if not tok:
                     try:
-                        tok = subprocess.run(["gh", "auth", "token"], capture_output=True, text=True, timeout=15).stdout.strip()
+                        tok = subprocess.run(["gh", "auth", "token"], capture_output=True, text=True, timeout=15,
+                                             creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0)).stdout.strip()
                     except Exception:  # noqa: BLE001
                         tok = ""
                 self._token = tok or ""
@@ -406,7 +429,7 @@ class Library:
         for i, loc in enumerate(cfg.get("local") or []):
             p = Path(loc["path"])
             if not p.is_absolute():
-                p = (HERE / p).resolve()
+                p = (BASE / p).resolve()
             self.providers[f"local{i}"] = LocalProvider(f"local{i}", loc.get("name") or p.name, p)
         gh = cfg.get("github") or []
         if isinstance(gh, dict):
@@ -506,8 +529,24 @@ CFG = load_config()
 LIB = Library(CFG)
 
 
+CORS_ORIGINS = {"https://localhost", "http://localhost", "capacitor://localhost", "tauri://localhost"}
+CORS_ORIGIN_RE = re.compile(r"^http://(localhost|127\.0\.0\.1)(:\d{1,5})?$")
+KEY_COOKIE = "mythlab_key"
+LOOPBACK = {"127.0.0.1", "::1", "::ffff:127.0.0.1"}
+
+
+def cors_ok(origin: str | None) -> bool:
+    return bool(origin) and (origin in CORS_ORIGINS or bool(CORS_ORIGIN_RE.match(origin)))
+
+
 class Handler(SimpleHTTPRequestHandler):
     server_version = "MythLabReader/1.0"
+    extensions_map = {**SimpleHTTPRequestHandler.extensions_map,
+                      ".js": "text/javascript", ".css": "text/css", ".json": "application/json",
+                      ".svg": "image/svg+xml", ".png": "image/png", ".ico": "image/x-icon",
+                      ".webmanifest": "application/manifest+json", ".woff2": "font/woff2", ".woff": "font/woff",
+                      ".ttf": "font/ttf", ".otf": "font/otf"}
+    _set_cookie = None
 
     def __init__(self, *a, **kw):
         super().__init__(*a, directory=str(STATIC), **kw)
@@ -515,12 +554,43 @@ class Handler(SimpleHTTPRequestHandler):
     def log_message(self, fmt, *args):  # gọn log
         if "/api/tts" in (self.path or "") and " 200 " in (fmt % args if args else fmt):
             return
-        sys.stderr.write("[%s] %s\n" % (time.strftime("%H:%M:%S"), fmt % args))
+        msg = re.sub(r"([?&]k=)[^&\s]+", r"\1***", fmt % args)
+        sys.stderr.write("[%s] %s\n" % (time.strftime("%H:%M:%S"), msg))
 
     def end_headers(self):
         if not self.path.startswith("/api/"):
             self.send_header("Cache-Control", "no-cache")
+        elif cors_ok(self.headers.get("Origin")):
+            self.send_header("Access-Control-Allow-Origin", self.headers["Origin"])
+            self.send_header("Vary", "Origin")
+        if self._set_cookie:
+            self.send_header("Set-Cookie", self._set_cookie)
         super().end_headers()
+
+    # --- chế độ LAN: khoá truy cập (header X-MythLab-Key, ?k= hoặc cookie) ---
+    def _key_ok(self, q: dict) -> bool:
+        key = getattr(self.server, "access_key", None)
+        if not getattr(self.server, "lan", False) or not key or self.client_address[0] in LOOPBACK:
+            return True
+        given = self.headers.get("X-MythLab-Key") or q.get("k") or ""
+        if not given:
+            for part in (self.headers.get("Cookie") or "").split(";"):
+                name, _, val = part.strip().partition("=")
+                if name == KEY_COOKIE:
+                    given = val
+        return hmac.compare_digest(given.encode(), key.encode())
+
+    def do_OPTIONS(self):  # noqa: N802 — CORS preflight
+        ok = self.path.startswith("/api/") and cors_ok(self.headers.get("Origin"))
+        self.send_response(204 if ok else 403)
+        if ok:
+            self.send_header("Access-Control-Allow-Methods", "GET, HEAD, OPTIONS")
+            self.send_header("Access-Control-Allow-Headers", "X-MythLab-Key, Content-Type, Range")
+            self.send_header("Access-Control-Max-Age", "600")
+            if self.headers.get("Access-Control-Request-Private-Network"):
+                self.send_header("Access-Control-Allow-Private-Network", "true")
+        self.send_header("Content-Length", "0")
+        self.end_headers()
 
     def _json(self, obj, status=200):
         body = json.dumps(obj, ensure_ascii=False).encode("utf-8")
@@ -536,11 +606,19 @@ class Handler(SimpleHTTPRequestHandler):
 
     def do_GET(self):  # noqa: N802
         u = urllib.parse.urlsplit(self.path)
-        if not u.path.startswith("/api/"):
-            return super().do_GET()
         q = {k: v[-1] for k, v in urllib.parse.parse_qs(u.query).items()}
+        if not u.path.startswith("/api/"):
+            # LAN: mở http://ip:port/?k=<khoá> một lần → cookie cho các /api/* cùng gốc
+            key = getattr(self.server, "access_key", None)
+            if getattr(self.server, "lan", False) and key and hmac.compare_digest(q.get("k", "").encode(), key.encode()):
+                self._set_cookie = f"{KEY_COOKIE}={q['k']}; Path=/; Max-Age=31536000; SameSite=Strict; HttpOnly"
+            return super().do_GET()
+        if not self._key_ok(q):
+            return self._err(401, "cần khoá truy cập (X-MythLab-Key)")
         try:
             route = u.path[5:]
+            if route == "ping":
+                return self._json({"ok": True, "app": "mythlab"})
             if route == "sources":
                 out = []
                 for p in LIB.providers.values():
@@ -608,20 +686,71 @@ class Handler(SimpleHTTPRequestHandler):
             return self._err(503 if u.path == "/api/tts" else 500, f"{type(e).__name__}: {e}")
 
 
+KEY_PATH = CACHE / "server.json"
+
+
+def access_key() -> str:
+    """Khoá LAN: config.json → server.access_key; chưa có thì sinh 1 lần, lưu ở <cache>/server.json
+    (không ghi vào config.json vì file đó nằm trong repo công khai)."""
+    key = (CFG.get("server") or {}).get("access_key")
+    if key:
+        return str(key)
+    try:
+        key = json.loads(KEY_PATH.read_text(encoding="utf-8"))["access_key"]
+    except Exception:  # noqa: BLE001
+        key = secrets.token_urlsafe(18)
+        KEY_PATH.parent.mkdir(parents=True, exist_ok=True)
+        KEY_PATH.write_text(json.dumps({"access_key": key}), encoding="utf-8")
+    return key
+
+
+def lan_ips() -> list[str]:
+    ips = set()
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+            s.connect(("10.255.255.255", 1))
+            ips.add(s.getsockname()[0])
+    except OSError:
+        pass
+    try:
+        ips.update(i[4][0] for i in socket.getaddrinfo(socket.gethostname(), None, socket.AF_INET))
+    except OSError:
+        pass
+    return sorted(ip for ip in ips if not ip.startswith(("127.", "169.254.")))
+
+
+def make_server(host: str = "127.0.0.1", port: int = 8765, lan: bool = False) -> ThreadingHTTPServer:
+    """Tạo server (chưa chạy serve_forever). port=0 → OS chọn cổng trống: srv.server_address[1]."""
+    if lan and host in ("127.0.0.1", "localhost"):
+        host = "0.0.0.0"
+    CACHE.mkdir(parents=True, exist_ok=True)
+    srv = ThreadingHTTPServer((host, port), Handler)
+    srv.daemon_threads = True
+    srv.lan = lan
+    srv.access_key = access_key() if lan else None
+    return srv
+
+
 def main():
     ap = argparse.ArgumentParser(description="MythLab Reader")
     ap.add_argument("--host", default="127.0.0.1")
     ap.add_argument("--port", type=int, default=8765)
+    ap.add_argument("--lan", action="store_true", help="mở cho mạng LAN (0.0.0.0); /api/* cần khoá truy cập")
     args = ap.parse_args()
     for s in (sys.stdout, sys.stderr):
         try:
             s.reconfigure(encoding="utf-8", errors="replace")
         except Exception:  # noqa: BLE001
             pass
-    CACHE.mkdir(exist_ok=True)
-    srv = ThreadingHTTPServer((args.host, args.port), Handler)
-    srv.daemon_threads = True
-    print(f"MythLab Reader: http://{args.host}:{args.port}  (edge-tts: {'có' if edge_tts else 'không'})")
+    srv = make_server(args.host, args.port, args.lan)
+    host, port = srv.server_address[:2]
+    if args.lan:
+        print(f"MythLab Reader (LAN): http://127.0.0.1:{port}  (edge-tts: {'có' if edge_tts else 'không'})")
+        print(f"  khoá truy cập: {srv.access_key}")
+        for ip in lan_ips():
+            print(f"  LAN: http://{ip}:{port}/?k={srv.access_key}")
+    else:
+        print(f"MythLab Reader: http://{args.host}:{args.port}  (edge-tts: {'có' if edge_tts else 'không'})")
     for p in LIB.providers.values():
         print("  nguồn:", p.describe()["name"], "-", p.describe()["detail"])
     try:

@@ -15,3 +15,18 @@ reader/library/
 
 # APK build (giữ local, không đưa lên repo public)
 apk/
+
+# Apps (build output, dependencies, signing keys)
+apps/android/node_modules/
+apps/android/www/
+apps/android/dist/
+apps/android/android/app/build/
+apps/android/android/.gradle/
+apps/android/android/build/
+apps/android/android/capacitor-cordova-android-plugins/build/
+apps/desktop/build/
+apps/desktop/dist/
+apps/desktop/.venv/
+*.keystore
+*.jks
+reader/plugins/
