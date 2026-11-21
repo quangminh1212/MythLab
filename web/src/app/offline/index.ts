@@ -15,7 +15,7 @@
 import { backend } from '../core/backend/index';
 import type { Chapter } from '../core/backend/types';
 import type { ChapterRef, DownloadOptions, DownloadProgress, OfflineApi } from '../core/contracts';
-import { data, isAbort } from '../core/data';
+import { data } from '../core/data';
 import { Emitter } from '../core/events';
 import { sKey } from '../core/format';
 import { idb } from '../core/store';
@@ -205,6 +205,28 @@ export interface JobOptions {
 const jobs = new Map<string, DownloadJob>();
 const changes = new Emitter<void>();
 
+/** Tries per chapter (first try + retries with growing delay). */
+export const ATTEMPTS = 3;
+
+function backoff(attempt: number, signal: AbortSignal): Promise<void> {
+  return new Promise((resolve) => {
+    const done = (): void => {
+      clearTimeout(t);
+      signal.removeEventListener('abort', done);
+      resolve();
+    };
+    const t = setTimeout(done, 600 * attempt);
+    signal.addEventListener('abort', done, { once: true });
+  });
+}
+
+/** A short reason for the status line. */
+export function describeError(e: unknown): string {
+  const x = e as { name?: string; message?: string } | null;
+  if (x?.name === 'AbortError') return 'quá thời gian chờ';
+  return String(x?.message || x?.name || e || 'lỗi không rõ').slice(0, 120);
+}
+
 /** Chapters fetched at the same time: GitHub's API is rate limited, a LAN server is not. */
 const parallel = (): number => (backend.kind === 'github' ? 3 : 4);
 
@@ -229,11 +251,11 @@ function startJob(source: string, key: string, o: JobOptions = {}): DownloadJob 
   const progress: DownloadProgress = { done: 0, total: 0, failed: 0 };
   const listeners = new Emitter<DownloadJob>();
   const ctl = new AbortController();
-  let wake: (() => void) | null = null;
+  const wakers: Array<() => void> = [];
   const notify = (): void => listeners.emit(job);
   /** Resolves at once while running; waits while paused. False when the job was cancelled. */
   const gate = async (): Promise<boolean> => {
-    while (state === 'paused') await new Promise<void>((r) => (wake = r));
+    while (state === 'paused') await new Promise<void>((r) => wakers.push(r));
     return state === 'running';
   };
 
@@ -261,41 +283,52 @@ function startJob(source: string, key: string, o: JobOptions = {}): DownloadJob 
       tellWorker({ type: 'PIN', prefixes: [storyPrefix(sc, source, key)] });
       const pinned = await caches.open(CACHE.pinned);
       const recent = await caches.open(CACHE.chapters);
-      await writeRecord({ source, key, name: name || key, total: total ?? chapters.length, ts: Date.now() });
+      // the record only carries the title and total: a failed write must not abort the chapters
+      await writeRecord({ source, key, name: name || key, total: total ?? chapters.length, ts: Date.now() }).catch(() => {});
       // keep the story page and the source list readable offline as well (answers land in the worker's cache)
       if (navigator.serviceWorker?.controller && backend.kind === 'server') {
         void backend.get(`/story?source=${encodeURIComponent(source)}&key=${encodeURIComponent(key)}`, { signal: ctl.signal }).catch(() => {});
       }
 
       let next = 0;
+      /** Stores one chapter; every transient step (fetch, body parse, cache write) is retried with backoff. */
       const one = async (ch: ChapterRef): Promise<void> => {
         const url = chapterKey(sc, source, key, ch.file);
         if (await pinned.match(url)) return;
         const seen = await recent.match(url);
-        if (seen) {
-          await pinned.put(url, seen);
-          return;
+        let lastErr: unknown;
+        for (let attempt = 0; attempt < ATTEMPTS; attempt++) {
+          if (attempt) await backoff(attempt, ctl.signal);
+          try {
+            if (seen && attempt === 0) {
+              await pinned.put(url, seen.clone());
+            } else {
+              const body = await data.chapter(source, key, ch.file, { signal: ctl.signal });
+              await pinned.put(url, jsonEntry(body));
+            }
+            // never report a chapter as stored unless it can be read back
+            if (!(await pinned.match(url))) throw new Error('đã ghi nhưng không đọc lại được');
+            return;
+          } catch (e) {
+            // only the job's own signal means "stop"; a request timeout is an AbortError too but is a failure
+            if (ctl.signal.aborted) throw e;
+            lastErr = e;
+          }
         }
-        let body: Chapter;
-        try {
-          body = await data.chapter(source, key, ch.file, { signal: ctl.signal });
-        } catch (e) {
-          if (isAbort(e)) throw e;
-          // one more try: a busy server or a dropped connection usually recovers
-          await new Promise((r2) => setTimeout(r2, 600));
-          body = await data.chapter(source, key, ch.file, { signal: ctl.signal });
-        }
-        await pinned.put(url, jsonEntry(body));
+        throw lastErr;
       };
       const worker = async (): Promise<void> => {
         while (next < todo.length) {
           if (!(await gate())) return;
+          // the gate is awaited: other workers may have taken the last chapters meanwhile
+          if (next >= todo.length) return;
           const ch = todo[next++] as ChapterRef;
           try {
             await one(ch);
           } catch (e) {
-            if (isAbort(e) || ctl.signal.aborted) return;
+            if (ctl.signal.aborted) return;
             progress.failed++;
+            progress.lastError = describeError(e);
           }
           progress.done++;
           notify();
@@ -305,7 +338,10 @@ function startJob(source: string, key: string, o: JobOptions = {}): DownloadJob 
       // the memory cache of core/data holds every chapter just fetched: free it
       data.invalidate('chapter:');
     } catch (e) {
-      if (!isAbort(e)) progress.failed = Math.max(progress.failed, progress.total - progress.done);
+      if (!ctl.signal.aborted) {
+        progress.failed = Math.max(progress.failed, progress.total - progress.done);
+        progress.lastError = describeError(e);
+      }
     } finally {
       if (state !== 'cancelled') state = 'done';
       notify();
@@ -332,16 +368,14 @@ function startJob(source: string, key: string, o: JobOptions = {}): DownloadJob 
     resume() {
       if (state !== 'paused') return;
       state = 'running';
-      wake?.();
-      wake = null;
+      for (const w of wakers.splice(0)) w();
       notify();
     },
     cancel() {
       if (state === 'done' || state === 'cancelled') return;
       state = 'cancelled';
       ctl.abort();
-      wake?.();
-      wake = null;
+      for (const w of wakers.splice(0)) w();
       notify();
     },
     onChange: (fn) => listeners.on(fn),

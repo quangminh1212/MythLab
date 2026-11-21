@@ -194,6 +194,8 @@ export interface DownloadProgress {
   total: number;
   /** Chapters that failed so far. */
   failed: number;
+  /** Reason of the most recent failure (for diagnosis). */
+  lastError?: string;
 }
 
 export interface DownloadOptions {
