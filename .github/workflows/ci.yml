@@ -39,6 +39,8 @@ jobs:
           go-version-file: server/go.mod
           cache-dependency-path: server/go.sum
       - run: go vet ./...
+      - name: versions agree across components
+        run: go run ./tools/checkversion
       - name: go test (race)
         if: runner.os == 'Linux'
         run: go test -race -count=1 ./...
