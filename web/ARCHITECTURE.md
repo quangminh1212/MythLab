@@ -12,7 +12,7 @@ hash routing. The output in `dist/` works from any path and from `file://`-like 
 | `npm run build` | static build into `dist/` |
 | `npm run check` | `astro check` (types for `.astro` and `.ts`) |
 | `npm test` | vitest (happy-dom + fake-indexeddb, `src/test-setup.ts`) |
-| `python e2e/browse.py --base http://127.0.0.1:4322/index.html --api http://127.0.0.1:18801 --out <dir>` | Playwright sweep of the browse views: 2 viewports x 3 themes, asserts console/HTTP errors, overflow, DOM size, tap targets, contrast |
+| `cd e2e && go test -count=1 -timeout 40m ./...` | Go (chromedp) end-to-end suites against the built `dist/`: browse views (2 viewports x 3 themes; console/HTTP errors, overflow, DOM size, tap targets, contrast), reader, settings, offline |
 
 ## Module map
 
@@ -88,7 +88,7 @@ produced (for example a generated SVG); never pass server or user text to it.
 2. Add the route to `parseHash` and an `href.<name>()` builder in `core/router.ts`, and the view name to `ViewName` in `core/contracts.ts`.
 3. Register the lazy import in the view table in `src/app/main.ts`.
 4. Put styles in `src/styles/views.css` (or the stage's own stylesheet) using the tokens below.
-5. Add a case to `e2e/browse.py` and unit tests for any pure helper.
+5. Add a case to `e2e/browse_test.go` and unit tests for any pure helper.
 
 ## CSS tokens (`src/styles/tokens.css`)
 
