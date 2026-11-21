@@ -43,11 +43,8 @@ try {
     foreach ($v in 'MYTHLAB_KEYSTORE', 'MYTHLAB_KEYSTORE_PASS', 'MYTHLAB_KEY_ALIAS', 'MYTHLAB_KEY_PASS') {
       if (-not [Environment]::GetEnvironmentVariable($v)) { throw "Thiếu biến môi trường $v" }
     }
-    .\gradlew.bat assembleRelease --no-daemon `
-      "-Pandroid.injected.signing.store.file=$env:MYTHLAB_KEYSTORE" `
-      "-Pandroid.injected.signing.store.password=$env:MYTHLAB_KEYSTORE_PASS" `
-      "-Pandroid.injected.signing.key.alias=$env:MYTHLAB_KEY_ALIAS" `
-      "-Pandroid.injected.signing.key.password=$env:MYTHLAB_KEY_PASS"
+    # Signing secrets are read by build.gradle from the MYTHLAB_* environment variables (inherited), never passed as arguments.
+    .\gradlew.bat assembleRelease --no-daemon
     if ($LASTEXITCODE) { throw 'gradle assembleRelease lỗi' }
     $out = 'app\build\outputs\apk\release\app-release.apk'; $dst = '..\dist\MythLab-release.apk'
   } else {

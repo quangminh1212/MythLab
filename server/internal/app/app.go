@@ -29,6 +29,12 @@ import (
 // DefaultPort is the port of the console server.
 const DefaultPort = 8765
 
+// Limits of the on-disk poster cache (see covers.Store.Prune).
+const (
+	coverCacheBytes = 512 << 20
+	coverCacheAge   = 120 * 24 * time.Hour
+)
+
 // Options configures an App. The zero value serves the discovered config on
 // 127.0.0.1 with the embedded UI and without Edge voices.
 type Options struct {
@@ -123,6 +129,7 @@ func New(o Options) (*App, error) {
 	a.lib = library.NewLibrary(providers...)
 	a.search = library.NewSearchIndex(a.lib)
 	a.covers = covers.New(covers.Options{Dir: filepath.Join(a.paths.Cache, "covers"), Logf: a.log.Printf})
+	go a.covers.Prune(coverCacheBytes, coverCacheAge) // keep the poster cache bounded
 	a.tts = tts.NewService(tts.ServiceOptions{Engine: o.TTS, Dir: filepath.Join(a.paths.Cache, "tts"),
 		DefaultVoice: a.cfg.DefaultVoice, MaxBytes: a.cfg.TTSCacheBytes, Logf: a.log.Printf})
 	a.handler = httpapi.New(httpapi.Options{Library: a.lib, Search: a.search, Covers: a.covers, TTS: a.tts, Static: static,

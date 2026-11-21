@@ -6,8 +6,11 @@ import { readdir, readFile, stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { build } from 'vite';
 
-/** Files never precached: the worker itself, source maps, the font files (72 woff2, cached when first used). */
-const skip = (rel) => rel === 'sw.js' || rel.endsWith('.map') || rel.startsWith('fonts/files/') || rel.endsWith('.txt') || rel.endsWith('.md');
+/** Font files of the default UI and reading fonts (latin + vietnamese, ~120 kB): precached so they work offline at once. */
+export const CRITICAL_FONTS = ['inter-latin-wght-normal', 'inter-vietnamese-wght-normal', 'literata-latin-wght-normal', 'literata-vietnamese-wght-normal'].map((f) => `fonts/files/${f}.woff2`);
+
+/** Files never precached: the worker itself, source maps, the other font files (cached when first used). */
+const skip = (rel) => rel === 'sw.js' || rel.endsWith('.map') || (rel.startsWith('fonts/files/') && !CRITICAL_FONTS.includes(rel)) || rel.endsWith('.txt') || rel.endsWith('.md');
 
 async function walk(dir, base = '') {
   const out = [];

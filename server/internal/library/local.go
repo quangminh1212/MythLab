@@ -10,6 +10,8 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"golang.org/x/text/unicode/norm"
 )
 
 const (
@@ -153,6 +155,13 @@ func (p *LocalProvider) lookup(key string) (localStory, error) {
 	if key == "" {
 		return s, ErrBadParam("key")
 	}
+	// NFC and NFD spellings of the same name are one story (macOS, copied links)
+	p.mu.Lock()
+	s, ok = p.byNormalizedKey(key)
+	p.mu.Unlock()
+	if ok {
+		return s, nil
+	}
 	segs := strings.Split(key, "/")
 	for _, seg := range segs {
 		if !validSegment(seg) {
@@ -163,6 +172,18 @@ func (p *LocalProvider) lookup(key string) (localStory, error) {
 		return s, ErrForbidden("path escape")
 	}
 	return s, ErrNotFound(safeEcho(key))
+}
+
+// byNormalizedKey finds a story whose key equals key after Unicode NFC
+// normalisation. The caller holds p.mu.
+func (p *LocalProvider) byNormalizedKey(key string) (localStory, bool) {
+	want := norm.NFC.String(key)
+	for k, s := range p.byKey {
+		if norm.NFC.String(k) == want {
+			return s, true
+		}
+	}
+	return localStory{}, false
 }
 
 func readLimited(file string, max int64) ([]byte, error) {

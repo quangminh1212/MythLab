@@ -8,25 +8,27 @@ export const CACHE = {
   /** `mythlab-shell-<build>`: the precached app shell of one build. */
   shellPrefix: 'mythlab-shell-',
   /** Audio of /api/tts (LRU). */
-  tts: 'mythlab-tts',
+  tts: 'mythlab-tts-v2',
   /** Images of /api/cover (LRU, revalidated when old). */
-  covers: 'mythlab-covers',
+  covers: 'mythlab-covers-v2',
   /** Chapters read recently (LRU, stale-while-revalidate). */
   chapters: 'mythlab-chapters',
   /** Chapters the user downloaded on purpose ("Tải về để đọc offline"): never evicted. */
   pinned: 'mythlab-offline',
   /** Last good answers of /api/sources, /api/stories, /api/story, /api/voices and the same-origin ping (LRU). */
-  api: 'mythlab-api',
+  api: 'mythlab-api-v2',
   /** Font files and hashed assets that are not part of the precache (LRU). */
   assets: 'mythlab-assets',
   /** Bookkeeping of the LRU buckets. */
   meta: 'mythlab-meta',
   /** Runtime cache of the old service worker (v3): never versioned, deleted on activation. */
   legacyStatic: 'mythlab-static',
+  /** Buckets of worker versions whose keys carried no server/key identity: deleted on activation. */
+  legacyIdentity: ['mythlab-tts', 'mythlab-covers', 'mythlab-api'],
 } as const;
 
-/** Entries kept per LRU bucket. */
-export const LIMIT = { tts: 200, covers: 300, chapters: 300, api: 80, assets: 160 } as const;
+/** Entries kept per LRU bucket (api: lists, searches and details share it, so it is generous). */
+export const LIMIT = { tts: 200, covers: 300, chapters: 300, api: 300, assets: 160 } as const;
 
 /** Epoch ms when the service worker (or the page) stored the entry. */
 export const HDR_AT = 'X-ML-At';
@@ -40,6 +42,22 @@ export const scopeOf = (href: string): string => new URL('./', href).href;
 
 /** Prefix of every stored chapter of one story. */
 export const storyPrefix = (scope: string, source: string, key: string): string => `${scope}__offline/chapter/${enc(source)}/${enc(key)}/`;
+
+/** Request header that carries the LAN access key (see core/backend/server.ts). */
+export const KEY_HEADER = 'X-MythLab-Key';
+
+/**
+ * Short identity of a server + access key, for cache keys. Only a SHA-256 prefix is kept, never the raw key, so a
+ * rotated key or another server never reads (or is served) the answers stored for the previous one.
+ */
+export async function fingerprint(origin: string, key: string): Promise<string> {
+  const data = new TextEncoder().encode(`${origin}\0${key}`);
+  const digest = new Uint8Array(await crypto.subtle.digest('SHA-256', data));
+  return Array.from(digest.slice(0, 8), (b) => b.toString(16).padStart(2, '0')).join('');
+}
+
+/** Cache key of a private API answer: the request URL plus the identity it was fetched with. */
+export const identUrl = (url: string, id: string): string => url + (url.includes('?') ? '&' : '?') + '__ml=' + id;
 
 /** Cache key of one chapter: independent of the server address, so a chapter is stored once. */
 export const chapterKey = (scope: string, source: string, key: string, file: string): string => storyPrefix(scope, source, key) + enc(file);

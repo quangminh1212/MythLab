@@ -1,4 +1,4 @@
-import { beforeEach, describe, expect, it } from 'vitest';
+import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { SERVER_KEY, TOKEN_KEY } from '../core/backend/index';
 import { library } from '../core/library';
 import { progress } from '../core/progress';
@@ -69,5 +69,39 @@ describe('backup', () => {
 
   it('names the file by date', () => {
     expect(backupFileName(Date.UTC(2026, 0, 5))).toBe('mythlab-sao-luu-2026-01-05.json');
+  });
+});
+
+describe('backup hardening', () => {
+  it('ignores prototype-named settings keys instead of throwing', () => {
+    const text = '{"format":"mythlab-backup","version":1,"settings":{"constructor":5,"toString":1,"__proto__":{"x":1},"size":24}}';
+    const b = parseBackup(text);
+    expect(b.settings.size).toBe(24);
+  });
+
+  it('caps progress to MAX_ENTRIES in replace mode', () => {
+    const prog: Record<string, unknown> = {};
+    for (let i = 0; i < 520; i++) prog['s|k' + i] = { source: 's', key: 'k' + i, ts: i };
+    const b = parseBackup(JSON.stringify({ format: 'mythlab-backup', version: 1, progress: prog }));
+    const out = mergeBackup(buildBackup(), b, 'replace');
+    expect(Object.keys(out.progress)).toHaveLength(500);
+    expect(out.progress['s|k519']).toBeDefined();
+    expect(out.progress['s|k0']).toBeUndefined();
+  });
+
+  it('rolls back every key when a write fails midway', () => {
+    library.addBookmark({ source: 's', key: 'old', name: 'old', idx: 0, n: 1, file: 'f', title: 't', para: 0, excerpt: '' });
+    const before = localStorage.getItem('mythlab.bookmarks');
+    const b = parseBackup(JSON.stringify({ format: 'mythlab-backup', version: 1, settings: { size: 30 }, progress: { 's|k': { source: 's', key: 'k', ts: 1 } }, bookmarks: [], follows: [] }));
+    const real = localStorage.setItem.bind(localStorage);
+    let fails = 0;
+    const spy = vi.spyOn(localStorage, 'setItem').mockImplementation((k: string, v: string) => {
+      if (k === 'mythlab.follows' && fails++ === 0) throw new DOMException('full', 'QuotaExceededError');
+      real(k, v);
+    });
+    expect(() => applyBackup(b, { mode: 'replace' })).toThrow(BackupError);
+    spy.mockRestore();
+    expect(localStorage.getItem('mythlab.bookmarks')).toBe(before);
+    expect(localStorage.getItem('mythlab.progress')).toBeNull();
   });
 });

@@ -8,7 +8,7 @@ chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính c�
 | Tệp | Vai trò |
 |---|---|
 | `package.json` | Capacitor 8 (`core`, `cli`, `android`), `@capacitor/preferences`, `@capacitor-community/text-to-speech`, `@capacitor-community/keep-awake` |
-| `capacitor.config.json` | `appId io.github.mythlab.reader`, tên `MythLab Truyện`, `webDir www`, scheme `https`, cho phép mixed content |
+| `capacitor.config.json` | `appId io.github.mythlab.reader`, tên `MythLab Truyện`, `webDir www`, scheme `https`, cho phép mixed content (lý do ở mục Bảo mật mạng) |
 | `sync-web.mjs` | Chép `../../web/dist` vào `www/` và bỏ `viewport-fit=cover` khỏi `index.html` (để thanh trạng thái màu teal không đè lên header) |
 | `build.ps1` | Đặt `JAVA_HOME` (JDK 21) và `ANDROID_HOME`, dựng web, chạy `sync-web`, `cap sync`, Gradle, chép APK vào `dist/` |
 | `android/` | Dự án Android do `npx cap add android` tạo, đã chỉnh: icon, màu teal, `network_security_config.xml` (cho phép `http` tới server LAN), `<queries>` cho `TTS_SERVICE` |
@@ -21,7 +21,7 @@ không có tệp `.js` băm tên trong `_astro/`; hoặc `index.html` trỏ tớ
 
 ## Yêu cầu
 
-- Node.js 20+ và npm.
+- Node.js 22+ và npm (Capacitor 8 CLI cần `>=22.0.0`; phần web `web/` dùng Astro cần `>=22.23.4`, nên dùng bản mới nhất của Node 22 hoặc 24).
 - **JDK 21** (Capacitor 8 không build được với JDK 17). `build.ps1` dùng `JAVA_HOME` nếu đó là JDK 21+, nếu không thì
   tìm ở `%LOCALAPPDATA%\MythLab-tools\jdk21`. Có thể tải bản portable tại
   https://aka.ms/download-jdk/microsoft-jdk-21-windows-x64.zip rồi giải nén vào thư mục đó.
@@ -58,7 +58,22 @@ $env:MYTHLAB_KEY_PASS = "..."
 powershell -ExecutionPolicy Bypass -File build.ps1 -Release   # dist\MythLab-release.apk
 ```
 
-Không bao giờ commit `*.jks` / `*.keystore` hay mật khẩu. Bản release chưa được chạy thử trong đợt này.
+Mật khẩu keystore chỉ được `android/app/build.gradle` đọc từ biến môi trường (không truyền trên dòng lệnh Gradle). Không bao giờ commit `*.jks` / `*.keystore` hay mật khẩu. Bản release bật R8 (`minifyEnabled`, `shrinkResources`) với luật giữ cho Capacitor trong `android/app/proguard-rules.pro`;
+bản debug không thu nhỏ. Bản release chưa được chạy thử trên máy thật, hãy thử kỹ trước khi phát hành.
+
+### Phiên bản
+
+Nguồn duy nhất là `version` trong `apps/android/package.json` (hiện `1.0.0`). `versionName` lấy nguyên giá trị đó,
+`versionCode = MAJOR*10000 + MINOR*100 + PATCH` (1.0.0 thành 10000), mỗi phần phải nhỏ hơn 100. Tăng `version` mỗi
+lần phát hành để cài đè được.
+
+## Bảo mật mạng
+
+`allowMixedContent: true` và `usesCleartextTraffic` là **bắt buộc** cho chế độ server LAN: WebView chạy ở gốc
+`https://localhost` nhưng phải gọi `http://192.168.x.y:8765` (địa chỉ IP LAN do người dùng nhập, không đoán trước
+được). Android `network_security_config` không hỗ trợ dải CIDR nên không thu hẹp theo miền được. Chế độ token GitHub
+chỉ dùng `https`. Nếu chỉ dùng token GitHub, có thể đặt `allowMixedContent` về `false` và
+`cleartextTrafficPermitted="false"`. FileProvider chỉ trỏ vào `cache/shared/` (app hiện chưa chia sẻ tệp nào).
 
 ## Cài lên điện thoại
 

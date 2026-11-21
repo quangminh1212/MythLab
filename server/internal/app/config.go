@@ -81,14 +81,32 @@ func isDir(p string) bool {
 
 // Discover locates the config file and the cache directory.
 //
-// Without configFlag: config.json beside the executable; else the nearest
-// reader/config.json walking up from the working directory (repository mode,
-// cache reader/.cache); else the per-user location. cacheFlag overrides the
+// Without configFlag: config.json beside the executable; else the per-user
+// config.json (%APPDATA%\MythLab); else the nearest reader/config.json walking
+// up from the executable's directory, then from the working directory
+// (repository mode, cache reader/.cache); else the per-user location (first run). cacheFlag overrides the
 // cache directory in every case.
 func Discover(configFlag, cacheFlag string) (Paths, error) {
 	exe, _ := os.Executable()
 	cwd, _ := os.Getwd()
 	return discover(configFlag, cacheFlag, filepath.Dir(exe), cwd)
+}
+
+// findRepoConfig returns the nearest reader/config.json walking up from dir, or "".
+func findRepoConfig(dir string) string {
+	if dir == "" || dir == "." {
+		return ""
+	}
+	for {
+		if c := filepath.Join(dir, "reader", "config.json"); isFile(c) {
+			return c
+		}
+		parent := filepath.Dir(dir)
+		if parent == dir {
+			return ""
+		}
+		dir = parent
+	}
 }
 
 func discover(configFlag, cacheFlag, exeDir, cwd string) (Paths, error) {
@@ -110,22 +128,20 @@ func discover(configFlag, cacheFlag, exeDir, cwd string) (Paths, error) {
 		}
 	case exeDir != "" && exeDir != "." && isFile(filepath.Join(exeDir, "config.json")):
 		p.Config, p.Base, p.Cache = filepath.Join(exeDir, "config.json"), exeDir, userCache
+	case isFile(filepath.Join(userCfg, "config.json")):
+		p.Config, p.Base, p.Cache = filepath.Join(userCfg, "config.json"), userCfg, userCache
 	default:
-		for dir := cwd; dir != ""; {
-			if c := filepath.Join(dir, "reader", "config.json"); isFile(c) {
-				p.Base = filepath.Dir(c)
-				p.Config, p.Cache = c, filepath.Join(p.Base, ".cache")
+		// repository mode: the checkout around the executable first, then around the working directory
+		for _, start := range []string{exeDir, cwd} {
+			if p.Config = findRepoConfig(start); p.Config != "" {
+				p.Base = filepath.Dir(p.Config)
+				p.Cache = filepath.Join(p.Base, ".cache")
 				break
 			}
-			parent := filepath.Dir(dir)
-			if parent == dir {
-				break
-			}
-			dir = parent
 		}
 		if p.Config == "" {
 			p.Config, p.Base, p.Cache = filepath.Join(userCfg, "config.json"), userCfg, userCache
-			p.FirstRun = !isFile(p.Config)
+			p.FirstRun = true
 		}
 	}
 	if cacheFlag != "" {

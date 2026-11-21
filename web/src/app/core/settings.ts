@@ -41,6 +41,8 @@ export interface Settings {
   ttsClean: boolean;
   ttsChapterCue: boolean;
   keepAwake: boolean;
+  /** Single-key reader shortcuts (M, B, A, Space, ...); off satisfies WCAG 2.1.4. */
+  shortcuts: boolean;
 }
 export type SettingKey = keyof Settings;
 
@@ -82,6 +84,7 @@ export function defaults(): Settings {
     ttsClean: true,
     ttsChapterCue: true,
     keepAwake: true,
+    shortcuts: true,
   };
 }
 export const DEF: Readonly<Settings> = Object.freeze(defaults());

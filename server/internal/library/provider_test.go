@@ -51,6 +51,21 @@ func TestPyQuote(t *testing.T) {
 	}
 }
 
+func TestLocalProviderUnicodeKey(t *testing.T) {
+	root := t.TempDir()
+	nfc := "Truyện_Á" // precomposed, as typed on Windows
+	nfd := "Truyện_Á"
+	writeFile(t, filepath.Join(root, nfc, "Chương 1.txt"), "một")
+	p := NewLocalProvider("local0", "Thử", root)
+	for _, key := range []string{nfc, nfd} {
+		if _, err := p.Story(context.Background(), key); err != nil {
+			t.Fatalf("story %q: %v", key, err)
+		}
+	}
+	_, err := p.Story(context.Background(), "Truyen_A")
+	wantStatus(t, err, 404, "different story")
+}
+
 func TestLocalProvider(t *testing.T) {
 	root := t.TempDir()
 	writeFile(t, filepath.Join(root, "Truyện A", "Chương 2 - Hai.txt"), "hai")

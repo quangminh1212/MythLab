@@ -15,7 +15,7 @@
  *    activation.
  */
 import { Lru } from './lru';
-import { apiRoute, CACHE, chapterKey, chapterParams, HDR_AT, HDR_SIZE, LIMIT, parseRange, type SwActivated, type SwRequest, type SwVersion } from './shared';
+import { apiRoute, CACHE, chapterKey, chapterParams, fingerprint, HDR_AT, identUrl, KEY_HEADER, HDR_SIZE, LIMIT, parseRange, type SwActivated, type SwRequest, type SwVersion } from './shared';
 
 declare const __SW_MANIFEST__: { v: string; files: string[] };
 
@@ -58,7 +58,8 @@ const DAY = 86_400_000;
 const CHAPTER_FRESH = 6 * 3_600_000;
 const COVER_FRESH = DAY;
 const FONT_FRESH = 30 * DAY;
-const NAV_TIMEOUT = 4000;
+// the precached shell is always valid, so a stalled network must not hold the first paint for long
+const NAV_TIMEOUT = 1500;
 const PING_TIMEOUT = 2500;
 
 // ---------------------------------------------------------------- helpers
@@ -203,6 +204,63 @@ function isPinning(key: string): boolean {
   return false;
 }
 
+// ---------------------------------------------------------------- server / key identity
+
+const IDENT_URL = `${SCOPE}__meta/ident`;
+/** origin -> fingerprint of the key last used with it (loaded from the meta cache on first use). */
+let seen: Promise<Map<string, string>> | null = null;
+let identChain: Promise<unknown> = Promise.resolve();
+
+function loadSeen(): Promise<Map<string, string>> {
+  if (!seen) {
+    seen = (async () => {
+      const m = new Map<string, string>();
+      try {
+        const r = await (await caches.open(CACHE.meta)).match(IDENT_URL);
+        if (r) for (const [o, f] of Object.entries((await r.json()) as Record<string, string>)) if (typeof f === 'string') m.set(o, f);
+      } catch {
+        /* nothing remembered */
+      }
+      return m;
+    })();
+  }
+  return seen;
+}
+
+/** Deletes every answer stored under a (possibly stale) identity: API data, covers and audio. Downloads stay. */
+async function purgePrivate(): Promise<void> {
+  for (const b of [tts, covers, api]) {
+    await caches.delete(b.name).catch(() => false);
+    b.reset();
+  }
+}
+
+/**
+ * Identity of a request's server + key. When the key used with an origin differs from the one seen before, the
+ * private buckets are purged first, so nothing fetched with the old key can be served.
+ */
+function identity(req: Request): Promise<string> {
+  const run = async (): Promise<string> => {
+    const origin = new URL(req.url).origin;
+    const id = await fingerprint(origin, req.headers.get(KEY_HEADER) || '');
+    const known = await loadSeen();
+    const before = known.get(origin);
+    if (before !== id) {
+      known.set(origin, id);
+      if (before !== undefined) await purgePrivate();
+      try {
+        await (await caches.open(CACHE.meta)).put(IDENT_URL, new Response(JSON.stringify(Object.fromEntries(known)), { headers: { 'Content-Type': 'application/json' } }));
+      } catch {
+        /* remembered in memory only */
+      }
+    }
+    return id;
+  };
+  const next = identChain.then(run, run);
+  identChain = next.catch(() => {});
+  return next;
+}
+
 // ---------------------------------------------------------------- install / activate
 
 async function precache(): Promise<void> {
@@ -242,7 +300,7 @@ sw.addEventListener('activate', (e) => {
   e.waitUntil(
     (async () => {
       for (const name of await caches.keys()) {
-        if ((name.startsWith(CACHE.shellPrefix) && name !== SHELL) || name === CACHE.legacyStatic) await caches.delete(name);
+        if ((name.startsWith(CACHE.shellPrefix) && name !== SHELL) || name === CACHE.legacyStatic || (CACHE.legacyIdentity as readonly string[]).includes(name)) await caches.delete(name);
       }
       await sw.clients.claim();
       const msg: SwActivated = { type: 'ACTIVATED', version: MANIFEST.v, files: MANIFEST.files };
@@ -330,10 +388,11 @@ async function refresh(bucket: Bucket, key: string, req: Request): Promise<void>
 
 async function cover(e: FetchEventLike): Promise<Response> {
   const req = e.request;
-  const hit = await covers.match(req.url);
+  const ck = identUrl(req.url, await identity(req));
+  const hit = await covers.match(ck);
   if (hit) {
     e.waitUntil(covers.settle());
-    if (age(hit) > COVER_FRESH) e.waitUntil(refresh(covers, req.url, req.clone()));
+    if (age(hit) > COVER_FRESH) e.waitUntil(refresh(covers, ck, req.clone()));
     return hit;
   }
   const res = await fetch(req);
@@ -341,7 +400,7 @@ async function cover(e: FetchEventLike): Promise<Response> {
     const copy = res.clone();
     e.waitUntil(
       stamped(copy)
-        .then((r) => covers.put(req.url, r))
+        .then((r) => covers.put(ck, r))
         .then(() => covers.settle())
         .catch(() => {}),
     );
@@ -377,7 +436,8 @@ async function ranged(req: Request, full: Response): Promise<Response> {
 
 async function speech(e: FetchEventLike): Promise<Response> {
   const req = e.request;
-  const hit = await tts.match(req.url);
+  const ck = identUrl(req.url, await identity(req));
+  const hit = await tts.match(ck);
   if (hit) {
     e.waitUntil(tts.settle());
     return ranged(req, hit);
@@ -387,7 +447,7 @@ async function speech(e: FetchEventLike): Promise<Response> {
   const copy = await stamped(res.clone());
   e.waitUntil(
     tts
-      .put(req.url, copy.clone())
+      .put(ck, copy.clone())
       .then(() => tts.settle())
       .catch(() => {}),
   );
@@ -449,20 +509,21 @@ async function chapter(e: FetchEventLike, key: string): Promise<Response> {
 /** Network first for JSON the views need to start; the last good answer when the network is gone. */
 async function apiData(e: FetchEventLike, wait = 0): Promise<Response> {
   const req = e.request;
+  const ck = identUrl(req.url, await identity(req));
   try {
     const res = await (wait ? timeout(fetch(req), wait) : fetch(req));
     if (storable(res)) {
       const copy = res.clone();
       e.waitUntil(
         stamped(copy)
-          .then((r) => api.put(req.url, r))
+          .then((r) => api.put(ck, r))
           .then(() => api.settle())
           .catch(() => {}),
       );
     }
     return res;
   } catch (err) {
-    const hit = await api.match(req.url);
+    const hit = await api.match(ck);
     if (hit) return hit;
     throw err;
   }

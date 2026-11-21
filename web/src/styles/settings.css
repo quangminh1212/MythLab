@@ -183,9 +183,25 @@ html.has-overlay #dim {
   line-height: 1.2;
 }
 
+/* WCAG 2.5.8: the radio and its label are both at least 24 px; the label keeps the full --tap row height */
+.ss-panel :not(.ss-seg) > .ss-opt {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-height: var(--tap);
+}
+
+.ss-panel :not(.ss-seg) > .ss-opt input[type="radio"] {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+}
+
 .ss-range {
   display: block;
   width: 100%;
+  height: 24px;
   margin: 0;
 }
 
@@ -533,7 +549,7 @@ html.has-overlay #dim {
 
   .overlay:has(.ss-panel) .dialog {
     pointer-events: auto;
-    max-height: max(55dvh, 300px);
+    max-height: min(max(55dvh, 300px), 100dvh);
     box-shadow: 0 -10px 30px -8px rgba(16, 24, 40, 0.35);
   }
 

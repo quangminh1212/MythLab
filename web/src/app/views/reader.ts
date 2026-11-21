@@ -25,13 +25,15 @@ import { closeChapterDrawer, openChapterDrawer, type DrawerTab } from '../reader
 import { createHighlighter } from '../reader/highlight';
 import { openHelp } from '../reader/help';
 import { xicon } from '../reader/icons';
-import { keyOf, typingTarget } from '../reader/keys';
+import { keyOf, shortcutAllowed, typingTarget } from '../reader/keys';
 import { chapterSwipe, clampPage, firstPara, pageCount, pageOfOffset, pageSwipe, tapZone, turn, wheelTurn, stride, type PageGeom } from '../reader/pager';
 import { anchorAt, excerpt, scrollFor, scrollFraction, startPosition, type Anchor } from '../reader/position';
 import { currentMark, onMark, type SpeechMark } from '../player/mark';
 import { openSettings, shell } from '../shell';
 
 /** Distance of the reading line from the top of the viewport (scroll mode), in px. */
+/** Keys that act alone (no modifier) and can be switched off in Settings. */
+const SINGLE_KEYS: ReadonlySet<string> = new Set(['m', 'b', 'a', '+', '=', '-', '_', '?', ' ']);
 const LINE = 84;
 /** Gap between two pages, in px. */
 const GAP = 48;
@@ -636,6 +638,11 @@ function open(c: Ctx): void {
       if (typingTarget(e) && !(e.key === 'Escape')) return;
       if (overlayOpen()) return;
       const k = keyOf(e);
+      // WCAG 2.1.4: letters, Space, ? and +/- only work while "Phím tắt một phím" is on (default); arrows and Escape always do
+      if (!shortcutAllowed(e, S.shortcuts, SINGLE_KEYS.has(k))) {
+        if (k === ' ') auto.hold(1500);
+        return;
+      }
       const listening = document.getElementById('player-dock')?.childElementCount ? playing || !!currentMark() : false;
       let used = true;
       if (k === 'ArrowLeft' || k === 'ArrowRight') {

@@ -443,6 +443,10 @@ func (d *desktop) runWindow() int {
 	if err := wv.Bind("__mythlabLoaded", d.onLoaded); err != nil {
 		d.log.logf("không gắn được hàm báo tải trang: %v", err)
 	}
+	if err := wv.Bind("__mythlabOpenExternal", d.openExternal); err != nil {
+		d.log.logf("không gắn được hàm mở liên kết ngoài: %v", err)
+	}
+	wv.Init(guardScript)
 	wv.Init(`window.addEventListener("DOMContentLoaded",function(){try{window.__mythlabLoaded(String(location.href))}catch(e){}});`)
 	wv.Navigate(d.url)
 	d.log.logf("WebView2 đã khởi tạo; cửa sổ %dx%d (DPI %d); mở %s", d.state.Width, d.state.Height, d.dpi, d.url)
@@ -455,6 +459,48 @@ func (d *desktop) runWindow() int {
 	d.saveState()
 	d.shutdown()
 	return exitOK
+}
+
+// guardScript keeps navigation inside the app: clicks on links to another
+// origin and window.open() calls are handed to Go, which opens http(s) targets
+// in the default browser. It is a page-level guard (go-webview2 exposes no
+// NavigationStarting/NewWindowRequested hooks), so it covers links and popups
+// the UI creates, not arbitrary script-driven location changes.
+const guardScript = `(function(){
+function ext(u){try{var x=new URL(u,location.href);return x.origin!==location.origin&&x.protocol!=="blob:"&&x.protocol!=="data:"?x.href:""}catch(e){return ""}}
+function go(u){try{window.__mythlabOpenExternal(u)}catch(e){}}
+document.addEventListener("click",function(ev){
+ var a=ev.target&&ev.target.closest?ev.target.closest("a[href]"):null;
+ if(!a||a.hasAttribute("download"))return;
+ var u=ext(a.href);
+ if(u){ev.preventDefault();go(u)}else if(a.target==="_blank"){ev.preventDefault();location.assign(a.href)}
+},true);
+window.open=function(u){var x=ext(u||"");if(x)go(x);return null};
+})();`
+
+// externalTarget reports whether raw is an http(s) URL that must be opened in
+// the default browser: it has a host and is not on the app's own origin.
+func externalTarget(raw, appURL string) bool {
+	u, err := url.Parse(strings.TrimSpace(raw))
+	if err != nil || u.Host == "" || (u.Scheme != "http" && u.Scheme != "https") {
+		return false
+	}
+	app, err := url.Parse(appURL)
+	if err != nil {
+		return false
+	}
+	return !strings.EqualFold(u.Scheme, app.Scheme) || !strings.EqualFold(u.Host, app.Host)
+}
+
+// openExternal is called by the page for off-origin links (UI thread).
+func (d *desktop) openExternal(raw string) {
+	if !externalTarget(raw, d.url) {
+		d.log.logf("bỏ qua liên kết không hợp lệ: %q", raw)
+		return
+	}
+	if !shellOpen(raw) {
+		d.log.logf("không mở được liên kết ngoài: %s", raw)
+	}
 }
 
 // hideStrayWindows hides host windows left behind by a failed WebView2 start.

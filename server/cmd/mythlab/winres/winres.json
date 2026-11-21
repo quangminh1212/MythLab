@@ -9,7 +9,7 @@
       "0409": {
         "identity": {
           "name": "XLab.MythLab",
-          "version": "2.0.0.0"
+          "version": "1.0.0.0"
         },
         "description": "MythLab Truyện",
         "minimum-os": "win10",
@@ -33,18 +33,18 @@
     "#1": {
       "0000": {
         "fixed": {
-          "file_version": "2.0.0.0",
-          "product_version": "2.0.0.0"
+          "file_version": "1.0.0.0",
+          "product_version": "1.0.0.0"
         },
         "info": {
           "0409": {
             "CompanyName": "XLab",
             "FileDescription": "MythLab Truyện",
-            "FileVersion": "2.0.0",
+            "FileVersion": "1.0.0",
             "InternalName": "MythLab",
             "OriginalFilename": "MythLab.exe",
             "ProductName": "MythLab Truyện",
-            "ProductVersion": "2.0.0"
+            "ProductVersion": "1.0.0"
           }
         }
       }

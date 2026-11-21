@@ -3,7 +3,6 @@ package library
 import (
 	"context"
 	"errors"
-	"fmt"
 	"net/http"
 	"regexp"
 	"sort"
@@ -257,5 +256,3 @@ func validSegment(s string) bool {
 	}
 	return true
 }
-
-func fmtErr(format string, a ...any) error { return fmt.Errorf(format, a...) }

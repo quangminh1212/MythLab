@@ -111,7 +111,8 @@ function layoutTab(): SafeHtml {
       ['scroll', 'Cuộn dọc'],
       ['page', 'Lật trang'],
     ])}
-    ${checkRow('tapZones', 'Chạm hai bên màn hình để lật trang')}`;
+    ${checkRow('tapZones', 'Chạm hai bên màn hình để lật trang')}
+    ${checkRow('shortcuts', 'Phím tắt một phím (M, B, A, Space, ?)', 'Tắt nếu dùng giọng nói hoặc hay bấm nhầm. Phím mũi tên vẫn dùng được.')}`;
 }
 
 function voiceTab(): SafeHtml {
