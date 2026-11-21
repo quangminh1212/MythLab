@@ -20,8 +20,13 @@ function get(): MediaPlaybackPlugin | null {
   plugin = null;
   try {
     if (!isNative()) return null;
-    const c = (globalThis as { Capacitor?: { registerPlugin?: (n: string) => MediaPlaybackPlugin } }).Capacitor;
-    plugin = c?.registerPlugin ? c.registerPlugin('MediaPlayback') : null;
+    const c = (
+      globalThis as {
+        Capacitor?: { Plugins?: Record<string, MediaPlaybackPlugin | undefined>; registerPlugin?: (n: string) => MediaPlaybackPlugin };
+      }
+    ).Capacitor;
+    // the native bridge global exposes registered plugins on Capacitor.Plugins (registerPlugin only exists in the bundled core)
+    plugin = c?.Plugins?.MediaPlayback ?? (c?.registerPlugin ? c.registerPlugin('MediaPlayback') : null);
   } catch {
     plugin = null;
   }
