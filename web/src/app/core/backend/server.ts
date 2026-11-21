@@ -15,17 +15,24 @@ export interface ServerBackend extends BackendImpl {
 }
 
 /** Combines a caller signal with a timeout; returns the signal and a disposer. */
-function withTimeout(timeout: number, signal?: AbortSignal): { signal: AbortSignal | undefined; done: () => void } {
-  if (!timeout && !signal) return { signal: undefined, done: () => {} };
+function withTimeout(timeout: number, signal?: AbortSignal): { signal: AbortSignal | undefined; done: () => void; timedOut: () => boolean } {
+  if (!timeout && !signal) return { signal: undefined, done: () => {}, timedOut: () => false };
   const ctl = new AbortController();
   const onAbort = (): void => ctl.abort();
   if (signal) {
     if (signal.aborted) ctl.abort();
     else signal.addEventListener('abort', onAbort, { once: true });
   }
-  const t = timeout ? setTimeout(() => ctl.abort(), timeout) : undefined;
+  let fired = false;
+  const t = timeout
+    ? setTimeout(() => {
+        fired = true;
+        ctl.abort();
+      }, timeout)
+    : undefined;
   return {
     signal: ctl.signal,
+    timedOut: () => fired && !signal?.aborted,
     done: () => {
       if (t !== undefined) clearTimeout(t);
       signal?.removeEventListener('abort', onAbort);
@@ -124,7 +131,14 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
   async function getLive<T = unknown>(path: string, { timeout = 0, signal }: GetOptions = {}): Promise<T> {
     const t = withTimeout(timeout, signal);
     try {
-      const r = await fetch(base + '/api' + norm(path), { headers, signal: t.signal });
+      let r: Response;
+      try {
+        r = await fetch(base + '/api' + norm(path), { headers, signal: t.signal });
+      } catch (e) {
+        // Our own timeout is a network failure (the caller shows an error), not a user abort, which views ignore silently.
+        if (t.timedOut()) throw new Error('Máy chủ không phản hồi', { cause: e });
+        throw e;
+      }
       const j = (await r.json().catch(() => ({ error: `HTTP ${r.status}` }))) as { error?: unknown; code?: unknown };
       if (!r.ok || j.error) {
         // `error` is a string today; tolerate the structured {code, message} form as well

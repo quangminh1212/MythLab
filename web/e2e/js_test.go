@@ -1,6 +1,6 @@
 package e2e
 
-// The page-side measurement scripts, copied verbatim from the Python originals.
+// The page-side measurement scripts, ported verbatim from the former Python e2e scripts (removed from the repo, see git history).
 
 const browseMetricsJS = `
 (W) => {

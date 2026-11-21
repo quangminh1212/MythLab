@@ -88,10 +88,13 @@ export function story(source: string, key: string, o: GetOptions = {}): Promise<
   );
 }
 
+/** A chapter is small text: an unreachable server should show the error screen within ~20 s, not a minute. */
+const CHAPTER_TIMEOUT_MS = 20_000;
+
 export function chapter(source: string, key: string, file: string, o: GetOptions = {}): Promise<Chapter> {
   const path = `/chapter?source=${enc(source)}&key=${enc(key)}&file=${enc(file)}`;
   return withSignal(
-    cached('chapter:' + path, 10 * 60_000, () => backend.get<Chapter>(path, { timeout: 60_000 })),
+    cached('chapter:' + path, 10 * 60_000, () => backend.get<Chapter>(path, { timeout: CHAPTER_TIMEOUT_MS })),
     o.signal,
   );
 }
