@@ -8,6 +8,7 @@
 // Environment:
 //
 //	MYTHLAB_E2E_BROWSER  path of the browser executable (default: Edge, Chrome or Chromium found on this machine)
+//	MYTHLAB_E2E_NO_SANDBOX  any value: start the browser with --no-sandbox (CI runners)
 //	MYTHLAB_E2E_SERVER   path of a prebuilt mythlab-server (default: built from ../../server for this run)
 //	MYTHLAB_E2E_OUT      directory for screenshots and results (default: <temp>/mythlab-e2e)
 //	MYTHLAB_E2E_ONLY     TestBrowse / TestReader only: comma list of subtest name fragments to run
@@ -513,6 +514,9 @@ func newBrowser(t *testing.T) *Browser {
 		"--disable-component-update", "--metrics-recording-only", "--password-store=basic", "--use-mock-keychain",
 		"--force-color-profile=srgb", "--window-size=1440,900",
 		"--user-data-dir=" + udd, fmt.Sprintf("--remote-debugging-port=%d", port), "about:blank",
+	}
+	if os.Getenv("MYTHLAB_E2E_NO_SANDBOX") != "" { // CI containers/runners without user namespaces
+		args = append(args, "--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage")
 	}
 	cmd := exec.Command(browserPath, args...)
 	if os.Getenv("MYTHLAB_E2E_DEBUG") != "" {
