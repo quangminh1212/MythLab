@@ -1,4 +1,6 @@
 /** Server backend: the `/api/*` routes of the MythLab server, same origin (base "") or remote (URL + LAN key). */
+import { isNative } from '../settings';
+import { apiRoute, CACHE, chapterKey, chapterParams, fingerprint, identUrl, scopeOf } from '../../../sw/shared';
 import { ApiError, type BackendImpl, type CoverRef, type GetOptions, type PingResponse, type TtsOptions } from './types';
 
 const norm = (p: string): string => '/' + String(p || '').replace(/^\/+/, '').replace(/^api\//, '');
@@ -40,7 +42,60 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
   const base = String(baseIn || '').replace(/\/+$/, '');
   const headers: Record<string, string> = key ? { 'X-MythLab-Key': key } : {};
 
-  async function get<T = unknown>(path: string, { timeout = 0, signal }: GetOptions = {}): Promise<T> {
+  // The native app has no service worker (its https://localhost origin cannot fetch a plain-http server from one),
+  // so the page itself keeps the last good data answers and serves downloaded chapters when the network is gone.
+  const ident = isNative() && typeof caches !== 'undefined' ? fingerprint(base, key).catch(() => '') : null;
+
+  async function offlineGet<T>(url: string): Promise<T | undefined> {
+    if (!ident) return undefined;
+    try {
+      const u = new URL(url, 'http://x');
+      const route = apiRoute(u.pathname);
+      if (route === 'chapter') {
+        const c = chapterParams(u);
+        if (!c) return undefined;
+        const k = chapterKey(scopeOf(location.href), c.source, c.key, c.file);
+        for (const name of [CACHE.pinned, CACHE.chapters]) {
+          const hit = await (await caches.open(name)).match(k);
+          if (hit) return (await hit.json()) as T;
+        }
+        return undefined;
+      }
+      if (route === 'data') {
+        const hit = await (await caches.open(CACHE.api)).match(identUrl(scopeOf(location.href) + '__native' + u.pathname + u.search, await ident));
+        if (hit) return (await hit.json()) as T;
+      }
+    } catch {
+      /* unreadable entry: treat as missing */
+    }
+    return undefined;
+  }
+
+  async function remember(url: string, body: string): Promise<void> {
+    if (!ident) return;
+    try {
+      const u = new URL(url, 'http://x');
+      if (apiRoute(u.pathname) !== 'data') return;
+      const k = identUrl(scopeOf(location.href) + '__native' + u.pathname + u.search, await ident);
+      await (await caches.open(CACHE.api)).put(k, new Response(body, { headers: { 'Content-Type': 'application/json' } }));
+    } catch {
+      /* storage full or blocked: skip */
+    }
+  }
+
+  async function get<T = unknown>(path: string, opts: GetOptions = {}): Promise<T> {
+    const url = '/api' + norm(path);
+    try {
+      return await getLive<T>(path, opts);
+    } catch (e) {
+      if (e instanceof ApiError || opts.signal?.aborted) throw e;
+      const hit = await offlineGet<T>(url);
+      if (hit !== undefined) return hit;
+      throw e;
+    }
+  }
+
+  async function getLive<T = unknown>(path: string, { timeout = 0, signal }: GetOptions = {}): Promise<T> {
     const t = withTimeout(timeout, signal);
     try {
       const r = await fetch(base + '/api' + norm(path), { headers, signal: t.signal });
@@ -52,6 +107,7 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
         const code = typeof j.code === 'string' ? j.code : typeof e === 'object' && e ? e.code : undefined;
         throw new ApiError(msg, r.status, { code, json: j });
       }
+      void remember('/api' + norm(path), JSON.stringify(j));
       return j as T;
     } finally {
       t.done();
