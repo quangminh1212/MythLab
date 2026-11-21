@@ -291,8 +291,14 @@ export function update(patch: Partial<Progress> & { source: string; key: string 
 }
 
 /** Records the reading position in a chapter (the usual call of the reader). */
-export function saveReading(st: StoryDetail, idx: number, para = 0, frac = 0, o: { now?: boolean } = {}): Progress {
+export function saveReading(st: StoryDetail, idx: number, para = 0, frac = 0, o: { now?: boolean; skipSame?: boolean } = {}): Progress {
   const ch = st.chapters[idx] as ChapterRef | undefined;
+  if (o.skipSame) {
+    // A lifecycle flush (app backgrounded) of a position that did not move must not re-stamp `ts`: it would beat
+    // a newer position another device pushed meanwhile.
+    const prev = map[sKey(st.source, st.key)];
+    if (prev && prev.idx === idx && prev.para === para && (prev.frac ?? 0) === frac) return prev;
+  }
   return update(
     {
       source: st.source,
