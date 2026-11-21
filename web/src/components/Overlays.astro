@@ -1,0 +1,23 @@
+---
+// Fixed layers shared by every stage:
+//   #player-dock   the TTS player (stage W2) renders here and sets --player-h on <html>;
+//   #overlay-root  dialogs, sheets and drawers (core/ui.ts openDialog; W2/W3 may append their own);
+//   #toasts        polite live region for toasts;  #sr-status  screen-reader-only announcements;
+//   #dim           brightness layer driven by the "brightness" setting;
+//   #boot-error    shown by public/boot.js when the app cannot start.
+import Icon from './Icon.astro';
+---
+
+<div id="player-dock" class="player-dock"></div>
+<div id="overlay-root"></div>
+<div id="toasts" class="toasts" role="status" aria-live="polite" aria-atomic="true"></div>
+<div id="sr-status" class="sr-only" role="status" aria-live="polite"></div>
+<div id="dim" aria-hidden="true"></div>
+<div id="boot-error" class="boot-error" role="alert" hidden>
+  <div class="boot-error-box">
+    <div class="state-ic"><Icon name="alert" /></div>
+    <h2 class="state-title">Không tải được ứng dụng</h2>
+    <p class="state-msg">Kiểm tra kết nối mạng rồi thử lại.</p>
+    <button id="boot-retry" type="button" class="btn btn-primary"><Icon name="refresh" /><span>Thử lại</span></button>
+  </div>
+</div>

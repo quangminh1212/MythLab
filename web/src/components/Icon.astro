@@ -1,0 +1,12 @@
+---
+// Build-time icon: the same SVG set the client code uses (src/app/core/icons.ts).
+import { icon, type IconName } from '../app/core/icons';
+
+interface Props {
+  name: IconName;
+  class?: string;
+}
+const { name, class: cls = '' } = Astro.props;
+---
+
+<Fragment set:html={icon(name, cls).s} />

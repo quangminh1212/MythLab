@@ -1,0 +1,308 @@
+{
+  "_doc": [
+    "Shared fixture for the Go server (server/internal/library) and the web client (web/src/app/core/textutil.ts).",
+    "Both implementations must produce exactly these results. Cases without a 'fix' field reproduce the behaviour of the",
+    "old reader/server.py + reader/static/js/textutil.js. Cases WITH a 'fix' field are deliberate changes (bugs.md id).",
+    "",
+    "RULES",
+    "WS = Python str.isspace set: U+0009-000D, U+001C-0020, U+0085, U+00A0, U+1680, U+2000-200A, U+2028, U+2029, U+202F, U+205F, U+3000.",
+    "strip(s) removes WS from both ends. naturalTitle(s) = strip(stripChars(strip(s), '-:. ')).",
+    "",
+    "parseChapterName(file): name = NFC(file). Must end with '.txt' (case-insensitive); stem = name without it. Grammar on stem,",
+    "  case-insensitive, anchored at both ends:",
+    "    [ VOLWORD WS+ DIGITS WS* [-:.,\\u2013]? WS* ]  ('Quyển'|'Quyen'|'Tập'|'Tap')  -> vol",
+    "    ('Chương'|'Chuong') WS+ DIGITS                                              -> n",
+    "    [ ('.'|'-') DIGITS  only when followed by WS or end of stem ]               -> sub",
+    "    WS* [-:.\\u2013]? WS* REST                                                  -> title = naturalTitle(REST)",
+    "  DIGITS = one or more Unicode decimal digits (\\p{Nd}), at most 15, value taken digit by digit.",
+    "  Result {n, title, sub, vol}; sub and vol are 0 when absent. null when no match.",
+    "  In API JSON a chapter is {n, title, file} plus 'sub'/'vol' only when non-zero. 'file' is the ORIGINAL name.",
+    "",
+    "chapterList(files): parse every name, drop non-matches, sort by (vol, n, sub, file) with 'file' compared by code point;",
+    "  then de-duplicate: entries with equal (vol, n, sub) AND equal compact(title) keep only the first in sort order.",
+    "  compact(s) = normKey(s) with spaces removed. Different titles under one number are all kept.",
+    "",
+    "cleanChapterText(text, n?): 1) CRLF/CR -> LF, strip leading U+FEFF. 2) RULE = ^WS*[=\\-_*]{5,}WS*$. Among the first 8 lines",
+    "  collect indexes of RULE lines; a header block exists when there are >= 2, the second is <= 4 lines after the first, AND every",
+    "  line before the first is blank (strip == ''). Then title = non-empty stripped lines between them joined by one space (if any)",
+    "  and the lines up to and including the second rule are dropped. 3) Each remaining line: collapse runs of space/tab to one space,",
+    "  strip; drop empty; a RULE line becomes the scene-break paragraph '***'. 4) If title is still null and the first paragraph",
+    "  matches ^(Chương|Chuong)WS+DIGITS (case-insensitive) and has < 160 code points, and (n is not given OR the number equals n),",
+    "  pop it as the title. 5) Scene breaks: drop leading, trailing and consecutive-duplicate '***'.",
+    "  Result {title|null, paragraphs}.",
+    "",
+    "chapterJson(text, file): p = parseChapterName(file); {title, paragraphs} = cleanChapterText(text, p ? p.n : undefined);",
+    "  if title is empty and p: title = (p.vol ? 'Quyển '+p.vol+' - ' : '') + 'Chương ' + p.n + (p.sub ? '.'+p.sub : '') + (p.title ? ': '+p.title : '').",
+    "  words = number of WS-separated tokens over paragraphs other than '***'.",
+    "",
+    "normTxt(s): String(s||'') -> NFD -> remove U+0300-036F -> replace đ/Đ with d -> lower-case. (unchanged from app.js)",
+    "normKey(s): normTxt(s), then every run of characters that are not Unicode letters/digits becomes one space, then trim.",
+    "  Search matches when every query token (normKey(q) split on space) is a substring of normKey(field) or of compact(field).",
+    "",
+    "infoSummary(info, fallback): info that is not a JSON object is treated as {}. text(v) = v if non-empty string; decimal string if",
+    "  integer number; else null. name = text(info.name) || fallback; author = text(author.name if object else author);",
+    "  synopsis = text(synopsis) || text(description) || ''; poster: object -> ['600'] || ['default'] || first value; string kept, else null;",
+    "  genres/tags = names of array items that are objects with a non-empty string name (non-array -> []);",
+    "  status = text(status_name) || text(state); declared_chapters = integer number, or integer parsed from an all-digit string, else null;",
+    "  link = text(link).",
+    "",
+    "pickCover(names): images = names with extension .jpg .jpeg .png .webp .gif .avif (case-insensitive) sorted by code point; first whose",
+    "  lower-case stem is cover, then poster, folder, thumb; else the first image; else null."
+  ],
+
+  "parseChapterName": [
+    {"file": "Chương 1 - Tỉnh lại.txt", "expect": {"n": 1, "title": "Tỉnh lại", "sub": 0, "vol": 0}},
+    {"file": "Chương 2 Dầu tạt kéo mặt.txt", "expect": {"n": 2, "title": "Dầu tạt kéo mặt", "sub": 0, "vol": 0}},
+    {"file": "Chương 1.txt", "expect": {"n": 1, "title": "", "sub": 0, "vol": 0}},
+    {"file": "chương 10: Mở đầu.TXT", "expect": {"n": 10, "title": "Mở đầu", "sub": 0, "vol": 0}},
+    {"file": "CHƯƠNG 7 – Kết.txt", "expect": {"n": 7, "title": "Kết", "sub": 0, "vol": 0}},
+    {"file": "Chương 23 7 25 ăn cơm.txt", "expect": {"n": 23, "title": "7 25 ăn cơm", "sub": 0, "vol": 0}},
+    {"file": "Chương 501 (mười hai năm phía sau) kết quả.txt", "expect": {"n": 501, "title": "(mười hai năm phía sau) kết quả", "sub": 0, "vol": 0}},
+    {"file": "Chương 5 - .-: Tên :-. .txt", "expect": {"n": 5, "title": "Tên", "sub": 0, "vol": 0}},
+    {"file": "Chương  12\u00a0Tên.txt", "expect": {"n": 12, "title": "Tên", "sub": 0, "vol": 0}},
+    {"file": "Chương 007 Bond.txt", "expect": {"n": 7, "title": "Bond", "sub": 0, "vol": 0}},
+    {"file": "Chương 12 .5 abc.txt", "expect": {"n": 12, "title": "5 abc", "sub": 0, "vol": 0}},
+    {"file": "Chương 12.5triệu.txt", "expect": {"n": 12, "title": "5triệu", "sub": 0, "vol": 0}},
+    {"file": "Chương 4-.txt", "expect": {"n": 4, "title": "", "sub": 0, "vol": 0}},
+    {"file": "Chương 9 -- Hai gạch.txt", "expect": {"n": 9, "title": "Hai gạch", "sub": 0, "vol": 0}},
+    {"file": "Chương1.txt", "expect": null},
+    {"file": "Chương 1.md", "expect": null},
+    {"file": "Chương abc.txt", "expect": null},
+    {"file": "info.json", "expect": null},
+    {"file": "Lời tựa Chương 1.txt", "expect": null},
+    {"file": "Chương １２.txt", "expect": {"n": 12, "title": "", "sub": 0, "vol": 0}, "fix": "P3: full-width digits matched in Python but not in the old JS port; both accept them now"},
+    {"file": "Chương 12.5 Ngoại truyện.txt", "expect": {"n": 12, "title": "Ngoại truyện", "sub": 5, "vol": 0}, "fix": "P3: was (12, '5 Ngoại truyện')"},
+    {"file": "Chương 12.5.txt", "expect": {"n": 12, "title": "", "sub": 5, "vol": 0}, "fix": "P3: was (12, '5')"},
+    {"file": "Chương 1-2 Gộp.txt", "expect": {"n": 1, "title": "Gộp", "sub": 2, "vol": 0}, "fix": "P3: was (1, '2 Gộp')"},
+    {"file": "Chu\u031bo\u031bng 3 A.txt", "expect": {"n": 3, "title": "A", "sub": 0, "vol": 0}, "fix": "P3: NFD file name was not matched"},
+    {"file": "Chuong 5.txt", "expect": {"n": 5, "title": "", "sub": 0, "vol": 0}, "fix": "P3: unaccented 'Chuong' was dropped"},
+    {"file": "chuong 6 - Ten.txt", "expect": {"n": 6, "title": "Ten", "sub": 0, "vol": 0}, "fix": "P3"},
+    {"file": "Quyển 2 Chương 1.txt", "expect": {"n": 1, "title": "", "sub": 0, "vol": 2}, "fix": "P3: volume prefix was dropped"},
+    {"file": "Quyển 2 - Chương 10: Tên.txt", "expect": {"n": 10, "title": "Tên", "sub": 0, "vol": 2}, "fix": "P3"},
+    {"file": "Tập 3 Chương 4 Abc.txt", "expect": {"n": 4, "title": "Abc", "sub": 0, "vol": 3}, "fix": "P3"},
+    {"file": "Quyển 2.txt", "expect": null},
+    {"file": "Chương 1234567890123456.txt", "expect": null, "fix": "more than 15 digits is rejected instead of producing an unbounded integer"}
+  ],
+
+  "chapterList": [
+    {
+      "note": "sort by number, non-chapters dropped",
+      "files": ["Chương 10 B.txt", "Chương 2 A.txt", "Chương 1.txt", "info.json", "cover.jpg"],
+      "expect": [
+        {"n": 1, "title": "", "file": "Chương 1.txt"},
+        {"n": 2, "title": "A", "file": "Chương 2 A.txt"},
+        {"n": 10, "title": "B", "file": "Chương 10 B.txt"}
+      ]
+    },
+    {
+      "note": "same number, titles equal after normalisation: keep the first by file name",
+      "fix": "P1: both were listed",
+      "files": ["Chương 8 Trần lão Sư, chồng ta.txt", "Chương 8 Trần lão Sư chồng ta.txt", "Chương 9 Sau.txt"],
+      "expect": [
+        {"n": 8, "title": "Trần lão Sư chồng ta", "file": "Chương 8 Trần lão Sư chồng ta.txt"},
+        {"n": 9, "title": "Sau", "file": "Chương 9 Sau.txt"}
+      ]
+    },
+    {
+      "note": "same number, different titles: both kept, ordered by file name",
+      "files": ["Chương 116 Kinh doanh.txt", "Chương 116 Khoác lác.txt"],
+      "expect": [
+        {"n": 116, "title": "Khoác lác", "file": "Chương 116 Khoác lác.txt"},
+        {"n": 116, "title": "Kinh doanh", "file": "Chương 116 Kinh doanh.txt"}
+      ]
+    },
+    {
+      "note": "duplicates that differ only by case/diacritics/zero padding",
+      "fix": "P1",
+      "files": ["Chương 3 hoi ket.txt", "Chương 3 Hồi Kết.txt", "Chương 5.txt", "Chương 05.txt"],
+      "expect": [
+        {"n": 3, "title": "Hồi Kết", "file": "Chương 3 Hồi Kết.txt"},
+        {"n": 5, "title": "", "file": "Chương 05.txt"}
+      ]
+    },
+    {
+      "note": "volume and sub-number ordering; sub/vol only present when non-zero",
+      "fix": "P3",
+      "files": ["Quyển 2 Chương 1.txt", "Chương 2.txt", "Chương 1.5 X.txt", "Chương 1 Y.txt", "Quyển 1 Chương 3.txt"],
+      "expect": [
+        {"n": 1, "title": "Y", "file": "Chương 1 Y.txt"},
+        {"n": 1, "title": "X", "file": "Chương 1.5 X.txt", "sub": 5},
+        {"n": 2, "title": "", "file": "Chương 2.txt"},
+        {"n": 3, "title": "", "file": "Quyển 1 Chương 3.txt", "vol": 1},
+        {"n": 1, "title": "", "file": "Quyển 2 Chương 1.txt", "vol": 2}
+      ]
+    }
+  ],
+
+  "cleanChapterText": [
+    {
+      "note": "real file header (BOM, CRLF)",
+      "text": "\ufeff============================================================\r\nChương 1: Tỉnh lại\r\n============================================================\r\n\r\nĐoạn  một\t ở đây.\r\n\r\n  Đoạn hai.  \r\n",
+      "expect": {"title": "Chương 1: Tỉnh lại", "paragraphs": ["Đoạn một ở đây.", "Đoạn hai."]}
+    },
+    {
+      "note": "no header: first paragraph is the title",
+      "text": "Chương 2: Tên\nA\nB",
+      "n": 2,
+      "expect": {"title": "Chương 2: Tên", "paragraphs": ["A", "B"]}
+    },
+    {
+      "note": "n unknown: old behaviour, first 'Chương <digits>' paragraph is popped",
+      "text": "Chương 3 của cuốn sách này kể về một người.\nHết.",
+      "expect": {"title": "Chương 3 của cuốn sách này kể về một người.", "paragraphs": ["Hết."]}
+    },
+    {
+      "note": "prose that starts with another chapter number is not a title",
+      "fix": "P4: was popped as the title",
+      "text": "Chương 3 của cuốn sách này kể về một người.\nHết.",
+      "n": 7,
+      "expect": {"title": null, "paragraphs": ["Chương 3 của cuốn sách này kể về một người.", "Hết."]}
+    },
+    {
+      "note": "title line followed by two rules around the first paragraph",
+      "fix": "P4: the first paragraph became the title and the real title was dropped",
+      "text": "Chương 1: X\n*****\nĐoạn đầu.\n*****\nĐoạn sau.",
+      "n": 1,
+      "expect": {"title": "Chương 1: X", "paragraphs": ["Đoạn đầu.", "***", "Đoạn sau."]}
+    },
+    {
+      "note": "scene breaks are kept as '***', duplicates and trailing ones dropped",
+      "fix": "P4: every rule line was removed",
+      "text": "A\n\n-----\n\nB\n_____\n=====\nC\n*****\n",
+      "expect": {"title": null, "paragraphs": ["A", "***", "B", "***", "C"]}
+    },
+    {
+      "note": "blank lines before the header are fine",
+      "text": "\n\n=====\nTên chương\n=====\nNội dung",
+      "expect": {"title": "Tên chương", "paragraphs": ["Nội dung"]}
+    },
+    {
+      "note": "rules more than 4 lines apart are not a header",
+      "fix": "P4: the second rule is now a scene break (the leading one is dropped)",
+      "text": "=====\na\nb\nc\nd\n=====\ne",
+      "expect": {"title": null, "paragraphs": ["a", "b", "c", "d", "***", "e"]}
+    },
+    {
+      "note": "multi-line header",
+      "text": "-----\nQuyển 1\n  Chương 5: Tên  \n-----\nText",
+      "expect": {"title": "Quyển 1 Chương 5: Tên", "paragraphs": ["Text"]}
+    },
+    {
+      "note": "empty header block, then a title paragraph",
+      "text": "=====\n=====\nChương 4 abc\nText",
+      "n": 4,
+      "expect": {"title": "Chương 4 abc", "paragraphs": ["Text"]}
+    },
+    {
+      "note": "CR-only newlines",
+      "text": "Chương 9\rA\rB",
+      "n": 9,
+      "expect": {"title": "Chương 9", "paragraphs": ["A", "B"]}
+    },
+    {
+      "note": "empty text",
+      "text": "",
+      "expect": {"title": null, "paragraphs": []}
+    },
+    {
+      "note": "fix: a single rule line above the title (closing rule more than 8 lines down) is dropped before the title check; manuscript chapter 341",
+      "text": "============================================================\r\nChương 341: Lễ bàn giao\r\n\r\na\r\nb\r\nc\r\nd\r\ne\r\nf\r\ng\r\n============================================================\r\n============================================================\r\n\r\nNội dung.\r\n",
+      "n": 341,
+      "expect": {"title": "Chương 341: Lễ bàn giao", "paragraphs": ["a", "b", "c", "d", "e", "f", "g", "***", "Nội dung."]}
+    }
+  ],
+
+  "chapterJson": [
+    {"text": "Nội dung một hai ba.\nBốn năm.", "file": "Chương 5 - Tên.txt",
+     "expect": {"title": "Chương 5: Tên", "paragraphs": ["Nội dung một hai ba.", "Bốn năm."], "words": 7}},
+    {"text": "Nội dung một hai ba.\nBốn năm.", "file": "Chương 5.txt",
+     "expect": {"title": "Chương 5", "paragraphs": ["Nội dung một hai ba.", "Bốn năm."], "words": 7}},
+    {"text": "=====\nChương 5: Trong tệp\n=====\nA b c", "file": "Chương 5 - Tên.txt",
+     "expect": {"title": "Chương 5: Trong tệp", "paragraphs": ["A b c"], "words": 3}},
+    {"text": "A", "file": "Chương 12.5 Ngoại truyện.txt", "fix": "P3",
+     "expect": {"title": "Chương 12.5: Ngoại truyện", "paragraphs": ["A"], "words": 1}},
+    {"text": "A", "file": "Quyển 2 Chương 1.txt", "fix": "P3",
+     "expect": {"title": "Quyển 2 - Chương 1", "paragraphs": ["A"], "words": 1}},
+    {"text": "A b\n*****\nC", "file": "Chương 1.txt", "fix": "P4: scene break kept, not counted as a word",
+     "expect": {"title": "Chương 1", "paragraphs": ["A b", "***", "C"], "words": 3}},
+    {"text": "Chương 3 của sách.\nHết.", "file": "Chương 7.txt", "fix": "P4",
+     "expect": {"title": "Chương 7", "paragraphs": ["Chương 3 của sách.", "Hết."], "words": 5}}
+  ],
+
+  "normTxt": [
+    {"in": "Cổ Tích Đường", "out": "co tich duong"},
+    {"in": "ĐẠI Đế", "out": "dai de"},
+    {"in": "CoTich", "out": "cotich"},
+    {"in": "  A-b_c  ", "out": "  a-b_c  "},
+    {"in": "Chu\u031bo\u031bng", "out": "chuong"},
+    {"in": "", "out": ""}
+  ],
+
+  "normKey": [
+    {"in": "Cổ-Tích:  Đường!", "out": "co tich duong"},
+    {"in": "CoTich", "out": "cotich"},
+    {"in": "Done_AmThuc", "out": "done amthuc"},
+    {"in": "  Chương 12 ", "out": "chuong 12"},
+    {"in": "!!!", "out": ""},
+    {"in": "", "out": ""}
+  ],
+
+  "searchMatch": [
+    {"q": "co tich", "field": "CoTich", "match": true},
+    {"q": "cổ tích", "field": "Truyện Cổ Tích Việt Nam", "match": true},
+    {"q": "tich co", "field": "Cổ Tích", "match": true},
+    {"q": "cotich", "field": "Cổ Tích", "match": true},
+    {"q": "co tich nhat", "field": "Cổ Tích", "match": false},
+    {"q": "đế", "field": "Dai De", "match": true},
+    {"q": "", "field": "abc", "match": true}
+  ],
+
+  "infoSummary": [
+    {
+      "info": null, "fallback": "Thư mục",
+      "expect": {"name": "Thư mục", "author": null, "synopsis": "", "poster": null, "genres": [], "tags": [], "status": null, "declared_chapters": null, "link": null}
+    },
+    {
+      "info": {"name": "Tên Truyện", "author": {"id": 1, "name": "Tác Giả"}, "synopsis": "Tóm tắt", "description": "khác",
+               "poster": {"default": "https://x/d.jpg", "600": "https://x/600.jpg", "300": "https://x/300.jpg"},
+               "genres": [{"id": 1, "name": "Tiên Hiệp"}, {"name": ""}, "x", null],
+               "tags": [{"name": "Nhẹ Nhàng"}, {"name": "Hài"}],
+               "status_name": "Hoàn thành", "state": "published", "chapter_count": 82, "link": "https://example.org/truyen/a"},
+      "fallback": "F",
+      "expect": {"name": "Tên Truyện", "author": "Tác Giả", "synopsis": "Tóm tắt", "poster": "https://x/600.jpg",
+                 "genres": ["Tiên Hiệp"], "tags": ["Nhẹ Nhàng", "Hài"], "status": "Hoàn thành", "declared_chapters": 82, "link": "https://example.org/truyen/a"}
+    },
+    {
+      "info": {"author": "Chuỗi", "description": "Mô tả", "poster": "https://x/p.png", "state": "Còn tiếp"},
+      "fallback": "F",
+      "expect": {"name": "F", "author": "Chuỗi", "synopsis": "Mô tả", "poster": "https://x/p.png", "genres": [], "tags": [], "status": "Còn tiếp", "declared_chapters": null, "link": null}
+    },
+    {
+      "info": {"poster": {"150": "https://x/150.jpg", "300": "https://x/300.jpg"}},
+      "fallback": "F",
+      "note": "poster object without 600/default: first value in document order",
+      "expect": {"name": "F", "author": null, "synopsis": "", "poster": "https://x/150.jpg", "genres": [], "tags": [], "status": null, "declared_chapters": null, "link": null}
+    },
+    {
+      "info": ["x"], "fallback": "F", "fix": "R2: non-object info.json crashed the whole listing",
+      "expect": {"name": "F", "author": null, "synopsis": "", "poster": null, "genres": [], "tags": [], "status": null, "declared_chapters": null, "link": null}
+    },
+    {
+      "info": {"name": 123, "author": 7, "synopsis": ["a"], "poster": {"600": 5}, "genres": 5, "tags": {"name": "x"}, "status_name": false, "state": 2, "chapter_count": "40", "link": {}},
+      "fallback": "F", "fix": "R2: wrong types are coerced or ignored instead of crashing or reaching the UI",
+      "expect": {"name": "123", "author": "7", "synopsis": "", "poster": null, "genres": [], "tags": [], "status": "2", "declared_chapters": 40, "link": null}
+    },
+    {
+      "info": {"name": "", "chapter_count": "nhiều"}, "fallback": "F",
+      "expect": {"name": "F", "author": null, "synopsis": "", "poster": null, "genres": [], "tags": [], "status": null, "declared_chapters": null, "link": null}
+    }
+  ],
+
+  "pickCover": [
+    {"names": ["b.png", "a.jpg", "Chương 1.txt"], "expect": "a.jpg"},
+    {"names": ["z.png", "Poster.JPG", "folder.gif"], "expect": "Poster.JPG"},
+    {"names": ["thumb.webp", "cover.avif", "poster.png"], "expect": "cover.avif"},
+    {"names": ["x.txt", "info.json"], "expect": null},
+    {"names": [], "expect": null}
+  ]
+}

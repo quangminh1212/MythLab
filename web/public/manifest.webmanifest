@@ -1,0 +1,45 @@
+{
+  "name": "MythLab Truyện",
+  "short_name": "MythLab",
+  "description": "Đọc và nghe truyện",
+  "lang": "vi",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "categories": ["books", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    {
+      "name": "Đọc tiếp",
+      "short_name": "Đọc tiếp",
+      "description": "Lịch sử đọc và các truyện đang đọc dở",
+      "url": "./#/history",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Đánh dấu",
+      "short_name": "Đánh dấu",
+      "description": "Các đoạn đã đánh dấu",
+      "url": "./#/bookmarks",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Tìm truyện",
+      "short_name": "Tìm kiếm",
+      "description": "Tìm theo tên truyện, tác giả, thể loại",
+      "url": "./#/search",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+---
+// The app shell. Views are rendered into <main id="view"> by src/app/main.ts (hash routing).
+import Base from '../layouts/Base.astro';
+import HomeSkeleton from '../components/HomeSkeleton.astro';
+import Overlays from '../components/Overlays.astro';
+import SideNav from '../components/SideNav.astro';
+import TopBar from '../components/TopBar.astro';
+---
+
+<Base>
+  <a id="skip-link" class="skip-link" href="#view">Bỏ qua, tới nội dung</a>
+  <TopBar />
+  <div class="shell">
+    <SideNav />
+    <div class="main-col">
+      <nav id="crumb" class="crumb" aria-label="Đường dẫn" hidden></nav>
+      <main id="view" class="view" tabindex="-1">
+        <HomeSkeleton />
+      </main>
+      <noscript>
+        <p class="noscript">MythLab cần JavaScript để hiển thị truyện. Hãy bật JavaScript trong trình duyệt rồi tải lại trang.</p>
+      </noscript>
+    </div>
+  </div>
+  <Overlays />
+</Base>

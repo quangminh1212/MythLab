@@ -1,0 +1,49 @@
+---
+// The one HTML document of the app. Every URL is relative ("./…") so the same file works from "/" on the Go
+// server, the desktop shell, Capacitor and the installed PWA.
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+import '../styles/tokens.css';
+import '../styles/base.css';
+import '../styles/components.css';
+import '../styles/shell.css';
+import '../styles/views.css';
+import '../styles/reader.css';
+import '../styles/player.css';
+import '../styles/settings.css';
+
+interface Props {
+  title?: string;
+}
+const { title = 'MythLab — Đọc & nghe truyện' } = Astro.props;
+// The manifest belongs to the PWA stage; link it only when it is there so the page never requests a missing file.
+const hasManifest = existsSync(join(process.cwd(), 'public', 'manifest.webmanifest'));
+---
+
+<!doctype html>
+<html lang="vi" data-theme="light" data-scheme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title}</title>
+    <meta name="description" content="MythLab: đọc và nghe truyện từ kho truyện của bạn." />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="MythLab" />
+    <link rel="icon" href="./icons/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    {hasManifest && <link rel="manifest" href="./manifest.webmanifest" />}
+    <script is:inline src="./boot.js"></script>
+    <link rel="stylesheet" href="./fonts/fonts.css" />
+  </head>
+  <body data-view="home">
+    <slot />
+    <script>
+      import '../app/main.ts';
+    </script>
+  </body>
+</html>

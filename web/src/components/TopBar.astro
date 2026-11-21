@@ -1,0 +1,35 @@
+---
+// Top bar: menu button (phones), brand, global search, shortcuts. Behaviour lives in src/app/shell.ts.
+import Brand from './Brand.astro';
+import Icon from './Icon.astro';
+---
+
+<header id="topbar" class="topbar">
+  <button id="menu-btn" type="button" class="icon-btn topbar-menu" aria-label="Mở danh mục" aria-controls="sidenav" aria-expanded="false">
+    <Icon name="menu" />
+  </button>
+  <Brand id="brand" />
+  <form id="search-form" class="search" role="search" action="#/search" autocomplete="off">
+    <label class="sr-only" for="q">Tìm truyện</label>
+    <span class="search-ic"><Icon name="search" /></span>
+    <input id="q" class="search-input" type="search" name="q" placeholder="Tìm truyện, tác giả, thể loại…" enterkeyhint="search" autocapitalize="off" spellcheck="false" />
+    <button id="search-clear" type="button" class="icon-btn search-clear" aria-label="Xoá từ khoá" hidden>
+      <Icon name="close" />
+    </button>
+    <button id="search-close" type="button" class="btn btn-ghost search-close">Đóng</button>
+  </form>
+  <nav class="topbar-actions" aria-label="Lối tắt">
+    <button id="search-toggle" type="button" class="icon-btn topbar-search-toggle" aria-label="Tìm truyện" aria-controls="search-form" aria-expanded="false">
+      <Icon name="search" />
+    </button>
+    <a id="btn-history" class="icon-btn topbar-wide" href="#/history" aria-label="Lịch sử đọc" title="Lịch sử đọc">
+      <Icon name="history" />
+    </a>
+    <a id="btn-bookmarks" class="icon-btn topbar-wide" href="#/bookmarks" aria-label="Đánh dấu" title="Đánh dấu">
+      <Icon name="bookmark" />
+    </a>
+    <button id="btn-settings" type="button" class="icon-btn" aria-label="Cài đặt" title="Cài đặt" aria-haspopup="dialog">
+      <Icon name="settings" />
+    </button>
+  </nav>
+</header>
