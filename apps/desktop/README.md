@@ -36,7 +36,7 @@ Tham số: `-Clean` (xoá hai exe và `.syso` cũ trước), `-SkipWeb` (không 
 `-Strict` (dừng nếu không dựng được giao diện), `-KeepEmbed` (giữ bản đã chép trong `server\internal\webui\dist`),
 `-Test` (chạy `go vet` và `go test -short` trước khi build).
 
-Không commit `build/`, `dist/`, `.venv/`, `*.syso`.
+Không commit `dist/`, `*.syso`.
 
 ## Chạy
 
@@ -91,7 +91,3 @@ chạy đó được coi là một ứng dụng riêng, không đụng tới h�
 
 Repo GitHub `Done_*` đọc bằng `GITHUB_TOKEN`/`GH_TOKEN` hoặc `gh auth token` như server thường.
 
-## Bản Python cũ
-
-Bản Python (pywebview + PyInstaller) đã được gỡ khỏi thư mục này; xem lịch sử git trước commit này nếu cần đối chiếu. 
-Bản Go đọc cùng `window.json`, cùng thư mục hồ sơ WebView2 và cùng cổng 18765, nên dữ liệu của bản cũ được giữ nguyên khi chuyển sang.
