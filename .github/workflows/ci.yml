@@ -47,3 +47,43 @@ jobs:
       - name: go test
         if: runner.os != 'Linux'
         run: go test -count=1 ./...
+
+  e2e:
+    needs: web
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: server/go.mod
+          cache-dependency-path: |
+            server/go.sum
+            web/e2e/go.sum
+      - name: build web (web/dist)
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+      - name: build mythlab-server
+        working-directory: server
+        run: CGO_ENABLED=0 go build -o "$RUNNER_TEMP/mythlab-server" ./cmd/mythlab-server
+      - name: browser
+        run: |
+          command -v google-chrome
+          google-chrome --version
+          echo "MYTHLAB_E2E_BROWSER=$(command -v google-chrome)" >> "$GITHUB_ENV"
+      - name: go vet
+        working-directory: web/e2e
+        run: go vet ./...
+      - name: e2e (chromedp)
+        working-directory: web/e2e
+        env:
+          MYTHLAB_E2E_SERVER: ${{ runner.temp }}/mythlab-server
+          MYTHLAB_E2E_NO_SANDBOX: "1"
+        run: go test -count=1 -timeout 20m ./...
