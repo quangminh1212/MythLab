@@ -9,7 +9,10 @@ package e2e
 // test (it needs the TTS backend and the network); local stories are read too.
 
 import (
+	"bytes"
+	"encoding/json"
 	"fmt"
+	"net/http"
 	"strconv"
 	"strings"
 	"testing"
@@ -203,6 +206,60 @@ func rdEnv(t *testing.T, withTTS, needGH bool) (*Server, *Host, *Browser) {
 	return srv, startHost(t, webDist), newBrowser(t)
 }
 
+// clearServerProgress deletes every reading position the sync server holds (a deletion newer than each entry), after
+// the closing page had time to push its last position.
+func clearServerProgress(t *testing.T, srv *Server) {
+	t.Helper()
+	type entry struct {
+		Source  string `json:"source"`
+		Key     string `json:"key"`
+		Ts      int64  `json:"ts"`
+		Deleted bool   `json:"deleted,omitempty"`
+	}
+	var now int64
+	list := func() []entry {
+		resp, err := http.Get(srv.URL + "/api/progress")
+		if err != nil {
+			t.Fatalf("progress list: %v", err)
+		}
+		defer resp.Body.Close()
+		var b struct {
+			Entries []entry `json:"entries"`
+			Now     int64   `json:"now"`
+		}
+		_ = json.NewDecoder(resp.Body).Decode(&b)
+		now = b.Now
+		var live []entry
+		for _, e := range b.Entries {
+			if !e.Deleted {
+				live = append(live, e)
+			}
+		}
+		return live
+	}
+	// the closing page pushes its last position on pagehide (keepalive), a moment after the page is gone: delete,
+	// and delete again until nothing live is left after a quiet moment.
+	time.Sleep(1200 * time.Millisecond)
+	for i := 0; i < 6; i++ {
+		var del []entry
+		for _, e := range list() {
+			del = append(del, entry{e.Source, e.Key, max(e.Ts+1, now), true})
+		}
+		if len(del) == 0 {
+			return
+		}
+		body, _ := json.Marshal(map[string]any{"entries": del})
+		req, _ := http.NewRequest(http.MethodPut, srv.URL+"/api/progress", bytes.NewReader(body))
+		req.Header.Set("Content-Type", "application/json")
+		resp, err := http.DefaultClient.Do(req)
+		if err != nil {
+			t.Fatalf("progress delete: %v", err)
+		}
+		resp.Body.Close()
+		time.Sleep(800 * time.Millisecond)
+	}
+}
+
 func TestReaderThemes(t *testing.T) {
 	srv, host, br := rdEnv(t, false, true)
 	for _, vp := range rdViewports {
@@ -234,7 +291,9 @@ func TestReaderThemes(t *testing.T) {
 				r.check("no console errors (scroll)", len(r.errs()) == 0, first(r.errs(), 3))
 				r.p.Close()
 
-				// page mode
+				// page mode: a new page is a new device (storage wiped), and the server would hand the saved position back
+				// (progress sync), so the test starts from a library without progress.
+				clearServerProgress(t, srv)
 				r = newRd(t, c, br, host, srv, vp, rdOpts{theme: theme, mode: "page", hash: rdHash(3, "")})
 				r.p.sleep(300)
 				r.shot("page")
