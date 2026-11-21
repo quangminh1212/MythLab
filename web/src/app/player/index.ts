@@ -21,7 +21,7 @@ import { progress } from '../core/progress';
 import { currentRoute, href, navigate } from '../core/router';
 import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
-import { edgeForget, edgeHolding, edgePrefetch, edgeRate, effectiveEngine, Interrupted, localEngine, pauseHeld, refreshEdge, resumeHeld, speak, stopAll, Stopped } from './engines';
+import { edgeAvailable, edgeForget, edgeHolding, edgePrefetch, edgeRate, effectiveEngine, Interrupted, localEngine, pauseHeld, refreshEdge, resumeHeld, speak, stopAll, Stopped } from './engines';
 import { keepAwake } from './keepawake';
 import { setMark } from './mark';
 import { buildChunks, CHAPTER_CUE, clean, EDGE_MAX, LOCAL_MAX, startChunk, type Chunk } from './text';
@@ -246,7 +246,16 @@ async function run(ci: number, si = 0): Promise<void> {
  */
 async function speakWithFallback(engine: TtsEngine, s: Session, c: Chunk, from: number, my: number): Promise<void> {
   if (engine !== 'edge') {
-    await speakChunk(engine, s, c, from, my);
+    try {
+      await speakChunk(engine, s, c, from, my);
+    } catch (e) {
+      // the device has no working voice (an emulator without a TTS engine, say): the server voice reads this chunk
+      if (my !== gen || e instanceof Stopped || e instanceof Interrupted || (e as { name?: string } | null)?.name === 'NotAllowedError') throw e;
+      if (!edgeAvailable() || edgeDown) throw e;
+      toast('Giọng của máy không đọc được — dùng giọng Edge của máy chủ');
+      setState({ engine: 'edge' });
+      await speakChunk('edge', s, c, s.si, my);
+    }
     localFails = 0;
     return;
   }

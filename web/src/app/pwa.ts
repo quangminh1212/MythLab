@@ -249,6 +249,10 @@ export const pwa: PwaApi & {
       on('settings', syncMeta);
       on('route', () => queueMicrotask(syncMeta));
       if (swSupported()) void register();
+      else if (isNative() && 'serviceWorker' in navigator) {
+        // the native app runs without a worker: drop one a test build may have left in the WebView
+        void navigator.serviceWorker.getRegistrations().then((rs) => rs.forEach((r) => void r.unregister())).catch(() => {});
+      }
     } catch (e) {
       console.warn('pwa:', e);
     }
