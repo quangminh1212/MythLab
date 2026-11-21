@@ -33,6 +33,9 @@ function withTimeout(timeout: number, signal?: AbortSignal): { signal: AbortSign
   };
 }
 
+/** Native app: how long a data request may take before the saved copy (if any) is used instead. */
+const NATIVE_FALLBACK_MS = 8_000;
+
 /**
  * The key travels only in the `X-MythLab-Key` header, never in a URL (URLs end up in caches, history and logs).
  * With a key, images and audio therefore cannot be loaded by `<img>`/`<audio>` directly: `mediaNeedsFetch` is true
@@ -71,6 +74,20 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
     return undefined;
   }
 
+  /** The chapter the user downloaded on purpose (never the LRU bucket: that one may be stale), or undefined. */
+  async function offlinePinned<T>(url: string): Promise<T | undefined> {
+    try {
+      const u = new URL(url, 'http://x');
+      if (apiRoute(u.pathname) !== 'chapter') return undefined;
+      const c = chapterParams(u);
+      if (!c) return undefined;
+      const hit = await (await caches.open(CACHE.pinned)).match(chapterKey(scopeOf(location.href), c.source, c.key, c.file));
+      return hit ? ((await hit.json()) as T) : undefined;
+    } catch {
+      return undefined;
+    }
+  }
+
   async function remember(url: string, body: string): Promise<void> {
     if (!ident) return;
     try {
@@ -85,12 +102,21 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
 
   async function get<T = unknown>(path: string, opts: GetOptions = {}): Promise<T> {
     const url = '/api' + norm(path);
+    if (ident) {
+      // A downloaded chapter never changes: read it from the device first, with no network round trip. (A host that
+      // is switched off or asleep drops packets silently, so asking the network first would hang until the OS gives up.)
+      const pinned = await offlinePinned<T>(url);
+      if (pinned !== undefined) return pinned;
+    }
+    // Native with a saved copy: a dead server must not stall the page for the caller's long timeout (30-90 s) before
+    // the copy is used. Without a copy the caller's own timeout stands, so a slow but working server still answers.
+    const saved = ident ? await offlineGet<T>(url) : undefined;
+    if (saved !== undefined) opts = { ...opts, timeout: Math.min(opts.timeout || NATIVE_FALLBACK_MS, NATIVE_FALLBACK_MS) };
     try {
       return await getLive<T>(path, opts);
     } catch (e) {
       if (e instanceof ApiError || opts.signal?.aborted) throw e;
-      const hit = await offlineGet<T>(url);
-      if (hit !== undefined) return hit;
+      if (saved !== undefined) return saved;
       throw e;
     }
   }
