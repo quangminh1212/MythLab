@@ -1,6 +1,6 @@
 // Command mythlab-server is the MythLab story reader server (console).
 //
-//	mythlab-server [--host 127.0.0.1] [--port 8765] [--lan] [--prefetch-covers]
+//	mythlab-server [--host 127.0.0.1] [--port 8765] [--lan] [--prefetch-covers] [--rotate-key]
 //	               [--config FILE] [--cache DIR] [--static DIR] [--no-tts]
 package main
 
@@ -29,6 +29,7 @@ func run(args []string) int {
 	config := fl.String("config", "", "file config.json (mặc định: tự tìm)")
 	cache := fl.String("cache", "", "thư mục cache (mặc định: theo vị trí config)")
 	static := fl.String("static", "", "phục vụ giao diện từ thư mục này thay cho bản nhúng")
+	rotate := fl.Bool("rotate-key", false, "sinh khoá truy cập LAN mới (ghi vào server.json) rồi thoát; không in khoá")
 	noTTS := fl.Bool("no-tts", false, "tắt giọng đọc Edge")
 	if err := fl.Parse(args); err != nil {
 		if err == flag.ErrHelp {
@@ -56,6 +57,18 @@ func run(args []string) int {
 		return 1
 	}
 	defer a.Close()
+	if *rotate {
+		file, override, err := a.RotateKey()
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "mythlab-server: không đổi được khoá:", err)
+			return 1
+		}
+		fmt.Fprintf(os.Stdout, "Đã đổi khoá truy cập. Khoá mới nằm trong: %s (khoá cũ không còn dùng được sau khi khởi động lại server).\n", file)
+		if override {
+			fmt.Fprintln(os.Stdout, "Lưu ý: config.json đang đặt server.access_key và giá trị đó vẫn được ưu tiên; hãy xoá mục đó để dùng khoá mới.")
+		}
+		return 0
+	}
 
 	ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 	defer stop()
