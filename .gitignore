@@ -44,3 +44,6 @@ server/cmd/mythlab/*.syso
 
 # Reading progress synced by the server (next to config.json)
 progress.json
+
+# Docker compose secrets
+.env

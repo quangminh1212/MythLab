@@ -1,0 +1,19 @@
+# Allow-list: the build context is only the web UI and Go server sources.
+# (the repo holds ~10k manuscript files and build output that must never be sent to the daemon)
+*
+
+!web/
+!server/
+
+# build products and dependencies inside the allowed trees
+web/node_modules
+web/dist
+web/.astro
+web/e2e
+web/**/*.md
+server/**/*.exe
+server/**/*.syso
+server/**/*_test.go
+# the embed directory is filled from web/dist inside the build; only the tracked placeholder is needed
+server/internal/webui/dist/*
+!server/internal/webui/dist/index.html

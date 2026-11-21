@@ -1,0 +1,30 @@
+# docker compose up -d --build     (copy .env.example to .env first and set MYTHLAB_ACCESS_KEY)
+services:
+  mythlab:
+    build: .
+    image: mythlab:local
+    restart: unless-stopped
+    ports:
+      # loopback only by default; set MYTHLAB_BIND=0.0.0.0 to open it to the LAN (the key is then essential)
+      - "${MYTHLAB_BIND:-127.0.0.1}:${MYTHLAB_PORT:-8765}:8765"
+    environment:
+      MYTHLAB_ACCESS_KEY: ${MYTHLAB_ACCESS_KEY:?set MYTHLAB_ACCESS_KEY in .env (see .env.example)}
+      GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+    volumes:
+      - mythlab-data:/data
+      # - ./library:/data/library:ro      # bind-mount your own stories
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop: [ALL]
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "/usr/local/bin/mythlab-server", "--healthcheck", "--port", "8765"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  mythlab-data:

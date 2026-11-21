@@ -1,7 +1,7 @@
 // Command mythlab-server is the MythLab story reader server (console).
 //
 //	mythlab-server [--host 127.0.0.1] [--port 8765] [--lan] [--prefetch-covers] [--rotate-key]
-//	               [--config FILE] [--cache DIR] [--static DIR] [--no-tts]
+//	               [--config FILE] [--cache DIR] [--static DIR] [--no-tts] [--healthcheck]
 package main
 
 import (
@@ -13,6 +13,7 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
+	"time"
 
 	"mythlab/internal/app"
 	"mythlab/internal/tts"
@@ -31,6 +32,7 @@ func run(args []string) int {
 	static := fl.String("static", "", "phục vụ giao diện từ thư mục này thay cho bản nhúng")
 	rotate := fl.Bool("rotate-key", false, "sinh khoá truy cập LAN mới (ghi vào server.json) rồi thoát; không in khoá")
 	noTTS := fl.Bool("no-tts", false, "tắt giọng đọc Edge")
+	health := fl.Bool("healthcheck", false, "kiểm tra server đang chạy ở --host/--port (GET /api/ping) rồi thoát: 0 = khoẻ; dùng cho HEALTHCHECK của Docker")
 	if err := fl.Parse(args); err != nil {
 		if err == flag.ErrHelp {
 			return 0
@@ -44,6 +46,13 @@ func run(args []string) int {
 	if *port < 1 || *port > 65535 {
 		fmt.Fprintf(os.Stderr, "cổng không hợp lệ: %d\n", *port)
 		return 2
+	}
+	if *health {
+		if err := healthcheck(*host, *port, 3*time.Second); err != nil {
+			fmt.Fprintln(os.Stderr, "mythlab-server: healthcheck:", err)
+			return 1
+		}
+		return 0
 	}
 	logger := log.New(os.Stderr, "", 0)
 	var engine tts.Engine

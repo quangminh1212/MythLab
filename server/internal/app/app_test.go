@@ -405,3 +405,21 @@ func TestRotateKey(t *testing.T) {
 		t.Fatalf("a config key must be reported as overriding: %v %v", err, override)
 	}
 }
+
+func TestAccessKeyFromEnv(t *testing.T) {
+	t.Setenv(AccessKeyEnv, "  from-env  ")
+	a, _ := newApp(t, localOnly, nil)
+	if a.AccessKey() != "from-env" {
+		t.Fatalf("env key not used: %q", a.AccessKey())
+	}
+	if _, err := os.Stat(filepath.Join(a.Paths().Cache, "server.json")); err == nil {
+		t.Fatal("no key file when the env has the key")
+	}
+	if _, override, err := a.RotateKey(); err != nil || !override {
+		t.Fatalf("rotate must report the env override: %v %v", override, err)
+	}
+	c, _ := newApp(t, `{"local": [], "github": [], "server": {"access_key": "from-config"}}`, nil)
+	if c.AccessKey() != "from-config" {
+		t.Fatal("config must win over the env")
+	}
+}
