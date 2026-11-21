@@ -38,3 +38,9 @@ Phiên bản hiện tại là 1.0.0, ghi ở `web/package.json` và `server/cmd/
 ## Cấu hình / Config discovery
 
 `--config` > `config.json` cạnh file exe > `%APPDATA%\MythLab\config.json` > `reader/config.json` gần nhất đi lên từ thư mục của exe (chế độ checkout) > đi lên từ thư mục làm việc > tạo mới trong `%APPDATA%\MythLab`.
+
+## Lưu ý pháp lý / Legal notes
+
+- **Giọng đọc Edge (`server/internal/edgetts`)** kết nối tới dịch vụ đọc to của Microsoft Edge bằng giao thức và token công khai của tiện ích Edge. Đây không phải API được Microsoft công bố hay cam kết hỗ trợ: có thể ngừng hoạt động bất cứ lúc nào và có thể trái điều khoản dịch vụ nếu dùng ngoài mục đích cá nhân. Tắt hẳn bằng `mythlab-server --no-tts`; giọng đọc của trình duyệt và Android vẫn dùng được.
+- **Chưa có file LICENSE.** Mã nguồn mặc định là "bảo lưu mọi quyền" cho tới khi chủ dự án chọn giấy phép. Phông chữ đóng gói trong `web/public/fonts` theo giấy phép OFL/Apache-2.0 kèm trong thư mục đó.
+- **Truyện** trong repo là nội dung của chủ dự án; không phân phối lại khi chưa được phép.
