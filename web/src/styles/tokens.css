@@ -1,8 +1,8 @@
 /* MythLab design tokens.
-   <html data-theme> keeps the user's choice (light | sepia | dark | auto); <html data-scheme> is the resolved
-   scheme (light | sepia | dark) and is what every rule below keys on. public/boot.js sets both before first paint.
+   <html data-theme> keeps the user's choice (any theme id of core/themes.ts | auto); <html data-scheme> is the resolved
+   scheme (a theme id) and is what every rule below keys on. public/boot.js sets both before first paint.
    Every text/background pair used by the UI is asserted >= 4.5:1 in src/app/core/contrast.test.ts, which parses
-   this file: keep one "--name: #rrggbb;" declaration per line inside the three scheme blocks. */
+   this file: keep one "--name: #rrggbb;" declaration per line inside the scheme blocks. */
 
 :root {
   /* typography */
@@ -161,6 +161,122 @@
   --shadow-lg: 0 18px 40px -12px rgba(0, 0, 0, 0.65);
   --cover-l: 24%;
 }
+
+:root[data-scheme="forest"] {
+  color-scheme: light;
+  --bg: #e8f0e4;
+  --surface: #f5faf2;
+  --surface-2: #eef5ea;
+  --surface-3: #dde8d8;
+  --text: #1c2a1b;
+  --text-2: #2f432d;
+  --muted: #44563d;
+  --border: #c9d8c2;
+  --border-strong: #6f8566;
+  --accent: #166534;
+  --accent-hover: #14532d;
+  --accent-ink: #ffffff;
+  --accent-text: #14532d;
+  --brand: #00a19a;
+  --hl: #d3e8cd;
+  --danger: #a11818;
+  --danger-bg: #f8e5e0;
+  --ok: #14532d;
+  --read-bg: #eef5e8;
+  --read-fg: #1c2a1b;
+  --read-accent: #14532d;
+  --toast-bg: #1c2a1b;
+  --toast-fg: #f5faf2;
+  --header-bg: rgba(245, 250, 242, 0.94);
+  --scrim: rgba(28, 42, 27, 0.45);
+  --skeleton: #d6e3d0;
+  --skeleton-hi: #e6efe1;
+  --shadow-sm: 0 1px 2px rgba(20, 50, 20, 0.07);
+  --shadow: 0 1px 3px rgba(20, 50, 20, 0.12), 0 1px 2px rgba(20, 50, 20, 0.06);
+  --shadow-lg: 0 18px 40px -12px rgba(20, 50, 20, 0.3);
+  --cover-l: 30%;
+}
+
+:root[data-scheme="navy"] {
+  color-scheme: dark;
+  --bg: #0a1424;
+  --surface: #14233a;
+  --surface-2: #1b2d49;
+  --surface-3: #26395a;
+  --text: #eef3fa;
+  --text-2: #cbd6e6;
+  --muted: #a9b8cd;
+  --border: #26395a;
+  --border-strong: #7189ad;
+  --accent: #60a5fa;
+  --accent-hover: #93c5fd;
+  --accent-ink: #07213f;
+  --accent-text: #93c5fd;
+  --brand: #00d4aa;
+  --hl: #17365c;
+  --danger: #fca5a5;
+  --danger-bg: #45191d;
+  --ok: #86efac;
+  --read-bg: #0f1b2a;
+  --read-fg: #d6e2f2;
+  --read-accent: #8ec5ff;
+  --toast-bg: #eef3fa;
+  --toast-fg: #0a1424;
+  --header-bg: rgba(15, 27, 46, 0.92);
+  --scrim: rgba(2, 6, 14, 0.66);
+  --skeleton: #1d2f4a;
+  --skeleton-hi: #2a4163;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 18px 40px -12px rgba(0, 0, 0, 0.65);
+  --cover-l: 24%;
+}
+
+:root[data-scheme="amoled"] {
+  color-scheme: dark;
+  --bg: #000000;
+  --surface: #0d0d0d;
+  --surface-2: #161616;
+  --surface-3: #222222;
+  --text: #f2f2f2;
+  --text-2: #cfcfcf;
+  --muted: #a8a8a8;
+  --border: #2a2a2a;
+  --border-strong: #7a7a7a;
+  --accent: #2dd4bf;
+  --accent-hover: #5eead4;
+  --accent-ink: #042f2e;
+  --accent-text: #5eead4;
+  --brand: #00d4aa;
+  --hl: #0f3a36;
+  --danger: #fca5a5;
+  --danger-bg: #3d1417;
+  --ok: #86efac;
+  --read-bg: #000000;
+  --read-fg: #cfcfcf;
+  --read-accent: #5eead4;
+  --toast-bg: #f2f2f2;
+  --toast-fg: #000000;
+  --header-bg: rgba(0, 0, 0, 0.92);
+  --scrim: rgba(0, 0, 0, 0.72);
+  --skeleton: #1a1a1a;
+  --skeleton-hi: #2a2a2a;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.6), 0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 18px 40px -12px rgba(0, 0, 0, 0.85);
+  --cover-l: 22%;
+}
+
+/* Accent colours: <html data-accent> (set by boot.js / settings.apply) over <html data-mode light|dark>.
+   One light and one dark block per accent; "default" has none and keeps the theme's own accent. */
+:root[data-accent="blue"][data-mode="light"] { --accent: #1d4ed8; --accent-hover: #1e40af; --accent-ink: #ffffff; --accent-text: #1d4ed8; --read-accent: #1d4ed8; }
+:root[data-accent="blue"][data-mode="dark"] { --accent: #60a5fa; --accent-hover: #93c5fd; --accent-ink: #07213f; --accent-text: #93c5fd; --read-accent: #93c5fd; }
+:root[data-accent="violet"][data-mode="light"] { --accent: #6d28d9; --accent-hover: #5b21b6; --accent-ink: #ffffff; --accent-text: #6d28d9; --read-accent: #6d28d9; }
+:root[data-accent="violet"][data-mode="dark"] { --accent: #a78bfa; --accent-hover: #c4b5fd; --accent-ink: #1e1040; --accent-text: #c4b5fd; --read-accent: #c4b5fd; }
+:root[data-accent="rose"][data-mode="light"] { --accent: #be123c; --accent-hover: #9f1239; --accent-ink: #ffffff; --accent-text: #be123c; --read-accent: #be123c; }
+:root[data-accent="rose"][data-mode="dark"] { --accent: #fb7185; --accent-hover: #fda4af; --accent-ink: #4c0519; --accent-text: #fda4af; --read-accent: #fda4af; }
+:root[data-accent="orange"][data-mode="light"] { --accent: #b45309; --accent-hover: #92400e; --accent-ink: #ffffff; --accent-text: #92400e; --read-accent: #92400e; }
+:root[data-accent="orange"][data-mode="dark"] { --accent: #fbbf24; --accent-hover: #fcd34d; --accent-ink: #3b2300; --accent-text: #fcd34d; --read-accent: #fcd34d; }
 
 @media (max-width: 899px) {
   :root {

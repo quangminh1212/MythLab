@@ -96,3 +96,36 @@ describe('shortcuts setting', () => {
     expect(normalise('shortcuts', false)).toBe(false);
   });
 });
+
+describe('theme and accent persistence', () => {
+  it.each(['light', 'sepia', 'forest', 'dark', 'navy', 'amoled', 'auto'])('theme %s is stored, reloaded and applied', (theme) => {
+    set('theme', theme);
+    expect(stored().theme).toBe(theme);
+    S.theme = 'light';
+    load();
+    expect(S.theme).toBe(theme);
+    apply();
+    const root = document.documentElement;
+    expect(root.dataset.theme).toBe(theme);
+    expect(root.dataset.scheme).toBe(scheme());
+    const dark = ['dark', 'navy', 'amoled'].includes(scheme());
+    expect(root.dataset.mode).toBe(dark ? 'dark' : 'light');
+    expect(root.style.colorScheme).toBe(dark ? 'dark' : 'light');
+  });
+
+  it('dark themes use the night reading presets', () => {
+    set('theme', 'amoled');
+    patch({ nightPreset: 'than' });
+    expect(activePreset().id).toBe('than');
+    set('theme', 'forest');
+    expect(activePreset().id).toBe(S.dayPreset);
+  });
+
+  it('accent is validated, stored and applied; unknown ids fall back', () => {
+    set('accent', 'violet');
+    expect(stored().accent).toBe('violet');
+    expect(document.documentElement.dataset.accent).toBe('violet');
+    expect(normalise('accent', 'nope')).toBe('default');
+    expect(normalise('theme', 'neon')).toBe('light');
+  });
+});

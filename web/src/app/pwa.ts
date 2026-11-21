@@ -13,7 +13,7 @@ import type { PwaApi } from './core/contracts';
 import { Emitter, on } from './core/events';
 import { append, html } from './core/html';
 import { icon } from './core/icons';
-import { isNative, scheme, syncThemeColor } from './core/settings';
+import { isDark, isNative, syncThemeColor } from './core/settings';
 import { store } from './core/store';
 import { toast } from './core/ui';
 import type { SwActivated, SwRequest, SwVersion } from '../sw/shared';
@@ -204,7 +204,7 @@ function mountOfflineBadge(): void {
 /** `color-scheme` follows the theme so form controls and scrollbars match; `theme-color` follows the page. */
 function syncMeta(): void {
   const meta = document.querySelector<HTMLMetaElement>('meta[name="color-scheme"]');
-  const want = scheme() === 'dark' ? 'dark' : 'light';
+  const want = isDark() ? 'dark' : 'light';
   if (meta && meta.content !== want) meta.content = want;
   syncThemeColor();
 }

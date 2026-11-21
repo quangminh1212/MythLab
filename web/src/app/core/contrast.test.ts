@@ -1,9 +1,10 @@
-// WCAG AA for every text/background pair of the three schemes (parsed from styles/tokens.css) and of the 11
+// WCAG AA for every text/background pair of the three schemes (parsed from styles/tokens.css, one per entry of core/themes.ts) and of the 11
 // reading presets (core/settings.ts).
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { presets } from './settings';
+import { ACCENTS, THEMES } from './themes';
 
 const css = readFileSync(resolve(process.cwd(), 'src/styles/tokens.css'), 'utf8');
 
@@ -75,7 +76,7 @@ const UI_PAIRS: [string, string][] = [
   ['--accent', '--bg'],
 ];
 
-describe.each(['light', 'sepia', 'dark'])('tokens.css, %s scheme', (scheme) => {
+describe.each(THEMES.map((t) => t.id))('tokens.css, %s scheme', (scheme) => {
   const t = block(scheme);
   it('defines every colour token', () => {
     for (const name of new Set([...TEXT_PAIRS, ...UI_PAIRS].flat())) expect(t[name], name).toMatch(/^#[0-9a-f]{6}$/i);
@@ -103,10 +104,60 @@ describe('reading presets', () => {
     expect(ratio(p.accent as string, p.bg as string)).toBeGreaterThanOrEqual(4.5);
   });
   it('the default presets use the scheme reading colours, which pass in all three schemes', () => {
-    for (const scheme of ['light', 'sepia', 'dark']) {
+    for (const { id: scheme } of THEMES) {
       const t = block(scheme);
       expect(ratio(t['--read-fg'] as string, t['--read-bg'] as string)).toBeGreaterThanOrEqual(4.5);
       expect(ratio(t['--read-accent'] as string, t['--read-bg'] as string)).toBeGreaterThanOrEqual(4.5);
     }
+  });
+});
+
+describe('theme table', () => {
+  it('has unique ids, a swatch preview that matches tokens.css, and both a light and a dark family', () => {
+    expect(new Set(THEMES.map((t) => t.id)).size).toBe(THEMES.length);
+    expect(THEMES.length).toBeGreaterThanOrEqual(6);
+    expect(THEMES.some((t) => t.dark)).toBe(true);
+    expect(THEMES.some((t) => !t.dark)).toBe(true);
+    for (const t of THEMES) {
+      const tk = block(t.id);
+      expect(tk['--bg'], t.id).toBe(t.bg);
+      expect(tk['--surface'], t.id).toBe(t.surface);
+      expect(tk['--text'], t.id).toBe(t.text);
+      expect(new RegExp(String.raw`:root\[data-scheme="${t.id}"\] \{\s*color-scheme: ${t.dark ? 'dark' : 'light'};`).test(css), `${t.id} color-scheme`).toBe(true);
+    }
+  });
+  it('public/boot.js knows every theme and which are dark', () => {
+    const boot = readFileSync(resolve(process.cwd(), 'public/boot.js'), 'utf8');
+    for (const t of THEMES) expect(boot, t.id).toContain(`'${t.id}'`);
+    for (const a of ACCENTS) expect(boot, a.id).toContain(`'${a.id}'`);
+    const dark = /var DARK = \{([^}]*)\}/.exec(boot)?.[1] ?? '';
+    expect([...dark.matchAll(/(\w+):/g)].map((m) => m[1]).sort()).toEqual(THEMES.filter((t) => t.dark).map((t) => t.id).sort());
+  });
+});
+
+describe('accent colours, on every theme', () => {
+  const accentBlock = (id: string, mode: string): Record<string, string> => {
+    const m = new RegExp(String.raw`:root\[data-accent="${id}"\]\[data-mode="${mode}"\] \{([^}]*)\}`).exec(css);
+    if (!m) throw new Error(`no accent block ${id}/${mode}`);
+    const out: Record<string, string> = {};
+    for (const x of (m[1] as string).matchAll(/(--[\w-]+):\s*(#[0-9a-fA-F]{6});/g)) out[x[1] as string] = x[2] as string;
+    return out;
+  };
+  const pairs: [string, string][] = [
+    ['--accent-text', '--bg'],
+    ['--accent-text', '--surface'],
+    ['--accent-text', '--surface-2'],
+    ['--accent-text', '--surface-3'],
+    ['--accent-text', '--hl'],
+    ['--accent-ink', '--accent'],
+    ['--accent-ink', '--accent-hover'],
+    ['--read-accent', '--read-bg'],
+  ];
+  const cases = ACCENTS.filter((a) => a.id !== 'default').flatMap((a) => THEMES.map((t) => [a.id, t.id, t.dark] as const));
+  it.each(cases)('%s on %s', (a, theme, dark) => {
+    const t = { ...block(theme), ...accentBlock(a, dark ? 'dark' : 'light') };
+    for (const [fg, bg] of pairs) expect(ratio(t[fg] as string, t[bg] as string), `${fg} on ${bg}`).toBeGreaterThanOrEqual(4.5);
+    expect(ratio(t['--accent'] as string, t['--surface'] as string), 'accent on surface').toBeGreaterThanOrEqual(3);
+    expect(ratio(t['--accent'] as string, t['--bg'] as string), 'accent on bg').toBeGreaterThanOrEqual(3);
   });
 });

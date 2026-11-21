@@ -12,7 +12,11 @@
   } catch (e) {
     s = {};
   }
-  var theme = ['light', 'sepia', 'dark', 'auto'].indexOf(s.theme) >= 0 ? s.theme : 'light';
+  // keep in sync with src/app/core/themes.ts (a test checks it)
+  var DARK = { dark: 1, navy: 1, amoled: 1 };
+  var THEMES = ['light', 'sepia', 'forest', 'dark', 'navy', 'amoled', 'auto'];
+  var ACCENTS = ['default', 'blue', 'violet', 'rose', 'orange'];
+  var theme = THEMES.indexOf(s.theme) >= 0 ? s.theme : 'light';
   if (theme === 'sepia' && !s.ui2) theme = 'light';
   var scheme = theme;
   if (theme === 'auto') {
@@ -26,6 +30,13 @@
   }
   root.setAttribute('data-theme', theme);
   root.setAttribute('data-scheme', scheme);
+  root.setAttribute('data-mode', DARK[scheme] ? 'dark' : 'light');
+  root.setAttribute('data-accent', ACCENTS.indexOf(s.accent) >= 0 ? s.accent : 'default');
+  try {
+    var bg = getComputedStyle(root).getPropertyValue('--bg').trim();
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta && bg) meta.setAttribute('content', bg);
+  } catch (e) {}
 
   function fail() {
     if (window.__mlBooted) return;

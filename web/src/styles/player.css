@@ -135,7 +135,7 @@
 
 .pl-play.is-error {
   background: var(--danger);
-  color: #fff;
+  color: var(--surface);
 }
 
 @keyframes pl-pulse {

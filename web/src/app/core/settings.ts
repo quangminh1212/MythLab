@@ -7,12 +7,14 @@ import { emit } from './events';
 import { cssStack, ensure } from './fonts';
 import { store } from './store';
 
-export type Theme = 'light' | 'sepia' | 'dark' | 'auto';
-export type Scheme = 'light' | 'sepia' | 'dark';
+import { ACCENT_IDS, isDarkScheme, THEME_IDS, type Scheme, type Theme } from './themes';
+export type { Scheme, Theme };
 export type TtsEngine = 'edge' | 'browser' | 'native';
 
 export interface Settings {
   theme: Theme;
+  /** Accent colour id (themes.ts ACCENTS). */
+  accent: string;
   font: string;
   weight: number;
   size: number;
@@ -58,6 +60,7 @@ export const isNative = (): boolean => {
 export function defaults(): Settings {
   return {
     theme: 'light',
+    accent: 'default',
     font: 'literata',
     weight: 400,
     size: 20,
@@ -108,7 +111,8 @@ export const RANGE = {
 } as const satisfies Partial<Record<SettingKey, readonly [number, number]>>;
 
 const ENUM = {
-  theme: ['light', 'sepia', 'dark', 'auto'],
+  theme: THEME_IDS as readonly string[],
+  accent: ACCENT_IDS as readonly string[],
   align: ['left', 'justify'],
   readMode: ['scroll', 'page'],
   engine: ['edge', 'browser', 'native'],
@@ -214,7 +218,7 @@ export function scheme(): Scheme {
   if (S.theme === 'auto') return mqDark()?.matches ? 'dark' : 'light';
   return S.theme;
 }
-export const isDark = (): boolean => scheme() === 'dark';
+export const isDark = (): boolean => isDarkScheme(scheme());
 
 /** The active reading preset (never null; the default preset has null colours). */
 export function activePreset(): Preset {
@@ -232,9 +236,11 @@ export function apply(): void {
   const sc = scheme();
   root.dataset.theme = S.theme;
   root.dataset.scheme = sc;
+  root.dataset.mode = isDarkScheme(sc) ? 'dark' : 'light';
+  root.dataset.accent = S.accent;
   root.dataset.readmode = S.readMode;
   root.dataset.tapzones = S.tapZones ? 'on' : 'off';
-  root.style.colorScheme = sc === 'dark' ? 'dark' : 'light';
+  root.style.colorScheme = isDarkScheme(sc) ? 'dark' : 'light';
   const st = root.style;
   st.setProperty('--read-size', S.size + 'px');
   st.setProperty('--read-line', String(S.line));
@@ -280,6 +286,20 @@ export function syncThemeColor(): void {
   const reading = document.body?.classList.contains('view-read');
   const c = ((reading && cs.getPropertyValue('--read-bg')) || cs.getPropertyValue('--header-bg') || cs.getPropertyValue('--bg')).trim();
   if (c) meta.content = c;
+  syncStatusBar();
+}
+
+/** Android (Capacitor SystemBars): light icons on dark themes, dark icons on light ones. A no-op elsewhere. */
+export function syncStatusBar(): void {
+  try {
+    if (!isNative()) return;
+    const c = (globalThis as { Capacitor?: { registerPlugin?: (n: string) => { setStyle?: (o: { style: string }) => unknown } } }).Capacitor;
+    const bars = c?.registerPlugin?.('SystemBars');
+    const r = bars?.setStyle?.({ style: isDark() ? 'DARK' : 'LIGHT' });
+    void Promise.resolve(r).catch(() => {});
+  } catch {
+    // no native bars
+  }
 }
 
 type Listener = (key: SettingKey | null, value: unknown) => void;
@@ -363,4 +383,4 @@ export function init(): void {
   });
 }
 
-export const settings = { DEF, S, RANGE, presets, defaults, normalise, load, save, apply, get, set, patch, reset, onChange, init, isDark, scheme, activePreset, fontStack, syncThemeColor, isNative };
+export const settings = { DEF, S, RANGE, presets, defaults, normalise, load, save, apply, get, set, patch, reset, onChange, init, isDark, scheme, activePreset, fontStack, syncThemeColor, syncStatusBar, isNative };
