@@ -6,6 +6,7 @@
  */
 import type { Player } from './index';
 import { effectiveEngine } from './engines';
+import { initNativeMedia } from './native-media';
 
 let p: Player | null = null;
 let bound = false;
@@ -127,4 +128,5 @@ export function initMediaSession(player: Player): void {
   }
   player.onChange(sync);
   player.onState(sync);
+  initNativeMedia(player);
 }
