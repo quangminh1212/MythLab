@@ -93,6 +93,5 @@ Repo GitHub `Done_*` đọc bằng `GITHUB_TOKEN`/`GH_TOKEN` hoặc `gh auth tok
 
 ## Bản Python cũ
 
-`desktop.py`, `MythLab.spec`, `requirements.txt` (pywebview + PyInstaller, bọc `reader/server.py`) tạm thời vẫn nằm
-trong thư mục này để đối chiếu; `build.ps1` không còn dùng tới chúng. Bản Go đọc cùng `window.json`, cùng thư mục
-hồ sơ WebView2 và cùng cổng 18765, nên dữ liệu của bản cũ được giữ nguyên khi chuyển sang.
+Bản Python (pywebview + PyInstaller) đã được gỡ khỏi thư mục này; xem lịch sử git trước commit này nếu cần đối chiếu. 
+Bản Go đọc cùng `window.json`, cùng thư mục hồ sơ WebView2 và cùng cổng 18765, nên dữ liệu của bản cũ được giữ nguyên khi chuyển sang.
