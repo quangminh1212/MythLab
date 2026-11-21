@@ -18,6 +18,7 @@ import (
 
 	"mythlab/internal/covers"
 	"mythlab/internal/library"
+	"mythlab/internal/progress"
 	"mythlab/internal/tts"
 )
 
@@ -27,7 +28,9 @@ type Options struct {
 	Search  *library.SearchIndex
 	Covers  *covers.Store
 	TTS     *tts.Service // may wrap a nil engine: TTS unavailable
-	Static  fs.FS        // the web UI (index.html at the root)
+	// Progress syncs reading progress between devices; nil = /api/progress is not served.
+	Progress *progress.Store
+	Static   fs.FS // the web UI (index.html at the root)
 
 	// AccessKey returns the key non-loopback clients must present. It is
 	// called lazily; "" means no key can be had and such clients are refused.
@@ -167,6 +170,17 @@ func (s *Server) ServeHTTP(rw http.ResponseWriter, r *http.Request) {
 	}
 	switch r.Method {
 	case http.MethodGet, http.MethodHead:
+	case http.MethodPut:
+		if r.URL.Path != progressPath { // the only route that writes
+			h.Set("Allow", "GET, HEAD, OPTIONS")
+			if isAPI {
+				s.cors(w, r)
+				s.writeErr(w, r, http.StatusMethodNotAllowed, "method_not_allowed", "chỉ hỗ trợ GET/HEAD")
+			} else {
+				http.Error(w, "405 Method Not Allowed", http.StatusMethodNotAllowed)
+			}
+			return
+		}
 	case http.MethodOptions:
 		s.preflight(w, r, isAPI)
 		return

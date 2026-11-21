@@ -10,10 +10,13 @@ import { href } from '../core/router';
 import { S, settings } from '../core/settings';
 import { openDialog, type DialogHandle } from '../core/ui';
 import { xicon } from '../reader/icons';
+import { createHighlighter, type Highlighter } from '../reader/highlight';
 import { keyOf, typingTarget } from '../reader/keys';
 import { openSettings } from '../shell';
 import { ENGINE_LABEL } from './engines';
 import type { Player } from './index';
+import { onMark } from './mark';
+import { isPipSupported, togglePip } from './pip';
 import { RATES, SLEEP_MINUTES, sleepLabel } from './text';
 
 let player: Player;
@@ -22,6 +25,8 @@ let built = false;
 let sheet: DialogHandle | null = null;
 let tick: ReturnType<typeof setInterval> | undefined;
 let observer: ResizeObserver | null = null;
+/** "Now reading" panel of the open sheet: the paragraphs around the voice and the sentence highlighter. */
+let now: { key: string; hl: Highlighter | null; off: () => void; at: string } | null = null;
 
 const rateLabel = (r: number): string => `${String(Math.round(r * 100) / 100).replace('.', ',')}×`;
 
@@ -74,6 +79,7 @@ function sheetMarkup(): SafeHtml {
     <p class="pl-sheet-sub" data-pl-sub></p>
     <div class="pl-line pl-sheet-line" aria-hidden="true"><span class="pl-line-fill" data-pl-fill></span></div>
     <div class="pl-sheet-ctl">${transport(true)}</div>
+    <div class="pl-now" data-pl-now aria-live="off"></div>
     <div class="pl-field">
       <label for="pl-sheet-rate">Tốc độ đọc</label>
       <select id="pl-sheet-rate" class="select" data-pl="rate">${rateOptions()}</select>
@@ -85,6 +91,7 @@ function sheetMarkup(): SafeHtml {
     <div class="pl-sheet-links">
       <a class="btn" data-pl-link href="#/">${icon('book')}<span>Mở chương đang nghe</span></a>
       <button type="button" class="btn" data-pl="voice">${icon('settings')}<span>Giọng đọc</span></button>
+      ${isPipSupported() ? html`<button type="button" class="btn" data-pl="pip">${icon('book')}<span>Cửa sổ nhỏ</span></button>` : ''}
     </div>
   </div>`;
 }
@@ -130,6 +137,50 @@ function sync(root: ParentNode): void {
   text('[data-pl-left]', left);
 }
 
+/** Shows the paragraphs around the voice in the sheet and marks the sentence being spoken. */
+function syncNow(): void {
+  const box = sheet && !sheet.closed ? sheet.body.querySelector<HTMLElement>('[data-pl-now]') : null;
+  if (!box || !now) return;
+  const n = player.getNowReading();
+  if (!n) {
+    now.hl?.clear();
+    now.hl = null;
+    now.key = '';
+    box.replaceChildren();
+    return;
+  }
+  const lo = Math.max(0, n.para - 1);
+  const hi = Math.min(n.paragraphs.length - 1, Math.max(0, n.para) + 2);
+  const key = `${n.source}|${n.key}|${n.idx}|${lo}`;
+  if (now.key !== key || !now.hl) {
+    const els = new Map<number, HTMLElement>();
+    for (let i = lo; i <= hi; i++) {
+      const p = document.createElement('p');
+      p.className = 'pl-now-p';
+      p.textContent = n.paragraphs[i] ?? '';
+      els.set(i, p);
+    }
+    box.replaceChildren(...els.values());
+    now.hl = createHighlighter({ paraEl: (i) => els.get(i) ?? null, paraText: (i) => n.paragraphs[i] ?? '', titleEl: null });
+    now.key = key;
+    now.at = '';
+  }
+  const target = n.para >= 0 ? now.hl.set(n.para, n.s, n.e) : null;
+  // scroll only the panel itself (never the page behind the sheet), and only when the sentence changed,
+  // so the 1 s sleep-timer tick does not fight a finger scrolling the panel
+  const at = `${key}|${n.para}|${n.s}`;
+  if (target && now.at !== at) {
+    now.at = at;
+    try {
+      const b = box.getBoundingClientRect();
+      const t = target.getBoundingClientRect();
+      box.scrollTo?.({ top: Math.max(0, box.scrollTop + t.top - b.top - (b.height - t.height) / 2), behavior: 'smooth' });
+    } catch {
+      // scrolling is only a nicety
+    }
+  }
+}
+
 function syncAll(): void {
   const st = player.getState();
   const dock = host;
@@ -153,7 +204,10 @@ function syncAll(): void {
     measure();
   }
   sync(dock);
-  if (sheet && !sheet.closed) sync(sheet.body);
+  if (sheet && !sheet.closed) {
+    sync(sheet.body);
+    syncNow();
+  }
   const timed = player.info().sleep > 0;
   if (timed && tick === undefined) tick = setInterval(syncAll, 1000);
   else if (!timed && tick !== undefined) {
@@ -178,11 +232,15 @@ function openSheet(): void {
     initialFocus: '[data-pl="toggle"]',
     onClose: () => {
       sheet = null;
+      now?.off();
+      now = null;
     },
   });
   sheet.body.addEventListener('click', onClick);
   sheet.body.addEventListener('change', onInput);
   sync(sheet.body);
+  now = { key: '', hl: null, off: onMark(syncNow), at: '' };
+  syncNow();
 }
 
 function onClick(e: Event): void {
@@ -207,6 +265,9 @@ function onClick(e: Event): void {
       break;
     case 'expand':
       openSheet();
+      break;
+    case 'pip':
+      togglePip();
       break;
     case 'voice':
       sheet?.close();

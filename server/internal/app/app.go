@@ -22,6 +22,7 @@ import (
 	"mythlab/internal/covers"
 	"mythlab/internal/httpapi"
 	"mythlab/internal/library"
+	"mythlab/internal/progress"
 	"mythlab/internal/tts"
 	"mythlab/internal/webui"
 )
@@ -54,16 +55,17 @@ type Options struct {
 
 // App is one configured server.
 type App struct {
-	opt     Options
-	paths   Paths
-	cfg     Config
-	log     *log.Logger
-	lib     *library.Library
-	gh      []*library.GitHubProvider
-	search  *library.SearchIndex
-	covers  *covers.Store
-	tts     *tts.Service
-	handler *httpapi.Server
+	opt      Options
+	paths    Paths
+	cfg      Config
+	log      *log.Logger
+	lib      *library.Library
+	gh       []*library.GitHubProvider
+	search   *library.SearchIndex
+	covers   *covers.Store
+	tts      *tts.Service
+	progress *progress.Store
+	handler  *httpapi.Server
 
 	keyMu sync.Mutex
 	key   string
@@ -132,7 +134,12 @@ func New(o Options) (*App, error) {
 	go a.covers.Prune(coverCacheBytes, coverCacheAge) // keep the poster cache bounded
 	a.tts = tts.NewService(tts.ServiceOptions{Engine: o.TTS, Dir: filepath.Join(a.paths.Cache, "tts"),
 		DefaultVoice: a.cfg.DefaultVoice, MaxBytes: a.cfg.TTSCacheBytes, Logf: a.log.Printf})
-	a.handler = httpapi.New(httpapi.Options{Library: a.lib, Search: a.search, Covers: a.covers, TTS: a.tts, Static: static,
+	progDir := filepath.Dir(a.paths.Config) // progress.json lives next to config.json
+	if a.paths.Config == "" {
+		progDir = a.paths.Cache
+	}
+	a.progress = progress.Open(filepath.Join(progDir, "progress.json"), a.log.Printf)
+	a.handler = httpapi.New(httpapi.Options{Library: a.lib, Search: a.search, Covers: a.covers, TTS: a.tts, Static: static, Progress: a.progress,
 		AccessKey: func() string { return a.accessKey(a.Exposed()) }, DistrustLoopback: !a.cfg.TrustLoopback,
 		Hosts: append(append([]string{}, a.cfg.Hosts...), o.Hosts...), Logf: a.log.Printf})
 	a.search.RefreshAsync() // local stories and cached GitHub data; no network
@@ -176,6 +183,7 @@ func (a *App) Close() {
 			p.Close()
 		}
 		a.covers.Close()
+		a.progress.Close()
 	})
 }
 

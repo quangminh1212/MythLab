@@ -1,7 +1,7 @@
 /** Server backend: the `/api/*` routes of the MythLab server, same origin (base "") or remote (URL + LAN key). */
 import { isNative } from '../settings';
-import { apiRoute, CACHE, chapterKey, chapterParams, fingerprint, identUrl, scopeOf } from '../../../sw/shared';
-import { ApiError, type BackendImpl, type CoverRef, type GetOptions, type PingResponse, type TtsOptions } from './types';
+import { apiRoute, CACHE, chapterKey, chapterParams, fingerprint, HDR_AT, identUrl, LIMIT, scopeOf } from '../../../sw/shared';
+import { ApiError, type BackendImpl, type CoverRef, type GetOptions, type PingResponse, type SendOptions, type TtsOptions } from './types';
 
 const norm = (p: string): string => '/' + String(p || '').replace(/^\/+/, '').replace(/^api\//, '');
 
@@ -12,6 +12,10 @@ export interface ServerBackend extends BackendImpl {
   readonly base: string;
   /** Resolves the ping body (null when the server is unreachable or refuses the key) and records `api`. */
   ping(timeout?: number): Promise<PingResponse | null>;
+  /** Optional capabilities the last ping reported (empty before a ping and on the Python server). */
+  features: string[];
+  /** JSON request with a body (PUT/POST) to an API route; resolves the parsed answer, rejects with ApiError. */
+  send<T = unknown>(method: 'PUT' | 'POST', path: string, body: unknown, opts?: SendOptions): Promise<T>;
 }
 
 /** Combines a caller signal with a timeout; returns the signal and a disposer. */
@@ -55,6 +59,9 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
   // The native app has no service worker (its https://localhost origin cannot fetch a plain-http server from one),
   // so the page itself keeps the last good data answers and serves downloaded chapters when the network is gone.
   const ident = isNative() && typeof caches !== 'undefined' ? fingerprint(base, key).catch(() => '') : null;
+
+  const TRIM_EVERY = 25;
+  let writes = 0;
 
   async function offlineGet<T>(url: string): Promise<T | undefined> {
     if (!ident) return undefined;
@@ -101,10 +108,24 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
       const u = new URL(url, 'http://x');
       if (apiRoute(u.pathname) !== 'data') return;
       const k = identUrl(scopeOf(location.href) + '__native' + u.pathname + u.search, await ident);
-      await (await caches.open(CACHE.api)).put(k, new Response(body, { headers: { 'Content-Type': 'application/json' } }));
+      const c = await caches.open(CACHE.api);
+      await c.put(k, new Response(body, { headers: { 'Content-Type': 'application/json', [HDR_AT]: String(Date.now()) } }));
+      // Opportunistic: first write of a session, then every TRIM_EVERY writes. Fire and forget, never on the read path.
+      if (writes++ % TRIM_EVERY === 0) void trimNative(c).catch(() => undefined);
     } catch {
       /* storage full or blocked: skip */
     }
+  }
+
+  /** Keeps the newest LIMIT.api native entries (by X-ML-At, entries without it count as oldest). */
+  async function trimNative(c: Cache): Promise<void> {
+    const keys = (await c.keys()).map((r) => r.url).filter((u) => u.includes('__native'));
+    if (keys.length <= LIMIT.api) return;
+    const stamped = await Promise.all(
+      keys.map(async (u) => ({ u, at: Number((await c.match(u))?.headers.get(HDR_AT)) || 0 })),
+    );
+    stamped.sort((a, b) => b.at - a.at);
+    await Promise.all(stamped.slice(LIMIT.api).map((e) => c.delete(e.u)));
   }
 
   async function get<T = unknown>(path: string, opts: GetOptions = {}): Promise<T> {
@@ -171,9 +192,32 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
       const j = (await r.json()) as PingResponse | null;
       if (!j) return null;
       self.api = typeof j.api === 'number' && j.api >= 2 ? j.api : 1;
+      self.features = Array.isArray(j.features) ? j.features.filter((f): f is string => typeof f === 'string') : [];
       return j;
     } catch {
       return null;
+    } finally {
+      t.done();
+    }
+  }
+
+  async function send<T = unknown>(method: 'PUT' | 'POST', path: string, body: unknown, { timeout = 15_000, signal, keepalive }: SendOptions = {}): Promise<T> {
+    const t = withTimeout(timeout, signal);
+    try {
+      const r = await fetch(base + '/api' + norm(path), {
+        method,
+        headers: { ...headers, 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+        signal: t.signal,
+        keepalive: keepalive || undefined,
+        cache: 'no-store',
+      });
+      const j = (await r.json().catch(() => ({ error: `HTTP ${r.status}` }))) as { error?: unknown; code?: unknown };
+      if (!r.ok || j.error) {
+        const e = j.error as string | { message?: string } | undefined;
+        throw new ApiError(typeof e === 'string' ? e : e?.message || `HTTP ${r.status}`, r.status, { code: typeof j.code === 'string' ? j.code : undefined, json: j });
+      }
+      return j as T;
     } finally {
       t.done();
     }
@@ -218,6 +262,6 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
     return /^https?:\/\//i.test(u) ? u : null;
   }
 
-  const self: ServerBackend = { kind: 'server', base, api: 1, get, ttsUrl, coverUrl, ping, mediaNeedsFetch: !!key, fetchMedia };
+  const self: ServerBackend = { kind: 'server', base, api: 1, features: [], get, send, ttsUrl, coverUrl, ping, mediaNeedsFetch: !!key, fetchMedia };
   return self;
 }

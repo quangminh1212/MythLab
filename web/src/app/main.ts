@@ -10,6 +10,7 @@ import { emit, on } from './core/events';
 import { html, render } from './core/html';
 import { library } from './core/library';
 import { progress } from './core/progress';
+import { progressSync } from './core/progress-sync';
 import { init as initBackNav } from './core/backnav';
 import { router } from './core/router';
 import { settings } from './core/settings';
@@ -55,6 +56,7 @@ async function boot(): Promise<void> {
   settings.init();
   bindToasts();
   progress.init();
+  void progressSync.init(); // waits for the backend; syncs only with a server that offers "progress"
   library.init();
   shell.init();
 

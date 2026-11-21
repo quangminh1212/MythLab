@@ -27,6 +27,8 @@ type pingBody struct {
 	App    string `json:"app"`
 	API    int    `json:"api"`
 	Server string `json:"server"`
+	// Features lists optional capabilities (additive: api stays 2).
+	Features []string `json:"features,omitempty"`
 }
 
 type ttsInfo struct {
@@ -121,7 +123,13 @@ func (s *Server) api(w http.ResponseWriter, r *http.Request) {
 	var err error
 	switch strings.TrimPrefix(r.URL.Path, "/api/") {
 	case "ping":
-		s.writeJSON(w, r, http.StatusOK, pingBody{true, "mythlab", APIVersion, "go"}, "")
+		body := pingBody{OK: true, App: "mythlab", API: APIVersion, Server: "go"}
+		if s.o.Progress != nil {
+			body.Features = []string{"progress"}
+		}
+		s.writeJSON(w, r, http.StatusOK, body, "")
+	case "progress":
+		s.apiProgress(w, r, q)
 	case "sources":
 		s.apiSources(w, r)
 	case "stories":

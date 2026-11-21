@@ -179,7 +179,11 @@ func (s *Server) preflight(w http.ResponseWriter, r *http.Request, isAPI bool) {
 		w.WriteHeader(http.StatusForbidden)
 		return
 	}
-	h.Set("Access-Control-Allow-Methods", "GET, HEAD, OPTIONS")
+	methods := "GET, HEAD, OPTIONS"
+	if r.URL.Path == progressPath {
+		methods = "GET, HEAD, PUT, OPTIONS"
+	}
+	h.Set("Access-Control-Allow-Methods", methods)
 	h.Set("Access-Control-Allow-Headers", "X-MythLab-Key, Content-Type, Range")
 	h.Set("Access-Control-Max-Age", "600")
 	if r.Header.Get("Access-Control-Request-Private-Network") != "" {

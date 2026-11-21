@@ -41,3 +41,6 @@ server/cmd/mythlab/*.syso
 
 # Agent working notes (scratch, not part of the product)
 .agents/
+
+# Reading progress synced by the server (next to config.json)
+progress.json

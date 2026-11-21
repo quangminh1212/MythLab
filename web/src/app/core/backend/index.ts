@@ -13,7 +13,7 @@ import { clearToken, initSecret, peekToken, setToken, TOKEN_KEY } from '../secre
 import { store } from '../store';
 import { createGitHubBackend, type GitHubBackend, type GitHubOptions } from './github';
 import { createServerBackend, type ServerBackend } from './server';
-import { ApiError, type BackendKind, type CoverRef, type GetOptions, type TokenTest, type TtsOptions } from './types';
+import { ApiError, type BackendKind, type CoverRef, type GetOptions, type SendOptions, type TokenTest, type TtsOptions } from './types';
 
 export * from './types';
 export { createServerBackend } from './server';
@@ -125,6 +125,23 @@ export const backend = {
       if (e instanceof ApiError) throw e;
       const x = e as Error;
       if (x?.name === 'AbortError') throw e;
+      throw new ApiError(navigator.onLine === false ? 'Không có kết nối mạng' : 'Không kết nối được tới máy chủ', 0, { code: 'network', cause: e });
+    }
+  },
+  /** Optional server capabilities from the last ping ("progress"); empty for GitHub-direct and the Python server. */
+  get features(): readonly string[] {
+    return impl && impl.kind === 'server' ? impl.features : [];
+  },
+  /** PUT/POST JSON to the server API. Only the server backend can write: GitHub-direct rejects with 501. */
+  async send<T = unknown>(method: 'PUT' | 'POST', path: string, body: unknown, opts?: SendOptions): Promise<T> {
+    await backend.init();
+    if (!impl) throw NONE();
+    if (impl.kind !== 'server') throw new ApiError('Nguồn dữ liệu này không hỗ trợ ghi', 501, { code: 'no_send' });
+    try {
+      return await impl.send<T>(method, path, body, opts);
+    } catch (e) {
+      if (e instanceof ApiError) throw e;
+      if ((e as Error)?.name === 'AbortError') throw e;
       throw new ApiError(navigator.onLine === false ? 'Không có kết nối mạng' : 'Không kết nối được tới máy chủ', 0, { code: 'network', cause: e });
     }
   },
