@@ -186,7 +186,8 @@ func TestOfflineReading(t *testing.T) {
 		}
 	}
 	ck("shell cache survives the clear", shellKept, st)
-	ck("downloads list is empty after clearing", p.count("#ss-downloads .ss-empty") == 1)
+	_ = p.waitFn(`document.querySelectorAll("#ss-downloads .ss-empty").length === 1`, 15*time.Second)
+	ck("downloads list is empty after clearing",p.count("#ss-downloads .ss-empty") == 1)
 	p.shot("offline-cleared.png")
 	p.key(kb.Escape)
 	p.offline(host.Gate, true)
