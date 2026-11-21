@@ -87,3 +87,16 @@ jobs:
           MYTHLAB_E2E_SERVER: ${{ runner.temp }}/mythlab-server
           MYTHLAB_E2E_NO_SANDBOX: "1"
         run: go test -count=1 -timeout 20m ./...
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: false
+          tags: mythlab:ci
+          cache-from: type=gha
+          cache-to: type=gha,mode=max

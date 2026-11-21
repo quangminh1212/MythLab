@@ -1,0 +1,10 @@
+{
+  "local": [
+    { "name": "Thư viện (library/)", "path": "library" }
+  ],
+  "github": [
+    { "owner": "", "prefix": "Done_", "enabled": false }
+  ],
+  "tts": { "default_voice": "vi-VN-HoaiMyNeural" },
+  "server": { "trust_loopback": false }
+}

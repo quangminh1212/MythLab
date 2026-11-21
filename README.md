@@ -32,7 +32,7 @@ apps\desktop\dist\mythlab-server.exe --config reader\config.json
 powershell -ExecutionPolicy Bypass -File apps\android\build.ps1
 ```
 
-CI (`.github/workflows/ci.yml`) chạy web (check, test, build) và server (vet, test) trên Ubuntu và Windows.
+CI (`.github/workflows/ci.yml`) chạy web (check, test, build) và server (vet, test) trên Ubuntu và Windows, cùng một job build image Docker (không push).
 
 ## Phiên bản / Versioning
 
@@ -41,6 +41,34 @@ Phiên bản hiện tại là 1.0.0, ghi ở `web/package.json` và `server/cmd/
 ## Cấu hình / Config discovery
 
 `--config` > `config.json` cạnh file exe > `%APPDATA%\MythLab\config.json` > `reader/config.json` gần nhất đi lên từ thư mục của exe (chế độ checkout) > đi lên từ thư mục làm việc > tạo mới trong `%APPDATA%\MythLab`.
+
+## Docker
+
+Image chứa server Go và giao diện web đã nhúng sẵn, chạy bằng người dùng không phải root (distroless). **Truyện không nằm trong image**: phải cấp thư viện lúc chạy (xem bên dưới).
+
+```bash
+# Build
+docker build -t mythlab .
+
+# Chạy nhanh (chỉ mở trên máy này); khoá bắt buộc với mọi máy khác vì container luôn chạy --lan (nghe 0.0.0.0)
+docker run -d --name mythlab -p 127.0.0.1:8765:8765 \
+  -e MYTHLAB_ACCESS_KEY="$(openssl rand -base64 18 | tr '+/' '-_' | tr -d '=')" \
+  -v mythlab-data:/data mythlab
+
+# Hoặc dùng compose
+cp .env.example .env        # sửa MYTHLAB_ACCESS_KEY (file .env đã nằm trong .gitignore)
+docker compose up -d --build
+```
+
+- **Khoá truy cập:** biến môi trường `MYTHLAB_ACCESS_KEY` (ưu tiên sau `server.access_key` trong `config.json`). Nếu không đặt, server tự sinh khoá một lần, lưu ở `/data/cache/server.json` và in trong `docker logs mythlab`. Đổi khoá: sửa `.env` rồi `docker compose up -d`, hoặc `docker run --rm -v mythlab-data:/data mythlab --rotate-key --config /data/config.json --cache /data/cache` (khi không dùng biến môi trường). Truy cập: `http://<máy>:8765/?k=<khoá>` một lần để đặt cookie. Request từ chính trong container (healthcheck) không cần khoá.
+- **Cổng:** compose mặc định chỉ bind `127.0.0.1:8765`. Muốn mở cho LAN hoặc đặt sau reverse proxy, đặt `MYTHLAB_BIND=0.0.0.0` trong `.env`; nếu truy cập bằng tên miền, thêm tên đó vào `server.hosts` trong `/data/config.json`. Nên có HTTPS khi ra ngoài LAN.
+- **Volume `/data`:** `config.json` (bản mặc định chỉ có thư viện cục bộ `/data/library`), `cache/` (ảnh bìa, giọng đọc, GitHub, `server.json`) và `progress.json` (tiến độ đọc đồng bộ giữa các thiết bị). Volume mới tự nhận quyền của người dùng `nonroot` (uid 65532); bind-mount thư mục tự tạo thì cần `chown 65532:65532`.
+- **Cấp truyện:**
+  - Thư mục cục bộ: bỏ truyện vào `/data/library` (ví dụ bind-mount `./library:/data/library:ro`; có sẵn dòng bình luận trong `compose.yaml`).
+  - Repo GitHub `Done_*`: sửa `/data/config.json`, ví dụ `"github": [{"owner": "tên-github", "prefix": "Done_", "enabled": true}]`; repo riêng tư cần `GITHUB_TOKEN` (đặt trong `.env`). Sửa file bằng `docker run --rm -it -v mythlab-data:/data busybox vi /data/config.json`, hoặc bind-mount file riêng: `-v ./config.json:/data/config.json` (đặt `progress.json` cạnh nó nên thư mục `/data` vẫn phải ghi được).
+- **Giọng đọc Edge** cần kết nối internet đi ra (websocket tới dịch vụ của Microsoft); tắt bằng cách thêm `--no-tts` vào lệnh chạy. Đọc từ GitHub cũng cần internet ra `api.github.com`.
+- **Cập nhật:** `git pull && docker compose up -d --build` (dữ liệu trong volume được giữ; `config.json` trong volume không bị ghi đè nên cấu hình mặc định mới của image không tự áp dụng). Sao lưu: `docker run --rm -v mythlab-data:/data -v "$PWD":/b busybox tar czf /b/mythlab-data.tgz /data`.
+- Container kiểm tra sức khoẻ bằng `mythlab-server --healthcheck` (gọi `/api/ping` nội bộ; image distroless không có curl). Compose chạy với root fs chỉ đọc, `cap_drop: ALL` và `no-new-privileges`.
 
 ## Lưu ý pháp lý / Legal notes
 

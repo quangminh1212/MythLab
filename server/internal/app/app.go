@@ -191,12 +191,15 @@ func (a *App) Close() {
 // storing one on first use.
 func (a *App) AccessKey() string { return a.accessKey(true) }
 
-// accessKey: config server.access_key, else <cache>/server.json, else (when
+// accessKey: config server.access_key, else $MYTHLAB_ACCESS_KEY (containers), else <cache>/server.json, else (when
 // create is set) a new random key saved there. The config file is never
 // written: it may live in a public repository.
 func (a *App) accessKey(create bool) string {
 	if a.cfg.AccessKey != "" {
 		return a.cfg.AccessKey
+	}
+	if k := envAccessKey(); k != "" {
+		return k
 	}
 	a.keyMu.Lock()
 	defer a.keyMu.Unlock()
@@ -248,7 +251,7 @@ func (a *App) RotateKey() (file string, configOverrides bool, err error) {
 		return file, false, err
 	}
 	a.key = key
-	return file, a.cfg.AccessKey != "", nil
+	return file, a.cfg.AccessKey != "" || envAccessKey() != "", nil
 }
 
 // LANIPs lists this machine's IPv4 addresses on the local network.
@@ -382,3 +385,9 @@ func (a *App) ListenAndServe(ctx context.Context, ready func(net.Addr)) error {
 	}
 	return a.Serve(ctx, ln)
 }
+
+// AccessKeyEnv names the environment variable that supplies the access key
+// without a config file entry (container deployments); config.json wins over it.
+const AccessKeyEnv = "MYTHLAB_ACCESS_KEY"
+
+func envAccessKey() string { return strings.TrimSpace(os.Getenv(AccessKeyEnv)) }
