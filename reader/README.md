@@ -8,8 +8,7 @@ Bản hiện tại gồm ba phần:
 | `web/` | Giao diện Astro (TypeScript, SPA định tuyến bằng hash, service worker sinh khi build) |
 | `apps/android`, `apps/desktop` | Vỏ Android (Capacitor) và ứng dụng Windows (WebView2) bọc cùng giao diện |
 
-`reader/server.py`, `reader/static/` và `reader/sync_done.py` là bản Python/JS cũ, vẫn giữ lại để đối chiếu và
-không còn được dùng khi build. `reader/config.json` là file cấu hình chung (danh sách nguồn truyện).
+`reader/config.json` là file cấu hình chung (danh sách nguồn truyện); thư mục `reader/.cache/` là cache của server (không commit).
 
 Dữ liệu lấy theo thứ tự:
 
@@ -19,18 +18,7 @@ Dữ liệu lấy theo thứ tự:
 
 ## Chạy server trên PC
 
-Cách nhanh nhất:
-
-```powershell
-reader\run_reader.bat            # http://127.0.0.1:8765, tự mở trình duyệt
-reader\run_reader.bat 9000       # cổng khác
-```
-
-`run_reader.bat` dùng `apps\desktop\dist\mythlab-server.exe`; chưa có thì tự chạy `apps\desktop\build.ps1` để build
-(cần Go và Node.js, lần đầu mất vài phút). Đặt `MYTHLAB_NO_BROWSER=1` nếu không muốn mở trình duyệt. Tham số sau
-cổng được chuyển cho server, ví dụ `reader\run_reader.bat 8765 --lan`.
-
-Hoặc chạy thẳng exe:
+Build exe một lần (`powershell -ExecutionPolicy Bypass -File appsdesktopbuild.ps1`, cần Go và Node.js), rồi chạy:
 
 ```powershell
 apps\desktop\dist\mythlab-server.exe --config reader\config.json              # 127.0.0.1:8765

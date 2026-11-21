@@ -2,7 +2,7 @@
   "_doc": [
     "Shared fixture for the Go server (server/internal/library) and the web client (web/src/app/core/textutil.ts).",
     "Both implementations must produce exactly these results. Cases without a 'fix' field reproduce the behaviour of the",
-    "old reader/server.py + reader/static/js/textutil.js. Cases WITH a 'fix' field are deliberate changes (bugs.md id).",
+    "former Python/JS reader (since removed). Cases WITH a 'fix' field are deliberate changes (bugs.md id).",
     "",
     "RULES",
     "WS = Python str.isspace set: U+0009-000D, U+001C-0020, U+0085, U+00A0, U+1680, U+2000-200A, U+2028, U+2029, U+202F, U+205F, U+3000.",

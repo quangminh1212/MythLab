@@ -94,8 +94,8 @@ App mở màn hình chào khi chưa có nguồn dữ liệu. Chọn một trong 
 1. **Token GitHub (chạy độc lập):** dán token fine-grained chỉ-đọc (Contents + Metadata, chỉ các repo `Done_*`; cách
    tạo xem [`reader/README.md`](../../reader/README.md#tạo-token-github-chỉ-đọc-fine-grained)). Truyện tải thẳng
    từ `api.github.com` và lưu đệm trong máy.
-2. **Server trên máy tính:** trên PC chạy `reader\run_reader.bat 8765 --lan` (hoặc
-   `apps\desktop\dist\mythlab-server.exe --lan --config reader\config.json`); server in ra địa chỉ dạng
+2. **Server trên máy tính:** trên PC chạy
+   `apps\desktop\dist\mythlab-server.exe --lan --config reader\config.json` (build bằng `apps\desktop\build.ps1`); server in ra địa chỉ dạng
    `http://192.168.x.y:8765/?k=<khoá>`. Trong app nhập URL `http://192.168.x.y:8765` và khoá đó (hoặc Cài đặt,
    Nguồn dữ liệu). Điện thoại và PC phải cùng Wi-Fi; nếu không kết nối được, cho phép `mythlab-server.exe` qua
    Windows Firewall (mạng Private). Khi dùng server có thể chọn giọng Edge (server cần có mạng).

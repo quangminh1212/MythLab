@@ -3,7 +3,7 @@ package edgetts
 import "testing"
 
 // Vectors produced by generate_sec_ms_gec_v2 of edge-tts 7.3.1 run from
-// apps/desktop/.venv (1700000000, 1795140000 and 1795140299 are the vectors
+// the reference Python package (1700000000, 1795140000 and 1795140299 are the vectors
 // of apps-spec 6.4; 1800000000 was generated as 1800000000.5).
 func TestSecMSGECVectors(t *testing.T) {
 	cases := []struct {

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- cho phép http tới server MythLab trên máy tính trong mạng LAN (server.py chạy với cờ lan) -->
+<!-- cho phép http tới server MythLab trên máy tính trong mạng LAN (mythlab-server chạy với cờ --lan) -->
 <network-security-config>
     <base-config cleartextTrafficPermitted="true">
         <trust-anchors>
