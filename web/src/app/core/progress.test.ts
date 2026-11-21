@@ -26,6 +26,22 @@ beforeEach(() => {
 });
 
 describe('progress', () => {
+  it('skipSame leaves ts alone when the position did not move, and saves when it did', () => {
+    vi.useFakeTimers();
+    try {
+      vi.setSystemTime(1_000_000);
+      const a = progress.saveReading(story(), 2, 7, 0.5, { now: true });
+      vi.setSystemTime(2_000_000);
+      const same = progress.saveReading(story(), 2, 7, 0.5, { now: true, skipSame: true });
+      expect(same.ts).toBe(a.ts);
+      expect(progress.get('gh0', 'Repo/Truyện A')?.ts).toBe(1_000_000);
+      const moved = progress.saveReading(story(), 2, 8, 0.5, { now: true, skipSame: true });
+      expect(moved.ts).toBe(2_000_000);
+    } finally {
+      vi.useRealTimers();
+    }
+  });
+
   it('saves the reading position under mythlab.progress with the frozen shape', () => {
     const p = progress.saveReading(story(), 2, 7, 0.5, { now: true });
     expect(p).toMatchObject({ source: 'gh0', key: 'Repo/Truyện A', name: 'Truyện A', idx: 2, n: 3, total: 5, para: 7, file: 'Chương 3.txt', title: 'Chương 3: Tên 3', group: 'Repo', maxIdx: 2 });

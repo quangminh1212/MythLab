@@ -209,11 +209,11 @@ function open(c: Ctx): void {
     toScroll(scrollFor({ top: r.top + window.scrollY, height: r.height }, a.frac, LINE, max));
   }
 
-  const savePos = (now = false): void => {
+  const savePos = (now = false, skipSame = false): void => {
     if (!ready) return;
     const a = currentAnchor();
     lastAnchor = a;
-    progress.saveReading(st, idx, a.para, a.frac, { now });
+    progress.saveReading(st, idx, a.para, a.frac, { now, skipSame });
   };
   const saveSoon = debounce(() => savePos(), 300);
 
@@ -705,7 +705,7 @@ function open(c: Ctx): void {
     subs.push(() => ro.disconnect());
   }
 
-  const flushNow = (): void => savePos(true);
+  const flushNow = (): void => savePos(true, true);
   window.addEventListener('pagehide', flushNow, sig);
   document.addEventListener('visibilitychange', () => document.visibilityState === 'hidden' && flushNow(), sig);
 
