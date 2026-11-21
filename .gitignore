@@ -1,8 +1,4 @@
 # Runtime / generated
-__pycache__/
-*.pyc
-*.pyo
-.Python
 .DS_Store
 Thumbs.db
 *.log

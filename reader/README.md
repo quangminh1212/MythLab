@@ -73,8 +73,8 @@ go test ./...
 Bộ quy tắc xử lý văn bản (tên chương, tách tiêu đề, tóm tắt info.json) có một file mẫu dùng chung:
 `server/internal/library/testdata/textutil_cases.json`; cả `go test` lẫn vitest đều đọc file này.
 
-Script end-to-end (Python Playwright) nằm ở `web/e2e/` (`browse.py`, `reader.py`, `settings.py`, `offline.py`), chạy
-khi server đang chạy, ví dụ `python e2e/browse.py --base http://127.0.0.1:18806 --api http://127.0.0.1:18806 --out DIR`.
+Bộ kiểm thử end-to-end (Go, chromedp) nằm ở `web/e2e/` (`browse_test.go`, `reader_test.go`, `settings_test.go`, `offline_test.go`), chạy
+sau khi build `web/dist`: `cd web/e2e && go test -count=1 -timeout 40m ./...`.
 
 Mọi bản build dùng chung hai bước: `tools\build-web.ps1` (npm ci khi cần, `npm run build`) và, cho exe,
 `go run ./tools/embedui` trong `server/` (chép `web/dist` vào `server/internal/webui/dist`).
