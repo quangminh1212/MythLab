@@ -11,7 +11,7 @@ Trình đọc truyện (Mạt Thế Cổ Đại Cầu Sinh, Niên Đại Thươn
 | `apps/desktop/` | Script đóng gói Windows (`MythLab.exe`, `mythlab-server.exe`) |
 | `apps/android/` | Ứng dụng Android (Capacitor) |
 | `tools/` | Script dùng chung (`build-web.ps1`) |
-| `reader/` | `config.json` dùng chung (danh sách nguồn truyện), `.cache/` của server, hướng dẫn chạy/LAN/token (`reader/README.md`) |
+| `reader/` | `config.json` dùng chung (danh sách nguồn truyện), `.cache/` của server, hướng dẫn chạy/LAN/token, đổi khoá LAN bằng `mythlab-server --rotate-key` (`reader/README.md`) |
 
 ## Build và test
 

@@ -221,6 +221,28 @@ func (a *App) accessKey(create bool) string {
 	return a.key
 }
 
+// RotateKey replaces the stored access key with a new random one (18 bytes
+// from crypto/rand, base64url) and writes <cache>/server.json atomically. It
+// returns the file written and whether config server.access_key is set, in
+// which case that value still wins and must be changed by hand. The key is
+// never returned or logged. A running server keeps the old key until restart.
+func (a *App) RotateKey() (file string, configOverrides bool, err error) {
+	var b [18]byte
+	if _, err = rand.Read(b[:]); err != nil {
+		return "", false, err
+	}
+	key := base64.RawURLEncoding.EncodeToString(b[:])
+	data, _ := json.Marshal(map[string]string{"access_key": key})
+	file = filepath.Join(a.paths.Cache, "server.json")
+	a.keyMu.Lock()
+	defer a.keyMu.Unlock()
+	if err = library.AtomicWrite(file, data); err != nil {
+		return file, false, err
+	}
+	a.key = key
+	return file, a.cfg.AccessKey != "", nil
+}
+
 // LANIPs lists this machine's IPv4 addresses on the local network.
 func LANIPs() []string {
 	set := map[string]bool{}

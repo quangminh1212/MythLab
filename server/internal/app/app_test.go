@@ -379,3 +379,29 @@ func TestPrefetchCoversLocal(t *testing.T) {
 }
 
 const pngMagic = "PNG-PLACEHOLDER"
+
+func TestRotateKey(t *testing.T) {
+	a, _ := newApp(t, localOnly, nil)
+	old := a.AccessKey()
+	file, override, err := a.RotateKey()
+	if err != nil || override {
+		t.Fatalf("rotate: %v override=%v", err, override)
+	}
+	if file != filepath.Join(a.Paths().Cache, "server.json") {
+		t.Fatal("wrong key file")
+	}
+	var saved struct {
+		AccessKey string `json:"access_key"`
+	}
+	data, _ := os.ReadFile(file)
+	if json.Unmarshal(data, &saved) != nil || len(saved.AccessKey) != 24 || strings.ContainsAny(saved.AccessKey, "+/=") {
+		t.Fatal("rotated key must be 18 random bytes, base64url")
+	}
+	if saved.AccessKey == old || a.AccessKey() != saved.AccessKey {
+		t.Fatal("the key must change and be used at once")
+	}
+	c, _ := newApp(t, `{"local": [], "github": [], "server": {"access_key": "from-config"}}`, nil)
+	if _, override, err := c.RotateKey(); err != nil || !override {
+		t.Fatalf("a config key must be reported as overriding: %v %v", err, override)
+	}
+}

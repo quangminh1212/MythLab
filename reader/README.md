@@ -26,7 +26,7 @@ apps\desktop\dist\mythlab-server.exe --port 9000 --config reader\config.json
 ```
 
 Tham số: `--port` (mặc định 8765), `--host` (mặc định 127.0.0.1), `--lan`, `--config FILE`, `--cache DIR`,
-`--static DIR` (lấy giao diện từ thư mục thay cho bản nhúng), `--no-tts`, `--prefetch-covers`.
+`--static DIR` (lấy giao diện từ thư mục thay cho bản nhúng), `--no-tts`, `--prefetch-covers`, `--rotate-key`.
 
 Token GitHub của server lấy từ biến môi trường `GITHUB_TOKEN`/`GH_TOKEN` hoặc `gh auth token`. Không có `--lan` thì
 server chỉ nghe ở `127.0.0.1`.
@@ -53,6 +53,9 @@ apps\desktop\dist\mythlab-server.exe --lan --config reader\config.json
   Giao diện (HTML, JS, CSS) là công khai; chỉ dữ liệu `/api/*` được bảo vệ.
 - Khoá lấy từ `config.json` mục `"server": {"access_key": "..."}`; không đặt thì server tự sinh một lần và lưu vào
   `server.json` cạnh thư mục cache (không commit).
+- Đổi khoá (ví dụ khi lỡ lộ): `mythlab-server --rotate-key [--config FILE]` ghi khoá ngẫu nhiên mới (128 bit trở lên, crypto/rand)
+  vào `server.json` một cách nguyên tử, chỉ in nơi đọc khoá mới, không in khoá. Khởi động lại server để áp dụng và nhập lại khoá
+  trên các thiết bị. Nếu `config.json` đặt `server.access_key` thì giá trị đó vẫn được ưu tiên: xoá mục đó (hoặc sửa tay).
 - App Android / PWA: Cài đặt, Nguồn dữ liệu, nhập URL `http://<IP-LAN>:8765` và khoá.
 
 Chỉ bật `--lan` trong mạng tin cậy: server dùng token GitHub của bạn để đọc repo riêng tư.
