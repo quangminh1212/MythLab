@@ -113,11 +113,12 @@ export function openDownloadDialog(o: DownloadDialogOptions): DialogHandle | nul
     const pct = pr.total ? Math.floor((pr.done / pr.total) * 100) : 0;
     bar.value = pct;
     const ok = pr.done - pr.failed;
-    const fail = pr.failed ? ` · ${fmtNum(pr.failed)} chương lỗi` : '';
+    const why = pr.lastError ? ` (${pr.lastError})` : '';
+    const fail = pr.failed ? ` · ${fmtNum(pr.failed)} chương lỗi${why}` : '';
     if (job.state === 'running') status.textContent = `Đang tải ${fmtNum(pr.done)} / ${fmtNum(pr.total)} chương (${pct}%)${fail}`;
     else if (job.state === 'paused') status.textContent = `Đã tạm dừng ở ${fmtNum(pr.done)} / ${fmtNum(pr.total)} chương${fail}`;
     else if (job.state === 'cancelled') status.textContent = `Đã huỷ. Đã lưu ${fmtNum(ok)} chương.`;
-    else status.textContent = pr.failed ? `Đã lưu ${fmtNum(ok)} chương, ${fmtNum(pr.failed)} chương lỗi. Bấm Tải về để thử lại.` : `Đã tải xong ${fmtNum(ok)} chương.`;
+    else status.textContent = pr.failed ? `Đã lưu ${fmtNum(ok)} chương, ${fmtNum(pr.failed)} chương lỗi${why}. Bấm Tải về để thử lại.` : `Đã tải xong ${fmtNum(ok)} chương.`;
   }
 
   function follow(job: DownloadJob): void {
