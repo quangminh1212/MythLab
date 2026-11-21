@@ -5,14 +5,14 @@
  * Secrets (server key, GitHub token) are never written into the DOM: their inputs start empty, a stored secret is
  * only announced ("Đã lưu") and can be replaced or forgotten. What the user types lives in the input only.
  */
-import { backend, TOKEN_KEY } from '../core/backend/index';
+import { backend } from '../core/backend/index';
+import { peekToken, protectionHint } from '../core/secret';
 import { on } from '../core/events';
 import { fmtBytes, fmtNum } from '../core/format';
 import { html, render } from '../core/html';
 import { icon } from '../core/icons';
 import { data } from '../core/data';
 import { href } from '../core/router';
-import { store } from '../core/store';
 import { confirmDialog, toast } from '../core/ui';
 import { offline, type DownloadedStory } from '../offline/index';
 import { applyBackup, backupFileName, buildBackup, parseBackup, BackupError, type Backup } from './backup';
@@ -69,6 +69,7 @@ export function mountSource(el: HTMLElement): () => void {
           <label class="ss-label" for="ss-gh-tok">GitHub token (đọc trực tiếp, chỉ đọc)</label>
           ${secretField('ss-gh-tok', 'GitHub token', 'github_pat_…')}
           <p class="hint" id="ss-gh-saved" hidden>Đã lưu một token trên thiết bị này. Nhập token mới để thay.</p>
+          <p class="hint" id="ss-gh-prot"></p>
           <p class="hint">Tạo token chi tiết với quyền <em>Contents</em> và <em>Metadata</em> chỉ đọc. <a href="${GH_TOKEN_URL}" target="_blank" rel="noopener noreferrer">Mở trang tạo token</a></p>
         </div>
         <div class="ss-actions">
@@ -139,9 +140,10 @@ export function mountSource(el: HTMLElement): () => void {
     const url = $<HTMLInputElement>('#ss-srv-url');
     if (document.activeElement !== url && !url.value) url.value = cfg?.url ?? '';
     $('#ss-srv-saved').hidden = !cfg?.key;
-    const tok = store.get<unknown>(TOKEN_KEY, '');
-    $('#ss-gh-saved').hidden = !(typeof tok === 'string' && tok);
-    $('#ss-forget').hidden = !cfg && !(typeof tok === 'string' && tok);
+    const tok = peekToken();
+    $('#ss-gh-saved').hidden = !tok;
+    $('#ss-gh-prot').textContent = protectionHint();
+    $('#ss-forget').hidden = !cfg && !tok;
   }
   status();
   offs.push(on('backend', status));
@@ -196,8 +198,7 @@ export function mountSource(el: HTMLElement): () => void {
 
   const ghMsg = $('#ss-gh-msg');
   async function checkToken(): Promise<string | null> {
-    const stored = store.get<unknown>(TOKEN_KEY, '');
-    const token = $<HTMLInputElement>('#ss-gh-tok').value.trim() || (typeof stored === 'string' ? stored : '');
+    const token = $<HTMLInputElement>('#ss-gh-tok').value.trim() || peekToken();
     if (!token) {
       say(ghMsg, 'Nhập token trước.', 'error');
       return null;

@@ -4,6 +4,7 @@
  * entry stays small.
  */
 import { backend } from './core/backend/index';
+import { initSecret } from './core/secret';
 import type { Route, ViewModule, ViewName } from './core/contracts';
 import { emit, on } from './core/events';
 import { html, render } from './core/html';
@@ -71,6 +72,7 @@ async function boot(): Promise<void> {
   on('online', (v) => document.documentElement.classList.toggle('is-offline', !v));
 
   // the data source is chosen before the first view mounts so the views never see "none" by accident
+  await initSecret();
   await backend.init();
 
   router.start({

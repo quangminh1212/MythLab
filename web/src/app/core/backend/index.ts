@@ -2,13 +2,14 @@
  * Backend facade: picks the data source at boot and exposes one API for both.
  *   1. the server on the same origin (browser at :8765, desktop app) — skipped inside Capacitor;
  *   2. a remote server from `mythlab.server` {url, key};
- *   3. GitHub-direct with the token in `mythlab.ghToken` (+ `mythlab.ghSource` {owner?, prefix?, sid?});
+ *   3. GitHub-direct with the token in `mythlab.ghToken` (encrypted at rest, see core/secret.ts) (+ `mythlab.ghSource` {owner?, prefix?, sid?});
  *   4. none → the onboarding view.
  * The LAN key and the token never appear in a URL: keyed media is fetched with the header and handed out as
  * object URLs (`cover()`, `ttsSrc()`).
  */
 import { emit } from '../events';
 import { isNative } from '../settings';
+import { clearToken, initSecret, peekToken, setToken, TOKEN_KEY } from '../secret';
 import { store } from '../store';
 import { createGitHubBackend, type GitHubBackend, type GitHubOptions } from './github';
 import { createServerBackend, type ServerBackend } from './server';
@@ -19,7 +20,7 @@ export { createServerBackend } from './server';
 export { createGitHubBackend } from './github';
 
 export const SERVER_KEY = 'mythlab.server';
-export const TOKEN_KEY = 'mythlab.ghToken';
+export { TOKEN_KEY };
 export const GH_SOURCE_KEY = 'mythlab.ghSource';
 
 export interface ServerConfig {
@@ -50,6 +51,7 @@ function readGhSource(): GitHubOptions {
 
 async function select(): Promise<BackendKind> {
   impl = null;
+  await initSecret(); // the token is decrypted into memory before it is read below
   if (!isNative() && /^https?:$/.test(location.protocol)) {
     const same = createServerBackend('', '');
     const p = await same.ping(5000);
@@ -67,8 +69,8 @@ async function select(): Promise<BackendKind> {
       return 'server';
     }
   }
-  const token = store.get<unknown>(TOKEN_KEY, '');
-  if (typeof token === 'string' && token) {
+  const token = peekToken();
+  if (token) {
     impl = createGitHubBackend(token, readGhSource());
     return 'github';
   }
@@ -186,7 +188,7 @@ export const backend = {
   },
   /** Stores a GitHub token (and optional owner/prefix) and switches to GitHub-direct when no server answers. */
   async useToken(token: string, opts?: GitHubOptions): Promise<BackendKind> {
-    store.set(TOKEN_KEY, token);
+    await setToken(token);
     if (opts && (opts.owner || opts.prefix)) store.set(GH_SOURCE_KEY, { ...readGhSource(), ...opts });
     return backend.reinit();
   },
@@ -194,7 +196,7 @@ export const backend = {
   async forget(what: 'server' | 'token' | 'all' = 'all'): Promise<BackendKind> {
     if (what !== 'token') store.del(SERVER_KEY);
     if (what !== 'server') {
-      store.del(TOKEN_KEY);
+      await clearToken();
       store.del(GH_SOURCE_KEY);
     }
     return backend.reinit();

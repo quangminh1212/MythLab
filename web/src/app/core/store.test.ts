@@ -39,7 +39,7 @@ describe('store (localStorage)', () => {
   });
 });
 
-describe('idb (IndexedDB "mythlab" v1)', () => {
+describe('idb (IndexedDB "mythlab" v2)', () => {
   it('stores and reads values in the three object stores', async () => {
     await idb.put('trees', 'k1', { tree: [1, 2] });
     await idb.put('meta', 'k1', 'm');
@@ -55,8 +55,8 @@ describe('idb (IndexedDB "mythlab" v1)', () => {
       r.onsuccess = () => resolve(r.result);
       r.onerror = () => reject(r.error);
     });
-    expect(db.version).toBe(1);
-    expect([...db.objectStoreNames].sort()).toEqual(['blobs', 'meta', 'trees']);
+    expect(db.version).toBe(2);
+    expect([...db.objectStoreNames].sort()).toEqual(['blobs', 'meta', 'secrets', 'trees']);
     db.close();
   });
 
