@@ -58,6 +58,8 @@ $env:MYTHLAB_KEY_PASS = "..."
 powershell -ExecutionPolicy Bypass -File build.ps1 -Release   # dist\MythLab-release.apk
 ```
 
+Không có keystore riêng? Chạy `build.ps1 -Release -LocalKey`: nếu chưa đặt `MYTHLAB_*` thì script tự tạo (một lần) keystore cục bộ `%LOCALAPPDATA%\MythLab-tools\keys\mythlab-local.jks` (mật khẩu ngẫu nhiên lưu cạnh đó, ngoài repo) và ký bằng nó. APK này cài được nhưng chỉ để thử; muốn phát hành thì dùng keystore riêng ở trên.
+
 Mật khẩu keystore chỉ được `android/app/build.gradle` đọc từ biến môi trường (không truyền trên dòng lệnh Gradle). Không bao giờ commit `*.jks` / `*.keystore` hay mật khẩu. Bản release bật R8 (`minifyEnabled`, `shrinkResources`) với luật giữ cho Capacitor trong `android/app/proguard-rules.pro`;
 bản debug không thu nhỏ. Bản release chưa được chạy thử trên máy thật, hãy thử kỹ trước khi phát hành.
 

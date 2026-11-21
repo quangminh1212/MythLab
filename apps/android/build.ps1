@@ -2,9 +2,10 @@
 # .\build.ps1            -> dist\MythLab-debug.apk
 # .\build.ps1 -Release   -> dist\MythLab-release.apk (ký bằng keystore từ biến môi trường)
 #   MYTHLAB_KEYSTORE, MYTHLAB_KEYSTORE_PASS, MYTHLAB_KEY_ALIAS, MYTHLAB_KEY_PASS
+#   .\build.ps1 -Release -LocalKey -> chưa đặt MYTHLAB_* thì tự tạo/dùng keystore cục bộ ngoài repo (%LOCALAPPDATA%\MythLab-tools\keys), chỉ để dùng thử
 # Luôn dựng giao diện web (Astro, tools\build-web.ps1) trước rồi chép web\dist vào www bằng sync-web.mjs;
 # -SkipWeb bỏ bước dựng web và dùng web\dist đang có.
-param([switch]$Release, [switch]$NoInstall, [switch]$SkipWeb)
+param([switch]$Release, [switch]$NoInstall, [switch]$SkipWeb, [switch]$LocalKey)
 $ErrorActionPreference = 'Continue'  # npm/gradle ghi stderr; lỗi được bắt qua $LASTEXITCODE
 Set-Location $PSScriptRoot
 
@@ -40,6 +41,23 @@ New-Item -ItemType Directory -Force dist | Out-Null
 Push-Location android
 try {
   if ($Release) {
+    if ($LocalKey -and -not $env:MYTHLAB_KEYSTORE) {
+      $kd = Join-Path $env:LOCALAPPDATA 'MythLab-tools\keys'
+      $ks = Join-Path $kd 'mythlab-local.jks'; $pf = Join-Path $kd 'mythlab-local.pass'
+      New-Item -ItemType Directory -Force $kd | Out-Null
+      if (-not ((Test-Path $ks) -and (Test-Path $pf))) {
+        $pw = -join ((48..57 + 97..122) | Get-Random -Count 24 | ForEach-Object { [char]$_ })
+        if (Test-Path $ks) { Remove-Item $ks -Force }
+        & "$jdk\bin\keytool.exe" -genkeypair -keystore $ks -storepass $pw -keypass $pw -alias mythlab-local -keyalg RSA -keysize 2048 -validity 10000 -dname 'CN=MythLab Local, O=MythLab' 2>&1 | Out-Null
+        if ($LASTEXITCODE) { throw 'keytool lỗi' }
+        Set-Content -Path $pf -Value $pw -NoNewline
+      }
+      $env:MYTHLAB_KEYSTORE = $ks
+      $env:MYTHLAB_KEYSTORE_PASS = (Get-Content $pf -Raw).Trim()
+      $env:MYTHLAB_KEY_ALIAS = 'mythlab-local'
+      $env:MYTHLAB_KEY_PASS = $env:MYTHLAB_KEYSTORE_PASS
+      Write-Host "Ký bằng keystore cục bộ: $ks"
+    }
     foreach ($v in 'MYTHLAB_KEYSTORE', 'MYTHLAB_KEYSTORE_PASS', 'MYTHLAB_KEY_ALIAS', 'MYTHLAB_KEY_PASS') {
       if (-not [Environment]::GetEnvironmentVariable($v)) { throw "Thiếu biến môi trường $v" }
     }
