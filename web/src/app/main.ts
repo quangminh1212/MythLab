@@ -10,6 +10,7 @@ import { emit, on } from './core/events';
 import { html, render } from './core/html';
 import { library } from './core/library';
 import { progress } from './core/progress';
+import { init as initBackNav } from './core/backnav';
 import { router } from './core/router';
 import { settings } from './core/settings';
 import { bindToasts, showError, skeleton, toast } from './core/ui';
@@ -82,6 +83,7 @@ async function boot(): Promise<void> {
     onError: (el, e) => showError(el, e, () => router.reload()),
     onLoading: loadingView,
   });
+  initBackNav();
   on('backend', () => router.reload());
   void shell.refreshSources();
 
