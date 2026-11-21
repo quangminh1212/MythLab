@@ -1,0 +1,169 @@
+/* MythLab design tokens.
+   <html data-theme> keeps the user's choice (light | sepia | dark | auto); <html data-scheme> is the resolved
+   scheme (light | sepia | dark) and is what every rule below keys on. public/boot.js sets both before first paint.
+   Every text/background pair used by the UI is asserted >= 4.5:1 in src/app/core/contrast.test.ts, which parses
+   this file: keep one "--name: #rrggbb;" declaration per line inside the three scheme blocks. */
+
+:root {
+  /* typography */
+  --font-ui: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-read: "Literata", "Noto Serif", Georgia, "Times New Roman", serif;
+  --font-display: "Alegreya", "Noto Serif", Georgia, serif;
+  --fs-xs: 0.8125rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 0.9375rem;
+  --fs-lg: 1.0625rem;
+  --fs-xl: 1.375rem;
+  --fs-2xl: 1.75rem;
+
+  /* layout */
+  --topbar-h: 56px;
+  --side-w: 264px;
+  --page-max: 1320px;
+  --gutter: 24px;
+  --tap: 44px;
+  --player-h: 0px; /* set by the player (W2) to the real dock height; the layout pads the page by it */
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --radius-pill: 999px;
+
+  /* reader variables (written by core/settings.ts, consumed by reader.css) */
+  --read-size: 20px;
+  --read-line: 1.8;
+  --read-width: 720px;
+  --read-weight: 400;
+  --read-letter: 0px;
+  --read-word: 0px;
+  --read-align: justify;
+  --read-indent: 0em;
+  --read-gap: 1em;
+  --brightness: 1;
+  --page-gap: 48px;
+
+  /* layers */
+  --z-raised: 20;
+  --z-topbar: 30;
+  --z-drawer: 35;
+  --z-player: 40;
+  --z-scrim: 44;
+  --z-sidenav: 45;
+  --z-overlay: 50;
+  --z-toast: 60;
+  --z-dim: 100;
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --dur: 0.18s;
+}
+
+:root,
+:root[data-scheme="light"] {
+  color-scheme: light;
+  --bg: #f3f4f6;
+  --surface: #ffffff;
+  --surface-2: #f9fafb;
+  --surface-3: #eceef1;
+  --text: #111827;
+  --text-2: #374151;
+  --muted: #4b5563;
+  --border: #e2e5ea;
+  --border-strong: #808898;
+  --accent: #0f766e;
+  --accent-hover: #115e59;
+  --accent-ink: #ffffff;
+  --accent-text: #0b655e;
+  --brand: #00a19a;
+  --hl: #dcf1ef;
+  --danger: #b91c1c;
+  --danger-bg: #fdecec;
+  --ok: #166534;
+  --read-bg: #ffffff;
+  --read-fg: #1f2328;
+  --read-accent: #0b655e;
+  --toast-bg: #111827;
+  --toast-fg: #f9fafb;
+  --header-bg: rgba(255, 255, 255, 0.94);
+  --scrim: rgba(17, 24, 39, 0.45);
+  --skeleton: #e3e6eb;
+  --skeleton-hi: #f1f3f5;
+  --shadow-sm: 0 1px 2px rgba(16, 24, 40, 0.06);
+  --shadow: 0 1px 3px rgba(16, 24, 40, 0.1), 0 1px 2px rgba(16, 24, 40, 0.06);
+  --shadow-lg: 0 18px 40px -12px rgba(16, 24, 40, 0.28);
+  --cover-l: 30%;
+}
+
+:root[data-scheme="sepia"] {
+  color-scheme: light;
+  --bg: #f4efe4;
+  --surface: #fffdf7;
+  --surface-2: #f8f3e8;
+  --surface-3: #efe7d6;
+  --text: #2b2520;
+  --text-2: #4a4038;
+  --muted: #5c5146;
+  --border: #e2d7c2;
+  --border-strong: #96886f;
+  --accent: #0f766e;
+  --accent-hover: #115e59;
+  --accent-ink: #ffffff;
+  --accent-text: #0b5f58;
+  --brand: #00a19a;
+  --hl: #e2eddc;
+  --danger: #a11818;
+  --danger-bg: #f9e6df;
+  --ok: #14532d;
+  --read-bg: #fbf6ea;
+  --read-fg: #2b2520;
+  --read-accent: #0b5f58;
+  --toast-bg: #2b2520;
+  --toast-fg: #fffdf7;
+  --header-bg: rgba(255, 253, 247, 0.94);
+  --scrim: rgba(43, 37, 32, 0.45);
+  --skeleton: #e9dfcb;
+  --skeleton-hi: #f5eedf;
+  --shadow-sm: 0 1px 2px rgba(60, 44, 20, 0.07);
+  --shadow: 0 1px 3px rgba(60, 44, 20, 0.12), 0 1px 2px rgba(60, 44, 20, 0.06);
+  --shadow-lg: 0 18px 40px -12px rgba(60, 44, 20, 0.3);
+  --cover-l: 30%;
+}
+
+:root[data-scheme="dark"] {
+  color-scheme: dark;
+  --bg: #0b1120;
+  --surface: #1e293b;
+  --surface-2: #273449;
+  --surface-3: #334155;
+  --text: #f7f9fb;
+  --text-2: #d3dae3;
+  --muted: #b3bdca;
+  --border: #334155;
+  --border-strong: #7c8aa0;
+  --accent: #2dd4bf;
+  --accent-hover: #5eead4;
+  --accent-ink: #042f2e;
+  --accent-text: #5eead4;
+  --brand: #00d4aa;
+  --hl: #1a414b;
+  --danger: #fca5a5;
+  --danger-bg: #45191d;
+  --ok: #86efac;
+  --read-bg: #111827;
+  --read-fg: #e5e7eb;
+  --read-accent: #5eead4;
+  --toast-bg: #f7f9fb;
+  --toast-fg: #111827;
+  --header-bg: rgba(17, 24, 39, 0.92);
+  --scrim: rgba(2, 6, 14, 0.62);
+  --skeleton: #263347;
+  --skeleton-hi: #31405a;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 18px 40px -12px rgba(0, 0, 0, 0.65);
+  --cover-l: 24%;
+}
+
+@media (max-width: 899px) {
+  :root {
+    --gutter: 16px;
+  }
+}

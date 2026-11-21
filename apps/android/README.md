@@ -1,6 +1,6 @@
 # MythLab Truyện — app Android
 
-Vỏ Capacitor 8 bọc đúng giao diện web trong `reader/static`. App chạy độc lập: đọc truyện thẳng từ GitHub bằng token
+Vỏ Capacitor 8 bọc giao diện web Astro (`web/dist`). App chạy độc lập: đọc truyện thẳng từ GitHub bằng token
 chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính cùng Wi-Fi. Đọc to bằng bộ đọc của Android (`vi-VN`).
 
 ## Cấu trúc
@@ -9,11 +9,15 @@ chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính c�
 |---|---|
 | `package.json` | Capacitor 8 (`core`, `cli`, `android`), `@capacitor/preferences`, `@capacitor-community/text-to-speech`, `@capacitor-community/keep-awake` |
 | `capacitor.config.json` | `appId io.github.mythlab.reader`, tên `MythLab Truyện`, `webDir www`, scheme `https`, cho phép mixed content |
-| `sync-web.mjs` | Chép `../../reader/static` vào `www/` (bỏ `viewport-fit=cover` để thanh trạng thái màu teal không đè lên header) |
-| `build.ps1` | Đặt `JAVA_HOME` (JDK 21) và `ANDROID_HOME`, chạy `sync-web` → `cap sync` → Gradle, chép APK vào `dist/` |
+| `sync-web.mjs` | Chép `../../web/dist` vào `www/` và bỏ `viewport-fit=cover` khỏi `index.html` (để thanh trạng thái màu teal không đè lên header) |
+| `build.ps1` | Đặt `JAVA_HOME` (JDK 21) và `ANDROID_HOME`, dựng web, chạy `sync-web`, `cap sync`, Gradle, chép APK vào `dist/` |
 | `android/` | Dự án Android do `npx cap add android` tạo, đã chỉnh: icon, màu teal, `network_security_config.xml` (cho phép `http` tới server LAN), `<queries>` cho `TTS_SERVICE` |
 
 `www/`, `dist/`, `node_modules/` và các thư mục build không đưa lên repo.
+
+`sync-web.mjs` dừng với mã lỗi 1 (không đóng gói giao diện cũ hay hỏng) khi: thiếu `web/dist/index.html`;
+`index.html` không có script module; không tìm thấy `viewport-fit=cover` để bỏ (Astro đổi cách in thẻ meta);
+không có tệp `.js` băm tên trong `_astro/`; hoặc `index.html` trỏ tới tệp không có trong bản chép.
 
 ## Yêu cầu
 
@@ -27,14 +31,20 @@ chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính c�
 
 ```powershell
 cd apps\android
-npm install
 powershell -ExecutionPolicy Bypass -File build.ps1
 ```
 
-Kết quả: `apps\android\dist\MythLab-debug.apk`. Lần đầu Gradle tự tải về (vài phút); các lần sau khoảng 1 phút.
+Kết quả: `apps\android\dist\MythLab-debug.apk`. `build.ps1` luôn dựng giao diện web trước (`tools\build-web.ps1`:
+`npm ci` khi cần rồi `npm run build`), rồi `node sync-web.mjs`, `npx cap sync android` và `gradlew assembleDebug`.
+Lần đầu Gradle tự tải về (vài phút); lần sau khoảng 20 giây đến 1 phút.
 
-Sửa giao diện thì sửa trong `reader/static`, rồi chạy lại `build.ps1` (hoặc `npm run sync` nếu mở bằng Android Studio:
-`npm run open`).
+Tham số: `-SkipWeb` (không dựng web, dùng `web\dist` đang có), `-NoInstall` (không tự `npm install`),
+`-Release` (xem dưới).
+
+Kiểm tra APK có giao diện mới: mở bằng 7-Zip hoặc `tar -tf`, phải có `assets/public/index.html` và các tệp
+`assets/public/_astro/*.js` có hash trong tên.
+
+Sửa giao diện thì sửa trong `web/`, rồi chạy lại `build.ps1`.
 
 ### Bản release (ký)
 
@@ -42,43 +52,45 @@ Tạo keystore **ngoài repo**, rồi đặt biến môi trường và chạy:
 
 ```powershell
 $env:MYTHLAB_KEYSTORE = "D:\keys\mythlab.jks"
-$env:MYTHLAB_KEYSTORE_PASS = "…"
+$env:MYTHLAB_KEYSTORE_PASS = "..."
 $env:MYTHLAB_KEY_ALIAS = "mythlab"
-$env:MYTHLAB_KEY_PASS = "…"
-powershell -ExecutionPolicy Bypass -File build.ps1 -Release   # → dist\MythLab-release.apk
+$env:MYTHLAB_KEY_PASS = "..."
+powershell -ExecutionPolicy Bypass -File build.ps1 -Release   # dist\MythLab-release.apk
 ```
 
-Không bao giờ commit `*.jks` / `*.keystore` hay mật khẩu.
+Không bao giờ commit `*.jks` / `*.keystore` hay mật khẩu. Bản release chưa được chạy thử trong đợt này.
 
 ## Cài lên điện thoại
 
-**Cách 1 — qua cáp USB (adb):** bật *Tuỳ chọn nhà phát triển → Gỡ lỗi USB* trên điện thoại, cắm cáp, rồi:
+**Cách 1, qua cáp USB (adb):** bật *Tuỳ chọn nhà phát triển, Gỡ lỗi USB* trên điện thoại, cắm cáp, rồi:
 
 ```powershell
 & "$env:LOCALAPPDATA\Android\Sdk\platform-tools\adb.exe" install -r dist\MythLab-debug.apk
 ```
 
-**Cách 2 — chép file APK:** chép `MythLab-debug.apk` sang điện thoại (cáp, Zalo, Google Drive…), mở bằng trình quản lý
-tệp và cho phép *Cài ứng dụng không rõ nguồn gốc* khi được hỏi. Bản debug ký bằng khoá debug của máy build; muốn cập nhật
-từ máy build khác thì gỡ bản cũ trước.
+**Cách 2, chép file APK:** chép `MythLab-debug.apk` sang điện thoại, mở bằng trình quản lý tệp và cho phép *Cài ứng
+dụng không rõ nguồn gốc* khi được hỏi. Bản debug ký bằng khoá debug của máy build; muốn cập nhật từ máy build khác
+thì gỡ bản cũ trước.
 
 ## Lần chạy đầu
 
 App mở màn hình chào khi chưa có nguồn dữ liệu. Chọn một trong hai:
 
 1. **Token GitHub (chạy độc lập):** dán token fine-grained chỉ-đọc (Contents + Metadata, chỉ các repo `Done_*`; cách
-   tạo xem [`reader/README.md`](../../reader/README.md#tạo-token-github-chỉ-đọc-fine-grained)), bấm **Kiểm tra & lưu**. Truyện
-   tải thẳng từ `api.github.com` và lưu đệm trong máy. Token chỉ nằm trong bộ nhớ của app.
-2. **Server trên máy tính:** trên PC chạy `python reader\server.py --lan`; server in ra địa chỉ dạng
-   `http://192.168.x.y:8765/?k=<khoá>`. Trong app nhập URL `http://192.168.x.y:8765` và khoá đó, bấm **Kết nối** (hoặc
-   Cài đặt → Nguồn dữ liệu). Điện thoại và PC phải cùng Wi-Fi; nếu không kết nối được, cho phép Python qua Windows Firewall (mạng Private).
-   Khi dùng server có thể chọn giọng Edge (cần server có mạng).
+   tạo xem [`reader/README.md`](../../reader/README.md#tạo-token-github-chỉ-đọc-fine-grained)). Truyện tải thẳng
+   từ `api.github.com` và lưu đệm trong máy.
+2. **Server trên máy tính:** trên PC chạy `reader\run_reader.bat 8765 --lan` (hoặc
+   `apps\desktop\dist\mythlab-server.exe --lan --config reader\config.json`); server in ra địa chỉ dạng
+   `http://192.168.x.y:8765/?k=<khoá>`. Trong app nhập URL `http://192.168.x.y:8765` và khoá đó (hoặc Cài đặt,
+   Nguồn dữ liệu). Điện thoại và PC phải cùng Wi-Fi; nếu không kết nối được, cho phép `mythlab-server.exe` qua
+   Windows Firewall (mạng Private). Khi dùng server có thể chọn giọng Edge (server cần có mạng).
 
-Đổi nguồn sau này: **Cài đặt → Nguồn dữ liệu**. **Xoá bộ nhớ đệm** xoá truyện đã lưu trong máy.
+Đổi nguồn sau này: **Cài đặt, Nguồn dữ liệu**.
 
 ## Giọng đọc
 
-- Mặc định dùng bộ đọc **Máy (Android)**. Nếu máy chưa có giọng tiếng Việt: cài/ cập nhật *Speech Services by Google*,
-  vào *Cài đặt Android → Hệ thống → Ngôn ngữ → Đầu ra văn bản thành lời nói*, tải gói **Tiếng Việt**.
-- *Giữ màn hình sáng khi nghe* (Cài đặt) chỉ bật khi đang đọc to; app không giữ màn hình sáng mặc định.
+- Mặc định dùng bộ đọc **Máy (Android)**. Nếu máy chưa có giọng tiếng Việt: cài/cập nhật *Speech Services by Google*,
+  vào *Cài đặt Android, Hệ thống, Ngôn ngữ, Đầu ra văn bản thành lời nói*, tải gói **Tiếng Việt**.
+- *Giữ màn hình sáng khi nghe* (Cài đặt) chỉ bật khi đang đọc to.
 - Giới hạn: đọc nền khi tắt màn hình và điều khiển trên màn hình khoá phụ thuộc WebView, chưa có dịch vụ media riêng.
+- Đã build và kiểm tra nội dung APK, nhưng chưa chạy thử trên máy thật hay máy ảo.

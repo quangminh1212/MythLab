@@ -2,7 +2,7 @@
   "name": "mythlab-android",
   "version": "1.0.0",
   "private": true,
-  "description": "MythLab Truyện — vỏ Android (Capacitor) cho reader/static",
+  "description": "MythLab Truyện — vỏ Android (Capacitor) cho web/dist",
   "scripts": {
     "sync-web": "node sync-web.mjs",
     "sync": "node sync-web.mjs && cap sync android",

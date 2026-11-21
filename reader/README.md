@@ -1,93 +1,115 @@
 # MythLab Truyện — trình đọc & nghe truyện
 
-Một giao diện duy nhất (`reader/static`, HTML/JS thuần, không cần build) dùng cho trình duyệt, PWA, app Android và app
-Windows. Dữ liệu lấy theo thứ tự:
+Bản hiện tại gồm ba phần:
 
-1. **Máy chủ MythLab** (`reader/server.py`) cùng địa chỉ, hoặc theo URL + khoá đã nhập trong Cài đặt → có giọng Edge tự nhiên và thư mục truyện trên máy.
-2. **GitHub trực tiếp** bằng token chỉ-đọc → đọc các repo `Done_*` qua `api.github.com`, cache trong IndexedDB; nghe bằng giọng của máy/trình duyệt.
-3. Chưa có gì → màn hình hướng dẫn kết nối.
+| Thư mục | Vai trò |
+|---|---|
+| `server/` | Server Go (`mythlab-server`): API đọc thư mục truyện, ảnh bìa, giọng Edge TTS; giao diện được nhúng sẵn trong exe |
+| `web/` | Giao diện Astro (TypeScript, SPA định tuyến bằng hash, service worker sinh khi build) |
+| `apps/android`, `apps/desktop` | Vỏ Android (Capacitor) và ứng dụng Windows (WebView2) bọc cùng giao diện |
 
-## Chạy máy chủ trên PC
+`reader/server.py`, `reader/static/` và `reader/sync_done.py` là bản Python/JS cũ, vẫn giữ lại để đối chiếu và
+không còn được dùng khi build. `reader/config.json` là file cấu hình chung (danh sách nguồn truyện).
+
+Dữ liệu lấy theo thứ tự:
+
+1. **Server MythLab** cùng địa chỉ, hoặc theo URL + khoá nhập trong Cài đặt: có giọng Edge và thư mục truyện trên máy.
+2. **GitHub trực tiếp** bằng token chỉ-đọc: đọc các repo `Done_*` qua `api.github.com`, lưu đệm trong trình duyệt.
+3. Chưa có gì thì hiện màn hình hướng dẫn kết nối.
+
+## Chạy server trên PC
+
+Cách nhanh nhất:
 
 ```powershell
-python reader\server.py              # http://127.0.0.1:8765 (chỉ máy này)
-python reader\server.py --port 9000
+reader\run_reader.bat            # http://127.0.0.1:8765, tự mở trình duyệt
+reader\run_reader.bat 9000       # cổng khác
 ```
 
-Cần Python 3.10+. Giọng Edge: `python -m pip install edge-tts`. Token GitHub của server lấy từ biến môi trường
-`GITHUB_TOKEN`/`GH_TOKEN` hoặc `gh auth token`. Thư mục truyện cấu hình trong `reader/config.json`.
+`run_reader.bat` dùng `apps\desktop\dist\mythlab-server.exe`; chưa có thì tự chạy `apps\desktop\build.ps1` để build
+(cần Go và Node.js, lần đầu mất vài phút). Đặt `MYTHLAB_NO_BROWSER=1` nếu không muốn mở trình duyệt. Tham số sau
+cổng được chuyển cho server, ví dụ `reader\run_reader.bat 8765 --lan`.
 
-Không có tham số, server chỉ nghe ở `127.0.0.1`.
+Hoặc chạy thẳng exe:
+
+```powershell
+apps\desktop\dist\mythlab-server.exe --config reader\config.json              # 127.0.0.1:8765
+apps\desktop\dist\mythlab-server.exe --port 9000 --config reader\config.json
+```
+
+Tham số: `--port` (mặc định 8765), `--host` (mặc định 127.0.0.1), `--lan`, `--config FILE`, `--cache DIR`,
+`--static DIR` (lấy giao diện từ thư mục thay cho bản nhúng), `--no-tts`, `--prefetch-covers`.
+
+Token GitHub của server lấy từ biến môi trường `GITHUB_TOKEN`/`GH_TOKEN` hoặc `gh auth token`. Không có `--lan` thì
+server chỉ nghe ở `127.0.0.1`.
 
 ### Ảnh bìa
 
-`/api/cover?source=&key=` trả ảnh trong thư mục truyện (`cover.*` > `poster.*` > `folder.*` > `thumb.*` > ảnh bất kỳ);
-không có thì tải `poster` trong `info.json` một lần (http/https, ≤ 3 MB, chỉ `image/*`) và cache ở `reader/.cache/covers/`.
-Truyện không có ảnh nào được vẽ bìa tự động. Tải sẵn mọi poster trước khi CDN nguồn biến mất:
+`/api/cover?source=&key=&w=` trả ảnh trong thư mục truyện (`cover.*` > `poster.*` > `folder.*` > `thumb.*` > ảnh bất
+kỳ); `w` là 160, 240, 320 hoặc 480. Không có thì tải `poster` trong `info.json` một lần và cache ở
+`reader/.cache/covers/`. Truyện không có ảnh nào được vẽ bìa tự động. Tải sẵn mọi poster:
 
 ```powershell
-python reader\server.py --prefetch-covers
+apps\desktop\dist\mythlab-server.exe --config reader\config.json --prefetch-covers
 ```
 
 ## Chế độ LAN (đọc từ điện thoại cùng Wi-Fi)
 
 ```powershell
-python reader\server.py --lan
+apps\desktop\dist\mythlab-server.exe --lan --config reader\config.json
 ```
 
-- Server nghe ở `0.0.0.0` và in ra các địa chỉ `http://<IP-LAN>:8765/?k=<khoá>`.
-- Mọi `/api/*` từ máy khác cần khoá (header `X-MythLab-Key`, tham số `?k=` hoặc cookie đặt khi mở link `?k=` một lần). Truy cập từ chính máy chủ (127.0.0.1) không cần khoá.
-- Khoá lấy từ `config.json` → `"server": {"access_key": "…"}`; nếu không đặt, server tự sinh một lần và lưu ở `reader/.cache/server.json` (bản .exe: `%LOCALAPPDATA%\MythLab\cache\server.json`; không commit).
-- App Android / PWA: Cài đặt → Nguồn dữ liệu → nhập URL `http://<IP-LAN>:8765` và khoá, rồi tải lại.
+- Server nghe ở `0.0.0.0` và in các địa chỉ `http://<IP-LAN>:8765/?k=<khoá>`.
+- Mọi `/api/*` từ máy khác cần khoá: header `X-MythLab-Key`, tham số `?k=` hoặc cookie `mythlab_key`. Mở link `?k=`
+  một lần thì server đặt cookie rồi chuyển hướng về địa chỉ không còn khoá. Truy cập từ chính máy chủ không cần khoá.
+  Giao diện (HTML, JS, CSS) là công khai; chỉ dữ liệu `/api/*` được bảo vệ.
+- Khoá lấy từ `config.json` mục `"server": {"access_key": "..."}`; không đặt thì server tự sinh một lần và lưu vào
+  `server.json` cạnh thư mục cache (không commit).
+- App Android / PWA: Cài đặt, Nguồn dữ liệu, nhập URL `http://<IP-LAN>:8765` và khoá.
 
 Chỉ bật `--lan` trong mạng tin cậy: server dùng token GitHub của bạn để đọc repo riêng tư.
 
+## Dựng giao diện và kiểm thử
+
+```powershell
+cd web
+npm ci
+npm run build          # ra web\dist
+npx astro check
+npx vitest run
+cd ..\server
+go vet ./...
+go test ./...
+```
+
+Bộ quy tắc xử lý văn bản (tên chương, tách tiêu đề, tóm tắt info.json) có một file mẫu dùng chung:
+`server/internal/library/testdata/textutil_cases.json`; cả `go test` lẫn vitest đều đọc file này.
+
+Script end-to-end (Python Playwright) nằm ở `web/e2e/` (`browse.py`, `reader.py`, `settings.py`, `offline.py`), chạy
+khi server đang chạy, ví dụ `python e2e/browse.py --base http://127.0.0.1:18806 --api http://127.0.0.1:18806 --out DIR`.
+
+Mọi bản build dùng chung hai bước: `tools\build-web.ps1` (npm ci khi cần, `npm run build`) và, cho exe,
+`go run ./tools/embedui` trong `server/` (chép `web/dist` vào `server/internal/webui/dist`).
+
 ## Tạo token GitHub chỉ-đọc (fine-grained)
 
-1. GitHub → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**
+1. GitHub, **Settings, Developer settings, Personal access tokens, Fine-grained tokens, Generate new token**
    (https://github.com/settings/personal-access-tokens/new).
-2. **Resource owner**: tài khoản chứa các repo `Done_*`. **Expiration**: tuỳ chọn (nên có hạn).
-3. **Repository access**: *Only select repositories* → chọn các repo `Done_*` (hoặc *All repositories*).
+2. **Resource owner**: tài khoản chứa các repo `Done_*`. **Expiration**: nên có hạn.
+3. **Repository access**: *Only select repositories*, chọn các repo `Done_*`.
 4. **Repository permissions**: `Contents` = **Read-only**, `Metadata` = **Read-only**. Không cấp quyền nào khác.
-5. **Generate token**, dán vào màn hình chào (hoặc Cài đặt → Nguồn dữ liệu → *Kiểm tra*).
+5. **Generate token**, dán vào màn hình chào (hoặc Cài đặt, Nguồn dữ liệu).
 
-Token chỉ lưu trong trình duyệt/app (localStorage) và chỉ được gửi tới `api.github.com`. GitHub giới hạn 5.000 lượt
-gọi/giờ; nút "Tải tất cả truyện" có thể vượt mức này, nên chọn từng repo.
+Token chỉ lưu trong trình duyệt/app và chỉ được gửi tới `api.github.com`. GitHub giới hạn 5.000 lượt gọi/giờ nên
+hãy tải từng truyện thay vì tải tất cả một lần.
 
 ## Cài như ứng dụng (PWA)
 
-Mở MythLab trên Chrome/Edge qua `http://127.0.0.1:8765` (hoặc một địa chỉ HTTPS), bấm biểu tượng **Cài đặt ứng dụng**
-trên thanh địa chỉ (Android: menu ⋮ → *Thêm vào màn hình chính*). Service worker chỉ chạy trên `localhost` hoặc HTTPS;
-nó lưu sẵn giao diện, phông chữ và âm thanh TTS đã nghe (tối đa 200 đoạn) để dùng khi mất mạng. Khi đổi danh sách
-file trong `js/` hoặc `css/`, sửa `PRECACHE` và tăng `CACHE_VERSION` trong `static/sw.js`.
+Mở MythLab qua `http://127.0.0.1:8765` (hoặc một địa chỉ HTTPS), bấm biểu tượng **Cài đặt ứng dụng** trên thanh
+địa chỉ. Service worker chỉ chạy trên `localhost` hoặc HTTPS; nó lưu sẵn giao diện để mở khi mất mạng, và chương đã
+tải về (nút tải trong trang truyện) đọc được ngoại tuyến.
 
-## App Android (Capacitor)
+## Ứng dụng Android và Windows
 
-Thư mục `apps/android/` (Capacitor 8; `sync-web.mjs` chép `reader/static` vào `www/`). Cần JDK 21 và Android SDK.
-
-```powershell
-cd apps\android
-npm install
-powershell -ExecutionPolicy Bypass -File build.ps1      # → apps\android\dist\MythLab-debug.apk
-```
-
-Chi tiết (cài APK, lần chạy đầu): [`apps/android/README.md`](../apps/android/README.md).
-Bản release đọc đường dẫn keystore và mật khẩu từ biến môi trường; không bao giờ đưa `*.keystore` / `*.jks` vào repo.
-App dùng bộ đọc của Android (`vi-VN`); nếu máy chưa có giọng tiếng Việt, cài *Speech Services by Google* rồi tải gói
-Tiếng Việt.
-
-## App Windows
-
-Xem [`apps/desktop/README.md`](../apps/desktop/README.md):
-
-```powershell
-powershell -ExecutionPolicy Bypass -File apps\desktop\build.ps1   # → apps\desktop\dist\MythLab\MythLab.exe
-```
-
-## Phông chữ
-
-Phông đọc được đóng gói sẵn trong `static/fonts/` (woff2, chỉ bộ ký tự latin, latin-ext, vietnamese), không tải từ
-Google Fonts. Giấy phép: SIL Open Font License 1.1 (`static/fonts/OFL.txt`) cho mọi phông trừ Roboto Slab
-(Apache 2.0, `static/fonts/Apache-2.0.txt`). Danh sách, phiên bản và nguồn: `static/fonts/README.md`. Phông của hệ
-điều hành (Segoe UI, Times New Roman, …) chỉ được gọi theo tên, không chép vào repo; phông độc quyền không bao giờ
-được đóng gói.
+- Android: [`apps/android/README.md`](../apps/android/README.md), kết quả `apps\android\dist\MythLab-debug.apk`.
+- Windows: [`apps/desktop/README.md`](../apps/desktop/README.md), kết quả `apps\desktop\dist\MythLab.exe`.

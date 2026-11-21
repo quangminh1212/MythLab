@@ -1,0 +1,227 @@
+/* Player dock and its sheet (stage W2: src/app/player/dock.ts). The dock lives in #player-dock. */
+
+.pl-dock {
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  box-shadow: 0 -6px 20px -12px rgba(16, 24, 40, 0.3);
+  color: var(--text);
+}
+
+.pl-line {
+  height: 3px;
+  background: var(--surface-3);
+}
+
+.pl-line-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.25s linear;
+}
+
+.pl-row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 56px;
+  padding: 4px max(8px, env(safe-area-inset-right)) calc(4px + env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left));
+}
+
+.pl-info {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+  padding: 2px 0;
+  color: inherit;
+  text-decoration: none;
+}
+
+.pl-title,
+.pl-sub {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pl-title {
+  font-size: var(--fs-md);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.pl-sub {
+  color: var(--text-2);
+  font-size: var(--fs-xs);
+  line-height: 1.3;
+}
+
+.pl-ctl {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.pl-opts {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 8px;
+}
+
+.pl-opt {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--text-2);
+}
+
+.pl-select {
+  width: auto;
+  min-height: 36px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: var(--fs-sm);
+}
+
+.pl-left {
+  min-width: 5.5em;
+  color: var(--text-2);
+  font-size: var(--fs-xs);
+  font-variant-numeric: tabular-nums;
+}
+
+.pl-left:empty {
+  display: none;
+}
+
+.pl-play {
+  display: inline-grid;
+  flex: none;
+  place-items: center;
+  width: var(--tap);
+  height: var(--tap);
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--accent-ink);
+  transition: background-color var(--dur) var(--ease);
+}
+
+.pl-play:hover {
+  background: var(--accent-hover);
+}
+
+.pl-play-play,
+.pl-play-pause {
+  display: grid;
+  place-items: center;
+}
+
+.pl-play .pl-play-pause,
+.pl-play.is-playing .pl-play-play {
+  display: none;
+}
+
+.pl-play.is-playing .pl-play-pause {
+  display: grid;
+}
+
+.pl-play.is-loading {
+  animation: pl-pulse 1.1s ease-in-out infinite;
+}
+
+.pl-play.is-error {
+  background: var(--danger);
+  color: #fff;
+}
+
+@keyframes pl-pulse {
+  50% {
+    opacity: 0.55;
+  }
+}
+
+.pl-big {
+  width: 52px;
+  height: 52px;
+}
+
+.pl-narrow {
+  display: none;
+}
+
+@media (max-width: 719px) {
+  .pl-wide {
+    display: none;
+  }
+
+  .pl-narrow {
+    display: inline-grid;
+  }
+}
+
+/* sheet (phones) */
+
+.pl-sheet {
+  display: grid;
+  gap: 14px;
+}
+
+.pl-sheet-title {
+  margin: 0;
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.pl-sheet-sub {
+  margin: -8px 0 0;
+  color: var(--text-2);
+  font-size: var(--fs-sm);
+}
+
+.pl-sheet-line {
+  overflow: hidden;
+  border-radius: var(--radius-pill);
+}
+
+.pl-sheet-ctl {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pl-sheet-ctl .pl-play {
+  width: 60px;
+  height: 60px;
+}
+
+.pl-field {
+  display: grid;
+  gap: 6px;
+}
+
+.pl-field label {
+  color: var(--text-2);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+}
+
+.pl-sheet-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pl-line-fill {
+    transition: none;
+  }
+
+  .pl-play.is-loading {
+    animation: none;
+  }
+}

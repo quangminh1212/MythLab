@@ -2,7 +2,9 @@
 # .\build.ps1            -> dist\MythLab-debug.apk
 # .\build.ps1 -Release   -> dist\MythLab-release.apk (ký bằng keystore từ biến môi trường)
 #   MYTHLAB_KEYSTORE, MYTHLAB_KEYSTORE_PASS, MYTHLAB_KEY_ALIAS, MYTHLAB_KEY_PASS
-param([switch]$Release, [switch]$NoInstall)
+# Luôn dựng giao diện web (Astro, tools\build-web.ps1) trước rồi chép web\dist vào www bằng sync-web.mjs;
+# -SkipWeb bỏ bước dựng web và dùng web\dist đang có.
+param([switch]$Release, [switch]$NoInstall, [switch]$SkipWeb)
 $ErrorActionPreference = 'Continue'  # npm/gradle ghi stderr; lỗi được bắt qua $LASTEXITCODE
 Set-Location $PSScriptRoot
 
@@ -27,6 +29,10 @@ Write-Host "JAVA_HOME=$jdk"
 Write-Host "ANDROID_HOME=$env:ANDROID_HOME"
 
 if (-not $NoInstall -and -not (Test-Path node_modules)) { npm install; if ($LASTEXITCODE) { throw 'npm install lỗi' } }
+if (-not $SkipWeb) {
+  $ErrorActionPreference = 'Stop'
+  try { & (Join-Path $PSScriptRoot '..\..\tools\build-web.ps1') } finally { $ErrorActionPreference = 'Continue' }
+}
 node sync-web.mjs; if ($LASTEXITCODE) { throw 'sync-web lỗi' }
 npx cap sync android; if ($LASTEXITCODE) { throw 'cap sync lỗi' }
 

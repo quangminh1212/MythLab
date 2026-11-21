@@ -1,0 +1,14 @@
+---
+// The single brand lock-up: XLab mark + "MythLab Truyện". The mark has a light and a dark rendition; CSS shows
+// the one that fits the resolved scheme.
+interface Props {
+  id?: string;
+}
+const { id } = Astro.props;
+---
+
+<a id={id} class="brand" href="#/" aria-label="MythLab Truyện, về trang chủ">
+  <img class="brand-logo brand-logo-light" src="./icons/xlab-logo.png" width="44" height="28" alt="" decoding="async" />
+  <img class="brand-logo brand-logo-dark" src="./icons/xlab-logo-dark.png" width="44" height="28" alt="" decoding="async" />
+  <span class="brand-name">MythLab <span class="brand-sub">Truyện</span></span>
+</a>

@@ -1,0 +1,40 @@
+---
+// Side navigation: fixed column on wide screens, modal drawer on phones. The source list is filled by shell.ts.
+import Brand from './Brand.astro';
+import Icon from './Icon.astro';
+---
+
+<aside id="sidenav" class="sidenav" aria-label="Danh mục">
+  <div class="sidenav-head">
+    <Brand />
+    <button id="sidenav-close" type="button" class="icon-btn" aria-label="Đóng danh mục">
+      <Icon name="close" />
+    </button>
+  </div>
+  <nav aria-label="Điều hướng chính">
+    <ul class="nav-list">
+      <li>
+        <a class="nav-link" href="#/" data-nav="home"><Icon name="home" /><span>Trang chủ</span></a>
+      </li>
+      <li>
+        <a class="nav-link" href="#/history" data-nav="history"><Icon name="history" /><span>Lịch sử đọc</span></a>
+      </li>
+      <li>
+        <a class="nav-link" href="#/bookmarks" data-nav="bookmarks"><Icon name="bookmark" /><span>Đánh dấu</span></a>
+      </li>
+    </ul>
+  </nav>
+  <section class="nav-section" aria-labelledby="nav-sources-title">
+    <h2 id="nav-sources-title" class="nav-title">Nguồn truyện</h2>
+    <div id="nav-sources" class="nav-sources">
+      <div class="sk-rows" aria-hidden="true">
+        <div class="sk sk-row"></div>
+        <div class="sk sk-row"></div>
+      </div>
+    </div>
+  </section>
+  <div class="sidenav-foot">
+    <button id="nav-settings" type="button" class="nav-link" aria-haspopup="dialog"><Icon name="settings" /><span>Cài đặt</span></button>
+  </div>
+</aside>
+<div id="sidenav-scrim" class="sidenav-scrim" hidden></div>
