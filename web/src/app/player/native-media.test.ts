@@ -53,6 +53,14 @@ describe('native media bridge', () => {
     expect(plug.addListener).not.toHaveBeenCalled();
   });
 
+  it('uses Capacitor.Plugins when the bridge global has no registerPlugin', () => {
+    (globalThis as { Capacitor?: unknown }).Capacitor = { Plugins: { MediaPlayback: plug } };
+    const f = fakePlayer();
+    initNativeMedia(f.p as never);
+    f.set({ status: 'playing', chapterTitle: 'Ch 1', storyName: 'S' });
+    expect(plug.start).toHaveBeenCalledWith({ title: 'Ch 1', artist: 'S' });
+  });
+
   it('starts, updates, and stops with the player', () => {
     const f = fakePlayer();
     initNativeMedia(f.p as never);
