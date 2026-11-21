@@ -108,6 +108,15 @@ export interface PingResponse {
   /** 2 on the Go server; absent on the Python server. */
   api?: number;
   server?: string;
+  /** Go server, additive: optional capabilities such as "progress" (reading-progress sync). */
+  features?: string[];
+}
+
+export interface SendOptions {
+  timeout?: number;
+  signal?: AbortSignal;
+  /** Lets the request outlive the page (pagehide); the body must stay small. */
+  keepalive?: boolean;
 }
 
 export interface TtsOptions {

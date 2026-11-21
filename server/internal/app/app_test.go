@@ -303,7 +303,7 @@ func TestServe(t *testing.T) {
 	go func() { errc <- a.Serve(ctx, ln) }()
 	base := "http://127.0.0.1:18803"
 
-	if code, body, _ := get(t, base+"/api/ping"); code != 200 || body != `{"ok":true,"app":"mythlab","api":2,"server":"go"}` {
+	if code, body, _ := get(t, base+"/api/ping"); code != 200 || body != `{"ok":true,"app":"mythlab","api":2,"server":"go","features":["progress"]}` {
 		t.Fatalf("ping: %d %s", code, body)
 	}
 	if code, body, _ := get(t, base+"/"); code != 200 || body != "ui" {

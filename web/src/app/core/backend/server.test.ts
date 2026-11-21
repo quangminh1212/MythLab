@@ -3,7 +3,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 const native = vi.hoisted(() => ({ on: true }));
 vi.mock('../settings', async (orig) => ({ ...(await orig<typeof import('../settings')>()), isNative: () => native.on }));
 
-import { CACHE, chapterKey, fingerprint, identUrl, scopeOf } from '../../../sw/shared';
+import { CACHE, chapterKey, fingerprint, HDR_AT, identUrl, LIMIT, scopeOf } from '../../../sw/shared';
 import { createServerBackend } from './server';
 
 const store = new Map<string, Map<string, Response>>();
@@ -15,6 +15,8 @@ function fakeCaches(): CacheStorage {
       return {
         match: async (r: string | Request) => m.get(typeof r === 'string' ? r : r.url)?.clone(),
         put: async (r: string | Request, res: Response) => void m.set(typeof r === 'string' ? r : r.url, res),
+        keys: async () => [...m.keys()].map((url) => ({ url }) as Request),
+        delete: async (r: string | Request) => m.delete(typeof r === 'string' ? r : r.url),
       } as unknown as Cache;
     },
   } as unknown as CacheStorage;
@@ -138,6 +140,44 @@ describe('native offline reading', () => {
     await saveStory('http://h:1', 'old');
     vi.stubGlobal('fetch', async () => Promise.reject(new TypeError('offline')));
     await expect(createServerBackend('http://h:1', 'new').get('/story?source=local0&key=story')).rejects.toBeTruthy();
+  });
+
+  describe('native api cache trim', () => {
+    const seed = async (n: number): Promise<Cache> => {
+      const c = await caches.open(CACHE.api);
+      for (let i = 0; i < n; i++) await c.put(`http://x/__native/api/e${i}?__ml=z`, new Response('{}', { headers: { [HDR_AT]: String(1000 + i) } }));
+      return c;
+    };
+    const settle = (): Promise<void> => new Promise((r) => setTimeout(r, 30));
+    const live = (): void => void vi.stubGlobal('fetch', async () => new Response(JSON.stringify({ title: 'live' })));
+
+    it('drops the oldest native entries beyond the cap and keeps the newest', async () => {
+      const c = await seed(LIMIT.api + 20);
+      live();
+      await createServerBackend('http://h:1', 'k').get('/story?source=local0&key=story');
+      await settle();
+      const left = (await c.keys!()).map((r) => r.url);
+      expect(left.filter((u) => u.includes('__native')).length).toBe(LIMIT.api);
+      expect(left).not.toContain('http://x/__native/api/e0?__ml=z');
+      expect(left).toContain(`http://x/__native/api/e${LIMIT.api + 19}?__ml=z`);
+      expect(left.some((u) => u.includes('/api/story'))).toBe(true);
+    });
+
+    it('leaves a bucket under the cap alone and ignores non-native entries', async () => {
+      const c = await seed(10);
+      await c.put('http://x/other/thing', new Response('{}'));
+      live();
+      await createServerBackend('http://h:1', 'k').get('/story?source=local0&key=story');
+      await settle();
+      expect((await c.keys!()).length).toBe(12);
+    });
+
+    it('does not delay the read path while trimming', async () => {
+      await seed(LIMIT.api + 5);
+      live();
+      const t = await createServerBackend('http://h:1', 'k').get<{ title: string }>('/story?source=local0&key=story');
+      expect(t.title).toBe('live');
+    });
   });
 
   it('serves the saved copy when the network fails, and remembers live answers', async () => {

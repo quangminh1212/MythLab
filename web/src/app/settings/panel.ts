@@ -131,7 +131,7 @@ function voiceTab(): SafeHtml {
     </div>
     ${rangeRow('rate')} ${rangeRow('pitch')}
     <div class="ss-checks">
-      ${checkRow('autoNext', 'Tự chuyển chương khi nghe hết')} ${checkRow('follow', 'Tự cuộn theo đoạn đang đọc')} ${checkRow('readTitle', 'Đọc tiêu đề chương')}
+      ${checkRow('autoNext', 'Tự chuyển chương khi nghe hết')} ${checkRow('follow', 'Tự cuộn theo đoạn đang đọc')} ${checkRow('autoOpenReader', 'Mở trang đọc khi bắt đầu nghe')} ${checkRow('readTitle', 'Đọc tiêu đề chương')}
       ${checkRow('ttsChapterCue', 'Báo “Hết chương” trước khi qua chương mới')} ${checkRow('ttsClean', 'Lọc ký tự lạ trước khi đọc')} ${checkRow('keepAwake', 'Giữ màn hình sáng khi nghe')}
     </div>
     <p class="hint">Mẹo: nhấp đúp vào một đoạn để nghe từ đó. Phím tắt: Space phát/dừng, ←/→ chương trước/sau, J/K đoạn sau/trước.</p>`;

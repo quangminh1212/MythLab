@@ -21,8 +21,11 @@ import { progress } from '../core/progress';
 import { currentRoute, href, navigate } from '../core/router';
 import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
+import { speakDeviceWithEdgeFallback } from './fallback';
 import { edgeAvailable, edgeForget, edgeHolding, edgePrefetch, edgeRate, effectiveEngine, Interrupted, localEngine, pauseHeld, refreshEdge, resumeHeld, speak, stopAll, Stopped } from './engines';
 import { keepAwake } from './keepawake';
+import { initMediaSession, primeMediaSession } from './mediasession';
+import { initPip } from './pip';
 import { setMark } from './mark';
 import { buildChunks, CHAPTER_CUE, clean, EDGE_MAX, LOCAL_MAX, startChunk, type Chunk } from './text';
 
@@ -32,6 +35,20 @@ export { RATES, SLEEP_MINUTES } from './text';
 
 /** Sleep timer: 0 = off, -1 = stop at the end of the chapter, otherwise minutes. */
 export type SleepMode = number;
+
+/** The chapter text and the sentence being spoken, for the dock's "now reading" panel. */
+export interface NowReading {
+  source: string;
+  key: string;
+  idx: number;
+  title: string;
+  paragraphs: string[];
+  /** Paragraph being read (-1 = the title). */
+  para: number;
+  /** Character range [s, e) of the sentence inside the paragraph. */
+  s: number;
+  e: number;
+}
 
 export interface PlayerInfo {
   /** Index of the chunk being read and the number of chunks of the chapter. */
@@ -125,6 +142,15 @@ function publishMark(s: Session): void {
     return;
   }
   setMark({ source: s.story.source, key: s.story.key, idx: s.idx, para: c.p, s: sent.s, e: sent.e });
+}
+
+/** What is being read right now, or null when idle or the chapter is not loaded yet. */
+export function getNowReading(): NowReading | null {
+  const s = ses;
+  if (!s || !s.ch || state.status === 'idle') return null;
+  const c = s.chunks[Math.min(s.ci, s.chunks.length - 1)];
+  const sent = c?.sents[Math.min(s.si, (c?.sents.length ?? 1) - 1)];
+  return { source: s.story.source, key: s.story.key, idx: s.idx, title: chapterLabel(s.ref) || (s.ch.title ?? ''), paragraphs: s.ch.paragraphs, para: c ? c.p : -1, s: sent?.s ?? 0, e: sent?.e ?? 0 };
 }
 
 function saveListen(s: Session): void {
@@ -246,16 +272,17 @@ async function run(ci: number, si = 0): Promise<void> {
  */
 async function speakWithFallback(engine: TtsEngine, s: Session, c: Chunk, from: number, my: number): Promise<void> {
   if (engine !== 'edge') {
-    try {
-      await speakChunk(engine, s, c, from, my);
-    } catch (e) {
-      // the device has no working voice (an emulator without a TTS engine, say): the server voice reads this chunk
-      if (my !== gen || e instanceof Stopped || e instanceof Interrupted || (e as { name?: string } | null)?.name === 'NotAllowedError') throw e;
-      if (!edgeAvailable() || edgeDown) throw e;
-      toast('Giọng của máy không đọc được — dùng giọng Edge của máy chủ');
-      setState({ engine: 'edge' });
-      await speakChunk('edge', s, c, s.si, my);
-    }
+    // the device has no working voice (an emulator without a TTS engine, say): the server voice reads this chunk
+    await speakDeviceWithEdgeFallback({
+      device: () => speakChunk(engine, s, c, from, my),
+      edge: () => speakChunk('edge', s, c, s.si, my),
+      stale: () => my !== gen,
+      edgeUsable: () => edgeAvailable() && !edgeDown,
+      onFallback: () => {
+        toast('Giọng của máy không đọc được — dùng giọng Edge của máy chủ');
+        setState({ engine: 'edge' });
+      },
+    });
     localFails = 0;
     return;
   }
@@ -332,6 +359,14 @@ async function chapterEnd(s: Session, my: number, force: boolean): Promise<void>
   await load(s.story, s.idx + 1, -1, true);
 }
 
+/** Shows the chapter being listened to when the listening was started from another screen. */
+function openReader(story: StoryDetail, idx: number): void {
+  if (!S.autoOpenReader) return;
+  const r = currentRoute();
+  if (r.view === 'read' && r.source === story.source && r.key === story.key && r.idx === idx) return;
+  navigate(href.read(story.source, story.key, idx), r.view === 'read' ? { replace: true } : undefined);
+}
+
 /** Loads a chapter and starts speaking at `para` (-1 = from the title). */
 async function load(story: StoryDetail, idxIn: number, para: number, follow = false): Promise<void> {
   const idx = Math.max(0, Math.min(story.chapters.length - 1, idxIn));
@@ -356,7 +391,7 @@ async function load(story: StoryDetail, idxIn: number, para: number, follow = fa
   // the reader follows the voice into the next chapter when it is showing the chapter that just ended
   if (follow && from >= 0 && from !== idx) {
     const r = currentRoute();
-    if (r.view === 'read' && r.source === story.source && r.key === story.key && r.idx === from) navigate(href.read(story.source, story.key, idx), { replace: true });
+    if (r.view === 'read' && r.source === story.source && r.key === story.key && r.idx !== idx) navigate(href.read(story.source, story.key, idx), { replace: true });
   }
   try {
     const [ch] = await Promise.all([data.chapter(story.source, story.key, ref.file), refreshEdge()]);
@@ -388,6 +423,7 @@ async function load(story: StoryDetail, idxIn: number, para: number, follow = fa
  * and a request without a paragraph starts with the title.
  */
 async function start(req: PlayRequest & { exact?: boolean }): Promise<void> {
+  primeMediaSession();
   const my = ++gen;
   clearTimers();
   stopAll();
@@ -423,6 +459,7 @@ async function start(req: PlayRequest & { exact?: boolean }): Promise<void> {
   }
   edgeFails = 0;
   localFails = 0;
+  openReader(story, idx);
   await load(story, idx, para);
 }
 
@@ -449,6 +486,7 @@ function pause(): void {
 }
 
 function resume(): void {
+  primeMediaSession();
   const s = ses;
   if (!s) {
     if (state.status === 'error' && state.source && state.key) void start({ source: state.source, key: state.key, idx: state.idx ?? 0 });
@@ -704,6 +742,7 @@ export interface Player extends PlayerApi {
   /** 0 = off, -1 = at the end of the chapter, n = minutes. */
   setSleep(mode: SleepMode): void;
   info(): PlayerInfo;
+  getNowReading(): NowReading | null;
   /** Fires on every change the dock shows (state, position, sleep timer). */
   onChange(fn: () => void): () => void;
 }
@@ -720,6 +759,7 @@ export const player: Player = {
   seekPara,
   setSleep,
   info,
+  getNowReading,
   getState: () => state,
   onState: (fn) => stateChanges.on(fn),
   onChange: (fn) => changes.on(fn),
@@ -728,3 +768,5 @@ export const player: Player = {
 
 // the dock draws itself from the player
 initDock(player);
+initMediaSession(player);
+initPip(player);

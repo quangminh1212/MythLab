@@ -398,8 +398,8 @@ function open(c: Ctx): void {
   subs.push(on('player', (s) => syncListen(s.status)));
   if (document.getElementById('player-dock')?.childElementCount) void import('../player/index').then(({ player }) => !ac.signal.aborted && syncListen(player.getState().status));
 
-  function followEl(target: HTMLElement): void {
-    if (performance.now() - userAt < 4000) return;
+  function followEl(target: HTMLElement, force = false): void {
+    if (!force && performance.now() - userAt < 4000) return;
     if (paged()) {
       const p = pageOfEl(target);
       if (p !== page) setPage(p);
@@ -416,7 +416,8 @@ function open(c: Ctx): void {
       return;
     }
     const target = hl.set(m.para, m.s, m.e);
-    if (target && S.follow) followEl(target);
+    // while the voice is reading, the sentence change itself brings the text back into view
+    if (target && S.follow) followEl(target, playing);
   }
   subs.push(onMark(applyMark));
   applyMark(currentMark());

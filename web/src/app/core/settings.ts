@@ -37,6 +37,8 @@ export interface Settings {
   pitch: number;
   autoNext: boolean;
   follow: boolean;
+  /** Starting to listen elsewhere opens the reader at the chapter being read. */
+  autoOpenReader: boolean;
   readTitle: boolean;
   ttsClean: boolean;
   ttsChapterCue: boolean;
@@ -80,6 +82,7 @@ export function defaults(): Settings {
     pitch: 1,
     autoNext: true,
     follow: true,
+    autoOpenReader: true,
     readTitle: true,
     ttsClean: true,
     ttsChapterCue: true,
