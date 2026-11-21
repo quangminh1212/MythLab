@@ -3,7 +3,8 @@
  * stories and the picked system fonts. The server key and the GitHub token are left out unless the user asks for
  * them, in both directions.
  */
-import { GH_SOURCE_KEY, SERVER_KEY, TOKEN_KEY } from '../core/backend/index';
+import { GH_SOURCE_KEY, SERVER_KEY } from '../core/backend/index';
+import { peekToken, setToken } from '../core/secret';
 import type { Bookmark, Follow, Progress } from '../core/contracts';
 import { sKey } from '../core/format';
 import { BOOKMARKS_KEY, FOLLOWS_KEY, MAX_BOOKMARKS, MAX_FOLLOWS } from '../core/library';
@@ -156,7 +157,7 @@ export function buildBackup(o: { includeSecrets?: boolean; now?: number } = {}):
     localFonts: list(store.get<unknown>(LOCAL_FONTS_KEY, []), (v) => (str(v) && v ? v : null)),
   };
   if (o.includeSecrets) {
-    const s = cleanSecrets({ server: store.get<unknown>(SERVER_KEY, null), ghToken: store.get<unknown>(TOKEN_KEY, ''), ghSource: store.get<unknown>(GH_SOURCE_KEY, null) });
+    const s = cleanSecrets({ server: store.get<unknown>(SERVER_KEY, null), ghToken: peekToken(), ghSource: store.get<unknown>(GH_SOURCE_KEY, null) });
     if (s) b.secrets = s;
   }
   return b;
@@ -289,7 +290,11 @@ export function applyBackup(b: Backup, o: ImportOptions = {}): ImportResult {
   let secrets = false;
   if (o.includeSecrets && b.secrets) {
     if (b.secrets.server) secrets = store.set(SERVER_KEY, b.secrets.server) || secrets;
-    if (b.secrets.ghToken) secrets = store.set(TOKEN_KEY, b.secrets.ghToken) || secrets;
+    if (b.secrets.ghToken) {
+      // encrypted and written in the background; the in-memory copy is updated at once
+      void setToken(b.secrets.ghToken);
+      secrets = true;
+    }
     if (b.secrets.ghSource) store.set(GH_SOURCE_KEY, b.secrets.ghSource);
   }
   for (const k of [SETTINGS_KEY, PROGRESS_KEY, BOOKMARKS_KEY, FOLLOWS_KEY]) announce(k);

@@ -1,5 +1,6 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { SERVER_KEY, TOKEN_KEY } from '../core/backend/index';
+import { initSecret, flushToken, peekToken, _resetSecret } from '../core/secret';
 import { library } from '../core/library';
 import { progress } from '../core/progress';
 import { S, init, load, set } from '../core/settings';
@@ -30,17 +31,25 @@ describe('backup', () => {
     expect(progress.get('s', 'k1')?.idx).toBe(4);
   });
 
-  it('leaves secrets out unless asked and restores them only when asked', () => {
+  it('leaves secrets out unless asked and restores them only when asked', async () => {
+    _resetSecret();
     localStorage.setItem(TOKEN_KEY, JSON.stringify('github_pat_SECRET'));
+    await initSecret();
     localStorage.setItem(SERVER_KEY, JSON.stringify({ url: 'http://x:1', key: 'LANKEY' }));
     expect(JSON.stringify(buildBackup())).not.toMatch(/SECRET|LANKEY/);
     const withS = buildBackup({ includeSecrets: true });
     expect(JSON.stringify(withS)).toMatch(/SECRET/);
     localStorage.clear();
+    _resetSecret();
     applyBackup(parseBackup(JSON.stringify(withS)), { mode: 'merge', includeSecrets: false });
+    await flushToken();
     expect(localStorage.getItem(TOKEN_KEY)).toBeNull();
     applyBackup(parseBackup(JSON.stringify(withS)), { mode: 'merge', includeSecrets: true });
-    expect(localStorage.getItem(TOKEN_KEY)).toMatch(/SECRET/);
+    await flushToken();
+    // the imported plaintext token goes through setToken: encrypted at rest, readable in memory
+    expect(peekToken()).toBe('github_pat_SECRET');
+    expect(localStorage.getItem(TOKEN_KEY)).not.toMatch(/SECRET/);
+    expect(JSON.parse(localStorage.getItem(TOKEN_KEY) as string).v).toBe(1);
   });
 
   it('rejects files that are not backups', () => {

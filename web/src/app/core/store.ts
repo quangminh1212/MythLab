@@ -1,7 +1,8 @@
 /**
  * Persistence primitives. Names and shapes are frozen (users keep their data across the rewrite):
  *  - localStorage keys `mythlab.*`, values JSON-encoded (a token is stored with quotes);
- *  - IndexedDB database `mythlab`, version 1, object stores `trees`, `blobs`, `meta` (out-of-line keys).
+ *  - IndexedDB database `mythlab`, version 2, object stores `trees`, `blobs`, `meta` (out-of-line keys) and, since
+ *    version 2, `secrets` (the non-extractable encryption key of core/secret.ts; never emptied by `idb.clear()`).
  * Both fall back to memory when the browser blocks storage, so the app still works for the session.
  */
 
@@ -67,6 +68,9 @@ export const store = {
 
 export type IdbStore = 'trees' | 'blobs' | 'meta';
 const STORES: IdbStore[] = ['trees', 'blobs', 'meta'];
+/** Object stores that exist in the database; `secrets` is deliberately not part of the cache stores above. */
+const ALL_STORES = [...STORES, 'secrets'] as const;
+const DB_VERSION = 2;
 const CAP: Record<IdbStore, number> = { trees: 400, blobs: 300, meta: 5000 };
 const ram: Record<IdbStore, Map<string, unknown>> = { trees: new Map(), blobs: new Map(), meta: new Map() };
 
@@ -76,9 +80,10 @@ function db(): Promise<IDBDatabase | null> {
   dbp = new Promise((resolve) => {
     try {
       if (typeof indexedDB === 'undefined') return resolve(null);
-      const req = indexedDB.open('mythlab', 1);
+      const req = indexedDB.open('mythlab', DB_VERSION);
       req.onupgradeneeded = () => {
-        for (const s of STORES) if (!req.result.objectStoreNames.contains(s)) req.result.createObjectStore(s);
+        // v1 -> v2 only adds `secrets`; existing stores and their data are kept
+        for (const s of ALL_STORES) if (!req.result.objectStoreNames.contains(s)) req.result.createObjectStore(s);
       };
       req.onsuccess = () => {
         const d = req.result;
@@ -98,7 +103,7 @@ function db(): Promise<IDBDatabase | null> {
   return dbp;
 }
 
-function tx<T>(name: IdbStore, mode: IDBTransactionMode, fn: (s: IDBObjectStore) => IDBRequest<T> | void): Promise<T | undefined> {
+function tx<T>(name: IdbStore | 'secrets', mode: IDBTransactionMode, fn: (s: IDBObjectStore) => IDBRequest<T> | void): Promise<T | undefined> {
   return db().then(
     (d) =>
       new Promise<T | undefined>((resolve) => {
@@ -147,6 +152,17 @@ export const idb = {
     for (const s of STORES) ram[s].clear();
     if (!(await db())) return;
     for (const s of STORES) await tx(s, 'readwrite', (o) => o.clear());
+  },
+  /** Persistent-only access to the `secrets` store (no memory fallback: a key that cannot survive a reload is useless). */
+  async secretGet<T = unknown>(key: string): Promise<T | undefined> {
+    return tx<T>('secrets', 'readonly', (s) => s.get(key) as IDBRequest<T>);
+  },
+  /** Stores `val` only when `key` is free; true when it was written (false: already there, or no database). */
+  async secretAdd(key: string, val: unknown): Promise<boolean> {
+    return (await tx('secrets', 'readwrite', (s) => s.add(val, key))) !== undefined;
+  },
+  async secretDel(key: string): Promise<void> {
+    await tx('secrets', 'readwrite', (s) => s.delete(key));
   },
   /** Test hook: forget the cached connection and the memory fallback. */
   _reset(): void {
