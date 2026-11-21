@@ -48,7 +48,11 @@ describe('native offline reading', () => {
   });
 
   const silent = (): void =>
-    void vi.stubGlobal('fetch', (_u: string, init?: RequestInit) => new Promise<Response>((_res, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('x', 'AbortError')))));
+    void vi.stubGlobal('fetch', (_u: string, init?: RequestInit) => new Promise<Response>((_res, rej) => {
+      const fail = (): void => rej(new DOMException('x', 'AbortError'));
+      if (init?.signal?.aborted) fail();
+      else init?.signal?.addEventListener('abort', fail);
+    }));
   const saveStory = async (base: string, key: string): Promise<void> => {
     const k = identUrl(scopeOf(location.href) + '__native/api/story?source=local0&key=story', await fingerprint(base, key));
     await (await caches.open(CACHE.api)).put(k, new Response(JSON.stringify({ title: 'saved' })));
@@ -84,6 +88,24 @@ describe('native offline reading', () => {
     expect(delays).not.toContain(8_000);
   });
 
+  it('turns a timeout into a non-abort error so the reader shows an error instead of a spinner', async () => {
+    instantTimers();
+    vi.stubGlobal('fetch', (_u: string, init?: RequestInit) => new Promise<Response>((_, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('Aborted', 'AbortError')))));
+    const err = await createServerBackend('http://192.168.1.113:18980', 'k').get('/chapter?source=local0&key=story&file=zz.txt', { timeout: 60_000 }).catch((e) => e);
+    expect(err).toBeInstanceOf(Error);
+    expect((err as Error).name).not.toBe('AbortError');
+  });
+
+  it('keeps AbortError when the caller aborts', async () => {
+    const real = globalThis.setTimeout;
+    const ctl = new AbortController();
+    vi.stubGlobal('fetch', (_u: string, init?: RequestInit) => new Promise<Response>((_, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('Aborted', 'AbortError')))));
+    const p = createServerBackend('http://h:1', 'k').get('/story?source=a&key=b', { timeout: 60_000, signal: ctl.signal }).catch((e) => e);
+    await new Promise((r) => real(r, 20));
+    ctl.abort();
+    expect(((await p) as Error).name).toBe('AbortError');
+  });
+
   it('does not read the device first outside the native app', async () => {
     native.on = false;
     const fetchMock = vi.fn(async () => new Response(JSON.stringify({ file: 'c1.txt', text: 'live' })));
@@ -93,5 +115,38 @@ describe('native offline reading', () => {
     const r = await b.get<{ text: string }>('/chapter?source=local0&key=story&file=c1.txt');
     expect(r.text).toBe('live');
     expect(fetchMock).toHaveBeenCalled();
+  });
+
+  it('does not serve a saved copy when the server answers with an error', async () => {
+    const base = 'http://h:1';
+    await saveStory(base, 'k');
+    vi.stubGlobal('fetch', async () => new Response(JSON.stringify({ error: 'not found' }), { status: 404 }));
+    await expect(createServerBackend(base, 'k').get('/story?source=local0&key=story')).rejects.toMatchObject({ status: 404 });
+  });
+
+  it('does not serve a saved copy when the caller aborts', async () => {
+    const base = 'http://h:1';
+    await saveStory(base, 'k');
+    silent();
+    const ctl = new AbortController();
+    const p = createServerBackend(base, 'k').get('/story?source=local0&key=story', { signal: ctl.signal });
+    ctl.abort();
+    await expect(p).rejects.toBeTruthy();
+  });
+
+  it('never serves a copy saved for another key', async () => {
+    await saveStory('http://h:1', 'old');
+    vi.stubGlobal('fetch', async () => Promise.reject(new TypeError('offline')));
+    await expect(createServerBackend('http://h:1', 'new').get('/story?source=local0&key=story')).rejects.toBeTruthy();
+  });
+
+  it('serves the saved copy when the network fails, and remembers live answers', async () => {
+    const base = 'http://h:1';
+    vi.stubGlobal('fetch', async () => new Response(JSON.stringify({ title: 'live' })));
+    const b = createServerBackend(base, 'k');
+    expect((await b.get<{ title: string }>('/story?source=local0&key=story')).title).toBe('live');
+    await new Promise((r) => setTimeout(r, 20));
+    vi.stubGlobal('fetch', async () => Promise.reject(new TypeError('offline')));
+    expect((await b.get<{ title: string }>('/story?source=local0&key=story')).title).toBe('live');
   });
 });

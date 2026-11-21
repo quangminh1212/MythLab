@@ -21,6 +21,12 @@ describe('data cache', () => {
     expect(get).toHaveBeenCalledTimes(2);
   });
 
+  it('gives a chapter at most 20 s before the error screen', async () => {
+    get.mockResolvedValue({ file: 'a', text: 'x' });
+    await data.chapter('s', 'k', 'a.txt');
+    expect(get.mock.calls[0][1].timeout).toBeLessThanOrEqual(20_000);
+  });
+
   it('does not cache a failed request', async () => {
     get.mockRejectedValueOnce(new Error('boom')).mockResolvedValueOnce({ sources: [] });
     await expect(data.sources()).rejects.toThrow('boom');
