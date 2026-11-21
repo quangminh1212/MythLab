@@ -1,5 +1,14 @@
 apply plugin: 'com.android.application'
 
+// Single source of truth for the app version: apps/android/package.json ("version": "MAJOR.MINOR.PATCH").
+// versionCode = MAJOR*10000 + MINOR*100 + PATCH (1.0.0 -> 10000); each part must stay below 100.
+def appVersionName = new groovy.json.JsonSlurper().parse(file('../../package.json')).version
+def appVersionParts = appVersionName.tokenize('.').collect { it.toInteger() }
+if (appVersionParts.size() != 3 || appVersionParts.any { it < 0 || it > 99 }) {
+    throw new GradleException("package.json version must be MAJOR.MINOR.PATCH with each part 0..99, got '${appVersionName}'")
+}
+def appVersionCode = appVersionParts[0] * 10000 + appVersionParts[1] * 100 + appVersionParts[2]
+
 android {
     namespace = "io.github.mythlab.reader"
     compileSdk = rootProject.ext.compileSdkVersion
@@ -7,8 +16,8 @@ android {
         applicationId "io.github.mythlab.reader"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode appVersionCode
+        versionName appVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
@@ -16,9 +25,24 @@ android {
             ignoreAssetsPattern = '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    // Release signing reads MYTHLAB_* environment variables (set by the caller); nothing secret goes on the command line.
+    signingConfigs {
+        release {
+            if (System.getenv('MYTHLAB_KEYSTORE')) {
+                storeFile file(System.getenv('MYTHLAB_KEYSTORE'))
+                storePassword System.getenv('MYTHLAB_KEYSTORE_PASS')
+                keyAlias System.getenv('MYTHLAB_KEY_ALIAS')
+                keyPassword System.getenv('MYTHLAB_KEY_PASS')
+            }
+        }
+    }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
+            shrinkResources true
+            if (System.getenv('MYTHLAB_KEYSTORE')) {
+                signingConfig signingConfigs.release
+            }
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
@@ -43,12 +67,3 @@ dependencies {
 }
 
 apply from: 'capacitor.build.gradle'
-
-try {
-    def servicesJSON = file('google-services.json')
-    if (servicesJSON.text) {
-        apply plugin: 'com.google.gms.google-services'
-    }
-} catch(Exception e) {
-    logger.info("google-services.json not found, google-services plugin not applied. Push Notifications won't work")
-}

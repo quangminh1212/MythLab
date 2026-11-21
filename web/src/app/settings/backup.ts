@@ -55,11 +55,11 @@ const strOrNull = (v: unknown): string | null => (str(v) ? v : null);
 
 /** Known settings validated one by one; migration markers and unknown primitive keys are kept as they are. */
 export function cleanSettings(raw: unknown): Record<string, unknown> {
-  const out: Record<string, unknown> = {};
+  const out: Record<string, unknown> = Object.create(null) as Record<string, unknown>;
   if (!isObj(raw)) return out;
   const def = defaults();
   for (const [k, v] of Object.entries(raw)) {
-    if (k in def) out[k] = normalise(k as SettingKey, v);
+    if (Object.hasOwn(def, k)) out[k] = normalise(k as SettingKey, v);
     else if (/^[a-zA-Z][\w-]{0,40}$/.test(k) && (typeof v === 'number' || typeof v === 'boolean' || (str(v) && v.length <= 200))) out[k] = v;
   }
   return out;
@@ -130,7 +130,7 @@ function cleanSecrets(v: unknown): BackupSecrets | undefined {
 }
 
 function progressMap(raw: unknown): Record<string, Progress> {
-  const out: Record<string, Progress> = {};
+  const out: Record<string, Progress> = Object.create(null) as Record<string, Progress>;
   if (!isObj(raw)) return out;
   for (const v of Object.values(raw)) {
     const p = cleanProgress(v);
@@ -220,20 +220,26 @@ function mergeBy<T extends { ts: number }>(a: T[], b: T[], id: (x: T) => string,
   return [...by.values()].sort((x, y) => y.ts - x.ts).slice(0, max);
 }
 
+/** Keeps the MAX_ENTRIES most recent progress entries (mutates and returns `prog`). */
+function capProgress(prog: Record<string, Progress>): Record<string, Progress> {
+  const keys = Object.keys(prog);
+  if (keys.length > MAX_ENTRIES) {
+    keys.sort((x, y) => (prog[y] as Progress).ts - (prog[x] as Progress).ts);
+    for (const k of keys.slice(MAX_ENTRIES)) delete prog[k];
+  }
+  return prog;
+}
+
 /** What the stored data becomes after importing `b` (pure: nothing is written). */
 export function mergeBackup(current: Backup, b: Backup, mode: 'merge' | 'replace' = 'merge'): Pick<Backup, 'settings' | 'progress' | 'bookmarks' | 'follows' | 'localFonts'> {
-  if (mode === 'replace') return { settings: b.settings, progress: b.progress, bookmarks: b.bookmarks.slice(0, MAX_BOOKMARKS), follows: b.follows.slice(0, MAX_FOLLOWS), localFonts: b.localFonts };
+  if (mode === 'replace') return { settings: b.settings, progress: capProgress({ ...b.progress }), bookmarks: b.bookmarks.slice(0, MAX_BOOKMARKS), follows: b.follows.slice(0, MAX_FOLLOWS), localFonts: b.localFonts };
   // progress: per story, the more recent position wins
   const prog: Record<string, Progress> = { ...current.progress };
   for (const [k, p] of Object.entries(b.progress)) {
     const mine = prog[k];
     if (!mine || p.ts > mine.ts) prog[k] = p;
   }
-  const keys = Object.keys(prog);
-  if (keys.length > MAX_ENTRIES) {
-    keys.sort((x, y) => (prog[y] as Progress).ts - (prog[x] as Progress).ts);
-    for (const k of keys.slice(MAX_ENTRIES)) delete prog[k];
-  }
+  capProgress(prog);
   return {
     // settings of the file replace the same keys here; keys the file does not have stay
     settings: { ...current.settings, ...b.settings },
@@ -253,15 +259,33 @@ function announce(key: string): void {
   }
 }
 
+/** The stored value of a key, or undefined when absent (so a rollback can delete what it created). */
+const rawGet = (key: string): unknown => store.get<unknown>(key, undefined);
+function rawRestore(key: string, v: unknown): void {
+  if (v === undefined) store.del(key);
+  else store.set(key, v);
+}
+
 /** Writes a parsed backup to storage and refreshes the running app. */
 export function applyBackup(b: Backup, o: ImportOptions = {}): ImportResult {
   const next = mergeBackup(buildBackup(), b, o.mode || 'merge');
   const stored = isObj(store.get<unknown>(SETTINGS_KEY, {})) ? store.get<Record<string, unknown>>(SETTINGS_KEY, {}) : {};
   // migration markers of this device stay: imported values were already migrated by the device that wrote them
   const settingsOut = o.mode === 'replace' ? { ...next.settings, ui2: stored.ui2 ?? 1, ui3: stored.ui3 ?? 1 } : { ...stored, ...next.settings };
-  const ok =
-    store.set(SETTINGS_KEY, settingsOut) && store.set(PROGRESS_KEY, next.progress) && store.set(BOOKMARKS_KEY, next.bookmarks) && store.set(FOLLOWS_KEY, next.follows) && store.set(LOCAL_FONTS_KEY, next.localFonts);
-  if (!ok) throw new BackupError('Không ghi được dữ liệu (bộ nhớ trình duyệt đầy hoặc bị chặn).');
+  const writes: [string, unknown][] = [
+    [SETTINGS_KEY, settingsOut],
+    [PROGRESS_KEY, next.progress],
+    [BOOKMARKS_KEY, next.bookmarks],
+    [FOLLOWS_KEY, next.follows],
+    [LOCAL_FONTS_KEY, next.localFonts],
+  ];
+  // snapshot the raw previous values so a failed write can be rolled back (all or nothing)
+  const before = writes.map(([k]) => [k, rawGet(k)] as const);
+  if (!writes.every(([k, v]) => store.set(k, v))) {
+    for (const [k, raw] of before) rawRestore(k, raw);
+    for (const [k] of before) announce(k);
+    throw new BackupError('Không ghi được dữ liệu (bộ nhớ trình duyệt đầy hoặc bị chặn). Dữ liệu cũ được giữ nguyên.');
+  }
   let secrets = false;
   if (o.includeSecrets && b.secrets) {
     if (b.secrets.server) secrets = store.set(SERVER_KEY, b.secrets.server) || secrets;
@@ -269,5 +293,5 @@ export function applyBackup(b: Backup, o: ImportOptions = {}): ImportResult {
     if (b.secrets.ghSource) store.set(GH_SOURCE_KEY, b.secrets.ghSource);
   }
   for (const k of [SETTINGS_KEY, PROGRESS_KEY, BOOKMARKS_KEY, FOLLOWS_KEY]) announce(k);
-  return { settings: Object.keys(b.settings).filter((k) => k in defaults()).length, progress: Object.keys(b.progress).length, bookmarks: b.bookmarks.length, follows: b.follows.length, secrets };
+  return { settings: Object.keys(b.settings).filter((k) => Object.hasOwn(defaults(), k)).length, progress: Object.keys(b.progress).length, bookmarks: b.bookmarks.length, follows: b.follows.length, secrets };
 }

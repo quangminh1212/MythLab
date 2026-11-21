@@ -222,6 +222,23 @@ func TestAuth(t *testing.T) {
 	if got := MaskKey("/?k=" + testKey); got != "/?k=***" {
 		t.Fatalf("MaskKey: %s", got)
 	}
+	// an encoded parameter name is accepted by lastQuery, so it must be masked too
+	for in, want := range map[string]string{
+		"/api/ping?%6b=" + testKey:                "/api/ping?%6b=***",
+		"/api/ping?k=bad&%6B=" + testKey + "&x=1": "/api/ping?k=***&%6B=***&x=1",
+		"/api/ping?kk=1&x=k=2":                    "/api/ping?kk=1&x=k=2",
+		"/plain":                                  "/plain",
+	} {
+		if got := MaskKey(in); got != want {
+			t.Fatalf("MaskKey(%q) = %q, want %q", in, got, want)
+		}
+	}
+	f.lan("/api/ping?%6b=" + testKey)
+	for _, l := range *f.logs {
+		if strings.Contains(l, testKey) {
+			t.Fatalf("key in log: %s", l)
+		}
+	}
 }
 
 func TestHostCheck(t *testing.T) {
@@ -315,6 +332,21 @@ func TestStatic(t *testing.T) {
 	if w.Code != 200 || !strings.Contains(w.Body.String(), "MythLab") || w.Header().Get("Cache-Control") != "no-cache" ||
 		w.Header().Get("Content-Type") != "text/html; charset=utf-8" || w.Header().Get("X-Content-Type-Options") != "nosniff" {
 		t.Fatalf("index: %d %v", w.Code, w.Header())
+	}
+	csp := w.Header().Get("Content-Security-Policy")
+	for _, want := range []string{"default-src 'self'", "script-src 'self'", "frame-ancestors 'none'", "object-src 'none'", "https://api.github.com"} {
+		if !strings.Contains(csp, want) {
+			t.Fatalf("CSP lacks %q: %s", want, csp)
+		}
+	}
+	if strings.Contains(csp, "unsafe-") || w.Header().Get("X-Frame-Options") != "DENY" || w.Header().Get("Referrer-Policy") != "no-referrer" {
+		t.Fatalf("headers: %v", w.Header())
+	}
+	if f.do("/missing").Header().Get("Content-Security-Policy") == "" {
+		t.Fatal("404 pages need the CSP too")
+	}
+	if f.do("/api/ping").Header().Get("Content-Security-Policy") != "" {
+		t.Fatal("API responses carry no CSP")
 	}
 	etag := w.Header().Get("ETag")
 	if etag == "" {

@@ -107,6 +107,15 @@ func TestStories(t *testing.T) {
 	if got := names(t, m); got != "Truyện D" || m["total"] != float64(3) {
 		t.Fatalf("offset: %s", got)
 	}
+	// huge limit/offset must not overflow the slice bounds
+	for _, q := range []string{"limit=9223372036854775807&offset=1", "limit=9223372036854775807&offset=9223372036854775807", "limit=1&offset=9223372036854775807"} {
+		if w := f.do("/api/stories?source=local0&" + q); w.Code != 200 {
+			t.Fatalf("%s: status %d", q, w.Code)
+		}
+	}
+	if got := names(t, decode(t, f.do("/api/stories?source=local0&limit=9223372036854775807&offset=1"))); got != "Cổ Tích|Truyện D" {
+		t.Fatalf("huge limit: %s", got)
+	}
 	if got := names(t, decode(t, f.do("/api/stories?source=local0&limit=5&offset=99"))); got != "" {
 		t.Fatalf("offset past the end: %s", got)
 	}

@@ -22,6 +22,8 @@ let map: ProgressMap = {};
 const dirty = new Map<string, boolean>();
 let loaded = false;
 let bound = false;
+/** True after the "storage full" toast was shown, until a write succeeds again. */
+let warned = false;
 
 function valid(p: unknown): p is Progress {
   const x = p as Progress | null;
@@ -30,7 +32,7 @@ function valid(p: unknown): p is Progress {
 
 function readStored(): ProgressMap {
   const raw = store.get<unknown>(PROGRESS_KEY, {});
-  const out: ProgressMap = {};
+  const out: ProgressMap = Object.create(null) as ProgressMap;
   if (raw && typeof raw === 'object' && !Array.isArray(raw)) {
     for (const [k, v] of Object.entries(raw as Record<string, unknown>)) if (valid(v)) out[k] = v;
   }
@@ -62,9 +64,19 @@ export function flush(): boolean {
     keys.sort((a, b) => ((stored[b] as Progress).ts || 0) - ((stored[a] as Progress).ts || 0));
     for (const k of keys.slice(MAX_ENTRIES)) delete stored[k];
   }
-  dirty.clear();
   map = stored;
-  return store.set(PROGRESS_KEY, stored);
+  if (store.set(PROGRESS_KEY, stored)) {
+    dirty.clear();
+    warned = false;
+    return true;
+  }
+  // storage refused the write: keep the entries dirty so the next flush retries, and tell the user once
+  if (!warned) {
+    warned = true;
+    emit('toast', { message: 'Không lưu được tiến độ đọc: bộ nhớ trình duyệt đã đầy hoặc bị chặn.', kind: 'error' });
+  }
+  save();
+  return false;
 }
 
 const save = debounce(() => void flush(), 600);
@@ -199,6 +211,7 @@ export function _reset(): void {
   dirty.clear();
   map = {};
   loaded = false;
+  warned = false;
 }
 
 export const progress = { init, get, all, update, saveReading, remove, clear, flush, resolveIdx, percent, storyMeta, _reset };

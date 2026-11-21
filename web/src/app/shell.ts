@@ -9,7 +9,7 @@ import { fmtNum, matchTokens, normKey, repoLabel, tokens } from './core/format';
 import { $, $$, html, render, type SafeHtml } from './core/html';
 import { icon } from './core/icons';
 import { currentRoute, href, navigate } from './core/router';
-import { closeAllDialogs, toast, trapFocus } from './core/ui';
+import { announce, closeAllDialogs, toast, trapFocus } from './core/ui';
 
 // ---------------------------------------------------------------- breadcrumbs
 
@@ -281,6 +281,24 @@ function bindSearch(): void {
   });
 }
 
+// ---------------------------------------------------------------- route change focus
+
+/**
+ * After a route change keep keyboard / screen-reader users oriented (WCAG 2.4.3, 4.1.3): focus the main landmark
+ * (without scrolling) and announce the page title once the view has had a moment to set it. The reader manages its
+ * own focus, and a user who is typing in a field (e.g. the search box) keeps it.
+ */
+export function moveFocusToView(view: string): void {
+  if (view === 'read') return;
+  setTimeout(() => {
+    const a = document.activeElement;
+    if (a && /^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName)) return;
+    if (a && a.closest('[role="dialog"]')) return;
+    $('#view')?.focus({ preventScroll: true });
+    announce(document.title);
+  }, 150);
+}
+
 // ---------------------------------------------------------------- init
 
 let started = false;
@@ -314,10 +332,13 @@ export function init(): void {
 
   bindSearch();
 
+  let firstRoute = true;
   on('route', (r) => {
     closeDrawer();
     closeAllDialogs();
     markCurrent(r);
+    if (!firstRoute) moveFocusToView(r.view);
+    firstRoute = false;
     // crumbs belong to the view that set them: a view without crumbs gets none
     if (r.view === 'home' || r.view === 'read') setCrumbs([]);
     for (const d of $$<HTMLDetailsElement>('details.nav-repos')) {

@@ -144,6 +144,18 @@
     padding-right: max(4px, env(safe-area-inset-right));
   }
 
+  /* large text: the brand gives way (ellipsis) so search and Settings stay on screen */
+  .brand {
+    flex: 0 1 auto;
+    min-width: 0;
+  }
+
+  .brand-name {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   .search,
   .topbar-wide {
     display: none;

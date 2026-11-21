@@ -16,6 +16,7 @@ import (
 	"strings"
 	"sync/atomic"
 	"testing"
+	"time"
 )
 
 func TestIsPublicIP(t *testing.T) {
@@ -167,6 +168,33 @@ func TestSSRFBlocked(t *testing.T) {
 	}
 	if _, _, err := s.Poster(context.Background(), "http://localhost:"+strings.Split(srv.URL, ":")[2]+"/x.jpg", false); !errors.Is(err, ErrNoCover) {
 		t.Fatalf("localhost poster must be refused, got %v", err)
+	}
+}
+
+func TestPrune(t *testing.T) {
+	dir := t.TempDir()
+	s := New(Options{Dir: dir})
+	now := time.Now()
+	put := func(name string, size int, age time.Duration) string {
+		p := filepath.Join(dir, name)
+		if err := os.MkdirAll(filepath.Dir(p), 0o755); err != nil {
+			t.Fatal(err)
+		}
+		if err := os.WriteFile(p, make([]byte, size), 0o644); err != nil {
+			t.Fatal(err)
+		}
+		os.Chtimes(p, now.Add(-age), now.Add(-age))
+		return p
+	}
+	stale := put("stale.jpg", 10, 48*time.Hour)
+	a := put("r/a.jpg", 100, 5*time.Hour)
+	b := put("b.jpg", 100, 4*time.Hour)
+	c := put("c.jpg", 100, 3*time.Hour)
+	fresh := put("fresh.tmp", 1000, 0)
+	s.Prune(250, 24*time.Hour)
+	gone := func(p string) bool { _, err := os.Stat(p); return err != nil }
+	if !gone(stale) || !gone(a) || gone(b) || gone(c) || gone(fresh) {
+		t.Fatalf("prune: stale=%v a=%v b=%v c=%v fresh=%v", gone(stale), gone(a), gone(b), gone(c), gone(fresh))
 	}
 }
 

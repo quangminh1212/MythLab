@@ -10,7 +10,6 @@ import (
 	"io/fs"
 	"net/http"
 	"net/url"
-	"regexp"
 	"runtime/debug"
 	"strconv"
 	"strings"
@@ -97,10 +96,42 @@ func (w *statusWriter) Flush() {
 	}
 }
 
-var keyInLog = regexp.MustCompile(`([?&]k=)[^&\s]+`)
+// MaskKey hides the access key in a request URI for logging. Parameter names
+// are percent-decoded first (lastQuery accepts "%6b" as "k"), so every spelling
+// of the name is redacted.
+func MaskKey(uri string) string {
+	i := strings.IndexByte(uri, '?')
+	if i < 0 {
+		return uri
+	}
+	query, frag := uri[i+1:], ""
+	if j := strings.IndexByte(query, '#'); j >= 0 {
+		query, frag = query[:j], query[j:]
+	}
+	parts := strings.Split(query, "&")
+	for n, part := range parts {
+		name, _, found := strings.Cut(part, "=")
+		if !found {
+			continue
+		}
+		if d, err := url.QueryUnescape(name); err == nil {
+			name = d
+		}
+		if name == "k" {
+			parts[n] = part[:strings.IndexByte(part, '=')+1] + "***"
+		}
+	}
+	return uri[:i+1] + strings.Join(parts, "&") + frag
+}
 
-// MaskKey hides the access key in a request URI for logging.
-func MaskKey(uri string) string { return keyInLog.ReplaceAllString(uri, "${1}***") }
+// webCSP is sent with every non-API response. The UI has no inline scripts or
+// styles and loads fonts and icons from its own origin. connect-src, img-src
+// and media-src stay open to http(s) because the user chooses the API server
+// (LAN or remote), GitHub (api.github.com) and the poster hosts at runtime.
+const webCSP = "default-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; " +
+	"img-src 'self' data: blob: http: https:; media-src 'self' blob: http: https:; " +
+	"connect-src 'self' https://api.github.com http: https:; worker-src 'self'; manifest-src 'self'; " +
+	"object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
 
 func (s *Server) ServeHTTP(rw http.ResponseWriter, r *http.Request) {
 	w := &statusWriter{ResponseWriter: rw, status: http.StatusOK}
@@ -122,6 +153,10 @@ func (s *Server) ServeHTTP(rw http.ResponseWriter, r *http.Request) {
 	h.Set("X-Content-Type-Options", "nosniff")
 	h.Set("Referrer-Policy", "no-referrer")
 	isAPI := strings.HasPrefix(r.URL.Path, "/api/")
+	if !isAPI {
+		h.Set("Content-Security-Policy", webCSP)
+		h.Set("X-Frame-Options", "DENY")
+	}
 	if !s.hostOK(r.Host) {
 		if isAPI {
 			s.writeErr(w, r, http.StatusForbidden, "bad_host", "Host không được phép")

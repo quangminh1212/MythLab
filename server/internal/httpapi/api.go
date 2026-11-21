@@ -90,6 +90,9 @@ func need(q map[string]string, name string) (string, error) {
 }
 
 // intParam parses an optional integer parameter.
+// maxStoriesLimit caps the page size of /api/stories.
+const maxStoriesLimit = 5000
+
 func intParam(q map[string]string, name string, def int) (int, error) {
 	v := strings.TrimSpace(q[name])
 	if v == "" {
@@ -251,6 +254,9 @@ func (s *Server) apiStories(w http.ResponseWriter, r *http.Request, q map[string
 	if offset < 0 || limit < 0 {
 		return library.ErrBadParam("limit")
 	}
+	if limit > maxStoriesLimit {
+		limit = maxStoriesLimit
+	}
 	sortBy := q["sort"]
 	switch sortBy {
 	case "", "name", "chapters", "updated":
@@ -318,7 +324,7 @@ func (s *Server) apiStories(w http.ResponseWriter, r *http.Request, q map[string
 			offset = total
 		}
 		end := total
-		if limit > 0 && offset+limit < end {
+		if limit > 0 && limit < end-offset { // no offset+limit: it could overflow
 			end = offset + limit
 		}
 		items = items[offset:end]

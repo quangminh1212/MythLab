@@ -24,7 +24,7 @@ import (
 var Widths = map[int]bool{160: true, 240: true, 320: true, 480: true}
 
 const (
-	maxPixels   = 40 << 20 // decoded size guard
+	maxPixels   = 16 << 20 // decoded size guard (about 64 MB as RGBA)
 	jpegQuality = 82
 )
 

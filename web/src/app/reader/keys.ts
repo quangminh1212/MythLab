@@ -9,3 +9,12 @@ export function typingTarget(e: KeyboardEvent): boolean {
 
 /** The key of an event with letters lower-cased, so shortcuts work with Caps Lock and Shift. */
 export const keyOf = (e: KeyboardEvent): string => (e.key.length === 1 ? e.key.toLowerCase() : e.key);
+
+/**
+ * True when a bare key may trigger a reader shortcut: the user has not switched single-key shortcuts off, and no
+ * modifier is held. Arrow / page keys are navigation and always allowed; `singleKey` marks letters, Space, ?, +/-.
+ */
+export function shortcutAllowed(e: KeyboardEvent, enabled: boolean, singleKey: boolean): boolean {
+  if (e.ctrlKey || e.metaKey || e.altKey) return false;
+  return !singleKey || enabled;
+}

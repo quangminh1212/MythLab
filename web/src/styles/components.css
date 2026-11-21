@@ -654,6 +654,7 @@ html.has-overlay {
   align-items: center;
   justify-content: center;
   padding: 16px;
+  overflow-y: auto;
 }
 
 .overlay-scrim {
@@ -694,6 +695,12 @@ html.has-overlay {
   gap: 8px;
   padding: 8px 8px 8px 20px;
   border-bottom: 1px solid var(--border);
+  flex: none;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--surface);
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
 }
 
 .dialog-title {
@@ -722,6 +729,7 @@ html.has-overlay {
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 8px;
+  flex: none;
   padding: 12px 20px calc(12px + env(safe-area-inset-bottom));
   border-top: 1px solid var(--border);
 }
@@ -819,6 +827,10 @@ html.has-overlay {
 
 .toast-ok {
   border-left: 4px solid var(--accent);
+}
+
+.toast:has(.toast-act):focus-within {
+  outline: 2px solid var(--accent);
 }
 
 .toast-act {

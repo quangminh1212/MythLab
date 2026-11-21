@@ -228,3 +228,25 @@ func TestRequestQuitWithoutInstance(t *testing.T) {
 		t.Fatalf("--quit with nothing running returned %d", code)
 	}
 }
+
+func TestExternalTarget(t *testing.T) {
+	const app = "http://127.0.0.1:18765/"
+	cases := map[string]bool{
+		"https://github.com/x/y":         true,
+		"http://example.com/":            true,
+		"http://127.0.0.1:18765/#/story": false,
+		"http://127.0.0.1:9999/":         true,
+		"http://localhost:18765/":        true,
+		"file:///C:/Windows/win.ini":     false,
+		"javascript:alert(1)":            false,
+		"mailto:a@b.c":                   false,
+		"ms-msdt:/id":                    false,
+		"":                               false,
+		"//evil.example/":                false,
+	}
+	for in, want := range cases {
+		if got := externalTarget(in, app); got != want {
+			t.Errorf("externalTarget(%q) = %v, want %v", in, got, want)
+		}
+	}
+}

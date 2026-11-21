@@ -91,6 +91,11 @@ func mustJSON(v any) []byte {
 
 func TestDiscover(t *testing.T) {
 	root := t.TempDir()
+	// hermetic: never see the developer's real per-user config
+	t.Setenv("APPDATA", filepath.Join(root, "appdata"))
+	t.Setenv("LOCALAPPDATA", filepath.Join(root, "localappdata"))
+	t.Setenv("XDG_CONFIG_HOME", filepath.Join(root, "xdgcfg"))
+	t.Setenv("XDG_CACHE_HOME", filepath.Join(root, "xdgcache"))
 	userCfg, userCache := userDirs()
 
 	// nothing anywhere: the per-user location, first run
@@ -121,6 +126,20 @@ func TestDiscover(t *testing.T) {
 	if p.Config != filepath.Join(root, "bin", "config.json") || p.Cache != userCache {
 		t.Fatalf("exe dir: %+v", p)
 	}
+
+	// repository mode also works from the executable's checkout when the cwd is elsewhere
+	p, _ = discover("", "", filepath.Join(repo, "apps", "desktop", "dist"), empty)
+	if p.Config != filepath.Join(repo, "reader", "config.json") {
+		t.Fatalf("repo next to exe: %+v", p)
+	}
+
+	// per-user config beats the working directory's checkout
+	write(t, filepath.Join(userCfg, "config.json"), "{}")
+	p, _ = discover("", "", filepath.Join(root, "nobin"), deep)
+	if p.Config != filepath.Join(userCfg, "config.json") || p.Cache != userCache || p.FirstRun {
+		t.Fatalf("user config before cwd: %+v", p)
+	}
+	os.Remove(filepath.Join(userCfg, "config.json"))
 
 	// explicit flags win over everything
 	other := filepath.Join(root, "other", "my.json")

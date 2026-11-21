@@ -1,4 +1,4 @@
-# Dựng giao diện web (Astro) -> web\dist. Một nguồn duy nhất cho mọi script build (desktop, Android, tools\build.ps1).
+﻿# Dựng giao diện web (Astro) -> web\dist. Một nguồn duy nhất cho mọi script build (desktop, Android).
 #   powershell -ExecutionPolicy Bypass -File tools\build-web.ps1 [-Force] [-Embed]
 #   -Force   dựng lại dù web\dist còn mới hơn mã nguồn
 #   -Embed   dựng xong thì chép luôn vào server\internal\webui\dist (go run ./tools/embedui)

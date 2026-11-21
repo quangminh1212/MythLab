@@ -2,7 +2,10 @@
   "name": "mythlab-web",
   "private": true,
   "type": "module",
-  "version": "2.0.0",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "astro dev --port 4321",
     "build": "astro build",

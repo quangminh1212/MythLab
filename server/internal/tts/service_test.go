@@ -209,13 +209,27 @@ func TestEviction(t *testing.T) {
 	if _, err := s.Speak(context.Background(), "trigger", "", 0, 0); err != nil {
 		t.Fatal(err)
 	}
-	deadline := time.Now().Add(3 * time.Second)
-	for time.Now().Before(deadline) {
-		if _, err := os.Stat(paths[0]); err != nil {
-			break
+	// Passes may overlap the Speak calls above and see a half-written cache, so
+	// wait until idle, then force one more full pass and wait for it as well.
+	idle := func() {
+		deadline := time.Now().Add(5 * time.Second)
+		for time.Now().Before(deadline) {
+			s.mu.Lock()
+			done := !s.evicting
+			s.mu.Unlock()
+			if done {
+				return
+			}
+			time.Sleep(2 * time.Millisecond)
 		}
-		time.Sleep(10 * time.Millisecond)
+		t.Fatal("eviction did not finish")
 	}
+	idle()
+	s.mu.Lock()
+	s.total = -1 // unknown: the next added() rescans
+	s.mu.Unlock()
+	s.added(0)
+	idle()
 	if _, err := os.Stat(paths[0]); err == nil {
 		t.Fatal("the oldest file must be evicted")
 	}

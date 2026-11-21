@@ -212,14 +212,3 @@ func (c *ghClient) get(ctx context.Context, path string, raw bool, timeout time.
 	}
 	return body, next, nil
 }
-
-// upstreamStatus returns the GitHub HTTP status carried by err (0 when none).
-func upstreamStatus(err error) int {
-	if e, ok := AsError(err); ok && e.Code == "upstream" {
-		var n int
-		if _, err := fmt.Sscanf(e.Msg, "GitHub %d:", &n); err == nil {
-			return n
-		}
-	}
-	return 0
-}

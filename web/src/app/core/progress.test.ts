@@ -147,3 +147,21 @@ describe('library: history, bookmarks, follows', () => {
     expect(library.follows()).toEqual([]);
   });
 });
+
+describe('progress storage failure', () => {
+  it('keeps entries dirty, toasts once and retries on the next flush', () => {
+    const toasts: unknown[] = [];
+    const off = on('toast', (t) => toasts.push(t));
+    const spy = vi.spyOn(localStorage, 'setItem').mockImplementation(() => {
+      throw new DOMException('full', 'QuotaExceededError');
+    });
+    progress.saveReading(story('A'), 1, 0, 0, { now: true });
+    expect(progress.flush()).toBe(false);
+    expect(toasts).toHaveLength(1);
+    expect(progress.get('gh0', 'A')?.idx).toBe(1);
+    spy.mockRestore();
+    expect(progress.flush()).toBe(true);
+    expect(JSON.parse(localStorage.getItem('mythlab.progress') as string)['gh0|A'].idx).toBe(1);
+    off();
+  });
+});

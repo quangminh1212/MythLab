@@ -9,12 +9,14 @@ import (
 	"errors"
 	"fmt"
 	"io"
+	"io/fs"
 	"net"
 	"net/http"
 	"net/netip"
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 	"syscall"
 	"time"
@@ -118,6 +120,50 @@ func New(o Options) *Store {
 	}}
 	n := 4
 	return &Store{dir: o.Dir, logf: logf, hc: hc, sem: make(chan struct{}, n)}
+}
+
+// Prune bounds the cache directory: files not modified for maxAge are removed,
+// then the oldest files go until the total size is at most maxBytes. Zero
+// disables the matching limit. Temporary files being written are left alone
+// for a minute.
+func (s *Store) Prune(maxBytes int64, maxAge time.Duration) {
+	type entry struct {
+		path string
+		size int64
+		mod  time.Time
+	}
+	var files []entry
+	var total int64
+	now := time.Now()
+	filepath.WalkDir(s.dir, func(p string, d fs.DirEntry, err error) error {
+		if err != nil || d.IsDir() {
+			return nil
+		}
+		info, err := d.Info()
+		if err != nil || now.Sub(info.ModTime()) < time.Minute {
+			return nil
+		}
+		if maxAge > 0 && now.Sub(info.ModTime()) > maxAge {
+			if os.Remove(p) == nil {
+				return nil
+			}
+		}
+		files = append(files, entry{p, info.Size(), info.ModTime()})
+		total += info.Size()
+		return nil
+	})
+	if maxBytes <= 0 || total <= maxBytes {
+		return
+	}
+	sort.Slice(files, func(i, j int) bool { return files[i].mod.Before(files[j].mod) })
+	for _, f := range files {
+		if total <= maxBytes {
+			break
+		}
+		if os.Remove(f.path) == nil {
+			total -= f.size
+		}
+	}
 }
 
 // Dir is the directory the store keeps its files in.

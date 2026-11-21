@@ -88,3 +88,11 @@ describe('settings model', () => {
     expect(S).toEqual(defaults());
   });
 });
+
+describe('shortcuts setting', () => {
+  it('defaults on and normalises non-booleans', () => {
+    expect(DEF.shortcuts).toBe(true);
+    expect(normalise('shortcuts', 'no')).toBe(true);
+    expect(normalise('shortcuts', false)).toBe(false);
+  });
+});

@@ -27,15 +27,53 @@ export function toast(o: ToastOptions | string): void {
       ${opt.action ? html`<button type="button" class="toast-act">${opt.action.label}</button>` : ''}
     </div>`,
   );
-  const hide = (): void => host.replaceChildren();
+  const hide = (): void => {
+    clearTimeout(toastTimer);
+    host.replaceChildren();
+  };
+  const ms = opt.duration ?? (opt.action ? ACTION_TOAST_MS : 3200);
   if (opt.action) {
     const act = opt.action;
     host.querySelector('.toast-act')?.addEventListener('click', () => {
       hide();
       act.run();
     });
+    // WCAG 2.2.1: an action toast waits while the pointer or keyboard focus is on it, and restarts afterwards
+    const box = host.firstElementChild as HTMLElement;
+    const pause = (): void => clearTimeout(toastTimer);
+    const resume = (): void => {
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(hide, ms);
+    };
+    box.addEventListener('mouseenter', pause);
+    box.addEventListener('focusin', pause);
+    box.addEventListener('mouseleave', () => !box.contains(document.activeElement) && resume());
+    box.addEventListener('focusout', () => !box.matches(':hover') && resume());
+    box.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        e.stopPropagation();
+        hide();
+      }
+    });
   }
-  toastTimer = setTimeout(hide, opt.duration ?? (opt.action ? 6000 : 3200));
+  toastTimer = setTimeout(hide, ms);
+}
+
+/** Action toasts (e.g. Undo) stay long enough to be reached; they also pause on hover / focus. */
+export const ACTION_TOAST_MS = 12000;
+
+let toastKeyBound = false;
+/** Alt+T moves keyboard focus to the action button of the toast on screen (the live region is last in tab order). */
+function bindToastKey(): void {
+  if (toastKeyBound) return;
+  toastKeyBound = true;
+  document.addEventListener('keydown', (e) => {
+    if (!e.altKey || e.ctrlKey || e.metaKey || e.key.toLowerCase() !== 't') return;
+    const b = document.querySelector<HTMLElement>('#toasts .toast-act');
+    if (!b) return;
+    e.preventDefault();
+    b.focus();
+  });
 }
 
 let toastBound = false;
@@ -43,6 +81,7 @@ let toastBound = false;
 export function bindToasts(): void {
   if (toastBound) return;
   toastBound = true;
+  bindToastKey();
   on('toast', toast);
 }
 
