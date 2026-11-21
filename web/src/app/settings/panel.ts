@@ -12,6 +12,7 @@ import { html, render, type SafeHtml } from '../core/html';
 import { icon } from '../core/icons';
 import { activePreset, isDark, onChange, presets, RANGE, S, patch, reset, set, type Preset } from '../core/settings';
 import { confirmDialog, openDialog, toast, type DialogHandle } from '../core/ui';
+import { ACCENTS, THEMES } from '../core/themes';
 import { bindControls, checkRow, rangeRow, segRow, syncControls } from './controls';
 import { matchPreset, presetValues, TYPO_PRESETS } from './presets';
 import { mountSource } from './source';
@@ -29,12 +30,31 @@ export const TABS: TabDef[] = [
   { id: 'source', label: 'Nguồn dữ liệu' },
 ];
 
-const THEME_OPTIONS: ['light' | 'sepia' | 'dark' | 'auto', string][] = [
-  ['light', 'Sáng'],
-  ['sepia', 'Giấy'],
-  ['dark', 'Tối'],
+/** Quick row: the three everyday choices; the Giao diện tab has every theme. */
+const THEME_OPTIONS: ['light' | 'dark' | 'auto', string][] = [
   ['auto', 'Tự động'],
+  ['light', 'Sáng'],
+  ['dark', 'Tối'],
 ];
+
+/** One radio tile per entry of the theme table (+ "Tự động" = follow the system), previewed with its own colours. */
+function themeGrid(): SafeHtml {
+  const tile = (v: string, label: string, style: string, extra = ''): SafeHtml =>
+    html`<label class="ss-theme ${extra}"><input type="radio" name="ss-theme" value="${v}" ${S.theme === v ? html`checked` : ''} /><span class="ss-theme-chip" data-chip="${style}" aria-hidden="true"><i></i><b>Aa</b></span><span class="ss-theme-name">${label}</span></label>`;
+  return html`<div class="ss-row">
+    <div class="ss-label" id="ss-theme-l">Giao diện</div>
+    <div class="ss-themes" role="radiogroup" aria-labelledby="ss-theme-l" data-seg="theme">
+      ${tile('auto', 'Tự động', 'auto', 'is-auto')} ${THEMES.map((t) => tile(t.id, t.label, `${t.bg}|${t.surface}|${t.text}|${t.accent}`))}
+    </div>
+    <p class="hint">Tự động đổi giữa Sáng và Tối theo thiết bị.</p>
+  </div>
+  <div class="ss-row">
+    <div class="ss-label" id="ss-accent-l">Màu nhấn</div>
+    <div class="ss-accents" role="radiogroup" aria-labelledby="ss-accent-l" data-seg="accent">
+      ${ACCENTS.map((a) => html`<label class="ss-accent" title="${a.label}"><input type="radio" name="ss-accent" value="${a.id}" ${S.accent === a.id ? html`checked` : ''} /><span class="ss-accent-dot" data-color="${a.color}" data-def="${a.id === 'default' ? '1' : ''}" aria-hidden="true"></span><span class="sr-only">${a.label}</span></label>`)}
+    </div>
+  </div>`;
+}
 
 const PREVIEW = 'Nguyễn Thị Ẩn ngồi bên hiên, ỡ ự ặ — trời về chiều. Gió lùa qua khe cửa, mang theo mùi khói bếp.';
 
@@ -71,7 +91,7 @@ function paintSwatches(root: ParentNode): void {
 }
 
 function themeTab(): SafeHtml {
-  return html`${segRow('theme', 'Chế độ', THEME_OPTIONS)} ${preview()} ${swatches('day')} ${swatches('night')}
+  return html`${themeGrid()} ${preview()} ${swatches('day')} ${swatches('night')}
     <p class="hint ss-active-note" id="ss-active-note"></p>
     ${rangeRow('brightness')}`;
 }
@@ -183,11 +203,24 @@ function paintSwatchColours(root: ParentNode): void {
   }
 }
 
+function paintThemeChips(root: ParentNode): void {
+  for (const c of root.querySelectorAll<HTMLElement>('.ss-theme-chip')) {
+    const d = c.dataset.chip || '';
+    if (d === 'auto') continue;
+    const [bg, surface, text, accent] = d.split('|');
+    c.style.setProperty('--c-bg', bg || '');
+    c.style.setProperty('--c-surface', surface || '');
+    c.style.setProperty('--c-text', text || '');
+    c.style.setProperty('--c-accent', accent || '');
+  }
+  for (const d of root.querySelectorAll<HTMLElement>('.ss-accent-dot')) if (d.dataset.color && !d.dataset.def) d.style.setProperty('--dot', d.dataset.color);
+}
+
 function noteActive(root: ParentNode): void {
   const el = root.querySelector<HTMLElement>('#ss-active-note');
   if (!el) return;
   const p = activePreset();
-  el.textContent = isDark() ? `Đang ở chế độ tối: màu nền ban đêm “${p.label}” được dùng khi đọc.` : `Màu nền ban ngày “${p.label}” được dùng khi đọc (chế độ Sáng và Giấy).`;
+  el.textContent = isDark() ? `Đang ở chế độ tối: màu nền ban đêm “${p.label}” được dùng khi đọc.` : `Màu nền ban ngày “${p.label}” được dùng khi đọc (các giao diện sáng).`;
 }
 
 // ---------------------------------------------------------------- the sheet
@@ -252,6 +285,7 @@ function open(tab?: SettingsTab): void {
     noteActive(root);
   });
   paintSwatchColours(root);
+  paintThemeChips(root);
   void paintFonts(root).then(() => markFonts(root));
   markTypo(root);
   noteActive(root);

@@ -658,3 +658,125 @@ html.is-offline .st-offline {
     transition: none;
   }
 }
+
+/* theme tiles and accent dots */
+.ss-themes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 8px;
+}
+
+.ss-theme {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 4px;
+  padding: 6px;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.ss-theme input {
+  position: absolute;
+  opacity: 0;
+  inset: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.ss-theme:has(input:checked) {
+  border-color: var(--accent);
+}
+
+.ss-theme:has(input:focus-visible) {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.ss-theme-chip {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 38px;
+  padding: 0 8px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  background: var(--c-bg, var(--bg));
+  color: var(--c-text, var(--text));
+  font-size: var(--fs-sm);
+  overflow: hidden;
+}
+
+.ss-theme-chip i {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--c-accent, var(--accent));
+  box-shadow: 0 0 0 4px var(--c-surface, var(--surface));
+}
+
+.ss-theme.is-auto .ss-theme-chip {
+  background: linear-gradient(105deg, #f3f4f6 50%, #0b1120 50%);
+  color: #111827;
+}
+
+.ss-theme.is-auto .ss-theme-chip b {
+  color: #f7f9fb;
+}
+
+.ss-theme-name {
+  font-size: var(--fs-xs);
+  line-height: 1.2;
+  text-align: center;
+}
+
+.ss-accents {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.ss-accent {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: var(--tap);
+  height: var(--tap);
+  cursor: pointer;
+}
+
+.ss-accent input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.ss-accent-dot {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--dot, var(--accent));
+  border: 2px solid var(--surface);
+  box-shadow: 0 0 0 1px var(--border-strong);
+}
+
+/* "Theo giao diện": the theme's own accent (teal, light / dark), not the currently chosen accent */
+.ss-accent-dot[data-def="1"] {
+  background: linear-gradient(135deg, #0f766e 50%, #2dd4bf 50%);
+}
+
+.ss-accent:has(input:checked) .ss-accent-dot {
+  box-shadow: 0 0 0 3px var(--text);
+}
+
+.ss-accent:has(input:focus-visible) .ss-accent-dot {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
