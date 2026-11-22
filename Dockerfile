@@ -37,6 +37,7 @@ VOLUME /data
 EXPOSE 8765
 # --lan binds 0.0.0.0, so every /api/* request from another machine needs the access key.
 # Key: -e MYTHLAB_ACCESS_KEY=... (else the server generates one into /data/cache/server.json and prints it in the log).
+# Google sign-in: -e MYTHLAB_GOOGLE_CLIENT_ID=<web client id> [-e MYTHLAB_ALLOWED_EMAILS=a@b.c,...] (users.json and users/ are kept in /data).
 ENTRYPOINT ["/usr/local/bin/mythlab-server", "--lan", "--port", "8765", "--config", "/data/config.json", "--cache", "/data/cache"]
 HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
   CMD ["/usr/local/bin/mythlab-server", "--healthcheck", "--port", "8765"]

@@ -110,6 +110,8 @@ export interface PingResponse {
   server?: string;
   /** Go server, additive: optional capabilities such as "progress" (reading-progress sync). */
   features?: string[];
+  /** Present only when the server has Google sign-in configured. */
+  auth?: { google?: boolean; client_id?: string };
 }
 
 export interface SendOptions {

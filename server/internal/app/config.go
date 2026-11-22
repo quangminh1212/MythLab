@@ -39,6 +39,9 @@ type Config struct {
 	AccessKey     string   // server.access_key
 	Hosts         []string // server.hosts: extra names accepted in the Host header
 	TrustLoopback bool     // server.trust_loopback (default true)
+
+	GoogleClientIDs []string // server.google_client_ids: Google OAuth Web client IDs for "Sign in with Google"
+	AllowedEmails   []string // server.allowed_emails: who may sign in (empty = any verified account)
 }
 
 // Paths says where the server keeps its files.
@@ -269,6 +272,8 @@ func ParseConfig(data []byte, base string, firstRun bool) (Config, error) {
 		if json.Unmarshal(s["hosts"], &hosts) == nil {
 			cfg.Hosts = hosts
 		}
+		cfg.GoogleClientIDs = stringList(s["google_client_ids"])
+		cfg.AllowedEmails = stringList(s["allowed_emails"])
 		var trust bool
 		if json.Unmarshal(s["trust_loopback"], &trust) == nil {
 			cfg.TrustLoopback = trust
@@ -289,4 +294,27 @@ func LoadConfig(p Paths) (Config, error) {
 		return cfg, err
 	}
 	return ParseConfig(data, p.Base, false)
+}
+
+// stringList reads an array of strings or one (comma-separated) string.
+func stringList(r json.RawMessage) []string {
+	if len(r) == 0 {
+		return nil
+	}
+	var arr []string
+	if json.Unmarshal(r, &arr) != nil {
+		arr = []string{asString(r)}
+	}
+	return splitList(strings.Join(arr, ","))
+}
+
+// splitList splits a comma-separated list, trimming blanks.
+func splitList(s string) []string {
+	var out []string
+	for _, p := range strings.Split(s, ",") {
+		if p = strings.TrimSpace(p); p != "" {
+			out = append(out, p)
+		}
+	}
+	return out
 }

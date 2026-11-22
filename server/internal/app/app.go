@@ -19,11 +19,13 @@ import (
 	"sync"
 	"time"
 
+	"mythlab/internal/auth"
 	"mythlab/internal/covers"
 	"mythlab/internal/httpapi"
 	"mythlab/internal/library"
 	"mythlab/internal/progress"
 	"mythlab/internal/tts"
+	"mythlab/internal/userlib"
 	"mythlab/internal/webui"
 )
 
@@ -51,6 +53,13 @@ type Options struct {
 	TTS    tts.Engine  // nil = Edge voices unavailable
 	Logger *log.Logger // nil = stderr
 	Hosts  []string    // extra names accepted in the Host header
+
+	// GoogleClientIDs and AllowedEmails override config.json server.google_client_ids / allowed_emails,
+	// which override $MYTHLAB_GOOGLE_CLIENT_ID / $MYTHLAB_ALLOWED_EMAILS.
+	GoogleClientIDs []string
+	AllowedEmails   []string
+	// GoogleKeys replaces the fetch of Google signing keys (tests); nil = Google over HTTPS.
+	GoogleKeys auth.KeySource
 }
 
 // App is one configured server.
@@ -65,6 +74,8 @@ type App struct {
 	covers   *covers.Store
 	tts      *tts.Service
 	progress *progress.Store
+	sessions *auth.Sessions
+	users    *userlib.Manager
 	handler  *httpapi.Server
 
 	keyMu sync.Mutex
@@ -139,7 +150,17 @@ func New(o Options) (*App, error) {
 		progDir = a.paths.Cache
 	}
 	a.progress = progress.Open(filepath.Join(progDir, "progress.json"), a.log.Printf)
-	a.handler = httpapi.New(httpapi.Options{Library: a.lib, Search: a.search, Covers: a.covers, TTS: a.tts, Static: static, Progress: a.progress,
+	var authSvc *auth.Service
+	if ids := a.googleClientIDs(); len(ids) > 0 {
+		keys := o.GoogleKeys
+		if keys == nil {
+			keys = auth.NewJWKS("", nil, nil)
+		}
+		a.sessions = auth.OpenSessions(filepath.Join(progDir, "users.json"), a.log.Printf, nil)
+		a.users = userlib.NewManager(filepath.Join(progDir, "users"), a.log.Printf)
+		authSvc = auth.NewService(ids, auth.NewVerifier(ids, keys, nil), a.sessions, a.allowedEmails())
+	}
+	a.handler = httpapi.New(httpapi.Options{Library: a.lib, Search: a.search, Covers: a.covers, TTS: a.tts, Static: static, Progress: a.progress, Auth: authSvc, Users: a.users,
 		AccessKey: func() string { return a.accessKey(a.Exposed()) }, DistrustLoopback: !a.cfg.TrustLoopback,
 		Hosts: append(append([]string{}, a.cfg.Hosts...), o.Hosts...), Logf: a.log.Printf})
 	a.search.RefreshAsync() // local stories and cached GitHub data; no network
@@ -184,6 +205,10 @@ func (a *App) Close() {
 		}
 		a.covers.Close()
 		a.progress.Close()
+		if a.sessions != nil {
+			a.sessions.Close()
+			a.users.Close()
+		}
 	})
 }
 
@@ -391,3 +416,30 @@ func (a *App) ListenAndServe(ctx context.Context, ready func(net.Addr)) error {
 const AccessKeyEnv = "MYTHLAB_ACCESS_KEY"
 
 func envAccessKey() string { return strings.TrimSpace(os.Getenv(AccessKeyEnv)) }
+
+// Environment variables for Google sign-in (config.json and flags win over them).
+const (
+	GoogleClientIDEnv = "MYTHLAB_GOOGLE_CLIENT_ID"
+	AllowedEmailsEnv  = "MYTHLAB_ALLOWED_EMAILS"
+)
+
+// googleClientIDs: option, else config server.google_client_ids, else the environment.
+func (a *App) googleClientIDs() []string {
+	switch {
+	case len(a.opt.GoogleClientIDs) > 0:
+		return a.opt.GoogleClientIDs
+	case len(a.cfg.GoogleClientIDs) > 0:
+		return a.cfg.GoogleClientIDs
+	}
+	return splitList(os.Getenv(GoogleClientIDEnv))
+}
+
+func (a *App) allowedEmails() []string {
+	switch {
+	case len(a.opt.AllowedEmails) > 0:
+		return a.opt.AllowedEmails
+	case len(a.cfg.AllowedEmails) > 0:
+		return a.cfg.AllowedEmails
+	}
+	return splitList(os.Getenv(AllowedEmailsEnv))
+}

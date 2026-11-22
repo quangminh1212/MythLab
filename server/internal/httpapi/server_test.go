@@ -280,7 +280,7 @@ func TestCORSAndPreflight(t *testing.T) {
 		p := f.do("/api/tts", method("OPTIONS"), header("Origin", o), header("Access-Control-Request-Private-Network", "true"))
 		h := p.Header()
 		if p.Code != 204 || h.Get("Access-Control-Allow-Origin") != o || h.Get("Access-Control-Allow-Methods") != "GET, HEAD, OPTIONS" ||
-			h.Get("Access-Control-Allow-Headers") != "X-MythLab-Key, Content-Type, Range" || h.Get("Access-Control-Max-Age") != "600" ||
+			h.Get("Access-Control-Allow-Headers") != "X-MythLab-Key, Content-Type, Range, Authorization" || h.Get("Access-Control-Max-Age") != "600" ||
 			h.Get("Access-Control-Allow-Private-Network") != "true" || h.Get("Content-Length") != "0" || p.Body.Len() != 0 {
 			t.Errorf("preflight %q: %d %v", o, p.Code, h)
 		}
@@ -334,7 +334,9 @@ func TestStatic(t *testing.T) {
 		t.Fatalf("index: %d %v", w.Code, w.Header())
 	}
 	csp := w.Header().Get("Content-Security-Policy")
-	for _, want := range []string{"default-src 'self'", "script-src 'self'", "frame-ancestors 'none'", "object-src 'none'", "https://api.github.com"} {
+	for _, want := range []string{"default-src 'self'", "script-src 'self'", "frame-ancestors 'none'", "object-src 'none'", "https://api.github.com",
+		"script-src 'self' https://accounts.google.com/gsi/client", "style-src 'self' https://accounts.google.com/gsi/style",
+		"frame-src https://accounts.google.com/gsi/", "connect-src 'self' https://api.github.com https://accounts.google.com/gsi/"} {
 		if !strings.Contains(csp, want) {
 			t.Fatalf("CSP lacks %q: %s", want, csp)
 		}

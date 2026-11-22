@@ -9,6 +9,7 @@ import { fmtNum, matchTokens, normKey, repoLabel, tokens } from './core/format';
 import { $, $$, html, render, type SafeHtml } from './core/html';
 import { icon } from './core/icons';
 import { currentRoute, href, navigate } from './core/router';
+import { auth } from './core/auth';
 import { announce, closeAllDialogs, toast, trapFocus } from './core/ui';
 
 // ---------------------------------------------------------------- breadcrumbs
@@ -329,6 +330,29 @@ export function init(): void {
       openSettings();
     });
   }
+
+  // the account entries exist only when the server offers Google sign-in
+  const paintAccount = (): void => {
+    const on = auth.available() || auth.signedIn();
+    for (const id of ['btn-account', 'nav-account']) {
+      const b = document.getElementById(id);
+      if (!b) continue;
+      b.hidden = !on;
+      b.setAttribute('aria-label', auth.signedIn() ? `Tài khoản: ${auth.user()?.name || auth.user()?.email || 'Google'}` : 'Đăng nhập bằng Google');
+      b.classList.toggle('is-signed-in', auth.signedIn());
+      const label = b.querySelector('span');
+      if (label) label.textContent = auth.signedIn() ? 'Tài khoản' : 'Đăng nhập';
+      b.title = auth.signedIn() ? 'Tài khoản' : 'Đăng nhập bằng Google';
+    }
+  };
+  for (const id of ['btn-account', 'nav-account']) {
+    document.getElementById(id)?.addEventListener('click', () => {
+      closeDrawer();
+      openSettings('account');
+    });
+  }
+  paintAccount();
+  auth.onChange(paintAccount);
 
   bindSearch();
 

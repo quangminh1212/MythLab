@@ -60,6 +60,50 @@ apps\desktop\dist\mythlab-server.exe --lan --config reader\config.json
 
 Chỉ bật `--lan` trong mạng tin cậy: server dùng token GitHub của bạn để đọc repo riêng tư.
 
+## Đăng nhập Google (đồng bộ lịch sử đọc, truyện yêu thích, đánh dấu)
+
+Khi đăng nhập bằng Google, tiến độ đọc, danh sách truyện yêu thích và đánh dấu được lưu theo tài khoản và đồng bộ giữa các
+thiết bị (web/PWA, Windows, Android). Không đăng nhập thì mọi thứ chạy như cũ (khoá truy cập, `/api/progress` dùng chung).
+
+### 1. Tạo OAuth client ID loại Web trong Google Cloud Console
+
+1. Vào <https://console.cloud.google.com/>, chọn (hoặc tạo) một project.
+2. **APIs & Services, OAuth consent screen**: chọn *External*, điền tên ứng dụng và email hỗ trợ, thêm email của bạn vào
+   *Test users* (hoặc bấm *Publish app* để mọi tài khoản Google đăng nhập được). Chỉ cần scope mặc định `openid`, `email`, `profile`.
+3. **APIs & Services, Credentials, Create credentials, OAuth client ID**, loại **Web application**.
+4. **Authorized JavaScript origins**: thêm `https://myth.xlabrnd.com` và `http://localhost:8765` (thêm mọi origin khác mà bạn mở
+   giao diện, ví dụ `http://localhost:4321` khi chạy `npm run dev`). Không cần *Authorized redirect URIs*.
+5. Lưu lại **Client ID** (dạng `1234-abc.apps.googleusercontent.com`). Client secret không dùng.
+6. **Android**: trong *cùng project* tạo thêm một OAuth client ID loại **Android** với package name của app và dấu vân tay
+   SHA-1 của khoá ký (debug: `keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android`;
+   bản phát hành: SHA-1 của keystore phát hành). Client Android chỉ để Google cho phép app đăng nhập; **MythLab dùng Client ID loại Web**
+   làm `serverClientId`, nên ID token gửi lên server luôn có `aud` bằng Client ID Web.
+
+### 2. Cấu hình server
+
+Đặt Client ID Web theo một trong các cách (ưu tiên từ trên xuống):
+
+- cờ `--google-client-id <ID>`;
+- `config.json`: `"server": {"google_client_ids": ["<ID>"]}`;
+- biến môi trường `MYTHLAB_GOOGLE_CLIENT_ID=<ID>` (Docker: đặt trong `.env`).
+
+Có thể liệt kê nhiều ID, cách nhau bằng dấu phẩy. Giới hạn ai được đăng nhập (mặc định mọi tài khoản Google đã xác minh email):
+`MYTHLAB_ALLOWED_EMAILS=toi@gmail.com,ban@gmail.com`, cờ `--allowed-emails`, hoặc `"server": {"allowed_emails": [...]}`.
+
+Server chỉ có đăng nhập khi cấu hình Client ID: `GET /api/ping` khi đó có thêm `"auth": {"google": true, "client_id": "..."}`.
+
+### 3. Dữ liệu và bảo mật
+
+- `POST /api/auth/google` đổi ID token của Google lấy phiên làm việc MythLab (token ngẫu nhiên 32 byte, hạn 90 ngày và tự
+  gia hạn khi dùng, tối đa 10 phiên mỗi tài khoản). Server chỉ lưu **băm SHA-256** của token, trong `users.json` cạnh `config.json`.
+  Đăng xuất (`POST /api/auth/logout`) thu hồi phiên ngay.
+- Dữ liệu từng tài khoản nằm ở `users/<sha256 của Google sub>/progress.json` và `library.json` cạnh `config.json`.
+- Token phiên (header `Authorization: Bearer`) chỉ mở `/api/progress`, `/api/library` và `/api/auth/*`; nội dung truyện vẫn cần khoá
+  truy cập hoặc truy cập từ chính máy chủ như trước.
+- Đăng nhập bị giới hạn 20 lần/phút mỗi IP. Khi chạy sau reverse proxy trên cùng máy, proxy nên đặt `X-Forwarded-For`.
+- Khoá công khai của Google được tải từ `https://www.googleapis.com/oauth2/v3/certs` và cache theo `Cache-Control`; server cần ra
+  internet tới địa chỉ này khi có người đăng nhập.
+
 ## Dựng giao diện và kiểm thử
 
 ```powershell

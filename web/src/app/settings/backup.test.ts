@@ -1,5 +1,6 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { SERVER_KEY, TOKEN_KEY } from '../core/backend/index';
+import { setSession, _resetAuth } from '../core/auth-token';
 import { initSecret, flushToken, peekToken, _resetSecret } from '../core/secret';
 import { library } from '../core/library';
 import { progress } from '../core/progress';
@@ -29,6 +30,15 @@ describe('backup', () => {
     expect(S.size).toBe(26);
     expect(S.theme).toBe('dark');
     expect(progress.get('s', 'k1')?.idx).toBe(4);
+  });
+
+  it('never exports the Google session token or the sync state', () => {
+    _resetAuth();
+    setSession({ token: 'BEARER-SECRET', user: { id: 'u1', name: 'An', email: 'an@x.vn', picture: '' }, base: 'http://x:1', expires: 0 });
+    localStorage.setItem('mythlab.library.outbox.u1', JSON.stringify(['follow|s|a']));
+    expect(JSON.stringify(buildBackup())).not.toMatch(/BEARER-SECRET|mythlab\.auth|an@x\.vn/);
+    expect(JSON.stringify(buildBackup({ includeSecrets: true }))).not.toMatch(/BEARER-SECRET|an@x\.vn/);
+    _resetAuth();
   });
 
   it('leaves secrets out unless asked and restores them only when asked', async () => {

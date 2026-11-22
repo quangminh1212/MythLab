@@ -28,7 +28,14 @@ type pingBody struct {
 	API    int    `json:"api"`
 	Server string `json:"server"`
 	// Features lists optional capabilities (additive: api stays 2).
-	Features []string `json:"features,omitempty"`
+	Features []string  `json:"features,omitempty"`
+	Auth     *pingAuth `json:"auth,omitempty"`
+}
+
+// pingAuth tells clients that Google sign-in is available.
+type pingAuth struct {
+	Google   bool   `json:"google"`
+	ClientID string `json:"client_id"`
 }
 
 type ttsInfo struct {
@@ -110,26 +117,44 @@ func intParam(q map[string]string, name string, def int) (int, error) {
 func (s *Server) api(w http.ResponseWriter, r *http.Request) {
 	s.cors(w, r)
 	q := lastQuery(r.URL.RawQuery)
+	route := strings.TrimPrefix(r.URL.Path, "/api/")
+	// A session token authorizes only progress, library and auth; the story
+	// content routes below still need the access key.
+	user, ok := s.sessionUser(w, r, route)
+	if !ok {
+		return
+	}
 	needKey := s.keyRequired(r)
 	hasKey := s.presentedKey(r, q)
-	if needKey && !hasKey {
+	if strings.HasPrefix(route, "auth/") {
+		needKey = false // login needs no key; the other auth routes check the token themselves
+	}
+	if needKey && !hasKey && user == nil {
 		s.writeErr(w, r, http.StatusUnauthorized, "unauthorized", "cần khoá truy cập (X-MythLab-Key)")
 		return
 	}
-	if s.crossSiteBlocked(r, hasKey) {
+	if s.crossSiteBlocked(r, hasKey || user != nil) {
 		s.writeErr(w, r, http.StatusForbidden, "cross_site", "trang web khác không được gọi API này")
 		return
 	}
 	var err error
-	switch strings.TrimPrefix(r.URL.Path, "/api/") {
+	switch route {
 	case "ping":
 		body := pingBody{OK: true, App: "mythlab", API: APIVersion, Server: "go"}
 		if s.o.Progress != nil {
 			body.Features = []string{"progress"}
 		}
+		if s.o.Auth != nil {
+			body.Features = append(body.Features, "auth", "library")
+			body.Auth = &pingAuth{Google: true, ClientID: s.o.Auth.ClientID()}
+		}
 		s.writeJSON(w, r, http.StatusOK, body, "")
 	case "progress":
-		s.apiProgress(w, r, q)
+		s.apiProgress(w, r, q, user)
+	case "library":
+		s.apiLibrary(w, r, q, user)
+	case "auth/google", "auth/me", "auth/logout":
+		s.apiAuth(w, r, route, user)
 	case "sources":
 		s.apiSources(w, r)
 	case "stories":

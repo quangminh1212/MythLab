@@ -5,6 +5,7 @@ import (
 	"errors"
 	"net/http"
 
+	"mythlab/internal/auth"
 	"mythlab/internal/library"
 	"mythlab/internal/progress"
 )
@@ -24,8 +25,11 @@ type progressBody struct {
 
 // apiProgress: GET ?since=<ms> lists the entries changed since then; PUT
 // {entries:[...]} merges entries and answers with their resulting state.
-func (s *Server) apiProgress(w http.ResponseWriter, r *http.Request, q map[string]string) {
+func (s *Server) apiProgress(w http.ResponseWriter, r *http.Request, q map[string]string, user *auth.User) {
 	st := s.o.Progress
+	if user != nil && s.o.Users != nil {
+		st = s.o.Users.Progress(user.ID) // a signed-in account has its own progress
+	}
 	if st == nil {
 		s.writeErr(w, r, http.StatusNotFound, "no_route", "không có API này")
 		return

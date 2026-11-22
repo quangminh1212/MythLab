@@ -15,6 +15,8 @@ import { confirmDialog, openDialog, toast, type DialogHandle } from '../core/ui'
 import { ACCENTS, THEMES } from '../core/themes';
 import { bindControls, checkRow, rangeRow, segRow, syncControls } from './controls';
 import { matchPreset, presetValues, TYPO_PRESETS } from './presets';
+import { auth } from '../core/auth';
+import { mountAccount } from './account';
 import { mountSource } from './source';
 import { mountVoice } from './voice';
 
@@ -28,7 +30,11 @@ export const TABS: TabDef[] = [
   { id: 'layout', label: 'Bố cục' },
   { id: 'voice', label: 'Giọng đọc' },
   { id: 'source', label: 'Nguồn dữ liệu' },
+  { id: 'account', label: 'Tài khoản' },
 ];
+
+/** The tabs to show: "Tài khoản" only when the server offers Google sign-in (or a session exists). */
+export const visibleTabs = (): TabDef[] => TABS.filter((t) => t.id !== 'account' || auth.available() || auth.signedIn());
 
 /** Quick row: the three everyday choices; the Giao diện tab has every theme. */
 const THEME_OPTIONS: ['light' | 'dark' | 'auto', string][] = [
@@ -99,11 +105,10 @@ function themeTab(): SafeHtml {
 function typoPresets(): SafeHtml {
   return html`<div class="ss-row">
     <div class="ss-label" id="ss-typo-l">Kiểu chữ có sẵn</div>
-    <div class="ss-presets" role="radiogroup" aria-labelledby="ss-typo-l" data-typo>
-      ${TYPO_PRESETS.map(
-        (p) => html`<button type="button" class="ss-preset" role="radio" aria-checked="false" data-typo-id="${p.id}"><strong>${p.label}</strong><small>${p.hint}</small></button>`,
-      )}
-    </div>
+    <select id="ss-typo" class="select ss-dd" aria-labelledby="ss-typo-l" data-typo-select>
+      <option value="">Tuỳ chỉnh</option>
+      ${TYPO_PRESETS.map((p) => html`<option value="${p.id}">${p.label} — ${p.hint}</option>`)}
+    </select>
   </div>`;
 }
 
@@ -111,7 +116,7 @@ function fontTab(): SafeHtml {
   return html`${preview()} ${typoPresets()}
     <div class="ss-row">
       <div class="ss-label" id="ss-fonts-l">Phông chữ</div>
-      <div id="ss-fonts" class="ss-fonts" role="radiogroup" aria-labelledby="ss-fonts-l"></div>
+      <select id="ss-fonts" class="select ss-dd" aria-labelledby="ss-fonts-l" data-font-select></select>
       <div id="ss-local" class="ss-local" hidden>
         <button type="button" class="btn btn-sm" data-local-pick>Font của máy…</button>
         <label class="ss-local-sel" hidden><span class="sr-only">Chọn font của máy</span><select class="select" data-local-select></select></label>
@@ -165,8 +170,8 @@ const GROUPS: [FontInfo['group'], string][] = [
   ['system', 'Font máy'],
 ];
 
-function fontButton(f: FontInfo): SafeHtml {
-  return html`<button type="button" class="ss-font" role="radio" aria-checked="${S.font === f.id ? 'true' : 'false'}" data-font="${f.id}"><span class="ss-font-name">${f.label}</span><span class="ss-font-sample" lang="vi">${f.sample}</span></button>`;
+function fontOption(f: FontInfo): SafeHtml {
+  return html`<option value="${f.id}" data-font="${f.id}" ${S.font === f.id ? html`selected` : ''}>${f.label}</option>`;
 }
 
 async function paintFonts(root: HTMLElement): Promise<void> {
@@ -179,21 +184,22 @@ async function paintFonts(root: HTMLElement): Promise<void> {
     box,
     html`${GROUPS.map(([g, label]) => {
       const items = known.filter((f) => f.group === g);
-      return items.length ? html`<div class="ss-font-group"><div class="ss-font-head">${label}</div><div class="ss-font-grid">${items.map(fontButton)}</div></div>` : '';
+      return items.length ? html`<optgroup label="${label}">${items.map(fontOption)}</optgroup>` : '';
     })}`,
   );
-  for (const b of box.querySelectorAll<HTMLButtonElement>('[data-font]')) b.style.setProperty('--ff', fonts.cssStack(b.dataset.font as string));
+  for (const o of box.querySelectorAll<HTMLOptionElement>('option[data-font]')) o.style.fontFamily = fonts.cssStack(o.dataset.font as string);
   const local = root.querySelector<HTMLElement>('#ss-local');
   if (local) local.hidden = !fonts.canQueryLocal();
 }
 
 function markFonts(root: ParentNode): void {
-  for (const b of root.querySelectorAll<HTMLButtonElement>('[data-font]')) b.setAttribute('aria-checked', String(b.dataset.font === S.font));
+  const sel = root.querySelector<HTMLSelectElement>('#ss-fonts');
+  if (sel) sel.value = S.font;
 }
 
 function markTypo(root: ParentNode): void {
-  const id = matchPreset(S);
-  for (const b of root.querySelectorAll<HTMLButtonElement>('[data-typo-id]')) b.setAttribute('aria-checked', String(b.dataset.typoId === id));
+  const sel = root.querySelector<HTMLSelectElement>('#ss-typo');
+  if (sel) sel.value = matchPreset(S) ?? '';
 }
 
 function paintSwatchColours(root: ParentNode): void {
@@ -230,7 +236,8 @@ function open(tab?: SettingsTab): void {
     if (tab) select(dlg.el, tab, true);
     return;
   }
-  const first: SettingsTab = tab && TABS.some((t) => t.id === tab) ? tab : lastTab;
+  const shown = visibleTabs();
+  const first: SettingsTab = tab && shown.some((t) => t.id === tab) ? tab : shown.some((t) => t.id === lastTab) ? lastTab : 'theme';
   const d = openDialog({
     title: 'Cài đặt',
     variant: 'drawer',
@@ -240,6 +247,7 @@ function open(tab?: SettingsTab): void {
       offChange();
       unmountVoice();
       unmountSource();
+      unmountAccount();
       dlg = null;
     },
     body: html`<div class="ss-top">
@@ -250,18 +258,9 @@ function open(tab?: SettingsTab): void {
             <button type="button" class="btn btn-icon-only ss-step" data-step="1" aria-label="Tăng cỡ chữ">+</button>
           </div>
           ${segRow('theme', 'Giao diện', THEME_OPTIONS, { compact: true, hideLabel: true })}
-          ${segRow(
-            'readMode',
-            'Kiểu đọc',
-            [
-              ['scroll', 'Cuộn'],
-              ['page', 'Lật trang'],
-            ],
-            { compact: true, hideLabel: true },
-          )}
         </div>
         <div class="ss-tabs" role="tablist" aria-label="Nhóm cài đặt">
-          ${TABS.map((t) => html`<button type="button" class="ss-tab" role="tab" id="ss-tab-${t.id}" aria-controls="ss-pane-${t.id}" aria-selected="false" tabindex="-1" data-tab="${t.id}">${t.label}</button>`)}
+          ${shown.map((t) => html`<button type="button" class="ss-tab" role="tab" id="ss-tab-${t.id}" aria-controls="ss-pane-${t.id}" aria-selected="false" tabindex="-1" data-tab="${t.id}">${t.label}</button>`)}
         </div>
       </div>
       <div class="ss-panes">
@@ -270,6 +269,7 @@ function open(tab?: SettingsTab): void {
         <section class="ss-pane" role="tabpanel" id="ss-pane-layout" aria-labelledby="ss-tab-layout" tabindex="0" hidden>${layoutTab()}</section>
         <section class="ss-pane" role="tabpanel" id="ss-pane-voice" aria-labelledby="ss-tab-voice" tabindex="0" hidden>${voiceTab()}</section>
         <section class="ss-pane" role="tabpanel" id="ss-pane-source" aria-labelledby="ss-tab-source" tabindex="0" hidden></section>
+        ${shown.some((t) => t.id === 'account') ? html`<section class="ss-pane" role="tabpanel" id="ss-pane-account" aria-labelledby="ss-tab-account" tabindex="0" hidden></section>` : ''}
       </div>`,
     footer: html`<button type="button" class="btn" data-reset>Đặt lại mặc định</button><button type="button" class="btn btn-primary" data-close>Xong</button>`,
     initialFocus: `#ss-tab-${first}`,
@@ -295,6 +295,8 @@ function open(tab?: SettingsTab): void {
   let unmountSource = (): void => {};
   let voiceMounted = false;
   let sourceMounted = false;
+  let unmountAccount = (): void => {};
+  let accountMounted = false;
   root.addEventListener('settings-tab', (e) => {
     const id = (e as CustomEvent<SettingsTab>).detail;
     lastTab = id;
@@ -305,6 +307,11 @@ function open(tab?: SettingsTab): void {
     if (id === 'source' && !sourceMounted) {
       sourceMounted = true;
       unmountSource = mountSource(root.querySelector<HTMLElement>('#ss-pane-source') as HTMLElement);
+    }
+    const accountPane = root.querySelector<HTMLElement>('#ss-pane-account');
+    if (id === 'account' && accountPane && !accountMounted) {
+      accountMounted = true;
+      unmountAccount = mountAccount(accountPane);
     }
   });
 
@@ -325,17 +332,6 @@ function open(tab?: SettingsTab): void {
       set(key, sw.dataset.preset);
       return;
     }
-    const ff = t.closest<HTMLElement>('[data-font]');
-    if (ff) {
-      set('font', ff.dataset.font);
-      return;
-    }
-    const ty = t.closest<HTMLElement>('[data-typo-id]');
-    if (ty) {
-      const p = TYPO_PRESETS.find((x) => x.id === ty.dataset.typoId);
-      if (p) patch(presetValues(p));
-      return;
-    }
     if (t.closest('[data-local-pick]')) void pickLocal(root);
     if (t.closest('[data-reset]')) void resetAll();
   });
@@ -343,6 +339,14 @@ function open(tab?: SettingsTab): void {
     const tab = (e.target as Element).closest<HTMLElement>('[role="tab"]');
     if (tab) tabKeys(root, e, tab);
     else radioKeys(e);
+  });
+  root.addEventListener('change', (e) => {
+    const t = e.target as HTMLElement;
+    if (t.matches('[data-font-select]')) set('font', (t as HTMLSelectElement).value);
+    else if (t.matches('[data-typo-select]')) {
+      const p = TYPO_PRESETS.find((x) => x.id === (t as HTMLSelectElement).value);
+      if (p) patch(presetValues(p));
+    }
   });
   root.querySelector<HTMLSelectElement>('[data-local-select]')?.addEventListener('change', (e) => {
     const fam = (e.target as HTMLSelectElement).value;
@@ -353,12 +357,12 @@ function open(tab?: SettingsTab): void {
 }
 
 /** Shows a tab. Moves focus to its button only when the user asked for it. */
-function select(root: HTMLElement, id: SettingsTab, focus: boolean, announce = true): void {
+function select(root: HTMLElement, id: SettingsTab, focus: boolean, _announce = true): void {
   for (const b of root.querySelectorAll<HTMLElement>('[data-tab]')) {
     const on = b.dataset.tab === id;
     b.setAttribute('aria-selected', String(on));
     b.tabIndex = on ? 0 : -1;
-    if (on && (focus || announce)) b.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+    if (on) b.scrollIntoView?.({ block: 'nearest', inline: 'nearest' });
   }
   for (const p of root.querySelectorAll<HTMLElement>('.ss-pane')) p.hidden = p.id !== `ss-pane-${id}`;
   if (focus) root.querySelector<HTMLElement>(`#ss-tab-${id}`)?.focus();
@@ -368,7 +372,7 @@ function select(root: HTMLElement, id: SettingsTab, focus: boolean, announce = t
 
 /** Arrow / Home / End move between tabs (automatic activation). */
 function tabKeys(root: HTMLElement, e: KeyboardEvent, tab: HTMLElement): void {
-  const ids = TABS.map((t) => t.id);
+  const ids = visibleTabs().map((t) => t.id);
   const i = ids.indexOf(tab.dataset.tab as SettingsTab);
   let n = i;
   if (e.key === 'ArrowRight' || e.key === 'ArrowDown') n = (i + 1) % ids.length;

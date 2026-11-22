@@ -190,8 +190,10 @@ body.view-read {
 }
 
 .rd-story-link {
-  display: inline-block;
-  padding: 4px 0;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 4px 8px;
   text-decoration: none;
 }
 

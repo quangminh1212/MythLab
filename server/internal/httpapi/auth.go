@@ -180,11 +180,14 @@ func (s *Server) preflight(w http.ResponseWriter, r *http.Request, isAPI bool) {
 		return
 	}
 	methods := "GET, HEAD, OPTIONS"
-	if r.URL.Path == progressPath {
+	switch r.URL.Path {
+	case progressPath, libraryPath:
 		methods = "GET, HEAD, PUT, OPTIONS"
+	case authGooglePath, authLogoutPath:
+		methods = "POST, OPTIONS"
 	}
 	h.Set("Access-Control-Allow-Methods", methods)
-	h.Set("Access-Control-Allow-Headers", "X-MythLab-Key, Content-Type, Range")
+	h.Set("Access-Control-Allow-Headers", "X-MythLab-Key, Content-Type, Range, Authorization")
 	h.Set("Access-Control-Max-Age", "600")
 	if r.Header.Get("Access-Control-Request-Private-Network") != "" {
 		h.Set("Access-Control-Allow-Private-Network", "true")

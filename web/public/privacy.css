@@ -1,0 +1,4 @@
+:root { color-scheme: light dark; }
+body { margin: 0 auto; max-width: 42rem; padding: 1.5rem 1rem 3rem; font: 16px/1.6 system-ui, sans-serif; }
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.8rem; }

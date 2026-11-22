@@ -27,7 +27,8 @@ html.has-overlay #dim {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
-  gap: 8px 12px;
+  gap: 10px 12px;
+  padding-bottom: 6px;
 }
 
 .ss-quick .ss-row {
@@ -45,6 +46,20 @@ html.has-overlay #dim {
 .ss-panel .ss-seg.is-compact .ss-opt span {
   padding: 0 8px;
   white-space: nowrap;
+}
+
+@media (max-width: 400px) {
+  .ss-quick {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .ss-panel .ss-seg.is-compact .ss-opt span {
+    padding: 0 4px;
+  }
+
+  .ss-panel .ss-seg.is-compact {
+    flex-wrap: nowrap;
+  }
 }
 
 .ss-size {
@@ -72,8 +87,9 @@ html.has-overlay #dim {
 .ss-tabs {
   display: flex;
   gap: 2px;
-  margin: 8px -16px 0;
+  margin: 4px -16px 0;
   padding: 0 12px;
+  scroll-padding: 0 24px;
   overflow-x: auto;
   scrollbar-width: none;
 }
@@ -171,6 +187,61 @@ html.has-overlay #dim {
   font-size: 0.75rem;
 }
 
+/* segmented control: one joined pill; the native radio is visually hidden (still focusable) and fills its tile */
+.ss-panel .ss-seg {
+  display: flex;
+  gap: 0;
+  padding: 3px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface-3);
+}
+
+.ss-panel .ss-seg .ss-opt {
+  position: relative;
+  display: flex;
+}
+
+.ss-panel .ss-seg .ss-opt input {
+  position: absolute;
+  inset: -4px 0;
+  width: 100%;
+  height: calc(100% + 8px);
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.ss-panel .ss-seg .ss-opt span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: calc(var(--tap) - 8px);
+  padding: 0 12px;
+  border-radius: var(--radius-pill);
+  color: var(--text-2);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  text-align: center;
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+
+.ss-panel .ss-seg .ss-opt:hover span {
+  color: var(--text);
+}
+
+.ss-panel .ss-seg .ss-opt input:checked + span {
+  background: var(--surface);
+  color: var(--accent-text);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.18), 0 0 0 1px var(--border);
+}
+
+.ss-panel .ss-seg .ss-opt input:focus-visible + span {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
 .ss-panel .ss-opt.is-off span {
   opacity: 0.5;
 }
@@ -201,7 +272,7 @@ html.has-overlay #dim {
 .ss-range {
   display: block;
   width: 100%;
-  height: 24px;
+  height: 44px;
   margin: 0;
 }
 
@@ -779,4 +850,310 @@ html.is-offline .st-offline {
 .ss-accent:has(input:focus-visible) .ss-accent-dot {
   outline: 2px solid var(--accent);
   outline-offset: 4px;
+}
+
+/* account tab */
+.ac-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+  min-width: 0;
+}
+
+.ac-avatar {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-pill);
+  background: var(--surface-3);
+  object-fit: cover;
+}
+
+.ac-avatar-fb {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-size: var(--fs-lg);
+  font-weight: 700;
+}
+
+.ac-who {
+  min-width: 0;
+}
+
+.ac-name,
+.ac-mail {
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ac-name {
+  font-weight: 700;
+}
+
+.ac-mail {
+  color: var(--text-2);
+  font-size: var(--fs-sm);
+}
+
+.ac-gsi {
+  min-height: var(--tap);
+  margin: 8px 0 12px;
+}
+
+.ss-status.is-error {
+  color: var(--danger);
+}
+
+/* ---------------------------------------------------------------- VS Code-style settings
+   Flat rows (title, muted description, control), a thin accent bar on the row being edited, list-like pickers and
+   plain underlined tabs. No boxed cards around every choice. */
+
+.ss-panel {
+  --ss-fs: 0.8125rem;
+}
+
+.ss-panel .ss-top {
+  padding: 10px 16px 0;
+}
+
+.ss-panel .ss-quick {
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 8px 12px;
+  padding-bottom: 4px;
+}
+
+.ss-panel .ss-tabs {
+  margin: 6px -16px 0;
+  padding: 0 8px;
+  gap: 0;
+  border-top: 1px solid var(--border);
+}
+
+.ss-panel .ss-tab {
+  padding: 0 12px;
+  border-bottom-width: 2px;
+  font-size: var(--ss-fs);
+  font-weight: 500;
+}
+
+.ss-panel .ss-tab:focus-visible {
+  outline: none;
+  background: var(--surface-3);
+}
+
+.ss-panel .ss-pane {
+  padding: 8px 0 24px;
+}
+
+.ss-panel .ss-pane > * {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.ss-panel .ss-row {
+  position: relative;
+  margin: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.ss-panel .ss-row::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 6px;
+  width: 2px;
+  border-radius: 2px;
+  background: transparent;
+}
+
+.ss-panel .ss-row:focus-within::before {
+  background: var(--accent);
+}
+
+.ss-panel .ss-label {
+  margin-bottom: 4px;
+  font-size: var(--ss-fs);
+  font-weight: 600;
+}
+
+.ss-panel .ss-label .ss-out {
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.ss-panel .hint,
+.ss-panel .ss-hint {
+  margin: 2px 0 8px;
+  color: var(--muted);
+  font-size: 0.75rem;
+  line-height: 1.45;
+}
+
+.ss-panel .ss-range {
+  height: 44px;
+}
+
+.ss-panel .ss-preview {
+  margin: 4px 16px 8px;
+  padding: 12px 14px;
+  border-radius: var(--radius-sm);
+  font-size: min(var(--read-size), 1.0625rem);
+}
+
+/* choices as a flat list */
+.ss-panel .ss-presets {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.ss-panel .ss-preset {
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: var(--tap);
+  padding: 6px 12px;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 1px solid var(--border);
+  background: transparent;
+  box-shadow: none;
+  font-size: var(--ss-fs);
+}
+
+.ss-panel .ss-preset:last-child {
+  border-bottom: 0;
+}
+
+.ss-panel .ss-preset small {
+  text-align: right;
+}
+
+.ss-panel .ss-preset:hover,
+.ss-panel .ss-font:hover {
+  background: var(--surface-3);
+}
+
+.ss-panel .ss-preset[aria-checked="true"],
+.ss-panel .ss-font[aria-checked="true"] {
+  background: var(--hl);
+  box-shadow: inset 2px 0 0 var(--accent);
+}
+
+.ss-panel .ss-preset:focus-visible,
+.ss-panel .ss-font:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.ss-panel .ss-font-group + .ss-font-group {
+  margin-top: 14px;
+}
+
+.ss-panel .ss-font-head {
+  margin: 0 0 4px;
+  font-size: 0.6875rem;
+}
+
+.ss-panel .ss-font-grid {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.ss-panel .ss-font {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: var(--tap);
+  padding: 4px 12px;
+  border: 0;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.ss-panel .ss-font-grid > .ss-font:last-child {
+  border-bottom: 0;
+}
+
+.ss-panel .ss-font-name {
+  flex: none;
+  color: var(--text);
+  font-size: var(--ss-fs);
+  font-weight: 500;
+}
+
+.ss-panel .ss-font-sample {
+  min-width: 0;
+  font-size: 1rem;
+  text-align: right;
+}
+
+.ss-panel .ss-swatches {
+  grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
+  gap: 6px;
+}
+
+.ss-panel .ss-sw {
+  border-width: 1px;
+  border-radius: var(--radius-sm);
+}
+
+.ss-panel .ss-sw[aria-checked="true"] {
+  box-shadow: 0 0 0 1px var(--accent);
+}
+
+/* VS Code puts the checkbox first, a bold title and a muted description after it */
+.ss-panel .ss-checks {
+  margin: 0;
+}
+
+.ss-panel .ss-check {
+  margin: 0;
+  padding: 0 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.ss-panel .ss-check label {
+  font-size: var(--ss-fs);
+}
+
+.ss-panel .ss-check .hint {
+  margin: 2px 0 0;
+}
+
+.ss-panel .dialog-body {
+  font-size: var(--ss-fs);
+}
+
+/* dropdown pickers (font, typography preset): full width, like an enum setting in VS Code */
+.ss-panel .ss-dd {
+  display: block;
+  width: 100%;
+  min-height: var(--tap);
+  font-size: var(--ss-fs);
+}
+
+/* wide enough for one row: stepper and theme switch side by side */
+@media (min-width: 401px) {
+  .ss-panel .ss-quick > :last-child {
+    grid-column: auto;
+  }
 }

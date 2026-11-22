@@ -178,7 +178,7 @@ export interface PlayerApi {
 
 // ---------------------------------------------------------------- settings panel (W3)
 
-export type SettingsTab = 'theme' | 'font' | 'layout' | 'voice' | 'source';
+export type SettingsTab = 'theme' | 'font' | 'layout' | 'voice' | 'source' | 'account';
 
 export interface SettingsPanelApi {
   /** Opens the panel (modal sheet), optionally on a tab. */
@@ -262,4 +262,6 @@ export interface AppEvents {
   player: PlayerState;
   /** navigator.onLine changed. */
   online: boolean;
+  /** The Google session changed (signed in, signed out, token rejected, profile refreshed). */
+  auth: { signedIn: boolean };
 }
