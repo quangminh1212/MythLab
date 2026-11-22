@@ -57,6 +57,8 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <!-- in-app update: hand the downloaded APK to the system installer (AppUpdatePlugin) -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <!-- Google sign-in (play-services-auth) pulls in advertising permissions the app never uses -->
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" tools:node="remove" />

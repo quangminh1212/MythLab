@@ -178,7 +178,7 @@ export interface PlayerApi {
 
 // ---------------------------------------------------------------- settings panel (W3)
 
-export type SettingsTab = 'theme' | 'font' | 'layout' | 'voice' | 'source' | 'account';
+export type SettingsTab = 'theme' | 'font' | 'layout' | 'voice' | 'source' | 'account' | 'app';
 
 export interface SettingsPanelApi {
   /** Opens the panel (modal sheet), optionally on a tab. */
