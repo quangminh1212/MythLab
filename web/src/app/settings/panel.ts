@@ -17,6 +17,8 @@ import { bindControls, checkRow, rangeRow, segRow, syncControls } from './contro
 import { matchPreset, presetValues, TYPO_PRESETS } from './presets';
 import { auth } from '../core/auth';
 import { mountAccount } from './account';
+import { mountApp } from './app';
+import { appUpdate } from '../core/app-update';
 import { mountSource } from './source';
 import { mountVoice } from './voice';
 
@@ -31,10 +33,12 @@ export const TABS: TabDef[] = [
   { id: 'voice', label: 'Giọng đọc' },
   { id: 'source', label: 'Nguồn dữ liệu' },
   { id: 'account', label: 'Tài khoản' },
+  { id: 'app', label: 'Ứng dụng' },
 ];
 
-/** The tabs to show: "Tài khoản" only when the server offers Google sign-in (or a session exists). */
-export const visibleTabs = (): TabDef[] => TABS.filter((t) => t.id !== 'account' || auth.available() || auth.signedIn());
+/** The tabs to show: "Tài khoản" only when the server offers Google sign-in (or a session exists); "Ứng dụng" only in the Android app. */
+export const visibleTabs = (): TabDef[] =>
+  TABS.filter((t) => (t.id !== 'account' || auth.available() || auth.signedIn()) && (t.id !== 'app' || appUpdate.available()));
 
 /** Quick row: the three everyday choices; the Giao diện tab has every theme. */
 const THEME_OPTIONS: ['light' | 'dark' | 'auto', string][] = [
@@ -248,6 +252,7 @@ function open(tab?: SettingsTab): void {
       unmountVoice();
       unmountSource();
       unmountAccount();
+      unmountApp();
       dlg = null;
     },
     body: html`<div class="ss-top">
@@ -270,6 +275,7 @@ function open(tab?: SettingsTab): void {
         <section class="ss-pane" role="tabpanel" id="ss-pane-voice" aria-labelledby="ss-tab-voice" tabindex="0" hidden>${voiceTab()}</section>
         <section class="ss-pane" role="tabpanel" id="ss-pane-source" aria-labelledby="ss-tab-source" tabindex="0" hidden></section>
         ${shown.some((t) => t.id === 'account') ? html`<section class="ss-pane" role="tabpanel" id="ss-pane-account" aria-labelledby="ss-tab-account" tabindex="0" hidden></section>` : ''}
+        ${shown.some((t) => t.id === 'app') ? html`<section class="ss-pane" role="tabpanel" id="ss-pane-app" aria-labelledby="ss-tab-app" tabindex="0" hidden></section>` : ''}
       </div>`,
     footer: html`<button type="button" class="btn" data-reset>Đặt lại mặc định</button><button type="button" class="btn btn-primary" data-close>Xong</button>`,
     initialFocus: `#ss-tab-${first}`,
@@ -297,6 +303,8 @@ function open(tab?: SettingsTab): void {
   let sourceMounted = false;
   let unmountAccount = (): void => {};
   let accountMounted = false;
+  let unmountApp = (): void => {};
+  let appMounted = false;
   root.addEventListener('settings-tab', (e) => {
     const id = (e as CustomEvent<SettingsTab>).detail;
     lastTab = id;
@@ -312,6 +320,11 @@ function open(tab?: SettingsTab): void {
     if (id === 'account' && accountPane && !accountMounted) {
       accountMounted = true;
       unmountAccount = mountAccount(accountPane);
+    }
+    const appPane = root.querySelector<HTMLElement>('#ss-pane-app');
+    if (id === 'app' && appPane && !appMounted) {
+      appMounted = true;
+      unmountApp = mountApp(appPane);
     }
   });
 

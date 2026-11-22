@@ -19,6 +19,7 @@ import { router } from './core/router';
 import { settings } from './core/settings';
 import { bindToasts, showError, skeleton, toast } from './core/ui';
 import { shell } from './shell';
+import { appUpdate } from './core/app-update';
 
 declare global {
   interface Window {
@@ -53,6 +54,18 @@ function loadingView(el: HTMLElement, route: Route): void {
           ? skeleton.lines(12)
           : skeleton.cards(12);
   render(el, html`<div class="page">${skeleton.view(inner)}</div>`);
+}
+
+/** Android app: one quiet check at launch; a toast offers the update once per new version. */
+async function announceUpdate(): Promise<void> {
+  if (!appUpdate.available()) return;
+  const s = await appUpdate.check();
+  if (s.kind !== 'available' || !appUpdate.firstSight(s.latest.versionCode)) return;
+  toast({
+    message: `Có bản mới ${s.latest.versionName} của MythLab.`,
+    action: { label: 'Cập nhật', run: () => void import('./settings/panel').then((m) => m.settingsPanel.open('app')) },
+    duration: 12000,
+  });
 }
 
 async function boot(): Promise<void> {
@@ -106,6 +119,7 @@ async function boot(): Promise<void> {
     else setTimeout(fn, 1500);
   };
   idle(() => {
+    void announceUpdate();
     void import('./pwa').then(
       (m) => m.pwa.init(),
       () => {},
