@@ -5,6 +5,7 @@ vi.mock('../settings', async (orig) => ({ ...(await orig<typeof import('../setti
 
 import { CACHE, chapterKey, fingerprint, HDR_AT, identUrl, LIMIT, scopeOf } from '../../../sw/shared';
 import { createServerBackend } from './server';
+import { pinnedNativeServer } from './index';
 
 const store = new Map<string, Map<string, Response>>();
 function fakeCaches(): CacheStorage {
@@ -178,6 +179,14 @@ describe('native offline reading', () => {
       const t = await createServerBackend('http://h:1', 'k').get<{ title: string }>('/story?source=local0&key=story');
       expect(t.title).toBe('live');
     });
+  });
+
+  it('pins the native app to myth.xlabrnd.com and leaves other builds alone', () => {
+    expect(pinnedNativeServer(null, false)).toBeNull();
+    expect(pinnedNativeServer({ url: 'http://192.168.1.113:8765', key: 'k' }, false)?.url).toBe('http://192.168.1.113:8765');
+    expect(pinnedNativeServer(null, true)).toEqual({ url: 'https://myth.xlabrnd.com', key: '' });
+    expect(pinnedNativeServer({ url: 'http://192.168.1.9:8765', key: 'lan' }, true)).toEqual({ url: 'https://myth.xlabrnd.com', key: '' });
+    expect(pinnedNativeServer({ url: 'https://myth.xlabrnd.com/truyen', key: 'kept' }, true)).toEqual({ url: 'https://myth.xlabrnd.com/truyen', key: 'kept' });
   });
 
   it('serves the saved copy when the network fails, and remembers live answers', async () => {
