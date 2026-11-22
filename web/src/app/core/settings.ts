@@ -278,25 +278,99 @@ export function apply(): void {
   void ensure(S.font);
 }
 
-/** `<meta name="theme-color">` follows the page background (or the reading preset on reader routes). */
-export function syncThemeColor(): void {
-  const meta = document.querySelector<HTMLMetaElement>('meta[name="theme-color"]');
-  if (!meta || typeof getComputedStyle !== 'function') return;
-  const cs = getComputedStyle(document.documentElement);
-  const reading = document.body?.classList.contains('view-read');
-  const c = ((reading && cs.getPropertyValue('--read-bg')) || cs.getPropertyValue('--header-bg') || cs.getPropertyValue('--bg')).trim();
-  if (c) meta.content = c;
-  syncStatusBar();
+interface RGB {
+  r: number;
+  g: number;
+  b: number;
+  a: number;
 }
 
-/** Android (Capacitor SystemBars): light icons on dark themes, dark icons on light ones. A no-op elsewhere. */
-export function syncStatusBar(): void {
+function parseColor(s: string): RGB | null {
+  const t = s.trim();
+  const hex = /^#([0-9a-f]{3,8})$/i.exec(t);
+  if (hex) {
+    let h = hex[1] as string;
+    if (h.length === 3 || h.length === 4) h = [...h].map((c) => c + c).join('');
+    if (h.length !== 6 && h.length !== 8) return null;
+    const n = Number.parseInt(h.slice(0, 6), 16);
+    return { r: (n >> 16) & 255, g: (n >> 8) & 255, b: n & 255, a: h.length === 8 ? Number.parseInt(h.slice(6), 16) / 255 : 1 };
+  }
+  const rgb = /^rgba?\(\s*([\d.]+)[\s,]+([\d.]+)[\s,]+([\d.]+)\s*(?:[,/]\s*([\d.]+)\s*)?\)$/i.exec(t);
+  if (!rgb) return null;
+  return { r: Number(rgb[1]), g: Number(rgb[2]), b: Number(rgb[3]), a: rgb[4] === undefined ? 1 : Number(rgb[4]) };
+}
+
+function toHex(r: number, g: number, b: number): string {
+  const h = (n: number): string => Math.max(0, Math.min(255, Math.round(n))).toString(16).padStart(2, '0');
+  return `#${h(r)}${h(g)}${h(b)}`;
+}
+
+/** Opaque `#rrggbb`. A translucent `fg` is composited over `bg` (status-bar APIs reject rgba). */
+export function solidHex(fg: string, bg = '#000000'): string {
+  const f = parseColor(fg);
+  const under = parseColor(bg);
+  if (!f) return under ? toHex(under.r, under.g, under.b) : '#0d9488';
+  if (f.a >= 0.999 || !under) return toHex(f.r, f.g, f.b);
+  const a = Math.max(0, Math.min(1, f.a));
+  return toHex(f.r * a + under.r * (1 - a), f.g * a + under.g * (1 - a), f.b * a + under.b * (1 - a));
+}
+
+/** Solid chrome colour: the reading page, or the frosted header composited over the page. */
+export function chromeColor(): string {
+  if (typeof getComputedStyle !== 'function') return '#0d9488';
+  const cs = getComputedStyle(document.documentElement);
+  const reading = !!document.body?.classList.contains('view-read');
+  const page = cs.getPropertyValue('--bg').trim() || '#000000';
+  const raw = (reading ? cs.getPropertyValue('--read-bg') : cs.getPropertyValue('--header-bg')).trim();
+  return solidHex(raw || page, reading ? raw || page : page);
+}
+
+/** `<meta name="theme-color">` follows the page (a solid colour; reader routes use the reading background). */
+export function syncThemeColor(): void {
+  const meta = document.querySelector<HTMLMetaElement>('meta[name="theme-color"]');
+  const c = chromeColor();
+  if (meta && c) meta.content = c;
+  syncStatusBar(c);
+}
+
+interface ThemeBarsPlugin {
+  apply(o: { color: string; dark: boolean }): unknown;
+}
+interface SystemBarsPlugin {
+  setStyle(o: { style: string }): unknown;
+}
+
+const quiet = (r: unknown): void => {
+  try {
+    void Promise.resolve(r).catch(() => {});
+  } catch {
+    // ignore
+  }
+};
+
+/**
+ * Android: paint the system bars and pick light or dark icons.
+ * The bridge global exposes plugins on `Capacitor.Plugins` (`registerPlugin` exists only in the bundled core,
+ * the same gap as the media service). ThemeBars sets the colour; SystemBars is the icon-only fallback.
+ */
+export function syncStatusBar(color?: string): void {
   try {
     if (!isNative()) return;
-    const c = (globalThis as { Capacitor?: { registerPlugin?: (n: string) => { setStyle?: (o: { style: string }) => unknown } } }).Capacitor;
-    const bars = c?.registerPlugin?.('SystemBars');
-    const r = bars?.setStyle?.({ style: isDark() ? 'DARK' : 'LIGHT' });
-    void Promise.resolve(r).catch(() => {});
+    const cap = (
+      globalThis as {
+        Capacitor?: { Plugins?: Record<string, unknown>; registerPlugin?: (n: string) => unknown };
+      }
+    ).Capacitor;
+    const hex = color || chromeColor();
+    const dark = isDark();
+    const plugins = cap?.Plugins;
+    const theme = plugins?.ThemeBars as ThemeBarsPlugin | undefined;
+    if (theme?.apply) {
+      quiet(theme.apply({ color: hex, dark }));
+      return;
+    }
+    const bars = (plugins?.SystemBars ?? (cap?.registerPlugin ? cap.registerPlugin('SystemBars') : null)) as SystemBarsPlugin | null;
+    if (bars?.setStyle) quiet(bars.setStyle({ style: dark ? 'DARK' : 'LIGHT' }));
   } catch {
     // no native bars
   }
@@ -363,6 +437,7 @@ export function reset(keys?: SettingKey[]): void {
 }
 
 let started = false;
+let barTimer = 0;
 /** Loads, applies and starts following the system scheme and changes made in other tabs. Idempotent. */
 export function init(): void {
   load();
@@ -381,6 +456,13 @@ export function init(): void {
     apply();
     notify(null, null);
   });
+  // rotation: Capacitor SystemBars repaints the decor view teal; re-apply after it
+  if (isNative()) {
+    window.addEventListener('resize', () => {
+      window.clearTimeout(barTimer);
+      barTimer = window.setTimeout(() => syncStatusBar(), 80);
+    });
+  }
 }
 
-export const settings = { DEF, S, RANGE, presets, defaults, normalise, load, save, apply, get, set, patch, reset, onChange, init, isDark, scheme, activePreset, fontStack, syncThemeColor, syncStatusBar, isNative };
+export const settings = { DEF, S, RANGE, presets, defaults, normalise, load, save, apply, get, set, patch, reset, onChange, init, isDark, scheme, activePreset, fontStack, solidHex, chromeColor, syncThemeColor, syncStatusBar, isNative };

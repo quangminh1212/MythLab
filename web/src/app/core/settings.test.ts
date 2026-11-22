@@ -1,5 +1,5 @@
-import { beforeEach, describe, expect, it } from 'vitest';
-import { DEF, RANGE, S, activePreset, apply, defaults, get, load, normalise, onChange, patch, reset, scheme, set } from './settings';
+import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { DEF, RANGE, S, activePreset, apply, chromeColor, defaults, get, load, normalise, onChange, patch, reset, scheme, set, solidHex, syncStatusBar, syncThemeColor } from './settings';
 
 const KEY = 'mythlab.settings';
 const stored = (): Record<string, unknown> => JSON.parse(localStorage.getItem(KEY) || '{}') as Record<string, unknown>;
@@ -127,5 +127,58 @@ describe('theme and accent persistence', () => {
     expect(document.documentElement.dataset.accent).toBe('violet');
     expect(normalise('accent', 'nope')).toBe('default');
     expect(normalise('theme', 'neon')).toBe('light');
+  });
+});
+
+describe('system bar colour', () => {
+  it('composites a frosted header into an opaque hex', () => {
+    expect(solidHex('#0b1120')).toBe('#0b1120');
+    expect(solidHex('rgba(255, 255, 255, 0.94)', '#f3f4f6')).toBe('#fefefe');
+    expect(solidHex('rgba(0, 0, 0, 0.92)', '#000000')).toBe('#000000');
+    expect(solidHex('not-a-color', '#111827')).toBe('#111827');
+    expect(solidHex('nope', 'also-nope')).toBe('#0d9488');
+  });
+
+  it('theme-color is the header over the page, or the reading background', () => {
+    const root = document.documentElement;
+    root.style.setProperty('--bg', '#f3f4f6');
+    root.style.setProperty('--header-bg', 'rgba(255, 255, 255, 0.94)');
+    root.style.setProperty('--read-bg', '#1f2937');
+    document.body.classList.remove('view-read');
+    const meta = document.createElement('meta');
+    meta.name = 'theme-color';
+    document.head.appendChild(meta);
+    syncThemeColor();
+    expect(chromeColor()).toBe('#fefefe');
+    expect(meta.content).toBe('#fefefe');
+    document.body.classList.add('view-read');
+    syncThemeColor();
+    expect(meta.content).toBe('#1f2937');
+    meta.remove();
+    root.style.removeProperty('--bg');
+    root.style.removeProperty('--header-bg');
+    root.style.removeProperty('--read-bg');
+    document.body.classList.remove('view-read');
+  });
+
+  it('asks ThemeBars on the native bridge, and SystemBars when that plugin is absent', () => {
+    const applyBars = vi.fn(async () => ({}));
+    const setStyle = vi.fn(async () => ({}));
+    const g = globalThis as { Capacitor?: unknown };
+    g.Capacitor = { isNativePlatform: () => true, Plugins: { ThemeBars: { apply: applyBars }, SystemBars: { setStyle } } };
+    document.documentElement.style.setProperty('--bg', '#0b1120');
+    document.documentElement.style.setProperty('--header-bg', '#0b1120');
+    set('theme', 'dark');
+    syncStatusBar('#0b1120');
+    expect(applyBars).toHaveBeenCalledWith({ color: '#0b1120', dark: true });
+    expect(setStyle).not.toHaveBeenCalled();
+    g.Capacitor = { isNativePlatform: () => true, Plugins: { SystemBars: { setStyle } } };
+    syncStatusBar('#0b1120');
+    expect(setStyle).toHaveBeenCalledWith({ style: 'DARK' });
+    g.Capacitor = { isNativePlatform: () => false, Plugins: { ThemeBars: { apply: applyBars } } };
+    applyBars.mockClear();
+    syncStatusBar('#ffffff');
+    expect(applyBars).not.toHaveBeenCalled();
+    delete g.Capacitor;
   });
 });
