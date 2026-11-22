@@ -269,6 +269,10 @@ export async function search(q: string, o: { limit?: number; offset?: number; so
   const query = q.trim();
   if (!query) return { q: '', total: 0, items: [], partial: false };
   await backend.init();
+  if (local) {
+    if (Date.now() - local.at > LOCAL_FRESH) void preload(); // refresh behind the scenes, answer from memory now
+    return rank(local.items, query, o, { stories: local.items.length, repos: 1, reposTotal: 1 });
+  }
   if (backend.api >= 2) {
     const p = new URLSearchParams({ q: query, limit: String(limit), offset: String(offset) });
     if (o.source) p.set('source', o.source);
@@ -287,8 +291,15 @@ export async function search(q: string, o: { limit?: number; offset?: number; so
   }
   await warmMatchingRepos(query, o.signal);
   const known = await knownStories(o.signal);
+  return rank(known.items, query, o, { stories: known.items.length, repos: known.repos, reposTotal: known.reposTotal });
+}
+
+/** Ranks `all` against the query (name match first, then author/genre/tag) and pages the result. */
+function rank(all: StorySummary[], query: string, o: { limit?: number; offset?: number; source?: string }, indexed: { stories: number; repos: number; reposTotal: number }): SearchResult {
+  const limit = o.limit ?? 24;
+  const offset = Math.max(0, o.offset ?? 0);
   const toks = tokens(query);
-  const pool = o.source ? known.items.filter((s) => s.source === o.source) : known.items;
+  const pool = o.source ? all.filter((s) => s.source === o.source) : all;
   const nq = normKey(query);
   const scored: { s: StorySummary; score: number }[] = [];
   for (const s of pool) {
@@ -298,13 +309,38 @@ export async function search(q: string, o: { limit?: number; offset?: number; so
     scored.push({ s, score: name === nq ? 0 : name.startsWith(nq) ? 1 : inName ? 2 : 3 });
   }
   scored.sort((a, b) => a.score - b.score || viCompare(a.s.name, b.s.name));
-  return {
-    q: query,
-    total: scored.length,
-    items: scored.slice(offset, offset + limit).map((x) => x.s),
-    indexed: { stories: known.items.length, repos: known.repos, reposTotal: known.reposTotal },
-    partial: known.repos < known.reposTotal,
-  };
+  return { q: query, total: scored.length, items: scored.slice(offset, offset + limit).map((x) => x.s), indexed, partial: indexed.repos < indexed.reposTotal };
+}
+
+// ---------------------------------------------------------------- preloaded library
+
+/** The whole library when every source is served by this device/server (no GitHub repositories): searched in memory. */
+let local: { items: StorySummary[]; at: number } | null = null;
+let localLoading: Promise<void> | null = null;
+const LOCAL_FRESH = 5 * 60_000;
+
+async function loadLocal(): Promise<void> {
+  await backend.init();
+  if (backend.api < 2) return;
+  const src = (await sources()).sources.filter((s) => s.available);
+  if (!src.length || src.some((s) => s.kind === 'github')) {
+    local = null;
+    return;
+  }
+  const lists = await Promise.all(
+    src.map((s) => backend.get<StoriesResponse>(`/stories?source=${enc(s.id)}`, { timeout: 90_000 }).then((j) => (j.stories || []).map((x) => ({ ...x, source: s.id, repo: null })))),
+  );
+  local = { items: lists.flat(), at: Date.now() };
+}
+
+/** Loads the story list ahead of time so the first search is instant. Safe to call repeatedly. */
+export function preload(): Promise<void> {
+  localLoading ??= loadLocal()
+    .catch(() => {})
+    .finally(() => {
+      localLoading = null;
+    });
+  return localLoading;
 }
 
 /**
@@ -331,4 +367,4 @@ export async function indexAll(o: { signal?: AbortSignal; onProgress?(done: numb
   if (o.signal?.aborted) throw new DOMException('Aborted', 'AbortError');
 }
 
-export const data = { sources, stories, story, chapter, queryStories, filterStories, search, indexAll, invalidate, isAbort, tagCounts };
+export const data = { preload, sources, stories, story, chapter, queryStories, filterStories, search, indexAll, invalidate, isAbort, tagCounts };

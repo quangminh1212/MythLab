@@ -4,6 +4,7 @@
  * entry stays small.
  */
 import { backend } from './core/backend/index';
+import { data } from './core/data';
 import { initSecret } from './core/secret';
 import type { Route, ViewModule, ViewName } from './core/contracts';
 import { emit, on } from './core/events';
@@ -11,6 +12,8 @@ import { html, render } from './core/html';
 import { library } from './core/library';
 import { progress } from './core/progress';
 import { progressSync } from './core/progress-sync';
+import { auth } from './core/auth';
+import { librarySync } from './core/library-sync';
 import { init as initBackNav } from './core/backnav';
 import { router } from './core/router';
 import { settings } from './core/settings';
@@ -57,6 +60,8 @@ async function boot(): Promise<void> {
   bindToasts();
   progress.init();
   void progressSync.init(); // waits for the backend; syncs only with a server that offers "progress"
+  void librarySync.init(); // account only: follows and bookmarks, when the server lists "library"
+  void auth.init(); // checks a stored Google session once the backend is known
   library.init();
   shell.init();
 
@@ -88,6 +93,7 @@ async function boot(): Promise<void> {
   initBackNav();
   on('backend', () => router.reload());
   void shell.refreshSources();
+  void data.preload(); // the library list, so the first search needs no round trip
 
   window.__mlBooted = true;
   clearTimeout(window.__mlBootTimer);

@@ -10,6 +10,8 @@ services:
     environment:
       MYTHLAB_ACCESS_KEY: ${MYTHLAB_ACCESS_KEY:?set MYTHLAB_ACCESS_KEY in .env (see .env.example)}
       GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+      MYTHLAB_GOOGLE_CLIENT_ID: ${MYTHLAB_GOOGLE_CLIENT_ID:-}
+      MYTHLAB_ALLOWED_EMAILS: ${MYTHLAB_ALLOWED_EMAILS:-}
     volumes:
       - mythlab-data:/data
       # - ./library:/data/library:ro      # bind-mount your own stories

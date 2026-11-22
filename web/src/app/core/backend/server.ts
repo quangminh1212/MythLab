@@ -1,9 +1,13 @@
 /** Server backend: the `/api/*` routes of the MythLab server, same origin (base "") or remote (URL + LAN key). */
+import { authToken, rejectToken } from '../auth-token';
 import { isNative } from '../settings';
 import { apiRoute, CACHE, chapterKey, chapterParams, fingerprint, HDR_AT, identUrl, LIMIT, scopeOf } from '../../../sw/shared';
 import { ApiError, type BackendImpl, type CoverRef, type GetOptions, type PingResponse, type SendOptions, type TtsOptions } from './types';
 
 const norm = (p: string): string => '/' + String(p || '').replace(/^\/+/, '').replace(/^api\//, '');
+
+/** Routes a session token may reach (the server accepts it nowhere else): sync data and the session itself. */
+const BEARER_PATH = /^\/(progress|library|auth\/me|auth\/logout)(?:[/?]|$)/;
 
 export const COVER_WIDTHS = [160, 240, 320, 480] as const;
 
@@ -14,6 +18,8 @@ export interface ServerBackend extends BackendImpl {
   ping(timeout?: number): Promise<PingResponse | null>;
   /** Optional capabilities the last ping reported (empty before a ping and on the Python server). */
   features: string[];
+  /** Google sign-in offered by the server (from the last ping), or null. */
+  auth: { google: boolean; clientId: string } | null;
   /** JSON request with a body (PUT/POST) to an API route; resolves the parsed answer, rejects with ApiError. */
   send<T = unknown>(method: 'PUT' | 'POST', path: string, body: unknown, opts?: SendOptions): Promise<T>;
 }
@@ -55,6 +61,12 @@ const NATIVE_FALLBACK_MS = 8_000;
 export function createServerBackend(baseIn = '', key = ''): ServerBackend {
   const base = String(baseIn || '').replace(/\/+$/, '');
   const headers: Record<string, string> = key ? { 'X-MythLab-Key': key } : {};
+  /** The signed-in user's token, only for the routes that take it and only to this server. */
+  const bearer = (path: string): string => (BEARER_PATH.test(norm(path)) ? authToken(base) : '');
+  const withBearer = (path: string, extra: Record<string, string> = {}): { headers: Record<string, string>; sent: string } => {
+    const sent = bearer(path);
+    return { headers: sent ? { ...headers, ...extra, Authorization: 'Bearer ' + sent } : { ...headers, ...extra }, sent };
+  };
 
   // The native app has no service worker (its https://localhost origin cannot fetch a plain-http server from one),
   // so the page itself keeps the last good data answers and serves downloaded chapters when the network is gone.
@@ -151,16 +163,18 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
 
   async function getLive<T = unknown>(path: string, { timeout = 0, signal }: GetOptions = {}): Promise<T> {
     const t = withTimeout(timeout, signal);
+    const sent = withBearer(path);
     try {
       let r: Response;
       try {
-        r = await fetch(base + '/api' + norm(path), { headers, signal: t.signal });
+        r = await fetch(base + '/api' + norm(path), { headers: sent.headers, signal: t.signal });
       } catch (e) {
         // Our own timeout is a network failure (the caller shows an error), not a user abort, which views ignore silently.
         if (t.timedOut()) throw new Error('Máy chủ không phản hồi', { cause: e });
         throw e;
       }
       const j = (await r.json().catch(() => ({ error: `HTTP ${r.status}` }))) as { error?: unknown; code?: unknown };
+      if (r.status === 401 && sent.sent) rejectToken(sent.sent);
       if (!r.ok || j.error) {
         // `error` is a string today; tolerate the structured {code, message} form as well
         const e = j.error as string | { message?: string; code?: string } | undefined;
@@ -193,6 +207,7 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
       if (!j) return null;
       self.api = typeof j.api === 'number' && j.api >= 2 ? j.api : 1;
       self.features = Array.isArray(j.features) ? j.features.filter((f): f is string => typeof f === 'string') : [];
+      self.auth = j.auth && j.auth.google === true && typeof j.auth.client_id === 'string' && j.auth.client_id ? { google: true, clientId: j.auth.client_id } : null;
       return j;
     } catch {
       return null;
@@ -203,15 +218,18 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
 
   async function send<T = unknown>(method: 'PUT' | 'POST', path: string, body: unknown, { timeout = 15_000, signal, keepalive }: SendOptions = {}): Promise<T> {
     const t = withTimeout(timeout, signal);
+    const sent = withBearer(path, { 'Content-Type': 'application/json' });
     try {
       const r = await fetch(base + '/api' + norm(path), {
         method,
-        headers: { ...headers, 'Content-Type': 'application/json' },
+        headers: sent.headers,
         body: JSON.stringify(body),
         signal: t.signal,
         keepalive: keepalive || undefined,
         cache: 'no-store',
       });
+      if (r.status === 401 && sent.sent) rejectToken(sent.sent);
+      if (r.status === 204) return {} as T;
       const j = (await r.json().catch(() => ({ error: `HTTP ${r.status}` }))) as { error?: unknown; code?: unknown };
       if (!r.ok || j.error) {
         const e = j.error as string | { message?: string } | undefined;
@@ -262,6 +280,6 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
     return /^https?:\/\//i.test(u) ? u : null;
   }
 
-  const self: ServerBackend = { kind: 'server', base, api: 1, features: [], get, send, ttsUrl, coverUrl, ping, mediaNeedsFetch: !!key, fetchMedia };
+  const self: ServerBackend = { kind: 'server', base, api: 1, features: [], auth: null, get, send, ttsUrl, coverUrl, ping, mediaNeedsFetch: !!key, fetchMedia };
   return self;
 }

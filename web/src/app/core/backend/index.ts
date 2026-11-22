@@ -151,6 +151,10 @@ export const backend = {
   get features(): readonly string[] {
     return impl && impl.kind === 'server' ? impl.features : [];
   },
+  /** Google sign-in offered by the active server (from its last ping), or null. */
+  get auth(): { google: boolean; clientId: string } | null {
+    return impl && impl.kind === 'server' ? impl.auth : null;
+  },
   /** PUT/POST JSON to the server API. Only the server backend can write: GitHub-direct rejects with 501. */
   async send<T = unknown>(method: 'PUT' | 'POST', path: string, body: unknown, opts?: SendOptions): Promise<T> {
     await backend.init();

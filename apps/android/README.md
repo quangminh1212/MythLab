@@ -7,7 +7,7 @@ chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính c�
 
 | Tệp | Vai trò |
 |---|---|
-| `package.json` | Capacitor 8 (`core`, `cli`, `android`), `@capacitor/preferences`, `@capacitor-community/text-to-speech`, `@capacitor-community/keep-awake` |
+| `package.json` | Capacitor 8 (`core`, `cli`, `android`), `@capacitor/preferences`, `@capacitor-community/text-to-speech`, `@capacitor-community/keep-awake`, `@capgo/capacitor-social-login` (đăng nhập Google, xem `GOOGLE_SIGNIN.md`) |
 | `capacitor.config.json` | `appId io.github.mythlab.reader`, tên `MythLab Truyện`, `webDir www`, scheme `https`, cho phép mixed content (lý do ở mục Bảo mật mạng) |
 | `sync-web.mjs` | Chép `../../web/dist` vào `www/` và bỏ `viewport-fit=cover` khỏi `index.html` (để thanh trạng thái màu teal không đè lên header) |
 | `build.ps1` | Đặt `JAVA_HOME` (JDK 21) và `ANDROID_HOME`, dựng web, chạy `sync-web`, `cap sync`, Gradle, chép APK vào `dist/` |

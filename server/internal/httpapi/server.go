@@ -16,10 +16,12 @@ import (
 	"sync"
 	"time"
 
+	"mythlab/internal/auth"
 	"mythlab/internal/covers"
 	"mythlab/internal/library"
 	"mythlab/internal/progress"
 	"mythlab/internal/tts"
+	"mythlab/internal/userlib"
 )
 
 // Options wires the HTTP layer to the rest of the server.
@@ -31,6 +33,11 @@ type Options struct {
 	// Progress syncs reading progress between devices; nil = /api/progress is not served.
 	Progress *progress.Store
 	Static   fs.FS // the web UI (index.html at the root)
+
+	// Auth enables "Sign in with Google" (/api/auth/*); nil = not configured.
+	// Users then holds each account's progress and library stores.
+	Auth  *auth.Service
+	Users *userlib.Manager
 
 	// AccessKey returns the key non-loopback clients must present. It is
 	// called lazily; "" means no key can be had and such clients are refused.
@@ -49,6 +56,7 @@ type Server struct {
 	hosts  map[string]bool
 	static *staticFiles
 	gzPool sync.Pool
+	logins rateLimiter
 }
 
 // New builds the handler.
@@ -131,9 +139,9 @@ func MaskKey(uri string) string {
 // styles and loads fonts and icons from its own origin. connect-src, img-src
 // and media-src stay open to http(s) because the user chooses the API server
 // (LAN or remote), GitHub (api.github.com) and the poster hosts at runtime.
-const webCSP = "default-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; " +
+const webCSP = "default-src 'self'; script-src 'self' https://accounts.google.com/gsi/client; style-src 'self' https://accounts.google.com/gsi/style; frame-src https://accounts.google.com/gsi/; font-src 'self'; " +
 	"img-src 'self' data: blob: http: https:; media-src 'self' blob: http: https:; " +
-	"connect-src 'self' https://api.github.com http: https:; worker-src 'self'; manifest-src 'self'; " +
+	"connect-src 'self' https://api.github.com https://accounts.google.com/gsi/ http: https:; worker-src 'self'; manifest-src 'self'; " +
 	"object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
 
 func (s *Server) ServeHTTP(rw http.ResponseWriter, r *http.Request) {
@@ -170,8 +178,12 @@ func (s *Server) ServeHTTP(rw http.ResponseWriter, r *http.Request) {
 	}
 	switch r.Method {
 	case http.MethodGet, http.MethodHead:
-	case http.MethodPut:
-		if r.URL.Path != progressPath { // the only route that writes
+	case http.MethodPut, http.MethodPost:
+		ok := r.URL.Path == progressPath || r.URL.Path == libraryPath // the routes that write
+		if r.Method == http.MethodPost {
+			ok = r.URL.Path == authGooglePath || r.URL.Path == authLogoutPath
+		}
+		if !ok {
 			h.Set("Allow", "GET, HEAD, OPTIONS")
 			if isAPI {
 				s.cors(w, r)

@@ -9,14 +9,20 @@
  *   clock the server answers with its clock; the difference is added to outgoing timestamps and removed from
  *         incoming ones, so a device with a wrong clock does not win or lose merges it should not.
  *   fail  401/403 stop syncing (wrong key), 404/405 switch it off (old server); other errors back off 5 s .. 5 min.
+ *   user  signed in with Google: requests carry the session token (backend layer), the server then uses the
+ *         per-account store, so no access key is needed. The outbox and the cursor are kept per account, so a
+ *         device switching accounts never sends one account's pending changes to another; the first sync of an
+ *         account (no cursor yet) sends everything this device has.
  * Entries whose source the server does not list (other servers have other source ids) are neither sent nor applied.
  */
+import { accountId } from './auth-token';
 import { backend } from './backend';
 import type { Progress } from './contracts';
 import { on } from './events';
 import { sKey } from './format';
 import { progress, TOMB_AGE } from './progress';
 import { store } from './store';
+import { syncStatus } from './sync-status';
 
 export const OUTBOX_KEY = 'mythlab.progress.outbox';
 export const CURSOR_KEY = 'mythlab.progress.cursor';
@@ -62,22 +68,31 @@ function splitId(id: string): [string, string] {
   return [id.slice(0, i), id.slice(i + 1)];
 }
 
+/** Storage key of the signed-in account's state; the anonymous (access-key) state keeps the original name. */
+const scoped = (key: string): string => {
+  const id = accountId(backend.serverBase ?? '');
+  return id ? `${key}.${id}` : key;
+};
+
 function readOutbox(): Set<string> {
-  const v = store.get<unknown>(OUTBOX_KEY, []);
+  const v = store.get<unknown>(scoped(OUTBOX_KEY), []);
   return new Set(Array.isArray(v) ? v.filter((x): x is string => typeof x === 'string') : []);
 }
 function writeOutbox(s: Set<string>): void {
-  if (s.size) store.set(OUTBOX_KEY, [...s]);
-  else store.del(OUTBOX_KEY);
+  if (s.size) store.set(scoped(OUTBOX_KEY), [...s]);
+  else store.del(scoped(OUTBOX_KEY));
 }
 
 function readCursor(): number | null {
-  const c = store.get<{ base?: string; since?: number } | null>(CURSOR_KEY, null);
+  const c = store.get<{ base?: string; since?: number } | null>(scoped(CURSOR_KEY), null);
   return c && c.base === (backend.serverBase ?? '') && typeof c.since === 'number' ? c.since : null;
 }
-const writeCursor = (since: number): void => void store.set(CURSOR_KEY, { base: backend.serverBase ?? '', since });
+const writeCursor = (since: number): void => void store.set(scoped(CURSOR_KEY), { base: backend.serverBase ?? '', since });
 
-/** Is syncing possible with the active backend? */
+/**
+ * Is syncing possible with the active backend? A server that lists "progress" syncs for the access key (or an open
+ * server) and, when signed in with Google, for the account: the token replaces the key.
+ */
 export function supported(): boolean {
   return backend.kind === 'server' && backend.features.includes('progress');
 }
@@ -117,6 +132,7 @@ const currentTs = (id: string): number | undefined => {
 
 function fail(e: unknown): void {
   const status = (e as { status?: number } | null)?.status ?? 0;
+  syncStatus.fail('progress');
   if (status === 401 || status === 403) {
     stop(); // wrong or revoked key: stay quiet until the backend is chosen again
     return;
@@ -186,9 +202,11 @@ async function pushOnce(): Promise<void> {
 function enqueue(job: () => Promise<void>): Promise<void> {
   chain = chain.then(async () => {
     if (!running || disabled || !supported() || !online()) return;
+    syncStatus.start('progress');
     try {
       await job();
       failures = 0;
+      syncStatus.ok('progress');
     } catch (e) {
       fail(e);
     }
@@ -267,6 +285,7 @@ function bindOnce(): void {
     /* no native shell */
   }
   on('backend', () => void init());
+  on('auth', () => void init()); // another account (or none) has its own outbox and cursor
 }
 
 /** Starts or stops syncing for the backend that is active now. Called by main.ts; runs again when the backend changes. */
@@ -277,7 +296,10 @@ export async function init(): Promise<void> {
   disabled = false;
   failures = 0;
   sources = null;
-  if (!supported()) return;
+  if (!supported()) {
+    syncStatus.reset('progress');
+    return;
+  }
   running = true;
   progress.init();
   offLocal = progress.onLocalChange(onLocal);

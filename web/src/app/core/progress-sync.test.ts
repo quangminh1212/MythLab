@@ -12,6 +12,7 @@ const be = vi.hoisted(() => ({
 }));
 vi.mock('./backend', () => ({ backend: be }));
 
+import { setSession, _resetAuth } from './auth-token';
 import { progress } from './progress';
 import * as sync from './progress-sync';
 
@@ -32,6 +33,7 @@ beforeEach(() => {
   vi.useFakeTimers();
   vi.setSystemTime(1_000_000);
   localStorage.clear();
+  _resetAuth();
   progress._reset();
   sync._reset();
   be.kind = 'server';
@@ -215,6 +217,7 @@ describe('sync', () => {
   });
 });
 
+describe('signed in', () => {  it('uses a per-account cursor and outbox, leaving the anonymous ones alone', async () => {    localStorage.setItem('mythlab.progress.cursor', JSON.stringify({ base: 'http://srv', since: 5 }));    setSession({ token: 'T', user: { id: 'u1', name: 'A', email: 'a@x', picture: '' }, base: 'http://srv', expires: 0 });    progress.update(story('mine'));    await sync.init();    await vi.advanceTimersByTimeAsync(0);    expect(be.get).toHaveBeenCalledWith('/progress?since=0', expect.anything());    expect(JSON.parse(localStorage.getItem('mythlab.progress.cursor.u1') as string)).toEqual({ base: 'http://srv', since: 999_000 });    expect(JSON.parse(localStorage.getItem('mythlab.progress.cursor') as string)).toEqual({ base: 'http://srv', since: 5 });  });});
 describe('service worker', () => {
   it('never treats /api/progress as cacheable data', () => {
     expect(apiRoute('/api/progress')).toBe('other');
