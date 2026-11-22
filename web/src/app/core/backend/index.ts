@@ -1,7 +1,7 @@
 /**
  * Backend facade: picks the data source at boot and exposes one API for both.
  *   1. the server on the same origin (browser at :8765, desktop app) — skipped inside Capacitor;
- *   2. a remote server from `mythlab.server` {url, key};
+ *   2. a remote server from `mythlab.server` {url, key} — the native app is pinned to https://myth.xlabrnd.com;
  *   3. GitHub-direct with the token in `mythlab.ghToken` (encrypted at rest, see core/secret.ts) (+ `mythlab.ghSource` {owner?, prefix?, sid?});
  *   4. none → the onboarding view.
  * The LAN key and the token never appear in a URL: keyed media is fetched with the header and handed out as
@@ -20,6 +20,20 @@ export { createServerBackend } from './server';
 export { createGitHubBackend } from './github';
 
 export const SERVER_KEY = 'mythlab.server';
+/** Native builds always read from this host. A saved key is kept only when the stored URL is already this host. */
+export const NATIVE_SERVER_URL = 'https://myth.xlabrnd.com';
+
+export function pinnedNativeServer(current: ServerConfig | null, native: boolean): ServerConfig | null {
+  if (!native) return current;
+  if (current) {
+    try {
+      if (new URL(current.url).hostname.toLowerCase() === 'myth.xlabrnd.com') return current;
+    } catch {
+      /* replace an unparseable stored address */
+    }
+  }
+  return { url: NATIVE_SERVER_URL, key: '' };
+}
 export { TOKEN_KEY };
 export const GH_SOURCE_KEY = 'mythlab.ghSource';
 
@@ -52,6 +66,11 @@ function readGhSource(): GitHubOptions {
 async function select(): Promise<BackendKind> {
   impl = null;
   await initSecret(); // the token is decrypted into memory before it is read below
+  if (isNative()) {
+    const cur = readServer();
+    const next = pinnedNativeServer(cur, true);
+    if (next && (cur?.url !== next.url || (cur?.key || '') !== (next.key || ''))) store.set(SERVER_KEY, next);
+  }
   if (!isNative() && /^https?:$/.test(location.protocol)) {
     const same = createServerBackend('', '');
     const p = await same.ping(5000);
