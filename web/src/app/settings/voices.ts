@@ -70,11 +70,17 @@ export const cleanVoiceName = (name: string): string =>
     .replace(/\s+Online\s*\(Natural\)/i, '')
     .trim();
 
+/** Open-source Piper voices run on the server (offline, no Microsoft service): ids end in "Piper". */
+export const isPiperVoice = (id: string): boolean => /Piper$/.test(id);
+
+/** Adds " (offline)" to Piper voice names so they are told apart from Edge's online voices. */
+export const voiceDisplayName = (id: string, name: string): string => (isPiperVoice(id) && !/offline/i.test(name) ? `${name} (offline)` : name);
+
 /** Edge voices as "{name} — {id}"; device voices as "{name} ({lang})", Vietnamese first. */
 export function voiceItems(engine: TtsEngine, raw: { id: string; name?: string; lang?: string }[]): VoiceItem[] {
   if (engine === 'edge') {
     return raw.map((v) => {
-      const name = cleanVoiceName(v.name || '');
+      const name = voiceDisplayName(v.id, cleanVoiceName(v.name || ''));
       return { id: v.id, label: name && name !== v.id ? `${name} — ${v.id}` : v.id, vi: isVi(v.lang || v.id) };
     });
   }

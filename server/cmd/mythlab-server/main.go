@@ -1,7 +1,7 @@
 // Command mythlab-server is the MythLab story reader server (console).
 //
 //	mythlab-server [--host 127.0.0.1] [--port 8765] [--lan] [--prefetch-covers] [--rotate-key]
-//	               [--config FILE] [--cache DIR] [--static DIR] [--no-tts] [--healthcheck]
+//	               [--config FILE] [--cache DIR] [--static DIR] [--no-tts] [--piper-dir DIR] [--piper-bin PATH] [--healthcheck]
 //	               [--google-client-id ID] [--allowed-emails a@b.c,...]
 package main
 
@@ -36,6 +36,8 @@ func run(args []string) int {
 	googleIDs := fl.String("google-client-id", "", "Google OAuth Web client ID (nhiều ID cách nhau bằng dấu phẩy) bật đăng nhập Google; mặc định: config server.google_client_ids hoặc $MYTHLAB_GOOGLE_CLIENT_ID")
 	allowedEmails := fl.String("allowed-emails", "", "chỉ các email này được đăng nhập Google (cách nhau bằng dấu phẩy); mặc định: config server.allowed_emails hoặc $MYTHLAB_ALLOWED_EMAILS; trống = mọi tài khoản Google đã xác minh")
 	noTTS := fl.Bool("no-tts", false, "tắt giọng đọc Edge")
+	piperDir := fl.String("piper-dir", os.Getenv("MYTHLAB_PIPER_DIR"), "thư mục giọng Piper (*.onnx + *.onnx.json); trống = tắt Piper")
+	piperBin := fl.String("piper-bin", envOr("MYTHLAB_PIPER_BIN", "piper"), "đường dẫn chương trình piper")
 	health := fl.Bool("healthcheck", false, "kiểm tra server đang chạy ở --host/--port (GET /api/ping) rồi thoát: 0 = khoẻ; dùng cho HEALTHCHECK của Docker")
 	if err := fl.Parse(args); err != nil {
 		if err == flag.ErrHelp {
@@ -59,10 +61,11 @@ func run(args []string) int {
 		return 0
 	}
 	logger := log.New(os.Stderr, "", 0)
-	var engine tts.Engine
+	var edge tts.Engine
 	if !*noTTS {
-		engine = tts.NewEdge()
+		edge = tts.NewEdge()
 	}
+	engine := tts.NewMulti(edge, tts.NewPiper(*piperBin, *piperDir))
 	a, err := app.New(app.Options{Host: *host, Port: *port, LAN: *lan, ConfigPath: *config, CacheDir: *cache,
 		StaticDir: *static, TTS: engine, Logger: logger,
 		GoogleClientIDs: splitCSV(*googleIDs), AllowedEmails: splitCSV(*allowedEmails)})
@@ -102,6 +105,13 @@ func run(args []string) int {
 		return 1
 	}
 	return 0
+}
+
+func envOr(k, def string) string {
+	if v := os.Getenv(k); v != "" {
+		return v
+	}
+	return def
 }
 
 func splitCSV(s string) []string {

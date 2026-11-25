@@ -13,6 +13,7 @@ import { data } from '../core/data';
 import { S } from '../core/settings';
 import { toast } from '../core/ui';
 import { BROWSER_PIECE, edgePitch, NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
+import { voiceDisplayName } from '../settings/voices';
 
 /** Thrown into a pending speak() when the player itself stopped it; never shown to the user. */
 export class Stopped extends Error {
@@ -174,7 +175,7 @@ export async function voices(engine: TtsEngine): Promise<VoiceOption[]> {
     if (engine === 'edge') {
       if (!edgeAvailable()) return [];
       const r = await backend.get<{ voices?: Voice[] }>('/voices');
-      return (r.voices || []).map((v) => ({ id: v.id, name: v.name || v.id, lang: v.id.slice(0, 5) }));
+      return (r.voices || []).map((v) => ({ id: v.id, name: voiceDisplayName(v.id, v.name || v.id), lang: v.id.slice(0, 5) }));
     }
     if (engine === 'native') {
       const vs = await nativeVoices();

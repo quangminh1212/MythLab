@@ -32,7 +32,7 @@ const (
 	concurrent = 2
 )
 
-var voiceRe = regexp.MustCompile(`^[A-Za-z]{2,3}-[A-Za-z]{2,4}-[A-Za-z]+Neural$`)
+var voiceRe = regexp.MustCompile(`^[A-Za-z]{2,3}-[A-Za-z]{2,4}-[A-Za-z0-9]+(Neural|Piper)$`)
 
 // Error is a failure with the HTTP status the API should answer with.
 type Error struct {
@@ -163,7 +163,7 @@ func (s *Service) Speak(ctx context.Context, text, voice string, rate, pitch int
 	}
 	rate, pitch = clamp(rate, -50, 100), clamp(pitch, -50, 50)
 	key := CacheKey(text, voice, rate, pitch)
-	file := filepath.Join(s.dir, key[:2], key+".mp3")
+	file := filepath.Join(s.dir, key[:2], key+Ext(voice))
 	if st, err := os.Stat(file); err == nil && st.Mode().IsRegular() && st.Size() > 0 {
 		if time.Since(st.ModTime()) > time.Hour {
 			now := time.Now()
@@ -261,7 +261,7 @@ func atomicWrite(path string, data []byte) error {
 	}
 	var rnd [6]byte
 	rand.Read(rnd[:])
-	tmp := fmt.Sprintf("%s.%d%s.tmp", strings.TrimSuffix(path, ".mp3"), os.Getpid(), hex.EncodeToString(rnd[:]))
+	tmp := fmt.Sprintf("%s.%d%s.tmp", strings.TrimSuffix(path, filepath.Ext(path)), os.Getpid(), hex.EncodeToString(rnd[:]))
 	if err := os.WriteFile(tmp, data, 0o644); err != nil {
 		os.Remove(tmp)
 		return err
@@ -285,7 +285,7 @@ type cacheFile struct {
 
 func (s *Service) scan() (files []cacheFile, total int64) {
 	filepath.WalkDir(s.dir, func(p string, d fs.DirEntry, err error) error {
-		if err != nil || d.IsDir() || !strings.HasSuffix(p, ".mp3") {
+		if err != nil || d.IsDir() || !(strings.HasSuffix(p, ".mp3") || strings.HasSuffix(p, ".wav")) {
 			return nil
 		}
 		if info, err := d.Info(); err == nil {
@@ -353,7 +353,7 @@ func (s *Service) Voices(ctx context.Context) (list []VoiceInfo, edge bool) {
 	defer cancel()
 	all, err := s.eng.Voices(c)
 	var vi, multi []VoiceInfo
-	if err == nil {
+	if len(all) > 0 {
 		for _, v := range all {
 			if !voiceRe.MatchString(v.ShortName) {
 				continue
@@ -371,7 +371,7 @@ func (s *Service) Voices(ctx context.Context) (list []VoiceInfo, edge bool) {
 		}
 	}
 	if out := append(vi, multi...); len(out) > 0 {
-		s.voices, s.voicesOK = out, true
+		s.voices, s.voicesOK = out, err == nil // partial lists (Edge down, Piper up) are retried in a minute
 	} else {
 		s.voices, s.voicesOK = Fallback, false // asked again in a minute
 		if err != nil && ctx.Err() == nil {

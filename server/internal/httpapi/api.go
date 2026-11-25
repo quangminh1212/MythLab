@@ -612,8 +612,8 @@ func (s *Server) apiTTS(w http.ResponseWriter, r *http.Request, q map[string]str
 	if err != nil {
 		return err
 	}
-	etag := `"` + strings.TrimSuffix(filepath.Base(path), ".mp3") + `"`
-	if serr := s.serveFile(w, r, path, "audio/mpeg", etag, cacheControl(!needKey, "max-age=31536000, immutable")); serr != nil {
+	etag := `"` + strings.TrimSuffix(filepath.Base(path), filepath.Ext(path)) + `"`
+	if serr := s.serveFile(w, r, path, tts.ContentType(path), etag, cacheControl(!needKey, "max-age=31536000, immutable")); serr != nil {
 		return &tts.Error{Status: http.StatusServiceUnavailable, Code: "tts_failed", Msg: "TTS lỗi: không đọc được cache"}
 	}
 	return nil

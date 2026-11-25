@@ -4,7 +4,7 @@
 // on 127.0.0.1 plus a WebView2 window showing its UI.
 //
 //	MythLab.exe [--port N] [--port-file FILE] [--no-window] [--data-dir DIR]
-//	            [--config FILE] [--cache DIR] [--static DIR] [--no-tts] [--debug] [--quit]
+//	            [--config FILE] [--cache DIR] [--static DIR] [--no-tts] [--piper-dir DIR] [--piper-bin PATH] [--debug] [--quit]
 package main
 
 import (
@@ -63,6 +63,8 @@ type options struct {
 	cache    string
 	static   string
 	noTTS    bool
+	piperDir string
+	piperBin string
 	debug    bool
 	quit     bool
 }
@@ -81,6 +83,12 @@ func parseArgs(args []string) (opt options, usage string, err error) {
 	fl.StringVar(&opt.cache, "cache", "", "thư mục cache (mặc định: theo vị trí config)")
 	fl.StringVar(&opt.static, "static", "", "lấy giao diện từ thư mục này thay cho bản nhúng")
 	fl.BoolVar(&opt.noTTS, "no-tts", false, "tắt giọng đọc Edge")
+	fl.StringVar(&opt.piperDir, "piper-dir", os.Getenv("MYTHLAB_PIPER_DIR"), "thư mục giọng Piper (*.onnx + *.onnx.json); trống = tắt Piper")
+	piperBin := os.Getenv("MYTHLAB_PIPER_BIN")
+	if piperBin == "" {
+		piperBin = "piper"
+	}
+	fl.StringVar(&opt.piperBin, "piper-bin", piperBin, "đường dẫn chương trình piper")
 	fl.BoolVar(&opt.debug, "debug", false, "bật DevTools và menu chuột phải của WebView2")
 	fl.BoolVar(&opt.quit, "quit", false, "yêu cầu MythLab đang chạy thoát")
 	err = fl.Parse(args)
@@ -243,10 +251,11 @@ func (d *desktop) run() int {
 		}
 	}
 
-	var engine tts.Engine
+	var edgeEng tts.Engine
 	if !d.opt.noTTS {
-		engine = tts.NewEdge()
+		edgeEng = tts.NewEdge()
 	}
+	engine := tts.NewMulti(edgeEng, tts.NewPiper(d.opt.piperBin, d.opt.piperDir))
 	a, err := app.New(app.Options{Host: "127.0.0.1", Port: port, ConfigPath: d.opt.config, CacheDir: d.opt.cache,
 		StaticDir: d.opt.static, TTS: engine, Logger: log.New(d.log, "", 0)})
 	if err != nil {
