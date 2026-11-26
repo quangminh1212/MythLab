@@ -2,7 +2,7 @@
 
 Một file `MythLab.exe` viết bằng Go: server đọc truyện (`server/`) chạy ở `127.0.0.1`, giao diện web (`web/`) được
 nhúng sẵn trong exe, hiển thị trong cửa sổ WebView2 (thư viện `github.com/jchv/go-webview2`, không cần CGO hay
-trình biên dịch C). Có giọng đọc Edge TTS (`/api/tts`) như bản server.
+trình biên dịch C). Giọng đọc chạy trên thiết bị (Piper WASM / giọng trình duyệt), không qua server.
 
 Mã nguồn: `server/cmd/mythlab` (ứng dụng cửa sổ) và `server/cmd/mythlab-server` (server dòng lệnh).
 
@@ -51,7 +51,6 @@ Mở `MythLab.exe`. Tham số dòng lệnh:
 | `--config FILE` | dùng file `config.json` này |
 | `--cache DIR` | thư mục cache |
 | `--static DIR` | lấy giao diện từ thư mục này thay cho bản nhúng |
-| `--no-tts` | tắt giọng đọc Edge |
 | `--debug` | bật DevTools và menu chuột phải của WebView2 |
 | `--quit` | yêu cầu MythLab đang chạy (cùng thư mục dữ liệu) đóng lại rồi thoát |
 
@@ -81,7 +80,7 @@ lưu riêng, không chung với cửa sổ WebView2.
 | Giao diện | nhúng trong exe |
 | `config.json` | cạnh exe nếu có; không thì `reader\config.json` gần nhất tính từ thư mục hiện hành trở lên (khi chạy trong repo); không thì `%APPDATA%\MythLab\config.json` |
 | Thư viện local mặc định | `%APPDATA%\MythLab\library` (đường dẫn tương đối trong config tính từ thư mục chứa config) |
-| Cache GitHub, bìa, TTS | `%LOCALAPPDATA%\MythLab\cache` (chạy trong repo: `reader\.cache`) |
+| Cache GitHub, bìa | `%LOCALAPPDATA%\MythLab\cache` (chạy trong repo: `reader\.cache`) |
 | Dữ liệu WebView2 (localStorage, IndexedDB) | `%LOCALAPPDATA%\MythLab\webview` |
 | Kích thước cửa sổ | `%APPDATA%\MythLab\window.json` (`width`, `height` theo 96 DPI; thêm `maximized` khi đang phóng to) |
 | Log | `%LOCALAPPDATA%\MythLab\desktop.log` (quá 4 MB thì chuyển sang `desktop.log.1`) |

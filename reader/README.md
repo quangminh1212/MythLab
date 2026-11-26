@@ -4,7 +4,7 @@ Bản hiện tại gồm ba phần:
 
 | Thư mục | Vai trò |
 |---|---|
-| `server/` | Server Go (`mythlab-server`): API đọc thư mục truyện, ảnh bìa, giọng Edge TTS; giao diện được nhúng sẵn trong exe |
+| `server/` | Server Go (`mythlab-server`): API đọc thư mục truyện, ảnh bìa (giọng đọc chạy trên thiết bị, không qua server); giao diện được nhúng sẵn trong exe |
 | `web/` | Giao diện Astro (TypeScript, SPA định tuyến bằng hash, service worker sinh khi build) |
 | `apps/android`, `apps/desktop` | Vỏ Android (Capacitor) và ứng dụng Windows (WebView2) bọc cùng giao diện |
 
@@ -12,7 +12,7 @@ Bản hiện tại gồm ba phần:
 
 Dữ liệu lấy theo thứ tự:
 
-1. **Server MythLab** cùng địa chỉ, hoặc theo URL + khoá nhập trong Cài đặt: có giọng Edge và thư mục truyện trên máy.
+1. **Server MythLab** cùng địa chỉ, hoặc theo URL + khoá nhập trong Cài đặt: có thư mục truyện trên máy.
 2. **GitHub trực tiếp** bằng token chỉ-đọc: đọc các repo `Done_*` qua `api.github.com`, lưu đệm trong trình duyệt.
 3. Chưa có gì thì hiện màn hình hướng dẫn kết nối.
 
@@ -26,7 +26,7 @@ apps\desktop\dist\mythlab-server.exe --port 9000 --config reader\config.json
 ```
 
 Tham số: `--port` (mặc định 8765), `--host` (mặc định 127.0.0.1), `--lan`, `--config FILE`, `--cache DIR`,
-`--static DIR` (lấy giao diện từ thư mục thay cho bản nhúng), `--no-tts`, `--prefetch-covers`, `--rotate-key`.
+`--static DIR` (lấy giao diện từ thư mục thay cho bản nhúng), `--prefetch-covers`, `--rotate-key`.
 
 Token GitHub của server lấy từ biến môi trường `GITHUB_TOKEN`/`GH_TOKEN` hoặc `gh auth token`. Không có `--lan` thì
 server chỉ nghe ở `127.0.0.1`.

@@ -14,8 +14,6 @@ import (
 	"testing"
 	"testing/fstest"
 	"time"
-
-	"mythlab/internal/tts"
 )
 
 func write(t *testing.T, path, content string) {
@@ -161,13 +159,6 @@ func TestDiscover(t *testing.T) {
 	}
 }
 
-type fakeEngine struct{}
-
-func (fakeEngine) Synthesize(context.Context, string, string, int, int) ([]byte, error) {
-	return []byte("ID3 fake audio"), nil
-}
-func (fakeEngine) Voices(context.Context) ([]tts.Voice, error) { return nil, nil }
-
 func newApp(t *testing.T, cfgJSON string, mut func(*Options)) (*App, *bytes.Buffer) {
 	t.Helper()
 	dir := t.TempDir()
@@ -240,12 +231,12 @@ func TestBannerAndModes(t *testing.T) {
 	}
 
 	cfg := `{"local": [], "github": [{"owner": "someone", "prefix": "Done_"}], "server": {"access_key": "banner-key"}}`
-	l, _ := newApp(t, cfg, func(o *Options) { o.LAN = true; o.Port = 9000; o.TTS = fakeEngine{} })
+	l, _ := newApp(t, cfg, func(o *Options) { o.LAN = true; o.Port = 9000 })
 	if l.Addr() != "0.0.0.0:9000" || !l.Exposed() {
 		t.Fatalf("LAN bind: %s", l.Addr())
 	}
 	text := l.Banner(9000)
-	if !strings.HasPrefix(text, "MythLab Reader (LAN): http://127.0.0.1:9000  (edge-tts: có)\n  khoá truy cập: banner-key\n") ||
+	if !strings.HasPrefix(text, "MythLab Reader (LAN): http://127.0.0.1:9000  (edge-tts: không)\n  khoá truy cập: banner-key\n") ||
 		!strings.HasSuffix(text, "  nguồn: GitHub someone/Done_* - someone/Done_*\n") {
 		t.Fatalf("LAN banner: %q", text)
 	}
@@ -293,7 +284,7 @@ func get(t *testing.T, url string, hdr ...string) (int, string, http.Header) {
 
 // TestServe runs the whole stack on a real socket (test port 18803).
 func TestServe(t *testing.T) {
-	a, logs := newApp(t, localOnly, func(o *Options) { o.Port = 18803; o.TTS = fakeEngine{} })
+	a, logs := newApp(t, localOnly, func(o *Options) { o.Port = 18803 })
 	ln, err := a.Listen()
 	if err != nil {
 		t.Skipf("port 18803 is busy: %v", err)
@@ -316,11 +307,8 @@ func TestServe(t *testing.T) {
 	if code, body, _ := get(t, base+"/api/search?q=truyen"); code != 200 || !strings.Contains(body, `"total":1`) {
 		t.Fatalf("search: %d %s", code, body)
 	}
-	if code, body, h := get(t, base+"/api/tts?text=xin+ch%C3%A0o"); code != 200 || body != "ID3 fake audio" || h.Get("Content-Type") != "audio/mpeg" {
-		t.Fatalf("tts: %d %q", code, body)
-	}
-	if _, err := os.Stat(filepath.Join(a.Paths().Cache, "tts")); err != nil {
-		t.Fatal("audio must be cached under <cache>/tts")
+	if code, _, _ := get(t, base+"/api/tts?text=xin"); code != 404 {
+		t.Fatalf("server-side tts must be gone: %d", code)
 	}
 	// DNS rebinding: a foreign name in Host is refused even from loopback
 	if code, _, _ := get(t, base+"/api/ping", "Host", "evil.example"); code != 200 {
@@ -352,7 +340,7 @@ func TestServe(t *testing.T) {
 		c.Close()
 		t.Fatal("the port must be released")
 	}
-	if !strings.Contains(logs.String(), `"GET /api/ping HTTP/1.1" 200`) || strings.Contains(logs.String(), "/api/tts") {
+	if !strings.Contains(logs.String(), `"GET /api/ping HTTP/1.1" 200`) {
 		t.Fatalf("request log: %s", logs.String())
 	}
 }

@@ -7,7 +7,7 @@ Trình đọc truyện (Mạt Thế Cổ Đại Cầu Sinh, Niên Đại Thươn
 | Thư mục | Nội dung |
 |---|---|
 | `web/` | Giao diện Astro + TypeScript (xem `web/ARCHITECTURE.md`) |
-| `server/` | Server Go: API, Edge TTS, thư viện GitHub, ảnh bìa; `cmd/mythlab` là vỏ cửa sổ WebView2 |
+| `server/` | Server Go: API, thư viện GitHub, ảnh bìa; `cmd/mythlab` là vỏ cửa sổ WebView2 |
 | `apps/desktop/` | Script đóng gói Windows (`MythLab.exe`, `mythlab-server.exe`) |
 | `apps/android/` | Ứng dụng Android (Capacitor) |
 | `tools/` | Script dùng chung (`build-web.ps1`) |
@@ -63,17 +63,15 @@ docker compose up -d --build
 - **Khoá truy cập:** biến môi trường `MYTHLAB_ACCESS_KEY` (ưu tiên sau `server.access_key` trong `config.json`). Nếu không đặt, server tự sinh khoá một lần, lưu ở `/data/cache/server.json` và in trong `docker logs mythlab`. Đổi khoá: sửa `.env` rồi `docker compose up -d`, hoặc `docker run --rm -v mythlab-data:/data mythlab --rotate-key --config /data/config.json --cache /data/cache` (khi không dùng biến môi trường). Truy cập: `http://<máy>:8765/?k=<khoá>` một lần để đặt cookie. Request từ chính trong container (healthcheck) không cần khoá.
 - **Đăng nhập Google:** đặt `MYTHLAB_GOOGLE_CLIENT_ID=<Client ID loại Web>` (và tuỳ chọn `MYTHLAB_ALLOWED_EMAILS=a@gmail.com,b@gmail.com`) trong `.env`; tiến độ, truyện yêu thích và đánh dấu của từng tài khoản được lưu ở `/data/users/` cùng `/data/users.json` (chỉ chứa băm của token phiên). Cách tạo Client ID (origin `https://myth.xlabrnd.com`, `http://localhost:8765`, client Android cùng project): xem `reader/README.md`, mục "Đăng nhập Google".
 - **Cổng:** compose mặc định chỉ bind `127.0.0.1:8765`. Muốn mở cho LAN hoặc đặt sau reverse proxy, đặt `MYTHLAB_BIND=0.0.0.0` trong `.env`; nếu truy cập bằng tên miền, thêm tên đó vào `server.hosts` trong `/data/config.json`. Nên có HTTPS khi ra ngoài LAN.
-- **Volume `/data`:** `config.json` (bản mặc định chỉ có thư viện cục bộ `/data/library`), `cache/` (ảnh bìa, giọng đọc, GitHub, `server.json`) và `progress.json` (tiến độ đọc đồng bộ giữa các thiết bị). Volume mới tự nhận quyền của người dùng `nonroot` (uid 65532); bind-mount thư mục tự tạo thì cần `chown 65532:65532`.
+- **Volume `/data`:** `config.json` (bản mặc định chỉ có thư viện cục bộ `/data/library`), `cache/` (ảnh bìa, GitHub, `server.json`) và `progress.json` (tiến độ đọc đồng bộ giữa các thiết bị). Volume mới tự nhận quyền của người dùng `nonroot` (uid 65532); bind-mount thư mục tự tạo thì cần `chown 65532:65532`.
 - **Cấp truyện:**
   - Thư mục cục bộ: bỏ truyện vào `/data/library` (ví dụ bind-mount `./library:/data/library:ro`; có sẵn dòng bình luận trong `compose.yaml`).
   - Repo GitHub `Done_*`: sửa `/data/config.json`, ví dụ `"github": [{"owner": "tên-github", "prefix": "Done_", "enabled": true}]`; repo riêng tư cần `GITHUB_TOKEN` (đặt trong `.env`). Sửa file bằng `docker run --rm -it -v mythlab-data:/data busybox vi /data/config.json`, hoặc bind-mount file riêng: `-v ./config.json:/data/config.json` (đặt `progress.json` cạnh nó nên thư mục `/data` vẫn phải ghi được).
-- **Giọng đọc Edge** cần kết nối internet đi ra (websocket tới dịch vụ của Microsoft); tắt bằng cách thêm `--no-tts` vào lệnh chạy. Đọc từ GitHub cũng cần internet ra `api.github.com`.
-- **Giọng đọc miễn phí, offline (Piper, mã nguồn mở):** không cần khoá API hay dịch vụ trả phí. Build image với `docker build --build-arg PIPER=1 -t mythlab .` (hoặc `build.args.PIPER: "1"` trong `compose.yaml`) để có sẵn 3 giọng tiếng Việt (`vi-VN-Vais1000Piper`, `vi-VN-25hoursSinglePiper`, `vi-VN-VivosXPiper`); image này dùng debian-slim thay vì distroless. Chạy ngoài Docker: tải `piper` và các file `.onnx` + `.onnx.json`, rồi `mythlab-server --piper-dir <thư mục> [--piper-bin <piper>]` (hoặc env `MYTHLAB_PIPER_DIR`, `MYTHLAB_PIPER_BIN`). Giọng Piper hiện trong danh sách giọng với nhãn "(offline)", chạy được kể cả khi Edge bị tắt (`--no-tts`); âm thanh trả về dạng WAV, không đổi cao độ.
+- **Giọng đọc** chạy hoàn toàn trên thiết bị của người đọc (Piper WASM chạy offline trong trình duyệt, giọng của trình duyệt, hoặc giọng gốc của Android); server không tổng hợp giọng nói và không cần Piper hay kết nối tới dịch vụ đọc nào. Cờ `--no-tts` cũ vẫn được chấp nhận nhưng không còn tác dụng. Đọc từ GitHub cần internet ra `api.github.com`.
 - **Cập nhật:** `git pull && docker compose up -d --build` (dữ liệu trong volume được giữ; `config.json` trong volume không bị ghi đè nên cấu hình mặc định mới của image không tự áp dụng). Sao lưu: `docker run --rm -v mythlab-data:/data -v "$PWD":/b busybox tar czf /b/mythlab-data.tgz /data`.
 - Container kiểm tra sức khoẻ bằng `mythlab-server --healthcheck` (gọi `/api/ping` nội bộ; image distroless không có curl). Compose chạy với root fs chỉ đọc, `cap_drop: ALL` và `no-new-privileges`.
 
 ## Lưu ý pháp lý / Legal notes
 
-- **Giọng đọc Edge (`server/internal/edgetts`)** kết nối tới dịch vụ đọc to của Microsoft Edge bằng giao thức và token công khai của tiện ích Edge. Đây không phải API được Microsoft công bố hay cam kết hỗ trợ: có thể ngừng hoạt động bất cứ lúc nào và có thể trái điều khoản dịch vụ nếu dùng ngoài mục đích cá nhân. Tắt hẳn bằng `mythlab-server --no-tts`; giọng đọc của trình duyệt và Android vẫn dùng được.
 - **Giấy phép:** `LICENSE` (MIT) chỉ áp dụng cho mã nguồn phần mềm (`web/`, `server/`, `apps/`, `tools/`). Truyện và bản thảo ở các thư mục còn lại không thuộc giấy phép này. Phông chữ đóng gói trong `web/public/fonts` theo giấy phép OFL/Apache-2.0 kèm trong thư mục đó.
 - **Truyện** trong repo là nội dung của chủ dự án; không phân phối lại khi chưa được phép.

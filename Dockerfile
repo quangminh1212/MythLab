@@ -3,10 +3,6 @@
 #   docker build -t mythlab .
 #   docker run -p 127.0.0.1:8765:8765 -e MYTHLAB_ACCESS_KEY=... -v mythlab-data:/data mythlab
 
-# Optional free offline voices (Piper, open source): docker build --build-arg PIPER=1 -t mythlab .
-# Default (PIPER=0) is the plain distroless image; PIPER=1 switches the runtime to debian-slim + piper + 3 Vietnamese voices.
-ARG PIPER=0
-
 # ---- 1. web UI -> web/dist
 FROM node:22.21-alpine AS web
 WORKDIR /web
@@ -29,22 +25,10 @@ RUN CGO_ENABLED=0 go build -trimpath -ldflags "-s -w" -o /out/mythlab-server ./c
 RUN mkdir -p /out/data/library /out/data/cache
 COPY docker/config.json /out/data/config.json
 
-# ---- 3a. runtime base, default: distroless
-FROM gcr.io/distroless/static-debian12:nonroot AS base-0
-
-# ---- 3b. runtime base, PIPER=1: debian-slim + Piper release + Vietnamese voice models (/opt/piper)
-FROM debian:12-slim AS base-1
-ARG TARGETARCH
-ARG PIPER_VERSION=2023.11.14-2
-ARG VOICES_REV=v1.0.0
-RUN apt-get update && apt-get install -y --no-install-recommends ca-certificates curl  && rm -rf /var/lib/apt/lists/*  && case "${TARGETARCH:-amd64}" in arm64) pa=aarch64 ;; *) pa=x86_64 ;; esac  && mkdir -p /opt/piper/engine  && curl -fsSL "https://github.com/rhasspy/piper/releases/download/${PIPER_VERSION}/piper_linux_${pa}.tar.gz" | tar -xz -C /opt/piper/engine --strip-components=1  && hf="https://huggingface.co/rhasspy/piper-voices/resolve/${VOICES_REV}/vi/vi_VN"  && for m in vais1000/medium/vi_VN-vais1000-medium 25hours_single/low/vi_VN-25hours_single-low vivos/x_low/vi_VN-vivos-x_low; do       curl -fsSL -o "/opt/piper/$(basename $m).onnx" "$hf/$m.onnx"    && curl -fsSL -o "/opt/piper/$(basename $m).onnx.json" "$hf/$m.onnx.json"; done  && apt-get purge -y curl && apt-get autoremove -y  && groupadd -g 65532 nonroot && useradd -u 65532 -g 65532 -M -s /usr/sbin/nologin nonroot
-USER 65532:65532
-ENV MYTHLAB_PIPER_DIR=/opt/piper MYTHLAB_PIPER_BIN=/opt/piper/engine/piper
-
-# ---- 3. runtime
-FROM base-${PIPER}
+# ---- 3. runtime: distroless (voices run on the device, the server has no TTS)
+FROM gcr.io/distroless/static-debian12:nonroot
 LABEL org.opencontainers.image.title="MythLab server" \
-      org.opencontainers.image.description="MythLab story reader: API, Edge TTS and web UI in one static binary" \
+      org.opencontainers.image.description="MythLab story reader: API and web UI in one static binary" \
       org.opencontainers.image.source="https://github.com/quangminh1212/MythLab" \
       org.opencontainers.image.licenses="MIT"
 COPY --from=build /out/mythlab-server /usr/local/bin/mythlab-server

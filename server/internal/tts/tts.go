@@ -1,18 +1,26 @@
-// Package tts defines the speech engine interface the HTTP layer depends on.
-// The Edge Read-Aloud implementation lives in internal/edgetts.
+// Package tts is a compatibility stub. Speech synthesis no longer runs on the
+// server: voices run on the device (Piper WASM, browser or native engines).
+// The types remain only so internal/app, which still wires a *Service into
+// httpapi.Options, keeps compiling. Remove them together with that wiring.
 package tts
 
-import "context"
+// Engine is retained for source compatibility; nothing implements it any more.
+type Engine interface{}
 
-// Engine synthesises speech. A nil Engine means TTS is unavailable.
-type Engine interface {
-	// Synthesize returns MP3 bytes for text. ratePct is sent as "+N%", pitchHz as "+NHz".
-	Synthesize(ctx context.Context, text, voice string, ratePct, pitchHz int) ([]byte, error)
-	// Voices returns every voice the service offers (unfiltered).
-	Voices(ctx context.Context) ([]Voice, error)
+// ServiceOptions is accepted and ignored.
+type ServiceOptions struct {
+	Engine       Engine
+	Dir          string
+	DefaultVoice string
+	MaxBytes     int64
+	Logf         func(format string, args ...any)
 }
 
-// Voice is one entry of the engine's voice list.
-type Voice struct {
-	ShortName, Locale, Gender, FriendlyName string
-}
+// Service is an inert placeholder: it never synthesises anything.
+type Service struct{}
+
+// NewService returns the inert placeholder.
+func NewService(ServiceOptions) *Service { return &Service{} }
+
+// Available is always false: the server has no speech engine.
+func (s *Service) Available() bool { return false }

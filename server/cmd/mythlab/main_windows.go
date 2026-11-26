@@ -4,7 +4,7 @@
 // on 127.0.0.1 plus a WebView2 window showing its UI.
 //
 //	MythLab.exe [--port N] [--port-file FILE] [--no-window] [--data-dir DIR]
-//	            [--config FILE] [--cache DIR] [--static DIR] [--no-tts] [--piper-dir DIR] [--piper-bin PATH] [--debug] [--quit]
+//	            [--config FILE] [--cache DIR] [--static DIR] [--debug] [--quit]
 package main
 
 import (
@@ -35,7 +35,6 @@ import (
 	"golang.org/x/sys/windows/registry"
 
 	"mythlab/internal/app"
-	"mythlab/internal/tts"
 	"mythlab/internal/webui"
 )
 
@@ -62,9 +61,6 @@ type options struct {
 	config   string
 	cache    string
 	static   string
-	noTTS    bool
-	piperDir string
-	piperBin string
 	debug    bool
 	quit     bool
 }
@@ -82,13 +78,7 @@ func parseArgs(args []string) (opt options, usage string, err error) {
 	fl.StringVar(&opt.config, "config", "", "file config.json (mặc định: tự tìm)")
 	fl.StringVar(&opt.cache, "cache", "", "thư mục cache (mặc định: theo vị trí config)")
 	fl.StringVar(&opt.static, "static", "", "lấy giao diện từ thư mục này thay cho bản nhúng")
-	fl.BoolVar(&opt.noTTS, "no-tts", false, "tắt giọng đọc Edge")
-	fl.StringVar(&opt.piperDir, "piper-dir", os.Getenv("MYTHLAB_PIPER_DIR"), "thư mục giọng Piper (*.onnx + *.onnx.json); trống = tắt Piper")
-	piperBin := os.Getenv("MYTHLAB_PIPER_BIN")
-	if piperBin == "" {
-		piperBin = "piper"
-	}
-	fl.StringVar(&opt.piperBin, "piper-bin", piperBin, "đường dẫn chương trình piper")
+	fl.Bool("no-tts", false, "(bỏ) không còn tác dụng; giọng đọc chạy trên thiết bị")
 	fl.BoolVar(&opt.debug, "debug", false, "bật DevTools và menu chuột phải của WebView2")
 	fl.BoolVar(&opt.quit, "quit", false, "yêu cầu MythLab đang chạy thoát")
 	err = fl.Parse(args)
@@ -251,13 +241,8 @@ func (d *desktop) run() int {
 		}
 	}
 
-	var edgeEng tts.Engine
-	if !d.opt.noTTS {
-		edgeEng = tts.NewEdge()
-	}
-	engine := tts.NewMulti(edgeEng, tts.NewPiper(d.opt.piperBin, d.opt.piperDir))
 	a, err := app.New(app.Options{Host: "127.0.0.1", Port: port, ConfigPath: d.opt.config, CacheDir: d.opt.cache,
-		StaticDir: d.opt.static, TTS: engine, Logger: log.New(d.log, "", 0)})
+		StaticDir: d.opt.static, Logger: log.New(d.log, "", 0)})
 	if err != nil {
 		ln.Close()
 		d.log.logf("không khởi động được server: %v", err)
@@ -276,12 +261,8 @@ func (d *desktop) run() int {
 		defer close(d.done)
 		serveErr = a.Serve(ctx, ln)
 	}()
-	edge := "không"
-	if a.TTSAvailable() {
-		edge = "có"
-	}
 	p := a.Paths()
-	d.log.logf("MythLab desktop: %s  (edge-tts: %s; config: %s; cache: %s)", d.url, edge, p.Config, p.Cache)
+	d.log.logf("MythLab desktop: %s  (config: %s; cache: %s)", d.url, p.Config, p.Cache)
 	if d.opt.portFile != "" {
 		if err := writeFileAtomic(d.opt.portFile, []byte(strconv.Itoa(port))); err != nil {
 			d.log.logf("không ghi được --port-file: %v", err)

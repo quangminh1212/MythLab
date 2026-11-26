@@ -29,7 +29,7 @@ type Options struct {
 	Library *library.Library
 	Search  *library.SearchIndex
 	Covers  *covers.Store
-	TTS     *tts.Service // may wrap a nil engine: TTS unavailable
+	TTS     *tts.Service // unused: server-side TTS was removed (field kept for internal/app)
 	// Progress syncs reading progress between devices; nil = /api/progress is not served.
 	Progress *progress.Store
 	Static   fs.FS // the web UI (index.html at the root)
@@ -66,9 +66,6 @@ func New(o Options) *Server {
 	}
 	if o.AccessKey == nil {
 		o.AccessKey = func() string { return "" }
-	}
-	if o.TTS == nil {
-		o.TTS = tts.NewService(tts.ServiceOptions{})
 	}
 	s := &Server{o: o, hosts: map[string]bool{"localhost": true}}
 	for _, h := range o.Hosts {
@@ -156,9 +153,7 @@ func (s *Server) ServeHTTP(rw http.ResponseWriter, r *http.Request) {
 				s.writeErr(w, r, http.StatusInternalServerError, "internal", "lỗi máy chủ")
 			}
 		}
-		if !(w.status == http.StatusOK && strings.HasPrefix(r.URL.Path, "/api/tts")) {
-			s.o.Logf("[%s] \"%s %s %s\" %d", time.Now().Format("15:04:05"), r.Method, MaskKey(r.URL.RequestURI()), r.Proto, w.status)
-		}
+		s.o.Logf("[%s] \"%s %s %s\" %d", time.Now().Format("15:04:05"), r.Method, MaskKey(r.URL.RequestURI()), r.Proto, w.status)
 	}()
 	h := w.Header()
 	h.Set("X-Content-Type-Options", "nosniff")

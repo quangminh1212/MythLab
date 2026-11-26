@@ -3,7 +3,6 @@ package httpapi
 import (
 	"bytes"
 	"compress/gzip"
-	"context"
 	"encoding/json"
 	"image"
 	"image/color"
@@ -20,21 +19,9 @@ import (
 
 	"mythlab/internal/covers"
 	"mythlab/internal/library"
-	"mythlab/internal/tts"
 )
 
 const testKey = "test-key-0123456789abcdef"
-
-type fakeEngine struct{ calls int }
-
-func (f *fakeEngine) Synthesize(_ context.Context, text, voice string, _, _ int) ([]byte, error) {
-	f.calls++
-	return []byte("ID3-fake-mp3:" + voice + ":" + text + strings.Repeat("x", 200)), nil
-}
-
-func (f *fakeEngine) Voices(context.Context) ([]tts.Voice, error) {
-	return []tts.Voice{{ShortName: "vi-VN-HoaiMyNeural", Locale: "vi-VN", Gender: "Female", FriendlyName: "Hoài My"}}, nil
-}
 
 func writeFile(t *testing.T, path, content string) {
 	t.Helper()
@@ -61,7 +48,6 @@ func testJPEG(w, h int) string {
 type fixture struct {
 	s    *Server
 	root string
-	eng  *fakeEngine
 	logs *[]string
 }
 
@@ -82,12 +68,10 @@ func newFixture(t *testing.T, mut func(*Options)) *fixture {
 	writeFile(t, filepath.Join(root, "secret.txt"), "secret")
 
 	lib := library.NewLibrary(library.NewLocalProvider("local0", "Thử", root))
-	eng := &fakeEngine{}
 	var logs []string
 	o := Options{
 		Library: lib, Search: library.NewSearchIndex(lib),
 		Covers: covers.New(covers.Options{Dir: filepath.Join(cache, "covers")}),
-		TTS:    tts.NewService(tts.ServiceOptions{Engine: eng, Dir: filepath.Join(cache, "tts")}),
 		Static: fstest.MapFS{
 			"index.html":           {Data: []byte("<!doctype html><title>MythLab</title>")},
 			"app.js":               {Data: []byte(strings.Repeat("console.log('mythlab');\n", 100))},
@@ -105,7 +89,7 @@ func newFixture(t *testing.T, mut func(*Options)) *fixture {
 	}
 	o.Logf = func(f string, a ...any) { logs = append(logs, f); t.Logf(f, a...) }
 	t.Cleanup(o.Covers.Close)
-	return &fixture{s: New(o), root: root, eng: eng, logs: &logs}
+	return &fixture{s: New(o), root: root, logs: &logs}
 }
 
 type reqOpt func(*http.Request)

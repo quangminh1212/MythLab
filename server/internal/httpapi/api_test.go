@@ -29,7 +29,7 @@ func TestPingSourcesVoices(t *testing.T) {
 	if src["id"] != "local0" || src["kind"] != "local" || src["available"] != true || src["detail"] != f.root {
 		t.Fatalf("sources: %v", src)
 	}
-	if tt := m["tts"].(map[string]any); tt["edge"] != true || tt["default_voice"] != "vi-VN-HoaiMyNeural" {
+	if tt := m["tts"].(map[string]any); tt["edge"] != false {
 		t.Fatalf("tts: %v", tt)
 	}
 	// other machines only learn the folder name
@@ -38,20 +38,9 @@ func TestPingSourcesVoices(t *testing.T) {
 		t.Fatalf("remote detail: %v", d)
 	}
 
-	m = decode(t, f.do("/api/voices"))
-	if v := m["voices"].([]any); m["edge"] != true || len(v) != 1 || v[0].(map[string]any)["id"] != "vi-VN-HoaiMyNeural" {
-		t.Fatalf("voices: %v", m)
-	}
-
-	// no engine
-	fn := newFixture(t, func(o *Options) { o.TTS = nil })
-	if got := fn.do("/api/voices").Body.String(); got != `{"voices":[],"edge":false}` {
-		t.Fatalf("voices without engine: %s", got)
-	}
-	if tt := decode(t, fn.do("/api/sources"))["tts"].(map[string]any); tt["edge"] != false {
-		t.Fatalf("sources without engine: %v", tt)
-	}
-	wantError(t, fn.do("/api/tts?text=xin+ch%C3%A0o"), 503, "tts_unavailable")
+	// server-side TTS is gone
+	wantError(t, f.do("/api/voices"), 404, "no_route")
+	wantError(t, f.do("/api/tts?text=xin+ch%C3%A0o"), 404, "no_route")
 	wantError(t, f.do("/api/nope"), 404, "no_route")
 	wantError(t, f.do("/api/"), 404, "no_route")
 }
@@ -316,46 +305,6 @@ func itoa(n int) string {
 		b = append([]byte{byte('0' + n%10)}, b...)
 	}
 	return string(b)
-}
-
-func TestTTS(t *testing.T) {
-	f := newFixture(t, nil)
-	u := "/api/tts?" + qs("text", "Xin chào.", "voice", "vi-VN-HoaiMyNeural", "rate", "10", "pitch", "-5")
-	w := f.do(u)
-	h := w.Header()
-	if w.Code != 200 || h.Get("Content-Type") != "audio/mpeg" || h.Get("Cache-Control") != "public, max-age=31536000, immutable" ||
-		!strings.HasPrefix(w.Body.String(), "ID3-fake-mp3:vi-VN-HoaiMyNeural:Xin chào.") || h.Get("Accept-Ranges") != "bytes" {
-		t.Fatalf("tts: %d %v", w.Code, h)
-	}
-	if w := f.do(u, header("Range", "bytes=0-2")); w.Code != 206 || w.Body.String() != "ID3" {
-		t.Fatalf("range: %d %q", w.Code, w.Body.String())
-	}
-	if w := f.do(u, method("HEAD")); w.Code != 200 || w.Body.Len() != 0 || w.Header().Get("Content-Length") == "" {
-		t.Fatalf("HEAD: %d", w.Code)
-	}
-	wantStatus(t, f.do(u, header("If-None-Match", h.Get("ETag"))), 304)
-	if f.eng.calls != 1 {
-		t.Fatalf("the cache must be used: %d engine calls", f.eng.calls)
-	}
-	if w := f.lan(u + "&k=" + testKey); w.Code != 200 || w.Header().Get("Cache-Control") != "private, max-age=31536000, immutable" {
-		t.Fatalf("LAN tts: %d %v", w.Code, w.Header())
-	}
-	wantError(t, f.do("/api/tts"), 400, "empty_text")
-	wantError(t, f.do("/api/tts?text=+++"), 400, "empty_text")
-	wantError(t, f.do("/api/tts?"+qs("text", strings.Repeat("ă", 3001))), 413, "text_too_long")
-	wantError(t, f.do("/api/tts?text=a&rate=fast"), 400, "bad_param")
-	wantError(t, f.do("/api/tts?text=a&pitch=1.5"), 400, "bad_param")
-	wantError(t, f.do("/api/tts?text=a&voice=..%2F..%2Fx"), 400, "bad_voice")
-	// successful audio requests stay out of the log, failures do not
-	n := len(*f.logs)
-	f.do(u)
-	if len(*f.logs) != n {
-		t.Fatal("200 on /api/tts must not be logged")
-	}
-	f.do("/api/tts")
-	if len(*f.logs) != n+1 {
-		t.Fatal("a failed tts request must be logged")
-	}
 }
 
 type panicProvider struct{ library.Provider }

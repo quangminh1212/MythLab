@@ -3,7 +3,6 @@ module mythlab
 go 1.26.11
 
 require (
-	github.com/coder/websocket v1.8.15
 	github.com/jchv/go-webview2 v0.0.0-20260205173254-56598839c808
 	golang.org/x/image v0.48.0
 	golang.org/x/sync v0.25.0

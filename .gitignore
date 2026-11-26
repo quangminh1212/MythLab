@@ -51,5 +51,6 @@ progress.json
 # Piper runtime copied from node_modules by scripts/copy-tts.mjs
 web/public/tts/ort/
 web/public/tts/piper/
+web/public/tts/kokoro/
 # Piper voice models downloaded by scripts/fetch-models.mjs (for the GitHub release upload), never committed
 web/public/tts/models/

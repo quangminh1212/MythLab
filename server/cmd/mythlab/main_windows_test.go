@@ -19,7 +19,7 @@ func TestParseArgs(t *testing.T) {
 		t.Fatalf("defaults: %+v %q %v", opt, usage, err)
 	}
 	opt, _, err = parseArgs([]string{"--port", "18805", "--port-file", "p.txt", "--no-window", "--data-dir", `C:\x`, "--no-tts", "--debug"})
-	if err != nil || opt.port != 18805 || !opt.portSet || opt.portFile != "p.txt" || !opt.noWindow || opt.dataDir != `C:\x` || !opt.noTTS || !opt.debug {
+	if err != nil || opt.port != 18805 || !opt.portSet || opt.portFile != "p.txt" || !opt.noWindow || opt.dataDir != `C:\x` || !opt.debug {
 		t.Fatalf("flags: %+v %v", opt, err)
 	}
 	// an explicit default port is still explicit: no silent move to another origin

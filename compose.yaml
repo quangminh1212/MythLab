@@ -2,12 +2,6 @@
 services:
   mythlab:
     build: .
-    # Free offline voices (Piper, 3 Vietnamese models): replace the line above with
-    #   build:
-    #     context: .
-    #     args:
-    #       PIPER: "1"
-    # (switches the runtime image from distroless to debian-slim; MYTHLAB_PIPER_DIR is set by the image)
     image: mythlab:local
     restart: unless-stopped
     ports:

@@ -15,7 +15,6 @@ import (
 
 	"mythlab/internal/covers"
 	"mythlab/internal/library"
-	"mythlab/internal/tts"
 )
 
 // APIVersion is reported by /api/ping; the web UI uses the additive
@@ -38,6 +37,7 @@ type pingAuth struct {
 	ClientID string `json:"client_id"`
 }
 
+// ttsInfo is kept in /api/sources only for older clients: the server has no voices.
 type ttsInfo struct {
 	Edge         bool   `json:"edge"`
 	DefaultVoice string `json:"default_voice"`
@@ -63,20 +63,12 @@ type storiesBody struct {
 	Stale    bool      `json:"stale,omitempty"`
 }
 
-type voicesBody struct {
-	Voices []tts.VoiceInfo `json:"voices"`
-	Edge   bool            `json:"edge"`
-}
-
 // fail maps an error to the JSON error response.
 func (s *Server) fail(w http.ResponseWriter, r *http.Request, err error) {
 	var le *library.Error
-	var te *tts.Error
 	switch {
 	case errors.As(err, &le):
 		s.writeErr(w, r, le.Status, le.Code, le.Msg)
-	case errors.As(err, &te):
-		s.writeErr(w, r, te.Status, te.Code, te.Msg)
 	case r.Context().Err() != nil:
 		// the client went away: nothing to answer; 499 only shows in the log
 		if sw, ok := w.(*statusWriter); ok && !sw.wrote {
@@ -167,11 +159,6 @@ func (s *Server) api(w http.ResponseWriter, r *http.Request) {
 		err = s.apiCover(w, r, q, needKey)
 	case "search":
 		err = s.apiSearch(w, r, q)
-	case "voices":
-		list, edge := s.o.TTS.Voices(r.Context())
-		s.writeJSON(w, r, http.StatusOK, voicesBody{list, edge}, "")
-	case "tts":
-		err = s.apiTTS(w, r, q, needKey)
 	default:
 		s.writeErr(w, r, http.StatusNotFound, "no_route", "không có API này")
 	}
@@ -209,7 +196,7 @@ func (s *Server) apiSources(w http.ResponseWriter, r *http.Request) {
 		}
 		out = append(out, d)
 	}
-	s.writeJSON(w, r, http.StatusOK, sourcesBody{out, ttsInfo{s.o.TTS.Available(), s.o.TTS.DefaultVoice()}}, "")
+	s.writeJSON(w, r, http.StatusOK, sourcesBody{out, ttsInfo{false, "vi-VN-HoaiMyNeural"}}, "")
 }
 
 func storyLabels(it library.StoryItem) []string {
@@ -596,25 +583,5 @@ func (s *Server) apiCover(w http.ResponseWriter, r *http.Request, q map[string]s
 		h.Set("ETag", etag)
 	}
 	http.ServeContent(w, r, "", ref.ModTime, bytes.NewReader(ref.Data))
-	return nil
-}
-
-func (s *Server) apiTTS(w http.ResponseWriter, r *http.Request, q map[string]string, needKey bool) error {
-	rate, err := intParam(q, "rate", 0)
-	if err != nil {
-		return err
-	}
-	pitch, err := intParam(q, "pitch", 0)
-	if err != nil {
-		return err
-	}
-	path, err := s.o.TTS.Speak(r.Context(), q["text"], q["voice"], rate, pitch)
-	if err != nil {
-		return err
-	}
-	etag := `"` + strings.TrimSuffix(filepath.Base(path), filepath.Ext(path)) + `"`
-	if serr := s.serveFile(w, r, path, tts.ContentType(path), etag, cacheControl(!needKey, "max-age=31536000, immutable")); serr != nil {
-		return &tts.Error{Status: http.StatusServiceUnavailable, Code: "tts_failed", Msg: "TTS lỗi: không đọc được cache"}
-	}
 	return nil
 }
