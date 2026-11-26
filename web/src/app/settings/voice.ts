@@ -99,7 +99,7 @@ export function mountVoice(root: HTMLElement): () => void {
     const say = have
       ? `Đã lưu trên máy (${megabytes(downloadBytes(v))}). Đọc không cần mạng và không dùng máy chủ.`
       : `${PIPER_SIZE_NOTE} ${saveData() ? 'Đang bật tiết kiệm dữ liệu nên chưa tự tải: hãy nhấn “Tải giọng này”.' : 'Giọng được tự tải khi mở ứng dụng; chưa xong thì nhấn nghe sẽ chờ tải xong rồi đọc.'}`;
-    piperNote.textContent = `${say} Nguồn giọng: ${v.credit}`;
+    piperNote.textContent = `${say} Nguồn giọng: ${v.credit}${v.kokoro ? '' : ' Phiên âm: espeak-ng (GPL-3.0).'} Chi tiết: THIRD_PARTY.md trong mã nguồn.`;
   }
   const onPiperDl = (): void => {
     piperDl.disabled = true;

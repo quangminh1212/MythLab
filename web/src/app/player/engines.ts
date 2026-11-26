@@ -13,7 +13,7 @@ import { confirmDialog, toast } from '../core/ui';
 import { NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
 import { isVi } from '../settings/voices';
 import { installVoiceOnce } from './autovoice';
-import { downloadBytes, forget as piperForgetClips, megabytes, piperPrefetch, piperSource, piperSupported, piperChoice, PIPER_SIZE_NOTE, PIPER_CHOICES, piperInstalled, piperChoiceLabel } from './piper';
+import { downloadBytes, forget as piperForgetClips, megabytes, piperPrefetch, piperSource, piperSupported, piperChoice, PIPER_SIZE_NOTE, lowMemoryNote, PIPER_CHOICES, piperInstalled, piperChoiceLabel } from './piper';
 
 /** Thrown into a pending speak() when the player itself stopped it; never shown to the user. */
 export class Stopped extends Error {
@@ -84,6 +84,8 @@ export function localEngine(): 'native' | null {
  */
 export function effectiveEngine(): TtsEngine | null {
   if (S.engine === 'piper' && piperSupported()) return 'piper';
+  // the phone has no Vietnamese voice of its own: the on-device Piper voice reads instead of silence / a foreign voice
+  if (nativeTts() && nativeHasVi === false && piperSupported()) return 'piper';
   if (nativeTts()) return 'native';
   return piperSupported() ? 'piper' : null;
 }
@@ -105,6 +107,8 @@ const byName = (a: VoiceOption, b: VoiceOption): number => a.name.localeCompare(
 
 let nativeList: NativeVoice[] | null = null;
 let warnedVi = false;
+/** null until the device voices were listed; then whether the device has any Vietnamese voice. */
+let nativeHasVi: boolean | null = null;
 
 async function nativeVoices(): Promise<NativeVoice[]> {
   const p = nativeTts();
@@ -112,8 +116,19 @@ async function nativeVoices(): Promise<NativeVoice[]> {
   if (!nativeList) {
     const r = await p.getSupportedVoices().catch(() => ({ voices: [] as NativeVoice[] }));
     nativeList = r?.voices || [];
+    nativeHasVi = nativeList.some((v) => isVi(v.lang));
   }
   return nativeList;
+}
+
+/**
+ * Android app: lists the device voices once. Resolves false when the device has none in Vietnamese (the player then
+ * reads with Piper, see effectiveEngine), true otherwise and on the plain web.
+ */
+export async function probeNativeVoices(): Promise<boolean> {
+  if (!nativeTts()) return true;
+  await nativeVoices();
+  return nativeHasVi !== false;
 }
 
 function warnNoVi(): void {
@@ -144,7 +159,7 @@ export async function offerPiper(id: string = S.piperVoice): Promise<boolean> {
   if (!piperInstalled(v.id)) {
     const ok = await confirmDialog({
       title: 'Tải giọng Piper?',
-      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(v))}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.`,
+      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(v))}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.${lowMemoryNote(downloadBytes(v))}`,
       confirmLabel: 'Tải về',
     });
     if (!ok) return false;

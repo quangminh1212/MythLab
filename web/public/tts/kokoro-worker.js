@@ -20,6 +20,8 @@ var RATE = 24000;
 /** The model adds about 200 ms of silence at each end of every call; keep 50 ms of it. */
 var KEEP = Math.round(RATE * 0.05);
 var QUIET = 0.01;
+/** The model is about 8 dB louder than the Piper voices (rms 0.19 vs 0.07, peaks past full scale clip): bring it to their level. */
+var GAIN = 0.5;
 /** The frontend refuses more than 2000 characters; stay well below it. */
 var MAX_TEXT = 1200;
 
@@ -92,6 +94,7 @@ async function synth(m) {
         voice: new ort.Tensor('int64', BigInt64Array.from([BigInt(voice)]), [1]),
       });
       var pcm = trim(Float32Array.from(out.waveform.data));
+      for (var g = 0; g < pcm.length; g++) pcm[g] *= GAIN;
       parts.push(pcm);
       total += pcm.length;
     }

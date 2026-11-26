@@ -7,7 +7,7 @@
 export const CACHE = {
   /** `mythlab-shell-<build>`: the precached app shell of one build. */
   shellPrefix: 'mythlab-shell-',
-  /** Audio of /api/tts (LRU). */
+  /** Audio of the removed /api/tts (LRU). Voices now run on-device; the bucket and route are kept only so old entries get listed and cleared. */
   tts: 'mythlab-tts-v2',
   /** Images of /api/cover (LRU, revalidated when old). */
   covers: 'mythlab-covers-v2',

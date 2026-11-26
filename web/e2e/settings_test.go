@@ -164,12 +164,12 @@ func TestSettings(t *testing.T) {
 		before := p.cssVar("--font-read")
 		nfonts := p.count("#ss-fonts [data-font]")
 		ck("font picker lists the 20 bundled and system fonts", nfonts >= 20, nfonts)
-		p.clickNth("#ss-fonts [data-font]", 5)
+		p.selectIndex("#ss-fonts", 5)
 		ck("font changes --font-read", p.cssVar("--font-read") != before, p.cssVar("--font-read"))
 		p.shot("settings-desktop-font.png")
-		p.click("[data-typo-id='large']")
+		p.selectValue("#ss-typo", "large")
 		_, hasSize := p.settingsStored()["size"]
-		ck("typography preset applies", hasSize && p.attr("[data-typo-id='large']", "aria-checked") == "true")
+		ck("typography preset applies", hasSize && ev[string](p, "document.querySelector('#ss-typo').value") == "large")
 
 		// quick row
 		size0 := num(p.settingsStored()["size"])
@@ -280,7 +280,7 @@ func TestSettings(t *testing.T) {
 			t.Fatalf("second export download: %v", err)
 		}
 		raw2, _ := os.ReadFile(path2)
-		ck("export includes the key only when ticked", strings.Contains(string(raw2), fakeLANKey))
+		ck("export includes the key only when ticked", strings.Contains(string(raw2), fakeLANKey), len(raw2), string(raw2)[:min(len(raw2),200)])
 		// import round trip
 		p.uploadFile("#ss-import-file", path)
 		p.mustVisible("#ss-import:not([hidden]) [data-imp='go']", 15*time.Second)

@@ -389,6 +389,7 @@ function open(tab?: SettingsTab): void {
     void paintFonts(root).then(() => markFonts(root));
   });
   select(root, first, false, false);
+  if (tab || first !== 'theme') requestAnimationFrame(() => root.querySelector<HTMLElement>(`#ss-tab-${first}`) && reveal(root.querySelector<HTMLElement>(`#ss-tab-${first}`) as HTMLElement, root.querySelector<HTMLElement>(`#ss-pane-${first}`)));
 }
 
 /** Refreshes the value summaries on the menu rows. */
@@ -418,8 +419,20 @@ function select(root: HTMLElement, id: SettingsTab, focus: boolean, scroll = tru
   if (pane) pane.hidden = false;
   btn?.closest('.ss-group')?.classList.add('is-open');
   if (focus) btn?.focus();
-  if (scroll) btn?.scrollIntoView?.({ block: 'nearest' });
   root.dispatchEvent(new CustomEvent<SettingsTab>('settings-tab', { detail: id }));
+  if (scroll && btn) reveal(btn, pane);
+}
+
+/** Scrolls the sheet body just enough that the opened group's controls are visible (its row stays on screen). */
+function reveal(btn: HTMLElement, pane: HTMLElement | null): void {
+  const body = btn.closest<HTMLElement>('.dialog-body');
+  if (!body) return void btn.scrollIntoView?.({ block: 'nearest' });
+  const view = body.getBoundingClientRect();
+  const head = btn.getBoundingClientRect();
+  const end = (pane && !pane.hidden ? pane.getBoundingClientRect().bottom : head.bottom) - view.bottom;
+  const toHead = head.top - view.top;
+  const dy = end > 0 ? Math.min(end, Math.max(toHead, 0)) : Math.min(toHead, 0);
+  if (dy) body.scrollBy({ top: dy });
 }
 
 /** Arrow Up/Down, Home and End move between the menu rows (no activation; Enter/Space toggles). */

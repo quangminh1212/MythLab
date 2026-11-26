@@ -575,6 +575,15 @@ html.has-overlay #dim {
     box-shadow: 0 -10px 30px -8px rgba(16, 24, 40, 0.35);
   }
 
+  /* the quick row is two lines tall; pinned it would eat ~40% of the short sheet, so it scrolls with the list */
+  .ss-panel .ss-top {
+    position: static;
+  }
+
+  /* toasts (e.g. the voice download progress) must not cover the sheet's footer buttons */
+  body:has(.ss-panel) .toasts {
+    bottom: calc(84px + env(safe-area-inset-bottom));
+  }
 }
 
 /* ---------------------------------------------------------------- download dialog */
@@ -915,6 +924,10 @@ html.is-offline .st-offline {
   margin-bottom: 4px;
   font-size: var(--ss-fs);
   font-weight: 600;
+}
+
+.ss-panel input[type="range"] {
+  accent-color: var(--accent);
 }
 
 .ss-panel .ss-label .ss-out {

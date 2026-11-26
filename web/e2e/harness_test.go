@@ -609,7 +609,7 @@ func (b *Browser) newPage(t *testing.T, o PageOpts) *Page {
 		emulation.SetTouchEmulationEnabled(o.Mobile),
 	}
 	if o.NoAPI {
-		acts = append(acts, fetch.Enable().WithPatterns([]*fetch.RequestPattern{{URLPattern: "*/api/*"}}))
+		acts = append(acts, fetch.Enable().WithPatterns([]*fetch.RequestPattern{{URLPattern: "http://127.0.0.1:*/api/*"}}))
 		chromedp.ListenTarget(ctx, func(ev any) {
 			if e, ok := ev.(*fetch.EventRequestPaused); ok {
 				go func() {

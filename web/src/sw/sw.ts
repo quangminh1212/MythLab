@@ -8,7 +8,7 @@
  *    a cache, so opening a stylesheet or a directory listing in a tab cannot replace the shell (bugs.md W1).
  *  - /api/chapter: stale-while-revalidate from the pinned bucket (downloads) and an LRU bucket (recent reads).
  *  - /api/sources|stories|story|voices: network first, last good answer when the network is gone.
- *  - /api/cover: cache first, revalidated in the background when older than a day (W2). /api/tts: cache first.
+ *  - /api/cover: cache first, revalidated in the background when older than a day (W2). /api/tts (removed from the server, kept for old clients): cache first.
  *    Both keep their old bucket names; the LRU order lives in a small index, bodies are not rewritten (W3).
  *  - Update: a new worker waits until the page asks it to take over (SKIP_WAITING), so one tab never mixes two
  *    builds. Old `mythlab-shell-*` buckets and the unversioned `mythlab-static` of worker v3 are deleted on

@@ -12,7 +12,7 @@
  */
 import { S } from '../core/settings';
 import { confirmDialog, toast } from '../core/ui';
-import { downloadBytes, installPiper, megabytes, piperChoice, piperInstalled, piperSupported, PIPER_SIZE_NOTE, refreshPiper } from './piper';
+import { downloadBytes, installPiper, lowMemoryNote, megabytes, piperChoice, piperInstalled, piperSupported, PIPER_SIZE_NOTE, refreshPiper } from './piper';
 
 /** Voices bigger than this ask before they download when the user did not pick them (play, saveData). */
 export const CONFIRM_ABOVE = 40_000_000;
@@ -45,6 +45,12 @@ function setPercent(p: number): void {
   for (const fn of watchers) fn(p);
 }
 
+/** One download per model across tabs and windows (Web Locks): the others wait, then find the voice in the cache. */
+function withVoiceLock<T>(model: string, fn: () => Promise<T>): Promise<T> {
+  const locks = (globalThis.navigator as (Navigator & { locks?: LockManager }) | undefined)?.locks;
+  return locks ? locks.request(`mythlab-voice:${model}`, fn) : fn();
+}
+
 /**
  * Downloads the voice `id` (a saved voice id) once. Joins the download that is already running for the same model.
  * Shows a progress toast every `step` percent. Rejects with the reason when every source failed.
@@ -55,11 +61,13 @@ export function installVoiceOnce(id: string, step = 10): Promise<void> {
   let last = -1;
   let from = '';
   const say = (pct: number): void => toast({ message: `Đang tải giọng đọc${from}… ${pct}%`, duration: 120_000 });
-  const promise = (async () => {
+  const promise = withVoiceLock(c.model.id, async () => {
     say(0);
     setPercent(0);
     try {
-      await installPiper(
+      // another tab may have finished this voice while we waited for the lock
+      await refreshPiper();
+      if (!piperInstalled(c.model.id)) await installPiper(
         c.model.id,
         (f) => {
           const pct = Math.floor((f * 100) / step) * step;
@@ -80,7 +88,7 @@ export function installVoiceOnce(id: string, step = 10): Promise<void> {
       setPercent(-1);
     }
     toast('Đã tải xong giọng đọc');
-  })();
+  });
   const mine: Running = { model: c.model.id, promise };
   running = mine;
   const done = (): void => {
@@ -111,7 +119,7 @@ export async function ensureVoice(id: string = S.piperVoice): Promise<void> {
     if (saveData() || downloadBytes(c.model) > CONFIRM_ABOVE) {
       const ok = await confirmDialog({
         title: 'Tải giọng đọc?',
-        message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(c.model))}.`,
+        message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(c.model))}.${lowMemoryNote(downloadBytes(c.model))}`,
         confirmLabel: 'Tải về',
       });
       if (!ok) throw new Declined();
@@ -136,10 +144,10 @@ function retryWhenOnline(): void {
   );
 }
 
-/** The automatic download of the selected voice (main.ts calls it once the page is idle). Never throws. Returns true when the voice is on the device. */
-export async function autoInstallVoice(): Promise<boolean> {
+/** The automatic download of the selected voice (main.ts calls it once the page is idle; `force`: the device has no Vietnamese voice, so Piper is the reader although the saved engine is the device). Never throws. Returns true when the voice is on the device. */
+export async function autoInstallVoice(force = false): Promise<boolean> {
   try {
-    if (S.engine !== 'piper' || !piperSupported()) return false;
+    if ((S.engine !== 'piper' && !force) || !piperSupported()) return false;
     await refreshPiper();
     const c = piperChoice(S.piperVoice);
     if (piperInstalled(c.model.id)) return true;

@@ -67,11 +67,11 @@ docker compose up -d --build
 - **Cấp truyện:**
   - Thư mục cục bộ: bỏ truyện vào `/data/library` (ví dụ bind-mount `./library:/data/library:ro`; có sẵn dòng bình luận trong `compose.yaml`).
   - Repo GitHub `Done_*`: sửa `/data/config.json`, ví dụ `"github": [{"owner": "tên-github", "prefix": "Done_", "enabled": true}]`; repo riêng tư cần `GITHUB_TOKEN` (đặt trong `.env`). Sửa file bằng `docker run --rm -it -v mythlab-data:/data busybox vi /data/config.json`, hoặc bind-mount file riêng: `-v ./config.json:/data/config.json` (đặt `progress.json` cạnh nó nên thư mục `/data` vẫn phải ghi được).
-- **Giọng đọc** chạy hoàn toàn trên thiết bị của người đọc (Piper WASM chạy offline trong trình duyệt, giọng của trình duyệt, hoặc giọng gốc của Android); server không tổng hợp giọng nói và không cần Piper hay kết nối tới dịch vụ đọc nào. Cờ `--no-tts` cũ vẫn được chấp nhận nhưng không còn tác dụng. Đọc từ GitHub cần internet ra `api.github.com`.
+- **Giọng đọc** chạy hoàn toàn trên thiết bị của người đọc (Piper WASM và Kokoro Lite chạy offline trong trình duyệt, hoặc giọng gốc của Android khi có); server không tổng hợp giọng nói và không cần Piper hay kết nối tới dịch vụ đọc nào. Cờ `--no-tts` cũ vẫn được chấp nhận nhưng không còn tác dụng. Đọc từ GitHub cần internet ra `api.github.com`.
 - **Cập nhật:** `git pull && docker compose up -d --build` (dữ liệu trong volume được giữ; `config.json` trong volume không bị ghi đè nên cấu hình mặc định mới của image không tự áp dụng). Sao lưu: `docker run --rm -v mythlab-data:/data -v "$PWD":/b busybox tar czf /b/mythlab-data.tgz /data`.
 - Container kiểm tra sức khoẻ bằng `mythlab-server --healthcheck` (gọi `/api/ping` nội bộ; image distroless không có curl). Compose chạy với root fs chỉ đọc, `cap_drop: ALL` và `no-new-privileges`.
 
 ## Lưu ý pháp lý / Legal notes
 
-- **Giấy phép:** `LICENSE` (MIT) chỉ áp dụng cho mã nguồn phần mềm (`web/`, `server/`, `apps/`, `tools/`). Truyện và bản thảo ở các thư mục còn lại không thuộc giấy phép này. Phông chữ đóng gói trong `web/public/fonts` theo giấy phép OFL/Apache-2.0 kèm trong thư mục đó.
+- **Giấy phép:** `LICENSE` (MIT) chỉ áp dụng cho mã nguồn phần mềm (`web/`, `server/`, `apps/`, `tools/`). Truyện và bản thảo ở các thư mục còn lại không thuộc giấy phép này. Phông chữ đóng gói trong `web/public/fonts` theo giấy phép OFL/Apache-2.0 kèm trong thư mục đó. Giọng đọc và thư viện tổng hợp tiếng nói có giấy phép riêng, xem `THIRD_PARTY.md`.
 - **Truyện** trong repo là nội dung của chủ dự án; không phân phối lại khi chưa được phép.

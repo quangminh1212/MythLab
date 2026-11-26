@@ -199,6 +199,12 @@ const dictArtifact = (k: KokoroFiles): Artifact => ({ name: 'từ điển phát 
 const configArtifact = (v: PiperVoice): Artifact => ({ name: 'cấu hình giọng', bytes: v.configBytes, sha256: v.configSha256, sources: piperSources(v, '.json') });
 
 /** "63 MB" */
+/** Extra line for the download dialogs: a big voice can run out of memory on a phone with 2 GB of RAM or less. */
+export function lowMemoryNote(bytes: number): string {
+  const mem = (globalThis.navigator as (Navigator & { deviceMemory?: number }) | undefined)?.deviceMemory;
+  return mem !== undefined && mem <= 2 && bytes > 40_000_000 ? ' Máy có ít bộ nhớ (≤ 2 GB): giọng nặng có thể bị treo hoặc tự thoát, nên chọn giọng nhẹ hơn.' : '';
+}
+
 export const megabytes = (bytes: number): string => `${Math.round(bytes / 1e6)} MB`;
 
 /** Label of a model: "Vais1000 — chất lượng cao · 63 MB · đã tải". */

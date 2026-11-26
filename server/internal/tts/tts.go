@@ -1,5 +1,5 @@
 // Package tts is a compatibility stub. Speech synthesis no longer runs on the
-// server: voices run on the device (Piper WASM, browser or native engines).
+// server: voices run on the device (Piper WASM, Kokoro Lite, or the native Android engine).
 // The types remain only so internal/app, which still wires a *Service into
 // httpapi.Options, keeps compiling. Remove them together with that wiring.
 package tts

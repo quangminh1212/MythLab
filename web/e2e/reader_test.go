@@ -675,6 +675,9 @@ func TestReaderTTS(t *testing.T) {
 			p.sleep(500)
 			paused := ev[[]any](p, rdLastAudioJS)
 			markPaused := ev[string](p, rdMarkJS)
+			// the on-device clips are real speech of unknown length: a short one legitimately ends (and the next one
+			// starts on the same element) within the 900 ms below, which is not a restart from the chunk start
+			clipDur := ev[float64](p, `(() => { const a = (window.__audios || []); const x = a[a.length - 1]; return x && isFinite(x.duration) ? x.duration : -1; })()`)
 			p.sleep(1800)
 			paused2 := ev[[]any](p, rdLastAudioJS)
 			pausedOK := len(paused) == 2 && len(paused2) == 2 && paused[0] == true
@@ -687,7 +690,7 @@ func TestReaderTTS(t *testing.T) {
 			res := ev[[]any](p, rdLastAudioJS)
 			markAfter := ev[string](p, rdMarkJS)
 			nAudio := ev[int](p, "(window.__audios || []).length")
-			resumeOK := len(res) == 2 && len(paused) == 2 && res[0] == false && res[1].(float64) >= paused[1].(float64)-0.05
+			resumeOK := len(res) == 2 && len(paused) == 2 && res[0] == false && (res[1].(float64) >= paused[1].(float64)-0.05 || (clipDur > 0 && clipDur-paused[1].(float64) < 1.2))
 			pc := 0.0
 			if len(paused) == 2 {
 				pc, _ = paused[1].(float64)

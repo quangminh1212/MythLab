@@ -122,7 +122,11 @@ async function boot(): Promise<void> {
     void announceUpdate();
     // the selected on-device voice downloads by itself (one voice, skipped when the connection saves data)
     void import('./player/autovoice').then(
-      (m) => m.autoInstallVoice(),
+      async (m) => {
+        // Android app: with no Vietnamese voice on the phone, Piper is the reader and downloads like on the web
+        const hasNative = await import('./player/engines').then((e) => e.probeNativeVoices(), () => true);
+        await m.autoInstallVoice(!hasNative);
+      },
       () => {},
     );
     void import('./pwa').then(
