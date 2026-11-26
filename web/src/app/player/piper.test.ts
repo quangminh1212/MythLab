@@ -1,26 +1,28 @@
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
-import { S } from '../core/settings';
+import { DEF, S } from '../core/settings';
 import { DEFAULT_PIPER_VOICE, downloadBytes, KOKORO_FILES, megabytes, PIPER_CHOICES, PIPER_VOICES, piperChoice, piperChoiceLabel, piperConfigUrl, piperModelUrl, piperReady, piperSources, RELEASE_URL, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
 
 describe('piper catalog', () => {
   it('lists the Vietnamese models with sizes and the commercial-safe one first', () => {
     expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-vivos-x_low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite']);
-    expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium');
+    // the default is the light Nữ Vivos speaker (the settings default says the same)
+    expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vivos-x_low#0');
+    expect(DEFAULT_PIPER_VOICE).toBe(DEF.piperVoice);
     expect(megabytes(piperVoice('vi_VN-vivos-x_low').bytes)).toBe('28 MB');
     expect(megabytes(piperVoice('vi_VN-csa-voice-piper-v3-medium').bytes)).toBe('77 MB');
   });
 
   it('maps a saved id to a voice and falls back to the default for an unknown one', () => {
     expect(piperVoice('vi_VN-25hours_single-low').sampleRate).toBe(16000);
-    expect(piperVoice('gone').id).toBe(DEFAULT_PIPER_VOICE);
-    expect(piperVoice(undefined).id).toBe(DEFAULT_PIPER_VOICE);
+    expect(piperVoice('gone').id).toBe('vi_VN-vivos-x_low');
+    expect(piperVoice(undefined).id).toBe('vi_VN-vivos-x_low');
     expect(piperVoice('vi_VN-vivos-x_low#7').id).toBe('vi_VN-vivos-x_low');
   });
 
   it('builds model urls next to their json and labels downloaded voices', () => {
-    const v = piperVoice(DEFAULT_PIPER_VOICE);
+    const v = piperVoice('vi_VN-vais1000-medium');
     expect(piperModelUrl(v)).toBe('https://huggingface.co/rhasspy/piper-voices/resolve/5ec43b186ef915a195d3ddbcfd9916e76c503c3f/vi/vi_VN/vais1000/medium/vi_VN-vais1000-medium.onnx');
     expect(piperConfigUrl(v)).toBe(`${piperModelUrl(v)}.json`);
     expect(piperVoiceLabel(v, false)).toContain('63 MB');
@@ -50,7 +52,7 @@ describe('piper picker choices', () => {
     expect(piperChoice('vi_VN-vivos-x_low#9').sid).toBe(9);
     expect(piperChoice('vi_VN-vivos-x_low').model.id).toBe('vi_VN-vivos-x_low');
     expect(piperChoice('vi_VN-vivos-x_low#64').model.id).toBe('vi_VN-vivos-x_low');
-    expect(piperChoice('gone').model.id).toBe(DEFAULT_PIPER_VOICE);
+    expect(piperChoice('gone').id).toBe(DEFAULT_PIPER_VOICE);
   });
 
   it('keeps every offered speaker inside the model (sid < 65 for vivos, < 5 for Piper v3) and gives every model a credit', () => {

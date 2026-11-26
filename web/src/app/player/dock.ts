@@ -104,6 +104,7 @@ function sync(root: ParentNode): void {
   const title = st.chapterTitle || (st.status === 'loading' ? 'Đang tải…' : '');
   let sub = st.storyName || '';
   if (st.status === 'error') sub = st.error || 'Không đọc được';
+  else if (st.status === 'loading' && inf.voiceWait >= 0) sub = `Đang tải giọng đọc…${inf.voiceWait > 0 ? ` ${inf.voiceWait}%` : ''}`;
   else if (st.status === 'loading' && !inf.chunks) sub = [sub, 'đang tải'].filter(Boolean).join(' · ');
   else if (inf.chunks) sub = [sub, `đoạn ${inf.chunk + 1}/${inf.chunks}`, inf.fallback && st.engine ? ENGINE_LABEL[st.engine].toLowerCase() : ''].filter(Boolean).join(' · ');
   const text = (sel: string, v: string): void => {

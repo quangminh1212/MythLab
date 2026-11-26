@@ -8,11 +8,13 @@ import { html, render } from '../core/html';
 import { S, set, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { offerPiper } from '../player/engines';
+import { onVoiceProgress, saveData, voiceProgress } from '../player/autovoice';
 import { downloadBytes, megabytes, PIPER_SIZE_NOTE, piperChoice, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
 import { effectiveEngine, engineChoices, listVoices, preview, readEnv, selectVoice, stopPreview, voiceKey, type VoiceItem } from './voices';
 
 /** Wires the tab inside `root`. Returns the function that stops everything it started. */
 export function mountVoice(root: HTMLElement): () => void {
+  const engineRow = root.querySelector<HTMLElement>('#ss-engine-row') as HTMLElement;
   const engineBox = root.querySelector<HTMLElement>('#ss-engine') as HTMLElement;
   const engineNote = root.querySelector<HTMLElement>('#ss-engine-note') as HTMLElement;
   const select = root.querySelector<HTMLSelectElement>('#ss-voice') as HTMLSelectElement;
@@ -34,6 +36,8 @@ export function mountVoice(root: HTMLElement): () => void {
     const eff = effectiveEngine(S.engine, e);
     shown = eff;
     const choices = engineChoices(e);
+    // one reader only (the plain web: Piper): no switch to show, just the voice list
+    engineRow.hidden = choices.length < 2;
     render(
       engineBox,
       html`${choices.map(
@@ -60,7 +64,7 @@ export function mountVoice(root: HTMLElement): () => void {
     if (!eff) {
       render(select, html`<option value="">Chưa có bộ đọc nào dùng được</option>`);
       select.disabled = true;
-      voiceNote.textContent = 'Thiết bị này không hỗ trợ đọc thành tiếng.';
+      voiceNote.textContent = 'Thiết bị này không chạy được giọng Piper (cần WebAssembly).';
       showPiper(null);
       return;
     }
@@ -87,7 +91,14 @@ export function mountVoice(root: HTMLElement): () => void {
     piperRm.hidden = !have;
     piperDl.textContent = `Tải giọng này (${megabytes(downloadBytes(v))})`;
     test.disabled = !have;
-    const say = have ? `Đã lưu trên máy (${megabytes(downloadBytes(v))}). Đọc không cần mạng và không dùng máy chủ.` : `${PIPER_SIZE_NOTE} Chưa tải thì ứng dụng tạm đọc bằng giọng của máy.`;
+    const busy = voiceProgress();
+    piperDl.disabled = busy >= 0 && !have;
+    if (busy >= 0 && !have) {
+      piperDl.textContent = `Đang tải… ${busy}%`;
+    }
+    const say = have
+      ? `Đã lưu trên máy (${megabytes(downloadBytes(v))}). Đọc không cần mạng và không dùng máy chủ.`
+      : `${PIPER_SIZE_NOTE} ${saveData() ? 'Đang bật tiết kiệm dữ liệu nên chưa tự tải: hãy nhấn “Tải giọng này”.' : 'Giọng được tự tải khi mở ứng dụng; chưa xong thì nhấn nghe sẽ chờ tải xong rồi đọc.'}`;
     piperNote.textContent = `${say} Nguồn giọng: ${v.credit}`;
   }
   const onPiperDl = (): void => {
@@ -129,9 +140,18 @@ export function mountVoice(root: HTMLElement): () => void {
   test.addEventListener('click', onTest);
   piperDl.addEventListener('click', onPiperDl);
   piperRm.addEventListener('click', onPiperRm);
+  // the automatic download of the voice reports here: show it, and show the result when it ends
+  const offProgress = onVoiceProgress((p) => {
+    if (p < 0) void refresh();
+    else if (shown === 'piper' && !piperInstalled(piperVoice(S.piperVoice).id)) {
+      piperDl.disabled = true;
+      piperDl.textContent = `Đang tải… ${p}%`;
+    }
+  });
   void refresh();
   return () => {
     seq++;
+    offProgress();
     stopPreview();
     engineBox.removeEventListener('change', onEngine);
     select.removeEventListener('change', onVoice);

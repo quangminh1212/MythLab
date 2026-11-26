@@ -75,8 +75,16 @@ func (p *Page) openSheet(tab string) {
 	}
 	p.mustVisible(".ss-panel", 5*time.Second)
 	if tab != "" {
-		p.click(fmt.Sprintf(`[data-tab="%s"]`, tab))
+		p.openGroup(tab)
 		p.mustVisible(fmt.Sprintf("#ss-pane-%s:not([hidden])", tab), 15*time.Second)
+	}
+}
+
+// openGroup expands a settings menu group (no-op when it is already open: clicking an open row collapses it).
+func (p *Page) openGroup(tab string) {
+	p.t.Helper()
+	if p.attr(fmt.Sprintf("#ss-tab-%s", tab), "aria-expanded") != "true" {
+		p.click(fmt.Sprintf(`#ss-tab-%s`, tab))
 	}
 }
 
@@ -123,7 +131,7 @@ func TestSettings(t *testing.T) {
 			{"layout", "width", "900", "--read-width", "900px"},
 		}
 		for _, s := range sliders {
-			p.click(fmt.Sprintf(`[data-tab="%s"]`, s.tab))
+			p.openGroup(s.tab)
 			p.fill(fmt.Sprintf(`#ss-pane-%s input[data-range="%s"]`, s.tab, s.key), s.val)
 			got := p.cssVar(s.cssvar)
 			ck(fmt.Sprintf("slider %s -> %s", s.key, s.cssvar), got == s.want, fmt.Sprintf("%q != %q", got, s.want))
@@ -134,7 +142,7 @@ func TestSettings(t *testing.T) {
 			ck(fmt.Sprintf("slider %s stored", s.key), has && num(cur) == want, cur)
 		}
 
-		p.click(`[data-tab="layout"]`)
+		p.openGroup("layout")
 		p.clickForce(`#ss-pane-layout [data-seg="align"] input[value="left"]`)
 		ck("align -> --read-align", p.cssVar("--read-align") == "left", p.cssVar("--read-align"))
 		p.clickForce(`#ss-pane-layout [data-seg="readMode"] input[value="page"]`)
@@ -142,7 +150,7 @@ func TestSettings(t *testing.T) {
 		p.setChecked(`#ss-pane-layout input[data-bool="tapZones"]`, false)
 		ck("tapZones attribute", ev[string](p, "document.documentElement.dataset.tapzones || ''") == "off")
 
-		p.click(`[data-tab="theme"]`)
+		p.openGroup("theme")
 		p.clickForce(`#ss-pane-theme [data-seg="theme"] input[value="dark"]`)
 		ck("theme attribute", ev[string](p, "document.documentElement.dataset.scheme || ''") == "dark")
 		ck("theme-color follows theme", ev[string](p, "document.querySelector('meta[name=theme-color]').content") != "#ffffff")
@@ -152,7 +160,7 @@ func TestSettings(t *testing.T) {
 		np, _ := p.settingsStored()["nightPreset"].(string)
 		ck("night preset stored", np == pid, p.settingsStored()["nightPreset"])
 
-		p.click(`[data-tab="font"]`)
+		p.openGroup("font")
 		before := p.cssVar("--font-read")
 		nfonts := p.count("#ss-fonts [data-font]")
 		ck("font picker lists the 20 bundled and system fonts", nfonts >= 20, nfonts)
@@ -203,8 +211,8 @@ func TestSettings(t *testing.T) {
 		p.mustVisible(".ss-panel", 15*time.Second)
 		ck("dialog role+modal", p.attr(".ss-panel", "role") == "dialog" && p.attr(".ss-panel", "aria-modal") == "true")
 		ck("dialog is labelled", p.attr(".ss-panel", "aria-labelledby") != "")
-		ck("tablist roles", p.count(`[role="tablist"] [role="tab"]`) == 5 && p.count(`[role="tabpanel"]`) == 5)
-		ck("one tab selected", p.count(`[role="tab"][aria-selected="true"]`) == 1)
+		ck("menu rows are disclosure buttons", p.count(`.ss-menu button.ss-group-btn[aria-expanded][aria-controls]`) >= 5 && p.count(`.ss-menu [role="region"]`) >= 5)
+		ck("exactly one group expanded", p.count(`.ss-group-btn[aria-expanded="true"]`) == 1 && p.count(`.ss-pane:not([hidden])`) == 1)
 		const inPanel = "!!document.activeElement.closest('.ss-panel')"
 		ck("focus moves into the sheet", ev[bool](p, inPanel))
 		escaped := 0
@@ -222,11 +230,15 @@ func TestSettings(t *testing.T) {
 			}
 		}
 		ck("focus trap holds backwards", escaped == 0, escaped)
-		p.focus(`[role="tab"][aria-selected="true"]`)
+		p.focus(`.ss-group-btn[aria-expanded="true"]`)
 		cur := ev[string](p, "document.activeElement.dataset.tab || ''")
-		p.key(kb.ArrowRight)
+		p.key(kb.ArrowDown)
 		nxt := ev[string](p, "document.activeElement.dataset.tab || ''")
-		ck("arrow keys move between tabs", cur != nxt && p.count(fmt.Sprintf("#ss-pane-%s:not([hidden])", nxt)) == 1, cur, nxt)
+		ck("arrow keys move between menu rows", cur != nxt && nxt != "", cur, nxt)
+		p.key(kb.Enter)
+		ck("Enter expands the focused row", p.count(fmt.Sprintf("#ss-pane-%s:not([hidden])", nxt)) == 1 && p.attr(fmt.Sprintf("#ss-tab-%s", nxt), "aria-expanded") == "true", nxt)
+		p.key(kb.Enter)
+		ck("Enter again collapses it", p.count(".ss-pane:not([hidden])") == 0)
 		p.key(kb.Escape)
 		p.must(p.waitGone(".ss-panel", 5*time.Second), "sheet closes")
 		ck("Escape closes and returns focus", ev[string](p, "document.activeElement.id") == "btn-settings", ev[string](p, "document.activeElement.id"))
@@ -327,10 +339,10 @@ func TestSettings(t *testing.T) {
 		h1 := ev[float64](p, "document.querySelector('#rd-body p').getBoundingClientRect().height")
 		ck("live: the text behind the sheet reflows", h1 != h0, h0, h1)
 		p.shot("settings-mobile-font.png")
-		small := ev[[]string](p, `[...document.querySelectorAll('.ss-panel button, .ss-panel input:not([type=range]), .ss-panel select, .ss-panel [role=tab]')].filter(e => { const r = e.getBoundingClientRect(); const cs = getComputedStyle(e); return r.width > 0 && cs.visibility !== 'hidden' && !e.closest('[hidden]') && (r.height < 43.5 || r.width < 43.5) && cs.opacity !== '0' && e.type !== 'radio' && e.type !== 'checkbox'; }).map(e => e.tagName + '.' + e.className + ' ' + Math.round(e.getBoundingClientRect().width) + 'x' + Math.round(e.getBoundingClientRect().height)).slice(0, 8)`)
+		small := ev[[]string](p, `[...document.querySelectorAll('.ss-panel button, .ss-panel input:not([type=range]), .ss-panel select, .ss-panel .ss-group-btn')].filter(e => { const r = e.getBoundingClientRect(); const cs = getComputedStyle(e); return r.width > 0 && cs.visibility !== 'hidden' && !e.closest('[hidden]') && (r.height < 43.5 || r.width < 43.5) && cs.opacity !== '0' && e.type !== 'radio' && e.type !== 'checkbox'; }).map(e => e.tagName + '.' + e.className + ' ' + Math.round(e.getBoundingClientRect().width) + 'x' + Math.round(e.getBoundingClientRect().height)).slice(0, 8)`)
 		ck("tap targets >= 44 px in the sheet", len(small) == 0, small)
 		for _, tab := range []string{"theme", "layout", "voice", "source"} {
-			p.click(fmt.Sprintf(`[data-tab="%s"]`, tab))
+			p.openGroup(tab)
 			p.sleep(250)
 			p.shot("settings-mobile-" + tab + ".png")
 			ow := ev[float64](p, "document.documentElement.scrollWidth")

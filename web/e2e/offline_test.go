@@ -154,7 +154,7 @@ func TestOfflineReading(t *testing.T) {
 	p.sleep(500)
 	p.click("#btn-settings")
 	p.mustVisible(".ss-panel", 15*time.Second)
-	p.click(`[data-tab="source"]`)
+	p.openGroup("source")
 	p.mustVisible("#ss-layers li", 15*time.Second)
 	layers := p.text("#ss-layers")
 	ck("storage tab shows sizes per layer", strings.Contains(layers, "B") && strings.Contains(layers, "KB") || strings.Contains(layers, "MB"), short2(layers, 200))

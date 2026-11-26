@@ -1,7 +1,8 @@
 /**
  * Settings sheet (stage W3): a modal bottom sheet on phones (the reading text stays visible above it) and a side
- * panel on wide screens. A quick row (text size, theme, reading mode) sits above five tabs: Giao diện, Chữ, Bố cục,
- * Giọng đọc and Nguồn dữ liệu. Every change is written straight through `core/settings`, so the page behind the
+ * panel on wide screens. A quick row (text size, theme) sits above a vertical menu of setting groups (Giao diện, Chữ,
+ * Bố cục, Giọng đọc, Nguồn dữ liệu, ...). Each row shows a short summary and a chevron; clicking it expands the group's
+ * controls right below it (accordion: one open at a time, click again to collapse). Every change is written straight through `core/settings`, so the page behind the
  * sheet is the live preview.
  *
  * Exports `settingsPanel: SettingsPanelApi` (core/contracts.ts).
@@ -39,6 +40,22 @@ export const TABS: TabDef[] = [
 /** The tabs to show: "Tài khoản" only when the server offers Google sign-in (or a session exists); "Ứng dụng" only in the Android app. */
 export const visibleTabs = (): TabDef[] =>
   TABS.filter((t) => (t.id !== 'account' || auth.available() || auth.signedIn()) && (t.id !== 'app' || appUpdate.available()));
+
+/** Short current-value summary shown on a group's menu row (empty when there is nothing cheap to say). */
+export function groupSummary(id: SettingsTab): string {
+  switch (id) {
+    case 'theme':
+      return S.theme === 'auto' ? 'Tự động' : (THEMES.find((t) => t.id === S.theme)?.label ?? '');
+    case 'font':
+      return [fonts.find(S.font)?.label, `${S.size} px`].filter(Boolean).join(' · ');
+    case 'layout':
+      return S.readMode === 'page' ? 'Lật trang' : 'Cuộn dọc';
+    case 'voice':
+      return `Tốc độ ${Number(S.rate.toFixed(2))}×`;
+    default:
+      return '';
+  }
+}
 
 /** Quick row: the three everyday choices; the Giao diện tab has every theme. */
 const THEME_OPTIONS: ['light' | 'dark' | 'auto', string][] = [
@@ -272,18 +289,14 @@ function open(tab?: SettingsTab): void {
           </div>
           ${segRow('theme', 'Giao diện', THEME_OPTIONS, { compact: true, hideLabel: true })}
         </div>
-        <div class="ss-tabs" role="tablist" aria-label="Nhóm cài đặt">
-          ${shown.map((t) => html`<button type="button" class="ss-tab" role="tab" id="ss-tab-${t.id}" aria-controls="ss-pane-${t.id}" aria-selected="false" tabindex="-1" data-tab="${t.id}">${t.label}</button>`)}
-        </div>
       </div>
-      <div class="ss-panes">
-        <section class="ss-pane" role="tabpanel" id="ss-pane-theme" aria-labelledby="ss-tab-theme" tabindex="0" hidden>${themeTab()}</section>
-        <section class="ss-pane" role="tabpanel" id="ss-pane-font" aria-labelledby="ss-tab-font" tabindex="0" hidden>${fontTab()}</section>
-        <section class="ss-pane" role="tabpanel" id="ss-pane-layout" aria-labelledby="ss-tab-layout" tabindex="0" hidden>${layoutTab()}</section>
-        <section class="ss-pane" role="tabpanel" id="ss-pane-voice" aria-labelledby="ss-tab-voice" tabindex="0" hidden>${voiceTab()}</section>
-        <section class="ss-pane" role="tabpanel" id="ss-pane-source" aria-labelledby="ss-tab-source" tabindex="0" hidden></section>
-        ${shown.some((t) => t.id === 'account') ? html`<section class="ss-pane" role="tabpanel" id="ss-pane-account" aria-labelledby="ss-tab-account" tabindex="0" hidden></section>` : ''}
-        ${shown.some((t) => t.id === 'app') ? html`<section class="ss-pane" role="tabpanel" id="ss-pane-app" aria-labelledby="ss-tab-app" tabindex="0" hidden></section>` : ''}
+      <div class="ss-menu" role="group" aria-label="Nhóm cài đặt">
+        ${shown.map(
+          (t) => html`<div class="ss-group" data-group="${t.id}">
+            <h3 class="ss-group-h"><button type="button" class="ss-group-btn" id="ss-tab-${t.id}" aria-expanded="false" aria-controls="ss-pane-${t.id}" data-tab="${t.id}"><span class="ss-g-name">${t.label}</span><span class="ss-g-sum" data-sum="${t.id}">${groupSummary(t.id)}</span><span class="ss-g-chev" aria-hidden="true">${icon('down')}</span></button></h3>
+            <section class="ss-pane" role="region" id="ss-pane-${t.id}" aria-labelledby="ss-tab-${t.id}" hidden>${t.id === 'theme' ? themeTab() : t.id === 'font' ? fontTab() : t.id === 'layout' ? layoutTab() : t.id === 'voice' ? voiceTab() : ''}</section>
+          </div>`,
+        )}
       </div>`,
     footer: html`<button type="button" class="btn" data-reset>Đặt lại mặc định</button><button type="button" class="btn btn-primary" data-close>Xong</button>`,
     initialFocus: `#ss-tab-${first}`,
@@ -297,6 +310,7 @@ function open(tab?: SettingsTab): void {
     markTypo(root);
     paintSwatches(root);
     noteActive(root);
+    paintSummaries(root);
   });
   paintSwatchColours(root);
   paintThemeChips(root);
@@ -339,7 +353,7 @@ function open(tab?: SettingsTab): void {
   root.addEventListener('click', (e) => {
     const t = e.target as Element;
     const tabBtn = t.closest<HTMLElement>('[data-tab]');
-    if (tabBtn) return select(root, tabBtn.dataset.tab as SettingsTab, false);
+    if (tabBtn) return toggle(root, tabBtn.dataset.tab as SettingsTab);
     const step = t.closest<HTMLElement>('[data-step]');
     if (step) {
       const [min, max] = RANGE.size;
@@ -357,7 +371,7 @@ function open(tab?: SettingsTab): void {
     if (t.closest('[data-reset]')) void resetAll();
   });
   root.addEventListener('keydown', (e) => {
-    const tab = (e.target as Element).closest<HTMLElement>('[role="tab"]');
+    const tab = (e.target as Element).closest<HTMLElement>('.ss-group-btn');
     if (tab) tabKeys(root, e, tab);
     else radioKeys(e);
   });
@@ -377,32 +391,49 @@ function open(tab?: SettingsTab): void {
   select(root, first, false, false);
 }
 
-/** Shows a tab. Moves focus to its button only when the user asked for it. */
-function select(root: HTMLElement, id: SettingsTab, focus: boolean, _announce = true): void {
-  for (const b of root.querySelectorAll<HTMLElement>('[data-tab]')) {
-    const on = b.dataset.tab === id;
-    b.setAttribute('aria-selected', String(on));
-    b.tabIndex = on ? 0 : -1;
-    if (on) b.scrollIntoView?.({ block: 'nearest', inline: 'nearest' });
-  }
-  for (const p of root.querySelectorAll<HTMLElement>('.ss-pane')) p.hidden = p.id !== `ss-pane-${id}`;
-  if (focus) root.querySelector<HTMLElement>(`#ss-tab-${id}`)?.focus();
-  root.querySelector('.dialog-body')?.scrollTo?.({ top: 0 });
+/** Refreshes the value summaries on the menu rows. */
+function paintSummaries(root: ParentNode): void {
+  for (const el of root.querySelectorAll<HTMLElement>('[data-sum]')) el.textContent = groupSummary(el.dataset.sum as SettingsTab);
+}
+
+/** A click on a row: expands it (closing the others) or collapses it when it is already open. */
+function toggle(root: HTMLElement, id: SettingsTab): void {
+  const btn = root.querySelector<HTMLElement>(`#ss-tab-${id}`);
+  if (btn?.getAttribute('aria-expanded') === 'true') collapse(root);
+  else select(root, id, false, true);
+}
+
+function collapse(root: HTMLElement): void {
+  for (const b of root.querySelectorAll<HTMLElement>('[data-tab]')) b.setAttribute('aria-expanded', 'false');
+  for (const p of root.querySelectorAll<HTMLElement>('.ss-pane')) p.hidden = true;
+  root.querySelectorAll('.ss-group').forEach((g) => g.classList.remove('is-open'));
+}
+
+/** Expands a group (accordion) and scrolls its row into view. Moves focus to its row only when asked to. */
+function select(root: HTMLElement, id: SettingsTab, focus: boolean, scroll = true): void {
+  collapse(root);
+  const btn = root.querySelector<HTMLElement>(`#ss-tab-${id}`);
+  btn?.setAttribute('aria-expanded', 'true');
+  const pane = root.querySelector<HTMLElement>(`#ss-pane-${id}`);
+  if (pane) pane.hidden = false;
+  btn?.closest('.ss-group')?.classList.add('is-open');
+  if (focus) btn?.focus();
+  if (scroll) btn?.scrollIntoView?.({ block: 'nearest' });
   root.dispatchEvent(new CustomEvent<SettingsTab>('settings-tab', { detail: id }));
 }
 
-/** Arrow / Home / End move between tabs (automatic activation). */
+/** Arrow Up/Down, Home and End move between the menu rows (no activation; Enter/Space toggles). */
 function tabKeys(root: HTMLElement, e: KeyboardEvent, tab: HTMLElement): void {
-  const ids = visibleTabs().map((t) => t.id);
-  const i = ids.indexOf(tab.dataset.tab as SettingsTab);
+  const btns = [...root.querySelectorAll<HTMLElement>('.ss-group-btn')];
+  const i = btns.indexOf(tab);
   let n = i;
-  if (e.key === 'ArrowRight' || e.key === 'ArrowDown') n = (i + 1) % ids.length;
-  else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') n = (i - 1 + ids.length) % ids.length;
+  if (e.key === 'ArrowDown') n = (i + 1) % btns.length;
+  else if (e.key === 'ArrowUp') n = (i - 1 + btns.length) % btns.length;
   else if (e.key === 'Home') n = 0;
-  else if (e.key === 'End') n = ids.length - 1;
+  else if (e.key === 'End') n = btns.length - 1;
   else return;
   e.preventDefault();
-  select(root, ids[n] as SettingsTab, true);
+  btns[n]?.focus();
 }
 
 /** Arrow keys inside a role="radio" button group (fonts, swatches, presets) move the selection. */

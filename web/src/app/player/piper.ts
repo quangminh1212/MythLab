@@ -1,7 +1,7 @@
 /**
  * Piper: free Vietnamese neural voices that run ON THE USER'S DEVICE (WebAssembly in a Web Worker), so the server
- * never synthesises anything. Nothing here runs at startup: the runtime (public/tts/, copied from npm by
- * scripts/copy-tts.mjs) and the model are only loaded after the user chose Piper and downloaded a voice.
+ * never synthesises anything. The runtime (public/tts/, copied from npm by
+ * scripts/copy-tts.mjs) is only loaded when a voice speaks; the selected voice's files are fetched by autovoice.ts after load.
  *
  *   model files   downloaded once from the Piper voice repository (or the GitHub release), kept in the Cache API (never localStorage)
  *   worker        public/tts/piper-worker.js: espeak-ng phonemizer + onnxruntime-web, one chunk at a time
@@ -84,7 +84,7 @@ const nu = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'n
 const nam = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nam' });
 
 /**
- * The Vietnamese voices. The first one is the default: its data (VAIS-1000) is CC BY 4.0, free for any use.
+ * The Vietnamese voices. The default is a Vivos speaker (DEFAULT_PIPER_VOICE, light and decent); VAIS-1000 (CC BY 4.0) is the best-quality choice.
  * Vivos has 65 speakers; the genders come from the VIVOS corpus (speaker list) and were re-checked by measuring the
  * pitch of every speaker (women about 185-260 Hz, men about 95-150 Hz); five of each are offered.
  */
@@ -135,10 +135,12 @@ export const PIPER_VOICES: readonly PiperVoice[] = [
   },
 ];
 
-export const DEFAULT_PIPER_VOICE = (PIPER_VOICES[0] as PiperVoice).id;
+/** The voice a new install uses and downloads by itself: a light (28 MB) female Vivos speaker (same as core/settings.ts). */
+export const DEFAULT_PIPER_VOICE = 'vi_VN-vivos-x_low#0';
 
 /** The model for a saved id ("model" or "model#speaker"); an unknown id (older / newer app) gives the default. */
-export const piperVoice = (id: string | undefined): PiperVoice => PIPER_VOICES.find((v) => v.id === (id ?? '').split('#')[0]) ?? (PIPER_VOICES[0] as PiperVoice);
+export const piperVoice = (id: string | undefined): PiperVoice =>
+  PIPER_VOICES.find((v) => v.id === (id ?? '').split('#')[0]) ?? (PIPER_VOICES.find((v) => v.id === DEFAULT_PIPER_VOICE.split('#')[0]) as PiperVoice);
 
 /** One entry of the picker: a model and the speaker it uses. */
 export interface PiperChoice {
@@ -166,7 +168,7 @@ export function piperChoice(id: string | undefined): PiperChoice {
   const hit = PIPER_CHOICES.find((c) => c.id === id);
   if (hit) return hit;
   const m = piperVoice(id);
-  return PIPER_CHOICES.find((c) => c.model === m) as PiperChoice;
+  return (m.id === DEFAULT_PIPER_VOICE.split('#')[0] ? PIPER_CHOICES.find((c) => c.id === DEFAULT_PIPER_VOICE) : undefined) ?? (PIPER_CHOICES.find((c) => c.model === m) as PiperChoice);
 }
 
 export const piperModelUrl = (v: PiperVoice): string => v.kokoro?.model.url ?? `${v.repo}${v.id}.onnx`;

@@ -82,18 +82,56 @@ export function genCover(st: CoverStory, mark = 'MythLab'): SafeHtml {
   const y0 = 112 - ((lines.length - 1) * lh) / 2;
   const author = st.author ? String(st.author).slice(0, 34) : '';
   const tspans = lines.map((l, i) => `<tspan x="100" dy="${i ? lh.toFixed(1) : 0}">${esc(l)}</tspan>`).join('');
+  const gold = 'hsl(42 75% 78%)';
+  const k = ++gseq; // ids must be unique per cover: many covers share one page and each has its own hue
+  const I = (n: string): string => n + k;
+  const tx = `text-anchor="middle" font-family="Alegreya, 'Noto Serif', Georgia, serif" font-weight="800" font-size="${fs}"`;
   return raw(
     `<svg class="gc" viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">` +
-      `<rect width="200" height="300" fill="hsl(${h} 42% 24%)"/>` +
-      `<path d="${motif}" fill="none" stroke="hsl(${(h + 40) % 360} 70% 80%)" stroke-opacity=".22" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>` +
-      `<rect x="12" y="12" width="176" height="276" rx="3" fill="none" stroke="hsl(42 70% 75%)" stroke-opacity=".35"/>` +
-      `<path d="M78 262 H122" stroke="hsl(42 70% 75%)" stroke-opacity=".5"/>` +
-      `<text x="100" y="278" text-anchor="middle" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" letter-spacing="3" fill="hsl(42 75% 78%)" fill-opacity=".85">${esc(mark.toUpperCase())}</text>` +
-      `<text x="100" y="${y0.toFixed(1)}" text-anchor="middle" font-family="Alegreya, 'Noto Serif', Georgia, serif" font-weight="800" font-size="${fs}" fill="#fdf8ec" paint-order="stroke" stroke="rgba(0,0,0,.25)" stroke-width="2">${tspans}</text>` +
-      (author ? `<text x="100" y="248" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#fdf8ec" fill-opacity=".8">${esc(author)}</text>` : '') +
+      `<defs>` +
+      `<linearGradient id="${I('b')}" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="hsl(${h} 42% 36%)"/><stop offset=".6" stop-color="hsl(${h} 40% 24%)"/><stop offset="1" stop-color="hsl(${h} 44% 14%)"/></linearGradient>` +
+      `<radialGradient id="${I('l')}" cx=".28" cy=".16" r=".95"><stop offset="0" stop-color="#fff" stop-opacity=".3"/><stop offset=".45" stop-color="#fff" stop-opacity=".03"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>` +
+      `<linearGradient id="${I('g')}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(48 95% 90%)"/><stop offset=".45" stop-color="hsl(42 78% 66%)"/><stop offset=".55" stop-color="hsl(38 70% 52%)"/><stop offset="1" stop-color="hsl(40 80% 74%)"/></linearGradient>` +
+      `<linearGradient id="${I('s')}" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".6"/><stop offset=".3" stop-color="#000" stop-opacity=".05"/><stop offset=".42" stop-color="#fff" stop-opacity=".2"/><stop offset=".62" stop-color="#000" stop-opacity=".18"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>` +
+      `<linearGradient id="${I('p')}" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6b5a40"/><stop offset=".25" stop-color="#e9dcc0"/><stop offset=".6" stop-color="#cdbd9a"/><stop offset="1" stop-color="#8a775a"/></linearGradient>` +
+      `<linearGradient id="${I('x')}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/></linearGradient>` +
+      `<clipPath id="${I('c')}"><rect width="193" height="294" rx="3.5"/></clipPath>` +
+      // leather: fine fractal noise used as a height map, lit from the upper left, multiplied into the cloth colour
+      `<filter id="${I('t')}" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feTurbulence type="fractalNoise" baseFrequency=".7 .8" numOctaves="3" seed="${(h % 17) + 2}" result="n"/><feDiffuseLighting in="n" surfaceScale="1.7" diffuseConstant="1.15" lighting-color="#fff" result="d"><feDistantLight azimuth="225" elevation="52"/></feDiffuseLighting><feComposite in="d" in2="SourceGraphic" operator="arithmetic" k1="1.15" k2="0" k3="0" k4="0"/></filter>` +
+      // foil stamping: soft bevel highlight cut to the glyph shape
+      `<filter id="${I('e')}" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation=".55" result="b"/><feSpecularLighting in="b" surfaceScale="2.2" specularConstant="1.2" specularExponent="26" lighting-color="#fff" result="sp"><feDistantLight azimuth="225" elevation="42"/></feSpecularLighting><feComposite in="sp" in2="SourceAlpha" operator="in" result="sp2"/><feComposite in="SourceGraphic" in2="sp2" operator="arithmetic" k1="0" k2="1" k3=".85" k4="0"/></filter>` +
+      `<filter id="${I('d')}" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="2.2"/></filter>` +
+      `</defs>` +
+      // page block, then a soft contact shadow, then the cover board
+      `<rect width="200" height="300" fill="url(#${I('p')})"/>` +
+      `<rect x="193" y="4" width="7" height="290" fill="#000" fill-opacity=".18"/>` +
+      `<rect y="294" width="200" height="6" fill="#000" fill-opacity=".22"/>` +
+      `<g clip-path="url(#${I('c')})">` +
+      `<rect width="193" height="294" fill="url(#${I('b')})" filter="url(#${I('t')})"/>` +
+      `<g transform="translate(-3.5 -3)">` +
+      `<path d="${motif}" fill="none" stroke="hsl(${(h + 40) % 360} 60% 80%)" stroke-opacity=".14" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>` +
+      `<rect x="14" y="14" width="172" height="272" rx="2" fill="none" stroke="#000" stroke-opacity=".35" stroke-width="2.4" filter="url(#${I('d')})"/>` +
+      `<g filter="url(#${I('e')})">` +
+      `<rect x="14" y="14" width="172" height="272" rx="2" fill="none" stroke="url(#${I('g')})" stroke-width="1.3"/>` +
+      `<rect x="18.5" y="18.5" width="163" height="263" rx="1" fill="none" stroke="url(#${I('g')})" stroke-width=".6" stroke-opacity=".8"/>` +
+      `<path d="M78 262 H122" stroke="url(#${I('g')})" stroke-width=".8"/>` +
+      `<text x="100" y="278" text-anchor="middle" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" letter-spacing="3" fill="url(#${I('g')})">${esc(mark.toUpperCase())}</text>` +
+      `</g>` +
+      `<text x="100" y="${(y0 + 1.2).toFixed(1)}" ${tx} fill="#000" fill-opacity=".5" filter="url(#${I('d')})">${tspans}</text>` +
+      `<text x="100" y="${y0.toFixed(1)}" ${tx} fill="url(#${I('g')})" filter="url(#${I('e')})">${tspans}</text>` +
+      (author ? `<g filter="url(#${I('e')})"><text x="100" y="248" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="${gold}">${esc(author)}</text></g>` : '') +
+      `</g>` +
+      `<rect width="193" height="294" fill="url(#${I('l')})"/>` +
+      `<rect width="193" height="294" fill="url(#${I('x')})"/>` +
+      `<rect width="30" height="294" fill="url(#${I('s')})"/>` +
+      `<rect x="11" width=".9" height="294" fill="#fff" fill-opacity=".12"/>` +
+      `<rect x="12" width="3" height="294" fill="#000" fill-opacity=".12"/>` +
+      `</g>` +
       `</svg>`,
   );
 }
+
+let gseq = 0;
 
 // ---------------------------------------------------------------- real images
 

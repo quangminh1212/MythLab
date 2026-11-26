@@ -152,7 +152,7 @@ export interface PlayerState {
   para?: number;
   storyName?: string;
   chapterTitle?: string;
-  engine?: 'browser' | 'native' | 'piper';
+  engine?: 'native' | 'piper';
   error?: string;
 }
 

@@ -9,7 +9,7 @@ import { store } from './store';
 
 import { ACCENT_IDS, isDarkScheme, THEME_IDS, type Scheme, type Theme } from './themes';
 export type { Scheme, Theme };
-export type TtsEngine = 'browser' | 'native' | 'piper';
+export type TtsEngine = 'native' | 'piper';
 
 /** True when the on-device Piper engine can run here (WebAssembly + Web Worker + Cache API). */
 export const piperSupported = (): boolean => typeof WebAssembly === 'object' && typeof Worker === 'function' && typeof caches === 'object';
@@ -38,7 +38,6 @@ export interface Settings {
   nativeVoice: string;
   /** Piper voice id (player/piper.ts catalog). */
   piperVoice: string;
-  browserVoice: string;
   rate: number;
   pitch: number;
   autoNext: boolean;
@@ -61,6 +60,10 @@ export const isNative = (): boolean => {
   return !!c && typeof c.isNativePlatform === 'function' && c.isNativePlatform();
 };
 
+/** The default Piper voice (a female Vivos speaker, 28 MB) and the one that was the default before. */
+const DEFAULT_VOICE = 'vi_VN-vivos-x_low#0';
+const OLD_DEFAULT_VOICE = 'vi_VN-vais1000-medium';
+
 export function defaults(): Settings {
   return {
     theme: 'light',
@@ -81,11 +84,11 @@ export function defaults(): Settings {
     readMode: 'scroll',
     tapZones: true,
     brightness: 1,
-    // the voice of the device speaks by itself; Piper (on the device) is an explicit choice
-    engine: isNative() ? 'native' : 'browser',
+    // Piper (on the device) is the reader of the web; the Android app starts with the phone's own voice
+    engine: isNative() ? 'native' : 'piper',
     nativeVoice: '',
-    piperVoice: 'vi_VN-vais1000-medium',
-    browserVoice: '',
+    // light (28 MB) and decent: downloaded by itself in the background after the first load
+    piperVoice: DEFAULT_VOICE,
     rate: 1,
     pitch: 1,
     autoNext: true,
@@ -120,7 +123,7 @@ const ENUM = {
   accent: ACCENT_IDS as readonly string[],
   align: ['left', 'justify'],
   readMode: ['scroll', 'page'],
-  engine: ['browser', 'native', 'piper'],
+  engine: ['native', 'piper'],
 } as const satisfies Partial<Record<SettingKey, readonly string[]>>;
 
 export interface Preset {
@@ -190,13 +193,17 @@ export function load(): boolean {
   }
   if (next.font === 'serif') next.font = 'literata';
   if (next.font === 'sans') next.font = 'inter';
-  // the server (Edge) voices are gone: that choice, and the Android voice on a host without the app, become the device voice
-  if (next.engine === 'edge' || (next.engine === 'native' && !isNative())) next.engine = isNative() ? 'native' : 'browser';
+  // The browser's speechSynthesis reader is gone (most devices have no Vietnamese voice in it), the server (Edge)
+  // voices are gone too: those choices, and the Android voice on a host without the app, become Piper (on the device).
+  // A device that never chose Piper and still has the old default voice (63 MB) gets the new light default.
+  if (next.engine === 'browser' && next.piperVoice === OLD_DEFAULT_VOICE) delete next.piperVoice;
+  if (next.engine === 'browser' || next.engine === 'edge' || (next.engine === 'native' && !isNative())) next.engine = isNative() ? 'native' : 'piper';
+  delete next.browserVoice;
   // the stored server voice id and device voice ids that are server voices (Edge "...Neural", server Piper "...Piper") are dropped
   delete next.voice;
-  for (const k of ['browserVoice', 'nativeVoice'] as const) if (typeof next[k] === 'string' && /(Neural|Piper)$/.test(next[k] as string)) next[k] = '';
-  // a stored Piper choice on a host that cannot run it (no WebAssembly / Worker) goes back to the device voice
-  if (next.engine === 'piper' && !piperSupported()) next.engine = isNative() ? 'native' : 'browser';
+  if (typeof next.nativeVoice === 'string' && /(Neural|Piper)$/.test(next.nativeVoice)) next.nativeVoice = '';
+  // a stored Piper choice in the Android app on a WebView that cannot run it goes back to the phone's own voice
+  if (next.engine === 'piper' && !piperSupported() && isNative()) next.engine = 'native';
   // ui3: justified text makes rivers on phones, so a phone that never chose an alignment starts left-aligned
   if (!next.ui3) {
     const narrow = typeof matchMedia === 'function' && matchMedia('(max-width: 599px)').matches;

@@ -23,7 +23,8 @@ import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { isPlaybackSignal } from './fallback';
 import { clipHolding, clipRate, effectiveEngine, forgetClips, Interrupted, localEngine, pauseHeld, playsClips, prefetch, resumeHeld, speak, stopAll, Stopped } from './engines';
-import { refreshPiper } from './piper';
+import { Declined, ensureVoice, onVoiceProgress, voiceProgress } from './autovoice';
+import { piperReady, refreshPiper } from './piper';
 import { keepAwake } from './keepawake';
 import { initMediaSession, primeMediaSession } from './mediasession';
 import { initPip } from './pip';
@@ -60,8 +61,10 @@ export interface PlayerInfo {
   sleep: SleepMode;
   /** Epoch ms when a timed sleep fires (0 otherwise). */
   sleepAt: number;
-  /** True while the device voice stands in for the chosen Piper voice (not downloaded yet, or it failed). */
+  /** True while the phone's own voice (Android app) stands in for the chosen Piper voice (it failed). */
   fallback: boolean;
+  /** Percent of the voice download the player is waiting for, or -1 when it is not waiting for one. */
+  voiceWait: number;
 }
 
 interface Session {
@@ -194,6 +197,45 @@ function needGesture(): void {
   toast('Nhấn ▶ để bắt đầu phát');
 }
 
+/** True while `run` waits for the on-device voice to download. */
+let waitingVoice = false;
+onVoiceProgress(() => {
+  if (waitingVoice) changes.emit();
+});
+
+/**
+ * Piper's voice is not on the device yet (first load, still downloading): wait for it in the "loading" state and
+ * carry on by itself once it is there. False when the player must stop here (declined, failed, or a newer command).
+ * When the download fails and the phone has its own voice (Android app), that voice reads instead.
+ */
+async function waitForVoice(s: Session, c: Chunk, my: number): Promise<boolean> {
+  held = false;
+  waitingVoice = true;
+  setState({ status: 'loading', para: c.p, engine: 'piper' });
+  if (voiceProgress() < 0) toast('Đang tải giọng đọc… sẽ tự đọc khi tải xong');
+  try {
+    await ensureVoice(S.piperVoice);
+  } catch (e) {
+    if (my !== gen || ses !== s) return false;
+    if (e instanceof Declined) {
+      setState({ status: 'paused' });
+      return false;
+    }
+    if (localEngine()) {
+      toast('Chưa tải được giọng đọc — dùng giọng của máy');
+      return true;
+    }
+    stopAll();
+    setMark(null);
+    setState({ status: 'error', error: `Chưa tải được giọng đọc: ${errMsg(e)}` });
+    toast({ message: `Chưa tải được giọng đọc: ${errMsg(e)}`, kind: 'error' });
+    return false;
+  } finally {
+    waitingVoice = false;
+  }
+  return my === gen && ses === s;
+}
+
 /** Speaks from chunk `ci`, sentence `si`, then the following chunks, then moves to the next chapter. */
 async function run(ci: number, si = 0): Promise<void> {
   const s = ses;
@@ -211,6 +253,7 @@ async function run(ci: number, si = 0): Promise<void> {
       return chapterEnd(s, my, false);
     }
     const engine = currentEngine();
+    if (engine === 'piper' && !piperReady() && !(await waitForVoice(s, c, my))) return;
     if (!engine) {
       stopAll();
       setMark(null);
@@ -656,7 +699,7 @@ settings.onChange((key) => {
     }, 350);
     return;
   }
-  if (key === 'engine' || key === 'browserVoice' || key === 'nativeVoice' || key === 'piperVoice' || key === null) {
+  if (key === 'engine' || key === 'nativeVoice' || key === 'piperVoice' || key === null) {
     forgetClips();
     respeak(true);
   } else if (key === 'ttsClean' || key === 'readTitle') respeak(true);
@@ -673,6 +716,7 @@ function info(): PlayerInfo {
     sleep,
     sleepAt,
     fallback: !!s && S.engine === 'piper' && state.engine !== undefined && state.engine !== 'piper',
+    voiceWait: waitingVoice ? Math.max(0, voiceProgress()) : -1,
   };
 }
 

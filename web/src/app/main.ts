@@ -120,6 +120,11 @@ async function boot(): Promise<void> {
   };
   idle(() => {
     void announceUpdate();
+    // the selected on-device voice downloads by itself (one voice, skipped when the connection saves data)
+    void import('./player/autovoice').then(
+      (m) => m.autoInstallVoice(),
+      () => {},
+    );
     void import('./pwa').then(
       (m) => m.pwa.init(),
       () => {},

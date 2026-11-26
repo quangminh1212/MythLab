@@ -6,8 +6,6 @@
 
 /** Largest chunk (characters) read in one go (device voices have no pause inside an utterance). */
 export const LOCAL_MAX = 220;
-/** Largest piece handed to the browser's speech synthesis in one utterance. */
-export const BROWSER_PIECE = 230;
 /** Largest piece handed to the native (Capacitor) voice in one call. */
 export const NATIVE_PIECE = 3500;
 /** Spoken at the end of a chapter before the next one starts. */

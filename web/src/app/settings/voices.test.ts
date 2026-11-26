@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest';
+import { DEFAULT_PIPER_VOICE } from '../player/piper';
 import { effectiveEngine, engineChoices, isVi, piperItems, selectVoice, voiceItems, voiceKey, type EngineEnv } from './voices';
 
 describe('Vietnamese-only device voices', () => {
@@ -24,18 +25,18 @@ describe('Vietnamese-only device voices', () => {
 
   it('lets the device choose when the saved voice is not a listed Vietnamese voice', () => {
     const items = voiceItems(raw);
-    expect(selectVoice('browser', items, 'c')).toEqual({ value: 'c', store: null });
-    expect(selectVoice('browser', items, 'b')).toEqual({ value: '', store: null });
+    expect(selectVoice('native', items, 'c')).toEqual({ value: 'c', store: null });
+    expect(selectVoice('native', items, 'b')).toEqual({ value: '', store: null });
     expect(selectVoice('native', items, 'vi-VN-HoaiMyNeural')).toEqual({ value: '', store: null });
   });
 });
 
 describe('engines of the picker', () => {
-  const env: EngineEnv = { browser: true, native: false, piper: true };
+  const env: EngineEnv = { native: false, piper: true };
 
-  it('offers the browser voice and Piper, never a server voice', () => {
-    expect(engineChoices(env).map((c) => c.id)).toEqual(['browser', 'piper']);
-    expect(engineChoices({ ...env, native: true }).map((c) => c.id)).toEqual(['browser', 'native', 'piper']);
+  it('offers Piper alone on the web and the phone voice plus Piper in the app, never the browser or a server voice', () => {
+    expect(engineChoices(env).map((c) => c.id)).toEqual(['piper']);
+    expect(engineChoices({ ...env, native: true }).map((c) => c.id)).toEqual(['native', 'piper']);
   });
 
   it('marks Piper unavailable when the host cannot run it', () => {
@@ -43,23 +44,24 @@ describe('engines of the picker', () => {
     expect(engineChoices({ ...env, piper: false }).find((c) => c.id === 'piper')).toMatchObject({ available: false });
   });
 
-  it('is kept as the saved choice, and falls back to the device voice when unsupported', () => {
+  it('is kept as the saved choice, and falls back to the other engine when unusable', () => {
     expect(effectiveEngine('piper', env)).toBe('piper');
-    expect(effectiveEngine('piper', { ...env, piper: false })).toBe('browser');
+    expect(effectiveEngine('piper', { native: true, piper: false })).toBe('native');
     expect(effectiveEngine('native', { ...env, native: true })).toBe('native');
-    expect(effectiveEngine('browser', { browser: false, native: false })).toBeNull();
+    expect(effectiveEngine('native', env)).toBe('piper');
+    expect(effectiveEngine('piper', { native: false, piper: false })).toBeNull();
   });
 
   it('stores the voice of Piper in piperVoice and lists the voices with gender and sizes, lightest first', () => {
     expect(voiceKey('piper')).toBe('piperVoice');
-    expect(voiceKey('browser')).toBe('browserVoice');
     expect(voiceKey('native')).toBe('nativeVoice');
     const items = piperItems();
     expect(items.length).toBeGreaterThanOrEqual(12);
     expect(items[0]?.label).toMatch(/^Nữ · .* · 28 MB/);
+    expect(items[0]?.id).toBe(DEFAULT_PIPER_VOICE);
     expect(items.some((i) => /^Nam · /.test(i.label))).toBe(true);
     expect(items.some((i) => /^Chưa rõ giới tính · .*63 MB/.test(i.label))).toBe(true);
-    expect(selectVoice('piper', items, 'nope')).toEqual({ value: 'vi_VN-vais1000-medium', store: 'vi_VN-vais1000-medium' });
+    expect(selectVoice('piper', items, 'nope')).toEqual({ value: DEFAULT_PIPER_VOICE, store: DEFAULT_PIPER_VOICE });
     expect(selectVoice('piper', items, items[2]?.id as string).store).toBeNull();
   });
 });

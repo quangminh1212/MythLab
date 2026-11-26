@@ -34,33 +34,44 @@ describe('settings model', () => {
     expect(S.theme).toBe('light');
     expect(S.font).toBe('literata');
     expect(S.size).toBe(24);
-    expect(S.engine).toBe('browser');
+    expect(S.engine).toBe('piper');
     expect(stored().future).toEqual({ a: 1 });
     expect(load()).toBe(false);
   });
 
-  it('maps a saved server (Edge) engine to the device voice and drops server voice ids', () => {
+  it('maps a saved server (Edge) or browser engine to Piper and drops server voice ids and the browser voice', () => {
     localStorage.setItem(KEY, JSON.stringify({ engine: 'edge', voice: 'vi-VN-HoaiMyNeural', browserVoice: 'vi-VN-NamMinhNeural', nativeVoice: 'vi-VN-Vais1000Piper' }));
     expect(load()).toBe(true);
-    expect(S.engine).toBe('browser');
-    expect(S.browserVoice).toBe('');
+    expect(S.engine).toBe('piper');
     expect(S.nativeVoice).toBe('');
     expect('voice' in stored()).toBe(false);
+    expect('browserVoice' in stored()).toBe(false);
     expect(load()).toBe(false);
-    localStorage.setItem(KEY, JSON.stringify({ engine: 'edge', browserVoice: 'Google Tiếng Việt' }));
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'browser', browserVoice: 'Google Tiếng Việt' }));
     load();
-    expect(S.browserVoice).toBe('Google Tiếng Việt');
+    expect(S.engine).toBe('piper');
+    expect('browserVoice' in stored()).toBe(false);
     expect(normalise('engine', 'edge')).toBe(DEF.engine);
+    expect(normalise('engine', 'browser')).toBe(DEF.engine);
   });
 
-  it('new users start with the voice of the device; Piper is only a choice', () => {
-    expect(DEF.engine).toBe('browser');
-    expect(DEF.piperVoice).toBe('vi_VN-vais1000-medium');
+  it('a browser-engine user that never picked a Piper voice gets the light default; a chosen voice is kept', () => {
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'browser', piperVoice: 'vi_VN-vais1000-medium' }));
+    load();
+    expect(S.piperVoice).toBe(DEF.piperVoice);
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-vais1000-medium' }));
+    load();
+    expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
+  });
+
+  it('new users start with Piper and a light voice (Nữ Vivos, 28 MB)', () => {
+    expect(DEF.engine).toBe('piper');
+    expect(DEF.piperVoice).toBe('vi_VN-vivos-x_low#0');
     expect(normalise('engine', 'piper')).toBe('piper');
     expect(normalise('engine', 'sherpa')).toBe(DEF.engine);
   });
 
-  it('keeps a stored Piper choice and returns to the device voice when the host cannot run it', () => {
+  it('keeps a stored Piper choice on the web even when the host cannot run it (the settings say why)', () => {
     vi.stubGlobal('caches', {});
     vi.stubGlobal('Worker', class {});
     localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-vivos-x_low' }));
@@ -69,7 +80,7 @@ describe('settings model', () => {
     expect(S.piperVoice).toBe('vi_VN-vivos-x_low');
     vi.stubGlobal('Worker', undefined);
     load();
-    expect(S.engine).toBe('browser');
+    expect(S.engine).toBe('piper');
     vi.unstubAllGlobals();
   });
 
