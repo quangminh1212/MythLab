@@ -12,7 +12,7 @@ import { S, set } from '../core/settings';
 import { confirmDialog, toast } from '../core/ui';
 import { BROWSER_PIECE, NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
 import { isVi } from '../settings/voices';
-import { forget as piperForgetClips, installPiper, megabytes, piperPrefetch, piperReady, piperSource, piperSupported, piperChoice, PIPER_SIZE_NOTE, PIPER_CHOICES, piperInstalled, piperChoiceLabel } from './piper';
+import { downloadBytes, forget as piperForgetClips, installPiper, megabytes, piperPrefetch, piperReady, piperSource, piperSupported, piperChoice, PIPER_SIZE_NOTE, PIPER_CHOICES, piperInstalled, piperChoiceLabel } from './piper';
 
 /** Thrown into a pending speak() when the player itself stopped it; never shown to the user. */
 export class Stopped extends Error {
@@ -149,7 +149,7 @@ export async function offerPiper(id: string = S.piperVoice): Promise<boolean> {
   if (!piperInstalled(v.id)) {
     const ok = await confirmDialog({
       title: 'Tải giọng Piper?',
-      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(v.bytes)}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.`,
+      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(v))}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.`,
       confirmLabel: 'Tải về',
     });
     if (!ok) return false;

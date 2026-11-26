@@ -8,7 +8,7 @@ import { html, render } from '../core/html';
 import { S, set, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { offerPiper } from '../player/engines';
-import { megabytes, PIPER_SIZE_NOTE, piperChoice, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
+import { downloadBytes, megabytes, PIPER_SIZE_NOTE, piperChoice, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
 import { effectiveEngine, engineChoices, listVoices, preview, readEnv, selectVoice, stopPreview, voiceKey, type VoiceItem } from './voices';
 
 /** Wires the tab inside `root`. Returns the function that stops everything it started. */
@@ -85,9 +85,9 @@ export function mountVoice(root: HTMLElement): () => void {
     const have = piperInstalled(v.id);
     piperDl.hidden = have;
     piperRm.hidden = !have;
-    piperDl.textContent = `Tải giọng này (${megabytes(v.bytes)})`;
+    piperDl.textContent = `Tải giọng này (${megabytes(downloadBytes(v))})`;
     test.disabled = !have;
-    const say = have ? `Đã lưu trên máy (${megabytes(v.bytes)}). Đọc không cần mạng và không dùng máy chủ.` : `${PIPER_SIZE_NOTE} Chưa tải thì ứng dụng tạm đọc bằng giọng của máy.`;
+    const say = have ? `Đã lưu trên máy (${megabytes(downloadBytes(v))}). Đọc không cần mạng và không dùng máy chủ.` : `${PIPER_SIZE_NOTE} Chưa tải thì ứng dụng tạm đọc bằng giọng của máy.`;
     piperNote.textContent = `${say} Nguồn giọng: ${v.credit}`;
   }
   const onPiperDl = (): void => {

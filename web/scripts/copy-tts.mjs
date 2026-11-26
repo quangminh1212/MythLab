@@ -40,3 +40,18 @@ if (existsSync(src)) {
     console.log(`copy-tts: espeak data trimmed to Vietnamese, ${data.length} -> ${trimmed.data.length} bytes`);
   }
 }
+
+// Kokoro-Vietnamese-Lite text frontend (src/app/player/kokoro/*.ts, vendored, dependency-free) compiled to plain ES
+// modules for kokoro-worker.js. The compiler is the project's own TypeScript; the import is renamed to a real file.
+if (existsSync(join(nm, 'typescript'))) {
+  const { default: ts } = await import('typescript');
+  const kdir = join(out, 'kokoro');
+  mkdirSync(kdir, { recursive: true });
+  for (const f of ['frontend', 'normalize-text']) {
+    const code = readFileSync(join(root, 'src', 'app', 'player', 'kokoro', `${f}.ts`), 'utf8');
+    const js = ts.transpileModule(code, { compilerOptions: { target: ts.ScriptTarget.ES2022, module: ts.ModuleKind.ES2022 } }).outputText.replace("from './normalize-text'", "from './normalize-text.js'");
+    writeFileSync(join(kdir, `${f}.js`), js);
+  }
+} else {
+  console.warn('copy-tts: typescript is not installed, the Kokoro voice will be unavailable');
+}

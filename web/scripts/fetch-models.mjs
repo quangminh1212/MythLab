@@ -1,4 +1,4 @@
-// Downloads the Vietnamese Piper models from Hugging Face (pinned commits) into a local folder, verifying size and
+// Downloads the Vietnamese Piper models, plus the Kokoro Lite model and SEA-G2P dictionary, from Hugging Face / GitHub (pinned) into a local folder, verifying size and
 // SHA-256, e.g. to (re)upload them to the GitHub release "piper-models" (the app's second download source, after
 // Hugging Face). Nothing is served by our own server. NOT part of predev/prebuild.
 //
@@ -64,10 +64,15 @@ mkdirSync(out, { recursive: true });
 let failed = 0;
 for (const m of picked) {
   console.log(m.id);
-  const base = `${m.repo}${m.id}.onnx`;
   try {
-    await get(`${base}.json`, join(out, `${m.id}.onnx.json`), m.configBytes, m.configSha256);
-    await get(base, join(out, `${m.id}.onnx`), m.bytes, m.sha256);
+    if (m.files) {
+      // Kokoro voice: model, config and the SEA-G2P dictionary, each saved under its release asset name
+      for (const f of m.files) await get(f.url, join(out, f.name), f.bytes, f.sha256);
+    } else {
+      const base = `${m.repo}${m.id}.onnx`;
+      await get(`${base}.json`, join(out, `${m.id}.onnx.json`), m.configBytes, m.configSha256);
+      await get(base, join(out, `${m.id}.onnx`), m.bytes, m.sha256);
+    }
   } catch (e) {
     failed++;
     console.error(`  FAILED ${e.message}`);

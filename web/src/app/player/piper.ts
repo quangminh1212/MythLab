@@ -39,6 +39,27 @@ export interface PiperVoice {
   credit: string;
   /** Speakers offered in the picker. Missing = one speaker of unknown gender. */
   speakers?: readonly PiperSpeaker[];
+  /** Kokoro-Vietnamese-Lite (not a Piper model): its own three files and worker; `bytes` / `sha256` describe `model`. */
+  kokoro?: KokoroFiles;
+}
+
+/** A downloadable file with an exact size and hash and every place that serves exactly these bytes. */
+export interface PiperFile {
+  /** Asset name in the "piper-models" GitHub release (the last fallback source). */
+  name: string;
+  /** Pinned primary URL. */
+  url: string;
+  /** Other pinned URLs with the same bytes (tried after `url`, before the release). */
+  mirrors?: readonly string[];
+  bytes: number;
+  sha256: string;
+}
+
+/** Model + config + SEA-G2P pronunciation dictionary of the Kokoro voice. */
+export interface KokoroFiles {
+  model: PiperFile;
+  config: PiperFile;
+  dict: PiperFile;
 }
 
 /** Pinned to a commit of the voice repository, so the files cannot change under the size / hash below. */
@@ -46,6 +67,18 @@ const REPO = 'https://huggingface.co/rhasspy/piper-voices/resolve/5ec43b186ef915
 
 /** Second source: assets of the "piper-models" GitHub release of this repository (same files as the pinned commit). */
 export const RELEASE_URL = 'https://github.com/quangminh1212/MythLab/releases/download/piper-models/';
+
+/** Kokoro-Vietnamese-Lite: pinned Hugging Face revisions (the author's repo, and a byte-identical copy as a mirror). */
+const KOKORO_HF = 'https://huggingface.co/loanhviet/Kokoro-Vietnamese-Lite/resolve/a4c4cfefa8caf35aaaeb5ec628be996858df2121/';
+const KOKORO_HF_MIRROR = 'https://huggingface.co/chungvh/kokoro-vietnamese-lite/resolve/7a7271e4058f4d34fd9f5b4f05a765a4a81ebb73/';
+/** The SEA-G2P dictionary is only published in the SEA-G2P git repository (pinned commit). */
+const SEA_G2P_BIN = 'https://raw.githubusercontent.com/pnnbao97/sea-g2p/e825173f235d08ea19315b2b279fb11153b44cea/python/sea_g2p/sea_g2p.bin';
+
+export const KOKORO_FILES: KokoroFiles = {
+  model: { name: 'kokoro_vi_lite.onnx', url: `${KOKORO_HF}kokoro_vi_lite.onnx`, mirrors: [`${KOKORO_HF_MIRROR}kokoro_vi_lite.onnx`], bytes: 9_210_026, sha256: '64d423426f09e1b9eac74d8f0c64781a24f4d37c784c05db847086324166c791' },
+  config: { name: 'kokoro_vi_lite.config.json', url: `${KOKORO_HF}config.json`, mirrors: [`${KOKORO_HF_MIRROR}config.json`], bytes: 2351, sha256: '5abb01e2403b072bf03d04fde160443e209d7a0dad49a423be15196b9b43c17f' },
+  dict: { name: 'sea_g2p.bin', url: SEA_G2P_BIN, bytes: 62_829_820, sha256: '4346e690d0711ebc5231e7a42c5c88aaf6e40377e894b4617c018fd81c6f4096' },
+};
 
 const nu = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nu' });
 const nam = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nam' });
@@ -84,6 +117,22 @@ export const PIPER_VOICES: readonly PiperVoice[] = [
     credit: 'Piper v3: CakeByVPBank, giấy phép MIT; huấn luyện trên dữ liệu giọng tổng hợp.',
     speakers: [nu(0, 'Ngọc Lan (miền Bắc)'), nu(1, 'Minh Anh (miền Bắc)'), nam(2, 'Quang Huy (miền Bắc)'), nu(3, 'Thu Hà (miền Bắc)'), nu(4, 'Yến Nhi (miền Nam)')],
   },
+  {
+    // Not a Piper model: Kokoro-Vietnamese-Lite, a 9 MB int8 model with two built-in voices (0 = female, 1 = male, per its
+    // model card) that needs the 63 MB SEA-G2P dictionary to turn text into phonemes.
+    id: 'kokoro-vi-lite',
+    name: 'Kokoro Lite',
+    repo: KOKORO_HF,
+    bytes: KOKORO_FILES.model.bytes,
+    sha256: KOKORO_FILES.model.sha256,
+    configBytes: KOKORO_FILES.config.bytes,
+    configSha256: KOKORO_FILES.config.sha256,
+    sampleRate: 24000,
+    note: 'Apache-2.0, mô hình 9 MB, đọc nhanh',
+    credit: 'Kokoro Lite: loanhviet (Kokoro-Vietnamese-Lite), giấy phép Apache-2.0, chưng cất từ contextboxai/Kokoro-Vietnamese và hexgrad/Kokoro-82M (Apache-2.0); từ điển phát âm SEA-G2P (pnnbao97, Apache-2.0).',
+    speakers: [nu(0, 'Diễm Trinh'), nam(1, 'Đức Duy')],
+    kokoro: KOKORO_FILES,
+  },
 ];
 
 export const DEFAULT_PIPER_VOICE = (PIPER_VOICES[0] as PiperVoice).id;
@@ -109,7 +158,7 @@ export const PIPER_CHOICES: readonly PiperChoice[] = PIPER_VOICES.flatMap((m): P
   m.speakers ? m.speakers.map((s) => ({ id: `${m.id}#${s.sid}`, model: m, sid: s.sid, name: s.name, gender: s.gender })) : [{ id: m.id, model: m, sid: 0, name: m.name, gender: null }],
 )
   .map((c, i) => ({ c, i }))
-  .sort((a, b) => a.c.model.bytes - b.c.model.bytes || (a.c.gender === 'nu' ? 0 : 1) - (b.c.gender === 'nu' ? 0 : 1) || a.i - b.i)
+  .sort((a, b) => downloadBytes(a.c.model) - downloadBytes(b.c.model) || (a.c.gender === 'nu' ? 0 : 1) - (b.c.gender === 'nu' ? 0 : 1) || a.i - b.i)
   .map((x) => x.c);
 
 /** The choice for a saved id: a bare model id means its first speaker; an unknown id gives the default voice. */
@@ -120,26 +169,38 @@ export function piperChoice(id: string | undefined): PiperChoice {
   return PIPER_CHOICES.find((c) => c.model === m) as PiperChoice;
 }
 
-export const piperModelUrl = (v: PiperVoice): string => `${v.repo}${v.id}.onnx`;
-export const piperConfigUrl = (v: PiperVoice): string => `${piperModelUrl(v)}.json`;
+export const piperModelUrl = (v: PiperVoice): string => v.kokoro?.model.url ?? `${v.repo}${v.id}.onnx`;
+export const piperConfigUrl = (v: PiperVoice): string => v.kokoro?.config.url ?? `${piperModelUrl(v)}.json`;
+/** Cache key of the Kokoro pronunciation dictionary (null for Piper voices). */
+export const kokoroDictUrl = (v: PiperVoice): string | null => v.kokoro?.dict.url ?? null;
+
+/** Everything the user downloads for a voice: the model and, for Kokoro, its dictionary too. */
+export function downloadBytes(v: PiperVoice): number {
+  return v.bytes + (v.kokoro?.dict.bytes ?? 0);
+}
+
+/** Sources of a downloadable file: its pinned URL, pinned mirrors, then the GitHub release. */
+const fileSources = (f: PiperFile): string[] => [f.url, ...(f.mirrors ?? []), RELEASE_URL + f.name];
 
 /** File names of a voice: "vi_VN-vais1000-medium.onnx" and its ".json". */
 const modelFile = (v: PiperVoice): string => `${v.id}.onnx`;
 
 /** Ordered download sources of a file of a voice (`suffix` is '' for the model, '.json' for the config). */
 export function piperSources(v: PiperVoice, suffix = ''): string[] {
+  if (v.kokoro) return fileSources(suffix ? v.kokoro.config : v.kokoro.model);
   const file = modelFile(v) + suffix;
   return [`${v.repo}${file}`, RELEASE_URL + file];
 }
 
 const modelArtifact = (v: PiperVoice): Artifact => ({ name: 'giọng ' + v.name, bytes: v.bytes, sha256: v.sha256, sources: piperSources(v) });
+const dictArtifact = (k: KokoroFiles): Artifact => ({ name: 'từ điển phát âm', bytes: k.dict.bytes, sha256: k.dict.sha256, sources: fileSources(k.dict) });
 const configArtifact = (v: PiperVoice): Artifact => ({ name: 'cấu hình giọng', bytes: v.configBytes, sha256: v.configSha256, sources: piperSources(v, '.json') });
 
 /** "63 MB" */
 export const megabytes = (bytes: number): string => `${Math.round(bytes / 1e6)} MB`;
 
 /** Label of a model: "Vais1000 — chất lượng cao · 63 MB · đã tải". */
-export const piperVoiceLabel = (v: PiperVoice, installed: boolean): string => `${v.name} · ${megabytes(v.bytes)}${installed ? ' · đã tải' : ''}`;
+export const piperVoiceLabel = (v: PiperVoice, installed: boolean): string => `${v.name} · ${megabytes(downloadBytes(v))}${installed ? ' · đã tải' : ''}`;
 
 /** Picker label of a voice: "Nữ · Vivos 1 · 28 MB · đã tải" ("Chưa rõ giới tính" when the data has no gender). */
 export const piperChoiceLabel = (c: PiperChoice, installed: boolean): string => `${c.gender ? GENDER[c.gender] : 'Chưa rõ giới tính'} · ${piperVoiceLabel({ ...c.model, name: c.name }, installed)}`;
@@ -188,8 +249,9 @@ export async function refreshPiper(): Promise<void> {
   try {
     const c = await caches.open(CACHE);
     for (const v of PIPER_VOICES) {
-      const [m, j] = await Promise.all([c.match(piperModelUrl(v)), c.match(piperConfigUrl(v))]);
-      if (m && j) installed.add(v.id);
+      const dict = kokoroDictUrl(v);
+      const [m, j, d] = await Promise.all([c.match(piperModelUrl(v)), c.match(piperConfigUrl(v)), dict ? c.match(dict) : Promise.resolve(true)]);
+      if (m && j && d) installed.add(v.id);
       else installed.delete(v.id);
     }
   } catch {
@@ -213,11 +275,15 @@ export async function installPiper(
   const cache = await caches.open(CACHE);
   const cfg = await fetchVerified(configArtifact(v), { signal, onSource: (i, n) => onSource?.(i, n) });
   const cfgBody = await cfg.blob.arrayBuffer();
-  const model = await fetchVerified(modelArtifact(v), { onProgress, signal, onSource: (i, n) => onSource?.(i, n) });
-  const blob = model.blob;
+  // progress of the whole voice: the model first, then (Kokoro) the dictionary, each weighted by its size
+  const total = downloadBytes(v);
+  const part = (from: number, size: number) => (f: number): void => onProgress?.(Math.min(1, (from + f * size) / total));
+  const model = await fetchVerified(modelArtifact(v), { onProgress: v.kokoro ? part(0, v.bytes) : onProgress, signal, onSource: (i, n) => onSource?.(i, n) });
+  const dict = v.kokoro ? await fetchVerified(dictArtifact(v.kokoro), { onProgress: part(v.bytes, v.kokoro.dict.bytes), signal, onSource: (i, n) => onSource?.(i, n) }) : null;
   try {
-    await cache.put(piperModelUrl(v), new Response(blob, { headers: { 'content-type': 'application/octet-stream' } }));
+    await cache.put(piperModelUrl(v), new Response(model.blob, { headers: { 'content-type': 'application/octet-stream' } }));
     await cache.put(piperConfigUrl(v), new Response(cfgBody, { headers: { 'content-type': 'application/json' } }));
+    if (v.kokoro && dict) await cache.put(v.kokoro.dict.url, new Response(dict.blob, { headers: { 'content-type': 'application/octet-stream' } }));
   } catch (e) {
     await removePiper(id);
     throw new Error(`Không đủ chỗ lưu giọng trên máy (${(e as Error).message || e})`);
@@ -238,7 +304,8 @@ export async function removePiper(id: string): Promise<void> {
   if (loaded === v.id) piperShutdown();
   try {
     const c = await caches.open(CACHE);
-    await Promise.all([c.delete(piperModelUrl(v)), c.delete(piperConfigUrl(v))]);
+    const dict = kokoroDictUrl(v);
+    await Promise.all([c.delete(piperModelUrl(v)), c.delete(piperConfigUrl(v)), dict ? c.delete(dict) : Promise.resolve(false)]);
   } catch {
     // nothing stored
   }
@@ -252,6 +319,8 @@ interface Pending {
 }
 
 let worker: Worker | null = null;
+/** Which worker script runs: Piper's or Kokoro's (different runtimes, so a switch restarts the worker). */
+let workerKind: 'piper' | 'kokoro' = 'piper';
 let loaded = '';
 let loading: Promise<void> | null = null;
 let seq = 0;
@@ -261,7 +330,7 @@ const runtimeBase = (): string => new URL('tts/', document.baseURI).href;
 
 function spawn(): Worker {
   if (worker) return worker;
-  const w = new Worker(new URL('piper-worker.js', runtimeBase()));
+  const w = new Worker(new URL(workerKind === 'kokoro' ? 'kokoro-worker.js' : 'piper-worker.js', runtimeBase()));
   w.onmessage = (e: MessageEvent<{ id: number; err?: string } & Record<string, unknown>>) => {
     const p = pending.get(e.data.id);
     if (!p) return;
@@ -322,8 +391,26 @@ function load(v: PiperVoice): Promise<void> {
       installed.delete(v.id);
       throw new Error('Chưa tải giọng Piper');
     }
+    const kind = v.kokoro ? 'kokoro' : 'piper';
+    if (worker && workerKind !== kind) {
+      // the other engine's worker: stop it (fail() would also forget this load in progress)
+      worker.terminate();
+      worker = null;
+      loaded = '';
+    }
+    workerKind = kind;
     const [model, config] = await Promise.all([m.arrayBuffer(), j.json()]);
-    await call({ t: 'init', base: runtimeBase(), model, config }, [model]);
+    if (v.kokoro) {
+      const d = await cache.match(v.kokoro.dict.url);
+      if (!d) {
+        installed.delete(v.id);
+        throw new Error('Chưa tải từ điển phát âm');
+      }
+      const dict = await d.arrayBuffer();
+      await call({ t: 'init', base: runtimeBase(), model, config, dict }, [model, dict]);
+    } else {
+      await call({ t: 'init', base: runtimeBase(), model, config }, [model]);
+    }
     loaded = v.id;
   })();
   const mine = loading;

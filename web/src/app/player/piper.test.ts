@@ -2,11 +2,11 @@ import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { S } from '../core/settings';
-import { DEFAULT_PIPER_VOICE, megabytes, PIPER_CHOICES, PIPER_VOICES, piperChoice, piperChoiceLabel, piperConfigUrl, piperModelUrl, piperReady, piperSources, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
+import { DEFAULT_PIPER_VOICE, downloadBytes, KOKORO_FILES, megabytes, PIPER_CHOICES, PIPER_VOICES, piperChoice, piperChoiceLabel, piperConfigUrl, piperModelUrl, piperReady, piperSources, RELEASE_URL, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
 
 describe('piper catalog', () => {
   it('lists the Vietnamese models with sizes and the commercial-safe one first', () => {
-    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-vivos-x_low', 'vi_VN-csa-voice-piper-v3-medium']);
+    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-vivos-x_low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite']);
     expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium');
     expect(megabytes(piperVoice('vi_VN-vivos-x_low').bytes)).toBe('28 MB');
     expect(megabytes(piperVoice('vi_VN-csa-voice-piper-v3-medium').bytes)).toBe('77 MB');
@@ -30,7 +30,7 @@ describe('piper catalog', () => {
 
 describe('piper picker choices', () => {
   it('offers male and female voices, lightest download first', () => {
-    const sizes = PIPER_CHOICES.map((c) => c.model.bytes);
+    const sizes = PIPER_CHOICES.map((c) => downloadBytes(c.model));
     expect(sizes).toEqual([...sizes].sort((a, b) => a - b));
     expect(PIPER_CHOICES[0]?.model.id).toBe('vi_VN-vivos-x_low');
     expect(PIPER_CHOICES.filter((c) => c.gender === 'nam').length).toBeGreaterThanOrEqual(5);
@@ -54,7 +54,7 @@ describe('piper picker choices', () => {
   });
 
   it('keeps every offered speaker inside the model (sid < 65 for vivos, < 5 for Piper v3) and gives every model a credit', () => {
-    const max: Record<string, number> = { 'vi_VN-vivos-x_low': 65, 'vi_VN-csa-voice-piper-v3-medium': 5 };
+    const max: Record<string, number> = { 'vi_VN-vivos-x_low': 65, 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2 };
     for (const v of PIPER_VOICES) {
       expect(v.credit.length).toBeGreaterThan(10);
       for (const s of v.speakers ?? []) expect(s.sid).toBeLessThan(max[v.id] as number);
@@ -111,7 +111,7 @@ describe('piper sources and Vietnamese-only catalog', () => {
   });
 
   it('has only Vietnamese voices and every source is for Vietnamese', () => {
-    for (const x of PIPER_VOICES) {
+    for (const x of PIPER_VOICES.filter((y) => !y.kokoro)) {
       expect(x.id.startsWith('vi_VN-')).toBe(true);
       expect(piperModelUrl(x)).toMatch(/vi_VN/);
       expect(piperSources(x).every((u) => u.includes(x.id))).toBe(true);
@@ -122,10 +122,59 @@ describe('piper sources and Vietnamese-only catalog', () => {
   it('matches scripts/piper-models.json, which fetch-models.mjs downloads from', () => {
     const cat = JSON.parse(readFileSync(join(process.cwd(), 'scripts', 'piper-models.json'), 'utf8')) as { models: Record<string, unknown>[] };
     expect(cat.models.map((m) => m.id)).toEqual(PIPER_VOICES.map((x) => x.id));
-    for (const m of cat.models) {
+    for (const m of cat.models.filter((y) => !y.files)) {
       const x = piperVoice(m.id as string);
       expect(m).toEqual({ id: x.id, repo: x.repo, bytes: x.bytes, sha256: x.sha256, configBytes: x.configBytes, configSha256: x.configSha256 });
       expect(`${m.repo as string}${x.id}.onnx`).toBe(piperModelUrl(x));
     }
+  });
+});
+
+describe('kokoro lite voice', () => {
+  const k = piperVoice('kokoro-vi-lite');
+  const sha = /^[0-9a-f]{64}$/;
+
+  it('is one 9 MB model with a female and a male voice, labelled with the total download', () => {
+    expect(megabytes(k.bytes)).toBe('9 MB');
+    expect(megabytes(downloadBytes(k))).toBe('72 MB');
+    expect(k.sampleRate).toBe(24000);
+    expect(PIPER_CHOICES.filter((c) => c.model === k).map((c) => [c.id, c.gender, c.sid])).toEqual([
+      ['kokoro-vi-lite#0', 'nu', 0],
+      ['kokoro-vi-lite#1', 'nam', 1],
+    ]);
+    expect(piperChoiceLabel(piperChoice('kokoro-vi-lite#1'), true)).toBe('Nam · Đức Duy · 72 MB · đã tải');
+    expect(piperChoiceLabel(piperChoice('kokoro-vi-lite#0'), false)).toBe('Nữ · Diễm Trinh · 72 MB');
+    expect(piperChoice('kokoro-vi-lite#1').sid).toBe(1);
+  });
+
+  it('credits the licences of the model, its teacher and the dictionary', () => {
+    expect(k.credit).toContain('Apache-2.0');
+    expect(k.credit).toContain('SEA-G2P');
+  });
+
+  it('pins every file by revision, size and sha-256', () => {
+    for (const f of Object.values(KOKORO_FILES)) {
+      expect(f.sha256).toMatch(sha);
+      expect(f.bytes).toBeGreaterThan(0);
+      for (const u of [f.url, ...(f.mirrors ?? [])]) {
+        expect(u).not.toMatch(/\/(main|master)\//);
+        expect(u).toMatch(/\/[0-9a-f]{40}\//);
+      }
+    }
+    expect(piperModelUrl(k)).toBe(KOKORO_FILES.model.url);
+    expect(piperConfigUrl(k)).toBe(KOKORO_FILES.config.url);
+  });
+
+  it('tries the pinned repo, the mirror, then the GitHub release, for model and config; the dictionary has no mirror', () => {
+    expect(piperSources(k).map((u) => new URL(u).host)).toEqual(['huggingface.co', 'huggingface.co', 'github.com']);
+    expect(piperSources(k)[2]).toBe(RELEASE_URL + 'kokoro_vi_lite.onnx');
+    expect(piperSources(k, '.json')[2]).toBe(RELEASE_URL + 'kokoro_vi_lite.config.json');
+    expect(piperSources(k).some((u) => u.includes('/tts/models/'))).toBe(false);
+  });
+
+  it('is described in scripts/piper-models.json (what has to be uploaded to the GitHub release)', () => {
+    const cat = JSON.parse(readFileSync(join(process.cwd(), 'scripts', 'piper-models.json'), 'utf8')) as { models: { id: string; files?: Record<string, unknown>[] }[] };
+    const m = cat.models.find((x) => x.id === k.id);
+    expect(m?.files).toEqual([KOKORO_FILES.model, KOKORO_FILES.config, KOKORO_FILES.dict].map((f) => ({ name: f.name, url: f.url, bytes: f.bytes, sha256: f.sha256 })));
   });
 });
