@@ -3,6 +3,7 @@
  * and the chapter list: virtualised, column-major inside blocks of ten rows, with search, numeric jump, sort
  * toggle and read / current state.
  */
+import { copyText } from '../core/export-file';
 import type { ChapterRef, Progress, Route, StoryDetail, ViewContext } from '../core/contracts';
 import { cover, hydrateCovers } from '../core/covers';
 import { data, isAbort } from '../core/data';
@@ -286,12 +287,8 @@ async function listen(s: State): Promise<void> {
 
 async function copyLink(): Promise<void> {
   const url = location.href;
-  try {
-    await navigator.clipboard.writeText(url);
-    toast({ message: 'Đã sao chép liên kết.', kind: 'ok' });
-  } catch {
-    toast({ message: 'Không sao chép được. Hãy sao chép từ thanh địa chỉ.', kind: 'error' });
-  }
+  if (await copyText(url)) toast({ message: 'Đã sao chép liên kết.', kind: 'ok' });
+  else toast({ message: 'Không sao chép được liên kết.', kind: 'error' });
 }
 
 function onClick(e: Event): void {

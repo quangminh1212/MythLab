@@ -549,8 +549,11 @@ function open(c: Ctx): void {
   // ------------------------------------------------------------ buttons
   function moreSheet(): void {
     const items: [string, string, SafeHtml][] = [
-      ['mark', 'Đánh dấu đoạn này', icon('bookmark')],
+      ['mark', library.findBookmark(st.source, st.key, ref.file, here()) ? 'Bỏ đánh dấu đoạn này' : 'Đánh dấu đoạn này', icon('bookmark')],
       ['marks', 'Danh sách đánh dấu', icon('list')],
+      // touch equivalents of Home / End
+      ['top', 'Về đầu chương', icon('up')],
+      ['bottom', 'Tới cuối chương', icon('down')],
       ...(paged() ? [] : ([['auto', auto.running ? 'Dừng tự cuộn' : 'Tự cuộn', xicon('autoScroll')]] as [string, string, SafeHtml][])),
       ['settings', 'Cài đặt đọc', icon('settings')],
       ['menu', 'Danh mục truyện', icon('menu')],
@@ -587,6 +590,10 @@ function open(c: Ctx): void {
         return drawer('marks');
       case 'mark':
         return toggleMark();
+      case 'top':
+        return paged() ? setPage(0) : restoreScroll({ para: 0, frac: 0 }, 'top');
+      case 'bottom':
+        return paged() ? setPage(pages - 1) : restoreScroll({ para: 0, frac: 0 }, 'end');
       case 'auto':
         return toggleAuto();
       case 'auto-slower':

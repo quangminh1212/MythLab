@@ -26,6 +26,16 @@ const GROUPS: { title: string; keys: [string[], string][] }[] = [
       [['Nhấp đúp'], 'Nghe từ đoạn văn được nhấp'],
     ],
   },
+  {
+    title: 'Cảm ứng (điện thoại)',
+    keys: [
+      [['Chạm'], 'Hiện / ẩn thanh điều khiển · chế độ trang: chạm mép trái / phải để lật trang'],
+      [['Vuốt ngang'], 'Chế độ trang: lật trang · chế độ cuộn: chuyển chương (vuốt xa khỏi mép màn hình)'],
+      [['Chạm hai lần'], 'Nghe từ đoạn văn được chạm'],
+      [['Nút “…”'], 'Đánh dấu, tự cuộn, về đầu / cuối chương, cài đặt, danh mục'],
+      [['Nút ⌃ ở thanh nghe'], 'Mở bảng nghe: đoạn / chương trước sau, tốc độ, hẹn giờ, giọng đọc'],
+    ],
+  },
 ];
 
 function body(): SafeHtml {

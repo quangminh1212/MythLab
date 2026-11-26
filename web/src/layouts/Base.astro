@@ -11,6 +11,8 @@ import '../styles/views.css';
 import '../styles/reader.css';
 import '../styles/player.css';
 import '../styles/settings.css';
+import '../styles/mobile-parity.css';
+import '../styles/native-parity.css';
 
 interface Props {
   title?: string;
@@ -24,7 +26,7 @@ const hasManifest = existsSync(join(process.cwd(), 'public', 'manifest.webmanife
 <html lang="vi" data-theme="light" data-scheme="light">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
     <title>{title}</title>
     <meta name="description" content="MythLab: đọc và nghe truyện từ kho truyện của bạn." />
     <meta name="theme-color" content="#ffffff" />

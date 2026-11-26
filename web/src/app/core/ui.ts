@@ -226,7 +226,11 @@ export function openDialog(o: DialogOptions): DialogHandle {
     if (stack[stack.length - 1] === handle) handle.close();
   });
   const first = (o.initialFocus && panel.querySelector<HTMLElement>(o.initialFocus)) || focusables(body)[0] || focusables(panel)[0] || panel;
-  first.focus({ preventScroll: true });
+  // on a touchscreen, focusing a text field would raise the on-screen keyboard over the sheet before the reader has
+  // looked at it: focus the panel instead and let the first tap on the field open the keyboard
+  const typing = (el: Element): boolean => el instanceof HTMLTextAreaElement || (el instanceof HTMLInputElement && !/^(checkbox|radio|button|submit|range|color|file)$/.test(el.type));
+  const coarse = typeof matchMedia === 'function' && matchMedia('(pointer: coarse)').matches;
+  (coarse && typing(first) ? panel : first).focus({ preventScroll: true });
   return handle;
 }
 

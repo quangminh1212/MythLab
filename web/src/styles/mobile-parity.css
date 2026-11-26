@@ -1,0 +1,16 @@
+/* Touch parity: controls that are fine for a mouse but under the 44px tap size on touch screens that are wider than
+ * the phone breakpoints (landscape phones, tablets) or that sit inside running text. Loaded after the other sheets. */
+
+@media (pointer: coarse) {
+  .search-input {
+    height: var(--tap);
+  }
+
+  /* links inside hints / dialog copy (e.g. "Mở trang tạo token") */
+  .hint a,
+  .dialog-body p a {
+    display: inline-block;
+    padding: 12px 0;
+    margin: -12px 0;
+  }
+}

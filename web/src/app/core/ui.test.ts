@@ -1,5 +1,6 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { ACTION_TOAST_MS, announce, bindToasts, closeAllDialogs, confirmDialog, toast } from './ui';
+import { ACTION_TOAST_MS, announce, bindToasts, closeAllDialogs, confirmDialog, openDialog, toast } from './ui';
+import { html } from './html';
 
 beforeEach(() => {
   vi.useFakeTimers();
@@ -71,5 +72,26 @@ describe('dialogs and route changes', () => {
 
     (document.querySelector('[data-ok]') as HTMLElement).click();
     expect(await kept).toBe(true);
+  });
+});
+
+describe('openDialog focus on touch screens', () => {
+  const withPointer = (coarse: boolean): void => {
+    vi.stubGlobal('matchMedia', (q: string) => ({ matches: coarse && q.includes('coarse'), media: q, addEventListener() {}, removeEventListener() {} }));
+  };
+  afterEach(() => { vi.unstubAllGlobals(); closeAllDialogs(); });
+  const open = (): HTMLElement => openDialog({ title: 'Tìm', body: html`<input type="search" id="q"><button id="b">x</button>` }).el;
+
+  it('does not focus a text field when the pointer is coarse (no on-screen keyboard over the sheet)', () => {
+    withPointer(true);
+    const el = open();
+    expect(document.activeElement).not.toBe(document.getElementById('q'));
+    expect(el.contains(document.activeElement)).toBe(true);
+  });
+
+  it('still focuses the first field with a fine pointer', () => {
+    withPointer(false);
+    open();
+    expect(document.activeElement).toBe(document.getElementById('q'));
   });
 });

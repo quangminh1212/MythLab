@@ -15,6 +15,7 @@ import { data } from '../core/data';
 import { href } from '../core/router';
 import { confirmDialog, toast } from '../core/ui';
 import { offline, type DownloadedStory } from '../offline/index';
+import { copyText, saveTextFile } from '../core/export-file';
 import { applyBackup, backupFileName, buildBackup, parseBackup, BackupError, type Backup } from './backup';
 
 const GH_TOKEN_URL = 'https://github.com/settings/personal-access-tokens/new';
@@ -107,6 +108,12 @@ export function mountSource(el: HTMLElement): () => void {
           <button type="button" class="btn" id="ss-export">${icon('download')}<span>Xuất ra tệp</span></button>
           <label class="btn" for="ss-import-file" id="ss-import-btn" tabindex="-1">Nhập từ tệp…</label>
           <input id="ss-import-file" class="sr-only" type="file" accept="application/json,.json" />
+        </div>
+        <div class="ss-import" id="ss-export-manual" hidden></div>
+        <div class="ss-actions"><button type="button" class="btn" id="ss-paste-toggle">Dán nội dung sao lưu…</button></div>
+        <div class="ss-import" id="ss-paste" hidden>
+          <textarea class="ss-paste" id="ss-paste-text" rows="5" aria-label="Dán nội dung sao lưu" placeholder="Dán nội dung JSON đã sao chép"></textarea>
+          <div class="ss-actions"><button type="button" class="btn btn-primary" id="ss-paste-go">Đọc nội dung</button></div>
         </div>
         <div class="ss-import" id="ss-import" hidden></div>
       </section>
@@ -306,19 +313,34 @@ export function mountSource(el: HTMLElement): () => void {
 
   // ------------------------------------------------------------ export / import
 
+  const expBox = $('#ss-export-manual');
   $('#ss-export').addEventListener('click', () => {
     const b = buildBackup({ includeSecrets: $<HTMLInputElement>('#ss-exp-secrets').checked });
-    const blob = new Blob([JSON.stringify(b, null, 1)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = backupFileName();
-    a.rel = 'noopener';
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    setTimeout(() => URL.revokeObjectURL(url), 10_000);
-    toast({ message: `Đã xuất ${fmtNum(Object.keys(b.progress).length)} truyện đang đọc, ${fmtNum(b.bookmarks.length)} đánh dấu.`, kind: 'ok' });
+    const text = JSON.stringify(b, null, 1);
+    const summary = `${fmtNum(Object.keys(b.progress).length)} truyện đang đọc, ${fmtNum(b.bookmarks.length)} đánh dấu`;
+    void saveTextFile(backupFileName(), text).then((r) => {
+      if (r !== 'manual') {
+        expBox.hidden = true;
+        toast({ message: `Đã xuất ${summary}.`, kind: 'ok' });
+        return;
+      }
+      // the Android WebView cannot save a file by itself: show the text to copy (and paste back through "Nhập")
+      expBox.hidden = false;
+      render(
+        expBox,
+        html`<p class="ss-status">Máy này chưa lưu được tệp trực tiếp. Sao chép nội dung dưới đây, dán vào ghi chú hoặc tin nhắn để cất giữ. Khi cần, dán lại ở mục Nhập.</p>
+          <textarea class="ss-paste" id="ss-export-text" readonly rows="6" aria-label="Nội dung sao lưu"></textarea>
+          <div class="ss-actions"><button type="button" class="btn btn-primary" data-exp="copy">Sao chép</button></div>`,
+      );
+      const ta = expBox.querySelector<HTMLTextAreaElement>('#ss-export-text');
+      if (ta) ta.value = text;
+      expBox.querySelector('[data-exp="copy"]')?.addEventListener('click', () => {
+        void copyText(text).then((ok) => {
+          if (!ok) ta?.select();
+          toast({ message: ok ? `Đã sao chép ${summary}.` : 'Không sao chép được: hãy nhấn giữ vào khung rồi chọn Sao chép.', kind: ok ? 'ok' : 'error' });
+        });
+      });
+    });
   });
 
   const impBox = $('#ss-import');
@@ -351,6 +373,23 @@ export function mountSource(el: HTMLElement): () => void {
         pending = null;
       }
     })();
+  });
+  const pasteBox = $('#ss-paste');
+  $('#ss-paste-toggle').addEventListener('click', () => {
+    pasteBox.hidden = !pasteBox.hidden;
+    if (!pasteBox.hidden) $<HTMLTextAreaElement>('#ss-paste-text').focus();
+  });
+  $('#ss-paste-go').addEventListener('click', () => {
+    const ta = $<HTMLTextAreaElement>('#ss-paste-text');
+    try {
+      showImport(parseBackup(ta.value));
+      ta.value = '';
+      pasteBox.hidden = true;
+    } catch (e) {
+      impBox.hidden = false;
+      render(impBox, html`<p class="form-status is-error" role="alert">${e instanceof BackupError ? e.message : 'Không đọc được nội dung này.'}</p>`);
+      pending = null;
+    }
   });
   impBox.addEventListener('click', (e) => {
     const t = (e.target as Element).closest<HTMLElement>('[data-imp]');
