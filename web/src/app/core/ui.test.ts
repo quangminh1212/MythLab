@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { ACTION_TOAST_MS, announce, bindToasts, toast } from './ui';
+import { ACTION_TOAST_MS, announce, bindToasts, closeAllDialogs, confirmDialog, toast } from './ui';
 
 beforeEach(() => {
   vi.useFakeTimers();
@@ -51,5 +51,25 @@ describe('announce', () => {
   it('writes to the status region', () => {
     announce('Trang mới');
     expect(document.getElementById('sr-status')?.textContent).toBe('Trang mới');
+  });
+});
+
+describe('dialogs and route changes', () => {
+  afterEach(() => {
+    closeAllDialogs();
+    document.body.innerHTML = '';
+  });
+
+  it('a route change closes a normal dialog but not a persistent one (the voice download question)', async () => {
+    const plain = confirmDialog({ title: 'a', message: 'a' });
+    const kept = confirmDialog({ title: 'b', message: 'b', persistent: true, cancelFirst: true });
+    expect(document.activeElement?.hasAttribute('data-close')).toBe(true); // Huỷ has the focus
+    expect(document.querySelectorAll('.dialog')).toHaveLength(2);
+    closeAllDialogs();
+    expect(await plain).toBe(false);
+    expect(document.querySelectorAll('.dialog')).toHaveLength(1);
+
+    (document.querySelector('[data-ok]') as HTMLElement).click();
+    expect(await kept).toBe(true);
   });
 });

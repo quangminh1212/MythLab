@@ -280,7 +280,7 @@ func TestSettings(t *testing.T) {
 			t.Fatalf("second export download: %v", err)
 		}
 		raw2, _ := os.ReadFile(path2)
-		ck("export includes the key only when ticked", strings.Contains(string(raw2), fakeLANKey), len(raw2), string(raw2)[:min(len(raw2),200)])
+		ck("export includes the key only when ticked", strings.Contains(string(raw2), fakeLANKey), len(raw2), string(raw2)[:min(len(raw2), 200)])
 		// import round trip
 		p.uploadFile("#ss-import-file", path)
 		p.mustVisible("#ss-import:not([hidden]) [data-imp='go']", 15*time.Second)

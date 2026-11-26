@@ -23,6 +23,7 @@ export function mountVoice(root: HTMLElement): () => void {
   const piperRow = root.querySelector<HTMLElement>('#ss-piper-row') as HTMLElement;
   const piperDl = root.querySelector<HTMLButtonElement>('#ss-piper-dl') as HTMLButtonElement;
   const piperRm = root.querySelector<HTMLButtonElement>('#ss-piper-rm') as HTMLButtonElement;
+  const pitchRow = root.querySelector<HTMLElement>('#ss-pitch-row') as HTMLElement;
   const piperNote = root.querySelector<HTMLElement>('#ss-piper-note') as HTMLElement;
   let seq = 0;
   let shown: TtsEngine | null = null;
@@ -35,6 +36,8 @@ export function mountVoice(root: HTMLElement): () => void {
     const e = readEnv();
     const eff = effectiveEngine(S.engine, e);
     shown = eff;
+    // pitch only reaches the native (Android) reader; Piper/Kokoro ignore it. The stored value is kept.
+    pitchRow.hidden = eff !== 'native';
     const choices = engineChoices(e);
     // one reader only (the plain web: Piper): no switch to show, just the voice list
     engineRow.hidden = choices.length < 2;

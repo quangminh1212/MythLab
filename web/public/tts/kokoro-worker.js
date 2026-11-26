@@ -20,8 +20,8 @@ var RATE = 24000;
 /** The model adds about 200 ms of silence at each end of every call; keep 50 ms of it. */
 var KEEP = Math.round(RATE * 0.05);
 var QUIET = 0.01;
-/** The model is about 8 dB louder than the Piper voices (rms 0.19 vs 0.07, peaks past full scale clip): bring it to their level. */
-var GAIN = 0.5;
+/** The model is much louder than the Piper voices (rms about 0.20 vs 0.07, peaks past full scale clip). Measured in Chrome with GAIN 0.5: rms 0.093-0.108, peak <= 0.70, no clipping; 0.45 brings it to about 0.09. */
+var GAIN = 0.45;
 /** The frontend refuses more than 2000 characters; stay well below it. */
 var MAX_TEXT = 1200;
 

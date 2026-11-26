@@ -201,9 +201,23 @@ const configArtifact = (v: PiperVoice): Artifact => ({ name: 'cấu hình giọn
 /** "63 MB" */
 /** Extra line for the download dialogs: a big voice can run out of memory on a phone with 2 GB of RAM or less. */
 export function lowMemoryNote(bytes: number): string {
-  const mem = (globalThis.navigator as (Navigator & { deviceMemory?: number }) | undefined)?.deviceMemory;
-  return mem !== undefined && mem <= 2 && bytes > 40_000_000 ? ' Máy có ít bộ nhớ (≤ 2 GB): giọng nặng có thể bị treo hoặc tự thoát, nên chọn giọng nhẹ hơn.' : '';
+  return tooHeavyHere(bytes) ? ' Máy có ít bộ nhớ (≤ 2 GB): giọng nặng có thể bị treo hoặc tự thoát, nên chọn giọng nhẹ hơn.' : '';
 }
+
+/** Voices bigger than this can run out of memory on a phone with 2 GB of RAM or less. */
+export const HEAVY_VOICE_BYTES = 40_000_000;
+
+/** The device reports 2 GB of RAM or less (`navigator.deviceMemory`, Chromium only; unknown counts as enough). */
+export function lowMemory(): boolean {
+  const mem = (globalThis.navigator as (Navigator & { deviceMemory?: number }) | undefined)?.deviceMemory;
+  return mem !== undefined && mem <= 2;
+}
+
+/** A download of `bytes` is too heavy for this device: low memory and a big model. */
+export const tooHeavyHere = (bytes: number): boolean => lowMemory() && bytes > HEAVY_VOICE_BYTES;
+
+/** The lightest voice (the default Vivos speaker), what low-memory devices use. */
+export const lightChoice = (): PiperChoice => piperChoice(DEFAULT_PIPER_VOICE);
 
 export const megabytes = (bytes: number): string => `${Math.round(bytes / 1e6)} MB`;
 

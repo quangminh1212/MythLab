@@ -129,3 +129,39 @@ describe('ensureVoice (play pressed before the voice is ready)', () => {
     expect(n).toBe(1);
   });
 });
+
+describe('low-memory phones (navigator.deviceMemory <= 2)', () => {
+  const HEAVY = 'vi_VN-csa-voice-piper-v3-medium#0';
+  beforeEach(() => vi.stubGlobal('navigator', { deviceMemory: 2, onLine: true }));
+
+  it('the player gives a not-yet-downloaded heavy voice the lightest Vivos voice, with no heavy download and no dialog', async () => {
+    S.piperVoice = HEAVY;
+    await ensureVoice(HEAVY);
+    expect(installed).toEqual(['vi_VN-vivos-x_low']);
+    expect(S.piperVoice).toBe('vi_VN-vivos-x_low#0');
+    expect(confirmDialog).not.toHaveBeenCalled();
+  });
+
+  it('the automatic download does the same', async () => {
+    S.piperVoice = 'kokoro-vi-lite#0';
+    expect(await autoInstallVoice()).toBe(true);
+    expect(installed).toEqual(['vi_VN-vivos-x_low']);
+    expect(S.piperVoice).toBe('vi_VN-vivos-x_low#0');
+  });
+
+  it('a heavy voice that is already on the device is kept', async () => {
+    h.have.add('vi_VN-csa-voice-piper-v3-medium');
+    S.piperVoice = HEAVY;
+    await ensureVoice(HEAVY);
+    expect(installed).toEqual([]);
+    expect(S.piperVoice).toBe(HEAVY);
+  });
+
+  it('does not change anything on a phone with enough memory', async () => {
+    vi.stubGlobal('navigator', { deviceMemory: 4, onLine: true });
+    S.piperVoice = HEAVY;
+    await ensureVoice(HEAVY);
+    expect(installed).toEqual(['vi_VN-csa-voice-piper-v3-medium']);
+    expect(S.piperVoice).toBe(HEAVY);
+  });
+});

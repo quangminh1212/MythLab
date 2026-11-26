@@ -152,6 +152,8 @@ export interface DialogOptions {
   dismissable?: boolean;
   /** Selector of the element to focus first (default: first focusable in the body, else the close button). */
   initialFocus?: string;
+  /** Survives route changes (`closeAllDialogs`): a dialog the player opens may come up while the reader view is still mounting. */
+  persistent?: boolean;
 }
 
 export interface DialogHandle {
@@ -167,9 +169,12 @@ let dialogSeq = 0;
 const stack: DialogHandle[] = [];
 
 /** Opens a modal dialog in `#overlay-root`. Dialogs stack; Escape closes the top one. */
+const persistentDialogs = new Set<DialogHandle>();
+
 export function openDialog(o: DialogOptions): DialogHandle {
   const root = document.getElementById('overlay-root') || document.body;
   const id = `dlg${++dialogSeq}`;
+  const keep = !!o.persistent;
   const variant = o.variant || 'dialog';
   const wrap = document.createElement('div');
   wrap.className = `overlay overlay-${variant}`;
@@ -200,12 +205,14 @@ export function openDialog(o: DialogOptions): DialogHandle {
       closed = true;
       const i = stack.indexOf(handle);
       if (i >= 0) stack.splice(i, 1);
+      persistentDialogs.delete(handle);
       wrap.remove();
       if (!stack.length) document.documentElement.classList.remove('has-overlay');
       release();
       o.onClose?.();
     },
   };
+  if (keep) persistentDialogs.add(handle);
   wrap.addEventListener('click', (e) => {
     const t = (e.target as Element).closest('[data-close]');
     if (!t) return;
@@ -225,11 +232,11 @@ export function openDialog(o: DialogOptions): DialogHandle {
 
 /** Closes every open dialog (route changes do this). */
 export function closeAllDialogs(): void {
-  for (const d of [...stack].reverse()) d.close();
+  for (const d of [...stack].reverse()) if (!persistentDialogs.has(d)) d.close();
 }
 
 /** Asks a yes/no question. Resolves true when confirmed. */
-export function confirmDialog(o: { title: string; message: string; confirmLabel?: string; cancelLabel?: string; danger?: boolean }): Promise<boolean> {
+export function confirmDialog(o: { title: string; message: string; confirmLabel?: string; cancelLabel?: string; danger?: boolean; persistent?: boolean; cancelFirst?: boolean }): Promise<boolean> {
   return new Promise((resolve) => {
     let ok = false;
     const d = openDialog({
@@ -238,7 +245,8 @@ export function confirmDialog(o: { title: string; message: string; confirmLabel?
       footer: html`<button type="button" class="btn" data-close>${o.cancelLabel || 'Huỷ'}</button>
         <button type="button" class="btn ${o.danger ? 'btn-danger' : 'btn-primary'}" data-ok>${o.confirmLabel || 'Đồng ý'}</button>`,
       className: 'dialog-sm',
-      initialFocus: '[data-ok]',
+      initialFocus: o.cancelFirst ? '.dialog-foot [data-close]' : '[data-ok]',
+      persistent: o.persistent,
       onClose: () => resolve(ok),
     });
     d.el.querySelector('[data-ok]')?.addEventListener('click', () => {

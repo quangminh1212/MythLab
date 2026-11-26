@@ -22,7 +22,7 @@ import { currentRoute, href, navigate } from '../core/router';
 import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { isPlaybackSignal } from './fallback';
-import { clipHolding, clipRate, effectiveEngine, forgetClips, Interrupted, localEngine, pauseHeld, playsClips, prefetch, resumeHeld, speak, stopAll, Stopped } from './engines';
+import { clipHolding, clipRate, effectiveEngine, forgetClips, Interrupted, localEngine, pauseHeld, playsClips, prefetch, resumeHeld, settleEngine, speak, stopAll, Stopped } from './engines';
 import { Declined, ensureVoice, onVoiceProgress, voiceProgress } from './autovoice';
 import { piperReady, refreshPiper } from './piper';
 import { keepAwake } from './keepawake';
@@ -252,6 +252,9 @@ async function run(ci: number, si = 0): Promise<void> {
       setMark(null);
       return chapterEnd(s, my, false);
     }
+    // Android app: wait for the device voice probe, so a phone without Vietnamese voice reads with Piper from the start
+    await settleEngine();
+    if (my !== gen || ses !== s) return;
     const engine = currentEngine();
     if (engine === 'piper' && !piperReady() && !(await waitForVoice(s, c, my))) return;
     if (!engine) {

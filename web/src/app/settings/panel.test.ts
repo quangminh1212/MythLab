@@ -58,3 +58,17 @@ describe('settings menu (accordion)', () => {
     expect(groupSummary('source')).toBe('');
   });
 });
+
+describe('pitch control', () => {
+  afterEach(() => settingsPanel.close());
+
+  it('is hidden in the voice group by default (only the native reader shows it) and the stored value is kept', () => {
+    set('pitch', 1.3);
+    settingsPanel.open('voice');
+    expect(q('#ss-pitch-row').hidden).toBe(true);
+    expect(q('#ss-pitch-row [data-range="pitch"]')).not.toBeNull();
+    expect(S.pitch).toBe(1.3);
+    expect(groupSummary('voice')).not.toMatch(/cao|pitch/i);
+    set('pitch', 1);
+  });
+});

@@ -10,9 +10,10 @@
  * `installVoiceOnce` is the one place that downloads a voice: the automatic start, the settings button and the
  * player (play pressed before the voice is ready) all share the running download instead of starting another.
  */
-import { S } from '../core/settings';
+import { S, set } from '../core/settings';
 import { confirmDialog, toast } from '../core/ui';
-import { downloadBytes, installPiper, lowMemoryNote, megabytes, piperChoice, piperInstalled, piperSupported, PIPER_SIZE_NOTE, refreshPiper } from './piper';
+import type { PiperChoice } from './piper';
+import { downloadBytes, installPiper, lightChoice, lowMemoryNote, megabytes, piperChoice, piperInstalled, piperSupported, PIPER_SIZE_NOTE, refreshPiper, tooHeavyHere } from './piper';
 
 /** Voices bigger than this ask before they download when the user did not pick them (play, saveData). */
 export const CONFIRM_ABOVE = 40_000_000;
@@ -98,6 +99,18 @@ export function installVoiceOnce(id: string, step = 10): Promise<void> {
   return promise;
 }
 
+/**
+ * A phone with 2 GB of RAM or less is not given a heavy voice it does not have yet: the saved choice becomes the
+ * lightest Vivos voice (a voice that is already downloaded is never replaced).
+ */
+export function lightForLowMemory(c: PiperChoice): PiperChoice {
+  if (!tooHeavyHere(downloadBytes(c.model)) || piperInstalled(c.model.id)) return c;
+  const light = lightChoice();
+  set('piperVoice', light.id);
+  toast(`Máy có ít bộ nhớ (≤ 2 GB): dùng giọng nhẹ “${light.name}” thay cho giọng “${c.name}”`);
+  return light;
+}
+
 /** Thrown by `ensureVoice` when the user declined the download. */
 export class Declined extends Error {
   constructor() {
@@ -112,15 +125,17 @@ export class Declined extends Error {
  * confirmation; the light default is downloaded straight away.
  */
 export async function ensureVoice(id: string = S.piperVoice): Promise<void> {
-  const c = piperChoice(id);
+  let c = piperChoice(id);
   await refreshPiper();
   if (piperInstalled(c.model.id)) return;
+  c = lightForLowMemory(c);
   if (!running || running.model !== c.model.id) {
     if (saveData() || downloadBytes(c.model) > CONFIRM_ABOVE) {
       const ok = await confirmDialog({
         title: 'Tải giọng đọc?',
         message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(c.model))}.${lowMemoryNote(downloadBytes(c.model))}`,
         confirmLabel: 'Tải về',
+        persistent: true, // the reader view may still be mounting (route change) when this comes up
       });
       if (!ok) throw new Declined();
     }
@@ -149,7 +164,9 @@ export async function autoInstallVoice(force = false): Promise<boolean> {
   try {
     if ((S.engine !== 'piper' && !force) || !piperSupported()) return false;
     await refreshPiper();
-    const c = piperChoice(S.piperVoice);
+    let c = piperChoice(S.piperVoice);
+    if (piperInstalled(c.model.id)) return true;
+    c = lightForLowMemory(c);
     if (piperInstalled(c.model.id)) return true;
     if (saveData()) return false;
     if (typeof navigator !== 'undefined' && navigator.onLine === false) {

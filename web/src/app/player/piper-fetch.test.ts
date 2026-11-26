@@ -84,3 +84,82 @@ describe('fetchVerified source fallback', () => {
     expect(fetchImpl).toHaveBeenCalledTimes(1);
   });
 });
+
+describe('fetchVerified resume', () => {
+  /** Streams `head` then errors, like a dropped connection. */
+  const cut = (head: Uint8Array): Response =>
+    new Response(
+      new ReadableStream({
+        start(c) {
+          c.enqueue(head);
+        },
+        pull(c) {
+          c.error(new TypeError('network error'));
+        },
+      }),
+      { status: 200 },
+    );
+  const partial = (bytes: Uint8Array, from: number): Response =>
+    new Response(bytes.slice(from) as BlobPart, { status: 206, headers: { 'Content-Range': `bytes ${from}-${bytes.length - 1}/${bytes.length}` } });
+  const rangeOf = (init?: RequestInit): string | undefined => (init?.headers as Record<string, string> | undefined)?.Range;
+
+  it('resumes a cut download on the same source with a Range request', async () => {
+    const a = await artifact(['a', 'b']);
+    const ranges: (string | undefined)[] = [];
+    const fetchImpl = vi.fn(async (_u: RequestInfo | URL, init?: RequestInit) => {
+      ranges.push(rangeOf(init));
+      return ranges.length === 1 ? cut(GOOD.slice(0, 4)) : partial(GOOD, 4);
+    });
+    const progress: number[] = [];
+    const r = await fetchVerified(a, { fetchImpl: fetchImpl as unknown as typeof fetch, onProgress: (p) => progress.push(p) });
+    expect(await text(r.blob)).toBe('0123456789');
+    expect(r.index).toBe(0);
+    expect(ranges).toEqual([undefined, 'bytes=4-']);
+    expect(progress).toContain(0.4);
+    expect(progress.at(-1)).toBe(1);
+  });
+
+  it('carries the partial bytes over to the next source', async () => {
+    const a = await artifact(['a', 'b']);
+    const fetchImpl = vi.fn(async (u: RequestInfo | URL, init?: RequestInit) => {
+      if (u === 'a') return rangeOf(init) ? new Response('', { status: 503 }) : cut(GOOD.slice(0, 6));
+      return partial(GOOD, 6);
+    });
+    const r = await fetchVerified(a, { fetchImpl: fetchImpl as unknown as typeof fetch });
+    expect(r.index).toBe(1);
+    expect(await text(r.blob)).toBe('0123456789');
+    expect(fetchImpl).toHaveBeenCalledTimes(3);
+  });
+
+  it('restarts from zero when the server answers 200 to a Range request', async () => {
+    const a = await artifact(['a']);
+    let n = 0;
+    const fetchImpl = vi.fn(async () => (++n === 1 ? cut(GOOD.slice(0, 3)) : ok(GOOD)));
+    const r = await fetchVerified(a, { fetchImpl: fetchImpl as unknown as typeof fetch });
+    expect(await text(r.blob)).toBe('0123456789');
+    expect(n).toBe(2);
+  });
+
+  it('restarts when Content-Range does not continue where we stopped', async () => {
+    const a = await artifact(['a']);
+    let n = 0;
+    const fetchImpl = vi.fn(async () => (++n === 1 ? cut(GOOD.slice(0, 3)) : new Response(GOOD as BlobPart, { status: 206, headers: { 'Content-Range': 'bytes 0-9/10' } })));
+    const r = await fetchVerified(a, { fetchImpl: fetchImpl as unknown as typeof fetch });
+    expect(await text(r.blob)).toBe('0123456789');
+  });
+
+  it('a hash mismatch after resuming is discarded; the next source starts from byte 0', async () => {
+    const a = await artifact(['a', 'b']);
+    const bad = enc('0123XXXXXX');
+    const ranges: (string | undefined)[] = [];
+    const fetchImpl = vi.fn(async (u: RequestInfo | URL, init?: RequestInit) => {
+      ranges.push(`${String(u)}:${rangeOf(init) ?? '-'}`);
+      if (u === 'a') return rangeOf(init) ? partial(bad, 4) : cut(bad.slice(0, 4));
+      return ok(GOOD);
+    });
+    const r = await fetchVerified(a, { fetchImpl: fetchImpl as unknown as typeof fetch });
+    expect(r.index).toBe(1);
+    expect(await text(r.blob)).toBe('0123456789');
+    expect(ranges).toEqual(['a:-', 'a:bytes=4-', 'b:-']);
+  });
+});

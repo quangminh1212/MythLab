@@ -183,7 +183,8 @@ function voiceTab(): SafeHtml {
       </div>
       <p class="hint" id="ss-piper-note" role="status"></p>
     </div>
-    ${rangeRow('rate')} ${rangeRow('pitch')}
+    ${rangeRow('rate')}
+    <div id="ss-pitch-row" hidden>${rangeRow('pitch')}</div>
     <div class="ss-checks">
       ${checkRow('autoNext', 'Tự chuyển chương khi nghe hết')} ${checkRow('follow', 'Tự cuộn theo đoạn đang đọc')} ${checkRow('autoOpenReader', 'Mở trang đọc khi bắt đầu nghe')} ${checkRow('readTitle', 'Đọc tiêu đề chương')}
       ${checkRow('ttsChapterCue', 'Báo “Hết chương” trước khi qua chương mới')} ${checkRow('ttsClean', 'Lọc ký tự lạ trước khi đọc')} ${checkRow('keepAwake', 'Giữ màn hình sáng khi nghe')}
