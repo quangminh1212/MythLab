@@ -13,7 +13,7 @@ import { clearToken, initSecret, peekToken, setToken, TOKEN_KEY } from '../secre
 import { store } from '../store';
 import { createGitHubBackend, type GitHubBackend, type GitHubOptions } from './github';
 import { createServerBackend, type ServerBackend } from './server';
-import { ApiError, type BackendKind, type CoverRef, type GetOptions, type SendOptions, type TokenTest, type TtsOptions } from './types';
+import { ApiError, type BackendKind, type CoverRef, type GetOptions, type SendOptions, type TokenTest } from './types';
 
 export * from './types';
 export { createServerBackend } from './server';
@@ -101,12 +101,6 @@ async function select(): Promise<BackendKind> {
   return 'none';
 }
 
-const objectUrls: string[] = [];
-function track(url: string): string {
-  objectUrls.push(url);
-  while (objectUrls.length > 80) URL.revokeObjectURL(objectUrls.shift() as string);
-  return url;
-}
 
 export const backend = {
   /** 'none' until `init()` resolved. */
@@ -167,28 +161,6 @@ export const backend = {
       if ((e as Error)?.name === 'AbortError') throw e;
       throw new ApiError(navigator.onLine === false ? 'Không có kết nối mạng' : 'Không kết nối được tới máy chủ', 0, { code: 'network', cause: e });
     }
-  },
-  /** Direct TTS URL without credentials; null when the backend has no TTS (GitHub-direct). Prefer `ttsSrc`. */
-  ttsUrl(opts: TtsOptions): string | null {
-    return impl ? impl.ttsUrl(opts) : null;
-  },
-  /**
-   * Something an `<audio>` element can play: the plain URL when no key is needed, otherwise the audio fetched
-   * with the key header as an object URL. The caller should `releaseUrl()` object URLs it no longer needs.
-   */
-  async ttsSrc(opts: TtsOptions, o: { signal?: AbortSignal } = {}): Promise<string> {
-    await backend.init();
-    const u = impl ? impl.ttsUrl(opts) : null;
-    if (!impl || !u) throw new ApiError('Không có máy chủ đọc truyện (đang đọc trực tiếp từ GitHub)', 503, { code: 'no_tts' });
-    if (!impl.mediaNeedsFetch) return u;
-    return track(URL.createObjectURL(await impl.fetchMedia(u, o.signal)));
-  },
-  /** Revokes an object URL returned by `ttsSrc` (plain URLs are ignored). */
-  releaseUrl(url: string): void {
-    if (!url.startsWith('blob:')) return;
-    const i = objectUrls.indexOf(url);
-    if (i >= 0) objectUrls.splice(i, 1);
-    URL.revokeObjectURL(url);
   },
   /**
    * Cover of a story: a URL string, a Promise of one (authenticated fetch), or null when there is none.

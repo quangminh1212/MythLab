@@ -167,8 +167,6 @@ export interface BackendImpl {
   /** API level: 2 for the Go server, 1 otherwise. */
   api: number;
   get<T = unknown>(path: string, opts?: GetOptions): Promise<T>;
-  /** Direct audio URL (never contains the key); null when the backend has no TTS. */
-  ttsUrl(opts: TtsOptions): string | null;
   /**
    * Cover URL for a story: a string usable as `<img src>`, a Promise of an object URL when the image needs an
    * authenticated fetch (GitHub blob, keyed server), or null when the story has no cover.

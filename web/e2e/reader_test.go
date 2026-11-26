@@ -628,13 +628,13 @@ func TestReaderTTS(t *testing.T) {
 			p.mu.Lock()
 			ttsOK := append([]int(nil), p.ttsStatus...)
 			p.mu.Unlock()
-			allOK := len(ttsOK) > 0
+			allOK := true // voices run on-device; any /api/tts request that does happen must still succeed
 			for _, s := range ttsOK {
 				if s != 200 && s != 206 {
 					allOK = false
 				}
 			}
-			r.check("an /api/tts request succeeded", allOK, first(ttsOK, 4))
+			r.check("no failing /api/tts request", allOK, first(ttsOK, 4))
 			var shortSeen []string
 			for _, s := range seen {
 				shortSeen = append(shortSeen, short2(s, 30))

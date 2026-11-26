@@ -2,7 +2,7 @@
 import { authToken, rejectToken } from '../auth-token';
 import { isNative } from '../settings';
 import { apiRoute, CACHE, chapterKey, chapterParams, fingerprint, HDR_AT, identUrl, LIMIT, scopeOf } from '../../../sw/shared';
-import { ApiError, type BackendImpl, type CoverRef, type GetOptions, type PingResponse, type SendOptions, type TtsOptions } from './types';
+import { ApiError, type BackendImpl, type CoverRef, type GetOptions, type PingResponse, type SendOptions } from './types';
 
 const norm = (p: string): string => '/' + String(p || '').replace(/^\/+/, '').replace(/^api\//, '');
 
@@ -189,15 +189,6 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
     }
   }
 
-  function ttsUrl({ text, voice, rate, pitch }: TtsOptions): string {
-    // parameter order (voice, text) is part of the HTTP/service-worker cache key: do not reorder
-    let u = `${base}/api/tts?voice=${encodeURIComponent(voice || 'vi-VN-HoaiMyNeural')}&text=${encodeURIComponent(text || '')}`;
-    const edgeInt = (v: unknown): v is number => typeof v === 'number' && Number.isInteger(v) && Math.abs(v) > 4;
-    if (edgeInt(rate)) u += `&rate=${rate}`;
-    if (edgeInt(pitch)) u += `&pitch=${pitch}`;
-    return u;
-  }
-
   async function ping(timeout = 5000): Promise<PingResponse | null> {
     const t = withTimeout(timeout);
     try {
@@ -280,6 +271,6 @@ export function createServerBackend(baseIn = '', key = ''): ServerBackend {
     return /^https?:\/\//i.test(u) ? u : null;
   }
 
-  const self: ServerBackend = { kind: 'server', base, api: 1, features: [], auth: null, get, send, ttsUrl, coverUrl, ping, mediaNeedsFetch: !!key, fetchMedia };
+  const self: ServerBackend = { kind: 'server', base, api: 1, features: [], auth: null, get, send, coverUrl, ping, mediaNeedsFetch: !!key, fetchMedia };
   return self;
 }

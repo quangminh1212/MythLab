@@ -552,7 +552,6 @@ export function createGitHubBackend(token: string, { owner = '', prefix = 'Done_
       st.name = v;
     },
     get,
-    ttsUrl: () => null,
     coverUrl,
     mediaNeedsFetch: false,
     fetchMedia: async (url: string, signal?: AbortSignal) => {
