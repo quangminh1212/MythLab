@@ -39,6 +39,26 @@ describe('settings model', () => {
     expect(load()).toBe(false);
   });
 
+  it('new users start with the voice of the device; Piper is only a choice', () => {
+    expect(DEF.engine).toBe('browser');
+    expect(DEF.piperVoice).toBe('vi_VN-vais1000-medium');
+    expect(normalise('engine', 'piper')).toBe('piper');
+    expect(normalise('engine', 'sherpa')).toBe(DEF.engine);
+  });
+
+  it('keeps a stored Piper choice and returns to the device voice when the host cannot run it', () => {
+    vi.stubGlobal('caches', {});
+    vi.stubGlobal('Worker', class {});
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-vivos-x_low' }));
+    load();
+    expect(S.engine).toBe('piper');
+    expect(S.piperVoice).toBe('vi_VN-vivos-x_low');
+    vi.stubGlobal('Worker', undefined);
+    load();
+    expect(S.engine).toBe('browser');
+    vi.unstubAllGlobals();
+  });
+
   it('a sepia theme chosen after the migration is kept', () => {
     set('theme', 'sepia');
     load();

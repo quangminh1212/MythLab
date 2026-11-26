@@ -139,7 +139,7 @@ func MaskKey(uri string) string {
 // styles and loads fonts and icons from its own origin. connect-src, img-src
 // and media-src stay open to http(s) because the user chooses the API server
 // (LAN or remote), GitHub (api.github.com) and the poster hosts at runtime.
-const webCSP = "default-src 'self'; script-src 'self' https://accounts.google.com/gsi/client; style-src 'self' https://accounts.google.com/gsi/style; frame-src https://accounts.google.com/gsi/; font-src 'self'; " +
+const webCSP = "default-src 'self'; script-src 'self' 'wasm-unsafe-eval' https://accounts.google.com/gsi/client; style-src 'self' https://accounts.google.com/gsi/style; frame-src https://accounts.google.com/gsi/; font-src 'self'; " +
 	"img-src 'self' data: blob: http: https:; media-src 'self' blob: http: https:; " +
 	"connect-src 'self' https://api.github.com https://accounts.google.com/gsi/ http: https:; worker-src 'self'; manifest-src 'self'; " +
 	"object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"

@@ -158,6 +158,14 @@ function voiceTab(): SafeHtml {
       </div>
       <p class="hint" id="ss-voice-note" role="status"></p>
     </div>
+    <div class="ss-row" id="ss-piper-row" hidden>
+      <div class="ss-label">Giọng Piper trên máy</div>
+      <div class="ss-voice-line">
+        <button type="button" class="btn" id="ss-piper-dl">Tải giọng này</button>
+        <button type="button" class="btn" id="ss-piper-rm" hidden>Xoá khỏi máy</button>
+      </div>
+      <p class="hint" id="ss-piper-note" role="status"></p>
+    </div>
     ${rangeRow('rate')} ${rangeRow('pitch')}
     <div class="ss-checks">
       ${checkRow('autoNext', 'Tự chuyển chương khi nghe hết')} ${checkRow('follow', 'Tự cuộn theo đoạn đang đọc')} ${checkRow('autoOpenReader', 'Mở trang đọc khi bắt đầu nghe')} ${checkRow('readTitle', 'Đọc tiêu đề chương')}

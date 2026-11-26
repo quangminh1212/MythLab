@@ -9,7 +9,10 @@ import { store } from './store';
 
 import { ACCENT_IDS, isDarkScheme, THEME_IDS, type Scheme, type Theme } from './themes';
 export type { Scheme, Theme };
-export type TtsEngine = 'edge' | 'browser' | 'native';
+export type TtsEngine = 'edge' | 'browser' | 'native' | 'piper';
+
+/** True when the on-device Piper engine can run here (WebAssembly + Web Worker + Cache API). */
+export const piperSupported = (): boolean => typeof WebAssembly === 'object' && typeof Worker === 'function' && typeof caches === 'object';
 
 export interface Settings {
   theme: Theme;
@@ -34,6 +37,8 @@ export interface Settings {
   engine: TtsEngine;
   voice: string;
   nativeVoice: string;
+  /** Piper voice id (player/piper.ts catalog). */
+  piperVoice: string;
   browserVoice: string;
   rate: number;
   pitch: number;
@@ -77,9 +82,11 @@ export function defaults(): Settings {
     readMode: 'scroll',
     tapZones: true,
     brightness: 1,
-    engine: isNative() ? 'native' : 'edge',
+    // the voice of the device speaks by itself; the server voices and Piper are an explicit choice
+    engine: isNative() ? 'native' : 'browser',
     voice: 'vi-VN-HoaiMyNeural',
     nativeVoice: '',
+    piperVoice: 'vi_VN-vais1000-medium',
     browserVoice: '',
     rate: 1,
     pitch: 1,
@@ -115,7 +122,7 @@ const ENUM = {
   accent: ACCENT_IDS as readonly string[],
   align: ['left', 'justify'],
   readMode: ['scroll', 'page'],
-  engine: ['edge', 'browser', 'native'],
+  engine: ['edge', 'browser', 'native', 'piper'],
 } as const satisfies Partial<Record<SettingKey, readonly string[]>>;
 
 export interface Preset {
@@ -186,6 +193,8 @@ export function load(): boolean {
   if (next.font === 'serif') next.font = 'literata';
   if (next.font === 'sans') next.font = 'inter';
   if (next.engine === 'native' && !isNative()) next.engine = 'edge';
+  // a stored Piper choice on a host that cannot run it (no WebAssembly / Worker) goes back to the device voice
+  if (next.engine === 'piper' && !piperSupported()) next.engine = isNative() ? 'native' : 'browser';
   // ui3: justified text makes rivers on phones, so a phone that never chose an alignment starts left-aligned
   if (!next.ui3) {
     const narrow = typeof matchMedia === 'function' && matchMedia('(max-width: 599px)').matches;

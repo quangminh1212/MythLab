@@ -1,6 +1,7 @@
 /**
- * The three voices of the player and what is known about them:
+ * The voices of the player and what is known about them:
  *   edge     the server's neural voices, played through one <audio> element (true pause / resume, seekable)
+ *   piper    free Vietnamese neural voices synthesised on the device (piper.ts), played like an edge clip
  *   browser  the browser's speech synthesis
  *   native   the Android app's text-to-speech (Capacitor TextToSpeech plugin)
  * Each engine speaks one chunk and reports the sentence it is on. The player (index.ts) decides which engine
@@ -10,10 +11,11 @@ import type { TtsEngine } from '../core/settings';
 import type { Voice } from '../core/contracts';
 import { backend } from '../core/backend/index';
 import { data } from '../core/data';
-import { S } from '../core/settings';
-import { toast } from '../core/ui';
+import { S, set } from '../core/settings';
+import { confirmDialog, toast } from '../core/ui';
 import { BROWSER_PIECE, edgePitch, NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
 import { voiceDisplayName } from '../settings/voices';
+import { forget as piperForgetClips, installPiper, megabytes, piperPrefetch, piperReady, piperSource, piperSupported, piperVoice, PIPER_SIZE_NOTE, PIPER_VOICES, piperInstalled } from './piper';
 
 /** Thrown into a pending speak() when the player itself stopped it; never shown to the user. */
 export class Stopped extends Error {
@@ -90,12 +92,13 @@ export function engines(): TtsEngine[] {
   if (edgeAvailable()) out.push('edge');
   if (synth()) out.push('browser');
   if (nativeTts()) out.push('native');
+  if (piperSupported()) out.push('piper');
   return out;
 }
 
 /** The voice of the device: the app's own engine when it was chosen, otherwise the browser's. */
-export function localEngine(): Exclude<TtsEngine, 'edge'> | null {
-  if (S.engine === 'native' && nativeTts()) return 'native';
+export function localEngine(): 'browser' | 'native' | null {
+  if ((S.engine === 'native' || S.engine === 'piper') && nativeTts()) return 'native';
   if (synth()) return 'browser';
   if (nativeTts()) return 'native';
   return null;
@@ -107,6 +110,8 @@ export function localEngine(): Exclude<TtsEngine, 'edge'> | null {
  */
 export function effectiveEngine(edgeDown = false): TtsEngine | null {
   const edge = edgeAvailable() && !edgeDown;
+  // Piper is only used once its voice is downloaded: it never downloads by itself
+  if (S.engine === 'piper' && piperReady()) return 'piper';
   if (S.engine === 'edge' && edge) return 'edge';
   return localEngine() ?? (edge ? 'edge' : null);
 }
@@ -115,6 +120,7 @@ export const ENGINE_LABEL: Record<TtsEngine, string> = {
   edge: 'Giọng Edge (máy chủ)',
   browser: 'Giọng của trình duyệt',
   native: 'Giọng của máy',
+  piper: 'Giọng Piper (offline, trên máy)',
 };
 
 // ---------------------------------------------------------------- voices
@@ -144,11 +150,64 @@ async function nativeVoices(): Promise<NativeVoice[]> {
 function warnNoVi(): void {
   if (warnedVi) return;
   warnedVi = true;
+  if (!piperSupported()) {
+    toast({
+      message: 'Máy chưa có giọng tiếng Việt — cài “Speech Services by Google” rồi tải gói Tiếng Việt',
+      duration: 8000,
+      action: { label: 'Cài giọng', run: installVoices },
+    });
+    return;
+  }
   toast({
-    message: 'Máy chưa có giọng tiếng Việt — cài “Speech Services by Google” rồi tải gói Tiếng Việt',
-    duration: 8000,
-    action: { label: 'Cài giọng', run: installVoices },
+    message: 'Máy chưa có giọng tiếng Việt. Dùng giọng Piper miễn phí, đọc ngay trên máy?',
+    duration: 10000,
+    action: { label: 'Dùng giọng Piper', run: () => void offerPiper() },
   });
+}
+
+/**
+ * Asks before the one big download, then fetches the voice and switches to Piper. Never called without a tap.
+ * Resolves true when Piper is ready and selected.
+ */
+export async function offerPiper(id: string = S.piperVoice): Promise<boolean> {
+  const v = piperVoice(id);
+  if (!piperInstalled(v.id)) {
+    const ok = await confirmDialog({
+      title: 'Tải giọng Piper?',
+      message: `${PIPER_SIZE_NOTE} Giọng “${v.name}” nặng ${megabytes(v.bytes)}.`,
+      confirmLabel: 'Tải về',
+    });
+    if (!ok) return false;
+    let last = -1;
+    let from = '';
+    const say = (pct: number): void => toast({ message: `Đang tải giọng Piper${from}… ${pct}%`, duration: 120_000 });
+    say(0);
+    try {
+      await installPiper(
+        v.id,
+        (f) => {
+          const pct = Math.floor(f * 10) * 10;
+          if (pct !== last) {
+            last = pct;
+            say(pct);
+          }
+        },
+        undefined,
+        (i, n) => {
+          // the next source starts from 0 again
+          from = i ? ` (nguồn dự phòng ${i + 1}/${n})` : '';
+          last = -1;
+        },
+      );
+    } catch (e) {
+      toast({ message: `Không tải được giọng Piper: ${(e as Error).message || e}`, kind: 'error' });
+      return false;
+    }
+    toast('Đã tải xong giọng Piper');
+  }
+  set('piperVoice', v.id);
+  set('engine', 'piper');
+  return true;
 }
 
 function browserVoices(): Promise<SpeechSynthesisVoice[]> {
@@ -177,6 +236,7 @@ export async function voices(engine: TtsEngine): Promise<VoiceOption[]> {
       const r = await backend.get<{ voices?: Voice[] }>('/voices');
       return (r.voices || []).map((v) => ({ id: v.id, name: voiceDisplayName(v.id, v.name || v.id), lang: v.id.slice(0, 5) }));
     }
+    if (engine === 'piper') return PIPER_VOICES.map((v) => ({ id: v.id, name: v.name, lang: 'vi-VN' }));
     if (engine === 'native') {
       const vs = await nativeVoices();
       if (nativeTts() && !vs.some((v) => isVi(v.lang))) warnNoVi();
@@ -312,13 +372,28 @@ export function edgePrefetch(chunk: Chunk | undefined): void {
 /** Forgets every prepared source (voice or pitch changed, player closed). */
 export function edgeForget(): void {
   for (const k of [...srcCache.keys()]) evict(k);
+  piperForgetClips();
 }
 
+/** Prepares the audio of the next chunk for the engines that play clips (server and Piper voices). */
+export function prefetch(engine: TtsEngine | null, chunk: Chunk | undefined): void {
+  if (engine === 'edge') edgePrefetch(chunk);
+  else if (engine === 'piper') piperPrefetch(chunk?.text);
+}
+
+/** True for the engines that play clips through the audio element (true pause / resume, speed by playbackRate). */
+export const playsClips = (engine: TtsEngine | undefined): boolean => engine === 'edge' || engine === 'piper';
+
 function edgeSpeak(chunk: Chunk, o: SpeakOptions): Promise<void> {
+  return clipSpeak(chunk, o, () => source(chunk.text));
+}
+
+/** Plays the audio of a chunk (a server clip or a Piper clip) through the shared element. */
+function clipSpeak(chunk: Chunk, o: SpeakOptions, src: () => Promise<string>): Promise<void> {
   edgeStop();
   const my = ++edgeToken;
   const a = element();
-  return source(chunk.text).then(
+  return src().then(
     (src) =>
       new Promise<void>((resolve, reject) => {
         if (my !== edgeToken) return reject(new Stopped());
@@ -431,6 +506,7 @@ async function browserSpeak(chunk: Chunk, o: SpeakOptions): Promise<void> {
   const my = browserToken;
   const vs = await browserVoices();
   if (my !== browserToken) throw new Stopped();
+  if (vs.length && !vs.some((v) => isVi(v.lang))) warnNoVi();
   const voice =
     vs.find((v) => v.voiceURI === S.browserVoice) || vs.find((v) => isVi(v.lang) && /natural|online/i.test(v.name)) || vs.find((v) => isVi(v.lang)) || null;
   // Chrome on desktop cuts online voices off after ~15 s: nudge it (on Android pause() means cancel, so not there)
@@ -545,10 +621,10 @@ async function nativeSpeak(chunk: Chunk, o: SpeakOptions): Promise<void> {
 
 /** Speaks a chunk with an engine. Resolves when the chunk was spoken; rejects with Stopped / Interrupted / an error. */
 export function speak(engine: TtsEngine, chunk: Chunk, o: SpeakOptions): Promise<void> {
-  if (engine === 'edge') {
+  if (engine === 'edge' || engine === 'piper') {
     browserStop();
     nativeStop();
-    return edgeSpeak(chunk, o);
+    return engine === 'edge' ? edgeSpeak(chunk, o) : clipSpeak(chunk, o, () => piperSource(chunk.text));
   }
   edgeStop();
   if (engine === 'native') {
@@ -572,7 +648,7 @@ export function stopAll(): void {
  * no reliable pause).
  */
 export function pauseHeld(engine: TtsEngine | undefined): boolean {
-  if (engine === 'edge' && edgePause()) return true;
+  if (playsClips(engine) && edgePause()) return true;
   stopAll();
   return false;
 }

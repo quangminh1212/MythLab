@@ -7,6 +7,10 @@
     "node": ">=22"
   },
   "scripts": {
+    "tts": "node scripts/copy-tts.mjs",
+    "tts:models": "node scripts/fetch-models.mjs",
+    "predev": "npm run tts",
+    "prebuild": "npm run tts",
     "dev": "astro dev --port 4321",
     "build": "astro build",
     "preview": "astro preview --port 4322",
@@ -15,9 +19,11 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.12",
+    "@diffusionstudio/piper-wasm": "1.0.0",
     "astro": "^7.4.12",
     "fake-indexeddb": "^6.2.8",
     "happy-dom": "^21.0.4",
+    "onnxruntime-web": "1.22.0",
     "typescript": "^6.0.3",
     "vitest": "^5.1.0"
   }

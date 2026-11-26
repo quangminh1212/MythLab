@@ -21,8 +21,9 @@ import { progress } from '../core/progress';
 import { currentRoute, href, navigate } from '../core/router';
 import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
-import { speakDeviceWithEdgeFallback } from './fallback';
-import { edgeAvailable, edgeForget, edgeHolding, edgePrefetch, edgeRate, effectiveEngine, Interrupted, localEngine, pauseHeld, refreshEdge, resumeHeld, speak, stopAll, Stopped } from './engines';
+import { isPlaybackSignal, speakDeviceWithEdgeFallback } from './fallback';
+import { edgeAvailable, edgeForget, edgeHolding, edgeRate, effectiveEngine, Interrupted, localEngine, pauseHeld, playsClips, prefetch, refreshEdge, resumeHeld, speak, stopAll, Stopped } from './engines';
+import { refreshPiper } from './piper';
 import { keepAwake } from './keepawake';
 import { initMediaSession, primeMediaSession } from './mediasession';
 import { initPip } from './pip';
@@ -236,7 +237,7 @@ async function run(ci: number, si = 0): Promise<void> {
     setState({ status: 'playing', para: c.p, engine });
     publishMark(s);
     saveListen(s);
-    if (engine === 'edge') edgePrefetch(s.chunks[s.ci + 1]);
+    prefetch(engine, s.chunks[s.ci + 1]);
     try {
       await speakWithFallback(engine, s, c, si, my);
     } catch (e) {
@@ -271,6 +272,20 @@ async function run(ci: number, si = 0): Promise<void> {
  * setting changes. The saved engine choice is never touched.
  */
 async function speakWithFallback(engine: TtsEngine, s: Session, c: Chunk, from: number, my: number): Promise<void> {
+  if (engine === 'piper') {
+    // a failed Piper chunk (model not loadable, out of memory …) is read by the voice of the device instead
+    try {
+      await speakChunk('piper', s, c, from, my);
+    } catch (e) {
+      const local = localEngine();
+      if (my !== gen || isPlaybackSignal(e) || !local) throw e;
+      toast('Giọng Piper không đọc được đoạn này — dùng giọng của máy');
+      setState({ engine: local });
+      await speakChunk(local, s, c, s.si, my);
+    }
+    localFails = 0;
+    return;
+  }
   if (engine !== 'edge') {
     // the device has no working voice (an emulator without a TTS engine, say): the server voice reads this chunk
     await speakDeviceWithEdgeFallback({
@@ -394,7 +409,7 @@ async function load(story: StoryDetail, idxIn: number, para: number, follow = fa
     if (r.view === 'read' && r.source === story.source && r.key === story.key && r.idx !== idx) navigate(href.read(story.source, story.key, idx), { replace: true });
   }
   try {
-    const [ch] = await Promise.all([data.chapter(story.source, story.key, ref.file), refreshEdge()]);
+    const [ch] = await Promise.all([data.chapter(story.source, story.key, ref.file), refreshEdge(), refreshPiper()]);
     if (my !== gen) return;
     s.ch = ch;
   } catch (e) {
@@ -688,7 +703,7 @@ settings.onChange((key) => {
   if (key === 'rate') {
     edgeRate(S.rate);
     // device voices take the speed when an utterance starts
-    if (state.engine !== 'edge' && state.status === 'playing') respeak(false);
+    if (!playsClips(state.engine) && state.status === 'playing') respeak(false);
     changes.emit();
     return;
   }
@@ -706,7 +721,7 @@ settings.onChange((key) => {
     edgeDown = false;
     edgeFails = 0;
   }
-  if (key === 'engine' || key === 'voice' || key === 'browserVoice' || key === 'nativeVoice' || key === null) {
+  if (key === 'engine' || key === 'voice' || key === 'browserVoice' || key === 'nativeVoice' || key === 'piperVoice' || key === null) {
     edgeForget();
     respeak(true);
   } else if (key === 'ttsClean' || key === 'readTitle') respeak(true);

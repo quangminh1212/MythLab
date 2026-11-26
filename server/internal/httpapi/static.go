@@ -25,7 +25,7 @@ var staticTypes = map[string]string{
 	".webp": "image/webp", ".gif": "image/gif", ".avif": "image/avif",
 	".webmanifest": "application/manifest+json", ".txt": "text/plain; charset=utf-8", ".xml": "application/xml",
 	".woff2": "font/woff2", ".woff": "font/woff", ".ttf": "font/ttf", ".otf": "font/otf",
-	".mp3": "audio/mpeg", ".wasm": "application/wasm",
+	".mp3": "audio/mpeg", ".wasm": "application/wasm", ".onnx": "application/octet-stream",
 }
 
 var staticText = map[string]bool{".html": true, ".htm": true, ".js": true, ".mjs": true, ".css": true, ".json": true,
@@ -143,6 +143,9 @@ func (s *Server) serveStatic(w http.ResponseWriter, r *http.Request) {
 	h := w.Header()
 	if strings.HasPrefix(name, "_astro/") {
 		h.Set("Cache-Control", "public, max-age=31536000, immutable") // content-hashed names
+	} else if strings.HasPrefix(name, "tts/models/") {
+		// Piper voice models (the app's mirror source): fixed names, SHA-256 checked by the app, big, so cache long
+		h.Set("Cache-Control", "public, max-age=31536000")
 	} else {
 		h.Set("Cache-Control", "no-cache")
 	}

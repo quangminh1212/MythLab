@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { isPiperVoice, selectVoice, voiceDisplayName, voiceItems } from './voices';
+import { effectiveEngine, engineChoices, isPiperVoice, piperItems, selectVoice, voiceDisplayName, voiceItems, voiceKey, type EngineEnv } from './voices';
 
 describe('Piper voices in the server voice list', () => {
   const raw = [
@@ -25,5 +25,28 @@ describe('Piper voices in the server voice list', () => {
     expect(p?.vi).toBe(true);
     expect(p?.label).toContain('(offline)');
     expect(selectVoice('edge', items, 'vi-VN-Vais1000Piper')).toEqual({ value: 'vi-VN-Vais1000Piper', store: null });
+  });
+});
+
+describe('on-device Piper in the picker', () => {
+  const env: EngineEnv = { kind: 'github', edge: false, browser: true, native: false, piper: true };
+
+  it('is listed and available when the host can run it', () => {
+    expect(engineChoices(env).find((c) => c.id === 'piper')?.available).toBe(true);
+    expect(engineChoices({ ...env, piper: false }).find((c) => c.id === 'piper')).toMatchObject({ available: false });
+  });
+
+  it('is kept as the saved choice, and falls back to the device voice when unsupported', () => {
+    expect(effectiveEngine('piper', env)).toBe('piper');
+    expect(effectiveEngine('piper', { ...env, piper: false })).toBe('browser');
+  });
+
+  it('stores its voice in piperVoice and lists the three voices with sizes', () => {
+    expect(voiceKey('piper')).toBe('piperVoice');
+    const items = piperItems();
+    expect(items).toHaveLength(3);
+    expect(items[0]?.label).toMatch(/63 MB/);
+    expect(selectVoice('piper', items, 'nope')).toEqual({ value: items[0]?.id, store: items[0]?.id });
+    expect(selectVoice('piper', items, items[2]?.id as string).store).toBeNull();
   });
 });

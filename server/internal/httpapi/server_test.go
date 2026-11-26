@@ -89,13 +89,15 @@ func newFixture(t *testing.T, mut func(*Options)) *fixture {
 		Covers: covers.New(covers.Options{Dir: filepath.Join(cache, "covers")}),
 		TTS:    tts.NewService(tts.ServiceOptions{Engine: eng, Dir: filepath.Join(cache, "tts")}),
 		Static: fstest.MapFS{
-			"index.html":           {Data: []byte("<!doctype html><title>MythLab</title>")},
-			"app.js":               {Data: []byte(strings.Repeat("console.log('mythlab');\n", 100))},
-			"sw.js":                {Data: []byte("// sw")},
-			"icons/icon.png":       {Data: []byte("\x89PNG\r\n\x1a\n0123456789")},
-			"_astro/app.abc123.js": {Data: []byte("export{}")},
-			"docs/index.html":      {Data: []byte("docs")},
-			".env":                 {Data: []byte("SECRET=1")},
+			"index.html":                   {Data: []byte("<!doctype html><title>MythLab</title>")},
+			"app.js":                       {Data: []byte(strings.Repeat("console.log('mythlab');\n", 100))},
+			"sw.js":                        {Data: []byte("// sw")},
+			"icons/icon.png":               {Data: []byte("\x89PNG\r\n\x1a\n0123456789")},
+			"_astro/app.abc123.js":         {Data: []byte("export{}")},
+			"docs/index.html":              {Data: []byte("docs")},
+			"tts/models/vi_VN-x.onnx":      {Data: []byte("0123456789abcdefghij")},
+			"tts/models/vi_VN-x.onnx.json": {Data: []byte("{}")},
+			".env":                         {Data: []byte("SECRET=1")},
 		},
 		AccessKey: func() string { return testKey },
 		Hosts:     []string{"reader.example"},
@@ -335,13 +337,13 @@ func TestStatic(t *testing.T) {
 	}
 	csp := w.Header().Get("Content-Security-Policy")
 	for _, want := range []string{"default-src 'self'", "script-src 'self'", "frame-ancestors 'none'", "object-src 'none'", "https://api.github.com",
-		"script-src 'self' https://accounts.google.com/gsi/client", "style-src 'self' https://accounts.google.com/gsi/style",
+		"script-src 'self' 'wasm-unsafe-eval' https://accounts.google.com/gsi/client", "style-src 'self' https://accounts.google.com/gsi/style",
 		"frame-src https://accounts.google.com/gsi/", "connect-src 'self' https://api.github.com https://accounts.google.com/gsi/"} {
 		if !strings.Contains(csp, want) {
 			t.Fatalf("CSP lacks %q: %s", want, csp)
 		}
 	}
-	if strings.Contains(csp, "unsafe-") || w.Header().Get("X-Frame-Options") != "DENY" || w.Header().Get("Referrer-Policy") != "no-referrer" {
+	if strings.Contains(csp, "'unsafe-eval'") || strings.Contains(csp, "'unsafe-inline'") || w.Header().Get("X-Frame-Options") != "DENY" || w.Header().Get("Referrer-Policy") != "no-referrer" {
 		t.Fatalf("headers: %v", w.Header())
 	}
 	if f.do("/missing").Header().Get("Content-Security-Policy") == "" {
@@ -427,4 +429,24 @@ func TestStatic(t *testing.T) {
 	fn := newFixture(t, func(o *Options) { o.Static = nil })
 	wantStatus(t, fn.do("/"), 404)
 	wantStatus(t, fn.do("/api/ping"), 200)
+}
+
+// The Piper voice models are the app's mirror download source: raw bytes, long cache, resumable ranges.
+func TestPiperModelMirror(t *testing.T) {
+	f := newFixture(t, nil)
+	w := f.do("/tts/models/vi_VN-x.onnx")
+	if w.Code != 200 || w.Body.String() != "0123456789abcdefghij" || w.Header().Get("Content-Type") != "application/octet-stream" ||
+		w.Header().Get("Cache-Control") != "public, max-age=31536000" || w.Header().Get("Content-Encoding") != "" || w.Header().Get("Accept-Ranges") != "bytes" {
+		t.Fatalf("model: %d %v", w.Code, w.Header())
+	}
+	w = f.do("/tts/models/vi_VN-x.onnx", header("Range", "bytes=5-9"))
+	if w.Code != 206 || w.Body.String() != "56789" || w.Header().Get("Content-Range") != "bytes 5-9/20" {
+		t.Fatalf("range: %d %q %v", w.Code, w.Body.String(), w.Header())
+	}
+	if w := f.do("/tts/models/vi_VN-x.onnx.json"); w.Code != 200 || w.Header().Get("Content-Type") != "application/json" {
+		t.Fatalf("config: %d %v", w.Code, w.Header())
+	}
+	if w := f.do("/tts/models/none.onnx"); w.Code != 404 {
+		t.Fatalf("missing model: %d", w.Code)
+	}
 }

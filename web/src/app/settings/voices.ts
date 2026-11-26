@@ -6,7 +6,8 @@
 import { backend } from '../core/backend/index';
 import type { Voice, VoicesResponse } from '../core/backend/types';
 import { data } from '../core/data';
-import type { Settings, TtsEngine } from '../core/settings';
+import { piperSupported, type Settings, type TtsEngine } from '../core/settings';
+import { piperInstalled, piperSynth, piperVoice, piperVoiceLabel, PIPER_VOICES } from '../player/piper';
 
 export interface EngineEnv {
   /** Active data source. */
@@ -17,6 +18,8 @@ export interface EngineEnv {
   browser: boolean;
   /** Capacitor text-to-speech plugin exists. */
   native: boolean;
+  /** Piper can run here (WebAssembly + Worker + Cache API). Missing = no. */
+  piper?: boolean;
 }
 
 export interface EngineChoice {
@@ -39,6 +42,12 @@ export function engineChoices(env: EngineEnv): EngineChoice[] {
   });
   if (env.browser || !env.native) out.push({ id: 'browser', label: 'Trình duyệt', available: env.browser, reason: env.browser ? undefined : 'Trình duyệt này không hỗ trợ đọc thành tiếng.' });
   if (env.native) out.push({ id: 'native', label: 'Máy (Android)', available: true });
+  out.push({
+    id: 'piper',
+    label: 'Piper (offline)',
+    available: !!env.piper,
+    reason: env.piper ? undefined : 'Thiết bị này không chạy được giọng Piper (cần WebAssembly).',
+  });
   return out;
 }
 
@@ -53,7 +62,8 @@ export function effectiveEngine(saved: TtsEngine, env: EngineEnv): TtsEngine | n
 }
 
 /** The setting that stores the voice of an engine. */
-export const voiceKey = (engine: TtsEngine): 'voice' | 'browserVoice' | 'nativeVoice' => (engine === 'edge' ? 'voice' : engine === 'browser' ? 'browserVoice' : 'nativeVoice');
+export const voiceKey = (engine: TtsEngine): 'voice' | 'browserVoice' | 'nativeVoice' | 'piperVoice' =>
+  engine === 'edge' ? 'voice' : engine === 'browser' ? 'browserVoice' : engine === 'piper' ? 'piperVoice' : 'nativeVoice';
 
 export interface VoiceItem {
   id: string;
@@ -102,7 +112,7 @@ export interface VoiceSelection {
  */
 export function selectVoice(engine: TtsEngine, items: VoiceItem[], saved: string): VoiceSelection {
   if (items.some((v) => v.id === saved)) return { value: saved, store: null };
-  if (engine !== 'edge') return { value: '', store: null };
+  if (engine !== 'edge' && engine !== 'piper') return { value: '', store: null };
   const first = items.find((v) => v.vi) || items[0];
   return first ? { value: first.id, store: first.id } : { value: '', store: null };
 }
@@ -133,7 +143,7 @@ export async function readEnv(): Promise<EngineEnv> {
       edge = false;
     }
   }
-  return { kind, edge, browser: !!synth(), native: !!nativeTts() };
+  return { kind, edge, browser: !!synth(), native: !!nativeTts(), piper: piperSupported() };
 }
 
 function browserVoices(): Promise<SpeechSynthesisVoice[]> {
@@ -154,6 +164,9 @@ function browserVoices(): Promise<SpeechSynthesisVoice[]> {
   });
 }
 
+/** The three Piper voices with their download size and whether they are already on this device. */
+export const piperItems = (): VoiceItem[] => PIPER_VOICES.map((v) => ({ id: v.id, label: piperVoiceLabel(v, piperInstalled(v.id)), vi: true }));
+
 /** The voices of an engine, ready for the picker. Never throws. */
 export async function listVoices(engine: TtsEngine): Promise<VoiceItem[]> {
   try {
@@ -165,6 +178,7 @@ export async function listVoices(engine: TtsEngine): Promise<VoiceItem[]> {
         (r.voices || []).map((v: Voice) => ({ id: v.id, name: v.name, lang: v.id.slice(0, 5) })),
       );
     }
+    if (engine === 'piper') return piperItems();
     if (engine === 'native') {
       const r = await nativeTts()
         ?.getSupportedVoices()
@@ -202,8 +216,18 @@ export function stopPreview(): void {
 export const PREVIEW_TEXT = 'Xin chào, đây là giọng đọc truyện của MythLab.';
 
 /** Speaks a short sample with the chosen engine and voice. Rejects when the engine cannot speak. */
-export async function preview(engine: TtsEngine, s: Pick<Settings, 'voice' | 'browserVoice' | 'rate' | 'pitch'>): Promise<void> {
+export async function preview(engine: TtsEngine, s: Pick<Settings, 'voice' | 'browserVoice' | 'piperVoice' | 'rate' | 'pitch'>): Promise<void> {
   stopPreview();
+  if (engine === 'piper') {
+    if (!piperInstalled(piperVoice(s.piperVoice).id)) throw new Error('Chưa tải giọng Piper');
+    const url = URL.createObjectURL(await piperSynth(PREVIEW_TEXT, s.piperVoice));
+    previewUrl = url;
+    const a = new Audio(url);
+    a.playbackRate = s.rate;
+    previewAudio = a;
+    await a.play();
+    return;
+  }
   if (engine === 'edge') {
     const src = await backend.ttsSrc({ text: PREVIEW_TEXT, voice: s.voice });
     previewUrl = src;

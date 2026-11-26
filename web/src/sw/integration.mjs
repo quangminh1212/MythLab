@@ -9,8 +9,8 @@ import { build } from 'vite';
 /** Font files of the default UI and reading fonts (latin + vietnamese, ~120 kB): precached so they work offline at once. */
 export const CRITICAL_FONTS = ['inter-latin-wght-normal', 'inter-vietnamese-wght-normal', 'literata-latin-wght-normal', 'literata-vietnamese-wght-normal'].map((f) => `fonts/files/${f}.woff2`);
 
-/** Files never precached: the worker itself, source maps, the other font files (cached when first used). */
-const skip = (rel) => rel === 'sw.js' || rel.endsWith('.map') || (rel.startsWith('fonts/files/') && !CRITICAL_FONTS.includes(rel)) || rel.endsWith('.txt') || rel.endsWith('.md');
+/** Files never precached: the worker itself, the self-hosted Piper runtime (tts/, fetched on demand), source maps, the other font files (cached when first used). */
+const skip = (rel) => rel === 'sw.js' || rel.endsWith('.map') || (rel.startsWith('fonts/files/') && !CRITICAL_FONTS.includes(rel)) || rel.endsWith('.txt') || rel.endsWith('.md') || rel.startsWith('tts/');
 
 async function walk(dir, base = '') {
   const out = [];

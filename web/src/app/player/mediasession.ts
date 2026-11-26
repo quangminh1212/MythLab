@@ -64,7 +64,8 @@ function silentOff(): void {
 /** Call synchronously from the user's gesture (play button / "listen"), before any await. */
 export function primeMediaSession(): void {
   try {
-    if (effectiveEngine() === 'edge') return;
+    const e = effectiveEngine();
+    if (e === 'edge' || e === 'piper') return;
   } catch {
     return;
   }
