@@ -9,7 +9,7 @@ import { store } from './store';
 
 import { ACCENT_IDS, isDarkScheme, THEME_IDS, type Scheme, type Theme } from './themes';
 export type { Scheme, Theme };
-export type TtsEngine = 'edge' | 'browser' | 'native' | 'piper';
+export type TtsEngine = 'browser' | 'native' | 'piper';
 
 /** True when the on-device Piper engine can run here (WebAssembly + Web Worker + Cache API). */
 export const piperSupported = (): boolean => typeof WebAssembly === 'object' && typeof Worker === 'function' && typeof caches === 'object';
@@ -35,7 +35,6 @@ export interface Settings {
   tapZones: boolean;
   brightness: number;
   engine: TtsEngine;
-  voice: string;
   nativeVoice: string;
   /** Piper voice id (player/piper.ts catalog). */
   piperVoice: string;
@@ -82,9 +81,8 @@ export function defaults(): Settings {
     readMode: 'scroll',
     tapZones: true,
     brightness: 1,
-    // the voice of the device speaks by itself; the server voices and Piper are an explicit choice
+    // the voice of the device speaks by itself; Piper (on the device) is an explicit choice
     engine: isNative() ? 'native' : 'browser',
-    voice: 'vi-VN-HoaiMyNeural',
     nativeVoice: '',
     piperVoice: 'vi_VN-vais1000-medium',
     browserVoice: '',
@@ -122,7 +120,7 @@ const ENUM = {
   accent: ACCENT_IDS as readonly string[],
   align: ['left', 'justify'],
   readMode: ['scroll', 'page'],
-  engine: ['edge', 'browser', 'native', 'piper'],
+  engine: ['browser', 'native', 'piper'],
 } as const satisfies Partial<Record<SettingKey, readonly string[]>>;
 
 export interface Preset {
@@ -192,7 +190,11 @@ export function load(): boolean {
   }
   if (next.font === 'serif') next.font = 'literata';
   if (next.font === 'sans') next.font = 'inter';
-  if (next.engine === 'native' && !isNative()) next.engine = 'edge';
+  // the server (Edge) voices are gone: that choice, and the Android voice on a host without the app, become the device voice
+  if (next.engine === 'edge' || (next.engine === 'native' && !isNative())) next.engine = isNative() ? 'native' : 'browser';
+  // the stored server voice id and device voice ids that are server voices (Edge "...Neural", server Piper "...Piper") are dropped
+  delete next.voice;
+  for (const k of ['browserVoice', 'nativeVoice'] as const) if (typeof next[k] === 'string' && /(Neural|Piper)$/.test(next[k] as string)) next[k] = '';
   // a stored Piper choice on a host that cannot run it (no WebAssembly / Worker) goes back to the device voice
   if (next.engine === 'piper' && !piperSupported()) next.engine = isNative() ? 'native' : 'browser';
   // ui3: justified text makes rivers on phones, so a phone that never chose an alignment starts left-aligned

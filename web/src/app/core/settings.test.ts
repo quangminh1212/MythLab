@@ -34,9 +34,23 @@ describe('settings model', () => {
     expect(S.theme).toBe('light');
     expect(S.font).toBe('literata');
     expect(S.size).toBe(24);
-    expect(S.engine).toBe('edge');
+    expect(S.engine).toBe('browser');
     expect(stored().future).toEqual({ a: 1 });
     expect(load()).toBe(false);
+  });
+
+  it('maps a saved server (Edge) engine to the device voice and drops server voice ids', () => {
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'edge', voice: 'vi-VN-HoaiMyNeural', browserVoice: 'vi-VN-NamMinhNeural', nativeVoice: 'vi-VN-Vais1000Piper' }));
+    expect(load()).toBe(true);
+    expect(S.engine).toBe('browser');
+    expect(S.browserVoice).toBe('');
+    expect(S.nativeVoice).toBe('');
+    expect('voice' in stored()).toBe(false);
+    expect(load()).toBe(false);
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'edge', browserVoice: 'Google Tiếng Việt' }));
+    load();
+    expect(S.browserVoice).toBe('Google Tiếng Việt');
+    expect(normalise('engine', 'edge')).toBe(DEF.engine);
   });
 
   it('new users start with the voice of the device; Piper is only a choice', () => {

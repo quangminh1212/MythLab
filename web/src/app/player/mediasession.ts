@@ -65,7 +65,7 @@ function silentOff(): void {
 export function primeMediaSession(): void {
   try {
     const e = effectiveEngine();
-    if (e === 'edge' || e === 'piper') return;
+    if (e === 'piper') return;
   } catch {
     return;
   }

@@ -21,14 +21,14 @@ import { progress } from '../core/progress';
 import { currentRoute, href, navigate } from '../core/router';
 import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
-import { isPlaybackSignal, speakDeviceWithEdgeFallback } from './fallback';
-import { edgeAvailable, edgeForget, edgeHolding, edgeRate, effectiveEngine, Interrupted, localEngine, pauseHeld, playsClips, prefetch, refreshEdge, resumeHeld, speak, stopAll, Stopped } from './engines';
+import { isPlaybackSignal } from './fallback';
+import { clipHolding, clipRate, effectiveEngine, forgetClips, Interrupted, localEngine, pauseHeld, playsClips, prefetch, resumeHeld, speak, stopAll, Stopped } from './engines';
 import { refreshPiper } from './piper';
 import { keepAwake } from './keepawake';
 import { initMediaSession, primeMediaSession } from './mediasession';
 import { initPip } from './pip';
 import { setMark } from './mark';
-import { buildChunks, CHAPTER_CUE, clean, EDGE_MAX, LOCAL_MAX, startChunk, type Chunk } from './text';
+import { buildChunks, CHAPTER_CUE, clean, LOCAL_MAX, startChunk, type Chunk } from './text';
 
 export { engines, effectiveEngine, voices, installVoices, ENGINE_LABEL } from './engines';
 export type { VoiceOption } from './engines';
@@ -60,7 +60,7 @@ export interface PlayerInfo {
   sleep: SleepMode;
   /** Epoch ms when a timed sleep fires (0 otherwise). */
   sleepAt: number;
-  /** True while the device voice stands in for the server voice. */
+  /** True while the device voice stands in for the chosen Piper voice (not downloaded yet, or it failed). */
   fallback: boolean;
 }
 
@@ -70,7 +70,7 @@ interface Session {
   ref: ChapterRef;
   ch: Chapter | null;
   chunks: Chunk[];
-  /** Engine limit the chunks were built for. */
+  /** Character limit the chunks were built for. */
   max: number;
   /** Chunk and sentence being spoken (ci === chunks.length = the chapter is finished). */
   ci: number;
@@ -91,9 +91,7 @@ let held = false;
 let retryTimer: ReturnType<typeof setTimeout> | undefined;
 let pitchTimer: ReturnType<typeof setTimeout> | undefined;
 
-/** Server voice health: consecutive failed chunks, and "use the device voice for now". */
-let edgeFails = 0;
-let edgeDown = false;
+/** Consecutive failed chunks. */
 let localFails = 0;
 
 let sleep: SleepMode = 0;
@@ -115,15 +113,11 @@ function setState(patch: Partial<PlayerState>): void {
 }
 
 function currentEngine(): TtsEngine | null {
-  return effectiveEngine(edgeDown);
-}
-
-function chunkMax(): number {
-  return currentEngine() === 'edge' ? EDGE_MAX : LOCAL_MAX;
+  return effectiveEngine();
 }
 
 function rebuild(s: Session, para: number): void {
-  s.max = chunkMax();
+  s.max = LOCAL_MAX;
   s.chunks = s.ch ? buildChunks({ title: chapterLabel(s.ref) || s.ch.title, paragraphs: s.ch.paragraphs }, { max: s.max, readTitle: S.readTitle, clean: S.ttsClean }) : [];
   s.ci = startChunk(s.chunks, para);
   s.si = 0;
@@ -165,16 +159,6 @@ function clearTimers(): void {
   retryTimer = undefined;
   if (pitchTimer !== undefined) clearTimeout(pitchTimer);
   pitchTimer = undefined;
-}
-
-/** Cancellable wait tied to a generation. */
-function wait(ms: number, my: number): Promise<boolean> {
-  return new Promise((res) => {
-    retryTimer = setTimeout(() => {
-      retryTimer = undefined;
-      res(my === gen);
-    }, ms);
-  });
 }
 
 // ---------------------------------------------------------------- speaking
@@ -267,13 +251,11 @@ async function run(ci: number, si = 0): Promise<void> {
 }
 
 /**
- * One chunk with the server-voice safety net: a failed clip is tried once more after 1.5 s, then the device
- * voice reads that chunk; after three failed chunks in a row the device voice takes over until the engine
- * setting changes. The saved engine choice is never touched.
+ * One chunk. A failed Piper chunk (model not loadable, out of memory ...) is read by the voice of the device
+ * instead. The saved engine choice is never touched.
  */
 async function speakWithFallback(engine: TtsEngine, s: Session, c: Chunk, from: number, my: number): Promise<void> {
   if (engine === 'piper') {
-    // a failed Piper chunk (model not loadable, out of memory …) is read by the voice of the device instead
     try {
       await speakChunk('piper', s, c, from, my);
     } catch (e) {
@@ -283,51 +265,10 @@ async function speakWithFallback(engine: TtsEngine, s: Session, c: Chunk, from: 
       setState({ engine: local });
       await speakChunk(local, s, c, s.si, my);
     }
-    localFails = 0;
-    return;
+  } else {
+    await speakChunk(engine, s, c, from, my);
   }
-  if (engine !== 'edge') {
-    // the device has no working voice (an emulator without a TTS engine, say): the server voice reads this chunk
-    await speakDeviceWithEdgeFallback({
-      device: () => speakChunk(engine, s, c, from, my),
-      edge: () => speakChunk('edge', s, c, s.si, my),
-      stale: () => my !== gen,
-      edgeUsable: () => edgeAvailable() && !edgeDown,
-      onFallback: () => {
-        toast('Giọng của máy không đọc được — dùng giọng Edge của máy chủ');
-        setState({ engine: 'edge' });
-      },
-    });
-    localFails = 0;
-    return;
-  }
-  for (let attempt = 0; ; attempt++) {
-    try {
-      await speakChunk('edge', s, c, attempt ? s.si : from, my);
-      edgeFails = 0;
-      localFails = 0;
-      return;
-    } catch (e) {
-      if (my !== gen || e instanceof Stopped || e instanceof Interrupted || (e as { name?: string } | null)?.name === 'NotAllowedError') throw e;
-      if (attempt === 0) {
-        setState({ status: 'loading' });
-        if (!(await wait(1500, my))) throw new Stopped();
-        setState({ status: 'playing' });
-        continue;
-      }
-      const local = localEngine();
-      if (!local) throw e;
-      edgeFails++;
-      if (edgeFails >= 3 && !edgeDown) {
-        edgeDown = true;
-        toast('Dịch vụ giọng Edge đang lỗi — tạm đọc bằng giọng của máy');
-      } else if (!edgeDown) toast('Đoạn này đọc bằng giọng của máy (Edge TTS lỗi)');
-      setState({ engine: local });
-      await speakChunk(local, s, c, s.si, my);
-      localFails = 0;
-      return;
-    }
-  }
+  localFails = 0;
 }
 
 async function chapterEnd(s: Session, my: number, force: boolean): Promise<void> {
@@ -398,7 +339,7 @@ async function load(story: StoryDetail, idxIn: number, para: number, follow = fa
     return;
   }
   const from = ses && ses.story.source === story.source && ses.story.key === story.key ? ses.idx : -1;
-  const s: Session = { story, idx, ref, ch: null, chunks: [], max: chunkMax(), ci: 0, si: 0, wantPara: para };
+  const s: Session = { story, idx, ref, ch: null, chunks: [], max: LOCAL_MAX, ci: 0, si: 0, wantPara: para };
   ses = s;
   const engine = currentEngine();
   setState({ status: 'loading', source: story.source, key: story.key, idx, para, storyName: story.name, chapterTitle: chapterLabel(ref), ...(engine ? { engine } : {}) });
@@ -409,7 +350,7 @@ async function load(story: StoryDetail, idxIn: number, para: number, follow = fa
     if (r.view === 'read' && r.source === story.source && r.key === story.key && r.idx !== idx) navigate(href.read(story.source, story.key, idx), { replace: true });
   }
   try {
-    const [ch] = await Promise.all([data.chapter(story.source, story.key, ref.file), refreshEdge(), refreshPiper()]);
+    const [ch] = await Promise.all([data.chapter(story.source, story.key, ref.file), refreshPiper()]);
     if (my !== gen) return;
     s.ch = ch;
   } catch (e) {
@@ -472,7 +413,6 @@ async function start(req: PlayRequest & { exact?: boolean }): Promise<void> {
     }
     if (para <= 0) para = -1;
   }
-  edgeFails = 0;
   localFails = 0;
   openReader(story, idx);
   await load(story, idx, para);
@@ -493,7 +433,7 @@ function pause(): void {
   clearTimers();
   held = pauseHeld(state.engine);
   // a cancelled device voice or a pending retry must not continue on its own
-  if (!held || !edgeHolding()) {
+  if (!held || !clipHolding()) {
     held = false;
     gen++;
   }
@@ -536,12 +476,11 @@ function stop(): void {
   gen++;
   clearTimers();
   stopAll();
-  edgeForget();
+  forgetClips();
   held = false;
   ses = null;
   clearSleep();
   setMark(null);
-  edgeFails = 0;
   localFails = 0;
   state = { status: 'idle' };
   setState({});
@@ -680,7 +619,7 @@ function respeak(rebuildChunks: boolean): void {
   const s = ses;
   if (!s || !s.ch) return;
   const para = paraNow(s);
-  const keep = !rebuildChunks && s.max === chunkMax();
+  const keep = !rebuildChunks;
   const si = keep ? s.si : 0;
   if (!keep) {
     const done = s.ci >= s.chunks.length;
@@ -701,28 +640,24 @@ function respeak(rebuildChunks: boolean): void {
 settings.onChange((key) => {
   if (state.status === 'idle') return;
   if (key === 'rate') {
-    edgeRate(S.rate);
+    clipRate(S.rate);
     // device voices take the speed when an utterance starts
     if (!playsClips(state.engine) && state.status === 'playing') respeak(false);
     changes.emit();
     return;
   }
   if (key === 'pitch') {
-    // whichever engine is speaking right now (also the device voice standing in for the server voice)
+    // device voices take the pitch when an utterance starts (Piper clips ignore it)
+    if (playsClips(state.engine)) return;
     if (pitchTimer !== undefined) clearTimeout(pitchTimer);
     pitchTimer = setTimeout(() => {
       pitchTimer = undefined;
-      edgeForget();
       respeak(false);
     }, 350);
     return;
   }
-  if (key === 'engine' || key === null) {
-    edgeDown = false;
-    edgeFails = 0;
-  }
-  if (key === 'engine' || key === 'voice' || key === 'browserVoice' || key === 'nativeVoice' || key === 'piperVoice' || key === null) {
-    edgeForget();
+  if (key === 'engine' || key === 'browserVoice' || key === 'nativeVoice' || key === 'piperVoice' || key === null) {
+    forgetClips();
     respeak(true);
   } else if (key === 'ttsClean' || key === 'readTitle') respeak(true);
 });
@@ -737,7 +672,7 @@ function info(): PlayerInfo {
     total: s ? s.story.chapters.length : 0,
     sleep,
     sleepAt,
-    fallback: !!s && S.engine === 'edge' && state.engine !== undefined && state.engine !== 'edge',
+    fallback: !!s && S.engine === 'piper' && state.engine !== undefined && state.engine !== 'piper',
   };
 }
 

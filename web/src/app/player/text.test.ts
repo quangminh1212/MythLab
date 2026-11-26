@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { buildChunks, clean, edgePitch, EDGE_MAX, LOCAL_MAX, offsetAtTime, pieces, segments, sentAt, sleepLabel, splitSentences, startChunk, titleText } from './text';
+import { buildChunks, clean, LOCAL_MAX, offsetAtTime, pieces, segments, sentAt, sleepLabel, splitSentences, startChunk, titleText } from './text';
 
 const texts = (text: string, spans: { s: number; e: number }[]): string[] => spans.map((x) => text.slice(x.s, x.e));
 
@@ -52,7 +52,7 @@ describe('buildChunks', () => {
     paragraphs: ['Câu một. Câu hai! Câu ba?', '***', 'Đoạn ngắn.'],
   };
   it('reads the title first as chunk -1 and skips scene breaks', () => {
-    const c = buildChunks(ch, { max: EDGE_MAX, readTitle: true, clean: true });
+    const c = buildChunks(ch, { max: 1200, readTitle: true, clean: true });
     expect(c.map((x) => x.p)).toEqual([-1, 0, 2]);
     expect(c[0]?.text).toBe('Chương 6. Tĩnh Tâm Uyển');
     expect(c[1]?.text).toBe('Câu một. Câu hai! Câu ba?');
@@ -60,7 +60,7 @@ describe('buildChunks', () => {
     expect(c[1]?.sents.map((s) => ch.paragraphs[0]?.slice(s.s, s.e))).toEqual(['Câu một. ', 'Câu hai! ', 'Câu ba?']);
   });
   it('leaves the title out when the setting is off', () => {
-    expect(buildChunks(ch, { max: EDGE_MAX, readTitle: false, clean: true }).map((x) => x.p)).toEqual([0, 2]);
+    expect(buildChunks(ch, { max: 1200, readTitle: false, clean: true }).map((x) => x.p)).toEqual([0, 2]);
   });
   it('groups sentences up to the limit and never exceeds it', () => {
     const para = Array.from({ length: 30 }, (_, i) => `Đây là câu số ${i} của đoạn văn dài.`).join(' ');
@@ -122,13 +122,6 @@ describe('small helpers', () => {
     expect(titleText('Chương 12 - Về nhà')).toBe('Chương 12. Về nhà');
     expect(titleText('Quyển 2 - Chương 1: Mở đầu [1]')).toBe('Quyển 2 - Chương 1. Mở đầu');
     expect(titleText('Ngoại truyện')).toBe('Ngoại truyện');
-  });
-  it('edgePitch maps the slider to Hz and skips values the server ignores', () => {
-    expect(edgePitch(1)).toBeUndefined();
-    expect(edgePitch(1.05)).toBeUndefined();
-    expect(edgePitch(1.2)).toBe(10);
-    expect(edgePitch(0.5)).toBe(-25);
-    expect(edgePitch(2)).toBe(50);
   });
   it('sleepLabel', () => {
     expect(sleepLabel(0)).toBe('');

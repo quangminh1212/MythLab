@@ -152,7 +152,7 @@ export interface PlayerState {
   para?: number;
   storyName?: string;
   chapterTitle?: string;
-  engine?: 'edge' | 'browser' | 'native' | 'piper';
+  engine?: 'browser' | 'native' | 'piper';
   error?: string;
 }
 

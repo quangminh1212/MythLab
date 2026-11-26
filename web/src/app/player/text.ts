@@ -4,9 +4,7 @@
  * so the rules are unit-tested (text.test.ts).
  */
 
-/** Largest chunk (characters) sent to the server voice in one request. */
-export const EDGE_MAX = 1200;
-/** Largest chunk for the device / browser voices (they have no pause inside an utterance). */
+/** Largest chunk (characters) read in one go (device voices have no pause inside an utterance). */
 export const LOCAL_MAX = 220;
 /** Largest piece handed to the browser's speech synthesis in one utterance. */
 export const BROWSER_PIECE = 230;
@@ -147,7 +145,7 @@ export function titleText(title: string): string {
 }
 
 export interface ChunkOptions {
-  /** Character limit of one chunk (EDGE_MAX / LOCAL_MAX). */
+  /** Character limit of one chunk (LOCAL_MAX). */
   max: number;
   /** Read the chapter title first (it becomes the chunk with p = -1). */
   readTitle: boolean;
@@ -207,7 +205,7 @@ export function sentAt(chunk: Chunk, offset: number): number {
 
 /**
  * Spoken-text offset reached after `time` seconds of an audio clip of the chunk. Uses the clip length when the
- * browser knows it, otherwise a typical speed of the Vietnamese server voices (15 characters per second).
+ * browser knows it, otherwise a typical speed of a Vietnamese voice (15 characters per second).
  */
 export function offsetAtTime(chunk: Chunk, time: number, duration: number): number {
   const len = chunk.text.length;
@@ -222,15 +220,6 @@ export function pieces(text: string, max: number): { text: string; at: number }[
   return splitLong(text, { s: 0, e: text.length }, max)
     .map((sp) => ({ text: text.slice(sp.s, sp.e), at: sp.s }))
     .filter((x) => x.text.trim());
-}
-
-/**
- * The pitch setting (0.5–2, 1 = normal) as the server voice's Hz offset (−50…50). Values the server would
- * ignore anyway (|v| ≤ 4) give undefined so the request URL stays the cached default.
- */
-export function edgePitch(pitch: number): number | undefined {
-  const hz = Math.max(-50, Math.min(50, Math.round((pitch - 1) * 50)));
-  return Math.abs(hz) > 4 ? hz : undefined;
 }
 
 /** Remaining sleep time as shown on the dock: "29 phút", "45 giây". */

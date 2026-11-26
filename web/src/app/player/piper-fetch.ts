@@ -1,6 +1,6 @@
 /**
  * Verified download with fallback sources. A file is described by its exact size and SHA-256 and an ordered list of
- * URLs that all serve the same bytes (pinned Hugging Face, our own mirror, a GitHub release). Sources are tried in
+ * URLs that all serve the same bytes (pinned Hugging Face, a GitHub release). Sources are tried in
  * order; a network error, an HTTP error, a wrong size or a wrong hash moves on to the next one. Nothing is returned
  * (so nothing can be cached) unless a source delivered exactly the expected bytes.
  */

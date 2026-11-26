@@ -1,17 +1,15 @@
 /**
  * "Giọng đọc" tab: the engine picker and the voice list, driven by the pure helpers of voices.ts.
  *
- * The saved `engine` is never rewritten behind the user's back. When it cannot speak here (Edge on a GitHub-direct
- * connection, say) the tab shows the engine that will really be used, its voices, and why.
+ * The saved `engine` is never rewritten behind the user's back. When it cannot speak here (Piper without WebAssembly,
+ * say) the tab shows the engine that will really be used, its voices, and why. Only Vietnamese voices are listed.
  */
-import { backend } from '../core/backend/index';
-import { on } from '../core/events';
 import { html, render } from '../core/html';
 import { S, set, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { offerPiper } from '../player/engines';
 import { megabytes, PIPER_SIZE_NOTE, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
-import { effectiveEngine, engineChoices, listVoices, preview, readEnv, selectVoice, stopPreview, voiceKey, type EngineEnv, type VoiceItem } from './voices';
+import { effectiveEngine, engineChoices, listVoices, preview, readEnv, selectVoice, stopPreview, voiceKey, type VoiceItem } from './voices';
 
 /** Wires the tab inside `root`. Returns the function that stops everything it started. */
 export function mountVoice(root: HTMLElement): () => void {
@@ -25,15 +23,14 @@ export function mountVoice(root: HTMLElement): () => void {
   const piperRm = root.querySelector<HTMLButtonElement>('#ss-piper-rm') as HTMLButtonElement;
   const piperNote = root.querySelector<HTMLElement>('#ss-piper-note') as HTMLElement;
   let seq = 0;
-  let env: EngineEnv | null = null;
   let shown: TtsEngine | null = null;
   let items: VoiceItem[] = [];
 
   async function refresh(): Promise<void> {
     const mine = ++seq;
-    const [e] = await Promise.all([readEnv(), refreshPiper()]);
+    await refreshPiper();
     if (mine !== seq) return;
-    env = e;
+    const e = readEnv();
     const eff = effectiveEngine(S.engine, e);
     shown = eff;
     const choices = engineChoices(e);
@@ -69,15 +66,14 @@ export function mountVoice(root: HTMLElement): () => void {
     }
     const sel = selectVoice(eff, items, S[voiceKey(eff)]);
     if (sel.store) set(voiceKey(eff), sel.store);
-    const device = eff !== 'edge' && eff !== 'piper';
+    const device = eff !== 'piper';
     const none = !items.length;
-    render(select, html`${device ? html`<option value="">Tự chọn giọng tiếng Việt của máy</option>` : ''}${none && !device ? html`<option value="">Không có giọng nào</option>` : ''}${items.map((v) => html`<option value="${v.id}">${v.label}</option>`)}`);
+    render(select, html`${device ? html`<option value="">${none ? 'Chưa có giọng tiếng Việt' : 'Tự chọn giọng tiếng Việt của máy'}</option>` : ''}${items.map((v) => html`<option value="${v.id}">${v.label}</option>`)}`);
     select.value = sel.value;
-    select.disabled = none && !device;
-    test.disabled = none || (eff === 'edge' && backend.kind !== 'server');
-    if (none && !device) voiceNote.textContent = 'Không lấy được danh sách giọng từ máy chủ. Hãy kiểm tra kết nối rồi mở lại tab này.';
-    else if (device && !items.some((v) => v.vi)) voiceNote.textContent = 'Không có giọng tiếng Việt: hãy cài thêm trong hệ điều hành.';
-    else voiceNote.textContent = eff === 'edge' ? 'Giọng Edge do máy chủ MythLab tạo ra.' : eff === 'piper' ? `Giọng Piper chạy trên máy (${piperVoice(S.piperVoice).note}).` : 'Giọng của thiết bị, đọc ngay trên máy.';
+    select.disabled = device && none;
+    test.disabled = device && none;
+    if (device && none) voiceNote.textContent = 'Máy chưa có giọng tiếng Việt: hãy cài thêm trong hệ điều hành, hoặc chọn bộ đọc Piper (offline).';
+    else voiceNote.textContent = eff === 'piper' ? `Giọng Piper chạy trên máy (${piperVoice(S.piperVoice).note}).` : 'Giọng của thiết bị, đọc ngay trên máy.';
     showPiper(eff);
   }
 
@@ -110,11 +106,6 @@ export function mountVoice(root: HTMLElement): () => void {
     const t = e.target as HTMLInputElement;
     if (t.name !== 'ss-engine' || !t.checked) return;
     stopPreview();
-    if (t.value === 'edge' && env && !engineChoices(env).find((c) => c.id === 'edge')?.available) {
-      toast('Giọng Edge cần máy chủ MythLab.');
-      void refresh();
-      return;
-    }
     set('engine', t.value);
     void refresh();
   };
@@ -129,7 +120,7 @@ export function mountVoice(root: HTMLElement): () => void {
     const eng = shown;
     test.classList.add('is-busy');
     void preview(eng, S)
-      .catch(() => toast({ message: eng === 'edge' ? 'Không tạo được giọng Edge. Hãy kiểm tra kết nối tới máy chủ.' : 'Thiết bị không đọc thử được.', kind: 'error' }))
+      .catch(() => toast({ message: 'Thiết bị không đọc thử được.', kind: 'error' }))
       .finally(() => test.classList.remove('is-busy'));
   };
   engineBox.addEventListener('change', onEngine);
@@ -137,7 +128,6 @@ export function mountVoice(root: HTMLElement): () => void {
   test.addEventListener('click', onTest);
   piperDl.addEventListener('click', onPiperDl);
   piperRm.addEventListener('click', onPiperRm);
-  const offBackend = on('backend', () => void refresh());
   void refresh();
   return () => {
     seq++;
@@ -147,6 +137,5 @@ export function mountVoice(root: HTMLElement): () => void {
     test.removeEventListener('click', onTest);
     piperDl.removeEventListener('click', onPiperDl);
     piperRm.removeEventListener('click', onPiperRm);
-    offBackend();
   };
 }

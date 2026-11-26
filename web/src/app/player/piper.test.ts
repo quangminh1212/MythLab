@@ -1,6 +1,6 @@
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { describe, expect, it, vi } from 'vitest';
+import { describe, expect, it } from 'vitest';
 import { S } from '../core/settings';
 import { DEFAULT_PIPER_VOICE, megabytes, PIPER_VOICES, piperConfigUrl, piperModelUrl, piperReady, piperSources, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
 
@@ -59,22 +59,16 @@ describe('piper integrity', () => {
 describe('piper sources and Vietnamese-only catalog', () => {
   const v = PIPER_VOICES[0] as (typeof PIPER_VOICES)[number];
 
-  it('lists Hugging Face (pinned), our mirror, then the GitHub release, for the model and its config', () => {
-    const [hf, mirror, gh] = piperSources(v, '', 'https://myth.example/app/');
+  it('lists Hugging Face (pinned), then the GitHub release, for the model and its config', () => {
+    const [hf, gh, ...rest] = piperSources(v);
     expect(hf).toBe(piperModelUrl(v));
-    expect(mirror).toBe('https://myth.example/app/tts/models/vi_VN-vais1000-medium.onnx');
     expect(gh).toBe('https://github.com/quangminh1212/MythLab/releases/download/piper-models/vi_VN-vais1000-medium.onnx');
-    expect(piperSources(v, '.json', 'https://myth.example/').map((u) => u.slice(-5))).toEqual(['.json', '.json', '.json']);
+    expect(rest).toEqual([]);
+    expect(piperSources(v, '.json').map((u) => u.slice(-5))).toEqual(['.json', '.json']);
   });
 
-  it('resolves the mirror against the app origin, and the native app against myth.xlabrnd.com', () => {
-    expect(piperSources(v)[1]).toMatch(/[/]tts[/]models[/]vi_VN-vais1000-medium[.]onnx$/);
-    vi.stubGlobal('Capacitor', { isNativePlatform: () => true });
-    try {
-      expect(piperSources(v)[1]).toBe('https://myth.xlabrnd.com/tts/models/vi_VN-vais1000-medium.onnx');
-    } finally {
-      vi.unstubAllGlobals();
-    }
+  it('has no source on our own server (the model mirror is gone)', () => {
+    expect(piperSources(v).some((u) => u.includes('/tts/models/'))).toBe(false);
   });
 
   it('has only Vietnamese voices and every source is for Vietnamese', () => {

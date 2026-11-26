@@ -33,12 +33,22 @@ describe('engine choice with Piper', () => {
     expect(effectiveEngine()).toBe('native');
   });
 
-  it('lists Piper, labels it offline and plays clips like Edge', () => {
-    expect(engines()).toContain('piper');
+  it('lists only the device engines and Piper, labels Piper offline and plays clips for Piper only', () => {
+    expect(engines()).toEqual(['browser', 'piper']);
+    expect(Object.keys(ENGINE_LABEL).sort()).toEqual(['browser', 'native', 'piper']);
     expect(ENGINE_LABEL.piper).toBe('Giọng Piper (offline, trên máy)');
     expect(playsClips('piper')).toBe(true);
-    expect(playsClips('edge')).toBe(true);
     expect(playsClips('browser')).toBe(false);
+    expect(playsClips('native')).toBe(false);
+  });
+
+  it('lists only Vietnamese voices of the browser and the app', async () => {
+    const mk = (voiceURI: string, name: string, lang: string): object => ({ voiceURI, name, lang });
+    const all = [mk('en', 'Aria', 'en-US'), mk('vn2', 'Linh', 'vi_VN'), mk('fr', 'Denise', 'fr-FR'), mk('vn1', 'HoaiMy', 'vi-VN')];
+    vi.stubGlobal('speechSynthesis', { getVoices: () => all, addEventListener() {}, removeEventListener() {}, cancel() {} });
+    expect((await voices('browser')).map((v) => v.id)).toEqual(['vn1', 'vn2']);
+    vi.stubGlobal('Capacitor', { Plugins: { TextToSpeech: { getSupportedVoices: async () => ({ voices: all.map((v) => ({ ...v })) }) } } });
+    expect((await voices('native')).map((v) => v.id)).toEqual(['vn1', 'vn2']);
   });
 
   it('offers the three voices for the picker', async () => {

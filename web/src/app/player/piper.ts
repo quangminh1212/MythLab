@@ -3,12 +3,11 @@
  * never synthesises anything. Nothing here runs at startup: the runtime (public/tts/, copied from npm by
  * scripts/copy-tts.mjs) and the model are only loaded after the user chose Piper and downloaded a voice.
  *
- *   model files   downloaded once from the Piper voice repository, kept in the Cache API (never localStorage)
+ *   model files   downloaded once from the Piper voice repository (or the GitHub release), kept in the Cache API (never localStorage)
  *   worker        public/tts/piper-worker.js: espeak-ng phonemizer + onnxruntime-web, one chunk at a time
- *   result        a 16-bit WAV blob URL that the player's <audio> element plays like a server clip
+ *   result        a 16-bit WAV blob URL that the player's <audio> element plays like any audio clip
  */
-import { NATIVE_SERVER_URL } from '../core/backend/index';
-import { isNative, piperSupported, S } from '../core/settings';
+import { piperSupported, S } from '../core/settings';
 import { fetchVerified, type Artifact } from './piper-fetch';
 
 export { piperSupported };
@@ -34,13 +33,7 @@ export interface PiperVoice {
 /** Pinned to a commit of the voice repository, so the files cannot change under the size / hash below. */
 const REPO = 'https://huggingface.co/rhasspy/piper-voices/resolve/5ec43b186ef915a195d3ddbcfd9916e76c503c3f/vi/vi_VN/';
 
-/**
- * Second source: our own server, which hosts the same files (scripts/fetch-models.mjs puts them in
- * public/tts/models/ for upload). Relative to the app; the native app is pinned to myth.xlabrnd.com.
- */
-export const MIRROR_PATH = 'tts/models/';
-
-/** Third source: assets of a GitHub release of this repository (created when the models are uploaded). */
+/** Second source: assets of the "piper-models" GitHub release of this repository (same files as the pinned commit). */
 export const RELEASE_URL = 'https://github.com/quangminh1212/MythLab/releases/download/piper-models/';
 
 /** The Vietnamese voices. The first one is the default: its data (VAIS-1000) is CC BY 4.0, free for any use. */
@@ -58,23 +51,13 @@ export const piperVoice = (id: string | undefined): PiperVoice => PIPER_VOICES.f
 export const piperModelUrl = (v: PiperVoice): string => `${REPO}${v.path}${v.id}.onnx`;
 export const piperConfigUrl = (v: PiperVoice): string => `${piperModelUrl(v)}.json`;
 
-/** Where the app lives: the mirror path is resolved against it (native builds always use the pinned host). */
-const appBase = (): string => {
-  if (isNative()) return `${NATIVE_SERVER_URL}/`;
-  try {
-    return document.baseURI;
-  } catch {
-    return 'http://localhost/';
-  }
-};
-
 /** File names of a voice: "vi_VN-vais1000-medium.onnx" and its ".json". */
 const modelFile = (v: PiperVoice): string => `${v.id}.onnx`;
 
 /** Ordered download sources of a file of a voice (`suffix` is '' for the model, '.json' for the config). */
-export function piperSources(v: PiperVoice, suffix = '', base: string = appBase()): string[] {
+export function piperSources(v: PiperVoice, suffix = ''): string[] {
   const file = modelFile(v) + suffix;
-  return [`${REPO}${v.path}${file}`, new URL(MIRROR_PATH + file, base).href, RELEASE_URL + file];
+  return [`${REPO}${v.path}${file}`, RELEASE_URL + file];
 }
 
 const modelArtifact = (v: PiperVoice): Artifact => ({ name: 'giọng ' + v.name, bytes: v.bytes, sha256: v.sha256, sources: piperSources(v) });
@@ -140,7 +123,7 @@ export async function refreshPiper(): Promise<void> {
 }
 
 /**
- * Downloads a voice into the cache (once) from the first working source (Hugging Face, our mirror, GitHub
+ * Downloads a voice into the cache (once) from the first working source (Hugging Face, then the GitHub
  * release). `onProgress` gets 0..1 of the current source and restarts at 0 when the next source starts, which
  * `onSource` announces. Rejects when every source fails; a bad or half download is never kept.
  */

@@ -1,6 +1,6 @@
 // Downloads the Vietnamese Piper voices from Hugging Face (pinned commit) into a local folder, verifying size and
-// SHA-256, so they can be uploaded to our own mirror (served at /tts/models/*) and to the GitHub release
-// "piper-models" (the app's second and third download sources). NOT part of predev/prebuild.
+// SHA-256, e.g. to (re)upload them to the GitHub release "piper-models" (the app's second download source, after
+// Hugging Face). Nothing is served by our own server. NOT part of predev/prebuild.
 //
 //   node scripts/fetch-models.mjs                      all three voices -> public/tts/models
 //   node scripts/fetch-models.mjs vais1000 vivos       only ids containing these words
@@ -73,5 +73,5 @@ for (const m of picked) {
     console.error(`  FAILED ${e.message}`);
   }
 }
-console.log(failed ? `fetch-models: ${failed} voice(s) failed` : `fetch-models: done, upload ${out}/* to /tts/models/ on the server and to the GitHub release piper-models`);
+console.log(failed ? `fetch-models: ${failed} voice(s) failed` : `fetch-models: done, upload ${out}/* to the GitHub release piper-models`);
 process.exit(failed ? 1 : 0);

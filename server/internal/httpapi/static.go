@@ -143,9 +143,6 @@ func (s *Server) serveStatic(w http.ResponseWriter, r *http.Request) {
 	h := w.Header()
 	if strings.HasPrefix(name, "_astro/") {
 		h.Set("Cache-Control", "public, max-age=31536000, immutable") // content-hashed names
-	} else if strings.HasPrefix(name, "tts/models/") {
-		// Piper voice models (the app's mirror source): fixed names, SHA-256 checked by the app, big, so cache long
-		h.Set("Cache-Control", "public, max-age=31536000")
 	} else {
 		h.Set("Cache-Control", "no-cache")
 	}
