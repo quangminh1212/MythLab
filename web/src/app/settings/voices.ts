@@ -4,7 +4,7 @@
  * behind the user's back: when it cannot speak here the picker shows the device voices and says why.
  */
 import { piperSupported, type Settings, type TtsEngine } from '../core/settings';
-import { piperInstalled, piperSynth, piperVoice, piperVoiceLabel, PIPER_VOICES } from '../player/piper';
+import { DEFAULT_PIPER_VOICE, piperChoice, piperChoiceLabel, piperInstalled, piperSynth, PIPER_CHOICES } from '../player/piper';
 
 export interface EngineEnv {
   /** `speechSynthesis` exists. */
@@ -81,13 +81,13 @@ export interface VoiceSelection {
 }
 
 /**
- * What to select for the saved voice. Piper needs a real voice id: a missing one is replaced by the first voice.
+ * What to select for the saved voice. Piper needs a real voice id: a missing one is replaced by the default voice.
  * Device engines keep '' = "let the device choose a Vietnamese voice" when the saved voice is not in the list.
  */
 export function selectVoice(engine: TtsEngine, items: VoiceItem[], saved: string): VoiceSelection {
   if (items.some((v) => v.id === saved)) return { value: saved, store: null };
   if (engine !== 'piper') return { value: '', store: null };
-  const first = items[0];
+  const first = items.find((v) => v.id === DEFAULT_PIPER_VOICE) ?? items[0];
   return first ? { value: first.id, store: first.id } : { value: '', store: null };
 }
 
@@ -127,8 +127,8 @@ function browserVoices(): Promise<SpeechSynthesisVoice[]> {
   });
 }
 
-/** The three Piper voices with their download size and whether they are already on this device. */
-export const piperItems = (): VoiceItem[] => PIPER_VOICES.map((v) => ({ id: v.id, label: piperVoiceLabel(v, piperInstalled(v.id)) }));
+/** The Piper voices (gender, download size, lightest first) and whether their model is already on this device. */
+export const piperItems = (): VoiceItem[] => PIPER_CHOICES.map((c) => ({ id: c.id, label: piperChoiceLabel(c, piperInstalled(c.model.id)) }));
 
 /** The Vietnamese voices of an engine, ready for the picker. Never throws. */
 export async function listVoices(engine: TtsEngine): Promise<VoiceItem[]> {
@@ -168,7 +168,7 @@ export const PREVIEW_TEXT = 'Xin chào, đây là giọng đọc truyện của 
 export async function preview(engine: TtsEngine, s: Pick<Settings, 'browserVoice' | 'piperVoice' | 'rate' | 'pitch'>): Promise<void> {
   stopPreview();
   if (engine === 'piper') {
-    if (!piperInstalled(piperVoice(s.piperVoice).id)) throw new Error('Chưa tải giọng Piper');
+    if (!piperInstalled(piperChoice(s.piperVoice).model.id)) throw new Error('Chưa tải giọng Piper');
     const url = URL.createObjectURL(await piperSynth(PREVIEW_TEXT, s.piperVoice));
     previewUrl = url;
     const a = new Audio(url);

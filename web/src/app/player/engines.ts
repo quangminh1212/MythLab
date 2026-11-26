@@ -12,7 +12,7 @@ import { S, set } from '../core/settings';
 import { confirmDialog, toast } from '../core/ui';
 import { BROWSER_PIECE, NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
 import { isVi } from '../settings/voices';
-import { forget as piperForgetClips, installPiper, megabytes, piperPrefetch, piperReady, piperSource, piperSupported, piperVoice, PIPER_SIZE_NOTE, PIPER_VOICES, piperInstalled } from './piper';
+import { forget as piperForgetClips, installPiper, megabytes, piperPrefetch, piperReady, piperSource, piperSupported, piperChoice, PIPER_SIZE_NOTE, PIPER_CHOICES, piperInstalled, piperChoiceLabel } from './piper';
 
 /** Thrown into a pending speak() when the player itself stopped it; never shown to the user. */
 export class Stopped extends Error {
@@ -144,11 +144,12 @@ function warnNoVi(): void {
  * Resolves true when Piper is ready and selected.
  */
 export async function offerPiper(id: string = S.piperVoice): Promise<boolean> {
-  const v = piperVoice(id);
+  const c = piperChoice(id);
+  const v = c.model;
   if (!piperInstalled(v.id)) {
     const ok = await confirmDialog({
       title: 'Tải giọng Piper?',
-      message: `${PIPER_SIZE_NOTE} Giọng “${v.name}” nặng ${megabytes(v.bytes)}.`,
+      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(v.bytes)}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.`,
       confirmLabel: 'Tải về',
     });
     if (!ok) return false;
@@ -179,7 +180,7 @@ export async function offerPiper(id: string = S.piperVoice): Promise<boolean> {
     }
     toast('Đã tải xong giọng Piper');
   }
-  set('piperVoice', v.id);
+  set('piperVoice', c.id);
   set('engine', 'piper');
   return true;
 }
@@ -205,7 +206,7 @@ function browserVoices(): Promise<SpeechSynthesisVoice[]> {
 /** The Vietnamese voices of an engine. Never throws (an empty list when the engine is missing). */
 export async function voices(engine: TtsEngine): Promise<VoiceOption[]> {
   try {
-    if (engine === 'piper') return PIPER_VOICES.map((v) => ({ id: v.id, name: v.name, lang: 'vi-VN' }));
+    if (engine === 'piper') return PIPER_CHOICES.map((c) => ({ id: c.id, name: piperChoiceLabel(c, false), lang: 'vi-VN' }));
     if (engine === 'native') {
       const vs = await nativeVoices();
       if (nativeTts() && !vs.some((v) => isVi(v.lang))) warnNoVi();

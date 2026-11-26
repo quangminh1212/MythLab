@@ -1,5 +1,5 @@
 /* Piper on-device synthesis worker (classic worker, loaded only after the user picked Piper).
- * Messages in:  {t:'init', id, base, model:ArrayBuffer, config:object}  |  {t:'synth', id, text}
+ * Messages in:  {t:'init', id, base, model:ArrayBuffer, config:object}  |  {t:'synth', id, text, sid}
  * Messages out: {id, ok:true}  |  {id, pcm:Float32Array, rate}  |  {id, err}
  * Runtime files next to this script (copied by scripts/copy-tts.mjs):
  *   ort/ort.wasm.min.mjs, ort/ort-wasm-simd-threaded.{mjs,wasm}   onnxruntime-web, single thread
@@ -113,7 +113,12 @@ async function synth(m) {
     input_lengths: new ort.Tensor('int64', BigInt64Array.from([BigInt(ids.length)]), [1]),
     scales: new ort.Tensor('float32', Float32Array.from([inf.noise_scale == null ? 0.667 : inf.noise_scale, inf.length_scale == null ? 1 : inf.length_scale, inf.noise_w == null ? 0.8 : inf.noise_w]), [3]),
   };
-  if (session.inputNames.indexOf('sid') >= 0) feeds.sid = new ort.Tensor('int64', BigInt64Array.from([0n]), [1]);
+  // multi-speaker models take the speaker as int64[1]; single-speaker ones have no such input
+  if (session.inputNames.indexOf('sid') >= 0) {
+    var n = cfg.num_speakers || 1;
+    var sid = Number(m.sid) | 0;
+    feeds.sid = new ort.Tensor('int64', BigInt64Array.from([BigInt(sid >= 0 && sid < n ? sid : 0)]), [1]);
+  }
   var out = await session.run(feeds);
   var data = out.output.data;
   return { pcm: data, rate: cfg.audio.sample_rate };

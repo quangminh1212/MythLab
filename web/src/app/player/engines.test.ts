@@ -51,9 +51,9 @@ describe('engine choice with Piper', () => {
     expect((await voices('native')).map((v) => v.id)).toEqual(['vn1', 'vn2']);
   });
 
-  it('offers the three voices for the picker', async () => {
+  it('offers every voice (with its speaker) for the picker', async () => {
     const vs = await voices('piper');
-    expect(vs).toHaveLength(3);
+    expect(vs).toHaveLength(17);
     expect(vs.every((v) => v.lang === 'vi-VN')).toBe(true);
   });
 });

@@ -2,19 +2,21 @@ import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { S } from '../core/settings';
-import { DEFAULT_PIPER_VOICE, megabytes, PIPER_VOICES, piperConfigUrl, piperModelUrl, piperReady, piperSources, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
+import { DEFAULT_PIPER_VOICE, megabytes, PIPER_CHOICES, PIPER_VOICES, piperChoice, piperChoiceLabel, piperConfigUrl, piperModelUrl, piperReady, piperSources, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
 
 describe('piper catalog', () => {
-  it('lists three Vietnamese voices with sizes and the commercial-safe one first', () => {
-    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-vivos-x_low']);
+  it('lists the Vietnamese models with sizes and the commercial-safe one first', () => {
+    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-vivos-x_low', 'vi_VN-csa-voice-piper-v3-medium']);
     expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium');
     expect(megabytes(piperVoice('vi_VN-vivos-x_low').bytes)).toBe('28 MB');
+    expect(megabytes(piperVoice('vi_VN-csa-voice-piper-v3-medium').bytes)).toBe('77 MB');
   });
 
   it('maps a saved id to a voice and falls back to the default for an unknown one', () => {
     expect(piperVoice('vi_VN-25hours_single-low').sampleRate).toBe(16000);
     expect(piperVoice('gone').id).toBe(DEFAULT_PIPER_VOICE);
     expect(piperVoice(undefined).id).toBe(DEFAULT_PIPER_VOICE);
+    expect(piperVoice('vi_VN-vivos-x_low#7').id).toBe('vi_VN-vivos-x_low');
   });
 
   it('builds model urls next to their json and labels downloaded voices', () => {
@@ -23,6 +25,40 @@ describe('piper catalog', () => {
     expect(piperConfigUrl(v)).toBe(`${piperModelUrl(v)}.json`);
     expect(piperVoiceLabel(v, false)).toContain('63 MB');
     expect(piperVoiceLabel(v, true)).toContain('đã tải');
+  });
+});
+
+describe('piper picker choices', () => {
+  it('offers male and female voices, lightest download first', () => {
+    const sizes = PIPER_CHOICES.map((c) => c.model.bytes);
+    expect(sizes).toEqual([...sizes].sort((a, b) => a - b));
+    expect(PIPER_CHOICES[0]?.model.id).toBe('vi_VN-vivos-x_low');
+    expect(PIPER_CHOICES.filter((c) => c.gender === 'nam').length).toBeGreaterThanOrEqual(5);
+    expect(PIPER_CHOICES.filter((c) => c.gender === 'nu').length).toBeGreaterThanOrEqual(5);
+    expect(new Set(PIPER_CHOICES.map((c) => c.id)).size).toBe(PIPER_CHOICES.length);
+  });
+
+  it('only labels a gender for documented speakers, the others say it is unknown', () => {
+    expect(piperChoiceLabel(piperChoice('vi_VN-vais1000-medium'), false)).toBe('Chưa rõ giới tính · Vais1000 — chất lượng cao · 63 MB');
+    expect(piperChoiceLabel(piperChoice('vi_VN-csa-voice-piper-v3-medium#2'), true)).toBe('Nam · Quang Huy (miền Bắc) · 77 MB · đã tải');
+    expect(piperChoiceLabel(piperChoice('vi_VN-vivos-x_low#0'), false)).toBe('Nữ · Vivos 1 · 28 MB');
+    expect(PIPER_CHOICES.filter((c) => c.model.id === 'vi_VN-25hours_single-low').every((c) => c.gender === null)).toBe(true);
+  });
+
+  it('maps a saved id to its speaker; a bare or unknown id means the first speaker / the default', () => {
+    expect(piperChoice('vi_VN-csa-voice-piper-v3-medium#4').sid).toBe(4);
+    expect(piperChoice('vi_VN-vivos-x_low#9').sid).toBe(9);
+    expect(piperChoice('vi_VN-vivos-x_low').model.id).toBe('vi_VN-vivos-x_low');
+    expect(piperChoice('vi_VN-vivos-x_low#64').model.id).toBe('vi_VN-vivos-x_low');
+    expect(piperChoice('gone').model.id).toBe(DEFAULT_PIPER_VOICE);
+  });
+
+  it('keeps every offered speaker inside the model (sid < 65 for vivos, < 5 for Piper v3) and gives every model a credit', () => {
+    const max: Record<string, number> = { 'vi_VN-vivos-x_low': 65, 'vi_VN-csa-voice-piper-v3-medium': 5 };
+    for (const v of PIPER_VOICES) {
+      expect(v.credit.length).toBeGreaterThan(10);
+      for (const s of v.speakers ?? []) expect(s.sid).toBeLessThan(max[v.id] as number);
+    }
   });
 });
 
@@ -52,7 +88,10 @@ describe('piper readiness', () => {
 describe('piper integrity', () => {
   it('pins a commit and gives every voice a sha-256', () => {
     for (const v of PIPER_VOICES) expect(v.sha256).toMatch(/^[0-9a-f]{64}$/);
-    expect(piperModelUrl(PIPER_VOICES[0] as (typeof PIPER_VOICES)[number])).not.toContain('/main/');
+    for (const v of PIPER_VOICES) {
+      expect(piperModelUrl(v)).not.toContain('/main/');
+      expect(piperModelUrl(v)).toMatch(/\/resolve\/[0-9a-f]{40}\//);
+    }
   });
 });
 
@@ -74,18 +113,19 @@ describe('piper sources and Vietnamese-only catalog', () => {
   it('has only Vietnamese voices and every source is for Vietnamese', () => {
     for (const x of PIPER_VOICES) {
       expect(x.id.startsWith('vi_VN-')).toBe(true);
-      expect(piperModelUrl(x)).toContain('/vi/vi_VN/');
+      expect(piperModelUrl(x)).toMatch(/vi_VN/);
+      expect(piperSources(x).every((u) => u.includes(x.id))).toBe(true);
       expect(x.configSha256).toMatch(/^[0-9a-f]{64}$/);
     }
   });
 
   it('matches scripts/piper-models.json, which fetch-models.mjs downloads from', () => {
-    const cat = JSON.parse(readFileSync(join(process.cwd(), 'scripts', 'piper-models.json'), 'utf8')) as { repo: string; models: Record<string, unknown>[] };
+    const cat = JSON.parse(readFileSync(join(process.cwd(), 'scripts', 'piper-models.json'), 'utf8')) as { models: Record<string, unknown>[] };
     expect(cat.models.map((m) => m.id)).toEqual(PIPER_VOICES.map((x) => x.id));
     for (const m of cat.models) {
       const x = piperVoice(m.id as string);
-      expect(m).toEqual({ id: x.id, path: x.path, bytes: x.bytes, sha256: x.sha256, configBytes: x.configBytes, configSha256: x.configSha256 });
-      expect(`${cat.repo}${x.path}${x.id}.onnx`).toBe(piperModelUrl(x));
+      expect(m).toEqual({ id: x.id, repo: x.repo, bytes: x.bytes, sha256: x.sha256, configBytes: x.configBytes, configSha256: x.configSha256 });
+      expect(`${m.repo as string}${x.id}.onnx`).toBe(piperModelUrl(x));
     }
   });
 });

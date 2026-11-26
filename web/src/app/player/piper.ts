@@ -12,12 +12,19 @@ import { fetchVerified, type Artifact } from './piper-fetch';
 
 export { piperSupported };
 
+/** A speaker of a multi-speaker model, with a gender that is documented (model card) or measured, never guessed. */
+export interface PiperSpeaker {
+  sid: number;
+  name: string;
+  gender: 'nam' | 'nu';
+}
+
 export interface PiperVoice {
   id: string;
   /** Shown in the picker. */
   name: string;
-  /** Path below the voice repository, with the trailing slash. */
-  path: string;
+  /** Pinned directory of the model files (commit of the repository), with the trailing slash: `${repo}${id}.onnx`. */
+  repo: string;
   /** Exact size of the .onnx file (also the integrity check). */
   bytes: number;
   /** SHA-256 of the .onnx file (hex); checked after the download when the browser has crypto.subtle. */
@@ -28,6 +35,10 @@ export interface PiperVoice {
   sampleRate: number;
   /** One line about quality / licence. */
   note: string;
+  /** Who made the voice and under which licence (attribution shown in Settings). */
+  credit: string;
+  /** Speakers offered in the picker. Missing = one speaker of unknown gender. */
+  speakers?: readonly PiperSpeaker[];
 }
 
 /** Pinned to a commit of the voice repository, so the files cannot change under the size / hash below. */
@@ -36,19 +47,80 @@ const REPO = 'https://huggingface.co/rhasspy/piper-voices/resolve/5ec43b186ef915
 /** Second source: assets of the "piper-models" GitHub release of this repository (same files as the pinned commit). */
 export const RELEASE_URL = 'https://github.com/quangminh1212/MythLab/releases/download/piper-models/';
 
-/** The Vietnamese voices. The first one is the default: its data (VAIS-1000) is CC BY 4.0, free for any use. */
+const nu = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nu' });
+const nam = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nam' });
+
+/**
+ * The Vietnamese voices. The first one is the default: its data (VAIS-1000) is CC BY 4.0, free for any use.
+ * Vivos has 65 speakers; the genders come from the VIVOS corpus (speaker list) and were re-checked by measuring the
+ * pitch of every speaker (women about 185-260 Hz, men about 95-150 Hz); five of each are offered.
+ */
 export const PIPER_VOICES: readonly PiperVoice[] = [
-  { id: 'vi_VN-vais1000-medium', name: 'Vais1000 — chất lượng cao', path: 'vais1000/medium/', bytes: 63_221_984, sha256: '0567643f67b8329a46b3f0b549befc58e1e7e21ef558677768068d23a41d8471', configBytes: 6197, configSha256: '19240ab1eb13e5eb9c7dd00f9d1de5db08ff88d591c5008cbd24f1a25f51e13a', sampleRate: 22050, note: 'CC BY 4.0' },
-  { id: 'vi_VN-25hours_single-low', name: '25 giờ — một giọng', path: '25hours_single/low/', bytes: 63_104_526, sha256: '266945c4a80cb3301450c8ba6fcf6ba3542c56cf952a08a8ff3d2d4ff0ab5609', configBytes: 4176, configSha256: '344b5849f5bc585031a63b9cc75f96e2c469f3d98879d8d3acbc2fce6d470064', sampleRate: 16000, note: 'chất lượng vừa' },
-  { id: 'vi_VN-vivos-x_low', name: 'Vivos — nhẹ', path: 'vivos/x_low/', bytes: 27_789_413, sha256: '6ab13374eb0862021a545befe7727aef59e16117f1c075aa9e0362237ecc98ae', configBytes: 5592, configSha256: '9dc373d69b0e4f39d864cb8ac9fe42cee49817a0f02d831e57a9ce6e944e234a', sampleRate: 16000, note: 'gọn nhất, chỉ dùng phi thương mại (CC BY-NC-SA)' },
+  { id: 'vi_VN-vais1000-medium', name: 'Vais1000 — chất lượng cao', repo: `${REPO}vais1000/medium/`, bytes: 63_221_984, sha256: '0567643f67b8329a46b3f0b549befc58e1e7e21ef558677768068d23a41d8471', configBytes: 6197, configSha256: '19240ab1eb13e5eb9c7dd00f9d1de5db08ff88d591c5008cbd24f1a25f51e13a', sampleRate: 22050, note: 'CC BY 4.0', credit: 'Vais1000: dữ liệu VAIS-1000 (VAIS), giấy phép CC BY 4.0; mô hình Piper (Rhasspy).' },
+  { id: 'vi_VN-25hours_single-low', name: '25 giờ — một giọng', repo: `${REPO}25hours_single/low/`, bytes: 63_104_526, sha256: '266945c4a80cb3301450c8ba6fcf6ba3542c56cf952a08a8ff3d2d4ff0ab5609', configBytes: 4176, configSha256: '344b5849f5bc585031a63b9cc75f96e2c469f3d98879d8d3acbc2fce6d470064', sampleRate: 16000, note: 'chất lượng vừa', credit: '25 giờ: dữ liệu InfoRe (giấy phép chưa rõ); mô hình Piper (Rhasspy).' },
+  {
+    id: 'vi_VN-vivos-x_low',
+    name: 'Vivos',
+    repo: `${REPO}vivos/x_low/`,
+    bytes: 27_789_413,
+    sha256: '6ab13374eb0862021a545befe7727aef59e16117f1c075aa9e0362237ecc98ae',
+    configBytes: 5592,
+    configSha256: '9dc373d69b0e4f39d864cb8ac9fe42cee49817a0f02d831e57a9ce6e944e234a',
+    sampleRate: 16000,
+    note: 'nhẹ, chỉ dùng phi thương mại (CC BY-NC-SA)',
+    credit: 'Vivos: dữ liệu VIVOS (AILAB, ĐH Khoa học Tự nhiên TP.HCM), giấy phép CC BY-NC-SA 4.0 (phi thương mại, chia sẻ tương tự); mô hình Piper (Rhasspy).',
+    speakers: [nu(0, 'Vivos 1'), nu(1, 'Vivos 2'), nu(3, 'Vivos 3'), nu(11, 'Vivos 4'), nu(13, 'Vivos 5'), nam(2, 'Vivos 6'), nam(5, 'Vivos 7'), nam(7, 'Vivos 8'), nam(8, 'Vivos 9'), nam(9, 'Vivos 10')],
+  },
+  {
+    id: 'vi_VN-csa-voice-piper-v3-medium',
+    name: 'Piper v3',
+    repo: 'https://huggingface.co/CakeByVPBank/piper-pgl-v4-vi_VN-version39_epoch39/resolve/8ea50134bea762f6a1faac671e1a33c41871289c/',
+    bytes: 77_100_991,
+    sha256: '99424831c88afec929eba3aef83a1b3d92f261b0bdc771bc2458f7f1ba63b6d2',
+    configBytes: 4917,
+    configSha256: '919c6f45f16e6549e5f72ae4961bf191abbb661830574e7786ab13da496a408e',
+    sampleRate: 22050,
+    note: 'MIT, 5 giọng',
+    credit: 'Piper v3: CakeByVPBank, giấy phép MIT; huấn luyện trên dữ liệu giọng tổng hợp.',
+    speakers: [nu(0, 'Ngọc Lan (miền Bắc)'), nu(1, 'Minh Anh (miền Bắc)'), nam(2, 'Quang Huy (miền Bắc)'), nu(3, 'Thu Hà (miền Bắc)'), nu(4, 'Yến Nhi (miền Nam)')],
+  },
 ];
 
 export const DEFAULT_PIPER_VOICE = (PIPER_VOICES[0] as PiperVoice).id;
 
-/** The voice for a saved id; an unknown id (older / newer app) gives the default. */
-export const piperVoice = (id: string | undefined): PiperVoice => PIPER_VOICES.find((v) => v.id === id) ?? (PIPER_VOICES[0] as PiperVoice);
+/** The model for a saved id ("model" or "model#speaker"); an unknown id (older / newer app) gives the default. */
+export const piperVoice = (id: string | undefined): PiperVoice => PIPER_VOICES.find((v) => v.id === (id ?? '').split('#')[0]) ?? (PIPER_VOICES[0] as PiperVoice);
 
-export const piperModelUrl = (v: PiperVoice): string => `${REPO}${v.path}${v.id}.onnx`;
+/** One entry of the picker: a model and the speaker it uses. */
+export interface PiperChoice {
+  /** Saved in the settings: the model id, plus "#sid" for a speaker of a multi-speaker model. */
+  id: string;
+  model: PiperVoice;
+  sid: number;
+  name: string;
+  /** Null when the gender is not documented. */
+  gender: 'nam' | 'nu' | null;
+}
+
+const GENDER = { nam: 'Nam', nu: 'Nữ' } as const;
+
+/** Every voice the picker offers, the lightest download first (then Nữ before Nam, then catalog order). */
+export const PIPER_CHOICES: readonly PiperChoice[] = PIPER_VOICES.flatMap((m): PiperChoice[] =>
+  m.speakers ? m.speakers.map((s) => ({ id: `${m.id}#${s.sid}`, model: m, sid: s.sid, name: s.name, gender: s.gender })) : [{ id: m.id, model: m, sid: 0, name: m.name, gender: null }],
+)
+  .map((c, i) => ({ c, i }))
+  .sort((a, b) => a.c.model.bytes - b.c.model.bytes || (a.c.gender === 'nu' ? 0 : 1) - (b.c.gender === 'nu' ? 0 : 1) || a.i - b.i)
+  .map((x) => x.c);
+
+/** The choice for a saved id: a bare model id means its first speaker; an unknown id gives the default voice. */
+export function piperChoice(id: string | undefined): PiperChoice {
+  const hit = PIPER_CHOICES.find((c) => c.id === id);
+  if (hit) return hit;
+  const m = piperVoice(id);
+  return PIPER_CHOICES.find((c) => c.model === m) as PiperChoice;
+}
+
+export const piperModelUrl = (v: PiperVoice): string => `${v.repo}${v.id}.onnx`;
 export const piperConfigUrl = (v: PiperVoice): string => `${piperModelUrl(v)}.json`;
 
 /** File names of a voice: "vi_VN-vais1000-medium.onnx" and its ".json". */
@@ -57,7 +129,7 @@ const modelFile = (v: PiperVoice): string => `${v.id}.onnx`;
 /** Ordered download sources of a file of a voice (`suffix` is '' for the model, '.json' for the config). */
 export function piperSources(v: PiperVoice, suffix = ''): string[] {
   const file = modelFile(v) + suffix;
-  return [`${REPO}${v.path}${file}`, RELEASE_URL + file];
+  return [`${v.repo}${file}`, RELEASE_URL + file];
 }
 
 const modelArtifact = (v: PiperVoice): Artifact => ({ name: 'giọng ' + v.name, bytes: v.bytes, sha256: v.sha256, sources: piperSources(v) });
@@ -66,8 +138,11 @@ const configArtifact = (v: PiperVoice): Artifact => ({ name: 'cấu hình giọn
 /** "63 MB" */
 export const megabytes = (bytes: number): string => `${Math.round(bytes / 1e6)} MB`;
 
-/** Picker label: "Vais1000 — chất lượng cao · 63 MB · đã tải". */
+/** Label of a model: "Vais1000 — chất lượng cao · 63 MB · đã tải". */
 export const piperVoiceLabel = (v: PiperVoice, installed: boolean): string => `${v.name} · ${megabytes(v.bytes)}${installed ? ' · đã tải' : ''}`;
+
+/** Picker label of a voice: "Nữ · Vivos 1 · 28 MB · đã tải" ("Chưa rõ giới tính" when the data has no gender). */
+export const piperChoiceLabel = (c: PiperChoice, installed: boolean): string => `${c.gender ? GENDER[c.gender] : 'Chưa rõ giới tính'} · ${piperVoiceLabel({ ...c.model, name: c.name }, installed)}`;
 
 /** Float PCM (-1..1) as a 16-bit mono WAV file. */
 export function wavFromPcm(pcm: Float32Array, sampleRate: number): ArrayBuffer {
@@ -265,9 +340,10 @@ function load(v: PiperVoice): Promise<void> {
 
 /** Synthesises text with a voice. Resolves with a WAV blob. */
 export async function piperSynth(text: string, id: string): Promise<Blob> {
-  const v = piperVoice(id);
+  const c = piperChoice(id);
+  const v = c.model;
   await load(v);
-  const r = await call<{ pcm: Float32Array; rate: number }>({ t: 'synth', text });
+  const r = await call<{ pcm: Float32Array; rate: number }>({ t: 'synth', text, sid: c.sid });
   return new Blob([wavFromPcm(r.pcm, r.rate || v.sampleRate)], { type: 'audio/wav' });
 }
 
@@ -277,7 +353,7 @@ export async function piperSynth(text: string, id: string): Promise<Blob> {
 const KEEP = 3;
 const clips = new Map<string, Promise<string>>();
 
-const key = (text: string): string => `${piperVoice(S.piperVoice).id}|${text}`;
+const key = (text: string): string => `${piperChoice(S.piperVoice).id}|${text}`;
 
 function drop(k: string): void {
   const p = clips.get(k);

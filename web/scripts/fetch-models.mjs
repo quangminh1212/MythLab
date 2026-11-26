@@ -1,8 +1,8 @@
-// Downloads the Vietnamese Piper voices from Hugging Face (pinned commit) into a local folder, verifying size and
+// Downloads the Vietnamese Piper models from Hugging Face (pinned commits) into a local folder, verifying size and
 // SHA-256, e.g. to (re)upload them to the GitHub release "piper-models" (the app's second download source, after
 // Hugging Face). Nothing is served by our own server. NOT part of predev/prebuild.
 //
-//   node scripts/fetch-models.mjs                      all three voices -> public/tts/models
+//   node scripts/fetch-models.mjs                      every model -> public/tts/models
 //   node scripts/fetch-models.mjs vais1000 vivos       only ids containing these words
 //   node scripts/fetch-models.mjs --out D:/models      another folder
 //
@@ -64,7 +64,7 @@ mkdirSync(out, { recursive: true });
 let failed = 0;
 for (const m of picked) {
   console.log(m.id);
-  const base = `${catalog.repo}${m.path}${m.id}.onnx`;
+  const base = `${m.repo}${m.id}.onnx`;
   try {
     await get(`${base}.json`, join(out, `${m.id}.onnx.json`), m.configBytes, m.configSha256);
     await get(base, join(out, `${m.id}.onnx`), m.bytes, m.sha256);

@@ -50,14 +50,16 @@ describe('engines of the picker', () => {
     expect(effectiveEngine('browser', { browser: false, native: false })).toBeNull();
   });
 
-  it('stores the voice of Piper in piperVoice and lists the three voices with sizes', () => {
+  it('stores the voice of Piper in piperVoice and lists the voices with gender and sizes, lightest first', () => {
     expect(voiceKey('piper')).toBe('piperVoice');
     expect(voiceKey('browser')).toBe('browserVoice');
     expect(voiceKey('native')).toBe('nativeVoice');
     const items = piperItems();
-    expect(items).toHaveLength(3);
-    expect(items[0]?.label).toMatch(/63 MB/);
-    expect(selectVoice('piper', items, 'nope')).toEqual({ value: items[0]?.id, store: items[0]?.id });
+    expect(items.length).toBeGreaterThanOrEqual(12);
+    expect(items[0]?.label).toMatch(/^Nữ · .* · 28 MB/);
+    expect(items.some((i) => /^Nam · /.test(i.label))).toBe(true);
+    expect(items.some((i) => /^Chưa rõ giới tính · .*63 MB/.test(i.label))).toBe(true);
+    expect(selectVoice('piper', items, 'nope')).toEqual({ value: 'vi_VN-vais1000-medium', store: 'vi_VN-vais1000-medium' });
     expect(selectVoice('piper', items, items[2]?.id as string).store).toBeNull();
   });
 });

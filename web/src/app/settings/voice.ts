@@ -8,7 +8,7 @@ import { html, render } from '../core/html';
 import { S, set, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { offerPiper } from '../player/engines';
-import { megabytes, PIPER_SIZE_NOTE, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
+import { megabytes, PIPER_SIZE_NOTE, piperChoice, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
 import { effectiveEngine, engineChoices, listVoices, preview, readEnv, selectVoice, stopPreview, voiceKey, type VoiceItem } from './voices';
 
 /** Wires the tab inside `root`. Returns the function that stops everything it started. */
@@ -73,7 +73,7 @@ export function mountVoice(root: HTMLElement): () => void {
     select.disabled = device && none;
     test.disabled = device && none;
     if (device && none) voiceNote.textContent = 'Máy chưa có giọng tiếng Việt: hãy cài thêm trong hệ điều hành, hoặc chọn bộ đọc Piper (offline).';
-    else voiceNote.textContent = eff === 'piper' ? `Giọng Piper chạy trên máy (${piperVoice(S.piperVoice).note}).` : 'Giọng của thiết bị, đọc ngay trên máy.';
+    else voiceNote.textContent = eff === 'piper' ? `Giọng Piper chạy trên máy (${piperChoice(S.piperVoice).model.note}).` : 'Giọng của thiết bị, đọc ngay trên máy.';
     showPiper(eff);
   }
 
@@ -87,7 +87,8 @@ export function mountVoice(root: HTMLElement): () => void {
     piperRm.hidden = !have;
     piperDl.textContent = `Tải giọng này (${megabytes(v.bytes)})`;
     test.disabled = !have;
-    piperNote.textContent = have ? `Đã lưu trên máy (${megabytes(v.bytes)}). Đọc không cần mạng và không dùng máy chủ.` : `${PIPER_SIZE_NOTE} Chưa tải thì ứng dụng tạm đọc bằng giọng của máy.`;
+    const say = have ? `Đã lưu trên máy (${megabytes(v.bytes)}). Đọc không cần mạng và không dùng máy chủ.` : `${PIPER_SIZE_NOTE} Chưa tải thì ứng dụng tạm đọc bằng giọng của máy.`;
+    piperNote.textContent = `${say} Nguồn giọng: ${v.credit}`;
   }
   const onPiperDl = (): void => {
     piperDl.disabled = true;
