@@ -816,18 +816,30 @@ html.is-offline .st-offline {
 .ac-card {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
+  padding: 14px;
   margin-bottom: 12px;
   min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface-2);
+}
+
+.ac-avatar-wrap {
+  position: relative;
+  flex: none;
+  width: 56px;
+  height: 56px;
 }
 
 .ac-avatar {
-  flex: none;
-  width: 48px;
-  height: 48px;
+  display: block;
+  width: 56px;
+  height: 56px;
   border-radius: var(--radius-pill);
   background: var(--surface-3);
   object-fit: cover;
+  box-shadow: 0 0 0 2px var(--surface), 0 0 0 3px var(--border);
 }
 
 .ac-avatar-fb {
@@ -836,12 +848,41 @@ html.is-offline .st-offline {
   justify-content: center;
   background: var(--accent);
   color: var(--accent-ink);
-  font-size: var(--fs-lg);
+  font-size: var(--fs-xl);
   font-weight: 700;
+}
+
+.ac-badge {
+  position: absolute;
+  right: -2px;
+  bottom: -2px;
+  display: grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: var(--radius-pill);
+  background: var(--ok);
+  color: #fff;
+  box-shadow: 0 0 0 2px var(--surface-2);
+}
+
+.ac-badge.is-error {
+  background: var(--danger);
+}
+
+.ac-badge svg {
+  width: 12px;
+  height: 12px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .ac-who {
   min-width: 0;
+  flex: 1;
 }
 
 .ac-name,
@@ -853,12 +894,161 @@ html.is-offline .st-offline {
 }
 
 .ac-name {
+  font-size: var(--fs-lg);
   font-weight: 700;
+  line-height: 1.3;
 }
 
 .ac-mail {
   color: var(--text-2);
   font-size: var(--fs-sm);
+}
+
+.ac-provider {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 6px 0 0;
+  padding: 2px 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--muted);
+  font-size: var(--fs-xs);
+}
+
+.ac-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.ac-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.ac-stat strong {
+  font-size: var(--fs-xl);
+  line-height: 1.2;
+  font-variant-numeric: tabular-nums;
+}
+
+.ac-stat span {
+  color: var(--muted);
+  font-size: var(--fs-xs);
+}
+
+.ac-sync {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+  color: var(--text-2);
+  font-size: var(--fs-sm);
+}
+
+.ac-dot {
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: var(--radius-pill);
+  background: var(--ok);
+}
+
+.ac-sync.is-running .ac-dot {
+  animation: ac-pulse 1.2s ease-in-out infinite;
+}
+
+.ac-sync.is-error {
+  color: var(--danger);
+}
+
+.ac-sync.is-error .ac-dot {
+  background: var(--danger);
+}
+
+@keyframes ac-pulse {
+  50% {
+    opacity: 0.3;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ac-sync.is-running .ac-dot {
+    animation: none;
+  }
+}
+
+.ac-actions {
+  gap: 8px;
+}
+
+.ac-hero {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.ac-hero-ico {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-pill);
+  background: var(--hl);
+  color: var(--accent-text);
+}
+
+.ac-hero-ico svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.ac-hero-t {
+  margin: 0;
+  font-size: var(--fs-lg);
+  font-weight: 700;
+}
+
+.ac-perks {
+  display: grid;
+  gap: 8px;
+  margin: 0 0 14px;
+  padding: 0;
+  list-style: none;
+  color: var(--text-2);
+  font-size: var(--fs-sm);
+}
+
+.ac-perks li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.ac-perks svg {
+  flex: none;
+  width: 16px;
+  height: 16px;
+  margin-top: 2px;
+  fill: none;
+  stroke: var(--ok);
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .ac-gsi {

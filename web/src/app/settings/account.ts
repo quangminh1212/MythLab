@@ -39,20 +39,30 @@ export function mountAccount(el: HTMLElement): () => void {
     if (u) {
       const pic = avatarUrl(u.picture);
       const s = syncStatus.get();
+      const nFollow = library.follows().length;
+      const nMarks = library.bookmarks().length;
       render(
         el,
-        html`<section class="ss-sec" aria-labelledby="ss-h-acc">
-          <h3 class="ss-h" id="ss-h-acc">Tài khoản Google</h3>
+        html`<section class="ss-sec ac" aria-labelledby="ss-h-acc">
+          <h3 class="ss-h" id="ss-h-acc">Tài khoản</h3>
           <div class="ac-card">
-            ${pic ? html`<img class="ac-avatar" src="${pic}" alt="" width="48" height="48" referrerpolicy="no-referrer" />` : html`<span class="ac-avatar ac-avatar-fb" aria-hidden="true">${(u.name || u.email || '?').slice(0, 1).toUpperCase()}</span>`}
+            <span class="ac-avatar-wrap">
+              ${pic ? html`<img class="ac-avatar" src="${pic}" alt="" width="56" height="56" referrerpolicy="no-referrer" />` : html`<span class="ac-avatar ac-avatar-fb" aria-hidden="true">${(u.name || u.email || '?').slice(0, 1).toUpperCase()}</span>`}
+              <span class="ac-badge ${s.failing ? 'is-error' : ''}" aria-hidden="true">${icon(s.failing ? 'refresh' : 'check')}</span>
+            </span>
             <div class="ac-who">
               <p class="ac-name">${u.name || u.email}</p>
               ${u.name && u.email ? html`<p class="ac-mail">${u.email}</p>` : ''}
+              <p class="ac-provider"><svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.2c0-.8-.1-1.5-.2-2.2H12v4.2h5.9a5 5 0 0 1-2.2 3.3v2.7h3.5c2.1-1.900 3.300-4.700 3.300-8z"/><path fill="#34A853" d="M12 23c3 0 5.500-1 7.300-2.700l-3.500-2.700c-1 .7-2.200 1.100-3.800 1.100-2.900 0-5.400-2-6.300-4.600H2.100v2.800A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.700 14.100a6.600 6.600 0 0 1 0-4.200V7.100H2.100a11 11 0 0 0 0 9.800z"/><path fill="#EA4335" d="M12 5.400c1.600 0 3.100.6 4.200 1.600l3.100-3.100A11 11 0 0 0 2.100 7.100l3.600 2.800C6.600 7.400 9.100 5.400 12 5.400z"/></svg><span>Google</span></p>
             </div>
           </div>
-          <p class="ss-status ${s.failing ? 'is-error' : ''}" id="ac-sync" role="status" aria-live="polite">${syncLine(s)}</p>
-          <p class="hint">Lịch sử đọc, truyện yêu thích (${fmtNum(library.follows().length)}) và đánh dấu (${fmtNum(library.bookmarks().length)}) được đồng bộ giữa các thiết bị đăng nhập cùng tài khoản. Dữ liệu trên máy này luôn được giữ lại.</p>
-          <div class="ss-actions">
+          <div class="ac-stats">
+            <div class="ac-stat"><strong>${fmtNum(nFollow)}</strong><span>Truyện theo dõi</span></div>
+            <div class="ac-stat"><strong>${fmtNum(nMarks)}</strong><span>Đánh dấu</span></div>
+          </div>
+          <p class="ac-sync ${s.failing ? 'is-error' : ''} ${s.running ? 'is-running' : ''}" id="ac-sync" role="status" aria-live="polite"><span class="ac-dot" aria-hidden="true"></span><span class="ac-sync-t">${syncLine(s)}</span></p>
+          <p class="hint">Lịch sử đọc, truyện theo dõi và đánh dấu được đồng bộ giữa các thiết bị đăng nhập cùng tài khoản. Dữ liệu trên máy này luôn được giữ lại.</p>
+          <div class="ss-actions ac-actions">
             <button type="button" class="btn btn-primary" id="ac-sync-now" ${s.running || busy ? html`disabled` : ''}>${icon('refresh')}<span>Đồng bộ ngay</span></button>
             <button type="button" class="btn btn-danger-ghost" id="ac-out" ${busy ? html`disabled` : ''}>Đăng xuất</button>
           </div>
@@ -64,14 +74,22 @@ export function mountAccount(el: HTMLElement): () => void {
     const native = auth.mode() === 'native';
     render(
       el,
-      html`<section class="ss-sec" aria-labelledby="ss-h-acc">
-        <h3 class="ss-h" id="ss-h-acc">Tài khoản Google</h3>
-        <p class="ss-status">Đăng nhập để đồng bộ lịch sử đọc, truyện yêu thích và đánh dấu giữa điện thoại, máy tính và trình duyệt. Dữ liệu đang có trên máy được gộp lên tài khoản, không bị xoá.</p>
+      html`<section class="ss-sec ac" aria-labelledby="ss-h-acc">
+        <h3 class="ss-h" id="ss-h-acc">Tài khoản</h3>
+        <div class="ac-hero">
+          <span class="ac-hero-ico" aria-hidden="true">${icon('cloud')}</span>
+          <p class="ac-hero-t">Đọc tiếp ở mọi thiết bị</p>
+        </div>
+        <ul class="ac-perks">
+          <li>${icon('check')}<span>Đồng bộ lịch sử đọc, truyện theo dõi và đánh dấu giữa điện thoại, máy tính và trình duyệt.</span></li>
+          <li>${icon('check')}<span>Dữ liệu đang có trên máy được gộp lên tài khoản, không bị xoá.</span></li>
+          <li>${icon('check')}<span>Chỉ dùng tên, email và ảnh Google để nhận diện. Không đăng bài, không gửi thư.</span></li>
+        </ul>
         ${native
           ? html`<div class="ss-actions"><button type="button" class="btn btn-primary" id="ac-in" ${busy ? html`disabled` : ''}>${icon('user')}<span>Đăng nhập bằng Google</span></button></div>`
           : html`<div class="ac-gsi" id="ac-gsi" aria-label="Đăng nhập bằng Google"></div>`}
         <p class="form-status is-error" id="ac-err" role="alert" ${error ? '' : html`hidden`}>${error}</p>
-        <p class="hint">Chưa đăng nhập vẫn đọc bình thường; tiến độ đọc khi đó chỉ nằm trên máy (hoặc theo khoá máy chủ nếu có).</p>
+        <p class="hint">Chưa đăng nhập vẫn đọc bình thường; tiến độ đọc khi đó chỉ nằm trên máy.</p>
       </section>`,
     );
     host = el.querySelector<HTMLElement>('#ac-gsi');
@@ -143,8 +161,10 @@ export function mountAccount(el: HTMLElement): () => void {
     const btn = el.querySelector<HTMLButtonElement>('#ac-sync-now');
     if (!line || !btn) return paint();
     const s = syncStatus.get();
-    line.textContent = syncLine(s);
+    const t = line.querySelector<HTMLElement>('.ac-sync-t');
+    if (t) t.textContent = syncLine(s);
     line.classList.toggle('is-error', s.failing);
+    line.classList.toggle('is-running', s.running);
     btn.disabled = s.running;
   }
   return () => {
