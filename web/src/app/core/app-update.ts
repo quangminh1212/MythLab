@@ -11,6 +11,7 @@
  */
 import { NATIVE_SERVER_URL } from './backend/index';
 import { isNative } from './settings';
+import { isNativeIOS } from './native-platform';
 
 export interface UpdateManifest {
   versionCode: number;
@@ -58,7 +59,8 @@ export const CHECK_EVERY_MS = 6 * 3600_000;
 
 function plugin(): AppUpdatePlugin | null {
   try {
-    if (!isNative()) return null;
+    // iOS cannot install a downloaded package outside TestFlight / the App Store: never offer an update there
+    if (!isNative() || isNativeIOS()) return null;
     const p = (globalThis as { Capacitor?: { Plugins?: Record<string, unknown> } }).Capacitor?.Plugins?.AppUpdate as AppUpdatePlugin | undefined;
     return p && typeof p.getInfo === 'function' && typeof p.download === 'function' ? p : null;
   } catch {

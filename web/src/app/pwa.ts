@@ -13,6 +13,7 @@ import type { PwaApi } from './core/contracts';
 import { Emitter, on } from './core/events';
 import { append, html } from './core/html';
 import { icon } from './core/icons';
+import { isIosSafari } from './core/platform';
 import { isDark, isNative, syncThemeColor } from './core/settings';
 import { store } from './core/store';
 import { toast } from './core/ui';
@@ -226,6 +227,41 @@ function bindInstall(): void {
   });
 }
 
+const IOS_HINT_KEY = 'mythlab.iosInstallHint';
+
+/** True when the one-time "Add to Home Screen" hint should show: Safari on iOS, not installed yet, not shown before. */
+export function iosHintDue(standalone: boolean, seen: number, safari: boolean = isIosSafari()): boolean {
+  return safari && !standalone && !seen;
+}
+
+/**
+ * iOS has no `beforeinstallprompt`: tell people once how to install (Share > Add to Home Screen). Installed sites also keep
+ * their data (Safari deletes the storage of a site not visited for 7 days, an installed one is exempt).
+ */
+function iosInstallHint(): void {
+  try {
+    if (isNative() || !/^https?:$/.test(location.protocol)) return;
+    if (!iosHintDue(pwa.standalone(), store.get<number>(IOS_HINT_KEY, 0))) return;
+    setTimeout(() => {
+      store.set(IOS_HINT_KEY, Date.now());
+      toast({ message: 'Cài MythLab: bấm Chia sẻ, rồi chọn “Thêm vào MH chính” để mở nhanh và giữ truyện đã tải.', duration: 15000 });
+    }, 4000);
+  } catch {
+    /* no hint */
+  }
+}
+
+/** Asks the browser not to evict our data (Cache API, IndexedDB). Safari honours it for installed apps; elsewhere it is a no-op. Never throws. */
+async function persistStorage(): Promise<void> {
+  try {
+    if (isNative() || !navigator.storage?.persist) return;
+    if (await navigator.storage.persisted?.()) return;
+    await navigator.storage.persist();
+  } catch {
+    /* unsupported */
+  }
+}
+
 export const pwa: PwaApi & {
   /** True when a newer build waits for a reload. */
   updateAvailable(): boolean;
@@ -248,6 +284,8 @@ export const pwa: PwaApi & {
       syncMeta();
       on('settings', syncMeta);
       on('route', () => queueMicrotask(syncMeta));
+      iosInstallHint();
+      if (pwa.standalone()) void persistStorage();
       if (swSupported()) void register();
       else if (isNative() && 'serviceWorker' in navigator) {
         // the native app runs without a worker: drop one a test build may have left in the WebView

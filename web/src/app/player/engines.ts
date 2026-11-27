@@ -9,6 +9,7 @@
  */
 import type { TtsEngine } from '../core/settings';
 import { S, set } from '../core/settings';
+import { isNativeIOS } from '../core/native-platform';
 import { confirmDialog, toast } from '../core/ui';
 import { NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
 import { isVi } from '../settings/voices';
@@ -148,6 +149,11 @@ function warnNoVi(): void {
   if (warnedVi) return;
   warnedVi = true;
   if (!piperSupported()) {
+    if (isNativeIOS()) {
+      // iOS has no installer to open: voices are downloaded in the system settings
+      toast({ message: 'Máy chưa có giọng tiếng Việt — vào Cài đặt > Trợ năng > Nội dung đã đọc > Giọng nói > Tiếng Việt để tải', duration: 10000 });
+      return;
+    }
     toast({
       message: 'Máy chưa có giọng tiếng Việt — cài “Speech Services by Google” rồi tải gói Tiếng Việt',
       duration: 8000,

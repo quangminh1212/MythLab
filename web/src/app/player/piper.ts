@@ -7,6 +7,7 @@
  *   worker        public/tts/piper-worker.js: espeak-ng phonemizer + onnxruntime-web, one chunk at a time
  *   result        a 16-bit WAV blob URL that the player's <audio> element plays like any audio clip
  */
+import { isIOS } from '../core/platform';
 import { piperSupported, S } from '../core/settings';
 import { fetchVerified, type Artifact } from './piper-fetch';
 
@@ -184,14 +185,20 @@ const configArtifact = (v: PiperVoice): Artifact => ({ name: 'cấu hình giọn
 /** "63 MB" */
 /** Extra line for the download dialogs: a big voice can run out of memory on a phone with 2 GB of RAM or less. */
 export function lowMemoryNote(bytes: number): string {
-  return tooHeavyHere(bytes) ? ' Máy có ít bộ nhớ (≤ 2 GB): giọng nặng có thể bị treo hoặc tự thoát, nên chọn giọng nhẹ hơn.' : '';
+  if (!tooHeavyHere(bytes)) return '';
+  if (isIOS()) return ' Safari trên iPhone/iPad giới hạn bộ nhớ mỗi trang: giọng nặng có thể làm trang tự tải lại, nên chọn giọng nhẹ hơn.';
+  return ' Máy có ít bộ nhớ (≤ 2 GB): giọng nặng có thể bị treo hoặc tự thoát, nên chọn giọng nhẹ hơn.';
 }
 
 /** Voices bigger than this can run out of memory on a phone with 2 GB of RAM or less. */
 export const HEAVY_VOICE_BYTES = 70_000_000;
 
-/** The device reports 2 GB of RAM or less (`navigator.deviceMemory`, Chromium only; unknown counts as enough). */
+/**
+ * The device reports 2 GB of RAM or less (`navigator.deviceMemory`, Chromium only; unknown counts as enough).
+ * iOS has no deviceMemory and WebKit kills a page that grows past a per-tab limit, so iOS counts as low memory here.
+ */
 export function lowMemory(): boolean {
+  if (isIOS()) return true;
   const mem = (globalThis.navigator as (Navigator & { deviceMemory?: number }) | undefined)?.deviceMemory;
   return mem !== undefined && mem <= 2;
 }

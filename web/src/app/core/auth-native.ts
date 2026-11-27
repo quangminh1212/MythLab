@@ -7,9 +7,10 @@
  * The ID token's audience is the WEB client id (the plugin's `webClientId` = server `google_client_ids`).
  */
 import { isNative } from './settings';
+import { iosGoogleClientId, isNativeIOS } from './native-platform';
 
 interface SocialLoginPlugin {
-  initialize(o: { google: { webClientId: string } }): Promise<unknown>;
+  initialize(o: { google: { webClientId?: string; iOSClientId?: string; iOSServerClientId?: string } }): Promise<unknown>;
   login(o: { provider: 'google'; options: Record<string, unknown> }): Promise<{ result?: { idToken?: string | null } } | null>;
   logout?(o: { provider: 'google' }): Promise<unknown>;
 }
@@ -42,7 +43,12 @@ export async function nativeGoogleIdToken(webClientId: string): Promise<string> 
   if (!p) throw new Error('no native sign-in plugin');
   try {
     if (initializedFor !== webClientId) {
-      await p.initialize({ google: { webClientId } });
+      if (isNativeIOS()) {
+        // iOS Google Sign-In needs the iOS client id; the web id as server client id keeps the token's audience the server's
+        const iOSClientId = iosGoogleClientId();
+        if (!iOSClientId) throw new Error('Chưa cấu hình mã khách Google cho iOS');
+        await p.initialize({ google: { iOSClientId, iOSServerClientId: webClientId, webClientId } });
+      } else await p.initialize({ google: { webClientId } });
       initializedFor = webClientId;
     }
     const r = await p.login({ provider: 'google', options: {} });

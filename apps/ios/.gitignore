@@ -1,0 +1,9 @@
+node_modules/
+www/
+dist/
+# du an Xcode sinh ra bang `npx cap add ios`: giu lai sau khi build duoc tren Mac (xem IOS_BUILD.md muc 11)
+ios/App/Pods/
+ios/App/build/
+ios/DerivedData/
+*.xcuserstate
+xcuserdata/

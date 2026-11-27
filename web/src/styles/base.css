@@ -9,6 +9,7 @@
 html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  touch-action: manipulation; /* no double-tap zoom, no 300 ms tap delay on iOS */
   scroll-padding-top: calc(var(--topbar-h) + 12px);
   background: var(--bg);
 }

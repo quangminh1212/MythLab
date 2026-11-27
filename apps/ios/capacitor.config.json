@@ -1,0 +1,13 @@
+{
+  "appId": "io.github.mythlab.reader",
+  "appName": "MythLab",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#0D9488"
+  },
+  "plugins": {
+    "CapacitorHttp": { "enabled": false },
+    "SystemBars": { "style": "DARK" }
+  }
+}

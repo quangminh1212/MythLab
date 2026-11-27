@@ -5,6 +5,7 @@
  */
 import type { Player } from './index';
 import { isNative } from '../core/settings';
+import { isNativeIOS } from '../core/native-platform';
 import { toast } from '../core/ui';
 
 interface MediaPlaybackPlugin {
@@ -22,7 +23,8 @@ function get(): MediaPlaybackPlugin | null {
   if (plugin !== undefined) return plugin;
   plugin = null;
   try {
-    if (!isNative()) return null;
+    // no MediaPlayback plugin on iOS: the lock screen comes from the page's Media Session (mediasession.ts)
+    if (!isNative() || isNativeIOS()) return null;
     const c = (
       globalThis as {
         Capacitor?: { Plugins?: Record<string, MediaPlaybackPlugin | undefined>; registerPlugin?: (n: string) => MediaPlaybackPlugin };

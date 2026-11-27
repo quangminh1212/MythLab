@@ -4,11 +4,14 @@
  * behind the user's back: when it cannot speak here the picker shows the other engine and says why.
  */
 import { piperSupported, type Settings, type TtsEngine } from '../core/settings';
+import { isNativeIOS } from '../core/native-platform';
 import { DEFAULT_PIPER_VOICE, piperChoice, piperChoiceLabel, piperInstalled, piperSynth, PIPER_CHOICES } from '../player/piper';
 
 export interface EngineEnv {
   /** Capacitor text-to-speech plugin exists. */
   native: boolean;
+  /** The native engine is the iOS app's (labels only). */
+  ios?: boolean;
   /** Piper can run here (WebAssembly + Worker + Cache API). Missing = no. */
   piper?: boolean;
 }
@@ -24,7 +27,7 @@ export interface EngineChoice {
 /** The engines to show, in display order. */
 export function engineChoices(env: EngineEnv): EngineChoice[] {
   const out: EngineChoice[] = [];
-  if (env.native) out.push({ id: 'native', label: 'Máy (Android)', available: true });
+  if (env.native) out.push({ id: 'native', label: env.ios ? 'Máy (iPhone/iPad)' : 'Máy (Android)', available: true });
   out.push({
     id: 'piper',
     label: 'Piper (offline)',
@@ -101,7 +104,7 @@ const nativeTts = (): NativeTts | null => (globalThis as { Capacitor?: { Plugins
 
 /** Reads the environment. */
 export function readEnv(): EngineEnv {
-  return { native: !!nativeTts(), piper: piperSupported() };
+  return { native: !!nativeTts(), piper: piperSupported(), ios: isNativeIOS() };
 }
 
 /** The Piper voices (gender, download size, lightest first) and whether their model is already on this device. */
