@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">MythLab Truyện</string>
-    <string name="title_activity_main">MythLab Truyện</string>
+    <string name="app_name">MythLab</string>
+    <string name="title_activity_main">MythLab</string>
     <string name="package_name">io.github.mythlab.reader</string>
     <string name="custom_url_scheme">io.github.mythlab.reader</string>
 </resources>

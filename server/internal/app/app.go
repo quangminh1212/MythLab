@@ -64,19 +64,20 @@ type Options struct {
 
 // App is one configured server.
 type App struct {
-	opt      Options
-	paths    Paths
-	cfg      Config
-	log      *log.Logger
-	lib      *library.Library
-	gh       []*library.GitHubProvider
-	search   *library.SearchIndex
-	covers   *covers.Store
-	tts      *tts.Service
-	progress *progress.Store
-	sessions *auth.Sessions
-	users    *userlib.Manager
-	handler  *httpapi.Server
+	opt         Options
+	paths       Paths
+	cfg         Config
+	log         *log.Logger
+	lib         *library.Library
+	gh          []*library.GitHubProvider
+	search      *library.SearchIndex
+	catalogStop context.CancelFunc
+	covers      *covers.Store
+	tts         *tts.Service
+	progress    *progress.Store
+	sessions    *auth.Sessions
+	users       *userlib.Manager
+	handler     *httpapi.Server
 
 	keyMu sync.Mutex
 	key   string
@@ -164,6 +165,7 @@ func New(o Options) (*App, error) {
 		AccessKey: func() string { return a.accessKey(a.Exposed()) }, DistrustLoopback: !a.cfg.TrustLoopback,
 		Hosts: append(append([]string{}, a.cfg.Hosts...), o.Hosts...), Logf: a.log.Printf})
 	a.search.RefreshAsync() // local stories and cached GitHub data; no network
+	a.startCatalog()
 	return a, nil
 }
 
@@ -200,6 +202,9 @@ func (a *App) Addr() string { return net.JoinHostPort(a.opt.Host, strconv.Itoa(a
 // Close stops background work and releases the sources. The caches stay.
 func (a *App) Close() {
 	a.closeOnce.Do(func() {
+		if a.catalogStop != nil {
+			a.catalogStop()
+		}
 		for _, p := range a.gh {
 			p.Close()
 		}

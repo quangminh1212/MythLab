@@ -64,6 +64,7 @@ type GitHubProvider struct {
 	treeUntil  map[string]time.Time
 	treeStale  map[string]bool
 	upgrading  map[string]bool
+	nameCat    *nameCatalog
 }
 
 // NewGitHubProvider creates the provider; nothing touches the network yet.
@@ -1016,6 +1017,9 @@ func (p *GitHubProvider) IndexEntries() (map[string][]StoryItem, int) {
 		if s == nil {
 			t := loadTreeFile(p.dir, r.Repo)
 			if t == nil {
+				if items := p.nameItems(r.Repo); len(items) > 0 {
+					out[r.Repo] = items
+				}
 				continue
 			}
 			s = sumFromTree(t)
@@ -1055,4 +1059,51 @@ func (p *GitHubProvider) IndexEntries() (map[string][]StoryItem, int) {
 // CacheFiles reports the cache paths of a repo (used by tests and diagnostics).
 func (p *GitHubProvider) CacheFiles(repo string) (tree, sum string) {
 	return filepath.Clean(treePath(p.dir, repo)), filepath.Clean(sumPath(p.dir, repo))
+}
+
+// WarmCatalog builds the story catalog in two passes so a title search never has to open repos:
+//  1. names: one tree per repo (about one API call each) gives every story folder name, enough to search by title;
+//  2. details: info.json per story (author, synopsis, tags) when `details` is set.
+//
+// Both write the per-repo summary files on disk, which the search index reads. It stops early when GitHub
+// rate-limits; done counts repos covered by the pass that ran last.
+func (p *GitHubProvider) WarmCatalog(ctx context.Context, details bool, pause time.Duration, progress func(done, total int)) (done, total int, err error) {
+	repos, _, err := p.repoList(ctx)
+	if err != nil {
+		return 0, 0, err
+	}
+	total = len(repos)
+	for _, r := range repos {
+		if ctx.Err() != nil || p.ctx.Err() != nil {
+			return done, total, ctx.Err()
+		}
+		had := true
+		var lerr error
+		if details {
+			had = p.localSum(r.Repo) != nil
+			_, _, lerr = p.listRepo(ctx, r)
+		} else {
+			var net bool
+			net, lerr = p.catalogNames(ctx, r)
+			had = !net
+		}
+		if lerr != nil {
+			if e, ok := AsError(lerr); ok && e.Code == "rate_limited" {
+				return done, total, lerr
+			}
+			p.logf("[catalog] bỏ qua repo %s: %v", r.Repo, lerr)
+		} else {
+			done++
+		}
+		if progress != nil {
+			progress(done, total)
+		}
+		if !had && pause > 0 {
+			select {
+			case <-time.After(pause):
+			case <-ctx.Done():
+			}
+		}
+	}
+	return done, total, nil
 }

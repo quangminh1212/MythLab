@@ -1,6 +1,6 @@
 {
   "appId": "io.github.mythlab.reader",
-  "appName": "MythLab Truyện",
+  "appName": "MythLab",
   "webDir": "www",
   "server": {
     "androidScheme": "https"

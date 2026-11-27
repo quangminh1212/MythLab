@@ -1,4 +1,4 @@
-﻿# MythLab Truyện — build APK Android (Capacitor 8 cần JDK 21)
+﻿# MythLab — build APK Android (Capacitor 8 cần JDK 21)
 # .\build.ps1            -> dist\MythLab-debug.apk
 # .\build.ps1 -Release   -> dist\MythLab-release.apk (ký bằng keystore từ biến môi trường)
 #   MYTHLAB_KEYSTORE, MYTHLAB_KEYSTORE_PASS, MYTHLAB_KEY_ALIAS, MYTHLAB_KEY_PASS

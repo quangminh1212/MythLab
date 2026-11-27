@@ -1,4 +1,4 @@
-# MythLab Truyện — app Android
+# MythLab — app Android
 
 Vỏ Capacitor 8 bọc giao diện web Astro (`web/dist`). App chạy độc lập: đọc truyện thẳng từ GitHub bằng token
 chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính cùng Wi-Fi. Đọc to bằng bộ đọc của Android (`vi-VN`).
@@ -8,7 +8,7 @@ chỉ-đọc, hoặc kết nối tới server MythLab chạy trên máy tính c�
 | Tệp | Vai trò |
 |---|---|
 | `package.json` | Capacitor 8 (`core`, `cli`, `android`), `@capacitor/preferences`, `@capacitor-community/text-to-speech`, `@capacitor-community/keep-awake`, `@capgo/capacitor-social-login` (đăng nhập Google, xem `GOOGLE_SIGNIN.md`) |
-| `capacitor.config.json` | `appId io.github.mythlab.reader`, tên `MythLab Truyện`, `webDir www`, scheme `https`, cho phép mixed content (lý do ở mục Bảo mật mạng) |
+| `capacitor.config.json` | `appId io.github.mythlab.reader`, tên `MythLab`, `webDir www`, scheme `https`, cho phép mixed content (lý do ở mục Bảo mật mạng) |
 | `sync-web.mjs` | Chép `../../web/dist` vào `www/` và bỏ `viewport-fit=cover` khỏi `index.html` (để thanh trạng thái màu teal không đè lên header) |
 | `build.ps1` | Đặt `JAVA_HOME` (JDK 21) và `ANDROID_HOME`, dựng web, chạy `sync-web`, `cap sync`, Gradle, chép APK vào `dist/` |
 | `android/` | Dự án Android do `npx cap add android` tạo, đã chỉnh: icon, màu teal, `network_security_config.xml` (cho phép `http` tới server LAN), `<queries>` cho `TTS_SERVICE` |
