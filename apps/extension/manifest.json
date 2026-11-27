@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "MythLab – Nghe truyện",
+  "short_name": "MythLab",
+  "version": "1.0.0",
+  "description": "Mở MythLab trong khung bên cạnh trình duyệt để nghe truyện bằng giọng đọc tiếng Việt ngay trên máy, ở bất kỳ trang nào, bất cứ lúc nào.",
+  "minimum_chrome_version": "114",
+  "icons": { "192": "icons/icon-192.png" },
+  "action": { "default_title": "Mở MythLab (nghe truyện)", "default_icon": { "192": "icons/icon-192.png" } },
+  "side_panel": { "default_path": "panel.html" },
+  "background": { "service_worker": "background.js" },
+  "permissions": ["sidePanel"],
+  "commands": {
+    "_execute_action": { "suggested_key": { "default": "Alt+M" }, "description": "Mở / đóng MythLab" }
+  }
+}
