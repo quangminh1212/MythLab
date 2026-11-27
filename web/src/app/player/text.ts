@@ -8,6 +8,8 @@
 export const LOCAL_MAX = 220;
 /** Largest piece handed to the native (Capacitor) voice in one call. */
 export const NATIVE_PIECE = 3500;
+/** Sentences are joined into one native utterance up to this many characters (fewer gaps between utterances). */
+export const NATIVE_JOIN = 600;
 /** Spoken at the end of a chapter before the next one starts. */
 export const CHAPTER_CUE = 'Hết chương, chuẩn bị qua chương mới.';
 export const RATES: readonly number[] = [0.75, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.75, 2];

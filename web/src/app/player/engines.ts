@@ -11,7 +11,7 @@ import type { TtsEngine } from '../core/settings';
 import { S, set } from '../core/settings';
 import { isNativeIOS } from '../core/native-platform';
 import { confirmDialog, toast } from '../core/ui';
-import { NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
+import { NATIVE_JOIN, NATIVE_PIECE, offsetAtTime, pieces, sentAt, type Chunk, type ChunkSent } from './text';
 import { isVi } from '../settings/voices';
 import { installVoiceOnce } from './autovoice';
 import { downloadBytes, forget as piperForgetClips, megabytes, piperPrefetch, piperSource, piperSupported, piperChoice, PIPER_SIZE_NOTE, lowMemoryNote, tooHeavyHere, PIPER_CHOICES, piperInstalled, piperChoiceLabel } from './piper';
@@ -464,14 +464,31 @@ function nativeStop(): void {
 function nativeQueue(p: NativeTts, chunk: Chunk, from: number, rate: number, pitch: number, voice: number, token: number, flush: boolean): NativeQueue {
   const items: NativeQueue['items'] = [];
   let first = flush;
+  // one utterance per sentence leaves an audible gap after each one; join neighbours into longer utterances
+  // (the highlight then moves per group, the voice runs on without the stop-start)
+  const speak = (text: string, k: number): void => {
+    const r = Promise.resolve(p.speak({ text, lang: 'vi-VN', rate, pitch, volume: 1, category: 'playback', queueStrategy: first ? 0 : 1, voice }));
+    r.catch(() => {});
+    first = false;
+    items.push({ k, p: r });
+  };
+  let group = '';
+  let groupK = from;
   for (let k = from; k < chunk.sents.length; k++) {
-    for (const piece of pieces(sentText(chunk, k), NATIVE_PIECE)) {
-      const r = Promise.resolve(p.speak({ text: piece.text, lang: 'vi-VN', rate, pitch, volume: 1, category: 'playback', queueStrategy: first ? 0 : 1, voice }));
-      r.catch(() => {});
-      first = false;
-      items.push({ k, p: r });
+    const t = sentText(chunk, k);
+    if (group && group.length + t.length + 1 > NATIVE_JOIN) {
+      speak(group, groupK);
+      group = '';
     }
+    if (!group) groupK = k;
+    if (t.length > NATIVE_JOIN) {
+      for (const piece of pieces(t, NATIVE_PIECE)) speak(piece.text, k);
+      group = '';
+      continue;
+    }
+    group = group ? `${group} ${t}` : t;
   }
+  if (group) speak(group, groupK);
   if (items.length) nativeBusy = true;
   return { chunk, from, rate, pitch, token, voice, items };
 }

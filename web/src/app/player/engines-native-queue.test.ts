@@ -44,10 +44,11 @@ const tick = () => new Promise((r) => setTimeout(r, 0));
 afterEach(() => vi.unstubAllGlobals());
 
 describe('native engine queues utterances in the speech service', () => {
-  it('queues every sentence of a chunk at once (flush first, then add) and reports sentences as they finish', async () => {
+  it('queues a chunk at once (flush first, then add) and reports sentences as they finish', async () => {
     const { e, calls } = await setup();
     const sent: number[] = [];
-    const c = chunk('Câu một.', 'Câu hai.', 'Câu ba.');
+    const long = (w: string) => `${w} ${'x'.repeat(400)}.`;
+    const c = chunk(long('Một'), long('Hai'), long('Ba'));
     const p = e.speak('native', c, { from: 0, rate: 1, pitch: 1, onSent: (k) => sent.push(k) });
     await tick();
     expect(calls.map((x) => x.queueStrategy)).toEqual([0, 1, 1]);
@@ -68,19 +69,19 @@ describe('native engine queues utterances in the speech service', () => {
     e.prefetch('native', b);
     const pa = e.speak('native', a, { from: 0, rate: 1, pitch: 1, onSent() {} });
     await tick();
-    expect(calls.map((x) => x.text)).toEqual(['A một.', 'A hai.', 'B một.']);
-    expect(calls.map((x) => x.queueStrategy)).toEqual([0, 1, 1]);
+    // short neighbouring sentences are joined into one utterance: no gap between them
+    expect(calls.map((x) => x.text)).toEqual(['A một. A hai.', 'B một.']);
+    expect(calls.map((x) => x.queueStrategy)).toEqual([0, 1]);
     calls[0]!.done();
-    calls[1]!.done();
     await pa;
     // the player now asks for chunk b: nothing new is sent, the queue is followed
     const sent: number[] = [];
     const pb = e.speak('native', b, { from: 0, rate: 1, pitch: 1, onSent: (k) => sent.push(k) });
     await tick();
-    expect(calls).toHaveLength(3);
+    expect(calls).toHaveLength(2);
     expect(stop).not.toHaveBeenCalled();
     expect(sent).toEqual([0]);
-    calls[2]!.done();
+    calls[1]!.done();
     await pb;
   });
 
