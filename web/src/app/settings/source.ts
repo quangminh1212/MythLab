@@ -53,7 +53,7 @@ export function mountSource(el: HTMLElement): () => void {
 
         <div class="ss-row">
           <label class="ss-label" for="ss-srv-url">Máy chủ MythLab (địa chỉ)</label>
-          <input id="ss-srv-url" class="input" type="url" inputmode="url" autocomplete="off" spellcheck="false" placeholder="http://192.168.1.10:8765" />
+          <input id="ss-srv-url" class="input" type="url" inputmode="url" autocomplete="off" spellcheck="false" placeholder="https://myth.xlabrnd.com" />
         </div>
         <div class="ss-row">
           <label class="ss-label" for="ss-srv-key">Khoá máy chủ</label>
@@ -171,7 +171,7 @@ export function mountSource(el: HTMLElement): () => void {
   async function checkServer(): Promise<{ url: string; key: string } | null> {
     const url = normaliseServerUrl($<HTMLInputElement>('#ss-srv-url').value);
     if (!url) {
-      say(srvMsg, 'Nhập địa chỉ máy chủ, ví dụ http://192.168.1.10:8765', 'error');
+      say(srvMsg, 'Nhập địa chỉ máy chủ, ví dụ https://myth.xlabrnd.com', 'error');
       return null;
     }
     const cfg = backend.serverConfig();

@@ -113,6 +113,7 @@ describe('chapter grid (column-major blocks of ten rows)', () => {
 describe('normaliseServerUrl', () => {
   it('accepts what people type', () => {
     expect(normaliseServerUrl('192.168.1.5:8765')).toBe('http://192.168.1.5:8765');
+    expect(normaliseServerUrl('myth.xlabrnd.com')).toBe('https://myth.xlabrnd.com');
     expect(normaliseServerUrl('  http://may-chu.local:8765/  ')).toBe('http://may-chu.local:8765');
     expect(normaliseServerUrl('https://doc.example.org/truyen/')).toBe('https://doc.example.org/truyen');
     expect(normaliseServerUrl('localhost:18801')).toBe('http://localhost:18801');

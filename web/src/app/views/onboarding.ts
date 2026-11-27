@@ -33,7 +33,7 @@ function setBusy(form: HTMLFormElement, on: boolean, label: string): void {
 export function normaliseServerUrl(input: string): string | null {
   let v = input.trim();
   if (!v) return null;
-  if (!/^[a-z][a-z0-9+.-]*:\/\//i.test(v)) v = 'http://' + v;
+  if (!/^[a-z][a-z0-9+.-]*:\/\//i.test(v)) v = (/^[a-z0-9-]+(\.[a-z0-9-]*[a-z][a-z0-9-]*)+(\/|$)/i.test(v) ? 'https://' : 'http://') + v;
   try {
     const u = new URL(v);
     if (u.protocol !== 'http:' && u.protocol !== 'https:') return null;
@@ -50,7 +50,7 @@ async function connectServer(form: HTMLFormElement): Promise<void> {
   const keyIn = form.querySelector<HTMLInputElement>('#ob-key') as HTMLInputElement;
   const url = normaliseServerUrl(urlIn.value);
   if (!url) {
-    setStatus(form, 'Hãy nhập địa chỉ máy chủ, ví dụ 192.168.1.10:8765.', 'error');
+    setStatus(form, 'Hãy nhập địa chỉ máy chủ, ví dụ myth.xlabrnd.com.', 'error');
     urlIn.setAttribute('aria-invalid', 'true');
     urlIn.focus();
     return;
@@ -142,8 +142,8 @@ export function mount(el: HTMLElement, _route: Route, ctx: ViewContext): void {
           <p class="panel-text">Dùng khi bạn đang chạy MythLab trên máy tính trong nhà. Địa chỉ được hiện trên cửa sổ máy chủ khi khởi động.</p>
           <div class="form-row">
             <label class="label" for="ob-url">Địa chỉ máy chủ</label>
-            <input id="ob-url" class="input" type="url" inputmode="url" placeholder="192.168.1.10:8765" autocomplete="url" autocapitalize="off" spellcheck="false" value="${saved?.url || ''}" aria-describedby="ob-url-hint" />
-            <p id="ob-url-hint" class="hint">Ví dụ: 192.168.1.10:8765</p>
+            <input id="ob-url" class="input" type="url" inputmode="url" placeholder="https://myth.xlabrnd.com" autocomplete="url" autocapitalize="off" spellcheck="false" value="${saved?.url || ''}" aria-describedby="ob-url-hint" />
+            <p id="ob-url-hint" class="hint">Ví dụ: https://myth.xlabrnd.com</p>
           </div>
           <div class="form-row">
             <label class="label" for="ob-key">Mã truy cập <span class="muted">(nếu máy chủ yêu cầu)</span></label>
