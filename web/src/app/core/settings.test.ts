@@ -58,7 +58,7 @@ describe('settings model', () => {
   it('a browser-engine user that never picked a Piper voice gets the light default; a chosen voice is kept', () => {
     localStorage.setItem(KEY, JSON.stringify({ engine: 'browser', piperVoice: 'vi_VN-vais1000-medium' }));
     load();
-    expect(S.piperVoice).toBe(DEF.piperVoice);
+    expect(S.piperVoice).toBe('vi_VN-vais1000-medium'); // a bare id still means the first speaker (piperChoice)
     localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-vais1000-medium' }));
     load();
     expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
@@ -66,7 +66,7 @@ describe('settings model', () => {
 
   it('new users start with Piper and VAIS-1000 (63 MB)', () => {
     expect(DEF.engine).toBe('piper');
-    expect(DEF.piperVoice).toBe('vi_VN-vais1000-medium');
+    expect(DEF.piperVoice).toBe('vi_VN-vais1000-medium#0');
     expect(normalise('engine', 'piper')).toBe('piper');
     expect(normalise('engine', 'sherpa')).toBe(DEF.engine);
   });

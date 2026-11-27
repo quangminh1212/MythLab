@@ -60,7 +60,8 @@ describe('engines of the picker', () => {
     expect(items.find((i) => i.id === DEFAULT_PIPER_VOICE)?.label).toMatch(/63 MB/);
     expect(items[0]?.label).toMatch(/63 MB/);
     expect(items.some((i) => /^Nam · /.test(i.label))).toBe(true);
-    expect(items.some((i) => /^Chưa rõ giới tính · .*63 MB/.test(i.label))).toBe(true);
+    expect(items.some((i) => /^Nữ · Mai · 63 MB/.test(i.label))).toBe(true);
+    expect(selectVoice('piper', items, 'vi_VN-vais1000-medium')).toEqual({ value: DEFAULT_PIPER_VOICE, store: DEFAULT_PIPER_VOICE });
     expect(selectVoice('piper', items, 'nope')).toEqual({ value: DEFAULT_PIPER_VOICE, store: DEFAULT_PIPER_VOICE });
     expect(selectVoice('piper', items, items[2]?.id as string).store).toBeNull();
   });

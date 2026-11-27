@@ -61,7 +61,7 @@ export const isNative = (): boolean => {
 };
 
 /** The default Piper voice (VAIS-1000, 63 MB); the old default id is kept for the migration below. */
-const DEFAULT_VOICE = 'vi_VN-vais1000-medium';
+const DEFAULT_VOICE = 'vi_VN-vais1000-medium#0';
 
 export function defaults(): Settings {
   return {

@@ -138,7 +138,7 @@ describe('low-memory phones (navigator.deviceMemory <= 2)', () => {
     S.piperVoice = HEAVY;
     await ensureVoice(HEAVY);
     expect(installed).toEqual(['vi_VN-vais1000-medium']);
-    expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
+    expect(S.piperVoice).toBe('vi_VN-vais1000-medium#0');
     expect(confirmDialog).not.toHaveBeenCalled();
   });
 
@@ -146,7 +146,7 @@ describe('low-memory phones (navigator.deviceMemory <= 2)', () => {
     S.piperVoice = 'kokoro-vi-lite#0';
     expect(await autoInstallVoice()).toBe(true);
     expect(installed).toEqual(['vi_VN-vais1000-medium']);
-    expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
+    expect(S.piperVoice).toBe('vi_VN-vais1000-medium#0');
   });
 
   it('a heavy voice that is already on the device is kept', async () => {

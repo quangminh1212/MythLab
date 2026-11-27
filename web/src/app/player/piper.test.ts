@@ -8,7 +8,7 @@ describe('piper catalog', () => {
   it('lists the Vietnamese models with sizes and the commercial-safe one first', () => {
     expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite']);
     // the default is VAIS-1000 (the settings default says the same)
-    expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium');
+    expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium#0');
     expect(DEFAULT_PIPER_VOICE).toBe(DEF.piperVoice);
     expect(megabytes(piperVoice('vi_VN-vais1000-medium').bytes)).toBe('63 MB');
     expect(megabytes(piperVoice('vi_VN-csa-voice-piper-v3-medium').bytes)).toBe('77 MB');
@@ -40,11 +40,13 @@ describe('piper picker choices', () => {
     expect(new Set(PIPER_CHOICES.map((c) => c.id)).size).toBe(PIPER_CHOICES.length);
   });
 
-  it('only labels a gender for documented speakers, the others say it is unknown', () => {
-    expect(piperChoiceLabel(piperChoice('vi_VN-vais1000-medium'), false)).toBe('Chưa rõ giới tính · Vais1000 — chất lượng cao · 63 MB');
+  it('labels every speaker with a gender (measured median F0 for the two single-voice models)', () => {
+    expect(piperChoiceLabel(piperChoice('vi_VN-vais1000-medium'), false)).toBe('Nữ · Mai · 63 MB');
     expect(piperChoiceLabel(piperChoice('vi_VN-csa-voice-piper-v3-medium#2'), true)).toBe('Nam · Quang Huy (miền Bắc) · 77 MB · đã tải');
     expect(piperChoiceLabel(piperChoice('kokoro-vi-lite#0'), false)).toBe('Nữ · Diễm Trinh · 72 MB');
-    expect(PIPER_CHOICES.filter((c) => c.model.id === 'vi_VN-25hours_single-low').every((c) => c.gender === null)).toBe(true);
+    expect(piperChoiceLabel(piperChoice('vi_VN-25hours_single-low#0'), false)).toBe('Nữ · Hương · 63 MB');
+    expect(piperChoice('vi_VN-25hours_single-low').id).toBe('vi_VN-25hours_single-low#0'); // a bare saved id is its first speaker
+    expect(PIPER_CHOICES.every((c) => c.gender !== null)).toBe(true);
   });
 
   it('maps a saved id to its speaker; a bare or unknown id means the first speaker / the default', () => {
@@ -55,7 +57,7 @@ describe('piper picker choices', () => {
   });
 
   it('keeps every offered speaker inside the model (sid < 5 for Piper v3) and gives every model a credit', () => {
-    const max: Record<string, number> = { 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2 };
+    const max: Record<string, number> = { 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2, 'vi_VN-vais1000-medium': 1, 'vi_VN-25hours_single-low': 1 };
     for (const v of PIPER_VOICES) {
       expect(v.credit.length).toBeGreaterThan(10);
       for (const s of v.speakers ?? []) expect(s.sid).toBeLessThan(max[v.id] as number);

@@ -85,8 +85,8 @@ const nam = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: '
 
 /** The Vietnamese voices. The default is VAIS-1000 (CC BY 4.0, the best quality); Piper v3 and Kokoro Lite add more male and female voices. */
 export const PIPER_VOICES: readonly PiperVoice[] = [
-  { id: 'vi_VN-vais1000-medium', name: 'Vais1000 — chất lượng cao', repo: `${REPO}vais1000/medium/`, bytes: 63_221_984, sha256: '0567643f67b8329a46b3f0b549befc58e1e7e21ef558677768068d23a41d8471', configBytes: 6197, configSha256: '19240ab1eb13e5eb9c7dd00f9d1de5db08ff88d591c5008cbd24f1a25f51e13a', sampleRate: 22050, note: 'CC BY 4.0', credit: 'Vais1000: dữ liệu VAIS-1000 (VAIS), giấy phép CC BY 4.0; mô hình Piper (Rhasspy).' },
-  { id: 'vi_VN-25hours_single-low', name: '25 giờ — một giọng', repo: `${REPO}25hours_single/low/`, bytes: 63_104_526, sha256: '266945c4a80cb3301450c8ba6fcf6ba3542c56cf952a08a8ff3d2d4ff0ab5609', configBytes: 4176, configSha256: '344b5849f5bc585031a63b9cc75f96e2c469f3d98879d8d3acbc2fce6d470064', sampleRate: 16000, note: 'chất lượng vừa', credit: '25 giờ: dữ liệu InfoRe (giấy phép chưa rõ); mô hình Piper (Rhasspy).' },
+  { id: 'vi_VN-vais1000-medium', name: 'Vais1000', repo: `${REPO}vais1000/medium/`, bytes: 63_221_984, sha256: '0567643f67b8329a46b3f0b549befc58e1e7e21ef558677768068d23a41d8471', configBytes: 6197, configSha256: '19240ab1eb13e5eb9c7dd00f9d1de5db08ff88d591c5008cbd24f1a25f51e13a', sampleRate: 22050, note: 'CC BY 4.0', credit: 'Vais1000: dữ liệu VAIS-1000 (VAIS), giấy phép CC BY 4.0; mô hình Piper (Rhasspy).', speakers: [nu(0, 'Mai')] },
+  { id: 'vi_VN-25hours_single-low', name: '25 giờ', repo: `${REPO}25hours_single/low/`, bytes: 63_104_526, sha256: '266945c4a80cb3301450c8ba6fcf6ba3542c56cf952a08a8ff3d2d4ff0ab5609', configBytes: 4176, configSha256: '344b5849f5bc585031a63b9cc75f96e2c469f3d98879d8d3acbc2fce6d470064', sampleRate: 16000, note: 'chất lượng vừa', credit: '25 giờ: dữ liệu InfoRe (giấy phép chưa rõ); mô hình Piper (Rhasspy).', speakers: [nu(0, 'Hương')] },
   {
     id: 'vi_VN-csa-voice-piper-v3-medium',
     name: 'Piper v3',
@@ -119,7 +119,7 @@ export const PIPER_VOICES: readonly PiperVoice[] = [
 ];
 
 /** The voice a new install uses and downloads by itself: VAIS-1000 (63 MB, same as core/settings.ts). */
-export const DEFAULT_PIPER_VOICE = 'vi_VN-vais1000-medium';
+export const DEFAULT_PIPER_VOICE = 'vi_VN-vais1000-medium#0';
 
 /** The model for a saved id ("model" or "model#speaker"); an unknown id (older / newer app) gives the default. */
 export const piperVoice = (id: string | undefined): PiperVoice =>

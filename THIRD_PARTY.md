@@ -5,8 +5,8 @@ Giọng đọc chạy trên thiết bị (Piper WASM, Kokoro Lite); mô hình đ
 | Giọng | Dữ liệu / tác giả | Giấy phép | Ghi chú |
 |---|---|---|---|
 | Piper v3 (5 giọng) | CakeByVPBank | MIT | Huấn luyện trên dữ liệu giọng tổng hợp |
-| Vais1000 | VAIS-1000 (VAIS); mô hình Piper (Rhasspy) | CC BY 4.0 | Cần ghi công |
-| 25 giờ (25hours_single) | InfoRe; mô hình Piper (Rhasspy) | Chưa rõ | Dùng phi thương mại cho đến khi làm rõ |
+| Vais1000 (giọng "Mai", nữ) | VAIS-1000 (VAIS); mô hình Piper (Rhasspy) | CC BY 4.0 | Cần ghi công |
+| 25 giờ (25hours_single, giọng "Hương", nữ) | InfoRe; mô hình Piper (Rhasspy) | Chưa rõ | Dùng phi thương mại cho đến khi làm rõ |
 | Kokoro Vietnamese Lite (Nữ Diễm Trinh, Nam Đức Duy) | loanhviet; chưng cất từ contextboxai/Kokoro-Vietnamese và hexgrad/Kokoro-82M; từ điển SEA-G2P (pnnbao97) | Apache-2.0 | Văn bản giấy phép: `web/src/app/player/kokoro/` |
 
 ## Thư viện chạy
