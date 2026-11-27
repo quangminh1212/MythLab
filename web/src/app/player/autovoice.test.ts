@@ -35,7 +35,7 @@ beforeEach(() => {
     h.have.add(id);
   };
   S.engine = 'piper';
-  S.piperVoice = 'vi_VN-vivos-x_low#0';
+  S.piperVoice = 'vi_VN-vais1000-medium';
   vi.mocked(toast).mockClear();
   vi.mocked(confirmDialog).mockClear();
 });
@@ -44,13 +44,13 @@ afterEach(() => vi.unstubAllGlobals());
 describe('automatic voice download', () => {
   it('downloads only the selected voice (the light default), without a dialog', async () => {
     expect(await autoInstallVoice()).toBe(true);
-    expect(installed).toEqual(['vi_VN-vivos-x_low']);
+    expect(installed).toEqual(['vi_VN-vais1000-medium']);
     expect(confirmDialog).not.toHaveBeenCalled();
     expect(voiceProgress()).toBe(-1);
   });
 
   it('downloads nothing when the voice is already on the device (later loads)', async () => {
-    h.have.add('vi_VN-vivos-x_low');
+    h.have.add('vi_VN-vais1000-medium');
     expect(await autoInstallVoice()).toBe(true);
     expect(installed).toEqual([]);
   });
@@ -78,7 +78,7 @@ describe('automatic voice download', () => {
     expect(vi.mocked(toast).mock.calls.some((c) => JSON.stringify(c[0]).includes('Sẽ thử lại'))).toBe(true);
     fail = false;
     window.dispatchEvent(new Event('online'));
-    await vi.waitFor(() => expect(h.have.has('vi_VN-vivos-x_low')).toBe(true));
+    await vi.waitFor(() => expect(h.have.has('vi_VN-vais1000-medium')).toBe(true));
     expect(installed).toHaveLength(2);
   });
 
@@ -125,7 +125,7 @@ describe('ensureVoice (play pressed before the voice is ready)', () => {
       await new Promise((r) => setTimeout(r, 5));
       h.have.add(id);
     };
-    await Promise.all([installVoiceOnce('vi_VN-vivos-x_low#0'), installVoiceOnce('vi_VN-vivos-x_low#3')]);
+    await Promise.all([installVoiceOnce('vi_VN-csa-voice-piper-v3-medium#0'), installVoiceOnce('vi_VN-csa-voice-piper-v3-medium#3')]);
     expect(n).toBe(1);
   });
 });
@@ -134,19 +134,19 @@ describe('low-memory phones (navigator.deviceMemory <= 2)', () => {
   const HEAVY = 'vi_VN-csa-voice-piper-v3-medium#0';
   beforeEach(() => vi.stubGlobal('navigator', { deviceMemory: 2, onLine: true }));
 
-  it('the player gives a not-yet-downloaded heavy voice the lightest Vivos voice, with no heavy download and no dialog', async () => {
+  it('the player gives a not-yet-downloaded heavy voice the lightest voice, with no heavy download and no dialog', async () => {
     S.piperVoice = HEAVY;
     await ensureVoice(HEAVY);
-    expect(installed).toEqual(['vi_VN-vivos-x_low']);
-    expect(S.piperVoice).toBe('vi_VN-vivos-x_low#0');
+    expect(installed).toEqual(['vi_VN-vais1000-medium']);
+    expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
     expect(confirmDialog).not.toHaveBeenCalled();
   });
 
   it('the automatic download does the same', async () => {
     S.piperVoice = 'kokoro-vi-lite#0';
     expect(await autoInstallVoice()).toBe(true);
-    expect(installed).toEqual(['vi_VN-vivos-x_low']);
-    expect(S.piperVoice).toBe('vi_VN-vivos-x_low#0');
+    expect(installed).toEqual(['vi_VN-vais1000-medium']);
+    expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
   });
 
   it('a heavy voice that is already on the device is kept', async () => {

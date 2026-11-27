@@ -548,3 +548,29 @@ button.nav-link:hover {
 .player-dock:empty {
   display: none;
 }
+
+/* Wordmark: "MYTH" in widely spaced serif capitals beside the X mark. */
+.brand-word {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 1;
+  letter-spacing: 0.3em;
+  margin-right: -0.3em; /* the trailing letter-space would otherwise unbalance the lock-up */
+  color: var(--brand);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* On light backgrounds the brand teal is only 3.1:1; a darker shade of it reaches AA (dark themes keep --brand). */
+:root[data-mode="light"] .brand-word {
+  color: #00726c;
+}
+
+@media (max-width: 380px) {
+  .brand-word {
+    font-size: 1rem;
+    letter-spacing: 0.22em;
+  }
+}

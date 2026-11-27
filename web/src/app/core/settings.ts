@@ -60,9 +60,8 @@ export const isNative = (): boolean => {
   return !!c && typeof c.isNativePlatform === 'function' && c.isNativePlatform();
 };
 
-/** The default Piper voice (a female Vivos speaker, 28 MB) and the one that was the default before. */
-const DEFAULT_VOICE = 'vi_VN-vivos-x_low#0';
-const OLD_DEFAULT_VOICE = 'vi_VN-vais1000-medium';
+/** The default Piper voice (VAIS-1000, 63 MB); the old default id is kept for the migration below. */
+const DEFAULT_VOICE = 'vi_VN-vais1000-medium';
 
 export function defaults(): Settings {
   return {
@@ -87,7 +86,7 @@ export function defaults(): Settings {
     // Piper (on the device) is the reader of the web; the Android app starts with the phone's own voice
     engine: isNative() ? 'native' : 'piper',
     nativeVoice: '',
-    // light (28 MB) and decent: downloaded by itself in the background after the first load
+    // 63 MB, best quality: downloaded by itself in the background after the first load
     piperVoice: DEFAULT_VOICE,
     rate: 1,
     pitch: 1,
@@ -195,10 +194,10 @@ export function load(): boolean {
   if (next.font === 'sans') next.font = 'inter';
   // The browser's speechSynthesis reader is gone (most devices have no Vietnamese voice in it), the server (Edge)
   // voices are gone too: those choices, and the Android voice on a host without the app, become Piper (on the device).
-  // A device that never chose Piper and still has the old default voice (63 MB) gets the new light default.
-  if (next.engine === 'browser' && next.piperVoice === OLD_DEFAULT_VOICE) delete next.piperVoice;
   if (next.engine === 'browser' || next.engine === 'edge' || (next.engine === 'native' && !isNative())) next.engine = isNative() ? 'native' : 'piper';
   delete next.browserVoice;
+  // the Vivos voices were removed: a saved Vivos choice goes back to the default voice
+  if (typeof next.piperVoice === 'string' && next.piperVoice.startsWith('vi_VN-vivos')) delete next.piperVoice;
   // the stored server voice id and device voice ids that are server voices (Edge "...Neural", server Piper "...Piper") are dropped
   delete next.voice;
   if (typeof next.nativeVoice === 'string' && /(Neural|Piper)$/.test(next.nativeVoice)) next.nativeVoice = '';

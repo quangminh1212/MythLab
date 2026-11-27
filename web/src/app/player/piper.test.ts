@@ -6,19 +6,19 @@ import { DEFAULT_PIPER_VOICE, downloadBytes, KOKORO_FILES, megabytes, PIPER_CHOI
 
 describe('piper catalog', () => {
   it('lists the Vietnamese models with sizes and the commercial-safe one first', () => {
-    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-vivos-x_low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite']);
-    // the default is the light Nữ Vivos speaker (the settings default says the same)
-    expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vivos-x_low#0');
+    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite']);
+    // the default is VAIS-1000 (the settings default says the same)
+    expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium');
     expect(DEFAULT_PIPER_VOICE).toBe(DEF.piperVoice);
-    expect(megabytes(piperVoice('vi_VN-vivos-x_low').bytes)).toBe('28 MB');
+    expect(megabytes(piperVoice('vi_VN-vais1000-medium').bytes)).toBe('63 MB');
     expect(megabytes(piperVoice('vi_VN-csa-voice-piper-v3-medium').bytes)).toBe('77 MB');
   });
 
   it('maps a saved id to a voice and falls back to the default for an unknown one', () => {
     expect(piperVoice('vi_VN-25hours_single-low').sampleRate).toBe(16000);
-    expect(piperVoice('gone').id).toBe('vi_VN-vivos-x_low');
-    expect(piperVoice(undefined).id).toBe('vi_VN-vivos-x_low');
-    expect(piperVoice('vi_VN-vivos-x_low#7').id).toBe('vi_VN-vivos-x_low');
+    expect(piperVoice('gone').id).toBe('vi_VN-vais1000-medium');
+    expect(piperVoice(undefined).id).toBe('vi_VN-vais1000-medium');
+    expect(piperVoice('vi_VN-vivos-x_low#7').id).toBe('vi_VN-vais1000-medium');
   });
 
   it('builds model urls next to their json and labels downloaded voices', () => {
@@ -34,8 +34,8 @@ describe('piper picker choices', () => {
   it('offers male and female voices, lightest download first', () => {
     const sizes = PIPER_CHOICES.map((c) => downloadBytes(c.model));
     expect(sizes).toEqual([...sizes].sort((a, b) => a - b));
-    expect(PIPER_CHOICES[0]?.model.id).toBe('vi_VN-vivos-x_low');
-    expect(PIPER_CHOICES.filter((c) => c.gender === 'nam').length).toBeGreaterThanOrEqual(5);
+    expect(PIPER_CHOICES[0]?.model.id).toBe('vi_VN-25hours_single-low');
+    expect(PIPER_CHOICES.filter((c) => c.gender === 'nam').length).toBeGreaterThanOrEqual(2);
     expect(PIPER_CHOICES.filter((c) => c.gender === 'nu').length).toBeGreaterThanOrEqual(5);
     expect(new Set(PIPER_CHOICES.map((c) => c.id)).size).toBe(PIPER_CHOICES.length);
   });
@@ -43,20 +43,19 @@ describe('piper picker choices', () => {
   it('only labels a gender for documented speakers, the others say it is unknown', () => {
     expect(piperChoiceLabel(piperChoice('vi_VN-vais1000-medium'), false)).toBe('Chưa rõ giới tính · Vais1000 — chất lượng cao · 63 MB');
     expect(piperChoiceLabel(piperChoice('vi_VN-csa-voice-piper-v3-medium#2'), true)).toBe('Nam · Quang Huy (miền Bắc) · 77 MB · đã tải');
-    expect(piperChoiceLabel(piperChoice('vi_VN-vivos-x_low#0'), false)).toBe('Nữ · Vivos 1 · 28 MB');
+    expect(piperChoiceLabel(piperChoice('kokoro-vi-lite#0'), false)).toBe('Nữ · Diễm Trinh · 72 MB');
     expect(PIPER_CHOICES.filter((c) => c.model.id === 'vi_VN-25hours_single-low').every((c) => c.gender === null)).toBe(true);
   });
 
   it('maps a saved id to its speaker; a bare or unknown id means the first speaker / the default', () => {
     expect(piperChoice('vi_VN-csa-voice-piper-v3-medium#4').sid).toBe(4);
-    expect(piperChoice('vi_VN-vivos-x_low#9').sid).toBe(9);
-    expect(piperChoice('vi_VN-vivos-x_low').model.id).toBe('vi_VN-vivos-x_low');
-    expect(piperChoice('vi_VN-vivos-x_low#64').model.id).toBe('vi_VN-vivos-x_low');
+    expect(piperChoice('vi_VN-vivos-x_low#9').id).toBe(DEFAULT_PIPER_VOICE); // removed voice
+    expect(piperChoice('vi_VN-csa-voice-piper-v3-medium#64').model.id).toBe('vi_VN-csa-voice-piper-v3-medium');
     expect(piperChoice('gone').id).toBe(DEFAULT_PIPER_VOICE);
   });
 
-  it('keeps every offered speaker inside the model (sid < 65 for vivos, < 5 for Piper v3) and gives every model a credit', () => {
-    const max: Record<string, number> = { 'vi_VN-vivos-x_low': 65, 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2 };
+  it('keeps every offered speaker inside the model (sid < 5 for Piper v3) and gives every model a credit', () => {
+    const max: Record<string, number> = { 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2 };
     for (const v of PIPER_VOICES) {
       expect(v.credit.length).toBeGreaterThan(10);
       for (const s of v.speakers ?? []) expect(s.sid).toBeLessThan(max[v.id] as number);

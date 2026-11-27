@@ -16,7 +16,7 @@ import type { PiperChoice } from './piper';
 import { downloadBytes, installPiper, lightChoice, lowMemoryNote, megabytes, piperChoice, piperInstalled, piperSupported, PIPER_SIZE_NOTE, refreshPiper, tooHeavyHere } from './piper';
 
 /** Voices bigger than this ask before they download when the user did not pick them (play, saveData). */
-export const CONFIRM_ABOVE = 40_000_000;
+export const CONFIRM_ABOVE = 70_000_000;
 
 /** The connection asks to save data (Data Saver / metered): nothing is downloaded without the user. */
 export function saveData(): boolean {
@@ -101,7 +101,7 @@ export function installVoiceOnce(id: string, step = 10): Promise<void> {
 
 /**
  * A phone with 2 GB of RAM or less is not given a heavy voice it does not have yet: the saved choice becomes the
- * lightest Vivos voice (a voice that is already downloaded is never replaced).
+ * lightest voice (a voice that is already downloaded is never replaced).
  */
 export function lightForLowMemory(c: PiperChoice): PiperChoice {
   if (!tooHeavyHere(downloadBytes(c.model)) || piperInstalled(c.model.id)) return c;

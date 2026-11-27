@@ -56,9 +56,9 @@ describe('engines of the picker', () => {
     expect(voiceKey('piper')).toBe('piperVoice');
     expect(voiceKey('native')).toBe('nativeVoice');
     const items = piperItems();
-    expect(items.length).toBeGreaterThanOrEqual(12);
-    expect(items[0]?.label).toMatch(/^Nữ · .* · 28 MB/);
-    expect(items[0]?.id).toBe(DEFAULT_PIPER_VOICE);
+    expect(items.length).toBe(9);
+    expect(items.find((i) => i.id === DEFAULT_PIPER_VOICE)?.label).toMatch(/63 MB/);
+    expect(items[0]?.label).toMatch(/63 MB/);
     expect(items.some((i) => /^Nam · /.test(i.label))).toBe(true);
     expect(items.some((i) => /^Chưa rõ giới tính · .*63 MB/.test(i.label))).toBe(true);
     expect(selectVoice('piper', items, 'nope')).toEqual({ value: DEFAULT_PIPER_VOICE, store: DEFAULT_PIPER_VOICE });

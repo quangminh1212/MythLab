@@ -4,7 +4,6 @@ Giọng đọc chạy trên thiết bị (Piper WASM, Kokoro Lite); mô hình đ
 
 | Giọng | Dữ liệu / tác giả | Giấy phép | Ghi chú |
 |---|---|---|---|
-| Vivos (10 giọng Nam/Nữ, mặc định `vi_VN-vivos-x_low`) | VIVOS (AILAB, ĐH Khoa học Tự nhiên TP.HCM); mô hình Piper (Rhasspy) | CC BY-NC-SA 4.0 | Chỉ phi thương mại, chia sẻ tương tự |
 | Piper v3 (5 giọng) | CakeByVPBank | MIT | Huấn luyện trên dữ liệu giọng tổng hợp |
 | Vais1000 | VAIS-1000 (VAIS); mô hình Piper (Rhasspy) | CC BY 4.0 | Cần ghi công |
 | 25 giờ (25hours_single) | InfoRe; mô hình Piper (Rhasspy) | Chưa rõ | Dùng phi thương mại cho đến khi làm rõ |

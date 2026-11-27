@@ -3,7 +3,7 @@
 // Hugging Face). Nothing is served by our own server. NOT part of predev/prebuild.
 //
 //   node scripts/fetch-models.mjs                      every model -> public/tts/models
-//   node scripts/fetch-models.mjs vais1000 vivos       only ids containing these words
+//   node scripts/fetch-models.mjs vais1000 25hours       only ids containing these words
 //   node scripts/fetch-models.mjs --out D:/models      another folder
 //
 // Files already present with the right size and hash are kept. A failed download leaves no file behind.

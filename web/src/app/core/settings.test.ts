@@ -64,20 +64,26 @@ describe('settings model', () => {
     expect(S.piperVoice).toBe('vi_VN-vais1000-medium');
   });
 
-  it('new users start with Piper and a light voice (Nữ Vivos, 28 MB)', () => {
+  it('new users start with Piper and VAIS-1000 (63 MB)', () => {
     expect(DEF.engine).toBe('piper');
-    expect(DEF.piperVoice).toBe('vi_VN-vivos-x_low#0');
+    expect(DEF.piperVoice).toBe('vi_VN-vais1000-medium');
     expect(normalise('engine', 'piper')).toBe('piper');
     expect(normalise('engine', 'sherpa')).toBe(DEF.engine);
+  });
+
+  it('a saved Vivos voice (removed) goes back to the default', () => {
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-vivos-x_low#3' }));
+    load();
+    expect(S.piperVoice).toBe(DEF.piperVoice);
   });
 
   it('keeps a stored Piper choice on the web even when the host cannot run it (the settings say why)', () => {
     vi.stubGlobal('caches', {});
     vi.stubGlobal('Worker', class {});
-    localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-vivos-x_low' }));
+    localStorage.setItem(KEY, JSON.stringify({ engine: 'piper', piperVoice: 'vi_VN-csa-voice-piper-v3-medium#2' }));
     load();
     expect(S.engine).toBe('piper');
-    expect(S.piperVoice).toBe('vi_VN-vivos-x_low');
+    expect(S.piperVoice).toBe('vi_VN-csa-voice-piper-v3-medium#2');
     vi.stubGlobal('Worker', undefined);
     load();
     expect(S.engine).toBe('piper');

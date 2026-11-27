@@ -76,7 +76,7 @@ describe('low-memory phones: explicit heavy voice downloads refuse by default', 
   it('a light voice keeps the normal dialog', async () => {
     vi.stubGlobal('navigator', { deviceMemory: 1, onLine: true });
     const e = await load([]);
-    await e.offerPiper('vi_VN-vivos-x_low#0');
+    await e.offerPiper('vi_VN-vais1000-medium');
     expect(h.confirm.mock.calls[0]?.[0]).not.toMatchObject({ cancelFirst: true });
   });
 });
