@@ -2,11 +2,11 @@ import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { DEF, S } from '../core/settings';
-import { DEFAULT_PIPER_VOICE, downloadBytes, KOKORO_FILES, megabytes, PIPER_CHOICES, PIPER_VOICES, piperChoice, piperChoiceLabel, piperConfigUrl, piperModelUrl, piperReady, piperSources, RELEASE_URL, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
+import { DEFAULT_PIPER_VOICE, downloadBytes, HEAVY_VOICE_BYTES, KOKORO_FILES, KOKORO_WEB_FILES, megabytes, PIPER_CHOICES, PIPER_VOICES, piperChoice, piperChoiceLabel, piperConfigUrl, piperModelUrl, piperReady, piperSources, RELEASE_URL, piperVoice, piperVoiceLabel, wavFromPcm } from './piper';
 
 describe('piper catalog', () => {
   it('lists the Vietnamese models with sizes and the commercial-safe one first', () => {
-    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite']);
+    expect(PIPER_VOICES.map((v) => v.id)).toEqual(['vi_VN-vais1000-medium', 'vi_VN-25hours_single-low', 'vi_VN-csa-voice-piper-v3-medium', 'kokoro-vi-lite', 'kokoro-vi-web']);
     // the default is VAIS-1000 (the settings default says the same)
     expect(DEFAULT_PIPER_VOICE).toBe('vi_VN-vais1000-medium#0');
     expect(DEFAULT_PIPER_VOICE).toBe(DEF.piperVoice);
@@ -34,19 +34,20 @@ describe('piper picker choices', () => {
   it('offers male and female voices, lightest download first', () => {
     const sizes = PIPER_CHOICES.map((c) => downloadBytes(c.model));
     expect(sizes).toEqual([...sizes].sort((a, b) => a - b));
-    expect(PIPER_CHOICES[0]?.model.id).toBe('vi_VN-25hours_single-low');
-    expect(PIPER_CHOICES.filter((c) => c.gender === 'nam').length).toBeGreaterThanOrEqual(2);
-    expect(PIPER_CHOICES.filter((c) => c.gender === 'nu').length).toBeGreaterThanOrEqual(5);
+    expect(PIPER_CHOICES[0]?.model.id).toBe('vi_VN-25hours_single-low'); // 63 MB, the lightest
+    expect(PIPER_CHOICES.filter((c) => c.gender === 'nam').length).toBeGreaterThanOrEqual(8);
+    expect(PIPER_CHOICES.filter((c) => c.gender === 'nu').length).toBeGreaterThanOrEqual(14);
     expect(new Set(PIPER_CHOICES.map((c) => c.id)).size).toBe(PIPER_CHOICES.length);
   });
 
-  it('labels every speaker with a gender (measured median F0 for the two single-voice models)', () => {
+  it('labels every speaker with a gender (measured median F0 for the single-voice models); only Tuấn Ngọc is unknown', () => {
     expect(piperChoiceLabel(piperChoice('vi_VN-vais1000-medium'), false)).toBe('Nữ · Mai · 63 MB');
     expect(piperChoiceLabel(piperChoice('vi_VN-csa-voice-piper-v3-medium#2'), true)).toBe('Nam · Quang Huy (miền Bắc) · 77 MB · đã tải');
     expect(piperChoiceLabel(piperChoice('kokoro-vi-lite#0'), false)).toBe('Nữ · Diễm Trinh · 72 MB');
     expect(piperChoiceLabel(piperChoice('vi_VN-25hours_single-low#0'), false)).toBe('Nữ · Hương · 63 MB');
     expect(piperChoice('vi_VN-25hours_single-low').id).toBe('vi_VN-25hours_single-low#0'); // a bare saved id is its first speaker
-    expect(PIPER_CHOICES.every((c) => c.gender !== null)).toBe(true);
+    expect(PIPER_CHOICES.filter((c) => c.gender === null).map((c) => c.id)).toEqual(['kokoro-vi-web#13']);
+    expect(piperChoiceLabel(piperChoice('kokoro-vi-web#13'), false)).toContain('Chưa rõ giới tính · Tuấn Ngọc');
   });
 
   it('maps a saved id to its speaker; a bare or unknown id means the first speaker / the default', () => {
@@ -57,7 +58,7 @@ describe('piper picker choices', () => {
   });
 
   it('keeps every offered speaker inside the model (sid < 5 for Piper v3) and gives every model a credit', () => {
-    const max: Record<string, number> = { 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2, 'vi_VN-vais1000-medium': 1, 'vi_VN-25hours_single-low': 1 };
+    const max: Record<string, number> = { 'vi_VN-csa-voice-piper-v3-medium': 5, 'kokoro-vi-lite': 2, 'kokoro-vi-web': 14, 'vi_VN-vais1000-medium': 1, 'vi_VN-25hours_single-low': 1 };
     for (const v of PIPER_VOICES) {
       expect(v.credit.length).toBeGreaterThan(10);
       for (const s of v.speakers ?? []) expect(s.sid).toBeLessThan(max[v.id] as number);
@@ -117,7 +118,8 @@ describe('piper sources and Vietnamese-only catalog', () => {
     for (const x of PIPER_VOICES.filter((y) => !y.kokoro)) {
       expect(x.id.startsWith('vi_VN-')).toBe(true);
       expect(piperModelUrl(x)).toMatch(/vi_VN/);
-      expect(piperSources(x).every((u) => u.includes(x.id))).toBe(true);
+      expect(piperSources(x)[1]).toBe(`${RELEASE_URL}${x.id}.onnx`); // the release always uses "<id>.onnx"
+      expect(piperSources(x, '.json')[1]).toBe(`${RELEASE_URL}${x.id}.onnx.json`);
       expect(x.configSha256).toMatch(/^[0-9a-f]{64}$/);
     }
   });
@@ -179,5 +181,46 @@ describe('kokoro lite voice', () => {
     const cat = JSON.parse(readFileSync(join(process.cwd(), 'scripts', 'piper-models.json'), 'utf8')) as { models: { id: string; files?: Record<string, unknown>[] }[] };
     const m = cat.models.find((x) => x.id === k.id);
     expect(m?.files).toEqual([KOKORO_FILES.model, KOKORO_FILES.config, KOKORO_FILES.dict].map((f) => ({ name: f.name, url: f.url, bytes: f.bytes, sha256: f.sha256 })));
+  });
+});
+
+describe('kokoro 14 voices', () => {
+  const k = piperVoice('kokoro-vi-web');
+
+  it('is Apache-2.0 with one 0.5 MB voice pack per speaker, and counts every download in its size', () => {
+    expect(k.speakers).toHaveLength(14);
+    expect(KOKORO_WEB_FILES.voices).toHaveLength(14);
+    expect(k.speakers?.map((s) => s.sid)).toEqual([...Array(14).keys()]);
+    expect(k.credit).toContain('Apache-2.0');
+    expect(megabytes(downloadBytes(k))).toBe('153 MB');
+    expect(downloadBytes(k)).toBeGreaterThan(HEAVY_VOICE_BYTES); // low-memory phones are asked first
+    expect(KOKORO_WEB_FILES.dict).toBe(KOKORO_FILES.dict); // the dictionary is shared with Kokoro Lite
+    expect(piperChoiceLabel(piperChoice('kokoro-vi-web#11'), true)).toBe('Nam · Thành Đạt · 153 MB · đã tải');
+  });
+
+  it('pins every file, uses unique release names and is described in scripts/piper-models.json', () => {
+    const files = [KOKORO_WEB_FILES.model, ...(KOKORO_WEB_FILES.voices ?? [])];
+    for (const f of files) {
+      expect(f.url).toMatch(/\/[0-9a-f]{40}\//);
+      expect(f.sha256).toMatch(/^[0-9a-f]{64}$/);
+      expect(f.bytes).toBe(f === KOKORO_WEB_FILES.model ? 82_653_554 : 522_240); // 510 x 256 float32
+    }
+    expect(new Set(files.map((f) => f.name)).size).toBe(files.length);
+    const cat = JSON.parse(readFileSync(join(process.cwd(), 'scripts', 'piper-models.json'), 'utf8')) as { models: { id: string; files?: { name: string; sha256: string }[] }[] };
+    const m = cat.models.find((x) => x.id === k.id);
+    expect(m?.files?.map((f) => f.name)).toEqual([KOKORO_WEB_FILES.model, KOKORO_WEB_FILES.config, KOKORO_WEB_FILES.dict, ...(KOKORO_WEB_FILES.voices ?? [])].map((f) => f.name));
+  });
+});
+
+describe('piper worker config', () => {
+  // the worker is a classic script: take its supported() out of the source and run it on both config formats
+  const src = readFileSync(join(process.cwd(), 'public', 'tts', 'piper-worker.js'), 'utf8');
+  const body = /function supported\(ids\) \{[\s\S]*?\r?\n\}\r?\n/.exec(src)?.[0] ?? '';
+  const supported = (cfg: unknown, ids: number[]): number[] => new Function('cfg', `${body}; return supported;`)(cfg)(ids) as number[];
+
+  it('drops ids the voice does not know with Piper array maps and phoonnx plain-number maps alike', () => {
+    const ids = [1, 0, 7, 0, 99, 0, 5, 0, 2];
+    expect(supported({ phoneme_id_map: { '^': [1], a: [7], b: [5], $: [2], _: [0] } }, ids)).toEqual([1, 0, 7, 0, 5, 0, 2]);
+    expect(supported({ phoneme_id_map: { '^': 1, a: 7, b: 5, $: 2, _: 0 } }, ids)).toEqual([1, 0, 7, 0, 5, 0, 2]);
   });
 });

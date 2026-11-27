@@ -92,7 +92,8 @@ function supported(ids) {
   if (!ids || !map) return ids;
   var ok = {};
   Object.keys(map).forEach(function (k) {
-    (map[k] || []).forEach(function (id) { ok[id] = true; });
+    // Piper configs list ids as arrays ([3]); phoonnx configs (Vais1000 int8) as plain numbers (3)
+    [].concat(map[k] == null ? [] : map[k]).forEach(function (id) { ok[id] = true; });
   });
   var toks = ids.filter(function (x) { return x !== 0 && ok[x]; });
   var out = [];

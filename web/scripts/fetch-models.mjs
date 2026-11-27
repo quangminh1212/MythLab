@@ -1,4 +1,4 @@
-// Downloads the Vietnamese Piper models, plus the Kokoro Lite model and SEA-G2P dictionary, from Hugging Face / GitHub (pinned) into a local folder, verifying size and
+// Downloads the Vietnamese Piper models, plus the Kokoro Lite / 14-voice models, voice packs and SEA-G2P dictionary, from Hugging Face / GitHub (pinned) into a local folder, verifying size and
 // SHA-256, e.g. to (re)upload them to the GitHub release "piper-models" (the app's second download source, after
 // Hugging Face). Nothing is served by our own server. NOT part of predev/prebuild.
 //

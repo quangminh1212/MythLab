@@ -56,7 +56,7 @@ describe('engine choice (Piper on the web, the phone voice only in the Android a
 
   it('offers every voice (with its speaker) for the picker', async () => {
     const vs = await voices('piper');
-    expect(vs).toHaveLength(9);
+    expect(vs).toHaveLength(9 + 14);
     expect(vs.every((v) => v.lang === 'vi-VN')).toBe(true);
   });
 });

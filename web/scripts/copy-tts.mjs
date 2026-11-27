@@ -14,6 +14,8 @@ const nm = join(root, 'node_modules');
 const out = join(root, 'public', 'tts');
 const jobs = [
   ['onnxruntime-web/dist', 'ort', ['ort.wasm.min.mjs', 'ort-wasm-simd-threaded.mjs', 'ort-wasm-simd-threaded.wasm']],
+  // onnxruntime-web 1.30 for the 14-voice Kokoro model (1.22 above gives wrong audio with it); only that worker loads it
+  ['onnxruntime-web-130/dist', 'ort130', ['ort.wasm.min.mjs', 'ort-wasm-simd-threaded.mjs', 'ort-wasm-simd-threaded.wasm']],
   ['@diffusionstudio/piper-wasm/build', 'piper', ['piper_phonemize.wasm']],
 ];
 for (const [from, to, files] of jobs) {

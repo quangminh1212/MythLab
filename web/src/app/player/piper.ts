@@ -17,7 +17,8 @@ export { piperSupported };
 export interface PiperSpeaker {
   sid: number;
   name: string;
-  gender: 'nam' | 'nu';
+  /** Null when neither the model card nor a measurement says (the picker then shows "Chưa rõ giới tính"). */
+  gender: 'nam' | 'nu' | null;
 }
 
 export interface PiperVoice {
@@ -40,7 +41,7 @@ export interface PiperVoice {
   credit: string;
   /** Speakers offered in the picker. Missing = one speaker of unknown gender. */
   speakers?: readonly PiperSpeaker[];
-  /** Kokoro-Vietnamese-Lite (not a Piper model): its own three files and worker; `bytes` / `sha256` describe `model`. */
+  /** Kokoro (not a Piper model): its own files and worker; `bytes` / `sha256` describe `model`. */
   kokoro?: KokoroFiles;
 }
 
@@ -61,6 +62,8 @@ export interface KokoroFiles {
   model: PiperFile;
   config: PiperFile;
   dict: PiperFile;
+  /** The 14-voice model only: one style pack (510x256 float32) per speaker, in `sid` order. Its worker is kokoro-web-worker.js. */
+  voices?: readonly PiperFile[];
 }
 
 /** Pinned to a commit of the voice repository, so the files cannot change under the size / hash below. */
@@ -81,8 +84,34 @@ export const KOKORO_FILES: KokoroFiles = {
   dict: { name: 'sea_g2p.bin', url: SEA_G2P_BIN, bytes: 62_829_820, sha256: '4346e690d0711ebc5231e7a42c5c88aaf6e40377e894b4617c018fd81c6f4096' },
 };
 
+/** Kokoro 14 giọng (relingo/kokoro-vi-web, Apache-2.0): pinned revision; text frontend (config + SEA-G2P dictionary) is shared with Kokoro Lite. */
+const KOKORO_WEB_HF = 'https://huggingface.co/relingo/kokoro-vi-web/resolve/8d088e9470451e2d88a707be82f58eb7f72d1c36/';
+
+export const KOKORO_WEB_FILES: KokoroFiles = {
+  model: { name: 'kokoro_vi_web.onnx', url: `${KOKORO_WEB_HF}kokoro_vi.web.onnx`, bytes: 82_653_554, sha256: '11f1a9a1f675575a027547206f11c6cd318119d92540d456391cc376621ba04c' },
+  config: KOKORO_FILES.config,
+  dict: KOKORO_FILES.dict,
+  voices: [
+    { name: 'kokoro_vi_web.voice.diem_trinh.bin', url: `${KOKORO_WEB_HF}voices/diem_trinh.bin`, bytes: 522240, sha256: 'ebd57307c0913fc06bca0acf8170b7f5d65dc1cb103ae42f91d36b3cef34495a' },
+    { name: 'kokoro_vi_web.voice.duc_an.bin', url: `${KOKORO_WEB_HF}voices/duc_an.bin`, bytes: 522240, sha256: '9729a7a6888660ac8147a9bce7d1c9bb6d12ec15221764a6e6ba0c87833eab82' },
+    { name: 'kokoro_vi_web.voice.duc_duy.bin', url: `${KOKORO_WEB_HF}voices/duc_duy.bin`, bytes: 522240, sha256: '0defaafea4d30679e7fc71d5284359f71812d0708dbc7e8920fdf73b980b54d6' },
+    { name: 'kokoro_vi_web.voice.hung_thinh.bin', url: `${KOKORO_WEB_HF}voices/hung_thinh.bin`, bytes: 522240, sha256: 'b67fb932eefeb7e4fdb7c998fdf8676a78467d8b3c11c4fa7c1f5be4697a3b5a' },
+    { name: 'kokoro_vi_web.voice.mai_linh.bin', url: `${KOKORO_WEB_HF}voices/mai_linh.bin`, bytes: 522240, sha256: 'd917a7048b12efdabb636e6e1eaaa63ae70851b58cf30a09ee948b55b6d0ca5b' },
+    { name: 'kokoro_vi_web.voice.mai_loan.bin', url: `${KOKORO_WEB_HF}voices/mai_loan.bin`, bytes: 522240, sha256: '443f5c5a3147f2a2345fd15cfc82bcb8120ff809a2bdfd188efce95f73656b36' },
+    { name: 'kokoro_vi_web.voice.manh_dung.bin', url: `${KOKORO_WEB_HF}voices/manh_dung.bin`, bytes: 522240, sha256: 'e4dade38606f12545cf73e0a5600fbefc5534cf3afbd31055ba1763726ecfa63' },
+    { name: 'kokoro_vi_web.voice.my_yen.bin', url: `${KOKORO_WEB_HF}voices/my_yen.bin`, bytes: 522240, sha256: '935224b602b9ab917375f36107a661fe1ce01ca4d5ecb426685a8552ed9a37d4' },
+    { name: 'kokoro_vi_web.voice.ngoc_huyen.bin', url: `${KOKORO_WEB_HF}voices/ngoc_huyen.bin`, bytes: 522240, sha256: '7f2554fd3f8e56748cb8c1f755335dc9b421783341c27574ee52affd367887ad' },
+    { name: 'kokoro_vi_web.voice.phat_tai.bin', url: `${KOKORO_WEB_HF}voices/phat_tai.bin`, bytes: 522240, sha256: '31a1259b74ff5191e1320d692e51790c5e25ed411701465ef8599689b1c9a317' },
+    { name: 'kokoro_vi_web.voice.storyvert.bin', url: `${KOKORO_WEB_HF}voices/storyvert.bin`, bytes: 522240, sha256: '1b2929c66e258f563b75d286a586a783fb3c962a9da3e0ad5a7c587643ab0545' },
+    { name: 'kokoro_vi_web.voice.thanh_dat.bin', url: `${KOKORO_WEB_HF}voices/thanh_dat.bin`, bytes: 522240, sha256: '5ac281a299b49ff715fb31cd387d71746beefb2dab8cce69b02ac80ce9dea495' },
+    { name: 'kokoro_vi_web.voice.thuc_trinh.bin', url: `${KOKORO_WEB_HF}voices/thuc_trinh.bin`, bytes: 522240, sha256: '5be77562f0fd5ccefe83e0bc18c6271df5e67b23fcafcd6210009d85ec115f31' },
+    { name: 'kokoro_vi_web.voice.tuan_ngoc.bin', url: `${KOKORO_WEB_HF}voices/tuan_ngoc.bin`, bytes: 522240, sha256: 'bc0c98f5819b1d7598b229ea55da1dae3187048326423664dd7222095a38924f' },
+  ],
+};
+
 const nu = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nu' });
 const nam = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: 'nam' });
+const unk = (sid: number, name: string): PiperSpeaker => ({ sid, name, gender: null });
 
 /** The Vietnamese voices. The default is VAIS-1000 (CC BY 4.0, the best quality); Piper v3 and Kokoro Lite add more male and female voices. */
 export const PIPER_VOICES: readonly PiperVoice[] = [
@@ -116,6 +145,22 @@ export const PIPER_VOICES: readonly PiperVoice[] = [
     credit: 'Kokoro Lite: loanhviet (Kokoro-Vietnamese-Lite), giấy phép Apache-2.0, chưng cất từ contextboxai/Kokoro-Vietnamese và hexgrad/Kokoro-82M (Apache-2.0); từ điển phát âm SEA-G2P (pnnbao97, Apache-2.0).',
     speakers: [nu(0, 'Diễm Trinh'), nam(1, 'Đức Duy')],
     kokoro: KOKORO_FILES,
+  },
+  {
+    // Not a Piper model: kokoro-vi-web, 14 voices (7 female, 6 male, 1 of unknown gender) of the Kokoro-Vietnamese model.
+    // 83 MB model + 0.5 MB per voice + the same 63 MB SEA-G2P dictionary as Kokoro Lite (stored once). Needs onnxruntime-web 1.30.
+    id: 'kokoro-vi-web',
+    name: 'Kokoro 14 giọng',
+    repo: KOKORO_WEB_HF,
+    bytes: KOKORO_WEB_FILES.model.bytes,
+    sha256: KOKORO_WEB_FILES.model.sha256,
+    configBytes: KOKORO_WEB_FILES.config.bytes,
+    configSha256: KOKORO_WEB_FILES.config.sha256,
+    sampleRate: 24000,
+    note: 'Apache-2.0, 14 giọng, nặng 153 MB; đọc chậm hơn tốc độ nói trên máy thường (đã đo khoảng 2,6 lần thời gian thật), hợp để nghe thử hoặc đoạn ngắn',
+    credit: 'Kokoro 14 giọng: relingo (kokoro-vi-web), giấy phép Apache-2.0, chuyển đổi từ contextboxai/Kokoro-Vietnamese và hexgrad/Kokoro-82M (Apache-2.0); từ điển phát âm SEA-G2P (pnnbao97, Apache-2.0). Giấy phép dữ liệu huấn luyện không được nêu.',
+    speakers: [nu(0, 'Diễm Trinh'), nam(1, 'Đức An'), nam(2, 'Đức Duy'), nam(3, 'Hưng Thịnh'), nu(4, 'Mai Linh'), nu(5, 'Mai Loan'), nam(6, 'Mạnh Dũng'), nu(7, 'Mỹ Yến'), nu(8, 'Ngọc Huyền'), nam(9, 'Phát Tài'), nu(10, 'Storyvert'), nam(11, 'Thành Đạt'), nu(12, 'Thục Trinh'), unk(13, 'Tuấn Ngọc')],
+    kokoro: KOKORO_WEB_FILES,
   },
 ];
 
@@ -160,9 +205,9 @@ export const piperConfigUrl = (v: PiperVoice): string => v.kokoro?.config.url ??
 /** Cache key of the Kokoro pronunciation dictionary (null for Piper voices). */
 export const kokoroDictUrl = (v: PiperVoice): string | null => v.kokoro?.dict.url ?? null;
 
-/** Everything the user downloads for a voice: the model and, for Kokoro, its dictionary too. */
+/** Everything the user downloads for a voice: the model and, for Kokoro, its dictionary (and voice packs) too. */
 export function downloadBytes(v: PiperVoice): number {
-  return v.bytes + (v.kokoro?.dict.bytes ?? 0);
+  return v.bytes + (v.kokoro?.dict.bytes ?? 0) + (v.kokoro?.voices ?? []).reduce((n, f) => n + f.bytes, 0);
 }
 
 /** Sources of a downloadable file: its pinned URL, pinned mirrors, then the GitHub release. */
@@ -180,6 +225,7 @@ export function piperSources(v: PiperVoice, suffix = ''): string[] {
 
 const modelArtifact = (v: PiperVoice): Artifact => ({ name: 'giọng ' + v.name, bytes: v.bytes, sha256: v.sha256, sources: piperSources(v) });
 const dictArtifact = (k: KokoroFiles): Artifact => ({ name: 'từ điển phát âm', bytes: k.dict.bytes, sha256: k.dict.sha256, sources: fileSources(k.dict) });
+const voiceArtifact = (f: PiperFile, i: number): Artifact => ({ name: `gói giọng ${i + 1}`, bytes: f.bytes, sha256: f.sha256, sources: fileSources(f) });
 const configArtifact = (v: PiperVoice): Artifact => ({ name: 'cấu hình giọng', bytes: v.configBytes, sha256: v.configSha256, sources: piperSources(v, '.json') });
 
 /** "63 MB" */
@@ -262,8 +308,13 @@ export async function refreshPiper(): Promise<void> {
     const c = await caches.open(CACHE);
     for (const v of PIPER_VOICES) {
       const dict = kokoroDictUrl(v);
-      const [m, j, d] = await Promise.all([c.match(piperModelUrl(v)), c.match(piperConfigUrl(v)), dict ? c.match(dict) : Promise.resolve(true)]);
-      if (m && j && d) installed.add(v.id);
+      const [m, j, d, p] = await Promise.all([
+        c.match(piperModelUrl(v)),
+        c.match(piperConfigUrl(v)),
+        dict ? c.match(dict) : Promise.resolve(true),
+        Promise.all((v.kokoro?.voices ?? []).map((f) => c.match(f.url))),
+      ]);
+      if (m && j && d && p.every(Boolean)) installed.add(v.id);
       else installed.delete(v.id);
     }
   } catch {
@@ -292,10 +343,17 @@ export async function installPiper(
   const part = (from: number, size: number) => (f: number): void => onProgress?.(Math.min(1, (from + f * size) / total));
   const model = await fetchVerified(modelArtifact(v), { onProgress: v.kokoro ? part(0, v.bytes) : onProgress, signal, onSource: (i, n) => onSource?.(i, n) });
   const dict = v.kokoro ? await fetchVerified(dictArtifact(v.kokoro), { onProgress: part(v.bytes, v.kokoro.dict.bytes), signal, onSource: (i, n) => onSource?.(i, n) }) : null;
+  const packs: Blob[] = [];
+  let from = v.bytes + (v.kokoro?.dict.bytes ?? 0);
+  for (const [i, f] of (v.kokoro?.voices ?? []).entries()) {
+    packs.push((await fetchVerified(voiceArtifact(f, i), { onProgress: part(from, f.bytes), signal, onSource: (k, n) => onSource?.(k, n) })).blob);
+    from += f.bytes;
+  }
   try {
     await cache.put(piperModelUrl(v), new Response(model.blob, { headers: { 'content-type': 'application/octet-stream' } }));
     await cache.put(piperConfigUrl(v), new Response(cfgBody, { headers: { 'content-type': 'application/json' } }));
     if (v.kokoro && dict) await cache.put(v.kokoro.dict.url, new Response(dict.blob, { headers: { 'content-type': 'application/octet-stream' } }));
+    for (const [i, f] of (v.kokoro?.voices ?? []).entries()) await cache.put(f.url, new Response(packs[i], { headers: { 'content-type': 'application/octet-stream' } }));
   } catch (e) {
     await removePiper(id);
     throw new Error(`Không đủ chỗ lưu giọng trên máy (${(e as Error).message || e})`);
@@ -316,8 +374,11 @@ export async function removePiper(id: string): Promise<void> {
   if (loaded === v.id) piperShutdown();
   try {
     const c = await caches.open(CACHE);
+    // the config and dictionary are shared by both Kokoro voices: keep them while the other one is still installed
+    const shared = (url: string): boolean => PIPER_VOICES.some((o) => o.id !== v.id && installed.has(o.id) && (kokoroDictUrl(o) === url || (o.kokoro && piperConfigUrl(o) === url)));
     const dict = kokoroDictUrl(v);
-    await Promise.all([c.delete(piperModelUrl(v)), c.delete(piperConfigUrl(v)), dict ? c.delete(dict) : Promise.resolve(false)]);
+    const urls = [piperModelUrl(v), piperConfigUrl(v), ...(dict ? [dict] : []), ...(v.kokoro?.voices ?? []).map((f) => f.url)].filter((u) => !shared(u));
+    await Promise.all(urls.map((u) => c.delete(u)));
   } catch {
     // nothing stored
   }
@@ -332,7 +393,7 @@ interface Pending {
 
 let worker: Worker | null = null;
 /** Which worker script runs: Piper's or Kokoro's (different runtimes, so a switch restarts the worker). */
-let workerKind: 'piper' | 'kokoro' = 'piper';
+let workerKind: 'piper' | 'kokoro' | 'kokoro-web' = 'piper';
 let loaded = '';
 let loading: Promise<void> | null = null;
 let seq = 0;
@@ -342,7 +403,7 @@ const runtimeBase = (): string => new URL('tts/', document.baseURI).href;
 
 function spawn(): Worker {
   if (worker) return worker;
-  const w = new Worker(new URL(workerKind === 'kokoro' ? 'kokoro-worker.js' : 'piper-worker.js', runtimeBase()));
+  const w = new Worker(new URL(workerKind === 'piper' ? 'piper-worker.js' : `${workerKind}-worker.js`, runtimeBase()));
   w.onmessage = (e: MessageEvent<{ id: number; err?: string } & Record<string, unknown>>) => {
     const p = pending.get(e.data.id);
     if (!p) return;
@@ -403,7 +464,7 @@ function load(v: PiperVoice): Promise<void> {
       installed.delete(v.id);
       throw new Error('Chưa tải giọng Piper');
     }
-    const kind = v.kokoro ? 'kokoro' : 'piper';
+    const kind = v.kokoro ? (v.kokoro.voices ? 'kokoro-web' : 'kokoro') : 'piper';
     if (worker && workerKind !== kind) {
       // the other engine's worker: stop it (fail() would also forget this load in progress)
       worker.terminate();
@@ -419,7 +480,16 @@ function load(v: PiperVoice): Promise<void> {
         throw new Error('Chưa tải từ điển phát âm');
       }
       const dict = await d.arrayBuffer();
-      await call({ t: 'init', base: runtimeBase(), model, config, dict }, [model, dict]);
+      const voices: ArrayBuffer[] = [];
+      for (const f of v.kokoro.voices ?? []) {
+        const r = await cache.match(f.url);
+        if (!r) {
+          installed.delete(v.id);
+          throw new Error('Chưa tải gói giọng Kokoro');
+        }
+        voices.push(await r.arrayBuffer());
+      }
+      await call({ t: 'init', base: runtimeBase(), model, config, dict, ...(voices.length ? { voices } : {}) }, [model, dict, ...voices]);
     } else {
       await call({ t: 'init', base: runtimeBase(), model, config }, [model]);
     }

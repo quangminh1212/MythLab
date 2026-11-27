@@ -180,7 +180,7 @@ export async function offerPiper(id: string = S.piperVoice): Promise<boolean> {
     const heavy = tooHeavyHere(downloadBytes(v));
     const ok = await confirmDialog({
       title: heavy ? 'Giọng này quá nặng cho máy' : 'Tải giọng Piper?',
-      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(v))}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.${lowMemoryNote(downloadBytes(v))}${heavy ? ' Nên giữ giọng nhẹ (Vivos).' : ''}`,
+      message: `${PIPER_SIZE_NOTE} Giọng “${c.name}” nặng ${megabytes(downloadBytes(v))}${v.speakers ? `, dùng chung cho mọi giọng “${v.name}”` : ''}.${lowMemoryNote(downloadBytes(v))}${heavy ? ' Nên giữ giọng nhẹ (Vais1000 nhẹ).' : ''}`,
       confirmLabel: heavy ? 'Vẫn tải' : 'Tải về',
       ...(heavy ? { danger: true, cancelFirst: true } : {}),
     });
