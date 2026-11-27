@@ -60,3 +60,14 @@ describe('engine choice (Piper on the web, the phone voice only in the Android a
     expect(vs.every((v) => v.lang === 'vi-VN')).toBe(true);
   });
 });
+
+import { LOOKAHEAD, lookaheadChunks } from './engines';
+describe('look-ahead', () => {
+  it('prepares the next chunks, nearest first, within the chapter', () => {
+    expect(lookaheadChunks([0, 1, 2, 3, 4, 5], 1)).toEqual([2, 3, 4]);
+    expect(lookaheadChunks([0, 1, 2], 1)).toEqual([2]);
+    expect(lookaheadChunks([0, 1, 2], 2)).toEqual([]);
+    expect(lookaheadChunks([0, 1, 2, 3], 0, 0)).toEqual([]);
+    expect(LOOKAHEAD).toBeGreaterThanOrEqual(2);
+  });
+});

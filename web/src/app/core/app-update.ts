@@ -25,6 +25,8 @@ export interface Installed {
   versionCode: number;
   versionName: string;
   canInstall: boolean;
+  /** a debug build: its key differs from the released APK, so it can never be updated from the server */
+  debuggable?: boolean;
 }
 
 export type UpdateState =
@@ -50,6 +52,9 @@ interface AppUpdatePlugin {
 
 export const MANIFEST_PATH = '/android/latest.json';
 const SEEN_KEY = 'mythlab.updateSeen';
+const CHECKED_KEY = 'mythlab.updateChecked';
+/** Background re-checks (app resumed) are spaced out; the launch check and the settings button always ask. */
+export const CHECK_EVERY_MS = 6 * 3600_000;
 
 function plugin(): AppUpdatePlugin | null {
   try {
@@ -111,6 +116,7 @@ const msg = (e: unknown): string => {
   const x = e instanceof Error ? e.message : typeof e === 'object' && e && 'message' in e ? String((e as { message: unknown }).message) : String(e ?? '');
   if (/checksum/i.test(x)) return 'Tệp tải về không khớp mã kiểm tra. Hãy thử lại sau.';
   if (/HTTP 404/.test(x)) return 'Máy chủ chưa có bản cập nhật.';
+  if (/signature/i.test(x)) return 'Bản mới được ký bằng khoá khác với bản đang cài nên Android không cho cài đè. Hãy gỡ ứng dụng rồi cài lại bản mới (truyện đã đồng bộ tài khoản sẽ được giữ).';
   if (/busy/i.test(x)) return 'Đang tải rồi.';
   if (/already up to date/i.test(x)) return 'Ứng dụng đã là bản mới nhất.';
   return 'Không cập nhật được. Kiểm tra kết nối mạng rồi thử lại.';
@@ -134,6 +140,11 @@ export const appUpdate = {
     if (state.kind === 'checking' || state.kind === 'downloading') return state;
     const my = ++seq;
     set({ kind: 'checking' });
+    try {
+      localStorage.setItem(CHECKED_KEY, String(Date.now()));
+    } catch {
+      /* ignore */
+    }
     let current: Installed | undefined;
     try {
       current = await p.getInfo();
@@ -161,6 +172,23 @@ export const appUpdate = {
       else set({ kind: 'error', message: msg(e), current });
     }
     return state;
+  },
+
+  /** Quiet re-check for when the app comes back to the foreground: at most once per `CHECK_EVERY_MS`. */
+  async checkIfDue(now = Date.now()): Promise<UpdateState> {
+    if (!plugin()) return state;
+    try {
+      const last = Number(localStorage.getItem(CHECKED_KEY));
+      if (Number.isFinite(last) && last > 0 && now - last < CHECK_EVERY_MS && now >= last) return state;
+    } catch {
+      /* no storage: just check */
+    }
+    return appUpdate.check();
+  },
+
+  /** After the user allowed installs from MythLab in Android settings, continue by itself on return. */
+  resumeInstall(): void {
+    if (state.kind === 'ready' && state.needPermission) void appUpdate.install(state.latest);
   },
 
   /** Downloads the offered APK, then opens the system installer. */

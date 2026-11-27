@@ -56,7 +56,7 @@ interface NativeVoice {
   lang: string;
 }
 interface NativeTts {
-  speak(o: { text: string; lang: string; rate: number; pitch: number; volume: number; category: string; voice?: number }): Promise<void>;
+  speak(o: { text: string; lang: string; rate: number; pitch: number; volume: number; category: string; voice?: number; queueStrategy?: number }): Promise<void>;
   stop(): Promise<void>;
   getSupportedVoices(): Promise<{ voices?: NativeVoice[] }>;
   openInstall?(): Promise<void>;
@@ -227,6 +227,10 @@ interface ClipJob {
 let audio: HTMLAudioElement | null = null;
 let job: ClipJob | null = null;
 let clipToken = 0;
+/** Silent clip the element loops while it waits for the next clip (keeps the page "playing", unlocked for autoplay). */
+let hold = '';
+/** True from a src change until the element plays again: a pause in between is ours, not the system's. */
+let swapping = false;
 
 function atEnd(a: HTMLAudioElement): boolean {
   return a.ended || (Number.isFinite(a.duration) && a.duration > 0 && a.currentTime >= a.duration - 0.08);
@@ -252,11 +256,12 @@ function element(): HTMLAudioElement {
   // a pause we did not ask for: headset button, another app took the audio focus, the system media controls
   a.addEventListener('pause', () => {
     const j = job;
-    if (!j || !j.want || atEnd(a)) return;
+    if (swapping || !j || !j.want || atEnd(a)) return;
     j.want = false;
     j.o.onPaused?.();
   });
   a.addEventListener('playing', () => {
+    swapping = false;
     const j = job;
     if (!j || j.want) return;
     j.want = true;
@@ -266,6 +271,32 @@ function element(): HTMLAudioElement {
   return a;
 }
 
+/**
+ * Call inside the user's gesture: the shared element starts a silent loop, which unlocks it for later play() calls
+ * (iOS Safari only allows them on an element started by a gesture) and keeps the page audible while the next clip
+ * is still being synthesised with the screen off. `src` is a silent WAV.
+ */
+export function unlockClips(src: string): void {
+  try {
+    hold = src;
+    const a = element();
+    if (job || a.getAttribute('src')) return;
+    holdSilence(a);
+  } catch {
+    // no unlock here
+  }
+}
+
+function holdSilence(a: HTMLAudioElement): void {
+  if (!hold || a.getAttribute('src')) return;
+  swapping = true;
+  a.loop = true;
+  a.src = hold;
+  void a.play()?.catch(() => {
+    swapping = false;
+  });
+}
+
 /** Forgets every prepared clip (voice changed, player closed). */
 export function forgetClips(): void {
   piperForgetClips();
@@ -273,7 +304,16 @@ export function forgetClips(): void {
 
 /** Prepares the audio of the next chunk (Piper clips are synthesised ahead so chunks follow without a gap). */
 export function prefetch(engine: TtsEngine | null, chunk: Chunk | undefined): void {
+  hint = engine === 'native' ? chunk : undefined;
   if (engine === 'piper') piperPrefetch(chunk?.text);
+}
+
+/** How many chunks ahead are synthesised (about 15 s of speech each): covers a screen-off stretch of CPU throttling. */
+export const LOOKAHEAD = 3;
+
+/** Chunks to prepare after index `ci`, nearest first. */
+export function lookaheadChunks<T>(chunks: readonly T[], ci: number, n = LOOKAHEAD): T[] {
+  return chunks.slice(ci + 1, ci + 1 + Math.max(0, n));
 }
 
 /** True for the engines that play clips through the audio element (true pause / resume, speed by playbackRate). */
@@ -284,6 +324,7 @@ function clipSpeak(chunk: Chunk, o: SpeakOptions, src: () => Promise<string>): P
   clipStop();
   const my = ++clipToken;
   const a = element();
+  holdSilence(a);
   return src().then(
     (src) =>
       new Promise<void>((resolve, reject) => {
@@ -303,6 +344,8 @@ function clipSpeak(chunk: Chunk, o: SpeakOptions, src: () => Promise<string>): P
           },
         };
         job = j;
+        swapping = true;
+        a.loop = false;
         a.src = src;
         a.defaultPlaybackRate = o.rate;
         a.playbackRate = o.rate;
@@ -319,6 +362,7 @@ function clipSpeak(chunk: Chunk, o: SpeakOptions, src: () => Promise<string>): P
         o.onSent(o.from);
         a.play().catch((e: unknown) => {
           // pause() while the clip was still loading rejects the play() promise: that is not a failure
+          swapping = false;
           if ((e as { name?: string } | null)?.name === 'AbortError' && (job !== j || !j.want)) return;
           j.settle(e);
         });
@@ -376,8 +420,29 @@ export const clipHolding = (): boolean => !!job;
 let nativeToken = 0;
 let nativeBusy = false;
 
+/** Utterances already handed to the phone's speech queue (one entry per piece of a sentence). */
+interface NativeQueue {
+  chunk: Chunk;
+  from: number;
+  rate: number;
+  pitch: number;
+  token: number;
+  voice: number;
+  items: { k: number; p: Promise<void> }[];
+}
+/** The chunk after the one being spoken, already queued natively so it follows without a JS round trip. */
+let ahead: NativeQueue | null = null;
+/** The chunk that comes next, as announced by prefetch(). */
+let hint: Chunk | undefined;
+
+/** Rejecters of the chunks waiting on the speech service: the service never answers the utterances a stop() dropped. */
+const nativeWaiters = new Set<(e: Error) => void>();
+
 function nativeStop(): void {
   nativeToken++;
+  ahead = null;
+  for (const w of [...nativeWaiters]) w(new Stopped());
+  nativeWaiters.clear();
   if (!nativeBusy) return;
   nativeBusy = false;
   void nativeTts()
@@ -385,38 +450,84 @@ function nativeStop(): void {
     .catch(() => {});
 }
 
+/**
+ * Hands a chunk to the phone's speech queue in one go (QUEUE_ADD after the first utterance), so the voice goes on
+ * from sentence to sentence, and chunk to chunk, inside the speech service even when the WebView is throttled
+ * with the screen off. `flush` starts a fresh queue (the first utterance drops whatever was queued).
+ */
+function nativeQueue(p: NativeTts, chunk: Chunk, from: number, rate: number, pitch: number, voice: number, token: number, flush: boolean): NativeQueue {
+  const items: NativeQueue['items'] = [];
+  let first = flush;
+  for (let k = from; k < chunk.sents.length; k++) {
+    for (const piece of pieces(sentText(chunk, k), NATIVE_PIECE)) {
+      const r = Promise.resolve(p.speak({ text: piece.text, lang: 'vi-VN', rate, pitch, volume: 1, category: 'playback', queueStrategy: first ? 0 : 1, voice }));
+      r.catch(() => {});
+      first = false;
+      items.push({ k, p: r });
+    }
+  }
+  if (items.length) nativeBusy = true;
+  return { chunk, from, rate, pitch, token, voice, items };
+}
+
 async function nativeSpeak(chunk: Chunk, o: SpeakOptions): Promise<void> {
   const p = nativeTts();
   if (!p) throw new Error('Không có bộ đọc của máy');
-  nativeStop();
-  const my = nativeToken;
-  const vs = await nativeVoices();
-  if (my !== nativeToken) throw new Stopped();
-  // only Vietnamese voices: the saved one, else the first the device has
-  let voice: number | undefined = vs.findIndex((v) => v.voiceURI === S.nativeVoice && isVi(v.lang));
-  if (voice < 0) voice = vs.findIndex((v) => isVi(v.lang));
-  if (voice < 0) {
-    // never the device default voice: it is not Vietnamese
-    warnNoVi();
-    throw new Error('Máy chưa có giọng tiếng Việt');
+  let q: NativeQueue | null = null;
+  const a = ahead;
+  if (a && a.chunk === chunk && a.from === 0 && o.from === 0 && a.rate === o.rate && a.pitch === o.pitch && a.token === nativeToken) {
+    // this chunk is already queued in the speech service and is probably speaking: just follow it
+    q = a;
+    ahead = null;
+  } else {
+    nativeStop();
   }
-  for (let k = o.from; k < chunk.sents.length; k++) {
+  const my = nativeToken;
+  if (!q) {
+    const vs = await nativeVoices();
     if (my !== nativeToken) throw new Stopped();
-    o.onSent(k);
-    for (const piece of pieces(sentText(chunk, k), NATIVE_PIECE)) {
+    // only Vietnamese voices: the saved one, else the first the device has
+    let voice = vs.findIndex((v) => v.voiceURI === S.nativeVoice && isVi(v.lang));
+    if (voice < 0) voice = vs.findIndex((v) => isVi(v.lang));
+    if (voice < 0) {
+      // never the device default voice: it is not Vietnamese
+      warnNoVi();
+      throw new Error('Máy chưa có giọng tiếng Việt');
+    }
+    q = nativeQueue(p, chunk, o.from, o.rate, o.pitch, voice, my, true);
+  }
+  // queue the next chunk behind this one
+  const h = hint;
+  if (h && h !== chunk && !ahead && my === nativeToken && h.sents.length) {
+    const n = nativeQueue(p, h, 0, o.rate, o.pitch, q.voice, my, false);
+    if (n.items.length) ahead = n;
+  }
+  let cancel: ((e: Error) => void) | undefined;
+  const cancelled = new Promise<never>((_, rej) => {
+    cancel = rej;
+    nativeWaiters.add(rej);
+  });
+  cancelled.catch(() => {});
+  try {
+    let at = -1;
+    for (const it of q.items) {
       if (my !== nativeToken) throw new Stopped();
-      nativeBusy = true;
+      if (it.k !== at) {
+        at = it.k;
+        o.onSent(it.k);
+      }
       try {
-        await p.speak({ text: piece.text, lang: 'vi-VN', rate: o.rate, pitch: o.pitch, volume: 1, category: 'playback', ...(voice !== undefined ? { voice } : {}) });
+        await Promise.race([it.p, cancelled]);
       } catch (e) {
         if (my !== nativeToken) throw new Stopped();
         throw e;
-      } finally {
-        if (my === nativeToken) nativeBusy = false;
       }
     }
+    if (my !== nativeToken) throw new Stopped();
+  } finally {
+    if (cancel) nativeWaiters.delete(cancel);
+    if (my === nativeToken) nativeBusy = ahead !== null;
   }
-  if (my !== nativeToken) throw new Stopped();
 }
 
 // ---------------------------------------------------------------- one face for the player
@@ -433,6 +544,7 @@ export function speak(engine: TtsEngine, chunk: Chunk, o: SpeakOptions): Promise
 
 /** Silences every engine. */
 export function stopAll(): void {
+  hold = '';
   clipStop();
   nativeStop();
 }

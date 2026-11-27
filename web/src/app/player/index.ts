@@ -22,7 +22,7 @@ import { currentRoute, href, navigate } from '../core/router';
 import { S, settings, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { isPlaybackSignal } from './fallback';
-import { clipHolding, clipRate, effectiveEngine, forgetClips, Interrupted, localEngine, pauseHeld, playsClips, prefetch, resumeHeld, settleEngine, speak, stopAll, Stopped } from './engines';
+import { lookaheadChunks, clipHolding, clipRate, effectiveEngine, forgetClips, Interrupted, localEngine, pauseHeld, playsClips, prefetch, resumeHeld, settleEngine, speak, stopAll, Stopped } from './engines';
 import { Declined, ensureVoice, onVoiceProgress, voiceProgress } from './autovoice';
 import { piperReady, refreshPiper } from './piper';
 import { keepAwake } from './keepawake';
@@ -267,7 +267,11 @@ async function run(ci: number, si = 0): Promise<void> {
     setState({ status: 'playing', para: c.p, engine });
     publishMark(s);
     saveListen(s);
-    prefetch(engine, s.chunks[s.ci + 1]);
+    // after the current chunk has asked for its own clip, so the worker never makes the look-ahead first
+    const ahead = lookaheadChunks(s.chunks, s.ci);
+    setTimeout(() => {
+      if (my === gen) for (const nx of ahead) prefetch(engine, nx);
+    }, 0);
     try {
       await speakWithFallback(engine, s, c, si, my);
     } catch (e) {

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { silentWav } from './mediasession';
+import { needsHiddenKeepAlive, silentWav } from './mediasession';
 import { isPipSupported } from './pip';
 
 describe('media popup helpers', () => {
@@ -9,6 +9,13 @@ describe('media popup helpers', () => {
     const b = atob(u.split(',')[1] as string);
     expect(b.slice(0, 4)).toBe('RIFF');
     expect(b.length).toBe(44 + 8000);
+  });
+  it('keeps a hidden tab alive only while Piper plays', () => {
+    expect(needsHiddenKeepAlive('playing', 'piper', 'hidden')).toBe(true);
+    expect(needsHiddenKeepAlive('loading', 'piper', 'hidden')).toBe(true);
+    expect(needsHiddenKeepAlive('playing', 'piper', 'visible')).toBe(false);
+    expect(needsHiddenKeepAlive('paused', 'piper', 'hidden')).toBe(false);
+    expect(needsHiddenKeepAlive('playing', 'native', 'hidden')).toBe(false);
   });
   it('hides picture-in-picture where the browser has no API', () => {
     expect(isPipSupported()).toBe(false);

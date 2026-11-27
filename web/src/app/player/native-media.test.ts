@@ -3,7 +3,10 @@ import { beforeEach, describe, expect, it, vi } from 'vitest';
 const native = { on: true };
 vi.mock('../core/settings', async (orig) => ({ ...(await orig<typeof import('../core/settings')>()), isNative: () => native.on }));
 
-import { initNativeMedia, resetNativeMedia } from './native-media';
+const ui = vi.hoisted(() => ({ toast: vi.fn() }));
+vi.mock('../core/ui', () => ({ toast: ui.toast }));
+
+import { batteryHint, initNativeMedia, resetNativeMedia } from './native-media';
 
 function fakePlayer() {
   let st: Record<string, unknown> = { status: 'idle' };
@@ -86,5 +89,34 @@ describe('native media bridge', () => {
     expect(f.p.resume).toHaveBeenCalled();
     expect(f.p.gotoChapter).toHaveBeenCalledWith(5);
     expect(f.p.gotoChapter).toHaveBeenCalledWith(3);
+  });
+
+  describe('battery hint', () => {
+    const mk = (unrestricted: boolean | undefined) => ({ ...plug, batteryStatus: vi.fn(async () => ({ unrestricted })), openBatterySettings: vi.fn(async () => ({})) });
+    beforeEach(() => {
+      try {
+        localStorage.removeItem('mythlab.batteryHint');
+      } catch {
+        // none
+      }
+    });
+    it('offers the settings screen once when the app is battery restricted', async () => {
+      const p = mk(false);
+      batteryHint(p as never);
+      await new Promise((r) => setTimeout(r, 0));
+      expect(ui.toast).toHaveBeenCalledOnce();
+      const o = ui.toast.mock.calls[0]?.[0] as { action: { run(): void } };
+      o.action.run();
+      expect(p.openBatterySettings).toHaveBeenCalled();
+      batteryHint(p as never);
+      await new Promise((r) => setTimeout(r, 0));
+      expect(ui.toast).toHaveBeenCalledOnce();
+    });
+    it('stays quiet when unrestricted or unsupported', async () => {
+      batteryHint(mk(true) as never);
+      batteryHint(plug as never);
+      await new Promise((r) => setTimeout(r, 0));
+      expect(ui.toast).not.toHaveBeenCalled();
+    });
   });
 });

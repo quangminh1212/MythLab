@@ -119,3 +119,42 @@ describe('appUpdate', () => {
     expect(appUpdate.firstSight(10200)).toBe(true);
   });
 });
+
+describe('appUpdate extras', () => {
+  afterEach(() => {
+    delete (globalThis as { Capacitor?: unknown }).Capacitor;
+    appUpdate._reset();
+    localStorage.clear();
+  });
+
+  it('checkIfDue skips a recent check and asks again after the interval', async () => {
+    const pl = fakeNative();
+    await appUpdate.checkIfDue();
+    expect(pl.fetchManifest).toHaveBeenCalledTimes(1);
+    await appUpdate.checkIfDue();
+    expect(pl.fetchManifest).toHaveBeenCalledTimes(1);
+    await appUpdate.checkIfDue(Date.now() + 7 * 3600_000);
+    expect(pl.fetchManifest).toHaveBeenCalledTimes(2);
+  });
+
+  it('explains a signature mismatch in Vietnamese', async () => {
+    fakeNative({ download: vi.fn().mockRejectedValue(new Error('signature')) });
+    await appUpdate.check();
+    await appUpdate.start();
+    const s = appUpdate.get();
+    expect(s.kind).toBe('error');
+    if (s.kind === 'error') expect(s.message).toMatch(/khoá khác/);
+  });
+
+  it('resumeInstall retries the installer once permission was needed', async () => {
+    const install = vi.fn().mockRejectedValueOnce(new Error('permission')).mockResolvedValue({});
+    fakeNative({ install });
+    await appUpdate.check();
+    await appUpdate.start();
+    expect(appUpdate.get()).toMatchObject({ kind: 'ready', needPermission: true });
+    appUpdate.resumeInstall();
+    await new Promise((r) => setTimeout(r, 0));
+    expect(install).toHaveBeenCalledTimes(2);
+    expect(appUpdate.get()).toMatchObject({ kind: 'ready', needPermission: false });
+  });
+});

@@ -5,11 +5,14 @@
  */
 import type { Player } from './index';
 import { isNative } from '../core/settings';
+import { toast } from '../core/ui';
 
 interface MediaPlaybackPlugin {
   start(o: { title: string; artist: string }): Promise<unknown>;
   update(o: { title: string; artist: string; playing: boolean }): Promise<unknown>;
   stop(): Promise<unknown>;
+  batteryStatus?(): Promise<{ unrestricted?: boolean }>;
+  openBatterySettings?(): Promise<unknown>;
   addListener(ev: 'action', fn: (e: { action?: string }) => void): Promise<unknown> | { remove(): void };
 }
 
@@ -46,6 +49,35 @@ const quiet = (r: unknown): void => {
   }
 };
 
+const BATTERY_KEY = 'mythlab.batteryHint';
+
+/**
+ * Once per install, when listening starts: if the system restricts the app's battery use, say how to let it play with the
+ * screen off (some makers' task killers stop even a foreground service). Silent when unrestricted or unsupported.
+ */
+export function batteryHint(pl: MediaPlaybackPlugin): void {
+  try {
+    if (!pl.batteryStatus || localStorage.getItem(BATTERY_KEY)) return;
+  } catch {
+    return;
+  }
+  void Promise.resolve(pl.batteryStatus())
+    .then((r) => {
+      if (r?.unrestricted !== false) return;
+      try {
+        localStorage.setItem(BATTERY_KEY, '1');
+      } catch {
+        // asked again next time
+      }
+      toast({
+        message: 'Để nghe liên tục khi tắt màn hình, hãy cho MythLab chạy nền không hạn chế pin.',
+        duration: 12000,
+        action: { label: 'Mở cài đặt', run: () => quiet(pl.openBatterySettings?.()) },
+      });
+    })
+    .catch(() => {});
+}
+
 export function initNativeMedia(player: Player): void {
   const pl = get();
   if (!pl) return;
@@ -69,6 +101,7 @@ export function initNativeMedia(player: Player): void {
       started = true;
       last = `${title}|${artist}|1`;
       quiet(pl.start({ title, artist }));
+      batteryHint(pl);
       return;
     }
     const key = `${title}|${artist}|${playing ? 1 : 0}`;

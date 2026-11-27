@@ -56,15 +56,22 @@ function loadingView(el: HTMLElement, route: Route): void {
   render(el, html`<div class="page">${skeleton.view(inner)}</div>`);
 }
 
-/** Android app: one quiet check at launch; a toast offers the update once per new version. */
+/** Android app: a check at launch, again when the app returns to the foreground (spaced out); a dialog offers each new version once. */
 async function announceUpdate(): Promise<void> {
   if (!appUpdate.available()) return;
   const s = await appUpdate.check();
   if (s.kind !== 'available' || !appUpdate.firstSight(s.latest.versionCode)) return;
-  toast({
-    message: `Có bản mới ${s.latest.versionName} của MythLab.`,
-    action: { label: 'Cập nhật', run: () => void import('./settings/panel').then((m) => m.settingsPanel.open('app')) },
-    duration: 12000,
+  void import('./settings/update-dialog').then((m) => m.openUpdateDialog());
+}
+
+function watchUpdates(): void {
+  if (!appUpdate.available()) return;
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState !== 'visible') return;
+    appUpdate.resumeInstall();
+    void appUpdate.checkIfDue().then((s) => {
+      if (s.kind === 'available' && appUpdate.firstSight(s.latest.versionCode)) void import('./settings/update-dialog').then((m) => m.openUpdateDialog());
+    });
   });
 }
 
@@ -120,6 +127,7 @@ async function boot(): Promise<void> {
   };
   idle(() => {
     void announceUpdate();
+    watchUpdates();
     // the selected on-device voice downloads by itself (one voice, skipped when the connection saves data)
     void import('./player/autovoice').then(
       async (m) => {

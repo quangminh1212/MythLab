@@ -5,14 +5,20 @@ import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.app.Service;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.pm.ServiceInfo;
+import android.media.AudioManager;
 import android.media.MediaMetadata;
 import android.media.session.MediaSession;
 import android.media.session.PlaybackState;
 import android.os.Build;
+import android.net.wifi.WifiManager;
+import android.os.Handler;
 import android.os.IBinder;
+import android.os.Looper;
 import android.os.PowerManager;
 
 /**
@@ -31,8 +37,13 @@ public class MediaPlaybackService extends Service {
     private static final String CHANNEL = "mythlab_playback";
     private static final int NOTIF_ID = 4711;
 
+    /** The running service (main thread writes), so the plugin can update it without a new start request. */
+    private static volatile MediaPlaybackService instance;
+
     private MediaSession session;
     private PowerManager.WakeLock wakeLock;
+    private WifiManager.WifiLock wifiLock;
+    private BroadcastReceiver noisy;
     private String title = "MythLab Truyện";
     private String artist = "";
     private boolean playing = true;
@@ -43,9 +54,23 @@ public class MediaPlaybackService extends Service {
         return null;
     }
 
+    /**
+     * Hands an intent to the service when it already runs in the foreground. Calling startForegroundService from the
+     * background (screen off, next chapter) can be refused on Android 12+, a direct call never is.
+     */
+    static boolean deliver(final Intent i) {
+        final MediaPlaybackService s = instance;
+        if (s == null || !s.foreground) return false;
+        new Handler(Looper.getMainLooper()).post(() -> {
+            if (instance == s && s.session != null) s.onStartCommand(i, 0, 0);
+        });
+        return true;
+    }
+
     @Override
     public void onCreate() {
         super.onCreate();
+        instance = this;
         NotificationManager nm = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
         if (Build.VERSION.SDK_INT >= 26 && nm != null) {
             NotificationChannel ch = new NotificationChannel(CHANNEL, "Phát truyện", NotificationManager.IMPORTANCE_LOW);
@@ -60,6 +85,19 @@ public class MediaPlaybackService extends Service {
             @Override public void onSkipToPrevious() { MediaPlaybackPlugin.emit("previous"); }
         });
         session.setActive(true);
+        // headphones unplugged / Bluetooth lost: pause instead of blasting the speaker
+        noisy = new BroadcastReceiver() {
+            @Override public void onReceive(Context context, Intent intent) {
+                if (AudioManager.ACTION_AUDIO_BECOMING_NOISY.equals(intent.getAction())) MediaPlaybackPlugin.emit("pause");
+            }
+        };
+        IntentFilter f = new IntentFilter(AudioManager.ACTION_AUDIO_BECOMING_NOISY);
+        try {
+            if (Build.VERSION.SDK_INT >= 33) registerReceiver(noisy, f, Context.RECEIVER_NOT_EXPORTED);
+            else registerReceiver(noisy, f);
+        } catch (RuntimeException e) {
+            noisy = null;
+        }
     }
 
     @Override
@@ -159,6 +197,27 @@ public class MediaPlaybackService extends Service {
         } catch (RuntimeException ignored) {
             // no wake lock
         }
+        setWifiLock(on);
+    }
+
+    /** Keeps Wi-Fi awake while speaking so the next chapter / progress sync works with the screen off. */
+    @SuppressWarnings("deprecation")
+    private void setWifiLock(boolean on) {
+        try {
+            if (on) {
+                if (wifiLock == null) {
+                    WifiManager wm = (WifiManager) getApplicationContext().getSystemService(Context.WIFI_SERVICE);
+                    if (wm == null) return;
+                    wifiLock = wm.createWifiLock(WifiManager.WIFI_MODE_FULL_HIGH_PERF, "MythLab:playback");
+                    wifiLock.setReferenceCounted(false);
+                }
+                if (!wifiLock.isHeld()) wifiLock.acquire();
+            } else if (wifiLock != null && wifiLock.isHeld()) {
+                wifiLock.release();
+            }
+        } catch (RuntimeException ignored) {
+            // no Wi-Fi lock
+        }
     }
 
     private void shutdown(int startId) {
@@ -175,7 +234,16 @@ public class MediaPlaybackService extends Service {
 
     @Override
     public void onDestroy() {
+        if (instance == this) instance = null;
         setWakeLock(false);
+        if (noisy != null) {
+            try {
+                unregisterReceiver(noisy);
+            } catch (RuntimeException ignored) {
+                // not registered
+            }
+            noisy = null;
+        }
         if (session != null) {
             session.setActive(false);
             session.release();

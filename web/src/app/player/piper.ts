@@ -442,7 +442,7 @@ export async function piperSynth(text: string, id: string): Promise<Blob> {
 // ---------------------------------------------------------------- prepared clips
 
 /** Clips of the chunks about to be played: at most KEEP, object URLs are released on eviction. */
-const KEEP = 3;
+const KEEP = 6;
 const clips = new Map<string, Promise<string>>();
 
 const key = (text: string): string => `${piperChoice(S.piperVoice).id}|${text}`;
@@ -473,7 +473,10 @@ export function piperSource(text: string): Promise<string> {
 
 /** Synthesises a chunk that will be played soon, so chunks follow each other without a gap. */
 export function piperPrefetch(text: string | undefined): void {
-  if (text && piperReady()) void piperSource(text).catch(() => {});
+  if (!text || !piperReady()) return;
+  // synthesising ahead counts as use: the worker must not be shut down in the middle of a long chapter
+  if (worker) touch();
+  void piperSource(text).catch(() => {});
 }
 
 /** Forgets every prepared clip (voice changed, player closed). */

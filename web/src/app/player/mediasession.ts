@@ -5,7 +5,7 @@
  * inside the user's gesture stands in for them (a separate element, so engines.ts never sees it).
  */
 import type { Player } from './index';
-import { effectiveEngine } from './engines';
+import { effectiveEngine, unlockClips } from './engines';
 import { initNativeMedia } from './native-media';
 
 let p: Player | null = null;
@@ -39,6 +39,11 @@ export function silentWav(): string {
   return 'data:audio/wav;base64,' + btoa(s);
 }
 
+let silentUri = '';
+function silentSrc(): string {
+  return (silentUri ||= silentWav());
+}
+
 function silentOn(): void {
   try {
     if (typeof Audio === 'undefined') return;
@@ -65,7 +70,11 @@ function silentOff(): void {
 export function primeMediaSession(): void {
   try {
     const e = effectiveEngine();
-    if (e === 'piper') return;
+    if (e === 'piper') {
+      // clips play through the shared element: unlock it in this gesture (iOS) and keep it busy between clips
+      unlockClips(silentSrc());
+      return;
+    }
   } catch {
     return;
   }
@@ -73,11 +82,20 @@ export function primeMediaSession(): void {
   silentOn();
 }
 
+/**
+ * True when a Piper clip is playing (or about to) in a tab the system has hidden (screen off, other app). A silent loop then
+ * keeps the page a media page between two clips, while the next one is synthesised, so Chrome does not freeze it.
+ */
+export function needsHiddenKeepAlive(status: string | undefined, engine: string | undefined, visibility: string | undefined): boolean {
+  return (status === 'playing' || status === 'loading') && engine === 'piper' && visibility === 'hidden';
+}
+
 function sync(): void {
   if (!p) return;
   const st = p.getState();
   const ms = typeof navigator !== 'undefined' && 'mediaSession' in navigator ? navigator.mediaSession : null;
   const playing = st.status === 'playing' || st.status === 'loading';
+  const hiddenKeep = !wantSilent && needsHiddenKeepAlive(st.status, st.engine, typeof document === 'undefined' ? undefined : document.visibilityState);
   if (st.status === 'idle') {
     wantSilent = false;
     silentOff();
@@ -85,7 +103,9 @@ function sync(): void {
     if (playing) {
       if (silent?.paused) silentOn();
     } else silentOff();
-  }
+  } else if (hiddenKeep) {
+    if (!silent || silent.paused) silentOn();
+  } else if (silent && !silent.paused) silentOff();
   if (!ms || !ms.setPositionState) return;
   try {
     const inf = p.info();
@@ -129,5 +149,6 @@ export function initMediaSession(player: Player): void {
   }
   player.onChange(sync);
   player.onState(sync);
+  if (typeof document !== 'undefined') document.addEventListener('visibilitychange', sync);
   initNativeMedia(player);
 }

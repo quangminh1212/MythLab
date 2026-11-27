@@ -3,7 +3,10 @@ package io.github.mythlab.reader;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageInfo;
+import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
+import android.content.pm.Signature;
+import android.content.pm.SigningInfo;
 import android.net.Uri;
 import android.os.Build;
 import android.provider.Settings;
@@ -24,7 +27,9 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.security.MessageDigest;
+import java.util.HashSet;
 import java.util.Locale;
+import java.util.Set;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
@@ -89,6 +94,59 @@ public class AppUpdatePlugin extends Plugin {
         return Build.VERSION.SDK_INT < 26 || getContext().getPackageManager().canRequestPackageInstalls();
     }
 
+
+    private static Set<String> certHashes(Signature[] sigs) throws Exception {
+        Set<String> out = new HashSet<>();
+        if (sigs == null) return out;
+        for (Signature sg : sigs) {
+            MessageDigest md = MessageDigest.getInstance("SHA-256");
+            StringBuilder sb = new StringBuilder(64);
+            for (byte b : md.digest(sg.toByteArray())) sb.append(String.format(Locale.ROOT, "%02x", b));
+            out.add(sb.toString());
+        }
+        return out;
+    }
+
+    @SuppressWarnings("deprecation")
+    private static Signature[] signersOf(PackageInfo pi) {
+        if (Build.VERSION.SDK_INT >= 28) {
+            SigningInfo si = pi.signingInfo;
+            if (si == null) return null;
+            return si.hasMultipleSigners() ? si.getApkContentsSigners() : si.getSigningCertificateHistory();
+        }
+        return pi.signatures;
+    }
+
+    @SuppressWarnings("deprecation")
+    private int signerFlag() {
+        return Build.VERSION.SDK_INT >= 28 ? PackageManager.GET_SIGNING_CERTIFICATES : PackageManager.GET_SIGNATURES;
+    }
+
+    /**
+     * Android only replaces an app with an APK signed by the same key (a debug build over a release build, or a
+     * release signed with another keystore, fails with "App not installed"). Checking first lets the page say so
+     * in plain words instead of opening an installer that is bound to fail. True when unknown.
+     */
+    private boolean sameSigner(File f) {
+        try {
+            PackageManager pm = getContext().getPackageManager();
+            PackageInfo have = pm.getPackageInfo(getContext().getPackageName(), signerFlag());
+            PackageInfo want = pm.getPackageArchiveInfo(f.getAbsolutePath(), signerFlag());
+            if (want == null) return true;
+            Set<String> a = certHashes(signersOf(have));
+            Set<String> b = certHashes(signersOf(want));
+            if (a.isEmpty() || b.isEmpty()) return true;
+            for (String h : b) if (a.contains(h)) return true;
+            return false;
+        } catch (Exception e) {
+            return true;
+        }
+    }
+
+    private boolean debuggable() {
+        return (getContext().getApplicationInfo().flags & ApplicationInfo.FLAG_DEBUGGABLE) != 0;
+    }
+
     @PluginMethod
     public void getInfo(PluginCall call) {
         try {
@@ -97,6 +155,7 @@ public class AppUpdatePlugin extends Plugin {
             o.put("versionName", pi.versionName == null ? "" : pi.versionName);
             o.put("versionCode", versionCodeOf(pi));
             o.put("canInstall", canInstall());
+            o.put("debuggable", debuggable());
             call.resolve(o);
         } catch (PackageManager.NameNotFoundException e) {
             call.reject("no package info");
@@ -176,6 +235,11 @@ public class AppUpdatePlugin extends Plugin {
                 File dst = apkFile();
                 if (dst.exists() && !dst.delete()) throw new IOException("cannot replace old file");
                 if (!part.renameTo(dst)) throw new IOException("cannot move file");
+                if (!sameSigner(dst)) {
+                    dst.delete();
+                    call.reject("signature");
+                    return;
+                }
                 JSObject o = new JSObject();
                 o.put("size", size);
                 call.resolve(o);
@@ -256,6 +320,11 @@ public class AppUpdatePlugin extends Plugin {
         if (versionCodeOf(pi) <= installedCode()) {
             f.delete();
             call.reject("already up to date");
+            return;
+        }
+        if (!sameSigner(f)) {
+            f.delete();
+            call.reject("signature");
             return;
         }
         if (getActivity() == null) {

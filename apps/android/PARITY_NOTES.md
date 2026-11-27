@@ -19,3 +19,26 @@ Pick one:
 
 ## Not verified (no device)
 `adb` is not installed on this machine, so nothing was tested on a device/emulator. To check on a real device: soft keyboard vs the reader search / chapter jump inputs (Android 15 edge-to-edge may need `adjustResize` or the Capacitor Keyboard plugin if inputs are covered), lock-screen controls, and the file chooser for "Nhập từ tệp…".
+
+## Screen-off audio
+Audit (code review only, no device): the chain is foreground service `MediaPlaybackService` (type mediaPlayback, manifest + FOREGROUND_SERVICE_MEDIA_PLAYBACK, PARTIAL_WAKE_LOCK, MediaSession, ongoing notification on channel `mythlab_playback`) driven by `player/native-media.ts`. Capacitor `KeepRunning` defaults to true, so `webView.onPause()/pauseTimers()` is never called, and `setMediaPlaybackRequiresUserGesture(false)` is set by Capacitor's Bridge, so `<audio>.play()` of the next Piper clip works with the screen off. Piper/Kokoro clips are WAV blobs played through one `<audio>` element (no AudioContext, so no suspend handling is needed); the next chunk is synthesised in the Worker while the current one plays.
+
+Gaps found and fixed:
+- Native TTS was driven one sentence at a time from JS (`await speak()` per piece, QUEUE_FLUSH each). With the WebView throttled the voice paused between sentences. `engines.ts` now queues all sentences of a chunk (QUEUE_ADD) and also the next chunk (announced by `prefetch`), and follows the queue; a changed speed/voice/chunk flushes it. Stop rejects pending chunks (the plugin never answers utterances a stop dropped).
+- Service updates used `startForegroundService` even while already running, which Android 12+ may refuse from the background (next chapter with screen off, title change). `MediaPlaybackService.deliver()` now hands updates to the running service directly.
+- No pause when headphones are unplugged (native TTS would play on the speaker): `ACTION_AUDIO_BECOMING_NOISY` now emits `pause`.
+- Wi-Fi could sleep in the background (next chapter fetch, progress sync): a Wi-Fi lock is held while playing.
+- Battery restrictions (Xiaomi/Huawei/Samsung killers): plugin methods `batteryStatus()` / `openBatterySettings()` and a one-time toast with an "Mở cài đặt" button when the app is restricted (native-media.ts `batteryHint`).
+- Mobile web / Piper: while a Piper clip plays or loads in a hidden tab, a silent looping `<audio>` stands in between clips so Chrome does not freeze the page during synthesis (`mediasession.ts`, `needsHiddenKeepAlive`).
+
+Not changed on purpose: no audio-focus request in the service. The WebView (Piper) and the TTS engine (native) each request focus themselves, and a third client in the same app would receive AUDIOFOCUS_LOSS from them and pause playback by mistake. Verify call/duck behaviour on a device (step 6).
+
+### Device test steps (needs a real Android 13+ phone, ideally also a Xiaomi/Samsung)
+1. Install the APK, open a story, tap listen, accept the notification permission. Expect the notification with Prev/Pause/Next.
+2. Native voice: press the power button. Speech must continue without a gap between sentences for 10 minutes and across a chapter change (auto-next on). Lock-screen card shows the chapter title; Pause/Next work from it.
+3. Piper voice (Settings > engine): repeat step 2. Also press Home and open another app for 10 minutes.
+4. Unplug wired headphones / switch off Bluetooth earbuds while playing: playback pauses.
+5. Settings > Battery: set the app to "Restricted", start listening: the toast with "Mở cài đặt" appears once; after "Unrestricted" repeat step 2 for 30 minutes.
+6. Incoming call during playback: native and Piper both stop/pause; after the call tap play and it resumes at the same sentence. Open YouTube while playing: playback pauses (focus) and does not talk over it.
+7. Swipe the app away from recents: notification disappears and speech stops.
+8. Mobile web (Chrome Android, installed PWA or tab): start listening with Piper, lock the screen: audio continues and the media notification controls work.
