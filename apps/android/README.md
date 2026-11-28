@@ -89,6 +89,11 @@ chỉ dùng `https`. Nếu chỉ dùng token GitHub, có thể đặt `allowMixe
 dụng không rõ nguồn gốc* khi được hỏi. Bản debug ký bằng khoá debug của máy build; muốn cập nhật từ máy build khác
 thì gỡ bản cũ trước.
 
+**Tự cập nhật:** khi có bản mới, app hiện hộp thoại "Có bản mới" (cũng có ở Cài đặt > Ứng dụng). Bấm *Tải và cài đặt*; app kiểm tra
+SHA-256 và chữ ký rồi mở trình cài đặt của Android. Lần đầu cần bật *Cho phép từ nguồn này* cho MythLab, rồi bấm *Cài đặt*. Google Play
+Protect có thể hỏi "Nên quét ứng dụng" (app ngoài Google Play); chọn *Quét ứng dụng* để cài tiếp. Android không cho app ngoài Play
+cài im lặng, nên luôn cần hai lần bấm này. Dữ liệu, truyện đã tải và cài đặt được giữ nguyên.
+
 ## Lần chạy đầu
 
 App mở màn hình chào khi chưa có nguồn dữ liệu. Chọn một trong hai:
