@@ -11,7 +11,9 @@ import { fmtNum, repoLabel } from '../core/format';
 import { html, render, type SafeHtml } from '../core/html';
 import { icon } from '../core/icons';
 import { library } from '../core/library';
+import { offline } from '../offline/index';
 import { href } from '../core/router';
+import { progress } from '../core/progress';
 import { showError, skeleton } from '../core/ui';
 import { openSettings, setCrumbs } from '../shell';
 import { continueCard, repoTile, sectionHead, storyCard } from './cards';
@@ -31,13 +33,34 @@ function personalShelves(): SafeHtml {
   }
   if (fol.length) {
     parts.push(html`<section class="section" aria-labelledby="h-follow">
-      ${sectionHead({ id: 'h-follow', title: 'Đang theo dõi', count: fol.length })}
+      ${sectionHead({ id: 'h-follow', title: 'Đang theo dõi', count: fol.length, more: { href: href.follows(), label: fol.length > SHELF ? `Xem tất cả ${fmtNum(fol.length)}` : 'Tủ truyện', aria: 'Mở Tủ truyện, xem tất cả truyện đang theo dõi' } })}
       <div class="shelf">
         ${fol.slice(0, SHELF).map((f) => storyCard({ ...f, synopsis: '', genres: [], tags: [], status: null, declared_chapters: null, link: null }, f.source))}
       </div>
     </section>`);
   }
   return html`${parts}`;
+}
+
+/** Strip with the running offline downloads (read-only); empty when nothing downloads. */
+function downloadStrip(): SafeHtml {
+  const jobs = offline.activeJobs();
+  if (!jobs.length) return html``;
+  const names = new Map(library.follows().map((f) => [`${f.source}|${f.key}`, f.name]));
+  return html`<section class="section dl-strip" aria-label="Đang tải về">
+    ${jobs.map((j) => {
+      const p = j.progress;
+      const pct = p.total ? Math.min(100, Math.round((p.done / p.total) * 100)) : 0;
+      const name = progress.get(j.source, j.key)?.name || names.get(`${j.source}|${j.key}`) || j.key;
+      return html`<a class="row dl-job" href="${href.story(j.source, j.key)}" title="Mở trang truyện ${name}">
+        <span class="row-body">
+          <span class="row-title">${icon('download')} ${j.state === 'paused' ? 'Tạm dừng' : 'Đang tải'}: ${name}</span>
+          <span class="row-meta">${p.total ? `${fmtNum(p.done)} / ${fmtNum(p.total)} chương (${pct}%)` : 'Đang chuẩn bị…'}${p.failed ? ` · ${fmtNum(p.failed)} lỗi` : ''}</span>
+          <progress class="bar" max="100" value="${pct}" aria-label="Đã tải ${pct}%"></progress>
+        </span>
+      </a>`;
+    })}
+  </section>`;
 }
 
 function hero(first: boolean): SafeHtml {
@@ -112,6 +135,7 @@ export async function mount(el: HTMLElement, _route: Route, ctx: ViewContext): P
     el,
     html`<div class="page page-home">
       ${first ? '' : hero(false)}
+      <div id="home-downloads">${downloadStrip()}</div>
       <div id="home-personal">${personalShelves()}</div>
       ${first ? hero(true) : ''}
       <div id="home-sources">${skeleton.view(html`<div class="section"><div class="sk sk-title"></div>${skeleton.cards(6, 'shelf')}</div>`)}</div>
@@ -123,7 +147,11 @@ export async function mount(el: HTMLElement, _route: Route, ctx: ViewContext): P
     render(personal, personalShelves());
     hydrateCovers(personal);
   };
-  off = [on('follows', refreshPersonal), on('progress', (e) => e.key === null && refreshPersonal())];
+  const dl = el.querySelector<HTMLElement>('#home-downloads') as HTMLElement;
+  const refreshDl = (): void => render(dl, downloadStrip());
+  // jobs start without an event: poll lightly while the home is open (cheap, read-only)
+  const timer = window.setInterval(refreshDl, 1000);
+  off = [on('follows', refreshPersonal), on('progress', (e) => e.key === null && refreshPersonal()), offline.onChange(refreshDl), () => window.clearInterval(timer)];
 
   const box = el.querySelector<HTMLElement>('#home-sources') as HTMLElement;
   const load = async (): Promise<void> => {

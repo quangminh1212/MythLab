@@ -15,7 +15,7 @@ export type { BackendKind, Chapter, ChapterRef, CoverRef, RepoInfo, Source, Sour
 
 // ---------------------------------------------------------------- routing
 
-export type ViewName = 'home' | 'lib' | 'story' | 'read' | 'search' | 'history' | 'bookmarks';
+export type ViewName = 'home' | 'lib' | 'story' | 'read' | 'search' | 'history' | 'bookmarks' | 'follows';
 
 /**
  * A parsed location hash. Path segments are percent-decoded.

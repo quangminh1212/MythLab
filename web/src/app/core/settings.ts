@@ -34,6 +34,18 @@ export interface Settings {
   readMode: 'scroll' | 'page';
   tapZones: boolean;
   brightness: number;
+  /** Follow the device's own screen brightness: the in-page dim layer is off and the slider is disabled. */
+  brightnessAuto: boolean;
+  /** Extra vertical padding of the reading page (px), on top of the standard one. */
+  padY: number;
+  /** "auto" theme follows the clock (nightFrom..nightTo is dark) instead of the system. */
+  nightSchedule: boolean;
+  /** "HH:MM" 24 h. */
+  nightFrom: string;
+  nightTo: string;
+  /** Colours of the "Tuỳ chỉnh" reading preset (#rrggbb). */
+  customBg: string;
+  customFg: string;
   engine: TtsEngine;
   nativeVoice: string;
   /** Piper voice id (player/piper.ts catalog). */
@@ -83,6 +95,13 @@ export function defaults(): Settings {
     readMode: 'scroll',
     tapZones: true,
     brightness: 1,
+    brightnessAuto: true,
+    padY: 0,
+    nightSchedule: false,
+    nightFrom: '19:00',
+    nightTo: '06:00',
+    customBg: '#f4ecd8',
+    customFg: '#2b2118',
     // Piper (on the device) is the reader of the web; the Android app starts with the phone's own voice
     engine: isNative() ? 'native' : 'piper',
     nativeVoice: '',
@@ -111,6 +130,7 @@ export const RANGE = {
   indent: [0, 2],
   paraGap: [0, 2],
   margin: [0, 64],
+  padY: [0, 64],
   width: [480, 1100],
   brightness: [0.3, 1],
   rate: [0.5, 3],
@@ -158,6 +178,32 @@ export const presets: { day: Preset[]; night: Preset[] } = {
   ],
 };
 
+/** Id of the user-defined reading preset (offered in both the day and the night list by the settings UI). */
+export const CUSTOM_PRESET_ID = 'custom';
+export const CUSTOM_PRESET_LABEL = 'Tuỳ chỉnh';
+
+const TIME_RE = /^([01]\d|2[0-3]):([0-5]\d)$/;
+const HEX_RE = /^#[0-9a-f]{6}$/i;
+
+/** Minutes after midnight for "HH:MM", or null when malformed. */
+export function parseTime(t: string): number | null {
+  const m = TIME_RE.exec(t);
+  return m ? Number(m[1]) * 60 + Number(m[2]) : null;
+}
+
+/**
+ * True when `minutes` (after midnight) falls in the night window [from, to). The window may wrap midnight
+ * (19:00 to 06:00). Equal bounds mean an empty window; malformed bounds are never night.
+ */
+export function inNightWindow(minutes: number, from: string, to: string): boolean {
+  const a = parseTime(from);
+  const b = parseTime(to);
+  if (a === null || b === null || a === b) return false;
+  return a < b ? minutes >= a && minutes < b : minutes >= a || minutes < b;
+}
+
+const nowMinutes = (d = new Date()): number => d.getHours() * 60 + d.getMinutes();
+
 const clamp = (v: unknown, [lo, hi]: readonly [number, number], d: number): number => {
   const n = typeof v === 'number' ? v : typeof v === 'string' && v.trim() !== '' ? Number(v) : NaN;
   return Number.isFinite(n) ? Math.min(hi, Math.max(lo, n)) : d;
@@ -168,8 +214,10 @@ export function normalise<K extends SettingKey>(key: K, v: unknown): Settings[K]
   const d = DEF[key];
   if (key in RANGE) return clamp(v, RANGE[key as keyof typeof RANGE], d as number) as Settings[K];
   if (key in ENUM) return ((ENUM[key as keyof typeof ENUM] as readonly string[]).includes(v as string) ? v : d) as Settings[K];
-  if (key === 'dayPreset') return (presets.day.some((p) => p.id === v) ? v : d) as Settings[K];
-  if (key === 'nightPreset') return (presets.night.some((p) => p.id === v) ? v : d) as Settings[K];
+  if (key === 'dayPreset') return (v === CUSTOM_PRESET_ID || presets.day.some((p) => p.id === v) ? v : d) as Settings[K];
+  if (key === 'nightPreset') return (v === CUSTOM_PRESET_ID || presets.night.some((p) => p.id === v) ? v : d) as Settings[K];
+  if (key === 'nightFrom' || key === 'nightTo') return (typeof v === 'string' && TIME_RE.test(v) ? v : d) as Settings[K];
+  if (key === 'customBg' || key === 'customFg') return (typeof v === 'string' && HEX_RE.test(v) ? v.toLowerCase() : d) as Settings[K];
   if (typeof d === 'boolean') return (typeof v === 'boolean' ? v : d) as Settings[K];
   return (typeof v === 'string' ? v : d) as Settings[K];
 }
@@ -232,7 +280,10 @@ const mqDark = (): MediaQueryList | null => (typeof matchMedia === 'function' ? 
 
 /** The scheme actually shown: "auto" follows the system. */
 export function scheme(): Scheme {
-  if (S.theme === 'auto') return mqDark()?.matches ? 'dark' : 'light';
+  if (S.theme === 'auto') {
+    if (S.nightSchedule) return inNightWindow(nowMinutes(), S.nightFrom, S.nightTo) ? 'dark' : 'light';
+    return mqDark()?.matches ? 'dark' : 'light';
+  }
   return S.theme;
 }
 export const isDark = (): boolean => isDarkScheme(scheme());
@@ -241,6 +292,7 @@ export const isDark = (): boolean => isDarkScheme(scheme());
 export function activePreset(): Preset {
   const list = isDark() ? presets.night : presets.day;
   const id = isDark() ? S.nightPreset : S.dayPreset;
+  if (id === CUSTOM_PRESET_ID) return { id, label: CUSTOM_PRESET_LABEL, bg: S.customBg, fg: S.customFg, accent: null };
   return list.find((p) => p.id === id) || (list[0] as Preset);
 }
 
@@ -251,6 +303,7 @@ export function apply(): void {
   if (typeof document === 'undefined') return;
   const root = document.documentElement;
   const sc = scheme();
+  lastScheme = sc;
   root.dataset.theme = S.theme;
   root.dataset.scheme = sc;
   root.dataset.mode = isDarkScheme(sc) ? 'dark' : 'light';
@@ -282,7 +335,9 @@ export function apply(): void {
   setOr('--read-fg', p.fg);
   setOr('--read-accent', p.accent);
   root.dataset.preset = p.id;
-  st.setProperty('--brightness', String(S.brightness));
+  const bright = S.brightnessAuto ? 1 : S.brightness;
+  st.setProperty('--brightness', String(bright));
+  st.setProperty('--read-pad-y', S.padY + 'px');
   let dim = document.getElementById('dim');
   if (!dim && document.body) {
     dim = document.createElement('div');
@@ -290,7 +345,7 @@ export function apply(): void {
     dim.setAttribute('aria-hidden', 'true');
     document.body.appendChild(dim);
   }
-  if (dim) dim.style.opacity = String(Math.round((1 - S.brightness) * 100) / 100);
+  if (dim) dim.style.opacity = String(Math.round((1 - bright) * 100) / 100);
   syncThemeColor();
   void ensure(S.font);
 }
@@ -455,12 +510,24 @@ export function reset(keys?: SettingKey[]): void {
 
 let started = false;
 let barTimer = 0;
+let lastScheme = '';
+/** Re-applies when the clock-driven scheme flipped (scheduled night mode). */
+function clockTick(): void {
+  if (S.theme !== 'auto' || !S.nightSchedule) return;
+  if (scheme() === lastScheme) return;
+  apply();
+  notify('theme', S.theme);
+}
 /** Loads, applies and starts following the system scheme and changes made in other tabs. Idempotent. */
 export function init(): void {
   load();
   apply();
   if (started || typeof window === 'undefined') return;
   started = true;
+  window.setInterval(clockTick, 60_000);
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') clockTick();
+  });
   mqDark()?.addEventListener?.('change', () => {
     if (S.theme === 'auto') {
       apply();
@@ -482,4 +549,4 @@ export function init(): void {
   }
 }
 
-export const settings = { DEF, S, RANGE, presets, defaults, normalise, load, save, apply, get, set, patch, reset, onChange, init, isDark, scheme, activePreset, fontStack, solidHex, chromeColor, syncThemeColor, syncStatusBar, isNative };
+export const settings = { inNightWindow, DEF, S, RANGE, presets, defaults, normalise, load, save, apply, get, set, patch, reset, onChange, init, isDark, scheme, activePreset, fontStack, solidHex, chromeColor, syncThemeColor, syncStatusBar, isNative };

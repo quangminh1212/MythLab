@@ -11,10 +11,10 @@ import type { SettingsPanelApi, SettingsTab } from '../core/contracts';
 import { fonts, type FontInfo } from '../core/fonts';
 import { html, render, type SafeHtml } from '../core/html';
 import { icon } from '../core/icons';
-import { activePreset, isDark, onChange, presets, RANGE, S, patch, reset, set, type Preset } from '../core/settings';
+import { activePreset, CUSTOM_PRESET_ID, CUSTOM_PRESET_LABEL, isDark, onChange, presets, RANGE, S, patch, reset, set, type Preset } from '../core/settings';
 import { confirmDialog, openDialog, toast, type DialogHandle } from '../core/ui';
 import { ACCENTS, THEMES } from '../core/themes';
-import { bindControls, checkRow, rangeRow, segRow, syncControls } from './controls';
+import { bindControls, checkRow, fieldRow, rangeRow, segRow, syncControls } from './controls';
 import { matchPreset, presetValues, TYPO_PRESETS } from './presets';
 import { auth } from '../core/auth';
 import { mountAccount } from './account';
@@ -99,7 +99,7 @@ function swatches(kind: 'day' | 'night'): SafeHtml {
   return html`<div class="ss-row">
     <div class="ss-label" id="ss-sw-${kind}">${label}</div>
     <div class="ss-swatches" role="radiogroup" aria-labelledby="ss-sw-${kind}" data-swatches="${key}">
-      ${list.map(
+      ${[...list, { id: CUSTOM_PRESET_ID, label: CUSTOM_PRESET_LABEL, bg: S.customBg, fg: S.customFg, accent: null } as Preset].map(
         (p: Preset) =>
           html`<button type="button" class="ss-sw ${p.bg ? '' : 'is-default'}" role="radio" aria-checked="${S[key] === p.id ? 'true' : 'false'}" data-preset="${p.id}" title="${p.label}">
             <span class="ss-sw-chip" data-bg="${p.bg || ''}" data-fg="${p.fg || ''}" aria-hidden="true">Aa</span>
@@ -120,6 +120,16 @@ function paintSwatches(root: ParentNode): void {
 function themeTab(): SafeHtml {
   return html`${themeGrid()} ${preview()} ${swatches('day')} ${swatches('night')}
     <p class="hint ss-active-note" id="ss-active-note"></p>
+    <div class="ss-row" data-show-if="custom" hidden>
+      <div class="ss-label">Màu tuỳ chỉnh</div>
+      <div class="ss-colors">${fieldRow('customBg', 'color', 'Nền')} ${fieldRow('customFg', 'color', 'Chữ')}</div>
+      <p class="hint">Chọn “Tuỳ chỉnh” ở màu nền ban ngày hoặc ban đêm để dùng cặp màu này khi đọc. Hãy chọn nền và chữ đủ tương phản.</p>
+    </div>
+    <div class="ss-checks">${checkRow('nightSchedule', 'Theo giờ (khi giao diện ở chế độ Tự động)', 'Tối vào khung giờ đặt dưới đây thay vì theo hệ thống')}</div>
+    <div class="ss-row" data-show-if="nightSchedule" hidden>
+      <div class="ss-colors">${fieldRow('nightFrom', 'time', 'Tối từ')} ${fieldRow('nightTo', 'time', 'Sáng từ')}</div>
+    </div>
+    <div class="ss-checks">${checkRow('brightnessAuto', 'Theo độ sáng của máy', 'Tắt để chỉnh độ sáng riêng cho trang web')}</div>
     ${rangeRow('brightness')}`;
 }
 
@@ -152,7 +162,7 @@ function layoutTab(): SafeHtml {
       ['left', 'Trái'],
       ['justify', 'Đều hai bên'],
     ])}
-    ${rangeRow('indent')} ${rangeRow('paraGap')} ${rangeRow('margin')} ${rangeRow('width')}
+    ${rangeRow('indent')} ${rangeRow('paraGap')} ${rangeRow('margin')} ${rangeRow('padY')} ${rangeRow('width')}
     ${segRow('readMode', 'Kiểu đọc', [
       ['scroll', 'Cuộn dọc'],
       ['page', 'Lật trang'],
@@ -189,6 +199,7 @@ function voiceTab(): SafeHtml {
       ${checkRow('autoNext', 'Tự chuyển chương khi nghe hết')} ${checkRow('follow', 'Tự cuộn theo đoạn đang đọc')} ${checkRow('autoOpenReader', 'Mở trang đọc khi bắt đầu nghe')} ${checkRow('readTitle', 'Đọc tiêu đề chương')}
       ${checkRow('ttsChapterCue', 'Báo “Hết chương” trước khi qua chương mới')} ${checkRow('ttsClean', 'Lọc ký tự lạ trước khi đọc')} ${checkRow('keepAwake', 'Giữ màn hình sáng khi nghe')}
     </div>
+    <div class="ss-row"><button type="button" class="btn" id="ss-voice-reset">Mặc định</button><p class="hint">Đặt lại riêng các mục của giọng đọc (tốc độ, cao độ, giọng, các tuỳ chọn đọc).</p></div>
     <p class="hint">Mẹo: nhấp đúp vào một đoạn để nghe từ đó. Phím tắt: Space phát/dừng, ←/→ chương trước/sau, J/K đoạn sau/trước.</p>`;
 }
 
@@ -234,8 +245,11 @@ function markTypo(root: ParentNode): void {
 
 function paintSwatchColours(root: ParentNode): void {
   for (const c of root.querySelectorAll<HTMLElement>('.ss-sw-chip')) {
-    if (c.dataset.bg) c.style.setProperty('--sw-bg', c.dataset.bg);
-    if (c.dataset.fg) c.style.setProperty('--sw-fg', c.dataset.fg);
+    const custom = c.closest('[data-preset="custom"]');
+    const bg = custom ? S.customBg : c.dataset.bg;
+    const fg = custom ? S.customFg : c.dataset.fg;
+    if (bg) c.style.setProperty('--sw-bg', bg);
+    if (fg) c.style.setProperty('--sw-fg', fg);
   }
 }
 
@@ -310,6 +324,7 @@ function open(tab?: SettingsTab): void {
     markFonts(root);
     markTypo(root);
     paintSwatches(root);
+    paintSwatchColours(root);
     noteActive(root);
     paintSummaries(root);
   });

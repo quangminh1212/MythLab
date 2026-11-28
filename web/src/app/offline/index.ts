@@ -16,7 +16,7 @@ import { backend } from '../core/backend/index';
 import type { Chapter } from '../core/backend/types';
 import type { ChapterRef, DownloadOptions, DownloadProgress, OfflineApi } from '../core/contracts';
 import { data } from '../core/data';
-import { Emitter } from '../core/events';
+import { emit, Emitter } from '../core/events';
 import { sKey } from '../core/format';
 import { idb } from '../core/store';
 import { CACHE, chapterKey, HDR_AT, HDR_SIZE, parseChapterKey, parseStoryMetaKey, scopeOf, storyMetaKey, storyPrefix, type SwRequest } from '../../sw/shared';
@@ -238,6 +238,26 @@ export function clampRange(count: number, from?: number, to?: number): { from: n
   return a <= b ? { from: a, to: b } : { from: b, to: a };
 }
 
+/** Running or paused jobs of every story. */
+function activeJobs(): DownloadJob[] {
+  return [...jobs.values()].filter((j) => j.state === 'running' || j.state === 'paused');
+}
+
+function refusedJob(source: string, key: string): DownloadJob {
+  const progress: DownloadProgress = { done: 0, total: 0, failed: 0 };
+  return {
+    source,
+    key,
+    state: 'cancelled',
+    progress,
+    pause() {},
+    resume() {},
+    cancel() {},
+    onChange: () => () => {},
+    finished: Promise.resolve(progress),
+  };
+}
+
 /**
  * Starts downloading chapters of a story (one job per story; a running job is returned as is). The job keeps
  * running when the dialog that started it closes.
@@ -246,6 +266,12 @@ function startJob(source: string, key: string, o: JobOptions = {}): DownloadJob 
   const id = sKey(source, key);
   const running = jobs.get(id);
   if (running && (running.state === 'running' || running.state === 'paused')) return running;
+  // one download at a time across stories: refuse a second one with a message (the returned job is already cancelled)
+  const other = activeJobs().find((j) => j.state === 'running');
+  if (other) {
+    emit('toast', { message: 'Đang tải một truyện khác. Hãy đợi tải xong hoặc huỷ trước khi tải truyện này.', kind: 'error' });
+    return refusedJob(source, key);
+  }
 
   let state: JobState = 'running';
   const progress: DownloadProgress = { done: 0, total: 0, failed: 0 };
@@ -515,6 +541,8 @@ export const offline: OfflineApi & {
   startJob: typeof startJob;
   /** The running or paused job of a story, if any. */
   job(source: string, key: string): DownloadJob | null;
+  /** Running or paused jobs of every story (read-only view). */
+  activeJobs: typeof activeJobs;
   read: typeof read;
   storedFiles: typeof storedFiles;
   list: typeof list;
@@ -563,6 +591,7 @@ export const offline: OfflineApi & {
 
   startJob,
   job: (source, key) => jobs.get(sKey(source, key)) ?? null,
+  activeJobs,
   read,
   storedFiles,
   list,

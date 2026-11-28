@@ -39,6 +39,7 @@ const views: Record<ViewName, Loader> = {
   search: () => import('./views/search'),
   history: () => import('./views/history'),
   bookmarks: () => import('./views/bookmarks'),
+  follows: () => import('./views/follows'),
 };
 const onboarding: Loader = () => import('./views/onboarding');
 /** Views that need a story source; history and bookmarks work from what is stored on the device. */
@@ -48,7 +49,7 @@ function loadingView(el: HTMLElement, route: Route): void {
   const inner =
     route.view === 'story'
       ? html`${skeleton.story()}${skeleton.rows(8)}`
-      : route.view === 'history' || route.view === 'bookmarks'
+      : route.view === 'history' || route.view === 'bookmarks' || route.view === 'follows'
         ? skeleton.rows(8)
         : route.view === 'read'
           ? skeleton.lines(12)

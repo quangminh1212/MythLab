@@ -5,12 +5,15 @@
  * say) the tab shows the engine that will really be used, its voices, and why. Only Vietnamese voices are listed.
  */
 import { html, render } from '../core/html';
-import { S, set, type TtsEngine } from '../core/settings';
+import { reset, S, set, type SettingKey, type TtsEngine } from '../core/settings';
 import { toast } from '../core/ui';
 import { offerPiper } from '../player/engines';
 import { onVoiceProgress, saveData, voiceProgress } from '../player/autovoice';
 import { downloadBytes, megabytes, PIPER_SIZE_NOTE, piperChoice, piperInstalled, piperVoice, refreshPiper, removePiper } from '../player/piper';
 import { effectiveEngine, engineChoices, listVoices, preview, readEnv, selectVoice, stopPreview, voiceKey, type VoiceItem } from './voices';
+
+/** The settings the voice tab's "Mặc định" button resets (nothing outside the reader voice). */
+export const TTS_KEYS: SettingKey[] = ['rate', 'pitch', 'nativeVoice', 'piperVoice', 'readTitle', 'ttsClean', 'ttsChapterCue', 'autoNext'];
 
 /** Wires the tab inside `root`. Returns the function that stops everything it started. */
 export function mountVoice(root: HTMLElement): () => void {
@@ -138,6 +141,14 @@ export function mountVoice(root: HTMLElement): () => void {
       .catch(() => toast({ message: 'Thiết bị không đọc thử được.', kind: 'error' }))
       .finally(() => test.classList.remove('is-busy'));
   };
+  const resetBtn = root.querySelector<HTMLButtonElement>('#ss-voice-reset');
+  const onReset = (): void => {
+    stopPreview();
+    reset(TTS_KEYS);
+    toast('Đã đặt lại cài đặt giọng đọc');
+    void refresh();
+  };
+  resetBtn?.addEventListener('click', onReset);
   engineBox.addEventListener('change', onEngine);
   select.addEventListener('change', onVoice);
   test.addEventListener('click', onTest);
@@ -156,6 +167,7 @@ export function mountVoice(root: HTMLElement): () => void {
     seq++;
     offProgress();
     stopPreview();
+    resetBtn?.removeEventListener('click', onReset);
     engineBox.removeEventListener('change', onEngine);
     select.removeEventListener('change', onVoice);
     test.removeEventListener('click', onTest);

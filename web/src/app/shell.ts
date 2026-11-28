@@ -162,6 +162,7 @@ function markCurrent(route: Route): void {
   for (const [id, view] of [
     ['btn-history', 'history'],
     ['btn-bookmarks', 'bookmarks'],
+    ['btn-follows', 'follows'],
   ] as const) {
     const a = document.getElementById(id);
     if (!a) continue;

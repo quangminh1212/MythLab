@@ -54,7 +54,7 @@ describe('buildChunks', () => {
   it('reads the title first as chunk -1 and skips scene breaks', () => {
     const c = buildChunks(ch, { max: 1200, readTitle: true, clean: true });
     expect(c.map((x) => x.p)).toEqual([-1, 0, 2]);
-    expect(c[0]?.text).toBe('Chương 6. Tĩnh Tâm Uyển');
+    expect(c[0]?.text).toBe('Chương sáu. Tĩnh Tâm Uyển');
     expect(c[1]?.text).toBe('Câu một. Câu hai! Câu ba?');
     expect(c[1]?.sents.map((s) => c[1]?.text.slice(s.at, s.at + s.len))).toEqual(['Câu một.', 'Câu hai!', 'Câu ba?']);
     expect(c[1]?.sents.map((s) => ch.paragraphs[0]?.slice(s.s, s.e))).toEqual(['Câu một. ', 'Câu hai! ', 'Câu ba?']);
@@ -127,5 +127,36 @@ describe('small helpers', () => {
     expect(sleepLabel(0)).toBe('');
     expect(sleepLabel(29.2 * 60_000)).toBe('30 phút');
     expect(sleepLabel(45_000)).toBe('45 giây');
+  });
+});
+
+describe('speech normalisation and abbreviations', () => {
+  it('reads numbers and symbols as words for every voice', async () => {
+    const { safeSpeechNormalize } = await import('./speech-norm');
+    expect(clean('Có 5 người')).toBe('Có năm người');
+    expect(clean('Tăng 50%')).toMatch(/năm mươi phần trăm/);
+    expect(clean('Có 5 người', true, false)).toBe('Có 5 người');
+    expect(safeSpeechNormalize('Giá 1.000 đồng')).toBe('Giá 1.000 đồng'); // ambiguous: unchanged
+    expect(safeSpeechNormalize('mở web 3')).toContain('web');
+  });
+  it('keeps highlight offsets consistent with the normalised text', () => {
+    const para = 'Anh có 5 người. Cô ấy có 12 người!';
+    const [c] = buildChunks({ paragraphs: [para] }, { max: 220, readTitle: false, clean: true });
+    expect(c?.text).toBe('Anh có năm người. Cô ấy có mười hai người!');
+    for (const s of c?.sents ?? []) expect(c?.text.slice(s.at, s.at + s.len).length).toBe(s.len);
+    expect(buildChunks({ paragraphs: [para] }, { max: 220, readTitle: false, clean: true, normalize: false })[0]?.text).toBe(para);
+  });
+  it('does not split after abbreviations or initials', () => {
+    const t = 'Anh sống ở TP. Hồ Chí Minh. Ông Mr. Smith đến. ThS. Lan và GS. Nam gặp A. Nguyễn. Hết.';
+    expect(splitSentences(t).map((s) => t.slice(s.s, s.e).trim())).toEqual([
+      'Anh sống ở TP. Hồ Chí Minh.',
+      'Ông Mr. Smith đến.',
+      'ThS. Lan và GS. Nam gặp A. Nguyễn.',
+      'Hết.',
+    ]);
+  });
+  it('still splits before a lowercase word or a normal word', () => {
+    expect(splitSentences('Tôi đi. Anh ở lại.').length).toBe(2);
+    expect(splitSentences('Vs. nhau xong. Rồi đi.').length).toBe(3);
   });
 });

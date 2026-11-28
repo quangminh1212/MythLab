@@ -124,6 +124,12 @@ export function initNativeMedia(player: Player): void {
           case 'next':
             player.gotoChapter((player.getState().idx ?? 0) + 1);
             break;
+          case 'forward':
+            player.step(1);
+            break;
+          case 'rewind':
+            player.step(-1);
+            break;
           case 'previous':
             player.gotoChapter((player.getState().idx ?? 0) - 1);
             break;

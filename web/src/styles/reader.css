@@ -164,7 +164,7 @@ body.view-read {
 .rd-article {
   max-width: calc(var(--read-width) + 2 * (var(--gutter) + var(--read-margin, 0px)));
   margin: 0 auto;
-  padding: calc(var(--topbar-h) + 28px) calc(var(--gutter) + var(--read-margin, 0px)) 72px;
+  padding: calc(var(--topbar-h) + 28px + var(--read-pad-y, 0px)) calc(var(--gutter) + var(--read-margin, 0px)) calc(72px + var(--read-pad-y, 0px));
   font-family: var(--font-read);
   font-size: var(--read-size);
   font-weight: var(--read-weight);
@@ -293,7 +293,7 @@ html[data-readmode="page"] body.view-read {
   inset: 0;
   display: flex;
   justify-content: center;
-  padding: calc(var(--topbar-h) + 12px) max(var(--gutter), var(--read-margin, 0px)) 44px;
+  padding: calc(var(--topbar-h) + 12px + var(--read-pad-y, 0px)) max(var(--gutter), var(--read-margin, 0px)) calc(44px + var(--read-pad-y, 0px));
 }
 
 .rd[data-mode="page"] .rd-clip {
@@ -654,4 +654,44 @@ html[data-readmode="page"] body.view-read {
   .rd[data-mode="page"] .rd-article {
     transition: none;
   }
+}
+
+/* ---------------------------------------------------------------- end-of-book suggestions, coach marks */
+
+.rd-suggest {
+  margin: 0 0 18px;
+  text-align: left;
+}
+
+.rd-suggest-title {
+  margin: 0 0 10px;
+  font-size: var(--fs-md);
+  color: var(--text-2);
+}
+
+.rd-suggest-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
+  gap: 12px;
+}
+
+.rd-coach {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rd-coach li {
+  display: grid;
+  gap: 2px;
+}
+
+.rd-coach span {
+  color: var(--text-2);
+}
+
+.rd-help-coach {
+  justify-self: start;
 }

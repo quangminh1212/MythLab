@@ -16,6 +16,8 @@ export const RATES: readonly number[] = [0.75, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 
 /** Sleep-timer choices in minutes; -1 = at the end of the chapter. */
 export const SLEEP_MINUTES: readonly number[] = [15, 30, 45, 60, 90];
 
+import { safeSpeechNormalize } from './speech-norm';
+
 const BAD = /[^\p{L}\p{M}\p{N}\s.,!?…:;"'“”‘’()\-–—]/gu;
 const HAS_WORD = /[\p{L}\p{N}]/u;
 
@@ -24,14 +26,16 @@ export const speakable = (text: string): boolean => HAS_WORD.test(text);
 
 /**
  * Text as it is sent to a voice. With `on` (the "ttsClean" setting) symbols are dropped and repeated punctuation
- * collapsed; without it only the outer whitespace goes. Returns '' when nothing speakable is left.
+ * collapsed and numbers / symbols are read as words (`norm`; pass false when the engine does that itself, as
+ * Kokoro does); without it only the outer whitespace goes. Returns '' when nothing speakable is left.
  */
-export function clean(text: unknown, on = true): string {
+export function clean(text: unknown, on = true, norm = true): string {
   let t = String(text ?? '');
   if (!on) {
     t = t.replace(/\s+/g, ' ').trim();
     return speakable(t) ? t : '';
   }
+  if (norm) t = safeSpeechNormalize(t);
   t = t
     .replace(BAD, ' ')
     .replace(/\.{3,}/g, '…')
@@ -53,13 +57,14 @@ export interface Span {
 const SENT_END = /[.!?…。]+["'”’»)\]]*(?:\s+|$)/gu;
 const CLAUSE_END = /[,;:–—]+["'”’»)\]]*\s+/gu;
 
-function cut(text: string, from: number, to: number, re: RegExp): Span[] {
+function cut(text: string, from: number, to: number, re: RegExp, skip?: (text: string, m: RegExpExecArray) => boolean): Span[] {
   const out: Span[] = [];
   let at = from;
   re.lastIndex = from;
   for (;;) {
     const m = re.exec(text);
     if (!m || m.index >= to) break;
+    if (skip?.(text, m)) continue;
     const end = Math.min(to, m.index + m[0].length);
     if (end > at) out.push({ s: at, e: end });
     at = end;
@@ -69,6 +74,19 @@ function cut(text: string, from: number, to: number, re: RegExp): Span[] {
   return out;
 }
 
+const ABBR = new Set(['tp', 'mr', 'mrs', 'ms', 'dr', 'ths', 'th.s', 'ts', 'gs', 'pgs', 'st', 'vs', 'prof', 'jr', 'sr', 'bs', 'tt', 'cty', 'mt', 'ft']);
+const INITIALS = /^(?:\p{Lu}\.)*\p{Lu}$/u;
+
+/** True when the full stop of match `m` follows an abbreviation or an initial and a capitalised word comes next. */
+function abbrDot(text: string, m: RegExpExecArray): boolean {
+  if (m[0].replace(/\s+$/, '') !== '.') return false;
+  const next = text.slice(m.index + m[0].length).match(/^[("“‘'[]*(\p{L})/u)?.[1];
+  if (!next || next === next.toLowerCase() || next !== next.toUpperCase()) return false;
+  const word = (text.slice(0, m.index).match(/[\p{L}\p{M}.]+$/u)?.[0] ?? '').replace(/^\.+/, '');
+  if (!word) return false;
+  return ABBR.has(word.toLowerCase()) || INITIALS.test(word);
+}
+
 /**
  * Sentences of a text as contiguous spans that cover it completely (trailing white space belongs to the
  * sentence before it). A full stop inside a number or an abbreviation ("3.5", "v.v...") does not end a sentence
@@ -76,7 +94,7 @@ function cut(text: string, from: number, to: number, re: RegExp): Span[] {
  */
 export function splitSentences(text: string): Span[] {
   if (!text) return [];
-  const spans = cut(text, 0, text.length, SENT_END);
+  const spans = cut(text, 0, text.length, SENT_END, abbrDot);
   // a span without a letter or digit (a lone quote mark, an ellipsis) joins its neighbour
   const out: Span[] = [];
   for (const sp of spans) {
@@ -151,20 +169,22 @@ export interface ChunkOptions {
   readTitle: boolean;
   /** The "ttsClean" setting. */
   clean: boolean;
+  /** Read numbers and symbols as words (default true; false for an engine that normalises on its own). */
+  normalize?: boolean;
 }
 
 /** Splits a chapter into chunks. Paragraphs without a letter or digit (scene breaks) are skipped. */
 export function buildChunks(ch: { title?: string | null; paragraphs: string[] }, o: ChunkOptions): Chunk[] {
   const out: Chunk[] = [];
   if (o.readTitle && ch.title) {
-    const t = clean(titleText(ch.title), o.clean);
+    const t = clean(titleText(ch.title), o.clean, o.normalize !== false);
     if (t) out.push({ p: -1, text: t, sents: [{ s: 0, e: ch.title.length, at: 0, len: t.length }] });
   }
   ch.paragraphs.forEach((para, p) => {
     if (!speakable(para)) return;
     let cur: Chunk | null = null;
     for (const sp of segments(para, o.max)) {
-      const t = clean(para.slice(sp.s, sp.e), o.clean);
+      const t = clean(para.slice(sp.s, sp.e), o.clean, o.normalize !== false);
       if (!t) {
         // nothing to say: the span still belongs to the sentence before it, so the highlight has no holes
         const last = cur?.sents[cur.sents.length - 1];

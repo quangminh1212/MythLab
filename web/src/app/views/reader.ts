@@ -23,7 +23,11 @@ import { openDialog, showError, skeleton, toast, announce, type DialogHandle } f
 import { createAutoScroll, SPEEDS, type AutoScroll } from '../reader/autoscroll';
 import { closeChapterDrawer, openChapterDrawer, type DrawerTab } from '../reader/drawer';
 import { createHighlighter } from '../reader/highlight';
+import { coachSeen, openCoach } from '../reader/coach';
 import { openHelp } from '../reader/help';
+import { reportUrl } from '../reader/report';
+import { pickSuggestions } from '../reader/suggest';
+import { storyCard } from './cards';
 import { xicon } from '../reader/icons';
 import { keyOf, shortcutAllowed, typingTarget } from '../reader/keys';
 import { chapterSwipe, clampPage, firstPara, pageCount, pageOfOffset, pageSwipe, tapZone, turn, wheelTurn, stride, type PageGeom } from '../reader/pager';
@@ -33,7 +37,7 @@ import { openSettings, shell } from '../shell';
 
 /** Distance of the reading line from the top of the viewport (scroll mode), in px. */
 /** Keys that act alone (no modifier) and can be switched off in Settings. */
-const SINGLE_KEYS: ReadonlySet<string> = new Set(['m', 'b', 'a', '+', '=', '-', '_', '?', ' ']);
+const SINGLE_KEYS: ReadonlySet<string> = new Set(['m', 'b', 'a', '+', '=', '-', '_', '?', ' ', 'r']);
 const LINE = 84;
 /** Gap between two pages, in px. */
 const GAP = 48;
@@ -99,6 +103,7 @@ function markup(c: Ctx): SafeHtml {
             ${next
               ? html`<p class="rd-end-note">Hết chương ${st.chapters[idx]?.n ?? idx + 1}</p>`
               : html`<p class="rd-end-note">Bạn đã đọc đến chương cuối của truyện này.</p>`}
+            ${next ? '' : html`<section class="rd-suggest" id="rd-suggest" aria-labelledby="rd-suggest-h" hidden><h2 class="rd-suggest-title" id="rd-suggest-h">Đề cử đọc</h2><div class="rd-suggest-row" id="rd-suggest-row"></div></section>`}
             <div class="rd-end-row">
               ${prev ? html`<a class="btn" href="${prev}" data-end-nav="prev" rel="prev">${icon('left')}<span>Chương trước</span></a>` : html`<span></span>`}
               <a class="btn" href="${storyHref}">${icon('list')}<span>Mục lục</span></a>
@@ -555,6 +560,8 @@ function open(c: Ctx): void {
       ['top', 'Về đầu chương', icon('up')],
       ['bottom', 'Tới cuối chương', icon('down')],
       ...(paged() ? [] : ([['auto', auto.running ? 'Dừng tự cuộn' : 'Tự cuộn', xicon('autoScroll')]] as [string, string, SafeHtml][])),
+      ['reload', 'Tải lại nội dung', icon('refresh')],
+      ['report', 'Báo lỗi chương', xicon('help')],
       ['settings', 'Cài đặt đọc', icon('settings')],
       ['menu', 'Danh mục truyện', icon('menu')],
       ['help', 'Phím tắt', xicon('help')],
@@ -572,6 +579,17 @@ function open(c: Ctx): void {
       d.close();
       later(() => act(a), 30);
     });
+  }
+
+  function reload(): void {
+    data.invalidate('chapter:');
+    toast('Đang tải lại chương');
+    void mount(el, { ...c.route, query: {} }, ctx);
+  }
+
+  function report(): void {
+    const url = reportUrl({ story: st.name, source: st.source, key: st.key, chapter: label, idx, page: paged() ? `${page + 1}/${pages}` : `${Math.round(frac * 100)}%` });
+    window.open(url, '_blank', 'noopener,noreferrer');
   }
 
   function drawer(tab: DrawerTab = 'toc'): void {
@@ -608,6 +626,10 @@ function open(c: Ctx): void {
         return openSettings();
       case 'help':
         return openHelp();
+      case 'reload':
+        return reload();
+      case 'report':
+        return report();
       case 'more':
         return moreSheet();
       case 'menu':
@@ -670,6 +692,7 @@ function open(c: Ctx): void {
       else if ((k === '+' || k === '=') && auto.running) auto.nudge(1);
       else if ((k === '-' || k === '_') && auto.running) auto.nudge(-1);
       else if (k === '?') openHelp();
+      else if (k === 'r') reload();
       else if (k === 'Escape') {
         if (auto.running) auto.stop();
         else toggleChrome();
@@ -756,6 +779,24 @@ function open(c: Ctx): void {
     settle();
     ignoreScrollUntil = performance.now() + 300;
   });
+
+  // first-run coach marks
+  if (!coachSeen()) later(() => !ac.signal.aborted && !overlayOpen() && openCoach({ paged: paged() }), 900);
+
+  // end-of-book suggestions
+  const sugg = el.querySelector<HTMLElement>('#rd-suggest');
+  if (sugg) {
+    void data
+      .stories(st.source, null, { signal: ctx.signal })
+      .then((list) => {
+        if (ac.signal.aborted) return;
+        const picks = pickSuggestions(list, st, { limit: 6, seen: (k) => !!progress.get(st.source, k) });
+        if (!picks.length) return;
+        render(el.querySelector('#rd-suggest-row') as HTMLElement, html`${picks.map((p) => storyCard(p, st.source))}`);
+        sugg.hidden = false;
+      })
+      .catch(() => {});
+  }
 
   // next-chapter prefetch
   const nextRef = st.chapters[idx + 1];

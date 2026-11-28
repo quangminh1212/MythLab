@@ -83,6 +83,8 @@ public class MediaPlaybackService extends Service {
             @Override public void onPause() { MediaPlaybackPlugin.emit("pause"); }
             @Override public void onSkipToNext() { MediaPlaybackPlugin.emit("next"); }
             @Override public void onSkipToPrevious() { MediaPlaybackPlugin.emit("previous"); }
+            @Override public void onFastForward() { MediaPlaybackPlugin.emit("forward"); }
+            @Override public void onRewind() { MediaPlaybackPlugin.emit("rewind"); }
         });
         session.setActive(true);
         // headphones unplugged / Bluetooth lost: pause instead of blasting the speaker
@@ -131,7 +133,8 @@ public class MediaPlaybackService extends Service {
         mb.putString(MediaMetadata.METADATA_KEY_ARTIST, artist == null ? "" : artist);
         session.setMetadata(mb.build());
         long actions = PlaybackState.ACTION_PLAY | PlaybackState.ACTION_PAUSE | PlaybackState.ACTION_PLAY_PAUSE
-                | PlaybackState.ACTION_SKIP_TO_NEXT | PlaybackState.ACTION_SKIP_TO_PREVIOUS;
+                | PlaybackState.ACTION_SKIP_TO_NEXT | PlaybackState.ACTION_SKIP_TO_PREVIOUS
+                | PlaybackState.ACTION_FAST_FORWARD | PlaybackState.ACTION_REWIND;
         session.setPlaybackState(new PlaybackState.Builder()
                 .setActions(actions)
                 .setState(playing ? PlaybackState.STATE_PLAYING : PlaybackState.STATE_PAUSED, PlaybackState.PLAYBACK_POSITION_UNKNOWN, 1f)

@@ -29,6 +29,7 @@ export const RANGES: Record<RangeKey, RangeDef> = {
   indent: { key: 'indent', label: 'Thụt đầu dòng', step: 0.25, fmt: (v) => `${fix(v, 2)} em` },
   paraGap: { key: 'paraGap', label: 'Cách đoạn', step: 0.1, fmt: (v) => `${fix(v, 1)} em` },
   margin: { key: 'margin', label: 'Lề hai bên', step: 2, fmt: (v) => (v === 0 ? 'Tự động' : `${Math.round(v)} px`) },
+  padY: { key: 'padY', label: 'Lề trên/dưới', step: 2, fmt: (v) => (v === 0 ? 'Mặc định' : `+${Math.round(v)} px`) },
   width: { key: 'width', label: 'Độ rộng cột', step: 20, fmt: (v) => `${Math.round(v)} px` },
   rate: { key: 'rate', label: 'Tốc độ đọc', step: 0.1, fmt: (v) => `${fix(v, 1)}×` },
   pitch: { key: 'pitch', label: 'Cao độ giọng', step: 0.05, fmt: (v) => fix(v, 2) },
@@ -43,7 +44,7 @@ export function rangeRow(key: RangeKey): SafeHtml {
   const id = `ss-r-${key}-${++seq}`;
   return html`<div class="ss-row">
     <label class="ss-label" for="${id}"><span>${d.label}</span><output class="ss-out" for="${id}" data-out="${key}">${d.fmt(S[key])}</output></label>
-    <input id="${id}" class="ss-range" type="range" min="${min}" max="${max}" step="${d.step}" value="${S[key]}" data-range="${key}" />
+    <input id="${id}" class="ss-range" type="range" min="${min}" max="${max}" step="${d.step}" value="${S[key]}" data-range="${key}" ${key === 'brightness' && S.brightnessAuto ? html`disabled` : ''} />
   </div>`;
 }
 
@@ -55,6 +56,15 @@ export function segRow<K extends 'theme' | 'align' | 'readMode' | 'engine'>(key:
     <div class="ss-seg ${o.compact ? 'is-compact' : ''}" role="radiogroup" aria-labelledby="${group}-l" data-seg="${key}">
       ${options.map(([v, text]) => html`<label class="ss-opt"><input type="radio" name="${group}" value="${String(v)}" ${String(S[key]) === String(v) ? html`checked` : ''} /><span>${text}</span></label>`)}
     </div>
+  </div>`;
+}
+
+/** A text-like input (time, colour) bound to a string setting. */
+export function fieldRow(key: 'nightFrom' | 'nightTo' | 'customBg' | 'customFg', type: 'time' | 'color', label: string): SafeHtml {
+  const id = `ss-f-${key}-${++seq}`;
+  return html`<div class="ss-row ss-field">
+    <label class="ss-label" for="${id}"><span>${label}</span></label>
+    <input id="${id}" class="ss-input ss-input-${type}" type="${type}" value="${S[key]}" data-field="${key}" />
   </div>`;
 }
 
@@ -75,6 +85,12 @@ export function syncControls(root: ParentNode): void {
     if (Number(el.value) !== v) el.value = String(v);
     for (const out of root.querySelectorAll<HTMLElement>(`[data-out="${key}"]`)) out.textContent = RANGES[key].fmt(v);
   }
+  for (const el of root.querySelectorAll<HTMLInputElement>('input[data-range="brightness"]')) el.disabled = S.brightnessAuto;
+  for (const el of root.querySelectorAll<HTMLInputElement>('input[data-field]')) {
+    const v = String(S[el.dataset.field as keyof Settings]);
+    if (el.value !== v) el.value = v;
+  }
+  for (const el of root.querySelectorAll<HTMLElement>('[data-show-if]')) el.hidden = !(el.dataset.showIf === 'nightSchedule' ? S.theme === 'auto' && S.nightSchedule : S.dayPreset === 'custom' || S.nightPreset === 'custom');
   for (const el of root.querySelectorAll<HTMLInputElement>('input[data-bool]')) el.checked = !!S[el.dataset.bool as keyof Settings];
   for (const box of root.querySelectorAll<HTMLElement>('[data-seg]')) {
     const cur = String(S[box.dataset.seg as keyof Settings]);
@@ -90,6 +106,7 @@ export function bindControls(root: HTMLElement): () => void {
   const onInput = (e: Event): void => {
     const t = e.target as HTMLInputElement;
     if (t.dataset?.range) set(t.dataset.range as RangeKey, t.value);
+    else if (t.dataset?.field && t.value) set(t.dataset.field as 'nightFrom', t.value);
   };
   const onChange2 = (e: Event): void => {
     const t = e.target as HTMLInputElement;

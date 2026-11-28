@@ -25,6 +25,7 @@ function fakePlayer() {
       resume: vi.fn(),
       pause: vi.fn(),
       gotoChapter: vi.fn(),
+      step: vi.fn(),
     },
   };
 }
@@ -85,10 +86,14 @@ describe('native media bridge', () => {
     handler({ action: 'play' });
     handler({ action: 'next' });
     handler({ action: 'previous' });
+    handler({ action: 'forward' });
+    handler({ action: 'rewind' });
     expect(f.p.pause).toHaveBeenCalled();
     expect(f.p.resume).toHaveBeenCalled();
     expect(f.p.gotoChapter).toHaveBeenCalledWith(5);
     expect(f.p.gotoChapter).toHaveBeenCalledWith(3);
+    expect(f.p.step).toHaveBeenCalledWith(1);
+    expect(f.p.step).toHaveBeenCalledWith(-1);
   });
 
   describe('battery hint', () => {

@@ -38,6 +38,7 @@ export const href = {
   search: (q?: string): string => `#/search${queryString({ q })}`,
   history: (): string => '#/history',
   bookmarks: (): string => '#/bookmarks',
+  follows: (): string => '#/follows',
 };
 
 /** Parses a location hash into a Route. Unknown or malformed hashes resolve to home. */
@@ -72,6 +73,7 @@ export function parseHash(hashIn: string): Route {
   if (head === 'search') return { view: 'search', ...base };
   if (head === 'history') return { view: 'history', ...base };
   if (head === 'bookmarks') return { view: 'bookmarks', ...base };
+  if (head === 'follows') return { view: 'follows', ...base };
   return home;
 }
 

@@ -193,6 +193,26 @@ export function toggleFollow(st: Pick<StoryDetail, 'source' | 'key' | 'name' | '
   return setFollow(st, on) ? on : !on;
 }
 
+export type FollowSort = 'updated' | 'recent' | 'name' | 'added';
+export const FOLLOW_SORTS: [FollowSort, string][] = [
+  ['updated', 'Chương mới'],
+  ['recent', 'Mới đọc'],
+  ['name', 'Tên A-Z'],
+  ['added', 'Mới thêm'],
+];
+export const isFollowSort = (v: unknown): v is FollowSort => FOLLOW_SORTS.some(([k]) => k === v);
+
+/** Sorts follows (a copy). `updated`/`lastRead` map "source|key" ids to an ISO date / timestamp; missing = oldest. */
+export function sortFollows(list: Follow[], sort: FollowSort, o: { updated?: Map<string, string>; lastRead?: Map<string, number> } = {}): Follow[] {
+  const id = (f: Follow): string => sKey(f.source, f.key);
+  const name = (a: Follow, b: Follow): number => a.name.localeCompare(b.name, 'vi', { numeric: true, sensitivity: 'base' });
+  const out = [...list];
+  if (sort === 'name') return out.sort(name);
+  if (sort === 'added') return out.sort((a, b) => (b.ts || 0) - (a.ts || 0) || name(a, b));
+  if (sort === 'recent') return out.sort((a, b) => (o.lastRead?.get(id(b)) ?? 0) - (o.lastRead?.get(id(a)) ?? 0) || (b.ts || 0) - (a.ts || 0));
+  return out.sort((a, b) => (o.updated?.get(id(b)) ?? '').localeCompare(o.updated?.get(id(a)) ?? '') || (b.ts || 0) - (a.ts || 0));
+}
+
 // ---------------------------------------------------------------- sync (see library-sync.ts)
 
 const isRec = (v: unknown): v is Record<string, unknown> => !!v && typeof v === 'object' && !Array.isArray(v);
@@ -278,4 +298,4 @@ export function init(): void {
   });
 }
 
-export const library = { init, onLocalChange, tombstone, tombstoneIds, libraryItems, applyRemote, history, removeHistory, clearHistory, bookmarks, findBookmark, addBookmark, removeBookmark, toggleBookmark, clearBookmarks, follows, isFollowed, setFollow, toggleFollow };
+export const library = { init, onLocalChange, tombstone, tombstoneIds, libraryItems, applyRemote, history, removeHistory, clearHistory, bookmarks, findBookmark, addBookmark, removeBookmark, toggleBookmark, clearBookmarks, follows, sortFollows, isFollowed, setFollow, toggleFollow };

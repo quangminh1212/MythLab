@@ -1,5 +1,6 @@
 /** The keyboard help of the reader ("?"). */
 import { html, type SafeHtml } from '../core/html';
+import { openCoach } from './coach';
 import { openDialog, type DialogHandle } from '../core/ui';
 
 const GROUPS: { title: string; keys: [string[], string][] }[] = [
@@ -12,6 +13,7 @@ const GROUPS: { title: string; keys: [string[], string][] }[] = [
       [['Home', 'End'], 'Đầu / cuối chương'],
       [['M'], 'Mở mục lục chương'],
       [['B'], 'Đánh dấu đoạn đang đọc'],
+      [['R'], 'Tải lại nội dung chương'],
       [['A'], 'Bật / tắt tự cuộn'],
       [['+', '−'], 'Tự cuộn nhanh hơn / chậm hơn'],
       [['Esc'], 'Dừng tự cuộn · hiện thanh điều khiển'],
@@ -49,6 +51,7 @@ function body(): SafeHtml {
           </dl>
         </section>`,
     )}
+    <button type="button" class="btn btn-sm rd-help-coach" data-help-coach>Xem lại hướng dẫn cử chỉ</button>
   </div>`;
 }
 
@@ -63,5 +66,9 @@ export function openHelp(): void {
     onClose: () => {
       open = null;
     },
+  });
+  open.body.querySelector('[data-help-coach]')?.addEventListener('click', () => {
+    open?.close();
+    setTimeout(() => openCoach({ paged: document.querySelector('#rd')?.getAttribute('data-mode') === 'page' }), 30);
   });
 }
